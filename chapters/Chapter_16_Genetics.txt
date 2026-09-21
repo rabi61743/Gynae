@@ -1,0 +1,1772 @@
+CHAPTER 16
+
+Genetics
+
+GENOMICS IN OBSTETRICS
+ABNORMALITIES OF CHROMOSOME NUMBER
+ABNORMALITIES OF CHROMOSOME STRUCTURE
+MOSAICISM
+MODES OF INHERITANCE
+CYTOGENETIC ANALYSIS
+CHROMOSOMAL MICROARRAY ANALYSIS
+WHOLE GENOME AND WHOLE EXOME SEQUENCING
+FETAL DNA IN THE MATERNAL CIRCULATION
+REFERENCES
+Genetics is the study of genes, heredity, and the variation of inherited
+characteristics. Medical genetics addresses the etiology and pathogenesis of
+human diseases that are at least partially genetic in origin, as well as their
+prediction and prevention. Whereas a gene is a specific sequence of
+deoxyribonucleic acid (DNA) on a single chromosome that codes for a
+particular protein, a genome is the entirety of all genes that make up an
+organism. Genomics is the study of how genes function and interact with one
+other. Chromosomal, mendelian, and nonmendelian genetic conditions are
+reviewed in this chapter. Prenatal and preimplantation genetic testing and
+
+newborn genetic screening are discussed in Chapters 17 and 32,
+respectively.
+Genetic disease is common. Two to 3 percent of newborns have a
+recognized structural abnormality, another 3 percent are diagnosed with an
+abnormality by age 5 years, and yet another 8 to 10 percent are found to have
+a functional or developmental abnormality before reaching adulthood.
+
+GENOMICS IN OBSTETRICS
+The Human Genome Project was an international research program that
+sequenced the 3 billion base pairs and more than 20,000 genes that make up
+the human genome. It paved the way for research into gene organization and
+function in an effort to understand the molecular basis of disease. More than
+99 percent of our DNA is identical. The coding regions of DNA—exons—
+constitute only 1.5 percent of the genome. An exome is the entirety of all the
+exons that an organism contains. Introns are DNA sequences involved in
+coding regulation and make up 24 percent of the genome. Intergenic DNA
+composes the remainder.
+Our genetic code varies once every 200 to 500 base pairs, usually as a
+single-nucleotide polymorphism (SNP). Thus, whole genome sequencing and
+whole exome sequencing, described later (p. 327), hold tremendous potential
+to further elucidate genetic variants in disease.
+Toward this goal, genetic and genomic databases are maintained by the
+National Center for Biotechnology Information (2021). These are freely
+accessible and can be indispensable to providers who offer counseling and
+testing for genetic conditions. The GeneReviews database has in-depth
+clinical information for more than 800 genetic conditions, including
+diagnostic criteria and management considerations. The Genetic Testing
+Registry (GTR) database contains information for nearly 80,000 genetic tests
+and instructions for specimen collection and transport to individual
+laboratories throughout the world (National Center for Biotechnology
+Information, 2021). The National Library of Medicine (2021) has also
+established a genetic information database, the MedlinePlus Genetics, which
+is intended for the lay population. It provides explanations of more than 1300
+genetic conditions, a glossary of genetic concepts, and links to more
+comprehensive medical resources.
+
+CHROMOSOMAL ABNORMALITIES
+Chromosomal abnormalities figure prominently in genetic disease. They
+account for >50 percent of first-trimester miscarriages, approximately 20
+percent of second-trimester losses, and 6 to 8 percent of stillbirths and earlychildhood deaths (Reddy, 2012; Stevenson, 2004; Wou, 2016). Based on data
+from population-based registries, chromosomal abnormalities are identified
+in 0.4 percent of recognized pregnancies (Wellesley, 2012). Most of these
+are aneuploidies. Trisomy 21 accounts for >50 percent, trisomy 18 for nearly
+15 percent, and trisomy 13 for 5 percent of cases (Fig. 16-1). If no
+karyotypic abnormality is identified in a fetus with a structural anomaly,
+additional testing with chromosomal microarray analysis is anticipated to
+detect a chromosomal deletion or duplication—a copy number variant—in
+approximately 6.5 percent of cases (American College of Obstetricians and
+Gynecologists, 2020c).
+
+FIGURE 16-1 Prevalence and relative proportion of selected chromosomal abnormalities from
+EUROCAT (European Surveillance of Congenital Anomalies) population-based registries that included
+>10,000 aneuploid live births, fetal deaths, and pregnancy terminations, 2000–2006.
+
+■ Standard Nomenclature
+Chromosomal abnormalities are described using the International System for
+Human Cytogenomic Nomenclature (McGowan-Jordan, 2020).
+Abnormalities fall into two broad categories: abnormal chromosome
+number, such as trisomy, and abnormal chromosome structure, such as a
+DNA segment deletion or duplication. Each chromosome has a short arm,
+termed the “p” or petit arm, and a long arm, known as the “q” arm, selected
+because it is the next letter in the alphabet. The two arms are separated by the
+centromere.
+When reporting a karyotype, the total number of chromosomes is listed
+first, corresponding to the number of centromeres. This is followed by the
+sex chromosomes, XX or XY, and then by a description of any structural
+variation. Specific chromosomal abnormalities are indicated by standard
+abbreviations, such as del (deletion), inv (inversion), and t (translocation).
+The affected region or bands of the arms are then reported, so that the reader
+will know the exact location. Examples are shown in Table 16-1.
+TABLE 16-1. Examples of Karyotype Designations Using the 2020
+International System for Human Cytogenomic Nomenclature
+
+Nomenclature is similar for fluorescence in situ hybridization (FISH), a
+technique used to rapidly identify a specific chromosome abnormality (p.
+325). The abbreviation ish applies when in situ hybridization is performed
+on metaphase cells and nuc ish when performed on interphase nuclei. If the
+result is normal, ish is followed by the probe’s specific chromosomal region,
+such as 22q11.2, and then the name of the probe and the number of signals
+visualized—for example, HIRAx2. If a deletion is identified, del is included
+before the chromosomal region, and the name of the probe is followed by a
+minus sign (HIRA–), as shown in Table 16-1. The 22q11.2 deletion
+syndrome is discussed later (p. 315).
+For chromosomal microarray analysis (CMA), the designation begins
+with the abbreviation arr (p. 348). This is followed by the version of the
+genome build to which the nucleotide designations are aligned, such as
+GRCh38 for Genome Reference Consortium human build 38. Next, the
+number of the chromosome containing the abnormality is listed, followed by
+
+the p or q arm, and then the specific bands in question. CMA reports also
+include the affected base pair coordinates and thus convey the exact size and
+location for every abnormality identified (see Table 16-1). The information
+is reported in the same way whether the alteration is pathogenic or is of
+uncertain clinical significance.
+
+■ Abnormalities of Chromosome Number
+The most easily recognized chromosomal abnormalities are numerical.
+Aneuploidy is the inheritance of either an extra chromosome—resulting in
+trisomy, or loss of a chromosome—monosomy. This differs from polyploidy,
+which is an abnormal number of whole haploid chromosome sets. For
+example, triploidy has 69 chromosomes. The estimated incidence of various
+numerical chromosomal abnormalities is shown in Figure 16-1 (Wellesley,
+2012).
+
+Autosomal Trisomies
+Trisomy usually results from nondisjunction, which is the failure of normal
+chromosomal pairing and separation during meiosis. Nondisjunction may
+occur if the chromosomes: (1) fail to pair up, (2) pair up properly but
+separate prematurely, or (3) fail to separate. Although each chromosome pair
+is equally likely to have a segregation error, trisomies other than 21, 18, or
+13 rarely result in term pregnancies. Each of these autosomal trisomies has a
+spectrum of phenotypic severity. Some fetuses come to attention earlier in a
+pregnancy due to multiple major organ abnormalities or hydrops fetalis (p.
+328). Others have more subtle findings or are detected only through prenatal
+screening tests (Chap. 17, p. 337). Survival data are based on cases with
+better prognosis, and this factors into counseling.
+The likelihood that a pregnancy will be complicated by an autosomal
+trisomy rises steeply with maternal age and particularly after age 35 (Fig.
+16-2) (Mai, 2013). From birth until ovulation, oocytes are suspended in
+midprophase of meiosis I. If nondisjunction occurs after completion of
+meiosis, one gamete will have two copies of the affected chromosome,
+which leads to trisomy if fertilized. The other gamete, receiving no copy of
+the affected chromosome, is nullisomic and will be monosomic if fertilized.
+It is estimated that 10 to 20 percent of oocytes are aneuploid secondary to
+meiotic errors compared with 3 to 4 percent of sperm. After a pregnancy
+
+with an autosomal trisomy, the risk for any autosomal trisomy in a future
+pregnancy approximates 1 percent until the woman’s age-related risk exceeds
+this. Screening and prenatal diagnosis of autosomal trisomies are discussed
+in Chapter 17 (p. 333). Parental chromosomal studies are not indicated
+unless the abnormality was caused by an unbalanced translocation or other
+structural rearrangement (p. 315).
+
+FIGURE 16-2 Prevalence of autosomal trisomies according to maternal age found in population-based
+birth defect surveillance programs in the United States, 2006–2010.
+
+Trisomy 21—Down Syndrome. In 1866, J. L. H. Down described a group of
+intellectually disabled children with distinctive physical features. Nearly
+100 years later, Lejeune (1959) demonstrated that Down syndrome stems
+from an autosomal trisomy (Fig. 16-3). Trisomy 21 causes 95 percent of
+Down syndrome cases. The nondisjunction event occurs during meiosis I in
+approximately 75 percent of cases and in meiosis II in the remainder.
+Because chromosome 21 is acrocentric, a robertsonian translocation (p. 315)
+may occur, and this accounts for 3 to 4 percent of Down syndrome births. The
+remaining 1 to 2 percent are caused by isochromosome 21 or mosaicism for
+chromosome 21 (p. 317).
+
+FIGURE 16-3 Male karyotype with trisomy 21 (47,XY,+21), consistent with Down syndrome.
+(Reproduced with permission from Dr. Prasad Koduru.)
+
+Down syndrome is the most common nonlethal trisomy. It is identified in
+approximately 1 in 450 pregnancies (Loane, 2013). In the United States, fetal
+losses and pregnancy terminations yield an estimated prevalence of 1 case
+per 740 live births (Mai, 2013; Parker, 2010). The fetal death rate beyond 20
+weeks’ gestation approximates 5 percent. Coinciding with the rise in overall
+number of pregnancies in women aged 35 years and older, the proportion of
+pregnancies with Down syndrome has increased approximately 33 percent
+during the past four decades (Loane, 2013; Parker, 2010; Shin, 2009). Most
+Down syndrome births at Parkland Hospital now occur in women in this age
+group (Hussamy, 2019).
+If major anomalies and minor aneuploidy markers are considered, 50 to
+75 percent of pregnancies affected by Down syndrome are found to have a
+sonographic abnormality (Chap. 17, p. 340) (American College of
+Obstetricians and Gynecologists, 2020d; Hussamy, 2019). A major structural
+malformation is detected in the second trimester in approximately one third
+of cases. The most prevalent anomalies in affected children are cardiac and
+gastrointestinal. Cardiac abnormalities occur in approximately 50 percent,
+
+particularly endocardial cushion defects and ventricular septal defects (Figs.
+15-39A and 15-39B, p. 291) (Bergstrom, 2016; Freeman, 2008; Stoll, 2015).
+Gastrointestinal abnormalities are identified in 6 to 12 percent and include
+esophageal atresia, duodenal atresia, and Hirschsprung disease (Fig. 15-48,
+p. 296) (Bull, 2011; Stoll, 2015).
+Other health problems are also common with Down syndrome. These
+include hearing loss in 75 percent, optical refractive errors in 50 percent,
+cataracts in 15 percent, obstructive sleep apnea in 60 percent, thyroid
+disease in 15 percent, transient myeloproliferative disorder in 10 percent of
+newborns, early-onset Alzheimer’s disease in 70 percent of adults, and a
+higher incidence of leukemia (Bull, 2011; Hartley, 2015). Women with Down
+syndrome are fertile, and nearly one third of their offspring will have Down
+syndrome. Males with Down syndrome have markedly reduced
+spermatogenesis and are almost always sterile. The average intelligence
+quotient (IQ) score is 35 to 70. Social skills in affected children are usually
+higher than predicted by their IQ scores.
+Characteristic features of Down syndrome are shown in Figure 16-4.
+Typical findings include brachycephaly; epicanthal folds and up-slanting
+palpebral fissures; Brushfield spots, which are whitish spots on the
+periphery of the iris; a flat nasal bridge; and hypotonia. Infants often have
+loose skin at the nape of the neck, a prominent space or “sandal-gap”
+between the first and second toes, short fingers, a single palmar crease, and
+clinodactyly of the fifth digit, in which hypoplasia of the middle phalanx
+causes inward curvature. Discussed in Chapter 17, some of these findings are
+seen during prenatal ultrasound examination.
+
+FIGURE 16-4 Newborn with Down syndrome, karyotype 47,XX,+21 (trisomy 21). A. Characteristic
+facial features include epicanthal folds and a flattened nasal bridge. B. The hand has a single palmar
+
+crease (arrow) and hypoplasia of the middle phalanx of the fifth digit (arrowhead). C. The “sandal
+gap” between the first and second toes is also known as hallux varus. (Reproduced with permission
+from Dr. Aldeboran N. Rodriguez.)
+
+Data suggest that approximately 95 percent of liveborn infants with
+Down syndrome survive the first year. The 10-year survival rate is at least
+90 percent overall and is 99 percent if major malformations are absent
+(Rankin, 2012; Vendola, 2010). Average life expectancy is 55 to 60 years.
+Several organizations offer education and support for prospective parents
+faced with prenatal diagnosis of Down syndrome. These include the March
+of Dimes, National Down Syndrome Congress (www.ndsccenter.org), and
+National Down Syndrome Society (www.ndss.org).
+Trisomy 18—Edwards Syndrome. The association between this constellation
+of abnormalities and an autosomal trisomy was first described by Edwards
+(1960). In population-based series of abortuses, stillbirths, and live births,
+trisomy 18 approximates 1 per 2000 recognized pregnancies (Goel, 2019;
+Loane, 2013; Parker, 2010). High in-utero lethality and termination of many
+affected pregnancies explains a live birth prevalence of just 1 per 6600 to
+10,000. Unlike Down syndrome and Patau syndrome, which may result from
+a robertsonian translocation because they involve acrocentric chromosomes,
+Edwards syndrome uncommonly stems from a chromosomal rearrangement.
+Virtually every organ can be affected by trisomy 18. Common major
+anomalies include heart defects in more than 90 percent, particularly
+ventricular septal defects. Cerebellar vermian agenesis, myelomeningocele,
+diaphragmatic hernia, omphalocele, imperforate anus, and renal anomalies
+such as horseshoe kidney are others (Rosa, 2011; Springett, 2015; Watson,
+2008). Sonographic images of these abnormalities are shown in Chapter 15.
+Frequent cranial and extremity abnormalities in affected fetuses include a
+“strawberry-shaped” cranium, abnormally wide cavum septum pellucidum,
+choroid plexus cysts, micrognathia, clenched hands with overlapping digits,
+radial aplasia with hyperflexed wrists, and rockerbottom or clubbed feet
+(Fig. 16-5) (Abele, 2013). Importantly, choroid plexus cysts only raise the
+risk for trisomy 18 in the setting of other risk factors, such as fetal structural
+abnormalities or an abnormal aneuploidy screening test result (Reddy, 2014).
+
+FIGURE 16-5 Trisomy 18—Edwards Syndrome. A. This transventricular sonographic view shows
+fetal choroid plexus cysts and an angulated “strawberry-shaped” skull. B. Radial clubhand is manifested
+as a single forearm bone (radius), with the hands in a fixed, hyperflexed position at right angles to the
+forearms. C. This three-dimensional (3-D) sonographic image shows the characteristic hand position of
+clenched fist with overlapping digits. D. 3-D sonographic image displays a rockerbottom foot (vertical
+talus).
+
+Pregnancies with trisomy 18 that reach the third trimester often develop
+fetal-growth restriction, and the mean birthweight is <2500 g (Lin, 2006;
+Rosa, 2011). When undiagnosed, trisomy 18 has resulted in emergency
+cesarean for “fetal distress” in nearly 50 percent of cases (Schneider, 1981;
+Houlihan, 2013). Mode of delivery and management of heart rate
+abnormalities should be discussed in advance. Discussed in Chapter 35 (p.
+628), perinatal palliative care consultation should be offered (American
+College of Obstetricians and Gynecologists, 2019).
+
+In the National Birth Defects Prevention Study, median neonatal survival
+with trisomy 18 was 8 days, and the 5-year survival rate was 12 percent
+(Meyer, 2016). Not unexpectedly, major anomalies lower survival rates.
+Data from the Society of Thoracic Surgeons indicate that infants with trisomy
+18 who undergo cardiac surgery have mortality rates 3 to 5 times higher than
+those without trisomy 18 (Cooper, 2019). Thus, among the minority with
+trisomy 18 who survive until birth, the condition is severely life limiting.
+Trisomy 13—Patau Syndrome. This constellation of fetal abnormalities and
+their association with an autosomal trisomy was first described by Patau and
+colleagues (1960). The incidence of trisomy 13 approximates 1 case in 5000
+recognized pregnancies, which includes abortuses and stillbirths. Most
+affected fetuses are lost or terminated. The live birth prevalence is 1 per
+12,000 to 18,000 (Goel, 2019; Loane, 2013; Parker, 2010).
+At least 80 percent of pregnancies with Patau syndrome result from
+trisomy 13. With rare exception, the remainder are caused by a robertsonian
+translocation involving chromosome 13. The most common translocation
+involves chromosomes 13 and 14, der(13;14)(q10;q10), which is carried by
+approximately 1 in 1300 phenotypically normal individuals. Among
+translocation carriers, fewer than 2 percent give birth to a live infant with
+Patau syndrome.
+Trisomy 13 may be associated with abnormalities of any organ system.
+Abnormalities of the brain, heart, kidneys, and extremities are the most
+frequent. Holoprosencephaly, usually the alobar type, is present in two thirds
+of cases and often is accompanied by severe facial abnormalities (Fig. 1513, p. 279). These may include hypotelorism or cyclopia, microphthalmia,
+and nasal abnormalities that range from a single nostril to a proboscis.
+Cardiac defects are found in up to 90 percent (Shipp, 2002). Other
+abnormalities that suggest trisomy 13 include cephalocele, microcephaly,
+omphalocele, cystic renal dysplasia, polydactyly, rockerbottom feet, aplasia
+cutis, and cleft lip-palate, which may be median (Lin, 2007; Springett, 2015).
+Sonographic images of several of these are shown in Chapter 15. Affected
+fetuses often also have bilateral echogenic intracardiac foci. For the fetus or
+newborn with a cephalocele, cystic kidneys, and polydactyly, the differential
+diagnosis includes trisomy 13 and the autosomal-recessive Meckel–Gruber
+syndrome.
+
+Trisomy 13 is life limiting, even more so than trisomy 18 (Domingo,
+2019). In the National Birth Defects Prevention Study, median survival of
+neonates with trisomy 13 was 5 days, and the 5-year survival rate was below
+10 percent (Meyer, 2016). Occasionally children with trisomy 13 have been
+candidates for palliative surgical procedures. Most of these have a milder
+phenotype that lacks brain, cardiac, gastrointestinal, or genitourinary
+abnormalities (Nelson, 2016). Counseling regarding prenatal diagnosis and
+management options is similar to that described for trisomy 18.
+Unlike other aneuploidies, fetal trisomy 13 confers risk to the pregnant
+woman. Continuing pregnancies have at least a 25-percent risk for
+hypertensive complications (Dotters-Katz, 2018; Tuohy, 1992). The risk for
+preeclampsia with severe features is increased more than tenfold and often
+develops prior to 32 weeks’ gestation. Chromosome 13 contains the gene for
+soluble fms-like tyrosine kinase-1 (sFlt-1), which is an antiangiogenic
+protein associated with preeclampsia (Chap. 40, p. 694). Investigators have
+documented overexpression of the sFlt-1 protein by trisomic 13 placentas
+and in serum of women with preeclampsia (Bdolah, 2006; Silasi, 2011).
+Other Trisomies. Live births are extremely rare with any other autosomal
+trisomy. Trisomy 22 has been described in case reports and series (Heinrich,
+2013; Kehinde, 2014). Affected fetuses have severe growth restriction,
+microcephaly with an abnormal-shaped cranium, midface hypoplasia, and
+cardiac and genitourinary abnormalities. Trisomy 16 is the most prevalent
+trisomy among first-trimester losses, accounting for 16 percent. Trisomies 21
+and 22 are also common among first trimester losses. Trisomy 1 has never
+been reported.
+
+Monosomy
+Nondisjunction creates an equal number of nullisomic and disomic gametes.
+As a rule, missing chromosomal material is more devastating than extra
+chromosomal material, and almost all monosomic conceptuses are lost
+before implantation. The one exception is monosomy for the X chromosome
+(45,X), Turner syndrome, which is discussed subsequently. Unlike autosomal
+trisomies, which increase in incidence with maternal age, monosomy and
+maternal age lack an association.
+
+Polyploidy
+
+This is defined as more than two complete haploid chromosomal sets.
+Polyploidy accounts for approximately 20 percent of spontaneous abortions
+but is rarely found later in gestation.
+Triploid pregnancies have three haploid sets, 69 chromosomes. If extra
+set of chromosomes is paternal, the result is diandric triploidy, and if
+maternal, digynic triploidy, relevant because the phenotype reflects the
+parent of origin. This is an example of imprinting (p. 322). Diandric or type
+I triploidy occurs after fertilization of one egg by two sperm or by one
+abnormal diploid sperm. Diandric triploidy produces a partial molar
+pregnancy, discussed in Chapter 13 (p. 237). With digynic or type II
+triploidy, the extra chromosomal set is maternal, and the egg fails to undergo
+the first or second meiotic division before fertilization. Digynic triploid
+placentas do not develop molar changes. However, the fetus usually
+develops asymmetrical growth restriction. Although diandric triploidy
+accounts for the majority of triploid conceptions, the early loss rate is so high
+that two thirds of triploid pregnancies identified beyond the first trimester
+are digynic ( Jauniaux, 1999).
+Triploidy is recognized in 1 per 5000 pregnancies (Zalel, 2016). It is
+considered lethal, and fetuses with either the diandric or digynic form
+typically have multiple structural anomalies. The brain, heart, kidneys, and
+extremities are commonly affected (Massalska, 2017; Zalel, 2016).
+Counseling, prenatal diagnosis, and delivery management are similar to those
+for trisomies 18 and 13. The recurrence risk for a woman whose triploid
+fetus survived past the first trimester is 1 to 1.5 percent, and thus prenatal
+diagnosis is offered in future pregnancies.
+Tetraploid pregnancies have four haploid sets of chromosomes, resulting
+in either 92,XXXX or 92,XXYY. This suggests a postzygotic failure to
+complete an early cleavage division. The conceptus invariably succumbs,
+and the recurrence risk is minimal.
+
+Sex Chromosome Abnormalities
+45,X—Turner Syndrome. First described by Turner (1938), this syndrome
+later was found to be caused by monosomy X (Ford, 1959). The birth
+prevalence of Turner syndrome is approximately 1 in 2500 girls (Cragan,
+2009; Dolk, 2010). The missing X chromosome is paternally derived in 80
+percent of cases (Cockwell, 1991; Hassold, 1990).
+
+Turner syndrome is the only monosomy compatible with life, but it is also
+the most common aneuploidy in first-trimester losses, accounting for 20
+percent. This is explained by its wide range in phenotype. Approximately 98
+percent of affected conceptuses are so abnormal that they abort early in the
+first trimester. Of the remainder, many manifest large, septated cystic
+hygromas in the late first or early second trimester, often in the setting of
+edema that progresses to hydrops fetalis. When cystic hygromas are
+accompanied by hydrops, the prognosis is extremely poor (Chap. 15, p. 286).
+Fewer than 1 percent of pregnancies with Turner syndrome result in a
+liveborn neonate. Of these, only half are actually monosomy X—
+approximately a fourth have mosaicism for monosomy X, such as
+45,X/46,XX or 45,X/46,XY, and another 15 percent have isochromosome X.
+It is thought that surviving individuals with 45,X may have had the benefit of
+“rescue” by an additional cell line containing 46,XX during critical phases
+of development that was subsequently lost (Hook, 2014).
+Abnormalities associated with Turner syndrome include left-sided
+cardiac defects—such as coarctation of the aorta, hypoplastic left heart
+syndrome, or bicuspid aortic valve—in 30 to 50 percent; renal anomalies,
+particularly horseshoe kidney; and hypothyroidism. Other features are short
+stature, broad chest with widely spaced nipples, congenital lymphedema—
+puffiness over the dorsum of hands and feet, and a “webbed” posterior neck
+resulting from cystic hygromas. Intelligence scores are generally in the
+normal range, but there may be impairments in visual-spatial organization,
+nonverbal problem solving, and interpretation of social cues. A consensus
+guideline is available that addresses screening and treatment for the range of
+health problems affected individuals face (Graveholt, 2017). Growth
+hormone is typically administered in childhood to ameliorate short stature.
+More than 90 percent have ovarian dysgenesis and require estrogen repletion
+at puberty. An exception is mosaicism involving the Y chromosome, as this
+confers risk for germ cell neoplasm—regardless of whether the child is
+phenotypically male or female. Accordingly, eventual prophylactic bilateral
+gonadectomy is indicated (Cools, 2011; Schorge, 2020).
+47,XXX. Approximately 1 in 1000 female newborns has an additional X
+chromosome—47,XXX (Berglund, 2020). The extra X is maternally derived
+in more than 90 percent of cases. The prevalence of 47,XXX is weakly
+associated with maternal age, and cell-free DNA screening has resulted in
+
+increased diagnoses. No specific pattern of malformations has been
+described, but genitourinary problems and seizure disorders are more
+common (Wigby, 2016). Affected infants do not have a characteristic
+appearance. When children do come to attention, features may include tall
+stature, hypertelorism, epicanthal folds, kyphoscoliosis, clinodactyly, and
+hypotonia (Tartaglia, 2010; Wigby, 2016). More than one third are diagnosed
+with a learning disability, half have attention deficit disorder, and overall
+cognitive scores are in the low-average range. Pubertal development is
+unaffected. Primary ovarian insufficiency has been reported. In the absence
+of prenatal diagnosis, it is estimated that 47,XXX is ascertained in only 10
+percent of affected children (Tartalgia, 2010).
+Females with two or more extra X chromosomes—48,XXXX or
+49,XXXXX—are likely to have physical abnormalities apparent at birth.
+These abnormal X complements are associated with intellectual disability.
+For both males and females, the IQ score is lower with each additional X
+chromosome.
+47,XXY—Klinefelter Syndrome. This is the most common sex chromosome
+abnormality. It occurs in approximately 1 in 700 male infants (Radicioni,
+2010). The additional X chromosome is maternally or paternally derived
+with equal propensity (Jacobs, 1995; Lowe, 2001). There is a weak
+association with advanced maternal and paternal age.
+Like 47,XXX, newborns with 47,XXY usually appear phenotypically
+normal and do not have a higher incidence of anomalies. As children, boys
+are typically taller than average and have normal prepubertal development.
+However, they have gonadal dysgenesis, do not undergo normal virilization,
+and require testosterone supplementation. They may develop gynecomastia.
+IQ scores usually lie in the average to low-average range, with increased
+rates of delayed language development (Boada, 2009; Girardin, 2011).
+Initiation of hormone replacement was previously recommended to begin in
+adolescence. However, more recent research suggests that therapy earlier in
+childhood results in improved working memory and executive functioning
+and a decrease in anxiety disorders (Samango-Sprouse 2019; Tran, 2019).
+47,XYY. This aneuploidy occurs in approximately 1 in 1000 male newborns
+(Berglund, 2020). As with 47,XXX and XXY individuals, affected boys tend
+to be tall. A third have macrocephaly, nearly two thirds demonstrate
+
+hypotonia, and tremors are common (Bardsley, 2013). Rates of major
+anomalies are not elevated, although hypertelorism and clinodactyly may be
+identified in more than half. Pubertal development is normal, and fertility is
+unimpaired. Affected individuals do have increased rates of oral and written
+language impairments, attention deficit disorder, developmental delays, and
+autism spectrum disorder (Bardsley, 2013; Joseph, 2018).
+Males with more than two Y chromosomes—48,XYYY—or with both
+additional X and Y chromosomes—48,XXYY or 49,XXXYY—are more
+likely to have congenital abnormalities, medical problems, and intellectual
+disability (Tartaglia, 2011).
+
+■ Abnormalities of Chromosome Structure
+Structural chromosomal abnormalities include deletions, duplications,
+translocations, isochromosomes, inversions, ring chromosomes, and
+mosaicism (see Table 16-1). Identification of a structural chromosomal
+abnormality in offspring raises two primary questions. First, what phenotypic
+or later developmental abnormalities are associated with the finding?
+Second, is parental karyotype evaluation indicated? In other words, are the
+parents at increased risk of carrying this abnormality, and if so, what is their
+risk of having future affected offspring?
+
+Deletions and Duplications
+A chromosome with a deletion has a stretch of DNA that is missing, whereas
+one with a duplication has a region that is included twice. Most deletions and
+duplications occur during meiosis and result from malalignment or
+mismatching during the pairing of homologous chromosomes. The misaligned
+segment may then be deleted, or if the mismatch remains when the two
+chromosomes recombine, it may result in a deletion in one chromosome and
+duplication in the other (Fig. 16-6). When a deletion or duplication is
+identified in a fetus or infant, parental karyotyping should be offered, because
+if either parent carries a balanced translocation, the recurrence risk in
+subsequent pregnancies is significantly increased. Deletions involving DNA
+segments large enough to be seen with standard cytogenetic karyotyping are
+identified in approximately 1 in 7000 births. Common deletions may be
+referred to by eponyms—for example, del 5p is called cri du chat syndrome.
+
+FIGURE 16-6 A mismatch during pairing of homologous chromosomes may lead to a deletion in one
+chromosome and a duplication in the other. Del = deletion; Dupl = duplication.
+
+Microdeletions and Microduplications. When a deletion or duplication is
+smaller than 3 to 5 million base pairs, it is too small to be detected with a
+standard karyotype analysis. CMA permits identification of these
+microdeletions and microduplications (p. 325). When CMA is used, the
+region of DNA that is missing or duplicated is termed a genomic copy
+number variant. A microdeletion or duplication may involve a stretch of
+DNA that contains multiple genes. This causes a contiguous gene syndrome,
+which can encompass serious but unrelated phenotypic abnormalities
+(Schmickel, 1986). In some cases, a microduplication may involve the exact
+DNA region that causes a recognized microdeletion syndrome (Table 16-2).
+When a specific microdeletion syndrome is suspected clinically, it is
+confirmed using either CMA or FISH.
+TABLE 16-2. Selected Microdeletion Syndromes
+
+22q11.2 Microdeletion Syndrome. This syndrome is also known as
+DiGeorge syndrome, Shprintzen syndrome, and velocardiofacial syndrome. It
+is the most common microdeletion, with a prevalence of 1 case in 3000 to
+6000 births. Inheritance is autosomal dominant—offspring of affected
+individuals have a 50-percent chance of inheriting the syndrome. However,
+more than 90 percent of cases arise from a de-novo mutation. The full
+deletion contains 3 million base pairs, encompasses 40 genes, and includes
+180 different features (Shprintzen, 2008). This is emblematic of a contiguous
+gene syndrome and poses counseling challenges because features can vary
+widely, even among family members. With prenatal diagnosis of an affected
+fetus, genetic testing is offered to the pregnant patient and her partner.
+
+Approximately 75 percent of affected individuals have an associated
+conotruncal cardiac anomaly, such as tetralogy of Fallot, truncus arteriosus,
+interrupted aortic arch, or ventricular septal defect (McDonald-McGinn,
+2015). Immune deficiency, such as T-cell lymphopenia, also develops in 75
+percent. More than 70 percent have velopharyngeal insufficiency or cleft
+palate. Characteristic facial features include short palpebral fissures,
+bulbous nasal tip, micrognathia, short philtrum, and small or posteriorly
+rotated ears. Learning disabilities, autism spectrum disorder, and intellectual
+disability also are common. Other manifestations include hypocalcemia,
+renal anomalies, esophageal dysmotility, hearing loss, behavioral disorders,
+and psychiatric illness, particularly schizophrenia.
+
+Chromosomal Translocations
+These are DNA rearrangements in which a DNA segment breaks away from
+one chromosome and attaches to another. The rearranged chromosomes are
+called derivative (der) chromosomes. The two types are reciprocal and
+robertsonian translocations.
+Reciprocal Translocations. A double-segment or reciprocal translocation
+results when breaks occur in two different chromosomes and the broken
+fragments are exchanged. Each affected chromosome receives a fragment of
+the other. If no chromosomal material is gained or lost, the translocation is
+considered balanced. The prevalence of reciprocal translocations
+approximates 1 in 600 births.
+The carrier of a balanced translocation will usually have a normal
+phenotype. However, repositioning of specific genes within chromosomal
+segments may cause major structural or developmental abnormalities in
+approximately 6 percent of apparently balanced translocation carriers. Using
+CMA technology, up to 20 percent of individuals who appear to have a
+balanced translocation are found instead to have missing or redundant DNA
+segments (Manning, 2010).
+Balanced translocation carriers are at risk to produce unbalanced
+gametes, resulting in abnormal offspring. As shown in Figure 16-7, if an
+oocyte or sperm contains a translocated chromosome, fertilization results in
+an unbalanced translocation—monosomy for part of one affected
+chromosome and trisomy for part of the other. In general, translocation
+carriers identified after the birth of an abnormal child have a 5- to 30-percent
+
+risk of producing liveborn offspring with an unbalanced translocation.
+Carriers identified for other reasons, for example, during an infertility
+evaluation, have only a 5-percent risk. This risk is lower because gametes
+are so abnormal that conceptions are nonviable.
+
+FIGURE 16-7 A carrier of a balanced translocation may produce offspring who are also carriers of
+the balanced rearrangement (B), offspring with unbalanced translocations (C, D), or offspring with
+normal chromosomal complements (A).
+
+Robertsonian Translocations. These involve only the acrocentric
+chromosomes—13, 14, 15, 21, and 22. Acrocentric chromosomes have
+extremely short p arms, and the p arms contain redundant copies of genes
+coding for ribosomal RNA. In a robertsonian translocation, the q arms of two
+acrocentric chromosomes fuse at one centromere to form a derivative
+chromosome, and the other centromere and both p arms are lost. The lost
+DNA is present in multiple copies on other acrocentric chromosomes, and
+thus the translocation carrier is usually phenotypically normal. Because the
+number of centromeres determines the chromosome count, a robertsonian
+translocation carrier has only 45 chromosomes.
+
+Balanced robertsonian carriers have reproductive difficulties. During
+fertilization, if the derivative chromosome pairs with a normal haploid
+chromosome, the resulting offspring will have trisomy. If the fused
+chromosomes are homologous, that is, from the same chromosome pair, the
+carrier can produce only unbalanced gametes. Each egg or sperm contains
+either both copies of the translocated chromosome, which would result in
+trisomy if fertilized, or no copy, which would result in monosomy. If the
+fused chromosomes are nonhomologous, four of the six possible gametes
+would be abnormal.
+Robertsonian translocations are found in 1 in 1000 individuals. The risk
+to have an abnormal offspring approximates 15 percent if a robertsonian
+translocation is carried by the mother and 2 percent if carried by the father.
+However, robertsonian translocations are not a major cause of miscarriage
+and are identified in fewer than 5 percent of couples evaluated for recurrent
+pregnancy loss. If a fetus or child is found to have a translocation trisomy,
+both parents should be offered karyotype analysis. If neither parent is a
+carrier, the recurrence risk is extremely low. The most common robertsonian
+translocation is der(13;14)(q10;q10), which accounts for up to 20 percent of
+cases of Patau syndrome (p. 313).
+
+Isochromosomes
+When either two p arms or two q arms from the same chromosome fuse
+together, an isochromosome results. This may occur if the centromere breaks
+transversely instead of longitudinally during meiosis II or mitosis.
+Alternately, an isochromosome can result from a meiotic error in a
+chromosome with a robertsonian translocation. If the isochromosome is
+acrocentric, it is composed of two q arms and will behave like a homologous
+robertsonian translocation. Such a carrier is phenotypically normal but can
+produce only abnormal, unbalanced gametes. If the isochromosome is
+nonacrocentric, it may be composed of either two p arms or two q arms.
+Functionally this results in trisomy of the genes on the arms that are present
+and monosomy of the genes on the arms that are lost. Thus, the carrier is
+usually phenotypically abnormal and produces abnormal gametes. The most
+common isochromosome involves the long arm of the X chromosome, i(Xq),
+which is the etiology of 15 percent of cases of Turner syndrome.
+
+Chromosomal Inversions
+When the same chromosome breaks in two places, the intervening genetic
+material may invert before the breaks are repaired. Although no genetic
+material is lost or duplicated, an inversion may alter gene function. There are
+two types—pericentric and paracentric inversions.
+Pericentric Inversion. This results from breaks in both the p and q arms of a
+chromosome, such that the inverted material spans the centromere (Fig. 168). A pericentric inversion causes problems in chromosomal alignment
+during meiosis and confers significant risk for the carrier to produce
+abnormal gametes and abnormal offspring. The observed risk of abnormal
+offspring is 5 to 10 percent if ascertainment is made after the birth of an
+abnormal child. The risk is only 1 to 3 percent if prompted by another
+indication. An important exception is inv(9)(p11q12), a pericentric inversion
+on chromosome 9 that is a normal variant and present in approximately 1
+percent of the population.
+
+FIGURE 16-8 Pericentric inversion involves the centromere, whereas paracentric inversion does not.
+Individuals with pericentric inversions are at risk to have offspring with a duplication/deletion. Those
+with paracentric inversions are at increased risk for early pregnancy loss.
+
+Paracentric Inversion. If one arm of a chromosome suffers the two breaks, the
+inverted material does not include the centromere, and the inversion is
+
+paracentric (see Fig. 16-8). The carrier makes either normal balanced
+gametes or gametes that are so abnormal as to preclude fertilization. Thus,
+although infertility may be a problem, the risk of having an abnormal
+offspring is extremely low.
+
+Ring Chromosome
+If a deletion occurs at each end of the same chromosome, the ends may come
+together to form a ring chromosome. The telomere regions at the ends of each
+chromosome contain redundant nucleoprotein complexes that stabilize the
+chromosome. If only the telomeres are lost, all necessary genetic material is
+retained, and the carrier is balanced. If a deletion extends more proximally
+than the telomere, the carrier is likely to be phenotypically abnormal. An
+example of this is the ring X chromosome, which may result in Turner
+syndrome.
+
+■ Mosaicism
+A mosaic individual has two or more cytogenetically distinct cell lines that
+are derived from a single zygote. Phenotypic expression of mosaicism
+depends on several factors, including whether the cytogenetically abnormal
+cells involve the fetus, part of the fetus, just the placenta, or some
+combination. Mosaicism is found in approximately 0.3 percent of amnionic
+fluid cultures (Carey, 2014). When abnormal cells are present in only a
+single flask of amnionic fluid, the finding is likely pseudomosaicism, caused
+by cell-culture artifact (Bui, 1984; Hsu, 1984). When abnormal cells involve
+multiple cultures, however, true mosaicism is more likely. Further testing
+verifies a second cell line in 60 to 70 percent of these fetuses (Hsu, 1984;
+Worton, 1984).
+
+Confined Placental Mosaicism
+Mosaicism involving a gene abnormality is detected in 1 to 2 percent of
+chorionic villus sampling specimens. Amniocentesis should be offered. In a
+series of more than 1000 pregnancies with mosaicism at chorionic villus
+sampling, subsequent amniocentesis identified true fetal mosaicism in 13
+percent. Confined placental mosaicism accounted for 85 percent of cases,
+and uniparental disomy, discussed later (p. 322), was found in 2 percent
+
+(Malvestiti, 2015). If mosaicism is detected for a chromosome known to
+contain imprinted genes—such as chromosomes 6, 7, 11, 14, or 15—testing
+for uniparental disomy should be considered, as there may be fetal
+consequences (Grati, 2014a).
+Although outcomes with confined placental mosaicism are generally
+good, risks of fetal-growth restriction and stillbirth are higher (Reddy, 2009).
+Fetal-growth restriction may stem from impaired functioning of the aneuploid
+placental cells (Baffero, 2012). In a recent series of 5500 pregnancies
+undergoing chorionic villus sampling, the preterm birth rate in pregnancies
+with confined placental mosaicism was 45 percent, and 50 percent of
+affected newborns were small for gestational age (Toutain, 2018). Placental
+mosaicism for trisomy 16 confers a particularly poor prognosis, with as few
+as 1 in 3 pregnancies resulting in normal outcome (Grau Madsen, 2018).
+
+Gonadal Mosaicism
+Also called germline mosaicism, this refers to having one cell line in
+gametes and another in somatic cells. A genetic abnormality that is confined
+to gamete cells will affect all cells in the offspring. Thus, gonadal mosaicism
+can account for apparently de-novo diseases in the offspring of normal
+parents. Because spermatogonia and oogonia divide throughout fetal life, and
+spermatogonia continue to divide throughout adulthood, a meiotic error can
+occur in germ cells that were previously normal. New mutations identified in
+an offspring whose father is older than 40 may arise through this mechanism,
+as discussed later (p. 319) (Wilkie, 2017). Gonadal mosaicism also explains
+the 6-percent recurrence risk after the birth of a child with a disease caused
+by a “new” mutation.
+
+MODES OF INHERITANCE
+A monogenic or mendelian disorder is caused by a mutation or alteration in
+a single locus or gene in one or both members of a gene pair. Types of
+mendelian inheritance include autosomal dominant, autosomal recessive, Xlinked, and Y-linked (Table 16-3). Other monogenic inheritance patterns
+include mitochondrial inheritance, uniparental disomy, imprinting, and
+trinucleotide repeat expansion.
+
+TABLE 16-3. Selected Monogenic (Mendelian) Disorders
+
+■ Relationship between Phenotype and Genotype
+When considering inheritance, it is the phenotype that is dominant or
+recessive, not the genotype. If a disease is dominant, a normal gene directs
+the production of normal protein, but the phenotype will be abnormal
+because of protein produced by the abnormal gene. A heterozygous carrier of
+a recessive disease may produce detectable levels of an abnormal gene
+product but have no features of the condition, because the phenotype is
+directed by the product of the normal co-gene. For example, erythrocytes
+from carriers of sickle-cell anemia contain approximately 30 percent
+hemoglobin S, but because the other 70 percent is hemoglobin A, these cells
+do not usually sickle in vivo.
+
+Heterogeneity
+Genetic heterogeneity explains how different genetic mechanisms may result
+in the same phenotype. Locus heterogeneity indicates that a specific disease
+phenotype can be caused by mutations in different genetic loci. It also
+explains why some diseases appear to follow more than one type of
+inheritance. For example, retinitis pigmentosa may develop following
+mutations in at least 35 different genes or loci and may result in autosomal
+dominant, autosomal recessive, or X-linked forms. Allelic heterogeneity
+describes how different mutations of the same gene may affect presentation of
+a particular disease. For example, although only one gene has been
+associated with cystic fibrosis—the cystic fibrosis conductance
+
+transmembrane regulator gene—more than 2000 mutations in this gene have
+been described and result in variable disease severity (Chaps. 17, p. 342 and
+54, p. 968). Phenotypic heterogeneity explains how different disease states
+can arise from different mutations in the same gene. As an example, mutations
+in the fibroblast growth factor receptor 3 (FGFR3) gene may result in
+several different skeletal disorders, including achondroplasia and
+thanatophoric dysplasia, both of which are discussed in Chapter 15 (p. 302).
+
+■ Autosomal Dominant Inheritance
+If only one copy of a gene pair determines the phenotype, that gene is
+considered to be dominant. Carriers have a 50-percent chance of passing on
+the affected gene with each conception. A gene with a dominant mutation
+generally specifies the phenotype in preference to the normal gene. That said,
+not all individuals will necessarily manifest an autosomal dominant
+condition the same way. Factors that affect the phenotype of an autosomal
+dominant condition include penetrance, expressivity, and presence of
+codominant genes.
+
+Penetrance
+This characteristic describes whether a dominant gene is expressed. A gene
+with recognizable phenotypic expression in all individuals has complete
+penetrance. Penetrance is incomplete if some carriers express the gene but
+others do not. A gene that is expressed in 80 percent of individuals is 80percent penetrant. Incomplete penetrance explains why some autosomal
+dominant diseases may appear to “skip” generations.
+
+Expressivity
+Individuals with the same autosomal dominant trait may manifest the
+condition differently, even within the same family. Genes with variable
+expressivity can produce disease manifestations that range from mild to
+severe. Examples include neurofibromatosis, tuberous sclerosis, and adult
+polycystic kidney disease.
+
+Codominant Genes
+
+If two different alleles in a gene pair are both expressed in the phenotype,
+they are considered to be codominant. Blood type, for example, is
+determined by expression of dominant A and B red-cell antigens that can be
+expressed simultaneously. Another example of codominance is the group of
+genes responsible for hemoglobin production. If one gene directs production
+of hemoglobin S and the other directs production of hemoglobin C, that
+individual will produce both S and C hemoglobin (Chap. 59, p. 1053).
+
+Advanced Paternal Age
+Paternal age older than 40 is associated with increased risk for spontaneous
+genetic mutations. Spermatogonia undergo mitotic division every 16 days,
+and the many replications raise the risk for single base-pair mutations. As a
+result, offspring of older fathers are at risk for new autosomal dominant
+disorders and X-linked carrier states. Several in particular have been termed
+paternal age effect disorders (Goriely 2012). These include mutations in the
+fibroblast growth factor receptor 2 (FGFR2) gene, which may cause
+craniosynostosis syndromes such as Apert, Crouzon, and Pfeiffer syndromes;
+mutations in the FGFR3 gene, which may result in achondroplasia and
+thanatophoric dysplasia; and mutations in the RET proto-oncogene, which
+may cause multiple endocrine neoplasia syndromes (Toriello, 2008).
+Using whole genome sequencing to study SNPs among offspring of older
+fathers, Kong and associates (2012) found an increase of approximately two
+mutations for each year of paternal age past 40. The absolute risk for any
+specific condition is low, because individual autosomal dominant disorders
+are uncommon. Thus, no screening or testing is specifically recommended.
+
+■ Autosomal Recessive Inheritance
+Recessive diseases develop only when both gene copies are abnormal.
+Unless carriers are screened for a specific disease, they usually are
+recognized only after the birth of an affected child or the diagnosis of an
+affected family member. If a couple has a child with an autosomal recessive
+disease, the recurrence risk is 25 percent for each subsequent pregnancy.
+Thus, 1/4 of offspring will be homozygous normal, 2/4 will be heterozygous
+carriers, and 1/4 will be homozygous abnormal. In other words, three of four
+children will be phenotypically normal, and 2/3 of phenotypically normal
+siblings are actually carriers.
+
+A heterozygous carrier of a recessive condition is only at risk to have
+affected children if her or his partner is heterozygous or homozygous for the
+disease. Genes for rare autosomal recessive conditions have low prevalence
+in the general population. Thus, the likelihood that a partner will be a gene
+carrier is small, unless there is consanguinity or the partner is a member of
+an at-risk group. Carrier screening is discussed in Chapter 17 (p. 342).
+Preimplantation genetic testing allows a blastocyst to be genetically
+evaluated prior to intrauterine transfer during in vitro fertilization and is
+described also in Chapter 17 (p. 348).
+
+Inborn Errors of Metabolism
+Most of these autosomal recessive diseases result from absence of a crucial
+enzyme, leading to incomplete metabolism of proteins, lipids, or
+carbohydrates. The metabolic intermediates that build up are toxic to various
+tissues and may result in intellectual disability or other abnormalities.
+Phenylketonuria. Also known as phenylalanine hydroxylase (PAH)
+deficiency, this autosomal recessive disease is caused by mutations in the
+PAH gene. PAH metabolizes phenylalanine to tyrosine, and homozygotes have
+diminished or absent enzyme activity. This leads to abnormally high levels of
+phenylalanine, which results in progressive intellectual impairment, autism,
+seizures, motor deficits, and neuropsychological abnormalities (Blau, 2010).
+Because phenylalanine competitively inhibits tyrosine hydroxylase, which is
+essential for melanin production, affected individuals also have hair, eye,
+and skin hypopigmentation. More than 600 PAH gene mutations have been
+characterized, and the carrier frequency varies by ethnicity. For those of
+Northern European origin, carrier frequency is 1 in 50, such that the disease
+affects up to 1 in 10,000 newborns (American College of Obstetricians and
+Gynecologists, 2020b). Prompt diagnosis and restriction of dietary
+phenylalanine beginning early in infancy are essential to prevent neurological
+damage. All states mandate newborn screening for phenylketonuria (PKU).
+Phenylalanine restriction alone would result in inadequate protein
+consumption, and phenylalanine-free amino acid–based supplementation is
+required. Maintenance of phenylalanine concentrations in the range of 2 to 6
+mg/dL (120 to 360 μmol/L) is recommended from at least 3 months prior to
+pregnancy and continuing throughout pregnancy (American College of
+Obstetricians and Gynecologists, 2020b).
+
+Unfortunately, phenylalanine is actively transported to the fetus. Women
+with PKU whose phenylalanine levels remain above the recommended range
+during pregnancy are at risk to have otherwise normal (heterozygous)
+offspring who sustain significant in utero damage as a result of being exposed
+to toxic phenylalanine concentrations. Hyperphenylalaninemia raises the risk
+for miscarriage and for PKU embryopathy, which is characterized by
+intellectual disability, microcephaly, seizures, growth impairment, and
+cardiac anomalies. Among women on unrestricted diets, the risk to have a
+child with intellectual disability exceeds 90 percent, microcephaly develops
+in more than 70 percent, and as many as 1 in 6 children have cardiac defects.
+The Maternal Phenylketonuria Collaborative Study, which included 572
+pregnancies followed more than 18 years, reported that maintenance of serum
+phenylalanine levels in the recommended range significantly reduced the
+fetal abnormality risk and resulted in normal childhood IQ scores (Koch,
+2003; Platt, 2000).
+Approximately 25 to 50 percent of individuals with PKU experience a
+significant decline in phenylalanine levels when treated with the synthetic
+PAH cofactor tetrahydrobiopterin (sapropterin) (Vockley, 2014). Based on
+registry data, sapropterin is considered a treatment option for those in whom
+phenylalanine levels remain elevated despite dietary therapy (Grange, 2014).
+Preconceptional counseling and consultation with providers from
+experienced PKU centers is recommended.
+
+Consanguinity
+In medical genetics, a union is consanguineous if between second cousins or
+closer relatives. Although uncommon in Western countries, the global
+estimate of consanguineous parentage approximates 10 percent of the
+population (Oniya, 2019). More than 1 billion people are estimated to live in
+countries in which 20 to 50 percent of marriages are consanguineous
+(Romeo, 2014). First-degree relatives share half of their genes, seconddegree relatives share a fourth, and third-degree relatives—first cousins—
+share one eighth. Because of the potential for shared deleterious genes,
+consanguinity confers an increased risk to have offspring with otherwise rare
+autosomal recessive diseases or multifactorial disorders. In populationbased series, first cousins have twice the risk for offspring with congenital
+abnormalities (Sheridan, 2013; Stoltenberg, 1997). Consanguinity is also
+associated with a greater rate of stillbirth (Kapurubandara, 2016). Because
+
+CMA performed using a SNP platform may identify consanguinity, it is
+important that preprocedural counseling include this possibility.
+Incest is defined as a sexual relationship between first-degree relatives
+such as parent-child or brother-sister and is universally illegal. Progeny of
+such unions carry the highest risk of abnormal outcomes. Older studies
+reported that up to 40 percent of offspring were abnormal as a result of
+recessive and multifactorial disorders (Baird, 1982; Freire-Maia, 1984).
+
+■ X-Linked and Y-Linked Inheritance
+Most X-linked diseases are recessive. Common examples include color
+blindness, hemophilia A and B, and Duchenne and Becker muscular
+dystrophy. A male with an X-linked recessive gene is usually affected by the
+disease it causes, because he lacks a second X chromosome to express the
+normal dominant gene. However, a male with an X-linked disease cannot
+have affected sons because they do not receive his X chromosome. When a
+woman carries a gene causing an X-linked recessive condition, each son has
+a 50-percent risk of being affected, and each daughter has a 50-percent
+chance of being a carrier.
+Women with an X-linked recessive gene are generally unaffected by the
+disease it causes. In some cases, however, the random inactivation of one X
+chromosome in each cell—termed lyonization—is skewed, and female
+carriers may have features of the condition. For example, approximately 10
+percent of female carriers of hemophilia A will have factor VIII levels less
+than 30 percent of normal, and a similar proportion of female hemophilia B
+carriers have factor IX levels less than 30 percent. Levels below these
+thresholds confer a greater risk for abnormal bleeding when affected women
+give birth (Plug, 2006). Indeed, even with higher levels, carriers are
+reported to be at increased risk for bleeding complications (Olsson, 2014).
+Female carriers of Duchenne or Becker muscular dystrophy carry an elevated
+risk for cardiomyopathy, and periodic evaluation for cardiac dysfunction and
+neuromuscular disorders is recommended (American Academy of Pediatrics,
+2008).
+X-linked dominant disorders mainly affect females, because they tend to
+be lethal in males. Two examples are vitamin D–resistant rickets and
+incontinentia pigmenti. An important exception is fragile X syndrome,
+discussed subsequently.
+
+The prevalence of Y-linked disorders is low. The Y-chromosome carries
+genes important for sex determination and various cellular functions related
+to spermatogenesis and bone development. Deletion of genes on the long arm
+of Y results in severe spermatogenic defects, whereas genes at the tip of the
+short arm are critical for chromosomal pairing during meiosis and for
+fertility.
+
+■ Mitochondrial Inheritance
+Human cells contain hundreds of mitochondria, each with its own genome
+and associated replication system. Oocytes have approximately 100,000
+mitochondria. Sperm have only about 100, and the latter are destroyed after
+fertilization. Each mitochondrion has multiple copies of a 16.5-kb circular
+DNA molecule that contains 37 genes. Mitochondrial DNA encodes peptides
+required for oxidative phosphorylation and encodes ribosomal and transfer
+RNAs.
+Mitochondria are inherited exclusively from the mother. Thus, although
+males and females both can be affected by a mitochondrial disorder, a male
+cannot transmit the condition to his offspring. When a cell replicates,
+mitochondrial DNA sorts randomly into each of the resulting cells, a process
+termed replicative segregation. As a consequence of replicative segregation,
+any mitochondrial mutation will be propagated randomly into the newly
+formed cells. Because each cell holds multiple copies of mitochondrial
+DNA, the mitochondrion may contain only normal or only abnormal DNA,
+termed homoplasmy. Alternatively, it may contain both normal and mutated
+DNA, namely heteroplasmy. If a heteroplasmic oocyte is fertilized, the
+relative proportion of mutated DNA may affect whether the individual
+manifests a given mitochondrial disease. It is not possible to predict the
+potential degree of heteroplasmy among offspring, and this poses challenges
+for genetic counseling.
+There are 33 mitochondrial diseases or conditions with known molecular
+bases (Johns Hopkins University, 2020). Examples include myoclonic
+epilepsy with ragged red fibers (MERRF), Leber optic atrophy, KearnsSayre syndrome, Leigh syndrome, and several forms of mitochondrial
+myopathy and cardiomyopathy.
+
+■ DNA Triplet Repeat Expansion
+Mendel’s first law is that genes are passed unchanged from parent to
+progeny, and barring new mutations, this is often true. Certain genes,
+however, contain a region of DNA trinucleotide repeats that can expand
+during parent-to-child transmission. The expansion can occur during male
+meiosis, as in Huntington disease, or during female meiosis, as in fragile X
+syndrome. Clinically, DNA triplet repeat expansion is manifested by
+anticipation—a phenomenon in which a disease may manifest at an earlier
+age or become more severe with each successive generation. Examples of
+DNA triplet repeat diseases are shown in Table 16-4.
+TABLE 16-4. Some Disorders Caused by DNA Triplet Repeat Expansion
+
+Fragile X Syndrome
+This is the most common inherited intellectual disability. Fragile X syndrome
+affects approximately 1 in 3600 males and 1 in 4000 to 6000 females
+(American College of Obstetricians and Gynecologists, 2020a). It is caused
+by expansion of a repeated trinucleotide DNA segment—cytosine-guanineguanine (CGG)—at chromosome Xq27.3. When the CGG repeat number
+reaches a critical size—the full mutation—the fragile X mental retardation 1
+(FMR1) gene becomes methylated and inactivated. Inactivation halts
+expression of the FMR1 protein, which is abundant in nerve cells and
+necessary for normal cognitive development.
+Individuals with fragile X syndrome may have speech and language
+problems, attention-deficit/hyperactivity disorder, and autism or autistic-like
+behaviors. Intellectual disability is generally more severe in males, in whom
+average IQ scores are 35 to 45 (Nelson, 1995). The syndrome has
+
+characteristic phenotypic features—a narrow face with large jaw, prominent
+ears, connective tissue abnormalities, and macroorchidism in postpubertal
+males.
+Both the sex of the affected individual and the number of CGG repeats
+determine the degree of clinical impairment. Clinically, four groups have
+been described (American College of Obstetricians and Gynecologists,
+2020a):
+• Full mutation—more than 200 repeats
+• Premutation—55 to 200 repeats
+• Intermediate—45 to 54 repeats
+• Unaffected—fewer than 45 repeats.
+Full mutations are expressed in all males and many females. Males with
+full mutations typically have significant cognitive and behavioral
+abnormalities and phenotypic features. In females, random X chromosome
+inactivation results in variable expression, and the disability may be much
+less severe. With rare exception, the parent of origin of repeat expansion that
+leads to a full mutation is female (Monaghan, 2013).
+Counseling for a premutation is more complex. The woman with a fragile
+X premutation may have offspring with the full mutation, and the risk ranges
+from ≤5 percent with fewer than 70 CGG repeats to >95 percent with 100 to
+200 CGG repeats (Nolin, 2003). Expansion is extremely unlikely in a male
+premutation carrier, but all of his daughters will carry the premutation.
+Among women with no risk factors, approximately 1 in 250 carries a fragile
+X premutation, and in those with a family history of intellectual disability, the
+risk approximates 1 in 90 (Cronister, 2008).
+Fragile X premutation carriers may themselves experience significant
+health consequences. Males with a premutation are at risk for the fragile X
+tremor ataxia syndrome (FXTAS), which is characterized by memory loss,
+executive function deficits, anxiety, and dementia (Monaghan, 2013).
+Females are at decreased risk for FXTAS, but they have a 20-percent risk for
+fragile X-associated primary ovarian insufficiency (POI).
+Carrier screening is recommended for women with a family history of
+fragile X syndrome, for those with unexplained intellectual disability,
+developmental delay, or autism, and for women with POI (American College
+of Obstetricians and Gynecologists, 2020a). Prenatal diagnosis can be
+
+accomplished by amniocentesis or chorionic villus sampling. Either type of
+specimen can be used to evaluate the CGG repeat number, but chorionic
+villus sampling may not accurately determine FMR1 gene methylation status.
+
+■ Imprinting
+Usually, one copy of each gene is inherited from each parent, and both copies
+are expressed. Imprinting refers to the situation in which gene expression
+varies according to the parent of origin. With maternal imprinting, a gene
+inherited from the mother is transcriptionally silent and the gene inherited
+from the father is active. Paternal imprinting is the opposite. This
+phenomenon explains the phenotypic differences that occur in triploid
+pregnancies according to whether the extra chromosomal set is maternal or
+paternal (p. 313).
+Imprinting affects gene expression by epigenetic control, that is, it
+modifies the phenotype without altering the underlying genetic structure or
+genotype. Importantly, the effect may be reversed in a subsequent generation,
+because a female who inherits an imprinted gene from her father will pass it
+in her oocytes with a maternal—rather than paternal—imprint, and vice
+versa.
+An example of imprinting can be found in two very different diseases
+associated with the same region of DNA. Prader-Willi syndrome is
+characterized by pronounced hyperphagia with obesity, along with short
+stature, small hands and feet, and mild mental retardation. In more than 70
+percent of cases, Prader-Willi is caused by microdeletion or disruption of a
+DNA segment on the paternal chromosome 15, 15q11.2-q13. The remaining
+cases are due to maternal uniparental disomy or due to maternal gene
+imprinting with the paternal gene inactivated.
+In contrast, individuals with Angelman syndrome have normal stature and
+weight but severe intellectual disability, absent speech, seizures, ataxia,
+jerky arm movements, and paroxysms of inappropriate laughter. In
+approximately 70 percent of cases, Angelman syndrome is caused by
+microdeletion for the 15q11.2-q13 DNA segment on the mother’s
+chromosome 15. This segment contains a gene that codes for ubiquitin
+protein ligase E3A, an important neural protein. Paternal gene imprinting
+defects—with maternal genes inactivated—account for 2 to 3 percent, and 2
+
+percent result from paternal uniparental disomy. Table 16-5 lists selected
+diseases that can involve imprinting.
+TABLE 16-5. Some Disorders That Can Involve Imprinting
+
+■ Uniparental Disomy
+This occurs when both members of a chromosome pair are inherited from the
+same parent. Uniparental disomy usually has no clinical consequences,
+because gene expression is not generally affected by the parent of origin and
+because both copies of a chromosome pair are not usually identical.
+However, if chromosomes 6, 7, 11, 14, or 15 are involved, offspring are at
+increased risk for an abnormality because of parent-of-origin differences in
+gene expression, that is, because of imprinting (Shaffer, 2001). Several
+genetic mechanisms may cause uniparental disomy, the most common of
+which is trisomic rescue, shown in Figure 16-9. After a nondisjunction event
+produces a trisomic conceptus, one of the three homologues may be lost,
+resulting in uniparental disomy for that chromosome in approximately one
+third of cases.
+
+FIGURE 16-9 Mechanism of uniparental disomy arising from trisomic “rescue.” A. In normal meiosis,
+one member of each pair of homologous chromosomes is inherited from each parent. B. If
+nondisjunction results in a trisomic conceptus, one homologue is sometimes lost. In a third of cases, loss
+of one homologue leads to uniparental disomy.
+
+Uniparental isodisomy occurs when an individual receives two identical
+copies of one chromosome from the same parent. This mechanism has
+explained cases of cystic fibrosis in which only one parent is a carrier but
+the fetus inherits two copies of the same gene mutation (Spence, 1988;
+Spotila, 1992).
+
+■ Multifactorial Inheritance
+Traits or diseases that are determined by the combination of multiple genes
+and environmental factors are considered to have multifactorial inheritance
+(Table 16-6). Polygenic traits are determined by the combined effects of
+more than one gene. Many congenital and acquired conditions and common
+traits display multifactorial inheritance. Examples include malformations
+such as neural-tube defects, cardiac defects, and facial clefts; diseases such
+as diabetes and atherosclerosis; and traits such as head size or height.
+Multifactorial abnormalities tend to recur in families, but not according to a
+mendelian pattern. If a couple has had 1 child with a multifactorial birth
+
+defect, the risk that another child will be affected is empirically 3 to 5
+percent. This risk declines exponentially with successively more distant
+family relationships.
+TABLE 16-6. Characteristics of Multifactorial Diseases
+
+Multifactorial traits that have a normal distribution in the population are
+termed continuously variable. A measurement that is more than two standard
+deviations above or below the population mean may be considered
+abnormal. Continuously variable traits tend to be less extreme in the
+offspring of affected individuals, because of the statistical principle of
+regression to the mean.
+
+Threshold Traits
+Some multifactorial traits do not appear until a threshold is exceeded.
+Genetic and environmental factors that create propensity or liability for the
+
+trait are themselves normally distributed, and only individuals at extremes of
+the distribution exceed the threshold and exhibit the trait or defect. The
+phenotypic abnormality is thus an all-or-none phenomenon.
+Certain threshold traits have a clear male or female predominance. If an
+individual of the less affected gender has the characteristic or defect, the risk
+is greater in his or her offspring (Fig. 16-10). An example is pyloric stenosis,
+which is approximately four times more common in males (Krogh, 2012). A
+female with pyloric stenosis has likely inherited more predisposing genetic
+factors than are necessary to produce the defect in a male, and the recurrence
+risk for her children or siblings is thus higher than the expected 3 to 5
+percent. Her brothers and sons would have the highest liability because they
+not only will inherit more than the usual number of predisposing genes but
+also are the more susceptible gender.
+
+FIGURE 16-10 Schematic example of a threshold trait, such as pyloric stenosis, which has a
+predilection for males. Each gender is normally distributed, but at the same threshold, more males than
+females will develop the condition.
+
+The recurrence risk for threshold traits is also greater if the defect is
+severe. For example, the recurrence risk after the birth of a child with
+bilateral cleft lip and palate approximates 8 percent, but it is only about 4
+percent following a child with unilateral cleft lip alone.
+
+Cardiac Defects
+
+Structural cardiac anomalies are the most common birth defects, with a birth
+prevalence of 8 cases per 1000. The risk of having a child with a cardiac
+anomaly approximates 5 to 6 percent if the mother has the defect and 2 to 3
+percent if the father is affected (Burn, 1998). Selected left-sided lesions,
+including hypoplastic left heart syndrome, coarctation of the aorta, and
+bicuspid aortic valve, may have recurrence risks four- to sixfold higher (Lin,
+1988; Lupton, 2002; Nora, 1988). Observed recurrence risks for specific
+cardiac malformations are listed in Table 52-4 (p. 920).
+
+Neural-tube Defects
+Risk for developing a neural-tube defect (NTD) is influenced by family
+history, hyperthermia, hyperglycemia, teratogen exposure, obesity, ethnicity,
+and fetal gender. More than 50 years ago, Hibbard and Smithells (1965)
+postulated that abnormal folate metabolism was responsible for many NTDs.
+However, most NTD cases do not occur in the setting of maternal folic acid
+deficiency, and it has become clear that the gene-nutrient interactions
+underlying folate-responsive NTDs are complex. For a woman with a prior
+affected child, the 3- to 5-percent recurrence risk declines by at least 70
+percent with 4 mg/d of periconceptional oral folic acid supplementation
+(Grosse, 2007; MRC Vitamin Study Research Group, 1991).
+Periconceptional folic acid supplementation also appears to ameliorate the
+fetal NTD risk in women with pregestational diabetes and in those with
+exposure to antiepileptic medications, fever during embryogenesis, and
+obesity (Kerr, 2017; Petersen, 2019). Sonographic features of NTDs are
+described in Chapter 15 (p. 276), their prevention with folic acid is
+discussed in Chapter 9 (p. 168), and fetal therapy for myelomeningocele is
+reviewed in Chapter 19 (p. 372).
+
+GENETIC TESTS
+All pregnant women should have the option of prenatal aneuploidy screening
+and prenatal genetic diagnosis (American College of Obstetricians and
+Gynecologists, 2018). Screening for fetal aneuploidy may be either serum
+analyte-based or cell-free DNA-based. Prenatal genetic carrier screening
+tests for cystic fibrosis and spinal muscular atrophy carrier status also are
+routinely offered. Additional carrier screening tests are offered to at-risk
+
+individuals. Expanded genetic carrier screening panels also are available.
+The American College of Obstetricians and Gynecologists considers ethnicspecific, panethnic, and expanded carrier screening acceptable strategies
+(American College of Obstetricians and Gynecologists, 2020a). These
+screening tests are discussed in Chapter 17 (p. 342).
+For prenatal genetic diagnosis, the most commonly used tests are
+chromosomal microarray analysis (CMA), cytogenetic analysis
+(karyotyping), and fluorescence in situ hybridization (FISH). Testing may be
+performed on amnionic fluid or chorionic villi. In selected circumstances,
+whole genome or whole exome sequencing may be considered, but these are
+not recommended for routine use. To diagnose a specific disease whose
+genetic basis is known, DNA-based tests are often employed, typically using
+polymerase chain reaction (PCR) for rapid amplification of DNA sequences.
+
+■ Cytogenetic Analysis
+Also known as karyotyping, cytogenetic analysis tests for numerical
+chromosomal abnormalities—aneuploidy or polyploidy. It can also identify
+balanced or unbalanced structural rearrangements of at least 5 to 10
+megabases in size. Karyotyping has diagnostic accuracy exceeding 99
+percent.
+Any tissue containing dividing cells or cells that can be stimulated to
+divide is suitable for cytogenetic analysis. The dividing cells are arrested in
+metaphase, and their chromosomes are stained to reveal light and dark bands.
+The most commonly used technique is Giemsa staining, which yields the Gbands shown in Figure 16-3. Each chromosome has a unique banding pattern
+that permits its identification and detection of deleted, duplicated, or
+rearranged segments. The accuracy of cytogenetic analysis rises with the
+number of bands produced. Metaphase banding routinely yields 450 to 550
+visible bands per haploid chromosome set, whereas prophase banding
+generally yields 850 bands.
+Only dividing cells can be evaluated, so the growth of cultured cells
+affects the rapidity with which results are obtained. Amnionic fluid, which
+contains amniocytes, epithelial cells, and gastrointestinal mucosal cells, will
+usually yield results in 7 to 10 days (Chap. 17, p. 344). Fetal blood cells may
+provide results in 36 to 48 hours but are rarely needed. If fetal skin
+fibroblasts are evaluated postmortem, stimulation of cell growth can be more
+
+difficult. Cytogenetic analysis may take 2 to 3 weeks in such cases and has
+largely been replaced by CMA (Chap. 35, p. 627).
+
+■ Fluorescence In Situ Hybridization
+This technique is most commonly used for rapid identification of a specific
+chromosomal abnormality, such as trisomy 21, 18, or 13. Because of its 1- to
+2-day turnaround time, FISH is typically selected for cases in which findings
+may alter pregnancy management. It may also be used to verify a suspected
+deletion syndrome, such as the 22q11.2 microdeletion (p. 315), although
+CMA is preferred. The American College of Obstetricians and
+Gynecologists (2018) recommends that decision-making based on FISH
+should incorporate clinical information consistent with the suspected
+diagnosis. Supportive data may be an abnormal aneuploidy screening test
+result, a sonographic finding, or a confirmatory diagnostic test such as
+karyotyping or CMA.
+To perform FISH, cells are fixed onto a glass slide, and fluorescentlabeled probes are hybridized to the fixed chromosomes (Fig. 16-11). Each
+probe is a DNA sequence that is complementary to a chromosome region or
+gene being investigated. If the DNA sequence is present, hybridization is
+detected as a bright signal visible by microscopy. The number of signals
+indicates the number of chromosomes or genes of that type in the cell. FISH
+does not provide information on the entire chromosomal complement but
+merely the chromosomal or gene region of interest. Figure 16-12 shows an
+example of interphase FISH using α-satellite probes for chromosomes 18, X,
+and Y to confirm trisomy 18.
+
+FIGURE 16-11 Steps in fluorescence in situ hybridization (FISH).
+
+FIGURE 16-12 Interphase fluorescence in situ hybridization (FISH) using α-satellite probes for
+chromosomes 18, X, and Y. In this case, the three light blue signals, two green signals, and absence of
+red signals indicate that this is a female fetus with trisomy 18. (Reproduced with permission from Dr.
+Frederick Elder.)
+
+■ Chromosomal Microarray Analysis
+This test is 100 times more sensitive than karyotyping and detects
+microduplications and microdeletions as small as 50 to 100 kilobases.
+Direct CMA, which is performed on uncultured cells, can yield results in 3
+to 7 days. If cultured cells are required, results may take 10 to 14 days
+(American College of Obstetricians and Gynecologists, 2018).
+Microarrays use either a comparative genomic hybridization (CGH)
+platform, a SNP platform, or a combination of the two. The CGH microarray
+platform compares specimen DNA with a normal control sample. Shown in
+Figure 16-13, the CGH chip contains reference DNA fragments of known
+sequence—oligonucleotides. Fetal DNA from the amniocentesis or chorionic
+villus sampling specimen is labeled with a fluorescent dye and then
+hybridized to the DNA on the chip. Normal control DNA is labeled with a
+different probe and also hybridized to the same chip. The intensity of the
+fluorescent signals from the two samples is compared. With a SNP array, the
+chip contains known DNA sequence variants, that is, single-nucleotide
+polymorphisms. When fetal DNA is labeled and hybridized to the chip, the
+fluorescent signal intensity indicates copy number variation.
+
+FIGURE 16-13 Chromosomal microarray analysis. A. Actual microarray chip size. B. Each chip
+contains thousands of cells (squares). C & D. Each cell contains thousands of identical oligonucleotides
+on its surface and is unique in its nucleotide content. E. During genetic analysis, a mixture containing
+tagged fetal DNA is presented to the chip. Complementary DNA sequences bind. F. If a laser is shined
+on the chip, DNA sequences that have bound will glow thus identifying a matching sequence. (Modified
+with permission from Doody KJ: Treatment of the infertile couple. In Hoffman BL, Schorge JO,
+Schaffer JI, et al (eds): Williams Gynecology, 2nd ed. New York, NY: McGraw Hill; 2012.)
+
+Both types of platforms detect aneuploidy, unbalanced translocations, and
+microdeletions and microduplications. In addition, SNP arrays are able to
+identify triploidy and can detect absence of heterozygosity. The latter can
+occur with uniparental disomy, in which both copies of a chromosome are
+inherited from one parent. Absence of heterozygosity may also occur with
+consanguinity, and counseling prior to performance of an SNP array should
+include this possibility (p. 321). Importantly, neither type of array platform
+currently detects balanced chromosomal rearrangements. For this reason,
+couples with recurrent pregnancy loss should be offered karyotyping as the
+first-line test (Society for Maternal-Fetal Medicine, 2016).
+In addition to identifying pathogenic copy number variants, CMA may
+detect variants that are unable to be classified as benign or pathologic and
+
+thus are considered to be of uncertain clinical significance. In recent series,
+these variants of uncertain significance are identified in approximately 1
+percent of prenatal specimens (Brady, 2014; Chong, 2019; Wang, 2018). Not
+unexpectedly, variants of uncertain significance may be a source of distress
+to families, even with comprehensive pretest counseling.
+
+Clinical Applications
+In pregnancies at increased risk for autosomal trisomy based on aneuploidy
+screening results, karyotyping or FISH plus karyotyping should be offered,
+and CMA should be made available (American College of Obstetricians and
+Gynecologists, 2018). Clinicians are increasingly offering CMA in this
+setting. If the karyotype is normal, CMA has identified clinically relevant
+copy number variants in approximately 6.5 percent of pregnancies with fetal
+abnormalities and in 1 to 2 percent of those without obvious fetal
+abnormality (Callaway, 2013; Chong, 2019). The American College of
+Obstetricians and Gynecologists (2018) and the Society for Maternal-Fetal
+Medicine (2016) recommend CMA as the first-tier test when fetal structural
+abnormalities are identified. If a particular anomaly that strongly suggests a
+specific aneuploidy is identified, such as an endocardial cushion defect
+(trisomy 21) or alobar holoprosencephaly (trisomy 13), then karyotyping or
+FISH may be offered as the initial test. Genetic counseling should include
+information regarding the benefits and limitations of both CMA and
+karyotyping. Each should be made available to women who elect prenatal
+diagnosis (Society for Maternal-Fetal Medicine, 2016). CMA may identify
+instances of autosomal dominant genetic disorders that have not yet
+manifested in an affected parent, and it may also identify instances of
+nonpaternity.
+For stillbirth evaluation, CMA is significantly more likely than standard
+karyotyping to provide a genetic diagnosis, in part because it does not
+require dividing cells. The Stillbirth Collaborative Research Network found
+that when karyotyping was uninformative, approximately 6 percent of cases
+had either aneuploidy or a pathogenic copy number variant identified with
+CMA (Reddy, 2012). In a recent metaanalysis of more than 900 stillbirths
+with normal karyotype, CMA identified pathogenic copy number variants in
+6 percent with structural abnormalities and 3 percent with no abnormalities
+evident (Martinez-Portilla, 2019). Overall, CMA yielded results 15 percent
+more often than karyotyping alone.
+
+■ Whole Genome and Whole Exome Sequencing
+Most fetuses with structural abnormalities have a normal karyotype and a
+normal CMA result. Whole genome sequencing (WGS) is a technique for
+analyzing the entire genome. Whole exome sequencing (WES) analyzes only
+the DNA coding regions, which account for approximately 1.5 percent of the
+genome. These next-generation sequencing tools are increasingly used
+postnatally to evaluate suspected genetic syndromes and intellectual
+disability.
+Several prospective, multicenter series have evaluated WES for
+pregnancies in which fetuses have structural abnormalities, no karyotypic
+evidence of aneuploidy, and normal CMA. WES identified genetic
+abnormalities in approximately 10 percent of such cases (Lord, 2019;
+Petrovski, 2019). Utility was higher in cases with cardiac, skeletal, or
+multiorgan system anomalies.
+Importantly, WGS and WES have significant limitations in their current
+form. These include prohibitively long turnaround times, high costs, and
+increased rates of false-positive and false-negative results and variants of
+uncertain significance (American College of Medical Genetics, 2012; Atwal,
+2014). In addition, because sequencing is generally performed on the fetus
+and parents simultaneously, one parent may be identified or suspected to
+have an unrelated but medically actionable finding, which further
+complicates counseling (American College of Obstetricians and
+Gynecologists, 2020c). As a result, the clinical utility of this promising
+technology for prenatal cases is currently limited, and it is not recommended
+for routine clinical use.
+
+■ Fetal DNA in the Maternal Circulation
+Fetal cells are present in maternal blood at a very low concentration, only 2
+to 6 cells per milliliter (Bianchi, 2006). Intact fetal cells sometimes persist
+in the maternal circulation for decades following delivery. Persistent fetal
+cells may engraft in the mother, causing microchimerism (Chap. 62, p. 1109).
+This has been implicated in maternal autoimmune diseases such as
+scleroderma, systemic lupus erythematosus, and Hashimoto thyroiditis
+(Kinder, 2017). From the standpoint of prenatal diagnosis, use of intact fetal
+cells from maternal blood is limited by low cell concentration, cell
+
+persistence into successive pregnancies, and difficulties in distinguishing
+fetal and maternal cells. Cell-free DNA overcomes these limitations.
+
+Cell-free DNA
+Also known as cell-free fetal DNA or noninvasive prenatal screening
+(NIPS), this screening test uses DNA fragments derived from maternal cells
+and from apoptotic placental trophoblast cells. “Fetal” is thus a misnomer.
+Cell-free DNA is reliably detected in maternal blood after 9 to 10 weeks’
+gestation (Bianchi, 2018). The proportion of total cell-free DNA that is
+placental is called the fetal fraction, and it accounts for approximately 10
+percent of the total circulating cell-free DNA in maternal plasma. Unlike
+intact fetal cells, cell-free DNA is cleared within minutes from maternal
+blood.
+Current clinical applications of cell-free DNA are aneuploidy screening
+and Rh D genotyping (Fig. 16-14). Commercial laboratories have also
+offered two other applications of cell-free DNA: (1) screening for selected
+microdeletion and microduplication syndromes and (2) genome-wide
+screening for deletions and duplications larger than 7 megabase pairs.
+Currently, prospective data on these promising applications are limited, and
+neither is recommended for routine screening (American College of
+Obstetricians and Gynecologists, 2020c).
+
+FIGURE 16-14 Cell-free DNA screening. These DNA fragments are derived from apoptotic
+trophoblast cells. Screening for autosomal trisomies and sex chromosomal aneuploidies may be
+performed using whole-genome sequencing, chromosome-selective or -targeted sequencing, and
+analysis of single-nucleotide polymorphisms (SNPs). Real-time quantitative polymerase chain reaction
+(PCR) also may be used to target specific regions or sequences, a technique used for Rh D genotyping.
+
+Additional applications for cell-free DNA are on the horizon. In research
+settings, numerous single-gene disorders have been detected and include
+skeletal dysplasias, hemoglobinopathies, cystic fibrosis, congenital adrenal
+hyperplasia, hemophilia, muscular dystrophy, myotonic dystrophy, and spinal
+muscular atrophy (Camunas-Soler, 2018; Jenkins, 2018; Zhang, 2019).
+Aneuploidy Screening. Several different assay platforms are used to screen
+for fetal autosomal trisomies and sex chromosomal aneuploidies. These
+include massively parallel sequencing, which is a WGS technique;
+chromosome-selective or targeted sequencing; and analysis of SNPs
+(American College of Obstetricians and Gynecologists, 2018, 2020c). By
+simultaneously sequencing millions of chromosome-specific DNA fragments,
+investigators can identify whether the proportion or ratio of fragments from
+one chromosome is higher than expected. Thus, samples from women with a
+Down syndrome fetus will have a larger proportion of DNA sequences from
+chromosome 21.
+The screening performance of cell-free DNA is excellent. In a
+metaanalysis of 35 studies of largely high-risk pregnancies, the pooled
+sensitivity to detect Down syndrome was 99.7 percent, and to identify
+trisomies 18 and 13, 98 and 99 percent, respectively (Gil, 2017). For each,
+the specificity was at least 99.9 percent, such that the cumulative falsepositive rate was below 1 percent. Aneuploidy screening reports commonly
+include information about fetal sex, which may be clinically useful if the
+fetus is at risk for an X-linked disorder or for congenital adrenal hyperplasia
+(Chap. 17, p. 335). In a metaanalysis, the sensitivity of cell-free DNA testing
+for fetal sex determination was reported to be 95 percent between 7 and 12
+weeks’ gestation and 99 percent after 20 weeks (Devaney, 2011).
+Causes of false-positive and false-negative screening results are listed in
+Table 16-7. As with any other screening test, diagnostic confirmation should
+be performed before irreversible medical intervention. Cell-free DNA
+screens do not yield a result in 2 to 4 percent of cases. This may be due to
+assay failure, high assay variance, or low fetal fraction (Norton, 2012;
+
+Pergament, 2014; Quezada, 2015). Importantly, such pregnancies carry a
+greater risk for fetal aneuploidy. In addition, results may not reflect the fetal
+DNA complement but rather may indicate confined placental mosaicism,
+early demise of an aneuploid co-twin, maternal mosaicism, or rarely, occult
+maternal malignancy (Bianchi, 2015; Curnow, 2015; Grati, 2014b; Wang,
+2014). Recommendations for counseling are discussed in Chapter 17 (p.
+336).
+TABLE 16-7. Selected Etiologies Creating Inaccurate Cell-free DNA
+Results
+
+Rh D Genotype Evaluation. Many fetuses of Rh D-negative women are also
+Rh D-negative. In a predominantly white population, this prevalence
+approaches 40 percent. Fetal Rh D genotype assessment from maternal blood
+can eliminate administration of anti-D immune globulin in such cases,
+
+thereby reducing costs and potential risk. When Rh D alloimmunization is
+suspected, early identification of an Rh D-negative fetus might avoid
+unnecessary middle cerebral artery Doppler assessment or amniocentesis.
+Evaluation using cell-free DNA is done using real-time PCR to target several
+exons of the RHD gene, typically exons 4, 5, 7, and 10.
+Rh D-genotyping is performed routinely with cell-free DNA in Denmark,
+Finland, and the Netherlands (Clausen, 2012; de Haas, 2016; Haimila,
+2017). In population-based studies of more than 35,000 Rh D-negative
+women screened at 24 to 27 weeks’ gestation, the false-negative rate—in
+which Rh D-negative status was missed—was only 0.03 percent. The falsepositive rate—in which Rh immune globulin would be given unnecessarily—
+was less than 1 percent (de Haas, 2016; Haimila, 2017). Similar results
+were reported from the United Kingdom, although the false-negative rate was
+higher in the first trimester. Investigators concluded that false-negative
+screening results might increase the alloimmunization risk but by less than 1
+case per million births (Chitty, 2014). Rh D alloimmunization is discussed in
+Chapter 18 (p. 353).
+
+REFERENCES
+Abele H, Babiy-Pachomow O, Sonek J, et al: The cavum septum pellucidi in euploid and aneuploidy
+fetuses. Ultrasound Obstet Gynecol 42(2):156, 2013
+American Academy of Pediatrics: Clinical report: cardiovascular health supervision for individuals
+affected by Duchenne or Becker muscular dystrophy. Pediatrics 116(6):1569, 2005, Reaffirmed
+December 2008
+American College of Medical Genetics (ACMG) Board of Directors: Points to consider in the clinical
+application of genomic sequencing. Genet Med 14(8):759, 2012
+American College of Obstetricians and Gynecologists: Prenatal diagnostic testing for genetic disorders.
+Practice Bulletin No. 162, May 2016, Reaffirmed 2018
+American College of Obstetricians and Gynecologists: Perinatal palliative care. Committee Opinion No.
+786, August 2019
+American College of Obstetricians and Gynecologists: Carrier screening for genetic conditions.
+Committee Opinion No. 691, March 2017, Reaffirmed 2020a
+American College of Obstetricians and Gynecologists: Management of women with phenylalanine
+hydroxylase deficiency (phenylketonuria). Committee Opinion No. 802, April 2020b
+American College of Obstetricians and Gynecologists: Microarrays and next-generation sequencing
+technology: the use of advanced genetic diagnostic tools in obstetrics and gynecology. Committee
+Opinion No. 682, December 2016, Reaffirmed 2020c
+American College of Obstetricians and Gynecologists: Screening for fetal chromosomal abnormalities.
+Practice Bulletin No. 226, October 2020d
+
+Atwal PS, Brennan ML, Cox R, et al: Clinical whole-exome sequencing: are we there yet? Genet Med
+16(9):717, 2014
+Baffero GM, Somigliana E, Crovetto F, et al: Confined placental mosaicism at chorionic villus sampling:
+risk factors and pregnancy outcome. Prenat Diagn 32(11):1102, 2012
+Baird PA, McGillivray B: Children of incest. J Pediatr 101(5): 854, 1982
+Bardsley MZ, Kowal K, Levy C, et al: 47,XYY syndrome: clinical phenotype and timing of
+ascertainment. J Pediatr 163(4):1085, 2013
+Bdolah Y, Palomaki GE, Yaron Y, et al: Circulating angiogenic proteins in trisomy 13. Am J Obstet
+Gynecol 194(1):239, 2006
+Berglund A, Stochholm K, Gravholt CH: The epidemiology of sex chromosome abnormalities. Am J
+Med Genet C 184(2):202, 2020
+Bergström S, Carr H, Petersson G, et al: Trends in congenital heart defects in infants with Down
+syndrome. Pediatrics 138(1):e210160123, 2016
+Bianchi DW, Chiu RW: Sequencing of circulating cell-free DNA during pregnancy. N Engl J Med
+379(5):464, 2018
+Bianchi DW, Chudova D, Sehnert AJ, et al: Noninvasive prenatal testing and incidental detection of
+occult malignancies. JAMA 314(2):162, 2015
+Bianchi DW, Hanson J: Sharpening the tools: a summary of a National Institutes of Health workshop on
+new technologies for detection of fetal cells in maternal blood for early prenatal diagnosis. J Matern
+Fetal Neonatal Med 19(4):199, 2006
+Blau N, van Spronsen FJ, Levy HL: Phenylketonuria. Lancet 376(9750):1417, 2010
+Boada R, Janusz J, Hutaff-Lee C, et al: The cognitive phenotype in Klinefelter syndrome: a review of
+the literature including genetic and hormonal factors. Dev Disabil Res Rev 15(4):284, 2009
+Brady PD, Delle Chiaie B, Christenhusz G, et al: A prospective study of the clinical utility of prenatal
+chromosomal microarray analysis in fetuses with ultrasound abnormalities and an exploration of a
+framework for reporting unclassified variants and risk factors. Genet Med 16(6):469, 2014
+Bui TH, Iselius L, Lindsten J: European collaborative study on prenatal diagnosis: mosaicism,
+pseudomosaicism and single abnormal cells in amniotic fluid cultures. Prenat Diagn 4(7):145, 1984
+Bull MJ, American Academy of Pediatrics Committee on Genetics: Health supervision for children with
+Down syndrome. Pediatrics 128(2):393, 2011
+Burn J, Brennan P, Little J, et al: Recurrence risks in offspring of adults with major heart defects: results
+from first cohort of British collaborative study. Lancet 351(9099):311, 1998
+Callaway JL, Shaffer LG, Chitty LS, et al: The clinical utility of microarray technologies applied to
+prenatal cytogenetics in the presence of a normal conventional karyotype: a review of the literature.
+Prenat Diagn 33(12):1119, 2013
+Canunas-Soler J, Lee H, Hudgins L, et al: Noninvasive prenatal diagnosis of single-gene disorders by
+use of droplet digital PCR. Clin Chem 64(2):336, 2018
+Carey L, Scott F, Murphy K, et al: Prenatal diagnosis of chromosomal mosaicism in over 1600 cases
+using array comparative genomic hybridization as a first line test. Prenat Diagn 34(5):478, 2014
+Chitty LS, Finning K, Wade A: Diagnostic accuracy of routine antenatal determination of fetal RHD
+status across gestation: population based cohort study. BMJ 349:g5243, 2014
+Chong HP, Hamilton S, Mone F, et al: Prenatal chromosomal microarray testing of fetuses with
+ultrasound structural anomalies: a prospective cohort study of over 1000 cases. Prenat Diagn
+39(12):1064, 2019
+Clausen FB, Christiansen M, Steffensen R, et al: Report of the first nationally implemented clinical
+routine screening for fetal RHD in D–pregnant women to ascertain the requirement for antenatal
+
+RHD prophylaxis. Transfusion 52(4):752, 2012
+Cockwell A, MacKenzie M, Youings S, et al: A cytogenetic and molecular study of a series of 45,X
+fetuses and their parents. J Med Genet 28(3):151, 1991
+Cools M, Pleskacova J, Stoop H, et al: Gonadal pathology and tumor risk in relation to clinical
+characteristics in patients with 45,X/46,XY mosaicism. J Clin Endocrinol Metab 96(7):E1171, 2011
+Cooper DS, Riggs KW, Zafar F, et al: Cardiac surgery in patients with trisomy 13 and 18: an analysis of
+the Society of Thoracic Surgeons Congenital Heart Surgery Database. J Am Heart Assoc
+8:e012349, 2019
+Cragan JD, Gilboa SM: Including prenatal diagnoses in birth defects monitoring: experience of the
+Metropolitan Atlanta Congenital Defects Program. Birth Defects Res A Clin Mol Teratol 85(1):20,
+2009
+Cronister A, Teicher J, Rohlfs EM, et al: Prevalence and instability of fragile X alleles: implications for
+offering fragile X premutation diagnosis. Obstet Gynecol 111(3):596, 2008
+Curnow KJ, Wilkins-Haug L, Ryan A, et al: Detection of triploid, molar, and vanishing twin pregnancies
+by single-nucleotide polymorphism-based noninvasive prenatal test. Am J Obstet Gynecol
+212(1):79.e1, 2015
+de Haas M, Thurik FF, van der Ploeg CP, et al: Sensitivity of fetal RHD screening for safe guidance of
+targeted anti-D immunoglobulin prophylaxis: a prospective cohort study of a nationwide programme
+in the Netherlands. BMJ 355:i5789, 2016
+Devaney SA, Palomaki GE, Scott JA, et al: Noninvasive fetal sex determination using cell-free fetal
+DNA: a systematic review and meta-analysis. JAMA 306(6):627, 2011
+Dolk H, Loane M, Garne E: The prevalence of congenital anomalies in Europe. Adv Exp Med Biol
+686:349, 2010
+Domingo L, Carey JC, Eckhauser A, et al: Mortality and resource use following cardiac interventions in
+children with trisomy 13 and trisomy 18 and congenital heart disease. Pediatr Cardiol 40(2):349,
+2019
+Doody KJ: Treatment of the infertile couple. In Hoffman BL, Schorge JO, Halvorson LM, et al (eds):
+Williams Gynecology, 4th ed. New York, McGraw-Hill, 2020
+Dotters-Katz SK, Humphrey WM, Senz KL, et al: Trisomy 13 and the risk of gestational hypertensive
+disorders: a population-based study. J Mat Fetal Neonatal Med 31(15):1951, 2018
+Edwards JH, Harnden DG, Cameron AH, et al: A new trisomic syndrome. Lancet 1(7128):787, 1960
+Ford CE, Jones KW, Polani PE, et al: A sex-chromosome anomaly in a case of gonadal dysgenesis
+(Turner’s syndrome). Lancet 1(7075):711, 1959
+Freeman SB, Bean LH, Allen EG, et al: Ethnicity, sex, and the incidence of congenital heart defects: a
+report from the National Down Syndrome Project. Genet Med 10(3):173, 2008
+Freire-Maia N: Effects of consanguineous marriages on morbidity and precocious mortality: genetic
+counseling. Am J Med Genet 18(3):401, 1984
+Gil MM, Accurti V, Santacruz B, et al: Analysis of cell-free DNA in maternal blood in screening for
+aneuploidies: updated meta-analysis. Ultrasound Obstet Gynecol 50:302, 2017
+Girardin CM, Vliet GV: Counselling of a couple faced with a prenatal diagnosis of Klinefelter syndrome.
+Acta Pediatr 100(6):917, 2011
+Goel N, Morris JK, Tucker D, et al: Trisomy 13 and 18-prevalence and mortality-a multi-registry
+population based analysis. Am J Med Genet A 179(12):2382, 2019
+Goriely A, Wilkie AO: Paternal age effect mutations and selfish spermatogonial selection: causes and
+consequences for human diseases. Am J Hum Genet 90(2):175, 2012
+
+Grange DK, Hillman RE, Burton BK, et al: Sapropterin dihydrochloride use in pregnant women with
+phenylketonuria: an interim report of the PKU MOMS sub-registry. Mol Genet Metab 112(1):9, 2014
+Grati FR: Chromosomal mosaicism in human feto-placental development: implications for prenatal
+diagnosis. J Clin Med 3(3):809, 2014a
+Grati FR, Malvestiti F, Ferreira JC, et al: Fetoplacental mosaicism: potential implications for falsepositive and false negative non-invasive prenatal screening results. Genet Med 16(8):620, 2014b
+Grau Madsen S, Uldbjerg N, Sunde L, et al: Prognosis for pregnancies with trisomy 16 confined to the
+placenta: a Danish cohort study. Prenat Diagn 38(13):1103, 2018
+Grosse SD, Collins JS: Folic acid supplementation and neural tube defect recurrence prevention. Birth
+Defects Res A Clin Mol Teratol 79(11):737, 2007
+Haimila KI, Sulin K, Kuosmanen M, et al: Targeted antenatal anti-D prophylaxis program for RhDnegative pregnant women–outcome of the first two years of a national program in Finland. Acta
+Obstet Gynecol Scand 96(10):1228, 2017
+Hartley D, Blumenthal T, Carrillo M, et al: Down syndrome and Alzheimer’s disease: common
+pathways, common goals. Alzheimers Dement 11(6):700, 2015
+Hassold T, Arnovitz K, Jacobs PA, et al: The parental origin of the missing or additional chromosome in
+45,X and 47,XXX females. Birth Defects Orig Artic Ser 26(4):297, 1990
+Heinrich T, Nanda I, Rehn M, et al: Live-born trisomy 22: patient report and review. Mol Syndromol
+3(6):262, 2012
+Hibbard ED, Smithells RW: Folic acid metabolism and human embryopathy. Lancet 1:1254, 1965
+Hook EB, Warburton D: Turner syndrome revisited: review of new data supports the hypothesis that all
+viable 45,X cases are cryptic mosaics with a rescue cell line, implying an origin by mitotic loss. Hum
+Genet 133(4):417, 2014
+Houlihan OA, O’Donoghue K: The natural history of pregnancies with a diagnosis of Trisomy 18 or
+Trisomy 13; a retrospective case series. BMC Pregnancy and Childbirth 13:209, 2013.
+Hussamy DJ, Herrera CL, Twickler DM, et al: Number of risk factors in Down syndrome pregnancies.
+Am J Perinatol 36(1):79, 2019
+Hsu LY, Perlis TE: United States survey on chromosome mosaicism and pseudomosaicism in prenatal
+diagnosis. Prenat Diagn 4(7):97, 1984
+Jacobs PA, Hassold TJ: The origin of numerical chromosomal abnormalities. Adv Genet 33:101, 1995
+Jauniaux E: Partial moles: from postnatal to prenatal diagnosis. Placenta 20(5–6):379, 1999
+Jenkins LA, Deans ZC, Lewis C, et al: Delivering an accredited non-invasive prenatal diagnosis service
+for monogenic disorders and recommendations for best practice. Prenat Diagn 38(1):44, 2018
+Johns Hopkins University: Online Mendelian Inheritance in Man (OMIM). 2021. Available at:
+http://omim.org/. Accessed October 4, 2021
+Joseph L, Farmer C, Chlebowski C, et al: Characterization of autism spectrum disorder and
+neurodevelopmental profiles in youth with XYY syndrome. J Neurodev Disord 10(1):30, 2018
+Kapurubandara S, Melov S, Shalou E, et al: Consanguinity and associated perinatal outcomes, including
+stillbirth. Aust N Z J Obstet Gynecol 56(6):599, 2016
+Kehinde FI, Anderson CE, McGowan JE, et al: Co-occurrence of non-mosaic trisomy 22 and inherited
+balanced t(4;6)(q33;q23.3) in a liveborn female: case report and review of the literature. Am J Med
+Genet Part A 164(12):3187, 2014
+Kerr SM, Parker SE, Mitchell AA, et al: Periconceptional maternal fever, folic acid intake, and the risk
+for neural tube defects. Ann Epidemiol 27(12):777, 2017
+Kinder JM, Stelzer IA, Arch PC, et al: Immunological implications of pregnancy-induced
+microchimerism. Nat Rev Immunol 17(8)483, 2017
+
+Koch R, Hanley W, Levy H, et al: The maternal phenylketonuria international study: 1984–2002.
+Pediatrics 112(6 Pt 2):1523, 2003
+Kong A, Frigge ML, Masson G, et al: Rate of de novo mutations, father’s age, and disease risk. Nature
+488(7412):471, 2012
+Krogh C, Gortz S, Wohlfahrt J, et al: Pre- and perinatal risk factors for pyloric stenosis and their
+influence on the male predominance. Am J Epidemiol 176(1):24, 2012
+Lejeune J, Turpin R, Gautier M: Chromosomic diagnosis of mongolism. Arch Fr Pediatr 16:962, 1959
+Lin AE, Garver KL: Genetic counseling for congenital heart defects. J Pediatr 113(6):1105, 1988
+Lin HY, Chen YJ, Hung HY, et al: Clinical characteristics and survival of trisomy 18 in a medical center
+in Taipei, 1988–2004. Am J Med Genet 140(9):945, 2006
+Lin HY, Lin SP, Chen YJ, et al: Clinical characteristics and survival of trisomy 13 in a medical center in
+Taiwan, 1985–2004. Pediatr Int 49(3):380, 2007
+Loane M, Morris JK, Addor M, et al: Twenty-year trends in the prevalence of Down syndrome and
+other trisomies in Europe: impact of maternal age and prenatal screening. Eur J Hum Genet
+21(1):27, 2013
+Lord J, McMullan DJ, Eberhardt RY. Prenatal exome sequencing analysis in fetal structural anomalies
+detected by ultrasonography (PAGE): a cohort study. Lancet 393(10173):747, 2019
+Lowe X, Eskenazi B, Nelson DO, et al: Frequency of XY sperm increases with age in fathers of boys
+with Klinefelter syndrome. Am J Hum Genet 69(5):1046, 2001
+Lupton M, Oteng-Ntim E, Ayida G, et al: Cardiac disease in pregnancy. Curr Opin Obstet Gynecol
+14(2):137, 2002
+Mai CT, Kucik JE, Isenburg J, et al: Selected birth defects data from population-based birth defects
+surveillance programs in the United States, 2006 to 2010: featuring trisomy conditions. Birth Defects
+Res A Clin Mol Teratol 97(11):709, 2013
+Malvestiti F, Agrati C, Grimi B, et al: Interpreting mosaicism in chorionic villi: results of a monocentric
+series of 1001 mosaics in chorionic villi with follow-up amniocentesis. Prenat Diagn 35(11):1117,
+2015
+Manning M, Hudgins L: Professional Practice and Guidelines Committee: array-based technology and
+recommendations for utilization in medical genetics practice for detection of chromosomal
+abnormalities. Genet Med 12(11):742, 2010
+Martinez-Portilla RJ, Pauta M, Hawkins-Villarreal A, et al: Added value of chromosomal microarray
+analysis over conventional karyotyping in stillbirth work-up: systematic review and meta-analysis.
+Ultrasound Obstet Gynecol 53(5):590, 2019
+Massalska D, Bijok J, Ilnicka A, et al: Triploidy – variability of sonographic phenotypes. Prenat Diagn
+37(8):774, 2017
+McDonald-McGinn DM, Sullivan KE, Marino B, et al: 22q11.2 deletion syndrome. Nat Rev Dis Primers
+1:15071, 2015
+McGowan-Jordan J, Hastings RJ, Moore S (eds): ISCN 2020: An International System for Human
+Cytogenomic Nomenclature. Basel, Karger, 2020
+Meyer RE, Liu G, Gilboa SM, et al: Survival of children with trisomy 13 and trisomy 18: a multi-state
+population-based study. Am J Med Genet Part A 170(4):825, 2016
+Monaghan KG, Lyon E, Spector EB, et al: ACMG Standards and Guidelines for fragile X testing: a
+revision to the disease-specific supplements to the Standards and Guidelines for Clinical Genetics
+Laboratories of the American College of Medical Genetics and Genomics. Genet Med 15(7):575,
+2013
+
+MRC Vitamin Study Research Group: Prevention of neural tube defects: results of the Medical
+Research Council Vitamin Study. Lancet 338(8760):131, 1991
+National Center for Biotechnology Information: GeneReviews. 2021. Available at:
+https://www.ncbi.nlm.nih.gov/books/NBK1116/. Accessed October 4, 2021
+National Center for Biotechnology Information: GTR: Genetic Testing Registry. 2021. Available at:
+https://www.ncbi.nlm.nih.gov/gtr/. Accessed October 4, 2021
+National Library of Medicine: MedlinePlus Genetics. 2021. Available at:
+https://medlineplus.gov/genetics/. Accessed October 4, 2021
+Nelson DL: The fragile X syndromes. Semin Cell Biol 6(1):5, 1995
+Nelson KE, Rosella LC, Mahant S, et al: Survival and surgical interventions for children with trisomy 13
+and 18. JAMA 316(4):420, 2016
+Nolin SL, Brown WT, Glickspan A, et al: Expansion of the fragile X CGG repeat in females with
+premutation or intermediate alleles. Am J Hum Genet 72(2):454, 2003
+Nora JJ, Nora AH: Updates on counseling the family with a first-degree relative with a congenital heart
+defect. Am J Med Genet 29(1):137, 1988
+Norton ME, Brar H, Weiss J, et al: Non-Invasive Chromosomal Evaluation (NICE) study: results of a
+multicenter prospective cohort study for detection of fetal trisomy 21 and trisomy 18. Am J Obstet
+Gynecol 207(2):137.e1, 2012
+Nussbaum RL, McInnes RR, Willard HF (eds): Complex inheritance of common multifactorial traits. In
+Thompson & Thompson Genetics in Medicine, 8th ed. Philadelphia, Saunders, 2016
+Olsson A, Hellgren M, Berntorp E, et al: Clotting factor level is not a good predictor of bleeding in
+carriers of haemophilia A and B. Blood Coagul Fibrinolysis 25(5):471, 2014
+Oniya O, Neves K, Ahmed B, et al: A review of the reproductive consequences of consanguinity. Eur J
+Obstet Gynecol Reprod Biol 232(1):87, 2019
+Parker SE, Mai CT, Canfield MA, et al: Updated national birth prevalence estimates for selected birth
+defects in the United States, 2004–2006. Birth Defects Res A Clin Mol Teratol 88(12):1008, 2010
+Patau K, Smith DW, Therman E, et al: Multiple congenital anomaly caused by an extra autosome.
+Lancet 1(7128):790, 1960
+Pergament E, Cuckle H, Zimmermann B, et al: Single-nucleotide polymorphism-based noninvasive
+prenatal screening in a high-risk and low-risk cohort. Obstet Gynecol 124(2pt1):210, 2014
+Petersen JM, Parker SE, Benedum CM, et al: Periconceptional folic acid and risk for neural tube
+defects among higher risk pregnancies. Birth Defects Res 111(19):1501, 2019
+Petrovski S, Aggarwal V, Giordano JL, et al. Whole-exome sequencing in the evaluation of fetal
+structural anomalies: a prospective cohort study. Lancet 393(10173):758, 2019
+Platt LD, Koch R, Hanley WB, et al: The international study of pregnancy outcome in women with
+maternal phenylketonuria: report of a 12-year study. Am J Obstet Gynecol 182(2):326, 2000
+Plug I, Mauser-Bunschoten EP, Brocker-Vriends AH, et al: Bleeding in carriers of hemophilia. Blood
+108(1):52, 2006
+Quezada MS, Gil MM, Francisco C, et al: Screening for trisomies 21, 18, and 13 by cell-free DNA
+analysis of maternal blood at 10–11 weeks. Ultrasound Obstet Gynecol 45(1):36, 2015
+Radicioni AF, Ferlin A, Balercia G, et al: Consensus statement on diagnosis and clinical management of
+Klinefelter syndrome. J Endocrinol Invest 33(11):839, 2010
+Rankin J, Tennant PWG, Bythell M, et al: Predictors of survival in children born with Down syndrome: a
+registry-based study. Pediatrics 129(6):e1373, 2012
+
+Reddy UM, Abuhamad AZ, Levine D, et al: Fetal Imaging. Executive summary of a joint Eunice
+Kennedy Shriver National Institute of Child Health and Human Development, Society for MaternalFetal Medicine, American Institute of Ultrasound in Medicine, American College of Obstetricians
+and Gynecologists, American College of Radiology, Society for Pediatric Radiology, and Society of
+Radiologists in Ultrasound Fetal Imaging Workshop. Obstet Gynecol 123(5):1070, 2014
+Reddy UM, Goldenberg R, Silver R, et al: Stillbirth classification—developing an international consensus
+for research: executive summary of a National Institute of Child Health and Human Development
+workshop. Obstet Gynecol 114(4):901, 2009
+Reddy UM, Grier PP, Saade GR, et al: Karyotype versus microarray testing for genetic abnormalities
+after stillbirth. N Engl J Med 367(23):2185, 2012
+Romeo G, Bittles AH: Consanguinity in the contemporary world. Hum Hered 77(1):6, 2014
+Rosa RF, Rosa RC, Lorenzen MB, et al: Trisomy 18: experience of a reference hospital from the south
+of Brazil. Am J Med Genet A 155A(7):1529, 2011
+Samango-Sprouse CA, Lasutschinkow P, Powell S, et al: The incidence of anxiety symptoms in boys
+with 47,XXY (Klinefelter syndrome) and the possible impact of timing of diagnosis and hormonal
+replacement therapy. Am J Med Genet Part A 179(3):423, 2019
+Schmickel RD: Contiguous gene syndromes: a component of recognizable syndromes. J Pediatr
+109(2):231, 1986
+Schneider AS, Mennuti MT, Zackai EH: High cesarean section rate in trisomy 18 births: a potential
+indication for late prenatal diagnosis. Am J Obstet Gynecol 140(4):367, 1981
+Schorge JO: Ovarian germ cell and sex cord-stromal tumors. In Hoffman BL, Schorge JO, Halvorson
+LM, et al (eds): Williams Gynecology, 4th ed. New York, McGraw-Hill Education, 2020
+Shaffer LG, Agan N, Goldberg JD, et al: American College of Medical Genetics Statement on
+diagnostic testing for uniparental disomy. Genet Med 3(3):206, 2001
+Sheridan E, Wright J, Small N, et al: Risk factors for congenital anomaly in a multiethnic birth cohort: an
+analysis of the Born in Branford study. Lancet 382(9901):1350, 2013
+Shin M, Besser LM, Kucik JE, et al: Prevalence of Down syndrome in children and adolescents in 10
+regions of the United States. Pediatrics 124(6):1565, 2009
+Shipp TD, Benacerraf BR: Second trimester ultrasound screening for chromosomal abnormalities.
+Prenat Diagn 22(4):296, 2002
+Shprintzen RJ: Velo-cardio-facial syndrome: 30 years of study. Dev Disabil Res Rev 14(1):3, 2008
+Silasi M, Rana S, Powe C, et al: Placental expression of angiogenic factors in trisomy 13. Am J Obstet
+Gynecol 204(6):546.e1, 2011
+Society for Maternal-Fetal Medicine: The use of chromosomal microarray for prenatal diagnosis.
+SMFM Consult Series No. 41. October 2016
+Spence JE, Perciaccante RG, Greig FM, et al: Uniparental disomy as a mechanism for human genetic
+disease. Am J Hum Genet 42(2):217, 1988
+Spotila LD, Sereda L, Prockop DJ: Partial isodisomy for maternal chromosome 7 and short stature in an
+individual with a mutation at the COLIA2 locus. Am J Hum Genet 51(6):1396, 1992
+Springett A, Wellesley D, Greenlees R, et al: Congenital anomalies associated with trisomy 18 or trisomy
+13: a registry-based study in 16 European countries, 2000–2011. Am J Med Genet A 167A(12):3062,
+2015
+Stevenson DA, Carey JC: Contribution of malformations and genetic disorders to mortality in a
+children’s hospital. Am J Med Genet 126A(4):393, 2004
+Stoll C, Dott B, Alembik Y, et al: Associated congenital anomalies among cases with Down syndrome.
+Eur J Med Genet 58(12):674, 2015
+
+Stoltenberg C, Magnus P, Lie RT, et al: Birth defects and parental consanguinity in Norway. Am J
+Epidemiol 145(5):439, 1997
+Tartaglia N, Ayari N, Howell S, et al: 48,XXYY, 48,XXXY, and 49,XXXXY syndromes: not just variants
+of Klinefelter syndrome. Acta Paediatrica 100(6):851, 2011
+Tartaglia NR, Howell S, Sutherland A, et al: A review of trisomy X (47,XXX). Orphanet J Rare Dis 5:8,
+2010
+Toriello HV, Meck JM, Professional Practice and Guidelines Committee: Statement on guidance for
+genetic counseling in advanced paternal age. Genet Med 10(6):457, 2008
+Toutain J, Goutte-Gattat D, Horovitz J, et al: Confined placental mosaicism revised: impact on pregnancy
+characteristics and outcome. PLoS One 13(4):e0195905, 2018
+Tran SL, Samango-Sprouse CA, Sadeghin T, et al: Hormonal replacement therapy and its potential
+influence on working memory and competency/adaptive functioning in 47,XXY (Klinefelter
+syndrome). Am J Med Genet Part A 179(12):2374, 2019
+Tuohy JF, James DK: Pre-eclampsia and trisomy 13. BJOG 99(11):891, 1992
+Turner HH: A syndrome of infantilism, congenital webbed neck and cubitus valgus. Endocrinol 23:566,
+1938
+Vendola C, Canfield M, Daiger SP, et al: Survival of Texas infants born with trisomies 21, 18, and 13.
+Am J Med Genet A 152A(2):360, 2010
+Vockley J, Andersson HC, Antshel KM, et al: ACMG Practice Guidelines: phenylalanine hydroxylase
+deficiency: diagnosis and management guideline. Genet Med 16(2):188, 2014
+Wang J, Chen L, Zhou C, et al. Prospective chromosome analysis of 3429 amniocentesis samples in
+China using copy number variation sequencing. Am J Obstet Gynecol 219(3):287, 2018
+Wang Y, Chen Y, Tian F, et al: Maternal mosaicism is a significant contributor to discordant sex
+chromosomal aneuploidies associated with non-invasive prenatal testing. Clin Chem 60(1):251, 2014
+Watson WJ, Miller RC, Wax JR, et al: Sonographic findings of trisomy 18 in the second trimester of
+pregnancy. J Ultrasound Med 27(7):1033, 2008
+Wellesley D, Dolk H, Boyd PA, et al: Rare chromosome abnormalities, prevalence, and prenatal
+diagnosis rates from population-based congenital anomaly registers in Europe. Eur J Hum Genet
+20(5):521, 2012
+Wigby K, D’Epagnier C, Howell S, et al: Expanding the phenotype of triple X syndrome: a comparison
+of prenatal versus postnatal diagnosis. Am J Med Genet Part A 170(11):2870, 2016
+Wilkie AOM, Goriely A: Gonadal mosaicism and non-invasive prenatal diagnosis for reassurance in
+sporadic paternal age effect (PAE) disorders. Prenat Diagn 23(9):946, 2017
+Worton RG, Stern R: A Canadian collaborative study of mosaicism in amniotic fluid cell cultures. Prenat
+Diagn 4(7):131, 1984
+Wou K, Hyun Y, Chitayat D, et al: Analysis of tissue from products of conception and perinatal losses
+using QF-PCR and microarray: a three-year retrospective study resulting in an efficient protocol.
+Eur J Med Genet 59(8):417, 2016
+Zalel Y, Shapiro I, Weissmann-Brenner A, et al: Prenatal sonographic features of triploidy at 12–16
+weeks. Prenat Diagn 36(7)650, 2016
+Zhang J, Li J, Saucier JB, et al. Non-invasive prenatal sequencing for multiple Mendelian monogenic
+disorders using circulating cell-free DNA. Nat Med 2019;25(3):439
+

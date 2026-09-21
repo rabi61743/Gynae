@@ -1,0 +1,1681 @@
+CHAPTER 8
+
+Teratology, Teratogens, and Fetotoxic
+Agents
+
+TERATOLOGY
+CRITERIA FOR DETERMINING TERATOGENICITY
+STUDIES IN PREGNANT WOMEN
+COUNSELING FOR MEDICATION EXPOSURE
+LABELING REQUIREMENTS
+TERATOGENIC AND FETOTOXIC AGENTS
+DRUGS OF ABUSE
+REFERENCES
+Birth defects are common. Of all newborns, 2 to 3 percent have a major
+congenital abnormality detectable at birth (Cragan, 2009; Dolk, 2010). Some
+medications undoubtedly pose significant risk to the developing embryo or
+fetus (Table 8-1). However, 80 percent of birth defects do not have an
+obvious etiology, and of those with an identified cause, nearly 95 percent of
+cases have chromosomal or genetic origins (Feldkamp, 2017). The U.S.
+Food and Drug Administration (FDA) (2018) estimates that <1 percent of all
+birth defects are caused by medications (Fig. 8-1).
+TABLE 8-1. Selected Teratogenic and Fetotoxic Agents
+
+FIGURE 8-1 Etiology of birth defects. Known and unknown causes of 5504 birth defects from a
+population-based review of 270,878 births.
+
+That said, significant concern surrounds medication use in pregnancy.
+This is because many pregnant women are prescribed medications and
+because safety data are often lacking. Investigators from the National Birth
+Defects Prevention Study found that women take an average of two to three
+medications per pregnancy and that 70 percent use medication in the first
+trimester (Mitchell, 2011). A population-based review from Canada found
+that 65 percent of women fill ≥1 prescription during pregnancy (Leong,
+2019). Between 2010 and 2019, the FDA approved 290 new drugs, and only
+11 percent had human data related to pregnancy (Byrne, 2020).
+
+TERATOLOGY
+The study of birth defects and their etiology is termed teratology, derived
+from the Greek teratos, meaning monster. A teratogen may be broadly
+defined as any agent that acts during embryonic or fetal development to
+
+produce a permanent alteration of form or function. Thus, a teratogen may be
+a medication or other chemical substance, a physical or environmental factor
+such as heat or radiation, a maternal metabolite as in diabetes or
+phenylketonuria, or an infection such as cytomegalovirus.
+Strictly defined, a teratogen causes structural abnormalities. A hadegen
+—after the god Hades—is an agent that interferes with normal maturation and
+function of an organ. A trophogen is an agent that alters growth. Substances
+in the latter two groups typically affect development in the fetal period or
+postnatally and are thus fetotoxins rather than teratogens.
+
+■ Criteria for Determining Teratogenicity
+The guidelines shown in Table 8-2 were proposed by Shepard (1994) as a
+framework for discussion and have proved useful for nearly 30 years.
+Although each individual criterion is not required to establish teratogenicity,
+the following tenets should be considered (Shepard, 2002a):
+TABLE 8-2. Criteria for Determining Teratogenicity
+
+• The abnormality has been completely characterized. This is preferably
+done by a geneticist or dysmorphologist because different genetic and
+environmental factors may produce similar defects. It is easiest to prove
+causation when a rare exposure produces a rare anomaly, when at least
+three cases with the same exposure have been identified, and when the
+defect is severe.
+• The agent must cross the placenta. Although almost all drugs cross the
+placenta, transport must be of sufficient quantity to directly influence
+embryonic or fetal development or to alter maternal or placental
+metabolism to exert an indirect effect. Placental transfer depends on
+
+maternal metabolism; on specific characteristics of the drug, such as protein
+binding and storage, molecular size, electrical charge, and lipid solubility;
+and on placental metabolism, such as by the cytochrome P450 enzyme
+system. In early pregnancy, the placenta also has a relatively thick
+membrane that slows diffusion.
+• Exposure must occur during a critical developmental period.
+○ The preimplantation period is the 2 weeks between fertilization and
+implantation and is known as the “all or none” period. As the zygote
+undergoes cleavage, an insult damaging a large number of cells typically
+causes embryonic death. However, if only a few cells are injured,
+compensation may be possible and allow normal development.
+○ The embryonic period extends from the second through the eighth week
+postconception. It encompasses organogenesis and is thus the most
+crucial period with regard to structural malformations. Critical
+developmental periods for each organ system are illustrated in Figure 7-2
+(p. 122).
+○ The fetal period, which is beyond 8 weeks postconception, is
+characterized by continued maturation and functional development.
+During this time, certain organs remain vulnerable.
+• A biologically plausible association is supportive. Because birth defects
+and medication exposures are both common, they may be temporally but not
+causally related.
+• Epidemiological findings must be consistent. Because initial evaluation of
+teratogen exposure is often retrospective, it may be hampered by recall
+bias, inadequate reporting, and incomplete assessment of the exposed
+population. Potential confounding factors include varying dosages,
+concomitant drug therapy, and comorbid maternal disease(s). Familial and
+environmental variables also can influence development of birth defects.
+Thus, an important criterion for teratogenicity is that two or more highquality epidemiological studies report similar findings. Last, a relative risk
+of 3.0 or greater is generally considered necessary to support the
+hypothesis, whereas a lesser risk is interpreted with caution (Khoury,
+1992).
+• The suspected teratogen causes a defect in animal studies. This criterion is
+not obligatory, and for litigation purposes, establishment of a causal
+
+relationship between an exposure and an outcome in humans requires
+human data (Teratology Society Public Affairs Committee, 2005).
+Failure to employ these tenets and criteria has contributed to erroneous
+conclusions regarding the safety of some widely used drugs. The poster child
+for this is the medicolegal fiasco surrounding Bendectin. This antiemetic was
+a combination of doxylamine and pyridoxine, with or without dicyclomine.
+More than 30 million women used this drug worldwide, and it was safe and
+effective for nausea and vomiting in early pregnancy. The 3-percent
+congenital anomaly rate among exposed fetuses was not different from the
+background rate (McKeigue, 1994). Despite considerable evidence that this
+combination of an antihistamine and a B-vitamin is not teratogenic, Bendectin
+was the target of numerous lawsuits, and the financial burden of defending
+these forced its withdrawal from the marketplace in 1983. Consequently,
+hospitalization rates for hyperemesis doubled (Koren, 1998). Ironically, the
+combination of doxylamine and pyridoxine was subsequently remarketed
+under the brand name Diclegis and was approved by the FDA in 2013.
+
+■ Studies in Pregnant Women
+The study of medication safety—or teratogenicity—in pregnant women is
+fraught with complications. First, animal studies are necessary but
+insufficient. For example, thalidomide was considered harmless in several
+animal species but resulted in phocomelia in thousands of children born
+across Europe in the late 1950s and early 1960s. Second, medications are
+rarely approved by the FDA for a pregnancy-related indication. Despite the
+Common Rule’s removal of pregnant women as a vulnerable population,
+pregnant women are routinely excluded from research (Health and Human
+Services, 2017; Spong, 2018). Last, drug concentration and thus embryo-fetal
+exposure are affected by pregnancy physiology. This includes changes in
+volume of distribution, cardiac output, gastrointestinal absorption, hepatic
+metabolism, and renal clearance. In the absence of research trials, counseling
+is based on case reports or series, case-control studies, cohort studies, and
+pregnancy registry data.
+
+Case Reports and Series
+
+Many major teratogens were first described by clinicians who observed a
+rare defect occurring after a rare exposure. This has been termed the “astute
+clinician model” (Carey, 2009). Congenital rubella syndrome was identified
+in this way by Gregg (1941), an Australian ophthalmologist whose
+observations challenged the view that the uterine environment was
+impervious to noxious agents. Other teratogens identified through case series
+include thalidomide and alcohol (Jones, 1973; Lenz, 1962). Shepard (2002a)
+recommended that establishment of teratogenicity in this way requires proven
+exposure at a critical time in development and at least three such cases.
+Unfortunately, teratogens are less likely to be identified if the exposure is
+uncommon, if the defects are relatively nonspecific, or if abnormalities
+develop in only a small proportion of exposed fetuses. A major limitation of
+case series is their lack of a control group.
+
+Case-control Studies
+These studies begin with groups of affected infants (cases) and unaffected
+controls and are structured to allow retrospective assessment of prenatal
+exposure to particular substances. Case-control studies are an efficient way
+to study rare outcomes (Alwan, 2015). These permit investigators to evaluate
+associations and generate useful hypotheses. However, case-control studies
+have inherent potential for recall bias. Namely, parents of an affected infant
+are often more likely to recall exposure than those whose child is not ill.
+Confounding by indication is another concern, that is, the indication for the
+medication may be the cause of the birth defect. And importantly, birth defect
+registries have statistical power to detect small differences that may not be
+clinically meaningful. Grimes and Schulz (2012) have cautioned that unless
+odds ratios in case-control studies are above three- to fourfold, the observed
+associations may not be correct.
+The National Birth Defects Prevention Study. Funded by Congress and
+coordinated by the National Center on Birth Defects and Developmental
+Disabilities, the National Birth Defects Prevention Study (NBDPS) took
+place between 1997 and 2013 across ten states with active birth defects
+surveillance programs. It is an excellent example of a population-based casecontrol study. The study involved approximately 32,000 cases and nearly
+12,000 controls. Live births, stillbirths, and terminated pregnancies were
+included. Clinical geneticists reviewed each potential case, and standardized
+
+telephone interviews were conducted with women whose pregnancies were
+affected or unaffected to obtain information regarding medication exposure
+and risk factors (Mitchell, 2011; Reefhuis, 2015).
+The NBDPS identified novel—although often small—associations
+between individual birth defects and several classes of medications. These
+include antibiotics, antidepressants, antiemetics, antihypertensives, asthma
+medications, nonsteroidal antiinflammatory drugs (NSAIDs), and opioids
+(Ailes, 2016; Broussard, 2011; Fisher, 2018; Hernandez, 2012; Lin, 2012;
+Munsie, 2011). Pregestational diabetes was significantly associated with 46
+of 50 different abnormalities studied (Tinker, 2020). The NBDPS also found
+associations between birth defects and exposures such as secondhand smoke,
+pesticides, and nitrogen oxide, which is a marker of traffic-related air
+pollution (Hoyt, 2016; Rocheleau, 2015; Stingone, 2017).
+The NBDPS had several key limitations related to study design. First,
+interviews were conducted 6 weeks to 2 years following delivery, which
+raised the likelihood of recall bias. For example, 25 percent of women could
+not remember which antibiotic they had taken (Ailes, 2016). Additionally,
+only two thirds of women agreed to participate, and there were differences in
+ethnicity and socioeconomic status between cases and controls. These factors
+may have contributed to selection bias (Reefhuis, 2015). Further, medical
+records were not reviewed to verify dosage, and this precluded assessment
+of dose-response relationships. Last, a major limitation was that because the
+NBDPS included only a small number of cases of each birth defect and
+analyzed them for many different maternal exposures, it was not possible to
+adjust for multiple comparisons. As a result, some of the observed
+associations were likely due to chance (Alwan, 2015). As one example, the
+study of antibiotics and birth defects included 43 comparisons and identified
+four significant associations, but chance alone predicted that two
+associations would be identified (Ailes, 2016).
+Importantly, the NBDPS was able to identify statistically significant odds
+ratios for which the absolute risk was quite low. Such findings have the
+potential to complicate counseling and prenatal management. In many
+instances, the risk identified by the NBDPS was as low as 1 case per 1000
+exposed pregnancies.
+
+Cohort Studies
+
+These studies begin with cohorts of pregnant women who are exposed or
+unexposed to a particular medication. The percentage of infants or children
+affected with birth defects is examined in each cohort. Because individual
+birth defects are rare, cohort studies require a very large sample size.
+Medicaid datasets and private insurance claims databases are commonly
+used for cohort studies of teratogenicity in the United States (Ehrenstein,
+2010). Inability to adjust for confounding variables—such as the indication
+for which the medication was needed—is an important limitation of this
+study design.
+
+Pregnancy Registries
+Potentially harmful agents may be monitored by clinicians who prospectively
+enroll exposed pregnancies in a registry. The FDA (2021) maintains an
+active webpage of Pregnancy Exposure Registries. As of 2021, this included
+registries for 115 individual medications and for medication groups used to
+treat asthma, attention deficit hyperactivity disorder, autoimmune diseases,
+cancer, diabetes, epilepsy, hepatitis B and C, human immunodeficiency virus
+infection, hypercholesterolemia, inborn errors of metabolism, inflammatory
+bowel disease, multiple sclerosis, narcolepsy, psychiatric illness, and
+transplant rejection. Similar to case series, exposure registries are hampered
+by lack of a control group. The prevalence of an abnormality identified
+through a registry requires knowledge of the baseline prevalence of that
+anomaly in the population. Investigators typically use a birth defect registry
+to assess population prevalence. One example is the Metropolitan Atlanta
+Congenital Defects Program, which is an active surveillance program
+established in 1967 for fetuses and infants with birth defects.
+
+COUNSELING FOR MEDICATION EXPOSURE
+Questions regarding medication and illicit drug use should be part of routine
+preconceptional and prenatal care. Misinformation is common. Individuals
+tend to underestimate the background risk for birth defects in the general
+population and exaggerate potential risks associated with medication
+exposure. In one population-based study of more than 270,000 births from
+Utah that included 5500 fetuses and infants with major birth defects, only 4
+cases were attributed to medication exposure (see Fig. 8-1) (Feldkamp,
+
+2017). And yet, Koren and colleagues (1989) reported that a fourth of
+women exposed to nonteratogenic drugs thought they had a 25-percent risk
+for fetal anomalies. Misinformation may be amplified by inaccurate reports
+in the lay press. Knowledgeable counseling may allay anxiety considerably
+and may even avert pregnancy termination.
+Several sources are available to assist providers with accurate and
+updated risk information. With recent changes to the FDA labeling
+requirements, discussed next, the manufacturer’s prescribing information has
+become increasingly helpful. We recommend using this content for initial
+counseling. Published research studies can be identified using PubMed, a
+free database tool from the National Center for Biomedical Information.
+Additionally, online databases such as Reprotox, TERIS, and Shepard’s
+Online Catalog of Teratogenic Agents offer detailed reviews of medication
+risks. Lactmed, a database from the National Library of Medicine,
+specifically deals with medication use by breastfeeding women. Its entries
+on specific medications describe levels in breast milk and potential effects
+on the infant.
+Ultimately, it is the responsibility of the clinician to interpret risk
+information. Medication dosage and route, timing of exposure during
+pregnancy, other medications used, and underlying medical condition(s) are
+considered in this analysis. Last, the risk from lack of treatment also is
+weighed.
+
+■ Labeling Requirements
+In 1979, the FDA developed a letter classification system (A, B, C, D, X) to
+provide therapeutic guidance for prescribing medications in pregnancy.
+These letter categories were intended to simplify risk-benefit data using
+summary statements regarding available evidence from human or animal
+studies of embryonic–fetal risk. Unfortunately, information regarding
+medication risk was often incomplete and led to an overreliance on the
+category definition.
+To address these deficiencies, new FDA (2014, 2020b) labeling
+requirements were created and went into effect in 2015. The label provides a
+framework to aid prescribing decisions by more clearly communicating risks
+and benefits. Information about each medication now incorporates a detailed
+summary of risks, clinical considerations, and available data (Table 8-3).
+
+Registry information is included when available. For each medication, a
+lactation subsection is provided, and a section addressing potential risks in
+females and males of reproductive potential is presented. In addition to risks
+associated with specific medications, the label is required to include the
+background risk of major birth defects and miscarriage in the general
+population. Because of the level of detail in the new labels, the information
+can be indispensable for counseling.
+TABLE 8-3. Food and Drug Administration Pregnancy Labeling
+Requirements
+
+■ Presenting Risk Information
+Counseling should cover not only the embryonic and fetal risks from drug
+exposure, but also the risks and/or genetic implications of the condition for
+which the drug is administered. Risks associated with not treating the
+condition also are described. Even the manner in which information is
+presented affects perception. For example, women given negative
+
+information—such as a 2-percent chance of a malformed newborn—are more
+likely to perceive an exaggerated risk than women given positive information
+—such as a 98-percent chance of an unaffected infant (Jasper, 2001). Instead
+of citing a higher odds ratio, it may be helpful to provide the absolute risk
+for a particular defect or the attributable risk, which is the difference
+between prevalence in exposed and unexposed individuals (Conover, 2011).
+The association between oral corticosteroid medications and cleft lip sounds
+far more concerning when presented as a tripling or 200-percent increase in
+risk than when described as an increase from 1 to 3 cases per 1000 or as a
+99.7-percent likelihood of no cleft development following exposure.
+With a few notable exceptions, most commonly prescribed drugs and
+medications can be used with relative safety during pregnancy. Many drugs
+discussed in this chapter are low-risk teratogens, which are medications that
+produce defects in fewer than 10 per 1000 maternal exposures (Shepard,
+2002a). Because risks conferred by low-risk teratogens are so close to the
+population background rate of fetal anomalies, they may not be a major factor
+in deciding whether to discontinue treatment for an important condition
+(Shepard, 2002b). All women have an approximate 3-percent chance of
+having a fetus or newborn with a major anomaly. Although exposure to a
+confirmed teratogen may elevate this risk, the magnitude of the increase is
+usually only 1 or 2 percent or at most, doubled or tripled. The concept of risk
+versus benefit is often central to counseling. Some untreated diseases pose a
+more serious threat to both mother and fetus than medication exposure risks.
+
+TERATOGENIC AND FETOTOXIC AGENTS
+Considering the thousands of compounds available, relatively few
+medications and other substances are considered to be major human
+teratogens or to have significant fetotoxicity. The most common examples are
+listed in Table 8-1. With few exceptions, in every clinical situation
+potentially requiring therapy with a known teratogen, alternative drugs can be
+given with relative safety. Realizing limitations in available evidence,
+pregnant women should be advised to take any medication only when it is
+clearly needed. Detailed sonography is generally indicated if the fetus has
+been exposed to any major teratogen during the embryonic period.
+
+■ Alcohol
+Ethanol is a potent and prevalent teratogen. It is considered the leading cause
+of preventable developmental disabilities worldwide (Hoyme, 2016). In the
+United States, alcohol use is reported by 10 percent of pregnant women
+(England, 2020). Nearly 10 percent of such women admit to binge drinking in
+the first trimester, and 1 percent report binge drinking in the second and third
+trimesters.
+The fetal effects of alcohol abuse have been recognized since the 1800s.
+Lemoine (1968) and Jones (1973) and their coworkers are credited with
+describing the spectrum of alcohol-related fetal defects known as fetal
+alcohol syndrome. Criteria are shown in Table 8-4 (Hoyme, 2016). For
+every child with the syndrome, many more are born with neurobehavioral
+deficits from alcohol exposure. Fetal alcohol spectrum disorder (FASD) is
+an umbrella term that includes five conditions attributed to prenatal alcohol
+damage: (1) fetal alcohol syndrome, (2) partial fetal alcohol syndrome, (3)
+alcohol-related birth defects, (4) alcohol-related neurodevelopmental
+disorder, and (5) neurobehavioral disorder associated with prenatal alcohol
+exposure (Williams, 2015). The prevalence of FASD exceeds 1 percent in 76
+countries, and 1 in 13 women who consume alcohol in pregnancy has a child
+with FASD (Lange, 2017). The birth prevalence of fetal alcohol syndrome is
+estimated to be as high as 1 percent in the United States (Centers for Disease
+Control, 2015; Guerri, 2009). Further, studies of school-aged children have
+identified FASD in 2 to 5 percent (May, 2009, 2014).
+TABLE 8-4. Criteria for Prenatal Alcohol Exposure, Fetal Alcohol
+Syndrome, and Alcohol-Related Birth Defects
+
+Criteria
+
+Fetal alcohol syndrome has specific criteria (see Table 8-4). These include
+central nervous system (CNS) abnormalities, pre- or postnatal growth
+impairment, and a characteristic pattern of minor facial abnormalities (Fig.
+8-2). Similar criteria have been established for the other conditions that
+make up FASD (Hoyme, 2016). Prenatal alcohol exposure criteria also are
+available to assist with assessment.
+
+FIGURE 8-2 Fetal alcohol syndrome. A. At 2½ years. B. At 12 years. Note persistence of short
+palpebral fissures, epicanthal folds, flat midface, hypoplastic philtrum, and thin upper vermilion border.
+(Reproduced with permission from Streissguth AP, Clarren, SK, Jones KL. Natural history of fetal
+alcohol syndrome: a 10-year follow-up of eleven patients, Lancet. 1985 Jul 13;2(8446):85–91.)
+
+Alcohol-related birth defects include cardiac and renal anomalies,
+orthopedic problems, and abnormalities of the eyes and ears (see Table 8-4).
+An association has further been reported between periconceptional alcohol
+use and omphalocele and gastroschisis (Richardson, 2011). There are no
+established sonographic criteria for prenatal diagnosis of fetal alcohol
+syndrome. At Parkland Hospital, we reserve detailed sonography for
+pregnancies that have met the exposure criteria listed in Table 8-4. Thirdtrimester assessment of fetal growth also should be considered.
+Fetal vulnerability to alcohol is modified by genetic and environmental
+factors, nutritional status, coexisting maternal disease, and maternal age
+
+(Abel, 1995). Binge drinking, however, is believed to pose particularly high
+risk for alcohol-related birth defects and has also been linked to a greater
+risk for stillbirth (Centers for Disease Control, 2015; Strandberg-Larsen,
+2008). The American College of Obstetricians and Gynecologists, Centers
+for Disease Control and Prevention (CDC), and the American Academy of
+Pediatrics have stressed that no amount of alcohol can be considered safe in
+pregnancy (American College of Obstetricians and Gynecologists, 2020a;
+Williams, 2015).
+
+■ Antiepileptic Medications
+Traditionally, women with epilepsy requiring treatment with medication
+were informed that their risk for fetal malformations was increased. More
+recent data suggest that the risk may not be as great as once thought,
+particularly for newer agents. The most frequently reported anomalies are
+orofacial clefts, cardiac malformations, and neural-tube defects.
+Of agents in current use, valproic acid confers the highest risk (Vajda,
+2016). The North American Antiepileptic Drug (NAAED) Pregnancy
+Registry reported that major malformations developed in 9 percent of fetuses
+with first-trimester valproate exposure. This included a 4-percent risk for
+neural-tube defects (Hernandez-Diaz, 2012). School-aged children with
+prior in utero exposure to valproic acid have poorer cognitive development
+—including significantly lower intelligence quotient (IQ) scores—than
+children exposed to other antiepileptic drugs (Bromley, 2014; Meador,
+2009).
+Regarding other specific anticonvulsants, one metaanalysis identified
+increased malformation rates among exposed children compared with rates
+among children born to women with untreated epilepsy. Rates were twofold
+higher among children exposed to carbamazepine or phenytoin, threefold
+higher among those exposed to phenobarbital, and fourfold higher among
+those exposed to topiramate as monotherapy (Weston, 2016). The risk for
+fetal malformations is approximately doubled if multiple agents are required
+(Vajda, 2016). Several older anticonvulsants may produce a constellation of
+findings similar to the fetal hydantoin syndrome. The syndrome is
+characterized by distinctive features such as hypertelorism, low nasal bridge,
+and midface hypoplasia; hypoplasia of the distal phalanges and nails; growth
+impairment; and intellectual disability.
+
+Importantly, evidence to date suggests that these risks do not appear to
+hold for the newer agents levetiracetam and lamotrigine (Mølgaard-Nielsen,
+2011; Weston, 2016). A review of 208 pregnancies with first-trimester
+lamotrigine exposure from the Israeli Teratology Information Service found
+no increase in the rate of major malformations and no case of oral cleft
+(Diav-Citrin, 2017). Similarly, the International Lamotrigine Pregnancy
+Registry followed more than 1500 pregnancies with first trimester exposure
+and observed no effect on the rate of major malformations (Cunnington,
+2011). The Motherisk Program reviewed eight studies of levetiracetam and
+concluded that monotherapy was associated with a 2-percent major
+malformation rate, no different from that for the general population
+(Chaudhry, 2014). More recently, a review of 465 pregnancies reported to
+the Levetiracetam Pregnancy Registry found no evidence of teratogenicity
+(Scheuerle, 2019).
+Providers are encouraged to enroll pregnant women treated with
+antiepileptic medication in the NAAED Pregnancy Registry. Management of
+epilepsy in pregnancy is discussed in Chapter 63 (p. 1128).
+
+■ Angiotensin-converting Enzyme Inhibitors and Receptor
+Blocking Drugs
+These medications may result in angiotensin-converting enzyme (ACE)inhibitor fetopathy. Normal renal development depends on the fetal reninangiotensin system. ACE-inhibitor medication may cause fetal hypotension
+and renal hypoperfusion, with subsequent ischemia and anuria (Guron, 2000;
+Pryde, 1993). Reduced perfusion can result in fetal-growth restriction and
+calvarium maldevelopment, and oligohydramnios may lead to pulmonary
+hypoplasia and limb contractures (Barr, 1991). Because angiotensin-receptor
+blockers have a similar mechanism of action, concerns regarding fetotoxicity
+have been generalized to include this entire medication class. A recent
+review of nearly 200 pregnancies from teratology information services found
+a 30-percent fetopathy risk with angiotensin-receptor blockers compared
+with a 3-percent risk with ACE-inhibitor exposure beyond 20 weeks’
+gestation (Weber-Schoendorfer, 2020).
+Concerns about ACE-inhibitor embryotoxicity have largely been
+disproven. In 2006, a review of 29,000 infants from the Tennessee Medicaid
+database identified a two- to threefold greater risk for neonatal cardiac and
+
+CNS abnormalities among the 209 that had prenatal ACE-inhibitor exposure
+(Cooper, 2006). Subsequent larger studies have not corroborated these
+observations. In a retrospective cohort study of more than 460,000
+pregnancies, risks for birth defects were not higher with ACE inhibitors than
+with other antihypertensive medications (Li, 2011). Similarly, a review of
+1.3 million pregnancies from the Medicaid Analytic eXtract found no
+increased risk for any malformation with ACE-inhibitor exposure after
+adjusting for confounding factors such as diabetes (Bateman, 2017). Thus,
+women with inadvertent first-trimester exposure to these medications may be
+reassured. Importantly, given the many therapeutic options for treating
+hypertension during pregnancy, discussed in Chapter 53 (p. 949), ACE
+inhibitors and angiotensin receptor-blocking drugs should be avoided in
+pregnancy.
+
+■ Antifungal Medications
+From this class of drugs, fluconazole has been associated with a pattern of
+congenital malformations resembling the autosomal recessive Antley-Bixler
+syndrome. Abnormalities include oral clefts, abnormal facies, and cardiac,
+skull, long-bone, and joint abnormalities. Such findings have been reported
+only with chronic, first-trimester, high-dose treatment at doses of 400 to 800
+mg daily.
+Regarding low-dose treatment of vulvovaginal candidiasis, the Motherisk
+Program conducted a systematic review of pregnancies with first-trimester
+oral fluconazole exposure of 150 or 300 mg in total (Alsaad, 2015). The
+overall risk for birth defects was not greater, although a small increase in
+rates of cardiac malformations could not be excluded. A population-based
+cohort study from Denmark identified a threefold greater risk for tetralogy of
+Fallot following exposure to low-dose fluconazole (Mølgaard-Nielsen,
+2013). The birth prevalence of tetralogy of Fallot rose from 3 to 10 cases per
+10,000. Notably, investigators did not identify increased risks for 14 other
+birth defects previously associated with exposure to high-dose azole
+antifungal agents (Mølgaard-Nielsen, 2013). A subsequent review of more
+than 37,000 pregnancies with first-trimester fluconazole exposure did not
+identify an association with cardiac abnormalities (Zhu, 2020). Based on
+reported risks, we do not perform detailed sonography or fetal
+echocardiography following low-dose fluconazole exposure.
+
+■ Antiinflammatory Agents
+Nonsteroidal Antiinflammatory Drugs
+This drug class includes both aspirin and traditional NSAIDs such as
+ibuprofen and indomethacin. They exert their effects by inhibiting
+prostaglandin synthesis. In a report from the NBDPS, at least 20 percent of
+pregnant women recall first-trimester NSAID use, particularly ibuprofen and
+aspirin, and such exposure is not a major risk factor for birth defects
+(Hernandez, 2012).
+When taken in late pregnancy, however, indomethacin may cause
+constriction of the fetal ductus arteriosus and subsequent pulmonary
+hypertension. Fetal ductal constriction is more likely with third trimester use
+that exceeds 72 hours. The drug also may decrease fetal urine production and
+amnionic fluid volume (Rasanen, 1995; van der Heijden, 1994; Walker,
+1994). In one systematic review, indomethacin tocolysis was associated with
+a 1.5-fold risk for bronchopulmonary dysplasia, intraventricular hemorrhage,
+and necrotizing enterocolitis (Hammers, 2015a,b).
+Based on a review of 35 cases of oligohydramnios or neonatal kidney
+problems reported to the FDA Adverse Event Reporting System database,
+the FDA recommends that pregnant women ≥20 weeks’ gestation avoid
+NSAID use (Food and Drug Administration, 2020a). If NSAIDs are needed
+for more than 48 hours, ultrasound evaluation of amnionic fluid should be
+considered. Oligohydramnios usually resolves within 6 days of discontinuing
+NSAIDs, but there are cases in which infants have died of renal failure.
+With aspirin, a low dosage of 100 mg daily or less does not confer a
+greater risk for constriction of the ductus arteriosus or for adverse infant
+outcomes (Grab, 2000). As with other NSAIDs, however, high-dose aspirin
+use should be avoided, particularly in the third trimester.
+
+Leflunomide
+This is a pyrimidine-synthesis inhibitor used to treat rheumatoid arthritis.
+Leflunomide is considered contraindicated in pregnancy. In rats and rabbits,
+leflunomide results in hydrocephalus, eye anomalies, skeletal anomalies, and
+embryo death when given at or below human-equivalent doses (SanofiAventis, 2016). The active metabolite, teriflunomide, is detectable in plasma
+for up to 2 years following discontinuation of the medication. Women who
+
+become pregnant while taking leflunomide, and even those of childbearing
+potential who have discontinued it, are recommended to undergo an
+accelerated drug elimination procedure with either cholestyramine or
+activated charcoal (Sanofi-Aventis, 2016).
+Reassuringly, studies of exposed human pregnancies have not confirmed
+these teratogenic effects (Berard, 2018; Chambers, 2010). In a cohort of 60
+women with first-trimester leflunomide exposure who completed
+cholestyramine washout, the rate of birth defects was not increased
+(Chambers, 2010). A recent review of more than 500 exposed pregnancies
+found that the rate of major birth defects was 3 percent, similar to the general
+population (Henson, 2020). The rate of spontaneous abortion also was not
+increased.
+
+■ Antimicrobial and Antiviral Drugs
+Medications used to treat infections are among those most frequently
+administered during pregnancy. Over the years, experience has accrued
+regarding their general safety. With few exceptions, commonly used
+antimicrobial agents are without embryo-fetal safety concerns.
+
+Nitrofurantoin
+From NBDPS results, first-trimester nitrofurantoin exposure is linked to a
+twofold risk for cleft lip (Ailes, 2016). Considering that the birth prevalence
+of clefts approximates 1 case per 1000, the likelihood that a nitrofurantoinexposed fetus would not have a cleft would thus be 998 per 1000. For other
+birth defects, initial associations with this antibiotic did not persist in the
+final NBDPS cohort (Ailes, 2016).
+In one systematic review of nitrofurantoin exposure in pregnancy, results
+of cohort and case-control studies differed (Goldberg, 2015). Five cohort
+studies included 9275 exposed pregnancies and nearly 1.5 million unexposed
+pregnancies, and the review found no higher risk for any malformation.
+However, among three case-control studies that had nearly 40,000 cases
+matched with 130,000 controls, the rate of hypoplastic left heart syndrome
+was threefold greater (Goldberg, 2015). For context, this increase in risk
+would result in a birth prevalence of fewer than 1 case per 1000 exposed
+infants. Nitrofurantoin is considered contraindicated in pregnant women with
+
+known or suspected glucose-6-phosphate dehydrogenase (G6PD) deficiency
+because of risk for hemolytic anemia and other hematologic abnormalities. In
+the absence of G6PD deficiency, the There are no concerns with second- or
+third-trimester nitrofurantoin use, and first-trimester use is appropriate if no
+suitable alternatives are available.
+
+Sulfonamides
+These drugs are often combined with trimethoprim and used to treat
+infections during pregnancy. One indication is treatment of methicillinresistant Staphylococcus aureus (MRSA) infection. The NBDPS, which
+included 107 pregnancies with periconceptional trimethoprimsulfamethoxazole exposure and birth defects, identified a fivefold greater
+risk to have offspring with esophageal atresia or diaphragmatic hernia
+(Ailes, 2016). Similar to findings with nitrofurantoin exposure, this degree of
+increase would confer a risk of approximately 1 case per 1000 exposed
+infants for these selected birth defects. However, these findings have not
+been corroborated by other reports. One review from the Medication
+Exposure in Pregnancy Risk Evaluation Program included more than 7500
+infants with first-trimester exposure to trimethoprim-sulfamethoxazole
+(Hansen, 2016). Compared with either unexposed infants or those exposed to
+penicillins or cephalosporins, no higher risk for any congenital abnormality
+was identified. Given this reassuring data, we consider sulfonamides
+appropriate for first-trimester use if suitable alternatives are lacking.
+Sulfonamides are considered contraindicated in pregnant women with
+known or suspected G6PD deficiency because of risk for hemolytic anemia
+and other hematologic abnormalities. Additionally, sulfonamides displace
+bilirubin from protein-binding sites. Thus, if given near the time of preterm
+delivery, these agents theoretically might worsen neonatal
+hyperbilirubinemia. However, a population-based review of more than
+800,000 births from Denmark found no association between exposure to
+sulfamethoxazole in late pregnancy and neonatal jaundice (Klarskov, 2013).
+
+Tetracyclines
+These drugs are not commonly used in pregnant women. They have been
+associated with yellowish-brown discoloration of the deciduous teeth when
+used after 25 weeks’ gestation. The risk for subsequent dental caries is not
+
+increased (Billings, 2004; Kutscher, 1966). Doxycycline has a reduced
+ability to chelate calcium orthophosphate compared with other tetracyclines
+and is preferred if needed. A systematic review of doxycycline-exposed
+pregnancies identified no higher rates of either birth defects or staining of
+deciduous teeth (Cross, 2016).
+
+Ribavirin
+This antiviral nucleoside analogue is a component of therapy for hepatitis C
+infection, discussed in Chapter 58 (p. 1038). Ribavirin causes birth defects
+in multiple animal species at doses significantly lower than those
+recommended for human use. Reported malformations include skull, palate,
+eye, skeleton, and gastrointestinal abnormalities. The drug has a half-life of
+12 days and persists in extravascular compartments following therapy
+discontinuation. Treated women must use two forms of contraception and
+have monthly pregnancy tests while on therapy and for 6 months following
+drug discontinuation (Merck, 2020). Ribavirin use is also contraindicated in
+men whose partners are pregnant.
+
+■ Antineoplastic Agents
+Cancer management in pregnancy includes many chemotherapeutic agents
+generally considered to be at least potentially toxic to the embryo, fetus, or
+both. For the many novel polyclonal antibody therapies designated as
+antineoplastics, there is little information concerning safety. The National
+Toxicology Program (2013) conducted a review of 300 pregnancies with
+first-trimester exposure and identified major malformations in 14 percent.
+Treatment of cancer in pregnancy is discussed in Chapter 66 (p. 1163). Risks
+associated with selected agents for which experience in pregnancy has
+accrued are considered next.
+
+Cyclophosphamide
+This alkylating agent inflicts a chemical insult on developing fetal tissues and
+leads to cell death and heritable DNA alterations in surviving cells.
+Pregnancy loss rates are greater, and reported fetal abnormalities include
+skeletal anomalies, limb defects, cleft palate, and eye abnormalities (Enns,
+1999; Kirshon, 1988). The risk for a major abnormality is estimated to be 18
+
+percent (National Toxicology Program, 2013). Surviving infants may have
+growth abnormalities and developmental delays. Environmental exposure
+among health-care workers is associated with a higher risk for spontaneous
+abortion.
+
+Methotrexate
+This folic-acid antagonist is a potent teratogen. It is used for cancer
+chemotherapy, immunosuppression of autoimmune diseases and psoriasis,
+nonsurgical treatment of ectopic pregnancy, and medical abortion. It acts
+similarly to aminopterin, which is no longer used clinically, and can cause
+defects known collectively as the fetal methotrexate-aminopterin syndrome.
+Associated craniofacial abnormalities include craniosynostosis with a
+“clover-leaf” skull, wide nasal bridge, low-set ears, and micrognathia (Del
+Campo, 1999). Exposure has also been linked to central nervous system
+abnormalities, cardiac defects, and limb anomalies (Cumberland
+Pharmaceuticals, 2020). Intellectual impairment has been described. The
+embryo is thought to be most vulnerable at 8 to 10 weeks postconception and
+at dosages of at least 10 mg/week. However, this is not universally accepted
+(Feldkamp, 1993). Because of its distribution, methotrexate can remain in the
+body for prolonged periods. Thus, preconceptional exposure is not without
+risk.
+The standard 50-mg/m2 dose given to treat ectopic pregnancy or to
+induce abortion exceeds the 10-mg/week threshold dose. Reports describe
+cardiac anomalies, particularly conotruncal defects, in intrauterine
+pregnancies inadvertently treated with methotrexate for suspected ectopic
+pregnancy (Dawson, 2014; Hyoun, 2012).
+
+Tamoxifen
+This nonsteroidal selective estrogen-receptor modulator (SERM) is used as
+an adjuvant to treat breast cancer. In animal studies, tamoxifen has been
+associated with malformations similar to those caused by diethylstilbestrol
+(DES) exposure in rodents, including vaginal adenosis. One review of 167
+pregnancies reported a fetal abnormality in 13 percent but emphasized that
+evidence was limited (Schuurman, 2019). Abnormalities have included
+ambiguous genitalia and craniofacial anomalies.
+
+Trastuzumab
+This is a recombinant monoclonal antibody directed to the human epidermal
+growth factor receptor 2 (HER2) protein. Used to treat breast and gastric
+cancers that express HER2 protein, this drug has not been associated with
+fetal malformations. However, postmarketing surveillance identified cases of
+oligohydramnios sequence resulting in pulmonary hypoplasia, renal failure,
+skeletal abnormalities, and neonatal death (Genentech, 2020). Surveillance
+for these complications is recommended for exposed pregnancies and for
+those treated at any time in the 7 months prior to conception. A trastuzumab
+pregnancy exposure registry and a pregnancy pharmacovigilance program
+have been established to monitor pregnancy outcomes. These warnings also
+apply to those treated with ado-trastuzumab emtansine.
+
+■ Endothelin-receptor Antagonists
+Bosentan, ambrisentan, and macitentan are three endothelin-receptor
+antagonists used to treat pulmonary arterial hypertension (Chap. 52, p. 930).
+The endothelin-receptor signaling pathway is important for neural-crest
+development. Mice deficient in endothelin receptors develop neural-crest
+cell defects that include craniofacial and cardiac outflow tract abnormalities
+(de Raaf, 2015). Each of these three agents has been found to cause similar
+birth defects in multiple animal species (Janssen, 2019a,b). No human data
+are available. Endothelin-receptor antagonists may be obtained only through
+restricted access programs, each of which has stringent requirements that
+include contraception and monthly pregnancy testing (Gilead, 2019; Janssen,
+2019a,b).
+
+■ Immunosuppressant Medications
+Selected autoimmune diseases and their treatment are reviewed in Chapter
+62 (p. 1109).
+
+Corticosteroids
+Glucocorticoids and mineralocorticoids have antiinflammatory and
+immunosuppressive actions. They are used to treat serious disorders such as
+asthma and autoimmune disease. Corticosteroids have been associated with
+
+orofacial clefts in animal studies, but the absolute risk is small. In a
+metaanalysis of case-control studies by the Motherisk Program, systemic
+corticosteroid exposure was associated with a threefold rate increase,
+conferring an absolute risk of 3 clefts per 1000 exposed fetuses (ParkWyllie, 2000). A 10-year prospective cohort study by the same group,
+however, did not identify an increased overall risk for major malformations.
+Based on these findings, corticosteroids are not considered to represent a
+major teratogenic risk.
+Potential risks associated with prednisone or methylprednisolone are
+considered to be lower than those with other corticosteroids. Prednisolone,
+the active metabolite of prednisone, is itself metabolized and rendered
+inactive by the placental enzyme 11β-hydroxysteroid dehydrogenase 2
+(Murphy, 2007). Thus, it is thought to reach the fetus less effectively.
+
+Mycophenolate Mofetil
+This inosine monophosphate dehydrogenase inhibitor, and a related agent,
+mycophenolic acid, are immunosuppressants. They are used to prevent
+rejection in organ-transplant recipients and to treat autoimmune disease
+(Chap. 62, p. 1112). Mycophenolate is a potent teratogen. From the National
+Transplantation Pregnancy Registry, of pregnancies in which mycophenolate
+was not discontinued until after the first trimester, birth defects complicated
+30 percent, and another 30 percent spontaneously aborted (King, 2017). One
+prospective review by the European Network of Teratology Information
+Services similarly identified a spontaneous loss rate of nearly 30 percent in
+exposed pregnancies. More than 20 percent of liveborn infants had major
+anomalies (Hoeltzenbein, 2012).
+Many affected infants have a pattern of defects termed mycophenolate
+embryopathy. This includes microtia, auditory canal atresia, clefts,
+coloboma and other eye anomalies, short fingers with hypoplastic nails, and
+cardiac defects (Anderka, 2009; Merlob, 2009). A Risk Evaluation and
+Mitigation Strategy (REMS) has been developed for mycophenolate
+prescribers who treat women with reproductive potential. REMS are safety
+strategies mandated by the FDA to help manage known risks associated with
+a medicine yet still allow patients to have access to the benefits of a given
+drug.
+
+■ Lead
+Lead crosses the placenta via passive diffusion. Prenatal lead exposure is
+associated with fetal-growth impairment and with childhood
+neurodevelopmental delays. According to the CDC (2010), no level of lead
+exposure is considered safe in pregnancy. Although routine testing is not
+recommended, risk factors should be assessed in all pregnancies (American
+College of Obstetricians and Gynecologists, 2019a). Care and testing for atrisk pregnancies is discussed in Chapter 10 (p. 188).
+
+■ Mercury
+The developing nervous system is particularly susceptible to mercury. In the
+1950s and early 1960s, children born near Minamata Bay, Japan were found
+to have congenital Minamata disease—severe neurological abnormalities
+from methylmercury exposure in utero (Yorifuji, 2020). Prenatal exposure
+causes disturbances in neuronal cell division and migration. This leads to a
+range of defects from microcephaly to intellectual disability, choreo-athetoid
+movement abnormalities, motor delays, and behavioral abnormalities
+(Grandjean, 2011).
+The principal concern for prenatal mercury exposure is the consumption
+of certain species of large fish and seafood (Chap. 10, p. 188).
+Methylmercury cannot be eliminated by cooking. It crosses the placenta and
+can accumulate in the fetus. The FDA (2019) advises that pregnant women
+and breastfeeding mothers avoid consumption of king mackerel, marlin,
+orange roughy, shark, swordfish, tilefish, and bigeye tuna.
+
+■ Psychiatric Medications
+Treatment of psychiatric illness in pregnancy, including a discussion of the
+risks and benefits of various psychiatric medications, is described in Chapter
+64 (p. 1142).
+
+Antipsychotic Medications
+No antipsychotic medications are considered teratogenic. Exposed neonates
+can manifest abnormal extrapyramidal muscle movements and withdrawal
+symptoms that include agitation, abnormally enhanced or diminished muscle
+
+tone, tremor, agitation, somnolence, respiratory abnormalities, and feeding
+difficulty. Such findings are nonspecific and transient. An FDA (2017) alert
+cited all medications in this class. Included are older medications like
+haloperidol and chlorpromazine and newer medications such as aripiprazole,
+olanzapine, quetiapine, and risperidone.
+
+Lithium
+This medication has been associated with Ebstein anomaly, a rare cardiac
+abnormality that otherwise complicates only 1 per 20,000 births. Ebstein
+anomaly is characterized by apical displacement of the tricuspid valve, often
+resulting in severe tricuspid regurgitation and marked right atrial
+enlargement. A report from the Lithium Baby Registry initially suggested that
+the risk for Ebstein anomaly was as high as 3 percent. However, subsequent
+series have identified an attributable risk for Ebstein anomaly and cooccurring right-sided cardiac anomalies of only 1 to 4 cases per 1000
+exposed pregnancies (Patorno, 2017; Yacobi, 2008). The NBDPS found that
+just 1 of 135 cases of Ebstein anomaly occurred in the setting of lithium
+exposure (Downing, 2019).
+Neonatal lithium toxicity stems from exposure near delivery. The
+manufacturer recommends that if possible, the dosage should be decreased or
+drug discontinued 2 to 3 days prior to delivery to reduce this risk (WestWard, 2020). Findings may persist for up to 2 weeks and may include
+cardiac arrhythmias, hypoglycemia, nephrogenic diabetes insipidus, and a
+“floppy infant syndrome” (American College of Obstetricians and
+Gynecologists, 2019f). The latter may include hypotonia, respiratory distress
+or apnea, bradycardia, cyanosis, and feeding difficulties (West-Ward, 2020).
+
+Selective Serotonin- and Norepinephrine-reuptake Inhibitors
+These medications have been studied more than almost any other, apart from
+Bendectin (p. 146). As a class, they are not considered major teratogens
+(American College of Obstetricians and Gynecologists, 2019f). The one
+exception is paroxetine, which has been associated with a slightly higher risk
+for cardiac anomalies, particularly atrial and ventricular septal defects.
+Metaanalyses have identified a pooled odds ratio of just 1.3 for paroxetine
+and cardiac abnormalities (Berard, 2016; Wurst, 2010). However, a review
+of nearly 1 million pregnancies from the nationwide Medicaid Analytic
+
+eXtract identified no significant association between paroxetine use in the
+first trimester and fetal cardiac abnormalities (Huybrechts, 2014). The
+American College of Obstetricians and Gynecologists (2019f) recommends
+that women planning pregnancy avoid paroxetine. Fetal echocardiography
+should be considered for those with first-trimester paroxetine exposure.
+Neonatal effects have been associated with prenatal exposure to
+selective serotonin-reuptake inhibitors (SSRIs) and selective
+norepinephrine-reuptake inhibitors (SNRIs). Approximately 25 percent of
+neonates exposed to SSRIs in late pregnancy manifest one or more
+nonspecific findings considered to represent poor neonatal adaptation
+(Costei, 2002; Jordan, 2008). Collectively termed the neonatal behavioral
+syndrome, findings can include jitteriness, irritability, hyper- or hypotonia,
+feeding abnormalities, vomiting, hypoglycemia, thermoregulatory instability,
+and respiratory abnormalities. Fortunately, these neonatal behaviors are
+typically mild and self-limited and last approximately 2 days. Jordan and
+coworkers (2008) reported that affected newborns were not more likely to
+require a higher level of care, to experience respiratory abnormalities, or to
+have prolonged hospitalization. Rarely, neonates exposed to SSRIs in late
+pregnancy have demonstrated more severe adaptation abnormalities (Ornoy,
+2017).
+Another concern with late-pregnancy exposure is the possible association
+of SSRI medications with persistent pulmonary hypertension of the
+newborn (PPHN). The baseline incidence approximates 2 cases per 1000
+term newborns. PPHN is characterized by elevated pulmonary vascular
+resistance with right-to-left shunting and resultant hypoxemia. Two
+population-based cohort studies—together involving more than 5 million
+pregnancies—identified an attributable risk of only 1 to 2 cases per 1000
+births (Huybrechts, 2015; Kieler, 2012). Moreover, cases of PPHN
+associated with SSRI medication have not been severe (Ornoy, 2017).
+
+■ Retinoids
+Vitamin A derivatives are among the most potent human teratogens. By
+inhibiting neural-crest cell migration during embryogenesis, they create a
+pattern of cranial neural-crest defects—termed retinoic acid embryopathy—
+that involve the CNS, face, heart, and thymus (Fig. 8-3). Specific anomalies
+may include ventriculomegaly, maldevelopment of the facial bones or
+
+cranium, microtia or anotia, micrognathia, cleft palate, conotruncal heart
+defects, and thymic aplasia or hypoplasia.
+
+FIGURE 8-3 Retinoic acid embryopathy. A. Bilateral microtia or anotia with stenosis of external ear
+canal. B. Flat, depressed nasal bridge and ocular hypertelorism. (Reproduced with permission from
+permission from Dr. Edward Lammer.)
+
+Acitretin
+This retinoid is used to treat severe psoriasis. It was introduced to replace
+etretinate, a lipophilic retinoid with such a long half-life (120 days) that birth
+defects resulted more than 2 years after therapy was discontinued. Although
+acitretin has a short half-life, it is metabolized to etretinate, and thus remains
+in the body for prolonged periods (Stiefel Laboratories, 2017). To obviate
+exposure, the manufacturer of acitretin has developed a pregnancy risk
+management program. Called “Do Your P.A.R.T”—pregnancy prevention
+actively required during and after treatment, this program promotes a delay
+of conception for at least 3 years following therapy discontinuation.
+
+Bexarotene
+This retinoid is used to treat refractory cutaneous T-cell lymphoma. When
+given to rats in doses comparable to those for human therapy, fetuses
+developed eye and ear abnormalities, cleft palate, and incomplete
+ossification. For a woman to receive bexarotene, the manufacturer requires
+
+two forms of contraception that are initiated 1 month before therapy and
+continued for 1 month after it is discontinued. This is coupled with monthly
+pregnancy testing during treatment (Bausch Health, 2020). Males who have
+partners who could become pregnant are advised to use condoms during
+sexual intercourse while taking bexarotene and for 1 month after
+discontinuing therapy.
+
+Isotretinoin
+13-cis-Retinoic acid is a vitamin A isomer that stimulates epithelial cell
+differentiation. It is primarily used to treat recalcitrant nodular acne. Firsttrimester exposure is associated with a high rate of pregnancy loss, and up to
+a third of infants have malformations (Lammer, 1985). The iPLEDGE
+program is an FDA-mandated REMS for isotretinoin and is found at
+www.ipledgeprogram.com. This web-based, restricted-distribution program
+requires participation for all patients, physicians, and pharmacies to help
+eliminate embryo–fetal exposure. Other countries have instituted similar
+programs, however, inadvertent exposure remains a global concern (AutretLeca, 2010; Crijns, 2011).
+
+Topical Retinoids
+These compounds, initially used to treat acne, have become so popular for
+sun-damage treatment that they are called cosmeceuticals (Panchaud, 2012).
+The most commonly used topical agents are tretinoin, isotretinoin, and
+adapalene. Systemic absorption is low, and this argues against plausible
+teratogenicity.
+Isolated case reports have described malformations following topical
+tretinoin, and it is unknown whether this is due to variability in absorption or
+perhaps potential individual susceptibility (Kaplan, 2015). A prospective
+study by the European Network of Teratology Information Services found no
+higher rates of birth defects or spontaneous losses, and no case of retinoid
+embryopathy (Panchaud, 2012). A systematic review of 635 pregnancies
+exposed to topical retinoids identified no higher risk for congenital
+malformations, spontaneous abortion, stillbirth, low birthweight, or preterm
+delivery (Kaplan, 2015). Notably, the manufacturer of tazarotene cautions
+that application over a sufficient body surface area could be comparable to
+
+oral treatment. Accordingly, its use in pregnancy is not recommended
+(Allergan, 2019).
+
+Vitamin A
+There are two natural forms of vitamin A. First, provitamin A carotenoids,
+which include beta-carotene, alpha-carotene, and beta-cryptoxanthin, are
+precursors found in fruits and vegetables. The body converts carotenoids into
+vitamin A. They have never been shown to cause birth defects (Oakley,
+1995).
+Second, preformed vitamin A, also called retinol, has been associated
+with cranial neural-crest defects when more than 10,000 IU per day is
+consumed in the first trimester (Rothman, 1995). Preformed vitamin A is
+present in liver, fish oils, milk, eggs, and in vitamin pills and dietary
+supplements. It seems reasonable to avoid doses of preformed preparations
+that exceed the recommended 3000 IU daily allowance (American Academy
+of Pediatrics, 2017).
+
+■ Sex Hormones
+Selected functions and effects of male and female hormones on the
+developing fetus are reviewed in Chapter 3 (p. 31). Androgen exposure may
+cause varying degrees of virilization in female fetuses and may result in
+ambiguous genitalia (Fig. 3-3, p. 34).
+
+■ Thalidomide and Analogues
+Possibly the most notorious human teratogen, thalidomide causes
+malformations in 20 percent of fetuses exposed between 34 and 50 days
+menstrual age. The characteristic malformation is phocomelia—an absence
+or underdevelopment of one or more long bones. As a result, hands or feet
+may attach to the trunk, occasionally by a small rudimentary bone. Cardiac
+defects, gastrointestinal abnormalities, external ear and eye malformations,
+and other limb-reduction defects also are common following thalidomide
+exposure. The manufacturer reports that up to 40 percent of affected
+newborns do not survive the neonatal period (Celgene, 2021).
+
+Thalidomide was marketed outside the United States from 1956 to 1960,
+before its teratogenicity was appreciated. The ensuing disaster, with
+thousands of affected children, was instructive of several important
+teratological principles. First, the placenta is not an effective barrier to the
+transfer of toxic substances from mother to embryo (Dally, 1998). Second,
+different species manifest considerable variability in their susceptibility to
+drugs and chemicals. Namely, thalidomide produced no defects in multiple
+rodent species and was assumed to be safe for humans. Last, timing of
+exposure may be closely related to the type of defect (Vargesson, 2015). For
+example, upper-limb amelia may develop with thalidomide exposure during
+days 24 to 30 postconception, upper-limb phocomelia with exposure during
+days 24 to 33, and lower-limb phocomelia with exposure during days 27 to
+33.
+Thalidomide was first approved in the United States in 1999 and
+currently is used to treat erythema leprosum nodosum and multiple myeloma
+(Celgene, 2021). The FDA has mandated a web-based, restricteddistribution program for thalidomide, called THALOMID REMS, which is
+required before patients, physicians, and pharmacies can access the
+medication.
+Lenalidomide and pomalidomide are analogues of thalidomide. Both
+cross the placenta in animal species. Lenalidomide is used to treat some
+types of myelodysplastic syndrome and multiple myeloma. It has been found
+to cause thalidomide-like limb abnormalities in monkeys (Celgene, 2019).
+Pomalidomide is used to treat refractory multiple myeloma and acquired
+immunodeficiency syndrome (AIDS)-related Kaposi sarcoma. It is
+teratogenic in rats and rabbits (Celgene, 2020). Restricted-distribution
+programs similar to those used for thalidomide have been developed for
+these analogues.
+
+■ Thyroid Medications
+Methimazole
+This thionamide drug is used to treat hyperthyroidism. Methimazole has been
+associated with a 2-fold increased risk for aplasia cutis congenita, as well as
+choanal atresia and esophageal atresia (Yoshihara, 2012). This constellation
+of findings has been termed methimazole embryopathy. Aplasia cutis is a
+
+rare abnormality characterized by a full-thickness skin defect, usually the
+scalp, occasionally with a defect of underlying bone. In a study of more than
+1000 methimazole-treated pregnancies, Yoshihara and colleagues (2015)
+identified the embryopathy in 1 to 2 percent. Treatment of hyperthyroidism in
+pregnancy is reviewed in Chapter 61.
+
+Radioiodine
+Radioactive iodine-131 is used for treatment of thyroid cancer and
+thyrotoxicosis and for diagnostic thyroid scanning. It is also a component of
+iodine-131 tositumomab therapy, which is employed to treat a type of nonHodgkin lymphoma. Radioiodine is contraindicated during pregnancy
+because it readily crosses the placenta and is concentrated in the fetal thyroid
+gland by 12 weeks’ gestation. It may cause severe or irreversible fetal and
+neonatal hypothyroidism, which can lead to decreased mental capacity and
+delayed skeletal maturation. Pregnancy testing should be performed before
+administration of radioiodine-131, and it is recommended that pregnancy be
+avoided for 6 to 12 months following treatment (Haugen, 2016). A review of
+more than 3000 pregnancies in which women delayed conception for at least
+6 months after receiving radioactive iodine treatment identified no increase
+in pregnancy losses or congenital malformations (Kim, 2020). Concerns for
+the breastfeeding mother stem from breast exposure to the radioisotope.
+
+■ Warfarin
+This anticoagulant is a vitamin K antagonist with a long half-life. Because of
+its low molecular weight, it readily crosses the placenta and may cause
+embryotoxic and fetotoxic effects. It is considered contraindicated in
+pregnancy with one important exception. As discussed in Chapter 52 (p.
+922), warfarin is used to treat women with mechanical heart valves who are
+at high risk for thromboembolism (Bristol-Myers Squibb, 2019).
+Warfarin embryopathy is characterized by stippled epiphyses and nasal
+hypoplasia (Fig. 8-4). In one review of 63 cases attributed to warfarin
+exposure, 80 percent displayed characteristic findings, which include
+depressed nasal bridge with nasal hypoplasia and choanal atresia, along with
+stippled epiphyses of the femur, humerus, calcanei, and distal phalanges (Van
+Driel, 2002). The embryopathy may result from exposure between 6 and 9
+weeks’ gestation (Hall, 1980). Prevalence following exposure during this
+
+critical period is estimated to be 6 percent. One metaanalysis of cases in
+which the warfarin dosage was ≤5 mg/d identified embryopathy in 1 percent
+of exposed fetuses. This suggests that risk may be dose dependent (Hassouna,
+2014).
+
+FIGURE 8-4 Warfarin embryopathy or fetal warfarin syndrome: nasal hypoplasia and depressed nasal
+bridge seen in a fetal sonographic image (A) and in the same newborn (B).
+
+If used beyond the first trimester, warfarin may lead to hemorrhage into
+fetal structures, which can cause abnormal growth and deformation from
+scarring (Warkany, 1976). Nearly 50 percent of reported embryopathy cases
+also have CNS anomalies (van Driel, 2002). Abnormalities can include
+agenesis of the corpus callosum; cerebellar vermian agenesis, which is the
+Dandy-Walker malformation; microphthalmia; and optic atrophy. Affected
+infants are also at risk for blindness, deafness, and developmental delays.
+
+■ Tobacco
+Cigarette smoking is the leading preventable cause of perinatal mortality. At
+least 7 percent of women report smoking cigarettes during pregnancy (Drake,
+2018). Cigarette smoke contains a complex mixture of nicotine, cotinine,
+cyanide, thiocyanate, carbon monoxide, cadmium, lead, and various
+
+hydrocarbons (Stillerman, 2008). In addition to being fetotoxic, many of
+these substances have vasoactive effects or reduce oxygen levels.
+Although tobacco is not considered a major human teratogen, selected
+birth defects have been reported to occur with greater frequency following
+exposure. Cigarette smoking and exposure to second-hand smoke have been
+associated with up to a 1.5-fold risk for orofacial clefts (Kummet, 2016;
+Sabbagh, 2015). This equates to an attributable risk of approximately 1 case
+per 2000 births. It is plausible that the vasoactive properties of tobacco
+smoke could produce congenital defects related to vascular disturbances. For
+example, the prevalence of Poland sequence, which is caused by an
+interruption in the vascular supply to one side of the fetal chest and
+ipsilateral arm, has been reported to occur two times more commonly among
+cigarette smokers (Martinez-Frias, 1999). The NBDPS similarly found an
+association between active or passive cigarette smoking and limb reduction
+defects, and an overall increase in risk of 25 percent (Caspers, 2013). A
+small increased risk for fetal cardiac anomalies also has been reported and
+may be dose related (Alverson, 2011; Malik, 2008; Sullivan, 2015).
+The most prevalent obstetrical complication from smoking is a dosedependent reduction in fetal growth. Newborns of mothers who smoke weigh
+on average 200 g less than newborns of nonsmokers (D’Souza, 1981).
+Smoking doubles the risk of low birthweight and raises the risk of fetalgrowth restriction two- to threefold (Werler, 1997). As such, cigarette
+smoking accounts for 15 percent of low-birthweight neonates (Dietz, 2010).
+Even secondhand smoke increases the risk for low birthweight. Other
+adverse pregnancy outcomes associated with cigarette smoking include
+preterm birth, prelabor rupture of membranes, placenta previa, and placenta
+abruption (American College of Obstetricians and Gynecologists, 2020b).
+Approximately one third of cases of sudden infant death syndrome have been
+attributed to cigarette smoking (Anderson, 2019; Dietz, 2010). Risks of
+childhood asthma and obesity also are increased.
+When inquiring about tobacco use, providers should include alternative
+nicotine delivery products. All forms of nicotine cross the placenta. None is
+considered safe in pregnancy. Vaping or e-cigarette products heat an “eliquid” containing nicotine—and often additional contaminants—along with
+a flavoring agent. Nicotine is associated with adverse effects on fetal brain
+and lung development (American College of Obstetricians and
+Gynecologists, 2020b; Spindel, 2016). In adults, vaping has been linked to
+
+serious lung injury known as EVALI—e-cigarette or vaping-associated lung
+injury (Krishnasamy, 2020). Animal studies of hookah use, in which tobacco
+smoke is filtered through a water bowl, demonstrate lower birthweight and
+increased markers of cardiac stress (Khabour, 2016).
+Smoking cessation should be strongly encouraged. Counseling includes
+avoidance of secondhand smoke and all nicotine-replacement products, such
+as patches, gum, and lozenges. A hotline is available from the Centers of
+Disease Control and Prevention and can be accessed by calling 1-800-QUITNOW. The U.S. Preventive Services Task Force has recommended that
+behavioral interventions be offered at the initial visit and continued
+throughout pregnancy (Siu, 2015).
+
+■ Herbal Medicinal Products
+In large survey studies from North America and Europe, 30 to 60 percent of
+women report using herbal remedies during pregnancy (Kennedy, 2016;
+Pallivalapila, 2015). These products are not regulated by the FDA, and there
+is a paucity of controlled studies assessing their safety and efficacy. The
+identity, quantity, and purity of each ingredient are usually unknown. Authors
+of a recent systematic review that included more than 1 million pregnancies
+concluded that in the absence of more safety data, the use of herbal medicinal
+products in pregnancy should be discouraged (Munoz Balbontin, 2019).
+Selected herbal remedies and their reported adverse effects are shown in
+Table 8-5.
+TABLE 8-5. Pharmacological Actions and Adverse Effects of Some Herbal
+Medicines
+
+■ Drugs of Abuse
+Substance abuse is not uncommon in pregnancy. Assessment of outcomes
+attributable to illicit drug use is often confounded by factors such as poor
+maternal health, malnutrition, and infectious disease. Polysubstance abuse
+further complicates assessment of outcomes associated with any one drug.
+Moreover, illegal substances may contain toxic contaminants such as lead,
+cyanide, herbicides, and pesticides. Impurities added as diluents may
+independently have serious adverse perinatal effects. As noted on page 149,
+alcohol is a significant teratogen. Because it is legally obtained and
+ubiquitous, its use confounds the study of illicit drug teratogenicity. Similarly,
+tobacco use confounds the effect of drugs on fetal growth.
+
+Cocaine
+With this CNS stimulant, most adverse outcomes result from its
+vasoconstrictive and hypertensive effects. Serious potential maternal
+complications are cerebrovascular hemorrhage, myocardial damage, and
+placental abruption. Studies of congenital abnormalities and cocaine
+exposure have yielded conflicting results, but associations with cleft palate,
+cardiovascular abnormalities, and urinary tract anomalies have been
+reported (Chasnoff, 1988; Lipshultz, 1991; van Gelder, 2009). Cocaine use is
+also associated with fetal-growth restriction and preterm delivery. Children
+exposed as fetuses have risks for behavioral abnormalities and cognitive
+impairments (Bada, 2011; Gouin, 2011).
+
+Marijuana
+This is the recreational drug most commonly used in pregnancy (American
+College of Obstetricians and Gynecologists, 2019b). Based on data from the
+National Survey on Drug Use and Health, nearly 4 percent of pregnant
+women reported using marijuana in 2014 (Brown, 2017). Among women
+diagnosed with nausea and vomiting of pregnancy, the prevalence of
+marijuana use increased from 7 to 11 percent from 2009 to 2016 (YoungWolff, 2019). Of concern is that the increase in prevalence is related to
+perceived safety and efficacy. In a study of 400 cannabis dispensaries, nearly
+70 percent advised a caller posing as a pregnant woman with nausea at 8
+weeks’ gestation to use marijuana (Dickson, 2018). However, no data
+support efficacy of marijuana for nausea and vomiting of pregnancy, and
+there are indeed safety concerns (Metz, 2018).
+Cannabinoids are not considered to be major teratogens, but they cross
+the placenta, and endogenous cannabinoids play key roles in brain
+development. In animals, cannabinoids are involved in neuronal
+proliferation, migration, and differentiation (Campolongo, 2011). Adverse
+developmental outcomes reported in exposed children include decreased
+attention span and lower scores on tests of visual problem solving and
+visual-motor coordination (Fried, 2003; Willford 2010).
+Pregnancy outcome data are somewhat limited by the confounding risks
+of concomitant tobacco use. In one metaanalysis of nearly 8000 exposed
+pregnancies, only those with concomitant tobacco use had increased rates of
+preterm birth and low-birthweight neonates (Conner, 2016). The American
+
+College of Obstetricians and Gynecologists (2019b) has stated that the
+effects of marijuana may be as serious as those of cigarette smoking or
+alcohol consumption. Because of neurodevelopmental concerns, women who
+are pregnant or contemplating pregnancy should avoid marijuana use.
+
+Methamphetamine
+This sympathomimetic amine is derived from dextroamphetamine. It
+enhances dopamine release and blocks its reuptake. Methamphetamine is
+prescribed to treat attention deficit hyperactivity disorder and narcolepsy.
+Abuse has been rising in the United States since the late 1980s (American
+College of Obstetricians and Gynecologists, 2019c). Methamphetamine is not
+considered teratogenic. However, use in pregnancy is consistently associated
+with small-for-gestational age newborns, and children are at risk for
+developmental delays and behavioral abnormalities (Derauf, 2012; Eze,
+2016; Gabrhelik, 2021; O’Connor, 2020). Behavioral abnormalities have
+been described in both infants and school-aged children (Eze, 2016).
+Hypertensive complications, placental abruption, preterm birth, and stillbirth
+are other associated adverse outcomes (Gorman, 2014).
+
+Opioids
+The dramatic rise in narcotic use among nonpregnant and pregnant
+individuals has been aptly termed an epidemic. Opioids are not major
+teratogens. However, the NBDPS did identify a slightly greater risk for spina
+bifida, gastroschisis, and cardiac abnormalities with periconceptional opioid
+exposure (Broussard, 2011). The American College of Obstetricians and
+Gynecologists (2019d) stresses that this potential, small increase in birth
+defects with maintenance therapy should be weighed against the risks
+associated with uncontrolled opioid abuse. Heroin addiction is associated
+with adverse pregnancy outcomes from the effects of repeated narcotic
+withdrawal on the fetus and placenta. These include preterm birth, placental
+abruption, fetal-growth restriction, and fetal death.
+Neonatal narcotic withdrawal, called the neonatal abstinence syndrome,
+may manifest in 40 to 90 percent of exposed newborns (Blinick, 1973;
+Creanga, 2012; Dashe, 2002; Zelson, 1973). As discussed in Chapter 33 (p.
+605), CNS irritability may progress to seizures if untreated and may be
+accompanied by tachypnea, apneic episodes, poor feeding, and failure to
+
+thrive. At-risk neonates are closely monitored using a scoring system, and
+those severely affected are treated with opioids (Finnegan, 1975). The
+proportion of exposed newborns developing neonatal abstinence syndrome
+has risen significantly in recent years (Creanga, 2012; Lind, 2015).
+The American College of Obstetricians and Gynecologists (2019d)
+recommends that pregnant women with opioid-use disorder be maintained on
+opioid-agonist therapy to reduce the risks associated with illicit opioid
+abuse and associated behaviors. Treatment includes either buprenorphine,
+which may be given in an office-based setting by a licensed buprenorphine
+prescriber, or methadone, usually through a licensed outpatient opioid
+treatment program. A multidisciplinary treatment program is recommended to
+reduce the likelihood of additional opioid abuse while on maintenance
+therapy. Withdrawal from methadone during pregnancy is discouraged
+because of high relapse rates (American College of Obstetricians and
+Gynecologists, 2019d). At Parkland Hospital, pregnant opioid users who
+decline maintenance therapy are offered inpatient hospitalization for
+controlled methadone taper. The goal is to reduce the likelihood of neonatal
+abstinence syndrome (Dashe, 2002; Stewart, 2013).
+
+Miscellaneous Drugs
+Phencyclidine (PCP) or angel dust is not associated with congenital
+anomalies. More than half of exposed newborns, however, experience
+withdrawal symptoms characterized by tremors, jitteriness, and irritability.
+Toluene is a common solvent used in paints and glue. Occupational exposure
+is reported to have significant fetal risks (Wilkins-Haug, 1997). When
+abused by women in early pregnancy, it is associated with toluene
+embryopathy, which is phenotypically similar to fetal alcohol syndrome.
+Abnormalities include pre- and postnatal growth deficiency, microcephaly,
+midface hypoplasia, short palpebral fissures, and wide nasal bridge
+(Pearson, 1994). Up to 40 percent of exposed children have developmental
+delays (Arnold, 1994).
+
+REFERENCES
+Abel EL, Hannigan JH: Maternal risk factors in fetal alcohol syndrome: provocative and permissive
+influences. Neurotoxicol Teratol 17(4):445, 1995
+
+Ailes EC, Gilboa SM, Gill SK, et al: Association between antibiotic use among pregnant women and
+urinary tract infections in the first trimester and birth defects, National Birth Defects Prevention
+Study 1997 to 2011. Birth Defects Res A Clin Mol Teratol 106(11):940, 2016
+Allergan Pharmaceuticals: Avage (Tazarotene) prescribing information. 2019. Available at:
+https://media.allergan.com/actavis/actavis/media/allergan-pdf-documents/productprescribing/AVAGE-Cream_pi.pdf. Accessed March 20, 2021
+Alsaad AM, Kaplan YC, Koren G: Exposure to fluconazole and risk of congenital malformations in the
+offspring: a systematic review and meta-analysis. Reprod Toxicol 52:78, 2015
+Alverson CJ, Strickland MJ, Gilboa SM, et al: Maternal smoking and congenital heart defects in the
+Baltimore-Washington Infant Study. Pediatrics 127(3):e647, 2011
+Alwan S, Chambers CD: Findings from the National Birth Defects Prevention Study: interpretation and
+translation for the clinician. Birth Defects Res A Clin Mol Teratol 103(8):721, 2015
+American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Guidelines for
+Perinatal Care, 8th ed. Elk Grove Village, AAP, 2017
+American College of Obstetricians and Gynecologists: Lead screening during pregnancy and lactation.
+Committee Opinion No. 533, August 2012, Reaffirmed 2019a
+American College of Obstetricians and Gynecologists: Marijuana use during pregnancy and lactation.
+Committee Opinion No. 722, October 2017, Reaffirmed 2019b
+American College of Obstetricians and Gynecologists: Methamphetamine abuse in women of
+reproductive age. Committee Opinion No. 479, March 2011, Reaffirmed 2019c
+American College of Obstetricians and Gynecologists: Opioid use and opioid use disorder in pregnancy.
+Committee Opinion No. 711, August 2017, Reaffirmed 2019d
+American College of Obstetricians and Gynecologists: Use of psychiatric medications during pregnancy
+and lactation. Practice Bulletin No. 92, April 2008, Reaffirmed 2019f
+American College of Obstetricians and Gynecologists: Prepregnancy counseling. Committee Opinion
+No. 762, December 2018, Reaffirmed 2020a
+American College of Obstetricians and Gynecologists. Tobacco and nicotine cessation during
+pregnancy. Committee Opinion No. 807, April 2020b
+Anderka MT, Lin AE, Abuelo DN, et al: Reviewing the evidence for mycophenolate mofetil as a new
+teratogen: case report and review of the literature. Am J Med Genet A 149A(6):1241, 2009
+Anderson TM, Lavista Ferres JM, Ren SY, et al: Maternal smoking before and during pregnancy and
+the risk of sudden unexpected infant death. Pediatrics 143(4):e20183325, 2019
+Ang-Lee MK, Moss J, Yuan CS: Herbal medicines and perioperative care. JAMA 286(2):208, 2001
+Arnold GL, Kirby RS, Langendoerfer S, et al: Toluene embryopathy: clinical delineation and
+developmental follow-up. Pediatrics 93(2):216, 1994
+Autret-Leca E, Kreft-Jais C, Elefant E, et al: Isotretinoin exposure during pregnancy: assessment of
+spontaneous reports in France. Drug Saf 33(8):659, 2010
+Bada HS, Bann CM, Bauer CR, et al: Preadolescent behavior problems after prenatal cocaine
+exposure: relationship between teacher and caretaker ratings (Maternal Lifestyle Study).
+Neurotoxicol Teratol 33(1):78, 2011
+Barr M, Cohen MM: ACE inhibitor fetopathy and hypocalvaria: the kidney-skull connection. Teratology
+44(5):485, 1991
+Bateman BT, Patorno E, Desai RJ, et al: Angiotensin-converting enzyme inhibitors and the risk of
+congenital malformations. Obstet Gynecol 129(1):174, 2017
+Bausch Health: Bexarotene (Targretin) prescribing information. 2020. Available at:
+https://bauschhealth.com/Portals/25/Pdf/PI/TargretinCapsules-PI.pdf. Accessed March 20, 2021
+
+Berard A, Iessa N, Chaabane S, et al: The risk of major cardiac malformations associated with
+paroxetine use during the first trimester of pregnancy: a systematic review and meta-analysis. Br J
+Clin Pharmacol 81(4):589, 2016
+Berard A, Zhao JP, Shui I, et al: Leflunomide use during pregnancy and the risk of adverse pregnancy
+outcomes. Ann Rheum Dis 77(4):500, 2018
+Billings RJ, Berkowitz RJ, Watson G: Teeth. Pediatrics 113(4Suppl):1120, 2004
+Blinick G, Jerez E, Wallach RC: Methadone maintenance, pregnancy, and progeny. JAMA 225(5):477,
+1973
+Bristol-Myers Squibb Pharmaceuticals: Coumadin (Warfarin) prescribing information. 2019. Available
+at: https://packageinserts.bms.com/pi/pi_coumadin.pdf. Accessed March 20, 2021
+Bromley R, Weston J, Adab N, et al: Treatment for epilepsy in pregnancy: neurodevelopmental
+outcomes in the child. Cochrane Database Syst Rev 10:CD010236, 2014
+Broussard CS, Rasmussen SA, Reefhuis J, et al: Maternal treatment with opioid analgesics and risk for
+birth defects. Am J Obstet Gynecol 204(4):314.e1, 2011
+Brown QL, Sarvet AL, Shmulewitz D, et al: Trends in marijuana use among pregnant and nonpregnant
+reproductive-aged women, 2002–2014. JAMA 317(2):207, 2017
+Byrne JJ, Saucedo AM, Spong CY: Evaluation of drug labels following the 2015 Pregnancy and
+Lactation Labeling Rule. JAMA Netw Open 3(8):e2015094, 2020
+Campolongo P, Trezza V, Ratano P, et al: Developmental consequences of perinatal cannabis exposure:
+behavioral and neuroendocrine effects in adult rodents. Psychopharmacology (Berl) 214(1):5, 2011
+Carey JC, Martinez L, Balken E, et al: Determination of human teratogenicity by the astute clinician
+method: review of illustrative agents and a proposal of guidelines. Birth Defects Res A Clin Mol
+Teratol 85(1):63, 2009
+Caspers KM, Romitti RA, Lin S, et al: Maternal periconceptional exposure to cigarette smoking and
+congenital limb deficiencies. Pediatr Perinat Epidemiol 27(6):509, 2013
+Celgene Corporation: Pomalyst (pomalidomide) prescribing information. 2020. Available at:
+https://packageinserts.bms.com/pi/pi_pomalyst.pdf. Accessed March 20, 2021
+Celgene Corporation: Revlimid (lenalidomide) prescribing information. 2019. Available at:
+https://packageinserts.bms.com/pi/pi_revlimid.pdf Accessed March 20, 2021
+Celgene Corporation: Thalomid (thalidomide) prescribing information. 2021. Available at:
+https://packageinserts.bms.com/pi/pi_thalomid.pdf Accessed March 20, 2021.
+Centers for Disease Control and Prevention: Alcohol use and binge drinking among women of
+childbearing age—United States, 2011–2013. MMWR 64(37):1042, 2015
+Centers for Disease Control and Prevention: Guidelines for the identification and management of lead
+exposure in pregnant and lactating women. 2010. Available at:
+https://www.cdc.gov/nceh/lead/publications/leadandpregnancy2010.pdf. Accessed March 20, 2021
+Chambers CD, Johnson DL, Robinson LK, et al: Birth outcomes in women who have taken leflunomide
+during pregnancy. Arthritis Rheum 62(5):1494, 2010
+Chasnoff IJ, Chisum GM, Kaplan WE: Maternal cocaine use and genitourinary tract malformations.
+Teratology 37(3):201, 1988
+Chaudhry SA, Jong G, Koren G: The fetal safety of levetiracetam: a systematic review. Reprod Toxicol
+46(1):40, 2014
+Conner SN, Bedell V, Lipsey K, et al: Maternal marijuana use and adverse neonatal outcomes. Obstet
+Gynecol 128(4):713, 2016
+Conover EA, Polifka JE: The art and science of teratogen risk communication. Am J Med Genet C
+Semin Med Genet 157(3):227, 2011
+
+Cooper WO, Hernandez-Diaz S, Arbogast PG, et al: Major congenital malformation after first-trimester
+exposure to ACE inhibitors. N Engl J Med 354(23):2443, 2006
+Costei AM, Kozer E, Ho T, et al: Perinatal outcome following third trimester exposure to paroxetine.
+Arch Pediatr Adolesc Med 156(11):1129, 2002
+Cragan JD, Giboa SM: Including prenatal diagnoses in birth defects monitoring: experience of the
+Metropolitan Atlanta Congenital Birth Defects Program. Birth Defects Res A Clin Mol Teratol
+85(1)20, 2009
+Creanga AA, Sabel JC, Ko JY, et al: Maternal drug use and its effect on neonates: a population-based
+study in Washington state. Obstet Gynecol 119(5):924, 2012
+Crijns HJ, Straus SM, Gispen-de Wied C, et al: Compliance with pregnancy prevention programmes of
+isotretinoin in Europe: a systematic review. Br J Dermatol 164(2):238, 2011
+Cross R, Ling C, Day NP, et al: Revisiting doxycycline in pregnancy and early childhood—time to
+rebuild its reputation? Expert Opinion Drug Saf 15(3):367, 2016
+Cumberland Pharmaceuticals: RediTrex (methotrexate) prescribing information. 2020. Available at:
+https://reditrex.com/wp-content/uploads/2020/10/Reditrex-revised-PI_AUG2020-cleanJW.pdf.
+Accessed March 20, 2021
+Cunnington MC, Weil JG, Messenheimer JA, et al: Final results from 18 years of the International
+Lamotrigine Pregnancy Registry. Neurology 76(21):1817, 2011
+Dally A: Thalidomide: was the tragedy preventable? Lancet 351:1197, 1998
+Dashe JS, Sheffield JS, Olscher DA, et al: Relationship between maternal methadone dosage and
+neonatal withdrawal. Obstet Gynecol 100(6):1244, 2002
+Dawson AL, Riehle-Colarusso T, Reefhuis J, et al: Maternal exposure to methotrexate and birth
+defects: a population-based study. Am J Med Genet 164A(9):2212, 2014
+Derauf C, LaGasse LL, Smith LM, et al: Prenatal methamphetamine exposure and inhibitory control
+among young school-age children. J Pediatr 161:452, 2012
+De Raaf MA, Beekhuijzen M, Guignabert C, et al: Endothelin-1 receptor antagonists in fetal
+development and pulmonary arterial hypertension. Reprod Toxicol 56:45, 2015
+Del Campo M, Kosaki K, Bennett FC, et al: Developmental delay in fetal aminopterin/methotrexate
+syndrome. Teratology 60(1):10, 1999
+Diav-Citrin O, Shechtman S, Zvi N, et al: Is it safe to use lamotrigine during pregnancy? A prospective
+comparative observational study. Birth Defects Res 109(15):1196, 2017
+Dickson B, Mansfield C, Guiahi M, et al: Recommendations from cannabis dispensaries about firsttrimester cannabis use. Obstet Gynecol 131(6):1031, 2018
+Dietz PM, England LJ, Shapiro-Mendoza CK, et al: Infant morbidity and mortality attributable to
+prenatal smoking in the U.S. Am J Prev Med 39(1):45, 2010
+Dolk H, Loane M, Garne E: The prevalence of congenital anomalies in Europe. Adv Exp Med Biol
+686:349, 2010
+Downing KF, Riehle-Colarusso T, Gilboa SM, et al: Potential risk factors for Ebstein anomaly, National
+Birth Defects Prevention Study, 1997–2011. Cardiol Young 29(6):819, 2019
+Drake P, Driscoll AK, Mathews TJ: Cigarette smoking during pregnancy: United States, 2016. NCHS
+Data Brief (305):1, 2018
+D’Souza SW, Black P, Richards B: Smoking in pregnancy: associations with skinfold thickness, maternal
+weight gain, and fetal size at birth. BMJ 282(6227):1661, 1981
+Ehrenstein V, Sorensen HT, Bakketeig LS, et al: Medical databases in studies of drug teratogenicity:
+methodological issues. Clin Epidemiol 2(1):37, 2010
+
+England LJ, Bennett C, Denny CH, et al: Alcohol use and co-use of other substances among pregnant
+females aged 12–44 years—United States, 2015–2018. MMWR 69(31):1009, 2020
+Enns GM, Roeder E, Chan RT, et al: Apparent cyclophosphamide (Cytoxan) embryopathy: a distinct
+phenotype? Am J Med Genet 86(3):237, 1999
+Eze N, Smith LM, LaGasse LL, et al: School-aged outcomes following prenatal methamphetamine
+exposure: 7.5-year follow-up from the infant development, environment, and lifestyle study. J Pediatr
+170:34.e1, 2016
+Facchinetti F, Pedrielli G, Benoni G, et al: Herbal supplements in pregnancy: unexpected results from a
+multicentre study. Hum Reprod 27(11):3161, 2012
+Feldkamp M, Carey JC: Clinical teratology counseling and consultation case report: low dose
+methotrexate exposure in the early weeks of pregnancy. Teratology 47(6):533, 1993
+Feldkamp ML, Carey JC, Byrne JL, et al: Etiology and clinical presentation of birth defects: population
+based study. BMJ 357:j2249, 2017
+Finnegan LP, Connaughton JF, Kron RE et al: Neonatal abstinence syndrome: assessment and
+management. Addict Dis 2(1–2):141, 1975
+Fisher SC, van Zutphen AR, Werler MM, et al: Maternal antihypertensive medication use and selected
+birth defects in the National Birth Defects Prevention Study. Birth Defects Res 110(19):1433, 2018
+Food and Drug Administration: Content and format of labeling for human prescription drug and
+biological products; requirements for pregnancy and lactation labeling. Final rule. Fed Regist
+79(233):72036, 2014
+Food and Drug Administration: Evaluating the risks of drug exposure in human pregnancies. 2018.
+Available at: https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/evaluating-risks-drug-exposure-human-pregnancies. Accessed March 20, 2021
+Food and Drug Administration: FDA drug safety communication: antipsychotic drug labels updated on
+use during pregnancy and risk of abnormal muscle movements and withdrawal symptoms in
+newborns. 2017. Available at: https://www.fda.gov/Drugs/DrugSafety/ucm243903.htm. Accessed
+March 20, 2021
+Food and Drug Administration: FDA drug safety communication: FDA recommends avoiding use of
+NSAIDs in pregnancy at 20 weeks or later because they can result in low amniotic fluid. 2020a.
+Available at: www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaidspregnancy-20-weeks-or-later-because-they-can-result-low-amniotic. Accessed March 20, 2021
+Food and Drug Administration: List of pregnancy exposure registries. 2021. Available at:
+https://www.fda.gov/science-research/womens-health-research/list-pregnancy-exposure-registries.
+Accessed March 20, 2021
+Food and Drug Administration: Pregnancy, lactation, and reproductive potential: labeling for human
+prescription drug and biological products—content and format guidance for industry. Draft
+Guidance, Revision 1. Rockville, Maryland, 2020b. Available at:
+https://www.fda.gov/media/90160/download. Accessed March 20, 2021
+Food and Drug Administration: Questions & answers from the FDA/EPA advice about eating fish for
+women who are or might become pregnant, breastfeeding mothers, and young children. 2019.
+Available at: https://www.fda.gov/food/consumers/questions-answers-fdaepa-advice-about-eatingfish-women-who-are-or-might-become-pregnant. Accessed March 20, 2021
+Fried PA, Watkinson B, Gray R: Differential effects on cognitive functioning in 13- to 16-year-olds
+prenatally exposed to cigarettes and marihuana. Neurotoxicol Teratol 25:427, 2003
+Gabrhelik R, Skurtveit S, Nechanska B, et al: Prenatal methamphetamine exposure and adverse
+neonatal outcomes: a nationwide cohort study. Eur Addict Res 27(2):97, 2021
+
+Genentech: Herceptin (trastuzumab) prescribing information. 2020. Available at:
+https://www.gene.com/download/pdf/herceptin_prescribing.pdf. Accessed March 20, 2021
+Gilead Sciences: Letairis (ambrisentan) prescribing information. 2019. Available at:
+https://www.gilead.com/∼/media/Files/pdfs/medicines/cardiovascular/letairis/letairis_pi.pdf.
+Accessed March 20, 2021
+Goldberg O, Moretti M, Levy A, et al: Exposure to nitrofurantoin during early pregnancy and congenital
+malformations: a systematic review and meta-analysis. J Obstet Gynaecol Can 37(2):150, 2015
+Gorman MC, Orme KS, Nguyen NT, et al: Outcomes in pregnancies complicated by methamphetamine
+use. Am J Obstet Gynecol 211(4):429.e1, 2014
+Gouin K, Murphy K, Shah PS, et al: Effects of cocaine use during pregnancy on low birthweight and
+preterm birth: systematic review and meta-analyses. Am J Obstet Gynecol 204(4):340.e1, 2011
+Grab D, Paulus WE, Erdmann M, et al: Effects of low-dose aspirin on uterine and fetal blood flow
+during pregnancy: results of a randomized, placebo-controlled, double-blind trial. Ultrasound Obstet
+Gynecol 15(1):19, 2000
+Grandjean P, Herz KT: Methylmercury and brain development: imprecision and underestimation of
+developmental neurotoxicity in humans. Mt Sinai J Med 78(1):107, 2011
+Gregg NM: Congenital cataract following German measles in the mother. Trans Ophthalmol Soc 3:35,
+1941
+Grimes DA, Schulz KF: False alarms and pseudo-epidemics: the limitations of observational
+epidemiology. Obstet Gynecol 120(4):920, 2012
+Guerri C, Bazinet A, Riley EP: Foetal alcohol spectrum disorders and alterations in brain and behaviour.
+Alcohol 44(2):108, 2009
+Guron G, Friberg P: An intact renin-angiotensin system is a prerequisite for normal renal development. J
+Hypertension 18(2):123, 2000
+Hall HG, McKenna LG, Griffiths DL: Complementary and alternative medicine for induction of labor.
+Women Birth 25(3):142, 2012
+Hall JG, Pauli RM, Wilson K: Maternal and fetal sequelae of anticoagulation during pregnancy. Am J
+Med 68(1):122, 1980
+Hammers AL, Sanchez-Ramos L, Kaunitz AM: Antenatal exposure to indomethacin increases the risk
+of severe intraventricular hemorrhage, necrotizing enterocolitis, and periventricular leukomalacia: a
+systematic review with metaanalysis. Am J Obstet Gynecol 212(4):505.e1, 2015a
+Hammers AL, Sanchez-Ramos L, Kaunitz AM: Indomethacin as a tocolytic harmful to preterm infant.
+Author reply. Am J Obstet Gynecol 213(6):879, 2015b
+Hansen C, Andrade SE, Freiman H, et al: Trimethoprim-sulfonamide use during the first trimester of
+pregnancy and the risk of congenital anomalies. Pharmacoepidemiol Drug Saf 25(2):170, 2016
+Hassouna A, Allam H: Limited dose warfarin throughout pregnancy in patients with mechanical heart
+valve prosthesis: a meta-analysis. Interact Cardiovasc Thorac Surg 18(6):797, 2014
+Haugen BR, Alexander EK, Bible KC, et al. 2015 American Thyroid Association management
+guidelines for adult patients with thyroid nodules and differentiated thyroid cancer: the American
+Thyroid Association Guidelines Task Force on thyroid nodules and differentiated thyroid cancer.
+Thyroid 26(1):1, 2016
+Health and Human Services: Federal policy for the protection of human subjects. Fed Regist 82(2):7149,
+2017
+Henson LJ, Afsar S, Davenport L, et al: Pregnancy outcomes in patients treated with leflunomide, the
+parent compound of the multiple sclerosis drug teriflunomide. Reprod Toxicol 95:45, 2020
+
+Hernandez RK, Werler MM, Romitti P, et al: Nonsteroidal antiinflammatory drug use among women and
+the risk of birth defects. Am J Obstet Gynecol 206(3):228.e1, 2012
+Hernandez-Diaz S, Smith CR, Shen A, et al: Comparative safety of antiepileptic drugs during pregnancy.
+Neurology 78(21):1692, 2012
+Hoeltzenbein M, Elefant E, Vial T, et al: Teratogenicity of mycophenolate confirmed in a prospective
+study of the European Network of Teratology Information Services. Am J Med Genet A
+158A(3):588, 2012
+Hoyme HE, Kalberg WO, Elliott AJ, et al: Updated clinical guidelines for diagnosing fetal alcohol
+spectrum disorders. Pediatrics 138(2):e20154256, 2016
+Hoyt AT, Canfield MA, Romitti PA, et al: Associations between maternal periconceptional exposure to
+secondhand tobacco smoke and major birth defects. Am J Obstet Gynecol 215(5):613, 2016
+Huybrechts KF, Bateman BT, Palmsten K, et al: Antidepressant use late in pregnancy and risk of
+persistent pulmonary hypertension of the newborn. JAMA 313(21):2142, 2015
+Huybrechts KF, Palmsten K, Avorn J, et al: Antidepressant use in pregnancy and the risk of cardiac
+defects. N Engl J Med 360(25):2397, 2014
+Hyoun SC, Obican SG, Scialli AR: Teratogen update: methotrexate. Birth Defects Res A Clin Mol
+Teratol 94(4):187, 2012
+Janssen Pharmaceutica: Opsumit (macitentan) prescribing information. 2019a. Available at:
+https://www.janssenlabels.com/package-insert/product-monograph/prescribinginformation/OPSUMIT-pi.pdf. Accessed March 20, 2021
+Janssen Pharmaceutica: Tracleer (bosentan) prescribing information. 2019b. Available at:
+https://www.tracleer.com/assets/PDFs/Tracleer_Full_Prescribing_Information.pdf. Accessed
+March 20, 2021
+Jasper JD, Goel R, Einarson A, et al: Effects of framing on teratogenic risk perception in pregnant
+women. Lancet 358(9289):1237, 2001
+Jones KL, Smith DW, Ulleland CN, et al: Pattern of malformation in offspring of chronic alcoholic
+mothers. Lancet 1(7815):1267, 1973
+Jordan AE, Jackson GL, Deardorff D, et al: Serotonin reuptake inhibitor use in pregnancy and the
+neonatal behavioral syndrome. J Matern Fetal Neonatal Med 21(10):745, 2008
+Kaplan YC, Ozsarfati J, Etwel F, et al: Pregnancy outcomes following first-trimester exposure to topical
+retinoids: a systematic review and meta-analysis. Br J Dermatol 173(5):1117, 2015
+Kennedy DA, Lupattelli A, Koren G, et al: Safety classification of herbal medicines used in pregnancy
+in a multinational study. BMC Complement Altern Med 16(1):102, 2016
+Khabour OF, Alzoubi KH, Al-Sheyab N, et al: Investigating the effects of exposure to waterpipe smoke
+on pregnancy outcomes using an animal model. Nicotine Tob Res 18:585, 2016
+Khoury MJ, James LM, Flanders WD, et al: Interpretation of recurring weak association obtained from
+epidemiologic studies of suspected human teratogens. Teratology 46(1):69, 1992
+Kieler H, Artama M, Engeland A, et al: Selective serotonin reuptake inhibitors during pregnancy and
+risk of persistent pulmonary hypertension in the newborn: population based cohort study from the
+five Nordic countries. BMJ 344:d8012, 2012
+Kim HO, Lee K, Lee SM, et al: Association between pregnancy outcomes and radioactive iodine
+treatment after thyroidectomy among women with thyroid cancer. JAMA Intern Med 180(1):54,
+2020
+King RW, Baca MJ, Armenti VT, et al: Pregnancy outcomes related to mycophenolate exposure in
+female kidney transplant recipients. Am J Transplant 17(1):151, 2017
+
+Kirshon B, Wasserstrum N, Willis R, et al: Teratogenic effects of first trimester cyclophosphamide
+therapy. Obstet Gynecol 72(3Pt2):462, 1988
+Klarskov P, Andersen JT, Jimenez-Solem E, et al: Short-acting sulfonamides near term and neonatal
+jaundice. Obstet Gynecol 122(1):105, 2013
+Koren G, Bologa M, Long D, et al: Perception of teratogenic risk by pregnant women exposed to drugs
+and chemicals during the first trimester. Am J Obstet Gynecol 160(5Pt1):1190, 1989
+Koren G, Pastuszak A, Ito S: Drugs in pregnancy. N Engl J Med 338(16):1128, 1998
+Krishnasamy VP, Hallowell BD, Ko JY, et al: Update: characteristics of a nationwide outbreak of ecigarette, or vaping, product use–associated lung injury—United States, August 2019–January 2020.
+MMWR 69(3):90, 2020
+Kummet CM, Moreno LM, Wilcox AJ, et al. Passive smoke exposure as a risk factor for oral clefts–a
+large international population-based study. Am J Epidemiol 183(9):834, 2016
+Kutscher AH, Zegarelli EV, Tovell HM, et al: Discoloration of deciduous teeth induced by administration
+of tetracycline antepartum. Am J Obstet Gynecol 96(2):291, 1966
+Lammer EJ, Chen DT, Hoar RM, et al: Retinoic acid embryopathy. N Engl J Med 313(14):837, 1985
+Lange S, Probst C, Gmel G, et al: Global prevalence of fetal alcohol spectrum disorder among children
+and youth: a systematic review and meta-analysis. JAMA Pediatr 171(10):948, 2017
+Lemoine P, Harouusseau H, Borteyru JP, et al: Les enfants de parents alcooliques: anomalies observées,
+a propos de 127 cas. Ouest Med 21:476, 1968
+Lenz W, Knapp K: Thalidomide embryopathy. Arch Environ Health 5:100, 1962
+Leong C, Chateau D, Dahl M, et al: Prescription medication use during pregnancies that resulted in
+births and abortions (2001-2013): a retrospective population-based study in a Canadian population.
+PLoS One 14(3):e0211319, 2019
+Li DK, Yang C, Andrade S, et al: Maternal exposure to angiotensin converting enzyme inhibitors in the
+first trimester and risk of malformations in offspring: a retrospective cohort study. BMJ 343:d5931,
+2011
+Lin S, Munsie JP, Herdt-Losavio ML, et al: Maternal asthma medication use and the risk of selected
+birth defects. Pediatrics 129(2):317, 2012
+Lind JN, Petersen EE, Lederer PA, et al: Infant and maternal characteristics in neonatal abstinence
+syndrome—selected hospitals in Florida, 2010–2011. MMWR 64(8):213, 2015
+Lipshultz SE, Frassica JJ, Orav EJ: Cardiovascular abnormalities in infants prenatally exposed to
+cocaine. J Pediatr 118(1):44, 1991
+Malik S, Cleves MA, Honein MA, et al: Maternal smoking and congenital heart defects. Pediatrics
+121(4):e810, 2008
+Martinez-Frias ML, Czeizel AE, Rodriguez-Pinilla E, et al: Smoking during pregnancy and Poland
+sequence: results of a population-based registry and a case-control registry. Teratology 59(1):35,
+1999
+May PA, Baete A, Russo J, et al: Prevalence and characteristics of fetal alcohol spectrum disorders.
+Pediatrics 134(5):855, 2014
+May PA, Gossage JP, Kalberg WO, et al: Prevalence and epidemiologic characteristics of FASD from
+various research methods with an emphasis on recent in-school studies. Dev Disabil Res Rev
+15(3):176, 2009
+McKeigue PM, Lamm SH, Linn S, et al: Bendectin and birth defects: I. A meta-analysis of the
+epidemiologic studies. Teratology 50(1):27, 1994
+Meador KJ, Baker GA, Browning N, et al: Cognitive function at 3 years of age after fetal exposure to
+antiepileptic drugs. N Engl J Med 360(16):1597, 2009
+
+Merck: Rebetol (ribavirin) prescribing information. 2020. Available at:
+https://www.merck.com/product/usa/pi_circulars/r/rebetol/rebetol_pi.pdf. Accessed March 20, 2021
+Merlob P, Stahl B, Klinger G: Tetrada of the possible mycophenolate mofetil embryopathy: a review.
+Reprod Toxicol 28(1):105, 2009
+Metz TD, Borgelt LM: Marijuana use in pregnancy and while breastfeeding. Obstet Gynecol
+132(5):1198, 2018
+Mitchell AA, Gilboa SM, Werler MM, et al: Medication use during pregnancy, with particular focus on
+prescription drugs: 1976–2008. Am J Obstet Gynecol 205(1):51.e1, 2011
+Mølgaard-Nielsen D, Hviid A: Newer-generation antiepileptic drugs and the risk of major birth defects.
+JAMA 305(19):1996, 2011
+Mølgaard-Nielsen D, Pasternak B, Hviid A: Use of oral fluconazole during pregnancy and the risk of
+birth defects. N Engl J Med 369(9):830, 2013
+Munoz Balbontin Y, Stewart D, Shetty A, et al: Herbal medicinal product use during pregnancy and the
+postnatal period: a systematic review. Obstet Gynecol 133(5):920, 2019
+Munsie JW, Lin S, Browne ML, et al: Maternal bronchodilator use and the risk of oral clefts. Hum
+Reprod 26(11):3147, 2011
+Murphy VE, Fittock RJ, Zarzycki PK, et al: Metabolism of synthetic steroids by the human placenta.
+Placenta 28(1):39, 2007
+National Toxicology Program: NTP monograph: developmental effects and pregnancy outcomes
+associated with cancer chemotherapy use during pregnancy. NTP Monog 2:1, 2013
+Nordeng H, Bayne K, Havnen GC, et al: Use of herbal drugs during pregnancy among 600 Norwegian
+women in relation to concurrent use of conventional drugs and pregnancy outcome. Complement
+Ther Clin Pract 17(3):147, 2011
+Oakley GP, Erickson JD: Vitamin A and birth defects. N Engl J Med 333(21):1414, 1995
+O’Connor A, Seeber C, Harris E, et al: Developmental outcomes following prenatal exposure to
+methamphetamine: a western Australian perspective. J Paediatr Child Health 56(3):372, 2020
+Ornoy A, Koren G: Selective serotonin reuptake inhibitors during pregnancy: do we have now more
+definite answers related to prenatal exposure? Birth Defects Res 109(12):898, 2017
+Pallivalapila AR, Stewart D, Shetty A, et al: Use of complementary and alternative medicines during the
+third trimester. Obstet Gynecol 125(1):204, 2015
+Panchaud A, Csajka C, Merlob P, et al: Pregnancy outcome following exposure to topical retinoids: a
+multicenter prospective study. J Clin Pharmacol 52(12):1844, 2012
+Park-Wyllie L, Mazzota P, Pastuszak A, et al: Birth defects after maternal exposure to corticosteroids:
+prospective cohort study and meta-analysis of epidemiological studies. Teratology 62(6):385, 2000
+Patorno E, Huybrechts KF, Bateman BT, et al: Lithium use in pregnancy and the risk of cardiac
+malformations. N Engl J Med 376(23):2245, 2017
+Pearson MA, Hoyme HE, Seaver LH, et al: Toluene embryopathy: delineation of the phenotype and
+comparison with fetal alcohol syndrome. Pediatrics 93(2):211, 1994
+Pryde PG, Sedman AB, Nugent CE, et al: Angiotensin converting enzyme inhibitor fetopathy. J Am Soc
+Nephrol 3(9):1575, 1993
+Rasanen J, Jouppila P: Fetal cardiac function and ductus arteriosus during indomethacin and sulindac
+therapy for threatened preterm labor: a randomized study. Am J Obstet Gynecol 173(1):20, 1995
+Reefhuis J, Gilboa SM, Anderka M, et al: The National Birth Defects Prevention Study: a review of the
+methods. Birth Defects Res A Clin Mol Teratol 103(8):656, 2015
+Richardson S, Browne ML, Rasmussen SA, et al: Associations between periconceptional alcohol
+consumption and craniosynostosis, omphalocele, and gastroschisis. Birth Defects Res A Clin Mol
+
+Teratol 91(7):623, 2011
+Rocheleau CM, Bertke SJ, Lawson CC, et al: Maternal occupational pesticide exposure and risk of
+congenital heart defects in the National Birth Defects Prevention Study. Birth Defects Res A Clin
+Mol Teratol 103(10):823, 2015
+Rothman KJ, Moore LL, Singer MR, et al: Teratogenicity of high vitamin A intake. N Engl J Med
+333(21):1369, 1995
+Sabbagh HJ, Hassan MH, Innes NP, et al: Passive smoking in the etiology of non-syndromic orofacial
+clefts: a systematic review and meta-analysis. PLOS One 10(3):e0116963, 2015
+Sadler TW (ed): Langman’s Medical Embryology, 6th ed. Baltimore, Williams & Wilkins, 1990, p 130
+Sanofi-Aventis: Arava (leflunomide) prescribing information. 2016. Available at:
+https://products.sanofi.us/arava/arava.html. Accessed March 20, 2021
+Scheuerle AE, Holmes LB, Albano JD, et al: Levetiracetam Pregnancy Registry: final results and a
+review of the impact of registry methodology and definitions on the prevalence of major congenital
+malformations. Birth Defects Res 111(13):872, 2019
+Schuurman TN, Witteveen PO, van der Wall E, et al: Tamoxifen and pregnancy: an absolute
+contraindication? Breast Can 175(1):17, 2019
+Shepard TH: Annual commentary on human teratogens. Teratology 66(6):275, 2002a
+Shepard TH: Letters: “proof” of human teratogenicity. Teratology 50(2):97, 1994
+Shepard TH, Brent RL, Friedman JM, et al: Update on new developments in the study of human
+teratogens. Teratology 65(4):153, 2002b
+Siu AL: Behavioral and pharmacotherapy interventions for tobacco smoking cessation in adults,
+including pregnant women: U.S. Preventive Services Task Force Recommendation Statement. U.S.
+Preventive Services Task Force. Ann Intern Med 163:622, 2015
+Spindel ER, McEvoy CT: The role of nicotine in the effects of maternal smoking during pregnancy on
+lung development and childhood respiratory disease. Implications for dangers of e-cigarettes. Am J
+Respir Crit Care Med 193(5):486, 2016
+Spong CY, Bianchi DW: Improving public health requires inclusion of underrepresented populations in
+research. JAMA 319(4):337, 2018
+Stewart RD, Nelson DB, Adhikari EH, et al: The obstetrical and neonatal impact of maternal opioid
+detoxification in pregnancy. Am J Obstet Gynecol 209(3):267, 2013
+Stiefel Laboratories: Soriatane (acitretin) prescribing information. 2017. Available at:
+https://gskpro.com/content/dam/global/hcpportal/en_US/Prescribing_Information/Soriatane/pdf/SOR
+IATANE-PI-MG.PDF. Accessed March 20, 2021
+Stillerman KP, Mattison DR, Giudice LC, et al: Environmental exposures and adverse pregnancy
+outcomes: a review of the science. Reprod Sci 15(7):631, 2008
+Stingone JA, Luben TJ, Carmichael SL, et al: Maternal exposure to nitrogen dioxide, intake of methyl
+nutrients and congenital heart defects in offspring. Am J Epidemiol 186(6):719, 2017
+Strandberg TE, Andersson S, Jarvenpaa AL, et al: Preterm birth and licorice consumption during
+pregnancy. Am J Epidemiol 156(9):803, 2002
+Strandberg-Larsen K, Nielsen NR, Grønbaek M, et al: Binge drinking in pregnancy and risk of fetal
+death. Obstet Gynecol 111(3):602, 2008
+Streissguth AP, Clarren SK, Jones KL: Natural history of fetal alcohol syndrome: a 10-year follow-up of
+eleven patients. Lancet 2:85, 1985
+Sullivan PM, Dervan LA, Reiger S, et al: Risk of congenital heart defects in the offspring of smoking
+mothers: a population-based study. J Pediatr 166(4):978, 2015
+
+Teratology Society Public Affairs Committee: Causation in teratology-related litigation. Birth Def Res A
+Clin Mol Teratol 73(6):421, 2005
+Tinker SC, Gilboa SM, Moore CA, et al: Specific birth defects in pregnancies of women with diabetes:
+National Birth Defects Prevention Study, 1997–2011. Am J Obstet Gynecol 222(2):176, 2020
+Vajda FJ, O’Brien TJ, Lander CM, et al: Antiepileptic drug combinations not involving valproate and the
+risk of fetal malformations. Epilepsia 57(7):1048, 2016
+van der Heijden BJ, Carlus C, Narcy F, et al: Persistent anuria, neonatal death, and renal microcystic
+lesions after prenatal exposure to indomethacin. Am J Obstet Gynecol 171(3):617, 1994
+Van Driel D, Wesseling J, Sauer PJ, et al: Teratogen update: fetal effects after in utero exposure to
+coumarins overview of cases, follow-up findings, and pathogenesis. Teratology 66(3):127, 2002
+Van Gelder MM, Reefhuis J, Caton AR, et al: Maternal periconceptional illicit drug use and the risk of
+congenital malformations. Epidemiology 20:60, 2009
+Vargesson N: Thalidomide-induced teratogenesis: history and mechanisms. Birth Defects Res C
+Embryo Today 105(2):140, 2015
+Walker MP, Moore TR, Brace RA: Indomethacin and arginine vasopressin interaction in the fetal
+kidney. A mechanism of oliguria. Am J Obstet Gynecol 171(5):1234, 1994
+Warkany J: Warfarin embryopathy. Teratology 14(2):205, 1976
+Weber-Schoendorfer C, Kayser A, Tissen-Diabate T, et al: Fetotoxic risk of AT1 blockers exceeds that
+of angiotensin-converting enzyme inhibitors: an observational study. J Hypertens 38(1):133, 2020
+Werler MM: Teratogen update: smoking and reproductive outcomes. Teratology 55(6):382, 1997
+Weston J, Bromley R, Jackson CF, et al: Monotherapy treatment of epilepsy in pregnancy: congenital
+malformation outcomes in the child. Cochrane Database Syst Rev 11:CD010224, 2016
+West-Ward Pharmaceuticals: Lithium prescribing information. 2020. Available at:
+dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7dc9c6d2-6d9a-49e4-a8ab-437b0ed5f84e.
+Accessed March 20, 2021
+Wiesner J, Knoss W: Herbal medicinal products in pregnancy—which data are available? Reprod
+Toxicol 72:142, 2017
+Wilkins-Haug L: Teratogen update: toluene. Teratology 55(2):145, 1997
+Willford JA, Chandler LS, Goldschmidt L, et al: Effects of prenatal tobacco, alcohol and marijuana
+exposure on processing speed, visual-motor coordination, and inter-hemispheric transfer.
+Neurotoxicol Teratol 32:580, 2010
+Williams JF, Smith VC, American Academy of Pediatrics Committee on Substance Abuse: Fetal alcohol
+spectrum disorders. Pediatrics 136(5):e1395, 2015
+Wurst KE, Poole C, Ephross SA, et al: First trimester paroxetine use and the prevalence of congenital,
+specifically cardiac defects: a meta-analysis of epidemiological studies. Birth Defect Res A Clin Mol
+Teratol 88(3):159, 2010
+Yacobi S, Ornoy A: Is lithium a real teratogen? What can we conclude from the prospective versus
+retrospective studies? A review. Isr J Psychiatry Relat Sci 45(2):95, 2008
+Yorifuji T: Lessons from an early-stage epidemiological study of Minimata disease. J Epidemiol 30(1):12,
+2020
+Yoshihara A, Noh JY, Watanabe N, et al: Substituting potassium iodide for methimazole as the treatment
+for Graves’ disease during the first trimester may reduce the incidence of congenital anomalies: a
+retrospective study at a single medical institution in Japan. Thyroid 25(10):1155, 2015
+Yoshihara A, Noh J, Yamaguchi T, et al: Treatment of Graves’ disease with antithyroid drugs in the first
+trimester of pregnancy and the prevalence of congenital malformation. J Clin Endocrinol Metab
+97:2396, 2012
+
+Young-Wolff KC, Sarovar V, Tucker LY et al: Trends in marijuana use among pregnant women with and
+without nausea and vomiting in pregnancy, 2009–2016. Drug Alcohol Depend 196(1): 66, 2019
+Zelson C, Lee SJ, Casalino M: Neonatal narcotic addiction: comparative effects of maternal intake of
+heroin and methadone. N Engl J Med 289(23):1216, 1973
+Zhu Y, Bateman BT, Gray KJ, et al: Oral fluconazole use in the first trimester and risk of congenital
+malformations: population based cohort study. BMJ 369:m1494, 2020
+

@@ -1,0 +1,1397 @@
+CHAPTER 33
+
+Complications of the Term Newborn
+
+RESPIRATORY DISTRESS
+NEONATAL ENCEPHALOPATHY AND CEREBRAL PALSY
+NEONATAL ABSTINENCE SYNDROME
+HEMATOLOGICAL DISORDERS
+NEWBORN INJURIES
+REFERENCES
+Term newborns are susceptible to various illnesses and injuries. In many
+instances, clinical manifestations of these disorders are extensions of
+pathological effects already incurred by the fetus. A common example is the
+newborn who is depressed and acidotic because of intrapartum septicemia.
+Susceptibility varies depending upon gestational age, and those more
+common in term newborns are considered here. Those more frequent in
+preterm neonates are discussed in Chapter 34. Specific disorders that are the
+direct consequence of maternal diseases are discussed in pertinent chapters.
+
+RESPIRATORY DISTRESS
+At the time of delivery, the newborn must convert rapidly to air breathing as
+described in Chapter 32 (p. 586). With inspiration, alveoli expand, lung fluid
+is cleared, and surfactant prevents alveolar collapse. Interference with these
+functions can create respiratory insufficiency. The neonate demonstrates
+
+hypoxemia and compensatory tachypnea, nasal flaring, chest wall retractions,
+and grunting. In preterm neonates, this is often caused by lung immaturity and
+insufficient surfactant—respiratory distress syndrome (RDS), which is
+discussed in Chapter 34 (p. 615).
+As fetuses approach term, surfactant deficiency as a cause of respiratory
+distress diminishes. The leading causes in term newborns are transient
+tachypnea of the newborn (TTN), meconium aspiration syndrome,
+pneumonia, and pneumothorax. Less common etiologies are RDS, persistent
+pulmonary hypertension, acid/base disturbances, central nervous system
+(CNS) insults, and congenital chest, respiratory tract, CNS, or cardiac
+anomalies (Alhassen, 2021).
+Following birth, successful neonatal transition to air breathing may be
+delayed. With longer delays, evaluations to identify the cause of respiratory
+distress are warranted. The initial neonatal evaluation includes chest
+radiographs. Complete blood count or C-reactive protein levels and blood
+cultures are obtained to identify infection. Arterial blood gas assessments
+can define respiratory status and direct oxygenation care.
+In general, treatment of respiratory distress is supportive with oxygen
+therapy provided as needed. Depending on the etiology and severity,
+continuous positive airway pressure (CPAP) or mechanical ventilation may
+be needed. Nutritional intake may be oral, gavage, or intravenous depending
+on the degree of neonatal tachypnea. High respiratory rates can limit
+effective breastfeeding and raise aspiration risk.
+
+■ Transient Tachypnea of the Newborn
+TTN is benign, self-limited, and stems from slow clearance of fetal lung
+fluid after birth. Neonates of any gestational age can be affected. However,
+delivery before 39 weeks’ gestation raises risk, and rates vary inversely with
+gestational age. Other risk factors are cesarean delivery without labor, male
+gender, perinatal asphyxia, and large- or small-for-gestational-age
+birthweight. Maternal gestational diabetes or asthma are others.
+TTN is a diagnosis of exclusion. Thus, the evaluation outlined in the last
+section excludes pathological sources. Treatment is supportive with oxygen
+therapy as needed. Most TTN cases resolve within 48 hours.
+
+■ Respiratory Distress Syndrome
+This condition stems from surfactant deficiency and has a relatively low
+incidence at term (Berthelot-Ricou, 2012). Risks include male gender, white
+race, and maternal diabetes (Anadkat, 2012; Li, 2019). Less frequently, rare
+mutations in genes that code for surfactant protein synthesis may contribute.
+Four are surfactant protein B, surfactant protein C, adenosine triphosphate
+(ATP)-binding cassette subfamily A member 3 (ABCA3), and thyroid
+transcription factor 1 genes (Liszewski, 2017). Regardless of etiology,
+when surfactant secretion is diminished, the pulmonary pathophysiology,
+clinical course, and management are similar to that for preterm infants.
+Treatment includes CPAP or mechanical ventilation and potentially surfactant
+replacement either through an endotracheal tube or by less invasive
+surfactant techniques (Chap. 34, p. 616). Bacterial pneumonia, especially
+related to group B Streptococcus in a newborn is often clinically and
+radiographically indistinguishable from RDS. Thus, empirical antibiotics are
+often added to respiratory management. The prognosis in term newborns with
+RDS largely depends on the cause, severity, and response to treatment.
+Antenatal maternal corticosteroid treatment is employed for threatened
+preterm birth and described in Chapter 45 (p. 802). In late-preterm fetuses
+34 to 37 weeks’ gestation, this therapy also enhances surfactant synthesis
+(Gyamfi-Bannerman, 2016). At Parkland Hospital, corticosteroids are not
+given in the late-preterm period for this indication. Neonatal hypoglycemia is
+a concern with such treatment, and long-term effects are unknown. However,
+data indicate that hypoglycemia, if promptly treated, creates no adverse
+sequelae (McKinlay, 2015).
+
+■ Meconium Aspiration Syndrome
+The physiology of meconium passage and amnionic fluid contamination is
+considered in Chapter 24 (p. 458). In some instances, inhalation of
+meconium-stained fluid at or near delivery causes acute airway obstruction,
+chemical pneumonitis, surfactant dysfunction or inactivation, and pulmonary
+hypertension (Vain, 2017). If severe, hypoxemia may lead to neonatal death
+or long-term neurological sequelae in survivors.
+Meconium-stained fluid in labor is common. Fortunately, severe
+aspiration leading to overt respiratory failure is much less frequent. In one
+
+study, the incidence of severe disease was 4 cases per 1000 newborn
+hospital discharges, and rates rise progressively from 37 to 43 weeks’
+gestation (Thornton, 2019). Mortality rates depend on severity.
+Fetal morbidity is more often associated with thicker meconium content.
+Presumably, in most cases, amnionic fluid is ample to dilute the meconium to
+permit prompt clearance by normal fetal physiological mechanisms.
+Meconium aspiration syndrome still occasionally develops with light
+staining. Many newborns are affected after a normal labor and uncomplicated
+delivery. However, some associated obstetrical factors include postterm
+pregnancy and fetal-growth restriction. These fetuses are at highest risk
+because diminished amnionic fluid and labor with cord compression or
+uteroplacental insufficiency are often comorbid. These can enhance the
+likelihood of meconium passage that is thick and undiluted (Leveno, 1984).
+
+Prevention
+Previously, aspiration was thought to be stimulated by fetal hypoxic
+episodes, and fetal heart rate tracing abnormalities were used to identify
+fetuses at greatest risk during labor. Unfortunately, this was found to be an
+unreliable predictor (Dooley, 1985). As another potential prevention,
+oropharyngeal suctioning at the perineum was standard care for a time.
+However, this was abandoned when evidence failed to support a reduction in
+meconium aspiration syndrome incidence or severity (American College of
+Obstetricians and Gynecologists, 2021b; Vain, 2004). From other studies,
+endotracheal intubation and suctioning for both vigorous and nonvigorous
+meconium-stained neonates provides no benefit and is no longer
+recommended as a routine (Trevisanuto, 2020; Wiswell, 2000; Wyckoff,
+2020). Because neonates born through meconium may need effective positive
+pressure ventilation for stabilization, it is still critical that pediatric
+providers attend such deliveries (Aziz, 2020).
+Intrapartum amnioinfusion has been used successfully in laboring
+women with diminished amnionic fluid volume to help resolve frequent
+variable fetal heart rate decelerations (Chap. 24, p. 459). Earlier, it was also
+studied as a preventive measure in labors complicated by meconium staining.
+This practice fails to lower rates of meconium aspiration syndrome in
+settings with standard peripartum surveillance (Hofmeyr, 2014). A trial was
+conducted with almost 2000 women at 36 weeks’ gestation or later and in
+whom labor was complicated by thick meconium (Fraser, 2005). The
+
+perinatal death rate with and without amnioinfusion was 0.05 percent in both
+groups. Rates of moderate or severe meconium aspiration also were not
+significantly different in those with (4.4 percent) and without (3.1 percent)
+amnioinfusion. Last, cesarean delivery rates were similar—32 versus 29
+percent, respectively.
+
+Treatment
+Ventilatory support including CPAP, intubation, and mechanical ventilation is
+carried out as needed (Pandita, 2018). Because some aspects of meconium
+aspiration syndrome are caused by surfactant deficiency, replacement therapy
+is beneficial (Natarajan, 2016a). In a review of randomized trials, authors
+found that surfactant replacement may reduce the need for extracorporeal
+membrane oxygenation (ECMO) but did not lower the mortality rate (El
+Shahed, 2014). Inhaled corticosteroids may partially ameliorate the severity
+of meconium aspiration syndrome, but neither inhaled or systemic
+corticosteroids consistently improve critical outcomes (Garg, 2016; Yeung,
+2021). Newborns with meconium aspiration syndrome and pulmonary
+hypertension are often treated with inhaled nitric oxide, which reduces rates
+of death and need for ECMO (Vain, 2017). ECMO therapy is reserved for
+neonates who remain poorly oxygenated despite maximal ventilatory
+assistance (Hirakawa, 2017). The proportion that requires ECMO treatment
+varies. From the California Perinatal Quality Care Collaborative, 0.35
+percent of more than 5100 cases of meconium aspiration syndrome required
+ECMO treatment. The associated mortality rate was 5.3 percent (Kalra,
+2020).
+
+NEONATAL ENCEPHALOPATHY AND CEREBRAL
+PALSY
+Few events evoke more apprehension in parents and obstetricians than the
+specter of “brain injury,” which immediately prompts concerns for disabling
+cerebral palsy and intellectual disability. Although most brain disorders or
+injuries are less profound, history has helped to perpetuate the more dismal
+outlook. In his first edition of this textbook, Williams (1903) limited
+discussions of brain injury to those sustained from birth trauma. When later
+editions introduced the concept that asphyxia neonatorum was another cause
+
+of cerebral palsy, this too was linked to traumatic birth. Even as brain
+damage caused by traumatic delivery became uncommon during the ensuing
+decades, the belief—albeit erroneous—was that intrapartum events caused
+most neurological disability. This was a major reason for the escalating
+cesarean delivery rate beginning in the 1970s. Unfortunately, because the
+genesis of cerebral palsy occurs long before labor in most cases, cesarean
+delivery did little to mitigate cerebral palsy risks. Cerebral palsy rates have
+remained the same for 50 years despite a sixfold rise in cesarean birth rates
+(MacLennan, 2015).
+These realizations stimulated scientific investigations to determine the
+etiopathogenesis of fetal brain disorders, including those leading to cerebral
+palsy. Seminal observations, including those of Nelson and Ellenberg (1984,
+1985, 1986a), are discussed subsequently. These investigators are
+appropriately credited with proving that these neurological disorders are due
+to complex multifactorial processes caused by a combination of genetic,
+physiological, environmental, and obstetrical factors. Importantly, these
+studies showed that few neurological disorders are associated with
+peripartum events. However, continuing international interest was garnered
+to codify the potential role of intrapartum events. In 2000, a task force of the
+American College of Obstetricians and Gynecologists was appointed to
+study neonatal encephalopathy and cerebral palsy. The multispecialty
+coalition reviewed data and provided criteria to define various neonatal
+brain disorders. Their findings were promulgated by the American Academy
+of Pediatrics and American College of Obstetricians and Gynecologists
+(2003).
+Ten years later, a second task force updated the findings (American
+College of Obstetricians and Gynecologists, 2014a). The 2014 Task Force
+findings are more circumspect in contrast to the earlier ones. Specifically,
+more limitations are cited in identifying cause(s) of peripartum hypoxicischemic encephalopathy (HIE) compared with other etiologies of neonatal
+encephalopathy. The 2014 Task Force recommends multidimensional
+assessment of each affected infant. They add the caveat that no one strategy is
+infallible, and thus no single strategy will achieve 100-percent certainty in
+attributing a cause to neonatal encephalopathy.
+
+■ Neonatal Encephalopathy
+
+The 2014 Task Force defined neonatal encephalopathy as a syndrome of
+neurological dysfunction identified in the earliest days of life in neonates
+born at ≥35 weeks’ gestation. It is manifested by seizures or subnormal
+levels of consciousness and is often accompanied by difficulty with initiating
+and maintaining respiration and by depressed tone and reflexes. The
+incidence of encephalopathy has been cited to be 1 to 2 cases per 1000 term
+liveborn neonates, and it is much more frequent in preterm newborns
+(Ensing, 2015; Laptook, 2016; Novak, 2018; Ravichandran, 2020). The 2014
+Task Force concluded that many etiologies may lead to encephalopathy and
+cerebral palsy, however, it focused on HIE and causes that were thought to
+be incurred intrapartum. To identify affected infants, a thorough evaluation is
+necessary and includes maternal history, obstetrical antecedents, intrapartum
+factors, placental pathology, and newborn course. These are complemented
+by laboratory and neuroimaging findings.
+Three clinically defined levels categorize encephalopathy. Mild
+encephalopathy is characterized by hyperalertness, irritability, jitteriness,
+and hypertonia and hypotonia. Moderate encephalopathy shows lethargy,
+abnormal tone, and occasional seizures. Severe encephalopathy is manifest
+by coma, multiple seizures, and recurrent apnea.
+The 2014 Task Force also concluded that of the several forms of cerebral
+palsy, only the spastic quadriplegic type can result from acute peripartum
+ischemia. Other forms—hemiparetic or hemiplegic cerebral palsy, spastic
+diplegia, and ataxia—are unlikely to result from an intrapartum event.
+Purely dyskinetic or ataxic cerebral palsy, especially when accompanied by
+a learning disorder, usually has a genetic origin (Nelson, 2015).
+
+Criteria for Hypoxic-Ischemic Encephalopathy
+The 2014 Task Force radically revised the 2003 criteria used to define an
+acute peripartum event that is consistent with HIE and neonatal
+encephalopathy. These are outlined in Table 33-1 and are considered with
+the following caveats (American College of Obstetricians and
+Gynecologists, 2014b).
+TABLE 33-1. Findings Consistent with an Acute Peripartum or Intrapartum
+Event Leading to Hypoxic-Ischemic Encephalopathy
+
+First, Apgar scores that are low at 5 and 10 minutes are associated with
+greater risk for neurological impairment. Low scores stem from many causes,
+and most of these infants will not develop cerebral palsy. With a 5-minute
+Apgar ≥7, it is unlikely that peripartum HIE caused cerebral palsy.
+Acid-base study results define a second HIE criterion. Low pH and high
+base deficit levels raise the likelihood that neonatal encephalopathy was
+caused by HIE. Decreasing pH levels form a continuum of increasing risk,
+but most acidemic neonates will be neurologically normal (Lee, 2020b). A
+cord artery pH ≥7.2 is very unlikely to be associated with HIE.
+Magnetic resonance (MR) imaging or MR spectroscopy (MRS) is the
+best modality with which to visualize findings consistent with HIE. The 2014
+Task Force concluded that cranial sonography and computed tomography
+(CT) lack sensitivity in the term newborn. Normal imaging findings after the
+first 24 hours of life, however, effectively exclude a hypoxic-ischemic cause
+of encephalopathy. MR imaging between 24 and 96 hours may be more
+sensitive for the timing of peripartum cerebral injury, and MR imaging at 7 to
+21 days following birth is the best technique to delineate the full extent of
+cerebral injury.
+Last, multisystem involvement of injury is consistent with HIE. These
+include renal, gastrointestinal, hepatic, or cardiac injury; hematological
+abnormalities; or combinations of these. The severity of neurological injury
+does not necessarily correlate with injuries to these other systems.
+The 2014 Task Force also found that certain contributing factors may be
+consistent with an acute peripartum event. Of these, sentinel events are
+considered adverse obstetrical events that may lead to catastrophic clinical
+outcomes. Examples include ruptured uterus, severe placental abruption,
+
+cord prolapse, and amnionic fluid embolism. Martinez-Biarge and associates
+(2012) studied almost 58,000 deliveries and identified 192 cases with one of
+these sentinel events. Of these 192 fetus/newborns, 6 percent died
+intrapartum or in the early neonatal period, and 10 percent developed
+neonatal encephalopathy. Other risk factors for neonatal acidosis include
+prior or emergent cesarean delivery, maternal age ≥35 years, maternal
+obesity, thick meconium, chorioamnionitis, and general anesthesia
+(Johansson, 2018; Johnson, 2014; Nelson, 2014).
+Differentiating an abnormal fetal heart rate (FHR) tracing on
+presentation versus one that develops subsequently also was emphasized by
+the 2014 Task Force. A category 1 or 2 FHR tracing associated with Apgar
+scores ≥7 at 5 minutes, normal cord gases (±1 SD), or both are not consistent
+with an acute HIE event (Graham, 2014). An FHR pattern at the time of
+presentation with persistently minimal or absent variability and lacking
+accelerations, with duration ≥60 minutes, and even without decelerations is
+suggestive of an already compromised fetus (Chap. 24, p. 450). The 2014
+Task Force further recommended that with these findings present, if fetal
+well-being cannot be established, the woman should be evaluated for the
+method and timing of delivery.
+
+Prevention
+In term newborns, one of the best-studied interventions for neonatal HIE is
+postnatally induced hypothermia. Cooling initiated within the first 6 hours of
+life to a level of 33.5°C for 72 hours reduces death and moderate to severe
+neurological disability in term newborns (Jacobs, 2013; Natarajan, 2016b).
+One metaanalysis of more than 1500 neonates concluded that hypothermia
+improves survival rates and neurodevelopment by 24 months of age (Jacobs,
+2013). This neuroprotection extends to childhood (Azzopardi, 2014; Guillet,
+2012; Shankaran, 2012). MR imaging studies have demonstrated a slowing of
+diffusional abnormalities and fewer infarctions with hypothermia (Bednarek,
+2012; Natarajan, 2016b). Longer or deeper cooling does not offer additional
+protection compared with standard cooling (Shankaran, 2017).
+Importantly, hospitals should develop plans for timely transfer of
+encephalopathic newborns to a cooling center for evaluation and possible
+treatment. A trial of “late” hypothermia, with cooling initiated after 6 hours
+of life, showed some benefit. However, brain protection was not as robust as
+with cooling initiated in the first 6 hours (Laptook, 2017).
+
+Since therapeutic hypothermia is not completely protective, adjuvant
+therapies are being explored. In preclinical HIE models, erythropoietin has
+both early and late beneficial effects. These include antiapoptosis and
+antiinflammatory effects and greater neurogenesis, oligodendrogenesis, and
+angiogenesis (McAdams, 2016). One metaanalysis of small clinical trials
+evaluating this therapy for neuroprophylaxis reports some reductions in
+cognitive impairment and cerebral palsy rates (Razak, 2019). A large
+national trial has completed enrollment and is in the follow-up phase (Juul,
+2018). Other adjuvant therapies under investigation are allopurinol, xenon,
+melatonin, and stem cell therapies (McAdams, 2016).
+
+■ Cerebral Palsy
+This term refers to a group of nonprogressive disorders of movement or
+posture caused by abnormal development or damage to brain centers for
+motor control. Cerebral palsy is further classified by the type of neurological
+dysfunction—spastic, dyskinetic, or ataxic—and by the number and
+distribution of limbs involved—quadriplegia, diplegia, hemiplegia, or
+monoplegia. Together, the major types are spastic quadriplegia—the most
+common—which has a strong association with mental retardation and seizure
+disorders; diplegia, which is common in preterm or low-birthweight
+neonates; hemiplegia; choreoathetoid types; and mixed varieties. Although
+epilepsy and intellectual disability frequently accompany cerebral palsy,
+these two disorders seldom are associated with perinatal asphyxia in the
+absence of cerebral palsy.
+
+Incidence and Epidemiological Correlates
+According to the Centers for Disease Control and Prevention (2021), the
+prevalence of cerebral palsy in the United States approximates 3 cases in
+1000 children. It is crucial to emphasize that this rate is derived from all
+children—including those born preterm. Because of the remarkably greater
+survival rates of the latter currently, and despite the elevated cesarean
+delivery rate, the overall rate of cerebral palsy has remained essentially
+unchanged (Fig. 33-1). For example, neonates born at 23 to 27 weeks’
+gestation in a Swedish birth cohort had a cerebral palsy incidence of 105
+cases per 1000 infants alive at 1 year (Hafström, 2018). Similar findings
+have been reported for Australian births (Smithers-Sheedy, 2016). In
+
+absolute numbers, term newborns constitute half of cerebral palsy cases
+because preterm births are proportionately far fewer. It is again emphasized
+that most studies of cerebral palsy rates have not made distinctions between
+term and preterm neonates.
+
+FIGURE 33-1 Elective and emergency cesarean deliveries and live births with cerebral palsy.
+(Reproduced with permission from Nelson KB, Blair E: Prenatal factors in singletons with cerebral
+palsy born at or near term, N Engl J Med. 2015 Sep 3;373(10):946–953.)
+
+As noted earlier, Nelson and Ellenberg (1984, 1985, 1986a) made many
+fundamental observations concerning cerebral palsy. Their initial studies
+emanated from data from the Collaborative Perinatal Project. This included
+children from almost 54,000 pregnancies who were followed until age 7.
+They found that the most frequently associated risk factors for cerebral palsy
+were: (1) evidence of genetic abnormalities such as maternal mental
+retardation or fetal congenital malformations; (2) birthweight <2000 g; (3)
+birth before 32 weeks; and (4) perinatal infection. They also found that
+obstetrical complications were not strongly predictive, and only a fifth of
+affected children had markers of perinatal asphyxia. For the first time, solid
+evidence supported that the cause of most cases of cerebral palsy was
+unknown, and importantly, only a small proportion stemmed from neonatal
+HIE. Equally importantly, no foreseeable single intervention would likely
+prevent a large proportion of cases.
+
+Numerous studies have since confirmed many of these findings and have
+identified an imposing list of other risk factors (Table 33-2). As expected,
+preterm birth continues to be the single most important risk (Nelson, 2015).
+Small-for-gestational-age neonates also are at higher risk. In one study,
+cerebral palsy was due to antepartum factors in more than 90 percent of
+growth-restricted newborns (Stoknes, 2012).
+TABLE 33-2. Perinatal Risk Factors Reported to Be Increased in Children
+with Cerebral Palsy
+
+Many other placental and neonatal risk factors are associated with
+neurodevelopmental abnormalities (MacLennan, 2015). Some placental
+factors are discussed further in Chapter 6 (p. 111). One example is the
+
+substantively greater risk from chorioamnionitis (Shevell, 2014; Shi, 2017).
+Of neonatal causes, one is arterial ischemic stroke, which may be associated
+with inherited fetal thrombophilias (Harteman, 2013; Wanenaar, 2018).
+Additionally, newborns with isolated congenital heart lesions have an
+elevated risk for microcephaly, possibly due to chronic fetal hypoxemia
+(Barbu, 2009). Other miscellaneous etiologies of cerebral palsy include fetal
+anemia, twin-twin transfusion syndrome, intrauterine transfusions, and fetal
+alcohol syndrome (DeJong, 2012; Nelson, 2015; O’Leary, 2012; Rossi,
+2011; Schou, 2019).
+Apart from these causes, intrapartum hypoxemia was linked to only a few
+cases of cerebral palsy by the National Collaborative Perinatal Project. The
+contribution of HIE to subsequent neurological disorders was discussed
+earlier. The 2003 Task Force applied these criteria to more contemporaneous
+outcomes and determined that only 1.6 cases of cerebral palsy per 10,000
+deliveries are attributable solely to intrapartum hypoxia. This finding is
+supported by a study of nearly 1000 infants in which fetal-growth restriction
+and birth defects recognized by age 6 years were more substantial
+contributors to cerebral palsy and neonatal death than potentially asphyxial
+birth events and inflammation (McIntyre, 2013).
+
+Intrapartum Fetal Heart Rate Monitoring
+Despite persistent attempts to validate continuous intrapartum electronic
+FHR monitoring as effective to prevent adverse perinatal outcomes, evidence
+does not support its ability to predict or reduce cerebral palsy risk
+(Alfirevic, 2017). Moreover, no specific FHR patterns is predictive of
+cerebral palsy, and no relationship has been found between the clinician’s
+response to abnormal patterns and neurological outcome. Efforts using
+computer-assisted analysis of FHR tracings have not enhanced predictions
+(Alfirevic, 2017; INFANT Collaborative Group, 2017). Indeed, an abnormal
+heart rate pattern in fetuses that ultimately develop cerebral palsy may reflect
+a preexisting neurological abnormality (Phelan, 1994). Because of these
+studies, the American College of Obstetricians and Gynecologists (2019a;
+2021a) concludes that electronic FHR monitoring does not reduce the
+incidence of long-term neurological impairment.
+
+Apgar Scores
+
+In general, 1- and 5-minute Apgar scores are poor predictors of long-term
+neurological impairment (American College of Obstetricians and
+Gynecologists, 2021c). However, if the 5-minute Apgar score is ≤3, neonatal
+death or the risk of neurological sequelae rises substantially (Chen, 2020;
+Nelson, 1984). In a Swedish study, 5 percent of such children subsequently
+required special schooling (Stuart, 2011). In a Scottish study, the incidence
+of these low Apgar scores was 0.3 percent in more than 750,000 children
+who were born at term and were in national school census records. Low
+Apgar score was strongly associated in a dose-dependent manner with the
+need for additional educational support in later life, after adjusting for
+confounding factors. The strongest association was for the support of
+physical and motor impairments and was followed by visual, hearing, and
+cognitive impairments (Tweed, 2016).
+Persistence past 5 minutes of these extremely low scores correlates
+strongly with a higher risk for neurological morbidity and death (Foglia,
+2020). This of course is not absolute, and the 2003 Task Force cited a 10percent risk for cerebral palsy for neonates with 10-minute scores of 0 to 3.
+For 15-minute scores ≤2, the cited mortality rate was 53 percent, and
+cerebral palsy rate was 36 percent. For 20-minute scores ≤2, the mortality
+rate was 60 percent, and cerebral palsy rate was 57 percent. Outcomes from
+a Norwegian population study of neonates who were born from low-risk
+pregnancies and who had low 5-minute Apgar scores are shown in Table 333 (Moster, 2001).
+TABLE 33-3. Comparison of Mortality and Morbidity in Norwegian Infants
+Weighing >2500 g According to 5-Minute Apgar Scores
+
+Umbilical Cord Blood Gas Studies
+Objective evidence of metabolic acidosis, that is, cord arterial blood pH
+<7.0 and base deficit ≥12 mmol/L, is a risk factor for encephalopathy and for
+cerebral palsy (p. 601). The risk accrues as acidosis worsens. From one
+review of 51 studies, low pH in arterial umbilical cord blood correlates
+with greater risk for neonatal encephalopathy and cerebral palsy (Malin,
+2010). When used alone, however, these determinations are not accurate in
+predicting long-term neurological sequelae (Yeh, 2012).
+Data from several studies corroborate that a pH <7.0 is the threshold for
+clinically significant acidemia (Gilstrap, 1989; Goldaber, 1991). The
+likelihood of neonatal death grows as the cord artery pH falls to ≤7.0. Casey
+and colleagues (2001) reported that when the pH was ≤6.8, the neonatal
+mortality rate rose 1400-fold. When the cord pH was ≤7.0 and the 5-minute
+Apgar score was 0 to 3, the risk of neonatal death rose 3200-fold.
+In a study from Oxford, the rate of adverse neurological outcomes was
+0.36 percent with pH <7.1 and was 3 percent with pH <7.0 (Yeh, 2012). A
+systematic review that includes 12 studies suggests that cord blood lactate
+levels also help predict neonatal outcomes (Allanson, 2017).
+
+Nucleated Red Blood Cells and Lymphocytes
+Both immature red cells and lymphocytes enter the circulation of term
+newborns in response to hypoxia or hemorrhage. During the past two
+decades, quantification of these cells has been proposed as a measure of
+hypoxia, but not all studies support this premise (Boskabadi, 2017; Silva,
+2006; Walsh, 2011, 2013).
+
+■ Neuroimaging Studies in Encephalopathy and Cerebral
+Palsy
+Various neuroimaging techniques have provided important insight into the
+etiology and evolution of perinatal HIE and later cerebral palsy. Findings
+vary by fetal age, and the preterm neonatal brain responds differently to an
+ischemic episode than that of a term newborn. Other factors include insult
+severity and duration and restoration of cerebrovascular hypoperfusion.
+Thus, precise timing of an injury with neuroimaging studies is not a
+realistic goal. Moreover, the grade of neonatal encephalopathy, that is, mild,
+moderate, or severe, does not correlate with MR imaging findings (Walsh,
+2017).
+
+Neuroimaging in the Neonatal Period
+The 2014 Task Force concluded that for term newborns, imaging studies are
+helpful in timing an injury, but they provide only a time window that is
+imprecise. The 2014 Task Force reported that these head imaging techniques
+provide the following information:
+1. Neonatal sonography findings are generally normal on the day of birth.
+With injury, the thalami and basal ganglia become increasingly echogenic
+beginning at approximately 24 hours. This progresses over 2 to 3 days and
+persists for 5 to 7 days.
+2. CT images are usually normal the first day in term newborns. With injury,
+the thalami or basal ganglia show decreased density beginning at
+approximately 24 hours, and this persists for 5 to 7 days.
+3. MR imaging will detect some abnormalities on the first day. Within 24
+hours, MR imaging may show restricted water diffusion that peaks at
+approximately 5 days and disappears within 2 weeks. T1- and T2-
+
+weighted images display variable abnormalities, which have an onset from
+less than 24 hours to several days. In a study of 175 term neonates with
+acute encephalopathy, MR imaging that showed basal ganglia lesions
+accurately predicted motor impairment at 2 years of age (Martinez-Biarge,
+2012).
+
+Neuroimaging in Older Children with Cerebral Palsy
+Imaging studies performed in children diagnosed with cerebral palsy
+frequently show abnormal findings. Wu and associates (2006) used CT or
+MR imaging to study 273 children who were born after 36 weeks’ gestation
+and who were later diagnosed with cerebral palsy. Although a third of these
+imaging studies were normal, focal arterial infarction was seen in 22
+percent; brain malformations in 14 percent; and periventricular white-matter
+injuries in 12 percent. In another study of 351 children with cerebral palsy,
+of whom approximately half were born near term, MR imaging findings were
+abnormal in 88 percent (Bax, 2006). One MR imaging study found
+pathological findings in 84 percent of children with spastic quadriplegia
+(Robinson, 2008). Remember, the 2014 Task Force concluded that this
+neurological lesion correlated with neonatal encephalopathy.
+Imaging techniques in older children also help define the timing of fetal
+or perinatal cerebral injury. Due to concerns regarding the radiation exposure
+of CT scans, MR imaging is more often used. Wiklund and coworkers
+(1991a,b) studied 83 children between ages 5 and 16 years who were born at
+term and who developed hemiplegic cerebral palsy. Nearly 75 percent had
+abnormal CT findings, and these investigators concluded that more than half
+had CT changes that suggested a prenatal injury. Approximately 20 percent
+were attributed to a perinatal injury.
+
+■ Intellectual Disability and Seizure Disorders
+These both frequently accompany cerebral palsy. However, when either
+manifests alone, it is seldom caused by perinatal hypoxia (Nelson, 1984,
+1986a, 2015). Severe mental disability has a prevalence of 3 cases per 1000
+children, and its most frequent causes are chromosomal, gene mutation, and
+other congenital malformations. Last, preterm birth also is associated with
+these (Hientz, 2018).
+
+The major predictors of seizure disorders are fetal malformations—
+cerebral and noncerebral; family history of seizures; and neonatal seizures
+(Nelson, 1986b; Pisani, 2015). Neonatal encephalopathy causes a small
+proportion of seizure disorders. Reports from the Neonatal Research
+Network and other studies conclude that increasing severity of
+encephalopathy correlates best with seizures (Glass, 2011; Kwon, 2011).
+
+Autism Spectrum Disorders
+According to the Centers for Disease Control and Prevention, the frequency
+of autism spectrum disorders is 15 cases per 1000 8-year-old children
+(Christensen, 2016). Although these may be associated with maternal
+metabolic conditions, none has been linked convincingly to peripartum
+events (Krakowiak, 2012).
+
+NEONATAL ABSTINENCE SYNDROME
+This is a drug-withdrawal syndrome that most commonly follows in-utero
+exposure to maternal opioids. It also can complicate exposure to alcohol or
+benzodiazepines. The syndrome shows hypertonia, autonomic instability,
+irritability, poor sucking reflex, and seizures (Finnegan, 1975). Its incidence
+has risen six- to sevenfold during the past decade, coincidental with growing
+opioid use. For example, 4 percent of all neonatal intensive care unit days in
+2013 were attributed to care of these affected newborns (Tolia, 2015).
+Care includes close observation, and pharmacotherapy is usually given.
+In addition to morphine and methadone, other treatment may include
+phenobarbital, benzodiazepines, and clonidine (Tolia, 2015). More recently,
+buprenorphine compared with morphine was reported to result in shorter
+lengths of treatment and hospital stays (Kraft, 2017; Lee, 2019). Consensus is
+lacking regarding the most effective regimen. The American College of
+Obstetricians and Gynecologists and the American Society of Addiction
+Medicine (2019c) have taken the lead in screening, intervention, and
+treatment of opioid use disorders in pregnant women (Chap. 64, p. 1150).
+
+HEMATOLOGICAL DISORDERS
+
+Obstetricians should be familiar with a few neonatal disorders of
+erythrocytes, platelets, and coagulation. Many of these manifest in the fetus
+and persist in the newborn.
+
+■ Anemia
+After 35 weeks’ gestation, the mean cord hemoglobin concentration
+approximates 17 g/dL, and values below 14 g/dL are considered abnormal.
+In newborns, delayed umbilical cord clamping raises hemoglobin levels at
+birth and improves iron stores in the first several months. A review of nearly
+9200 late-preterm and term deliveries found delayed cord clamping was
+associated with a mean neonatal hemoglobin rise of 1.2 g/dL at birth
+(Gomersall, 2021). However, rates of infant anemia at 6 months were similar
+in groups with or without delayed cord clamping. Moreover, this practice
+raises the incidence of hyperbilirubinemia that requires phototherapy but
+does not prolong hospital stay. Discussed further in Chapter 27 (p. 500), the
+American College of Obstetricians and Gynecologists (2020) recommends a
+30- to 60-second delay in cord clamping in all healthy newborns.
+Significant neonatal anemia may predate or follow delivery. First,
+neonatal anemia may reflect an extension of antenatal fetal anemia. General
+etiological groups are immune-medicated red cell destruction, aneuploidy,
+hematology-related genetic defects, fetomaternal hemorrhage, fetal infection,
+and placental abnormalities such as chorioangioma or twin anastomotic
+defects.
+Second, at delivery, acute anemia with hypovolemia can follow
+laceration of the placenta, fetal vessel, or umbilical cord. Intracranial or
+extracranial injury or trauma to fetal intraabdominal organs also can cause
+hemorrhage with acute anemia (Malec, 2020).
+
+■ Polycythemia
+Neonatal polycythemia can be associated with chronic or acute fetal hypoxia,
+twin anemia-polycythemia syndrome, maternal diabetes or hypertension,
+placental- and fetal-growth restriction, aneuploidy, and delayed cord
+clamping. When the hematocrit rises above 65, blood viscosity markedly
+increases. Routine neonatal screening is not recommended in newborns
+without symptoms (Remon, 2011). Frequent signs are hypotonia, a ruddy
+
+complexion (plethora), respiratory distress with cyanosis, jitteriness, or
+hypoglycemia. Because of the shorter life span of macrocytic fetal
+erythrocytes, hyperbilirubinemia commonly follows. Associated blood
+hyperviscosity can lead to end-organ damage and neurodevelopmental harm.
+Isovolemic partial exchange transfusion (PET) with saline can lower the
+hematocrit and improve symptoms, however, it is not neuroprotective and has
+associated complications (Dempsey, 2006). From limited data, PET is often
+reserved for neonates with acute symptoms or hypoglycemia (Hopewell,
+2011).
+
+■ Hyperbilirubinemia
+Excessive serum bilirubin levels can be neurotoxic for newborns. In fetuses,
+hepatic maturation is incomplete, and some unconjugated bilirubin is cleared
+by placental transfer to be conjugated and excreted by the mother. After
+delivery, clearance relies on neonatal hepatic function, and thus varying
+degrees of neonatal hyperbilirubinemia arise. Even in the mature newborn,
+serum bilirubin levels usually increase for 3 to 4 days to reach up to 10
+mg/dL. After this, concentrations usually fall rapidly. In approximately 15
+percent of term newborns, bilirubin levels cause jaundice. Of risks,
+polycythemia, hemolysis such as from ABO incompatibility or glucose-6phosphate dehydrogenase deficiency, and extravasation of blood such as
+from a cephalohematoma all raise bilirubin burden. Decreased bilirubin
+clearance is seen with prematurity.
+With excessive serum bilirubin levels, toxicity has two forms. Acute
+bilirubin encephalopathy develops in the first days of life and may cause
+hypotonia, poor feeding, lethargy, and abnormal auditory-evoked responses.
+Immediate recognition and treatment will usually mitigate progressive
+neurotoxicity.
+The chronic form is termed kernicterus. With this, profound neuronal
+degeneration follows bilirubin deposition and staining of the basal ganglia
+and hippocampus. Survivors have spasticity, muscular incoordination, and
+varying degrees of mental deficiencies. Continuing hemolysis is a risk factor
+for kernicterus (El Houchi, 2017; Vandborg, 2012).
+Initial prevention emphasizes effective breastfeeding to avoid neonatal
+dehydration. Surveillance for jaundiced skin is recommended at the same
+time other newborn vital signs are obtained. Moreover, prior to hospital
+
+discharge, universal screening of total serum bilirubin assessment from
+blood or more commonly by transcutaneous bilirubinometry is done
+(Maisels, 2009). The latter is a handheld meter that directs light into the skin
+and measures the intensity of specific returned wavelengths.
+Once diagnosed, various forms of phototherapy are used to treat neonatal
+hyperbilirubinemia. These “bili-lights” emit a spectrum of 460 to 490 nm,
+which augments bilirubin oxidation to enhance its renal clearance and lower
+serum levels. Sunlight filtered to remove ultraviolet light can be used in
+resource-poor countries (Slusher, 2015). Light that penetrates the skin also
+raises peripheral blood flow, which further enhances photo-oxidation.
+For term newborns, the American Academy of Pediatrics and the
+American College of Obstetricians and Gynecologists (2017) stress early
+detection and prompt phototherapy to prevent bilirubin encephalopathy.
+Despite these measures, bilirubin encephalopathy persists, and this is
+somewhat related to early hospital discharges (Kuzniewicz, 2014). In the
+United States, hospitalizations for kernicterus in term newborns were 5 cases
+per 100,000 in 1988 (Burke, 2009). Since then, this rate has dropped to 0.4
+to 2.7 cases per 100,000 births (Watchko, 2013). Legislation to minimize
+brief postpartum hospital stays may be contributory (Chap. 36, p. 645).
+
+■ Vitamin K Deficiency Bleeding
+Newborns are vitamin K deficient due to insufficient antenatal liver stores,
+limited synthesis in an initially sterile gut, and low vitamin K content in
+breast milk. Vitamin K deficiency bleeding (VKDB) describes spontaneous
+internal or external bleeding, and its onset is grouped as early, classic, or
+late onset. Most cases result from abnormally low levels of the vitamin K–
+dependent clotting factors. Early onset is within the first 24 hours, and one
+cause is maternal vitamin K deficiency. Classic hemorrhagic disease is
+usually apparent between days 2 and 7 of life in neonates not given vitamin K
+prophylaxis at delivery. Delayed hemorrhage may occur at 2 to 12 weeks in
+exclusively breastfed infants.
+The American Academy of Pediatrics and the American College of
+Obstetricians and Gynecologists (2017) recommend routine prophylaxis with
+a single, intramuscular, 0.5- to 1-mg dose of vitamin K1 (phytonadione). Oral
+administration is less effective, and maternal vitamin K administration
+results in very little transport to the fetus (Sankar, 2016). Evidence does not
+
+support initial links with vitamin K and childhood leukemia (Fear, 2003;
+Roman, 2002).
+Hemorrhagic disease of the newborn includes VKDB but also bleeding
+from other etiologies. These include congenital clotting factor deficiency,
+disseminated intravascular coagulopathy, birth trauma, and
+thrombocytopenia.
+
+■ Thrombocytopenia
+Abnormally low platelet concentrations in term newborns are often
+categorized as early onset, within the first 72 hours, and late onset
+thereafter. In the term neonate, causes include immune disorders, infections,
+inherited platelet defects, or congenital syndromes (American College of
+Obstetricians and Gynecologists, 2019b; Cremer, 2016). Of immunologic
+sources, neonatal thrombocytopenia stemming from alloimmunization or from
+maternal idiopathic thrombocytopenic purpura are described in Chapter 18
+(p. 359). Neonatal lupus syndrome can also show thrombocytopenia (Chap.
+62, p. 1113). With all these, antiplatelet IgG transferred to the fetus may
+cause accelerated platelet destruction.
+Alternatively, thrombocytopenia can be an extension of fetal infection
+with B19 parvovirus, cytomegalovirus, toxoplasmosis, and others discussed
+in Chapters 67 and 68. Neonatal thrombocytopenia has been reported with
+maternal antiretroviral therapy for human immunodeficiency virus (HIV)
+infection (Smith, 2016). Term newborns with sepsis can have accelerated
+platelet consumption (Eissa, 2013). Last, inherited platelet disorders are
+described in Chapter 59 (p. 1059).
+
+NEWBORN INJURIES
+■ Incidence
+Birth injury can complicate any term delivery, and from population studies,
+its incidence approximates 2 percent of deliveries (Linder, 2012; SauberSchatz, 2010). Imprecision in these numbers may stem from lumping of major
+and minor injuries and trauma definitions. In one population study from
+Washington State, the rate of neonatal birth trauma declined by 14 percent
+and from 5.3 events per 1000 live births in 2004 to 4.5 in 2013 (Wen, 2017).
+
+Major injury rates were highest with forceps or vacuum delivery and
+substantially lower for all caesarean delivery categories.
+
+■ Cranial Injuries
+The fetal head has considerable plasticity and can undergo appreciable
+molding during labor. However, traumatic head injuries can occur and result
+in bony fracture or in intracranial or extracranial hemorrhage. With intra- and
+extracranial hemorrhages, anatomical location defines their classification
+(Table 33-4).
+TABLE 33-4. Major Types of Cranial Hemorrhage
+
+Intracranial Hemorrhage
+Most aspects of neonatal intracranial hemorrhage are related to gestational
+age. Of the categories shown in Table 33-4, the term newborn may suffer
+subdural and intracerebral hemorrhages most often. Intraventricular,
+subarachnoid, or cerebellar hemorrhages are more frequent in the preterm
+neonate. In those born preterm, blood pressure instability, hypoxia, and
+ischemia are prominent causes and described in Chapter 34 (p. 618). In term
+neonates, birth trauma is the most frequent etiology. Other uncommon causes
+
+or contributors include acquired or congenital fetal coagulopathy, vascular
+anomaly, tumor, genetic mutation, and infection (Tan, 2018). Importantly, in
+some newborns, intracranial hemorrhage may follow an apparently
+uneventful vaginal delivery, and no cause is found.
+Term newborns with intracranial hemorrhage may initially display
+seizures, apnea or tachypnea, poor feeding, and temperature instability (OuYang, 2010). Imaging options are sonography or CT, but MR imaging is often
+preferred. With most lesions, treatment is supportive and nonsurgical.
+However, acute hydrocephalus, rising intracranial pressure, or mass effects
+are infrequent complications that can prompt surgery (Tan, 2018).
+Names of intracranial lesions reflect anatomy. First, the meninges forms
+from the dura, arachnoid, and pia mater, and the dura mater is the external
+layer. Subdural hemorrhage collects between the dura and arachnoid mater.
+Prolonged and difficult delivery can produce cranial molding, dural stretch,
+and tearing of bridging veins in the subdural space (Towner, 1999; Hong,
+2018). Asymptomatic subdural hemorrhage can also accompany uneventful
+vaginal or cesarean delivery (Rooks, 2008). In asymptomatic newborns,
+prognosis is good (Zamora, 2021). Poorer outcome may attend those with
+comorbid conditions or lesions (Hong, 2018).
+Less commonly, subarachnoid hemorrhage collects between the
+arachnoid and pia mater. Rarely, epidural hemorrhage collects outside the
+dura mater and beneath the periosteum. In both these hemorrhage types, risks,
+mechanisms, and recovery are similar to subdural hemorrhage (Hong, 2018;
+Shah, 2016).
+Intraventricular hemorrhage is less common in term than preterm
+newborns. Described in Chapter 34 (p. 618), the vascular germinal matrix is
+a vulnerable site for preterm neonates but has mainly regressed by term.
+Instead, the choroid plexus, thalamus, or residual germinal matrix are
+bleeding sources at term. Etiology can include birth trauma, hypoxia, or
+coagulation dysfunction. Additional rare causes are listed in this section’s
+first paragraph. However, in small case series, one to two thirds had no
+identified antecedent (Roland, 1990; Wu, 2003). Prognosis varies, and worse
+outcomes are associated with advanced hemorrhage grade or thalamic
+hemorrhage (Kaur, 2020).
+Intracerebral hemorrhage or neonatal hemorrhagic stroke is
+uncommon at term. Risk factors are coagulation defects, vascular anomalies,
+
+and intrapartum factors that include FHR abnormalities and low Apgar
+scores. Trauma is less often implicated (Cole, 2017).
+Intracerebellar hemorrhage is infrequent in the term newborn. In one
+series, associated factors were FHR abnormalities, operative vaginal
+delivery, emergent cesarean delivery, and delivery-room resuscitation
+(Limperopoulos, 2009). Prognosis with both intracerebral and
+intracerebellar hemorrhages is affected by lesion size, presence of additional
+hemorrhage sites, and associated hydrocephalus or elevated intracranial
+pressure.
+
+Extracranial Hemorrhage
+These blood collections accumulate outside the calvarium (see Table 33-4).
+From its most superficial surface inward, the scalp consists of skin,
+subcutaneous tissue, galea aponeurotica, subgaleal space, and calvarium
+periosteum (Fig. 33-2). The galea aponeurotica is dense fibrous tissue,
+whereas the subgaleal space contains loose, fibroareolar tissue. Traversing
+across the subgaleal space are emissary veins, which connect the dural
+sinuses inside the skull with superficial scalp veins.
+
+FIGURE 33-2 Schematic of extracranial lesions in the neonate that include caput succedaneum,
+subgaleal hemorrhage, and cephalohematoma.
+
+Caput succedaneum is soft-tissue edema of the scalp. It forms from
+repetitive contractions that press the head against an unyielding cervix. The
+caput is maximal at birth, rapidly grows smaller, and usually disappears
+within hours or days.
+Cephalohematoma is a cranial subperiosteal hematoma. It has an
+incidence of 1 percent and makes up a large percentage of birth injuries
+(Werner, 2011; Kekki, 2020). It usually develops in the setting of dystocia or
+
+operative vaginal delivery. Vacuum-assisted births have a greater association
+than births by forceps or cesarean delivery (Alexander, 2006; Werner, 2011).
+Cephalohematoma develops from shearing forces during labor and delivery,
+which lacerate the emissary or diploic veins. Fortunately, the densely
+adhered periosteum impedes rapid enlargement and limits final hematoma
+size. Hemorrhage can be over one or both parietal bones, but collections do
+not cross suture lines. A cephalohematoma may not be apparent until hours
+after delivery, when bleeding is sufficient to raise the periosteum. After it is
+identified, it often grows larger and persists for weeks or even months, and
+bleeding may cause anemia or hyperbilirubinemia. Outcomes are good in the
+absence of additional injuries. Rare hematoma complications are infection or
+calcification (Kandemirli, 2020; Zimmermann, 2016).
+Subgaleal hemorrhage is rare and results from emissary vein laceration
+and bleeding between the galea aponeurotica and the skull periosteum. Both
+the galea aponeurotica and subgaleal space span across the occipital,
+parietal, and frontal bones. Because of its loose areolar tissue and large
+surface area, significant blood volumes can collect in this potential space
+and may extend from the neck to the orbits and laterally to the temporal fascia
+above the ears (Modanlou, 2016). Resulting hypovolemia can lead to shock
+and significant morbidity, and cited mortality rates approximate 15 percent
+(El Dib, 2019; Lee, 2018; Swanson, 2011). Other findings are seizures,
+enlarging head circumference, and respiratory distress. The subgaleal
+hemorrhage rate is 0.05 percent with spontaneous birth but is ten times
+greater with vacuum-assisted delivery (Colditz, 2015). The most frequent
+associate is operative vaginal delivery, especially with vacuum devices, but
+cases can follow spontaneous vaginal or cesarean delivery (Christensen,
+2011).
+In general, diagnosis of extracranial lesions begins with head ultrasound
+(Bansal, 2018). This may be sufficient for cephalohematomas. CT or MR
+imaging may benefit those with subgaleal hemorrhage to exclude comorbid
+cranial injuries.
+
+Skull Fractures
+These are rare but are especially worrisome because of their association
+with intracranial hemorrhage. The incidence of birth-related skull fractures
+approximates 1 case per 100,000 births (Högberg, 2020). Operative vaginal
+delivery is an associated factor (Dupuis, 2005). However, cases can also
+
+attend spontaneous or cesarean delivery (Fig. 33-3) (Dolivet, 2018; Merhar,
+2016). In these, fracture may result from tight skull compression against the
+bony pelvis, by hand pressure used by the surgeon to lift the head at cesarean
+delivery, or from transvaginally applied upward hand pressure by an
+assistant. Fractures are diagnosed with radiographs or CT. Depending on
+type, a fracture may be managed expectantly or require surgery. Prognosis is
+mainly influenced by comorbid intra- or extracranial injuries.
+
+FIGURE 33-3 Depressed skull fracture evident immediately after cesarean delivery. Labor had
+progressed, and the head was deep in the pelvis. Dislodgment of the head from the birth canal was
+performed by an assistant using manual pressure upward through the vagina. (Reproduced with
+permission from Dr. Kimberly M. Spoonts.)
+
+■ Spinal Cord Injury
+Overstretch of the spinal cord and its associated hemorrhage and edema are
+rare. The cervical spine is most often injured, and excessive traction,
+rotation, or hyperextension during shoulder dystocia manipulations, breech
+vaginal delivery, and operative vaginal delivery are implicated (Lee, 2020a;
+Menticoglou, 1995). Upper cervical spinal cord injury is often fatal, and
+
+survivors can be quadriplegic (Lee, 2020a). Immediate treatment has
+included ventilator support coupled with corticosteroids or therapeutic
+hypothermia.
+
+■ Peripheral Nerve Injuries
+Brachial Plexopathy
+Injury can involve a single nerve or can affect a nerve root, plexus, or trunk.
+Trauma to the brachial plexus is infrequent. In one database study, the rate
+was 1 case per 1000 term births in the United States. The incidence was 1.3
+per 1000 vaginal deliveries and 0.2 per 1000 cesarean deliveries (Chen,
+2021). Shoulder dystocia, labor dystocia, and breech delivery are risks
+(Johnson, 2020).
+With plexopathy, the injury damages the nerve roots that supply the
+brachial plexus—C5–8 and T1. With hemorrhage and edema, axonal function
+may be temporarily impaired, but the recovery chances are good. However,
+with avulsion, the prognosis for complete recovery is poor. Damage to the
+C5–6 nerve roots can cause Erb palsy. Injuries with breech delivery are
+normally of this type, whereas the more extensive and persistent lesions can
+follow difficult cephalic deliveries. The latter are more often forceps or
+vacuum-assisted vaginal deliveries (Wilson, 2016). The C5–6 roots join to
+form the upper trunk of the plexus, and injury leads to paralysis of the
+deltoid, infraspinatus, and flexor muscles of the forearm. The affected arm is
+held straight and internally rotated, the elbow is extended, and the wrist and
+fingers flexed. Finger function usually is retained.
+Damage to the C8-T1 roots supplying the lower plexus results in Klumpke
+palsy, in which the hand is flaccid. With total involvement of all brachial
+plexus nerve roots, flaccidity of the arm and hand results. Rarely, with severe
+injury, phrenic nerve damage can cause ipsilateral diaphragm paralysis, or
+injury to sympathetic nerve fibers can cause Horner syndrome, which
+manifests as ptosis, miosis, and anhidrosis (Rizeq, 2020). Clavicle or
+humeral fracture can be comorbid, and clinical concern may prompt chest
+radiography. MR imaging may be obtained with concern for nerve avulsion
+(Govindan, 2019).
+Because of the importance of brachial plexopathy, the American College
+of Obstetricians and Gynecologists (2014b) convened a task force to review
+
+extant studies. This Task Force concluded that shoulder dystocia cannot be
+accurately predicted, but in most cases, axonal death does not occur and the
+prognosis is good. Lindqvist and associates (2012) reported complete
+recovery in 86 percent of children with C5–6 trauma, which was the most
+common injury, and in 38 percent of those with C5–7 damage. However, those
+with global C5–8–T1 injuries always had permanent disability.
+Early physical therapy is initiated to prevent contractures or joint
+deformity. Maintaining passive joint motion, promoting extremity use,
+strengthening affected muscles, and providing compensatory techniques are
+goals (Smith, 2018). Severe injuries may require surgical exploration and
+nerve reconstruction, usually at 3 to 6 months (Vuillermin, 2016; Wilson,
+2016).
+
+Facial Paralysis
+The facial nerve can be injured as it emerges from the stylomastoid foramen,
+and this may cause facial paralysis (Fig. 33-4). From one series, the
+incidence was 0.3 cases per 1000 term births (Al Tawil, 2010). Of these
+vaginal births, forceps were used in one fourth, and three fourths followed
+spontaneous birth. Pressure from the forceps blade or the bony pelvis,
+respectively, are suggested injury mechanisms. It can follow cesarean
+delivery (Alexander, 2006). Spontaneous recovery within a few days is the
+rule, however, permanent paralysis has been described (Al Tawil, 2010).
+
+FIGURE 33-4 Left facial nerve injury. Classically, the eye fails to close tightly, the labionasal fold is
+lost, and the mouth pulls to the unaffected side during crying. This was almost completely resolved two
+days after delivery.
+
+■ Fractures
+Most long-bone fractures follow difficult deliveries, however, this is not
+always the case. At minimum, palpation of the clavicles and long bones is
+indicated for all newborns after a difficult delivery. Overlying crepitation or
+irregularity will prompt radiography.
+Clavicular fractures are common, unpredictable, and una-voidable
+complications of normal birth (Ahn, 2015; Roberts, 1995). Their incidence
+approximates 5 cases in 1000 live births (Kekki, 2020; Linder, 2012). Rates
+are tenfold higher with vaginal birth than with cesarean delivery (Ahn,
+2015). With vaginal birth, shoulder dystocia is an association (Högberg,
+2020). With cesarean delivery, greater birth weight is a factor (Choi, 2017).
+Humeral fractures and femoral fractures are rare. For the humerus,
+associated settings are breech delivery or posterior arm delivery during
+shoulder dystocia release (Rietberg, 2003; von Heideken, 2020). Those of
+the femur are usually associated with breech presentation. Because most
+
+breech-presenting fetuses now undergo cesarean delivery, most of these
+fractures are associated with this mode (Kancherla, 2012). As potential
+prevention for both fracture types, careful splinting of the bone along its long
+axis and avoiding perpendicular forces during extraction are encouraged.
+Last, rib fractures are rare at term. In one series, none was associated
+with cardiopulmonary resuscitation (Högberg, 2020). Instead, compression
+forces to the chest during difficult birth or shoulder dystocia are implicated
+(van Rijn, 2009).
+
+■ Soft Tissue Injury
+Conceivably, any fetal organ or part could be injured with either vaginal or
+cesarean delivery. Intraabdominal hemorrhage is rare and most often stems
+from the liver, spleen, or adrenal glands, which are disproportionally large
+in the newborn. Risks are difficult delivery, especially those presenting
+breech; cardiac resuscitation; macrosomia; or pathologic enlargement of the
+involved organ (Schullinger, 1993). Retroperitoneal bleeding with these may
+manifest as bruising of the flanks, umbilicus, groin, upper thigh, or scrotum
+(Akin 2011; Heyman, 2011; Raveenthiran, 2008). Pale skin, distended
+abdomen, and falling hematocrit reflect associated hypovolemia. Treatment
+involves hemodynamic resuscitation and control of bleeding.
+
+■ Congenital Deformity Injuries
+In congenital torticollis, one sternocleidomastoid muscle fails to elongate
+sufficiently. The head gradually turns toward the side of the injury. Its
+etiology is unclear. Some cases are associated with breech presentation,
+operative vaginal birth, or difficult delivery. However, many follow
+uncomplicated birth, and intrauterine positioning, genetics, and ischemia are
+some suggested theories (Hardgrib, 2017; Sargent, 2019). Early physical
+therapy is recommended (Kaplan, 2018).
+With congenital deformations, a normally developed fetal structure
+becomes deformed usually by restrictive intrauterine mechanical forces.
+Common factors are chronic oligohydramnios, multifetal gestation, or
+abnormally shaped or small uterine cavity. Some mechanical deformations
+include talipes equinovarus (clubfoot) and oligohydramnios sequence
+(Hall, 2014; Society for Maternal-Fetal Medicine, 2019). The latter may
+
+lead to pulmonary hypoplasia and deformations of the head, face, skin, and
+limbs. This sequence and talipes can also be associated with genetic
+abnormalities or malformations and are discussed in Chapters 14 and 15 (p.
+260 and 303).
+Last, congenital hip dislocation is strongly associated with an in-utero
+breech presentation (Yang, 2019). Physical examination screening for all
+newborns is recommended. Treatment may include observation or bracing
+(Shaw, 2016).
+
+REFERENCES
+Ahlin K, Himmelmann K, Hagberg G, et al: Cerebral palsy and perinatal infection in children born at
+term. Obstet Gynecol 122:41, 2013
+Ahn ES, Jung MS, Lee YK, et al: Neonatal clavicular fracture: recent 10 year study. Pediatr Int
+57(1):60, 2015
+Akin MA, Coban D, Doganay S, et al: Intrahepatic and adrenal hemorrhage as a rare cause of neonatal
+anemia. J Perinat Med 39(3):353, 2011
+Alexander JM, Leveno KJ, Hauth J, et al: Fetal injury associated with cesarean delivery. Obstet
+Gynecol 108:885, 2006
+Alfirevic Z, Devane D, Gyte GM, et al: Continuous cardiotocography (CTG) as a form of electronic
+fetal monitoring (EFM) for fetal assessment during labour. Cochrane Database System Rev
+2:CD006066, 2017
+Alhassen Z, Vali P, Guglani L, et al: Recent advances in pathophysiology and management of transient
+tachypnea of newborn. J Perinatol 41(1):6, 2021
+Allanson ER, Waqar T, White C, et al: Umbilical lactate as a measure of acidosis and predictor of
+neonatal risk: a systematic review. BJOG 124(4):584, 2017
+Al Tawil K, Saleem N, Kadri H, et al: Traumatic facial nerve palsy in newborns: is it always iatrogenic?
+Am J Perinatol 27:711, 2010
+American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Guidelines for
+perinatal care, 8th ed. Elk Grove Village, AAP, 2017
+American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Neonatal
+encephalopathy and cerebral palsy. Defining the pathogenesis and pathophysiology. Elk Grove
+Village, AAP, 2003
+American College of Obstetricians and Gynecologists: Neonatal encephalopathy and neurologic
+outcome, second edition. Report of the American College of Obstetricians and Gynecologists’ Task
+Force on Neonatal Encephalopathy. Obstet Gynecol 123(4):896, 2014a
+American College of Obstetricians and Gynecologists: Neonatal brachial plexus palsy. Report of the
+American College of Obstetricians and Gynecologists’ Task Force on Neonatal Brachial Plexus
+Palsy. Obstet Gynecol 123(4):902, 2014b
+American College of Obstetricians and Gynecologists: Intrapartum fetal heart rate monitoring:
+nomenclature, interpretation, and general management principles. Practice Bulletin No. 106, July
+2009, Reaffirmed 2019a
+
+American College of Obstetricians and Gynecologists: Thrombocytopenia in pregnancy. Practice
+Bulletin No. 207, February 2019b
+American College of Obstetricians and Gynecologists, American Society of Addiction Medicine: Opioid
+use disorder in pregnancy. Committee Opinion No. 711, August 2017, Reaffirmed 2019c
+American College of Obstetricians and Gynecologists: Delayed umbilical cord clamping after birth.
+Committee Opinion No. 814, November 2017, Reaffirmed 2020
+American College of Obstetricians and Gynecologists: Approaches to limit intervention during labor and
+birth. Committee Opinion No. 766, December 2018, Reaffirmed 2021a
+American College of Obstetricians and Gynecologists: Delivery of a newborn with meconium-stained
+amniotic fluid. Committee Opinion No. 689, March 2017, Reaffirmed 2021b
+American College of Obstetricians and Gynecologists, American Academy of Pediatrics: The Apgar
+score. Committee Opinion No. 644, October 2015, Reaffirmed 2021c
+Anadkat KS, Kuzniewicz MW, Chaudhari BP, et al: Increased risk for respiratory distress among white,
+male, late preterm and term infants. J Perinatol 32(10):750, 2012
+Aziz K, Lee HC, Escobedo MB, Hoover AV, et al: Part 5: Neonatal Resuscitation: 2020 American
+Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular
+Care. Circulation 142:S524, 2020
+Azzopardi D, Strohm B, Marlow N, et al: Effects of hypothermia for perinatal asphyxia on childhood
+outcomes. N Engl J Med 371(2):140, 2014
+Bansal AG, Oudsema R, Masseaux JA, et al: US of pediatric superficial masses of the head and neck.
+Radiographics 38(4):1239, 2018
+Barbu D, Mert I, Kruger M, et al: Evidence of fetal central nervous system injury in isolated congenital
+heart defects: microcephaly at birth. Am J Obstet Gynecol 201(1):43.e1, 2009
+Bax M, Tydeman C, Flodmark O: Clinical and MRI correlates of cerebral palsy: the European cerebral
+palsy study. JAMA 296:1602, 2006
+Bednarek N, Mathur A, Inder T, et al: Impact of therapeutic hypothermia on MRI diffusion changes in
+neonatal encephalopathy. Neurology 78:1420, 2012
+Berthelot-Ricou A, Lacroze V, Courbiere B, et al: Respiratory distress syndrome after elective
+caesarean section in near term infants: a 5-year cohort study. J Matern Fetal Neonatal Med
+26(2):176, 2012
+Blair E, de Groot JH, Nelson KD: Placental infarction identified by macroscopic examination and risk of
+cerebral palsy in infants at 35 weeks of gestational age and over. Am J Obstet Gynecol
+205(2):124.e1, 2011
+Boskabadi H, Zakerihamid M, Sadeghian MH, et al: Nucleated red blood cells count as a prognostic
+biomarker in predicting the complications of asphyxia in neonates. J Matern Fetal Neonatal Med
+30(21):2551, 2017
+Burke BL, Robbins JM, Bird TM, et al: Trends in hospitalizations for neonatal jaundice and kernicterus
+in the United States, 1988–2005. Pediatrics 123(2):524, 2009
+Casey BM, McIntire DD, Leveno KJ: The continuing value of the Apgar score for the assessment of
+newborn infants. N Engl J Med 344:467, 2001
+Centers for Disease Control and Prevention: Data and statistics for cerebral palsy. 2016. Available at:
+https://www.cdc.gov/ncbddd/cp/data.html. Accessed June 2021
+Chen HY, Blackwell SC, Chauhan SP. Association between Apgar score at 5 minutes and adverse
+outcomes among low-risk pregnancies. J Matern Fetal Neonatal Med 16:1, 2020
+Chen HY, Blackwell SC, Yang LJ, et al: Neonatal brachial plexus palsy: associated birth injury
+outcomes, hospital length of stay and costs. J Matern Fetal Neonatal Med February 25, 2021 [Epub
+
+ahead of print]
+Choi HA, Lee YK, Ko SY, et al: Neonatal clavicle fracture in cesarean delivery: incidence and risk
+factors. J Matern Fetal Neonatal Med 30(14):1689, 2017
+Christensen DL, Baio J, Van Naarden Braun K, et al: Prevalence and characteristics of autism
+spectrum disorder among children 8 years—Autism and Developmental Disabilities Monitoring
+Network, 11 sites, United States, 2012. MMWR 65(3):1, 2016
+Christensen RD, Baer VL, Henry E: Neonatal subgaleal hemorrhage in a multihospital healthcare
+system: prevalence, associations, and outcomes. Eur J Neonatol Res 1:4, 2011
+Colditz MJ, Lai MM, Cartwright DW, et al: Subgaleal haemorrhage in the newborn: a call for early
+diagnosis and aggressive management. J Paediatr Child Health 51(2):140, 2015
+Cole L, Dewey D, Letourneau N, et al: Clinical characteristics, risk factors, and outcomes associated
+with neonatal hemorrhagic stroke: a population-based case-control study. JAMA Pediatr 171(3):230,
+2017
+Cremer M, Sallmon H, Kling PJ, et al: Thrombocytopenia and platelet transfusion in the neonate. Semin
+Fetal Neonatal Med 21(1):10, 2016
+DeJong EP, Lindenburg IT, van Klink JM, et al: Intrauterine transfusion for parvovirus B19 infection:
+long term neurodevelopmental outcome. Am J Obstet Gynecol 206(3):204.e1, 2012
+Dempsey EM, Barrington K: Short and long term outcomes following partial exchange transfusion in the
+polycythaemic newborn: a systematic review. Arch Dis Child Fetal Neonatal Ed 91(1):F2, 2006
+Dolivet E, Delesalle C, Morello R, et al: A case-control study about foetal trauma during caesarean
+delivery. J Gynecol Obstet Hum Reprod 47(7):32, 2018
+Dooley SL, Pesavento DJ, Depp R, et al: Meconium below the vocal cords at delivery: correlation with
+intrapartum events. Am J Obstet Gynecol 153:767, 1985
+Dupuis O, Silveira R, Dupont C, et al: Comparison of “instrument-associated” and “spontaneous”
+obstetric depressed skull fractures in a cohort of 68 neonates. Am J Obstet Gynecol 192:165, 2005
+Eissa DS, El-Farrash RA: New insights into thrombopoiesis in neonatal sepsis. Platelets 24(2):122, 2013
+El-Dib M, Parziale MP, Johnson L, et al: Encephalopathy in neonates with subgaleal hemorrhage is a
+key predictor of outcome. Pediatr Res 86(2):234, 2019
+El Shahed AI, Dargaville PA, Ohlsson A, et al: Surfactant for meconium aspiration syndrome in term
+and late preterm infants. Cochrane Database Syst Rev 12:CD002054, 2014
+Ensing S, Abu-Hanna A, Schaaf JM, et al: Trends in birth asphyxia, obstetric interventions and perinatal
+mortality among term singletons: a nationwide cohort study. J Matern Fetal Neonatal Med 28(6):632,
+2015
+Fear NT, Roman E, Ansell P, et al: Vitamin K and childhood cancer: a report from the United Kingdom
+Childhood Cancer Study. Br J Cancer 89(7):1228, 2003
+Finnegan LP, Connaughton JF Jr, Kron RE, et al: Neonatal abstinence syndrome: assessment and
+management. Addict Dis 2:141, 1975
+Foglia EE, Weiner G, de Almeida MF, et al: Duration of resuscitation at birth, mortality, and
+neurodevelopment: a systematic review. Pediatrics 146(3):e20201449, 2020
+Fraser WD, Hofmeyr J, Lede R, et al: Amnioinfusion for the prevention of the meconium aspiration
+syndrome. Amnioinfusion Trial Group. N Engl J Med 353:909, 2005
+Garg N, Choudhary M, Sharma D, et al: The role of early inhaled budesonide therapy in meconium
+aspiration in term newborns: a randomized control study. J Matern Fetal Neonatal Med 29(1):36,
+2016
+Gilstrap LC III, Leveno KJ, Burris J, et al: Diagnosis of asphyxia on the basis of fetal pH, Apgar score,
+and newborn cerebral dysfunction. Am J Obstet Gynecol 161:825, 1989
+
+Glass HG, Hong KJ, Rogers EE, et al: Risk factors for epilepsy in children with neonatal
+encephalopathy. Pediatr Res 70(5):535, 2011
+Goldaber KG, Gilstrap LC III, Leveno KJ, et al: Pathologic fetal acidemia. Obstet Gynecol 78:1103,
+1991
+Gomersall J, Berber S, Middleton P, et al: Umbilical cord management at term and late preterm birth: a
+meta-analysis. Pediatrics 147(3):e2020015404, 2021
+Govindan M, Burrows HL: Neonatal brachial plexus injury. Pediatr Rev 40(9):494, 2019
+Graham EM, Adami RR, McKenney SL, et al: Diagnostic accuracy of fetal heart rate monitoring in the
+identification of neonatal encephalopathy. Obstet Gynecol 124(3):507, 2014
+Guillet R, Edwards AD, Thoresen M, et al: Seven-to-eight year follow-up of the CoolCap trial of head
+cooling for neonatal encephalopathy. Pediatr Res 71(12):205, 2012
+Gyamfi-Bannerman C, Blackwell TS, Tita AT, et al: Antenatal betamethasone for women at risk for late
+preterm delivery. N Engl J Med 374(14):1311, 2016
+Hafström M, Källén K, Serenius F, et al: Cerebral palsy in extremely preterm infants. Pediatrics
+141(1):e20171433, 2018
+Hall JG: Oligohydramnios sequence revisited in relationship to arthrogryposis, with distinctive skin
+changes. Am J Med Genet A 164A(11):2775, 2014
+Hardgrib N, Rahbek O, Møller-Madsen B, et al: Do obstetric risk factors truly influence the
+etiopathogenesis of congenital muscular torticollis? J Orthop Traumatol 18(4):359, 2017
+Harteman J, Groenendaal F, Benders M, et al: Role of thrombophilic factors in full-term infants with
+neonatal encephalopathy. Pediatr Res 73(1):80, 2013
+Heyman S, Vervloessem D: Bryant’s and Stabler’s signs after a difficult delivery. N Engl J Med
+365:1824, 2011
+Hintz SR, Vohr BR, Bann CM, et al: Preterm neuroimaging and school-age cognitive outcomes.
+Pediatrics 142(1):e20174058, 2018
+Hirakawa E, Ibara S, Tokuhisa T, et al: Extracorporeal membrane oxygenation in 61 neonates: singlecenter experience. Pediatr Int 59(4):438, 2017
+Hofmeyr GJ, Xu H, Eke AC: Amnioinfusion for meconium-stained liquor in labour. Cochrane Database
+Syst Rev 23:CD000014, 2014
+Högberg U, Fellman V, Thiblin I, et al: Difficult birth is the main contributor to birth-related fracture and
+accidents to other neonatal fractures. Acta Paediatr 109(10):2040, 2020
+Hong HS, Lee JY: Intracranial hemorrhage in term neonates. Childs Nerv Syst 34(6):1135, 2018
+Hopewell B, Steiner LA, Ehrenkranz RA, et al: Partial exchange transfusion for polycythemia
+hyperviscosity syndrome. Am J Perinatol 28(7):557, 2011
+INFANT Collaborative Group: Computerised interpretation of fetal heart rate during labour (INFANT):
+a randomised controlled trial. Lancet 389(10080):1719, 2017
+Jacobs SE, Berg M, Hunt R, et al: Cooling for newborns with hypoxic ischaemic encephalopathy.
+Cochrane Database Syst Rev (1):CD003311, 2013
+Johansson S, Sandström A, Cnattingius S: Maternal overweight and obesity increase the risk of fetal
+acidosis during labor. J Perinatol 38(9):1144, 2018
+Johnson C, Burd I, Northington F, et al: Clinical chorioamnionitis is associated with a more severe
+metabolic acidosis in neonates with suspected hypoxic-ischemic encephalopathy. Am J Obstet
+Gynecol 210:S205, 2014
+Johnson GJ, Denning S, Clark SL, et al: Pathophysiologic origins of brachial plexus injury. Obstet
+Gynecol 136(4):725, 2020
+
+Juul SE, Comstock BA, Heagerty PJ, et al: High-dose erythropoietin for asphyxia and encephalopathy
+(HEAL): a randomized controlled trial—background, aims, and study protocol. Neonatology
+113(4):3315, 2018
+Kalra VK, Lee HC, Sie L, et al: Change in neonatal resuscitation guidelines and trends in incidence of
+meconium aspiration syndrome in California. J Perinatol 40(1):46, 2020
+Kancherla R, Sankineani SR, Naranje S, et al: Birth-related femoral fracture in newborns: risk factors
+and management. J Child Orthop 6(3):177, 2012
+Kandemirli SG, Cingoz M, Bilgin C, et al: Temporal evolution of imaging findings in ossified
+cephalohematoma. Craniofac Surg 31(4):e375, 2020
+Kaplan SL, Coulter C, Sargent B: Physical therapy management of congenital muscular torticollis: a
+2018 evidence-based clinical practice guideline from the APTA Academy of Pediatric Physical
+Therapy. Pediatr Phys Ther 30(4):240, 2018
+Kaur A, Luu TM, Shah PS, et al: Neonatal Intraventricular Hemorrhage and Hospitalization in
+Childhood. Pediatr Neurol 103:35, 2020
+Kekki M, Salonen A, Tihtonen K, et al: The incidence of birth injuries decreased in Finland between
+1997 and 2017: a nationwide register study. Acta Paediatr 109(12):2562, 2020
+Kraft WK, Adeniyl-Jones SC, Chervoneva I, et al: Buprenorphine for the treatment of the neonatal
+abstinence syndrome. N Engl J Med 376(24):2341, 2017
+Krakowiak P, Walker CK, Bremer AA, et al: Maternal metabolic conditions and risk for autism and
+other neurodevelopmental disorders. Pediatrics 129(5):1, 2012
+Kuzniewicz MW, Wickremasinghe AC, Wu YW, et al: Incidence, etiology, and outcomes of hazardous
+hyperbilirubinemia in newborns. Pediatrics 134(3):504, 2014
+Kwon JM, Guillet R, Shankaran S, et al: Clinical seizures in neonatal hypoxic-ischemic encephalopathy
+have no independent impact on neurodevelopmental outcome: secondary analyses of data from the
+Neonatal Research Network hypothermia trial. J Child Neurol 26:322, 2011
+Laptook AR: Birth asphyxia and hypoxic-ischemic brain injury in the preterm infant. Clin Perinatol
+43(3):529, 2016
+Laptook AR, Shankaran S, Tyson JE, et al: Effect of therapeutic hypothermia initiated after 6 hours of
+age on death or disability among newborns with hypoxic-ischemic encephalopathy: a randomized
+clinical trial. JAMA 318(16):1550, 2017
+Lee CC, Chou IJ, Chang YJ, et al: Unusual presentations of birth related cervical spinal cord injury.
+Front Pediatr 8:514, 2020a
+Lee JH, Jung J, Park H, et al: Umbilical cord arterial blood gas analysis in term singleton pregnancies: a
+retrospective analysis over 11 years. Obstet Gynecol Sci 63(3):293, 2020b
+Lee JJ, Chen J, Eisler L, et al: Comparative effectiveness of opioid replacement agents for neonatal
+opioid withdrawal syndrome: a systematic review and meta-analysis. J Perinatol 39(11):1535, 2019
+Lee SJ, Kim JK, Kim SJ: The clinical characteristics and prognosis of subgaleal hemorrhage in
+newborn. Korean J Pediatr 61(12):387, 2018
+Leveno KJ, Quirk JG Jr, Cunningham FG, et al: Prolonged pregnancy. I. Observations concerning the
+causes of fetal distress. Am J Obstet Gynecol 150:465, 1984
+Li Y, Wang W, Zhang D: Maternal diabetes mellitus and risk of neonatal respiratory distress syndrome:
+a meta-analysis. Acta Diabetol 56(7):729, 2019
+Limperopoulos C, Robertson RL, Sullivan NR, et al: Cerebellar injury in term infants: clinical
+characteristics, magnetic resonance imaging findings, and outcome. Pediatr Neurol 41(1):1, 2009
+Linder I, Melamed N, Kogan A, et al: Gender and birth trauma in full-term infants. J Matern Fetal
+Neonatal Med 25(9):1603, 2012
+
+Lindqvist PG, Erichs K, Molnar C, et al: Characteristics and outcome of brachial plexus birth palsy in
+neonates. Acta Paediatr 101(6):579, 2012
+Liszewski MC, Stanescu AL, Phillips G, et al: Distress in neonates: underlying causes and current
+imaging assessment. Radiol Clin North Am 55(4):629, 2017
+MacLennan AH, Thompson SC, Gecz J: Cerebral palsy: causes, pathways, and the role of genetic
+variants. Am J Obstet Gynecol 213(6):779, 2015
+Maisels MJ, Bhutani VK, Bogen D, et al: Hyperbilirubinemia in the newborn infant >or = 35 weeks’
+gestation: an update with clarifications. Pediatrics 124(4):1193, 2009
+Malec L: Nonimmune anemias. Clin Perinatol 47(1):143, 2020
+Malin GL, Morris RK, Khan KS: Strength of association between umbilical cord pH and perinatal and
+long term outcomes: systematic review and meta-analysis. BMJ 340:c1471, 2010
+Martinez-Biarge M, Madero R, Gonzalez A, et al: Perinatal morbidity and risk of hypoxic-ischemic
+encephalopathy associated with intrapartum sentinel events. Am J Obstet Gynecol 206(2):148, 2012
+McAdams RM, Juul SE. Neonatal encephalopathy: update on therapeutic hypothermia and other novel
+therapeutics. Clin Perinatol 43(3):485, 2016
+McIntyre S, Blair E, Badawi N, et al: Antecedents of cerebral palsy and perinatal death in term and late
+preterm singletons. Obstet Gynecol 122:869, 2013
+McKinlay CJ, Alsweiler JM, Ansell JM, et al: Neonatal glycemia and neurodevelopmental outcomes at
+2 years. N Engl J Med 373(16):1507, 2015
+Menticoglou SM, Perlman M, Manning FA: High cervical spinal cord injury in neonates delivered with
+forceps: report of 15 cases. Obstet Gynecol 86:589, 1995
+Merhar SL, Kline-Fath BM, Nathan AT, et al: Identification and management of neonatal skull
+fractures. J Perinatol 36(8):640, 2016
+Modanlou H, Hutson S, Merritt AT: Early blood transfusion and resolution of disseminated intravascular
+coagulation associated with massive subgaleal hemorrhage. Neonatal Netw 35(1):37, 2016
+Moster D, Lie RT, Irgens LM: The association of the Apgar score with subsequent death and cerebral
+palsy: a population-based study in term infants. J Pediatr 138(6):798, 2001
+Moster D, Lie RT, Markestad T: Long-term medical and social consequences of preterm birth. N Engl J
+Med 359:262, 2008
+Natarajan CK, Sankar MJ, Jain K, et al: Surfactant therapy and antibiotics in neonates with meconium
+aspiration syndrome: a systematic review and meta-analysis. J Perinatol 36(Suppl 1):S49 2016a
+Natarajan G, Pappas A, Shankaran S: Outcomes in childhood following therapeutic hypothermia for
+neonatal hypoxic-ischemic encephalopathy (HIE). Semin Perinatol 40(8):549, 2016b
+Nelson DB, Lucke AM, McIntire DD, et al: Obstetric antecedents to body cooling treatment of the
+newborn infant. Am J Obstet Gynecol 211:115, 2014
+Nelson KB, Blair E: Prenatal factors in singletons with cerebral palsy born at or near term. N Engl J
+Med 373(10):946, 2015
+Nelson KB, Ellenberg JH: Antecedents of cerebral palsy: multivariate analysis of risk. N Engl J Med
+315:81, 1986a
+Nelson KB, Ellenberg JH: Antecedents of cerebral palsy: univariate analysis of risks. Am J Dis Child
+139:1031, 1985
+Nelson KB, Ellenberg JH: Antecedents of seizure disorders in early childhood. Am J Dis Child
+140:1053, 1986b
+Nelson KB, Ellenberg JH: Obstetric complications as risk factors for cerebral palsy or seizure disorders.
+JAMA 251:1843, 1984
+
+Novak CM, Ozen M, Burd I: Perinatal brain injury: mechanisms, prevention, and outcomes. Clin
+Perinatol 45(2):357, 2018
+O’Callaghan M, MacLennan A: Cesarean delivery and cerebral palsy: a systematic review and metaanalysis. Obstet Gynecol 122:1169, 2013
+O’Leary CM, Watson L, D’Antoine H, et al: Heavy maternal alcohol consumption and cerebral palsy in
+the offspring. Dec Med Child Neurol 54:224, 2012
+Ou-Yang MC, Huang CB, Huang HC, et al: Clinical manifestations of symptomatic intracranial
+hemorrhage in term neonates: 18 years of experience in a medical center. Pediatr Neonatol
+51(4):208, 2010
+Pandita A, Murki S, Oleti TP, et al: Effect of nasal continuous positive airway pressure on infants with
+meconium aspiration syndrome: a randomized clinical trial. JAMA Pediatr 172(2):161, 2018
+Phelan JP, Ahn MO: Perinatal observations in forty-eight neurologically impaired term infants. Am J
+Obstet Gynecol 171:424, 1994
+Pisani F, Facini C, Pavlidis E, et al: Epilepsy after neonatal seizures: literature review. Eur J Paediatr
+Neurol 19(1):6, 2015
+Raveenthiran V, Cenita S, Viswanathan P: Stabler’s sign revisited in a spontaneously ruptured
+neuroblastoma of the newborn. Am J Perinatol 25(1):17, 2008
+Ravichandran L, Allen VM, Allen AC, et al: Incidence, intrapartum risk factors, and prognosis of
+neonatal hypoxic-ischemic encephalopathy among infants born at 35 weeks gestation or more. J
+Obstet Gynaecol Can 42(12):1489, 2020
+Razak A, Hussain A: Erythropoietin in perinatal hypoxic-ischemic encephalopathy: a systematic review
+and meta-analysis. J Perinat Med 47(4):478, 2019
+Remon JI, Raghavan A, Maheshwari A: Polycythemia in the newborn. NeoReviews 12(1):e20, 2011
+Rietberg CC, Elferink-Stinkens PM, Brand R, et al: Term breech presentation in The Netherlands from
+1995 to 1999: mortality and morbidity in relation to the mode of delivery of 33824 infants. BJOG
+110(6):604, 2003
+Rizeq YK, Many BT, Vacek JC, et al: Diaphragmatic paralysis after phrenic nerve injury in newborns. J
+Pediatr Surg 55(2):240, 2020
+Roberts SW, Hernandez C, Maberry MC, et al: Obstetric clavicular fracture: the enigma of normal birth.
+Obstet Gynecol 86(6):978, 1995
+Robinson MN, Peake LJ, Ditchfield MR, et al: Magnetic resonance imaging findings in a populationbased cohort of children with cerebral palsy. Dev Med Child Neurol 51(1):39, 2008
+Roland EH, Flodmark O, Hill A: Thalamic hemorrhage with intraventricular hemorrhage in the full-term
+newborn. Pediatrics 85(5):737, 1990
+Roman E, Fear NT, Ansell P, et al: Vitamin K and childhood cancer: analysis of individual patient data
+from six case-control studies. Br J Cancer 86(1):63, 2002
+Rooks VJ, Eaton JP, Ruess L, et al: Prevalence and evolution of intracranial hemorrhage in
+asymptomatic term infants. AJNR Am J Neuroradiol 29(6):1082, 2008
+Rossi AC, Vanderbilt D, Chmait RH: Neurodevelopmental outcomes after laser therapy for twin-twin
+transfusion syndrome: a systematic review and meta-analysis. Obstet Gynecol 118(5):1145, 2011
+Sankar MJ, Chandrasekaran A, Kumar P, et al: Vitamin K prophylaxis for prevention of vitamin K
+deficiency bleeding: a systematic review. J Perinatol 36 (Suppl 1):S29, 2016
+Sargent B, Kaplan SL, Coulter C, et al: Congenital muscular torticollis: bridging the gap between
+research and clinical practice. Pediatrics 144(2):e20190582, 2019
+Sauber-Schatz EK, Markovic N, Weiss HB, et al: Descriptive epidemiology of birth trauma in the United
+States in 2003. Paediatr Perinat Epidemiol 24(2):116, 2010
+
+Schou KV, Lando AV, Ekelund CK, et al: Long-term neurodevelopmental outcome of monochorionic
+twins after laser therapy or umbilical cord occlusion for twin-twin transfusion syndrome. Fetal Diagn
+Ther 46(1):20, 2019
+Schullinger JN: Birth trauma. Pediatr Clin North Am 40(6):1351, 1993
+Shah NA, Wusthoff CJ: Intracranial hemorrhage in the neonate. Neonatal Netw 35(2):67, 2016
+Shankaran S, Laptook AR, Pappas A, et al: Effect of depth and duration of cooling on death or disability
+at age 18 months among neonates with hypoxic-ischemic encephalopathy: a randomized clinical trial.
+JAMA 318(1):57, 2017
+Shankaran S, Pappas A, McDonald SA, et al: Childhood outcomes after hypothermia for neonatal
+encephalopathy. N Engl J Med 366(22):2085, 2012
+Shatrov JG, Birch SC, Lam FT, et al: Chorioamnionitis and cerebral palsy: a meta-analysis. Obstet
+Gynecol 116:387, 2010
+Shaw BA, Segal LS: Evaluation and referral for developmental dysplasia of the hip in infants. Pediatrics
+138(6):e20163107, 2016
+Shevell A, Wintermark P, Benini R, et al: Chorioamnionitis and cerebral palsy: lessons from a patient
+registry. Eur J Paediatr Neurol 18(3):301, 2014
+Shi Z, Ma L, Luo K, et al: Chorioamnionitis in the development of cerebral palsy: a meta-analysis and
+systematic review. Pediatrics 139(6):e2016378, 2017
+Silva AM, Smith RN, Lehmann CU, et al: Neonatal nucleated red blood cells and the prediction of
+cerebral white matter injury in preterm infants. Obstet Gynecol 107:550, 2006
+Slusher TM, Olusanya BO, Vreman HJ, et al: A randomized trial of phototherapy with filtered sunlight in
+African neonates. N Engl J Med 373(12):1115, 2015
+Smith BW, Daunter AK, Yang LJ, et al: An update on the management of neonatal brachial plexus palsy
+—replacing old paradigms: a review. JAMA Pediatr 172(6):585, 2018
+Smith C, Weinberg A, Forster JE, et al: Maternal lopinavir-ritonavir is associated with fewer adverse
+events in infants than nelfinavir or atazanavir. Infect Dis Obstet Gynecol 2016:9848041, 2016
+Smithers-Sheedy H, McIntyre S, Gibson C, et al: A special supplement: findings from the Australian
+Cerebral Palsy Register, birth years 1993 to 2006. Dev Med Child Neurol 58(Suppl 2):5, 2016
+Society for Maternal-Fetal Medicine, McKinney J, Rac MW, et al: Congenital talipes equinovarus
+(clubfoot). Am J Obstet Gynecol 221(6):B10, 2019
+Stoknes M, Andersen GL, Dahlseng MO, et al: Cerebral palsy and neonatal death in term singletons
+born small for gestational age. Pediatrics 130(6):e1629, 2012
+Stuart A, Olausson PO, Kallen K: Apgar scores at 5 minutes after birth in relation to school
+performance at 16 years of age. Obstet Gynecol 118(2 Pt 1):201, 2011
+Swanson AE, Veldman A, Wallace EM, et al: Subgaleal hemorrhage: risk factors and outcomes. Acta
+Obstet Gynecol Scand 91(2):260, 2012
+Takenouchi T, Kasdorf E, Engel M, et al: Changing pattern of perinatal brain injury in term infants in
+recent years. Pediatr Neurol 46(2):106, 2012
+Tan AP, Svrckova P, Cowan F, et al: Intracranial hemorrhage in neonates: a review of etiologies,
+patterns and predicted clinical outcomes. Eur J Paediatr Neurol 22(4):690, 2018
+Thornton PD, Campbell RT, Mogos MF, et al: Meconium aspiration syndrome: incidence and outcomes
+using discharge data. Early Hum Dev 136:21, 2019
+Tolia VN, Patrick SW, Bennett MM, et al: Increasing incidence of the neonatal abstinence syndrome in
+U.S. neonatal ICUs. N Engl J Med 372(22):2118, 2015
+Torfs CP, van den Berg B, Oechsli FW, et al: Prenatal and perinatal factors in the etiology of cerebral
+palsy. J Pediatr 116:615, 1990
+
+Towner D, Castro MA, Eby-Wilkens E, et al: Effect of mode of delivery in nulliparous women on
+neonatal intracranial injury. N Engl J Med 341(23):1709, 1999
+Tweed EJ, Mackay DF, Nelson SM, et al: Five-minute Apgar score and educational outcomes:
+retrospective cohort study of 751,369 children. Arch Dis Child Fetal Neonatal Ed 101(2):F121, 2016
+Vain NE, Batton DG: Meconium “aspiration” (or respiratory distress associated with meconium-stained
+amniotic fluid?). Semin Fetal Neonatal Med 22(4):214, 2017
+Vain NE, Szyld EG, Prudent LM, et al: Oropharyngeal and nasopharyngeal suctioning of meconiumstained neonates before delivery of their shoulders: multicenter, randomized controlled trial. Lancet
+364:597, 2004
+Vandborg PK, Hansen BM, Greisen G, et al: Follow-up of neonates with total serum bilirubin levels ≥25
+mg/dL: a Danish population-based study. Pediatrics 130(1):61, 2012
+van Rijn RR, Bilo RA, Robben SG: Birth-related mid-posterior rib fractures in neonates: a report of
+three cases (and a possible fourth case) and a review of the literature. Pediatr Radiol 39(1):30, 2009
+Villamor E, Tedroff K, Peterson M, et al: Association between maternal body mass index in early
+pregnancy and incidence of cerebral palsy. JAMA 317(9):925, 2017
+von Heideken J, Thiblin I, Högberg U: The epidemiology of infant shaft fractures of femur or humerus
+by incidence, birth, accidents, and other causes. BMC Musculoskelet Disord 21(1):840, 2020
+Vuillermin C, Bauer AS: Boston Children’s Hospital approach to brachial plexus birth palsy. J Pediatr
+Orthop B 25(4):296, 2016
+Wagenaar N, Martinez-Biarge M, van der Aa NE, et al: Neurodevelopment after perinatal arterial
+ischemic stroke. Pediatrics 142(3):e20174164, 2018
+Walsh B, Boylan G, Dempsey E, et al: Association of nucleated red blood cells and severity of
+encephalopathy in normothermic and hypothermic infants. Acta Paediatr 102(2):e64, 2013
+Walsh BH, Bovian GB, Murray DM: Nucleated red blood cells and early EEG: predicting Sarnat stage
+and two year outcome. Early Hum Dev 87(5):335, 2011
+Walsh BH, Neil J, Morey J, et al: The frequency and severity of magnetic resonance imaging
+abnormalities in infants with mild neonatal encephalopathy. J Pediatr 187:26, 2017
+Watchko JF, Tiribelli C: Bilirubin-induced neurologic damage—mechanisms and management
+approaches. N Engl J Med 369:21, 2013
+Wen Q, Muraca GM, Ting J, et al: Temporal trends in severe maternal and neonatal trauma during
+childbirth: a population-based observational study. BMJ Open 8:e020578, 2018
+Werner EF, Janevic TM, Illuzzi J, et al: Mode of delivery in nulliparous women and neonatal intracranial
+injury. Obstet Gynecol 118(6):1239, 2011
+Wiklund LM, Uvebrant P, Flodmark O: Computed tomography as an adjunct in etiological analysis of
+hemiplegic cerebral palsy. I: Children born preterm. Neuropediatrics 22:50, 1991a
+Wiklund LM, Uvebrant P, Flodmark O: Computed tomography as an adjunct in etiological analysis of
+hemiplegic cerebral palsy; II. Children born at term. Neuropediatrics 22:121, 1991b
+Williams JW: Obstetrics: a textbook for the use of students and practitioners. New York, Appleton, 1903
+Wilson TJ, Chang KW, Chauhan SP, et al: Peripartum and neonatal factors associated with the
+persistence of neonatal brachial plexus palsy at 1 year: a review of 382 cases. J Neurosurg Pediatr
+17(5):618, 2016
+Wiswell TE, Gannon CM, Jacob J, et al: Delivery room management of the apparently vigorous
+meconium-stained neonate: results of the multicenter, international collaborative trial. Pediatrics
+105(1 Pt 1):1, 2000
+Wu YW, Bauer LA, Ballard RA, et al: Erythropoietin for neuroprotection in neonatal encephalopathy:
+safety and pharmacokinetics. Pediatrics 130(4):683, 2012
+
+Wu YW, Croen LA, Shah SJ, et al: Cerebral palsy in a term population: risk factors and neuroimaging
+findings. Pediatrics 118:691, 2006
+Wu YW, Hamrick SE, Miller SP, et al: Intraventricular hemorrhage in term neonates caused by
+sinovenous thrombosis. Ann Neurol 54(1):123, 2003
+Wyckoff MH, Wyllie J, Aziz K, et al: Neonatal life support: 2020 International Consensus on
+Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science with Treatment
+Recommendations. Circulation 142:S185, 2020
+Yang S, Zusman N, Lieberman E, et al: Developmental dysplasia of the hip. Pediatrics
+143(1):e20181147, 2019
+Yeh P, Emary K, Impey L: The relationship between umbilical cord arterial pH and serious adverse
+neonatal outcome: analysis of 51,519 consecutive validated samples. BJOG 119(7):824, 2012
+Yeung T, Jasani B, Shah PS: Steroids for the management of neonates with meconium aspiration
+syndrome: a systematic review and meta-analysis. Indian Pediatr 58(4):370, 2021
+Zamora C, Sams C, Cornea EA, et al: Subdural hemorrhage in asymptomatic neonates:
+neurodevelopmental outcomes and MRI findings at 2 years. Radiology 298(1):173, 2021
+Zimmermann P, Duppenthaler A: Infected cephalhaematoma in a five-week-old infant—case report and
+review of the literature. BMC Infect Dis 16(1):636, 2016
+

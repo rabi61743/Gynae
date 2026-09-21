@@ -1,0 +1,2101 @@
+CHAPTER 67
+
+Infectious Diseases
+
+MATERNAL AND FETAL IMMUNOLOGY
+VIRAL INFECTIONS
+BACTERIAL INFECTIONS
+PROTOZOAL INFECTIONS
+BIOTERRORISM
+REFERENCES
+Infections remain a major cause of maternal and fetal morbidity and mortality
+worldwide. The unique maternal–fetal vascular interface in some cases
+serves to protect the fetus from infectious agents, but in other instances it
+provides a conduit for transmission. Maternal serological status, acquisition
+mode, gestational age at the time of infection, and immunological status of
+mother and fetus all influence disease outcome.
+The TORCH acronym reflects the infections toxoplasmosis, others,
+rubella, and cytomegalovirus and herpesvirus infections. These can cross the
+placenta to cause fetal infection and substantial neonatal sequelae. Of
+members in the “others” category, parvovirus B19 infection is discussed
+here. Herpesvirus and syphilis infections are described in Chapter 68.
+
+MATERNAL AND FETAL IMMUNOLOGY
+
+■ Maternal Immunological Changes
+Despite significant advances, many of the maternal immunological
+adaptations to pregnancy remain unclear. Successful pregnancy results from a
+complex interplay between the innate and adaptive immune systems to
+establish fetal tolerance (Chap. 5, p. 93) (Liu, 2017). Within the innate
+system, decidual natural killer (dNK) cells interact with and aid invasion of
+fetal extravillous trophoblasts via human leukocyte antigen (HLA)-G (Fig.
+21-8, p. 404). Also, cytokines produced during viral infection activate dNK
+cells to induce protective cytotoxicity (Tilburgs, 2015).
+Within the adaptive immune system, a CD4+ subset of T helper cells
+called regulatory T cells (Tregs) express forkhead box P3 (FOXP3). This is
+an immune-suppressive transcription factor that plays a critical role in
+inducing maternal immune tolerance to the fetus (Kahn, 2010). However, this
+same mechanism compromises maternal defense against bacterial pathogens.
+Noncoding microRNAs, whose roles are incompletely defined, regulate
+activation and proliferation of both innate and adaptive immune cells
+(Robertson, 2017).
+In describing infections, horizontal transmission is the spread of an
+infectious agent from one individual to another. Vertical transmission is
+passage of an infectious agent from the mother to her fetus through the
+placenta, during labor or delivery, or by breastfeeding. Thus, preterm rupture
+of membranes or prolonged labor may enhance the risk of some neonatal
+infections (American College of Obstetricians and Gynecologists, 2020b).
+Table 67-1 shows specific infections by mode and acquisition timing. A final
+term, the secondary attack rate, is the probability that infection develops in
+a susceptible individual following known contact with an infectious person.
+TABLE 67-1. Specific Causes of Some Fetal and Neonatal Infections
+
+■ Fetal and Newborn Immunology
+The active immunological capacity of the fetus and neonate is compromised
+compared with that of older children and adults. That said, fetal innate and
+adaptive immunity begin to develop by 9 to 15 weeks’ gestation (McGovern,
+2017). The primary fetal response to infection is mediated by innate
+
+immunity—macrophages and dendritic cells—and to a lesser extent, by
+adaptive immunity—B and T cells (Chougnet, 2018). Passive immunity is
+provided by maternal immunoglobulin G (IgG) transferred across the
+placenta. By 16 weeks’ gestation, this transfer begins to rise rapidly, and by
+26 weeks, fetal concentrations are equivalent to those of the mother.
+Evidence suggests maternal vaccination also primes the fetal cell-mediated
+immune response independent of passive immunity (Wilcox, 2018).
+Neonatal infection, especially in its early stages, may be difficult to
+diagnose because these newborns often fail to express classic clinical signs.
+If the fetus was infected in utero, it may be depressed and acidotic at birth for
+no apparent reason. The neonate may suck poorly, vomit, or show abdominal
+distention. Respiratory insufficiency can develop, which may present
+similarly to idiopathic respiratory distress syndrome. The neonate may be
+lethargic or jittery. The response to sepsis may be hypothermia rather than
+hyperthermia, and the total leukocyte and neutrophil counts can be depressed.
+
+VIRAL INFECTIONS
+■ Cytomegalovirus
+The most common perinatal infection in the developed world is caused by
+cytomegalovirus (CMV). It is a ubiquitous DNA herpesvirus that eventually
+infects most humans, and some evidence of fetal infection is found in 0.2 to
+2.2 percent of all neonates (American College of Obstetricians and
+Gynecologists, 2020a). The virus is secreted into all body fluids, and
+person-to-person contact with viral-laden saliva, semen, urine, blood, and
+nasopharyngeal and cervical secretions can transmit infection. The fetus may
+become infected by transplacental viremia, but amniocentesis does not result
+in iatrogenic fetal transmission (Revello, 2008). The neonate is infected at
+delivery or during breastfeeding and acquisition continues to accrue. Daycare centers, for example, are a frequent source.
+Up to 85 percent of women from lower socioeconomic backgrounds are
+seropositive by the time of pregnancy, whereas only half of women in higher
+income groups have detectable IgG antibodies to CMV. Following primary
+CMV infection, and behaving similarly to other herpesvirus infections, the
+virus becomes latent but undergoes periodic reactivation characterized by
+viral shedding. This occurs despite high serum levels of anti-CMV IgG
+
+antibody. These antibodies do not prevent maternal recurrence, reactivation,
+or reinfection, nor do they totally mitigate fetal or neonatal infection.
+
+Maternal Infection
+Pregnancy does not increase the risk or severity of maternal CMV infection.
+Most primary infections are asymptomatic, but 10 to 15 percent of infected
+adults have a mononucleosis-like syndrome characterized by fever,
+pharyngitis, lymphadenopathy, and polyarthritis. Immunocompromised
+women may develop myocarditis, pneumonitis, hepatitis, retinitis,
+gastroenteritis, or meningoencephalitis. Most women with primary infection
+have elevated serum aminotransferase levels or lymphocytosis. Reactivated
+disease usually is asymptomatic, although viral shedding is common.
+Because most primary maternal infections are clinically silent, they are
+detected by IgG seroconversion. The rate of seroconversion during
+pregnancy may reach 20 percent. Rates are higher in regions with greater
+seroprevalence (Mussi-Pinhata, 2018). Women who are seronegative before
+pregnancy and then acquire primary CMV infection during pregnancy are at
+highest risk of having a congenitally infected fetus. Vertical transmission
+rates for primary infection are 30 to 36 percent in the first trimester, 34 to 40
+percent in the second, and 40 to 72 percent in the third (American College of
+Obstetricians and Gynecologists, 2020a; Picone, 2017). Approximately 23
+percent of congenital CMV infections in the United States are from primary
+maternal infection (Wang, 2011).
+In contrast, recurrent or reactivated maternal infection infects the fetus in
+only 0.15 to 2 percent of pregnancies. However, up to 90 percent of
+congenitally infected neonates in high-prevalence areas are born to women
+with recurrent infection (Mussi-Pinhata, 2018). The diagnosis of recurrent or
+reactivated maternal CMV infection remains a challenge (Tanimura, 2017).
+
+Congenital Infection
+Newborns with apparent sequelae of intrauterine-acquired CMV infection
+are described as having symptomatic CMV infection. Congenital CMV
+infection is a syndrome that may include growth restriction, microcephaly,
+intracranial calcifications, chorioretinitis, mental and motor delays,
+sensorineural deficits, hepatosplenomegaly, jaundice, hemolytic anemia, and
+thrombocytopenic purpura. An example of periventricular calcifications is
+
+shown in Figure 67-1. Of the estimated 40,000 CMV-infected neonates born
+each year, only 5 to 10 percent demonstrate this syndrome (Fowler, 1992).
+Thus, most infected newborns are asymptomatic at birth, but some develop
+late-onset sequelae. These may include hearing loss, neurological deficits,
+chorioretinitis, psychomotor delay, and learning disabilities. Infections in
+dichorionic twins most likely are nonconcordant (Egaña-Ugrinovic, 2016).
+
+FIGURE 67-1 Congenital cytomegalovirus infection. A. Transverse view of the fetal head
+demonstrates ventriculomegaly (LV) and periventricular calcifications. B. Transverse image of the fetal
+abdomen with ascites (asterisk) and echogenic bowel.
+
+Prenatal Diagnosis
+Routine prenatal CMV serological screening is not recommended. Pregnant
+women undergo serological testing for CMV if they present with a
+mononucleosis-like illness or if congenital infection is suspected based on
+abnormal sonographic findings (Fig. 67-2) (American College of
+Obstetricians and Gynecologists, 2020a; Society for Maternal-Fetal
+Medicine, 2016). If either ultrasound or serological results indicate
+infection, diagnostic amniocentesis is pursued.
+
+FIGURE 67-2 Diagnostic algorithm for evaluation of cytomegalovirus (CMV) infection in pregnancy.
+IgG = immunoglobulin G; IgM = immunoglobulin M; PCR = polymerase chain reaction.
+
+Serum levels of CMV IgM alone do not accurately diagnose primary
+infection because antibodies may persist for more than a year after infection
+and may rise again following reactivation or reinfection. To help clarify a
+primary infection from a past one, serological CMV-specific IgG avidity
+assays measure the “avidity” or binding strength between IgG antibodies and
+virus. Following primary infection, IgG antibodies have low avidity, which
+during the next 2 to 4 months matures to high avidity. Low IgG avidity
+indicates primary CMV infection within the preceding 3 to 4 months, and
+high IgG avidity excludes primary infection within the previous 3 months.
+Thus, primary infection during the first trimester may not be excluded if
+maternal avidity testing is performed in the second or third trimesters
+(Prince, 2014). In this case, diagnostic amniocentesis is still recommended if
+ultrasound findings suggest congenital infection. In other cases, early primary
+infection may be so recent that IgM is not yet detectable. If suspicion is high,
+serological assays are repeated in 2 to 4 weeks.
+More commonly, numerous sonographic fetal findings may prompt CMV
+testing. Fetal abnormalities associated with CMV infection include
+
+microcephaly, ventriculomegaly, and cerebral calcifications; ascites,
+hepatomegaly, splenomegaly, and hyperechoic bowel; hydrops; early growth
+restriction; and oligohydramnios. Findings will prompt maternal serological
+CMV testing and diagnostic amniocentesis (see Fig. 67-2).
+CMV polymerase chain reaction (PCR) testing of amnionic fluid is
+considered the gold standard for the diagnosis of fetal infection. Sensitivities
+range from 70 to 99 percent and depend on amniocentesis timing. Sensitivity
+is highest when amniocentesis is performed at least 6 weeks after maternal
+infection and after 21 weeks’ gestation (Guerra, 2000). Abnormal
+sonographic findings seen in combination with positive findings in amnionic
+fluid samples are predictive of an approximate 75-percent risk of
+symptomatic congenital infection (Leruez-Ville, 2016a). A negative result
+from amnionic fluid PCR testing does not exclude fetal infection and may
+need to be repeated if suspicion for fetal infection is high. Diagnostic viral
+culture of amnionic fluid is also suitable although sensitivity is somewhat
+lower. Isolation of virus from cell culture allows detection of actively
+replicating virus, and rapid shell vial culture methods enable detection
+within 24 hours (Saldan, 2017).
+
+Management and Prevention
+The management of the immunocompetent pregnant woman with primary,
+reactivated, or recurrent CMV is limited to symptomatic treatment. If primary
+CMV infection is diagnosed serologically or if fetal sonographic
+abnormalities suggest congenital infection, amnionic fluid analysis should be
+offered (see Fig. 67-2). Counseling regarding fetal outcome depends on the
+gestational age during which primary infection is documented. Lipitz and
+associates (2013) reported hearing loss or neurodevelopmental delay in 15
+to 25 percent of infants following primary maternal infection in the first
+trimester compared with 2 to 16 percent after second-trimester infection.
+Despite the high infection rate with primary infection in the first half of
+pregnancy, most fetuses develop normally. That said, pregnancy termination
+may be an option for some.
+Currently, no curative treatments are available for CMV infection. One
+study group reported that treating pregnant women with high-dose oral
+valacyclovir, 8 g daily, apparently mitigated adverse outcomes for 80 percent
+of moderately asymptomatic fetuses compared with a historical cohort
+(Leruez-Ville, 2016b). Kimberlin and colleagues (2015) previously showed
+
+that oral valganciclovir administered for 6 weeks to neonates with
+symptomatic central nervous system (CNS) disease prevented hearing
+deterioration at 6 months and possibly later. In a recent randomized trial,
+CMV-specific hyperimmune globulin given to pregnant women with primary
+infection was ineffective in lowering perinatal CMV infection rates (Hughes,
+2021).
+For the CMV-affected fetus, a detailed anatomical sonographic
+evaluation is performed. Referral to a maternal–fetal medicine specialist is
+warranted, and serial sonography is indicated to identify poor growth,
+oligohydramnios, or fetal hydrops, which confers a worse prognosis.
+Antenatal surveillance is typically implemented after a shared discussion
+about the goals of surveillance in a fetus with known congenital infection.
+Delivery at term is the goal, although consultation with maternal–fetal
+medicine and neonatology experts is warranted to determine whether earlier
+delivery is indicated.
+Prevention of congenital infection relies on avoiding maternal primary
+infection, especially in early pregnancy. Basic hygiene measures such as
+hand washing and not sharing food or utensils have been promoted,
+particularly in women with toddlers in day care (Rawlinson, 2017). CMV
+may be sexually transmitted among infected partners, but no data address the
+efficacy of preventive strategies. Several clinical trials of a CMV vaccine
+are underway (Gerna, 2019).
+
+■ Varicella-Zoster Virus
+Maternal Infection
+Varicella-zoster virus (VZV) is a double-stranded DNA herpesvirus
+acquired predominantly during childhood, and 90 percent of adults have
+serological evidence of immunity. The incidence of varicella infection
+declined by approximately 95 percent after the introduction of varicella
+vaccination. Maternal and fetal varicella rates subsequently dropped (Baxter,
+2014). In the United States between 2003 and 2010, the incidence of
+maternal varicella among 7.7 million pregnancy admissions was 1.21 cases
+in 10,000 (Zhang, 2015).
+Primary infection—varicella or chickenpox—is transmitted by
+respiratory droplets or through direct contact with an infected individual.
+
+The incubation period is 10 to 21 days, and a nonimmune woman has a 70- to
+90-percent risk of becoming infected after exposure (Whitley, 2018). Primary
+varicella has a 1- to 2-day flu-like prodrome, which is followed by pruritic
+vesicular lesions that crust after 3 to 7 days. Affected patients are contagious
+from 1 day before the rash onset until all lesions become crusted.
+In adults, mortality risk rises with age and is predominantly due to
+secondary infection or VZV pneumonia (Leung, 2018). Risk factors for
+severe pneumonitis include immunosuppression and early bacterial coinfection (Mirouse, 2017). Although the incidence was once thought to be
+higher in gravidas, only 2.5 percent develops VZV pneumonia (Zhang, 2015).
+Symptoms of VZV pneumonia usually appear 3 to 5 days into the illness
+course. Fever, tachypnea, dry cough, dyspnea, and pleuritic pain are
+characteristic. Nodular infiltrates are similar to other viral pneumonias.
+Although resolution of pneumonitis parallels that of skin lesions, fever and
+compromised pulmonary function may persist for weeks.
+If primary varicella is reactivated years later, it causes herpes zoster or
+shingles. The associated unilateral dermatomal vesicular eruption often
+produces severe pain. Zoster does not appear to be more frequent or severe
+in gravidas. Congenital varicella syndrome rarely develops in cases of
+maternal herpes zoster (Ahn, 2016). Zoster is contagious if there is direct
+contact with broken blisters.
+
+Fetal and Neonatal Infection
+In women with primary varicella during the first half of pregnancy, the fetus
+may develop congenital varicella syndrome. Some features include
+chorioretinitis, microphthalmia, cerebral cortical atrophy, growth restriction,
+hydronephrosis, limb hypoplasia, and cicatricial skin lesions (Ahn, 2016;
+Auriti, 2009). Among 1373 pregnant women with primary varicella infection
+in one study, only 0.4 percent with a rash before 13 weeks’ gestation had
+neonates with congenital varicella syndrome (Enders, 1994). The highest risk
+period for vertical transmission was between 13 and 20 weeks, during which
+2 percent of exposed fetuses had evidence of infection. After 20 weeks’
+gestation, the researchers found no clinical evidence of congenital varicella.
+Others described similar findings (Ahn, 2016). That said, fetuses that do
+develop congenital varicella in the third trimester may have CNS
+abnormalities and skin lesions (Koren, 2005).
+
+If the fetus or neonate is exposed to active infection just before or during
+delivery, and therefore before maternal antibody has formed, the newborn
+faces a serious threat. Attack rates range from 25 to 50 percent, and mortality
+rates approach 30 percent. In some instances, neonates develop disseminated
+visceral and CNS disease, which is commonly fatal. For this reason,
+varicella-zoster immune globulin (VariZIG) should be administered to
+neonates born to mothers who have clinical evidence of varicella 5 days
+before and up to 2 days after delivery (Centers for Disease Control and
+Prevention, 2013).
+
+Diagnosis
+Prior maternal varicella is usually confirmed clinically based on reported
+history of prior illness or vaccination. Infection is confirmed by PCR-based
+testing of vesicular fluid or of a crust that is lifted from the skin. Congenital
+varicella may be diagnosed using PCR-based testing of amnionic fluid,
+although a positive result does not correlate well with the development of
+congenital infection (Mendelson, 2006). A detailed anatomical sonographic
+evaluation performed at least 5 weeks after maternal infection may disclose
+abnormalities, but the sensitivity is low (Mandelbrot, 2012).
+
+Management and Prevention
+Maternal Viral Exposure. Any patient diagnosed with primary varicella
+infection or herpes zoster should be isolated from pregnant women.
+Several aspects of maternal VZV exposure and infection in pregnancy affect
+management. Exposed gravidas with a negative clinical history for prior
+chickenpox or vaccination should undergo VZV serological testing. At least
+70 percent of these women will be seropositive and thus immune.
+Seronegative women should be given intramuscular VariZIG, 125 units per
+10 kg body weight, up to a maximum dose of 625 units (5 vials). Although
+best given within 96 hours of exposure, its use is approved for up to 10 days
+to prevent or attenuate varicella infection (Centers for Disease Control and
+Prevention, 2013). This passive immunization appears to be highly effective
+(Jespersen, 2016). In women with a reported history of chickenpox or
+varicella vaccination, VariZIG is not indicated.
+Maternal and Fetal Infection. For women with primary varicella, a chest
+radiograph is recommended by many because VZV pneumonia often presents
+
+with few symptoms. Most women require only supportive care, but those
+who require intravenous fluids and especially those with pneumonia are
+hospitalized. Acyclovir therapy is given to women requiring hospitalization
+—10 to 15 mg/kg intravenously every 8 hours until afebrile. This is followed
+by oral acyclovir, 800 mg five times daily to complete 7 days and until
+lesions have crusted. For uncomplicated primary varicella without
+hospitalization or for herpes zoster, treatment is oral acyclovir, 800 mg five
+times daily for 7 days.
+For the VZV-affected fetus, greater antenatal surveillance is typically
+implemented. Serial sonography may help identify poor growth. Delivery at
+term is the norm unless fetal findings prompt earlier timing.
+Vaccination. An attenuated live-virus vaccine is recommended for
+nonpregnant adolescents and adults with no history of varicella. Two doses
+are needed and are separated by 4 to 8 weeks. The vaccine is not
+recommended for gravidas or for those who may become pregnant within one
+month following each vaccine dose. However, a registry of more than 1000
+vaccine-exposed pregnancies reports no cases of congenital varicella
+syndrome or other associated congenital malformations (Peppa, 2020). The
+attenuated vaccine virus is not secreted in breast milk. Thus, postpartum
+vaccination should not be delayed because of breastfeeding (American
+College of Obstetricians and Gynecologists, 2019e).
+
+■ Influenza Virus
+Influenza A and B belong to the Orthomyxoviridae family of RNA viruses,
+and both cause epidemic human disease (Wright, 2018). Influenza A viruses
+are subclassified further by hemagglutinin (H) and neuraminidase (N) surface
+antigens. Influenza outbreaks occur annually, and severity is determined by
+the number of outpatient visits, hospitalizations, and deaths (Xu, 2019).
+
+Maternal Infection
+Fever, dry cough, and systemic symptoms characterize this infection, which
+usually is not life-threatening in otherwise healthy adults. However, pregnant
+women in general are more susceptible to serious complications, particularly
+pulmonary involvement (Mertz, 2017; Rasmussen, 2012). Severe infection
+
+during the 2009 to 2010 pandemic had a maternal mortality rate of 1 percent
+and caused 12 percent of pregnancy-related deaths (Callaghan, 2015).
+No firm evidence links influenza A virus and congenital malformations.
+Rather, the increased rates of neural-tube defects seen in neonates born to
+women with influenza may be associated with hyperthermia. Viremia is
+infrequent, and transplacental passage is rare (Rasmussen, 2012). Stillbirth,
+preterm delivery, and first-trimester abortion have all been reported, but
+these usually correlate with maternal infection severity (Fell, 2017; Meijer,
+2015; Wang, 2021).
+Influenza may be detected by nasopharyngeal swab of symptomatic
+patients using rapid molecular or viral antigen detection assays known as
+rapid influenza diagnostic tests (RIDTs). Recently, commercially available
+multiplex molecular assays have allowed nucleic acid detection and
+differentiation of both influenza and severe acute respiratory syndrome
+(SARS)-CoV-2 respiratory viruses. Molecular tests are more sensitive and
+specific than RIDTs, which have sensitivities of 50 to 70 percent. Decisions
+to administer antiviral medications for influenza treatment or
+chemoprophylaxis should be based on clinical symptoms and
+epidemiological factors. Namely, the start of therapy should not be delayed
+pending testing results.
+
+Management
+Of available agents, neuraminidase inhibitors are highly effective for the
+treatment of early influenza A and B. These include oseltamivir (Tamiflu),
+which is taken orally for treatment and for chemoprophylaxis; zanamivir
+(Relenza), which is inhaled for treatment; and peramivir (Rapivab), which is
+administered intravenously. A newer agent, baloxavir marboxil (Xofluza),
+was approved by the U.S. Food and Drug Administration in 2018 for acute
+uncomplicated influenza, although data in pregnancy are limited.
+In pregnancy, experience is most robust with oseltamivir. The American
+College of Obstetricians and Gynecologists (2019a) and the Infectious
+Diseases Society of America recommend oral oseltamivir—75 mg twice
+daily for 5 days—for pregnant women with suspected or confirmed
+influenza, ideally within 48 hours of symptom onset (Uyeki, 2019). Early
+administration may reduce length of hospital stays (Oboho, 2016). For
+prophylaxis following exposure to a contact with confirmed infection,
+
+oseltamivir, 75 mg orally once daily for 7 days, is recommended.
+Antibacterial medications are added when a secondary bacterial pneumonia
+is suspected (Chap. 54, p. 962).
+
+Vaccination
+Effective vaccines against influenza are formulated annually and encouraged
+for all women who will be pregnant during the influenza season, which
+extends from October through March. Vaccination throughout the influenza
+season, but optimally before the end of October, is recommended (American
+College of Obstetricians and Gynecologists, 2019c; Grohskopf, 2020). This
+is especially important for those affected by chronic medical disorders such
+as diabetes, heart disease, asthma, or human immunodeficiency virus (HIV)
+infection. Influenza vaccination was associated with a 40-percent reduction
+in influenza-associated hospitalizations in pregnant women (Thompson,
+2019).
+Importantly, no evidence shows teratogenicity or developmental
+problems in children exposed to maternal vaccination (Conlin, 2018;
+Ludvigsson, 2016). Moreover, for mothers vaccinated during pregnancy, their
+infants are protected from lower respiratory tract infections for the first 3
+months of life (Nunes, 2017). All inactivated or recombinant influenza
+vaccines may be used in gravidas (Grohskopf, 2020). However, a live
+attenuated influenza virus vaccine available for intranasal use is not
+recommended for pregnant women. Inactivated or recombinant influenza
+vaccines may be administered concomitantly or sequentially with other
+vaccines including COVID-19 and tetanus toxoid, reduced diphtheria toxoid,
+and acellular pertussis (Tdap) vaccines.
+
+■ Coronavirus
+These single-stranded RNA viruses are named for the “crown” of surface
+proteins covering the particles. Seven coronaviruses infect humans, four of
+which cause upper respiratory disease characterized by rhinorrhea, sneezing,
+and congestion (Cui, 2019). Three newer coronaviruses of zoonotic origin
+have emerged in the past two decades and may cause serious lower
+respiratory tract illness in humans. These are SARS-CoV, Middle East
+respiratory syndrome (MERS-CoV), and the novel coronavirus of 2019
+(SARS-CoV-2).
+
+The first SARS-CoV emerged from China in 2003 and infected more than
+8000 people. In a cohort of 12 pregnant women with confirmed infection, the
+predominant symptoms were myalgia, chills, and cough (Wong, 2004). All
+women had radiographic evidence of atypical pneumonia, 33 percent
+required mechanical ventilation, and 80 percent of women diagnosed after 24
+weeks’ gestation delivered preterm. Although no vertical transmission
+occurred, the maternal fatality rate was 25 percent.
+MERS-CoV emerged in the Middle East in 2012 and can cause
+respiratory illness, acute kidney injury, and gastrointestinal illness (Hui,
+2018). Although experience with MERS-CoV in pregnancy is limited, the
+mortality rate in a small series was 40 percent (Assiri, 2016).
+
+■ SARS-CoV-2
+This virus causes the clinical illness known as coronavirus disease 2019
+(COVID-19). The SARS-CoV-2 pandemic began in China in late 2019, and
+by mid-2021 it had caused respiratory illness in more than 151 million
+people and 3 million deaths globally (World Health Organization, 2021). The
+mortality rate is between 1 and 2 percent in adults, and it increases sharply
+with age (Verity, 2020). Compared with MERS-CoV and SARS-CoV, SARSCoV-2 is more infectious but less deadly. Variants with increased
+transmissibility are emerging, and the Delta (B.1.617.2) variant has recently
+predominated (Centers for Disease Control and Prevention, 2020a).
+Evidence suggests increased disease severity in gravidas who acquire this
+variant (Adhikari, 2021).
+SARS-CoV-2 is predominantly transmitted via respiratory droplets.
+Asymptomatic or presymptomatic individuals account for 40 to 50 percent of
+transmissions (He, 2020; Kimball, 2020). The immune response to natural
+infection appears to require both humoral and cell-mediated immunity
+(Hartley, 2020). Because of the potential for asymptomatic transmission,
+interventions such as masking and social distancing are recommended
+(Centers for Disease Control and Prevention, 2021b).
+
+Maternal Infection
+COVID-19 symptoms in gravidas do not differ from those in nonpregnant
+individuals. An incubation period of approximately 5 to 14 days is followed
+
+by fever, cough, and myalgia. Loss of smell (anosmia) and taste (ageusia) are
+reported in more than half of patients (Patel, 2020). Diarrhea, nausea, and
+vomiting are somewhat less common. Lower respiratory involvement
+develops in some individuals approximately 8 days after symptom onset
+(Huang, 2020). Signs of worsening of disease include dyspnea, tachypnea,
+decreased oxygen saturation, and rarely, acute respiratory distress syndrome.
+Imaging indicative of moderate to severe viral pneumonia reveals multifocal
+opacities in a predominantly peripheral distribution and ground glass
+opacities on computed tomography (Fig. 67-3). Pregnant women may be at
+higher risk for intensive care unit admission, invasive ventilation, and death
+(Zambrano, 2020). A study from Parkland Hospital demonstrated that 5
+percent of infected gravidas developed severe or critical illness, and
+diabetes may be a risk factor (Adhikari, 2020). Although COVID-19 was not
+associated with adverse pregnancy outcomes, women with severe illness
+experienced a higher rate of preterm birth. In a surveillance program of
+COVID-19 in pregnant women, the rate of preterm birth was higher than the
+general population—13 percent compared with 10 percent (Woodworth,
+2020).
+
+FIGURE 67-3 A. Chest radiograph of a critically ill pregnant woman at 26 weeks’ gestation
+demonstrating diffuse bilateral pulmonary opacities with peripheral predominance. B. Axial image of the
+chest from a computed tomographic scan demonstrates advanced COVID-19 disease with multiple
+peripheral lobular consolidations and ground glass opacities.
+
+Fetal Infection
+Infection of the placenta by SARS-CoV-2 has been demonstrated, but
+transmission to the fetus is rare (Schwartz, 2020). Microscopic examination
+
+of the placenta may demonstrate inflammation and syncytiotrophoblast
+necrosis (Fig. 67-4). Standardized criteria have been proposed for
+determining definite, probable, or possible placental infection by SARSCoV-2 (Roberts, 2021). When vertical transmission does occur, infected
+neonates may have asymptomatic, mild, or severe illness (Raschetti, 2020;
+Sisman, 2020). Adhikari and associates (2020) demonstrated infection in 3
+percent of neonates tested at 24 and 48 hours after birth. Mechanisms of
+vertical transmission are poorly understood. No evidence suggests
+transmission of SARS-CoV-2 through breastmilk (Centeno-Tablante, 2021).
+Newborns with SARS-CoV-2 do not need to be separated from their mothers
+but are isolated from the general newborn nursery population.
+
+FIGURE 67-4 Placental SARS-CoV-2 infection. A. Histologic slide of a placenta with known maternal
+SARS-CoV-2 infection. Large, discrete areas of the placenta showed increased perivillous fibrin (solid
+arrow), focal trophoblast necrosis (open arrow), and marked histiocytic inflammation. B. Anti-SARSCoV-2 viral nucleocapsid antibody is positive in villous trophoblast (brown immunostaining), confirming
+placental infection. (Reproduced with permission from Dr. Rebecca Collins.)
+
+Diagnosis
+Active maternal infection can be diagnosed from nasopharyngeal, nasal, or
+saliva specimens. Reverse transcriptase–polymerase chain reaction (RTPCR) testing identifies viral RNA, whereas rapid antigen testing detects
+viral antigen. Several commercial tests are available and listed on the
+Centers for Disease Control and Prevention (CDC) (2021a) website. Rapid
+antigen tests are inexpensive but less sensitive in asymptomatic individuals.
+Thus, test result interpretation depends on pretest probability,
+epidemiological risk factors, and intended use for diagnostic or screening
+
+purposes in health-care or congregate settings. The latter include
+dormitories, correctional facilities, nursing homes, and housing shelters
+providing social services. Serological screening for IgG is used for
+epidemiological and seroprevalence studies rather than diagnosis of acute
+infection.
+
+Management
+For mild to moderate illness, supportive care is indicated and delivery is
+reserved for obstetric indications. For those with mild illness at high risk for
+clinical progression, anti-SARS-CoV-2 monoclonal antibodies may be
+administered within 10 days of symptom onset and according to variant
+predominance (National Institutes of Health, 2021). Pregnancy is considered
+a high-risk criterion, and use of monoclonal antibodies can be considered in
+consultation with specialists. Inpatient observation may be considered for
+moderate illness, as up to 40 percent may worsen (Adhikari, 2020). For
+pregnant women with severe to critical illness, inpatient management
+includes supporting respiratory function, managing comorbid conditions, and,
+when indicated, coordinating safe delivery with subspecialists (Society for
+Maternal-Fetal Medicine, 2021). The goal of respiratory support is to
+maintain oxygen saturation ≥95 percent and reduce dyspnea and tachypnea
+(Pacheco, 2020). Prone positioning of gravidas to improve oxygenation in
+severe cases of COVID-19 pneumonia has been described (Tolcher, 2020).
+With severe infection, a dysregulated inflammatory response contributes
+to lung injury and hypoxia. A United Kingdom trial found decreased mortality
+rates at 28 days with intravenous or oral dexamethasone, 6 mg daily for up to
+10 days in patients requiring supplemental oxygen or mechanical ventilation,
+compared with usual care (RECOVERY Collaborative Group, 2021). In the
+ACTT-1 trial, intravenous remdesivir, a broad-spectrum antiviral agent, was
+associated with shortened time to recovery among patients requiring lowflow supplemental oxygen (Beigel, 2020). Remdesivir is approved by the
+Food and Drug Administration for treatment of COVID-19 in hospitalized
+adults. Data on efficacy and safety of antiviral and biological agents for
+COVID-19 in pregnancy are limited. In a study of remdesivir in hospitalized
+gravidas with COVID-19, no serious adverse events were reported, but
+elevated serum aminotransaminase levels were common (Burwick, 2020).
+Decisions to use currently available therapeutic agents under Emergency Use
+Authorization are made in consultation with experts and should balance
+
+potential benefits and theoretical risks (National Institutes of Health, 2021).
+Antibiotics for respiratory illness are rarely necessary unless bacterial coinfection is suspected.
+
+Prevention
+Non-pharmaceutical interventions are mainstays for reducing the spread of
+SARS-COV-2. These include universal masking, maintaining physical
+distance of at least 6 feet, and hand hygiene. In healthcare settings, airborne
+and contact isolation precautions are used, particularly when invasive
+procedures are planned (Centers for Disease Control and Prevention,
+2021c).
+Currently available vaccines are highly protective against viral
+transmission and clinical disease in nonpregnant adults (Baden, 2021;
+Polack, 2020). In one study, the BNT162b2 mRNA vaccine was associated
+with a reduction in COVID-19 diagnosed in pregnancy (Goldshtein, 2021).
+The American College of Obstetricians and Gynecologists and the Society
+for Maternal-Fetal Medicine (2021) recommend that pregnant and lactating
+women receive the COVID-19 vaccine. Individuals who accept vaccination
+are counseled to anticipate common reactions such as injection-site pain,
+headache, fatigue, myalgia, and low-grade fever (Shimabukuro, 2021).
+Recent evidence from national experts suggests no greater miscarriage rate in
+gravidas receiving the vaccine (Zauche, 2021).
+
+■ Mumps Virus
+This is an RNA paramyxovirus that primarily infects the salivary glands but
+also may involve the gonads, meninges, pancreas, and other organs. It is
+transmitted by direct contact with respiratory secretions, saliva, or fomites.
+Most transmission occurs before and within 5 days of parotitis onset, and
+droplet isolation is recommended during this time (Kutty, 2010). Treatment is
+symptomatic, and mumps during pregnancy is no more severe than in
+nonpregnant adults.
+An increased risk of spontaneous abortion has been observed in women
+who acquire mumps in the first trimester. Infection is not associated with
+congenital malformations, and fetal infection is rare (McLean, 2013).
+
+Recent outbreaks in previously vaccinated young adults prompted the
+recommendation of a third dose of measles-mumps-rubella (MMR) vaccine
+for at-risk nonpregnant individuals during any outbreak (Marin, 2018). The
+MMR vaccine is a live-virus vaccine. Thus, it is contraindicated in
+pregnancy, although fetal risk from inadvertent administration is theoretical
+(McLean, 2013). Pregnancy should be avoided for 30 days after vaccination.
+The vaccine is encouraged for susceptible postpartum women, and
+breastfeeding is not contraindicated.
+
+■ Measles Virus (Rubeola)
+This is a highly contagious RNA virus of the family Paramyxoviridae that
+infects only humans. In endemic areas, annual outbreaks of measles occur in
+late winter and early spring, with larger epidemic cycles every 2 to 5 years.
+Although once declared eliminated in the United States, recent outbreaks
+raise concerns regarding waning population immunity (Patel, 2019; Strebel,
+2019). Transmission is by respiratory droplets, and the secondary attack rate
+among susceptible contacts exceeds 90 percent (Rainwater-Lovett, 2018).
+Typical symptoms include fever, coryza, conjunctivitis, and cough.
+Koplik spots, small white lesions with surrounding erythema, appear on the
+buccal mucosa. A characteristic erythematous maculopapular rash develops
+on the face and neck and then spreads to the back, trunk, and extremities.
+Diagnosis of acute infection is made by detection of measles-specific IgM
+antibodies in serum. Additionally, measles RNA may be detected by RT-PCR
+testing of a throat swab, nasopharyngeal swab, or urine specimen. Treatment
+of measles is supportive, and evaluation for secondary infections may be
+necessary.
+For pregnant women without evidence of measles immunity,
+postexposure prophylaxis is intravenous immune globulin (IVIG), and a 400mg/kg dose is ideally given within 6 days of exposure (Centers for Disease
+Control and Prevention, 2020d). Human immune globulin (IG) is a blood
+product used to provide antibodies for short-term prevention of infectious
+diseases and is prepared from plasma pools derived from thousands of
+donors.
+Measles in pregnancy is associated with increased risk for pregnancy
+loss, pneumonia, and death (Eberhart-Phillips, 1993; Ogbuanu, 2014). If a
+woman develops measles shortly before delivery, risk of serious infection
+
+developing in the neonate is considerable, and neonatal chemoprophylaxis is
+warranted.
+As a live-virus vaccine, MMR vaccine is not provided during pregnancy
+as prevention. However, MMR vaccination is not an indication for pregnancy
+termination. Susceptible women are vaccinated routinely postpartum, and
+breastfeeding is not contraindicated.
+
+■ Rubella Virus
+Also called German measles, rubella is caused by an RNA togavirus and is
+of minor importance in the absence of pregnancy. Transmission is via
+nasopharyngeal secretions, and the transmission rate is 80 percent to
+nonimmune individuals. The peak incidence is late winter and spring in
+endemic areas (Lambert, 2015).
+In 2018, more than 26,000 cases of rubella virus were reported
+worldwide (Grant, 2019). In the United States, ongoing or sustained
+transmission was eliminated in 2004, and large epidemics of rubella have
+virtually disappeared here because of immunization. However, up to 10
+percent of women are susceptible, and cases are also imported each year
+from countries with incomplete vaccine coverage (Al Hammoud, 2018).
+Maternal rubella is usually a mild febrile illness that follows an
+incubation of 12 to 23 days. A generalized maculopapular rash begins on the
+face and spreads to the trunk and extremities. Other symptoms may include
+arthralgias or arthritis, head and neck lymphadenopathy, and conjunctivitis.
+However, 25 to 50 percent of infections are asymptomatic. Viremia usually
+precedes clinical signs by approximately a week, and adults are infectious
+during viremia and through 7 days after the rash appears. Up to half of
+maternal infections are subclinical despite viremia that may cause
+spontaneous abortion or devastating fetal infection, described subsequently.
+
+Diagnosis
+Rubella virus may be isolated from the urine, blood, nasopharynx, and
+cerebrospinal fluid for up to 2 weeks after rash onset. However, the
+diagnosis is usually made with serological analysis. Specific IgM antibody
+can be detected using enzyme-linked immunoassay for 4 to 5 days after onset
+of clinical disease, but antibody can persist for up to 6 weeks after
+
+appearance of the rash. Importantly, rubella virus reinfection can give rise to
+transient low levels of IgM. With this, no adverse fetal effects have been
+described. A false-positive IgM result is also possible in populations with
+low prevalence of disease.
+Serum IgG antibody titers peak 1 to 2 weeks after rash onset. These may
+fail to distinguish between recent infection and preexisting immunity if the
+specimen is obtained more than a week after symptoms. IgG avidity testing
+aids differentiation, and high-avidity IgG antibodies indicate an infection at
+least 2 months prior.
+
+Fetal Effects
+Rubella virus is one of the most complete teratogens, and its effects are
+worst during organogenesis. Up to 90 percent of pregnant women with
+rubella and a rash during the first 12 weeks of gestation have an affected
+fetus (Miller, 1982). At 13 to 14 weeks’ gestation, this incidence is 50
+percent, and by the end of the second trimester, it is 25 percent. Defects are
+rare after 20 weeks’ gestation.
+Features of congenital rubella syndrome are cardiac septal defects,
+pulmonary stenosis, microcephaly, cataracts, microphthalmia, and
+hepatosplenomegaly (Yazigi, 2017). Other abnormalities include
+sensorineural deafness, intellectual disability, neonatal purpura, and
+radiolucent bone disease. Neonates born with congenital rubella may shed
+the virus for many months and thus be a threat to other infants and to
+susceptible adults who contact them.
+
+Management and Prevention
+Rubella has no specific treatment. Droplet precautions for 7 days after the
+onset of the rash are recommended. Postexposure passive immunization with
+IVIG may be of benefit if given within 5 days of exposure (Young, 2015).
+When rubella infection is diagnosed in the mother, targeted sonographic
+examination is performed to evaluate for fetal structural anomalies described
+in the last section. Referral to and counseling by a maternal–fetal medicine
+specialist is warranted. If ultrasound findings suggest congenital infection or
+growth delay, diagnostic amniocentesis is recommended to detect rubella
+virus by PCR and to test for other congenital infections.
+
+As prevention, MMR vaccine should be offered to nonpregnant women of
+childbearing age who lack evidence of immunity. Vaccination of all
+susceptible hospital personnel who might be exposed to patients with rubella
+or who might have contact with pregnant women is important. Rubella
+vaccination is avoided 1 month before or during pregnancy because the
+vaccine contains attenuated live virus, although the fetal malformation risk is
+theoretical. MMR vaccination is not an indication for pregnancy termination.
+Prenatal serological screening for rubella is indicated for all pregnant
+women. Women found to be nonimmune are offered the MMR vaccine
+postpartum.
+
+■ Parvovirus B19
+This virus causes erythema infectiosum or fifth disease. It is a small, singlestranded DNA virus that replicates in rapidly proliferating cells such as
+erythroblast precursors. This can lead to anemia, which is its primary fetal
+effect. In individuals with increased red cell turnover, such as with sicklecell disease, parvovirus infection may cause an aplastic crisis.
+The primary mode of parvovirus transmission is respiratory secretions,
+although infection through blood transfusion or organ donation has been
+reported. Most infections occur in late winter to early spring. The maternal
+infection rate is highest in women with school-aged children and in day-care
+workers. Viremia develops 4 to 14 days after exposure, and a rash follows
+several days later. An otherwise immunocompetent individual is no longer
+infectious at the onset of the rash. By adulthood, only 40 percent of women
+are susceptible. The annual seroconversion rate is 1 to 2 percent, and the
+secondary attack rate approaches 50 percent.
+
+Maternal Infection
+In 20 to 30 percent of adults, infection is asymptomatic. In others, fever,
+headache, and flu-like symptoms may begin in the last few days of the
+viremic phase. Several days later, a bright red rash with erythroderma affects
+the face and gives a slapped-cheek appearance. The rash becomes lacelike
+and spreads to the trunk and extremities. Adults often have milder rashes and
+develop symmetrical polyarthralgia that may persist for several weeks. No
+evidence suggests that parvovirus infection is altered by pregnancy. With
+recovery, IgM antibody is generated 7 to 10 days postinfection, and
+
+production persists for 3 to 4 months. Several days after IgM is produced,
+IgG antibody is detectable and persists for life with natural immunity
+(American College of Obstetricians and Gynecologists, 2020a).
+
+Fetal Infection
+There is vertical transmission to the fetus in up to a third of maternal
+parvovirus infections (de Jong, 2011; Lamont, 2011). Fetal infection is
+associated with abortion, nonimmune hydrops, and stillbirth (Fig. 67-5). The
+fetal loss rate with serologically proven parvovirus infection is 8 to 17
+percent before 20 weeks’ gestation, and 2 to 6 percent after midpregnancy
+(American College of Obstetricians and Gynecologists, 2020a). Currently, no
+data support screening asymptomatic mothers or evaluating stillborn fetuses
+for parvovirus infection.
+
+FIGURE 67-5 Stillborn, hydropic fetus and characteristically large placenta resulting from intrauterine
+parvovirus B19 infection. (Reproduced with permission from Dr. April Bleich.)
+
+Fetal hydrops develops in approximately 4 percent of gravidas infected
+with parvovirus (Enders, 2004). Still, it is the most frequent infectious cause
+
+of nonimmune hydrops in autopsied fetuses (Rogers, 1999). Hydrops usually
+stems from infection in the first half of gestation. In one report, more than 80
+percent of cases of fetal infection developed within 10 weeks of maternal
+infection. The mean interval was 6 to 7 weeks (Yaegashi, 2000). The critical
+period for maternal infection leading to fetal hydrops is estimated to be
+between 13 and 16 weeks’ gestation, which coincides with the period in
+which fetal hepatic hemopoiesis is greatest (Chap. 7, p. 128).
+
+Diagnosis and Management
+An algorithm for diagnosis of maternal parvoviral infection is illustrated in
+Figure 67-6. Diagnosis is generally made by maternal serological testing for
+specific IgG and IgM antibodies. Viral DNA may be detectable by PCR
+testing in maternal serum during the prodrome and persist for months to years
+after infection. Fetal infection is diagnosed by detection of B19 viral DNA in
+amnionic fluid (American College of Obstetricians and Gynecologists,
+2020a). Fetal and maternal viral loads do not predict fetal morbidity and
+mortality (de Haan, 2007).
+
+FIGURE 67-6 Algorithm for evaluation and management of human parvovirus B19 infection in
+pregnancy. CBC = complete blood count; IgG = immunoglobulin G; IgM = immunoglobulin M; MCA =
+middle cerebral artery; PCR = polymerase chain reaction; RNA = ribonucleic acid.
+
+Most cases of parvovirus-associated hydrops develop in the first 10
+weeks after infection. Thus, sonography should be performed every 2 weeks
+in women with recent infection. As discussed in Chapter 14 (p. 262), middle
+cerebral artery (MCA) Doppler interrogation is used to predict fetal anemia.
+MCA Doppler findings that suggest anemia may warrant fetal blood sampling
+followed by transfusion.
+In hydropic fetuses without transfusion, mortality rates up to 30 percent
+have been reported. With transfusion, 94 percent of hydrops cases resolve
+within 6 to 12 weeks, and the overall mortality rate is <10 percent. Most
+fetuses require only one transfusion because hemopoiesis resumes as
+infection resolves.
+
+Long-term Prognosis
+Neurodevelopmental outcomes in fetuses transfused for B19 infectioninduced anemia have varied. In one review of 24 transfused hydropic fetuses,
+abnormal neurodevelopment was noted in 5 of 16 survivors—32 percent—at
+6 months to 8 years (Nagel, 2007). Outcomes were not related to severity of
+fetal anemia or acidemia, and these investigators hypothesized that the
+infection itself induced cerebral damage. In another study of 28 children
+treated with intrauterine transfusion, 11 percent had neurodevelopmental
+impairment during evaluation at a median age of 5 years (de Jong, 2012).
+Conversely, Dembinski (2003) found no significant neurodevelopmental
+delay despite severe fetal anemia.
+
+Prevention
+Currently, no parvovirus vaccine is available, and no antiviral agent is
+recommended for prevention or treatment of maternal or fetal infection.
+Decisions to avoid higher-risk work settings are complex and require
+assessment of exposure risks. Pregnant women should be counseled that risks
+for infection approximate 5 percent for casual, infrequent contact; 20 percent
+for intense, prolonged work exposure such as for teachers; and 50 percent for
+close, frequent interaction such as in the home. Workers at day-care centers
+
+and schools need not avoid infected children because infectivity is greatest
+before clinical illness. Last, infected children do not require isolation.
+
+■ Other Respiratory Viruses
+More than 200 antigenically distinct respiratory viruses cause the common
+cold, pharyngitis, laryngitis, bronchitis, and pneumonia. The DNA-containing
+adenovirus is more likely to produce cough and lower respiratory tract
+involvement, including pneumonia. The RNA-containing rhinovirus,
+respiratory enterovirus, and nonpandemic common coronavirus usually
+produce a trivial illness characterized by rhinorrhea, sneezing, and
+congestion. An enterovirus named EV-D68 caused large outbreaks of
+respiratory illness in several countries and was linked to clusters of poliolike illness in children, known as acute flaccid myelitis (Sejvar, 2016).
+The teratogenic risks of respiratory viruses are low. In one study,
+amnionic fluid viral PCR testing was done on samples from 1191 women
+undergoing amniocentesis for fetal karyotyping (Adams, 2012). Viral PCR
+was positive in 6.5 percent, and adenovirus was the virus most frequently
+identified. There was an association with fetal-growth restriction,
+nonimmune hydrops, foot/hand abnormalities, and neural-tube defects.
+Adenoviral infection is a known cause of childhood myocarditis and has
+been reported in cases of fetal myocarditis and nonimmune hydrops (Towbin,
+1994).
+
+■ Other Enteroviruses
+Characterized by a clinical phenotype distinct from that of respiratory
+enteroviruses, these viruses are a major subgroup of RNA picornaviruses
+that include nonrespiratory enterovirus species, coxsackievirus, poliovirus,
+and echovirus. They are trophic for intestinal epithelium but can also cause
+widespread maternal, fetal, and neonatal infections that may include the
+CNS, skin, heart, and lungs. Most maternal infections are subclinical yet can
+be fatal to the fetus-neonate (Tassin, 2014). Hepatitis A is an enterovirus
+discussed in Chapter 58 (p. 1036).
+Coxsackievirus infections with group A and B are usually asymptomatic.
+Symptomatic infections—usually with group B—include aseptic meningitis;
+polio-like illness; hand, foot, and mouth disease; rashes; respiratory disease;
+
+pleuritis; pericarditis; and myocarditis. No treatment or vaccination is
+available (Cohen, 2018). Coxsackievirus may be transmitted by maternal
+secretions to the fetus at delivery in up to half of mothers who seroconverted
+during pregnancy (Modlin, 1988). Transplacental passage also has been
+reported, which may cause neonatal skin lesions, myocarditis, pneumonia, or
+encephalitis (Ornoy, 2006). Some have reported higher rates of cardiac
+anomalies and of low-birthweight, preterm, and growth-restricted newborns
+(Chen, 2010).
+Polioviruses are highly contagious and cause subclinical or mild
+infections. The virus is trophic for the brain, and it can cause paralytic
+poliomyelitis (Cohen, 2018). Siegel (1955) demonstrated that pregnant
+women not only were more susceptible to polio but also had a higher death
+rate. Perinatal transmission has been observed, especially when maternal
+infection developed in the third trimester (Bates, 1955). Inactivated
+subcutaneous polio vaccine is recommended for susceptible pregnant women
+who must travel to endemic areas or are placed in other high-risk situations.
+Live oral polio vaccine has been used for mass vaccination during pregnancy
+without harmful fetal effects (Harjulehto, 1989).
+
+■ Mosquito-borne Viruses
+West Nile Virus
+This mosquito-borne RNA flavivirus is a human neuropathogen. It is the most
+common cause of arthropod-borne disease in the United States (McDonald,
+2019). West Nile viral infection is typically acquired through mosquito bites
+and is rarely transmitted through donated blood or organs. The incubation
+period is 2 to 14 days, and most persons have mild or no symptoms. Less
+than 1 percent of infected adults develop meningoencephalitis or acute
+flaccid paralysis. With these, presenting symptoms may include fever, mental
+status changes, muscle weakness, and coma (Stewart, 2013).
+West Nile infection is diagnosed based on clinical symptoms and
+detection of viral IgG and IgM in serum and IgM in cerebrospinal fluid
+(Centers for Disease Control and Prevention, 2018). Management is
+supportive, and no effective antiviral treatment is available. The primary
+strategy for preventing exposure in pregnancy is use of insect repellant
+containing N,N-diethyl-m-toluamide (DEET), which is considered safe
+
+(Wylie, 2016). Avoiding outdoor activity and stagnant water and wearing
+protective clothing also are recommended.
+Adverse effects of West Nile viremia on pregnancy are unclear. Animal
+data suggest that embryos are susceptible, and one case report of human fetal
+infection at 27 weeks’ gestation described chorioretinitis and severe
+cerebral leukomalacia (Alpert, 2003; Julander, 2006). However, data from
+the West Nile Virus Pregnancy Registry show no increased risk for
+miscarriage, preterm birth, or major malformations (O’Leary, 2006; Pridjian,
+2016). No evidence suggests that maternal West Nile virus infection is
+harmful to a breastfeeding infant.
+
+Zika Virus
+This RNA flavivirus is the first major mosquito-borne teratogen recognized
+(Rasmussen, 2016). Zika virus is primarily transmitted by mosquito bite, but
+sexual transmission is possible. The virus may be detected in body fluids for
+months following acute infection (Joguet, 2017; Paz-Bailey, 2017). It was
+first introduced to a nonimmune Brazilian population in 2014, but as of 2020,
+no countries had reported active Zika transmission.
+Maternal-Fetal Infection. Zika infection is asymptomatic in approximately 80
+percent of adults. It may cause mild rash, fever, headache, arthralgia, and
+conjunctivitis lasting a few days. The fetus can be severely infected whether
+or not the mother is symptomatic. In one report of 134 women with positive
+RT-PCR results, the fetal mortality rate was 7 percent (Brasil, 2016). Among
+live births with first-trimester exposure, the rate of fetal birth defects ranges
+from 5 to 15 percent (Reynolds, 2017). In the most severely affected fetuses,
+a congenital Zika syndrome has been described that includes microcephaly,
+lissencephaly, ventriculomegaly, intracranial calcifications, ocular
+abnormalities, and congenital contractures (Honein, 2017).
+Diagnosis and Management. Zika virus is typically detectable in blood
+around the time of symptom onset and may persist days to months in pregnant
+women (Meaney-Delman, 2016). Serum IgM antibodies typically become
+detectable within the first 2 weeks and may persist for months. IgG
+antibodies develop shortly after IgM ones and confer long-lived immunity
+(Centers for Disease Control and Prevention, 2019).
+
+Laboratory testing for Zika infection is recommended only in
+symptomatic gravidas with residence in or recent travel to areas with active
+dengue transmission and risk for Zika transmission (Centers for Disease
+Control and Prevention, 2019). For a pregnant woman within 12 weeks of
+symptom onset, PCR testing of serum and urine specimens for both dengue
+and Zika virus RNA is recommended. For women with prenatal ultrasound
+findings suggesting congenital Zika syndrome, Zika virus PCR and IgM are
+initially performed on serum and urine. Amnionic fluid PCR may be
+performed, although less is known about its diagnostic accuracy for
+congenital infection.
+Currently, no specific treatment or vaccine is available for Zika infection,
+although several vaccines are in development (Shan, 2018). Prophylaxis
+includes protective netting, insect spray to control the vector mosquito,
+personal DEET spray use, and avoidance of sexual contact with partners
+recently exposed.
+
+■ Ebola Virus
+A member of the RNA Filoviridae family, the Ebola virus is transmitted by
+direct person-to-person contact (Kuhn, 2018). Infection produces a severe
+hemorrhagic fever with pronounced immunosuppression and disseminated
+intravascular coagulopathy. Treatment is supportive. Data are few concerning
+Ebola viral infection in gravidas (Money, 2015; Oduyebo, 2015). Henwood
+and associates (2017) described an approximate 50-percent risk of death
+among pregnant and nonpregnant women with Ebola virus disease, and
+universally poor fetal and neonatal outcomes. That said, no evidence
+suggests that pregnant women are more susceptible to Ebola virus infection.
+In survivors, persistent Ebola virus has been detected months after recovery
+in “sanctuary sites” such as the eyes and gonads.
+A live-attenuated Ebola virus vaccine, rVSV-ZEBOV, was approved in
+2019 in the United States for individuals studying or treating Ebola virus.
+Among 84 health-care workers who inadvertently received vaccination in
+early pregnancy or who became pregnant soon after vaccination, pregnancy
+loss or congenital anomalies were not associated with the vaccine (LegardyWilliams, 2020).
+
+BACTERIAL INFECTIONS
+■ Group A Streptococcus
+Streptococcus pyogenes is the most frequent bacterial cause of acute
+pharyngitis. In most cases, streptococcal pharyngitis, scarlet fever, and
+erysipelas are not life threatening. Treatment, usually with penicillin, is
+equivalent for pregnant and nonpregnant women. S pyogenes produces
+numerous toxins and enzymes responsible for its local and systemic toxicity.
+Pyrogenic exotoxin-producing strains are usually associated with severe
+disease (Wessels, 2018). In the United States, S pyogenes infrequently causes
+puerperal infection. Still, it remains the most common cause of severe
+maternal postpartum infection and death worldwide, and their incidence is
+rising (Hamilton, 2013; Wessels, 2018). Puerperal infections are discussed
+in detail in Chapter 37 (p. 649).
+
+■ Group B Streptococcus
+Streptococcus agalactiae colonizes the gastrointestinal and genitourinary
+tract in 10 to 25 percent of gravidas (Kwatra, 2016). Group B Streptococcus
+(GBS) is isolated in a transient, intermittent, or chronic fashion during
+pregnancy. Although the organism is more likely always present in these
+same women, its isolation is not always consistent.
+
+Maternal and Perinatal Infection
+Maternal and fetal GBS effects range from asymptomatic colonization to
+septicemia. S agalactiae can cause maternal bacteriuria, pyelonephritis,
+osteomyelitis, postpartum mastitis, and puerperal infections. GBS may also
+have the ability to overcome normally protective cervical mucus barriers
+during pregnancy to cause ascending antenatal infection (Vornhagen, 2018).
+As such, GBS has also been implicated in preterm labor, prelabor rupture of
+membranes, chorioamnionitis, fetal infections, and stillbirth (Randis, 2014;
+Seale, 2017).
+Among newborns in the United States, GBS remains the leading
+infectious cause of morbidity and mortality (Nanduri, 2019). Infection <7
+days after birth is defined as early-onset disease, although many
+investigators recognize a threshold of <72 hours of life as most compatible
+
+with intrapartum acquisition of disease (Stoll, 2011). Tudela and associates
+(2012) reported that newborns with early-onset GBS infection often had
+clinical evidence of fetal infection during labor or at delivery.
+In many neonates, septicemia involves signs of serious illness that
+usually develop within 6 to 12 hours of birth. These include respiratory
+distress, apnea, and hypotension. At the outset, therefore, neonatal infection
+must be differentiated from respiratory distress syndrome caused by
+insufficient surfactant production (Chap. 34, p. 615). The mortality rate with
+early-onset disease has declined to approximately 4 percent, and preterm
+newborns are disparately affected.
+Late-onset disease caused by GBS is noted in 0.28 per 1000 live births
+and usually manifests as meningitis 1 week to 3 months after birth (Centers
+for Disease Control and Prevention, 2020a). The mortality rate, although
+appreciable, is lower for late-onset meningitis than for early-onset sepsis.
+Unfortunately, it is not uncommon for surviving infants of both early- and
+late-onset disease to exhibit devastating neurological sequelae.
+
+Prophylaxis for Perinatal Infections
+Maternal intrapartum antibiotic administration is the main prevention of
+early-onset GBS disease. In the United States, rates of early-onset neonatal
+sepsis decreased from 3 cases per 1000 live births in the early 1990s to 0.25
+cases in the years following widespread prophylaxis (Centers for Disease
+Control and Prevention, 2020a). Both culture- and risk-based criteria to
+identify candidates for intrapartum prophylaxis have been proposed and
+debated (Table 67-2) (Braye, 2019; Hughes, 2017).
+TABLE 67-2. Indications for Intrapartum Group B Streptococcal Infection
+Prophylaxisa
+
+Culture-based Prevention. The American College of Obstetricians and
+Gynecologists (2020b) recommends universal vaginal-rectal culture
+screening for GBS at 36 to 38 weeks’ gestation. This is followed by
+intrapartum antibiotic prophylaxis for women identified to be carriers.
+Selective enrichment of the vaginal-rectal culture to favor GBS growth and
+then subculture improves detection. GBS isolates can also be tested for
+inducible clindamycin resistance in women with reported penicillin allergy.
+Updated guidance also recommends consideration of antenatal maternal
+penicillin-allergy testing in GBS-colonized women at high risk for
+anaphylaxis or IgE-mediated hypersensitivity (American College of
+Obstetricians and Gynecologists, 2020b). In a recent surveillance study of
+neonates with early-onset sepsis, 53 percent of those diagnosed with GBS
+disease were born to mothers with negative antenatal screening results (Stoll,
+2020).
+In women with heavy colonization, GBS may be specifically identified in
+a routine prenatal urine culture obtained to exclude asymptomatic bacteriuria
+(ASB). Cultures with ≥105 colony-forming units (cfu) should prompt
+treatment of ASB to reduce the risk of acute pyelonephritis in pregnancy.
+Values <105 do not require acute antepartum antibiotics for ASB. However,
+women are given GBS prophylaxis in labor (see Table 67-2). As a surrogate,
+we also consider a urine culture result that identifies gram-positive cocci,
+without further speciation, to be a presumptive positive result for GBS.
+Risk-based Prevention. This approach is recommended for women in labor
+and whose GBS culture results are not known. It relies on risk factors
+
+associated with intrapartum GBS transmission. Intrapartum
+chemoprophylaxis is then given to candidates with criteria listed in Table
+67-2.
+At Parkland Hospital we use the risk-based approach for intrapartum
+prophylaxis. Additionally, all term neonates who were not given intrapartum
+prophylaxis are treated in the delivery room with aqueous penicillin G,
+50,000 to 60,000 units intramuscularly. With this strategy, early-onset
+neonatal sepsis rates in our predominantly minority population decreased to
+levels similar to those reported by national surveillance data (Stafford, 2012;
+Wendel, 2002).
+Nucleic Acid–based Testing. Approximately 20 percent of laboratories now
+offer PCR testing for maternal GBS screening (Fay, 2019). Additionally, a
+rapid point-of-care PCR test has been evaluated for intrapartum
+identification of maternal GBS (El Helali, 2019). One major limitation is
+cost, which is currently several times greater than that of culture-based
+techniques. A second is the inability to determine antibiotic sensitivities
+using current PCR techniques.
+
+GBS Vaccine
+Serotype-specific capsular antibody concentrations clinically correlate with
+reduced rates of GBS neonatal disease. However, vaccine development is
+challenged by the diversity of GBS serotypes. Another hurdle is the
+bacterium’s ability to undergo serotype switching by altering its capsular
+polysaccharide (Dangor, 2016). No vaccines are clinically available at this
+time.
+
+Intrapartum Antimicrobial Prophylaxis
+Penicillin remains the first-line agent for prophylaxis, and ampicillin is an
+acceptable alternative (Table 67-3) (American College of Obstetricians and
+Gynecologists, 2020b). Women with a penicillin allergy and at low risk for
+anaphylaxis are given cefazolin (Briody, 2016). Those at high risk for
+anaphylaxis or other life-threatening reaction, such as Stevens-Johnson
+syndrome, should have antimicrobial susceptibility testing for erythromycin
+and clindamycin performed on GBS isolates. Clindamycin-sensitive but
+erythromycin-resistant isolates should undergo inducible clindamycin
+
+resistance testing. If clindamycin resistance is confirmed, vancomycin should
+be administered. Erythromycin is no longer used for penicillin-allergic
+patients.
+TABLE 67-3. Regimens for Intrapartum Antimicrobial Prophylaxis for
+Perinatal GBS Disease
+
+Management of spontaneous preterm labor, threatened preterm delivery,
+or preterm prelabor rupture of membranes includes obtaining a GBS culture.
+Intrapartum chemoprophylaxis is initiated until the culture results. Women
+undergoing cesarean delivery before labor onset with intact membranes do
+not need GBS chemoprophylaxis, regardless of colonization status or
+gestational age.
+
+■ Methicillin-resistant Staphylococcus Aureus (MRSA)
+Staphylococcus aureus is a pyogenic gram-positive organism and is
+considered the most virulent staphylococcal species. It primarily colonizes
+the nares, skin, genital tissues, and oropharynx. Although approximately 30
+percent of adults carry S aureus, MRSA colonizes 2 percent of adults
+(Gorwitz, 2008). MRSA colonization is considered the greatest risk factor
+for subsequent infection (Marzec, 2016).
+MRSA infection may be hospital- or community-acquired MRSA (CAMRSA). CA-MRSA is diagnosed in an outpatient setting or within 48 hours
+of hospitalization in a person without health-care exposures in the past year.
+Exposures include prior hospitalization, dialysis or surgery, or indwelling
+
+catheters or devices (Dantes, 2013). In pregnant women, most cases are CAMRSA, which disproportionately affects persons in lower socioeconomical
+strata (See, 2017).
+
+MRSA and Pregnancy
+Skin and soft tissue infections are the most common presentation of MRSA in
+pregnant women. Mastitis and breast abscesses have been reported in up to a
+fourth of MRSA cases in pregnancy (Laibl, 2005; Lee, 2010). Perineal or
+episiotomy abscess, abdominal surgical site infection, and rare placental
+abscess and chorioamnionitis have been associated with MRSA (Maeda,
+2018; Pimentel, 2009). Last, osteomyelitis and spinal-epidural abscess have
+been topics of case reports (Tanamai, 2016; Vakili, 2017).
+Vertical transmission of MRSA is rare. Postnatal colonization and
+infection in the newborn are associated with maternal and health-care worker
+colonization or infection near the time of delivery (Jimenez-Truque, 2012;
+Reich, 2016).
+
+Management
+Uncomplicated superficial infections are primarily managed by drainage and
+local wound care. Although historically de-emphasized, evidence suggests
+benefit from antibiotic therapy added to incision and drainage of smaller
+abscesses (Daum, 2017; Forcade, 2012). Severe superficial infections,
+especially those that fail to respond to local care or those in patients with
+medical comorbidities, are treated with MRSA-appropriate antibiotics.
+Purulent cellulitis should be treated empirically for MRSA until culture and
+sensitivity results are available.
+Most CA-MRSA strains are sensitive to trimethoprim-sulfamethoxazole
+or clindamycin (Miller, 2015; Talan, 2016). Rifampin rapidly develops
+resistance and should not be used as monotherapy. Linezolid, although
+effective against MRSA, is expensive, and little information guides its use in
+pregnancy. Although effective for MRSA infections, doxycycline,
+minocycline, and other tetracyclines should not be used in pregnancy.
+Vancomycin remains a first-line therapy for inpatient treatment of serious
+MRSA infections.
+The control and prevention of MRSA infection relies on appropriate
+hand hygiene and prevention of skin-to-skin contact. Routine screening of
+
+obstetrical patients for MRSA colonization is not recommended (American
+College of Obstetricians and Gynecologists, 2020c. That said, for women
+with culture-proven MRSA colonization or infection, we add a single dose
+of vancomycin to routine beta-lactam perioperative prophylaxis for cesarean
+deliveries and deep perineal lacerations. Decolonization is not effective in
+the general obstetrical population (Huang, 2019). Breastfeeding in women
+colonized with MRSA is not prohibited, but optimal hygiene and attention to
+minor skin breaks is encouraged.
+
+■ Listeriosis
+Listeria monocytogenes is a facultative intracellular gram-positive bacillus
+that causes 100 to 200 infections requiring hospitalization each year in the
+United States (Tack, 2020). Nearly all cases are thought to be foodborne.
+Outbreaks have been caused by contaminated dairy products, fruits and
+vegetables, and undercooked or processed meats and deli foods.
+Invasive listerial infections are more common in pregnant women,
+immunocompromised patients, and the very old or young. For unclear
+reasons, infection during pregnancy is 10 to 20 times more common than in
+the general population (Craig, 2019). Although pregnancy losses linked to
+listeriosis are more likely to be reported, another hypothesis is that pregnant
+women are more susceptible because of decreased cell-mediated immunity
+(Baud, 2011).
+
+Maternal and Fetal Infection
+Infections with Listeria may result in noninvasive, febrile gastroenteritis,
+sepsis, or CNS infection after a 2- to 4-week incubation. Listeriosis during
+pregnancy may be asymptomatic or may cause a febrile illness that is
+confused with influenza, pyelonephritis, or meningitis. The diagnosis usually
+is not apparent until blood cultures are reported as positive. Occult or
+clinical infection also may stimulate labor. Transplacental bacterial invasion
+leads to fetal infection, which can result in stillbirth or clinical illness
+similar to early-onset GBS sepsis. A classic description of overwhelming
+fetal infection is that of disseminated microabscesses and granulomas known
+as granulomatosis infantiseptica. Chorioamnionitis is common, and
+placental macroabscesses may be seen. Late-onset neonatal infection can
+also follow exposure at delivery. In a review of 222 cases, infection with
+
+Listeria resulted in abortion or stillbirth in 20 percent, and neonatal sepsis
+developed in 68 percent of surviving newborns (Mylonakis, 2002). In one
+prospective cohort study, 24 percent of mothers experienced fetal loss, but
+none after 29 weeks’ gestation (Charlier, 2017). However, a neonatal case
+fatality rate of 21 percent has been reported (Sapuan, 2017).
+Treatment with ampicillin plus gentamicin is usually recommended
+because of its synergism against Listeria species (Rouse, 2016).
+Trimethoprim-sulfamethoxazole can be given to penicillin-allergic women.
+Maternal treatment in most cases is also effective for fetal infection. No
+vaccine is available. Prevention is by washing raw vegetables, cooking all
+raw food, and avoiding the implicated foods listed previously (American
+College of Obstetricians and Gynecologists, 2019d).
+
+■ Salmonellosis
+Infections from Salmonella species continue to be a major cause of
+foodborne illness. Six serotypes, including Salmonella subtypes
+typhimurium and enteritidis, account for most cases in the United States.
+Nontyphoid Salmonella gastroenteritis is contracted through contaminated
+food. Symptoms that include nonbloody diarrhea, abdominal pain, fever,
+chills, nausea, and vomiting begin 6 to 48 hours after exposure. Diagnosis is
+made by stool studies (Chap. 57, p. 1018).
+Treatment is with intravenous crystalloid solutions given for rehydration.
+Antimicrobials are not given in uncomplicated infections because they do not
+commonly shorten illness and may prolong the convalescent carrier state. If
+gastroenteritis is complicated by high fever or bacteremia, antimicrobials are
+given (Angelo, 2016). Rare case reports have linked Salmonella enteritidis
+bacteremia with septic abortion (Delcourt, 2019).
+Typhoid fever caused by Salmonella typhi remains a global health
+problem. Infection is spread by oral ingestion of contaminated food, water,
+or milk. Although uncommon in the United States, an outbreak in Central
+America in 2017 involved almost 300 cases (Pan American Health
+Organization, 2018). Severe complications among patients requiring
+hospitalization include gastrointestinal bleeding—11 percent; intestinal
+perforation—9 percent; encephalopathy—8 percent; renal failure—6
+percent; and cardiovascular collapse—7 percent (Bano-Zaidi, 2018). In
+pregnant women, the disease is more likely to be encountered during
+
+epidemics and in those with recent travel (Engsbro, 2019). Septic abortion is
+rare but reported (Jena, 2017).
+Fluroquinolones and third-generation cephalosporins are the preferred
+empirical treatment for enteric (typhoid) fever and invasive nontyphoidal
+Salmonella infection (Shane, 2017). Antimicrobial susceptibility testing is
+important to tailor the course of therapy, which typically lasts 1 to 2 weeks.
+Two licensed vaccines for prevention of typhoid fever are available in the
+United States (Milligan, 2018). From limited evidence, typhoid vaccine
+administration to pregnant women before travel is not linked to adverse
+outcomes.
+
+■ Shigellosis
+Transmitted via the fecal–oral route, shigellosis is a common cause of
+diarrheal outbreaks in children attending day-care centers and in adults
+following international travel. Bacillary dysentery caused by Shigella
+species can range from mild diarrhea to severe dysentery with fever, bloody
+stools, abdominal cramping, and tenesmus. In immunosuppressed
+individuals, severe infection may lead to toxic megacolon, seizures or
+meningitis, or hemolytic uremic syndrome (Kotloff, 2018).
+Although mild infection is typically self-limited, treatment of dehydration
+is essential. Antimotility drugs are avoided, and meticulous hygiene is
+recommended to avoid transmission. Antimicrobial therapy during pregnancy
+includes fluoroquinolones, ceftriaxone, or azithromycin. Resistance is
+rapidly emerging, and antibiotic susceptibility testing can help guide
+appropriate therapy (Centers for Disease Control and Prevention, 2020e).
+Shigellosis can stimulate uterine contractions and cause preterm birth
+(Parisot, 2016).
+
+■ Lyme Disease
+Caused by the spirochete Borrelia burgdorferi, Lyme disease is the most
+commonly reported vector-borne illness in the United States (Centers for
+Disease Control and Prevention, 2021g). Lyme borreliosis results from tick
+bites of the genus Ixodes. There are three stages (Steere, 2018). Early
+infection—stage 1—causes a distinctive local skin lesion, erythema
+migrans, which may be accompanied by a flu-like syndrome and regional
+
+adenopathy. If untreated, early disseminated infection—stage 2—follows in
+days to weeks. Multisystem involvement is frequent, but skin lesions,
+neuropathies, myalgia, carditis, and meningitis predominate. If still untreated
+after months, late or persistent infection—stage 3—manifests in perhaps half
+of patients as a migratory arthritis. Native immunity is acquired, and the
+disease enters a chronic phase in approximately 10 percent. Some patients
+remain asymptomatic, but others in the chronic phase develop various skin,
+joint, or neurological manifestations.
+Clinical diagnosis is important because serological and PCR testing have
+many pitfalls (Steere, 2016). IgM and IgG serological testing is
+recommended in early infection and is followed by a second test—either a
+second immunoassay or western blot—for confirmation (Mead, 2019).
+Ideally, acute and convalescent serological evaluation is completed if
+possible, however, rates of false-positive and -negative results are high.
+Treatment is recommended by the Infectious Diseases Society of America
+(Lantos, 2021). For erythema migrans, doxycycline for 10 days or
+amoxicillin or cefuroxime axetil for 14 days is recommended. However,
+doxycycline is usually avoided in pregnancy. Azithromycin for 7 days is a
+second-line regimen. For other manifestations, a 14- to 28-day oral or
+intravenous course of the same first-line drugs is recommended. No vaccine
+is commercially available. Avoiding areas with endemic Lyme disease and
+improving tick control in those areas is the most effective prevention. Selfexamination with removal of unengorged ticks within 36 hours of attachment
+reduces infection risk. For tick bites recognized within 72 hours, a single
+200-mg oral dose of doxycycline may reduce infection development (Lantos,
+2021).
+Several reports describe Lyme disease in pregnancy, although large
+series are lacking. Transplacental transmission has been confirmed, but no
+congenital effects of maternal borreliosis have been conclusively identified
+(Shapiro, 2014). Prompt treatment of early maternal infection should prevent
+most adverse pregnancy outcomes. In the northeast United States, between 2
+and 40 percent of women with early Lyme disease may be co-infected with
+Babesia microti, which is another parasite transmitted by same tick.
+Babesiosis has been reported to cause congenital infection (Saetre, 2018).
+
+■ Tuberculosis
+
+Diagnosis and management of tuberculosis during pregnancy is discussed in
+Chapter 54 (p. 965).
+
+PROTOZOAL INFECTIONS
+■ Toxoplasmosis
+The obligate intracellular parasite Toxoplasma gondii has a life cycle with
+two distinct stages (Kim, 2018). The feline stage takes place in cats—the
+definitive host—and their prey. Unsporulated oocysts are excreted in feces.
+In the nonfeline stage, tissue cysts containing bradyzoites or oocysts are
+ingested by the intermediate host, including humans. Gastric acid digests the
+cysts to release bradyzoites, which infect small-intestinal epithelium. Here,
+they are transformed into rapidly dividing tachyzoites, which can infect all
+cells within the host mammal. Humoral and cell-mediated immune defenses
+eliminate most of these, but tissue cysts develop. Their lifelong persistence is
+the chronic form of toxoplasmosis.
+Human infection is acquired by eating raw or undercooked meat infected
+with tissue cysts or by ingesting soil or water contaminated with oocysts
+from cat feces. Prior infection is confirmed by serological testing, and its
+prevalence depends on geographical locale and parasite genotype. The
+incidence of congenital toxoplasmosis in the United States has declined and
+now approximates 0.23 cases in 10,000 live births (Maldonado, 2017).
+
+Maternal and Fetal Infection
+Most acute maternal infections are subclinical and are detected only by
+prenatal or newborn serological screening. In some cases, maternal
+symptoms may include a flu-like illness with lymphadenopathy. In
+immunocompetent adults, initial infection confers immunity, and
+prepregnancy infection nearly eliminates any risk of vertical transmission.
+Infection in immunocompromised women, however, may be severe, and
+reactivation may cause encephalitis, chorioretinitis, or mass lesions.
+Vertical transmission can cause fetal infection and then congenital
+toxoplasmosis. The latter is a fetopathy characterized by ocular or
+intracranial lesions and growth delay. Congenital toxoplasmosis is also
+associated with an increased risk for preterm delivery (Freeman, 2005).
+
+The estimated rate of vertical transmission rises with gestational age. In
+one metaanalysis, the rate was 15 percent at 13 weeks, 44 percent at 26
+weeks, and 71 percent at 36 weeks (SYROCOT Study Group, 2007).
+Although transmission risk is lower in early pregnancy, sequelae of
+congenital toxoplasmosis are more likely to be severe (American College of
+Obstetricians and Gynecologists, 2020a).
+Notably, most infected fetuses are born without obvious toxoplasmosis
+stigmata. Clinically affected neonates usually have generalized disease
+expressed as low birthweight, hepatosplenomegaly, jaundice, and anemia.
+Some primarily have neurological disease with intracranial calcifications,
+hydrocephaly, or microcephaly (Dhombres, 2017). Many eventually develop
+chorioretinitis and exhibit learning disabilities. This classic triad—
+chorioretinitis, intracranial calcifications, and hydrocephalus—is often
+accompanied by convulsions. Infected neonates with clinical signs are at risk
+for long-term complications (Abdoli, 2014).
+
+Screening and Diagnosis
+With IgG antibody confirmed before pregnancy, there is no risk for fetal
+infection in immunocompetent hosts. The American College of Obstetricians
+and Gynecologists (2020a) does not recommend prenatal screening for
+toxoplasmosis in low-prevalence areas, including the United States.
+Screening IgG serology tests should be performed in immunocompromised
+gravidas, including those with HIV infection.
+Pregnant women with suspected toxoplasmosis also should be tested. The
+parasite is rarely detected in tissue or body fluids. IgG antibodies against
+Toxoplasma develop within 2 to 3 weeks after infection, peak at 1 to 2
+months, and usually persist for life—sometimes in high titers. Although IgM
+antibodies appear by 10 days after infection and usually become negative
+within 3 to 4 months, they may remain detectable for years. Thus, IgM
+antibodies are not used alone to diagnose acute toxoplasmosis. Best results
+are obtained with the Toxoplasma Serologic Profile performed at the Dr.
+Jack S. Remington Laboratory for Specialty Diagnostics
+(www.sutterhealth.org). Toxoplasma IgG avidity increases with time. Thus,
+if a high-avidity IgG result is found, infection in the preceding 3 to 5 months
+is excluded. Multiple tests are available that allow high-avidity results to
+confirm latent infection with a 100-percent positive predictive value
+(Villard, 2013).
+
+Congenital toxoplasmosis is suspected when sonography reveals findings
+such as hydrocephaly, intracranial or hepatic calcifications, ascites, placental
+thickening, hyperechoic bowel, and growth restriction. These are similar to
+abnormalities that may be seen with congenital CMV. If these are found
+incidentally, diagnostic amniocentesis with PCR testing for toxoplasma as
+well as cytomegalovirus DNA is recommended, along with maternal
+serologic testing for both infections. The sensitivity of PCR for detection of
+toxoplasma DNA varies with gestational age and is lowest before 18 weeks’
+gestation (Filisetti, 2015; Yamamoto, 2017).
+
+Management
+Prenatal treatment of acute maternal toxoplasmosis is based on two regimens.
+Spiramycin may be given alone, or a pyrimethamine plus sulfonamide
+combination is taken with folinic acid (American College of Obstetricians
+and Gynecologists, 2020a). These two regimens have also been used
+consecutively. Most experts will use spiramycin in women with acute
+infection early in pregnancy to reduce the risk of vertical transmission.
+Because it does not cross the placenta, spiramycin may not be used to treat
+fetal infection. Pyrimethamine plus sulfadiazine with folinic acid is selected
+for maternal infection after 18 weeks’ gestation or if fetal infection is
+suspected. The SYROCOT study group (2007) reviewed data from 1438
+treated pregnancies and found weak evidence for early treatment to reduce
+congenital toxoplasmosis risks. Treatment has been associated with a
+reduced rate of serious neurological sequelae and neonatal demise (CortinaBorja, 2010).
+
+Prevention
+No vaccine is available to prevent toxoplasmosis. Strategies to avoid
+infection include: (1) cooking meat to safe temperatures; (2) peeling or
+thoroughly washing fruits and vegetables; (3) cleaning all food preparation
+surfaces and utensils that have contacted raw meat or unwashed fruits and
+vegetables; (4) wearing gloves when changing cat litter or delegating this
+duty; and (5) avoiding feeding cats raw or undercooked meat and keeping
+cats indoors. Although these preventive steps are recommended, no robust
+data support their effectiveness (American College of Obstetricians and
+Gynecologists, 2020a; Di Mario, 2015).
+
+■ Malaria
+This protozoan infection remains a global health crisis. In 2018, it caused
+260,000 deaths, and most occurred among children younger than 5 years
+(World Health Organization, 2019). Sub-Saharan Africa and India carry the
+largest burden of cases. Malaria had been effectively eradicated in Europe
+and in most of North America, but some cases are imported in returning
+military personnel or recent immigrants from endemic areas (Mace, 2017).
+Transmitted by infected Anopheles mosquitoes, six species of Plasmodium
+cause human disease.
+Pregnant women have increased susceptibility (Kourtis, 2014). After
+infection, antibodies to the parasite surface antigen VAR2CSA help mediate
+placental accumulation of infected erythrocytes and lead to the harmful
+effects of malaria (Mayor, 2015). Through this mechanism, some immunity
+accrues with parity and is termed pregnancy-specific antimalarial
+immunity. Ironically, malaria treatment dampens this immunity.
+
+Maternal and Fetal Infection
+Clinical manifestations are fever, chills, and flu-like symptoms, which may
+occur episodically. Symptoms are less severe with recurrences. Malaria may
+be associated with anemia and jaundice, and infections with Plasmodium
+falciparum may cause kidney failure, coma, and death. That said, many
+otherwise healthy but infected adults in endemic areas are asymptomatic
+because of partial immunity. Pregnant women, although often asymptomatic,
+are said to be more likely to develop traditional symptoms.
+Malarial infections in pregnancy—either symptomatic or asymptomatic—
+are associated with higher rates of perinatal morbidity and mortality
+(Rogerson, 2018). Adverse outcomes include stillbirth, preterm birth, low
+birthweight, and maternal anemia. These correlate with high levels of
+placental parasitemia. The maternal anemia and low birthweight are
+documented most frequently (Machado Filho, 2014; McClure, 2013).
+Approximately 16 percent of low-birthweight neonates born to women in
+Africa are attributable to maternal malaria infection (World Health
+Organization, 2019). Effects stem from parasitized erythrocytes, monocytes,
+and macrophages that accumulate in the vascular areas of the placenta (Fig.
+67-7). Infections with P falciparum are the worst, and early infection raises
+the risk for abortion. The incidence of malaria increases significantly in the
+
+latter two trimesters and postpartum (Diagne, 2000). Despite this, congenital
+malaria develops in <5 percent of neonates born to infected mothers.
+
+FIGURE 67-7 Photomicrograph of placental malaria. Multiple infected erythrocytes are seen, and two
+are identified (arrows). Cross section of nearby chorionic villus is shown (arrowhead).
+
+Diagnosis and Management
+Identification of parasites by microscopic evaluation of a blood smear
+remains the diagnostic gold standard. In women with low parasite densities,
+however, the sensitivity of microscopy is poor. Malaria-specific antigens are
+now being used for rapid testing, which has become the diagnostic standard
+(Cunningham, 2019).
+For treatment, the most frequently used antimalarial drugs are not
+contraindicated in pregnancy. The World Health Organization recommends
+that all infected patients living in or traveling from endemic areas be treated
+with an artemisinin-based regimen for uncomplicated falciparum malaria
+(Tarning, 2016). The CDC (2020c) recommends that initial treatment be
+determined by where the infection was acquired.
+Pregnant women diagnosed with uncomplicated malaria caused by P
+vivax, P malariae, P ovale, and chloroquine-sensitive P falciparum should
+
+be treated with hydroxychloroquine or chloroquine (Centers for Disease
+Control and Prevention, 2020c). For women infected with multidrug-resistant
+P falciparum, the first-line agent for gravidas in the second and third
+trimesters is a drug containing both artemether and lumefantrine. The
+PREGACT Study Group (2016) compared four artemisinin-based drugs in
+3428 pregnant women with falciparum malaria and reported no serious
+maternal or perinatal adverse effects. Chloroquine-resistant P vivax should
+be treated with mefloquine. Chloroquine-sensitive P vivax or P ovale should
+be treated with chloroquine throughout pregnancy and then primaquine
+postpartum. Resistance to all the antimalarial drugs has been reported,
+including the recently added artemisinin-based compounds.
+Treatment regimens for uncomplicated and severe malarial infections in
+pregnancy are detailed at: www.cdc.gov/malaria/diagnosis_treatment. The
+CDC also maintains a malaria hotline for treatment recommendations (855856-4713).
+
+Prevention and Chemoprophylaxis
+Malaria control and prevention relies on chemoprophylaxis when traveling
+to or living in endemic areas. Vector control also is important. Insecticidetreated netting, pyrethroid insecticides, and DEET-based insect repellent
+lower malarial rates in endemic areas. These are well tolerated in
+pregnancy. If travel is necessary, chemoprophylaxis is recommended.
+Chloroquine or hydroxychloroquine prophylaxis is safe and well
+tolerated in pregnancy. One evaluation compared prophylaxis during
+pregnancy with either sulfadoxine-pyrimethamine or dihydroartemisininpiperaquine and found the latter to be more effective in preventing placental
+infection (Kakuru, 2016). Atovaquone/proguanil use is approved for
+gravidas, however, primaquine and doxycycline are contraindicated (Briggs,
+2022). The latest chemoprophylaxis regimens for pregnancy can be obtained
+from the CDC Travelers’ Health website at:
+www.cdc.gov/malaria/travelers/. The CDC also publishes Health
+Information for International Travel (The Yellow Book) at:
+www.cdc.gov/yellowbook. For women living in endemic areas, intermittent
+preventive treatment with sulfadoxine-pyrimethamine is superior to
+intermittent screening plus indicated treatment, although resistance is a
+growing concern (Desai, 2018).
+
+■ Amebiasis
+Approximately 10 percent of the world population is infected with
+Entamoeba histolytica, and most are asymptomatic (Andrade, 2018).
+Amebic dysentery, however, may take a fulminant course during pregnancy.
+Symptoms are fever, abdominal pain, and bloody stools. Prognosis is worse
+if complicated by a hepatic abscess. Identifying E histolytica cysts or
+trophozoites within a stool sample is diagnostic. Therapy is similar to that
+for nonpregnant woman. For amebic colitis and invasive disease, tinidazole
+may be preferred over metronidazole, (Gonzales, 2019).
+
+MYCOTIC INFECTIONS
+Disseminated fungal infection—usually pneumonitis—during pregnancy is
+uncommon with coccidiomycosis, blastomycosis, cryptococcosis, or
+histoplasmosis. Their identification and management are considered in
+Chapter 54 (p. 965). Vulvovaginal candidiasis is described in Chapter 68 (p.
+1218).
+
+TRAVEL PRECAUTIONS DURING PREGNANCY
+Pregnant travelers face general medical, obstetrical, and potentially
+hazardous destination risks. Several sources provide travel information
+(Freedman, 2016). The International Federation for Tropical Medicine has
+comprehensive information available at www.iftm-hp.org, and the
+International Society of Travel Medicine publishes information at
+www.istm.org. Also, The Yellow Book from the CDC has extensive travel
+information regarding pregnancy and breastfeeding.
+
+BIOTERRORISM
+The concept of bioterrorism involves the deliberate release of bacteria,
+viruses, or other infectious agents to cause illness or death. These natural
+agents are often altered to raise their infectivity or their resistance to medical
+therapy. Health-care providers should be alert for significant increases in the
+number of persons with febrile illnesses accompanied by respiratory
+
+symptoms or with rashes not easily associated with common illnesses.
+Clinicians are urged to contact their state health department or the CDC for
+current information and recommendations. In their Committee Opinion, the
+American College of Obstetricians and Gynecologists (2019b) has addressed
+disaster preparedness for obstetricians.
+
+■ Smallpox
+The variola virus causes smallpox and is considered a serious weapon. The
+virus is highly transmissible and carries an overall 30-percent case fatality
+rate. The last case of smallpox in the United States was reported in 1949, and
+worldwide it was reported in Somalia in 1977. Nishiura (2006) has
+reviewed the severe perinatal and maternal morbidity and mortality caused
+by smallpox. The case fatality rate of smallpox is 61 percent if the pregnant
+woman is unvaccinated. Rates of stillbirth, abortion, preterm delivery, and
+neonatal demise rise significantly in pregnancies complicated by this
+infection. The smallpox vaccine is made with live virus. Thus, pregnancy
+should be delayed for 4 weeks after vaccination.
+
+■ Anthrax
+Bacillus anthracis is a gram-positive, spore-forming, aerobic bacterium. It
+can cause three main types of clinical anthrax: inhalational, cutaneous, and
+gastrointestinal (Centers for Disease Control and Prevention, 2020b).
+Anthrax meningitis may accompany any of the clinical anthrax forms and is
+fatal in most cases. When inhaled, anthrax spores are deposited in the
+alveoli. They are engulfed by macrophages and germinate in mediastinal
+lymph nodes. The incubational period is usually less than 1 week but may be
+as long as 2 months. Within 1 to 5 days of symptom onset, the second stage is
+heralded by the abrupt onset of severe respiratory distress and high fevers.
+Mediastinitis and hemorrhagic thoracic lymphadenitis are common. Chest
+radiographs show a widened mediastinum. Case-fatality rates with
+inhalational anthrax are high, even with aggressive antibiotic and supportive
+therapy.
+
+■ Other Bioterrorism Agents
+
+Other category A bioterrorism agents include Francisella tularensis—
+tularemia, Clostridium botulinum—botulism, Yersinia pestis—plague, and
+Ebola, Marburg, Lassa, or Machupo viruses—hemorrhagic fever. The
+guidelines for these biological agents are evolving and are detailed at the
+CDC Bioterrorism website: emergency.cdc.gov/bioterrorism.
+
+REFERENCES
+Abdoli A, Dalimi A, Arbabi M, et al: Neuropsychiatric manifestations of latent toxoplasmosis on mothers
+and their offspring. J Matern Fetal Neonatal Med 27(13):1368, 2014
+Adams LL, Gungor S, Turan S, et al: When are amniotic fluid viral PCR studies indicated in prenatal
+diagnosis? Prenat Diagn 32(1):88, 2012
+Adhikari EH, Moreno W, Zofkie AC, et al: Pregnancy outcomes among women with and without severe
+acute respiratory syndrome Coronavirus 2 infection. JAMA Netw Open 3(11):e2029256, 2020
+Adhikari EH, SoRelle JA, McIntire DM, et al: Increasing severity of COVID-19 in pregnancy with
+Delta (B.1.617.2) variant surge. Am J Obstet Gynecol In press
+Ahn KH, Park YJ, Hong SC, et al: Congenital varicella syndrome: a systematic review. J Obstet
+Gynaecol 36(5):563, 2016
+Al Hammoud R, Murphy JR, Pérez N: Imported congenital rubella syndrome, United States 2017.
+Emerg Infect Dis 24(4):800, 2018
+Alpert SG, Fergerson J, Noël LP: Intrauterine West Nile virus: ocular and systemic findings. Am J
+Ophthalmol 136(4):733, 2003
+American College of Obstetricians and Gynecologists: Assessment and treatment of pregnant women
+with suspected or confirmed influenza. Committee Opinion No. 753, September 2018, Reaffirmed
+2019a
+American College of Obstetricians and Gynecologists: Hospital disaster preparedness for obstetricians
+and facilities providing maternity care. Committee Opinion No. 726, December 2017, Reaffirmed
+2019b
+American College of Obstetricians and Gynecologists: Influenza vaccination during pregnancy.
+Committee Opinion No. 732, April 2018, Reaffirmed 2019c
+American College of Obstetricians and Gynecologists: Management of pregnant women with
+presumptive exposure to listeria monocytogenes. Committee Opinion No. 614, December 2014,
+Reaffirmed 2019d
+American College of Obstetricians and Gynecologists: Maternal immunization. Committee Opinion No.
+741, June 2018, Reaffirmed 2019e
+American College of Obstetricians and Gynecologists: Cytomegalovirus, parvovirus B9, varicella zoster,
+and toxoplasmosis in pregnancy. Practice Bulletin No. 151, June 2015, Reaffirmed 2020a
+American College of Obstetricians and Gynecologists: Prevention of Group B streptococcal early-onset
+disease in newborns. Committee Opinion No. 797, January 2020b
+American College of Obstetricians and Gynecologists: Use of prophylactic antibiotics in labor and
+delivery. Practice Bulletin No. 199, August 2018, Reaffirmed 2020c
+American College of Obstetricians and Gynecologists, Society for Maternal–Fetal Medicine: ACOG and
+SMFM joint statement on WHO recommendations regarding COVID-19 vaccines and pregnant
+individuals. 2021. Available at: https://www.acog.org/news/news-releases/2021/01/acog-and-smfm-
+
+joint-statement-on-who-recommendations-regarding-covid-19-vaccines-and-pregnant-individuals.
+Accessed May 11, 2021
+Andrade RM, Reed SL: Amebiasis and infection with free-living amebae. In Jameson J, Fauci AS,
+Kasper DL, et al (eds): Harrison’s Principles of Internal Medicine, 20th ed. New York, McGrawHill, 2018
+Angelo KM, Reynolds J, Karp BE, et al: Antimicrobial resistance among nontyphoidal salmonella
+isolated from blood in the United States, 2003–2013. J Infect Dis 214(10):1565, 2016
+Assiri A, Abedi GR, Al Masri M, et al: Middle East respiratory syndrome coronavirus infection during
+pregnancy: a report of 5 cases from Saudi Arabia. Clin Infect Dis 63(7):951, 2016
+Auriti C, Piersigilli F, De Gasperis MR, et al: Congenital varicella syndrome: still a problem? Fetal Diagn
+Ther 25(2):224, 2009
+Baden LR, El Sahly HM, Essink B, et al: Efficacy and safety of the mRNA-1273 SARS-CoV-2
+vaccine. N Engl J Med 384(5):403, 2021
+Bano-Zaidi M, Aguayo-Romero M, Campos FD, et al: Typhoid fever outbreak with severe
+complications in Yucatan, Mexico. Lancet Glob Health 6(10):e1062, 2018
+Bates T: Poliomyelitis in pregnancy, fetus and newborn. Am J Dis Child 90: 189, 1955
+Baud D, Greub G: Intracellular bacteria and adverse pregnancy outcomes. Clin Microbiol Infect
+17:1312, 2011
+Baxter R, Tran TN, Ray P, et al: Impact of vaccination on the epidemiology of varicella: 1995–2009.
+Pediatrics 134(1):24, 2014
+Beigel JH, Tomashek KM, Dodd LE, et al: Remdesivir for the treatment of Covid-19–final report. N
+Engl J Med. 2020 Nov 5;383(19):1813, 2020
+Bower WA, Schiffer J, Atmar RL, et al: Use of anthrax vaccine in the United States: recommendations
+of the Advisory Committee on Immunization Practices, 2019. MMWR 68(4):1, 2019
+Brasil P, Pereira JP, Moreira ME, et al: Zika virus infection in pregnant women in Rio de Janeiro. N Engl
+J Med 375(24):2321, 2016
+Braye K, Foureur M, de Waal K, et al: Group B streptococcal screening, intrapartum antibiotic
+prophylaxis, and neonatal early-onset infection rates in an Australian local health district: 2006–2016.
+PLoS ONE 14(4):e0214295, 2019
+Briggs GG, Towers CV, Forinash CV: Drugs in Pregnancy and Lactation, 12th ed. Philadelphia, WoltersKluwer, 2022
+Briody VA, Albright CM, Has P, et al: Use of cefazolin for group B streptococci prophylaxis in women
+reporting a penicillin allergy without anaphylaxis. Obstet Gynecol 127(3):577, 2016
+Burwick RM, Yawetz S, Stephenson KE, et al: Compassionate use of remdesivir in pregnant women
+with severe Covid-19. Clin Infect Dis October 8, 2020 [Epub ahead of print]
+Callaghan WM, Creanga AA, Jamieson DJ: Pregnancy related mortality resulting from influenza in the
+United States during the 2009–2010 pandemic. Obstet Gynecol 126(3):486, 2015
+Centeno-Tablante E, Medina-Rivera M, Finkelstein JL, et al: Transmission of SARS-CoV-2 through
+breast milk and breastfeeding: a living systematic review. Ann N Y Acad Sci 1484(1):32, 2021
+Centers for Disease Control and Prevention: Active bacterial core surveillance (ABCs) report emerging
+infections program network group B Streptococcus, 2018. 2020a. Available at:
+http://www.cdc.gov/abcs/reports-findings/survreports/gbs18.pdf. Accessed May 7, 2021
+Centers for Disease Control and Prevention: Anthrax. 2020b. Available at:
+https://www.cdc.gov/anthrax/index.html. Accessed May 7, 2021
+Centers for Disease Control and Prevention: COVID-19. COVID-19 testing overview. 2021a. Available
+at: https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html. Accessed May 7,
+
+2021
+Centers for Disease Control and Prevention: COVID-19. Interim clinical guidance for management of
+patients with confirmed Coronavirus disease (COVID-19). 2021b. Available at:
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html.
+Accessed May 7, 2021
+Centers for Disease Control and Prevention: COVID-19. Interim infection prevention and control
+recommendations for healthcare personnel during the Coronavirus disease 2019 (COVID-19)
+pandemic. 2021c. Available at: https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-controlrecommendations.html. Accessed May 7, 2021
+Centers for Disease Control and Prevention: COVID-19. Science brief: emerging SARS-CoV-2
+variants. 2021d. Available at: https://www.cdc.gov/coronavirus/2019-ncov/more/science-andresearch/scientific-brief-emerging-variants.html. Accessed May 7, 2021
+Centers for Disease Control and Prevention. COVID-19 vaccine safety update. 2021e. Available at:
+https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-02/28-03-01/05-covidShimabukuro.pdf. Accessed May 7, 2021
+Centers for Disease Control and Prevention: Ebola (Ebola virus disease). History of Ebola virus disease
+(EVD) outbreaks. 2021f. Available at: https://www.cdc.gov/vhf/ebola/history/chronology.html.
+Accessed May 7, 2021
+Centers for Disease Control and Prevention: Lyme disease. Data and statistics. 2021g. Available at:
+https://www.cdc.gov/lyme/stats/index.html. Accessed May 7, 2021
+Centers for Disease Control and Prevention: Malaria. Malaria treatment (United States). 2020c.
+Available at: https://www.cdc.gov/malaria/diagnosis_treatment/treatment.html. Accessed May 7,
+2021
+Centers for Disease Control and Prevention: Measles (rubeola). For healthcare professionals: clinical
+features. 2020d. Available at: https://www.cdc.gov/measles/hcp/index.html. Accessed May 7, 2021
+Centers for Disease Control and Prevention: Shigella–shigellosis. Questions and answers. 2020e.
+Available at: https://www.cdc.gov/shigella/general-information.html. Accessed May 7, 2021
+Centers for Disease Control and Prevention: Updated recommendations for use of VariZIG—United
+States. MMWR 62(28):574, 2013
+Centers for Disease Control and Prevention: West Nile virus. Diagnostic testing: WNV antibody testing.
+2018. Available at: https://www.cdc.gov/westnile/healthcareproviders/healthCareProvidersDiagnostic.html. Accessed May 7, 2021
+Centers for Disease Control and Prevention: Zika virus. Testing guidance: new Zika and Dengue testing
+guidance (updated November 2019). 2019. Available at: https://www.cdc.gov/zika/hcproviders/testing-guidance.html. Accessed May 7, 2021
+Charlier C, Perrodeau E, Leclercq A, et al: Clinical features and prognostic factors of listeriosis: the
+MONALISA national prospective cohort study. Lancet Infect Dis 17:510, 2017
+Chen YH, Lin HC, Lin HC: Increased risk of adverse pregnancy outcomes among women affected by
+herpangina. Am J Obstet Gynecol 203(1):49.e1, 2010
+Chougnet CA: Human fetal immune cells fight back. Sci Transl Med 10(438):eaat3910, 2018
+Cohen JI: Enterovirus, Parechovirus, and Reovirus Infections. In Jameson JL, Fauci AS, Kasper DL, et
+al (eds) Harrison’s Principles of Internal Medicine, 20th ed. New York, McGraw-Hill, 2018
+Conlin AM, Bukowinski AT, Levine JA, et al: A follow-up comparative safety analysis of pandemic
+H1N1 vaccination during pregnancy and risk of infant birth defects among U.S. military mothers.
+Vaccine 36(20):2855, 2018
+
+Cortina-Borja M, Tan HK, Wallon M, et al: Prenatal treatment for serious neurological sequelae of
+congenital toxoplasmosis: an observational prospective cohort study. PLoS Med 7(10):1, 2010
+Craig AM, Dotters-Katz S, Kuller JA, et al: Listeriosis in pregnancy: a review. Obstet Gynecol Surv
+74(6):362, 2019
+Cui J, Li F, Zheng-Li S: Origin and evolution of pathogenic coronaviruses. Nat Rev Microbiol 17(3):181,
+2019
+Cunningham J, Jones S, Gatton ML, et al: A review of the WHO malaria rapid diagnostic test product
+testing programme (2008-2018): performance, procurement and policy. Malar J 18(1):387, 2019
+Dangor Z, Cutland CL, Izu A, et al: Temporal changes in invasive group B Streptococcus serotypes:
+implications for vaccine development. PLoS One 11(12):e0169101, 2016
+Dantes R, Mu Y, Belflower R, et al: National burden of invasive methicillin-resistant Staphylococcus
+aureus infections, United States, 2011. JAMA Intern Med 173(21):1970, 2013
+Daum RS, Miller LG, Immergluck L: A placebo-controlled trial of antibiotics for smaller skin abscesses.
+N Engl J Med 376:2345, 2017
+de Haan TR, Beersman MF, Oepkes D, et al: Parvovirus B19 infection in pregnancy: maternal and fetal
+viral load measurements related to clinical parameters. Prenat Diagn 27:46, 2007
+de Jong EP, Lindenburg IT, van Klink JM, et al: Intrauterine transfusion for parvovirus B19 infection:
+long-term neurodevelopmental outcome. Am J Obstet Gynecol 206:204.e1, 2012
+Delcourt C, Yombi JC, Vo B, et al: Salmonella enteritidis during pregnancy, a rare cause of septic
+abortion: case report and review of the literature. J Obstet Gynaecol 39(4):554, 2019
+Dembinski J, Eis-Hübinger AM, Maar J, et al: Long term follow up of serostatus after maternofetal
+parvovirus B19 infection. Arch Dis Child 88:219, 2003
+Desai M, Hill J, Fernandes S, et al: Prevention of malaria in pregnancy. Lancet Infect Dis 18(4):e119,
+2018
+Dhombres F, Friszer S, Maurice P, et al: Prognosis of fetal parenchymal cerebral lesions without
+ventriculomegaly in congenital toxoplasmosis infection. Fetal Diagn Ther 41(1):8, 2017
+Diagne N, Rogier C, Sokhna CS, et al: Increased susceptibility to malaria during the early postpartum
+period. N Engl J Med 343:598, 2000
+Di Mario S, Basevi V, Gagliotti C, et al: Prenatal education for congenital toxoplasmosis. Cochrane
+Database Syst Rev 10:CD006171, 2015
+Eberhart-Phillips JE, Frederick PD, Baron RC, et al: Measles in pregnancy: a descriptive study of 58
+cases. Obstet Gynecol 82(5):797, 1993
+Egaña-Ugrinovic G, Goncé A, Garcia L, et al: Congenital cytomegalovirus infection among twin pairs. J
+Matern Fetal Neonatal Med 29(21):3439, 2016
+El Helali N, Habibi F, Azria E, et al: Point-of-care intrapartum group B Streptococcus molecular
+screening: effectiveness and costs. Obstet Gynecol 133(2):276, 2019
+Enders G, Miller E, Cradock-Watson J, et al: Consequences of varicella and herpes zoster in pregnancy:
+prospective study of 1739 cases. Lancet 343:1548, 1994
+Enders M, Weidner A, Zoellner I, et al: Fetal morbidity and mortality after acute human parvovirus B19
+infection in pregnancy: prospective evaluation of 1018 cases. Prenat Diagn 24:513, 2004
+Engsbro AL, Riis Jespersen HS, Goldschmidt MI, et al: Ceftriaxone-resistant Salmonella enterica
+serotype Typhi in a pregnant traveller returning from Karachi, Pakistan to Denmark, 2019. Euro
+Surveill 24(21):1900289, 2019
+Fay K, Almendares O, Robinson-Dunn B, et al: Antenatal and intrapartum nucleic acid amplification test
+use for group B Streptococcus screening—United States, 2016. Diagn Microbiol Infect Dis
+94(2):157, 2019
+
+Fell DB, Savitz DA, Kramer MS, et al: Maternal influenza and birth outcomes: systematic review of
+comparative studies. BJOG 124(1):48, 2017
+Filisetti D, Year H, Villard O, et al: Contribution of neonatal amniotic fluid testing to diagnosis of
+congenital toxoplasmosis. J Clin Microbiol 53(5):1719, 2015
+Forcade NA, Wiederhold NP, Ryan L, et al: Antibacterials as adjuncts to incision and drainage for adults
+with purulent methicillin-resistant Staphylococcus aureus (MRSA) skin infections. Drugs 72:339,
+2012
+Fowler KB, Stagno S, Pass RF, et al: The outcome of congenital cytomegalovirus infection in relation to
+maternal antibody status. N Engl J Med 326:663, 1992
+Freedman DO, Chen LH, Kozarsky PE: Medical considerations before international travel. N Engl J
+Med 375(3):247, 2016
+Freeman K, Oakley L, Pollak A, et al: Association between congenital toxoplasmosis and preterm birth,
+low birthweight and small for gestational age birth. BJOG 112:31, 2005
+Gerna G, Lilleri D: Human cytomegalovirus (HCMV) infection/reinfection: development of a protective
+HCMV vaccine. New Microbiol 42(1):1, 2019
+Goldshtein I, Nevo D, Steinberg DM, et al: Association between BNT162b2 vaccination and incidence
+of SARS-CoV-2 infection in pregnant women. JAMA 326(8):728, 2021
+Gonzales MLM, Dans LF, Sio-Aguilar J: Antiamoebic drugs for treating amoebic colitis. Cochrane
+Database Syst Rev 1(1):CD006085, 2019
+Gorwitz RJ, Kruszon-Moran D, McAllister SK: Changes in the prevalence of nasal colonization with
+Staphylococcus aureus in the United States, 2001–2004. J Infect Dis 197:1226, 2008
+Grant GB, Desai S, Dumolard L, et al: Progress toward rubella and congenital rubella syndrome control
+and elimination-worldwide, 2000–2018. MMWR 68(39):855, 2019
+Grohskopf LA, Alyanak E, Broder KR, et al: Prevention and control of seasonal influenza with
+vaccines: recommendations of the Advisory Committee on Immunization Practices—United States,
+2020–2021 influenza season. MMWR 69(8):1, 2020
+Guerra B, Lazzarotto T, Quarta S, et al: Prenatal diagnosis of symptomatic congenital cytomegalovirus
+infection. Am J Obstet Gynecol 183:476, 2000
+Hamilton SM, Stevens DL, Bryant AE: Pregnancy-related Group A streptococcal infections: temporal
+relationship between bacterial acquisition, infection onset, clinical findings, and outcome. Clin Infect
+Dis 57:870, 2013
+Harjulehto T, Aro T, Hovi T, et al: Congenital malformations and oral poliovirus vaccination during
+pregnancy. Lancet 1:771, 1989
+Hartley GE, Edwards ES, Aui PM, et al: Rapid generation of durable B cell memory to SARS-CoV-2
+spike and nucleocapsid proteins in COVID-19 and convalescence. Sci Immunol 5(54):eabf8891,
+2020
+He X, Lau EH, Wu P, et al: Temporal dynamics in viral shedding and transmissibility of COVID-19. Nat
+Med 26(5):672, 2020
+Henwood PC, Bebell LM, Roshania R, et al: Ebola virus disease and pregnancy: a retrospective cohort
+study of patients managed at 5 Ebola treatment units in West Africa. Clin Infect Dis 65(2):292, 2017
+Honein MA, Dawson AL, Petersen EE, et al: Birth defects among fetuses and infants of US women
+with evidence of possible Zika virus infection during pregnancy. JAMA 317(1):59, 2017
+Huang C, Wang Y, Li X, et al: Clinical features of patients infected with 2019 novel coronavirus in
+Wuhan, China. Lancet 395(10223):497, 2020
+Huang SS, Singh R, McKinnell JA, et al: Decolonization to reduce postdischarge infection risk among
+MRSA carriers. N Engl J Med 380(7):638-50, 2019
+
+Hughes BL, Clifton RG, Rouse DJ, et al: A trial of hyperimmune globulin to prevent congenital
+cytomegalovirus infection. N Engl J Med 385(5):436, 2021
+Hughes RG, Brocklehurst P, Steer PJ, et al: Prevention of early-onset neonatal group B streptococcal
+disease: green-top guideline no. 36. BJOG 124(12):e280, 2017
+Hui DS, Azhar EI, Kim YJ, et al: Middle East respiratory syndrome coronavirus: risk factors and
+determinants of primary, household, and nosocomial transmission. Lancet Infect Dis 18(8):e217,
+2018
+Jena PP, Duggal SD, Kumar A, et al: Isolation of Salmonella typhi from high vaginal swab in a case of
+septic abortion. Indian J Med Microbiol 35(2):311, 2017
+Jespersen C, Helmuth IG, Krause TG: Varicella-zoster immunoglobulin treatment in pregnant women in
+Denmark from 2005 to 2015: descriptive epidemiology and follow-up. Epidemiol Infect 144(16):3426,
+2016
+Jimenez-Truque N, Tedeschi S, Saye EJ, et al: Relationship between maternal and neonatal
+Staphylococcus aureus colonization. Pediatrics 129:e1252, 2012
+Joguet G, Mansuy JM, Matusali G, et al: Effect of acute Zika virus infection on sperm and virus
+clearance in body fluids: a prospective observational study. Lancet Infect Disease 17(11):1200, 2017
+Julander JG, Winger QA, Rickords LF, et al: West Nile virus infection of the placenta. Virology 347:175,
+2006
+Kahn DA, Baltimore D: Pregnancy induces a fetal antigen-specific maternal T regulator cell response
+that contributes to tolerance. Proc Natl Acad Sci U S A 107(20):9299, 2010
+Kakuru A, Jagannathan P, Muhindo MK, et al: Dihydroartemisinin-piperaquine for the prevention of
+malaria in pregnancy. N Engl J Med 374(10):928, 2016
+Kim K: Toxoplasma infections. In Jameson J, Fauci AS, Kasper DL, et al (eds): Harrison’s Principles of
+Internal Medicine, 20th ed. New York, McGraw-Hill, 2018
+Kimball A, Hatfield KM, Arons M, et al: Asymptomatic and presymptomatic SARS-CoV-2 infections in
+residents of a long-term care skilled nursing facility—King County, Washington, March 2020.
+MMWR 69(13):377, 2020
+Kimberlin DW, Sanchez PJ, Ahmed A, et al: Valganciclovir for symptomatic congenital cytomegalovirus
+disease. N Engl J Med 372(10):933, 2015
+Koren G: Congenital varicella syndrome in the third trimester. Lancet 366(9497):1591, 2005
+Kotloff KL, Riddle MS, Platts-Mills JA, et al: Shigellosis. Lancet 391(10122):801, 2018
+Kourtis AP, Read JS, Jamieson DJ: Pregnancy and infection. N Engl J Med 370(23):2211, 2014
+Kuhn JH: Ebolavirus and Marburgvirus infections. In Jameson JL, Fauci AS, Kasper DL, et al (eds):
+Harrison’s Principles of Internal Medicine, 20th ed. New York, McGraw-Hill, 2018
+Kutty PK, Kyaw MH, Dayan GH, et al: Guidance for isolation precautions for mumps in the US: a
+review of the scientific basis for policy change. Clin Infect Disease 50(112):169, 2010
+Kwatra G, Cunnington MC, Merrall E, et al: Prevalence of maternal colonization with group B
+Streptococcus: a systematic review and meta-analysis. Lancet Infect Dis 16(9):1076, 2016
+Laibl VR, Sheffield JS, Roberts S, et al: Clinical presentation of community-acquired methicillin-resistant
+Staphylococcus aureus in pregnancy. Obstet Gynecol 106:461, 2005
+Lambert N, Strebel P, Orenstein W: Rubella. Lancet 385:2297, 2015
+Lamont RF, Sobel JD, Vaisbuch E, et al: Parvovirus B19 infection in human pregnancy. BJOG
+118(2):175, 2011
+Lantos PM, Rumbaugh J, Bockenstedt LK, et al: Clinical Practice Guidelines by the Infectious Diseases
+Society of America (IDSA), American Academy of Neurology (AAN), and American College of
+
+Rheumatology (ACR): 2020 Guidelines for the prevention, diagnosis and treatment of Lyme
+Disease. Clin Infect Dis 72(1):e1, 2021
+Lee IW, Kang L, Hsu HP, et al: Puerperal mastitis requiring hospitalization during a nine-year period.
+Am J Obstet Gynecol 203:332.e1, 2010
+Legardy-Williams JK, Carter RJ, Goldstein ST, et al: Pregnancy outcomes among women receiving
+rVSV-ZEBOV-GP Ebola vaccine during the Sierra Leone trial to introduce a vaccine against Ebola.
+Emerg Infect Dis 26(3):541, 2020
+Leruez-Ville M, Stirnemann J, Yann S, et al: Feasibility of predicting the outcome of fetal infection with
+cytomegalovirus at the time of prenatal diagnosis. Am J Obstet Gynecol 215(3):342.e1, 2016a
+Leruez-Ville M, Ghout I, Bussières L, et al: In utero treatment of congenital cytomegalovirus infection
+with valacyclovir in a multicenter, open-label, phase II study. Am J Obstet Gynecol 215(4):462.e1,
+2016b
+Leung J, Marin M: Update on trends in varicella mortality during the varicella vaccine era—United
+States, 1990–2016. Hum Vaccin Immunother 14(10):2460, 2018
+Lipitz S, Yinon Y, Malinger G, et al: Risk of cytomegalovirus-associated sequelae in relation to time of
+infection and findings on prenatal imaging. Ultrasound Obstet Gynecol 41(5):508, 2013
+Liu S, Diao L, Huang C, et al: The role of decidual immune cells on human pregnancy. J Reprod
+Immunol 124:44, 2017
+Ludvigsson JF, Ström P, Lundholm C, et al: Risk for congenital malformation with H1N1 influenza
+vaccine: a cohort study with sibling analysis. Ann Intern Med 165(12):848, 2016
+Mace KE, Arguin PM: Malaria surveillance—United States, 2014. MMWR 66(12):1, 2017
+Machado Filho AC, da Costa EP, da Costa EP, et al: Effects of vivax malaria acquired before 20 weeks
+of pregnancy on subsequent changes in fetal growth. Am J Trop Med Hyg 90(2):371, 2014
+Maeda N, Hagiya H, Takiuchi T, et al: Persistent methicillin-resistant Staphylococcus aureus bacteremia
+owing to placental abscess. J Infect Chemother 24(12):975, 2018
+Maldonado YA, Read JS, Committee on Infectious Diseases: Diagnosis, treatment, and prevention of
+congenital toxoplasmosis in the United States. Pediatrics 139(2):e20163860, 2017
+Mandelbrot L: Fetal varicella—diagnosis, management, and outcome. Prenat Diagn 32(6):511, 2012
+Mandelbrot L, Kieffer F, Sitta R, et al: Prenatal therapy with pyrimethamine + sulfadiazine vs
+spiramycin to reduce placental transmission of toxoplasmosis: a multicenter, randomized trial. Am J
+Obstet Gynecol 219(4):386.e1, 2018
+Marin M, Marlow M, Moore KL, et al: Recommendation of the Advisory Committee on Immunization
+Practices for use of a third dose of mumps virus-containing vaccine in persons at increased risk for
+mumps during an outbreak. MMWR 67(1):33-38, 2018
+Marzec NS, Bessesen MT: Risk and outcomes of methicillin-resistant Staphylococcus aureus (MRSA)
+bacteremia among patients admitted with and without MRSA nares colonization. Am J Infection
+Control 44:405, 2016
+Mayor A, Bardajf A, Macete E, et al: Changing trends in P. falciparum burden, immunity, and disease
+in pregnancy. N Engl J Med 373(17):1607, 2015
+McClure EM, Goldenberg RL, Dent AE, et al: A systematic review of the impact of malaria prevention
+in pregnancy on low birth weight and maternal anemia. Int J Gynaecol Obstet 121:103, 2013
+McDonald E, Martin SW, Landry K, et al: West Nile virus and other domestic nationally notifiable
+arboviral diseases—United States, 2018c. MMWR 68(31):673, 2019
+McGovern N, Shin A, Low G, et al: Human fetal dendritic cells promote prenatal T-cell immune
+suppression through arginase-2. Nature 546(7660):662, 2017
+
+McLean HQ, Fiebelkorn AP, Temte JL, et al: Prevention of measles, rubella, congenital rubella
+syndrome, and mumps, 2013: summary recommendations of the Advisory Committee on
+Immunization Practices (ACIP). MMWR 62(4):1, 2013
+Mead P, Petersen J, Hinckley A: Updated CDC recommendation for serologic diagnosis of Lyme
+disease. MMWR 68(32):703, 2019
+Meaney-Delman D, Oduyebo T, Polen KN, et al: Prolonged detection of Zika virus RNA in pregnant
+women. Obstet Gynecol 128(4):724, 2016
+Meijer WJ, van Noortwijk AG, Bruinse HW, et al: Influenza virus infection in pregnancy: a review. Acta
+Obstet Gynecol Scand 94(8):797, 2015
+Mendelson E, Aboundy Y, Smetana Z, et al: Laboratory assessment and diagnosis of congenital viral
+infections: rubella, cytomegalovirus (CMV), varicella-zoster virus (VZV), herpes simplex virus
+(HSV), parvovirus B19 and human immunodeficiency virus (HIV). Reprod Toxicol 21:350, 2006
+Mertz D, Geraci J, Winkup J, et al: Pregnancy as a risk factor for severe outcomes from influenza virus
+infection: a systematic review and meta-analysis of observational studies. Vaccine 35(4):521, 2017
+Miller E, Cradock-Watson JE, Pollock TM: Consequences of confirmed maternal rubella at successive
+stages of pregnancy. Lancet 2:781, 1982
+Miller LG, Daum RS, Creech CB, et al: Clindamycin versus trimethoprim-sulfamethoxazole for
+uncomplicated skin infections. N Engl J Med 372(12):1093, 2015
+Milligan R, Paul M, Richardson M, et al: Vaccines for preventing typhoid fever. Cochrane Database
+Syst Rev 5(5):CD001261, 2018
+Mirouse A, Vignon P, Piron P, et al: Severe varicella-zoster virus pneumonia: a multicenter cohort study.
+Crit Care 21(1):137, 2017
+Modlin F: Perinatal echovirus and group B coxsackievirus infections. Clin Perinatol 15:233, 1988
+Money D, Infectious Disease Committee Members, Yudin MH, et al: SOBC committee opinion on the
+management of a pregnant woman exposed to or infected with Ebola virus disease in Canada. J
+Obstet Gynaecol Can 37(2):182, 2015
+Mussi-Pinhata MM, Yamamoto AY, Aragon DC, et al: Seroconversion of cytomegalovirus infection
+during pregnancy and fetal infection in a highly seropositive population: “the BraCHS study.” J
+Infect Dis 218(8):1200, 2018
+Mylonakis E, Paliou M, Hohmann EL, et al: Listeriosis during pregnancy. Medicine 81:260, 2002
+Nagel HT, de Haan TR, Vandenbussche FP, et al: Long-term outcome after fetal transfusion for
+hydrops associated with parvovirus B19 infection. Obstet Gynecol 109(1):42, 2007
+Nanduri SA, Petit S, Smelser C, et al: Epidemiology of invasive early-onset and late-onset group B
+streptococcal disease in the United States, 2006 to 2015: multistate laboratory in population-based
+surveillance. JAMA Pediatr 173(3):224, 2019
+National Institutes of Health: Coronavirus disease 2019 (COVID-19) treatment guidelines. 2021.
+Available at: https://www.covid19treatmentguidelines.nih.gov/. Accessed May 7, 2021
+Nishiura H: Smallpox during pregnancy and maternal outcomes. Emerg Infect Dis 12:1119, 2006
+Nunes MC, Cutland CL, Jones S, et al: Efficacy of maternal influenza vaccination against all-cause
+lower respiratory tract infection hospitalizations in young infants: results from a randomized control
+trial. Clin Infect Disease 65(7):1066, 2017
+O’Leary DR, Kuhn S, Kniss KL, et al: Birth outcomes following West Nile virus infection of pregnant
+women in the United States: 2003–2004. Pediatrics 117:e537, 2006
+Oboho IK, Reed C, Gargiullo P, et al: Benefit of early initiation of influenza antiviral treatment to
+pregnant women hospitalized with laboratory-confirmed influenza. J Infect Dis 214(4):507, 2016
+
+Oduyebo T, Pineda D, Lamin M, et al: A pregnant patient with Ebola virus disease. Obstet Gynecol
+126(6):1273, 2015
+Ogbuanu IU, Zeko S, Chu SY, et al: Maternal, fetal, and neonatal outcomes associated with measles
+during pregnancy: Namibia, 2009–2010. Clin Infect Dis 58(8):1086, 2014
+Ornoy A, Tenenbaum A: Pregnancy outcome following infections by coxsackie, echo, measles, mumps,
+hepatitis, polio and encephalitis viruses. Reprod Toxicol 21:446, 2006
+Pacheco LD, Saad AF, Saade G: Early acute respiratory support for pregnant patients with coronavirus
+disease 2019 (COVID-19) infection. Obstet Gynecol 136(1):42, 2020
+Pan American Health Organization, World Health Organization: Salmonella serovar Typhi haplotype
+H58–Epidemiological alert. Washington, D.C., 2018. Available at:
+https://www3.paho.org/hq/index.php?option=com_content&view=article&id=14721:10-october2018-salmonella-enterica-serovar-typhi-epidemiological-alert&Itemid=42346&lang=en. Accessed
+May 7, 2021
+Parisot M, Jolivet A, Boukhari R, et al: Shigellosis and pregnancy in French Guiana: obstetric and
+neonatal complications. Am J Trop Med Hyg 95(1):26, 2016
+Patel A, Charani E, Ariyanayagam D, et al: New-onset anosmia and ageusia in adult patients diagnosed
+with SARS-CoV-2 infection. Clin Microbiol Infect 26(9):1236, 2020
+Patel M, Lee AD, Clemmons NS, et al: National update on measles cases and outbreaks—United
+States, January 1–October 1, 2019. MMWR 68(40):893-896, 2019
+Paz-Bailey G, Rosenberg ES, Doyle K, et al: Persistence of Zika virus in body fluids—preliminary
+report. N Engl J Med 379(13):1234, 2017
+Peppa M, Thomas SL, Minassian C, et al: Seasonal influenza vaccination during pregnancy and the risk
+of major congenital malformations in live-born infants: a 2010–2016 historical cohort study. Clin
+Infect Dis Jun 23:ciaa845, 2020
+Picone O, Grangeot-Keros L, Senat M, et al: Cytomegalovirus non-primary infection during pregnancy.
+Can serology help with diagnosis? J Matern Fetal Neonatal Med 30(2):224, 2017
+Pimentel JD, Meier FA, Samuel LP: Chorioamnionitis and neonatal sepsis from community-acquired
+MRSA. Emerg Infect Dis 15:2069, 2009
+Polack FP, Thomas SJ, Kitchin N, et al: Safety and efficacy of the BNT162b2 mRNA Covid-19
+vaccine. N Engl J Med 383(27):2603, 2020
+PREGACT Study Group, Pekyi D, Ampromfi AA, et al: Four artemisinin-based treatments in African
+pregnant women with malaria. N Engl J Med 374(1):913, 2016
+Pridjian G, Sirois PA, McRae S, et al: Prospective study of pregnancy and newborn outcomes in
+mothers with West Nile illness during pregnancy. Birth Defects Res A Clin Mol Teratol 106(8):716,
+2016
+Prince HE, Lapé-Nixon M: Role of cytomegalovirus (CMV) IgG avidity testing in diagnosing primary
+CMV infection during pregnancy. Clin Vaccine Immunol 21(10):1377, 2014
+Rainwater-Lovett K, Moss WJ: Measles (rubeola). In Kasper DL, Fauci AS, Hauser SL, et al (eds):
+Harrison’s Principles of Internal Medicine, 20th ed. New York, McGraw-Hill, 2018
+Randis TM, Gleber SE, Hooven TA: Group B Streptococcus beta-hemolysin/cytolysin breaches
+maternal-fetal barriers to cause preterm birth and IUFD in vivo. J Infect Dis 210:65, 2014
+Raschetti R, Vivanti AJ, Vauloup-Fellous C, et al: Synthesis and systematic review of reported neonatal
+SARS-CoV-2 infections. Nat Commun 11(1):5164, 2020
+Rasmussen SA, Jamieson DJ, Honein MA, et al: Zika virus and birth defects—reviewing the evidence
+for causality. N Engl J Med 374(20):1981, 2016
+
+Rasmussen SA, Jamieson DJ, Uyeki TM: Effects of influenza on pregnant women and infants. Am J
+Obstet Gynecol 207(3 Suppl):S3, 2012
+Rawlinson WD, Boppana SB, Fowler KB, et al: Congenital cytomegalovirus infection in pregnancy and
+the neonate: consensus recommendations for prevention, diagnosis, and therapy. Lancet Infect Dis
+17(6):e177, 2017
+RECOVERY Collaborative Group, Horby P, Lim WS, et al: Dexamethasone in hospitalized patients with
+Covid-19. N Engl J Med 384(8):693, 2021
+Reich PJ, Boyle MG, Hogan PG, et al: Emergence of community-associated methicillin-resistant
+Staphylococcus aureus strains in the neonatal intensive care unit: an infection prevention and patient
+safety challenge. Clin Microbiol Infect 22(7):645.e1, 2016
+Revello MG, Furione M, Zavattoni M, et al: Human cytomegalovirus (HCMV) DNAemia in the mother
+at amniocentesis as a risk factor for iatrogenic HCMF infection of the fetus. J Infect Dis 197:593,
+2008
+Reynolds MR, Jones AM, Peterson EE, et al: Vital signs: update on Zika virus-associated birth defects
+and evaluation of all U.S. infants with congenital Zika virus exposure—U.S. Zika pregnancy
+registry, 2016. MMWR 66(13):366, 2017
+Roberts DJ, Edlow AG, Romero RJ, et al: A standardized definition of placental infection by severe
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a consensus statement from the National
+Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health and Human
+Development (NIH/NICHD) SARS-CoV-2 placental infection workshop. Am J Obstet Gynecol
+August 5, 2021 [Epub ahead of print]
+Robertson SA, Zhang B, Chan H, et al: MicroRNA regulation of immune events at conception. Mol
+Reprod Dev 84(9):914, 2017
+Rogers BB: Parvovirus B19: twenty-five years in perspective. Pediatr Dev Pathol 2:296, 1999
+Rogerson SJ, Desai M, Mayor A, et al: Burden, pathology, and costs of malaria in pregnancy: new
+developments for an old problem. Lancet Infect Dis 18(4):e107, 2018
+Rouse DJ, Keimig TW, Riley LE, et al: Case records of the Massachusetts General Hospital. Case 16–
+2016. A 31-year-old pregnant woman with fever. N Engl J Med 374(21):2076, 2016
+Saetre K, Godhwani N, Maria M, et al: Congenital babesiosis after maternal infection with Borrelia
+burgdorferi and Babesia microti. J Pediatric Infect Dis Soc 7(1):e1, 2018
+Saldan A, Forner G, Mengoli C, et al: Testing for cytomegalovirus in pregnancy. J Clin Microbiol
+55(3):693, 2017
+Sapuan S, Kortsalioudaki C, Anthony M, et al: Neonatal listeriosis in the UK 2004–2014. J Infect
+74(3):236, 2017
+Schwartz DA, Morotti D: Placental pathology of COVID-19 with and without fetal and neonatal
+infection: trophoblast necrosis and chronic histiocytic intervillositis as risk factors for transplacental
+transmission of SARS-CoV-2. Viruses 12(11):1308, 2020
+Seale AC, Bianchi-Jassir F, Russell NJ, et al: Estimates of the burden of group B streptococcal disease
+worldwide for pregnant women, stillbirths, and children. Clin Infect Dis 65(Suppl_2):S200, 2017
+See I, Wesson P, Gualandi N, et al: Socioeconomic factors explain racial disparities in invasive
+community-associated methicillin-resistant Staphylococcus aureus disease rates. Clin Infect Dis
+64(5):597, 2017
+Sejvar JJ, Lopez AS, Cortese MM, et al: Acute flaccid myelitis in the United States, August–December
+2014: results of nationwide surveillance. Clin Infect Dis 63(6):737, 2016
+Shan C, Xie X, Shi PY: Zika virus vaccine: progress and challenges. Cell Host Microbe 24(1):12, 2018
+
+Shane AL, Mody RK, Crump JA, et al: 2017 Infectious Diseases Society of American Clinical Practice
+Guidelines for the diagnosis and management of infectious diarrhea. Clin Infect Dis 65(12):e45, 2017
+Shapiro ED: Lyme disease. N Engl J Med 370(18):1724, 2014
+Shimabukuro TT, Kim SY, Myers TR, et al: Preliminary findings of mRNA Covid-19 vaccine safety in
+pregnant persons. N Engl J Med 384(24):2273, 2021
+Siegel M, Goldberg M: Incidence of poliomyelitis in pregnancy. N Engl J Med 253:841, 1955
+Sisman J, Jaleel MA, Moreno W, et al: Intrauterine transmission of SARS-COV-2 infection in a preterm
+infant. Pediatr Infect Dis J 39(9):e265, 2020
+Society for Maternal-Fetal Medicine, Hughes BL, Gyamfi-Bannerman C: Diagnosis and antenatal
+management of congenital cytomegalovirus infection. Am J Obstet Gynecol 214(6):B5, 2016
+Society for Maternal-Fetal Medicine: Publications & clinical guidance. 2021. Available at:
+https://www.smfm.org/covidclinical. Accessed May 7, 2021
+Stafford IA, Stewart RD, Sheffield JS, et al: Efficacy of maternal and neonatal chemoprophylaxis for
+early-onset group B streptococcal disease. Obstet Gynecol 120(1):123, 2012
+Steere AC, Strle F, Wormser GP, et al: Lyme borreliosis. Nat Rev Dis Primers 2:16090, 2016
+Steere AC: Lyme borreliosis. Jameson J, Fauci AS, Kasper DL, (eds): Harrison’s Principles of Internal
+Medicine, 20th ed. New York, McGraw-Hill, 2018
+Stewart RD, Bryant SN, Sheffield JS: West Nile virus infection in pregnancy. Case report. Infect Dis
+2013:351872, 2013
+Stoll BJ, Hansen NI, Sanchez PJ, et al: The burden of group B streptococcal and E. coli disease
+continues. Pediatrics 127(5):817, 2011
+Stoll BJ, Puopolo KM, Hansen NI, et al: Early-onset neonatal sepsis 2015 to 2017, the rise of
+Escherichia coli, and the need for novel prevention strategies. JAMA Pediatr Jul 1;174(7), 2020
+Strebel PM, Orenstein WA: Measles. N Engl J Med 381(4):349, 2019
+SYROCOT (Systematic Review on Congenital Toxoplasmosis) Study Group: Effectiveness of prenatal
+treatment for congenital toxoplasmosis: a meta-analysis of individual patients’ data. Lancet 369:115,
+2007
+Tack DM, Ray L, Griffin PM, et al: Preliminary incidence and trends of infections with pathogens
+transmitted commonly through food—Foodborne Diseases Active Surveillance Network, 10 U.S.
+Sites, 2016–2019. MMWR 69(17):509, 2020
+Talan DA, Mower WR, Krishnadasan A, et al: Trimethoprim-sulfamethoxazole versus placebo for
+uncomplicated skin abscess. N Engl J Med 374(9):823, 2016
+Tanamai VW, Seagle BL, Luo G: Methicillin-resistant Staphylococcus aureus intracranial epidural
+abscess with osteomyelitis during pregnancy: a case report. J Reprod Med 61(5–6):295, 2016
+Tanimura K, Tairaku S, Morioka I, et al: Universal screening with use of immunoglobulin G avidity for
+congenital cytomegalovirus infection. Clin Infect Dis 65(10):1652, 2017
+Tarning J: Treatment of malaria in pregnancy. N Engl J Med 374(1):981, 2016
+Tassin M, Martinovic J, Mirand A, et al: A case of congenital echovirus 11 infection acquired early in
+pregnancy. J Clin Virol 59:71, 2014
+Thompson MG, Kwong JC, Regan AK, et al: Influenza vaccine effectiveness in preventing influenzaassociated hospitalizations during pregnancy: a multi-country retrospective test negative design study,
+2010–2016. Clin Infect Dis 68(9):1444, 2019
+Tilburgs T, Evans JH, Crespo ÂC, et al: The HLA-G cycle provides for both NK tolerance and
+immunity at the maternal-fetal interface. Proc Natl Acad Sci U S A 112(43):13312, 2015
+Tolcher MC, McKinney JR, Eppes CS, et al: Prone positioning for pregnant women with hypoxemia due
+to coronavirus disease 2019 (COVID-19). Obstet Gynecol 136(2):259, 2020
+
+Towbin JA, Griffin LD, Martin AB, et al: Intrauterine adenoviral myocarditis presenting as nonimmune
+hydrops fetalis: diagnosis by polymerase chain reaction. Pediatr Infect Dis J 13:144, 1994
+Tudela CM, Stewart RD, Roberts SW, et al: Intrapartum evidence of early-onset group B
+Streptococcus. Obstet Gynecol 119(3):626, 2012
+Uyeki TM, Bernstein HH, Bradley JS, et al: Clinical practice guidelines by the Infectious Diseases
+Society of America: 2018 update on diagnosis, treatment, chemoprophylaxis, and institutional
+outbreak management of seasonal influenza. Clin Infect Dis. 68(6):e1, 2019
+Vakili M, Crum-Cianflone NF: Spinal epidural abscess: a series of 101 cases. Am J Med 130(12):1458,
+2017
+Verity R, Okell LC, Dorigatti I, et al: Estimates of the severity of coronavirus disease 2019: a modelbased analysis. Lancet Infect Dis 20(6):669, 2020
+Villard O, Breit L, Cimon B, et al: Comparison of four commercially available avidity tests for
+Toxoplasma gondii-specific IgG antibodies. Clin Vaccine Immunol 20(2):197, 2013
+Vornhagen J, Armistead B, Santana-Ufret V, et al: Group B streptococcus exploits vaginal epithelial
+exfoliation for ascending infection. J Clin Invest 128(5):1985, 2018
+Wang C, Zhang X, Bialek S, et al: Attribution of congenital cytomegalovirus infection to primary versus
+non-primary maternal infection. Clin Infect Dis 52:e11, 2011
+Wang R, Yan W, Du M, et al: The effect of influenza virus infection on pregnancy outcomes: a
+systematic review and meta-analysis of cohort studies. Int J Infect Dis 105:567, 2021
+Wendel GD Jr, Leveno KJ, Sánchez PJ, et al: Prevention of neonatal group B streptococcal disease: a
+combined intrapartum and neonatal protocol. Am J Obstet Gynecol 186:618, 2002
+Wessels MR: Streptococcal infections. In Kasper DL, Fauci AS, Hauser SL, et al (eds): Harrison’s
+Principles of Internal Medicine, 20th ed. New York, McGraw-Hill, 2018
+Whitley RJ: Varicella-zoster virus infections. In Jameson J, Fausi AS, Kasper DL, et al (eds): Harrison’s
+Principles of Internal Medicine, 20th ed. New York, McGraw-Hill, 2018
+Wilcox CR, Jones CE: Beyond passive immunity: is there priming of the fetal immune system following
+vaccination of pregnancy and what are the potential clinical implications? Front Immunol 9:1548,
+2018
+Wong SF, Chow KM, Leung TN, et al: Pregnancy and perinatal outcomes of women with severe acute
+respiratory syndrome. Am J Obstet Gynecol 191:292, 2004
+Woodworth KR, Olsen EO, Neelam V, et al: Birth and infant outcomes following laboratory-confirmed
+SARS-CoV-2 infection in pregnancy—SET-NET, 16 Jurisdictions, March 29-October 14, 2020.
+MMWR 69(44):1635, 2020
+World Health Organization: Coronavirus disease (COVID-19) weekly epidemiological update and
+weekly operational update. 2021. Available at https://www.who.int/emergencies/diseases/novelcoronavirus-2019/situation-reports. Accessed May 7, 2021.
+World Health Organization: World Malaria Report 2019. 2019. Available at:
+https://www.who.int/publications/i/item/9789241565721. Accessed May 7, 2021
+Wright PF: Influenza. In Jameson J, Fauci AS, Kasper DL, et al (eds): Harrison’s Principles of Internal
+Medicine, 20th ed. New York, McGraw-Hill, 2018
+Wylie B, Hauptman M, Woolf AD: Insect repellants during pregnancy in the era of the Zika virus.
+Obstet Gynecol 128(5):1111, 2016
+Xu X, Blanton L, Elal AI, et al: Update: influenza activity in the United States during the 2018–19
+season and composition of the 2019–20 influenza vaccine. MMWR 68(24):544, 2019
+Yaegashi N: Pathogenesis of nonimmune hydrops fetalis caused by intrauterine B19 infection. Tohoku J
+Exp Med 190:65, 2000
+
+Yamamoto L, Targa LS, Sumita LM, et al: Association of parasite load levels in amniotic fluid with
+clinical outcome in congenital toxoplasmosis. Obstet Gynecol 130(2):335, 2017
+Yazigi A, De Pecoulas AE, Vauloup-Fellous C, et al: Fetal and neonatal abnormalities due to congenital
+rubella syndrome: a review of literature. J Matern Fetal Neonatal Med 30(3):274, 2017
+Young MK, Cripps AW, Nimmo GR, et al: Post-exposure passive immunization for preventing rubella
+and congenital rubella syndrome. Cochrane Database Syst Rev 9:CD010586, 2015
+Zambrano LD, Ellington S, Strid P, et al: Update: Characteristics of symptomatic women in reproductive
+age with laboratory–confirmed SARS-CoV-2 infection by pregnancy status—United States January
+22-October 3, 2020. MMWR 69(44):1641, 2020
+Zauche LH, Wallace B, Smoots AN, et al: Receipt of mRNA Covid-19 vaccines and risk of
+spontaneous abortion. N Engl J Med September 8, 2021 [Epub ahead of print]
+Zhang HJ, Patenaude V, Abenhaim HA: Maternal outcomes in pregnancies affected by varicella zoster
+virus infections: population-based study on 7.7 million pregnancy admissions. J Obstet Gynaecol Res
+41(1):62, 2015
+

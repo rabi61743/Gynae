@@ -1,0 +1,1113 @@
+CHAPTER 44
+
+Management of Obstetrical Hemorrhage
+
+MANAGEMENT OF HEMORRHAGE
+BLOOD REPLACEMENT
+OBSTETRICAL COAGULOPATHIES
+SURGICAL MANAGEMENT OF HEMORRHAGE
+REFERENCES
+Recognition of obstetrical hemorrhage severity is crucial to its management.
+However, visual estimates, especially when blood losses are excessive, are
+notoriously inaccurate. In many cases, true volume losses are often two to
+three times the clinical estimate. Moreover, in obstetrics, part and sometimes
+even all of the lost blood may be concealed. Estimation is further
+complicated in that peripartum hemorrhage also includes the pregnancyaugmented blood volume. After pregnancy hypervolemia is lost at delivery,
+blood loss can be estimated by calculating 500 mL loss for each 3 volume
+percent drop in hematocrit. Its nadir depends on the speed of resuscitation
+with intravenous crystalloids and blood products. With ongoing blood loss,
+the real-time hematocrit is at its maximum whenever measured in the
+delivery, operating, or recovery room.
+Prudently, if blood loss is considered more than average, the hematocrit
+is determined, and plans are made for close observation for potential
+physiological deterioration. Blood loss determination as recommended by
+the American College of Obstetricians and Gynecologists (2019b) is
+
+discussed in detail in Chapter 42. Urine output measured hourly is one of the
+most important “vital signs.” Unless diuretic agents are given—and these
+are seldom indicated with active bleeding—accurately measured urine
+flow reflects renal perfusion. This in turn reflects perfusion of other vital
+organs. The volume of urine output should be ≥30 mL/hr and preferably ≥50
+mL/hr.
+Another important factor to consider with management of hemorrhage is
+whether there are adequate procoagulants to achieve clot formation and
+stability. Many cases of severe obstetrical hemorrhage are further
+complicated by disseminated intravascular coagulation (DIC), in which
+blood has dysfunctional coagulation (p. 775).
+
+MANAGEMENT OF HEMORRHAGE
+■ Hypovolemic Shock
+Shock from hemorrhage evolves through several stages (Cannon, 2018).
+Early, the mean arterial pressure, stroke volume, cardiac output, central
+venous pressure, and pulmonary capillary wedge pressure decline. Greater
+differences in arteriovenous oxygen content values reflect enhanced tissue
+oxygen extraction, although overall oxygen consumption falls.
+Blood flow to capillary beds is controlled by arterioles, which are
+resistance vessels and partially controlled by the central nervous system
+(CNS). However, approximately 70 percent of total blood volume is
+contained in venules, which are passive resistance vessels controlled by
+humoral factors. Thus, the catecholamine release during hemorrhage prompts
+greater venular tone, and this provides an autotransfusion from this
+capacitance reservoir. This volume boost is accompanied by compensatory
+rises in heart rate, systemic and pulmonary vascular resistance, and
+myocardial contractility. At the same time, selective, CNS-mediated
+arteriolar constriction or relaxation, termed autoregulation, preferentially
+redistributes cardiac output and blood volume. Thus, more blood flow is
+diverted to the heart, brain, and adrenal glands, whereas perfusion to the
+kidneys, splanchnic beds, muscles, skin, and uterus is relatively diminished.
+When the blood volume deficit exceeds approximately 25 percent,
+compensatory mechanisms usually are inadequate to maintain cardiac output
+and blood pressure. Importantly, additional small losses of blood will now
+
+cause rapid clinical deterioration. Following an initial augmented total
+oxygen extraction by maternal tissue, maldistribution of blood flow results in
+local tissue hypoxia and metabolic acidosis. This creates a vicious cycle of
+vasoconstriction, organ ischemia, and cellular death.
+Hemorrhage also activates lymphocytes and monocytes, which in turn
+prompts endothelial cell activation and platelet aggregation (Cannon, 2018).
+This endotheliopathy promotes release of vasoactive mediators that occlude
+small vessels and further impair microcirculatory perfusion. Comorbid
+preeclampsia or sepsis also leads to loss of capillary endothelial integrity,
+additional loss of intravascular volume into the extracellular space, and
+platelet aggregation. These then can incite DIC.
+The pathophysiological events just described create important but often
+overlooked extracellular fluid and electrolyte shifts involved in both the
+genesis and successful treatment of hypovolemic shock. These include
+changes in the cellular transport of various ions such as sodium and water
+into skeletal muscle as well as potassium loss. Replacement of extracellular
+fluid and intravascular volume are both necessary. Patient survival rates are
+enhanced in acute hemorrhagic shock if blood plus crystalloid solution are
+given compared with blood transfusions alone.
+
+■ Fluid Resuscitation
+Whenever excessive blood loss is suspected, steps are simultaneously taken
+to identify the bleeding source and to begin resuscitation. Refer to the
+algorithm for hemorrhage management (Fig. 42-3, p. 735). If the woman is
+undelivered, restoration of blood volume benefits both mother and fetus. It
+also prepares for emergent delivery. If she is postpartum, immediately
+identifying uterine atony, retained placental fragments, or genital tract
+lacerations is essential. One or two large-bore intravenous infusion systems
+are ideally established promptly, crystalloid solutions are rapidly infused,
+and blood products are ordered. An operating room is readied, and a
+surgical and anesthesia team are quickly assembled. Specific management of
+hemorrhage is further dependent on its etiology. A neonatal resuscitation
+team is included if imminent delivery is planned.
+Serious hemorrhage demands prompt and adequate refilling of the
+intravascular compartment with crystalloid solutions. These rapidly
+equilibrate into the extravascular space, and only 20 percent of crystalloid
+
+remains intravascular in critically ill patients after 1 hour (Zuckerbraun,
+2010). Because of this, initial fluid is infused in a volume two to three
+times the estimated blood loss.
+
+Crystalloid Versus Colloid Solutions
+Resuscitation of hypovolemic shock with colloid versus crystalloid solutions
+has been debated. In a Cochrane review of resuscitation of nonpregnant
+critically ill patients, Lewis and coworkers (2018) found selection of
+colloids versus crystalloids probably makes little or no difference to
+mortality rates. Similar results were found in the Saline versus Albumin
+Fluid Evaluation (SAFE) randomized trial of almost 7000 nonpregnant
+patients (Finfer, 2004). At Parkland Hospital, acute volume resuscitation is
+preferably done with crystalloid solutions and blood.
+Either a saline-based or a balanced crystalloid solution may be infused.
+The latter includes Ringer lactate and Plasma-Lyte solutions, which have
+electrolyte compositions similar to plasma. In some studies, but not in all,
+balanced crystalloid solutions were found to be superior to saline-based
+ones (Semler, 2018; Yule, 2020). Excessive saline-based crystalloid solution
+can theoretically lead to hyperchloremic acidosis. In comparisons, the
+difficulty lies in separating the effects of the underlying pathophysiology
+driving the acidosis.
+
+■ Blood Replacement
+Type and Screen Versus Crossmatch
+A blood type and antibody screen should be performed for any woman at
+significant risk for hemorrhage. Because prediction of women at risk for
+postpartum hemorrhage is poor, we perform type and screen in all women
+upon admission to labor and delivery. Screening involves mixing maternal
+serum with standard reagent red cells that carry antigens to which most of the
+common clinically significant antibodies react. Instead, crossmatching
+involves the use of actual donor erythrocytes rather than the standardized red
+cells. This process is efficient, and only 0.03 to 0.07 percent of patients
+identified as having no antibodies are subsequently found to them (Boral,
+1979). Importantly, administration of screened blood rarely results in
+adverse clinical sequelae.
+
+Transfusion Thresholds
+The hematocrit level or hemoglobin concentration threshold that mandates
+blood transfusion is controversial (Bienstock, 2021). Cardiac output does not
+substantively drop until the hemoglobin concentration falls to approximately
+7 g/dL or when the hematocrit approximates 20 volume percent. Military
+combat trauma units have used a target hematocrit of 21 volume percent, and
+at this level, most experts recommend consideration of red cell transfusion
+(Carson, 2017; Kogutt, 2019). In general, with ongoing obstetrical
+hemorrhage, we recommend rapid blood infusion when the hematocrit is <25
+volume percent. Other decision-modifying factors are whether the fetus is
+undelivered; surgery is imminent or ongoing operative blood loss is
+expected; or maternal hypoxia, vascular collapse, or other factors are
+present.
+Limited data address these issues. In a study from the Canadian Critical
+Care Trials Group, nonpregnant patients were randomly assigned to
+restrictive red cell transfusions to maintain hemoglobin concentration >7
+g/dL or to liberal transfusions to maintain the hemoglobin level at 10 to 12
+g/dL. The 30-day mortality rate was similar—19 versus 23 percent—in the
+restrictive versus liberal groups, respectively (Hébert, 1999). Transfusion
+therapy in nonpregnant patients with septic shock had similar mortality rates
+when 7 g/dL was compared with 9 g/dL as targets for transfusions (Holst,
+2014). The number of units transfused in a given woman to reach a target
+hematocrit depends on her body mass and on the expectations of
+additional blood loss.
+
+Blood Component Products
+The content and effects of transfusion of various blood components are
+shown in Table 44-1. Because whole blood is rarely available, most women
+with obstetrical hemorrhage and ongoing massive blood loss are given
+packed red cells, crystalloid solutions, and blood components. As
+subsequently discussed, many institutions use massive transfusion protocols
+(MTPs) designed to anticipate all facets of massive obstetrical hemorrhage.
+These protocols commonly contain plasma, cryoprecipitate, and platelets in
+various ratios (Cunningham, 2015; Shields, 2011).
+
+TABLE 44-1. Blood Products Commonly Transfused in Obstetrical
+Hemorrhage
+
+Several studies have assessed plasma:red cell ratios with MTPs used in
+civilian trauma units and military combat hospitals (Hardin, 2014; Rahouma,
+2018). Patients receiving a massive transfusion—defined as 10 or more units
+of blood—had much higher survival rates as the ratio of plasma to red cell
+units neared 1:1.4, that is, one unit of plasma given for each 1.4 units of
+packed red cells. By way of contrast, the highest mortality group had a ratio
+of 1:8.
+From the foregoing, when red cell replacement exceeds five units or so,
+evaluation of platelet count, clotting studies, and plasma fibrinogen
+concentration is reasonable (Bienstock, 2021; Pacheco, 2019). In the woman
+with obstetrical hemorrhage, the platelet count should be maintained
+>50,000/µL by the infusion of platelet concentrates. A fibrinogen level <150
+mg/dL or a sufficiently prolonged PT or PTT in a woman with surgical
+bleeding is an indication for replacement. Fresh-frozen plasma is
+administered in doses of 10 to 15 mL/kg, or alternatively, cryoprecipitate is
+infused (see Table 44-1).
+At Parkland Hospital, we use a standardized response to active
+hemorrhage. If whole blood is not available, the following escalation of
+blood products is applied: 2 units packed red blood cells, and if continued
+bleeding, 2 units packed red blood cells and 2 units fresh-frozen plasma are
+automatically ordered. Beyond this, MTP is initiated.
+
+Whole Blood and Packed Red Blood Cells
+
+Compatible whole blood is ideal for management of severe obstetrical
+hemorrhage. It has a shelf life of 40 days, and 70 percent of the transfused
+red cells function for at least 24 hours following transfusion. One unit raises
+the hematocrit by 3 to 4 volume percent. Important for obstetrical
+hemorrhage, whole blood replaces many coagulation factors needed in
+obstetrics—especially fibrinogen—and its plasma treats hypovolemia. A
+collateral derivative is that women with severe hemorrhage are resuscitated
+with fewer blood donor exposures than with packed red cells and
+components.
+Experience at Parkland Hospital supports the preferable use of whole
+blood for massive hemorrhage (Alexander, 2009; Hernandez, 2012). Of more
+than 66,000 deliveries, women with obstetrical hemorrhage treated with
+whole blood had significantly lower incidences of severe maternal morbidity
+that included renal failure, acute respiratory distress syndrome, pulmonary
+edema, hypofibrinogenemia, intensive care unit admissions, or maternal
+death compared with those given packed red cells and component therapy.
+One unit of packed erythrocytes is derived from one unit of whole blood to
+have a hematocrit of 55 to 80 volume percent. One unit will increase the
+hematocrit by 3 to 4 volume percent depending on the size of the woman.
+
+Dilutional Coagulopathy
+A major drawback of massive hemorrhage treatment with crystalloid
+solutions and packed red blood cells is depletion of platelets and clotting
+factors. Discussed later, this can lead to a dilutional coagulopathy that is
+clinically indistinguishable from DIC (Cunningham, 2015; Hossain, 2013).
+Thrombocytopenia is the most frequent coagulation defect found with blood
+loss and multiple transfusions. In addition, packed red cells have only very
+small amounts of soluble clotting factors, and stored whole blood is deficient
+in platelets and in factors V, VIII, and XI. Thus, hypofibrinogenemia and
+prolongation of the prothrombin (PT) and partial thromboplastin times (PTT)
+are other sequelae. Because many causes of obstetrical hemorrhage also
+cause DIC, the distinction between dilutional and consumptive coagulopathy
+can be confusing. Fortunately, treatment for both is similar.
+
+Platelets
+
+Platelet transfusions are considered with ongoing obstetrical hemorrhage if
+the platelet count falls below 50,000/µL (Kenny, 2015). In the nonsurgical
+patient, bleeding is rarely encountered if the platelet count is 10,000/µL or
+higher (Murphy, 2010). The preferable source of platelets is one “bag”
+obtained by single-donor apheresis. This contains the equivalent of one unit
+each from six individual donors. Depending on maternal size, each singledonor-apheresis, six-unit bag raises the platelet count by approximately
+20,000/µL. If these bags are not available, then individual-donor platelet
+units are used, and six to eight such units are generally transfused.
+Importantly, the donor plasma in platelet units must be compatible with
+recipient erythrocytes. Further, because some red blood cells are invariably
+transfused along with the platelets, only units from D-negative donors should
+be given to D-negative recipients.
+
+Fresh-frozen Plasma
+This component is prepared by separating plasma from whole blood and then
+freezing it. Approximately 30 minutes are required for frozen plasma to thaw.
+It is a source of all stable and labile clotting factors, including fibrinogen.
+Thus, it is often used for treatment of women with consumptive or dilutional
+coagulopathy. Plasma is not a suitable volume expander in the absence of
+specific clotting factor deficiencies. It is considered in a bleeding woman
+with a fibrinogen level <150 mg/dL or with an abnormal PT or PTT.
+An alternative to frozen plasma is liquid plasma (LQP). This neverfrozen plasma is stored at 1 to 60 C for up to 40 days, and its use compares
+favorably with fresh-frozen plasma (Backholder, 2017). Liquid plasma is not
+universally available in many centers.
+
+Cryoprecipitate and Fibrinogen Concentrate
+Each unit of cryoprecipitate is prepared from one unit of fresh-frozen plasma.
+Each 10- to 15-mL unit contains at least 200 mg of fibrinogen along with
+factor VIII:C, factor VIII:von Willebrand factor, factor XIII, and fibronectin
+(American Association of Blood Banks, 2017). It is usually given as a
+“pool” or “bag” using an aliquot of fibrinogen concentrate taken from 8 to
+120 donors. Cryoprecipitate is an ideal source of fibrinogen when levels are
+dangerously low and surgical incisions show oozing. Because of transit time,
+the return of cryoprecipitate to transfusion services is often not feasible and
+
+is considered wastage if not deployed. Nearly 17 percent of ordered
+cryoprecipitate has been reported to be wasted in labor and delivery units,
+and this is the most commonly wasted product (Yee, 2019). Another
+alternative is virus-inactivated fibrinogen concentrate (Ng, 2020). These
+pooled fibrinogen products are marketed as RiaSTAP and Fibryna. Each
+gram of concentrate raises the plasma fibrinogen level approximately 40
+mg/dL. These concentrates are used to treat congenital hypofibrinogenemia
+syndromes.
+
+Recombinant Activated Factor VII
+This synthetic vitamin K–dependent protein is available as NovoSeven.
+Recombinant activated factor VII (rFVIIa) binds to exposed tissue factor at
+the injury site to generate thrombin that activates platelets and the coagulation
+cascade. Since its introduction, rFVIIa has been used to help control
+hemorrhage from surgery, trauma, and obstetrical causes (Goodnough, 2016;
+Murakami, 2015). Many Level I trauma centers include it in MTPs.
+Importantly, rFVIIa will not be effective if the plasma fibrinogen level is <50
+mg/dL or the platelet count is <30,000/µL.
+One concern with rFVIIa is associated arterial—and to a lesser degree—
+venous thrombosis. In a review of 35 randomized trials, arterial
+thromboembolism developed in 55 percent (Levi, 2010). A second concern
+is that it has been found to have only marginal efficacy (Pacheco, 2019).
+
+Tranexamic Acid
+Normally, plasminogen binds with tissue plasminogen activator (tPA) to form
+plasmin. This binding degrades fibrin into fibrinogen–fibrin degradation
+products and leads to clot lysis. Instead, tranexamic acid (TXA) reversibly
+binds to plasminogen, and thereby blocks plasmin binding to fibrin. Fibrin
+strands are not broken, and a clot persists to slow down bleeding.
+Ahmadzia and coworkers (2021) recently reported the
+pharmacodynamics of TXA at cesarean delivery using rotational
+thromboelastometry. TXA inhibited tPA-induced clot lysis in a dosedependent manner. In the randomized WOMAN trial of gravidas with
+hemorrhage following vaginal birth or during cesarean delivery, mortality
+rates from obstetrical hemorrhage were 1.2 percent in those given a 1-g
+intravenous TXA dose plus traditional care for bleeding. This rate was
+
+statistically lower than the 1.7-percent death rate in women given traditional
+care alone (WOMAN Trial Collaborators, 2017). The trial was carried out
+in developing nations and because of the results, the drug is recommended by
+the World Health Organization (2017). In a large randomized trial of
+tranexamic acid given for prophylaxis, the drug did not decrease the rate of
+postpartum hemorrhage following vaginal delivery (Sentilhes, 2018). In the
+Tranexamic Acid for Preventing Postpartum Hemorrhage Following a
+Cesarean Delivery—TRAAP2 trial—women undergoing cesarean delivery
+who were given tranexamic acid prophylaxis had a lower incidence of redcell transfusions (Sentilhes, 2021).
+Gayet-Ageron and coworkers (2018) conducted a metaanalysis with
+more than 1000 patients with postpartum hemorrhage treated with TXA. They
+also analyzed data from two randomized trials that included more than
+40,000 women treated with TXA. They concluded that treatment must be
+given soon after bleeding onset to reduce maternal mortality rates. Shakur
+and colleagues (2018) performed a Cochrane database review and also
+concluded that early TXA administration decreases maternal deaths.
+Most of these studies were conducted in impoverished countries, and the
+American College of Obstetricians and Gynecologists (2019a) does not
+recommend TXA for either prophylaxis or first-line treatment of obstetrical
+hemorrhage. If used, administration within 3 hours of delivery is
+recommended.
+
+Massive Transfusion Protocols
+As noted, these protocols are initiated once four to five units of packed red
+cells have been given within 2 hours or so. These protocols speed blood
+product delivery to provide early resuscitation and help avoid dilutional
+coagulopathy. Once activated, packed red cells, plasma, platelets, and
+fibrinogen are given set ratios (Table 44-2). Some protocols include rFVIIa,
+TXA, or prothrombin complex concentrates (Jackson, 2018).
+TABLE 44-2. Parkland Hospital Obstetrical Massive Transfusion Protocol
+
+The data supporting the superiority of MTPs compared with traditional
+component replacement to improve survival rates in obstetrical studies are
+limited. Most reports describe nonpregnant trauma victims, but some
+observational studies address obstetrical hemorrhage (Green, 2016;
+Pacheco, 2016).
+
+Viscoelastic Assays
+Thromboelastography (TEG) and rotational thromboelastometry (ROTEM)
+are point-of-care tests that assess coagulation in whole blood during massive
+transfusions. These tests work by analyzing both clot formation and
+breakdown in a whole blood sample from a given patient. Testing produces a
+profile of coagulation dynamics, and displayed values indicate the speed and
+quality of clot formation (Fig. 44-1). These assays provide information
+regarding time to clot formation, clot strength, and fibrinolysis (Arnolds,
+2020). Currently, they guide blood product replacement in trauma, liver
+transplant, and cardiac surgery patients. Studies of TEG and ROTEM
+techniques in pregnant women have confirmed the hypercoagulable state of
+pregnancy and provide reference ranges for use in this population (Lee,
+2021; McNamara, 2019; Pacheco, 2019).
+
+FIGURE 44-1 Normal thromboelastograph (TEG). R (reaction time: start of test to clot forming. K
+(clotting time): from start to 20 mm amplitude. Alpha (α) angle: speed of fibrin formation. A15, A20:
+amplitude at 15 and 20 minutes. MCF: maximum clot firmness. LY30: amount of clot lysed at 30
+minutes.
+
+Although promising, they also have several limitations. For example, they
+are less informative in a woman with torrential hemorrhage in whom clotting
+function would need to be measured minute-by-minute. They cannot be used
+to detect disorders of primary hemostasis (Solomon, 2012). A major
+drawback is the risk of misinterpretation when tests are used by inadequately
+trained personnel. Although use is gaining favor, we and others recommend
+further study before these tests are widely applied for obstetrical hemorrhage
+treatment (Amgalan, 2020). We have found this testing modality to be more
+applicable after initial management of hemorrhage and with intensive care
+recovery than during acute hemorrhage.
+
+Cell Salvage and Autologous Transfusion
+Preoperative patient phlebotomy and autologous blood storage for
+transfusion in obstetrics has been disappointing. Exceptions are women with
+a rare blood type or with unusual antibodies (Pacheco, 2013; Sullivan,
+2019).
+Intraoperative blood salvage with reinfusion is considered a safe
+intervention in obstetrical patients. This practice may aid women declining
+
+transfusion (Chap. 30, p. 549). Prior concern centered on amnionic fluid
+contamination and embolism (Dhariwal, 2014; Goucher, 2015). To evaluate
+benefits, one trial randomly assigned 3028 women at risk for hemorrhage and
+undergoing cesarean delivery either to routine care or to cell salvage. The
+rate of nonautologous donor blood transfusion was not significantly reduced
+in the cell salvage group—2.5 versus 3.5 percent (Khan, 2017). In another
+study, Sullivan and colleagues (2019) routinely set up most cesarean
+deliveries for autologous transfusions and reported a lower rate of
+nonautologous donor transfusion. Similar to prior reports, no cases of
+amnionic fluid embolism were reported in these two studies.
+
+■ Transfusion Complications
+Of serious known risks, transfusion of an incompatible blood component
+may result in acute hemolysis. If severe, this can cause DIC, acute kidney
+injury, and death. Preventable errors responsible for most of these reactions
+frequently include mislabeling of a specimen or incorrectly transfusing a
+patient not slated for those products.
+The rate of such errors in the United States is estimated to be 1 case in
+14,000 units, but these events are likely underreported (Lerner, 2010). A
+transfusion reaction is characterized by fever, hypotension, tachycardia,
+dyspnea, chest or back pain, flushing, severe anxiety, and hemoglobinuria.
+Immediate supportive measures include stopping the transfusion, treating
+hypotension and hyperkalemia, provoking diuresis, and alkalinizing the urine.
+Transfusion-related acute lung injury (TRALI) and transfusionassociated circulatory overload (TACO) are the most common causes of
+transfusion-related mortality (Semple, 2019). Affected women
+characteristically have severe dyspnea, hypoxia, and pulmonary edema that
+develop within 6 hours of transfusion (Peters, 2015). Of the two, TACO is
+more common, and its incidence nears 1 percent. TRALI is estimated to
+complicate at least 1 in 12,000 transfusions (Carson, 2017). Although their
+pathogenesis is incompletely understood, injury to the pulmonary capillaries
+may arise from human leukocyte antigen (HLA) antibodies and human
+neutrophil antibodies (HNA) in donor plasma (McCullough, 2016).
+Management is supportive and may include mechanical ventilation (Chap.
+50, p. 885).
+
+Bacterial infection from transfusion of a contaminated blood component
+is unusual because organism growth is discouraged by refrigeration. The
+most often implicated contaminants of red cells include Yersinia,
+Pseudomonas, Serratia, Acinetobacter, and Escherichia species. The more
+important risk is from bacterial contamination of platelets, which are stored
+at room temperature. Current estimates are that 1 in 1000 to 2000 platelet
+units are contaminated. Death from transfusion-related sepsis is 1 case in
+17,000 transfused single-donor platelets and 1 case in 61,000 transfused
+apheresis-donor packs (Lerner, 2010).
+Viral infection risks from transfusion have been curtailed. The estimated
+risk of human immunodeficiency virus (HIV) or of hepatitis C virus infection
+in screened blood is 1 case in 1 to 2 million transfused units (Carson, 2017).
+The estimated hepatitis B transmission rate is <1 case in 100,000 transfused
+units (Jackson, 2003). Because of the high prevalence of the virus,
+cytomegalovirus-infected leukocytes are often transfused.
+Risks for transmitting West Nile virus, parvovirus B19, human Tlymphotropic virus type 1, and toxoplasmosis are slight (American
+Association of Blood Banks, 2013; Foroutan-Rad, 2016). Although rare,
+Zika virus has emerged as another relevant transfusion-transmitted infection
+(Motta, 2016). Collection of all whole blood components now includes
+testing for Zika virus (Centers for Disease Control and Prevention, 2018). At
+this time, transmission of SARS-CoV-2 virus from a COVID-positive donor
+is hypothetical (Leblanc, 2020).
+
+OBSTETRICAL COAGULOPATHIES
+The terms consumptive coagulopathy, defibrination syndrome, and
+disseminated intravascular coagulation (DIC) are often used
+interchangeably, but distinctions are important. Actual consumption of
+procoagulants within the intravascular tree results in a consumptive
+coagulopathy. In contrast, massive loss of procoagulants from hemorrhage
+results in a dilutional coagulopathy. Semantics aside, consumptive
+coagulopathy culminates in a systemic intravascular activation that
+completely disrupts natural hemostasis. As a result, an ineffective balance of
+natural anticoagulant mechanisms leads to widespread fibrin deposition that
+can cause multiorgan failure (Levi, 2016).
+
+■ Pregnancy-induced Coagulation Changes
+During normal pregnancy, the balance between coagulation and fibrinolysis
+changes to create a procoagulant state. Changes that promote coagulation
+include appreciable elevation in the plasma concentrations of factors I
+(fibrinogen), VII, VII, IX, and X. A partial list of these normal values is
+found in the Appendix (p. 1228). Concurrently, levels of plasminogen, which
+lyses fibrin, rise considerably. However, plasminogen activator inhibitor 1
+and 2 (PAI-1 and PAI-2) levels also increase. Thus, plasmin activity usually
+declines until after delivery (Hale, 2012; Hui, 2012). As shown in Figure 47, (p. 62), mean platelet count drops by 10 percent during pregnancy, and
+platelet activation is enhanced (Kenny, 2015; Reese, 2018).
+The net results of these changes include greater levels of fibrinopeptide
+A, β-thromboglobulin, platelet factor 4, and fibrinogen–fibrin degradation
+products, which includes D-dimers. In addition to lower concentrations of the
+anticoagulant protein S, pregnancy-related hypercoagulability, and decreased
+fibrinolysis, there is augmented—yet compensated—intravascular
+coagulation that may function to maintain the uteroplacental interface.
+
+■ Disseminated Intravascular Coagulation
+Because of the many definitions and variable severity, the incidence of
+consumptive coagulopathy in gravidas varies and ranges from 0.03 to 0.35
+percent (Erez, 2014; Rattray, 2012). For example, some degree of significant
+coagulopathy is found in virtually all cases of placental abruption and
+amnionic fluid embolism. Other instances in which frequently occurring but
+less recognized degrees of coagulation activation can be found include
+sepsis; thrombotic microangiopathies; acute kidney injury; acute fatty liver;
+severe preeclampsia; and hemolysis, elevated liver enzyme levels, low
+platelet count (HELLP) syndrome (Cunningham, 2015).
+When consumptive coagulopathy is severe, the likelihood of maternal and
+perinatal morbidity and mortality rises. In one study of 49 cases, antecedent
+causes included those listed above, and 59 percent received blood
+transfusions, 18 percent underwent hysterectomy, 6 percent required renal
+dialysis, and three mothers died (Rattray, 2012). In this series, the perinatal
+mortality rate was 30 percent. From 2010 to 2011, DIC was the second most
+common severe maternal morbidity indicator (Creanga, 2014). DIC was
+
+associated with nearly a fourth of maternal deaths during this study period.
+Despite these statistics, consumptive coagulopathy as the sole cause of
+maternal death is uncommon and accounts for only 0.2 percent of pregnancyrelated deaths in the United States (Creanga, 2015).
+
+■ Activation of Normal Coagulation
+Instead of the “waterfall” sequential activation of the clotting cascade, a
+current theory proposes that tissue factor—an integral membrane
+glycoprotein—serves as the principal initiator of coagulation (Levi, 2016).
+Coagulation then moves forward but incorporates a feedback loop. To begin,
+tissue factor forms complexes with factor VII/VIIa to activate factors IX and
+X. Tissue factor is found in highly vascularized organs such as the brain,
+lungs, and placenta; in amnionic fluid; and in certain other cells (Kuczyfiski,
+2002; Østerud, 2006; Uszyfiski, 2001).
+Tissue factor–factor VIIa complexes ultimately generate activated factor
+X (Xa) to initiate clotting. Subsequently, the previously labeled “intrinsic”
+pathway amplifies this process. Specifically, the initial thrombin produced
+directly activates factor XI by providing a feedback amplification loop (Fig.
+44-2). The end result of this amplified coagulation process is fibrin
+formation. This is then counterbalanced by the fibrinolytic system, in which
+plasminogen is activated. Even this process is tied initially to tissue factor.
+The final product is fibrin degradation products, sometimes called fibrin
+split products, which include D-dimers.
+
+FIGURE 44-2 Coagulation pathway schematic. FSP = fibrin split products; PAI = plasminogen
+activator inhibitor; TFPI = tissue factor pathway inhibitor.
+
+■ Activation of Pathological Coagulation
+With DIC, pathological entities prompt tissue factor release from
+subendothelial tissue and stimulated monocytes, which in turn provoke
+cytokine release from the endothelium. With generalized endothelial
+activation, diffuse activation of coagulation follows. This pathological cycle
+of coagulation and fibrinolysis becomes clinically important when
+coagulation factors and platelets are sufficiently depleted to create
+consumptive coagulopathy.
+
+Purpura fulminans is a severe—often lethal—form of consumptive
+coagulopathy. It is caused by microthrombi in small blood vessels leading to
+skin necrosis and sometimes vasculitis. Debridement of large areas of skin
+over the extremities and buttocks frequently requires treatment in a burn unit.
+Rarely, four-extremity amputation is required (Bhatti, 2019). Purpura
+fulminans usually complicates sepsis in women with heterozygous protein C
+deficiencies and low protein C serum levels (Bhatti, 2019; Levi, 2016).
+Importantly, homozygous protein C or S deficiency results in neonatal
+purpura fulminans, which is fatal (Chap. 55, p. 976).
+
+■ Inciting Conditions
+Several obstetrical syndromes can trigger consumptive coagulopathy. Of
+these, placental abruption is the most common cause of severe consumptive
+coagulopathy in obstetrics and is discussed more fully in Chapter 43 (p.
+749). With preeclampsia, eclampsia, and HELLP syndrome, endothelial
+activation is a hallmark. Perhaps 10 percent of HELLP cases have some
+disseminated coagulation (Haram, 2017). In general, the clinical severity of
+preeclampsia is directly correlated with thrombocytopenia and fibrin
+degradation products (Gedik 2017; Kenny, 2015). That said, intravascular
+coagulation is seldom severe enough to be clinically worrisome (Pritchard,
+1976). Acute fatty liver of pregnancy also causes intravascular coagulation in
+addition to decreased procoagulant synthesis (Chap. 58, p. 1034).
+Amnionic fluid embolism is usually caused by intravenous embolization
+of meconium-laden amnionic fluid. It results in rapid cardiorespiratory
+collapse and profound consumptive coagulopathy. The Society for MaternalFetal Medicine (2021) has developed a checklist for the initial management
+of amnionic fluid embolism. It is discussed in Chapter 42 (p. 745).
+Sepsis stemming from various infections can be accompanied by endo-or
+exotoxin release. Although a feature of sepsis syndrome includes activation
+of coagulation, seldom does sepsis alone cause massive procoagulant
+consumption. Escherichia coli bacteremia is frequently seen with antepartum
+pyelonephritis and puerperal infections, however, accompanying
+consumptive coagulopathy is usually not severe. Some notable exceptions are
+septicemia caused by exotoxins released from group A Streptococcus
+pyogenes, Staphylococcus aureus, or Clostridium perfringens, C sordellii,
+or C novyi (Herrera, 2016; Pritchard, 1971). Treatment of sepsis and septic
+
+shock is discussed in Chapter 50 (p. 889). Septic abortion—especially
+associated with these organisms—can incite coagulation and worsen
+hemorrhage.
+Second-trimester induced abortions can stimulate intravascular
+coagulation even in the absence of sepsis. Ben-Ami and associates (2012)
+described a 1.6-percent incidence in 1249 late-second-trimester pregnancies
+terminated by dilation and evacuation. Two thirds were done for fetal
+demise, which may have contributed to coagulopathy (Kerns, 2019). Another
+source of intense coagulation is instillation of hypertonic solutions to effect
+midtrimester abortions. These are not commonly used currently for pregnancy
+terminations. The mechanism is thought to initiate coagulation by
+thromboplastin release into maternal circulation from the placenta, fetus, and
+decidua by the necrobiotic effect of hypertonic solutions.
+Prolonged retention of a dead fetus is an unusual cause of consumptive
+coagulopathy today. Namely, fetal death can be easily confirmed, and highly
+effective methods for labor induction are available. Moreover, if the dead
+fetus is undelivered, most women enter spontaneous labor within 2 weeks
+and gross disruption of maternal coagulation rarely develops before 4 weeks
+(Pritchard, 1959, 1973). After 1 month, however, almost a fourth will
+develop consumptive coagulopathy.
+
+■ Diagnosis
+Bioassay is an excellent method to detect or suspect clinically significant
+coagulopathy. Excessive bleeding at sites of modest trauma characterizes
+defective hemostasis. Examples include persistent bleeding from
+venipuncture sites, nicks from preoperative shaving, trauma from bladder
+catheterization, and spontaneous bleeding from the gums, nose, or
+gastrointestinal tract. Purpura or petechiae at pressure sites such as
+sphygmomanometer cuffs or tourniquets suggest significant
+thrombocytopenia. Any surgical procedure provides the ultimate bioassay
+and elicits generalized oozing from abdominal wall layers, the
+retroperitoneal space, the episiotomy, or incisions and dissections for
+cesarean delivery or hysterectomy.
+Of laboratory tests, fibrinogen and D-dimer levels can be informative. In
+late pregnancy, plasma fibrinogen levels typically have risen to 300 to 600
+mg/dL. Thus, even with severe consumptive coagulopathy, levels may
+
+sometimes be sufficiently high to protect against clinically harmful
+hypofibrinogenemia. For example, defibrination caused by a placental
+abruption might lower an initial fibrinogen level of 600 mg/dL to 250 mg/dL.
+Although this would indicate massive fibrinogen consumption, levels are still
+adequate to promote clinical coagulation. The clinically impactful threshold
+usually approximates 150 mg/dL. The effects of serious hypofibrinogenemia
+—less than 50 mg/dL—can be illustrated with clinical thrombin clot test.
+With low fibrinogen levels, the clot formed from whole blood in a glass
+phlebotomy tube will initially be soft and cannot retract in volume. Instead,
+during the next half hour, platelet-induced clot retraction ensues, and this
+causes a tighter clot to form.
+As depicted in Figure 44-2, fibrinolysis cleaves fibrin into various fibrin
+degradation products, and one of the smaller ones is the D-dimer. Several
+sensitive assays contain monoclonal antibodies specific for D-dimers
+(Johnson, 2019). Assay values are almost always abnormally high with
+clinically significant consumptive coagulopathy. At least in obstetrical
+disorders, quantification does not correlate with outcomes. Examples of the
+magnitude of fibrin split product elevations in various obstetrical
+coagulopathies are shown in Figure 44-3.
+
+FIGURE 44-3 Quantification of fibrin split products in various obstetrical syndromes that cause
+disseminated intravascular coagulation. AFLP = acute fatty liver of pregnancy; HELLP = hemolysis,
+elevated liver enzyme levels, low platelet count. (Reproduced with permission from Cunningham FG,
+Nelson DB: Disseminated intravascular coagulation syndromes in obstetrics. Obstet Gynecol. 2015
+Nov;126(5):999–1011)
+
+Thrombocytopenia is likely if petechiae are abundant or if clotted blood
+fails to retract within an hour or so. Confirmation is provided by a low
+platelet count. If severe preeclampsia syndrome is comorbid, qualitative
+platelet dysfunction may coexist (Chap. 40, p. 696).
+Prothrombin time (PT) and partial thromboplastin time (PTT) are
+standard coagulation tests. Prolongation may stem from very low fibrinogen
+concentrations, from appreciably reduced levels of the procoagulants needed
+to generate thrombin, or from large amounts of circulating fibrinogen–fibrin
+degradation products.
+Thromboelastometry and thromboelastography are point-of-care tests
+used as adjuncts to conventional laboratory studies (McNamara, 2019;
+Pacheco, 2019). Their current role may serve to guide blood product
+replacements as discussed earlier (p. 774). Using many of these tests, several
+
+organizations have attempted to establish a more uniform definition of DIC.
+One is the International Society on Thrombosis and Haemostasis (ISTH)
+scoring system. The score is used only after a condition known to cause
+intravascular coagulation is identified and is calculated using a combination
+of laboratory tests. Composite ISTH-DIC scores <5 suggest nonovert DIC,
+whereas scores ≥5 are compatible with overt DIC. A scoring system for
+nonovert DIC has been developed by Alhousseini and coworkers (2020).
+These scoring systems have not been applied widely in obstetrics
+(Hizkiyahu, 2019; Jonard, 2016; Nelson, 2014).
+
+■ General Management
+To halt ongoing defibrination, identifying and removing the inciting source is
+a priority. With incisions or extensive lacerations accompanied by severe
+hemorrhage, rapid replacement of procoagulants is usually indicated.
+Vigorous restoration and maintenance of the circulation to treat hypovolemia
+cannot be overemphasized. Adequate perfusion restores hepatic and
+endothelial synthesis of procoagulants and permits prompt removal of
+activated coagulation factors, fibrin, and fibrin degradation products by the
+reticuloendothelial system.
+Aside from these fundamental steps, few other agents have proved
+soundly effective. Although its use is seemingly counterintuitive,
+unfractionated heparin has now been abandoned. Other agents not
+recommended for first-line use include tranexamic acid or epsilonaminocaproic acid, both antifibrinolytic agents (American College of
+Obstetricians and Gynecologists, 2019a; Pacheco, 2017). This is because the
+fibrinolytic system is necessary for dissolution of widespread fibrin
+thromboses caused by generalized intravascular coagulation (Levi, 2016).
+Discussed earlier (p. 773), recombinant factor VIIa (rFVIIa) can be used to
+help control severe obstetrical hemorrhage from other causes. However,
+current clinical evidence is insufficient to make firm recommendations on its
+administration for obstetrical coagulopathies.
+
+SURGICAL MANAGEMENT OF HEMORRHAGE
+Several invasive procedures can help to arrest severe postpartum
+hemorrhage. A report from the Agency for Healthcare Research and Quality
+
+concluded that most studies addressing these methods are of poor quality
+(Likis, 2015). In one study of 6660 women with postpartum hemorrhage, 4
+percent underwent an invasive procedure, and 1 percent had a hysterectomy
+(Kayem, 2016). The failure rate of conservative surgical and embolization
+procedures was 15 percent.
+Of specific methods, use of uterine balloon tamponade for treatment of
+atony has doubled in the past decade (Merriam, 2020; Suarez, 2020). It is
+described in Chapter 42 (p. 737).
+For low-pressure bleeding, topical hemostatic agents can be used to
+control persistent surgical oozing. These were reviewed by Stachowicz and
+colleagues (2020). Other than for cesarean hysterectomy, these are seldom
+used in obstetrical hemorrhage.
+
+■ Uterine Compression Sutures
+This surgical technique uses a no. 2 chromic suture to compress the anterior
+and posterior uterine walls together (B-Lynch, 1997). Because they give the
+appearance of suspenders, they are also called braces (Fig. 44-4). Several
+modifications of the B-Lynch technique have been described (Gilmandyar,
+2019; Matsubara, 2013; Nelson, 2007).
+
+FIGURE 44-4 Uterine compression suture or “brace.” The B-Lynch suture technique is illustrated
+from an anterior view of the uterus in Figures A, B, and D and a posterior view in Figure C. The
+numbers denote the sequential path of the suture and are shown in more than one figure. Step 1.
+Beginning below the incision, the needle pierces the lower uterine segment to enter the uterine cavity.
+Step 2. The needle exits the cavity above the incision. The suture then loops up and around the fundus
+to the posterior uterine surface. Step 3. The needle pierces the posterior uterine wall to reenter the
+
+uterine cavity. The suture then traverses to the opposite side within the cavity. Step 4. The needle exits
+the uterine cavity through the posterior uterine wall. From the back of the uterus, the suture loops up
+and around the fundus to the front of the uterus. Step 5. The needle pierces the myometrium above the
+incision to reenter the uterine cavity. Step 6. The needle exits below the incision, and the sutures at
+points 1 and 6 are tied below the incision. The hysterotomy incision is then closed in the usual fashion.
+
+B-Lynch sutures are mainly used to treat atony. These may help diminish
+DIC-associated bleeding, while coagulation is corrected by transfusion.
+Success rates vary by indication. For example, B-Lynch (2005) cited 948
+cases with only 7 failures. Conversely, in other series, overall failure rates
+were 20 to 25 percent (Kaya, 2016; Kayem, 2011).
+Some unique complications can rarely follow compression sutures
+(Matsubara, 2013). Most involve variations of uterine ischemic necrosis
+with peritonitis (Gottlieb, 2008; Joshi, 2004; Treloar, 2006). In most cases,
+subsequent pregnancies are uneventful if compression sutures are used (An,
+2013). A few women with B-Lynch sutures, however, developed uterine wall
+defects or uterine cavity synechiae (Akoury, 2008; Alouini, 2011; Ibrahim,
+2013).
+
+■ Artery Ligation
+Ligation of arterial blood flow to the uterus can halt or diminish obstetrical
+hemorrhage. Common indications include uterine hysterotomy incision
+laceration, uterine atony, and abnormal placentation.
+Uterine artery ligation may be unilateral or bilateral and is used mainly
+for lacerations at the lateral part of a hysterotomy incision (Fig. 44-5). In our
+experiences, this procedure is less helpful for other hemorrhage etiologies. In
+rare cases with torrential hemorrhage from placenta accreta syndrome, a
+tourniquet wrapped around the lower uterine segment may slow bleeding
+sufficiently while resuscitation ensues and dissection for hysterectomy is
+performed.
+
+FIGURE 44-5 Uterine artery ligation. The suture goes through the lateral uterine wall anteriorly,
+curves posteriorly, and then re-enters anteriorly. When tied, it encompasses the uterine artery.
+
+Internal iliac artery ligation may also be unilateral or bilateral. For
+years, ligation has been used to reduce pelvic hemorrhage. However, the
+procedure may be technically difficult and is successful in only half of cases
+(American College of Obstetricians and Gynecologists, 2019a; Bienstock,
+2021). Wei and colleagues (2019) reported it to be successful for improved
+hemostasis with placenta previa. It is not particularly helpful for abating
+hemorrhage with postpartum atony (Clark, 1985).
+For internal iliac ligation, adequate exposure is obtained by opening the
+peritoneum over the common iliac artery and dissecting down to the
+bifurcation of the external and internal iliac arteries (Fig. 44-6). Branches
+distal to the external iliac arteries are palpated to verify pulsations at or
+below the inguinal area. Ligation of the internal iliac artery at a point 5 cm
+distal to the common iliac bifurcation will usually avoid the internal iliac
+
+artery’s posterior division branches (Bleich, 2007). The areolar sheath of the
+artery is incised longitudinally, and a right-angle clamp is carefully passed
+just beneath the artery from lateral to medial. Care must be taken not to
+perforate contiguous large veins, especially the internal iliac vein. Suture—
+usually nonabsorbable—is passed under the artery with a clamp, and the
+vessel is then securely ligated.
+
+FIGURE 44-6 Ligation of the right internal iliac artery. Unembalmed cadaveric dissection shows the
+right-angle clamp passing underneath the anterior division of the internal iliac artery just distal to its
+posterior division. (Reproduced with permission from Dr. Marlene Corton.)
+
+The most important mechanism of action with internal iliac artery ligation
+is an 85-percent reduction in pulse pressure in those arteries distal to the
+ligation (Burchell, 1968). This converts an arterial pressure system into one
+
+with pressures approaching those in the venous circulation. This creates
+vessels more amenable to hemostasis via pressure and clot formation.
+Even bilateral internal iliac artery ligation does not appear to interfere
+with subsequent reproduction. Nizard and colleagues (2003) reported
+subsequent pregnancy in 17 such women. From a total of 21 pregnancies, 13
+were normal, 3 ended with miscarriage, 3 were terminated, and 2 were
+ectopic.
+
+■ Angiographic Embolization
+This modality is now used for many causes of intractable hemorrhage when
+surgical access is difficult. Its use has increased remarkably in the past
+decade (Merriam, 2020). In more than 500 pregnancy-related cases,
+embolization was effective in 90 percent (Grönvall, 2014; Lee, 2012;
+Poujade, 2011; Zhang, 2015). After his review, Rouse (2013) concluded that
+embolization can be used to arrest refractory postpartum hemorrhage. Other
+reports have been less enthusiastic. Fertility is not impaired, and many
+subsequent successful pregnancies have been reported (Fiori, 2009;
+Kolomeyevskaya, 2009). An important caveat for these procedures is that
+women with hemodynamic instability related to active bleeding should not
+be removed from the operating room.
+Complications are relatively uncommon but can be severe. Case reports
+detail instances of iatrogenic iliac artery rupture, uterine ischemic necrosis,
+and uterine infection (Grönvall, 2014; Katakam, 2009; Nakash, 2012). A rare
+case of massive buttock necrosis and paraplegia followed bilateral internal
+iliac artery embolization (Al-Thunyun, 2012). A myometrial defect in
+subsequent pregnancy also has been reported (Choo, 2019).
+In a few instances, massive blood loss and difficult surgical dissection is
+anticipated. The use of balloon-tipped catheters preoperatively inserted into
+the iliac or uterine arteries is described in management of placenta accreta
+spectrum (Chap. 43, p. 759).
+
+■ Aortic Compression
+Prophylactic use of an aortic balloon occlusion device has been reported to
+reduce blood loss and the need for hysterectomy (Chen, 2019). Also known
+as resuscitative endovascular balloon occlusion of the aorta (REBOA),
+
+such occlusion lowers the perfusion pressure distally, increases cardiac
+afterload, and redistributes blood volume to the heart and brain (Cannon,
+2018). Prolonged occlusion can result in lower limb ischemia requiring
+amputation. Whittington and colleagues (2020) described its successful
+prophylactic use in 11 women with placenta accreta spectrum disorders.
+Instead, manual compression of the aorta above the sacral promontory
+can be used in cases in which pelvic hemorrhage is torrential. If the abdomen
+is closed, pressure placed above the umbilicus reduces blood pressure
+distally (Barbieri, 2018).
+
+■ Pelvic Packing
+If hysterectomy fails to curtail hemorrhage, then pelvic packing with gauze
+and termination of the operation may be considered (Pacheo, 2018; Touhami,
+2018). Rolls of gauze are packed to provide constant local pressure. In some
+cases, this may serve as a temporizing step prior to interventional
+embolization. In other cases, packing alone may be left for 48 to 72 hours. If
+the patient is stable and bleeding appears to have stopped, packing is
+removed. In one review of 104 cases, the success rate was 79 percent.
+Packing failed in 24 patients, and 13 of these women died, yielding an
+overall mortality rate of 13 percent (Touhami, 2018).
+The umbrella or parachute pack uses a similar concept (Logothetopulos,
+1926). Although seldom used today, it can be lifesaving if all other measures
+have failed, especially in low-resource areas (Dildy, 2006; Touhami, 2018).
+The pack is constructed of a sturdy sterile plastic bag that is filled with gauze
+rolls that are unwound and knotted together. Sufficient rolls are used to
+provide adequate volume in the bag to fill the pelvis. The pack is introduced
+transabdominally with the stalk exiting the vagina. Mild traction is applied
+by tying the stalk to a 1-liter fluid bag, which is hung over the foot of the bed.
+The umbrella pack is removed vaginally after 24 hours.
+
+REFERENCES
+Ahmadzia HK, Luban NL, Li S, et al: Optimal use of intravenous tranexamic acid for hemorrhage
+prevention in pregnant women. Am J Obstet Gynecol 225(1):85.e1, 2021
+Akoury H, Sherman C: Uterine wall partial thickness necrosis following combined B-Lynch and Cho
+square sutures for the treatment of primary postpartum hemorrhage. J Obstet Gynaecol Can 30:421,
+
+2008
+Alexander JM, Sarode R, McIntire DD, et al: Use of whole blood in the management of hypovolemia
+due to obstetric hemorrhage. Obstet Gynecol 113:1320, 2009
+Alhousseini A, Romero R, Benshalom-Tirosh N, et al: Nonovert disseminated intravascular coagulation
+(DIC) in pregnancy: a new scoring system for the identification of patients at risk for obstetrical
+hemorrhage requiring blood product transfusion. J Matern Fetal Neonatal Med February 3, 2020
+[Epub ahead of print]
+Alouini S, Coly S, Megier P, Lemaire B, et al: Multiple square sutures for postpartum hemorrhage:
+results and hysteroscopic assessment. Am J Obstet Gynecol 205(4):335, 2011
+Al-Thunyan A, Al-Meshal O, Al-Hussainan H, et al: Buttock necrosis and paraplegia after bilateral
+internal iliac artery embolization for postpartum hemorrhage. Obstet Gynecol 120(2 Pt 2):468, 2012
+American Association of Blood Banks: Circular of information for the use of human blood and blood
+components. 2017. Available at: https://www.aabb.org/docs/default-source/default-documentlibrary/resources/circular-of-information-10-17.pdf. Accessed February 14, 2021
+American Association of Blood Banks: Human parvovirus B19. 2013. Available at:
+https://www.aabb.org/tm/eid/Documents/Human—Parvovirus—B19.pdf. Accessed February 14,
+2021
+American College of Obstetricians and Gynecologists: Postpartum hemorrhage. Practice Bulletin No.
+183, October 2019a
+American College of Obstetricians and Gynecologists: Quantitative blood loss in obstetric hemorrhage.
+Committee Opinion No. 794, December 2019b
+Amgalan A, Allen T, Othman M, et al: Systematic review of viscoelastic testing (TEG/ROTEM) in
+obstetrics and recommendations from the Women’s SSC of the ISTH. J Thromb Haemost
+18(8):1813, 2020
+An GH, Ryu HM, Kim My, et al: Outcomes of subsequent pregnancies after uterine compression
+sutures for postpartum hemorrhage. Obstet Gynecol 122(3):565, 2013
+Arnolds DE, Scavone BM: Thromboelastographic assessment of fibrinolytic activity in postpartum
+hemorrhage: a retrospective single-center observational study. Anesth Analg 131(5):1373, 2020
+Backholder L, Green L, Huish S, et al: A paired comparison of thawed and liquid plasma. Transfusion
+57:881, 2017
+Barbieri RL: Postpartum hemorrhage: aortic compression to reduce pelvic bleeding. OBG Management
+30(10):10, 2018
+Ben-Ami I, Fuchs N, Schneider D, et al: Coagulopathy associated with dilation and evacuation for
+second-trimester abortion. Acta Obstet Gynecol Scand 91(1):10, 2012
+Bhatti UF, Williams AM, Raghavendran K, et al: Four-extremity amputation following disseminated
+intravascular coagulation and purpura fulminans. BMJ Case Rep 12(3):e228028, 2019
+Bienstock JL, Ahizechukwu C, Eke C, et al: Postpartum hemorrhage. N Engl J Med 384:1635, 2021
+Bleich AT, Rahn DD, Wieslander CK, et al: Posterior division of the internal iliac artery: anatomic
+variations and clinical applications. Am J Obstet Gynecol 197:658.e1, 2007
+B-Lynch C: Partial ischemic necrosis of the uterus following a uterine brace compression suture. BJOG
+112:126, 2005
+B-Lynch CB, Coker A, Laval AH, et al: The B-Lynch surgical technique for control of massive
+postpartum hemorrhage: an alternative to hysterectomy? Five cases reported. BJOG 104:372, 1997
+Boral LI, Hill SS, Apollon CJ, et al: The type and antibody screen, revisited. Am J Clin Pathol 71:578,
+1979
+Burchell RC: Physiology of internal iliac artery ligation. J Obstet Gynaecol Br Commonw 75:642, 1968
+
+Cannon JW: Hemorrhagic shock. N Engl J Med 378(4):370, 2018
+Carson JL, Triulzi DJ, Ness PM: Indications for and adverse effects of red-cell transfusion. N Engl J
+Med 377:13, 2017
+Centers for Disease Control and Prevention: Zika and blood transfusions. 2018. Available at:
+https://www.cdc.gov/zika/transmission/blood-transfusion.html. Accessed February 14, 2021
+Chen L, Wang X, Wang H, et al: Clinical evaluation of prophylactic abdominal aortic balloon occlusion in
+patients with placenta accreta: a systematic review and meta-analysis. BMC Pregnancy Childbirth
+19(1):30, 2019
+Choo S, Wiseman D, MacMillan J, et al: Myometrial defect in a subsequent pregnancy after uterine
+artery embolization for postpartum hemorrhage, in the absence of leiomyomas or previous uterine
+surgery. J Obstet Gynaecol Can 42(2):173, 2019
+Clark SL, Phelan JP, Yeh SY: Hypogastric artery ligation for obstetric hemorrhage. Obstet Gynecol
+66:353, 1985
+Creanga AA, Bateman BT, Kuklina EV, et al: Racial and ethnic disparities in severe maternal morbidity:
+a multistate analysis, 2008–2010. Am J Obstet Gynecol 210(5):435.e1, 2014
+Creanga AA, Berg CJ, Syverson C, et al: Pregnancy-related mortality in the United States, 2006–2010.
+Obstet Gynecol 125(1):5, 2015
+Cunningham FG, Nelson DB: Disseminated intravascular coagulation syndromes in obstetrics. Obstet
+Gynecol 126(5):999, 2015
+Dhariwal SK, Khan KS, Allard S, et al: Does current evidence support the use of intraoperative cell
+salvage in reducing the need for blood transfusion in caesarean section? Curr Opin Obstet Gynecol
+26(6):425, 2014
+Dildy GA, Scott AR, Saffer CS: An effective pressure pack for severe pelvic hemorrhage. Obstet
+Gynecol 108(5):1222, 2006
+Erez O, Novack L, Beer—Weisel R, et al: DIC score in pregnant women—a population based
+modification of the International Society on Thrombosis and Hemostasis score. PLoS One 9:e93240,
+2014
+Finfer S, Bellomo R, Boyce N, et al: A comparison of albumin and saline for fluid resuscitation in the
+intensive care unit. N Engl J Med 350:2247, 2004
+Fiori O, Deux JF, Kambale JC, et al: Impact of pelvic arterial embolization for intractable postpartum
+hemorrhage on fertility. Am J Obstet Gynecol 200:384.e1, 2009
+Foroutan-Rad M, Majidan H, Dalvand S, et al: Toxoplasmosis in blood donors: a systematic review and
+meta-analysis. Transfus Med Rev 30(3):116, 2016
+Gayet-Ageron A, Prieto—Merino D, Ker K, et al: Effect of treatment delay on the effectiveness and
+safety of anti-fibrinolytics in acute severe haemorrhage: a meta-analysis of individual patient-level
+data from 40 to 138 bleeding patients. Lancet 391(10116):125, 2018
+Gedik E, Yücel N, Sahin T, et al: Hemolysis, elevated liver enzymes, and low platelet syndrome:
+outcomes for patients admitted to intensive care at a tertiary referral hospital. Hypertens Pregnancy
+36(1):21, 2017
+Gilmandyar D, Thornburg LL: Surgical management of postpartum hemorrhage. Semin Perinatol
+43(1):27, 2019
+Goodnough LT, Levy JH: The judicious use of recombinant factor VIIa. Semin Thromb Hemost
+42(2):125, 2016
+Gottlieb AG, Pandipati S, Davis KM, et al: Uterine necrosis. A complication of uterine compression
+sutures. Obstet Gynecol 112:429, 2008
+Goucher H, Wong CA, Patel SK, et al: Cell salvage in obstetrics. Anesth Analg 121(2):465, 2015
+
+Green L, Knight M, Seeney FM, et al: The epidemiology and outcomes of women with postpartum
+haemorrhage requiring massive transfusion with eight or more units of red cells: a national crosssectional study. BJOG 123(13):2164, 2016
+Grönvall M, Tikkanen M, Metsätähti M, et al: Pelvic arterial embolization in severe obstetric
+hemorrhage. Acta Obstet Gynecol Scand 93(7):716, 2014
+Hale SA, Sobel B, Benvenuto A, et al: Coagulation and fibrinolytic system protein profiles in women
+with normal pregnancies and pregnancies complicated by hypertension. Pregnancy Hypertens
+2(2):152, 2012
+Haram K, Mortensen JH, Mastrolia SA, et al: Disseminated intravascular coagulation in the HELLP
+syndrome: how much do we-really know? J Matern Fetal Neonatal Med 30(7):779, 2017
+Hardin MO, Ritchie JD, Aden JK, et al: Plasma-to-red cell ratio and mechanism of injury in massively
+transfused combat casualties. Mil Med 179(1):92, 2014
+Hébert PC: Anemia and red cell transfusion in critical care. Transfusion Requirements in Critical Care
+Investigators and the Canadian Critical Care Trials Group. Minerva Anestesiol 65(6):293, 1999
+Hernandez JS, Alexander JM, Sarode R, et al: Calculated blood loss in severe obstetric hemorrhage and
+its relation to body mass index. Am J Perinatol 29(7):557, 2012
+Herrera C, Meehan R, Poddutori V, et al: Maternal deaths due to Clostridium novyi in an injection drug
+user. Obstet Gynecol 128:876, 2016
+Hizkiyahu R, Rabinovich A, Thachil J, et al: Modified ISTH pregnancy-specific DIC score in parturients
+with liver rupture: population-based case series. J Matern Fetal Neonatal Med 32(15):2517, 2019
+Holst LB, Haase N, Wetterslev J, et al: Lower versus higher hemoglobin threshold for transfusion in
+septic shock. N Engl J Med 371(15):1381, 2014
+Hossain N, Paidas MJ: Disseminated intravascular coagulation. Semin Perinatol 37(4):257, 2013
+Hui C, Lili M, Libin C, et al: Changes in coagulation and hemodynamics during pregnancy: a prospective
+longitudinal study of 58 cases. Arch Gynecol Obstet 285(5):1231, 2012
+Ibrahim MI, Raafat TA, Ellaithy MI, et al: Risk of postpartum uterine synechiae following uterine
+compression suturing during postpartum haemorrhage. Aust N Z J Obstet Gynecol 53(1):37, 2013
+Jackson BR, Busch MP, Stramer SL, et al: The cost-effectiveness of NAT for HTV, HCV, and HBV in
+whole-blood donations. Transfusion 43:721, 2003
+Jackson D, DeLoughery TG: Postpartum hemorrhage: management of massive transfusion. Obstet
+Gynecol Surv 73(7):418, 2018
+Johnson ED, Schell JC, Rodgers GM: The D-dimer assay. Am J Hematol 94:833, 2019
+Jonard M, Ducloy-Bouthors AS, Fourrier F: Comparison of two diagnostic scores of disseminated
+intravascular coagulation in pregnant women admitted to the ICU. PLoS One 11(11):e016647, 2016
+Joshi MM, Shrivastava M: Partial ischemic necrosis of the uterus following a uterine brace compression
+suture. BJOG 111:279, 2004
+Katakam N, Vitthala S, Sasson S, et al: Complications and failure of uterine artery embolization for
+intractable postpartum haemorrhage. BJOG 116(6):863, 2009
+Kaya B, Guralp O, Tuten A, et al: Which uterine sparing technique should be used for uterine atony
+during cesarean section? The Bakri balloon or the B-Lynch suture? Arch Gynecol Obstet
+294(3):511, 2016
+Kayem G, Dupont C, Bouvier-Colle MH, et al: Invasive therapies for primary postpartum haemorrhage:
+a population-based study in France. BJOG 123(4):598, 2016
+Kayem G, Kurinczuk JJ, Alfirevic A, et al: Uterine compression sutures for the management of severe
+postpartum hemorrhage. Obstet Gynecol 117(1):14, 2011
+
+Kenny L, McCrae K, Cunningham FG: Platelets, coagulation, and the liver. In Taylor R, Roberts JM,
+Cunningham FG (eds): Chesley’s Hypertension in Pregnancy, 4th ed. Amsterdam, Academic Press,
+2015
+Kerns JL, Ti A, Aksel S, et al: Disseminated intravascular coagulation and hemorrhage after dilation and
+evacuation abortion for fetal death. Obstet Gynecol 134(4):708, 2019
+Khan KS, Moore PAS, Wilson MJ, et al: Cell salvage and donor blood transfusion during cesarean
+section: A pragmatic, multicentre randomised controlled trial (SALVO). PLoS Med
+14(12):e1002471, 2017
+Kogutt BK, Vaught AJ: Postpartum hemorrhage: blood product management and massive transfusion.
+Semin Perinatol 43(1):44, 2019
+Kolomeyevskaya NV, Tanyi JL, Coleman NM, et al: Balloon tamponade of hemorrhage after uterine
+curettage for gestational trophoblastic disease. Obstet Gynecol 113:557, 2009
+Kuczyfiski J, Uszyfiski W, Zekanowska E, et al: Tissue factor (TF) and tissue factor pathway inhibitor
+(TFPI) in the placenta and myometrium. Eur J Obstet Gynecol Reprod Biol 105:15, 2002
+Leblanc JF, Germain M, Delage G, et al: Risk of transmission of severe acute respiratory syndrome
+coronavirus 2 by transfusion: a literature review. Transfusion 60(12):3046, 2020
+Lee HJ, Kim M, Lim B, et al: Transcatheter arterial embolization in the management of postpartum
+hemorrhage due to genital tract injury after vaginal delivery. J Vasc Interv Radiol 32(1):99, 2021
+Lee HY, Shin JH, Kim J, et al: Primary postpartum hemorrhage: outcome of pelvic arterial embolization
+in 251 patients at a single institution. Radiology 264(3):903, 2012
+Lerner NB, Refaai MA, Blumberg N: Red cell transfusion. In Kaushansky K, Lichtman M, Beutler K,
+et al (eds): Williams Hematology, 8th ed. New York, McGraw Hill, 2010, p 2287
+Levi M, Levy JH, Andersen H F, et al: Safety of recombinant activated factor VI I in randomized
+clinical trials. N Engl J Med 363(19):1791, 2010
+Levi M, Seligsohn U: Disseminated intravascular coagulation. In Kaushansky K, Lichtman M, Prchal
+JT, et al (eds): In Williams Hematology, 9th ed. New York, McGraw Hill Education, 2016, p 2199
+Lewis SR, Pritchard MW, Evans DJ, et al: Colloids versus crystalloids for fluid resuscitation in critically
+ill patients. Cochrane Database Syst Rev 8:CD000567, 2018
+Likis FE, Sathe NA, Morgans AK, et al: Management of postpartum hemorrhage. Comparative
+Effectiveness Reviews, No. 151, Rockville, Agency for Healthcare Research and Quality, 2015
+Logothetopulos K: Eine absolut sichere blutstillungsmethode bei vagina len und abdominal en
+gynakologischen operationen. Zentralbl Gynakol 50:3202, 1926
+Matsubara S, Yano H, Ohkuchi A, et al: Uterine compression suture for postpartum hemorrhage: an
+overview. Acta Obstet Gynecol Scand 92(4):378, 2013
+McCullough J, Refaai MA, Cohn CS: Blood procurement and red cell transfusion. In Kaushansky K,
+Lichtman MA, Prchal JJ, et al (eds): Williams Hematology, 9th ed. McGraw Hill Education, 2016, p
+2374
+McNamara H, Kenyon C, Smith R, et al: Four years’ experience of a ROTEM® guided algorithm for
+treatment of coagulopathy in obstetric haemorrhage. Anesthesia 74(8):984, 2019
+Merriam AA, Huang Y, Wright JD, et al: Use of uterine tamponade and interventional radiology
+procedures during delivery hospitalizations. Obstet Gynecol 135(3):674, 2020
+Motta IJ, Spencer BR, Cordeiro da Silva SGI et al: Evidence for transmission of Zika virus by platelet
+transfusion. N Engl J Med 375(11):1101, 2016
+Murakami M, Kobayashi T, Kubo T, et al: Experience with recombinant activated factor VI I for severe
+postpartum hemorrhage in Japan, investigated by Perinatology Committee, Japan Society of
+Obstetrics and Gynecology. J Obstet Gynaecol Res 41(8):1161, 2015
+
+Murphy M, Vassallo R: Preservation and clinical use of platelets. In Kaushansky K, Lichtman M,
+Beutler K, et al (eds): Williams Hematology, 8th ed. New York, McGraw-Hill, 2010
+Nakash A, Tuck S, Davies N: Uterine sepsis with uterine artery embolization in the management of
+obstetric bleeding. J Obstet Gynecol 32(1):26, 2012
+Nelson DB, Lucke AM, McIntire DD, et al: Obstetric antecedents to body-cooling treatment of the
+newborn infant. Am J Obstet Gynecol 211:155.el, 2014
+Nelson WL, O’Brien JM: The uterine sandwich for persistent uterine atony: combining the B-Lynch
+compression suture and an intrauterine Bakri balloon. Am J Obstet Gynecol 196(5):e9, 2007
+Ng KT, Yap JL, Kwok PE: The effect of fibrinogen concentrate on postoperative blood loss: a
+systematic review and meta-analysis of randomized clinical trials. J Clin Anesth 63:109782, 2020
+Nizard J, Barrinque L, Frydman R, et al: Fertility and pregnancy outcomes following hypogastric artery
+ligation for severe postpartum haemorrhage. Hum Reprod 18:844, 2003
+Østerud B, Bjorklid E: Sources of tissue factor. Semin Thromb Hemost 32(1):11, 2006
+Pacheco LD, Hankins GV, Saad AF, et al: Tranexamic acid for the management of obstetric
+hemorrhage. Obstet Gynecol 130:765, 2017
+Pacheco LD, Lozada MJ, Saade GR, et al: Damage control surgery for obstetric hemorrhage. Obstet
+Gynecol 132(2):423, 2018
+Pacheco LD, Saade GR, Costantine MM, et al: An update on the use of massive transfusion protocols
+in obstetrics. Am J Obstet Gynecol 214(3):340, 2016
+Pacheco LD, Saade GR, Costantine MM, et al: The role of massive transfusion protocols in obstetrics.
+Am J Perinatol 30(1):1, 2013
+Pacheco LD, Saade GR, Hankins GD: Medical management of postpartum hemorrhage: an update.
+Semin Perinatol 43(1):22, 2019
+Peters Al, Van Stein D, Vlaar AP: Antibody-mediated transfusion-related acute lung injury: from
+discovery to prevention. Br J Haematol 170(5):597, 2015
+Poujade O, Grossetti A, Mougel L, et al: Risk of synechiae following uterine compression sutures in the
+management of major postpartum haemorrhage. BJOG 118(4):433, 2011
+Pritchard JA: Fetal death in utero. Obstet Gynecol 14:573, 1959
+Pritchard JA: Haematological problems associated with delivery, placental abruption, retained dead
+fetus, and amniotic fluid embolism. Clin Haematol 2:563, 1973
+Pritchard JA, Cunningham FG, Mason RA: Coagulation changes in eclampsia: their frequency and
+pathogenesis. Am J Obstet Gynecol 124:855, 1976
+Pritchard JA, Whalley PJ: Abortion complicated by Clostridium perfringens infection. Am J Obstet
+Gynecol 111:484, 1971
+Rahouma M, Kamei M, Jodeh D, et al: Does a balanced transfusion ratio of plasma to packed red blood
+cells improve outcomes in both trauma and surgical patients? A meta-analysis of randomized
+controlled trails and observational studies. Am J Surg 216(2):342, 2018
+Rattray DD, O’Connell CM, Baskett TF: Acute disseminated intravascular coagulation in obstetrics: a
+tertiary centre population review (1980 to 2009). J Obstet Gynaecol Can 34(4):341, 2012
+Reese JA, Peck JD, Deschamps DR, et al: Platelet counts during pregnancy. N Engl J Med 379(1):32,
+2018
+Rouse DJ: Epidemiological investigation of a temporal increase in atonic postpartum haemorrhage: a
+population-based retrospective cohort study. Obstet Gynecol 122(3):693, 2013
+Saraiya M, Green CA, Berg CJ, et al: Spontaneous abortion- related deaths among women in the United
+States—1981–1991. Obstet Gynecol 94:172, 1999
+
+Sathe NA, Likis FE, Young JL, et al: Procedures and uterine- sparing surgeries for managing
+postpartum hemorrhage: a systematic review. Obstet Gynecol Surv 71(2):99, 2016
+Semler MW, Self WH, Wanderer JP, et al: Balanced crystalloids versus saline in critically ill adults. N
+Engl J Med 378(9):829, 2018
+Semple JW, Rebetz J, Kapur R: Transfusion-associated circulatory overload and transfusion-related
+acute lung injury. Blood 133(17):1840, 2019
+Sentilhes L, Senat MV, Le Lous M, et al: Tranexamic acid for the prevention of blood loss after
+cesarean delivery. N Engl J Med 384:1623, 2021
+Sentilhes L, Winer N, Azria E, et al: Tranexamic acid for the prevention of blood loss after vaginal
+delivery. N Engl J Med 379(8):731, 2018
+Shakur H, Beaumont D, Pavord S, et al: Anti fibrinolytic drugs for treating primary postpartum
+haemorrhage. Cochrane Database Syst Rev 2:CD012964, 2018
+Shields LE, Smalarz K, Reffigee L, et al: Comprehensive maternal hemorrhage protocols improve
+patient safety and reduce utilization of blood products. Am J Obstet Gynecol 205:368.el, 2011
+Society for Maternal-Fetal Medicine: Patient safety and quality committee, Combs CA, Montgomery
+DM, et al: Society for Maternal-Fetal Medicine special statement: checklist for initial management
+of amniotic fluid embolism. Am J Obstet Gynecol 224(4):B29, 2021
+Solomon C, Collis RE, Collins PW: Haemostatic monitoring during postpartum haemorrhage and
+implications for management. Br J Anesth 109(6):851, 2012
+Stachowicz AM, Whiteside JL: Topical hemostatic agents in gynecologic surgery for benign indications.
+Obstet Gynecol 135(2):463, 2020
+Suarez S, Conde-Agudelo A, Borovac-Pinheiro A, et al: Uterine balloon tamponade for the treatment of
+postpartum hemorrhage: a systematic review and meta-analysis. Am J Obstet Gynecol
+222(4):293.e1, 2020
+Sullivan IJ, Ralph CJ: Obstetric intra-operative cell salvage: a review of an established cell salvage
+service with 1170 reinfused cases. Anaesthesia 74(8):976, 2019
+Touhami O, Bouzid A, Ben Marzouk S, et al: Pelvic packing for intractable obstetric hemorrhage after
+emergency peripartum hysterectomy: a review. Obstet Gynecol Surv 73(2):110, 2018
+Treloar EJ, Anderson RS, Andrews HG, et al: Uterine necrosis following B-Lynch suture for primary
+postpartum haemorrhage. BJOG 113:486, 2006
+Uszyfiski M, Zekanowska E, Uszyfiski W, et al: Tissue factor (TF) and tissue factor pathway inhibitor
+(TFPI) in amniotic fluid and blood plasma: implications for the mechanism of amniotic fluid
+embolism. Eur J Obstet Gynecol Reprod Biol 95:163, 2001
+Wei Y, Luo J, Luo D: Comparison of efficacy between internal iliac artery and abdominal aorta balloon
+occlusions in pernicious placenta previa patients with placenta accreta. Gynecol Obstet Invest
+84(4):343, 2019
+Whittington JR, Pagen ME, Nevil BD, et al: Risk of vascular complications in prophylactic compared to
+emergent resuscitative endovascular balloon occlusion of the aorta (REBOA) in the management of
+placenta accreta spectrum. J Matern Fetal Neonatal Med August 11, 2020 [Epub ahead of print]
+WOMAN Trial Collaborators Effect of early tranexamic acid administration on mortality, hysterectomy,
+and other morbidities in women with post-partum haemorrhage (WOMAN): an international,
+randomised, double-blind, placebo-controlled trial. Lancet 389(10084):2105, 2017
+World Health Organization: WHO recommendation on tranexamic acid for the treatment of postpartum
+haemorrhage. Geneva, WHO, 2017
+Yee LM, McGee P, Bailit JL, et al: Daytime compared with nighttime differences in management and
+outcomes of postpartum hemorrhage. Obstet Gynecol 133(1):155, 2019
+
+Yule CS, Ambia A, Duryea E, et al: The effect of normal saline on renal function and electrolytes in
+women with preeclampsia. J Matern Fetal Neonatal Med November 18, 2020
+Zhang E, Liu L, Owen R: Pelvic artery embolization in the management of obstetrical hemorrhage:
+predictive factors for clinical outcomes. Cardiovasc Intervent Radiol 38(6):1477, 2015
+Zuckerbraun BS, Peitzman AB, Billiar TR: Shock. In Brunicardi FC, Andersen DK, Billiar TR, et al
+(eds): Schwartz’s Principles of Surgery, 9th ed. New York, McGraw-Hill, 2010
+

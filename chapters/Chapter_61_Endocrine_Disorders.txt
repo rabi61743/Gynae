@@ -1,0 +1,1785 @@
+CHAPTER 61
+
+Endocrine Disorders
+
+THYROID PHYSIOLOGY AND PREGNANCY
+HYPERTHYROIDISM
+HYPOTHYROIDISM
+SUBCLINICAL HYPOTHYROIDISM
+IODINE DEFICIENCY
+CONGENITAL HYPOTHYROIDISM
+POSTPARTUM THYROIDITIS
+NODULAR THYROID DISEASE
+PARATHYROID DISEASE
+ADRENAL GLAND DISORDERS
+PITUITARY DISORDERS
+REFERENCES
+Endocrinopathies are closely related to pregnancy for several reasons. One
+example is the gestational proclivity for prodigious hormone secretion,
+which is perhaps best illustrated by placental lactogen in diabetes. This is
+the most common endocrinopathy encountered in pregnancy and discussed in
+Chapter 57. Pregnancy is also interrelated with some endocrinopathies that
+are at least partially due to autoimmune dysregulation. Clinical
+
+manifestations result from complex interplay among genetic, environmental,
+and endogenous factors that activate the immune system against targeted cells
+within endocrine organs. In one extraordinary interaction, studies have
+implicated maternal organ engraftment by fetal cells transferred during
+pregnancy. These cells later provoke antibody production, tissue destruction,
+and autoimmune endocrinopathies.
+
+THYROID DISORDERS
+Taken in aggregate, these disorders are common in young women and thus
+frequently encountered in pregnancy. Maternal and fetal thyroid function are
+intimately related, and drugs that affect the maternal thyroid affect the fetal
+gland. Moreover, thyroid autoantibodies are associated with increased rates
+of early pregnancy wastage. Uncontrolled thyrotoxicosis and untreated
+hypothyroidism are both associated with adverse pregnancy outcomes. Last,
+evidence suggests that the severity of some autoimmune thyroid disorders
+may be ameliorated during pregnancy, only to be exacerbated postpartum.
+
+■ Thyroid Physiology and Pregnancy
+Maternal thyroid changes are substantial, and normally altered gland
+structure and function can sometimes be confused with thyroid abnormalities.
+These alterations are discussed in detail in Chapter 4 (p. 71), and normal
+serum hormone level values are found in the Appendix (p. 1230). First,
+maternal serum concentrations of thyroid binding globulin are increased
+concomitantly with total or bound thyroid hormone levels. Second,
+thyrotropin, also called thyroid-stimulating hormone (TSH), plays a central
+role in screening and diagnosis of many thyroid disorders, but levels change
+throughout pregnancy. Notably, TSH receptors are cross stimulated, albeit
+weakly, by massive quantities of human chorionic gonadotropin (hCG)
+secreted by placental trophoblast. Because TSH does not cross the placenta,
+it has no direct fetal effects. During the first 12 weeks of gestation, when
+maternal hCG serum levels are maximal, thyroid hormone secretion is
+stimulated. The resulting greater serum free thyroxine (T4) levels act to
+suppress hypothalamic thyrotropin-releasing hormone (TRH) and in turn
+limit pituitary TSH secretion (Fig. 61-1). Accordingly, TRH is undetectable
+
+in maternal serum. Conversely, in fetal serum, beginning at midpregnancy,
+TRH becomes detectable, but levels are static and do not rise.
+
+FIGURE 61-1 Gestational-age-specific values for serum thyroid-stimulating hormone (TSH) levels
+(black lines) and free thyroxine (T4) levels (blue lines). Data were derived from 17,298 women tested
+during pregnancy. For each color, the dark solid lines represent the 50th percentile, whereas the upper
+and lower light lines represent the 2.5th and 97.5th percentiles, respectively. (Data from Casey, 2005;
+Dashe, 2005.)
+
+Throughout pregnancy, maternal thyroxine is transferred to the fetus
+(American College of Obstetricians and Gynecologists, 2020). Maternal
+thyroxine is important for normal fetal brain development, especially before
+the onset of fetal thyroid gland function (Bernal, 2007; Korevaar, 2016b).
+Both high and low maternal thyroid function in the first trimester are
+negatively associated with cortical gray matter volume in childhood (Jansen,
+2019). Although the fetal gland begins concentrating iodine and synthesizing
+thyroid hormone after 12 weeks’ gestation, maternal thyroxine contribution
+remains important. Maternal sources account for 30 percent of thyroxine in
+fetal serum at term (Thorpe-Beeston, 1991). Still, developmental risks
+associated with maternal hypothyroidism after midpregnancy remain poorly
+understood (Morreale de Escobar, 2004; Sarkhail, 2016).
+
+■ Autoimmunity and Thyroid Disease
+
+Most thyroid disorders are inextricably linked to autoantibodies against
+nearly 200 thyrocyte components. These antibodies variably stimulate
+thyroid function, block function, or cause thyroid inflammation that may lead
+to follicular cell destruction. Often, these effects overlap.
+Thyroid-stimulating autoantibodies, also called thyroid-stimulating
+immunoglobulins (TSIs), bind and activate the TSH receptor to cause thyroid
+hyperfunction and growth. Although these antibodies are identified in most
+patients with classic Graves disease, simultaneous production of thyroidstimulating blocking antibodies may blunt this effect (Jameson, 2015).
+Thyroid peroxidase (TPO) is a thyroid gland enzyme that normally
+functions to produce thyroid hormones. Thyroid peroxidase antibodies are
+directed against TPO and are identified in 5 to 15 percent of all gravidas
+(Fig. 61-2) (Abbassi-Ghanavati, 2010; Casey, 2007; Sarkhail, 2016). TPO
+antibodies have been associated in some studies with early pregnancy loss
+and preterm birth (Consortium on Thyroid and Pregnancy, 2019; Plowden,
+2017; Thangaratinam, 2011). In another study with more than 1000 pregnant
+women with TPO antibodies, the risk for preterm birth was not elevated. The
+risk for placental abruption was greater (Abbassi-Ghanavati, 2010). These
+women are also at high risk for postpartum thyroid dysfunction and at
+lifelong risk for permanent thyroid failure (Andersen, 2016; Jameson, 2015).
+
+FIGURE 61-2 Incidence of antithyroid peroxidase antibodies in 16,407 women who are normal or
+euthyroid, in 233 with isolated maternal hypothyroxinemia (IMH), in 598 with subclinical hypothyroidism
+(SCH), and in 134 with overt hypothyroidism.
+
+■ Fetal Microchimerism
+Autoimmune thyroid disease is more common in women than in men. One
+intriguing explanation for this disparity is fetal-to-maternal cell trafficking
+(Greer, 2011). Fetal cells are known to enter maternal circulation during
+pregnancy. When fetal lymphocytes enter maternal circulation, they can live
+for more than 20 years. Stem cell interchange can lead to engraftment in
+several maternal tissues and is termed fetal microchimerism. In some cases,
+this may involve the thyroid gland (Bianchi, 2003; Boddy, 2015). A high
+prevalence of Y chromosome–positive cells has been identified in the
+thyroid glands of women with Hashimoto thyroiditis—60 percent, or with
+Graves disease—40 percent (Renné, 2004). In another study of women
+giving birth to a male fetus, more circulating male mononuclear cells were
+found in those with Hashimoto thyroiditis (Lepez, 2011). Conversely, for
+
+some autoimmune thyroid disorders, fetal microchimerism may actually have
+a protective role (Cirello, 2015).
+
+■ Hyperthyroidism
+The incidence of thyrotoxicosis or hyperthyroidism in pregnancy varies and
+complicates between 0.4 and 1.7 percent of births when gestational-ageappropriate TSH threshold values are used (Table 61-1). Because normal
+pregnancy simulates some clinical findings similar to thyroxine excess,
+clinically mild thyrotoxicosis may be difficult to diagnose. Suggestive
+findings include tachycardia that exceeds that usually seen with normal
+pregnancy, thyromegaly, exophthalmos, and failure to gain weight despite
+adequate food intake. Laboratory testing is confirmatory. TSH levels are
+markedly depressed, while serum free T4 (fT4) levels are elevated. Rarely,
+hyperthyroidism is caused by abnormally high serum triiodothyronine (T3)
+levels and called T3-toxicosis.
+TABLE 61-1. Incidence of Overt Hyperthyroidism in Pregnancy
+
+Thyrotoxicosis and Pregnancy
+
+The overwhelming cause of thyrotoxicosis in pregnancy is Graves disease,
+an organ-specific autoimmune process associated with thyroid-stimulating
+TSH-receptor antibodies (De Leo, 2016). These antibodies are specific for
+Graves hyperthyroidism, and targeted assays have been proposed for
+diagnosis, management, and prognosis in pregnancies complicated by
+hyperthyroidism (Alexander, 2017; Barbesino, 2013). With Graves disease,
+during the course of pregnancy, hyperthyroid symptoms may initially worsen
+because of hCG stimulation. Symptoms then diminish after a decline in
+receptor-antibody titers in the second half of pregnancy (Mestman, 2012;
+Sarkhail, 2016). Levels of blocking antibodies also decline during pregnancy
+(Amino, 2003).
+
+Treatment
+Thyrotoxicosis during pregnancy can nearly always be controlled by
+thionamide drugs. Propylthiouracil (PTU) has been historically preferred
+because it partially inhibits the conversion of T4 to T3 and crosses the
+placenta less readily than methimazole. The latter has also been associated
+with a rare methimazole embryopathy, characterized by esophageal or
+choanal atresia and aplasia cutis, a congenital skin defect. In one analysis
+of Japanese women with first-trimester hyperthyroidism, the risk of major
+fetal malformation in pregnancies exposed to methimazole was twofold
+higher than risks with either PTU or potassium iodide use (Yoshihara, 2012,
+2015). Specifically, seven of nine cases with aplasia cutis and the only case
+of esophageal atresia were in the group of methimazole-exposed fetuses. A
+PTU-associated embryopathy also has been described (Andersen, 2014).
+Treatment with PTU is associated with a higher risk for liver injury (Yu,
+2020). In 2009, the U.S. Food and Drug Administration issued a safety alert
+on PTU-associated hepatotoxicity. This warning initially prompted the
+American Thyroid Association and the American Association of Clinical
+Endocrinologists (2011) to recommend PTU therapy during the first trimester
+followed by a switch to methimazole beginning in the second trimester. The
+obvious disadvantage is that this might lead to poorly controlled thyroid
+function. More recently, the American Thyroid Association recommends PTU
+therapy through 16 weeks’ gestation but does not make a recommendation
+regarding switching to methimazole treatment because both agents are
+
+associated with adverse effects and the harm from poorer control during the
+switch is unknown (Alexander, 2017).
+Transient leukopenia can be documented in up to 10 percent of women
+taking antithyroid drugs, but this does not require therapy cessation
+(American College of Obstetricians and Gynecologists, 2020). In
+approximately 0.3 percent, however, agranulocytosis develops suddenly and
+mandates drug discontinuance (Thomas, 2013). It is not dose related, and
+because of its acute onset, routine serial leukocyte counts during therapy are
+not helpful. Instead, if fever or sore throat develops, women are instructed
+to discontinue medication immediately and report for a complete blood
+count.
+Therapy may have other side effects. First, as noted, hepatotoxicity
+develops in approximately 0.1 percent of treated women. Serial measurement
+of hepatic enzyme levels does not prevent fulminant PTU-related
+hepatotoxicity. Second, an allergic rash may develop in 3 to 5 percent of
+women taking thionamide drugs (Alexander, 2017). In addition, although
+approximately 20 percent of patients treated with PTU develop
+antineutrophil cytoplasmic antibodies (ANCA), only a small percentage of
+these subsequently develops serious vasculitis (Kimura, 2013). Last,
+thionamides have the potential to cause fetal complications, but these are
+uncommon. In some cases, thionamides may even be therapeutic for the fetus.
+This is because TSH-receptor antibodies cross the placenta and can
+stimulate the fetal thyroid gland to cause thyrotoxicosis and goiter.
+The initial thionamide dose is empirical. For nonpregnant patients, the
+American Thyroid Association recommends that methimazole be used at an
+initial higher daily dose of 10 to 20 mg orally followed by a lower
+maintenance dose of 5 to 10 mg. If PTU is selected, a dose of 50 to 150 mg
+orally three times daily may be initiated depending on clinical severity. At
+Parkland Hospital, we usually initially give 300 or 450 mg of PTU daily in
+three divided doses for pregnant women. Occasionally, daily doses of 600
+mg or higher are necessary. We routinely transition women to methimazole
+after the first trimester. If a switch is deemed appropriate, a dose ratio of
+20:1—PTU to methimazole—is recommended (Alexander, 2017). The goal
+is treatment with the lowest possible thionamide dose to maintain thyroid
+hormone levels slightly above or in the high normal range, while TSH levels
+remains suppressed. Serum free T4 concentrations are measured every 4 to 6
+weeks.
+
+Subtotal thyroidectomy can be performed after thyrotoxicosis is
+medically controlled. This seldom is done during pregnancy but may be
+appropriate for the very few women who cannot adhere to medical treatment
+or in whom drug therapy proves toxic (Pearce, 2019; Stagnaro-Green,
+2012a). Surgery is best accomplished in the second trimester. Potential
+drawbacks of thyroidectomy include inadvertent resection of parathyroid
+glands and injury to the recurrent laryngeal nerve.
+Thyroid ablation with therapeutic radioactive iodine is
+contraindicated in pregnancy (Lee, 2021). These doses may also cause fetal
+thyroid gland destruction. Thus, when radioactive iodine is given
+unintentionally, some clinicians recommend abortion. Any exposed fetus must
+be carefully evaluated, and the incidence of fetal hypothyroidism depends on
+gestational age and radioiodine dose (Berlin, 2001). Importantly, several
+cases of inadvertent periconceptional exposure to radioactive iodine have
+been reported with no obvious ill effects for the offspring (Radacic-Aumiler,
+2016; Sadakata, 2014). The International Commission on Radiological
+Protection recommends that women avoid pregnancy for 6 months after
+radioablative therapy (Brent, 2008). Moreover, during lactation, the breast
+also concentrates a substantial amount of iodine. This may pose a neonatal
+risk due to 131I-containing milk ingestion and maternal risk from significant
+breast irradiation. To limit the latter, a delay of 3 months after breastfeeding
+cessation will more reliably ensure complete breast involution.
+
+Pregnancy Outcome
+Women with thyrotoxicosis have pregnancy outcomes that largely depend on
+whether metabolic control is achieved. For example, excess thyroxine may
+cause miscarriage or preterm birth (Andersen, 2014; Moleti, 2019; Sheehan,
+2015). In untreated women or in those who remain hyperthyroid despite
+therapy, incidences of preeclampsia, heart failure, and adverse perinatal
+outcomes are higher (Table 61-2). One case-cohort study in the Danish
+National Birth Cohort found that maternal hyperthyroidism was also a risk
+for epilepsy and autism spectrum disorders in children (Andersen, 2018).
+TABLE 61-2. Pregnancy Outcomes in Women with Overt Thyrotoxicosis
+
+Fetal and Neonatal Effects
+In most cases, the perinate is euthyroid. In some, however, hyper- or
+hypothyroidism can develop with or without a goiter (Fig. 61-3). Clinical
+hyperthyroidism develops in up to 1 percent of neonates born to women with
+Graves disease (Barbesino, 2013; Fitzpatrick, 2010). If fetal thyroid disease
+is suspected, nomograms exist for sonographically measured thyroid volume
+(Gietka-Czernel, 2012).
+
+FIGURE 61-3 Term hypothyroid neonate delivered of a woman with a 3-year history of thyrotoxicosis
+that recurred at 26 weeks’ gestation. The mother was given methimazole, 30 mg orally daily, and was
+euthyroid at delivery.
+
+The fetus or neonate who was exposed to excessive maternal thyroxine
+may have any of several clinical presentations. First, goitrous thyrotoxicosis
+stems from placental transfer of thyroid-stimulating immunoglobulins.
+Nonimmune hydrops and fetal demise can complicate fetal thyrotoxicosis
+(Nachum, 2003; Stulberg, 2000). The best predictor of perinatal
+thyrotoxicosis is the presence of thyroid-stimulating TSH-receptor antibodies
+in women with Graves disease (Moleti, 2019; Nathan, 2014). This is
+especially true if their levels are more than threefold higher than the upper
+normal limit (Barbesino, 2013). In one study of 72 pregnant women with
+Graves disease, none of the fetuses in 31 low-risk mothers had a goiter, and
+all were euthyroid at delivery (Luton, 2005). Low risk was defined as no
+requirement for antithyroid medications during the third trimester or an
+absence of antithyroid antibodies. Conversely, in a group of 41 women who
+either were taking antithyroid medication at delivery or had thyroid-receptor
+antibodies, 11 fetuses—27 percent—had sonographic evidence of a goiter at
+32 weeks’ gestation. Seven of these 11 fetuses were determined to be
+hypothyroid, and the remaining fetuses were hyperthyroid.
+
+Because of these findings, the American Thyroid Association
+recommends routine evaluation of TSH-receptor antibodies (TRAb) in early
+pregnancy in women treated with antithyroid medication (Alexander, 2017).
+In those who have elevated TRAb levels or who continue therapy, repeat
+testing is recommended between 18 and 22 weeks’ gestation. The American
+College of Obstetricians and Gynecologists (2020), however, does not
+recommend such testing. If the fetus is thyrotoxic, maternal thionamide drugs
+are increased even though maternal thyroid function may be within targeted
+range (Mestman, 2012). If secondary maternal hypothyroidism develops, the
+fetus can be treated by a reduced maternal antithyroid medication dose and
+injections of intraamnionic thyroxine if necessary. Although usually shortlived, neonatal thyrotoxicosis may require a short course of antithyroid drug
+treatment (Levy-Shraga, 2014; Nathan, 2014).
+A second fetal presentation is goitrous hypothyroidism caused by fetal
+exposure to maternally administered thionamides (see Fig. 61-3). Despite
+theoretical neurological implications, reports of adverse fetal effects seem to
+have been exaggerated. For example, in at least 239 treated thyrotoxic
+women shown in Table 61-2, evidence of hypothyroidism was found in only
+four newborns. Furthermore, at least four long-term studies report no
+abnormal intellectual or physical development of these children (Mestman,
+1998). As long as the maternal free thyroxine level remains in the upper
+therapeutic to mildly thyrotoxic range, the likelihood of fetal hypothyroidism
+is remote (Moleti, 2019).
+A third presentation, nongoitrous hypothyroidism, may develop from
+transplacental passage of maternal TSH-receptor blocking antibodies
+(Fitzpatrick, 2010). And last, fetal thyrotoxicosis after maternal thyroid
+gland ablation, usually with 131I radioiodine, may result from transplacental
+thyroid-stimulating antibodies. In one report of early fetal exposure to
+radioiodine, neonatal thyroid studies indicated transient hyperthyroidism
+from maternal transfer of stimulating antibodies (Tran, 2010).
+
+Fetal Diagnosis
+Evaluation of fetal thyroid function remains controversial. Although the fetal
+thyroid volume can be measured sonographically in women taking
+thionamide drugs or in those with thyroid-stimulating antibodies, most
+investigators do not currently recommend this routinely (Cohen, 2003; Luton,
+
+2005). Fetal hyper- or hypothyroidism may cause hydrops, growth
+restriction, goiter, or tachycardia, and fetal blood sampling may be
+appropriate (Brand, 2005). The American Thyroid Association guidelines
+for management of thyroid disease during pregnancy recommend that
+umbilical cord blood sampling only be considered when a fetal goiter is
+detected and the thyroid status of the fetus is unclear (Alexander, 2017).
+Diagnosis and treatment are considered further in Chapter 19 (p. 370).
+
+Thyroid Storm and Thyrotoxic Heart Failure
+Both of these are acute and life-threatening in pregnancy. Thyroid storm is a
+hypermetabolic state and is rare in pregnancy. In contrast, pulmonary
+hypertension and heart failure from cardiomyopathy caused by the profound
+myocardial effects of thyroxine are common in pregnant women (Sheffield,
+2004). As shown in Table 61-2, heart failure developed in 8 percent of 90
+women with uncontrolled thyrotoxicosis. In a registry of almost 70,000
+pregnancies from one province in China, six of 155 (4 percent) women
+diagnosed with thyrotoxicosis were found to have hyperthyroid heart disease
+(Shan, 2019).
+The pregnant woman with thyrotoxicosis has minimal cardiac reserve,
+and decompensation is usually precipitated by preeclampsia, anemia, sepsis,
+or a combination. Fortunately, thyroxine-induced cardiomyopathy and
+pulmonary hypertension are frequently reversible (Shan, 2019; Sheffield,
+2004).
+
+Management
+Treatment is similar for thyroid storm and heart failure and should be carried
+out in an intensive care area that may include special-care units within labor
+and delivery (American College of Obstetricians and Gynecologists, 2020).
+Shown in Figure 61-4 is our stepwise approach to medical management of
+thyroid storm or thyrotoxic heart failure. An hour or two after initial
+thionamide administration, iodide is given to inhibit thyroidal release of T3
+and T4. It can be given intravenously (IV) as sodium iodide or orally as
+either saturated solution of potassium iodide (SSKI) or Lugol solution. With
+a history of iodine-induced anaphylaxis, lithium carbonate, 300 mg every 6
+hours, is given instead. Most authorities recommend dexamethasone, 2 mg IV
+every 6 hours for four doses, to further block peripheral conversion of T4 to
+
+T3. If a β-blocking drug is given to control tachycardia, its effect on heart
+failure must be considered. Propranolol, labetalol, and esmolol are options.
+Coexisting severe preeclampsia, infection, or anemia are aggressively
+managed before delivery is considered.
+
+FIGURE 61-4 Parkland Hospital management for thyroid storm or thyrotoxic heart failure. gtt = drops;
+IV = intravenous; NGT = nasogastric tube; PO = orally; PTU = propylthiouracil.
+
+Hyperemesis Gravidarum
+Transient biochemical features of hyperthyroidism may be observed in 2 to
+15 percent of women in early pregnancy (Fitzpatrick, 2010). Many women
+
+with hyperemesis gravidarum have abnormally high serum T4 levels and low
+TSH levels (Chap. 57, p. 1014). This results from TSH-receptor stimulation
+from hCG. This transient condition is also termed gestational transient
+thyrotoxicosis. Even if associated with hyperemesis, antithyroid drugs are
+not warranted (American College of Obstetricians and Gynecologists, 2020).
+The hCG levels do not correlate with T4 and TSH values, which trend to
+normal by midpregnancy (Nathan, 2014; Yoshihara, 2015).
+
+Gestational Trophoblastic Disease
+The prevalence of T4 level elevation in women with a molar pregnancy
+ranges between 25 and 65 percent (Hershman, 2004). As discussed,
+abnormally high hCG levels lead to overstimulation of the TSH receptor.
+Because these tumors are now usually diagnosed early, clinically apparent
+hyperthyroidism is less common. With molar evacuation, serum free T4
+levels usually drop to normal levels rapidly in parallel with declining hCG
+concentrations.
+
+Subclinical Hyperthyroidism
+Third-generation TSH assays with an analytical sensitivity of 0.002 mU/mL
+permit identification of subclinical thyroid disorders. These biochemically
+defined extremes usually represent normal biological variations but may
+herald the earliest stages of thyroid dysfunction. Subclinical
+hyperthyroidism is characterized by an abnormally low serum TSH
+concentration in concert with normal T4 hormone levels. Long-term effects of
+persistent subclinical thyrotoxicosis include osteoporosis, cardiovascular
+morbidity, and progression to overt thyrotoxicosis or thyroid failure. In one
+recent metaanalysis of 20 studies, the prevalence of subclinical
+hyperthyroidism was 1.77 percent in pregnant women (Dong, 2019).
+Importantly, subclinical hyperthyroidism has not been associated with
+adverse pregnancy outcomes (Casey, 2006). In separate retrospective
+analyses of almost 25,000 women who underwent thyroid screening
+throughout pregnancy, investigators also found no relationship between
+subclinical hyperthyroidism and preeclampsia or gestational diabetes
+(Wilson, 2012; Tudela, 2012).
+
+Treatment of subclinical hyperthyroidism is unwarranted in pregnancy
+because antithyroid drugs may affect the fetus. These women may benefit
+from periodic surveillance, and approximately half eventually have normal
+TSH concentrations.
+
+■ Hypothyroidism
+Overt or symptomatic hypothyroidism complicates between 0.2 and 1.2
+percent of pregnancies (Andersen, 2016; Casey, 2017). Its insidious,
+nonspecific clinical findings include fatigue, constipation, cold intolerance,
+muscle cramps, and weight gain. A pathologically enlarged thyroid gland
+depends on the etiology of hypothyroidism and is more likely in women in
+areas of endemic iodine deficiency or those with Hashimoto thyroiditis.
+Other findings are edema, dry skin, hair loss, and a prolonged relaxation
+phase of deep tendon reflexes. Clinical or overt hypothyroidism is
+confirmed by an abnormally high serum TSH level and an abnormally low T4
+level. Subclinical hypothyroidism, discussed later, is defined by an elevated
+serum TSH level but normal serum T4 concentration (Jameson, 2015).
+Asymptomatic individuals with high levels of anti-TPO or antithyroglobulin
+antibodies often are included in the spectrum of subclinical thyroid disease
+and will also be discussed.
+
+Overt Hypothyroidism and Pregnancy
+The most common cause of hypothyroidism in pregnancy is Hashimoto
+thyroiditis, characterized by glandular destruction from autoantibodies,
+particularly anti-TPO antibodies. Another cause is postablative Graves
+disease. Clinical identification of hypothyroidism is especially difficult
+during pregnancy because many of the signs or symptoms are also common
+pregnancy itself. Thyroid analyte testing should be performed on
+symptomatic women, those with a personal or family history of thyroid
+disease, or those with type 1 diabetes (American College of Obstetricians
+and Gynecologists, 2020). Severe hypothyroidism during pregnancy is
+uncommon, probably because it is often associated with infertility and higher
+miscarriage rates (De Groot, 2012).
+
+Treatment
+
+The American College of Obstetricians and Gynecologists (2020)
+recommends oral replacement therapy for overt hypothyroidism beginning
+with levothyroxine in doses of 1 to 2 μg/kg/d or approximately 100 μg daily.
+Women who are athyreotic after thyroidectomy or radioiodine therapy may
+require higher doses. Surveillance is with TSH levels measured at 4-week
+intervals in the first half of pregnancy and at least once in the third trimester.
+The levothyroxine dose is adjusted by 25- to 50-μg increments until TSH
+values approximate 2.5 mU/L. Pregnancy is associated with an increased
+dose requirement in approximately a third of supplemented women
+(Abalovich, 2010; Alexander, 2004). The greater demand in pregnancy is
+believed to be related to augmented estrogen production (Arafah, 2001).
+Higher dose requirements begin as early as 5 weeks’ gestation.
+Significant hypothyroidism may develop early in women without thyroid
+reserve, such as those with a previous thyroidectomy, those with prior
+radioiodine ablation, or those undergoing assisted reproductive techniques
+(Alexander, 2004; Loh, 2009). Theoretically, an anticipatory 25-percent
+increase in the levothyroxine dose at pregnancy confirmation will reduce this
+likelihood. However, one randomized trial compared empiric increases in
+dose against dose adjustments based on TSH levels and found both equally
+effective (Sullivan, 2017). Those in the empiric-dosing group had a higher
+risk of TSH suppression. At Parkland Hospital, all women with
+hypothyroidism undergo TSH testing at initiation of prenatal care and
+subsequent indicated dose adjustments. TSH determinations are repeated in
+each trimester.
+
+Pregnancy Outcome with Overt Hypothyroidism
+Observational studies, although limited, indicate that excessive adverse
+perinatal outcomes are associated with overt T4 deficiency (Table 61-3).
+Preterm birth rates also are higher (Sheehan, 2015). With appropriate
+replacement therapy, however, rates of adverse effects are not increased in
+most reports (Bryant, 2015; Matalon, 2006; Tan, 2006). In one dissenting
+study, risks for some pregnancy complications were greater even in women
+taking replacement therapy (Wikner, 2008). Most experts agree that adequate
+hormone replacement during pregnancy minimizes the risk of adverse
+outcomes and most complications.
+
+TABLE 61-3. Pregnancy Complications in 440 Women with
+Hypothyroidism
+
+Fetal and Neonatal Effects
+Undoubtedly, maternal and fetal thyroid abnormalities are related. In both,
+thyroid function is dependent on adequate iodine intake, and its deficiency
+early in pregnancy can cause both maternal and fetal hypothyroidism. In one
+analysis of 4273 mother-child pairs, an association between maternal thyroid
+function during pregnancy and both neonatal and childhood thyroid function
+was confirmed (Korevaar, 2016a). As discussed, maternal TSH-receptorblocking antibodies can cross the placenta and cause fetal thyroid
+dysfunction. Rovelli and colleagues (2010) evaluated 129 neonates born to
+women with autoimmune thyroiditis. They found that 28 percent had an
+elevated TSH level on the third or fourth day of life, and 47 percent of these
+had TPO antibodies on day 15. Still, autoantibodies were undetectable at age
+6 months. In their analysis, Korevaar and coworkers (2016a) concluded that
+maternal TPO antibodies have no clinically relevant effects on the thyroid
+function of offspring. Indeed, prevalence of fetal hypothyroidism in women
+
+with Hashimoto thyroiditis is estimated to be only 1 case in 180,000
+newborns (Brown, 1996).
+
+■ Subclinical Hypothyroidism
+Although common in women, the incidence of subclinical hypothyroidism
+varies depending on age, race, dietary iodine intake, and serum TSH
+thresholds used (Jameson, 2015). In two large studies totaling more than
+25,000 pregnant women screened in the first half of pregnancy, subclinical
+hypothyroidism was identified in 2.3 percent (Casey, 2005; Cleary-Goldman,
+2008). The rate of progression to overt thyroid failure is affected by TSH
+level, age, other disorders such as diabetes, and presence and concentration
+of antithyroid antibodies.
+Diez and Iglesias (2004) prospectively followed 93 nonpregnant women
+with subclinical hypothyroidism for 5 years and reported that in a third, TSH
+values became normal. In the other two thirds, those women whose TSH
+levels were 10 to 15 mU/L developed overt disease at a rate of 19 cases per
+100 patient-years. Those women whose TSH levels were <10 mU/L
+developed overt hypothyroidism at a rate of 2 cases per 100 patient-years.
+Regarding screening for subclinical hypothyroidism in nonpregnant
+individuals, the U.S. Preventive Services Task Force also reports that nearly
+all patients who develop overt hypothyroidism within 5 years have an initial
+TSH level >10 mU/L (Helfand, 2004; Karmisholt, 2008). From one
+metaanalysis of data from nonpregnant adults with subclinical
+hypothyroidism, thyroid hormone therapy was not associated with improved
+general quality of life, thyroid-related symptoms, depression, blood pressure,
+or other cardiovascular outcomes (Feller, 2018).
+In a 20-year follow-up study of 5805 women who were screened in early
+pregnancy, only 3 percent developed thyroid disease. Of the 224 women
+identified with subclinical hypothyroidism during pregnancy, 17 percent
+developed thyroid disease in the next 20 years, and most of these had either
+TPO or thyroglobulin antibodies during pregnancy (Männistö, 2010). Thus,
+the likelihood of progression to overt hypothyroidism during pregnancy in
+otherwise healthy women with subclinical hypothyroidism seems remote.
+
+Subclinical Hypothyroidism and Pregnancy
+
+Interest in this subject was heightened 20 years ago by two studies reporting
+that undiagnosed maternal thyroid hypofunction may impair fetal
+neuropsychological development (Haddow, 1999; Pop, 1999). Notably, in
+the Haddow study, many women had both elevated TSH and abnormally low
+serum free T4 levels and thus had overt hypothyroidism. To evaluate any
+adverse pregnancy effects, Casey and colleagues (2005) identified
+subclinical hypothyroidism in 2.3 percent of 17,298 women screened at
+Parkland Hospital before midpregnancy. These women had small but
+significantly higher incidences of preterm birth, placental abruption, and
+neonates admitted to the intensive care nursery compared with euthyroid
+women. In another study of 10,990 similar women, however, ClearyGoldman and associates (2008) did not find such associations.
+Other studies subsequently confirmed a link between subclinical thyroid
+function and adverse outcomes (Chen, 2017; Maraka, 2016). One included
+24,883 women screened throughout pregnancy and showed an almost twofold
+greater risk of severe preeclampsia (Wilson, 2012). In an analysis of the
+latter cohort, a consistent relationship was shown between rising TSH levels
+and the risk for gestational diabetes (Tudela, 2012). Last, Nelson and
+associates (2014) found an elevated risk for diabetes and stillbirth.
+Lazarus and coworkers (2012) reported the findings of the international
+multicenter Controlled Antenatal Thyroid Screening (CATS) study. They
+evaluated prenatal thyroid screening with randomized treatment of both
+subclinical hypothyroidism and isolated maternal hypothyroxinemia. They
+found that offspring IQ scores at age 3 years were not superior in the treated
+cohort. Later evaluation of these offspring through age 9 confirmed that
+maternal treatment offered no benefit (Hales, 2018). Last, the Maternal-Fetal
+Medicine Units (MFMU) Network screened more than 97,000 pregnant
+women for thyroid disorders and reported that 3.3 percent had subclinical
+hypothyroidism. These 677 women were randomly assigned to thyroxine
+replacement therapy or placebo. As reported by Casey and colleagues
+(2017) and shown in Table 61-4, adverse pregnancy outcomes or cognitive
+development in the offspring at 5 years did not differ between groups. Annual
+developmental testing scores and behavioral and attention-deficit
+hyperactivity disorder results also did not differ.
+
+TABLE 61-4. Maternal-Fetal Medicine Unites Network: Pregnancy
+Outcomes According to Diagnosis and Treatment of Thyroid Disordersa
+
+Because of earlier study findings, some professional organizations began
+to recommend routine prenatal screening and treatment of subclinical
+hypothyroidism. However, after the CATS and MFMU Network studies,
+more recent clinical practice guidelines from the Endocrine Society, the
+American Thyroid Association, and the American Association of Clinical
+Endocrinologists now uniformly recommended screening only those at
+greater risk during pregnancy (Alexander, 2017; De Groot, 2012; Garber,
+2012). This has been and still is the recommendation of the American
+College of Obstetricians and Gynecologists (2020).
+
+Isolated Maternal Hypothyroxinemia
+Women with low serum free T4 values but a normal-range TSH level are
+considered to have isolated maternal hypothyroxinemia. Its incidence in
+two large trials was 1.3 to 2.1 percent (Casey, 2007; Cleary-Goldman,
+
+2008). As shown in Figure 61-2, unlike in subclinical hypothyroidism, these
+women have a low prevalence of antithyroid antibodies.
+Initial studies reported that offspring of women with isolated
+hypothyroxinemia had neurodevelopmental difficulties (Levie, 2018; Li,
+2010; Pop, 1999, 2003). Casey and colleagues (2007), however, found no
+higher risks in these women for other adverse perinatal outcomes compared
+with those of euthyroid women. In contrast, a recent individual patient data
+systematic analysis including 47,045 pregnant women identified a higher risk
+of preterm birth associated with isolated hypothyroxinemia (Consortium on
+Thyroid and Pregnancy, 2019).
+The aforementioned CATS study, including follow-up of offspring
+through age 9 years, did not find improved neurodevelopmental outcomes in
+women with isolated hypothyroxinemia who were then treated with thyroxine
+(Hales, 2018; Lazarus, 2012). The randomized trial conducted by the MFMU
+Network also demonstrated no improvement in neurocognitive development
+with thyroxine treatment during pregnancy (Casey, 2017). This large
+randomized study also found no higher rates of adverse pregnancy outcomes
+between groups and found that early thyroxine treatment offered no benefits
+(see Table 61-4). The American Thyroid Association currently recommends
+against routine treatment of isolated hypothyroxinemia in pregnancy
+(Alexander, 2017).
+
+■ Euthyroid Autoimmune Thyroid Disease
+Autoantibodies to TPO and thyroglobulin have been identified in 2 to 17
+percent of pregnant women worldwide (Alexander, 2017). Most who test
+positive for such antibodies, however, are euthyroid. That said, such women
+carry a two- to fivefold increased risk for early pregnancy loss (StagnaroGreen, 2004; Thangaratinam, 2011). The presence of thyroid antibodies has
+also been associated with preterm birth (He, 2012). In a randomized
+treatment trial of 115 euthyroid women with TPO antibodies, levothyroxine
+astoundingly reduced the preterm birth rate from 22 to 7 percent (Negro,
+2006). In a follow-up trial restricted to women with a TSH <2.5 mU/L,
+however, levothyroxine treatment had no effect on this risk (Negro, 2016).
+In another study, Abbassi-Ghanavati and associates (2010) evaluated
+pregnancy outcomes in more than 1000 untreated women with TPO
+antibodies and did not find a higher risk for preterm birth compared with the
+
+risk in 16,000 euthyroid women without antibodies. These investigators,
+however, did find a threefold greater risk of placental abruption in these
+women. More recently, the Consortium on Thyroid and Pregnancy-Study
+Group on Preterm Birth (2019) estimated a marginal 1.3-fold increased risk
+for preterm birth in their metaanalysis of women with TPO antibodies.
+As with nonpregnant subjects with TPO antibodies, pregnant women are
+also at increased risk in later life for progression of thyroid disease and
+postpartum thyroiditis (Jameson, 2015; Stagnaro-Green, 2012a). Currently,
+universal screening for the thyroid autoantibodies is not recommended by any
+professional organization (Alexander, 2017; American College of
+Obstetricians and Gynecologists, 2020; De Groot, 2012).
+
+■ Iodine Deficiency
+Decreasing iodide fortification of table salt and bread products in the United
+States during the past 25 years has led to occasional iodide deficiency
+(Caldwell, 2005; Hollowell, 1998). Importantly, the most recent National
+Health and Nutrition Examination Survey indicated that, overall, the United
+States population remains iodine sufficient (Herrick, 2018). However,
+experts agree that iodine nutrition in vulnerable populations, such as pregnant
+women, requires continued monitoring. In 2014, the Office of Dietary
+Supplements of the National Institutes of Health sponsored three workshops
+to identify information gaps and develop an iodine research agenda.
+Participants emphasized the gradual decline in median urinary iodine levels
+in pregnant women and the serious potential effects on developing fetuses
+(Pearce, 2016).
+Dietary iodine requirements are higher during pregnancy due to
+augmented thyroid hormone production, increased renal losses, and fetal
+iodine requirements. Adequate iodine is requisite for fetal neurological
+development beginning soon after conception, and abnormalities vary by the
+degree of deficiency. For example, Levie and colleagues (2019)
+demonstrated a positive correlation between maternal urinary
+iodine/creatinine ratio in the first trimester and offspring nonverbal IQ
+scores. UNICEF (2018) estimates that nearly 19 million babies born globally
+every year are at risk of permanent yet preventable brain damage or of
+reduced cognitive function from iodine deficiency.
+
+Although it is doubtful that mild deficiency causes intellectual
+impairment, supplementation does prevent fetal goiter (Stagnaro-Green,
+2012b). In one randomized trial with more than 800 women who had mild
+deficiency, daily iodine supplementation had no effect on child
+neurodevelopment at age 5 to 6 years (Gowachirapant, 2017).
+Supplementation studies conducted in regions with moderate deficiency have
+reported inconsistent findings with regard to psychomotor development
+(Bell, 2016). Berbel and associates (2009) began daily supplementation in
+more than 300 pregnant women with moderate deficiency at three time
+periods. They found improved neurobehavioral development scores in
+offspring of women supplemented with 200 μg of potassium iodide very
+early in pregnancy. Similarly, Velasco and coworkers (2009) found improved
+Bayley Psychomotor Development scores in offspring of women
+supplemented with 300 μg of iodine daily in the first trimester. In contrast,
+Murcia and colleagues (2011) identified lower psychomotor scores in 1year-old infants whose mothers reported daily supplementation of more than
+150 μg. Severe deficiency is frequently associated with damage typically
+encountered with endemic cretinism, and benefits of universal salt iodization
+or supplementation have been confirmed (Alexander, 2017).
+Regarding daily iodine intake, the Institute of Medicine (2001)
+recommends 220 μg/d during pregnancy and 290 μg/d during lactation (Chap.
+10, p. 185). The American Thyroid Association recommends an average
+iodine intake of 250 μg/d in all pregnant women and has recommended that
+150 μg of iodine be added to prenatal vitamins to achieve this average daily
+oral intake (Alexander, 2017; Kerver, 2021). In an older study, Leung and
+coworkers (2011) reported that only half of the prenatal multivitamins in the
+United States contained iodine. Without evidence of benefit, however, it is
+hard to justify the cost of iodine supplementation of large numbers of
+pregnant women in areas with mild iodine deficiency (Pearce, 2016).
+Importantly, experts caution against oversupplementation since excessive
+iodine exposure can lead to subclinical thyroid dysfunction and is associated
+with increased prevalence of thyroid autoimmunity (Pearce 2016; Shi, 2015).
+The American Thyroid Association advises against exceeding twice the daily
+recommended intake of iodine, which is 500 μg/d (Alexander, 2017).
+
+■ Congenital Hypothyroidism
+
+Universal newborn screening for neonatal hypothyroidism was introduced in
+1974 and is now required by law in all states (Chap. 32, p. 594). This
+develops in approximately 1 in 2000 newborns. The reported incidence has
+increased during the past few decades and is thought to stem from greater
+preterm neonate survival rates and methodological shifts in newborn
+screening (McGrath, 2019). Variation in TSH percentiles according to
+gestational age at delivery have led some to propose age-adjusted cutoffs to
+avoid overdiagnosis (Kaluarachchi, 2019). Developmental disorders of the
+thyroid gland such as agenesis and hypoplasia account for 80 to 90 percent of
+cases. The remainder may be caused by hereditary defects in thyroid
+hormone production, but it is estimated that up to 15 percent may have a
+transient form of the disease (McGrath, 2018; Oron, 2018).
+Early and aggressive thyroxine replacement is critical for affected
+newborns (van Trotsenburg, 2021). In one study of 76 children with
+congenital hypothyroidism, IQ scores at age 18 years did not differ from
+those in 40 siblings, provided the initial thyroxine dose was sufficiently high
+(Aleksander, 2018).
+
+■ Postpartum Thyroiditis
+Transient autoimmune thyroiditis is consistently found in approximately 5 to
+10 percent of women during the first year after childbirth (Nathan, 2014;
+Nguyen, 2019). With an onset within 12 months, postpartum thyroid
+dysfunction includes hyperthyroidism, hypothyroidism, or both. The
+propensity for thyroiditis antedates pregnancy and is directly related to
+increasing serum levels of thyroid autoantibodies. Up to 50 percent of
+women who have thyroid antibodies in the first trimester will develop
+postpartum thyroiditis (Stagnaro-Green, 2012a). As mentioned previously,
+routine thyroid autoantibody testing during pregnancy is currently not
+recommended (American College of Obstetricians and Gynecologists, 2020).
+In clinical practice, postpartum thyroiditis is diagnosed infrequently
+because it typically develops months after delivery and causes vague
+symptoms (Nguyen, 2019). The presentation varies, and classically two
+clinical phases that may develop in succession are recognized. The first and
+earliest is destruction-induced thyrotoxicosis with symptoms from
+excessive release of hormone from glandular disruption. The onset is abrupt,
+and a small, painless goiter is common. From many possible symptoms, only
+
+fatigue and palpitations are more frequent in thyrotoxic women compared
+with normal controls. This thyrotoxic phase usually lasts only a few months.
+Thionamides are ineffective, and if symptoms are severe, a β-blocking agent
+may be given. The second and usually later phase between 4 and 8 months
+postpartum is hypothyroidism from thyroiditis. Thyromegaly and other
+symptoms are common and more prominent than during the thyrotoxic phase.
+Levothyroxine replacement at doses of 25 to 75 μg/d is typically given for 6
+to 12 months.
+Stagnaro-Green and associates (2011) reported postpartum surveillance
+results in 4562 Italian gravidas who had been screened for thyroid disease in
+pregnancy. Serum TSH and anti-TPO antibody levels were measured again at
+6 and 12 months. Overall, 169 women (3.9 percent) developed postpartum
+thyroiditis, and two thirds of these were identified to have hypothyroidism
+only. The other third were diagnosed with hyperthyroidism. Only 14 percent
+of all women demonstrated the classic biphasic progression. These findings
+are consistent with data compiled from 20 other studies between 1982 and
+2008 (Stagnaro-Green, 2012a).
+Importantly, women who experience either type of postpartum thyroiditis
+have a 20- to 30-percent risk of eventually developing permanent
+hypothyroidism, and the annual progression rate is 3.6 percent (Nathan,
+2014). Women at greater risk for developing hypothyroidism are those with
+higher titers of thyroid antibodies and higher TSH levels during the initial
+hypothyroid phase. Others may develop subclinical disease, but half of those
+with thyroiditis who are positive for TPO antibodies develop permanent
+hypothyroidism by 6 to 7 years (Stagnaro-Green, 2012a).
+An association between postpartum thyroiditis and postpartum
+depression has been proposed but remains unresolved (Alexander, 2017).
+Similarly unsettled is the link between depression and thyroid antibodies.
+Kuijpens and associates (2001) reported that TPO antibodies were a marker
+for postpartum depression in euthyroid women. In a randomized trial,
+however, Harris and coworkers (2002) reported no difference in postpartum
+depression in 342 women with TPO antibodies who were given either
+levothyroxine or placebo. Somewhat related, in the MFMU Network
+randomized trial, women with subclinical hypothyroidism allocated to
+thyroxine treatment during pregnancy did not experience improvement in their
+depression (Costantine, 2020).
+
+■ Nodular Thyroid Disease
+Palpable thyroid nodules can be found in up to 5 percent of reproductiveaged women (Angell, 2019). Management of a palpable thyroid nodule
+during pregnancy depends on gestational age and mass size. Small nodules
+detected by sensitive sonographic methods are more common during
+pregnancy in some populations. Kung and associates (2002) used highresolution sonography and found that 15 percent of Chinese women had
+nodules larger than 2 mm in diameter. Almost half of cases had multiple
+masses. The nodules usually enlarged modestly across pregnancy and did not
+regress postpartum. Biopsy of those measuring >5 mm3 that persisted at 3
+months usually showed nodular hyperplasia, and none was malignant. In most
+studies, 90 to 95 percent of solitary nodules are benign (Burch, 2016).
+Evaluation of thyroid nodules during pregnancy should be similar to that
+for nonpregnant patients. As discussed in Chapter 49 (p. 875), radioiodine
+scanning in pregnancy is usually not recommended (American College of
+Obstetricians and Gynecologists, 2020). Sonographic examination reliably
+detects nodules >5 mm, and their solid or cystic structure also is determined.
+According to the American Association of Clinical Endocrinologists,
+sonographic characteristics associated with malignancy include
+hypoechogenic pattern, irregular margins, and microcalcifications (Gharib,
+2016). Fine-needle aspiration (FNA) under ultrasound guidance is an
+excellent assessment method because cytological diagnostic criteria are not
+substantially influenced by pregnancy (Gharib, 2016). If the FNA biopsy
+shows a follicular lesion, surgery may be deferred until postpartum.
+Evaluation of thyroid cancer involves a multidisciplinary approach
+(Fagin, 2016). Most thyroid carcinomas are well differentiated and indolent.
+Messuti and coworkers (2014) provided evidence that persistence or
+recurrence of these tumors may be more common in pregnant women. For
+thyroid malignancy diagnosed in the first or second trimester, thyroidectomy
+may be performed before the third trimester. In women without evidence of
+an aggressive thyroid cancer or in those diagnosed in the third trimester,
+surgical treatment can be deferred until the early puerperium (Gharib, 2016)
+(Chap. 66, p. 1174).
+
+PARATHYROID DISEASE
+
+Parathyroid hormone (PTH) maintains extracellular fluid calcium
+concentration. This 84-amino-acid hormone acts directly on bone and kidney
+and indirectly on small intestine to increase serum calcium (Potts, 2015).
+PTH secretion is regulated by serum ionized calcium concentration through a
+negative feedback system. Calcitonin is a potent parathyroid hormone that
+acts as a physiological PTH antagonist. The relationships between these
+hormones, calcium metabolism, and PTH-related protein (PTH-rP)
+produced by fetal tissue are discussed in Chapter 4 (p. 73).
+Of fetal demands, calcium requirements reach 300 mg/d in late pregnancy
+and 30 g for the entire gestation. These needs and greater renal calcium loss
+from augmented maternal glomerular filtration substantively raise maternal
+calcium demands. Total serum calcium levels decline with serum albumin
+concentrations, but ionized calcium levels remain unchanged. Pregnancy is
+also associated with a twofold rise in serum concentrations of 1,25dihydroxyvitamin D, which increases gastrointestinal calcium absorption.
+The effectuating hormone is probably of placental and decidual origin since
+maternal PTH levels are low normal or decreased during pregnancy
+(Cooper, 2011). Calcium is actively transported across the placenta and
+deposited in the developing fetal skeletal system. Fetal calcium homeostasis
+is maintained through a complex interplay between PTH-rP, PTH, and
+receptors in the placenta, fetal kidney, and fetal skeleton (Hirai, 2015).
+
+■ Hyperparathyroidism
+Hypercalcemia is caused by hyperparathyroidism or cancer in 90 percent of
+cases (Potts, 2015). Because many automated laboratory systems include
+serum calcium measurement, hyperparathyroidism has changed from being a
+condition defined by symptoms to one that is discovered on routine screening
+(Pallan, 2012). Hypercalcemia has a reported prevalence of 2 to 3 cases per
+1000 women, but some estimate the rate to reach 14 cases per 1000 if
+asymptomatic women are included. Almost 80 percent are caused by a
+solitary adenoma, and another 15 percent by hyperfunctioning of all four
+glands. In the remainder, an associated malignancy is usually obvious. Of
+note, PTH produced by tumors is not identical to the natural hormone and
+may not be detected by routine assays.
+In most patients with hyperparathyroidism, the serum calcium level is
+elevated to within only 1 to 1.5 mg/dL above the upper normal limit. This
+
+may help to explain why only 20 percent of those who have abnormally
+elevated levels are symptomatic (Bilezikian, 2004). In a fourth, however,
+symptoms become apparent when the serum calcium level continues to rise.
+Hypercalcemic crisis manifests as stupor, nausea, vomiting, weakness,
+fatigue, and dehydration.
+Women with symptomatic hyperparathyroidism should be surgically
+treated (Davis, 2020; Potts, 2015). Indications for parathyroidectomy include
+a serum calcium level 1.0 mg/dL above the upper normal range, a calculated
+creatinine clearance <60 mL/min, reduced bone density, or age >50 years
+(Bilezikian, 2009). Those not meeting these criteria should undergo annual
+serum calcium and creatinine level measurement and bone density
+assessment every 1 to 2 years (Pallan, 2012).
+
+Hyperparathyroidism in Pregnancy
+In their review, Schnatz and Thaxton (2005) found fewer than 200 reported
+cases of hyperparathyroidism complicating pregnancy. As in nonpregnant
+patients, parathyroid adenoma is the most common etiology. Ectopic
+parathyroid hormone production and rare cases of parathyroid carcinoma
+have been reported in pregnancy (Montoro, 2000; Saad, 2014). Symptoms of
+hyperparathyroidism during pregnancy include hyperemesis, generalized
+weakness, renal calculi, and psychiatric disorders. Occasionally, pancreatitis
+is the presenting disorder (Hirsch, 2015).
+Pregnancy theoretically improves hyperparathyroidism by significantly
+shunting calcium to the fetus and by augmented renal excretion. When these
+effects are withdrawn, however, postpartum hypercalcemic crisis is a
+danger. This life-threatening complication can be seen with serum calcium
+levels >14 mg/dL, and nausea, vomiting, tremors, dehydration, and mental
+status changes are symptoms (Malekar-Raikar, 2011).
+Early reports described excessive stillbirths and preterm deliveries in
+pregnancies complicated by hyperparathyroidism. More recent reports,
+however, describe lower rates of stillbirth, neonatal death, and neonatal
+tetany (Kovacs, 2011). Other fetal complications include miscarriage, fetalgrowth restriction, and low birthweight (Chamarthi, 2011).) One group
+reported a 30-percent incidence of preeclampsia (Rigg, 2019).
+
+Management in Pregnancy
+
+Surgical removal of a symptomatic parathyroid adenoma is preferable. This
+should prevent fetal and neonatal morbidities and postpartum parathyroid
+crises (Kovacs, 2011). In one case series from an Australian referral
+hospital, 22 pregnancies were managed medically, and six women underwent
+parathyroidectomy. Preterm delivery was reported in 66 percent of
+pregnancies managed without surgery, whereas all surgically treated women
+delivered at term (Rigg, 2019). Elective neck exploration during pregnancy
+is usually well tolerated, even in the third trimester (Hirsch, 2015; Stringer,
+2017). In at least two cases, a mediastinal adenoma was removed at
+midpregnancy (Rooney, 1998; Saad, 2014).
+Medical management may however be appropriate in asymptomatic
+pregnant women with mild hypercalcemia (Hirsch, 2015). If so, patients are
+carefully monitored in the puerperium for hypercalcemic crisis. Initial
+medical management might include calcitonin to decrease skeletal calcium
+release, or oral phosphate, 1 to 1.5 g daily in divided doses, to bind excess
+calcium. For women with dangerously elevated serum calcium levels or
+those who are mentally obtunded with hypercalcemic crisis, emergency
+treatment is instituted. Diuresis with IV normal saline is begun so that urine
+flow exceeds 150 mL/hr. Furosemide is given in conventional doses to block
+tubular calcium reabsorption. Importantly, hypokalemia and hypomagnesemia
+should be prevented. Adjunctive therapy includes mithramycin, which
+inhibits bone resorption.
+
+Neonatal Effects
+Normally, cord blood calcium levels are higher than maternal levels (Chap.
+7, p. 136). With maternal hyperparathyroidism, abnormally elevated maternal
+and thus fetal levels further suppress fetal parathyroid function. Because of
+this, newborn calcium levels rapidly drop after birth, and 15 to 25 percent of
+these neonates develop severe hypocalcemia with or without tetany (Molitch,
+2000). Neonatal hypoparathyroidism caused by maternal
+hyperparathyroidism is usually transient and is treated with calcium and
+1,25-dihydroxyvitamin D3 (calcitriol). The latter will not be effective in
+preterm infants, however, because the intestinal vitamin D receptor is
+insufficiently expressed (Kovacs, 2011). Neonatal tetany or seizures should
+stimulate an evaluation for maternal hyperparathyroidism (Beattie, 2000; Ip,
+2003).
+
+■ Hypoparathyroidism
+The most common cause of hypocalcemia is hypoparathyroidism that usually
+follows parathyroid or thyroid surgery. It is estimated that almost 80 percent
+of cases are attributable to complications of anterior neck surgery (Gafni,
+2019). Hypoparathyroidism is characterized by facial muscle spasms, muscle
+cramps, and paresthesias of the lips, tongue, fingers, and feet. This can
+progress to tetany and seizures (Potts, 2015). Chronically, hypocalcemic
+pregnant women may also have a fetus with skeletal demineralization
+resulting in multiple bone fractures in the neonatal period (Alikasifoglu,
+2005).
+Maternal treatment includes calcitriol, dihydrotachysterol, or large
+vitamin D doses of 50,000 to 150,000 U/d; calcium gluconate or calcium
+lactate in doses of 3 to 5 g/d; and a low-phosphate diet. Fetal risks from
+large doses of vitamin D have not been established. During treatment, the
+therapeutic challenge in women with known hypoparathyroidism is
+management of blood calcium levels. It is possible that the greater calcium
+absorption typical of pregnancy will result in lower calcium requirements or
+that the fetal demand for calcium will result in greater need. The goal during
+pregnancy is to maintain a corrected calcium level in the low normal range.
+
+■ Pregnancy and Lactation-associated Osteoporosis
+In most gravidas, even with their remarkably increased calcium
+requirements, it is uncertain whether pregnancy causes osteopenia. In one
+study of 200 women, bone density declined during pregnancy (Kraemer,
+2011). Women who breastfed, carried twin pregnancies, or had a low body
+mass index were at higher risk of bone loss. Thomas and Weisman (2006) in
+their review cite a 3- to 4-percent average reduction in bone mineral density
+during pregnancy. Lactation also represents a period of negative calcium
+balance that may be corrected through maternal skeletal resorption.
+However, data from the Women’s Health Initiative found that parity, number
+of pregnancies, age at first pregnancy, breastfeeding, and duration of
+breastfeeding were not associated with postmenopausal hip fracture risk or
+bone density losses (Crandall, 2017).
+The most common symptom of this rare disorder of pregnancy-associated
+osteoporosis is back pain in late pregnancy or postpartum. Other symptoms
+
+are hip pain, either unilateral or bilateral, and difficulty in weight bearing
+until the woman is nearly immobilized (Maliha, 2012). In more than half of
+women, no apparent reason for osteopenia is found. Some known causes are
+heparin (unfractionated only), bed rest, and corticosteroid therapy
+(Cunningham, 2005; Galambosi, 2016). In a few cases, overt
+hyperparathyroidism or thyrotoxicosis eventually develops.
+Treatment is problematic and includes calcium and vitamin D
+supplementation and pain management. Long-term surveillance of osteopenia
+indicates that although bone density improves, these women and their
+offspring may have chronic osteopenia (Carbone, 1995). Related, prenatal
+supplementation of normal women with cholecalciferol, 1000 IU/d, did not
+increase offspring bone mineral content, although it did ensure maternal
+vitamin D repletion (Cooper, 2016). In lactating women with osteoporosis,
+some advocate cessation of breastfeeding (Zhang, 2017).
+
+ADRENAL GLAND DISORDERS
+■ Pheochromocytoma
+Pregnancy has profound effects on adrenal cortical secretion. These
+interrelationships were reviewed by Lekarev and New (2011) and are
+discussed in detail in Chapter 4 (p. 73). Several adrenal disorders may be
+encountered in pregnancy.
+Of these, pheochromocytomas are chromaffin tumors that secrete
+catecholamines and usually are located in the adrenal medulla, although 10
+percent are located in sympathetic ganglia. They are called the 10-percent
+tumor because approximately 10 percent are bilateral, 10 percent are extra
+adrenal, and 10 percent are malignant. These tumors can be associated with
+medullary thyroid carcinoma and hyperparathyroidism in some of the
+autosomally dominant or recessive multiple endocrine neoplasia
+syndromes, as well as in neurofibromatosis and von Hippel-Lindau disease
+(Neumann, 2018).
+Pheochromocytomas complicate approximately 1 per 50,000 pregnancies
+(Quartermaine, 2018). Notably, they are found in 0.2 to 0.6 percent of
+hypertensive patients (Lenders, 2019). Symptoms are usually paroxysmal and
+manifest as hypertensive crisis, seizures, or anxiety attacks. Others are
+headaches, sweating, palpitations, chest pain, nausea, vomiting, and pallor or
+
+flushing. Hypertension is sustained in 60 percent of patients, but half of these
+also have paroxysmal crises.
+Standard screening is quantification of metanephrines and catecholamine
+metabolites in a 24-hour urine specimen (Neumann, 2018). Diagnosis is
+established by measurement of a 24-hour urine collection with at least two of
+three assays for free catecholamines, metanephrines, or vanillylmandelic
+acid (VMA). Determination of plasma catecholamine metabolite levels is the
+most sensitive test, and a pheochromocytoma diagnosis is excluded if they
+are within normal range (Eisenhofer, 2018). In nonpregnant patients, adrenal
+localization is usually successful with either computed tomography (CT) or
+magnetic resonance (MR) imaging. For most cases, preferred treatment is
+laparoscopic adrenalectomy (Neumann, 2018).
+In pregnancy, these tumors are rare but result in dangerous complications.
+Geelhoed (1983) provided an earlier review of 89 cases in which 43
+mothers died. Maternal death was much more common if the tumor was not
+diagnosed antepartum—58 versus 18 percent. As seen in Table 61-5,
+maternal mortality rates are now lower but still formidable. In one review of
+77 cases, antepartum diagnosis was the most important determinant of
+maternal mortality risk (Biggar, 2013). However, Salazar-Vega and
+colleagues (2014) described good outcomes in women diagnosed after
+delivery.
+TABLE 61-5. Outcomes of Pregnancies Complicated by
+Pheochromocytoma and Reported in Four Contiguous Epochs
+
+Diagnosis of pheochromocytoma in pregnancy is similar to that for
+nonpregnant patients. MR imaging is the preferred technique to locate
+adrenal and extra-adrenal pheochromocytomas (Fig. 61-5). Importantly,
+differentiating preeclampsia from the hypertensive crisis caused by
+pheochromocytoma is essential.
+
+FIGURE 61-5 Coronal magnetic resonance image taken in a 32-week pregnant woman shows a rightsided pheochromocytoma (arrow) and its position relative to the liver (L) above it.
+
+Immediate control of hypertension and symptoms is attained with an αadrenergic blocking agent such as phenoxybenzamine. The dose is 10 to 30
+mg, two to four times daily. After α-blockade is achieved, β-blocking drugs
+such as propranolol may be given for tachycardia. In many cases, surgical
+exploration and tumor removal are performed during pregnancy, preferably
+during the second trimester (Biggar, 2013; Dong, 2014). Successful
+laparoscopic removal of adrenal tumors has become the norm (Miller, 2012;
+Zuluaga-Gómez, 2012). Donatini and colleagues (2018) described three
+cases of women with bilateral tumors who had laparoscopic unilateral
+adrenalectomy of the largest tumor during pregnancy and subsequent
+contralateral adrenalectomy after delivery to avoid the maternal and fetal
+
+effects of adrenal insufficiency. If diagnosed later in pregnancy, either
+planned cesarean delivery with tumor excision or postpartum resection is
+appropriate.
+Recurrent tumors are troublesome, and even with good blood pressure
+control, dangerous peripartum hypertension may develop. We have cared for
+three women in whom recurrent pheochromocytoma was identified during
+pregnancy. Hypertension was managed with phenoxybenzamine in all three.
+Two newborns were healthy, but a third was stillborn in a mother with a
+massive tumor burden who was receiving phenoxybenzamine, 100 mg daily.
+In all three women, the tumor was resected postpartum.
+
+■ Cushing Syndrome
+This syndrome is rare and the female:male ratio is 3:1 (Arit, 2018). Most
+cases of Cushing syndrome are iatrogenic from long-term corticosteroid
+treatment. Excessive glucocorticoids can also be the result of a pituitary
+adenoma, adrenal tumor, or bilateral adrenal hyperplasia (Melmed, 2020).
+Cushing disease refers to bilateral adrenal hyperplasia stimulated by
+corticotropin-producing pituitary adenomas. Corticotropin is also called
+adrenocorticotropic hormone (ACTH). Most adenomas are microadenomas
+measuring <1 cm, and half measure <5 mm. Rarely, abnormal secretion of
+hypothalamic corticotropin-releasing factor may cause corticotropic
+hyperplasia. Such hyperplasia may also be caused by nonendocrine tumors
+that produce polypeptides similar to either corticotropin-releasing factor or
+corticotropin. Less than a fourth of cases of Cushing syndrome are
+corticotropin independent, and most of these are caused by an adrenal
+adenoma (Machado, 2018). Tumors are usually bilateral, and half are
+malignant. Occasionally, associated androgen excess may lead to severe
+virilization.
+The typical cushingoid body habitus is caused by adipose tissue
+deposition creating moon facies, a buffalo hump, and truncal obesity.
+Fatigability and weakness, hypertension, hirsutism, and amenorrhea are each
+encountered in 75 to 85 percent of nonpregnant patients (Hatipoglu, 2012;
+Melmed, 2020). Personality changes, easy bruising, and cutaneous striae are
+common. Up to 60 percent may have impaired glucose tolerance. Diagnosis
+can be difficult and is suggested by elevated plasma cortisol levels that
+cannot be suppressed by dexamethasone or by elevated 24-hour urinary free
+
+cortisol excretion in three collections (Arit, 2018; Loriaux, 2017). Neither
+test is totally accurate, and each is more difficult to interpret in obese
+patients. Serum corticotropin levels and CT and MR imaging are used to
+localize pituitary and adrenal tumors or hyperplasia.
+In pregnancy, diagnosis can be difficult because of pregnancy-induced
+increases in plasma cortisol, corticotropin, and corticotropin-releasing factor
+levels. Measurement of urinary free cortisol excretion in a 24-hour collection
+sample is recommended. With interpretation of results, the normal elevation
+seen in pregnancy is factored. Because most women have corticotropindependent Cushing syndrome, associated androgen excess may cause
+anovulation, and pregnancy is rare. Caimari and coworkers (2017) identified
+263 pregnancies in 220 women with Cushing syndrome in their systematic
+review. These differ compared with nonpregnant women in that more than
+half are caused by corticotropin-independent adrenal adenomas (Kamoun,
+2014; Lacroix, 2015; Machado, 2018). Approximately 30 percent of cases
+are from a pituitary adenoma, and 10 percent from adrenal carcinomas.
+Pregnancy outcomes reviewed by Caimari and associates (2017) in women
+with Cushing syndrome are listed in Table 61-6.
+TABLE 61-6. Complications in Pregnancies of Women with Active and
+Cured Cushing Syndrome
+
+Long-term medical therapy for Cushing syndrome usually is ineffective,
+and definitive therapy is resection of the pituitary or adrenal adenoma or
+bilateral adrenalectomy for hyperplasia (Lacroix, 2015; Machado, 2018).
+During pregnancy, management of hypertension in mild cases may suffice
+until delivery. In their review, Lindsay and associates (2005) described
+primary medical therapy in 20 women with Cushing syndrome. Most were
+successfully treated with metyrapone as an interim treatment until definitive
+surgery after delivery. A few cases were treated with oral ketoconazole.
+However, because this drug also blocks testicular steroidogenesis, treatment
+during pregnancy with a male fetus is worrisome. Mifepristone, the
+norethindrone derivative used for abortion and labor induction, has shown
+promise for treating Cushing disease but should not be used in pregnancy for
+obvious reasons. Transsphenoidal resection of a pituitary mass or
+laparoscopic adrenalectomy are considered first-line treatment options in the
+second trimester (Brue, 2018; Manoharan, 2020). Unilateral adrenalectomy
+has been safely performed in the early third trimester and can also be
+curative (Abdelmannan, 2011).
+
+■ Adrenal Insufficiency—Addison Disease
+Primary adrenocortical insufficiency is rare because more than 90 percent of
+total gland volume must be destroyed for symptoms to develop. Autoimmune
+adrenalitis is the most common cause in the developed world, but
+tuberculosis is a more frequent etiology in resource-poor countries (Arit,
+2018; Betterle, 2019; Kamoun, 2014). In the United States, the prevalence in
+7.7 million births was 1 case per 10,000 to 20,000 (Schneiderman, 2017).
+There is an increased incidence of concurrent Hashimoto thyroiditis, primary
+ovarian insufficiency, type 1 diabetes, and Graves disease. These
+polyglandular autoimmune syndromes also include pernicious anemia,
+vitiligo, alopecia, nontropical sprue, and myasthenia gravis.
+Untreated adrenal hypofunction frequently causes infertility, but with
+replacement therapy, ovulation is restored. If untreated, women often note
+weakness, nausea, vomiting, and weight loss. Low levels of plasma cortisol
+and elevated ACTH levels are generally considered diagnostic (Betterle,
+2019). Because serum cortisol levels rise during pregnancy, a short ACTHstimulation test documenting less than a twofold increase in plasma cortisol
+in response to infused corticotropin confirms the diagnosis (Manoharan,
+2020).
+In a large cohort study, 1188 women with Addison disease were
+compared with more than 11,000 age-matched controls who delivered
+between 1973 and 2006 (Björnsdottir, 2010). Women diagnosed with adrenal
+insufficiency within 3 years of delivery were significantly more likely to
+deliver preterm, to deliver a low-birthweight newborn, and to undergo
+cesarean delivery. Others have reported similar adverse outcomes
+(Quartermaine, 2018). Most pregnant women with Addison disease are
+already taking glucocorticoid and mineralocorticoid replacement drugs.
+These should be continued, and women are observed for evidence of either
+inadequate or excessive corticosteroid replacement. A 20- to 40-percent
+dose increase is usually expected after midpregnancy to mimic the
+physiological cortisol elevation in pregnancy (Oliveira, 2018). During labor,
+delivery, and postpartum, or after a surgical procedure, corticosteroid
+replacement must be increased appreciably to approximate the normal
+adrenal response. This augmented dose is called a stress dose, and one
+option is hydrocortisone, 100 mg, given IV every 8 hours for 48 hours.
+
+Importantly, shock from causes other than adrenocortical insufficiency—for
+example, hemorrhage or sepsis—must be recognized and treated promptly.
+
+■ Primary Aldosteronism
+Hyperaldosteronism is caused by an adrenal adenoma—Conn syndrome—in
+approximately 75 percent of cases. Idiopathic bilateral adrenal hyperplasia
+makes up the remainder, except for rare cases of adrenal carcinoma (Eschler,
+2015; Yang, 2020). Findings include hypertension, hypokalemia, and muscle
+weakness. High serum or urine levels of aldosterone confirm the diagnosis.
+In normal pregnancy, as discussed in Chapter 4 (p. 74), progesterone
+blocks aldosterone action, and this results in very high aldosterone levels
+(Appendix, p. 1230). Accordingly, the diagnosis of hyperaldosteronism
+during pregnancy can be difficult. Because renin levels are suppressed in
+pregnant women with hyperaldosteronism, a plasma aldosterone-to-renin
+activity ratio may be helpful for diagnosis (Morton, 2015). Hypertension
+worsens as pregnancy progresses, and medical management includes
+potassium supplementation and antihypertensive therapy. In many cases,
+hypertension responds to spironolactone. However, β-blocking or calcium
+channel–blocking drugs may be preferred because of the potential fetal
+antiandrogenic effects of spironolactone. Mascetti and coworkers (2011)
+reported successful use of amiloride in a pregnant woman. Use of
+eplerenone, a selective aldosterone-receptor antagonist, also has been
+described (Manoharan, 2020). Laparoscopic tumor resection is considered
+curative, but the optimal management during pregnancy, either surgical or
+medical, remains unclear (Eschler, 2015; Morton, 2015).
+
+PITUITARY DISORDERS
+■ Prolactinomas
+The pituitary enlarges impressively during pregnancy, predominantly from
+lactotrophic cellular hyperplasia induced by estrogen (Chap. 4, p. 70).
+Several pituitary disorders also can complicate pregnancy.
+Of these, prolactinomas are tumors that constitute 75 percent of pituitary
+adenomas in women (Melmed, 2020). They are often found in nonpregnant
+women since the advent of widely available serum prolactin assays. Serum
+
+levels <25 pg/mL are considered normal in nonpregnant women. Adenoma
+symptoms and findings include amenorrhea, galactorrhea, and
+hyperprolactinemia. Tumors are classified arbitrarily by their size measured
+by CT or MR imaging. A microadenoma is ≤10 mm, and a macroadenoma is
+>10 mm. Treatment for microadenomas is usually with bromocriptine, a
+dopamine agonist and powerful prolactin inhibitor, which frequently restores
+ovulation. For suprasellar macroadenomas, most recommend surgical
+resection before pregnancy is attempted (Araujo, 2015; Melmed, 2020).
+In a pooled analysis of more than 750 pregnant women with
+prolactinomas, only 2.4 percent with microadenomas developed
+symptomatic enlargement during pregnancy (Molitch, 2015). Symptomatic
+enlargement of macroadenomas, however, is more frequent and was found in
+21 percent of 238 pregnant women. In another study of 46 women with a
+macroprolactinoma, 20 percent had tumor growth–related symptoms
+(Barraud, 2020). Nonfunctioning adenomas can also cause symptoms of
+pituitary expansion in pregnancy (Lambert, 2017).
+Pregnant women with microadenomas should be queried regularly for
+headaches and visual symptoms. Those with macroadenomas are followed
+more closely and have visual field testing each trimester. CT or MR imaging
+is recommended only if symptoms develop (Fig. 61-6). Serial serum
+prolactin levels serve little use because of normal rises during pregnancy
+(Appendix, p. 1231). Symptomatic tumor enlargement should be treated
+immediately with a dopamine antagonist. The safety of bromocriptine in
+pregnancy is well established. The safety profile is less well known for
+cabergoline. This drug is increasingly used in nonpregnant women because it
+is better tolerated and more effective. Cabergoline is generally considered
+safe for use in pregnancy (Huang, 2019; O’Sullivan, 2020). Surgery is
+recommended for women with no response, including those with pituitary
+apoplexy (Barraud, 2020).
+
+FIGURE 61-6 Magnetic resonance imaging of a pituitary adenoma. This sagittal T1-weighed image
+demonstrates a fluid-fluid level, consistent with intratumoral hemorrhage (arrow). (Reproduced with
+permission from Dr. Toral Patel.)
+
+■ Acromegaly
+This is caused by excessive growth hormone, usually from an acidophilic or
+a chromophobic pituitary adenoma. In normal pregnancy, pituitary growth
+hormone levels decline as placental epitopes are secreted. Diagnosis is
+suggested by elevated insulin growth factor 1 (IGF-1) serum levels. Levels
+are more indicative in the first half of pregnancy because IGF-1
+concentrations rise in normal pregnancy after midpregnancy (Abucham,
+2017; Melmed, 2020). Definitive diagnosis may best be postponed until after
+delivery. Fewer than 100 cases of acromegaly have been reported during
+pregnancy (Cheng, 2012; Dias, 2013). Pregnancy is rare in women with
+acromegaly because half are hyperprolactinemic and anovulatory. During
+pregnancy, affected women are at marginally greater risk for gestational
+diabetes and hypertension (Dias, 2013; Jallad, 2018).
+Management is similar to that for prolactinomas, and women are
+monitored for symptoms of tumor enlargement. Dopamine agonist therapy is
+less effective than for prolactinomas. Transsphenoidal resection, generally
+considered first-line treatment outside of pregnancy, may be necessary for
+symptomatic tumor enlargement during pregnancy (Motivala, 2011). Guven
+
+and associates (2006) reported a case of pituitary apoplexy necessitating
+emergent transsphenoidal adenoma resection and cesarean delivery at 34
+weeks’ gestation. Successful treatment of pregnant women with the
+somatostatin-receptor ligand octreotide and with the growth hormone
+analogue pegvisomant has been reported (Dias, 2013; Fleseriu, 2015).
+
+■ Diabetes Insipidus
+Vasopressin deficiency evident in diabetes insipidus (DI) is most commonly
+due to neurohypophysis agenesis or destruction. True DI rarely complicates
+pregnancy. Instead, other types of DI encountered during pregnancy include
+primary polydipsia, gestational DI, and nephrogenic DI. These show
+suppressed secretion of, increased degradation of, and renal insensitivity to
+vasopressin, respectively (Robertson, 2016). In our experiences, transient
+secondary DI is more likely encountered with acute fatty liver of pregnancy
+(Nelson, 2013). This probably stems from altered vasopressinase clearance
+because of hepatic dysfunction (Chap. 58, p. 1035).
+DI therapy is intranasal administration of a synthetic analogue of
+vasopressin, desmopressin, which is 1-deamino-8-D-arginine vasopressin
+(DDAVP). Available data on the safety of DDAVP during pregnancy is
+reassuring (Chanson, 2019). Most women require higher doses during
+pregnancy because of an increased metabolic clearance rate stimulated by
+placental vasopressinase (Lindheimer, 1994). The prevalence of placental
+vasopressinase-induced DI is estimated at 2 to 4 cases per 100,000
+pregnancies (Wallia, 2013).
+
+■ Sheehan Syndrome
+Sheehan (1937) reported that pituitary ischemia and necrosis associated with
+obstetrical blood loss could result in hypopituitarism. With modern methods
+of hemorrhagic shock treatment, Sheehan syndrome rates have gradually
+declined (Matsuzaki, 2017; Pappachan, 2015). Affected women may have
+persistent hypotension, tachycardia, hypoglycemia, and lactation failure.
+Because deficiencies of some or all pituitary-responsive hormones may
+develop after the initial insult, Sheehan syndrome can be heterogenous and
+may not be identified for years (Chanson, 2019). In one cohort study of 60
+women with Sheehan syndrome, the average time to diagnosis was 13 years
+
+(Gei-Guardia, 2011). Because adrenal insufficiency is the most lifethreatening complication, adrenal function should be immediately assessed.
+After glucocorticoid replacement, subsequent analyses and replacement of
+thyroid, gonadal, and growth hormones is considered. Women with Sheehan
+syndrome who become pregnant likely have a livebirth (Vila, 2020).
+
+■ Lymphocytic Hypophysitis
+This rare autoimmune pituitary disorder is characterized by massive
+infiltration by lymphocytes and plasma cells with parenchymal destruction of
+the gland. Many cases are temporally linked to pregnancy, and more than half
+of reported cases in women are identified during pregnancy or puerperium
+(Gubbi, 2018). However, more recent reports describe fewer cases
+associated with pregnancy (Chanson, 2019). The degrees of hypopituitarism
+or mass effect symptoms, including headaches and visual field defects, vary.
+A sellar mass is seen with CT or MR imaging. A mass accompanied by a
+modestly elevated serum prolactin level—usually <100 pg/mL—suggests
+lymphocytic hypophysitis. In contrast, levels >200 pg/mL are encountered
+with prolactinoma. The etiology is unknown, but nearly 30 percent have a
+history of coexisting autoimmune diseases including Hashimoto thyroiditis,
+Addison disease, type 1 diabetes, or pernicious anemia (Chanson, 2019).
+Treatment is with glucocorticoids and pituitary hormone replacement. The
+disease may be self-limited, and a careful withdrawal of hormone
+replacement is attempted after inflammation subsides (Foyouzi, 2011;
+Melmed, 2020). More than two thirds of women who require treatment for
+lymphocytic hypophysitis, however, will require long-term hormone
+replacement (Gubbi, 2018).
+
+REFERENCES
+Abalovich M, Alcaraz G, Kleiman-Rubinsztein J, et al: The relationship of preconception thyrotropin
+levels to requirements for increasing the levothyroxine dose during pregnancy in women with
+primary hypothyroidism. Thyroid 20(10):1175, 2010
+Abalovich M, Gutierrez S, Alcaraz G, et al: Overt and subclinical hypothyroidism complicating
+pregnancy. Thyroid 12(1):63, 2002
+Abbassi-Ghanavati M, Casey B, Spong C, et al: Pregnancy outcomes in women with thyroid peroxidase
+antibodies. Obstet Gynecol 116(2, Pt 1):381, 2010
+
+Abdelmannan D, Aron D: Adrenal disorders in pregnancy. Endocrinol Metab Clin North Am 40:779,
+2011
+Abucham J, Bronstein MD, Dias ML: Management of endocrine disease: Acromegaly and pregnancy: a
+contemporary review. Eur J Endocrinol 177(1):R1, 2017
+Ahlawat SK, Jain S, Kumari S, et al: Pheochromocytoma associated with pregnancy: case report and
+review of the literature. Obstet Gynecol Surv 54:728, 1999
+Aleksander PE, Bruckner-Spieler M, Stoehr AM, et al: Mean high-dose thyroxine treatment is efficient
+and safe to achieve a normal IQ in young adult patients with congenital hypothyroidism. J Clin
+Endocrinol Metab 103(4):1459, 2018
+Alexander EK, Marquesee E, Lawrence J, et al: Timing and magnitude of increases in levothyroxine
+requirements during pregnancy in women with hypothyroidism. N Engl J Med 351:241, 2004
+Alexander EK, Pearce EN, Brent GA et al: 2017 Guidelines of the American Thyroid Association for
+the diagnosis and management of thyroid disease during pregnancy and postpartum. Thyroid
+27(3):315, 2017
+Alikasifoglu A, Gonc EN, Yalcin E, et al: Neonatal hyperparathyroidism due to maternal
+hypoparathyroidism and vitamin D deficiency: a cause of multiple bone fractures. Clin Pediatr
+44:267, 2005
+American College of Obstetricians and Gynecologists: Thyroid disease in pregnancy. Practice Bulletin
+No. 223, May 2020
+American Thyroid Association, American Association of Clinical Endocrinologists: Hyperthyroidism and
+other causes of thyrotoxicosis: management guidelines of the American Thyroid Association and
+American Association of Clinical Endocrinologists. Endocr Pract 17(3):456, 2011
+Amino N, Izumi Y, Hidaka Y, et al: No increase of blocking type anti-thyrotropin receptor antibodies
+during pregnancy in patients with Graves’ disease. J Clin Endocrinol Metab 88(12):5871, 2003
+Andersen SL, Andersen S, Vestergaard P, et al: Maternal thyroid function in early pregnancy and child
+neurodevelopmental disorders: a Danish nationwide case-cohort study. Thyroid 28(4):537, 2018
+Andersen SL, Olsen J, Laurberg P: Maternal thyroid disease in the Danish National Birth Cohort:
+prevalence and risk factors. Eur J Endocrinol 174(2):203, 2016
+Andersen SL, Olsen J, Wu CS, et al: Severity of birth defects after propylthiouracil exposure in early
+pregnancy. Thyroid 24(10):1533, 2014
+Angell TE, Alexander EK: thyroid nodules and thyroid cancer in the pregnant woman. Endocrinol Metab
+Clin N Am 48:557, 2019
+Arafah BM: Increased need for thyroxine in women with hypothyroidism during estrogen therapy. N
+Engl J Med 344:1743, 2001
+Araujo PB, Vieira Neto L, Gadelha MR: Pituitary tumor management in pregnancy. Endocrinol Metab
+Clin North Am 44(1):181, 2015
+Arit W: Disorders of the adrenal cortex. In Jameson JL, Fauci AS, Kasper DL, et al (eds): Harrison’s
+Principles of Internal Medicine, 20th ed. New York, McGraw-Hill Education, 2018, p 2719
+Barbesino G, Tomer Y: Clinical utility of TSH receptor antibodies. J Clin Endocrinol Metab 98(6):2247,
+2013
+Barraud S, Guédra L, Delemer B, et al: Evolution of macroprolactinomas during pregnancy: a cohort
+study of 83 pregnancies. Clin Endocrinol (Oxf) 92(5):421, 2020
+Beattie GC, Ravi NR, Lewis M, et al: Rare presentation of maternal primary hyperparathyroidism. BMJ
+321:223, 2000
+Bell MA, Ross AP, Goodman G: Assessing infant cognitive development after prenatal iodine
+supplementation. Am J Clin Nutr 104(Suppl):928S, 2016
+
+Berbel P, Mestre JL, Santamaria A, et al: Delayed neurobehavioral development in children born to
+pregnant women with mild hypothyroxinemia during the first month of gestation: the importance of
+early iodine supplementation. Thyroid 19:511, 2009
+Berlin L: Malpractice issues in radiology: iodine-131 and the pregnant patient. AJR Am J Roentgenol
+176:869, 2001
+Bernal J: Thyroid hormone receptors in brain development and function. Nat Clin Pract Endocrinol
+Metab 3(3):249, 2007
+Betterle C, Presotto F, Furmaniak J: Epidemiology, pathogenesis, and diagnosis of Addison’s disease in
+adults. J Endocrinol Invest 42(12):1407, 2019
+Bianchi DW, Romero R: Biological implications of bidirectional fetomaternal cell trafficking summary of
+a National Institute of Child Health and Human Development-sponsored conference. J Matern Fetal
+Neonatal Med 14:123, 2003
+Biggar MA, Lennard TW: Systematic review of phaeochromocytoma in pregnancy. Br J Surg
+100(2):182, 2013
+Bilezikian JP, Khan AA, Potts JT Jr: Guidelines for the management of asymptomatic primary
+hyperparathyroidism: summary statement of the Third International Workshop. J Clin Endocrinol
+Metab 94(2):335, 2009
+Bilezikian JP, Silverberg SJ: Asymptomatic primary hyperparathyroidism. N Engl J Med 350:1746, 2004
+Björnsdottir S, Cnattingius S, Brandt L, et al: Addison’s disease in women is a risk factor for an adverse
+pregnancy outcome. J Clin Endocrinol Metab 95(12):5249, 2010
+Boddy AM, Fortunato A, Wilson Sayres M, et al: Fetal microchimerism and maternal health: a review
+and evolutionary analysis of cooperation and conflict beyond the womb. Bioessays 37(10):1106, 2015
+Brand F, Liegeois P, Langer B: One case of fetal and neonatal variable thyroid dysfunction in the
+context of Graves’ disease. Fetal Diagn Ther 20:12, 2005
+Brent GA: Graves’ disease. N Engl J Med 358:2594, 2008
+Brown RS, Bellisario RL, Botero D, et al: Incidence of transient congenital hypothyroidism due to
+maternal thyrotropin receptor-blocking antibodies in over one million babies. J Clin Endocrinol Metab
+81:1147, 1996
+Brue T, Amodru V, Castinetti F: Management of Cushing’s syndrome during pregnancy: solved and
+unsolved questions. Eur J Endocrinol 178(6):R259, 2018
+Bryant SN, Nelson DB, McIntire DD, et al: An analysis of population-based prenatal screening for
+overt hypothyroidism. Am J Obstet Gynecol 213(4):565.e1, 2015
+Burch HB, Burman KD, Cooper DS, et al: A 2015 survey of clinical practice patterns in the
+management of thyroid nodules. J Clin Endocrinol Metab 101(7):2853, 2016
+Caimari F, Valassi E, Garbayo P, et al: Cushing’s syndrome and pregnancy outcomes: a systematic
+review of published cases. Endocrine 55:555, 2017
+Caldwell KL, Jones R, Hollowell JG: Urinary iodine concentration: United States National Health and
+Nutrition Examination Survey 2001–2002. Thyroid 15(7):692, 2005
+Carbone LD, Palmieri GM, Graves SC, et al: Osteoporosis of pregnancy: long-term follow-up of patients
+and their offspring. Obstet Gynecol 86:664, 1995
+Casey BM, Dashe JS, Spong CY, et al: Perinatal significance of isolated maternal hypothyroxinemia
+identified in the first half of pregnancy. Obstet Gynecol 109(5):1129, 2007
+Casey BM, Dashe JS, Wells CE, et al: Subclinical hypothyroidism pregnancy outcomes. Obstet Gynecol
+105(2):239, 2005
+Casey BM, Dashe JS, Wells CE, et al: Subclinical hyperthyroidism and pregnancy outcomes. Obstet
+Gynecol 107(2 Pt 1):337, 2006
+
+Casey BM, Thom EA, Peaceman AM, et al: Treatment of subclinical hypothyroidism or
+hypothyroxinemia during pregnancy. N Engl J Med 376:815, 2017
+Chamarthi B, Greene M, Dluhy R: A problem in gestation. N Engl J Med 365(9):843, 2011
+Chanson P: Other pituitary conditions and pregnancy. Endocrinol Metab Clin N Am 48(3):583, 2019
+Chen S, Zhou X, Zhu H, et al: Preconception TSH levels and pregnancy outcomes: a population-based
+cohort study in 184,611 women Clin Endocrinol (Oxf) 86(6):816, 2017
+Cheng S, Grasso L, Martinez-Orozco JA, et al: Pregnancy in acromegaly: experience from two referral
+centers and systematic review of the literature. Clin Endocrinol (Oxf) 76(2):264, 2012
+Cirello V, Rizzo R, Crippa M, et al: Fetal cell microchimerism: a protective role in autoimmune thyroid
+diseases. Eur J Endocrinol 173(1):111, 2015
+Cleary-Goldman J, Malone FD, Lambert-Messerlian G, et al: Maternal thyroid hypofunction and
+pregnancy outcome. Obstet Gynecol 112(1):85, 2008
+Cohen O, Pinhas-Hamiel O, Sivian E, et al: Serial in utero ultrasonographic measurements of the fetal
+thyroid: a new complementary tool in the management of maternal hyperthyroidism in pregnancy.
+Prenat Diagn 23:740, 2003
+Consortium on Thyroid and Pregnancy: Association of thyroid function test abnormalities and thyroid
+autoimmunity with preterm birth: a systematic review and meta-analysis. JAMA 322(7):632, 2019
+Cooper C, Harvey NC, Bishop NJ, et al: Maternal gestational vitamin D supplementation and offspring
+bone health (MAVIDOS): a multicentre, double-blind, randomised placebo-controlled trial. Lancet
+Diabetes Endocrinol 4:393, 2016
+Cooper MS: Disorders of calcium metabolism and parathyroid disease. Best Pract Res Clin Endocrinol
+Metabol 25:975, 2011
+Costantine MM, Smith K, Thom EA: Effect of thyroxine therapy on depressive symptoms among
+women with subclinical hypothyroidism. Obstet Gynecol 135(4):812, 2020
+Crandall CJ, Liu J, Cauley J, et al: Associations of parity, breastfeeding, and fractures in the women’s
+health observational study. Obstet Gynecol 130(1):171, 2017
+Cunningham FG: Screening for osteoporosis. N Engl J Med 353:1975, 2005
+Dashe JS, Casey BM, Wells CE, et al: Thyroid-stimulating hormone in singleton and twin pregnancy:
+importance of gestational age-specific reference ranges. Obstet Gynecol 107(1):205, 2005
+Davis C, Nippita T: Hyperparathyroidism in pregnancy. BMJ Case Rep 13(2):e232653, 2020
+Davis LE, Leveno KL, Cunningham FG: Hypothyroidism complicating pregnancy. Obstet Gynecol
+72(1):108, 1988
+Davis LE, Lucas MJ, Hankins GD, et al: Thyrotoxicosis complicating pregnancy. Am J Obstet Gynecol
+160(1):63, 1989
+De Groot L, Abalovich M, Alexander EK, et al: Management of thyroid dysfunction during pregnancy
+and postpartum: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab
+97(8):2543, 2012
+De Leo S, Lee SY, Braverman LE: Hyperthyroidism. Lancet 388(10047):906, 2016
+Dias M, Boquszewski C, Gadelha M, et al: Acromegaly and pregnancy: a prospective study. Eur J
+Endocrinol 170(2):301, 2013
+Diez JJ, Iglesias P: Spontaneous subclinical hypothyroidism in patients older than 55 years: an analysis of
+natural course and risk factors for the development of overt thyroid failure. J Clin Endocrinol Metab
+89(10):4890, 2004
+Donatini G, Kraimps JL, Caillard C, et al: Pheochromocytoma diagnosed during pregnancy: lessons
+learned from a series of ten patients. Surg Endosc 32(9):3890, 2018
+
+Dong AC, Stagnaro-Green A: Differences in diagnostic criteria mask the true prevalence of thyroid
+disease in pregnancy: a systematic review and meta-analysis. Thyroid 29(2):278, 2019
+Dong D, Li H: Diagnosis and treatment of pheochromocytoma during pregnancy. J Matern Fetal
+Neonatal Med 27(18):1930, 2014
+Eisenhofer G, Aleksander P, Peitzsh M, et al: Biochemical diagnosis of chromaffin cell tumors in
+patients at high and low risk of disease: Plasma versus urinary free or deconjugated O-methylated
+catecholamine metabolites. Clin Chem 64(11):1646, 2018
+Eschler DC, Kogekar N, Pessah-Pollack R: Management of adrenal tumors in pregnancy. Endocrinol
+Metab Clin North Am 44(2):381, 2015
+Fagin JA, Wells SA Jr: Biologic and clinical perspectives on thyroid cancer. N Engl J Med 375(11):1054,
+2016
+Feller M, Snel M, Moutouri E, et al: Association of thyroid hormone therapy with quality of life and
+thyroid-related symptoms in patients with subclinical hypothyroidism. JAMA 320(13):1349, 2018
+Fitzpatrick DL, Russell MA: Diagnosis and management of thyroid disease in pregnancy. Obstet
+Gynecol Clin North Am 37(2):173, 2010
+Fleseriu M: Medical treatment of acromegaly in pregnancy, highlights on new reports. Endocrine
+49(3):577, 2015
+Foyouzi N: Lymphocytic adenohypophysitis. Obstet Gynecol Surv 66(2):109, 2011
+Gafni RI, Collins MT: Hypoparathyroidism. N Engl J Med 380(18):1738, 2019
+Galambosi P, Hilsemaa V, Ulander VM, et al: Prolonged low-molecular-weight heparin use during
+pregnancy and subsequent bone mineral density. Thromb Res 143:122, 2016
+Garber JR, Cobin RH, Gharib H, et al: Clinical practice guidelines for hypothyroidism in adults:
+cosponsored by the American Association of Clinical Endocrinologists and the American Thyroid
+Association. Thyroid 22(12):1200, 2012
+Geelhoed GW: Surgery of the endocrine glands in pregnancy. Clin Obstet Gynecol 26(4):865, 1983
+Gei-Guardia O, Soto-Herrera E, Gei-Brealey A, et al: Sheehan syndrome in Costa Rica: clinical
+experience with 60 cases. Endocr Pract 17(3):337, 2011
+Gharib H, Papini E, Garber JR, et al: American Association of Clinical Endocrinologists, American
+College of Endocrinology, and Association Medici Endocrinology, and European Thyroid Association
+medical guidelines for clinical practice for the diagnosis and management of thyroid nodules–2016
+update. Endocr Pract 22(Suppl 1), 2016
+Gietka-Czernel M, Debska M, Kretowicz P, et al: Fetal thyroid in two-dimensional ultrasonography:
+nomograms according to gestational age and biparietal diameter. Eur J Obstet Gynecol Reprod Biol
+162(2):131, 2012
+Gowachirapant S, Jaiswal N, Melse-Boonstra A, et al: Effect of iodine supplementation in pregnant
+women on child neurodevelopment: a randomised, double-blind, placebo-controlled trial. Lancet
+Diabetes Endocrinol 5(11):853, 2017
+Greer LG, Casey BM, Halvorson LM, et al: Antithyroid antibodies and parity: further evidence for
+microchimerism in autoimmune thyroid disease. Am J Obstet Gynecol 205(5):471, 2011
+Gubbi S, Hannah-Schmouni F, Stratakis CA, et al: Primary hypophysitis and other autoimmune disorders
+of the sellar and suprasellar regions. Rev Endocr Metab Disord 19(4):335, 2018
+Guven S, Durukan T, Berker M, et al: A case of acromegaly in pregnancy: concomitant transsphenoidal
+adenomectomy and cesarean section. J Matern Fetal Neonatal Med 19(1):69, 2006
+Haddow JE, Palomaki GE, Allan WC, et al: Maternal thyroid deficiency during pregnancy and
+subsequent neuropsychological development of the child. N Engl J Med 341(8):549, 1999
+
+Hales C, Taylor PN, Channon S, et al: Controlled antenatal thyroid screening II: Effect of treating
+maternal suboptimal thyroid function on child cognition. J Clin Endocrinol Metab 103(4):1583, 2018
+Harper MA, Murnaghan GA, Kennedy L, et al: Pheochromocytoma in pregnancy. Five cases and a
+review of the literature. BJOG 96(5):594, 1989
+Harris B, Oretti R, Lazarus J, et al: Randomised trial of thyroxine to prevent postnatal depression in
+thyroid-antibody-positive women. Br J Psychiatry 180:327, 2002
+Hatipoglu B: Cushing’s syndrome. J Surg Oncol 106(5):565, 2012
+He X, Wang P, Wang Z, et al: Thyroid antibodies and risk of preterm birth: a meta-analysis of
+prospective cohort studies. Eur J Endocrinol 167(4):455, 2012
+Helfand M: Screening for subclinical thyroid dysfunction in nonpregnant adults: a summary of the
+evidence for the U.S. Preventive Services Task Force. Ann Intern Med 140(2):128, 2004
+Herrick KA, Perrine CG, Aoki Y, et al: Iodine status and consumption of key iodine sources in the U.S.
+population with special attention to reproductive age women. Nutrients 10(7):874, 2018
+Hershman J: Physiological and pathological aspects of the effect of human chorionic gonadotropin on
+the thyroid. Best Pract Res Clin Endocrinol Metab 18(2):249, 2004
+Hirai T, Kobayshi T, Nishimori S, et al: Bone is a major target of PTH/PTHrP receptor signaling in
+regulation of fetal blood calcium homeostasis. Endocrinology 156(8):2774, 2015
+Hirsch D, Kopel V, Nadler V, et al: Pregnancy outcomes in women with primary hyperparathyroidism. J
+Clin Endocrinol Metab 100(5):2115, 2015
+Hollowell JG, Staehling NW, Hannon WH, et al: Iodine nutrition in the United States. Trends and public
+health implications: iodine excretion data from National Health and Nutrition Examination Surveys I
+and III (1971–1974 and 1988–1994). J Clin Endocrinol Metab 83(10):3401, 1998
+Huang W, Molitch ME: Pituitary tumors in pregnancy. Endocrinol Metab Clin North Am 48(3):569, 2019
+Institute of Medicine: Dietary reference intakes for vitamin A, vitamin K, arsenic, boron, chromium,
+copper, iodine, manganese, molybdenum, nickel, silicon, vanadium, and zinc. Washington, National
+Academies Press, 2001
+Ip P: Neonatal convulsion revealing maternal hyperparathyroidism: an unusual case of late neonatal
+hypoparathyroidism. Arch Gynecol Obstet 268(3):227, 2003
+Jallad RS, Shimon I, Fraenkel M, et al: Outcome of pregnancies in a large cohort of women with
+acromegaly. Clin Endocrinol 88(6):896, 2018
+Jameson JL, Mandel SJ, Weetman AP: Disorders of the thyroid gland. In Kasper DL, Fauci AS, Hauser
+SL, et al (eds): Harrison’s Principles of Internal Medicine, 19th ed. New York, McGraw-Hill
+Education, 2015
+Jansen TA, Korevaar TI, Mulder TA, et al: Maternal thyroid function during pregnancy and child brain
+morphology: a time window-specific analysis of a prospective cohort. Lancet Diabetes Endocrinol
+7(8):629, 2019
+Kaluarachchi DC, Allen DB, Eickhoff JC, et al: Thyroid-stimulating hormone reference ranges for
+preterm infants. Pediatrics 144(2):e20190290, 2019
+Kamoun M, Mnif M, Charfi N, et al: Adrenal diseases during pregnancy: pathophysiology, diagnosis and
+management strategies. Am J Med Sci 347(1):64, 2014
+Karmisholt J, Andersen S, Laurberg P: Variation in thyroid function tests in patients with stable
+untreated subclinical hypothyroidism. Thyroid 18(3):303, 2008
+Kerver JM, Pearce EN, Ma T, et al: Prevalence of inadequate and excessive iodine intake in a US
+pregnancy cohort. Am J Obstet Gynecol 224(1):82.e1, 2021
+Kimura M, Seki T, Ozawa H, et al: The onset of antineutrophil cytoplasmic antibody-associated
+vasculitis immediately after methimazole was switched to propylthiouracil in a woman with Graves’
+
+disease who wished to become pregnant. Endocr J 60(3):383, 2013
+Korevaar TI, Chaker L, Jaddoe VW, et al: Maternal and birth characteristics are determinants of
+offspring thyroid function. J Clin Endocrinol Metab 101(1): 206, 2016a
+Korevaar TI, Muetzel R, Chaker L, et al: Association of maternal thyroid function during early
+pregnancy with offspring IQ and brain morphology in childhood: a population-based prospective
+cohort study. Lancet Diabetes Endocrinol 4(1):35, 2016b
+Kovacs CS: Calcium and bone metabolism disorders during pregnancy and lactation. Endocrinol Metab
+Clin North Am 40(4):795, 2011
+Kraemer B, Schneider S, Rothmund R, et al: Influence of pregnancy on bone density: a risk factor for
+osteoporosis? Measurements of the calcaneus by ultrasonometry. Arch Gynecol Obstet 285(4):907,
+2011
+Kriplani A, Buckshee K, Bhargava VL, et al: Maternal and perinatal outcome in thyrotoxicosis
+complicating pregnancy. Eur J Obstet Gynecol Reprod Biol 54(3):159, 1994
+Kuijpens JL, Vader HL, Drexhage HA, et al: Thyroid peroxidase antibodies during gestation are a
+marker for subsequent depression postpartum. Eur J Endocrinol 145(5):579, 2001
+Kung AWC, Chau MT, LAO TT, et al: The effect of pregnancy on thyroid nodule formation. J Clin
+Endocrinol Metab 87(3):1010, 2002
+Lacroix A, Feelders RA, Stratakis CA, et al: Cushing’s syndrome. Lancet 386(9996):913, 2015
+Lambert K, Rees K, Seed PT, et al: Macroprolactinomas and nonfunctioning pituitary adenomas and
+pregnancy outcomes. Obstet Gynecol 129(1):185, 2017
+Lazarus J, Kaklamanou K: Significance of low thyroid-stimulating hormone in pregnancy. Curr Opin
+Endocrinol Diabetes Obes 14(5):389, 2007
+Lazarus JH, Bestwick JP, Channon S, et al: Antenatal thyroid screening and childhood cognitive
+function. N Engl J Med 366(6):493, 2012
+Lee SY, Pearce EN: Testing, monitoring, and treatment of thyroid dysfunction in pregnancy J Clin
+Endocrinol Metab 106(3):883, 2021
+Lekarev O, New MI: Adrenal disease in pregnancy. Best Pract Res Clin Endocrinol Metab 25(6):959,
+2011
+Lenders JW, Langton K, Langenhuijsen JF, et al: Pheochromocytoma and pregnancy. Endocrinol Metab
+Clin North Am 48(3):605, 2019
+Lepez T, Vandewoesttyne M, Hussain S, et al: Fetal microchimeric cells in blood of women with an
+autoimmune thyroid disease. PLoS One 6(12):1, 2011
+Leung AM, Pearce EN, Braverman LE: Iodine nutrition in pregnancy and lactation. Endocrinol Metab
+Clin North Am 40(4):765, 2011
+Leung AS, Millar LE, Koonings PP, et al: Perinatal outcome in hypothyroid pregnancies. Obstet Gynecol
+81(3):349, 1993
+Levie D, Korevaar TM, Bath SC, et al: Association of maternal iodine status with child IQ: a metaanalysis of individual participant data. J Clin Endocrinol Metab 104(12):5957, 2019
+Levie D, Korevaar TM, Bath SC, et al: Thyroid function in early pregnancy, child IQ, and autistic traits:
+a meta-analysis of individual participant data. J Clin Endocrinol Metab 103(8): 2967, 2018
+Levy-Shraga Y, Tamir-Hostovsky L, Boyko V, et al: Follow-up of newborns of mothers with Graves’
+disease. Thyroid 24(6):1032, 2014
+Li Y, Shan Z, Teng W, et al: Abnormalities of maternal thyroid function during pregnancy affect
+neurodevelopment of their children at 25–30 months. Clin Endocrinol 72(6):825, 2010
+Lindheimer MD, Barron WM: Water metabolism and vasopressin secretion during pregnancy. Baillieres
+Clin Obstet Gynaecol 8(2):311, 1994
+
+Lindsay JR, Jonklaas J, Oldfield EH, et al: Cushing’s syndrome during pregnancy: personal experience
+and review of literature. J Clin Endocrinol Metab 90(5):3077, 2005
+Loh JA, Wartofsky L, Jonklaas J, et al: The magnitude of increased levothyroxine requirements in
+hypothyroid pregnant women depends upon the etiology of the hypothyroidism. Thyroid 19(3):269,
+2009
+Loriaux DL: Diagnosis and differential diagnosis of Cushing’s syndrome. N Engl J Med 376(15):1451,
+2017
+Luewan S, Chakkabut P, Tongsong T: Outcomes of pregnancy complicated with hyperthyroidism: a
+cohort study. Arch Gynecol Obstet 283(2):243, 2011
+Luton D, Le Gac I, Vuillard E, et al: Management of Graves’ disease during pregnancy: the key role of
+fetal thyroid gland monitoring. J Clin Endocrinol Metab 90(11):6093, 2005
+Machado MC, Fragoso MC, Bronstein MD: Pregnancy in patients with Cushing’s Syndrome. Endocrinol
+Metab Clin North Am 47(2):441, 2018
+Malekar-Raikar S, Sinnott B: Primary hyperparathyroidism in pregnancy—a rare case of lifethreatening hypercalcemia: case report and literature review. Case Rep Endocrinol 2011:520516,
+2011
+Maliha G, Morgan J, Varhas M: Transient osteoporosis of pregnancy. Injury 43(8):1237, 2012
+Männistö T, Vääräsmäki M, Pouta A, et al: Perinatal outcome of children born to mothers with thyroid
+dysfunction or antibodies: a prospective population-based cohort study. J Clin Endocrinol Metab
+94(3):772, 2009
+Männistö T, Vääräsmäki M, Pouta A, et al: Thyroid dysfunction and autoantibodies during pregnancy as
+predictive factors of pregnancy complications and maternal morbidity in later life. J Clin Endocrinol
+Metab 95(3):1084, 2010
+Manoharan M, Sinha P, Sibtain S: Adrenal disorders in pregnancy, labor and postpartum—an overview.
+J Obstet Gynaecol 40(6):749, 2020
+Maraka S, Ospina NM, O’Keeffe DT, et al: Subclinical hypothyroidism in pregnancy: a systematic
+review and meta-analysis. Thyroid 26(4):580, 2016
+Mascetti L, Bettinelli A, Simonetti GD, et al: Pregnancy in inherited hypokalemic salt-losing renal tubular
+disorder. Obstet Gynecol 117(2 Pt 2):512, 2011
+Matalon S, Sheiner E, Levy A, et al: Relationship of treated maternal hypothyroidism and perinatal
+outcome. J Reprod Med 51(1):59, 2006
+Matsuzaki S, Yutaka ME, Ueda Y, et al: A case of acute Sheehan’s syndrome and literature review: a
+rare but life-threatening complication of postpartum hemorrhage. BMC Pregnancy Childbirth
+17(1):188, 2017
+McGrath N, Hawkes CP, Mayne P, et al: Optimal timing of repeat newborn screening for congenital
+hypothyroidism in preterm infants to detect delayed thyroid-stimulating hormone elevation. J Pediatr
+205:77, 2019
+McGrath N, Hawkes CP, McDonnell CM, et al: Incidence of congenital hypothyroidism over 37 years in
+Ireland. Pediatrics 142(4):e20181199, 2018
+Medici M, Korevaar TI, Schalekamp-Timmermans S, et al: Maternal early-pregnancy thyroid function is
+associated with subsequent hypertensive disorders of pregnancy: the Generation R Study. J Clin
+Endocrinol Metab 99(12):E2591, 2014
+Melmed S: Pituitary-tumor endocrinopathies. N Engl J Med 382(10):2020
+Messuti I, Corvisieri S, Bardesono F, et al: Impact of pregnancy on prognosis of differentiated thyroid
+cancer: clinical and molecular features. Eur J Endocrinol 170(5):659, 2014
+Mestman JH: Hyperthyroidism in pregnancy. Curr Opin Endocrinol Diabetes Obes 19(5):394, 2012
+
+Mestman JH: Hyperthyroidism in pregnancy. Endocrinol Metab Clin North Am 27(1):127, 1998
+Millar LK, Wing DA, Leung AS, et al: Low birth weight and preeclampsia in pregnancies complicated
+by hyperthyroidism. Obstet Gynecol 84(6):946, 1994
+Miller MA, Mazzaglia PJ, Larson L, et al: Laparoscopic adrenalectomy for pheochromocytoma in a twin
+gestation. J Obstet Gynecol 32(2):186, 2012
+Moleti M, Di Mauro M, Sturniolo G, et al: Hyperthyroidism in the pregnant woman: maternal and fetal
+aspects. J Clin Transl Endocrinol 16:100190, 2019
+Molitch ME: Endocrinology in pregnancy: management of the pregnant patient with a prolactinoma. Eur
+J Endocrinol 172(5):R205, 2015
+Molitch ME: Pituitary, thyroid, adrenal, and parathyroid disorders. In Barron WM, Lindheimer MD
+(eds): Medical Disorders During Pregnancy, 3rd ed. St. Louis, Mosby, 2000
+Montoro MN, Paler RJ, Goodwin TM, et al: Parathyroid carcinoma during pregnancy. Obstet Gynecol
+96(5 Pt. 2):841, 2000
+Morreale de Escobar G, Obregon MJ, Escobar Del Rey F: Role of thyroid hormone during early brain
+development. Eur J Endocrinol 151(Suppl 3):U25, 2004
+Morton A: Primary aldosteronism and pregnancy. Pregnancy Hypertens 5(4):259, 2015
+Motivala S, Gologorsky Y, Kostandinov J, et al: Pituitary disorders during pregnancy. Endocrinol Metab
+Clin North Am 40(4):827, 2011
+Murcia M, Rebagliato M, Iniguez C, et al: Effect of iodine supplementation during pregnancy on infant
+neurodevelopment at 1 year of age. Am J Epidemiol 173(7):804, 2011
+Nachum Z, Rakover Y, Weiner E, et al: Graves’ disease in pregnancy: prospective evaluation of a
+selective invasive treatment protocol. Am J Obstet Gynecol 189(1):159, 2003
+Nathan N, Sullivan SD: Thyroid disorders during pregnancy. Endocrinol Metab Clin North Am
+43(2):573, 2014
+Negro R, Schwartz A, Stagnaro-Green A: Impact of levothyroxine on miscarriage and preterm delivery
+rates in first trimester thyroid antibody-positive women with TSH less than 2.5 mIU/L. J Clin
+Endocrinol Metab 101(10):3685, 2016
+Negro T, Formoso G, Mangieri T, et al: Levothyroxine treatment in euthyroid pregnant women with
+autoimmune thyroid disease: effects on obstetrical complications. J Clin Endocrinol Metab
+91(7):2587, 2006
+Nelson DB, Casey BM, McIntire DD, et al: Subsequent pregnancy outcomes in women previously
+diagnosed with subclinical hypothyroidism. Am J Perinatol 31(1):77, 2014
+Nelson DB, Yost NP, Cunningham FG: Acute fatty liver of pregnancy: clinical outcomes and expected
+durations of recovery. Am J Obstet Gynecol 209(5):456.e1, 2013
+Neumann HP: Pheochromocytoma. In Jameson JL, Fauci AS, Kasper DL, et al (eds): Harrison’s
+Principles of Internal Medicine, 20th ed. New York, McGraw-Hill Education, 2018, p 2739
+Nguyen CT, Mestman JH: Postpartum thyroiditis. Clin Obstet Gynecol 62(2):359, 2019
+Oliveira D, Lages A, Paiva S et al: Treatment of Addison’s disease during pregnancy. Endocrinol
+Diabetes Metab Case Rep 2018:17, 2018
+Oron T, Lazar L, Ben-Yishai S, et al: Permanent versus transient congenital hypothyroidism: assessment
+of predictive variables. J Clin Endocrinol Metab 103(12): 4428, 2018
+O’Sullivan SM, Farrant MT, Ogilvie CM, et al: An observational study of pregnancy and postpartum
+outcomes in women with prolactinoma treated with dopamine agonists. Aust N Z J Obstet Gynaecol
+60(3):405, 2020
+Pallan S, Rahman M, Khan A: Diagnosis and management of primary hyperparathyroidism. BMJ
+344:e1013, 2012
+
+Pappachan JM, Raskauskiene D, Kutty VR, et al: Excess mortality associated with hypopituitarism in
+adults: a meta-analysis of observational studies. J Clin Endocrinol Metab 100(4):1405, 2015
+Pearce EN: Management of thyrotoxicosis: preconception, pregnancy, and the postpartum period.
+Endocr Pract 25(1):62, 2019
+Pearce EN, Lazarus JH, Moreno-Reyes R, et al: Consequences of iodine deficiency and excess in
+pregnant women: an overview of current knowns and unknowns. Am J Clin Nutr 104(Suppl 3):918S,
+2016
+Plowden TC, Schisterman EF, Sjaarda LA, et al: Thyroid-stimulating hormone, anti-thyroid antibodies,
+and pregnancy outcomes. Am J Obstet Gynecol 217(6):697.e1, 2017
+Pop VJ, Brouwers EP, Vader HL, et al: Maternal hypothyroxinemia during early pregnancy and
+subsequent child development: a 3-year follow-up study. Clin Endocrinol 59(3):282, 2003
+Pop VJ, Kujipens JL, van Baar AL, et al: Low maternal free thyroxine concentrations during early
+pregnancy are associated with impaired psychomotor development in infancy. Clin Endocrinol
+50(2):149, 1999
+Potts JT, Jüppner H: Disorders of the parathyroid gland and calcium homeostasis. In Kasper DL, Fauci
+AS, Hauser SL, et al (eds): Harrison’s Principles of Internal Medicine, 19th ed. New York,
+McGraw-Hill Education, 2015
+Quartermaine G, Lambert K, Rees K, et al: Hormone-secreting adrenal tumours cause severe
+hypertension and high rates of poor pregnancy outcome; a UK Obstetric Surveillance System study
+with case control comparisons. BJOG 125(6):719, 2018
+Radacic-Aumiler M, Kraljickovic I, Edeljic-Turk V, et al: No adverse effects after radioiodine treatment
+at 3 weeks of pregnancy. Clin Nucl Med 41(12):964, 2016
+Renné C, Lopez ER, Steimle-Grauer SA, et al: Thyroid fetal male microchimerisms in mothers with
+thyroid disorders: presence of Y-chromosomal immunofluorescence in thyroid-infiltrating
+lymphocytes is more prevalent in Hashimoto’s thyroiditis and Graves’ disease than in follicular
+adenomas. J Clin Endocrinol Metab 89(11):5810, 2004
+Rigg J, Gilbertson E, Barrett HL, et al: Primary hyperparathyroidism in pregnancy: maternofetal
+outcomes at a quaternary referral obstetric hospital, 2000 through 2015. J Clin Endocrinol Metab
+104(3):721, 2019
+Robertson GL: Diabetes insipidus: differential diagnosis and management. Best Pract Res Clin
+Endocrinol Metab 30(2):205, 2016
+Rooney DP, Traub AI, Russell CFJ, et al: Cure of hyperparathyroidism in pregnancy by sternotomy and
+removal of a mediastinal parathyroid adenoma. Postgrad Med J 74(870):233, 1998
+Rovelli R, Vigone M, Giovanettoni C, et al: Newborns of mothers affected by autoimmune thyroiditis:
+the importance of thyroid function monitoring in the first months of life. Ital J Pediatr 36:24, 2010
+Saad AF, Pacheco LD, Costantine MM: Management of ectopic parathyroid adenoma in pregnancy.
+Obstet Gynecol 124(2 Pt 2 Suppl):478, 2014
+Sadakata H, Shinozaki H, Higuchi T, et al: Case of radioactive iodine exposure during pregnancy. J
+Obstet Gynaecol Res 40(12):2201, 2014
+Salazar-Vega JL, Levin G, Sansó G: Pheochromocytoma associated with pregnancy: unexpected
+favourable outcome in patients diagnosed after delivery. J Hypertens 32(7):1458, 2014
+Sarathi V, Lila A, Bandgar T, et al: Pheochromocytoma and pregnancy: a rare but dangerous
+combination. Endocr Pract 16(2):300, 2010
+Sarkhail P, Mehran L, Askari S, et al: Maternal thyroid function and autoimmunity in 3 trimesters of
+pregnancy and their offspring’s thyroid function. Horm Metab Res 48(1):20, 2016
+
+Schnatz PF, Thaxton S: Parathyroidectomy in the third trimester of pregnancy. Obstet Gynecol Surv
+60(10):672, 2005
+Schneiderman M, Czuzoj-Shulman N, Spence AR, et al: Maternal and neonatal outcomes of
+pregnancies in women with Addison’s disease: a population-based cohort study on 7.7 million births.
+BJOG 124(11):1772, 2017
+Shan D, Bai Y, Chen QH, et al: Hyperthyroid heart disease in pregnancy: retrospective analysis of a
+case series and review of the literature. World J Clin Cases 7(19):2953, 2019
+Shi X, Han C, Li C, et al: Optimal and safe upper limits of iodine intake for early pregnancy in iodinesufficient regions: a cross-sectional study of 7190 pregnant women in China. I Clin Endocrinol
+Metab 100(4):1630, 2015
+Sheehan HL: Post-partum necrosis of the anterior pituitary. J Pathol Bacteriol 45:189, 1937
+Sheehan PM, Nankervis A, Araujo Júnior E, et al: Maternal thyroid disease and preterm birth:
+systematic review and meta-analysis. J Clin Endocrinol Metab 100(11):4325, 2015
+Sheffield JS, Cunningham FG: Thyrotoxicosis and heart failure that complicate pregnancy. Am J Obstet
+Gynecol 190(1):211, 2004
+Stagnaro-Green A, Glinoer D: Thyroid autoimmunity and the risk of miscarriage. Best Pract Res Clin
+Endocrinol Metab 18(2):167, 2004
+Stagnaro-Green A, Pearce E: Thyroid disorders in pregnancy. Nat Rev Endocrinol 8(11):650, 2012a
+Stagnaro-Green A, Schwartz A, Gismondi R, et al: High rate of persistent hypothyroidism in a largescale prospective study of postpartum thyroiditis in southern Italy. J Clin Endocrinol Metab
+96(3):652, 2011
+Stagnaro-Green A, Sullivan S, Pearch EN: Iodine supplementation during pregnancy and lactation.
+JAMA 308(23):2463, 2012b
+Stringer KM, Gough J, Gough IR: Primary hyperparathyroidism during pregnancy: management by
+minimally invasive surgery based on ultrasound localization. ANZ J Surg 87(10):E134, 2017
+Stulberg RA, Davies GA: Maternal thyrotoxicosis and fetal nonimmune hydrops. Obstet Gynecol 95(6
+Pt 2):1036, 2000
+Su PY, Huang K, Hao JH, et al: Maternal thyroid function in the first twenty weeks of pregnancy and
+subsequent fetal and infant development: a prospective population-based cohort study in China. J
+Clin Endocrinol Metab 96(10):3234, 2011
+Sullivan SD, Downs E, Popoveniuc G, et al: Randomized trial comparing two algorithms for
+levothyroxine dose adjustment in pregnant women with primary hypothyroidism. J Clin Endocrinol
+Metab 102(9):3499, 2017
+Tan TO, Cheng YW, Caughey AB: Are women who are treated for hypothyroidism at risk for
+pregnancy complications? Am J Obstet Gynecol 194(5):e1, 2006
+Thangaratinam S, Tan A, Knox E, et al: Association between thyroid autoantibodies and miscarriage and
+preterm birth: meta-analysis of evidence. BMJ 342:d2616, 2011
+Thomas M, Weisman SM: Calcium supplementation during pregnancy and lactation: effects on the
+mother and the fetus. Am J Obstet Gynecol 194(4):937, 2006
+Thomas SK, Sheffield JS, Roberts SW: Thionamide-induced neutropenia and ecthyma in a pregnant
+patient with hyperthyroidism. Obstet Gynecol 122(2 Pt 2):490, 2013
+Thorpe-Beeston JG, Nicolaides KH, Snijders RJ, et al: Thyroid function in small for gestational age
+fetuses. Obstet Gynecol 77(5):701, 1991
+Tran P, DeSimone S, Barrett M, et al: I-131 treatment of Graves’ disease in an unsuspected first
+trimester pregnancy; the potential for adverse effects on the fetus and a review of the current
+guidelines for pregnancy screening. Int J Pediatr Endocrinol 2010:858359, 2010
+
+Tudela CM, Casey BM, McIntire DD, et al: Relationship of subclinical thyroid disease to the incidence
+of gestational diabetes. Obstet Gynecol 119(5):983, 2012
+UNICEF: Nearly 19 million newborns at risk of brain damage every year due to iodine deficiency. 2018.
+Available at: https://www.unicef.org/eca/press-releases/newborns-brain-damage-iodine-deficiency.
+Accessed September 11, 2020
+Vaidya B, Anthony S, Bilous M, et al: Detection of thyroid dysfunction in early pregnancy: universal
+screening or targeted high-risk case finding? J Clin Endocrinol Metab 92(1):203, 2007
+van Trotsenburg P, Stoupa A, Léger J, et al: Congenital hypothyroidism: a 2020–2021 consensus
+guidelines update-an ENDO-European Reference Network initiative endorsed by the European
+Society for Pediatric Endocrinology and the European Society for Endocrinology. Thyroid 31(3):387,
+2021
+Velasco I, Carreira M, Santiago P, et al: Effect of iodine prophylaxis during pregnancy on neurocognitive
+development of children during the first two years of life. J Clin Endocrinol Metab 94(9):3234, 2009
+Vila G, Fleserui M: Fertility and pregnancy in women with hypopituitarism: a systematic literature
+review. J Clin Endocrinol Meta 105(3):e55, 2020
+Wallia A, Bizhanova A, Huang W, et al: Acute diabetes insipidus mediated by vasopressinase after
+placental abruption. J Clin Endocrinol Metab 98(3):881, 2013
+Wang W, Teng W, Shan Z, et al: The prevalence of thyroid disorders during early pregnancy in China:
+the benefits of universal screening in the first trimester of pregnancy. Eur J Endocrinol 164(2):263,
+2011
+Wikner BN, Sparre LS, Stiller CO, et al: Maternal use of thyroid hormones in pregnancy and neonatal
+outcome. Acta Obstet Gynecol Scand 87(6):617, 2008
+Wilson KL, Casey BM, McIntire DD, et al: Diagnosis of subclinical hypothyroidism early in pregnancy
+is a risk factor for the development of severe preeclampsia. Clin Thyroidol 24(5):15, 2012
+Yang Y, Reincke M, Williams TA: Prevalence, diagnosis and outcomes of treatment for primary
+aldosteronism. Best Pract Res Clin Endocrinol Metab 34(2): 101365, 2020
+Yoshihara A, Noh JY, Mukasa K, et al: Serum human chorionic gonadotropin levels and thyroid hormone
+levels in gestational transient thyrotoxicosis: is the serum hCG level useful for differentiating
+between active Graves’ disease and GTT? Endocr J 62(6):557, 2015
+Yoshihara A, Noh JY, Yamaguchi T, et al: Treatment of Graves disease with antithyroid drugs in the first
+trimester of pregnancy and the prevalence of congenital malformation. J Clin Endocrinol Metab
+97(7):2396, 2012
+Yu W, Wu N, Li L, et al: Side effects of PTU and MMI in the treatment of hyperthyroidism: a
+systematic review and meta-analysis. Endocr Pract 26(2):2020
+Zhang M, Chen P, Li B, et al: Approach to the patient with pregnancy and lactation-associated
+osteoporosis. Medicine (Baltimore) 96(46):e8671, 2017
+Zuluaga-Gómez A, Arrabal-Polo MÁ, Arrabal-Martin M, et al: Management of pheochromocytoma
+during pregnancy: laparoscopic adrenalectomy. Am Surg 78(3):E156, 2012
+

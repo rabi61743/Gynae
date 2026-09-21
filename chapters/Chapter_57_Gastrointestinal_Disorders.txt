@@ -1,0 +1,1453 @@
+CHAPTER 57
+
+Gastrointestinal Disorders
+
+GENERAL CONSIDERATIONS
+UPPER GASTROINTESTINAL TRACT DISORDERS
+HYPEREMESIS GRAVIDARUM
+GASTROESOPHAGEAL REFLUX DISEASE
+PEPTIC ULCER DISEASE
+SMALL BOWEL AND COLON DISORDERS
+ACUTE DIARRHEA
+INFLAMMATORY BOWEL DISEASE
+INTESTINAL OBSTRUCTION
+APPENDICITIS
+REFERENCES
+During normal pregnancy, the gastrointestinal (GI) tract and its appendages
+undergo remarkable anatomical, physiological, and functional alterations.
+These changes, which are discussed in detail in Chapter 4 (p. 70), can
+appreciably alter clinical findings normally relied on for diagnosis and
+treatment. Moreover, as pregnancy progresses, GI findings become more
+difficult to assess. The clinical examination is often obscured by a large
+uterus that displaces abdominal organs and can alter the location and
+intensity of pain and tenderness.
+
+GENERAL CONSIDERATIONS
+■ Diagnostic Techniques
+Endoscopy
+Several endoscopic methods can be used to evaluate the gastrointestinal (GI)
+tract during pregnancy without reliance on radiographic techniques. With
+fiberoptic endoscopic instruments, the esophagus, stomach, duodenum, and
+colon can be inspected (Savas, 2014; Song, 2018). The proximal jejunum
+also can be studied, and the ampulla of Vater cannulated to perform
+endoscopic retrograde cholangiopancreatography—ERCP (Fogel, 2014;
+Hedström, 2017). Experience in pregnancy with video capsule endoscopy
+for small-bowel evaluation remains limited (Bandorski, 2016). Normal
+pregnancy-related slowing of GI motility and thus increased transit time as
+well as the recorder capsule’s electromagnetic field are theoretical concerns.
+Upper gastrointestinal endoscopy is used for diagnosis and management
+of several problems. Common bile duct exploration and drainage are used
+for choledocholithiasis (Chap. 58, p. 1043). Sclerotherapy and placement of
+percutaneous endoscopic gastrostomy (PEG) tubes also are performed
+endoscopically.
+Colonoscopy is indispensible for viewing the entire colon and distal
+ileum. Except for the midtrimester, reports of colonoscopy during pregnancy
+are limited, but most results suggest that it should be performed if necessary
+(De Lima, 2015; Ludvigsson, 2017). Pregnancy indications include chronic
+abdominal pain, hematochezia, and diarrhea (Cappell, 2011). Bowel
+preparation is completed using polyethylene glycol electrolyte (GoLYTELY)
+or sodium sulfate (Suprep) solutions (American Society for Gastrointestinal
+Endoscopy, 2015). With these, most women avoid serious dehydration that
+may cause diminished uteroplacental perfusion. In select cases, tap water
+enemas may be an alternative for rectosigmoidoscopy to avoid some of these
+risks.
+Endoscopic procedures should be performed when indicated and ideally
+in the second trimester (American Society for Gastrointestinal Endoscopy,
+2012; Ludvigsson, 2017). A multidisciplinary approach with obstetricians,
+gastroenterologists, and anesthesiologists is prudent. Table 57-1 outlines
+preprocedural considerations in pregnancy.
+
+TABLE 57-1. Preprocedural Considerations for Gastrointestinal
+Endoscopy During Pregnancy
+
+Noninvasive Imaging Techniques
+The ideal technique for GI tract imaging during pregnancy is abdominal
+sonography. However, the gravid uterus may obscure abdominal organs
+making evaluation difficult. Magnetic resonance (MR) imaging allows
+inspection of the abdomen and retroperitoneal space yet avoids radiation
+exposure from computed tomography (CT) (Khandelwal, 2013). Examples
+are MR cholangiopancreatography (MRCP) and MR enterography (MRE)
+(Oto, 2009; Stern, 2014). These and other imaging modalities, and their safe
+use in pregnancy, are discussed in Chapter 49.
+
+Laparotomy and Laparoscopy
+Surgery is lifesaving for certain GI conditions—perforative appendicitis
+being the most common example. Intraabdominal surgery is the most
+frequently performed nonobstetrical procedure during pregnancy (Devroe,
+2019). Laparoscopic procedures have replaced traditional surgical
+techniques for many abdominal disorders during pregnancy (Ye, 2019).
+These are discussed in detail with descriptions of surgical technique in
+Chapter 49 (p. 867) and in Cunningham and Gilstrap’s Operative
+Obstetrics, 3rd edition (Kho, 2017). Guidelines for laparoscopy during
+pregnancy have been provided by the American College of Obstetricians and
+Gynecologists (2019) and the Society of American Gastrointestinal and
+Endoscopic Surgeons (Pearl, 2017).
+
+■ Nutritional Support
+
+Specialized nutritional support can be delivered enterally, usually via
+nasogastric tube feedings, or parenterally by venous catheter access, either
+peripherally or centrally.
+When possible, enteral alimentation is preferable because it has fewer
+serious complications (Hoffer, 2018; Stokke, 2015). In obstetrical patients,
+very few conditions prohibit enteral nutrition as a first effort to prevent
+catabolism. For extreme cases, such as recalcitrant hyperemesis gravidarum,
+percutaneous endoscopic gastrostomy with a jejunal port (PEG-J tube) has
+been described.
+Parenteral nutrition provides nutrients when the intestinal tract must be
+quiescent. Peripheral parenteral nutrition (PPN) administers dilute nutrient
+admixtures and is appropriate for short-term use. Central venous access is
+necessary for central parenteral nutrition (CPN) because its
+hyperosmolarity requires rapid dilution in a high-flow vascular system
+(Robinson, 2018; Worthington, 2017). These solutions provide 24 to 40
+kcal/kg/d, principally as a hypertonic glucose solution. Various conditions
+may prompt CPN during pregnancy (Table 57-2). The most common
+indications are short bowel syndrome and dysmotility disorders, and feeding
+duration averages 33 days (Billiauws, 2017).
+TABLE 57-2. Some Conditions Treated with Enteral or Parenteral
+Nutrition During Pregnancya
+
+Parenteral nutrition complications are frequent and may be severe
+(Hoffer, 2018). The most common is catheter sepsis, and Folk (2004)
+reported a 25-percent incidence in 27 women with hyperemesis gravidarum.
+The Centers for Disease Control and Prevention provides detailed guidelines
+to prevent catheter-related sepsis (O’Grady, 2011). Other maternal
+complications include upper-extremity venous thrombosis, volume overload,
+and reversible liver dysfunction. Perinatal complications are rare, however,
+fetal subdural hematoma caused by maternal vitamin K deficiency has been
+described (Sakai, 2003).
+
+Appreciable morbidity is also associated with long-term use of a
+peripherally inserted central catheter (PICC). Again, infection is the most
+common serious long-term complication (Hoffer, 2018; Holmgren, 2008). In
+a series of 84 such catheters inserted in 66 pregnant women, Cape and
+coworkers (2014) reported a 56-percent complication rate, and bacteremia
+was the most frequent. For short-term nutrition lasting a few weeks, PICC
+placement and its greater benefit-versus-risk ratio seems reasonable
+(Worthington, 2017).
+
+UPPER GASTROINTESTINAL TRACT DISORDERS
+■ Hyperemesis Gravidarum
+Mild to moderate nausea and vomiting are especially common in pregnant
+women until approximately 16 weeks’ gestation (Chap. 10, p. 191). In a
+small but significant proportion of these, however, it is severe and
+unresponsive to simple dietary modification and antiemetics. Hyperemesis
+gravidarum is defined variably as severe unrelenting nausea and vomiting
+that produces weight loss, dehydration, ketosis, alkalosis from loss of
+hydrochloric acid, and hypokalemia. Acidosis develops from partial
+starvation. In some women, transient hepatic dysfunction develops, and
+biliary sludge accumulates (Table 58-1, p. 1031). Other causes should first
+be considered because hyperemesis gravidarum is a diagnosis of exclusion.
+Study criteria are not standardized, and thus population incidences vary
+(Koot, 2018). However, an ethnic or familial predilection has been
+described (London, 2017). In several population-based studies, the
+hospitalization rate for hyperemesis gravidarum was 0.5 to 2.1 percent
+(Fiaschi, 2019; Vikanes, 2013). Up to 25 percent of those hospitalized in a
+previous pregnancy for hyperemesis will again require admission (Nurmi,
+2018).
+The etiopathogenesis of hyperemesis gravidarum is unknown and is
+likely multifactorial. High or rapidly rising serum levels of pregnancyrelated hormones such as human chorionic gonadotropin (hCG), estrogen,
+progesterone, placental growth hormone, prolactin, thyroxine, and
+adrenocortical hormones are implicated (London, 2017; Verberg, 2005).
+Other associated hormones include ghrelins, leptin, nesfatin-1, and peptide
+YY 3–36 (Albayrak, 2013; Gungor, 2013).
+
+Superimposed on this hormonal cornucopia are many biological and
+environmental factors. Moreover, in some but not all severe cases,
+interrelated psychological components play a major role (Mitchell-Jones,
+2017; Senturk, 2017). Factors that increase the risk for admission include
+hyperthyroidism, previous pregnancy complicated by hyperemesis, diabetes,
+GI illnesses, some restrictive diets, and asthma (Fell, 2006; Fiaschi, 2016;
+Mullin, 2012). An association of Helicobacter pylori infection has been
+proposed, but evidence is inconclusive (Goldberg, 2007; London, 2017).
+Chronic marijuana use may cause the similar cannabinoid hyperemesis
+syndrome (Alaniz, 2015; Andrews, 2015). And for unknown reasons—
+perhaps estrogen-related—a female fetus raises the risk but smoking and
+obesity decrease it by 1.5-fold (Cedergren, 2008; Fiaschi, 2016). Some have
+reported a relationship between severe hyperemesis gravidarum and anemia,
+venous thromboembolism (VTE), gestational hypertension, and preeclampsia
+(Fiaschi, 2018). An association between hyperemesis and preterm birth is
+unclear (Kleine, 2017). Koren and colleagues (2018) suggested that
+prolonged vomiting may cause metabolic abnormalities that interfere with
+fetal brain development. No long-term maternal consequences follow
+hyperemesis. Specifically, two population-based studies found no
+unfavorable cardiovascular risks in Norwegian women (Fossum, 2017,
+2018).
+
+Complications
+Vomiting may be prolonged, frequent, and severe, and a list of potentially
+fatal complications is given in Table 57-3. Various degrees of acute kidney
+injury from dehydration are encountered, and rhabdomyolysis may be
+contributory (Lassey, 2016). Rarely, we and others have encountered women
+with renal failure requiring dialysis (Dayangan Sayan, 2018; Hill, 2002).
+Mallory-Weiss tears result from continuous retching. Other complications
+include pneumothorax, pneumomediastinum, diaphragmatic rupture, and
+gastroesophageal rupture—Boerhaave syndrome (American College of
+Obstetricians and Gynecologists, 2018; Chen, 2012).
+TABLE 57-3. Some Serious and Life-Threatening Complications Reported
+with Hyperemesis Gravidaruma
+
+At least two serious vitamin deficiencies have been reported with
+hyperemesis in pregnancy. One is Wernicke encephalopathy from thiamine
+deficiency (Di Gangi, 2012; Palacios-Marqués, 2012). A systematic review
+reported that ocular signs, confusion, and ataxia were common, and
+approximately 60 percent had this triad (Oudman, 2019). In some women, an
+abnormal electroencephalogram (EEG) may be seen, and usually MR
+imaging shows findings (Oudman, 2019; Vaknin, 2006; Zara, 2012). One
+woman had recurrent encephalopathy in a subsequent pregnancy (Stephens,
+2019). Maternal deaths have been described, and long-term sequelae include
+blindness, convulsions, and coma (Oudman, 2019; Selitsky, 2006). Vitamin
+K is a second potential deficiency. Maternal coagulopathy, fetal intracranial
+hemorrhage, and vitamin K embryopathy have been reported (Kawamura,
+2008; Lane, 2015; Nijsten, 2021).
+
+Management
+One management algorithm for nausea and vomiting of pregnancy is shown in
+Figure 57-1. Most women with mild to moderate symptoms respond to
+outpatient therapy with any of several first-line antiemetic agents (Boelig,
+2018, McParlin, 2016). One mainstay is Diclegis—a combination of
+doxylamine (10 mg) plus pyridoxine (10 mg). The usual dose is two tablets
+orally at bedtime, and it appears safe and effective (Briggs, 2017; Koren,
+
+2014). If relief is insufficient, one additional first-morning tablet is added to
+the bedtime dose. This can be further escalated to include one first-morning,
+one midafternoon, and two bedtime tablets (Duchesnay Inc., 2018). At our
+institution, for cost savings, we prescribe these two agents individually. The
+formula is one half of a 25-mg Unisom (doxylamine) tablet plus a 25-mg
+vitamin B6 (pyridoxine) tablet. The same graduated dosing is used but does
+not exceed three total daily doses.
+
+FIGURE 57-1 Algorithm for outpatient and inpatient management of pregnancy nausea and vomiting,
+and hyperemesis gravidarum.
+
+Ondansetron (Zofran) is slightly more effective than the combination of
+doxylamine and pyridoxine (Oliveira, 2014; Pasternak, 2013). In some
+studies, the former has been associated with birth defects (Briggs, 2017).
+However, after a recent systematic review of Cochrane and Reprotox
+databases, authors concluded that ondansetron is not teratogenic (Kaplan,
+2019). Other drawbacks include potential maternal effects from prolonged
+QT-interval and serotonin syndrome. For these reasons it is preferably
+reserved for severe cases after 8 weeks’ gestation (Lavecchia, 2018).
+When simple measures fail, intravenous (IV) crystalloid solutions are
+given to correct dehydration, ketonemia, electrolyte deficits, and acid-base
+imbalances. Hypokalemia is common, and cardiac arrest has been reported
+(Walch, 2018). No benefits are gained by infusing 5-percent dextrose along
+with crystalloids (Tan, 2013). Thiamine, 100 mg, is usually diluted in 1 L of
+the selected crystalloid to prevent Wernicke encephalopathy for women who
+require IV hydration and have vomited for more than 3 weeks (Giugale,
+2015). It is infused at the maintenance rate desired for patient hydration. This
+thiamine dose is provided daily for the next 2 to 3 days and is followed by
+IV multivitamins if IV hydration continues (Levichek, 2002).
+If vomiting persists after rehydration and failed outpatient management,
+hospitalization is recommended (American College of Obstetricians and
+Gynecologists, 2018). IV hydration is continued and antiemetics such as
+promethazine, prochlorperazine, chlorpromazine, or metoclopramide are
+given parenterally (Table 57-4). Several antiemetics are associated with the
+long-QT syndrome, discussed in Chapter 52 (p. 936). Outpatient treatment
+regimens at the hospital also are effective (McCarthy, 2014).
+TABLE 57-4. Medications for Gastrointestinal Disorders in Pregnancy
+
+Some, but not all, studies indicate that treatment with
+glucocorticosteroids is not effective (Sridharan, 2020; Yost, 2003). They are
+recommended only for refractory cases because of their putative
+teratogenicity (American College of Obstetricians and Gynecologists, 2018).
+With persistent vomiting after hospitalization, appropriate steps should
+be taken to exclude possible underlying diseases as a cause of hyperemesis.
+That said, in one study, endoscopy did not change management in 49 women
+(Debby, 2008). Other potential sources include gastroenteritis, cholecystitis,
+pancreatitis, hepatitis, peptic ulcer, and pyelonephritis. In addition, severe
+preeclampsia and fatty liver are more likely after midpregnancy. Although
+
+clinical thyrotoxicosis has been implicated as a cause of hyperemesis, it is
+more likely that abnormally elevated serum thyroxine levels are a surrogate
+for higher-than-average serum hCG levels (Sun, 2014). This is discussed
+further in Chapter 5 (p. 97). In our experiences, serum free thyroxine levels
+normalize quickly with hydration and emesis treatment.
+With treatment, most women will have a positive response and may be
+sent home with oral antiemetic therapy. The readmission rate is 25 to 35
+percent in most prospective studies. Risks for anxiety and depression are
+increased in these women (Mitchell-Jones, 2017; Senturk, 2017). At
+Parkland Hospital, more than one third of women with hyperemesis required
+readmission. Patient characteristics had limited utility in predicting the risk
+of readmission. For example, maternal demographics, substance use,
+psychiatric illness, and initial hospitalization length were not associated with
+readmission (White, 2018). If psychiatric and social factors contribute to the
+illness, the woman usually improves remarkably while hospitalized
+(Swallow, 2004). However, symptoms relapse in a fourth of these women,
+and some go on to develop posttraumatic stress syndrome (Chap. 64, p.
+1150) (Christodoulou-Smith, 2011; McCarthy, 2011; Nurmi, 2018). For some
+women, hyperemesis may be an indication for elective termination
+(Poursharif, 2007).
+Grooten and colleagues (2017) showed that early enteral tube feeding has
+no advantages. However, in the small percentage of women who have
+recalcitrant vomiting after intensive therapy, consideration is given for
+enteral nutrition (p. 1013). Stokke and associates (2015) described
+successful use of nasojejunal feeding for up to 41 days in 107 such women.
+Use of sonography to confirm correct tube placement has been described and
+avoids radiation exposure (Swartzlander, 2013). PEG-J tubes also have been
+reported (Saha, 2009; Schrag, 2007).
+Only a very few women will require parenteral nutrition (American
+College of Obstetricians and Gynecologists, 2018; Yost, 2003). In a study of
+599 women, however, Peled and coworkers (2014) reported that 20 percent
+required central parenteral nutrition.
+
+■ Gastroesophageal Reflux Disease
+Symptomatic reflux is seen in up to 15 percent of nonpregnant individuals
+(Kahrilas, 2018). The spectrum of sequelae includes esophagitis, stricture,
+
+Barrett esophagus, and adenocarcinoma. The main symptom of reflux is
+pyrosis (heartburn), which is especially common in pregnancy. In one study,
+its prevalence rose from 26 percent in the first trimester to 36 percent in the
+second and 51 percent in the third trimester (Fill Malfertheiner, 2017). The
+retrosternal burning sensation stems from esophagitis caused by
+gastroesophageal reflux of stomach acid, which follows relaxation of the
+lower esophageal sphincter. The diagnosis is typically made from symptoms
+alone.
+Symptoms usually respond to abstaining from tobacco and alcohol, eating
+small meals, elevating the head of the bed, limiting postprandial recumbency,
+and avoiding “trigger” foods. These may include fatty foods, tomato-based
+foods, and coffee. Oral antacids are first-line therapy. If severe symptoms
+persist, a proton-pump inhibitor is given and an H2-receptor antagonist and
+sucralfate can be added (see Table 57-4). Both classes are generally safe for
+use in pregnancy (Briggs, 2017). From preliminary data, proton-pump
+inhibitors taken early in pregnancy may increase the risk for preeclampsia
+(Hastie, 2019). Sucralfate is the aluminum salt of sulfated sucrose and
+inhibits pepsin. Approximately 10 percent of the aluminum salt is absorbed,
+and this agent is considered safe for pregnant women (Briggs, 2017). A 1-g
+sucralfate tablet is taken orally 1 hour before each of the three meals and at
+bedtime for up to 8 weeks. Antacids are not used within a half hour before or
+after sucralfate doses. Despite attempts with these options, if relief is not
+attained, endoscopy should be considered. Misoprostol is contraindicated
+because it stimulates labor (Chap. 26, p. 490).
+In nonpregnant patients, surgical fundoplication can be performed
+(Kahrilas, 2018). Although the procedure is not done during pregnancy,
+Biertho and colleagues (2006) described 25 women who had undergone
+laparoscopic Nissen fundoplication before pregnancy. Only 20 percent had
+reflux symptoms during pregnancy.
+
+■ Hiatal Hernia
+The older literature is informative regarding hiatal hernias in pregnancy.
+Upper gastrointestinal radiographs performed in 195 women in late
+pregnancy showed that 20 percent of 116 multiparas and 5 percent of 79
+nulliparas had a hiatal hernia (Rigler, 1935). Of 10 women studied
+postpartum, hernia persisted in three at 1 to 18 months.
+
+The relationship of hiatal hernia with reflux esophagitis is not clear. One
+study demonstrated no association and showed that the lower esophageal
+sphincter functioned effectively even when displaced intrathoracically
+(Cohen, 1971). Nevertheless, during pregnancy, hiatal hernias may cause
+vomiting, epigastric pain, and bleeding from ulceration. Schwentner (2011)
+reported severe herniation requiring surgical repair in a woman with a 12week gestation. Curran and coworkers (1999) described a 30-week
+pregnancy complicated by gastric outlet obstruction from a paraesophageal
+hernia.
+
+■ Diaphragmatic Hernia
+These are caused by herniations of abdominal contents through either the
+foramen of Bochdalek or Morgagni. Fortunately, they rarely complicate
+pregnancy. In one review of 18 pregnant women who developed acute
+obstruction within a diaphragmatic hernia, the maternal mortality rate was 45
+percent (Kurzel, 1988). Herniation has been reported in one woman who had
+antireflux surgery in early pregnancy (Brygger, 2013). Several case reports
+also describe spontaneous diaphragmatic rupture from elevated
+intraabdominal pressure during delivery (Chen, 2012; Sharifah, 2003).
+Surgical treatment is considered in symptomatic gravidas and is
+individualized according to gestational age and clinical setting (Ménassa,
+2019; Whang, 2018).
+
+■ Achalasia
+In this rare motility disorder, the lower esophageal sphincter fails to relax
+properly with swallowing. The esophageal muscularis also displays
+nonperistaltic contraction activity (Kahrilas, 2018). The defect is caused by
+inflammatory destruction of the myenteric (Auerbach) plexus within smooth
+muscle of the lower esophagus and its sphincter. Postganglionic cholinergic
+neurons are unaffected, and thus sphincter stimulation is unopposed.
+Symptoms are dysphagia, chest pain, and regurgitation. Barium swallow
+radiography demonstrates bird beak or ace of spades narrowing at the distal
+esophagus. Endoscopy is performed to exclude gastric carcinoma, and
+manometry is confirmatory.
+
+During pregnancy, normal physiological relaxation of the lower
+esophageal sphincter in women with achalasia theoretically should not occur.
+In one series, half of these women had worsened symptoms, but reflux is
+uncommon (Vogel, 2018). In other pregnancy studies, most women did not
+have worsening symptoms (Khudyak, 2006). At least one maternal death was
+reported at 24 weeks’ gestation and perforation of a 14-cm-diameter
+megaesophagus was implicated (Fassina, 1995).
+Management of achalasia includes a soft diet and anticholinergic drugs.
+With persistent symptoms, other options include nitrates, calcium-channel
+antagonists, and botulinum toxin A injected locally (Hooft, 2015; Kahrilas,
+2018). Balloon dilation of the sphincter may be necessary, and 85 percent of
+nonpregnant patients respond (Vogel, 2018). One caveat is that esophageal
+perforation is a serious complication of dilation. If dilation or medical
+therapy fail to provide relief, myotomy is considered. In one report, a 29week pregnant woman with achalasia was treated for 10 weeks with
+peripheral parenteral nutrition, and surgical myotomy was done postpartum
+(Spiliopoulos, 2013).
+
+■ Peptic Ulcer Disease
+The lifetime prevalence of acid peptic disorders in women is 10 percent
+(Del Valle, 2018). Erosive ulcer disease involves the stomach and
+duodenum. Gastroduodenal ulcers commonly are caused by chronic gastritis
+from Helicobacter pylori, or they develop from nonsteroidal
+antiinflammatory drug (NSAID) use. Neither is common in pregnancy
+(McKenna, 2003; Weyermann, 2003). Rosen and coworkers (2021) reported
+2535 pregnant women with peptic ulcer disease and found that complications
+were less frequent than in nonpregnant controls.
+Acid secretion also is important, and this underlies the efficacy of
+antisecretory agents. Natural gastroprotection during pregnancy probably
+originates from physiological changes that include reduced gastric acid
+secretion, decreased motility, and considerably increased mucus secretion
+(Hytten, 1991). Despite this, ulcer disease may be underdiagnosed because
+of frequent treatment for reflux esophagitis (Mehta, 2010). In the past 55
+years at Parkland Hospital, during which time we have cared for more than
+600,000 pregnant women, we have encountered very few who had proven
+ulcer disease. Perforation is rare (Goel, 2014). Before appropriate therapy
+
+was commonplace, Clark (1953) studied 313 pregnancies in 118 women
+with ulcer disease and noted a clear remission during pregnancy in almost 90
+percent. However, benefits were short lived. Symptoms recurred in more
+than half by 3 months postpartum and in almost all by 2 years.
+The mainstay of management is eradication of H pylori and prevention of
+NSAID-induced disease. Antacids are usually self-prescribed, but other
+first-line therapy is a proton-pump inhibitor or H2-receptor blocker (see
+Table 57-4) (Del Valle, 2018; Laine, 2012). Sucralfate can be added and
+provides a protective coating at the ulcer base.
+With active ulcers, a search for H pylori is undertaken. Diagnostic aids
+include the urea breath test, serological testing, fecal testing, or endoscopic
+biopsy. If any of these yield positive results, combination antimicrobial plus
+proton-pump inhibitor therapy is indicated (Chey, 2017). Several effective
+oral treatment regimens do not include tetracycline and can be used during
+pregnancy. One 14-day regimen includes clarithromycin, 500 mg twice daily,
+which is paired either with amoxicillin, 1000 mg twice daily or with
+metronidazole, 500 mg three times daily. These antibiotics are given with a
+proton-pump inhibitor (Del Valle, 2018).
+
+■ Upper Gastrointestinal Bleeding
+In some women, persistent vomiting is accompanied by worrisome upper
+gastrointestinal bleeding. Occasionally, a peptic ulcer is the source.
+However, most of these women have small linear mucosal tears near the
+gastroesophageal junction—Mallory-Weiss tears (p. 1014). Bleeding usually
+responds promptly to conservative measures that include IV proton-pump
+inhibitors and topical antacids (Laine, 2012). Transfusions may be needed,
+and if bleeding persists, endoscopy is usually indicated (O’Mahony, 2007).
+With sustained retching, the less common, but more serious, esophageal
+rupture—Boerhaave syndrome—may develop from high esophageal
+pressure.
+
+SMALL BOWEL AND COLON DISORDERS
+The small bowel has diminished motility during pregnancy. Lawson and
+colleagues (1985) showed that the small bowel mean transit times of 99,
+
+125, and 137 minutes in each successive trimester, respectively, were slower
+than 75 minutes when nonpregnant. Muscular relaxation of the colon is
+accompanied by increased absorption of water and sodium that predisposes
+to constipation. This complaint is reported by almost 25 percent of women at
+some time during pregnancy and the puerperium (Everson, 1992). Symptoms
+are usually only mildly bothersome, and initial treatment includes increasing
+fluid intake (>8 glasses/d) and fiber consumption (20 to 35 g/d) (Body,
+2016). If these lifestyle modifications fail, bulk-forming agents such as
+methylcellulose may be added, and in severe cases the stimulant laxative
+bisacodyl. We have encountered several pregnant women who developed
+megacolon from impacted stool. These women almost invariably had
+chronically abused stimulatory laxatives.
+
+■ Acute Diarrhea
+The estimated monthly prevalence of diarrhea among adults is 3 to 7 percent
+(DuPont, 2014). Diarrhea can be classified as acute (<2 weeks), persistent
+(2 to 4 weeks), and chronic (>4 weeks). Most cases of acute diarrhea are
+caused by infectious agents, and a third result from foodborne pathogens. The
+large variety of viruses, bacteria, helminths, and protozoa that cause diarrhea
+in adults also afflict pregnant women. These are usually accompanied by
+vomiting, fever, and abdominal pain. Some of these are discussed in Chapter
+64 (p. 1197).
+Evaluation of acute diarrhea depends on its severity and duration. Some
+indications for evaluation include profuse watery diarrhea with dehydration,
+grossly bloody stools, fever >38°C, duration >48 hr without improvement,
+recent antimicrobial use, and diarrhea in the immunocompromised patient
+(Camilleri, 2018; DuPont, 2014). Cases of moderately severe diarrhea with
+fecal leukocytes or gross blood may be treated with empirical antibiotics
+rather than evaluation. However, risks and benefits should be considered,
+and it is reasonable to withhold treatment until stool testing is completed to
+exclude infection. Some features of the more common acute diarrheal
+syndromes and their treatment are shown in Table 57-5.
+TABLE 57-5. Etiology, Clinical Features, and Treatment of Common Acute
+Diarrheal Syndromes
+
+The mainstay of treatment is IV hydration using normal saline or Ringer
+lactate and potassium supplementation in amounts to restore maternal blood
+volume and to ensure uteroplacental perfusion. Vital signs and urine output
+are monitored for signs of sepsis. For moderately severe nonfebrile illness
+without bloody diarrhea or recent travel, antimotility agents such as
+loperamide (Imodium) may be useful. An initial 4-mg (two capsules) dose
+can be followed with another 2-mg capsule after subsequently passed watery
+stools. Dosages should not exceed 8 mg/d, and loperamide is not used for
+more than 48 h. Bismuth subsalicylate (Pepto-Bismol) also may alleviate
+symptoms. The recommended dosage is 30 mL (525 mg) of its liquid form or
+two tablets (263 mg/tablet) chewed well each 30 to 60 min and not to exceed
+eight doses in 24 h. The drug will produce harmless black stools (Riddle,
+2016).
+Judicious use of antimicrobial agents is warranted. For moderately to
+severely ill women, some recommend empirical treatment with
+ciprofloxacin, 500 mg twice daily for 3 days. Specific pathogens are treated
+as needed when identified (see Table 57-5). Syndromes for which treatment
+
+is usually unnecessary include those caused by Escherichia coli,
+staphylococcal species, Bacillus cereus, and norovirus. Severe illness
+caused by Salmonella species is treated with ciprofloxacin or trimethoprimsulfamethoxazole; by Campylobacter species with azithromycin; by
+Clostridioides difficile with oral vancomycin or fidaxomicin; and by
+Giardia species and Entamoeba histolytica with metronidazole (DuPont,
+2014; McDonald, 2018; Rocha-Castro, 2016).
+
+Clostridioides difficile Infection
+Formally known as Clostridium difficile, this anaerobic gram-positive
+bacillus is transmitted by the fecal-oral route. In a study from China, 3.7
+percent of normal gravidas were colonized (Ye, 2016). It is the most frequent
+nosocomial infection in the United States. In 2011, 453,000 cases of C
+difficile and 29,000 associated deaths were reported by the Centers for
+Disease Control and Prevention (Lessa, 2015). Its incidence in pregnant
+women has doubled during the past decade (Ruiter-Ligeti, 2018). The most
+important risk factor is antibiotic use, and the highest risk is with
+aminopenicillins, clindamycin, cephalosporins, and fluoroquinolones. Other
+risk factors include inflammatory bowel disease, immunosuppression,
+advanced age, and gastrointestinal surgery. Most cases are hospital-acquired,
+however, 10 percent are community-acquired cases (Gerding, 2018). With
+severe colitis, the infection-related mortality rate is 5 percent.
+Laboratory diagnosis from a stool sample uses nucleic-acid amplification
+testing (NAAT) for C difficile itself or uses an enzyme-immunoassay-based
+algorithm for a unique C difficile enzyme or its toxins A and B (McDonald,
+2018). Less often, infection may be diagnosed endoscopically (Fig. 57-2).
+Only patients with new-onset diarrhea and ≥3 unformed stool of unexplained
+etiology should be tested, and posttreatment testing is not recommended.
+Prevention is by soap-and-water hand washing, and infected individuals are
+isolated. Treatment consists of stopping the offending antibiotics and giving
+10 days of oral vancomycin, 125 mg four times daily, or fidaxomicin
+(Dificid), 200 mg twice daily (McDonald, 2018). The risk of recurrence
+after an initial episode is 20 percent. Fecal microbial transplantation may
+become standard for recurrent clostridial colitis (Saeedi, 2017).
+
+FIGURE 57-2 Causes of colitis. A. Ulcerative colitis with diffuse ulcerations and exudates. B. Crohn
+colitis with deep ulcers. C. Pseudomembranous colitis with yellow, adherent membranes. D. Ischemic
+colitis. (Reproduced with permission from Song LM, Topazian M: Gastrointestinal endoscopy. In
+Jameson JL, Fauci AS, Kasper DL, et al (eds): Harrison’s Principles of Internal Medicine, 20th ed.
+New York, NY: McGraw Hill; 2018.)
+
+■ Inflammatory Bowel Disease
+Two presumably noninfectious forms of intestinal inflammation are
+ulcerative colitis and Crohn disease. Differentiation between these is
+important because treatment differs. That said, they both share common
+features, and sometimes are indistinguishable if Crohn disease involves the
+colon. The features shown in Table 57-6 permit a reasonably confident
+diagnostic differentiation in most cases. The etiopathogenesis is enigmatic in
+both, but a genetic predisposition is suspected, especially for Crohn disease.
+Inflammation is thought to result from dysregulated mucosal immune function
+
+in response to commensal microbiota, with or without an autoimmune
+component (Friedman, 2018).
+TABLE 57-6. Some Shared and Differentiating Characteristics of
+Inflammatory Bowel Disease
+
+Ulcerative Colitis
+This is a mucosal disorder with inflammation confined to the superficial
+luminal layers of the colon. It typically begins at the rectum and extends
+proximally for a variable distance. In approximately 40 percent of cases,
+disease is confined to the rectum or the rectosigmoid, but 20 percent have
+pancolitis. For unknown reasons, prior appendectomy protects against
+ulcerative colitis (Friedman, 2018). Endoscopic findings include mucosal
+granularity and friability that is interspersed with mucosal ulcerations and a
+mucopurulent exudate (see Fig. 57-2).
+Major symptoms of ulcerative colitis include diarrhea, rectal bleeding,
+tenesmus, and abdominal cramps. The disease is characterized by
+exacerbations and remissions. Toxic megacolon and catastrophic hemorrhage
+are particularly dangerous complications that may necessitate colectomy.
+Extraintestinal manifestations include arthritis, uveitis, and erythema
+nodosum. The risk of associated colon cancer approaches 1 percent per year.
+
+With either ulcerative colitis or Crohn disease, risks for VTE are higher in
+even asymptomatic women (Friedman, 2018; Mahadevan, 2019).
+
+Crohn Disease
+Also known as regional enteritis, Crohn ileitis, or granulomatous colitis,
+Crohn disease has more protean manifestations than ulcerative colitis. It
+involves not only the mucosa but also the deeper bowel layers (see Fig. 572). Lesions can be seen throughout the entire GI tract, from the mouth to the
+anus, but it typically is segmental (Friedman, 2018). Approximately 30
+percent of patients have only small-bowel involvement, 25 percent have
+isolated colonic involvement, and 40 percent have both, usually with the
+terminal ileum and colon involved. Perianal fistulas and abscesses develop
+in a third of those with colonic involvement.
+Symptoms depend on which bowel segment(s) is involved. Thus,
+complaints may include lower-right-sided cramping abdominal pain,
+diarrhea, weight loss, low-grade fever, and obstructive symptoms. The
+disease is chronic with exacerbations and remissions, and importantly, it
+cannot be cured medically or surgically. Approximately a third of patients
+require surgery within the first year after diagnosis, and thereafter, the rate is
+5 percent per year. Reactive arthritis is common, and the GI cancer risk,
+although not as great as with ulcerative colitis, is increased substantially.
+
+Inflammatory Bowel Disease and Fertility
+Subfertility in women is linked to active disease, but normal fertility is likely
+with quiescent colitis (Mahadevan, 2019). Subfertility may also be partially
+attributed to sulfasalazine, which causes reversible sperm abnormalities
+(Feagins, 2009).
+For women requiring surgical resection, a laparoscopic approach has a
+higher subsequent fertility rate (Beyer-Berjot, 2013). With colectomy,
+however, although fertility is improved, up to half of women will be
+persistently infertile (Bartels, 2012; Lee, 2019a). Sexual function and
+fertility are only modestly affected by ileal pouch–anal anastomosis (Hor,
+2016).
+
+Inflammatory Bowel Disease and Pregnancy
+
+Because ulcerative colitis and Crohn disease are relatively common in young
+women, these disorders are encountered with some frequency in pregnancy.
+In many studies, the outcomes are grouped together for both entities. For
+example, in a study from Australia, Shand and colleagues (2016) reported a
+prevalence of 1 inflammatory bowel disease (IBD) case in 320 births. In this
+regard, some generalizations can be made. First, consensus supports that
+pregnancy does not increase the likelihood of an IBD flare (Mahadevan,
+2019). Indeed, in a 10-year surveillance of women in the European
+Collaborative on Inflammatory Bowel Disease, the likelihood of a flare
+during pregnancy was lower than the preconceptional rate (Riis, 2006).
+Although most women with quiescent disease in early pregnancy do not have
+relapses, when a flare develops, it may be severe. Also, and as discussed
+subsequently, active disease in early pregnancy increases the likelihood of
+disease relapse during pregnancy (de Lima-Karagiannis, 2016).
+In general, most usual treatment regimens may be continued during
+pregnancy. Diagnostic evaluations should be undertaken if needed to direct
+management, and surgery should be performed if indicated (Mahadevan,
+2019). Fecal calprotectin, an inflammatory biomarker in stool samples, is a
+valid tool in pregnancy to identify IBD flares (Julsgaard, 2017; Lichtenstein,
+2018; Rubin, 2019).
+At first glance, it appears that adverse pregnancy outcomes are increased
+with IBD (Boyd, 2015; Getahun, 2014). Initially, this was attributed to the
+fact that most studies included women with either form of disease.
+Specifically, Crohn disease was noted to be linked to excessive morbidity.
+But, according to Reddy (2008) and others, these adverse outcomes were in
+women with severe disease and multiple recurrences. Indeed, in the
+prospective European case-control ECCO-EpiCom study of 332 pregnant
+women with IBD, outcomes were similar in women with ulcerative colitis or
+Crohn disease compared with unaffected pregnant women (Bortoli, 2011).
+Still, women with active disease during pregnancy have an increased
+frequency of preterm births (Kammerlander, 2017; Shand, 2016).
+Importantly, perinatal mortality rates are not appreciably increased.
+Ulcerative Colitis and Pregnancy. In one review of 755 pregnancies, colitis
+that was quiescent at conception worsened in approximately a third of
+pregnancies (Fonager, 1998). In women with active disease at the time of
+conception, approximately 45 percent worsened, 25 percent remained
+
+unchanged, and only 25 percent improved. These observations are similar to
+those described in a review by Miller (1986) as well as in later reports (de
+Lima-Karagiannis, 2016; Oron, 2012).
+Osteoporosis is a significant complication in up to a third of affected
+women. Thus, vitamin D—800 IU daily—and calcium—1200 mg daily—are
+given. Folic acid, 2 to 4 mg orally daily, is recommended preconceptionally
+and during the first trimester for neural-tube defect prevention (Mahadevan,
+2019). This high dose counteracts the antifolate actions of sulfasalazine.
+Flares may be caused by psychogenic stress, and reassurance is important.
+Last, the venous thromboembolism risk is doubled, but thromboprophylaxis
+is not routinely provided (Hansen, 2017).
+Management for colitis for the most part mirrors that outside of
+pregnancy. Treatment of active colitis and maintenance therapy incorporate
+drugs that deliver 5-aminosalicyclic acid (5-ASA), also known as
+mesalamine. Sulfasalazine (Azulfidine) is the prototype, and its 5-ASA
+moiety inhibits prostaglandin synthase in colonic mucosa. Others include
+olsalazine (Dipentum), balsalazide (Colazal), and delayed-release 5-ASA
+derivatives (Apriso, Asacol, Pentasa, Lialda). Glucocorticoids are
+beneficial and are given orally, parenterally, or by enema for moderate or
+severe disease that does not respond to 5-ASA. Corticosteroids provide a
+high remission rate for active disease, but they are not given for maintenance
+therapy (Friedman, 2018). Recalcitrant disease is managed with
+immunomodulating drugs, including azathioprine, 6-mercaptopurine,
+cyclosporine, or tacrolimus, which all appear relatively safe in pregnancy
+(Briggs, 2017; Mozaffari, 2015). Importantly, methotrexate is teratogenic
+and contraindicated in pregnancy (Chap. 8, p. 152).
+In the past, biologics were reserved for recalcitrant, moderate to severe
+disease. Because of their considerable efficacy, however, these medications
+are now frequently given initially for this severity of disease to prevent
+future complications. These agents are antibodies against tumor necrosis
+factor alpha (TNF-α). Those recommended for IBD treatment are shown in
+Table 57-7 (Mahadevan, 2019). Women who begin pregnancy while taking
+biologics should continue these through pregnancy until several weeks before
+delivery to help avoid maternal infections from immunosuppression. These
+agents are administered IV or subcutaneously. Several studies support their
+safety in pregnancy, although there are concerns that their discontinuance may
+prompt a relapse (Chaparro, 2018; Friedman, 2018; Luu, 2018). Another
+
+worry is that they may cause immunosuppression in the newborn, and early
+neonatal vaccination with live-attenuated agents are delayed for at least 6
+months (Esteve-Solé, 2017; Julsgaard, 2016).
+TABLE 57-7. Biologics Used to Treat Inflammatory Bowel Disease in
+Pregnancy
+
+Colorectal endoscopy is performed as indicated. Surgical management is
+tailored to disease severity (Killeen, 2017). During pregnancy, colectomy
+and ostomy creation for fulminant colitis may be needed as a lifesaving
+measure, and it has been described during each trimester. Dozois (2006)
+reviewed 42 such cases and found that, in general, outcomes have been good
+with partial or complete colectomy. Parenteral nutrition is occasionally
+needed for women with prolonged exacerbations.
+For women with an ileal pouch and an anal anastomosis, frequency of
+bowel movements, fecal incontinence, and pouchitis may temporarily worsen
+with pregnancy. The last is an inflammatory condition of the ileoanal pouch
+probably due to bacterial proliferation and stasis. Pouchitis usually responds
+to ciprofloxacin or metronidazole. In one rare case, adhesions to the growing
+uterus led to ileal pouch perforation (Aouthmany, 2004).
+In general, women with uncomplicated colitis can be delivered vaginally
+(Foulon, 2017). That said, the cesarean delivery rate in these women is
+increased (Burke, 2017). It is controversial whether women who have had a
+prior proctocolectomy and ileal pouch–anal anastomosis can be safely
+delivered vaginally. Hahnloser (2004) reviewed delivery routes in women
+
+with 235 pregnancies before and 232 pregnancies after ileoanal pouch
+surgery. Functional outcomes were similar, and it was concluded that
+cesarean delivery should be reserved for obstetrical indications. To the
+contrary, following their systematic review, Foulon and coworkers (2017)
+recommended cesarean delivery with the caveat that uncomplicated vaginal
+delivery was safe.
+As discussed, quiescent ulcerative colitis likely has minimal adverse
+effects on pregnancy outcome. Modigliani (2000) reviewed perinatal
+outcomes in 2398 pregnancies and reported them to be not substantively
+different from those in the general obstetrical population. Specifically, the
+incidences of spontaneous abortion, preterm delivery, and stillbirth were
+remarkably low. These authors and others also describe a cesarean delivery
+rate that was substantially higher than that for normal controls (Burke, 2017;
+Mahadevan, 2015). The previously described ECCO-EpiCom study reported
+similar outcomes in 187 gravidas with ulcerative colitis compared with
+normal control women (Bortoli, 2011).
+Crohn Disease and Pregnancy. In general, Crohn disease activity during
+pregnancy is related to its status around the time of conception. In a cohort
+study of 279 pregnancies conceived by 186 women whose disease was
+inactive at conception, a fourth relapsed during pregnancy (Fonager, 1998).
+In 93 with active disease at conception, however, two thirds either remained
+active or worsened. Other reviews describe similar findings (Miller, 1986;
+Oron, 2012).
+Calcium, vitamin D, and folic acid supplementation mirror that for
+ulcerative colitis. For maintenance during asymptomatic periods, no regimen
+is universally effective. Sulfasalazine is effective for some, but the newer 5ASA formulations are better tolerated. Glucocorticoids induce a 60- to 70percent remission rate (Friedman, 2018). Prednisone therapy may control
+moderate to severe flares but is less effective for small-bowel involvement.
+Immunomodulators such as azathioprine, 6-mercaptopurine, cyclosporine,
+and tacrolimus are used for active disease and for maintenance. These
+appear relatively safe during pregnancy (Chaparro, 2018; Luu, 2018). As
+discussed in Chapter 8 (p. 152), methotrexate is contraindicated in
+pregnancy. As with ulcerative colitis, treatment with TNF-α inhibitors is
+often used initially for active Crohn disease and maintenance (see Table 577) (Friedman, 2018; Mahadevan, 2019).
+
+Endoscopy or conservative surgery is indicated for complications
+(Killeen, 2017). Patients with small-bowel involvement are more likely to
+require surgery for complications that include fistulas, strictures, obstruction,
+abscesses, and intractable disease. In an earlier study, an abdominal surgical
+procedure was required during 5 percent of pregnancies (Woolfson, 1990).
+Parenteral nutrition has been used successfully during severe recurrences.
+Those with an ileal loop colostomy may have significant problems. Unless
+there is a perianal fistula or active perianal disease, women with Crohn
+disease usually can undergo vaginal delivery without complications (Foulon,
+2017; Mahadevan, 2019).
+As discussed, Crohn disease compared with ulcerative colitis is
+associated with higher adverse pregnancy outcome rates. Outcomes are
+probably related to disease activities. In a case-control Danish study,
+Norgård (2007) reported a twofold risk of preterm births. Dominitz (2002)
+reported a two- to threefold increased risk for preterm delivery, low
+birthweight, fetal-growth restriction, and cesarean delivery in 149 women
+with Crohn disease. Recall, however, that the ECCO-EpiCom study found
+pregnancy outcomes to be similar to those in unaffected women.
+
+■ Ostomy and Pregnancy
+A colostomy or an ileostomy can be problematic during pregnancy because
+of its location (Hux, 2010). In a report of 82 pregnancies in 66 women with
+an ostomy, stomal dysfunction was common, but it responded to
+conservative management in most cases (Gopal, 1985). Surgical intervention
+was necessary, however, in three of six women who developed bowel
+obstruction and in another four with ileostomy prolapse—almost 10 percent
+overall. In this older study, only a third of 82 women underwent cesarean
+delivery, but Takahashi (2007) described six of seven cesarean deliveries in
+women with Crohn disease and a stoma. Although adhesions usually are
+involved with an obstructed ileostomy, the enlarging uterus may act to cause
+obstruction (Porter, 2014). Last, Farouk and coworkers (2000) reported that
+pregnancy did not worsen long-term ostomy function.
+
+■ Intestinal Obstruction
+
+The incidence of bowel obstruction is not increased during pregnancy,
+although it generally is more difficult to diagnose. Meyerson (1995) reported
+a 20-year incidence of 1 case in 17,000 deliveries at two Detroit hospitals.
+Of acute abdomen cases in pregnancy, adhesive disease leading to smallbowel obstruction was second only to appendicitis—15 versus 30 percent,
+respectively (Unal, 2011). Approximately half of cases are due to adhesions
+from previous pelvic surgery that includes cesarean delivery (Andolf, 2010;
+Lyell, 2011). Another 25 percent of bowel obstruction is caused by volvulus,
+which may involve sigmoid colon, cecum, or small bowel. These have been
+reported in late pregnancy or early puerperium (Al Maksoud, 2015; Bade,
+2014). Bokslag (2014) and Wax (2013) and their colleagues described
+small-bowel obstruction in pregnancy following the currently popular Rouxen-Y gastric bypass, which is performed for weight loss. Intussusception is
+occasionally encountered (Bosman, 2014; Moliere, 2019). Bowel
+obstruction subsequent to colorectal surgery for cancer was increased
+threefold in women who had open versus laparoscopic surgery (Haggar,
+2013). Last, Serra and coworkers (2014) described a massive ventral hernia
+with intestinal obstruction.
+Most cases of intestinal obstruction during pregnancy result from
+pressure of the growing uterus on intestinal adhesions. This is more likely
+around midpregnancy when the uterus becomes an abdominal organ; in the
+third trimester when the fetal head descends; or immediately postpartum
+when uterine size acutely shrinks (Davis, 1983). Perdue (1992) reported that
+98 percent of affected pregnant women had either continuous or colicky
+abdominal pain, and 80 percent had nausea and vomiting. Abdominal
+tenderness was found in 70 percent, and abnormal bowel sounds noted in
+only 55 percent. Plain abdominal radiographs following soluble contrast
+showed evidence of obstruction in 90 percent of affected women. Plain
+radiographs, however, are less accurate for diagnosing small-bowel
+obstruction, and we and others have found that CT and MR imaging can be
+diagnostic (Essilfie, 2007; Moliere, 2019). Colonoscopy can be both
+diagnostic and therapeutic for colonic volvulus (Dray, 2012; Khan, 2012).
+During pregnancy, mortality rates with obstruction can be excessive
+because of difficult and thus delayed diagnosis, reluctance to operate during
+pregnancy, and the need for emergency surgery (Firstenberg, 1998; Shui,
+2011). In an older report of 66 pregnancies, Perdue and associates (1992)
+described 6-percent maternal and 26-percent fetal mortality rates. Two of the
+
+four women who died were in late pregnancy, and they had bowel
+perforation from sigmoid or cecal volvulus caused by adhesions.
+
+■ Colonic Pseudo-Obstruction
+Also known as Ogilvie syndrome, pseudo-obstruction is caused by adynamic
+colonic ileus. It is characterized by massive abdominal distention with cecal
+and right-hemicolonic dilation (Fig. 57-3). Approximately 10 percent of all
+cases are associated with pregnancy, and its reported frequency is 1 case in
+1500 births (Reeves, 2015). The syndrome usually develops postpartum—90
+percent after cesarean delivery—but it has been reported antepartum. In a
+review, perforation was common, especially if the cecal diameter exceeded
+12 cm (Jayaram, 2017). More recently, treatment with an IV infusion of
+neostigmine, 2 mg, given during cardiac monitoring usually results in prompt
+decompression (Song, 2018). In some cases, colonoscopic decompression is
+performed, and in others, laparotomy is needed for perforation (Rawlings,
+2010).
+
+FIGURE 57-3 Ogilvie syndrome. Massive dilation of colon due to pseudo-obstruction in a woman
+following cesarean delivery. A. Abdominal radiograph. B. Axial image from computed tomography.
+
+■ Appendicitis
+The lifetime incidence for appendicitis ranges from 7 to 10 percent (Flum,
+2015). Thus, evaluation for possible appendicitis is relatively common
+during pregnancy. Theilen and colleagues (2017) studied 171 such women
+during a 5-year period, but only 14 women ultimately were found to have
+
+pathologically confirmed appendicitis. After clinical and imaging evaluation,
+the frequency of suspected appendicitis drops and that of confirmed
+appendicitis in more than 8 million women ranged from 1 case in 1000 to
+5500 births (Abbasi, 2014; Hée, 1999; Mazze, 1991).
+It is repeatedly—and appropriately—emphasized that pregnancy makes
+the diagnosis of appendicitis more difficult. Nausea and vomiting accompany
+normal pregnancy, but also, as the uterus enlarges, the appendix commonly
+moves upward and outward from the right lower quadrant (Baer, 1932;
+Erkek, 2015; Pates, 2009). Another often-stated reason for late diagnosis is
+that some degree of leukocytosis accompanies normal pregnancy. That said,
+Theilen and coworkers (2017) observed that a white cell count >18,000/μL
+made the diagnosis tenfold more likely. Neutrophilic shift is another
+(Gentles, 2020). Pregnant women—especially in late gestation—frequently
+do not have clinical findings “typical” for appendicitis. Thus, it commonly is
+confused with cholecystitis, labor, pyelonephritis, renal colic, placental
+abruption, or uterine leiomyoma degeneration.
+Most reports indicate increasing morbidity and mortality rates with
+advancing gestational age. And, as the appendix is progressively deflected
+upward by the growing uterus, omental containment of infection becomes
+increasingly unlikely. It is indisputable that appendiceal perforation is more
+common during later pregnancy (Abbasi, 2014). In the studies by Andersson
+(2001) and Ueberrueck (2004), the incidence of perforation was
+approximately 8, 12, and 20 percent in successive trimesters.
+
+Diagnosis
+Persistent abdominal pain and tenderness are the most reproducible findings.
+Right lower quadrant pain is the most frequent, although pain migrates
+upward with appendiceal displacement (Mourad, 2000). For initial
+evaluation, sonographic abdominal imaging is reasonable in suspected
+appendicitis, even if to exclude an obstetrical cause of pain (Butala, 2010).
+That said, graded compression sonography is difficult because of cecal
+displacement and uterine imposition (Pedrosa, 2009). Appendiceal
+computed tomography is more sensitive and accurate than sonography to
+confirm suspected appendicitis (Katz, 2012; Raman, 2008). Specific views
+can be designed to diminish fetal radiation exposure (Chap. 49, p. 873).
+
+When available, MR imaging is the preferred modality for evaluation of
+suspected appendicitis in pregnancy (Fig. 57-4). MR imaging has high
+diagnostic yield and accuracy, and it also provides alternative diagnoses
+(Fonseca, 2014; Theilen, 2015). One metaanalysis of 30 studies cited
+positive- and negative-predictive values of 96 and 99.5 percent,
+respectively, for MR imaging (Duke, 2016). Others report similar findings
+(Burke, 2015; Kave, 2019). However, Aguilera and colleagues (2018) found
+a sensitivity of only 18 percent in pregnant women.
+
+FIGURE 57-4 Magnetic resonance T2 flair image of acute appendicitis in a midtrimester pregnancy.
+The bright signal is inflammation and the block dot is a fecalith that can be seen in the midappendix
+(arrow). The fetal trunk (T) and leg (L) and amnionic fluid (A) are seen within the gravid uterus
+superior to the appendix. (Reproduced with permission by Dr. Christina Herrera.)
+
+Management
+When appendicitis is suspected, most recommend prompt surgical
+exploration. Although diagnostic errors may lead to removal of a normal
+appendix, surgical evaluation is preferable to postponed intervention and
+generalized peritonitis (Abbasi, 2014). In earlier reports, the diagnosis was
+verified in only 60 to 70 percent of pregnant women. As indicated above,
+
+however, with CT and MR imaging, these figures have improved (Duke,
+2016; Theilen, 2015). Still and importantly, the accuracy of diagnosis is
+inversely proportional to gestational age.
+Currently, laparoscopic resection is almost always used to treat
+suspected appendicitis during the first two trimesters. In a report from a
+Swedish database of nearly 2000 laparoscopic appendectomies, perinatal
+outcomes were similar to those of more than 1500 open laparotomies done
+before 20 weeks’ gestation (Reedy, 1997). Conversely, in their review,
+Wilasrusmee and coworkers (2012) reported a higher rate of fetal loss with
+laparoscopy. Authors of three more recent systematic reviews indicate that
+the level of evidence is not strong enough to demonstrate a preferred
+approach to appendectomy (Frountzas, 2019; Lee, 2019b; Walker, 2014). It
+has evolved that in many centers, laparoscopic appendectomy is also
+performed in most cases during the third trimester (Donkervoort, 2011). This
+is encouraged by others, including the Society of American Gastrointestinal
+and Endoscopic Surgeons (Pearl, 2017; Sekar, 2019; Soper, 2011).
+Before exploration, IV antimicrobial therapy is begun, usually with a
+second-generation cephalosporin or third-generation penicillin. Unless there
+is gangrene, perforation, or a periappendiceal phlegmon, antimicrobial
+therapy can usually be discontinued after surgery. Without generalized
+peritonitis, the prognosis is excellent. Seldom is cesarean delivery indicated
+at the time of appendectomy. Uterine contractions are common, and although
+some clinicians recommend tocolytic agents, we do not. de Veciana (1994)
+reported that tocolytic use substantially increased the risk for pulmonarypermeability edema caused by sepsis (Chap. 50, p. 883).
+
+Antimicrobial versus Surgical Treatment
+Because of European studies, some advocate that many cases of appendicitis
+can be treated successfully with IV antimicrobials alone (Flum, 2015; Talan,
+2019). In one study, 6 percent of pregnant women with appendicitis were
+treated medically, and these gravidas had “considerably” elevated risks for
+septic shock, peritonitis, and VTE compared with surgically managed cases
+(Abbasi, 2014). In another study of 20 women, failure rate was 25 percent
+(Joo, 2017). At this time, we discourage this practice until appropriate
+studies have been done with pregnant women. Certainly, if elected, such
+treatment should exclude women with obstructive appendicitis, and the
+threshold to convert to surgical treatment must be low.
+
+Pregnancy Outcomes
+Appendicitis increases the likelihood of preterm labor, especially if
+peritonitis has developed. Spontaneous labor after 23 weeks ensues with
+greater frequency following surgery for appendicitis compared with surgery
+for other indications (Ibiebele, 2019; Won, 2017). In one study, the fetal loss
+rate was 22 percent if surgery was performed after 23 weeks’ gestation.
+Three large population-based studies attest to the adverse outcomes from
+appendicitis in pregnancy. From the California State Inpatient Database, the
+fetal loss rate was 20 percent (Won, 2017). A nationwide study from Taiwan
+found that risks for low birthweight and preterm delivery rose 1.5- to 2-fold
+when outcomes in 908 women with acute appendicitis were compared with
+those of controls (Wei, 2012). Last, an Australian population-based study
+reported an almost twofold increased incidence of preterm birth following
+appendectomy (Ibiebele, 2019).
+
+REFERENCES
+Abbasi N, Patenaude V, Abenhaim HA: Management and outcomes of acute appendicitis in pregnancy
+—population-based study of over 7000 cases. BJOG 121(12):1509, 2014
+Aguilera F, Gilchrist BF, Farkas DT: Accuracy of MRI in diagnosing appendicitis during pregnancy. Am
+Surg 84(8):1326, 2018
+Alaniz V, Liss J, Metz TD, et al: Cannabinoid hyperemesis syndrome: a cause of refractory nausea and
+vomiting in pregnancy. Obstet Gynecol 125(6):1484, 2015
+Albayrak M, Karatas A, Demiraran Y, et al: Ghrelin, acylated ghrelin, leptin, and PYY-3 levels in
+hyperemesis gravidarum. J Matern Fetal Neonatal Med 26(9):866, 2013
+Al Maksoud AM, Barsoum AK, Moneer MM: Sigmoid volvulus during pregnancy: a rare non-obstetric
+complication. Report of a case and review of the literature. Int J Surg Case Rep 17:51, 2015
+American College of Obstetricians and Gynecologists: Nausea and vomiting of pregnancy. Practice
+Bulletin No. 189, January 2018
+American College of Obstetricians and Gynecologists: Nonobstetric surgery during pregnancy.
+Committee Opinion No. 775, April 2019
+Andersson RE, Lambe M: Incidence of appendicitis during pregnancy. Int J Epidemiol 30:1281, 2001
+Andolf E, Thorsell M, Käkkén K: Cesarean delivery and risk for postoperative adhesions and intestinal
+obstruction: a nested case-control study of the Swedish Medical Birth Registry. Am J Obstet
+Gynecol 203(4):406, 2010
+Andrews KH, Bracero LA: Cannabinoid hyperemesis syndrome during pregnancy: a case report. J
+Reprod Med 60(9-10):430, 2015
+Aouthmany A, Horattas MC: Ileal pouch perforation in pregnancy: report of a case and review of the
+literature. Dis Colon Rectum 47:243, 2004
+ASGE Standards of Practice Committee, Khashab MA, Chithadi KV, et al: Antibiotic prophylaxis for GI
+endoscopy. Gastrointest Endosc 81(1):8, 2015
+
+ASGE Standards of Practice Committee, Saltzman JR, Cash BD, et al: Bowel preparation before
+colonoscopy. Gastrointest Endosc 81(4):781, 2015
+ASGE Standards of Practice Committee, Shergill AK, Ben-Menachem T, et al: Guidelines for
+endoscopy in pregnant and lactating women. Gastrointest Endosc 76(1):18, 2012
+Bade K, Omundsen M: Caecal volvulus: a rare cause of intestinal obstruction in pregnancy. ANZ J Surg
+84(4):298, 2014
+Baer JL, Reis RA, Arens RA: Appendicitis in pregnancy with changes in position and axis of normal
+appendix in pregnancy. JAMA 98:1359, 1932
+Bandorski D, Kurniawan N, Baltes P, et al: Contraindications for video capsule endoscopy. World J
+Gastroenterol 22(45):9898, 2016
+Bartels SA, D’Hoore A, Cuesta MA, et al: Significantly increased pregnancy rates after laparoscopic
+restorative proctocolectomy: a cross-sectional study. Ann Surg 256(6):1045, 2012
+Beyer-Berjot L, Maggiori L, Birnbaum D, et al: A total laparoscopic approach reduces the infertility rate
+after ileal pouch-anal anastomosis: a 2-center study. Ann Surg 258(2):275, 2013
+Biertho L, Sebajang H, Bamehriz F, et al: Effect of pregnancy on effectiveness of laparoscopic Nissen
+fundoplication. Surg Endosc 20:385, 2006
+Billiauws L, Armengol Debeir L, Poullenot F, et al: Pregnancy is possible on long-term home parenteral
+nutrition in patients with chronic intestinal failure: results of a long term retrospective observational
+study. Clin Nutr 36(4):1165, 2017
+Body C, Christie JA: Gastrointestinal diseases in pregnancy: nausea, vomiting, hyperemesis gravidarum,
+gastroesophageal reflux disease, constipation, and diarrhea. Gastroenterol Clin North Am 45(2):267,
+2016
+Boelig RC, Barton SJ, Saccone G, et al: Interventions for treating hyperemesis gravidarum: a Cochrane
+systematic review and meta-analysis. J Matern Fetal Neonatal Med 31(18):2492, 2018
+Bokslag A, Jebbink J, De Wit L, et al: Intussusception during pregnancy after laparoscopic Roux-en-Y
+gastric bypass. BMJ Case Rep, November 18, 2014
+Bortoli A, Pedersen N, Duricova D, et al: Pregnancy outcome in inflammatory bowel disease:
+prospective European case-control ECCO-Epicom study, 2003–2006. Aliment Pharmacol Ther
+34(7):724, 2011
+Bosman WM, Veger HT, Hedeman Joosten PP, et al: Ileocaecal intussusception due to submucosal
+lipoma in a pregnant woman. BMJ Case Rep 2014:pii:bcr2013203110, 2014
+Boyd HA, Basit S, Harpsoe MC, et al: Inflammatory bowel disease and risk of adverse pregnancy
+outcomes. PLoS One 10(6):e0129567, 2015
+Briggs GG, Freeman RK, Towers CV, et al: Drugs in Pregnancy and Lactation, 11th edition.
+Philadelphia, Wolters Kluwer, 2017
+Brygger L, Fristrup CW, Harbo FS, et al: Acute gastric incarceration from thoracic herniation in
+pregnancy following laparoscopic antireflux surgery. BMJ Case Rep 2013:pii: bcr2012008391, 2013
+Burke KE, Haviland MJ, Hacker MR, et al: Indications for mode of delivery in pregnant women with
+inflammatory bowel disease. Inflamm Bowel Dis 23(5):721, 2017
+Burke LM, Bashir MR, Miller FH, et al: Magnetic resonance imaging of acute appendicitis in
+pregnancy: a 5-year multiinstitutional study. Am J Obstet Gynecol 213:693.e1, 2015
+Butala P, Greenstein AJ, Sur MD, et al: Surgical management of acute right lower-quadrant pain in
+pregnancy: a prospective cohort study. J Am Coll Surg 211(4):491, 2010
+Camilleri M, Murray JA: Diarrhea and constipation. In Jameson JL, Fauci AS, Kasper DL, et al (eds):
+Harrison’s Principles of Internal Medicine, 20th ed. New York, McGraw-Hill Education, 2018, p 261
+
+Cape AV, Mogensen KM, Robinson MK, et al: Peripherally inserted central catheter (PICC)
+complications during pregnancy. JPEN J Parenter Enteral Nutr 38(5):595, 2014
+Cappell MS: Risks versus benefits of gastrointestinal endoscopy during pregnancy. Nat Rev
+Gastroenterol Hepatol 8(11):610, 2011
+Cedergren M, Brynhildsen, Josefsson A, et al: Hyperemesis gravidarum that requires hospitalization and
+the use of antiemetic drugs in relation to maternal body composition. Am J Obstet Gynecol
+198:412.e1, 2008
+Chaparro M, Verreth A, Lobaton T, et al: Long-term safety of in utero exposure to anti-TNFα drugs for
+the treatment of inflammatory bowel disease: results from the multicenter European TEDDY study.
+Am J Gastroenterol 113(3):396, 2018
+Chen X, Yang X, Cheng W: Diaphragmatic tear in pregnancy induced by intractable vomiting: a case
+report and review of the literature. J Matern Fetal Neonatal Med 25(9):1822, 2012
+Chey WD, Leontiadis GI, Howden CW, et al: ACG Clinical Guideline: Treatment of Helicobacter
+pylori Infection. Am J Gastroenterol 112(2):212, 2017
+Christodoulou-Smith J, Gold JI, Romero R, et al: Posttraumatic stress symptoms following pregnancy
+complicated by hyperemesis gravidarum. J Matern Fetal Neonatal Med 24(11):1307, 2011
+Clark DH: Peptic ulcer in women. BMJ 1:1254, 1953
+Cohen S, Harris LD: Does hiatus hernia affect competence of the gastroesophageal sphincter? N Engl J
+Med 284(19):1053, 1971
+Curran D, Lorenz R, Czako P: Gastric outlet obstruction at 30 weeks’ gestation. Obstet Gynecol 93:851,
+1999
+Davis MR, Bohon CJ: Intestinal obstruction in pregnancy. Clin Obstet Gynecol 26:832, 1983
+Dayangan Sayan C: A case of prolonged hyperemesis resulting in hepatorenal failure, foetal distress and
+neonatal mortality. J Obstet Gynaecol 38(4):2018
+Debby A, Golan A, Sadan O, et al: Clinical utility of esophagogastroduodenoscopy in the management of
+recurrent and intractable vomiting in pregnancy. J Reprod Med 53:347, 2008
+De Lima A, Galjart B, Wisse PH, et al: Does lower gastrointestinal endoscopy during pregnancy pose a
+risk for mother and child?—a systematic review. BMC Gastroenterol 15:15, 2015
+de Lima-Karagiannis A, Zelinkova-Detkova Z, van der Woude CJ: The effects of active IBD during
+pregnancy in the era of novel IBD therapies. Am J Gastroenterol 111(9):1305, 2016
+Del Valle J: Peptic ulcer disease and related disorders. In Jameson JL, Fauci AS, Kasper DL, et al
+(eds): Harrison’s Principles of Internal Medicine, 20th ed. New York, McGraw-Hill Education, 2018,
+p 2220
+de Veciana M, Towers CV, Major CA, et al: Pulmonary injury associated with appendicitis in pregnancy:
+who is at risk? Am J Obstet Gynecol 171(4):1008, 1994
+Devroe S, Bleeser T, Van de Velde M, et al: Anesthesia for non-obstetric surgery during pregnancy in a
+tertiary referral center: a 16-year retrospective, matched case-control, cohort study. Int J Obstet
+Anesth 39:74, 2019
+Di Gangi S, Gizzo S, Patrelli TS, et al: Wernicke’s encephalopathy complicating hyperemesis
+gravidarum: from the background to the present. J Matern Fetal Neonatal Med 25(8):1499, 2012
+Dominitz JA, Young JC, Boyko EJ: Outcomes of infants born to mothers with inflammatory bowel
+disease: a population-based cohort study. Am J Gastroenterol 97:641, 2002
+Donkervoort SC, Boerma D: Suspicion of acute appendicitis in the third trimester of pregnancy: pros
+and cons of a laparoscopic procedure. JSLS 15(3):379, 2011
+Dozois EJ, Wolff BG, Tremaine WJ, et al: Maternal and fetal outcome after colectomy for fulminant
+ulcerative colitis during pregnancy: case series and literature review. Dis Colon Rectum 49:64, 2006
+
+Dray X, Hamzi L, Lo Dico R, et al: Endoscopic reduction of a volvulus of the sigmoid colon in a
+pregnancy woman. Dig Liver Dis 44(5):447, 2012
+Duke E, Kalb B, Arif-Tiwari H, et al: A systematic review and meta-analysis of diagnostic performance
+of MRI for evaluation of acute appendicitis. AJR Am J Roentgenol 206(3):508, 2016
+DuPont HL: Acute infectious diarrhea in immunocompetent adults. N Engl J Med 370:1532, 2014
+Duchesnay Inc.: Diclegis prescribing information. 2018. Available at:
+https://files.duchesnay.com/duchesnay-usa/diclegis/diclegis-prescribing-information.pdf. Accessed
+April 10, 2020
+Erkek A, Anik Ilhan G, Yidixhan B, et al: Location of the appendix at the third trimester of pregnancy: a
+new approach to old dilemma. J Obstet Gynaecol 35(7):688, 2015
+Essilfie P, Hussain M, Stokes IM: Small bowel infarction secondary to volvulus during pregnancy: a case
+report. J Reprod Med 52:553, 2007
+Esteve-Solé A, Deyà-Martínez À, Teixidó I, et al: Immunological changes in blood of newborns exposed
+to anti-TNF-α during pregnancy. Front Immunol 8:112, 2017
+Farouk R, Pemberton JH, Wolff BG, et al: Functional outcomes after ileal pouch–anal anastomosis for
+chronic ulcerative colitis. Ann Surg 231:919, 2000
+Fassina G, Osculati A: Achalasia and sudden death: a case report. Forensic Sci Int 75:133, 1995
+Feagins LA, Kane SV: Sexual and reproductive issues for men with inflammatory bowel disease. Am J
+Gastroenterol 104(3):768, 2009
+Fell DB, Dodds L, Joseph KS, et al: Risk factors for hyperemesis gravidarum requiring hospital
+admission during pregnancy. Obstet Gynecol 107:277, 2006
+Fiaschi L, Nelson-Piercy C, Deb S, et al: Clinical management of nausea and vomiting in pregnancy and
+hyperemesis gravidarum across primary and secondary care: a population-based study. BJOG
+126(10):1201, 2019
+Fiaschi L, Nelson-Piercy C, Gibson J, et al: Adverse maternal and birth outcomes in women admitted to
+hospital for hyperemesis gravidarum: a population-based cohort study. Paediatr Perinat Epidemiol
+32(1):40, 2018
+Fiaschi L, Nelson-Piercy C, Tata LJ: Hospital admission for hyperemesis gravidarum: a nationwide
+study of occurrence, reoccurrence and risk factors among 8.2 million pregnancies. Hum Reprod
+31(8):1675, 2016
+Fill Malfertheiner S, Seelback-Göbel B, Costa SD, et al: Impact of gastroesophageal reflux disease
+symptoms on the quality of life in pregnant women: a prospective study. Eur J Gastroenterol Hepatol
+29(8):892, 2017
+Firstenberg MS, Malangoni MA: Gastrointestinal surgery during pregnancy. Gastroenterol Clin North
+Am 27:73, 1998
+Flum DR: Acute appendicitis—appendectomy or the “antibiotics first” strategy. N Engl J Med 372:1937,
+2015
+Fogel EL, Sherman S: ERCP for gallstone pancreatitis. N Engl J Med 370:150, 2014
+Folk JJ, Leslie-Brown HF, Nosovitch JT, et al: Hyperemesis gravidarum: outcomes and complications
+with and without total parenteral nutrition. J Reprod Med 49:497, 2004
+Fonager K, Sorensen HT, Olsen J, et al: Pregnancy outcome for women with Crohn’s disease: a followup study based on linkage between national registries. Am J Gastroenterol 93:2426, 1998
+Fonseca AL, Schuster KM, Kaplan LJ, et al: The use of magnetic resonance imaging in the diagnosis of
+suspected appendicitis in pregnancy: shortened length of stay without increase in hospital charges.
+JAMA Surg 149(7):687, 2014
+
+Fossum S, Halvorsen S, Vikanes ÅV, et al: Cardiovascular risk profile at the age of 40–45 women with
+previous hyperemesis gravidarum or hypertensive disorders in pregnancy: a population-based study.
+Pregnancy Hypertens 12:129, 2018
+Fossum S, Vikanes Å, Naess Ø, et al: Hyperemesis gravidarum and long-term mortality: a populationbased cohort study. BJOG 124(7):1080, 2017
+Foulon A, Dupas JL, Sabbagh C, et al: Defining the most appropriate delivery mode in women with
+inflammatory bowel disease: a systematic review. Inflamm Bowel Dis 23(5):712, 2017
+Friedman S, Blumberg RS: Inflammatory bowel disease. In Jameson JL, Fauci AS, Kasper DL, et al
+(eds): Harrison’s Principles of Internal Medicine, 20th ed. New York, McGraw-Hill Education, 2018,
+p 2258
+Frountzas M, Nikolaou C, Stergios K, et al: Is the laparoscopic approach a safe choice for the
+management of acute appendicitis in pregnant women? A meta-analysis of observational studies.
+Ann R Coll Surg Engl 101(4):235, 2019
+Gentles JQ, Meglei G, Chen L, et al: Is neutrophilia the key to diagnosing appendicitis in pregnancy? Am
+J Surg 219(5):855, 2020
+Gerding DN, Johnson S. Clostridium difficile infection, including pseudomembranous colitis. In
+Jameson JL, Fauci AS, Kasper DL, et al (eds): Harrison’s Principles of Internal Medicine, 20th ed.
+New York, McGraw-Hill Education, 2018, p 964
+Getahun D, Fassett MJ, Longstreth GF, et al: Association between maternal inflammatory bowel disease
+and adverse perinatal outcomes. J Perinatol 34(6):435, 2014
+Giugale LE, Young OM, Streitman DC: Iatrogenic Wernicke encephalopathy in a patient with severe
+hyperemesis gravidarum. Obstet Gynecol 125(5):1150, 2015
+Goel B, Rani J, Huria A, et al: Perforated duodenal ulcer—a rare cause of acute abdomen in pregnancy.
+J Clin Diagn Res 8(9):OD03, 2014
+Goldberg D, Szilagyi A, Graves L: Hyperemesis gravidarum and Helicobacter pylori infection. Obstet
+Gynecol 110:695, 2007
+Gopal KA, Amshel AL, Shonberg IL, et al: Ostomy and pregnancy. Dis Colon Rectum 28:912, 1985
+Grooten IJ, Koot MH, van der Post JA, et al: Early enteral tube feeding in optimizing treatment of
+hyperemesis gravidarum: the Maternal and Offspring outcomes after Treatment of HyperEmesis by
+Refeeding (MOTHER) randomized controlled trial. Am J Clin Nurt 106(3):812, 2017
+Guglielmi FW, Baggio-Bertinet D, Federico A, et al: Total parenteral nutrition-related gastroenterological
+complications. Digest Liver Dis 38:623, 2006
+Gungor S, Gurates B, Aydin S, et al: Ghrelins, obestatin, nesfatin-1 and leptin levels in pregnant women
+with and without hyperemesis gravidarum. Clin Biochem 46(9):828, 2013
+Haggar F, Pereira G, Preen D, et al: Maternal and neonatal outcomes in pregnancies following
+colorectal cancer. Surg Endosc 27(7):2327, 2013
+Hahnloser D, Pemberton JH, Wolff BG, et al: Pregnancy and delivery before and after ileal pouch-anal
+anastomosis for inflammatory bowel disease: immediate and long-term consequences and outcomes.
+Dis Colon Rectum 47:1127, 2004
+Hansen AT, Erichsen R, Horváth-Puhó E, et al: Inflammatory bowel disease and venous
+thromboembolism during pregnancy and the postpartum period. J Thromb Haemost 15(4):702, 2017
+Hastie R, Bergman L, Cluver CA, et al: Proton pump inhibitor and preeclampsia risk among 157,720
+women. Hypertension 73(5):1097, 2019
+Hedström J, Nilsson J, Andersson R, et al: Changing management of gallstone-related disease in
+pregnancy—a retrospective cohort analysis. Scan J Gastroenterol 52(9):1016, 2017
+
+Hée P, Viktrup L: The diagnosis of appendicitis during pregnancy and maternal and fetal outcome after
+appendectomy. Int J Gynaecol Obstet 65:129, 1999
+Hill JB, Yost NP, Wendel GW Jr: Acute renal failure in association with severe hyperemesis
+gravidarum. Obstet Gynecol 100:1119, 2002
+Hoffer LJ, Bistrian BR, Driscoll DF: Enteral and parenteral nutrition. In Jameson JL, Fauci AS, Kasper
+DL, et al (eds): Harrison’s Principles of Internal Medicine, 20th ed. New York, McGraw-Hill
+Education, 2018, p 2324
+Holmgren C, Aagaard-Tillery KM, Silver RM, et al: Hyperemesis in pregnancy: an evaluation of
+treatment strategies with maternal and neonatal outcomes. Am J Obstet Gynecol 198:56.e1, 2008
+Hooft N, Schmidt ES, Bremner RM: Achalasia in pregnancy: botulinum toxin A injection of lower
+esophageal sphincter. Case Rep Surg 2015:328970, 2015
+Hor T, Lefevre JH, Shields C, et al: Female sexual function and fertility after ileal-anal pouch
+anastomosis. Int J Colorectal Dis 31(3):593, 2016
+Hux C: Ostomy and pregnancy. Ostomy Wound Manage 56(1):48, 2010
+Hytten FE: The alimentary system. In Hytten F, Chamberlain G (eds): Clinical Physiology in Obstetrics.
+London, Blackwell, 1991, p 137
+Ibiebele I, Schnitzler M, Nippita T, et al: Appendicectomy during pregnancy and the risk of preterm
+birth: a population data linkage study. Aust N Z J Obstet Gynaecol 59(1):45, 2019
+Jayaram P, Mohan M, Lindow S, et al: Postpartum acute colonic pseudo-obstruction (Ogilvies’
+Syndrome): a systematic review of case reports and case series. Eur J Obstet Gynecol Reprod Biol
+214:145, 2017
+Joo JI, Park HC, Kim MJ, et al: Outcomes of antibiotic therapy of uncomplicated appendicitis in
+pregnancy. Am J Med 130(12):1467, 2017
+Julsgaard M, Christensen LA, Gibson PR, et al: Concentrations of adalimumab and infliximab in mothers
+and newborns, and effects on infection. Gastroenterology 151:110, 2016
+Julsgaard M, Hvas CL, Gearry RB, et al: Fecal calprotectin is not affected by pregnancy: clinical
+implications for the management of pregnant patients with inflammatory bowel disease. Inflamm
+Bowel Dis 23(7):1240, 2017
+Kahrilas PJ, Hirano I: Diseases of the esophagus. In Jameson JL, Fauci AS, Kasper DL, et al (eds):
+Harrison’s Principles of Internal Medicine, 20th ed. New York, McGraw-Hill Education, 2018, p
+2209
+Kammerlander H, Nielsen J, Kjeldsen J, et al: The effect of disease activity on birth outcomes in a
+nationwide cohort of women with moderate to severe inflammatory bowel disease. Inflamm Bowel
+Dis 23(6):1011, 2017
+Kaplan YC, Richardson JL, Keskin-Arslan E, et al: Use of ondansetron during pregnancy and the risk
+of major congenital malformations: a systematic review and meta-analysis. Reprod Toxicol 86:1,
+2019
+Katz DS, Klein MA, Ganson G, et al: Imaging of abdominal pain in pregnancy. Radiol Clin North Am
+50(1):149, 2012
+Kave M, Parooie F, Salarzaei M: Pregnancy and appendicitis: a systematic review and meta-analysis on
+the clinical us of MRI in diagnosis of appendicitis in pregnant women. World J Emerg Surg 14:37,
+2019
+Kawamura Y, Kawamata K, Shinya M, et al: Vitamin K deficiency in hyperemesis gravidarum as a
+potential cause of fetal intracranial hemorrhage and hydrocephalus. Prenat Diagn 28:59, 2008
+Khan MR, Ur Rehman S: Sigmoid volvulus in pregnancy and puerperium: a surgical and obstetric
+catastrophe. Report of a case and review of the world literature. World J Emerg Surg 7(1):10, 2012
+
+Khandelwal A, Fasih N, Kielar A: Imaging of the acute abdomen in pregnancy. Radiol Clin North Am
+51:1005, 2013
+Kho KA: Diagnostic and operative laparoscopy. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al
+(eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw-Hill Education,
+2017
+Khudyak V, Lysy J, Mankuta D: Achalasia in pregnancy. Obstet Gynecol Surv 61:207, 2006
+Killeen S, Gunn J, Hartley J: Surgical management of complicated and medically refractory
+inflammatory bowel disease during pregnancy. Colorectal Dis 19(2):123, 2017
+Kleine I, Da Silva A, Ahmed W, et al: Hospital admission for hyperemesis gravidarum in women at
+increased risk of spontaneous preterm birth. Birth 44(4):384, 2017
+Koot MH, Boelig RC, Van’t Hooft J, et al: Variation in hyperemesis gravidarum definition and outcome
+reporting in randomised clinical trials: a systematic review. BJOG 125(12):1514, 2018
+Koren G: Treating morning sickness in the United States—changes in prescribing are needed. Am J
+Obstet Gynecol 211(6):602, 2014
+Koren G, Ornoy A, Berkovitch M: Hyperemesis gravidarum-is it a cause of abnormal fetal brain
+development? Reprod Toxicol 79:84, 2018
+Kurzel RB, Naunheim KS, Schwartz RA: Repair of symptomatic diaphragmatic hernia during
+pregnancy. Obstet Gynecol 71:869, 1988
+Laine L, Jensen DM: Management of patients with ulcer bleeding Am J Gastroenterol 107(3):345, 2012
+Lane AS, Stallworth JL, Eichelberger KY, et al: Vitamin K deficiency embryopathy from hyperemesis
+gravidarum. Case Rep Obstet Gynecol 2015:324173, 2015
+Lassey SC, Robinson JN: Rhabdomyolysis after hyperemesis gravidarum. Obstet Gynecol 128(1):195,
+2016
+Lavecchia M, Chari R, Campbell S, et al: Ondansetron in pregnancy and the risk of congenital
+malformations: a systematic review. J Obstet Gynaecol Can 40(7):910, 2018
+Lawson M, Kern F, Everson GT: Gastrointestinal transit time in human pregnancy: prolongation in the
+second and third trimesters followed by postpartum normalization. Gastroenterology 89:996, 1985
+Lee S, Crowe M, Seow CH, et al: The impact of surgical therapies for inflammatory bowel disease on
+female fertility. Cochrane Database Syst Rev 7:CD012711, 2019a
+Lee SH, Lee JY, Choi YY, et al: Laparoscopic appendectomy versus open appendectomy for suspected
+appendicitis during pregnancy: a systematic review and updated meta-analysis. BMC Surg 19(1):41,
+2019b
+Lessa FC, Mu Y, Bamberg WM, et al: Burden of Clostridium difficile infection in the United States. N
+Engl J Med 372(9):825, 2015
+Lichtenstein GR, Loftus EV, Isaacs KL, et al ACG Clinical Guideline: management of Crohn’s disease
+in adults. Am J Gastroenterol 113(4):481, 2018
+Lichtenstein GR, Hanauer SB, Sandborn WJ, et al: Management of Crohn’s disease in adults. Am J
+Gastroenterol 104(2):465, 2009
+London V, Grube S, Sherer DM, et al: Hyperemesis gravidarum: a review of recent literature.
+Pharmacology 100(3-4):161, 2017
+Ludvigsson JF, Lebwohl B, Ekbom A, et al: Outcomes of pregnancies for women undergoing endoscopy
+while they were pregnant: a nationwide cohort study. Gastroenterology 152(3):2017
+Luu M, Benzenine E, Doret M, et al: Continuous anti-TNFα use throughout pregnancy: possible
+complications for the mother but not for the fetus—a retrospective cohort on the French national
+health insurance database (EVASION). Am J Gastroenterol 113(11):1669, 2018
+
+Lyell DJ: Adhesions and perioperative complications of repeat cesarean delivery. Am J Obstet Gynecol
+205(6 Suppl):S11, 2011
+Mahadevan U, Matro R: Care of the pregnant patient with inflammatory bowel disease. Obstet Gynecol
+126(2):401, 2015
+Mahadevan U, Robinson C, Bernasko N, et al: Inflammatory bowel disease in pregnancy clinical care
+pathway: a report from the American Gastroenterological Association IBD Parenthood Project
+Working Group. Am J Obstet Gynecol 220(4):308, 2019
+Mazze RI, Källén B: Appendectomy during pregnancy: a Swedish registry study of 778 cases. Obstet
+Gynecol 77:835, 1991
+McCarthy FP, Khashan AS, North RA, et al: A prospective cohort study investigating associations
+between hyperemesis gravidarum and cognitive, behavioural and emotional well-being in pregnancy.
+PLoS One 6(11):e27678, 2011
+McCarthy FP, Murphy A, Khashan AS, et al: Day care compared with inpatient management of nausea
+and vomiting of pregnancy. Obstet Gynecol 124(4):743, 2014
+McDonald LC, Gerdin DN, Johnson S, et al: Clinical practice guidelines for Clostridium difficile
+infection in adults and children: 2017 update by the Infectious Diseases Society of America (IDSA)
+and Society for Healthcare Epidemiology of America (SHEA). Clin Infect Dis 66(7):e1, 2018
+McKenna D, Watson P, Dornan J: Helicobacter pylori infection and dyspepsia in pregnancy. Obstet
+Gynecol 102:845, 2003
+McParlin C, O’Donnell A, Robson SC, et al: Treatments for hyperemesis gravidarum and nausea and
+vomiting in pregnancy: a systematic review. JAMA 316(13):1392, 2016
+Mehta N, Saha S, Chien EK, et al: Disorders of the gastrointestinal tract in pregnancy. In Powrie R,
+Greene M, Camann W (eds): de Swiet’s Medical Disorders in Obstetric Practice, 5th ed. New
+Jersey, Wiley-Blackwell, 2010, p 256
+Ménassa M, Bergeron AM, Drolet S, et al: Strangulated congenital diaphragmatic hernia of Bochdalek
+diagnosed in later pregnancy: a case report and review of the literature. J Obstet Gynaecol Can
+41(10):1482, 2019
+Meyerson S, Holtz T, Ehrinpresis M, et al: Small bowel obstruction in pregnancy. Am J Gastroenterol
+90:299, 1995
+Miller JP: Inflammatory bowel disease in pregnancy: a review. J R Soc Med 79:221, 1986
+Mitchell-Jones N, Gallos I, Farren J, et al: Psychological morbidity associated with hyperemesis
+gravidarum: a systematic review and meta-analysis. BJOG 124(1):20, 2017
+Modigliani RM: Gastrointestinal and pancreatic disease. In Barron WM, Lindheimer MD, Davison JM
+(eds): Medical Disorders of Pregnancy, 3rd ed. St. Louis, Mosby, 2000, p 316
+Moliere S, Cavillon V, Mesli Y: The case for magnetic resonance imaging in bowel obstruction during
+pregnancy: intussusception in a pregnant woman with Roux-en-Y gastric bypass. Am J Obstet
+Gynecol 220(3):282, 2019
+Mourad J, Elliott JP, Erickson L, et al: Appendicitis in pregnancy: new information that contradicts longheld clinical beliefs. Am J Obstet Gynecol 185:1027, 2000
+Mozaffari S, Abdolghaffari AH, Nikfar S, et al: Pregnancy outcomes in women with inflammatory
+bowel disease following exposure to thiopurines and antitumor necrosis factor drugs: a systematic
+review with meta-analysis. Hum Exp Toxicol 35(5):445, 2015
+Mullin PM, Ching C, Schoenberg R, et al: Risk factors, treatments, and outcomes associated with
+prolonged hyperemesis gravidarum. J Matern Fetal Neonatal Med 25(6):632, 2012
+Nijsten K, van der Minnen L, Wiegers HM, et al: Hyperemesis gravidarum and vitamin K deficiency: a
+systematic review. Br J Nutr July 30, 2021 [Epub ahead of print]
+
+Norgård B, Hundborg HH, Jacobsen BA, et al: Disease activity in pregnant women with Crohn’s
+disease and birth outcomes: a regional Danish cohort study. Am J Gastroenterol 102:1947, 2007
+Nurmi M, Rautava P, Gissler M, et al: Recurrence patterns of hyperemesis gravidarum. Am J Obstet
+Gynecol 219(5):469.e1, 2018
+O’Grady NP, Alexander M, Burns L: Guidelines for prevention of intravascular catheter-related
+infections. Clin Infect Dis 52(9):e162, 2011
+Oliveira LG, Capp SM, You WB, et al: Ondansetron compared with doxylamine and pyridoxine for
+treatment of nausea in pregnancy. Obstet Gynecol 124(4):735, 2014
+O’Mahony S: Endoscopy in pregnancy. Best Pract Res Clin Gastroenterol 21:893, 2007
+Oron G, Yogev Y, Shkolnik S, et al: Inflammatory bowel disease: risk factors for adverse pregnancy
+outcome and the impact of maternal weight gain. J Matern Fetal Neonatal Med 25(112):2256, 2012
+Oto A, Ernst R, Ghulmiyyah L, et al: The role of MR cholangiopancreatography in the evaluation of
+pregnant patients with acute pancreaticobiliary disease. Br J Radiol 82(976):279, 2009
+Oudman E, Wijnia JW, Oey M, et al: Wernicke’s encephalopathy in hyperemesis gravidarum: a
+systematic review. Eur J Obstet Gynecol Reprod Biol 236:84, 2019
+Palacios-Marqués A, Delgado-Garcia S, Martín-Bayón T, et al: Wernicke’s encephalopathy induced by
+hyperemesis gravidarum. BMJ Case Rep June 8, 2012
+Pasternak B, Svanström M, Henrik A: Ondansetron in pregnancy and risk of adverse fetal outcomes. N
+Engl J Med 368:814, 2013
+Pates JA, Avendanio TC, Zaretsky MV, et al: The appendix in pregnancy: confirming historical
+observations with a contemporary modality. Obstet Gynecol 114(4):805, 2009
+Pearl J, Price R, Tonkin AE, et al: SAGES guidelines for the use of laparoscopy during pregnancy. Surg
+Endosc 31(10):3767, 2017
+Pedrosa I, Lafornara M, Pandharipande PV, et al: Pregnant patients suspected of having acute
+appendicitis: effect of MR imaging on negative laparotomy rate and appendiceal perforation rate.
+Radiology 250(3):749, 2009
+Peled Y, Melamed N, Hiersch L, et al: The impact of total parenteral nutrition support on pregnancy
+outcome in women with hyperemesis gravidarum. J Matern Fetal Neonatal Med 27(11):1146, 2014
+Perdue PW, Johnson HW Jr, Stafford PW: Intestinal obstruction complicating pregnancy. Am J Surg
+164:384, 1992
+Porter H, Seeho S: Obstructed ileostomy in the third trimester of pregnancy due to compression from
+the gravid uterus: diagnosis and management. BMJ Case Rep August 19, 2014
+Poursharif B, Korst LM, Macgibbon KW, et al: Elective pregnancy termination in a large cohort of
+women with hyperemesis gravidarum. Contraception 76:451, 2007
+Raman SS, Osuagwu FC, Kadell B, et al: Effect of CT on false positive diagnosis of appendicitis and
+perforation. N Engl J Med 358:972, 2008
+Rawlings C: Management of postcaesarian Ogilvie’s syndrome and their subsequent outcomes. Aust N
+Z J Obstet Gynaecol 50(6):573, 2010
+Reddy D, Murphy SJ, Kane SV, et al: Relapses of inflammatory bowel disease during pregnancy: inhospital management and birth outcomes. Am J Gastroenterol 103:1203, 2008
+Reedy MB, Kallen B, Kuehl TJ: Laparoscopy during pregnancy: a study of five fetal outcome
+parameters with use of the Swedish Health Registry. Am J Obstet Gynecol 177:673, 1997
+Reeves M, Frizelle F, Wakeman C, et al: Acute colonic pseudo-obstruction in pregnancy. ANZ J Surg
+85(10):728, 2015
+Riddle MS, DuPont HL, Connor BA: ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of
+Acute Diarrheal Infections in Adults. Am J Gastroenterol 111(5):602, 2016
+
+Rigler LG, Eneboe JB: Incidence of hiatus hernia in pregnant women and its significance. J Thorac Surg
+4:262, 1935
+Riis L, Vind I, Politi P, et al: Does pregnancy change the disease course? A study in a European cohort
+of patients with inflammatory bowel disease. Am J Gastroenterol 101:1539, 2006
+Robinson D, Walker R, Adams SC, et al: American Society for Parenteral and Enteral Nutrition
+(ASPEN) Definition of Terms, Style, and Conventions Used in ASPEN Board of Directors–
+Approved Documents. 2018. Available at:
+http://www.nutritioncare.org/Guidelines_and_Clinical_Resources/Clinical_Practice_Library/Special_
+Reports/. Accessed April 10, 2020
+Rocha-Castro J, Kronbauer K, Dalle J, et al: Characteristics of bacterial acute diarrhea among women.
+Int J Gynaecol Obstet 132(3):302, 2016
+Rosen C, Czuzoj-Shulman N, Mishkin DS, et al: Management and outcomes of peptic ulcer disease in
+pregnancy. J Matern Fetal Neonatal Med 34(9):1368, 2021
+Rubin DT, Ananthakrishnan AN, Siegel CA, et al: ACG Clinical Guideline: ulcerative colitis in adults.
+Am J Gastroenterol. 2019 Mar;114(3):384
+Ruiter-Ligeti J, Vincent S, Czuzoj-Shulman N, et al: Risk factors, incidence, and morbidity associated
+with obstetric clostridium difficile infection. Obstet Gynecol 131(2):387, 2018
+Russo-Stieglitz KE, Levine AB, Wagner BA, et al: Pregnancy outcome in patients requiring parenteral
+nutrition. J Matern Fetal Med 8:164, 1999
+Saeedi BJ, Morison DG, Kraft CS, et al: Fecal microbiota transplant for clostridium difficile infection in
+a pregnant patient. Obstet Gynecol 129(3):507, 2017
+Saha S, Loranger D, Pricolo V, et al: Feeding jejunostomy for the treatment of severe hyperemesis
+gravidarum: a case series. J Parenter Enteral Nutr 33(5):529, 2009
+Sakai M, Yoneda S, Sasaki Y, et al: Maternal total parenteral nutrition and fetal subdural hematoma.
+Obstet Gynecol 101:1142, 2003
+Savas N: Gastrointestinal endoscopy in pregnancy. World J Gastroenterol 20(41):15241, 2014
+Schrag SP, Sharma R, Jaik NP, et al: Complications related to percutaneous endoscopic gastrostomy
+(PEG) tubes: a comprehensive clinical review. J Gastrointest Liver Dis 16:407, 2007
+Schwentner L, Wulff C, Kreienberg R, et al: Exacerbation of a maternal hiatus hernia in early
+pregnancy presenting with symptoms of hyperemesis gravidarum: case report and review of the
+literature. Arch Gynecol Obstet 283(3):409, 2011
+Sekar H, Rajesh Thamaran N, Stoker D, et al: Should the laparoscopic approach be the norm for
+appendicectomy in the third trimester of pregnancy? BMJ Case Rep 12:e228192, 2019
+Senturk MB, Yildiz G, Yildiz P, et al: The relationship between hyperemesis gravidarum and maternal
+psychiatric well-being during and after pregnancy: controlled study. J Matern Fetal neonatal Med
+30(11):1314, 2017
+Serra AE, Fong A, Chung H: A gut-wrenching feeling: pregnancy complicated by massive ventral
+hernia with bowel obstruction. Am J Obstet Gynecol 211(1):79, 2014
+Shand AW, Chen JS, Selby W, et al: Inflammatory bowel disease in pregnancy: a population-based study
+of prevalence and pregnancy outcomes. BJOG 123(11):1862, 2016
+Sharifah H, Naidu A, Vimal K: Diaphragmatic hernia: an unusual cause of postpartum collapse. BJOG
+110:701, 2003
+Shui LH, Rafi J, Corder A, et al: Mid-gut volvulus and mesenteric vessel thrombosis in pregnancy: case
+report and literature review. Arch Gynecol Obstet 283 (Suppl 1):39, 2011
+Song LMK, Topazian M: Gastrointestinal endoscopy. In Jameson JL, Fauci AS, Kasper DL, et al (eds):
+Harrison’s Principles of Internal Medicine, 20th ed. New York, McGraw-Hill Education, 2018
+
+Soper NJ: SAGES’ guidelines for diagnosis, treatment, and use of laparoscopy for surgical problems
+during pregnancy. Surg Endosc 25:3477, 2011
+Spiliopoulos D, Spiliopoulos M, Awala A: Esophageal achalasia: an uncommon complication during
+pregnancy treated conservatively. Case Rep Obstet Gynecol 2013(639698):1, 2013
+Sridharan K, Sivaramakrishnan G: Interventions for treating hyperemesis gravidarum: a network metaanalysis of randomized clinical trials. J Matern Fetal Neonatal Med 33(8):1405, 2020
+Stephens A, Patel K, Rao A, et al: Recurrent Wernicke’s encephalopathy in pregnancy: a case report.
+Nutr Neurosci 22(7):528, 2019
+Stern MD, Kopylov U Ben-Horin S, et al: Magnetic resonance enterography in pregnant women with
+Crohn’s disease: case series and literature review. BMC Gastroenterol 14:146, 2014
+Stokke G, Gjelsvik BL, Flaatten KT, et al: Hyperemesis gravidarum, nutritional treatment by nasogastric
+tube feeding: a 10-year retrospective cohort study. Acta Obstet Gynecol Scand 94(4):359, 2015
+Sun S, Qiu X, Zhou J: Clinical analysis of 65 cases of hyperemesis gravidarum with gestational transient
+thyrotoxicosis. J Obstet Gynaecol Res 40 (6):1567, 2014
+Swallow BL, Lindow SW, Masson EA, et al: Psychological health in early pregnancy: relationship with
+nausea and vomiting. J Obstet Gynaecol 24:28, 2004
+Swartzlander TK, Carlan SJ, Locksmith G, et al: Sonographic confirmation of the correct placement of a
+nasoenteral tube in a woman with hyperemesis gravidarum: case report. J Clin Ultrasound 41(Suppl
+1):18, 2013
+Takahashi K, Funayama Y, Fukushima K, et al: Pregnancy and delivery in patients with enterostomy due
+to anorectal complications from Crohn’s disease. Int J Colorectal Dis 22:313, 2007
+Talan DA, Saltzman DJ, DeUgarte DA, et al: Methods of conservative antibiotic treatment of acute
+uncomplicated appendicitis: a systematic review. J Trauma Acute Care Surg 86(4):722, 2019
+Tan PC, Norazilah MJ, Omar SZ: Dextrose saline compared with normal saline rehydration of
+hyperemesis gravidarum: a randomized controlled trial. Obstet Gynecol 121(2 Pt1):291, 2013
+Theilen LH, Mellnick VM, Longman RE, et al: Utility of magnetic resonance imaging for suspected
+appendicitis in pregnant women. Am J Obstet Gynecol 12(3):345, 2015
+Theilen LH, Mellnick VN, Shanks AL, et al: Acute appendicitis in pregnancy: predictive clinical factors
+and pregnancy outcomes. Am J Perinatol 34(6):523, 2017
+Ueberrueck T, Koch A, Meyer L, et al: Ninety-four appendectomies for suspected acute appendicitis
+during pregnancy. World J Surg 28:508, 2004
+Unal A, Sayherman SE, Ozel L, et al: Acute abdomen in pregnancy requiring surgical management: a
+20-case series. Eur J Obstet Gynecol Reprod Biol 159(1):87, 2011
+Vaknin Z, Halperin R, Schneider D, et al: Hyperemesis gravidarum and nonspecific abnormal EEG
+findings. J Reprod Med 51:623, 2006
+Vandraas KF, Vikanes AV, Vangen S, et al: Hyperemesis gravidarum and birth outcomes-a populationbased cohort study of 2.2 million births in the Norwegian Birth Registry. BJOG 120(13):1654, 2013
+Verberg MF, Gillott JD, Fardan NA, et al: Hyperemesis gravidarum, a literature review. Hum Reprod
+Update 11:527, 2005
+Vikanes AV, Stoer NC, Magnus P, et al: Hyperemesis gravidarum and pregnancy outcomes in the
+Norwegian mother and child cohort—a cohort study. BMC Pregnancy Childbirth 13:169, 2013
+Vogel T, Wrobel RM, Graupner O, et al: Esophageal achalasia and pregnancy: own observations in 43
+patients and a review of the literature. Arch Gynecol Obstet 298(3):511, 2018
+Walch A, Duke M, Autry T, et al: Profound hypokalaemia resulting in maternal cardiac arrest: a
+catastrophic complication of hyperemesis gravidarum? Case Rep Obstet Gynecol 2018:4687587,
+2018
+
+Walker HG, Al Samaraee A, Mills SJ, et al: Laparoscopic appendicectomy in pregnancy: a systematic
+review of the published evidence. Int J Surg 12(11):1235, 2014
+Wax JR, Pinette MG, Cartin A: Roux-en-Y gastric bypass-associated bowel obstruction complicating
+pregnancy—an obstetrician’s map to the clinical minefield. Am J Obstet Gynecol 208(4):265, 2013
+Wei PL, Keller JJ, Liang HH, et al: Acute appendicitis and adverse pregnancy outcomes: a nationwide
+population-based study. J Gastrointest Surg 16(6):1204, 2012
+Weyermann M, Brenner H, Adler G, et al: Helicobacter pylori infection and the occurrence and
+severity of gastrointestinal symptoms during pregnancy. Am J Obstet Gynecol 189:526, 2003
+Whang B: Thoracic surgery in the pregnant patient. Thorac Surg Clin 28(1):1, 2018
+White S, Byrne J, McIntire DD, et al: Hyperemesis gravidarum: can factors predict risk of readmission?
+Abstract No. 21L. Presented at 2018 American College of Obstetricians and Gynecologists Annual
+Clinical and Scientific Meeting. April 27–30, 2018
+Wilasrusmee C Sukrat B, McEvoy M, et al: Systematic review and meta-analysis of safety laparoscopic
+versus open appendectomy for suspected appendicitis in pregnancy. Br J Surg 99(11):1470, 2012
+Won RP, Friedlander S, Lee SL: Management and outcomes of appendectomy during pregnancy. Am
+Surg 83(10):1103, 2017
+Wong CS, Jelacic S, Habeeb RL, et al: The risk of the hemolytic-uremic syndrome after antibiotic
+treatment of Escherichia coli O157:H7 infections. N Engl J Med 342(26):1930, 2000
+Woolfson K, Cohen Z, McLeod RS: Crohn’s disease and pregnancy. Dis Colon Rectum 33:869, 1990
+Worthington P, Balint J, Bechtold M, et al: When is parenteral nutrition appropriate? JPEN J Parenter
+Enteral Nutr 41(3):324, 2017
+Ye GY, Li N, Chen YB, et al: Clostridium difficile carriage in healthy pregnant women in China.
+Anaerobe 37:54, 2016
+Ye P, Zhao N, Shu J, et al: Laparoscopy versus open surgery for adnexal masses in pregnancy: a metaanalytic review. Arch Gynecol Obstet 299(3):625, 2019
+Yost NP, McIntire DD, Wians FH Jr, et al: A randomized, placebo-controlled trial of corticosteroids for
+hyperemesis due to pregnancy. Obstet Gynecol 102:1250, 2003
+Zara G, Codemo V, Palmieri A, et al: Neurological complications in hyperemesis gravidarum. Neurol Sci
+33(1):133, 2012
+

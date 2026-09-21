@@ -1,0 +1,1896 @@
+CHAPTER 30
+
+Cesarean Delivery and Peripartum
+Hysterectomy
+
+DEFINITIONS
+CESAREAN DELIVERY RISKS
+PATIENT PREPARATION
+CESAREAN DELIVERY TECHNIQUE
+LAPAROTOMY
+HYSTEROTOMY
+PERIPARTUM HYSTERECTOMY
+POSTOPERATIVE CARE
+REFERENCES
+In the United States, the cesarean delivery rate rose most dramatically from
+4.5 percent in 1970 to 32.9 percent in 2009. The rate has since plateaued and
+was 31.9 percent in 2018 (Martin, 2019). Some indications for performing
+cesarean delivery are shown in Table 30-1. More than 85 percent of these
+operations are performed for four reasons—prior cesarean delivery, labor
+dystocia or arrest, fetal jeopardy, or abnormal fetal presentation. The latter
+three compose the main indications for primary cesarean delivery (Barber,
+2011; Boyle, 2013). Efforts to lower these rates are outlined in Safe
+
+Prevention of the Primary Cesarean Delivery by the American College of
+Obstetricians and Gynecologists (2019b).
+TABLE 30-1. Some Indications for Cesarean Delivery
+
+Reasons for persistently elevated cesarean rates are not completely
+understood, but some explanations include the following:
+1. Women are having fewer children, thus, a greater percentage of births are
+among nulliparas, who are at increased risk for cesarean delivery.
+2. Average maternal age is rising, and older women, especially older
+nulliparas, have a higher cesarean delivery risk.
+3. Electronic fetal monitoring use is widespread and associated with a higher
+cesarean delivery rate compared with intermittent fetal heart rate
+auscultation.
+4. Most breech fetuses are now delivered by cesarean.
+5. The frequency of operative vaginal delivery has declined.
+6. Obesity, which is a cesarean delivery risk, has reached epidemic
+proportions.
+7. Rates of cesarean delivery in women with preeclampsia have risen,
+whereas labor induction rates for these patients have declined.
+8. The vaginal birth after cesarean (VBAC) rate has decreased from a high of
+28 percent in 1996 to 13.3 percent in 2018 (Martin, 2019).
+9. Assisted reproductive technology is more widely used and is linked with
+greater cesarean delivery rates (Luke, 2019).
+
+DEFINITIONS
+Cesarean delivery defines the birth of a fetus by laparotomy and then
+hysterotomy. This definition is not applied to removal of the fetus from the
+abdominal cavity in the case of uterine rupture or of abdominal pregnancy.
+Rarely, hysterotomy is performed in a woman who has just died or in whom
+
+death is expected soon—postmortem or perimortem cesarean delivery
+(Chap. 50, p. 897).
+In some cases, abdominal hysterectomy is indicated after delivery. When
+performed at the time of cesarean delivery, the operation is cesarean
+hysterectomy. If done shortly after vaginal delivery, it is postpartum
+hysterectomy. Peripartum hysterectomy is a broader term that combines
+these two. In most cases, total hysterectomy is performed and removes the
+uterine body and cervix. Supracervical hysterectomy is selected less often
+and removes only the uterine body. With either, adnexa are not usually
+excised. In most instances, a simple hysterectomy, which is also a type I
+hysterectomy, is performed. However, for women with invasive cervical
+cancer, radical hysterectomy removes the uterus, parametrium, and proximal
+vagina to achieve tumor excision with negative margins. For cases of
+placenta percreta that extend toward the pelvic sidewall, similar radical
+excision of the parametrium may be needed.
+
+CESAREAN DELIVERY RISKS
+To provide accurate informed consent, knowledge of maternal and neonatal
+risks and benefits with surgery is essential. In broad terms, cesarean delivery
+generally has higher maternal surgical risks for the current and subsequent
+pregnancies compared with spontaneous vaginal birth. This is balanced
+against lower rates of perineal injury and short-term pelvic floor disorders.
+For the neonate, cesarean delivery generally offers lower rates of birth
+trauma and stillbirth but greater rates of initial respiratory difficulties.
+
+■ Maternal Mortality and Morbidity
+For the mother, death attributable solely to cesarean delivery is rare in the
+United States. A review of nearly 1.5 million pregnancies found maternal
+mortality rates of 2.2 per 100,000 cesarean deliveries compared with 0.2 per
+100,000 vaginal births (Clark, 2008). In a metaanalysis of 203 studies, Guise
+and coworkers (2010) reported a maternal mortality rate of 13 per 100,000
+with elective repeat cesarean compared with 4 per 100,000 with trial of
+labor.
+
+Some element of this risk may stem from the underlying indication for the
+cesarean delivery. For example, long first-stage labor increases not only
+cesarean risk but also rates of maternal fever and postpartum hemorrhage
+(Blankenship, 2020). Additionally, in a study of more than 100,000
+deliveries in China, where cesarean birth without a medical indication is
+common, the maternal mortality rate was not higher in those with
+nonindicated cesarean delivery than in women with spontaneous vaginal
+birth (Hou, 2017).
+Similar to mortality rates, the overall frequencies of some maternal
+morbidities are increased with cesarean delivery. Villar and associates
+(2007) reported that maternal morbidity rates were twofold higher with
+cesarean delivery than with vaginal birth. Principal among these are
+infection, hemorrhage, and venous thromboembolism (VTE). In addition,
+anesthetic complications, which also rarely include death, have a greater
+incidence with cesarean delivery compared with vaginal birth (Cheesman,
+2009; Hawkins, 2011). Adjacent organs infrequently may be injured, which
+is described in detail later (p. 563).
+Women who undergo a cesarean delivery are much more likely to be
+delivered by a repeat operation in subsequent pregnancies. For women
+undergoing subsequent cesarean, the maternal risks just described are even
+greater (Cahill, 2006; Marshall, 2011; Silver, 2006). Specifically outlined in
+Chapter 31 (p. 580), abnormal placentation, wound and uterine infections,
+adjacent organ injury, cesarean hysterectomy, and blood transfusion are
+among the morbidity that accrues with multiple subsequent cesarean
+operations.
+As an advantage, cesarean delivery is associated with lower rates of
+urinary incontinence and pelvic organ prolapse than is vaginal birth
+(Gyhagen, 2013a,b; Handa, 2011). Rates of anal incontinence appear
+uninfluenced by a vaginal or cesarean route (Blomquist, 2018; Nelson,
+2019). In subgroup evaluation, operative vaginal delivery does carry an
+overall greater anal incontinence risk, which likely stems from higher
+sphincter injury rates with these procedures (Chap. 29, p. 535).
+Pelvic floor advantages persist to some degree over time, but cesarean
+delivery is not totally protective. Moreover, longitudinal studies suggest that
+initial pelvic floor advantages gained from cesarean delivery are lost as
+women age (Dolan, 2010; MacArthur, 2011, 2013). During their State-of-theScience Conference, the National Institutes of Health panel (2006)
+
+summarized that stress urinary incontinence rates after elective cesarean
+delivery are lower than those following vaginal delivery. However, the
+duration of this protection is unclear, particularly in older and multiparous
+populations. Defining women who would be at highest long-term risk for
+pregnancy-related pelvic floor disorders might allow accurate delivery
+counseling (Jelovsek, 2018).
+
+■ Neonatal Morbidity
+Cesarean delivery is associated with a lower rate of fetal trauma (Linder,
+2013; Moczygemba, 2010). Alexander and colleagues (2006) found that fetal
+injury complicated 1 percent of cesarean deliveries. Skin laceration was
+most common, but others included cephalohematoma, clavicular fracture,
+brachial plexopathy, skull fracture, and facial nerve palsy. Cesarean
+deliveries following a failed operative vaginal delivery attempt had the
+highest injury rate. The lowest rate—0.5 percent—occurred in the elective
+cesarean delivery group. That said, Worley and associates (2009) found that
+approximately a third of women who were delivered at Parkland Hospital
+entered spontaneous labor at term, and 96 percent of these delivered
+vaginally without adverse neonatal outcomes.
+
+■ Cesarean Delivery on Maternal Request
+Some women request elective cesarean delivery. Data regarding the true
+incidence of cesarean delivery on maternal request (CDMR) are poor. An
+older estimate in the United States was 5 percent (Declercq, 2005).
+Reasons for the request include protection of pelvic floor support,
+convenience, fear of childbirth, and reduced risk of fetal injury. One
+retrospective study of more than 66,000 Chinese parturients compared
+outcomes of those who elected planned vaginal birth or requested primary
+cesarean delivery (Liu, 2015). Short-term serious maternal morbidity and
+neonatal mortality rates were similar. For the newborns, rates of birth
+trauma, infection, and hypoxic ischemic encephalopathy were low in both
+groups but statistically lower with cesarean delivery. Respiratory distress
+syndrome rates were greater in the CDMR cohort. A smaller study
+comparing these two routes of delivery support these findings (Larsson,
+2011).
+
+The debate surrounding CDMR includes two medical points: the concept
+of informed free choice by the woman, and the autonomy of the physician in
+offering CDMR. To address this, the National Institutes of Health (2006)
+held a State-of-the-Science Conference on Cesarean Delivery on Maternal
+Request. Notably, most of the maternal and neonatal outcomes examined had
+insufficient data to permit recommendations. Indeed, one of the main
+conclusions of the conference was that more high-quality research is needed
+to fully evaluate the issue. Guidelines from the American College of
+Obstetricians and Gynecologists (2020a) note that CDMR should not be
+performed before 39 weeks’ gestation. It is ideally avoided in women
+desiring several children because of the earlier-described morbidity from
+accruing cesarean operations.
+
+PATIENT PREPARATION
+■ Delivery Availability
+No nationally recognized standard of care currently dictates the acceptable
+time interval to begin cesarean delivery. Previously, a 30-minute decision-toincision interval was recommended. However, Bloom and colleagues (2006)
+evaluated nearly 3000 cesarean deliveries performed for emergency
+indications. They reported that failure to achieve a cesarean delivery
+decision-to-incision time <30 minutes was not associated with a negative
+neonatal outcome. A subsequent systematic review echoed this finding
+(Tolcher, 2014). Despite this, when faced with an acute, catastrophic
+deterioration in fetal condition, cesarean delivery usually is indicated as
+rapidly as possible, and thus purposeful delays are inappropriate. The
+American Academy of Pediatrics and the American College of Obstetricians
+and Gynecologists (2017) recommend that facilities giving obstetrical care
+should have the ability to initiate cesarean delivery in a time frame that best
+incorporates maternal and fetal risks and benefits.
+
+■ Informed Consent
+Informed consent is a process and not merely a medical document. The
+consenting conversation should enhance a woman’s awareness of her
+diagnosis and contain a discussion of medical and surgical care alternatives,
+
+procedure goals and limitations, and operative risks. For women with a prior
+cesarean delivery, the option of a trial of labor should be included for
+suitable candidates. For those desiring permanent sterilization or intrauterine
+device (IUD) insertion, consenting for these can be completed concurrently
+(Chaps. 38 and 39, pp. 665 and 684).
+An informed patient may decline a particular recommended intervention,
+and a woman’s decision-making autonomy must be respected. In the medical
+record, providers should document the reasons for refusal and should note
+that the intervention’s value and the health consequences of not proceeding
+with it have been explained.
+For Jehovah’s Witnesses, informed consent discussions regarding blood
+products ideally begin early in pregnancy. Acceptable blood products vary
+widely among individual women, and a preoperative checklist of approved
+products allows superior preparation (Hubbard, 2015). In general, red cells,
+white cells, platelets, and plasma are considered primary blood components
+and are declined. However, certain clotting factors or cell fractions may be
+acceptable (Lawson, 2015). Before and after surgery, iron, folate, and, if
+necessary, erythropoietin are accepted agents to help maximize hemoglobin
+levels. Perioperatively, phlebotomy is limited, and pediatric collection tubes
+are preferable. Intraoperative options include prompt treatment of atony to
+limit blood loss and use of topical hemostatic agents, tranexamic acid, and
+desmopressin to promote clot formation. Red blood cell salvage can provide
+autologous donation. Normovolemic hemodilution and controlled
+hypotensive or hypothermic anesthesia can limit red cell losses. To minimize
+uncontrolled vessel bleeding, uterine artery embolization, occlusive vascular
+balloons, and other options are described in Chapter 44 (p. 779) (Scharman,
+2017).
+
+■ Timing of Scheduled Cesarean Delivery
+With elective delivery before 39 completed weeks, adverse neonatal
+sequelae from neonatal immaturity are appreciable (Tita, 2009). To avoid
+these, assurance of fetal maturity before scheduled elective surgery is
+essential. Supporting criteria include corroborative ultrasound measurements
+obtained prior to 20 weeks’ gestation, fetal heart tones heard for the past 30
+weeks, and passage of 36 weeks since an initial positive pregnancy test
+result (American Academy of Pediatrics, 2017).
+
+■ Preoperative Care
+Current perioperative care is guided by evidence-based enhanced recovery
+after surgery (ERAS) recommendations. Among these, solid food intake is
+stopped at least 6 hours before the procedure. Uncomplicated patients may
+consume moderate amounts of clear liquids up to 2 hours before surgery
+(American Society of Anesthesiologists, 2016). Bowel preparation is not
+recommended (Wilson, 2018).
+The woman scheduled for cesarean delivery typically is admitted the day
+of surgery and evaluated by the obstetrical and anesthesia teams. Recently
+performed hematocrit and indirect Coombs test are reviewed. If the latter is
+positive, compatible blood availability must be ensured.
+Regional analgesia is preferred for cesarean delivery. To minimize the
+lung injury risk from rare aspiration, gastric acid is ideally buffered. An oral
+antacid is consumed shortly before regional analgesia or induction of general
+anesthesia. One example is Bicitra, 30 mL orally in a single dose. This can
+be coupled with an intravenous (IV) dose of an H2-receptor antagonist,
+which also raises gastric pH (Wilson, 2018).
+Once the woman is supine, a wedge beneath the right hip and lower back
+creates a left lateral tilt to aid venous return and avoid hypotension. Data are
+insufficient to determine the value of fetal monitoring before scheduled
+cesarean delivery in women without risk factors. Our practice is to obtain a
+5-minute tracing prior to elective cases. At minimum, fetal heart sounds
+should be documented in the operating room prior to surgery.
+Of further preparations, hair removal at the surgical site does not lower
+surgical site infection (SSI) rates (Kowalski, 2016). However, if hair is
+obscuring, it is removed the day of surgery by clipping, which is associated
+with fewer SSIs than shaving (Tanner, 2011). Chemical depilation the night
+before surgery compared with clipping has similar SSI rates (Lefebvre,
+2015). An electrosurgical grounding pad is placed near the surgical incision
+and typically on the lateral thigh. At Parkland Hospital, we typically insert an
+indwelling bladder catheter to collapse the bladder away from the
+hysterotomy incision, to avert urinary retention secondary to regional
+analgesia, and to allow accurate postoperative urine measurement. Small
+studies show that catheterization may be withheld in hemodynamically stable
+women. Catheter-related discomfort can be avoided, but urinary tract
+infection rates are not lower (Abdel-Aleem, 2014).
+
+The risk of VTE is increased with pregnancy. In the United States in
+2014, women with cesarean delivery had a VTE rate of 8 per 10,000, which
+almost doubled the rate for those with vaginal birth (Abe, 2019).
+Accordingly, for all women not already receiving thromboprophylaxis, the
+American College of Obstetricians and Gynecologists (2020c) recommends
+initiation of pneumatic compression stockings before cesarean delivery.
+These are usually discontinued once the woman ambulates. Consensus varies
+among organizations, and the American College of Chest Physicians suggests
+only early ambulation for women without risk factors who are undergoing
+cesarean delivery (Bates, 2012). For women already receiving prophylaxis
+or those with increased risk factors, they support escalation of prophylaxis.
+Last, the Royal College of Obstetricians and Gynaecologists (2015) is the
+most conservative and suggest pharmacological prophylaxis for the largest
+proportion of patients. These various methods and recommendations are
+discussed in Chapter 55 (p. 989).
+Some women scheduled for cesarean delivery have a comorbidity that
+requires specific management in anticipation of surgery. Among others, these
+include insulin-requiring diabetes, coagulopathy or thrombophilia, chronic
+corticosteroid use, and significant reactive airway disease. Surgical
+preparations are discussed in the respective chapters covering these topics.
+
+■ Infection Prevention
+Antibiotic Prophylaxis
+Cesarean delivery is considered a clean contaminated case, and
+postoperative febrile morbidity is common. Numerous trials show that a
+single dose of an antibiotic given at the time of cesarean delivery
+significantly decreases infectious morbidity (Smaill, 2014). Although more
+obvious for women in active labor who then require cesarean delivery, this
+practice also pertains to gravidas undergoing elective surgery. Depending on
+drug allergies, most recommend a single IV dose of a β-lactam antibiotic—
+either a cephalosporin or extended-spectrum penicillin. A 1-g dose of
+cefazolin (Ancef) is an efficacious and cost-effective choice. Additional
+doses are considered in cases with blood loss >1500 mL or with duration
+longer than 3 hours. Recommendations for a 2- or 3-g cefazolin dose in
+obese parturients are conflicting (Ahmadzia, 2015; Maggio, 2015; Swank,
+
+2015; Young, 2015). The Centers for Disease Control and Prevention
+recommends a 2-g dose for weights ≥80 kg and 3 g for those ≥120 kg
+(Berríos-Torres, 2017). The American College of Obstetricians and
+Gynecologists (2020d) recognizes either dose as suitable for women ≥80 kg.
+One pharmacokinetic analysis in obese women showed sufficient tissue
+levels with a 2-g dose for cesarean deliveries lasting 1.5 hours. Authors
+recommended consideration for redosing in obese women if surgeries were
+longer (Grupper, 2017).
+Evidence also supports extending the antibiotic spectrum (Markwei,
+2021; Tita, 2008). One large randomized trial added azithromycin, 500 mg
+IV, to standard prophylaxis prior to cesarean delivery for women in labor or
+with ruptured membranes (Tita, 2016). Rates of SSIs and endometritis were
+significantly lower in the extended-spectrum group compared with those in
+the standard prophylaxis cohort.
+In pregnant women with a history of infection with methicillin-resistant
+Staphylococcus aureus (MRSA), a single, 15-mg/kg dose of vancomycin can
+be added to the standard prophylaxis. Decolonization plays a limited role but
+may be considered prior to a planned cesarean delivery in women with
+known MRSA colonization (American College of Obstetricians and
+Gynecologists, 2020d).
+Significant β-lactam allergy manifests as anaphylaxis, angioedema,
+respiratory distress, or urticaria. This merits prophylaxis with a single, 900mg IV dose of clindamycin combined with a weight-based, 5-mg/kg dose of
+an aminoglycoside as an alternative. The 900-mg clindamycin dose is also
+used for obese patients. Some studies link higher SSI rates to regimens that
+lack a β-lactam (Wilhelm, 2020). Antepartum penicillin-allergy evaluation
+by a specialist may redefine the significance of the patient’s prior reaction.
+Advantageously, this clarification may remove an allergy label and expanded
+options (Wolfson, 2021).
+Antibiotic administration before surgical incision lowers postoperative
+infection rates without adverse neonatal effects compared with drug
+administration after umbilical cord clamping (Mackeen, 2014b; Sullivan,
+2007). Prophylaxis is ideally administered within the 60 minutes prior to the
+start of planned cesarean delivery. For emergent delivery, antibiotics are
+given as soon as feasible.
+Preoperative preparation of the abdominal wall skin immediately prior to
+surgery can help prevent SSIs. Chlorhexidine-alcohol or povidone-iodine
+
+solutions are suitable, but data favor chlorhexidine (Hadiati, 2020; Tolcher,
+2019). However, adding a wiping of the skin with chlorhexidine the night
+before surgery was no better than placebo (Stone, 2020). Once abdominal
+preparation is completed and dry, surgical drapes cover the patient. One type
+has a cut-out window in the lower abdomen that is surrounded by an
+adhesive border. Others are adhesive incisional drapes, in which the skin
+and plastic drape must be incised together. The latter may slightly raise SSI
+rates (Eckler, 2019; Hadiati, 2020).
+Although not our practice, preoperative vaginal cleansing with a 1percent povidone-iodine scrub lowered endometritis and SSI rates in some
+studies (Haas, 2020; Roeckner, 2019). With povidone allergy, 4-percent
+chlorhexidine gluconate solution is an alternative. Last, some early evidence
+may support extending oral antibiotic prophylaxis for 48 hours postcesarean
+in obese women to lower SSIs (Valent, 2017).
+Antibiotic prophylaxis against infective endocarditis is not recommended
+for most cardiac conditions. Exceptions are women with repaired or
+unrepaired cyanotic heart disease, prosthetic valves, or both. Prior infective
+endocarditis or cardiac transplantation with resulting valve regurgitation are
+others (American College of Obstetricians and Gynecologists, 2020d). Drug
+infusion is 30 to 60 minutes prior to expected delivery (Table 52-9, p. 935).
+Cesarean infection prophylaxis regimens also serve as appropriate
+endocarditis coverage.
+
+Other Preventions
+Glycemic control in diabetics lowers wound infection rates and is
+emphasized in Chapter 60 (p. 1068). Smoking is another modifiable risk
+(Avila, 2012). Intraoperative normothermia lowers wound infection rates in
+general surgery cases (Balki, 2020; Berríos-Torres, 2017). This tenet is
+logically extrapolated to cesarean delivery (Caughey, 2018).
+In children delivered by cesarean, some evidence shows higher asthma
+and allergy rates (Kristensen, 2016). Gut microbiome differences between
+vaginal and cesarean birth groups are a suggested cause (Shao, 2019). With
+the hope to improve neonatal microbiota, swabbing the newborn mouth with
+a gauze that was incubated in the maternal vagina 1 hour before surgery has
+been described in preliminary studies. However, the American College of
+
+Obstetricians and Gynecologists (2019c) does not encourage this practice
+due to few data and the potential for transmission of harmful organisms.
+
+■ Surgical Safety
+The Joint Commission (2020) describes a protocol to prevent surgical
+errors. For cesarean delivery, all relevant documents are verified
+immediately before surgery, and a “time out” is completed. The “time out”
+requires attention of the entire team to confirm that the patient, site, and
+procedure are correct. Important discussions also include introduction of the
+patient-care team members, verification of prophylactic antibiotics,
+estimation of procedure length, and communication of anticipated
+complications. Additionally, requests for special instrumentation should be
+addressed preoperatively to prevent potential patient compromise and
+intraoperative delays.
+Surgical fires are a specific safety focus. As prevention, surgeons ideally
+assess the fire risk at the procedure’s start, allow adequate drying of alcoholbased skin antiseptics, and keep ignition sources off the patient or drapes
+when not in use (Food and Drug Administration, 2018; Wolf, 2013).
+An instrument, sponge, and needle count before and after surgery is
+essential. Moreover, active communication during surgery should clearly
+convey items added to the operative field. At surgery completion, if counts
+are not reconciled, portable radiographic imaging for retained objects is
+done.
+
+CESAREAN DELIVERY TECHNIQUE
+■ Laparotomy
+As with all surgery, a clear understanding of relevant anatomy is essential
+(Chap. 2, p. 12). For entry into the abdomen, a suprapubic transverse
+incision or a midline vertical one is chosen for cesarean delivery. Suitable
+transverse incisions are Pfannenstiel or Maylard incisions, and the
+Pfannenstiel type is selected most frequently.
+Transverse incisions follow Langer lines of skin tension, and thus exert
+less stress on the closed wound. Compared with vertical ones, Pfannenstiel
+incisions offer superior cosmesis and lower incisional hernia rates. The
+
+Pfannenstiel incision, however, is often discouraged for cases in which a
+large operating space is essential or in which access to the upper abdomen
+may be needed. With transverse incisions, because of the layers created
+during incision of the internal and external oblique aponeuroses, purulent
+fluid can collect between these. Therefore, some favor a midline vertical
+incision for cases with high infection risks. Emergent entry is typically faster
+with vertical incision during primary and repeat cesarean delivery (Wylie,
+2010). Last, neurovascular structures, which include the ilioinguinal and
+iliohypogastric nerves and superficial and inferior epigastric vessels, are
+often encountered with transverse incisions. Logically, bleeding, wound
+hematoma, and neurological disruption may more frequently complicate these
+incisions compared with vertical ones. The best incision for the morbidly
+obese parturient is unclear (Smid, 2016). Our preference for women with
+morbid obesity is a periumbilical midline vertical incision (Chap. 51, p.
+909).
+The Maylard incision differs mainly from the Pfannenstiel in that the
+rectus abdominis muscle bellies and their investing rectus sheath are
+transected horizontally to widen the operating space. It is technically more
+difficult due to required muscle cutting and ligation of the inferior epigastric
+arteries, which lie laterally to these muscle bellies.
+Once access is gained, metal handheld retractors provide exposure for
+hysterotomy. One metaanalysis with nearly 1700 women showed no lowering
+of postcesarean SSI rates with a disposable plastic barrier retractor (AlexisO) (Waring, 2018).
+
+Transverse Incisions
+With the Pfannenstiel incision, the skin and subcutaneous tissue are incised
+using a low, transverse, slightly curvilinear incision. This is made at the
+pubic hairline, which is typically 3 cm above the superior border of the
+symphysis pubis. The incision is extended laterally to accommodate delivery
+—12 to 15 cm is typical.
+Sharp dissection is continued through the subcutaneous layer to the
+fascia. The superficial epigastric vessels can usually be identified halfway
+between the skin and fascia, several centimeters from the midline, and these
+are coagulated.
+
+The fascia is then incised sharply at the midline. The anterior abdominal
+fascia is typically composed of two visible layers, the aponeurosis from the
+external oblique muscle and a fused layer containing aponeuroses of the
+internal oblique and transverse abdominis muscles. Ideally, the two layers
+are individually incised during lateral extension of the fascial incision. The
+inferior epigastric vessels usually lie outside the lateral border of the rectus
+abdominis muscle and beneath the fused aponeuroses of the internal oblique
+and transverse abdominis muscles. Thus, although infrequently required,
+further lateral extension of the fascial incision may encounter these vessels.
+In this case, vessels ideally are identified and coagulated or ligated to
+prevent bleeding and vessel retraction.
+Once the fascia is incised, the inferior fascial edge is grasped with
+Kocher clamps and elevated by an assistant as the operator separates the
+fascial sheath from the underlying rectus abdominis muscle either bluntly or
+sharply until the superior border of the symphysis pubis is reached. Next, the
+superior fascial edge is grasped and again, separation of fascia from the
+rectus muscle is completed. Blood vessels coursing between the sheath and
+muscles are clamped, cut, and ligated, or they are coagulated with an
+electrosurgery blade. Meticulous hemostasis is imperative to lower rates of
+incisional hematoma and infection. The fascial separation progresses
+cephalad and laterally to create a semicircular area above the transverse
+incision with a radius of approximately 8 cm. This will vary depending on
+fetal size. The rectus abdominis and pyramidalis muscles are separated in the
+midline to expose the transversalis fascia and peritoneum.
+The transversalis fascia and preperitoneal fat are bluntly dissected away
+to reach the underlying peritoneum. The peritoneum near the upper end of the
+incision is opened carefully, either bluntly or by elevating it with two
+hemostats placed approximately 2 cm apart. This upper site lowers
+cystotomy risks. The tented fold of peritoneum between the clamps is
+examined and palpated to ensure that omentum, bowel, or bladder is not
+adjacent. The peritoneum is then incised. As the incision is extended
+cephalad above the arcuate line, the transverse fibers of the posterior rectus
+sheath are seen and are cut along with the peritoneum. The peritoneal
+incision is then extended downward to just above the peritoneal reflection
+over the bladder. Importantly, in women with prior intraabdominal surgery,
+including cesarean delivery, omentum or bowel may be adhered to the
+
+undersurface of the peritoneum. In women with obstructed labor, the bladder
+may be pushed remarkably cephalad.
+
+Midline Vertical Incision
+This incision begins 2 to 3 cm above the superior margin of the symphysis. It
+should be sufficiently long to allow fetal delivery, and 12 to 15 cm is typical.
+Sharp or electrosurgical blade dissection through the subcutaneous layers
+ultimately exposes the anterior rectus sheath. A small opening is made
+sharply with scalpel in the upper half of the linea alba. Placement here helps
+avoid potential cystotomy. Index and middle fingers are placed beneath the
+fascia, and the fascial incision is extended first superiorly and then inferiorly
+with scissors. Midline separation of the rectus muscles and pyramidalis
+muscles and peritoneal entry are similar to those just described for the
+Pfannenstiel incision.
+
+■ Hysterotomy
+Most often, the lower uterine segment is incised transversely as described by
+Kerr in 1921. Occasionally, vertical incision confined solely to the lower
+uterine segment may be elected (Krönig, 1912). In contrast, a classical
+incision begins as a low vertical incision, which is then extended cephalad
+into the active portion of the uterine corpus. Last, a fundal or even posterior
+uterine incision may be selected for cases with placenta accreta syndrome.
+
+Low Transverse Cesarean Incision
+For most cesarean deliveries, this incision is preferred. Compared with a
+classical incision, it repairs easily, causes less incision-site bleeding, and
+promotes less bowel or omentum adherence to the myometrial incision.
+Located in the inactive segment, it is also less likely to rupture during a
+subsequent pregnancy.
+Before hysterotomy, the surgeon palpates the fundus to identify degrees of
+uterine rotation. The uterus may be rotated so that one round ligament is more
+anterior and closer to the midline (Chap. 3, p. 46). In such cases, the uterus
+can be manually reoriented and held to permit centering of the incision. This
+avoids incision extension into and laceration of the adjacent uterine artery. A
+
+moist sponge may be used to pack protruding bowel away from the operative
+field.
+The reflection of peritoneum at the upper margin of the bladder and
+overlying the lower uterine segment is grasped in the midline with forceps
+and incised transversely with scissors (Fig. 30-1). Following this initial
+incision, scissors are inserted between peritoneum and lower-uterinesegment myometrium. Open scissors are pushed laterally from the midline on
+each side. This transverse peritoneal incision extends almost the full length
+of the lower uterine segment. As the lateral margin on each side is
+approached, the scissors are directed slightly cephalad (Fig. 30-2). The
+lower edge of peritoneum is elevated, and the bladder is gently separated
+from the underlying lower uterine segment with blunt or sharp dissection
+within this vesicouterine space (Fig. 30-3). This bladder flap creation
+effectively moves the bladder away from the planned hysterotomy site. It also
+helps prevent bladder laceration if an unintended inferior hysterotomy
+extension occurs during fetal delivery. If dense adhesions complicate
+vesicouterine space dissection, sharp dissection is preferred. If unclear, the
+bladder and its upper border can be identified by distending or “back filling”
+it with fluid instilled through a Foley catheter (Saaqib, 2020).
+
+FIGURE 30-1 The loose peritoneum above the bladder reflection is grasped with forceps and incised
+with Metzenbaum scissors.
+
+FIGURE 30-2 This peritoneal edge is elevated and incised laterally.
+
+FIGURE 30-3 Cross section shows blunt dissection of the bladder off the uterus to expose the lower
+uterine segment.
+
+In general, this caudad separation of bladder does not exceed 5 cm and
+usually is less. However, in instances in which cesarean hysterectomy is
+planned or anticipated, extended caudad bladder dissection is recommended
+to aid total hysterectomy and decrease the risk of cystotomy.
+Some surgeons do not create a bladder flap. The main advantage is a
+shorter skin incision-to-delivery time. However, data supporting this practice
+are currently limited (O’Neill, 2014; Tuuli, 2012).
+Uterine Incision. The uterus is entered through the lower uterine segment.
+Digital palpation to find the physiological border between firmer upper
+
+segment myometrium and the more flexible lower segment can guide
+placement. This is often at the level of the bladder flap incision.
+For women with advanced or complete cervical dilation, the hysterotomy
+is placed relatively higher. Failure to adjust increases the risk of lateral
+extension of the incision into the uterine arteries. It may also lead to incision
+of the cervix or vagina rather than the lower uterine segment. Such incisions
+into the cervix distort postoperative cervical anatomy.
+The uterus can be incised by various techniques. Each is initiated by
+using a scalpel to transversely incise the exposed lower uterine segment for 1
+to 2 cm in the midline (Fig. 30-4). Repetitive shallow strokes help avoid
+fetal laceration. As the myometrium thins, a fingertip can then bluntly enter
+the uterine cavity. Once the uterus is entered, the hysterotomy is lengthened
+by simply spreading the incision, using lateral and slightly upward pressure
+applied with each index finger (Fig. 30-5). Instead, some evidence supports
+widening the lower-uterine-segment incision by pulling with fingers in a
+cephalocaudad direction to help lower hysterotomy extension rates (Morales,
+2019; Xodo, 2016).
+
+FIGURE 30-4 The myometrium is incised with shallow strokes to avoid cutting the fetal head.
+
+FIGURE 30-5 After entering the uterine cavity, the incision is extended laterally with fingers or with
+bandage scissors (inset).
+
+The goal is to create an incision sufficiently wide to deliver the
+presenting fetal part yet avoid overextending the incision. Extensions usually
+tear downward into the lower uterine segment or laterally into the uterine
+vessels. Extensive inferior tears may include the cervix or vagina. Risk
+factors for extensions include occiput posterior fetal head position, primary
+cesarean delivery, and advanced first-stage or second-stage labor (de la
+Torre, 2006; Karavani, 2020). Specific maneuvers to ameliorate this last
+high-risk setting are discussed in the next section.
+Alternatively, if the lower uterine segment is thick and unyielding, cutting
+laterally and then slightly upward with bandage scissors will lengthen the
+incision. Importantly, when scissors are used, the index and middle fingers of
+the nondominant hand are insinuated beneath the myometrium and above fetal
+parts to help avert fetal laceration. Comparing blunt and sharp expansion of
+
+the initial uterine incision, blunt stretch is associated with fewer unintended
+incision extensions, shorter operative time, and less blood loss. However,
+the rates of infection and need for transfusion do not differ (Asıcıoğlu, 2014;
+Saad, 2014).
+During hysterotomy creation, if the placenta lies in the incision line, it
+must be either detached or incised. Placental function is thereby
+compromised, and thus delivery is expedited.
+At times, a low transverse hysterotomy is selected but provides
+inadequate room for delivery. In such instances, one corner of the
+hysterotomy incision is extended cephalad into the contractile portion of the
+myometrium—a J incision. If this is completed bilaterally, a U incision is
+formed. Last, some prefer to extend in the midline—a T incision. As
+expected, these have been linked with higher intraoperative blood loss
+(Boyle, 1996; Patterson, 2002).
+J-, U-, and T-incisions extend into the contractile portion, and a
+subsequent trial of labor after cesarean (TOLAC) is more likely to be
+complicated by uterine rupture. Similarly, from limited data, inferior
+hysterotomy extensions also are associated with higher rupture rates, and in
+our practice these preclude TOLAC (Goldfarb, 2011). The Royal College of
+Obstetricians and Gynaecologists (2015) notes insufficient evidence to
+support the general safety of TOLAC in women with a prior significant
+uterine extension and cautions for decisions to be individualized. Last, a
+prior classical incision, described later, or a fundal incision substantially
+raises the rupture risk during subsequent TOLAC. Thus, following a primary
+cesarean delivery complicated by these exceptional incision types, a
+conversation disclosing these events and their significance should ensue with
+the patient and are carefully described in the operative report.
+Delivery of the Fetus. With a cephalic presentation, a hand is slipped into the
+uterine cavity between the symphysis and fetal head. The head is elevated
+gently with the fingers and palm through the incision. Once the head enters
+the incision, delivery may be aided by modest fundal pressure (Fig. 30-6).
+
+FIGURE 30-6 Delivery of the fetal head. (Figures 30-6 to 30-8: Reproduced with permission from
+Johnson DD: Cesarean delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham
+and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+
+After a long labor with cephalopelvic disproportion, the fetal head may
+be tightly wedged in the birth canal. This situation raises the risk of
+hysterotomy extension, of associated blood loss, and of fetal skull fracture.
+First, a “push” method may be used. With this, upward pressure exerted by a
+hand in the vagina by an assistant will help to dislodge the head and push it
+cephalad. If this is anticipated, a patient in frog-leg position may allow
+easier vaginal access.
+Second, as an alternative, a “pull” method grasps the fetal legs and brings
+them through the hysterotomy. The fetus is then delivered as one would
+complete a breech extraction. Support for this latter approach comes from
+small randomized trials and retrospective cohort studies (Berhan, 2014;
+Jeve, 2016). The main advantage appears to be lower uterine extension rates.
+
+Another pull method attempts to free the head by placing a palm on each
+fetal shoulder and gently elevating them. Last, a least-common method uses a
+“fetal pillow.” This is a distensible intravaginal balloon that is positioned
+below the head and then inflated to elevate the fetal head. Evidence for its
+superiority to the push method is limited and conflicting (Sacre, 2021; Seal,
+2016).
+Conversely, in women without labor, the fetal head may be unmolded and
+lack a leading cephalic point. The round head may be difficult to lift through
+the uterine incision in a relatively thick lower segment that is unattenuated by
+labor. In such instances, either forceps or a vacuum device may be used to
+deliver the fetal head. For this, the fetal head is manually grasped and turned
+to an occiput transverse position. In this example, the head is left OT (LOT)
+position. Two or more fingers of the right hand are introduced inside the
+hysterotomy and behind the fetal head (Fig. 30-7). Fingers of the left hand
+grasp the handle of the forceps. The blade’s toe is gently introduced between
+the hand and fetal head. It is curved inward between the fetal head and the
+palmar surface of the fingers. For the upper blade, two or more fingers of the
+left hand are inserted into the right posterolateral aspect of the hysterotomy.
+The forceps handle is grasped by the right hand. The blade toe is then gently
+introduced along the posterior left lower uterine segment wall. It is curved
+inward between the fetal face and the palmar surface of the fingers (Fig. 308A). The fingers of the left hand are moved beneath the lower edge of this
+blade. Upward pressure against this edge will sweep or wander the blade
+into position. As the blade reaches its final position, the shank and handle
+come to rest in the midline, and the two handles are articulated (Fig. 30-8B).
+Traction is up and out to guide the occiput through the hysterotomy.
+Concurrent, gentle fundal pressure can be applied by an assistant.
+
+FIGURE 30-7 To place the first forceps blade, the operator’s palm is slipped beneath the head. It is
+guided along the palm to ultimately lie across the fetal malar and lower parietal bone as in vaginal
+forceps application.
+
+FIGURE 30-8 A. To apply the second blade, the operator’s hand is inserted into the posterolateral
+aspect of the hysterotomy. The forceps blade is slipped inward across the palm. This hand then guides
+the blade to overlie the upper malar and parietal bones. B. Once positioned, the handles are interlocked.
+Slight upward and outward traction is used to lift the head through the incision.
+
+After head delivery, a finger is passed across the fetal neck to determine
+whether it is encircled by one or more umbilical cord loops. If present, these
+are slipped over the head. The head is rotated to an occiput transverse
+position, which aligns the fetal bisacromial diameter vertically. The sides of
+the head are grasped with two hands, and gentle axial traction is applied until
+the anterior shoulder enters the hysterotomy incision. Next, by upward axial
+traction, the posterior shoulder is delivered. During delivery, abrupt or
+powerful lateral force is avoided to avert brachial plexus injury. With steady
+outward traction, the rest of the body then readily follows. Gentle fundal
+pressure may aid this.
+With some exceptions, current American Heart Association recommends
+against routine neonatal suctioning immediately after birth, even with
+meconium present (Wyckoff, 2015). A fuller discussion of this and delayed
+
+umbilical cord clamping is found in Chapter 27 (p. 500). Specific to
+cesarean delivery, delayed clamping does not lower maternal hemoglobin
+levels on the first postoperative day (Jenusaitis, 2020; Purisch, 2019). After
+the umbilical cord is clamped, the newborn is given to the team member who
+will conduct care.
+Comparing elective cesarean under neuraxial anesthesia and spontaneous
+vaginal deliveries, studies show that the need for neonatal resuscitation is not
+practically different between the two (Gordon, 2005). The American
+Academy of Pediatrics and the American College of Obstetricians and
+Gynecologists (2017) recommend that “a qualified person who is skilled in
+neonatal resuscitation should be in the delivery room.” At Parkland Hospital,
+pediatric nurse practitioners attend uncomplicated, scheduled cesarean
+deliveries. Notably, as anticipated neonatal risks rise, so too should the
+resuscitative skills of the attendants (Wyckoff, 2015).
+To promote breastfeeding, the American College of Obstetricians and
+Gynecologists (2020b) recommends skin-to-skin contact between newborn
+and mother in the delivery room. Although most randomized trials focus on
+vaginal birth, several small studies support such contact following cesarean
+delivery, and this is our practice (Frederick, 2020; Moore, 2016).
+Breastfeeding can be initiated the day of surgery.
+Delivery of the Placenta. The uterine incision is observed for any vigorously
+bleeding sites. These should be quickly clamped with Pennington or ring
+forceps. Although some surgeons may prefer manual removal of the placenta,
+spontaneous delivery prompted by some gentle steady cord traction may
+reduce the risk of operative blood loss and infection (Anorlu, 2008; Baksu,
+2005). Traction is coupled with fundal massage to hasten placental
+separation and delivery (Fig. 30-9).
+
+FIGURE 30-9 Placenta bulging through the uterine incision as the uterus contracts. A hand gently
+massages the fundus to help aid spontaneous placental separation.
+
+Immediately after delivery and quick gross inspection of the placenta for
+missing portions, the uterine cavity is suctioned and wiped out with a gauze
+sponge to remove avulsed membranes, vernix, and clots. In the past, doublegloved fingers or ring forceps placed through the hysterotomy incision were
+used to dilate a closed cervix. This does not reduce infection or postpartum
+hemorrhage rates and is not our practice (Kirscht, 2017; Liabsuetrakul,
+2018).
+To help prevent uterine atony after birth, an IV infusion containing two
+ampules or 20 units of oxytocin per liter of crystalloid is infused at 10
+mL/min. Some prefer higher infusion rates, however, nondilute boluses are
+avoided because of associated hypotension (Roach, 2013). Once the uterus
+contracts satisfactorily, the rate can be reduced. Although not available in the
+United States, an alternative is carbetocin, which is a longer-acting oxytocin
+
+derivative. It provides suitable, albeit more expensive, hemorrhage
+prophylaxis (Kalafat, 2021). Other choices for hemorrhage prophylaxis
+include misoprostol (Cytotec) and the ergots, namely methylergonovine
+(Methergine) and ergonovine (Ergotrate). A combination agent of oxytocin
+plus ergonovine (Syntometrine) is used outside the United States. Of agents,
+the World Health Organization (2018) recommends oxytocin for first-line
+use. Last, tranexamic acid (TXA) can be added to a standard oxytocin
+infusion to help prevent blood loss. Despite early encouraging evidence,
+methodology flaws have been cited (Franchini, 2018; Ker, 2016). With TXA
+in one large trial, rates of estimated blood loss >1000 mL or red-cell
+transfusion were lower than with placebo. But, TXA did not lower rates of
+common blood loss–related secondary clinical outcomes (Sentilhes, 2021).
+In contrast to prevention, treatment of atony is found in Chapter 42 (p. 734).
+Uterine Repair. After placental delivery, the uterus is lifted through the
+incision and onto the draped abdominal wall. We favor exteriorizing and
+believe a relaxed, atonic uterus can be recognized quickly and massage
+applied. Incision and bleeding points are more easily visualized and
+repaired, especially if extensions were torn or the patient is obese. Adnexal
+exposure is superior, and thus, tubal sterilization is easier. In contrast, some
+clinicians prefer to close the hysterotomy with the uterus in situ. Comparing
+these two approaches, the Coronis Collaborative Group (2013) trial
+randomly assigned nearly 5000 parturients and found no differences in the
+endometritis or transfusion rate. In one large metaanalysis, nausea and
+vomiting and associated pain rates were comparable with either method
+(Zaphiratos, 2015).
+Before hysterotomy closure, IUD insertion, if planned, is completed
+(Chap. 38, p. 668). Our practice is to perform a primary needle and sponge
+count prior to uterine incision closure completion. For closure, one end of
+the uterine incision is grasped to stabilize and maneuver the incision. The
+uterine incision is then closed with one or two layers of continuous 0- or no.
+1 absorbable suture (Fig. 30-10). Chromic catgut suture is used by many, but
+some prefer synthetic delayed-absorbable polyglactin 910 (Vicryl). In
+subsequent pregnancy, neither suture type is superior in mitigating against
+greater rates of adverse pregnancy outcomes such as uterine incision rupture
+(CORONIS Collaborative Group, 2016).
+
+FIGURE 30-10 The cut edges of the uterine incision are approximated with a running, locking suture.
+
+Single-layer closure is typically faster and is not associated with higher
+rates of infection or transfusion (CAESAR Study Collaborative Group, 2010;
+Dodd, 2014; Roberge, 2014). Moreover, most studies observed that the
+number of layers does not significantly affect complication rates in the next
+pregnancy (Chapman, 1997; CORONIS Collaborative Group, 2016;
+Durnwald, 2003). One randomized trial with nearly 1600 parturients found a
+slightly greater formation rate of cesarean scar niches at 3 months after
+double-layer closure (Stegwee, 2021).
+At Parkland Hospital, we use a one-layer uterine closure with chromic
+catgut. The initial suture is placed just beyond one end of the uterine incision.
+
+A continuous, locking suture line for hemostasis is performed, and each
+suture penetrates the full myometrial thickness. The suture line then extends
+to a point just beyond the incision’s opposite end. If bleeding sites or defects
+persist after a single layer, more sutures are required. Another layer of
+running suture or individually targeted figure-eight or mattress stitches are
+options.
+Although not our routine practice, the peritoneum in the anterior cul-desac can be approximated with a continuous 2-0 chromic catgut suture line.
+Multiple randomized trials suggest that omission of this step causes no
+postoperative complications (Grundsell, 1998; Irion, 1996; Nagele, 1996). If
+tubal sterilization is planned, it is completed as described in Chapter 39 (p.
+683).
+
+Adhesions
+Following cesarean delivery, adhesions commonly form within the
+vesicouterine space or between the anterior abdominal wall and uterus. With
+each successive pregnancy, the percentage of affected women and adhesion
+severity rise (Morales, 2007; Tulandi, 2009). Adhesions can significantly
+lengthen incision-to-delivery time and total operative time (Rossouw, 2013;
+Sikirica, 2012). Rates of cystotomy and bowel injury also are raised because
+of adhesive disease (Rahman, 2009; Silver, 2006).
+Intuitively, scarring can be reduced by handling tissues delicately,
+achieving hemostasis, and minimizing tissue ischemia, infection, and foreignbody reaction. Most recent data on short- and long-term outcomes show no
+benefit to peritoneal closure (CAESAR Study Collaborative Group, 2010;
+CORONIS Collaborative Group, 2013, 2016; Kapustian, 2012). Similarly,
+most studies show no benefit from placement of an adhesion barrier at the
+hysterotomy site (Edwards, 2014; Kiefer, 2016).
+
+Abdominal Closure
+Any laparotomy sponges are removed, and the paracolic gutters and cul-desac are gently suctioned of blood and amnionic fluid. Some surgeons irrigate
+the gutters and cul-de-sac, especially in the presence of infection or
+meconium. Routine irrigation in low-risk women, however, leads to greater
+intraoperative nausea but not to lower postoperative infection rates (Eke,
+2016; Viney, 2012).
+
+Prior to abdominal closure, correct sponge and instrument counts are
+verified. The rectus abdominis muscle bellies are allowed to fall into place.
+The overlying rectus fascia is closed by a continuous, nonlocking technique
+with a delayed-absorbable suture. In patients with a higher risk for infection,
+monofilament suture may be preferable to braided material.
+The subcutaneous tissue usually need not be closed if it is <2 cm thick.
+With thicker layers, however, closure is recommended to minimize seroma
+and hematoma formation, which can lead to wound infection, disruption, or
+both (Bohman, 1992; Chelmow, 2004). Adding a subcutaneous drain does not
+prevent significant wound complications (Hellums, 2007; Ramsey, 2005).
+Skin is closed with a running subcuticular stitch of 4-0 delayedabsorbable suture, with adhesive glue, or with staples. In comparison, final
+cosmetic results and infection rates appear similar, skin suturing takes longer,
+but wound separation rates are higher with metal staples (Basha, 2010;
+Figueroa, 2013; Mackeen, 2014a, 2015). Poliglecaprone 25 (Monocryl) or
+polyglactin 910 (Vicryl) are both suitable (Tuuli, 2016). Outcomes with 2octyl cyanoacrylate adhesive (Dermabond) were equivalent to sutures for
+Pfannenstiel incisions (Daykan, 2017; Siddiqui, 2013). A sterile thin
+abdominal wound dressing is sufficient. In obese women, most evidence
+favors against a negative-pressure wound vacuum atop the closed skin
+incision compared with a standard wound dressing to lower wound infection
+rates (Gillespie, 2021; Hussamy, 2019; Tuuli, 2020).
+
+Joel-Cohen and Misgav Ladach Techniques
+The Pfannenstiel-Kerr technique just described has been used for decades.
+Others include the more recent Joel-Cohen and Misgav Ladach techniques
+(Holmgren, 1999). These differ from traditional Pfannenstiel-Kerr entry
+mainly by their initial incision placement and greater use of blunt dissection.
+The Joel-Cohen technique creates a straight 10-cm transverse skin
+incision 3 cm below the level of the anterior superior iliac spines (Olofsson,
+2015). The subcutaneous tissue layer is opened sharply 2 to 3 cm in the
+midline. This is carried down, without lateral extension, to the fascia. A
+small transverse incision is made in the fascia, and curved Mayo scissors are
+pushed laterally on each side and beneath intact subcutaneous fat to incise the
+fascia. With this incision completed, an index finger from each hand is
+inserted between the rectus abdominis muscle bellies and beneath the fascia.
+
+One finger is moved cranially and the other caudally, in opposition, to
+separate the bellies and further open the fascial incision. Then, a finger from
+each hand hooks under each belly to stretch the muscles laterally. The
+peritoneum is entered sharply, and this incision is sharply extended
+cephalocaudad. Entry with the Misgav Ladach technique differs in that the
+peritoneum is entered bluntly (Holmgren, 1999).
+Modifications to the Joel-Cohen method abound. For emergency delivery,
+we begin along a line somewhat lower on the abdomen and similar to that for
+Pfannenstiel incision. For speed, we extend the initial fascial incision bluntly
+by hooking index fingers in the fascial incision’s lateral corners and pulling
+laterally (Hofmeyr, 2009; Oloffson, 2015). Index fingers insinuated between
+the rectus bellies then move cephalocaudad in opposition to separate the
+muscle bellies. Blunt index-finger dissection enters the peritoneum, and
+again, cranial and caudad opposing stretch lengthens the peritoneal incision.
+Last, all the layers of the abdominal wall are grasped together and pulled
+laterally in opposition to further open the operating space.
+These techniques have been associated with shorter operative times and
+with lower rates of intraoperative blood loss and postoperative pain
+(Mathai, 2013). They may, however, prove difficult for women with
+preexisting anterior rectus fibrosis and peritoneal adhesions (Bolze, 2013).
+
+Classical Cesarean Incision
+Indications. This incision is usually avoided because it encompasses the
+active upper uterine segment and thus is prone to rupture with subsequent
+pregnancies. Some indications stem from difficulty in exposing or safely
+entering the lower uterine segment. For example, a densely adhered bladder
+from previous surgery is encountered; a leiomyoma occupies the lower
+uterine segment; or the cervix is currently invaded by cancer. Women with
+prior radical trachelectomy for cervix cancer are usually delivered by
+classical incision. Massive maternal obesity can preclude safe access to the
+lower uterine segment. A classical incision is also preferred for placenta
+previa with anterior implantation, especially those complicated by placenta
+accreta syndrome. In extreme cases of this, the typical classical hysterotomy
+may be placed even higher in the uterine body or posteriorly to avoid the
+placenta. Fetuses with cephalic presentation are then delivered in a manner
+similar to total breech extraction.
+
+In other instances, fetal indications dictate the need. Transverse lie of a
+large fetus, especially if the membranes are ruptured and the shoulder is
+impacted in the birth canal, usually requires a classical incision. Second,
+with a fetus presenting as a back-down transverse lie, the back precludes
+easy grasping of a leg through a transverse uterine incision for breech
+delivery. Here, a classical incision provides superior room. Third, in
+instances when the fetus is very small and breech, a classical incision may be
+preferable (Osmundson, 2013). In such cases, the poorly developed lower
+uterine segment provides inadequate space for the manipulations required for
+breech delivery. Or, less commonly, the small fetal head may become
+entrapped by a contracting uterine fundus following membrane rupture. With
+multiple fetuses, a classical incision again may provide needed room for
+extraction of fetuses that may be malpositioned or preterm (Osmundson,
+2015). A large fetal malformation or conjoined twins may require the added
+space afforded by a classical incision.
+Uterine Incision and Repair. A vertical uterine incision is initiated with a
+scalpel beginning as low as possible and preferably within the lower uterine
+segment (Fig. 30-11). If adhesions, insufficient exposure, a tumor, or placenta
+percreta preclude development of a bladder flap, then the incision is made
+above the level of the bladder. Described earlier (p. 553), back filling the
+bladder may aid this.
+
+FIGURE 30-11 An initial small vertical hysterotomy incision is made in the lower uterine segment.
+Fingers are insinuated between the myometrium and fetus to avoid fetal laceration. Scissors extend the
+incision cephalad as needed for delivery. (Figures 30-11 and 30-12: Reproduced with permission from
+Johnson DD: Cesarean delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham
+and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+
+Once the uterus is entered with a scalpel, the incision is extended
+cephalad with bandage scissors until it is long enough to permit fetal
+delivery. With scissor use, the fetus can be better protected from laceration.
+Fingers of the surgeon’s nondominant hand are insinuated between the
+myometrium and fetus to prevent scissor cuts. As the incision is opened,
+numerous large vessels that bleed profusely are commonly encountered
+within the myometrium. The remainder of fetal and placental delivery
+mirrors that with a low transverse hysterotomy.
+
+For incision closure, one method employs a layer of 0- or no. 1 chromic
+catgut with a running stitch to approximate the deeper length of the incision
+(Fig. 30-12). The outer layer of myometrium is then closed along its length
+with similar suture and with a running suture line. To achieve good
+approximation and to prevent the suture from tearing through the myometrium,
+it is helpful to have an assistant relieve tension by compressing the uterus on
+each side of the wound toward the midline as each stitch is placed.
+
+FIGURE 30-12 Classical incision closure. The deeper half (A) and superficial half (B) of the incision
+are closed in a running fashion. The serosa is then closed (C).
+
+PERIPARTUM HYSTERECTOMY
+■ Indications
+Hysterectomy is most commonly performed to arrest or prevent hemorrhage
+from intractable uterine atony, surgical trauma/tears, or abnormal
+placentation (Bateman, 2012; Kallianidis, 2020). It is more often completed
+during or after cesarean delivery but may be needed following vaginal birth.
+Among all deliveries, the peripartum hysterectomy rate in the United States
+approximates 1 per 1000 births and has risen significantly during the past
+
+few decades (Bateman, 2012; Govindappagari, 2016). During a 25-year
+period, the rate of peripartum hysterectomy at Parkland Hospital was 1.7 per
+1000 births (Hernandez, 2012). Most of this rise is attributed to the
+increasing rates of cesarean delivery and its associated complications in
+subsequent pregnancy (Flood, 2009; Orbach, 2011). Of hysterectomies,
+approximately one half to two thirds are total, whereas the remaining cases
+are supracervical (Rossi, 2010; Shellhaas, 2009).
+Major complications of peripartum hysterectomy include greater blood
+loss and risk of urinary tract damage. Blood loss is usually appreciable
+because hysterectomy is being performed for hemorrhage that frequently is
+torrential, and the procedure itself is associated with substantial bleeding.
+Although many cases with hemorrhage cannot be anticipated, those with
+abnormal implantation are often identified antepartum. Preparations for
+placenta accreta syndrome are discussed in Chapter 43 (p. 763) and are
+outlined by the American College of Obstetricians and Gynecologists (2018).
+An important factor affecting the cesarean hysterectomy complication rate
+is whether the operation is performed electively or emergently. With
+anticipated or planned cesarean hysterectomy, rates of blood loss, blood
+transfusion, and urinary tract complications are lower those with emergent
+procedures (Briery, 2007; Glaze, 2008).
+
+■ Hysterectomy Technique
+Total or supracervical hysterectomy is performed using standard operative
+techniques. Adequate exposure is essential, but initially, placement of a selfretaining retractor such as a Balfour is not necessary. Rather, satisfactory
+exposure is obtained with cephalad traction on the uterus by an assistant,
+along with handheld Richardson or Deaver retractors. The bladder flap is
+deflected caudad to the level of the cervix if possible to permit total
+hysterectomy. In cases in which cesarean hysterectomy is planned or strongly
+suspected, extended bladder flap dissection is ideally completed before
+initial hysterotomy. Later attempts at bladder dissection may be obscured by
+bleeding, or excess blood may be lost during this dissection.
+After cesarean delivery, the placenta is typically removed. In cases of
+placenta accreta syndrome for which hysterectomy is already planned, the
+placenta is usually left undisturbed in situ. If the hysterotomy incision is
+bleeding appreciably, it can be quickly reapproximated with full-thickness
+
+sutures, or Pennington or sponge forceps can be applied for hemostasis. If
+bleeding is minimal, neither maneuver is necessary.
+The round ligament is divided close to the uterus between clamps, and
+each pedicle is ligated (Fig. 30-13). Either 0 or no. 1 suture can be used in
+either chromic gut or delayed-absorbable material. Division of the round
+provides access to the anterior leaf of the broad ligament, which is incised
+downward to meet the former bladder flap incision. The posterior leaf of the
+broad ligament adjacent to the uterus is bluntly or sharply perforated at a
+point beneath the fallopian tube, uteroovarian ligament, and ovarian vessels
+(Fig. 30-14). These structures together are then divided between sturdy
+clamps placed close to the uterus (Fig. 30-15). The lateral pedicle is doubly
+ligated. The medial clamp remains and is removed later with the entire
+uterine specimen. The posterior leaf of the broad ligament is then incised
+caudad toward the uterosacral ligaments (Fig. 30-16). The bladder and
+attached peritoneal flap are further deflected and dissected as needed. If the
+bladder flap is densely adhered, as it may be after previous hysterotomy
+incisions, careful sharp dissection is employed (Fig. 30-17).
+
+FIGURE 30-13 The round ligaments are clamped, ligated, and transected bilaterally. (Figures 30-13 to
+30-21: Reproduced with permission from Cunningham FG, Gilstrap LC III: Peripartum hysterectomy. In
+Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative
+Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+
+FIGURE 30-14 The posterior leaf of the broad ligament adjacent to the uterus is perforated just
+beneath the fallopian tube, uteroovarian ligaments, and ovarian vessels.
+
+FIGURE 30-15 The uteroovarian ligament and fallopian tube are clamped and cut. The lateral pedicle
+is doubly ligated.
+
+FIGURE 30-16 The posterior leaf of the broad ligament is divided inferiorly toward the uterosacral
+ligament.
+
+FIGURE 30-17 The bladder is dissected sharply from the lower uterine segment.
+
+Special care is required from this point on to avoid injury to the ureters,
+which pass beneath the uterine arteries. To help accomplish this, an assistant
+places constant traction to pull the uterus in the direction away from the side
+on which the uterine vessels are being ligated. The ascending uterine artery
+and veins on either side are identified. These vessels are then clamped
+adjacent to the uterus (Fig. 30-18). For security, some may prefer two lateral
+clamps. The medial-most clamp helps prevent back bleeding from the uterus.
+The uterine vessels are divided, and the lateral tissue pedicle is doubly
+suture ligated. The medial clamp remains for later removal with the
+specimen. After securing the uterine vessels on one side, the round ligament,
+adnexal pedicle, and uterine vessels are then addressed on the contralateral
+side.
+
+FIGURE 30-18 The uterine vessels are clamped. Once divided, the lateral vascular pedicle is doubly
+ligated to ensure hemostasis.
+
+In cases with profuse hemorrhage, time and rapid hemostasis can be
+gained by quickly clamping and dividing all of the just-described pedicles.
+Once all are clamped, the surgical team can then return to ligate each pedicle
+individually.
+
+Total Hysterectomy
+Even if total hysterectomy is planned, we find it technically easier in many
+cases to finish the operation after amputating the uterine fundus and placing
+Ochsner or Kocher clamps on the cervical stump for traction and hemostasis.
+Self-retaining retractors also may be placed at this time. To remove the
+cervix, the bladder is mobilized further if needed. This carries the ureters
+caudad as the bladder is retracted beneath the symphysis. Bladder retraction
+
+can also help prevent laceration or suturing of the bladder during cervical
+excision and vaginal cuff closure.
+The cardinal ligament, the uterosacral ligaments, and the many large
+vessels within these ligaments are clamped systematically with sturdy
+Heaney-type curved or straight clamps (Fig. 30-19). The clamps are placed
+as close to the cervix as possible, taking care not to include excessive tissue
+in each clamp. The tissue between the pair of clamps is incised, and the
+lateral pedicle is suture ligated. These steps are repeated caudally and
+bilaterally until the level of the lateral vaginal fornix is reached on each side.
+In this way, the descending branches of the uterine vessels are clamped, cut,
+and ligated as the cervix is separated from the cardinal ligaments.
+
+FIGURE 30-19 The cardinal ligaments are clamped, incised, and ligated.
+
+If the cervix is effaced and dilated considerably, its softness may obscure
+palpable identification of the cervicovaginal junction. The junction location
+can be ascertained either through the open hysterotomy incision or through a
+vertical uterine incision made anteriorly in the midline at the level of the
+ligated uterine vessels. A finger is directed inferiorly through the incision to
+identify the free margin of the dilated, effaced cervix. The contaminated
+glove is replaced. Another useful method to identify the cervical margins in
+cases of planned hysterectomy is to transvaginally place four metal skin clips
+or brightly colored sutures at 12, 3, 6, and 9 o’clock positions on the cervical
+edges.
+Immediately below the level of the cervix, a curved clamp is placed
+across the lateral vaginal fornix on each side, and the vagina is incised above
+the clamp (Fig. 30-20). The cervix is inspected to ensure that it has been
+completely removed. A transfixing suture is used for vaginal cuff closure as
+each clamp is removed. Interrupted stitches may be added to approximate the
+middle portion of the cuff (Fig. 30-21). Each lateral vaginal fornix is secured
+to the uterosacral ligaments to mitigate later vaginal prolapse. For cuff
+closure, some surgeons instead prefer to close the vagina by apposing the
+anterior and posterior vaginal walls with interrupted figure-eight sutures or
+running suture line.
+
+FIGURE 30-20 A curved clamp is placed across the lateral vaginal fornix below the level of the
+cervix, and the tissue incised medially to the point of the clamp.
+
+FIGURE 30-21 A transfixing stitch is placed on each side to close the lateral vaginal cuff. Interrupted
+stitches (dotted lines) may be needed to close any midline gap.
+
+All sites are examined carefully for bleeding. One technique is to
+perform a systematic bilateral survey from the fallopian tube and ovarian
+ligament pedicles to the vaginal vault and bladder flap. Bleeding sites are
+ligated with care to avoid the ureters. The abdominal wall normally is closed
+in layers, as previously described for cesarean delivery (p. 558).
+
+Supracervical Hysterectomy
+To perform a subtotal hysterectomy, the uterine body is amputated
+immediately above the level of uterine artery ligation. The cervical stump
+may be closed with a continuous or interrupted suture line of chromic catgut
+or delayed-absorbable material. Subtotal hysterectomy is often all that is
+necessary to stop hemorrhage. It may be preferred for women who would
+benefit from a shorter surgery or for those with extensive adhesions that
+threaten significant urinary tract injury.
+
+Salpingo-oophorectomy
+Because of the large adnexal vessels and their close proximity to the uterus,
+it may be necessary to remove one or both adnexa to obtain hemostasis.
+Briery and colleagues (2007) reported unilateral or bilateral oophorectomy
+
+in a fourth of cases. Preoperative counseling for anticipated hysterectomy
+should include this possibility.
+
+■ Urinary Tract or Bowel Injury
+These injuries are rare during cesarean delivery. The bladder laceration rate
+approximates 2 injuries per 1000 cesarean deliveries, whereas that for
+ureteral trauma nears 0.3 events per 1000 cases (Güngördük, 2010; Oliphant,
+2014). Bowel is damaged in about 1 in 1000 cesarean deliveries (Silver,
+2006).
+
+Cystotomy
+Bladder laceration most commonly occurs during blunt or sharp dissection in
+the vesicouterine space to create the bladder flap, during peritoneal cavity
+entry, and during hysterotomy (Phipps, 2005; Rahman, 2009). Risks are prior
+cesarean delivery; comorbid adhesive disease; emergency cesarean delivery;
+cesarean hysterectomy, especially cases with morbidly adherent placenta;
+and surgery in second-stage labor compared with first-stage (Alexander,
+2007; Salman, 2017; Silver, 2006).
+Bladder injury is typically identified intraoperatively, and a clear-fluid
+gush or the Foley bulb are indicators. In suspected cases, cystotomy can be
+confirmed with retrograde instillation of fluid through a Foley catheter and
+into the bladder. Dilute sterile infant formula is a common, available option.
+Methylene blue–stained saline is another. Leakage of the indicator fluid aids
+laceration identification and delineation of its borders. The dome is
+lacerated most often, and trigone injuries make up the remainder (Phipps,
+2005; Salman, 2017).
+Prior to cystotomy repair, ureters are examined, and urine jets from each
+orifice are sought. Inspection can be done directly through the cystotomy, if at
+the dome. A separate diagnostic extraperitoneal cystotomy may be preferable
+if the laceration nears the trigone. To aid viewing, urine jets can be colored
+by IV dye, as described in the next section.
+Once ureteral patency is confirmed, the bladder can be closed with a
+two- or three-layer running closure using a 3-0 absorbable or delayedabsorbable suture (Fig. 30-22). The first layer inverts the mucosa into the
+bladder. Subsequent layers reapproximate the bladder muscularis. After the
+
+final layer, the bladder is filled with a marker fluid to demonstrate repair
+integrity. Leaking defects are closed with interrupted reinforcing stitches.
+
+FIGURE 30-22 Cystotomy repair. A. The primary layer inverts the bladder mucosa with running or
+interrupted sutures of 3-0 delayed-absorbable or absorbable suture. B. Second and possibly a third layer
+approximate the bladder muscularis to reinforce the incision closure. (Reproduced with permission from
+Balgobin S: Urologic and gastrointestinal injuries. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al
+(eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+
+Postoperative care requires continuous bladder drainage for 7 to 14 days
+to permit healing and minimize the risk of fistula formation. Uropathogen
+prophylaxis during this drainage is not required. Prior to catheter removal,
+
+cystourethrography may not be needed for a simple, single laceration
+measuring under 1 cm (Glaser, 2019).
+Larger lacerations in or near the trigone require careful attention.
+Specialists may be consulted, and in preparation, ureteral catheters,
+described in the next section, can be assembled. Ureteral orifices are directly
+inspected to document jets from both. If not seen, a ureteral catheter may be
+passed through the cystotomy and into each orifice to confirm patency. Once
+this is confirmed, repair should not disrupt the ureteral orifices, and stents
+may remain to ensure their patency.
+Unrecognized cystotomy can manifest postoperatively as hematuria,
+oliguria, abdominal pain, ileus, ascites, peritonitis, fever, urinoma, or fistula.
+For diagnosis, retrograde cystography or abdominal computed tomography
+(CT) with cystography can be used (Tarney, 2013). Cystoscopy is also an
+option but may require a procedural room. Once cystotomy is identified,
+prompt repair is indicated (Balgobin, 2017).
+
+Ureteral Injury
+The ureter may be at risk during cesarean hysterectomy, especially those
+complicated by placenta accreta syndrome. (Woldu, 2014). Although not our
+practice, some advocate preoperative ureteral catheter placement to aid
+intraoperative ureter identification (Eller, 2009; Matsubara, 2013).
+Organization guidelines recommend individualization of this practice
+depending on anticipated placenta accreta syndrome complexity (American
+College of Obstetricians and Gynecologists, 2018; Collins, 2019). Further,
+initial dorsal lithotomy positioning of the patient for these cases can permit
+cystoscopy. Aside from hysterectomy, the ureter is also at risk during repair
+of hysterotomy extensions into the broad ligament or vagina (Safrai, 2020).
+If ureteral injury is suspected, IV dye is administered, and the pelvis is
+directly inspected for extravasation. Of options, 50 mg of IV methylene blue
+may be given over 5 minutes. However, methylene blue carries the potential
+for inciting methemoglobinemia in patients with glucose-6-phosphate
+dehydrogenase deficiency. Another option is 25 or 50 mg of IV 10-percent
+sodium fluorescein, which stains bright yellow (Espaillat-Rijo, 2016;
+Grimes, 2017).
+Next, brisk dye-stained urine jets are sought from each orifice to exclude
+ureteral kinking or ligation. Orifice viewing may be via cystoscopy, if
+
+available; through a comorbid traumatic cystotomy; or through an intentional
+diagnostic cystotomy. For the last, a midline extraperitoneal cystotomy in the
+bladder dome gives excellent exposure. Sluggish or absent jets may reflect
+patient hypovolemia, and ongoing volume resuscitation may yield expected
+orifice jets. If not, consultation with a specialist is typically requested to
+exclude ureteral injury.
+While waiting, catheters and stents can be assembled. Semantically,
+ureteral catheters are diagnostic tools, and typically are inserted and
+removed in the same therapeutic intervention. Most stents are designed to
+remain indwelling for prolonged ureteral drainage. Both types are hollow to
+permit radiopaque medium injection and to allow urine egress through or
+around them (Corton, 2020).
+To exclude ureteral obstruction, a 4F to 6F open-ended or whistle-tip
+catheter is threaded into one orifice. Once inserted, the catheter is advanced
+to the level of suspected obstruction. If the tool threads easily up toward the
+renal pelvis, obstruction is unlikely. In most, ureteral injury occurs at or
+below the pelvic brim, and the distance from the ureteral orifice to the brim
+approximates 13 cm (Jackson, 2019). Failure to easily advance the catheter
+may indicate ureteral kinking, ligation, or crush injury. The appearance of the
+catheter in the abdominal cavity indicates partial or complete transection
+(Balgobin, 2017). Repair of ureteral injuries is dependent upon the type of
+injury and location.
+First, kinked or ligated ureters can be relieved by release of ensnaring
+sutures. Crush injuries are inspected to ensure vital tissue. In these cases,
+stents are left to avert ureteral stricture. Ureteral stents range from 4F to 7F.
+Stents vary in length from 20 to 30 cm, and a 24-cm or 26-cm length is
+appropriate for most adults. Double-pigtail or double-J stents describe their
+tip shape, and the ends coil within the renal pelvis and bladder, respectively,
+to prevent stent migration (Corton, 2020). A Foley catheter remains for 7 to
+10 days, and the ureteral stents are removed via cystoscopy after 14 days.
+Intravenous pyelography (IVP) is usually not necessary before removal of the
+stent if it was placed as a precautionary measure after relatively minor injury
+(Davis, 1999).
+Crush injuries with devascularization, thermal injury, or transection
+require more extensive repair. If a healthy-appearing ureter can be
+reimplanted into the bladder without undue tension, then
+ureteroneocystostomy is preferable. For more proximal injuries, a
+
+ureteroureterostomy, a psoas hitch, or a Boari flap may be needed. An
+explanation of these more extensive procedures is found in Cunningham and
+Gilstrap’s Operative Obstetrics, 3rd edition (Balgobin, 2017).
+Unrecognized ureteral injury can mimic that of cystotomy with the
+addition of possible costovertebral angle tenderness. CT urography is a
+preferred initial diagnostic tool (Sharp, 2016). The duration of time from
+injury to identification directs repair. Those identified early are often
+suitable for immediate repair.
+
+Bowel Injury
+Serosal tears represent weak points in the small bowel. If obstruction
+develops postoperatively, these weak spots may perforate, leading to
+peritonitis. If serosal tears are few, they can be oversewn with either a fine
+absorbable or nonabsorbable suture (Davis, 1999). More significant
+lacerations are often repaired in consultation with a general surgeon or
+gynecologic oncologist.
+
+POSTOPERATIVE CARE
+■ Euvolemia Evaluation
+During and after cesarean delivery, requirements for IV fluids can vary
+considerably. Current ERAS strategies aim for euvolemic replacement
+(Caughey, 2018). Administered fluids consist of either lactated Ringer
+solution or a similar crystalloid solution with 5-percent dextrose. Blood loss
+with uncomplicated cesarean delivery approximates 1000 mL. The averagesized woman with a hematocrit of 30 percent or more and with a normally
+expanded blood and extracellular fluid volume most often will tolerate blood
+loss up to 2000 mL without difficulty. Unappreciated bleeding through the
+vagina during the procedure, bleeding concealed in the uterus after its
+closure, or both commonly lead to underestimation.
+Blood loss averages 1500 mL with elective cesarean hysterectomy,
+although this is variable (Pritchard, 1965). Most peripartum hysterectomies
+are unscheduled, and blood loss in these cases is correspondingly greater.
+Thus, in addition to close monitoring of vital signs and urine output, the
+hematocrit should be determined intra- or postoperatively as indicated.
+
+■ Recovery Suite
+The amount of vaginal bleeding is closely monitored for at least an hour in
+the immediate postoperative period. The uterine fundus is also identified
+frequently by palpation to ensure that the uterus remains firmly contracted.
+Criteria for transfer to the postpartum ward include minimal bleeding, stable
+vital signs, and adequate urine output.
+
+■ Hospital Care until Discharge
+Analgesia, Vital Signs, Intravenous Fluids
+Several schemes are suitable for postoperative pain control. First, adding
+intrathecal opioid or epidural opioid such as morphine to neuraxial analgesia
+can provide 12 to 24 hours of postoperative relief (American College of
+Obstetricians and Gynecologists, 2019a; Caughey, 2018). Sedation and
+respiratory depression rise with increasing intrathecal opioid doses.
+Postoperative monitoring protocols reflect this and are outlined in Chapter
+25 (p. 472) (Bauchat, 2019). Other potential side effects include pruritus,
+nausea, or vomiting (Sultan, 2016). Despite these, long-acting neuraxial
+analgesia is recommended instead of intermittent parental opioid dosing
+(American Society of Anesthesiologists, 2016). For additional relief,
+nonsteroidal antiinflammatory drugs (NSAIDs) can alternate with
+acetaminophen (Ong, 2010). Breakthrough pain can be relieved by
+oxycodone 2.5 to 5 mg every 4 hours (Bollag, 2021). Neonatal sedation is a
+concern, and total oxycodone doses higher 30 mg/d are not recommended
+(American College of Obstetricians and Gynecologists, 2019a). Instead, for
+severe breakthrough pain, intramuscular (IM) meperidine, 50 to 75 mg every
+3 to 4 hours, or IM morphine, 10 to 15 mg every 3 to 4 hours, is an option.
+For those without neuraxial anesthesia, a transversus abdominis place
+(TAP) block can be considered (Fig. 2-2, p. 14). Patient-controlled analgesia
+(PCA) also is reasonable. One PCA regimen uses IV morphine given as
+needed as a 1-mg dose with a 6-minute lockout interval and maximum dose
+of 30 mg in 4 hours. An additional 2-mg booster dose is permitted for a
+maximum of two doses.
+After transfer to her room, the woman is assessed at least hourly for 4
+hours, and thereafter at intervals of 4 hours. Deep breathing and coughing are
+encouraged to prevent atelectasis. Vital signs, uterine tone, urine output, and
+
+vaginal and incisional bleeding are evaluated. The hematocrit is routinely
+measured the morning after surgery. It is checked sooner if blood loss was
+significant or if postoperative hypotension, tachycardia, oliguria, or other
+evidence suggests hypovolemia. If the hematocrit is significantly lower than
+the preoperative level, the measurement is repeated and a search for the
+cause is instituted. Clinical and objective thresholds for transfusion are
+described fully in Chapter 44 (p. 771). If ongoing blood loss is not expected,
+iron therapy is preferred to transfusion.
+Postpartum, the patient begins to mobilize and excrete her
+physiologically expanded extravascular volume. Thus, maintenance IV fluid
+proves adequate after surgery until consistent oral intake is reestablished. If
+urine output falls below 30 mL/hr, however, a woman should be reevaluated
+promptly. The cause of the oliguria may range from unrecognized blood loss
+to an antidiuretic effect from infused oxytocin.
+Women undergoing unscheduled cesarean delivery may have pathological
+retention or constriction of the extracellular fluid compartment caused by
+severe preeclampsia, sepsis syndrome, vomiting, prolonged labor without
+adequate fluid intake, or increased blood loss. Women with these
+complications are generally observed in the recovery room until improved.
+
+Bladder and Bowel Function
+A Foley catheter is often required to accurately assess urinary output. For
+women not needing such monitoring, organizations differ in their
+recommendations. The Society for Obstetric Anesthesia and Perinatology
+suggests removal after 6 to 12 hours and cites the urinary retention risks
+associated with long-acting neuraxial anesthesia (Bollag, 2021). The ERAS
+Society recommends immediate postoperative removal (Macones, 2019).
+The prevalence of urinary retention following cesarean delivery
+approximates 5 percent (Chap. 36, p. 643). Failure to progress in labor and
+postoperative narcotic analgesia are identified risks (Chai, 2008; Liang,
+2007).
+In uncomplicated cases, liquids or solid food may be offered within
+hours of surgery and advanced as tolerated (Guo, 2015; Macones, 2019).
+Some degree of adynamic ileus follows virtually every laparotomy but is
+negligible after most cesarean deliveries. Postoperative ileus symptoms
+include abdominal distention, colic, and an inability to pass flatus or stool.
+
+With persistent nausea and vomiting or with prolonged bowel function delay,
+radiological imaging may help exclude bowel obstruction. A plain
+abdominal radiograph is a frequent first choice. However, in the general
+population, this study is diagnostic in only 50 to 60 percent of small-bowel
+obstruction (SBO) cases (Maglinte, 1997). Thus, a radiograph may best
+serve as a triage tool in cases in which ileus is the suspected diagnosis.
+Notably, an enlarged postpartum uterus can compress the rectosigmoid and
+prevent it from filling with gas. Thus, findings suggesting a distal colonic
+obstruction may confuse true cases of transient ileus (Kammen, 2000). CT
+with IV and oral contrast provides greater accuracy for SBO diagnosis. Last,
+although uncommon, an unrecognized bowel injury may underlie otherwise
+unexplained fever and bowel dysfunction. Again, CT would be the more
+diagnostic examination.
+For treatment of ileus, IV fluids compensate for poor oral intake and
+losses from emesis. Electrolyte imbalances are corrected to improve bowel
+motility and avoid bowel edema. Nasogastric decompression is necessary
+only with persistent vomiting or severe distention.
+For prevention, surgical goals strive to minimize bowel manipulation,
+avoid excess IV fluids or profound hypovolemia, and limit surgery length
+(Bragg, 2015). After surgery, gum chewing enhances early bowel function
+recovery (Ciardulli, 2018). Among studies, chewing was initiated
+immediately or up to 12 hours later, lasted 15 to 60 minutes, and was
+repeated in at least three sessions daily (Pereira Gomes Morais, 2016).
+
+Ambulation and Wound Care
+As discussed earlier, women undergoing cesarean delivery have an
+increased VTE risk compared with those delivering vaginally (Chap. 55, p.
+989). Early ambulation lowers this risk. Walking to the bathroom begins,
+initially with assistance. Brief walks are encouraged. For women with
+marked abdominal laxity, an abdominal binder can aid comfortable deep
+coughing and ambulation. Evidence supporting routine application for all
+parturients is limited and conflicting (Chankhunaphas, 2020; Gillier, 2016).
+Although not evidence based, we remove the surgical dressing after 24
+hours and inspect the incision daily. One small randomized trial showed no
+wound healing effects if removed at 6 hours (Peleg, 2016). By the third
+postpartum day, showering does not harm the incision. Prior to this, a plastic
+
+covering can maintain dryness during showers. If used, staples are often
+removed on the fourth postoperative day. In their place, tape strips can
+remain for 1 week to reinforce skin edge integrity. If potential superficial
+wound separation, without infection, is a concern, staples can remain for 7 to
+10 days.
+
+■ Hospital Discharge
+For uncomplicated cesarean delivery, the average hospitalization length is 3
+to 4 days (Buie, 2010). Data from studies suggest that earlier discharge is
+feasible for properly selected women and newborns (Bayoumi, 2016; Tan,
+2012). Protocols ideally include earlier reevaluation for neonatal jaundice.
+However, discharge before 96 hours leads to a greater neonatal readmission
+rate (Jones, 2020).
+Activities during the first week are limited to self-care and newborn care
+with assistance. Driving can be resumed when pain does not limit the ability
+to brake quickly and when narcotic medications are not in use. In women
+with cesarean delivery, intercourse was resumed in 44 percent by 6 weeks
+postpartum, 81 percent by 3 months, and 97 percent at 1 year (McDonald,
+2013). After the puerperium, the quality of sexual functioning does not differ
+between those undergoing spontaneous vaginal birth or cesarean delivery
+(Chang, 2015; Fehniger, 2013; Rogers, 2014). Return to work is variable.
+Six weeks is commonly cited, although many women use the Family and
+Medical Leave Act to allow up to 12 weeks for recovery and newborn
+bonding.
+
+REFERENCES
+Abdel-Aleem H, Aboelnasr MF, Jayousi TM, et al: Indwelling bladder catheterisation as part of
+intraoperative and postoperative care for caesarean section. Cochrane Database Syst Rev
+4:CD010322, 2014
+Abe K, Kuklina EV, Hooper WC, et al: Venous thromboembolism as a cause of severe maternal
+morbidity and mortality in the United States. Semin Perinatol 43(4):200, 2019
+Ahmadzia HK, Patel EM, Joshi D, et al: Obstetric surgical site infections: 2 grams compared with 3
+grams of cefazolin in morbidly obese women. Obstet Gynecol 126(4):708, 2015
+Alexander JM, Leveno KJ, Hauth J, et al: Fetal injury associated with cesarean delivery. Obstet
+Gynecol 108(4):885, 2006
+Alexander JM, Leveno KJ, Rouse DJ, et al: Comparison of maternal and infant outcomes from primary
+cesarean delivery during the second compared with first stage of labor. Obstet Gynecol 109(4):917,
+
+2007
+American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Guidelines for
+Perinatal Care, 8th ed. Elk Grove, American Academy of Pediatrics, 2017
+American College of Obstetricians and Gynecologists: Placenta accreta spectrum. Obstetric Care
+Consensus No. 7, 2018
+American College of Obstetricians and Gynecologists: Obstetric analgesia and anesthesia. Practice
+Bulletin No. 209, March 2019a
+American College of Obstetricians and Gynecologists: Safe prevention of the primary cesarean delivery.
+Obstetric Care Consensus No. 1, March 2014, Reaffirmed 2019b
+American College of Obstetricians and Gynecologists: Vaginal seeding. Committee Opinion No. 725,
+November 2017, Reaffirmed 2019c
+American College of Obstetricians and Gynecologists: Cesarean delivery on maternal request.
+Committee Opinion No. 761, December 2018, Reaffirmed 2020a
+American College of Obstetricians and Gynecologists: Optimizing support for breastfeeding as part of
+obstetric practice. Committee Opinion No. 756, September 2018, Reaffirmed 2020b
+American College of Obstetricians and Gynecologists: Thromboembolism in pregnancy. Practice
+Bulletin No. 196, June 2018, Reaffirmed 2020c
+American College of Obstetricians and Gynecologists: Use of prophylactic antibiotics in labor and
+delivery. Practice Bulletin No. 199, August 2018, Reaffirmed 2020d
+American Society of Anesthesiologists: Task Force on Obstetrical Anesthesia: practice guidelines for
+obstetrical anesthesia. Anesthesiology 124:270, 2016
+Anorlu RI, Maholwana B, Hofmeyr GJ: Methods of delivering the placenta at caesarean section.
+Cochrane Database Syst Rev 3:CD004737, 2008
+Asıcıoğlu O, Güngördük K, Asıcıoğlu BB, et al: Unintended extension of the lower segment uterine
+incision at cesarean delivery: a randomized comparison of sharp versus blunt techniques. Am J
+Perinatol 31(10):837, 2014
+Avila C, Bhangoo R, Figueroa R, et al: Association of smoking with wound complications after cesarean
+delivery. J Matern Fetal Neonatal Med 25(8):1250, 2012
+Baksu A, Kalan A, Ozkan A, et al: The effect of placental removal method and site of uterine repair on
+postcesarean endometritis and operative blood loss. Acta Obstet Gynecol Scand 84(3):266, 2005
+Balgobin S: Urologic and gastrointestinal injuries. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al
+(eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw Hill Education,
+2017
+Balki I, Khan JS, Staibano P, et al: Effect of perioperative active body surface warming systems on
+analgesic and clinical outcomes: a systematic review and meta-analysis of randomized controlled
+trials. Anesth Analg 131(5):1430, 2020
+Barber EL, Lundsberg LS, Belanger K, et al: Indications contributing to the increasing cesarean delivery
+rate. Obstet Gynecol 118(1):29, 2011
+Basha SL, Rochon ML, Quiñones JN, et al: Randomized controlled trial of wound complication rates of
+subcuticular suture vs staples for skin closure at cesarean delivery. Am J Obstet Gynecol
+203(3):285.e1, 2010
+Bateman BT, Mhyre JM, Callaghan WM, et al: Peripartum hysterectomy in the United States:
+nationwide 14 year experience. Am J Obstet Gynecol 206(1):63.e1, 2012
+Bates SM, Greer IA, Middeldorp S, et al: VTE, thrombophilia, antithrombotic therapy, and pregnancy:
+Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest
+Physicians Evidence-Based Clinical Practice Guidelines. Chest 141(2 Suppl):e691S, 2012
+
+Bauchat JR, Weiniger CF, Sultan P, et al: Society for Obstetric Anesthesia and Perinatology consensus
+statement: monitoring recommendations for prevention and detection of respiratory depression
+associated with administration of neuraxial morphine for cesarean delivery analgesia: Anesth Analg
+129(2):458, 2019
+Bayoumi YA, Bassiouny YA, Hassan AA, et al: Is there a difference in the maternal and neonatal
+outcomes between patients discharged after 24 h versus 72 h following cesarean section? A
+prospective randomized observational study on 2998 patients. J Matern Fetal Neonatal Med
+29(8):1339, 2016
+Berhan Y, Berhan A: A meta-analysis of reverse breech extraction to deliver a deeply impacted head
+during cesarean delivery. Int J Gynaecol Obstet 124(2):99, 2014
+Berríos-Torres SI, Umscheid CA, Bratzler DW, et al: Centers for Disease Control and Prevention
+guideline for the prevention of surgical site infection, 2017. JAMA Surg 152(8):784, 2017
+Blankenship SA, Raghuraman N, Delhi A, et al: Association of abnormal first stage of labor duration
+and maternal and neonatal morbidity. Am J Obstet Gynecol 223(3):445.e1, 2020
+Blomquist JL, Muñoz A, Carroll M: Association of delivery mode with pelvic floor disorders after
+childbirth. JAMA 320(23):2438, 2018
+Bloom SL, Leveno KJ, Spong CY, et al: Decision-to-incision times and maternal and fetal outcomes.
+Obstet Gynecol 108(1):6, 2006
+Bohman VR, Gilstrap L, Leveno K, et al: Subcutaneous tissue: to close or not to close at cesarean
+section. Am J Obstet Gynecol 166:407, 1992
+Bollag L, Lim G, Sultan P, et al: Society for Obstetric Anesthesia and Perinatology: consensus statement
+and recommendations for enhanced recovery after cesarean. Anesth Analg 132(5):1362, 2021
+Bolze PA, Massoud M, Gaucherand P, et al: What about the Misgav-Ladach surgical technique in
+patients with previous cesarean sections? Am J Perinatol 30(3):197, 2013
+Boyle A, Reddy UM, Landy HJ, et al: Primary cesarean delivery in the United States. Obstet Gynecol
+122(1):33, 2013
+Boyle JG, Gabbe SG: T and J vertical extensions in low transverse cesarean births. Obstet Gynecol
+87(2):238, 1996
+Bragg D, El-Sharkawy AM, Psaltis E, et al: Postoperative ileus: recent developments in pathophysiology
+and management. Clin Nutr 34(3):367, 2015
+Briery CM, Rose CH, Hudson WT, et al: Planned vs emergent cesarean hysterectomy. Am J Obstet
+Gynecol 197(2):154.e1, 2007
+Buie VC, Owings MF, DeFrances CJ, et al: National Hospital Discharge Survey: 2006 summary.
+National Center for Health Statistics. Vital Health Stat 13(168):1, 2010
+CAESAR Study Collaborative Group: Caesarean section surgical techniques: a randomised factorial trial
+(CAESAR). BJOG 117(11):1366, 2010
+Cahill AG, Stamilio DM, Odibo AO, et al: Is vaginal birth after cesarean (VBAC) or elective repeat
+cesarean safer in women with a prior vaginal delivery? Am J Obstet Gynecol 195(4):1143, 2006
+Caughey AB, Wood SL, Macones GA, et al: Guidelines for intraoperative care in cesarean delivery:
+Enhanced Recovery after Surgery Society recommendations (Part 2). Am J Obstet Gynecol
+219(6):533, 2018
+Chai AH, Wong T, Mak HL, et al: Prevalence and associated risk factors of retention of urine after
+caesarean section. Int Urogynecol J Pelvic Floor Dysfunct 194(4):537, 2008
+Chang SR, Chen KH, Ho HN, et al: Depressive symptoms, pain, and sexual dysfunction over the first
+year following vaginal or cesarean delivery: a prospective longitudinal study. Int J Nurs Stud
+52(9):1433, 2015
+
+Chankhunaphas W, Charoenkwan K.: Effect of elastic abdominal binder on pain and functional recovery
+after caesarean delivery: a randomised controlled trial. J Obstet Gynaecol 40(4):473, 2020
+Chapman SJ, Owen J, Hauth JC: One versus two-layer closure of a low transverse cesarean: the next
+pregnancy. Obstet Gynecol 89:16, 1997
+Cheesman K, Brady JE, Flood P, et al: Epidemiology of anesthesia-related complications in labor and
+delivery, New York State, 2002–2005. Anesth Analg 109:1174, 2009
+Chelmow D, Rodriguez EJ, Sabatini MM: Suture closure of subcutaneous fat and wound disruption after
+cesarean delivery: a meta-analysis. Obstet Gynecol 103:974, 2004
+Ciardulli A, Saccone G, Di Mascio D, et al: Chewing gum improves postoperative recovery of
+gastrointestinal function after cesarean delivery: a systematic review and meta-analysis of
+randomized trials. J Matern Fetal Neonatal Med 31(14):1924, 2018
+Clark SL, Belfort MA, Dildy GA, et al: Maternal death in the 21st century: causes, prevention, and
+relationship to cesarean delivery. Am J Obstet Gynecol 199(1):36.e1, 2008
+Collins SL, Alemdar B, van Beekhuizen HJ, et al: Evidence-based guidelines for the management of
+abnormally invasive placenta: recommendations from the International Society for Abnormally
+Invasive Placenta. Am J Obstet Gynecol 220(6):511, 2019
+CORONIS Collaborative Group, Abalos E, Addo V, et al: Caesarean section surgical techniques: 3 year
+follow-up of the CORONIS fractional, factorial, unmasked, randomised controlled trial. Lancet
+388(10039):62, 2016
+CORONIS Collaborative Group, Abalos E, Addo V, et al: Caesarean section surgical techniques
+(CORONIS): a fractional, factorial, unmasked, randomised controlled trial. Lancet 382(9888):234,
+2013
+Corton MM, Schaffer JI: Surgeries for pelvic floor disorders. In Hoffman BL, Schorge JO, Halvorson
+LM, et al (eds): Williams Gynecology, 4th ed. New York, McGraw Hill Education, 2020
+Davis JD: Management of injuries to the urinary and gastrointestinal tract during cesarean section.
+Obstet Gynecol Clin North Am 26(3):469, 1999
+Daykan Y, Sharon-Weiner M, Pasternak Y, et al: Skin closure at cesarean delivery, glue versus
+subcuticular sutures: a randomized controlled trial. Am J Obstet Gynecol 216(4):406.e1, 2017
+Declercq E, Menacker F, MacDorman M: Rise in “no indicated risk” primary caesareans in the United
+States, 1991–2001: cross sectional analysis. BMJ 330(7482):71, 2005
+de la Torre L, González-Quintero VH, Mayor-Lynn K, et al: Significance of accidental extensions in the
+lower uterine segment during cesarean delivery. Am J Obstet Gynecol 194(5):e4, 2006
+Dodd JM, Anderson ER, Gates S, et al: Surgical techniques for uterine incision and uterine closure at
+the time of caesarean section. Cochrane Database Syst Rev 7:CD004732, 2014
+Dolan LM, Hilton P: Obstetric risk factors and pelvic floor dysfunction 20 years after first delivery. Int
+Urogynecol J 21(5):535, 2010
+Durnwald C, Mercer B: Uterine rupture, perioperative and perinatal morbidity after single-layer and
+double-layer closure at cesarean delivery. Am J Obstet Gynecol 189:925, 2003
+Eckler R, Quist-Nelson J, Saccone G, et al: Adhesive incisional drapes during cesarean delivery for
+preventing wound infection: a systematic review and meta-analysis of randomized controlled trials.
+Eur J Obstet Gynecol Reprod Biol X 4:100090, 2019
+Edwards RK, Ingersoll M, Gerkin RD, et al: Carboxymethylcellulose adhesion barrier placement at
+primary cesarean delivery and outcomes at repeat cesarean delivery. Obstet Gynecol 123(5):923,
+2014
+Eke AC, Shukr GH, Chaalan TT, et al: Intra-abdominal saline irrigation at cesarean section: a systematic
+review and meta-analysis. J Matern Fetal Neonatal Med 29(10):1588, 2016
+
+Eller AG, Porter TF, Soisson P, et al: Optimal management strategies for placenta accreta. BJOG
+116(5):648, 2009
+Espaillat-Rijo L, Siff L, Alas AN, et al: Intraoperative cystoscopic evaluation of ureteral patency: a
+randomized controlled trial. Obstet Gynecol 128(6):1378, 2016
+Fehniger JE, Brown JS, Creasman JM, et al: Childbirth and female sexual function later in life. Obstet
+Gynecol 122(5):988, 2013
+Figueroa D, Jauk VC, Szychowski JM, et al: Surgical staples compared with subcuticular suture for skin
+closure after cesarean delivery: a randomized controlled trial. Obstet Gynecol 121(1):33, 2013
+Flood KM, Said S, Geary M, et al: Changing trends in peripartum hysterectomy over the last 4 decades.
+Am J Obstet Gynecol 200(6):632.e1, 2009
+Food and Drug Administration: Recommendations to reduce surgical fires and related patient injury:
+FDA safety communication. 2018. Available at:
+https://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm608637.htm. Accessed February
+6, 2019
+Franchini M, Mengoli C, Cruciani M, et al: Safety and efficacy of tranexamic acid for prevention of
+obstetric haemorrhage: an updated systematic review and meta-analysis. Blood Transfus 16(4):329,
+2018
+Frederick A, Fry T, Clowtis L: Intraoperative mother and baby skin-to-skin contact during cesarean
+birth: systematic review. MCN Am J Matern Child Nurs 45(5):296, 2020
+Gillespie BM, Webster J, Ellwood D, et al: Closed incision negative pressure wound therapy versus
+standard dressings in obese women undergoing caesarean section: multicentre parallel group
+randomised controlled trial. BMJ 373:n893, 2021
+Gillier CM, Sparks JR, Kriner R, et al: A randomized controlled trial of abdominal binders for the
+management of postoperative pain and distress after cesarean delivery. Int J Gynaecol Obstet
+133(2):188, 2016
+Glaser LM, Milad MP: Bowel and bladder injury repair and follow-up after gynecologic surgery. Obstet
+Gynecol 133(2):313, 2019
+Glaze S, Ekwalanga P, Roberts G, et al: Peripartum hysterectomy: 1999 to 2006. Obstet Gynecol
+111(3):732, 2008
+Goldfarb I, Henry D, Dumont O, et al: Inadvertent hysterotomy extension at cesarean delivery and risk
+of uterine rupture in the next pregnancy. Am J Obstet Gynecol 204(1, Suppl): S266, 2011
+Gordon A, McKechnie EJ, Jeffery H: Pediatric presence at cesarean section: justified or not? Am J
+Obstet Gynecol 193(3 pt 1):599, 2005
+Govindappagari S, Wright JD, Ananth CV, et al: Risk of peripartum hysterectomy and center
+hysterectomy and delivery volume. Obstet Gynecol 128(6):1215, 2016
+Grimes CL, Patankar S, Ryntz T, et al: Evaluating ureteral patency in the post-indigo carmine era: a
+randomized controlled trial. Am J Obstet Gynecol 217(5):601.e1, 2017
+Grundsell HS, Rizk DE, Kumar RM: Randomized study of non-closure of peritoneum in lower segment
+cesarean section. Acta Obstet Gynecol Scand 77:110, 1998
+Grupper M, Kuti JL, Swank ML, et al: Population pharmacokinetics of cefazolin in serum and adipose
+tissue from overweight and obese women undergoing cesarean delivery. J Clin Pharmacol 57(6):712,
+2017
+Guise JM, Denman MA, Emeis C, et al: Vaginal birth after cesarean: new insights on maternal and
+neonatal outcomes. Obstet Gynecol 115(6):1267, 2010
+Güngördük K, Asıcıoğlu O, Celikkol O, et al: Iatrogenic bladder injuries during caesarean delivery: a
+case control study. J Obstet Gynaecol 30(7):667, 2010
+
+Guo J, Long S, Li H, et al: Early versus delayed oral feeding for patients after cesarean. Int J Gynaecol
+Obstet 128(2):100, 2015
+Gyhagen M, Bullarbo M, Nielsen TF, et al: Prevalence and risk factors for pelvic organ prolapse 20
+years after childbirth: a national cohort study in singleton primiparae after vaginal or caesarean
+delivery. BJOG 120(2):152, 2013a
+Gyhagen M, Bullarbo M, Nielsen TF, et al: The prevalence of urinary incontinence 20 years after
+childbirth: a national cohort study in singleton primiparae after vaginal or caesarean delivery. BJOG
+120(2):144, 2013b
+Haas DM, Morgan S, Contreras K: Vaginal preparation with antiseptic solution before cesarean section
+for preventing postoperative infections. Cochrane Database Syst Rev 4:CD007892, 2020
+Hadiati DR, Hakimi M, Nurdiati DS, et al: Skin preparation for preventing infection following caesarean
+section. Cochrane Database Syst Rev 6:CD007462, 2020
+Handa VL, Blomquist JL, Knoepp LR, et al: Pelvic floor disorders 5–10 years after vaginal or cesarean
+childbirth. Obstet Gynecol 118(4):777, 2011
+Hawkins JL, Chang J, Palmer SK, et al: Anesthesia-related maternal mortality in the United States:
+1979–2002. Obstet Gynecol 117(1):69, 2011
+Hellums EK, Lin MG, Ramsey PS: Prophylactic subcutaneous drainage for prevention of wound
+complications after cesarean delivery—a metaanalysis. Am J Obstet Gynecol 197(3):229, 2007
+Hernandez JS, Nuangchamnong N, Ziadie M, et al: Placental and uterine pathology in women
+undergoing peripartum hysterectomy. Obstet Gynecol 119(6):1137, 2012
+Hofmeyr JG, Novikova N, Mathai M, et al: Techniques for cesarean section. Am J Obstet Gynecol
+201(5):431, 2009
+Holmgren G, Sjöholm L, Stark M: The Misgav Ladach method for cesarean section: method description.
+Acta Obstet Gynecol Scand 78(7):615, 1999
+Hou L, Hellerstein S, Vitonis A, et al: Cross sectional study of mode of delivery and maternal and
+perinatal outcomes in mainland China. PLoS One 12(2):e0171779, 2017
+Hubbard R, Waters JH, Yazer MH: Heterogeneity in blood product acceptance among antenatal
+patients of the Jehovah’s Witness faith. Obstet Gynecol 126(5):974, 2015
+Hussamy DJ, Wortman AC, McIntire DD, et al: Closed incision negative pressure therapy in morbidly
+obese women undergoing cesarean delivery: a randomized controlled trial. Obstet Gynecol
+134(4):781, 2019
+Irion O, Luzuy F, Beguin F: Nonclosure of the visceral and parietal peritoneum at caesarean section: a
+randomised controlled trial. Br J Obstet Gynaecol 103:690, 1996
+Jackson LA, Ramirez DM, Carrick KS, et al: Gross and histologic anatomy of the pelvic ureter: clinical
+applications to pelvic surgery. Obstet Gynecol 133(5):896, 2019
+Jelovsek JE, Chagin K, Gyhagen M, et al: Predicting risk of pelvic floor disorders 12 and 20 years after
+delivery. Am J Obstet Gynecol 218(2):222.e1, 2018
+Jenusaitis L, Keplinger KB, Dean K, et al: Impact of a delayed cord clamping protocol on maternal and
+neonatal outcomes in patients undergoing term cesarean section. J Matern Fetal Neonatal Med
+December 7, 2020 [Epub ahead of print]
+Jeve YB, Navti OB, Konje JC: Comparison of techniques used to deliver a deeply impacted fetal head
+at full dilation: a systematic review and meta-analysis. BJOG 123(3):337, 2016
+Johnson DD: Cesarean delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham
+and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw Hill Education, 2017
+Jones E, Taylor B, MacArthur C, et al: Early postnatal discharge for infants: a meta-analysis. Pediatrics
+146(3):e20193365, 2020
+
+Kalafat E, Gokce A, O’Brien P, et al: Efficacy of carbetocin in the prevention of postpartum
+hemorrhage: a systematic review and Bayesian meta-analysis of randomized trials. J Matern Fetal
+Neonatal Med 34(14):2303, 2021
+Kallianidis AF, Maraschini A, Danis J, et al: Epidemiological analysis of peripartum hysterectomy across
+nine European countries. Acta Obstet Gynecol Scand 99(10):1364, 2020
+Kammen BF, Levine MS, Rubesin SE, et al: Adynamic ileus after caesarean section mimicking intestinal
+obstruction: findings on abdominal radiographs. Br J Radiol 73(873):951, 2000
+Kapustian V, Anteby EY, Gdalevich M, et al: Effect of closure versus nonclosure of peritoneum at
+cesarean section on adhesions: a prospective randomized study. Am J Obstet Gynecol 206(1):56.e1,
+2012
+Karavani G, Chill HH, Reuveni-Salzman A: Risk factors for uterine incision extension during cesarean
+delivery. J Matern Fetal Neonatal Med June 24, 2020 [Epub ahead of print]
+Ker K, Shakur H, Roberts I: Does tranexamic acid prevent postpartum haemorrhage? A systematic
+review of randomised controlled trials. BJOG 123(11):1745, 2016
+Kerr JM: The lower uterine segment incision in conservative caesarean section. J Obstet Gynaecol Br
+Emp 28:475, 1921
+Kiefer DG, Muscat JC, Santorelli J, et al: Effectiveness and short-term safety of modified sodium
+hyaluronic acid-carboxymethylcellulose at cesarean delivery: a randomized trial. Am J Obstet
+Gynecol 214(3):373.e1, 2016
+Kirscht J, Weiss C, Nickol J, et al: Dilatation or no dilatation of the cervix during cesarean section
+(Dondi Trial): a randomized controlled trial. Arch Gynecol Obstet 295(1):39, 2017
+Kowalski TJ, Kothari SN, Mathiason MA, et al: Impact of hair removal on surgical site infection rates: a
+prospective randomized noninferiority trial. J Am Coll Surg 223(5):704, 2016
+Kristensen K, Henriksen L: Cesarean section and disease associated with immune function. J Allergy
+Clin Immunol 137:587, 2016
+Krönig B: Transperitonealer cervikaler Kaiserschnitt. In: Doderlein A, Krönig B (eds): Operative
+Gynäkologie, 3rd ed. Leipzig, Thieme, 1912
+Larsson C, Saltvedt S, Wiklund I, et al: Planned vaginal delivery versus planned caesarean section:
+short-term medical outcome analyzed according to intended mode of delivery. J Obstet Gynaecol
+Can 33(8):796, 2011
+Lawson T, Ralph C: Perioperative Jehovah’s Witnesses: a review. Br J Anaesth 115(5):676, 2015
+Lefebvre A, Saliou P, Lucet JC, et al: Preoperative hair removal and surgical site infections: network
+meta-analysis of randomized controlled trials. J Hosp Infect 91(2):100, 2015
+Liabsuetrakul T, Peeyananjarassri K: Mechanical dilatation of the cervix during elective caeserean
+section before the onset of labour for reducing postoperative morbidity. Cochrane Database Syst
+Rev 8:CD008019, 2018
+Liang CC, Chang SD, Chang YL, et al: Postpartum urinary retention after cesarean delivery. Int J
+Gynaecol Obstet 99(3):229, 2007
+Linder N, Linder I, Fridman E, et al: Birth trauma—risk factors and short-term neonatal outcome. J
+Matern Fetal Neonatal Med 26(15):1491, 2013
+Liu X, Landon MB, Cheng W, et al: Cesarean delivery on maternal request in China: what are the risks
+and benefits? Am J Obstet Gynecol 212(6):817.e1, 2015
+Luke B, Brown MB, Wantman E, et al: Risk of severe maternal morbidity by maternal fertility status: a
+US study in 8 states. Am J Obstet Gynecol 220(2):195.e1, 2019
+MacArthur C, Glazener C, Lancashire R, et al: Exclusive caesarean section delivery and subsequent
+urinary and faecal incontinence: a 12-year longitudinal study. BJOG 118(8):1001, 2011
+
+MacArthur C, Wilson D, Herbison P, et al: Faecal incontinence persisting after childbirth: a 12 year
+longitudinal study. BJOG 120(2):169, 2013
+Mackeen AD, Khalifeh A, Fleisher J, et al: Suture compared with staple skin closure after cesarean
+delivery: a randomized controlled trial Obstet Gynecol 123(6):1169, 2014a
+Mackeen AD, Packard RE, Ota E, et al: Timing of intravenous prophylactic antibiotics for preventing
+postpartum infectious morbidity in women undergoing cesarean delivery. Cochrane Database Syst
+Rev 12:CD009516, 2014b
+Mackeen AD, Schuster M, Berghella V: Suture versus staples for skin closure after cesarean: a
+metaanalysis. Am J Obstet Gynecol 212(5):621.e1, 2015
+Macones GA, Caughey AB, Wood SL, et al: Guidelines for postoperative care in cesarean delivery:
+Enhanced Recovery after Surgery (ERAS) Society recommendations (part 3). Am J Obstet
+Gynecol 221(3):247.e1, 2019
+Maggio L, Nicolau DP, DaCosta M, et al: Cefazolin prophylaxis in obese women undergoing cesarean
+delivery: a randomized controlled trial. Obstet Gynecol 125(5):1205, 2015
+Maglinte DD, Balthazar EJ, Kelvin FM, et al: The role of radiology in the diagnosis of small bowel
+obstruction. AJR Am J Roentgenol 168(5):1171, 1997
+Markwei MT, Babatunde I, Rathi N, et al: Preincision adjunctive prophylaxis for cesarean deliveries a
+systematic review and meta-analysis. Am J Obstet Gynecol May 5, 2021 [Epub ahead of print]
+Marshall NE, Fu R, Guise JM: Impact of multiple cesarean deliveries on maternal morbidity: a
+systematic review. Am J Obstet Gynecol 205(3):262.e1, 2011
+Martin JA, Hamilton BE, Osterman MJ: Births: final data for 2018. Natl Vital Stat Rep 68(13):1, 2019
+Mathai M, Hofmeyr GJ, Mathai NE: Abdominal surgical incisions for caesarean section. Cochrane
+Database Syst Rev 5:CD004453, 2013
+Matsubara S, Kuwata T, Usui R, et al: Important surgical measures and techniques at cesarean
+hysterectomy for placenta previa accreta. Acta Obstet Gynecol Scand 92(4):372, 2013
+McDonald EA, Brown SJ: Does method of birth make a difference to when women resume sex after
+childbirth? BJOG 120(7):823, 2013
+Moczygemba CK, Paramsothy P, Meikle S, et al: Route of delivery and neonatal birth trauma. Am J
+Obstet Gynecol 202(4):361.e1, 2010
+Moore ER, Bergman N, Anderson GC, et al: Early skin-to-skin contact for mothers and their healthy
+newborn infants. Cochrane Database Syst Rev 11:CD003519, 2016
+Morales A, Reyes O, Cárdenas G: Type of blunt expansion of the low transverse uterine incision during
+caesarean section and the risk of postoperative complications: a prospective randomized controlled
+trial. J Obstet Gynaecol Can 41(3):306, 2019
+Morales KJ, Gordon MC, Bates GW Jr: Postcesarean delivery adhesions associated with delayed
+delivery of infant. Am J Obstet Gynecol 196(5):461.e1, 2007
+Nagele F, Karas H, Spitzer D, et al: Closure or nonclosure of the visceral peritoneum at cesarean
+delivery. Am J Obstet Gynecol 174:1366, 1996
+National Institutes of Health: State-of-the-Science Conference Statement on Cesarean Delivery on
+Maternal Request. NIH Consens Sci Statements 23(1):1, 2006
+Nelson RL, Go C, Darwish R, et al: Cesarean delivery to prevent anal incontinence: a systematic review
+and meta-analysis. Tech Coloproctol 23(9):809, 2019
+Oliphant SS, Bochenska K, Tolge ME, et al: Maternal lower urinary tract injury at the time of cesarean
+delivery. Int Urogynecol J 25(12):1709, 2014
+Olofsson P: Opening of the abdomen ad modum Joel Cohen, Joel-Cohen, Joel Joel-Cohen, or just
+Cohen? Acta Obstet Gynecol Scand 94(2):224, 2015
+
+O’Neill HA, Egan G, Walsh CA, et al: Omission of the bladder flap at caesarean section reduces
+delivery time without increased morbidity: a meta-analysis of randomised controlled trials. Eur J
+Obstet Gynecol Reprod Biol 174:20, 2014
+Ong CK, Seymour RA, Lirk P, et al: Combining paracetamol (acetaminophen) with nonsteroidal
+antiinflammatory drugs: a qualitative systematic review of analgesic efficacy for acute postoperative
+pain. Anesth Analg 110:1170, 2010
+Orbach A, Levy A, Wiznitzer A, et al: Peripartum cesarean hysterectomy: critical analysis of risk
+factors and trends over the years. J Matern Fetal Neonatal Med 24(3):480, 2011
+Osmundson SS, Garabedian MJ, Lyell DJ: Risk factors for classical hysterotomy by gestational age.
+Obstet Gynecol 122:845, 2013
+Osmundson SS, Garabedian MJ, Yeaton-Massey A, et al: Risk factors for classical hysterotomy in twin
+pregnancies. Obstet Gynecol 125(3):643, 2015
+Patterson LS, O’Connell CM, Baskett TF: Maternal and perinatal morbidity associated with classic and
+inverted T cesarean incisions. Obstet Gynecol 100(4):633, 2002
+Peleg D, Eberstark E, Warsof SL, et al: Early wound dressing removal after scheduled cesarean
+delivery: a randomized controlled trial. Am J Obstet Gynecol 215(3):388.e1, 2016
+Pereira Gomes Morais E, Riera R, Porfírio GJ, et al: Chewing gum for enhancing early recovery of
+bowel function after caesarean section. Cochrane Database Syst Rev 10:CD011562, 2016
+Phipps MG, Watabe B, Clemons JL, et al: Risk factors for bladder injury during cesarean delivery.
+Obstet Gynecol 105(1):156, 2005
+Pritchard JA: Changes in the blood volume during pregnancy and delivery. Anesthesiology 26:393, 1965
+Purisch SE, Ananth CV, Arditi B, et al: Effect of delayed vs immediate umbilical cord clamping on
+maternal blood loss in term cesarean delivery: a randomized clinical trial. JAMA 322(19):1869, 2019
+Rahman MS, Gasem T, Al Suleiman SA, et al: Bladder injuries during cesarean section in a university
+hospital: a 25-year review. Arch Gynecol Obstet 279(3):349, 2009
+Ramsey PS, White AM, Guinn DA, et al: Subcutaneous tissue reapproximation, alone or in combination
+with drain, in obese women undergoing cesarean delivery. Obstet Gynecol 105(5 Pt 1):967, 2005
+Roach MK, Abramovici A, Tita AT: Dose and duration of oxytocin to prevent postpartum hemorrhage: a
+review. Am J Perinatol 30(7):523, 2013
+Roberge S, Demers S, Berghella V, et al: Impact of single- vs double-layer closure on adverse outcomes
+and uterine scar defect: a systematic review and metaanalysis. Am J Obstet Gynecol 211(5):453,
+2014
+Roeckner JT, Sanchez-Ramos L, Mitta M, et al: Povidone-iodine 1% is the most effective vaginal
+antiseptic for preventing post-cesarean endometritis: a systematic review and network metaanalysis. Am J Obstet Gynecol 221(3):261.e1, 2019
+Rogers RG, Leeman LM, Borders N, et al: Contribution of the second stage of labour to pelvic floor
+dysfunction: a prospective cohort comparison of nulliparous women. BJOG 121(9):1145, 2014
+Rossi AC, Lee RH, Chmait RH: Emergency postpartum hysterectomy for uncontrolled postpartum
+bleeding: a systematic review. Obstet Gynecol 115(3):637, 2010
+Rossouw JN, Hall D, Harvey J: Time between skin incision and delivery during cesarean. Int J
+Gynaecol Obstet 121(1):82, 2013
+Royal College of Obstetricians and Gynaecologists: Birth after previous caesarean birth. Green-Top
+Guideline No. 45, October 2015
+Royal College of Obstetricians and Gynaecologists: Reducing the risk of venous thromboembolism
+during pregnancy and the puerperium. Green-Top Guideline No. 37a, April 2015
+
+Saad AF, Rahman M, Costantine MM, et al: Blunt versus sharp uterine incision expansion during low
+transverse cesarean delivery: a metaanalysis. Am J Obstet Gynecol 211(6):684.e1, 2014
+Saaqib S, Iqbal A, Naheed M, et al: A randomized controlled trial of cystoinflation to prevent bladder
+injury in the adhesive disease of multiple caesarean sections. Sci Rep 10(1):15297, 2020
+Sacre H, Bird A, Clement-Jones M, et al: Effectiveness of the fetal pillow to prevent adverse maternal
+and fetal outcomes at full dilatation cesarean section in routine practice. Acta Obstet Gynecol Scand
+100(5):949, 2021
+Safrai M, Stern S, Gofrit ON, et al: Urinary tract injuries during cesarean delivery: long-term outcome
+and management. J Matern Fetal Neonatal Med October 4, 2020 [Epub ahead of print]
+Salman L, Aharony S, Shmueli A, et al: Urinary bladder injury during cesarean delivery: maternal
+outcome from a contemporary large case series. Eur J Obstet Gynecol Reprod Biol 213:26, 2017
+Scharman CD, Burger D, Shatzel JJ, et al: Treatment of individuals who cannot receive blood products
+for religious or other reasons. Am J Hematol 92(12):1370, 2017
+Seal SL, Dey A, Barman SC, et al: Randomized controlled trial of elevation of the fetal head with a fetal
+pillow during cesarean delivery at full cervical dilatation. Int J Gynaecol Obstet 133(2):178, 2016
+Sentilhes L, Sénat MV, Le Lous M, et al: Tranexamic acid for the prevention of blood loss after
+cesarean delivery N Engl J Med 384(17):1623, 2021
+Shao Y, Forster SC, Tsaliki E, et al: Stunted microbiota and opportunistic pathogen colonization in
+caesarean-section birth. Nature 574(7776):117, 2019
+Sharp HT, Adelman MR. Prevention, recognition, and management of urologic injuries during
+gynecologic surgery. Obstet Gynecol 127(6):1085, 2016
+Shellhaas CS, Gilbert S, Landon MB, et al: The frequency and complication rates of hysterectomy
+accompanying cesarean delivery. Obstet Gynecol 114(2 Pt 1):224, 2009
+Siddiqui DS, Lacuna EM, Chen HY, et al: Skin closure of Pfannenstiel incision with Dermabond, staples,
+or suture during cesarean delivery: experience of a single attending. Am J Perinatol 30(3):219, 2013
+Sikirica V, Broder MS, Chang E, et al: Clinical and economic impact of adhesiolysis during repeat
+cesarean delivery. Acta Obstet Gynecol Scand 91(6):719, 2012
+Silver RM, Landon MB, Rouse DJ, et al: Maternal morbidity associated with multiple repeat cesarean
+deliveries. Obstet Gynecol 107:1226, 2006
+Smaill FM, Grivell RM: Antibiotic prophylaxis versus no prophylaxis for preventing infection after
+cesarean section. Cochrane Database Syst Rev 10:CD007482, 2014
+Smid MC, Smiley SG, Schulkin J, et al: The problem of the pannus: physician preference survey and a
+review of the literature on cesarean skin incision in morbidly obese women. Am J Perinatol
+33(5):463, 2016
+Stegwee SI, van der Voet LF, Ben AJ, et al: Effect of single- versus double-layer uterine closure during
+caesarean section on postmenstrual spotting (2Close): multicentre, double-blind, randomised
+controlled superiority trial. BJOG 128(5):866, 2021
+Stone J, Bianco A, Monro J, et al: Study to reduce infection prior to elective cesarean deliveries
+(STRIPES): a randomized clinical trial of chlorhexidine. Am J Obstet Gynecol 223(1):113.e1, 2020
+Sullivan SA, Smith T, Chang E, et al: Administration of cefazolin prior to skin incision is superior to
+cefazolin at cord clamping in preventing postcesarean infectious morbidity: a randomized controlled
+trial. Am J Obstet Gynecol 196:455, 2007
+Sultan P, Halpern SH, Pushpanathan E, et al: The effect of intrathecal morphine dose on outcomes after
+elective cesarean delivery: a meta-analysis. Anesth Analg 123(1):154, 2016
+Swank ML, Wing DA, Nicolau DP, et al: Increased 3-gram cefazolin dosing for cesarean delivery
+prophylaxis in obese women. Am J Obstet Gynecol 213(3):415.e1, 2015
+
+Tan PG, Norazilah MJ, Omar SZ: Hospital discharge on the first compared with the second day after a
+planned cesarean delivery: a randomized controlled trial. Obstet Gynecol 120(6):1273, 2012
+Tanner J, Norrie P, Melen K: Preoperative hair removal to reduce surgical site infection. Cochrane
+Database Syst Rev 11:CD004122, 2011
+Tarney CM: Bladder injury during cesarean delivery. Curr Womens Health Rev 9(2):70, 2013
+The Joint Commission: The universal protocol. 2020. Available at:
+https://www.jointcommission.org/standards/universal-protocol/. Accessed December 1, 2020
+Tita AT, Hauth JC, Grimes A, et al: Decreasing incidence of postcesarean endometritis with extendedspectrum antibiotic prophylaxis. Obstet Gynecol 111(1):51, 2008
+Tita AT, Landon MB, Spong CY, et al: Timing of elective repeat cesarean delivery at term and neonatal
+outcomes. N Engl J Med 360(2):111, 2009
+Tita AT, Szychowski JM, Boggess K, et al: Adjunctive azithromycin prophylaxis for cesarean delivery. N
+Engl J Med 375(13):1231, 2016
+Tolcher MC, Johnson RL, El-Nashar SA, et al: Decision-to-incision time and neonatal outcomes: a
+systematic review and meta-analysis. Obstet Gynecol 123(3):536, 2014
+Tolcher MC, Whitham MD, El-Nashar SA, et al: Chlorhexidine-alcohol compared with povidone-iodine
+preoperative skin antisepsis for cesarean delivery: a systematic review and meta-analysis. Am J
+Perinatol 36(2):118, 2019
+Tulandi T, Agdi M, Zarei A, Miner L, et al: Adhesion development and morbidity after repeat cesarean
+delivery. Am J Obstet Gynecol 201(1):56.e1, 2009
+Tuuli MG, Liu J, Tita AT, et al: Effect of prophylactic negative pressure wound therapy vs standard
+wound dressing on surgical-site infection in obese women after cesarean delivery: a randomized
+clinical trial. JAMA 324(12):1180, 2020
+Tuuli MG, Odibo AO, Fogertey P, et al: Utility of the bladder flap at cesarean delivery: a randomized
+controlled trial. Obstet Gynecol 119(4):815, 2012
+Tuuli MG, Stout MJ, Martin S, et al: Comparison of suture materials for subcuticular skin closure at
+cesarean delivery. Am J Obstet Gynecol 215(4):490.e1, 2016
+Valent AM, DeArmond C, Houston JM, et al: Effect of post-cesarean delivery oral cephalexin and
+metronidazole on surgical site infection among obese women: a randomized clinical trial. JAMA
+318(11):1026, 2017
+Villar J, Carroli G, Zavaleta N, et al: Maternal and neonatal individual risks and benefits associated with
+caesarean delivery: multicentre prospective study. BJM 335:1025, 2007
+Viney R, Isaacs C, Chelmow D: Intra-abdominal irrigation at cesarean delivery: a randomized controlled
+trial. Obstet Gynecol 119(6):1106, 2012
+Waring GJ, Shawer S, Hinshaw K: The use of O-ring retractors at caesarean section: a systematic
+review and meta-analysis. Eur J Obstet Gynecol Reprod Biol 228:209, 2018
+Wilhelm NB, Bonsall TJ, Miller CL: The effect of beta-lactam allergy status on the rate of surgical site
+infections: a retrospective cohort study. Ann Surg June 3, 2020 [Epub ahead of print]
+Wilson RD, Caughey AB, Wood SL, et al: Guidelines for antenatal and preoperative care in cesarean
+delivery: Enhanced Recovery after Surgery Society recommendations (Part 1). Am J Obstet
+Gynecol 219(6):523.e1, 2018
+Woldu SL, Ordonez MA, Devine PC, et al: Urologic considerations of placenta accreta: a contemporary
+tertiary care institutional experience. Urol Int 93(1):74, 2014
+Wolf O, Weissman O, Harats M, et al: Birth wind and fire: raising awareness to operating room fires
+during delivery. J Matern Fetal Neonatal Med 26(13):1303, 2013
+
+Wolfson AR, Mancini CM, Banerji A, et al: Penicillin allergy assessment in pregnancy: safety and
+impact on antibiotic use. J Allergy Clin Immunol Pract 9(3):1338, 2021
+World Health Organization: WHO recommendations: uterotonics for the prevention of postpartum
+haemorrhage. Geneva, WHO, 2018
+Worley KC, McIntire DD, Leveno KJ: The prognosis for spontaneous labor in women with
+uncomplicated term pregnancies: implications for cesarean delivery on maternal request. Obstet
+Gynecol 113(4):812, 2009
+Wyckoff MH, Aziz K, Escobedo MB, et al: Part 13: Neonatal resuscitation: 2015 American Heart
+Association guidelines update for cardiopulmonary resuscitation and emergency cardiovascular care.
+Circulation 132(18 Suppl 2):S543, 2015
+Wylie BJ, Gilbert S, Landon MB, et al: Comparison of transverse and vertical skin incision for
+emergency cesarean delivery. Obstet Gynecol 115(6):1134, 2010
+Xodo S, Saccone G, Cromi A, et al: Cephalad-caudad versus transverse blunt expansion of the low
+transverse uterine incision during cesarean delivery. Eur J Obstet Gynecol Reprod Biol 202:75, 2016
+Young OM, Shaik IH, Twedt R, et al: Pharmacokinetics of cefazolin prophylaxis in obese gravidae at
+time of cesarean delivery. Am J Obstet Gynecol 213(4):541.e1, 2015
+Zaphiratos V, George RB, Boyd JC, et al: Uterine exteriorization compared with in situ repair for
+cesarean delivery: a systematic review and meta-analysis. Can J Anaesth 62(11):1209, 2015
+

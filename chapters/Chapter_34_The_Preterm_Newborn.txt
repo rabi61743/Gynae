@@ -1,0 +1,774 @@
+CHAPTER 34
+
+The Preterm Newborn
+
+RESPIRATORY DISTRESS SYNDROME
+NECROTIZING ENTEROCOLITIS
+RETINOPATHY OF PREMATURITY
+BRAIN DISORDERS
+INTRACRANIAL HEMORRHAGE
+CEREBRAL PALSY
+REFERENCES
+At the time of this textbook’s first edition in 1903, preterm delivery was
+often followed by neonatal death. However, subsequent scientific innovation
+has advanced the threshold of viability to 22 to 24 weeks’ gestation
+(Watkins, 2020). Moreover, the overall survival rate for preterm neonates
+<29 weeks’ gestation approaches 80 percent (Travers 2018). Still, the
+preterm newborn is susceptible to many serious medical complications both
+early and later in life (Table 34-1).
+TABLE 34-1. Complications of Prematurity
+
+The complications of prematurity can be serious, and this is reflected in
+overall neonatal mortality rates. In 2018, two thirds of all infant deaths in the
+United States were in the 10 percent born before 37 weeks (Ely, 2020;
+Hamilton, 2021). Fortunately, rates of preterm birth have declined from
+approximately 12 percent in 2007 to 10 percent in 2020. The rate of early
+preterm births (<34 weeks’ gestation) declined from 2.77 to 2.69 percent,
+which is the lowest level reported since 2007 (Hamilton, 2021).
+
+RESPIRATORY DISTRESS SYNDROME
+The seminal complication of the preterm newborn is respiratory distress
+syndrome (RDS). This results from immature lungs that are unable to sustain
+necessary oxygenation due to surfactant deficiency. The resulting hypoxia can
+be associated with pulmonary hypertension and neurologic damage such as
+cerebral palsy. In addition, hyperoxia, a side effect of RDS treatment,
+contributes to other preterm morbidities including bronchopulmonary
+dysplasia, necrotizing enterocolitis, periventricular leukomalacia, and
+retinopathy of prematurity.
+
+■ Etiopathogenesis
+To provide blood gas exchange immediately following delivery, the lungs
+must rapidly fill with air while being cleared of fluid. Concurrently,
+
+pulmonary arterial blood flow must rise. Although some of the fluid is
+expelled as the chest is compressed during vaginal delivery, most is
+absorbed through the pulmonary lymphatics via complex mechanisms
+described in Chapter 32 (p. 586). Sufficient surfactant, synthesized by type II
+pneumocytes, is essential to stabilize the air-expanded alveoli. This
+lipoprotein lowers surface tension and thereby prevents lung collapse during
+expiration (Chap. 7, p. 131). If surfactant is inadequate, hyaline membranes
+form in the distal bronchioles and alveoli, and RDS develops. Although RDS
+is generally a disease of preterm neonates, it can develop in term newborns,
+especially with sepsis, pneumonia, or meconium aspiration. In these cases,
+surfactant can be inactivated by inflammation and/or the presence of
+meconium (Chap. 33, p. 600).
+With inadequate surfactant, alveoli are unstable and collapse with the
+low pressures of end expiration. Pneumocyte nutrition is compromised by
+hypoxia and systemic hypotension. Partial persistence of the fetal circulation
+may lead to pulmonary hypertension and a relative right-to-left shunt.
+Eventually, alveolar cells undergo ischemic necrosis. When oxygen therapy
+is initiated, the pulmonary vascular bed dilates, and the shunt reverses.
+Protein-filled fluid leaks into the alveolar ducts, and the cells lining the ducts
+slough. Hyaline membranes composed of fibrin-rich protein and cellular
+debris line the dilated alveoli and terminal bronchioles. The epithelium
+underlying the membrane becomes necrotic. At autopsy, with histological
+staining of lung tissue with hematoxylin-eosin, these membranes appear
+amorphous and eosinophilic, like hyaline cartilage. Because of this,
+respiratory distress syndrome is also termed hyaline membrane disease.
+
+■ Clinical Course
+In typical RDS, tachypnea develops, the chest wall retracts, and expiration is
+accompanied by nostril flaring and by grunting—in an attempt to provide a
+positive end-expiratory pressure to prevent lung collapse. Shunting of blood
+through nonventilated lung contributes to hypoxemia and to metabolic and
+respiratory acidosis. Poor peripheral circulation and systemic hypotension
+may be evident. The typical chest radiograph shows a diffuse
+reticulogranular infiltrate and an air-filled tracheobronchial tree—air
+bronchograms (Fig. 34-1).
+
+FIGURE 34-1 Chest radiograph of a preterm newborn with moderate respiratory distress syndrome.
+Note the diffuse granularity throughout the lungs and mild, central, air bronchograms. The lungs are only
+eight ribs expanded despite mechanical ventilation.
+
+Respiratory insufficiency can also be caused by sepsis, pneumonia,
+meconium aspiration, pneumothorax, persistent fetal circulation, heart
+failure, and congenital malformations involving thoracic structures, such as
+diaphragmatic hernia (Chap. 33, p. 599). Common mutations in surfactant
+protein production and the phospholipid transporter (ABCA3) are rare
+causes of RDS (Singh, 2021).
+
+■ Treatment
+An important factor influencing survival is neonatal intensive care. Although
+hypoxemia prompts application of supplemental oxygen, excess oxygen can
+damage the pulmonary epithelium, retina, and other immature tissues. Despite
+this, advances in mechanical ventilation technology have improved neonatal
+survival rates. For example, continuous positive airway pressure (CPAP)
+prevents the collapse of unstable alveoli. This allows high concentrations of
+inspired oxygen to be reduced, thereby minimizing its toxicity. To help limit
+
+the need for tracheal intubation and intermittent positive-pressure ventilation,
+CPAP has been studied in well-designed trials (Morley, 2008; SUPPORT
+Study Group, 2010b). An initial CPAP strategy coupled with subsequent
+selective surfactant use is a beneficial alternative to immediate intubation
+and surfactant for neonates of extremely early gestational age (Wyckoff,
+2020). Less-invasive surfactant administration techniques allow surfactant
+delivery while maintaining the preterm newborn on CPAP. Such methods
+reduce the need for intubation and mechanical ventilation in the first 72 hours
+and decrease rates of death or bronchopulmonary dysplasia (Abdel-Latif,
+2021).
+Mechanical ventilation has undoubtedly improved survival rates, but it is
+an important factor in the genesis of chronic lung disease of prematurity—
+bronchopulmonary dysplasia (BPD). Namely, mechanical ventilation places
+a newborn at risk for barotrauma and volutrauma. Moreover, hyperoxia can
+create reactive oxygen species that trigger inflammation. Infection also can
+be contributory. In affected newborns, alveolar and pulmonary vascular
+development is disrupted, leading to hypoxia, hypercarbia, and chronic
+oxygen dependence. It can also affect adult lung function (Thébaud, 2019).
+BPD remains the most frequent complication of extreme preterm birth (Stoll,
+2015).
+High-frequency oscillatory ventilation is an alternative to conventional
+mechanical ventilation for preterm newborns. However, benefits and risks
+vary considerably between studies (Cools, 2015). Similarly, thus far, the
+evidence for high-frequency jet ventilation is not superior to conventional
+ventilation for this population (Rojas-Reyes, 2015).
+In the past, ventilator-dependent preterm neonates were often treated with
+glucocorticoids to prevent and treat BPD. This differs from antenatal use,
+described in the next sections. The American Academy of Pediatrics now
+recommends against routine neonatal corticosteroid use because of limited
+benefits and greater rates of impaired motor and cognitive function and
+school performance in exposed newborns (Watterberg, 2010). The risk of
+adverse neurodevelopment is highest if dexamethasone is given to preterm
+newborns at low risk of BPD. Attempts have been made to identify the
+highest-risk neonates for whom the benefits would exceed the risks (Cuna,
+2018). Different types of corticosteroids, with various timing and
+administration routes, have been studied. Current trials are focused on
+corticosteroids, mixed with surfactant, delivered intratracheally directly to
+
+the lung. This approach may avoid some systemic adverse effects of
+corticosteroids (Cheong, 2019).
+In other efforts to prevent BPD, early animal studies demonstrated
+significant improvements in lung function with weeks of inhaled nitric oxide
+(McCurnin, 2005). Despite initial enthusiasm, clinical trials failed to
+demonstrate a consistent benefit (Greenough, 2020). A National Institutes of
+Health (NIH) consensus statement concluded that the available data do not
+support its use to prevent or treat BPD (Cole, 2011).
+Caffeine has been used widely to treat apnea of prematurity, but it also
+has bronchodilatory effects. One large randomized trial of caffeine versus
+placebo showed lower BPD rates, improved neurodevelopmental outcomes
+during early childhood, and good evidence of safety up to 11 years (Schmidt,
+2006, 2012, 2017). This therapy is now widely used for newborns weighing
+≤1250 g.
+The antioxidant vitamin A is necessary for normal lung growth and the
+integrity of respiratory tract epithelial cells. Preterm newborns have low
+vitamin A levels at birth, and this is associated with a greater risk of
+developing BPD. Randomized trials support the use of vitamin A to modestly
+reduce BPD rates for very-low-birthweight neonates weighing <1500 g
+(Darlow, 2016). Unfortunately, production shortages have limited the use of
+vitamin A prophylaxis in the past decade.
+
+Surfactant Prophylaxis and Rescue Therapy
+Surfactant replacement was established decades ago as an effective and safe
+therapy for RDS. Surfactant improves mortality rates, reduces the need for
+ventilation, and improves short-term outcomes for low-birth-weight neonates
+(Hentschel, 2020). It is standard therapy for newborn RDS (American
+Academy of Pediatrics, 2017).
+Exogenous surfactant products are most commonly delivered via
+endotracheal tube to help treat RDS. They contain biological or animal
+surfactants such as bovine—Survanta, calf—Infasurf, or porcine—
+Curosurf. One Cochrane review found that animal-derived surfactants led to
+better outcomes than synthetic ones, which do not contain important
+surfactant proteins (Ardell, 2015). Currently, no synthetic surfactants are
+available, yet newer ones are in testing (Hentschel, 2020).
+
+For rescue surfactant therapy, less invasive methods of delivery to
+spontaneously breathing preterm neonates have been developed. These
+include surfactant application into the pharynx, surfactant nebulization, and
+application via laryngeal mask (Hentschel, 2020). Administration of
+surfactant via a thin catheter while maintaining the newborn on CPAP is
+associated with reduced risk of death or BPD, lower intubation rate in the
+first 72 hours, reduced incidence of major complications, and a reduced inhospital mortality rate compared with administration via an endotracheal
+tube (Abdel-Latif, 2021).
+Surfactant has been used for prophylaxis of preterm, at-risk newborns.
+Given together, antenatal corticosteroids and postnatal surfactant result in an
+even greater reduction in the overall death rate. However, randomized trials
+indicate that in populations with high use of antenatal corticosteroids and
+routine use of CPAP in the delivery room, prophylactic surfactant is no
+longer beneficial and is associated with greater risk of death or BPD (RojasReyes, 2012; Sardesai, 2017).
+
+■ Prevention
+Antenatal Corticosteroids
+More than two decades ago, the NIH (2000) concluded that a single course
+of antenatal corticosteroid therapy reduces RDS and intraventricular
+hemorrhage rates in preterm neonates born between 24 and 34 weeks’
+gestation (p. 619). The American College of Obstetricians and Gynecologists
+(2020a) considers all women at risk for preterm birth in this gestational-age
+range to be potential candidates for therapy. It also may be considered for
+pregnant women starting at 23 weeks’ gestation who are at risk of preterm
+delivery within 7 days. For the periviable fetus, other management guidelines
+are listed in Table 45-4 (p. 786). Administration of corticosteroids for
+pregnant women during the periviable period who are at risk of preterm
+delivery within 7 days should be linked to a family’s decision regarding
+resuscitation and should be considered in that context. Thus, as survival at
+even earlier gestations improves, the threshold for administration may
+decrease as well.
+Administration of antenatal corticosteroids to women at risk for latepreterm delivery (34 to 36 weeks’ gestation) reduces the rate of neonatal
+
+respiratory complications (Gyamfi-Bannerman, 2016). Consideration of a
+single course of betamethasone for women at risk for late-preterm delivery is
+supported by the American College of Obstetricians and Gynecologists
+(2020a). Based on data presented in Chapter 45 (p. 802), at Parkland
+Hospital, this is not currently our practice.
+
+Amniocentesis to Assess Fetal Lung Maturity
+Amniocentesis to assess fetal lung maturity was used previously to predict
+the neonatal risk for RDS. However, this use of amniocentesis to guide
+delivery decisions in any clinical situation of pregnancy is not currently
+supported or recommended (American College of Obstetricians and
+Gynecologists, 2021a,b).
+
+NECROTIZING ENTEROCOLITIS
+This newborn bowel disorder has clinical findings that include abdominal
+distention, emesis, ileus, bilious gastric aspirates, and bloody stools. Often,
+radiological images show pneumatosis intestinalis, which is bowel wall gas
+derived from invading bacteria (Fig. 34-2). Other classic imaging findings
+include hepatobiliary gas and pneumoperitoneum. Bowel perforation
+necessitates prompt resection.
+
+FIGURE 34-2 Abdominal radiograph of a preterm newborn with necrotizing enterocolitis. Note the
+distended air-filled loops of large and small bowel. Significant pneumatosis intestinalis, which is
+intramural bowel gas, is visualized within the right lower quadrant and within the pelvis. Not seen here,
+an associated finding is air in the portal veins of the liver.
+
+Necrotizing enterocolitis (NEC) is seen primarily in low-birthweight
+newborns but occasionally in mature neonates. Hypothesized causes include
+perinatal hypotension, hypoxia, sepsis, umbilical catheterization, exchange
+transfusions, blood transfusions, and the feeding of cow milk and hypertonic
+solutions (Neu, 2011). The pathophysiology is thought to be multifactorial,
+and genetic disposition, intestinal immaturity, imbalance in microvascular
+tone, abnormal microbial colonization in the intestine, exposure to enteral
+feeds, and highly immunoreactive intestinal mucosa play potential roles
+(Bazacliu, 2019; Neu, 2011).
+Medical treatment includes abdominal decompression, bowel rest,
+broad-spectrum antibiotics, and parenteral nutrition. Surgery is reserved for
+neonates with intestinal perforation or deteriorating clinical or biochemical
+status. Possible surgical procedures include drain placement, exploratory
+laparotomy with resection of diseased bowel, or enterostomy with creation
+of a stoma (Neu, 2011).
+
+RETINOPATHY OF PREMATURITY
+By 1950, this condition, formerly known as retrolental fibroplasia, became
+the largest single cause of blindness in this country. After the discovery that
+the disease resulted from hyperoxemia, its frequency declined but began to
+rise again with the increasing survival rates of extremely preterm newborns.
+Normally, the fetal retina vascularizes centrifugally from the optic nerve
+starting at approximately the fourth month, and this continues until shortly
+after birth. During vascularization, excessive oxygen induces severe retinal
+vasoconstriction, which leads to endothelial damage and vessel obliteration.
+This is followed by subsequent aberrant neovascularization, in which the
+new vessels penetrate the retina and extend into the vitreous. Here, they are
+prone to leak proteins or to burst and bleed. Adhesions can form to detach
+the retina. Vascular endothelial growth factor (VEGF) contributes to normal
+angiogenesis and is upregulated during retinopathy of prematurity (ROP)
+development (Hellström, 2019). This understanding has opened new avenues
+of treatment with anti-VEGF therapies.
+The precise levels of hyperoxemia that can be sustained without causing
+ROP are unknown. After birth, there is a “relative” hyperoxia compared with
+in-utero oxygen content, even in newborns not exposed to higher inspired
+oxygen concentrations. To better understand the oxygen saturation threshold
+necessary to minimize ROP without raising rates of other adverse outcomes,
+the Neonatal Research Network performed a randomized trial of oxygenation
+in 1316 neonates born between 24 and 27 weeks’ gestation (SUPPORT Study
+Group, 2010a). The two target ranges of oxygen saturation were 85 to 89
+percent in one arm and 91 to 95 percent in the other arm. These targets were
+both commonly employed in neonatal intensive care units. Death before
+discharge occurred significantly more frequently in the lower-oxygen
+saturation group—20 versus 16 percent. However, severe ROP among
+survivors developed significantly less often in the lower-oxygen saturation
+group—8.6 versus 17.9 percent.
+
+BRAIN DISORDERS
+Central nervous system injury usually creates different neuroanatomical
+sequelae in preterm newborns compared with those at term (Chap. 33, p.
+607). In preterm neonates, cerebral lesions detected by neuroimaging include
+
+intraventricular hemorrhage, cerebellar hemorrhage, periventricular
+hemorrhagic infarction, cystic periventricular leukomalacia, and diffuse
+white matter injury. All of these are strongly associated with adverse
+neurodevelopmental outcomes (Kwon, 2014).
+Cranial sonography remains the preferred approach for detecting
+frequently occurring brain abnormalities and acute events in the preterm
+neonate. It is readily available and reliable for detecting common
+abnormalities and monitoring brain growth. Because cystic injuries may take
+2 to 5 weeks to evolve, serial scans are obtained during this time. In those
+whose findings are transient and resolve in the neonatal period, prognosis is
+improved compared with infants whose lesions remain and evolve. At the
+same time, however, between 4 and 10 percent of prematurely born children
+may develop cerebral palsy (CP) in the absence of lesions. Put another way,
+90 to 96 percent of preterm newborns with CP have cerebral lesions that are
+detectable using cranial sonography.
+
+■ Intracranial Hemorrhage
+There are five major categories of intracranial hemorrhage in the neonate
+(Table 33-4, p. 607) (Volpe, 2016). Primary subarachnoid hemorrhage is
+more common in those born preterm and is frequently benign. Cerebellar
+hemorrhage is also more frequent in preterm neonates and is increasingly
+recognized as a cause of serious sequelae. Intraventricular hemorrhage
+(IVH) is almost exclusively seen in preterm newborns, is relatively common,
+and can have serious effects (Hintz, 2015, 2018). Subdural hemorrhages are
+more frequent in term newborns and can be serious (Chap. 33, p. 608).
+Miscellaneous intraparenchymal hemorrhage is also more frequent in those
+born at term and is of variable concern.
+
+■ Intraventricular Hemorrhage
+The germinal matrix is a highly cellular and vascular region of the
+developing brain located beneath the lateral ventricles. In preterm neonates,
+the germinal matrix capillary network is fragile for several reasons. First, the
+subependymal germinal matrix provides poor support for the vessels
+coursing through it. Second, venous anatomy in this region causes stasis and
+congestion, which makes vessels susceptible to bursting if intravascular
+
+pressure rises. Third, vascular autoregulation is impaired in the preterm
+neonate (Verhagen, 2014; Volpe, 2016).
+If fragile capillaries in the germinal matrix rupture, blood escapes into
+the ventricular system—intraventricular hemorrhage (IVH). This may dilate
+the ventricle, which then can obstruct venous drainage of the surrounding
+tissue. As a result, venous infarction and hemorrhage, termed periventricular
+hemorrhagic infarction, may follow.
+Risk of severe IVH is inversely related to gestational age (Stoll, 2015).
+IVH is a serious complication of preterm neonates born before 32 weeks and
+is particularly frequent in those born before 27 weeks. The germinal matrix
+involutes between 34 and 36 weeks’ gestation. Thus, IVH is infrequent after
+that period of brain development (Guillot, 2020). Most hemorrhages develop
+within 72 hours of birth (Hand, 2020). Because IVH usually is recognized
+within 3 days of delivery, its genesis is sometimes erroneously attributed to
+birth events. It is important to realize that prelabor IVH also can occur
+(Dunbar, 2021).
+The pathogenesis of IVH is multifactorial and includes hypoxic-ischemic
+events, carbon dioxide elevations, anatomical factors, blood pressure
+instability, coagulopathy, genetic factors, and many others (Gilard, 2020;
+Leijser, 2019). Moreover, preterm birth is frequently associated with
+infection, which further predisposes to endothelial activation, platelet
+adherence, and thrombi (Villamor-Martinez, 2018). Respiratory distress and
+mechanical ventilation are commonly associated factors (Leijser, 2019).
+Almost half of hemorrhages are clinically silent. Most small germinal
+matrix hemorrhages and those confined to the cerebral ventricles resolve
+without impairment. But, nearly half do show some sign of neurological
+impairment (Leijser, 2019). Survivors of extensive
+periventricular/intraventricular hemorrhage can have major
+neurodevelopmental handicaps (Mukerji, 2015). Large lesions can result in
+hydrocephalus or in degenerated cystic areas termed periventricular
+leukomalacia (PVL), discussed later. Importantly, the extent of PVL
+correlates with CP risk (Dorner, 2018).
+
+Incidence and Severity
+IVH incidences vary according to gestational age at birth. Severe IVH rates
+have declined (Handley, 2018; Yeo, 2020). From the Neonatal Research
+
+Network, the incidence from 1993 to 2012 for neonates <29 weeks’ gestation
+dropped from 19 to 13 percent (Stoll, 2015). In 2012, the incidence ranged
+from 11 percent in those born at 23 weeks to only 5 percent for those born at
+28 weeks.
+The severity of IVH can be assessed by neuroimaging studies. Papile and
+coworkers (1978) devised the most widely used grading scheme to quantify
+the lesion extent and estimate prognosis. Since the initial report, the Papile
+classification has been modified (Hand, 2020):
+• Grade I—hemorrhage is limited to the germinal matrix
+• Grade II—IVH occupies 10 to 50 percent of the ventricular area
+• Grade III—hemorrhage with >50 percent of the ventricular area involved
+• Parenchymal hemorrhage (previously called Grade IV)—most likely
+attributable to hemorrhagic venous infarction rather than extension of IVH
+into the parenchyma.
+
+Antenatal Corticosteroids
+If given at least 48 hours before delivery, corticosteroids prevent or reduce
+the incidence of severe IVH (Battarbee, 2020). A Consensus Development
+Conference of the NIH (1994) concluded that such therapy reduced rates of
+mortality, RDS, and IVH in preterm neonates born between 24 and 32 weeks’
+gestation. A second consensus statement by the NIH (2000) recommended
+that repeated courses of corticosteroids not be given (Chap. 45, p. 803).
+Subsequently, the Maternal–Fetal Medicine Units Network reported that
+repeated corticosteroid courses were associated with some improved
+preterm neonatal outcomes, but also with reduced birthweight and increased
+risk for fetal-growth restriction (Wapner, 2006). Surveillance of this cohort
+through age 2 to 3 years found that children exposed to repeated versus
+single-dose corticosteroid courses did not differ significantly in physical or
+neurocognitive measures (Wapner, 2007). It was worrisome, however, that
+infants exposed to multiple courses had a nonsignificant 5.7-fold relative risk
+of CP.
+At the same time, the 2-year follow-up of the Australian Collaborative
+Trial was reported by Crowther and coworkers (2007). In more than 1100
+newborns, the incidence of CP was almost identical—4.2 versus 4.8 percent
+—in those given repeated versus single-course corticosteroids, respectively.
+
+More recently, it was reported that for those born before 28 weeks’
+gestation, if 10 days or more had passed since betamethasone administration,
+the incidence of severe IVH was higher (Liebowitz, 2016). This is not a
+consistent finding in all studies (Battarbee, 2020).
+The most recent recommendations from the American College of
+Obstetricians and Gynecologists (2020a) are for a single course of
+corticosteroids for pregnant women between 240/7 weeks and 336/7 weeks’
+gestation who are at risk for preterm delivery. They further note that those
+given their initial course more than 14 days prior and who have imminent
+risk of preterm delivery may receive a second “rescue” course.
+
+Other Preventive Methods
+Although antenatal magnesium sulfate for those at risk for preterm delivery
+does not reduce the incidence of IVH, it does offer protection from
+neurodevelopmental impairment (Shepherd, 2018). The American College of
+Obstetricians and Gynecologists (2020b) recommends its use for this
+indication, as discussed further in Chapter 45 (p. 803). Antenatal vitamin K
+and phenobarbital and postnatal phenobarbital have not consistently reduced
+the incidence of IVH in studies (Crowther, 2010a,b; Smit, 2013). Although
+vitamin E reduced IVH rates, the associated risk for sepsis was increased
+(Brion, 2003). Metaanalyses of the many randomized trials of postnatal
+indomethacin and other prostaglandin inhibitors show inconsistent results
+regarding reductions in IVH rates (Fowlie, 2010; Mitra, 2018). None has
+shown improvements in neurodevelopmental impairment.
+The benefits of cesarean delivery compared with vaginal birth to lower
+IVH rates remains controversial. One metaanalysis reported that cesarean
+delivery for very-low-birthweight neonates had no effect on rates of severe
+IVH but did reduce overall IVH rates (Barzilay, 2016). The benefits of
+cesarean delivery to lower IVH rates in breech and growth-restricted fetuses
+are unclear from current observational data (Baalbaki, 2018). Prospective
+trials are needed.
+Delayed umbilical cord clamping compared to immediate cord clamping
+has been reported to reduce the risk for any grade of IVH in preterm
+newborns but has not reduced rates of severe IVH (Rabe, 2019; Seidler,
+2021). In preterm neonates, deferred cord clamping may also raise
+hemoglobin and hematocrit levels and improve survival rates (Seidler,
+
+2021). Cord milking is associated with higher rates of severe IVH in
+neonates <28 weeks’ gestation and should be avoided (Katheria, 2019;
+Wyckoff, 2020).
+
+■ Periventricular Leukomalacia
+This histological description refers to cystic areas deep in brain white matter
+that develop after hemorrhagic or ischemic infarction. Tissue ischemia leads
+to regional necrosis. Because brain tissue does not regenerate and the
+preterm neonate has minimal gliosis, these irreversibly damaged areas
+appear as echolucent cysts in neuroimaging studies. Generally, they require at
+least 2 weeks to form but may develop as late as 4 months after the initial
+insult. Thus, their presence at birth may help to determine the timing of an
+inciting event.
+
+CEREBRAL PALSY
+This group of conditions is characterized by chronic movement or posture
+abnormalities that are cerebral in origin, arise early in life, and are
+nonprogressive (Nelson, 2003). Epilepsy and mental retardation frequently
+accompany CP. Its cause differs in preterm and term neonates, and the latter
+is described in Chapter 33 (p. 602).
+CP is commonly classified by the type of neurological dysfunction—
+spastic, dyskinetic, or ataxic—and by the number and distribution of limbs
+involved—quadriplegia, diplegia, hemiplegia, or monoplegia.
+• Spastic quadriplegia has a strong association with developmental
+retardation and epilepsy. Spastic quadriplegia is the most severe form of
+spastic CP and affects all four limbs, the trunk, and the face.
+• Spastic diplegia is common in preterm or low-birthweight neonates. In this
+CP type, muscle stiffness is mainly in the legs, and the arms are less or not
+involved. Affected persons might have difficulty walking because tight
+extremity muscles cause their legs to pull together, turn inward, and cross at
+the knees.
+• Spastic hemiplegia affects only one side of a person’s body, and the arm is
+affected usually more than the leg.
+
+• Dyskinetic CP includes athetoid, choreoathetoid, and dystonic cerebral
+forms. Poor control of hand, arm, feet, and leg movements make sitting and
+walking difficult. Movements may be slow and writhing or rapid and jerky.
+• Ataxic CP manifests as problems with balance and coordination.
+• Mixed CP manifests with symptoms of more than one CP type. The most
+common type is spastic–dyskinetic CP (National Institute of Neurological
+Disorders and Stroke, 2020).
+
+■ Incidence
+According to the Centers for Disease Control and Prevention (2020a), the
+prevalence of CP in the United States approximates 3 cases in 1000 children.
+Hafström and coworkers (2018) reported the 6-year follow-up of all babies
+born at gestational ages <28 weeks in Sweden from 2004 to 2007. The CP
+rate overall was 10.5 percent, and no linear association was found between
+gestational age at birth and CP rates in this cohort.
+
+■ Risks
+Intraventricular Hemorrhage
+Various clinical and pathological data link CP with associated severe IVH
+(grade III or IV) and resulting PVL. Low-grade IVH is generally considered
+benign, but it is associated with higher rates of CP in school-aged children
+born extremely preterm (Hollebrandse, 2021). Higher IVH grades are
+associated with even greater rates.
+
+Ischemia
+Preterm newborns are susceptible to brain ischemia and PVL. This is in part
+due to immature cerebral vasculature and an immature cerebrovascular
+autoregulation system that is pressure passive. In response to systemic
+hypotension, preterm infants cannot increase cerebral perfusion to borderzone regions of the brain supplied by the immature penetrating cerebral
+vasculature (Novak, 2018). This triggers a cascade of events caused by
+hypoxia–ischemia that results in pyramidal tract damage, which can cause
+spastic diplegia.
+
+Perinatal Infection/Inflammation
+PVL is associated with infection and inflammation. In one study of 753
+neonates born between 24 and 32 weeks’ gestation, 9 percent developed
+PVL (Zupan, 1996). Those born before 28 weeks, those who had
+inflammatory events during the last days to weeks before delivery, and those
+who had both were at highest risk. In another study, PVL was strongly
+associated with prolonged membrane rupture, chorioamnionitis, and neonatal
+hypotension (Perlman, 1996). Bailis and coworkers (2008) reported that
+chronic—and not acute—placental inflammation was associated with PVL.
+In another study of 3094 singletons born before 33 weeks’ gestation, 15
+percent had evidence of clinical chorioamnionitis (Soraisham, 2009).
+Compared with noninfected infants, cases complicated by infection had
+significantly higher rates of IVH—22 versus 12 percent.
+Fetal infection may be a key element in the pathway between preterm
+birth and CP (Burd, 2012; Leviton, 2010, Novack, 2018). As discussed in
+Chapter 45 (p. 789), chorioamnionitis is a major cause of spontaneous
+preterm delivery. In the pathway proposed in Figure 34-3, antenatal
+reproductive tract infection evokes the production of cytokines such as tumor
+necrosis factor (TNF) and interleukins 1, 6, and 8. These in turn stimulate
+prostaglandin production and preterm labor. Preterm fetal intracranial blood
+vessels are susceptible to rupture and damage, and the cytokines that
+stimulate preterm labor also have direct toxic effects on oligodendrocytes
+and myelin. Vessel rupture, tissue hypoxia, and cytokine-mediated damage
+result in massive neuronal cell death. Glutamate is released, which
+stimulates membrane receptors to allow excess calcium to enter the neurons.
+High intracellular calcium levels are toxic to white matter, and glutamate
+may be directly toxic to oligodendrocytes (Khwaja, 2008). Inflammation
+induced by the activation of microglia and macrophages with the production
+and release of proinflammatory cytokines, chemokines, proteases,
+complement factors, excitotoxic amino acids, reactive oxygen species, and
+nitric oxide further exacerbates secondary brain injury (Novack, 2018).
+
+FIGURE 34-3 Schematic representation of the hypothesized pathway between maternal or intrauterine
+infection and preterm birth or periventricular leukomalacia. Both potentially lead to cerebral palsy. LPS
+= lipopolysaccharide; PG = prostaglandin.
+
+Many studies show that infection and cytokines can directly damage the
+immature brain (Chau, 2014; Yoon, 1997a). TNF and interleukin 6 were
+more frequently found in the brains of infants who died with PVL (Yoon,
+1997b). Cytokines are strongly linked to white matter lesions even when
+organisms cannot be demonstrated (Yoon, 2000).
+
+■ Prevention—Neuroprotection
+The benefits of antenatal magnesium sulfate and corticosteroids are well
+described (Gentle, 2020). Another potential neuroprotective therapy is
+erythropoiesis-stimulating agents (ESAs) such as erythropoietin and
+
+darbepoetin. In addition to stimulating erythropoiesis, ESAs protect the
+developing brain in animal models (Wassink, 2017). One recent metaanalysis
+found decreased rates of IVH and PVL in preterm neonates treated with
+ESAs soon after birth. The effects on neurodevelopmental impairment are
+unclear (Ohlsson, 2020). In one large trial, early high-dose erythropoietin
+compared with placebo did not lower the risk of severe neurodevelopmental
+impairment or death at age 2 years (Juul, 2020). A large trial of the longeracting darbepoetin has completed enrollment and is in the follow-up phase
+(clinicaltrials.gov/ct2/show/NCT01471015). Last, discussed in Chapter 33
+(p. 602) for neonates >36 weeks, induced hypothermia for neuroprotection is
+not recommended for preterm newborns. This stems from their different
+pattern of gray and white matter injury and their greater susceptibility to cold
+stress. The exact gestational age for which therapeutic cooling for hypoxicischemic encephalopathy (HIE) would provide more benefit than harm is
+unknown. A trial of cooling for neonates born at 330/7 to 356/7 weeks’
+gestation with moderate/severe HIE has completed enrollment and is in the
+follow-up phase.
+
+REFERENCES
+Abdel-Latif ME, Davis PG, Wheeler KI, et al: Surfactant therapy via thin catheter in preterm infants
+with or at risk of respiratory distress syndrome. Cochrane Database Syst Rev 5:CD011672, 2021
+American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Neonatal
+complications. In Guidelines for Perinatal Care, 8th ed. Elk Grove Village, AAP, 2017
+American College of Obstetricians and Gynecologists: Antenatal corticosteroid therapy for fetal
+maturation. Committee Opinion No. 713. August 2017, Reaffirmed 2020a
+American College of Obstetricians and Gynecologists, Society for Maternal-Fetal Medicine: Magnesium
+sulfate before anticipated preterm birth for neuroprotection. Committee Opinion No. 455, March
+2010, Reaffirmed 2020b
+American College of Obstetricians and Gynecologists: Avoidance of nonmedically indicated early-term
+deliveries and associated neonatal morbidities. Committee Opinion No. 765, January 2019,
+Reaffirmed 2021a
+American College of Obstetricians and Gynecologists: Medically indicated late-preterm and early-term
+deliveries. Committee Opinion No. 831, June 2021b
+Ardell S, Pfister RH, Soll R: Animal derived surfactant extract versus protein free synthetic surfactant
+for the prevention and treatment of respiratory distress syndrome. Cochrane Database Syst Rev
+5:CD000144, 2015
+Baalbaki SH, Kuper SG, Wang MJ, et al: Impact of intended mode of delivery on outcomes in preterm
+growth-restricted fetuses. Am J Perinatol 35(7):605, 2018
+Bailis A, Maleki Z, Askin F, et al: Histopathological placental features associated with development of
+periventricular leukomalacia in preterm infants. Am J Obstet Gynecol 199(6):S43, 2008
+
+Barzilay E, Gadot Y, Koren G: Safety of vaginal delivery in very low birthweight vertex singletons: a
+meta-analysis. J Matern Fetal Neonatal Med 29(22):3724, 2016
+Battarbee AN, Ros ST, Esplin MS, et al: Optimal timing of antenatal corticosteroid administration and
+preterm neonatal and early childhood outcomes. Am J Obstet Gynecol MFM 2(1):100077, 2020
+Bazacliu C, Neu J. Pathophysiology of necrotizing enterocolitis: an update. Curr Pediatr Rev 15(2):68,
+2019
+Brion LP, Bell EF, Raghuveer TS: Vitamin E supplementation for prevention of morbidity and mortality
+in preterm infants. Cochrane Database Syst Rev 4:CD003665, 2003
+Burd I, Balakrishnan B, Kannan S: Models of fetal brain injury, intrauterine inflammation, and preterm
+birth. Am J Reprod Immunol 67(4):287, 2012
+Centers for Disease Control and Prevention: Data and statistics for cerebral palsy. 2020. Available at:
+www.cdc.gov/ncbddd/cp/data.html. Accessed June 30, 2021
+Chau V, McFadden DE, Poskitt KJ, et al: Chorioamnionitis in the pathogenesis of brain injury in preterm
+infants. Clin Perinatol 41(1):83, 2014
+Cheong JL, Doyle LW: Long-term effects of postnatal corticosteroids to prevent or treat
+bronchopulmonary dysplasia: balancing the risks and benefits. Semin Fetal Neonatal Med 24(3):197,
+2019
+Cole FS, Alleyne C, Barks JD et al: NIH Consensus Development Conference statement: inhaled nitricoxide therapy for premature infants. Pediatrics 127:363, 2011
+Cools F, Offringa M, Askie LM: Elective high frequency oscillatory ventilation versus conventional
+ventilation for acute pulmonary dysfunction in preterm infants. Cochrane Database Syst Rev
+3:CD000104, 2015
+Crowther CA, Crosby DD, Henderson-Smart DJ: Phenobarbital prior to preterm birth for preventing
+neonatal periventricular haemorrhage. Cochrane Database Syst Rev 1:CD000164, 2010a
+Crowther CA, Crosby DD, Henderson-Smart DJ: Vitamin K prior to preterm birth for preventing
+neonatal periventricular haemorrhage. Cochrane Database Syst Rev 1:CD000229, 2010b
+Crowther CA, Doyle LW, Haslam RR, et al: Outcomes at 2 years of age after repeat doses of antenatal
+corticosteroids. N Engl J Med 357:1179, 2007
+Cuna A, Liu C, Govindarajan S, et al: Usefulness of an online risk estimator for bronchopulmonary
+dysplasia in predicting corticosteroid treatment in infants born preterm. J Pediatr 197:23, 2018
+Darlow BA, Graham PJ, Rojas-Reyes MX: Vitamin A supplementation to prevent mortality and shortand long-term morbidity in very low birth weight infants. Cochrane Database Syst Rev 8:CD000501,
+2016
+Dorner RA, Burton VJ, Allen MC, et al: Preterm neuroimaging and neurodevelopmental outcome: a
+focus on intraventricular hemorrhage, post-hemorrhagic hydrocephalus, and associated brain injury. J
+Perinatol 38(11):1431, 2018
+Dunbar MJ, Woodward K, Leijser LM, et al: Antenatal diagnosis of fetal intraventricular hemorrhage:
+systematic review and meta-analysis. Dev Med Child Neurol 63(2):144, 2021
+Ely DM, Driscoll AK: Infant mortality in the United States, 2018: data from the period linked birth/infant
+death file. Natl Vital Stat Rep 69(7):1, 2020
+Fowlie PW, Davis PG, McGuire W: Prophylactic intravenous indomethacin for preventing mortality and
+morbidity in preterm infants. Cochrane Database Syst Rev 7:CD000174, 2010
+Gentle SJ, Carlo WA, Tan S, et al: Association of antenatal corticosteroids and magnesium sulfate
+therapy with neurodevelopmental outcome in extremely preterm children. Obstet Gynecol
+135(6):1377, 2020
+
+Gilard V, Tebani A, Bekri S, et al: Intraventricular hemorrhage in very preterm infants: a comprehensive
+review. J Clin Med 9(8):2447, 2020
+Greenough A, Decobert F, Field D, et al: Inhaled nitric oxide (iNO) for preventing prematurity-related
+bronchopulmonary dysplasia (BPD): 7-year follow-up of the European Union Nitric Oxide (EUNO)
+trial. J Perinat Med 49(1):104, 2020
+Guillot M, Chau V, Lemyre B: Routine imaging of the preterm neonatal brain. Paediatr Child Health
+25(4):249, 2020
+Gyamfi-Bannerman C, Thom EA, Blackwell SC, et al: Antenatal betamethasone for women at risk for
+late preterm delivery. N Engl J Med 374(14):1311, 2016
+Hafström M, Källén K, Serenius F, et al: cerebral palsy in extremely preterm infants. Pediatrics
+141(1):e20171433, 2018
+Hamilton BE, Martin JA, Osterman MJ: Births: provisional data for 2020. 2021. Available at:
+https://stacks.cdc.gov/view/cdc/104993. Accessed June 30, 2021
+Hand IL, Shellhaas RA, Milla SS: Routine neuroimaging of the preterm brain. Pediatrics
+146(5):e2020029082, 2020
+Handley SC, Passarella M, Lee HC, et al: Incidence trends and risk factor variation in severe
+intraventricular hemorrhage across a population based cohort. J Pediatr 200:24, 2018
+Hellström A, Hård AL: Screening and novel therapies for retinopathy of prematurity—a review. Early
+Hum Dev 138:104846, 2019
+Hentschel R, Bohlin K, van Kaam A, et al: Surfactant replacement therapy: from biological basis to
+current clinical practice. Pediatr Res 88:176, 2020
+Hintz SR, Barnes PD, Bulas D, et al: Neuroimaging and neurodevelopmental outcome in extremely
+preterm infants. Pediatrics 135(1):e32, 2015
+Hintz SR, Vohr BR, Bann CM, et al: Preterm neuroimaging and school-age cognitive outcomes.
+Pediatrics 142(1):e20174058, 2018
+Hollebrandse NL, Spittle AJ, Burnett AC, et al: School-age outcomes following intraventricular
+haemorrhage in infants born extremely preterm. Arch Dis Child Fetal Neonatal Ed 106(1):42021,
+2021.
+Juul SE, Comstock BA, Wadhawan R, et al: A randomized trial of erythropoietin for neuroprotection in
+preterm infants. N Engl J Med 382(3):233, 2020
+Katheria A, Reister F, Essers J, et al: Association of umbilical cord milking vs delayed umbilical cord
+clamping with death or severe intraventricular hemorrhage among preterm infants. JAMA
+322(19):1877, 2019
+Khwaja O, Volpe JJ: Pathogenesis of cerebral white matter injury of prematurity. Arch Dis Child Fetal
+Neonatal Ed 93(2):F153, 2008
+Kwon SH, Vasung L, Ment LR et al: The role of neuroimaging in predicting neurodevelopmental
+outcomes of preterm neonates. Clin Perinatol 41(1):257, 2014
+Leijser LM, de Vries LS: Preterm brain injury: germinal matrix-intraventricular hemorrhage and posthemorrhagic ventricular dilatation. Handb Clin Neurol 162:173, 2019
+Leviton A, Allred EN, Kuban KC, et al: Microbiologic and histologic characteristics of the extremely
+preterm infant’s placenta predict white matter damage and later cerebral palsy. The ELGAN study.
+Pediatr Res 67:95, 2010
+Liebowitz M, Clyman R: Antenatal betamethasone: a prolonged time interval from administration to
+delivery is associated with an increased incidence of intraventricular hemorrhage before 28 weeks
+gestation. J Pediatr 177:114, 2016
+
+McCurnin DC, Pierce RA, Chang LY, et al: Inhaled NO improves early pulmonary function and
+modifies lung growth and elastin deposition in a baboon model of neonatal chronic lung disease. Am
+J Physiol Lung Cell Mol Physiol 288:L540, 2005
+Mitra S, Florez ID, Tamayo ME, et al: Association of placebo, indomethacin, ibuprofen, and
+acetaminophen with closure of hemodynamically significant patent ductus arteriosus in preterm
+infants: a systematic review and meta-analysis. JAMA 319(12):1221, 2018
+Morley CJ, Davis PG, Doyle LW et al: Nasal CPAP or intubation at birth for very preterm infants. N
+Engl J Med 358:700, 2008
+Mukerji A, Shah V, Shah PS: Periventricular/intraventricular hemorrhage and neurodevelopmental
+outcomes: a meta-analysis. Pediatrics 136(6):1132, 2015
+National Institutes of Health: Antenatal corticosteroids revisited: repeat courses. NIH Consensus
+Statement 17(2):1, 2000
+National Institutes of Health: The effects of corticosteroids for fetal maturation on perinatal outcomes.
+NIH Consensus Statement 12(2):1, 1994
+National Institute of Neurological Disorders and Stroke: Cerebral palsy: hope through research. 2020.
+Available at: www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Hope-ThroughResearch/Cerebral-Palsy-Hope-Through-Research. Accessed June 30, 2021
+Nelson KB: Can we prevent cerebral palsy? N Engl J Med 349:1765, 2003
+Neu J, Walker WA: Necrotizing enterocolitis. N Engl J Med 364:255, 2011
+Novak CM, Ozen M, Burd I: Perinatal brain injury: mechanisms, prevention, and outcomes. Clin
+Perinatol 45(2):357, 2018
+Ohlsson A, Aher SM: Early erythropoiesis-stimulating agents in preterm or low birth weight infants.
+Cochrane Database Syst Rev 2:CD004863, 2020
+Papile LA, Burstein J, Burstein R, et al: Incidence and evolution of subependymal and intraventricular
+hemorrhage: a study of infants with birth weights less than 1500 gm. J Pediatr 92:529, 1978
+Perlman JM, Risser R, Broyles RS: Bilateral cystic leukomalacia in the premature infant: associated risk
+factors. Pediatrics 97:822, 1996
+Rabe H, Gyte GM, Díaz-Rossello JL, et al: Effect of timing of umbilical cord clamping and other
+strategies to influence placental transfusion at preterm birth on maternal and infant outcomes.
+Cochrane Database Syst Rev 9:CD003248, 2019
+Rojas-Reyes MX, Morley CJ, Soll R: Prophylactic versus selective use of surfactant in preventing
+morbidity and mortality in preterm infants. Cochrane Database Syst Rev 3:CD000510, 2012
+Rojas-Reyes MX, Orrego-Rojas PA. Rescue high-frequency jet ventilation versus conventional
+ventilation for severe pulmonary dysfunction in preterm infants. Cochrane Database Syst Rev
+10:CD000437, 2015
+Sardesai S, Biniwale M, Wertheimer F, et al: Evolution of surfactant therapy for respiratory distress
+syndrome: past, present, and future. Pediatr Res 81(1–2):240, 2017
+Schmidt B, Anderson PJ, Doyle LW, et al: Survival without disability to age 5 years after neonatal
+caffeine therapy for apnea of prematurity. JAMA 307(3):275, 2012
+Schmidt B, Roberts RS, Anderson PJ, et al: Academic performance, motor function, and behavior 11
+years after neonatal caffeine citrate therapy for apnea of prematurity: an 11-year follow-up of the
+CAP Randomized Clinical Trial. JAMA Pediatr 171(6):564, 2017
+Schmidt B, Roberts RS, Davis P, et al: Caffeine therapy for apnea of prematurity. N Engl J Med
+354(20):2112, 2006
+Schmidt S, Norman M, Misselwitz B, et al: Mode of delivery and mortality and morbidity for very
+preterm singleton infants in a breech position: a European cohort study. Eur J Obstet Gynecol
+
+Reprod Biol 234:96, 2019
+Seidler AL, Gyte GML, Rabe H, et al: Umbilical cord management for newborns < 34 weeks’ gestation:
+a meta-analysis. Pediatrics 147(3):e20200576, 2021
+Shepherd E, Salam RA, Middleton P, et al: Neonatal interventions for preventing cerebral palsy: an
+overview of Cochrane Systematic Reviews. Cochrane Database Syst Rev 6:CD012409, 2018
+Singh J, Jaffe A, Schultz A, et al: Surfactant protein disorders in childhood interstitial lung disease. Eur J
+Pediatr 180(9):2711, 2021
+Smit E, Odd D, Whitelaw A: Postnatal phenobarbital for the prevention of intraventricular haemorrhage
+in preterm infants. Cochrane Database Syst Rev 8:CD001691, 2013
+Soraisham AS, Singhal N, McMillan DD, et al: A multicenter study on the clinical outcome of
+chorioamnionitis in preterm infants. Am J Obstet Gynecol 200:372.e1, 2009
+Stoll BJ, Hansen NI, Bell EF, et al: Trends in care practices, morbidity, and mortality of extremely
+preterm neonates, 1993–2012. JAMA 314(10):1039, 2015
+SUPPORT Study Group of the Eunice Kennedy Shriver NICHD Neonatal Research Network, Carlo
+WA, Finer NN, et al: Target ranges of oxygen saturation in extremely preterm infants. N Engl J Med
+362(21):1959, 2010a
+SUPPORT Study Group of the Eunice Kennedy Shriver NICHD Neonatal Research Network, Finer
+NN, Carlo WA, et al: Early CPAP versus surfactant in extremely preterm infants. N Engl J Med
+362(21):1970, 2010b
+Thébaud B, Goss KN, Laughon M, et al: Bronchopulmonary dysplasia. Nat Rev Dis Primers 5(1):78,
+2019
+Travers CP, Carlo WA, McDonald SA, et al: Mortality and pulmonary outcomes of extremely preterm
+infants exposed to antenatal corticosteroids. Am J Obstet Gynecol 218(1):130.e1, 2018
+Verhagen EA, Hummel LA, Bos AF, et al: Near-infrared spectroscopy to detect absence of
+cerebrovascular autoregulation in preterm infants. Clin Neurophysiol 125(1):47, 2014
+Villamor-Martinez E, Fumagalli M, Mohammed Rahim O, et al: Chorioamnionitis is a risk factor for
+intraventricular hemorrhage in preterm infants: a systematic review and meta-analysis. Front Physiol
+9:1253, 2018
+Volpe JJ: Neurology of the Newborn, 6th ed. Philadelphia, Elsevier, 2016
+Wapner RJ, Sorokin Y, Mele L, et al: Long-term outcomes after repeated doses of antenatal
+corticosteroids. N Engl J Med 357:1190, 2007
+Wapner RJ, Sorokin Y, Thom EA, et al: Single versus weekly courses of antenatal corticosteroids:
+evaluation of safety and efficacy. Am J Obstet Gynecol 195:633, 2006
+Wassink G, Davidson JO, Dhillon SK, et al: Partial white and grey matter protection with prolonged
+infusion of recombinant human erythropoietin after asphyxia in preterm fetal sheep. J Cereb Blood
+Flow Metab 37(3):1080, 2017
+Watkins PL, Dagle JM, Bell EF, et al: outcomes at 18 to 22 months of corrected age for infants born at
+22 to 25 weeks of gestation in a center practicing active management. J Pediatr 217:52, 2020
+Watterberg KL, American Academy of Pediatrics Committee on Fetus and Newborn: Policy statement
+—postnatal corticosteroids to prevent or treat bronchopulmonary dysplasia. Pediatrics 126(4):800,
+2010
+Wyckoff MH, Wyllie J, Aziz K, et al: Neonatal life support: 2020 International Consensus on
+Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science with Treatment
+Recommendations. Circulation 142:S185, 2020
+Yeo KT, Thomas R, Chow SS, et al: Australian and New Zealand Neonatal Network. Improving
+incidence trends of severe intraventricular haemorrhages in preterm infants <32 weeks gestation: a
+
+cohort study. Arch Dis Child Fetal Neonatal Ed 105(2):145, 2020
+Yoon BH, Kim CJ, Romero R, et al: Experimentally induced intrauterine infection causes fetal brain
+white matter lesions in rabbits. Am J Obstet Gynecol 177:797, 1997a
+Yoon BH, Romero R, Kim CJ, et al: High expression of tumor necrosis factor-alpha and interleukin-6 in
+periventricular leukomalacia. Am J Obstet Gynecol 177:406, 1997b
+Yoon BH, Romero R, Park JS, et al: Fetal exposure to an intra-amniotic inflammation and the
+development of cerebral palsy at the age of three years. Am J Obstet Gynecol 182:675, 2000
+Zupan V, Gonzalez P, Lacaze-Masmonteil T, et al: Periventricular leukomalacia: risk factors revisited.
+Dev Med Child Neurol 38:1061, 1996
+
