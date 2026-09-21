@@ -191,5 +191,50 @@
     "audio": true,
     "words": 2799,
     "audio_size_mb": 7.79
+  },
+  "40": {
+    "audio": true,
+    "words": 11286,
+    "audio_size_mb": 33.31
+  },
+  "41": {
+    "audio": true,
+    "words": 9820,
+    "audio_size_mb": 28.27
+  },
+  "42": {
+    "audio": true,
+    "words": 9246,
+    "audio_size_mb": 25.29
+  },
+  "43": {
+    "audio": true,
+    "words": 10844,
+    "audio_size_mb": 29.87
+  },
+  "44": {
+    "audio": true,
+    "words": 7276,
+    "audio_size_mb": 20.77
+  },
+  "45": {
+    "audio": true,
+    "words": 16828,
+    "audio_size_mb": 47.52
+  },
+  "46": {
+    "audio": true,
+    "words": 3620,
+    "audio_size_mb": 10.36
+  },
+  "47": {
+    "audio": true,
+    "words": 7518,
+    "audio_size_mb": 21.23
+  },
+  "48": {
+    "audio": true,
+    "words": 14548,
+    "audio_size_mb": 39.89
   }
 }

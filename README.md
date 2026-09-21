@@ -8,7 +8,7 @@ Playable directly on GitHub Web & Mobile with synchronized subtitle rendering an
 
 - 🎬 **[Chapter 01 Overview of Obstetrics](videos/Chapter_01_Overview_of_Obstetrics.mp4)** (36.3 MB)
 
-## 🎧 Audiobooks (MP3) — [39/68 Completed]
+## 🎧 Audiobooks (MP3) — [48/68 Completed]
 
 Playable directly on GitHub Web & Mobile with built-in audio player:
 
@@ -51,6 +51,15 @@ Playable directly on GitHub Web & Mobile with built-in audio player:
 - 🔊 **[Chapter 37 Puerperal Infection](audiobooks/Chapter_37_Puerperal_Infection.mp3)** (22.2 MB)
 - 🔊 **[Chapter 38 Contraception](audiobooks/Chapter_38_Contraception.mp3)** (23.4 MB)
 - 🔊 **[Chapter 39 Sterilization](audiobooks/Chapter_39_Sterilization.mp3)** (7.8 MB)
+- 🔊 **[Chapter 40 Preeclampsia Syndrome](audiobooks/Chapter_40_Preeclampsia_Syndrome.mp3)** (33.3 MB)
+- 🔊 **[Chapter 41 Clinical Management of the Preeclampsia Syndrome](audiobooks/Chapter_41_Clinical_Management_of_the_Preeclampsia_Syndrome.mp3)** (28.3 MB)
+- 🔊 **[Chapter 42 Causes of Obstetrical Hemorrhage](audiobooks/Chapter_42_Causes_of_Obstetrical_Hemorrhage.mp3)** (25.3 MB)
+- 🔊 **[Chapter 43 Hemorrhagic Placental Disorders](audiobooks/Chapter_43_Hemorrhagic_Placental_Disorders.mp3)** (29.9 MB)
+- 🔊 **[Chapter 44 Management of Obstetrical Hemorrhage](audiobooks/Chapter_44_Management_of_Obstetrical_Hemorrhage.mp3)** (20.8 MB)
+- 🔊 **[Chapter 45 Preterm Birth](audiobooks/Chapter_45_Preterm_Birth.mp3)** (47.5 MB)
+- 🔊 **[Chapter 46 Postterm Pregnancy](audiobooks/Chapter_46_Postterm_Pregnancy.mp3)** (10.4 MB)
+- 🔊 **[Chapter 47 Fetal Growth Disorders](audiobooks/Chapter_47_Fetal_Growth_Disorders.mp3)** (21.2 MB)
+- 🔊 **[Chapter 48 Multifetal Pregnancy](audiobooks/Chapter_48_Multifetal_Pregnancy.mp3)** (39.9 MB)
 
 ## 📖 Table of Contents (Chapters)
 

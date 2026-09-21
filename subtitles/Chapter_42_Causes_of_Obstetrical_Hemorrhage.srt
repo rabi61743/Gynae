@@ -1,0 +1,2412 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:06,225
+Chapter 42: Causes of Obstetrical Hemorrhage.
+
+3
+00:00:06,225 --> 00:00:21,575
+General Considerations Uterine Atony Uterine Inversion Birth Canal Injuries Uterine Rupture Amnionic Fluid Embolism References In addition to hypertension and infection, obstetrical hemorrhage remains among the infamous triad of maternal death causes.
+
+4
+00:00:21,575 --> 00:00:38,062
+Of more than 7000 pregnancy-related maternal deaths in the United States from 2006 to 2015, hemorrhage was a direct cause in 11 percent (Creanga, 2015, 2017; Petersen, 2019).
+
+5
+00:00:38,062 --> 00:00:47,600
+Hemorrhage is also the single most important cause of maternal death worldwide (Goffman, 2016; Oladapo, 2016).
+
+6
+00:00:47,600 --> 00:00:52,775
+Notably, perhaps a third of severe cases of hemorrhage are likely preventable .
+
+7
+00:00:52,775 --> 00:01:00,237
+These statistics have prompted several organizations to develop programs to prevent hemorrhage-related maternal morbidity.
+
+8
+00:01:00,237 --> 00:01:13,437
+In the United States, one example is the Alliance for Innovation on Maternal Health (AIM) (2015), with its intent to standardize recognition, response, and reporting of obstetrical hemorrhage.
+
+9
+00:01:13,437 --> 00:01:24,675
+The Joint Commission (2019) has also implemented standards under the Provision of Care, Treatment, and Services chapter for obstetrical hemorrhage—the R3 Report.
+
+10
+00:01:24,675 --> 00:01:27,937
+Our following three chapters align with these.
+
+11
+00:01:27,937 --> 00:01:30,300
+General Considerations.
+
+12
+00:01:30,300 --> 00:01:33,862
+# Mechanisms of Normal Hemostasis.
+
+13
+00:01:33,862 --> 00:01:43,112
+Near term, an incredible amount of blood—at least 600 mL/min—flows through the spiral arteries and into the intervillous space .
+
+14
+00:01:43,112 --> 00:01:52,850
+Averaging 120 in number, the spiral arteries lack a muscular layer because of their remodeling by trophoblasts and thereby form a low-pressure system.
+
+15
+00:01:52,850 --> 00:01:58,000
+With placental separation, vessels at the implantation site are avulsed.
+
+16
+00:01:58,000 --> 00:02:04,600
+Hemostasis is achieved first by myometrial contraction, which directly compresses the arteries.
+
+17
+00:02:04,600 --> 00:02:09,900
+Compression is followed by clotting and eventually by obliteration of vessel lumens.
+
+18
+00:02:09,900 --> 00:02:18,700
+If, after delivery, the myometrium contracts vigorously, substantial hemorrhage from the placental implantation site is unlikely.
+
+19
+00:02:18,700 --> 00:02:29,287
+Importantly, an intact coagulation system is not necessary for postpartum hemostasis unless there are lacerations in the uterus, birth canal, or perineum.
+
+20
+00:02:29,287 --> 00:02:35,825
+However, fatal postpartum hemorrhage can result from uterine atony despite normal coagulation.
+
+21
+00:02:35,825 --> 00:02:38,700
+# Definition and Incidence.
+
+22
+00:02:38,700 --> 00:02:47,750
+Historically, postpartum hemorrhage has been defined as blood losses ≥500 mL after the third stage of labor.
+
+23
+00:02:47,750 --> 00:02:55,987
+This is problematic because almost half of all women delivered vaginally shed that amount of blood or more when losses are carefully measured.
+
+24
+00:02:55,987 --> 00:03:03,550
+Moreover, approximately 5 percent of women delivering vaginally lose >1000 mL of blood .
+
+25
+00:03:03,550 --> 00:03:10,087
+Almost a third of women undergoing cesarean delivery have blood loss >1000 mL.
+
+26
+00:03:10,087 --> 00:03:24,662
+The American College of Obstetricians and Gynecologists (2019a) now defines postpartum hemorrhage as cumulative blood loss >1000 mL or blood loss accompanied by signs and symptoms of hypovolemia.
+
+27
+00:03:24,662 --> 00:03:27,250
+Figure 42-1.
+
+28
+00:03:27,250 --> 00:03:35,137
+Measured blood loss with vaginal delivery, repeat cesarean delivery, and repeat cesarean delivery plus hysterectomy.
+
+29
+00:03:35,137 --> 00:03:48,450
+In a Maternal-Fetal Network Units study of more than 115,000 deliveries, the incidence of hemorrhage with vaginal delivery was 5.3 percent, and it was 10.5 percent for cesarean delivery .
+
+30
+00:03:48,450 --> 00:03:51,775
+Importantly, hemorrhage is underreported.
+
+31
+00:03:51,775 --> 00:04:02,375
+From the National Hospital Discharge Summary database, the reported postpartum hemorrhage incidence between 2001 and 2005 was only 2.6 percent .
+
+32
+00:04:02,375 --> 00:04:05,062
+# Blood Loss Assessment.
+
+33
+00:04:05,062 --> 00:04:11,012
+At delivery, visual estimation is often used as a qualitative measure of blood loss.
+
+34
+00:04:11,012 --> 00:04:23,762
+However, this method is more likely to under estimate the actual blood loss when volumes are high and to over estimate it when volumes are low (Al Kadri, 2011; Natrella, 2018).
+
+35
+00:04:23,762 --> 00:04:29,425
+Thus, estimated blood loss that is considered greater than “average” should alert the provider.
+
+36
+00:04:29,425 --> 00:04:34,087
+Instead, different methods can be used as quantitative measures.
+
+37
+00:04:34,087 --> 00:04:40,325
+First, gravimetric measurement weighs blood-soaked items and subtracts pre-use dry weights.
+
+38
+00:04:40,325 --> 00:04:50,662
+Another evolving tool uses a tablet-device camera and colorimetric analysis to calculate blood loss (Spies, 2020; Venkatesh, 2020).
+
+39
+00:04:50,662 --> 00:04:56,125
+The American College of Obstetricians and Gynecologists (2019b)
+
+40
+00:04:56,284 --> 00:05:01,746
+recognizes the use of quantitative methods to help identify severe hemorrhage.
+
+41
+00:05:01,696 --> 00:05:11,659
+Intrapartum, quantitative measurement is more accurate than visual estimation, but the effectiveness of these methods on clinical outcomes has not been demonstrated.
+
+42
+00:05:11,659 --> 00:05:23,671
+A Cochrane Review of three trials found no differences between subjective and objective methods when comparing outcomes that included need for transfusion, plasma expanders, or uterotonics .
+
+43
+00:05:23,671 --> 00:05:28,421
+Postpartum, retrospective estimation also can be informative.
+
+44
+00:05:28,421 --> 00:05:35,534
+The blood volume of a pregnant woman with normal pregnancy-induced hypervolemia usually rises by 50 percent.
+
+45
+00:05:35,534 --> 00:05:45,421
+However, individual increases range from 30 to 60 percent, that is, 1500 to 2000 mL for an average-sized woman .
+
+46
+00:05:45,421 --> 00:05:50,471
+The equation to calculate blood volume is shown in Table 42-1.
+
+47
+00:05:50,471 --> 00:06:02,196
+It is axiomatic that a normal pregnant woman tolerates, without any decrease in postpartum hematocrit, blood loss at delivery that approaches the volume of blood that was added during pregnancy.
+
+48
+00:06:02,196 --> 00:06:11,209
+Thus, if blood loss is less than the pregnancy-added volume, the hematocrit remains the same acutely and during the first several days postpartum.
+
+49
+00:06:11,209 --> 00:06:16,971
+It then rises as nonpregnant plasma volume levels return during the next week or so.
+
+50
+00:06:16,971 --> 00:06:31,696
+Whenever the postpartum hematocrit is lower than one obtained on admission for delivery, blood loss can be estimated as the sum of the calculated pregnancy-added volume plus 500 mL for each 3-volume-percent decline of the hematocrit.
+
+51
+00:06:31,696 --> 00:06:34,296
+Table 42-1.
+
+52
+00:06:34,296 --> 00:06:47,609
+Calculation of Maternal Total Blood Volume For research and clinical care initiatives, excessive blood loss has been estimated by several methods (Coviello, 2019; Saoud, 2019).
+
+53
+00:06:47,609 --> 00:06:57,946
+Tita and colleagues (2012) used a 6-volume-percent drop in the postpartum hematocrit to define clinically significant blood loss with vaginal delivery.
+
+54
+00:06:57,946 --> 00:07:04,746
+This decline easily signifies a >1000-mL blood loss in the average-sized woman.
+
+55
+00:07:04,746 --> 00:07:08,121
+They documented this amount in a fourth of women.
+
+56
+00:07:08,121 --> 00:07:13,071
+Another marker used to estimate hemorrhage incidence is the transfusion rate.
+
+57
+00:07:13,071 --> 00:07:20,621
+In the study by Tita just cited, more than 6 percent of women who delivered vaginally underwent blood transfusion.
+
+58
+00:07:20,621 --> 00:07:30,571
+In a study of more than 66,000 women delivered at Parkland Hospital, 2.3 percent overall were given blood transfusions for hypovolemia .
+
+59
+00:07:30,571 --> 00:07:34,359
+Half of these women had undergone cesarean delivery.
+
+60
+00:07:34,359 --> 00:07:43,209
+Importantly, for those transfused, these investigators calculated blood loss to average approximately 3500 mL!
+
+61
+00:07:43,209 --> 00:07:49,946
+The need for blood transfusion is now followed as a severe maternal morbidity (SMM) indicator.
+
+62
+00:07:49,946 --> 00:07:55,171
+The heightened awareness of SMM is outlined in Chapter 1 (p. 5).
+
+63
+00:07:55,171 --> 00:08:00,221
+Transfusions represent more than 80 percent of total SMM rates.
+
+64
+00:08:00,221 --> 00:08:12,909
+The incidence of massive transfusion for postpartum hemorrhage has been reported to be from 25 to 65 per 100,000 births (Green, 2016; Ramler, 2019).
+
+65
+00:08:12,909 --> 00:08:19,559
+However, defining healthcare quality using transfusion as an SMM metric is problematic.
+
+66
+00:08:19,559 --> 00:08:24,609
+First, this metric is solely derived from administrative billing codes.
+
+67
+00:08:24,609 --> 00:08:29,921
+Second, transfusion rates may be skewed based on the hospital’s case-mix .
+
+68
+00:08:29,921 --> 00:08:38,821
+This can distort values for regional referral centers that care for women at high risk for hemorrhage, such as those with placenta accreta spectrum.
+
+69
+00:08:38,821 --> 00:08:41,209
+# Risk Factors.
+
+70
+00:08:41,209 --> 00:08:47,134
+Hemorrhage can manifest at any time during pregnancy, delivery, or the puerperium.
+
+71
+00:08:47,134 --> 00:08:53,246
+Contributions to maternal death from some of these causes of are shown in Figure 42-2.
+
+72
+00:08:53,246 --> 00:09:04,721
+The Joint Commission (2019) requires accredited delivery services to employ tools that evaluate maternal hemorrhage risk on admission to labor and delivery and postpartum.
+
+73
+00:09:04,721 --> 00:09:18,196
+Several methods are available, and the American College of Obstetricians and Gynecologists’ (2019b) scoring tool stratifies risk using several obstetrical factors listed in Table 42-2.
+
+74
+00:09:18,196 --> 00:09:23,259
+Unfortunately, these scoring systems only modestly predict hemorrhage .
+
+75
+00:09:23,259 --> 00:09:33,996
+Kawakita and colleagues (2019) examined three commonly referenced tools and found moderate performance in identifying women at risk during cesarean delivery.
+
+76
+00:09:33,996 --> 00:09:43,609
+In contrast, the Association of Women’s Health, Obstetric and Neonatal Nurses (AWHONN) risk assessment tool was predictive of those at high risk .
+
+77
+00:09:43,780 --> 00:09:46,305
+Figure 42-2.
+
+78
+00:09:46,255 --> 00:09:51,417
+Contributions to maternal death from various causes of obstetrical hemorrhage.
+
+79
+00:09:51,417 --> 00:09:56,805
+Percentages are approximations because of different classification schemata used.
+
+80
+00:09:56,805 --> 00:10:04,167
+DIC = disseminated intravascular coagulopathy; PAS = placenta accreta spectrum.
+
+81
+00:10:04,167 --> 00:10:12,667
+Data from Al-Zirqi, 2008; Berg, 2010; Creanga, 2015; Zwart, 2008.
+
+82
+00:10:12,667 --> 00:10:15,205
+Table 42-2.
+
+83
+00:10:15,205 --> 00:10:22,767
+Obstetrical Hemorrhage: Causes, Predisposing Factors, and Vulnerable Patients # Timing of Hemorrhage.
+
+84
+00:10:22,767 --> 00:10:36,067
+Obstetrical hemorrhage is traditionally classified as antepartum—such as with placenta previa or placental abruption, or as postpartum—commonly caused by uterine atony or genital tract lacerations.
+
+85
+00:10:36,067 --> 00:10:45,380
+In individual women, however, these terms are nonspecific, and it is reasonable to specify the cause and gestational age as descriptors.
+
+86
+00:10:45,380 --> 00:10:49,842
+With antepartum hemorrhage, timing may give a clue to its cause.
+
+87
+00:10:49,842 --> 00:10:58,080
+Many aspects of bleeding during the first half of pregnancy from abortion or ectopic pregnancy are covered in Chapters 11 and 12.
+
+88
+00:10:58,080 --> 00:11:02,817
+Discussions that follow concern pregnancies with a viable-size fetus.
+
+89
+00:11:02,817 --> 00:11:09,792
+In these cases, rapid assessment should always consider the deleterious fetal effects of maternal hemorrhage.
+
+90
+00:11:09,792 --> 00:11:13,842
+During active labor, slight vaginal bleeding is common.
+
+91
+00:11:13,842 --> 00:11:20,667
+This “bloody show” is the consequence of cervical effacement and dilation and concurrent tearing of small vessels.
+
+92
+00:11:20,667 --> 00:11:29,005
+However, with uterine bleeding above the cervix, placental abruption, placenta previa, and vasa previa must be considered.
+
+93
+00:11:29,005 --> 00:11:36,580
+The first two are presented in Chapter 43 and vasa previa is discussed in Chapter 6 (p. 115).
+
+94
+00:11:36,580 --> 00:11:44,705
+In some women, especially those with a placenta previa, cervical varicosities may bleed (O’Brien, 2013).
+
+95
+00:11:44,705 --> 00:11:54,255
+Near term in many women, the source of uterine bleeding is not identified, bleeding ceases, and no apparent anatomical cause is found at delivery.
+
+96
+00:11:54,255 --> 00:12:00,567
+In most of these cases, bleeding likely originated from a slight marginal placental separation.
+
+97
+00:12:00,567 --> 00:12:11,405
+Despite this, any pregnancy with antepartum bleeding remains at higher risk for an adverse outcome even though bleeding has stopped and placenta previa has been excluded sonographically.
+
+98
+00:12:11,405 --> 00:12:16,292
+Bleeding after midpregnancy is associated with several adverse outcomes.
+
+99
+00:12:16,292 --> 00:12:23,930
+The Canadian Perinatal Network described 806 women with hemorrhage between 22 and 28 weeks’ gestation .
+
+100
+00:12:23,930 --> 00:12:34,355
+Placental abruption (32 percent), previa (21 percent), and cervical bleeding (6.6 percent) were the most frequent causes identified.
+
+101
+00:12:34,355 --> 00:12:37,267
+In a third, no cause was found.
+
+102
+00:12:37,267 --> 00:12:42,605
+Of all women, 44 percent were delivered before 29 weeks’ gestation.
+
+103
+00:12:42,605 --> 00:12:50,780
+In more than 68,000 women in Scotland, the incidence of antepartum hemorrhage after the first trimester was 11 percent .
+
+104
+00:12:50,780 --> 00:12:57,917
+These women were at significantly higher risk for preterm birth, labor induction, and postpartum hemorrhage.
+
+105
+00:12:57,917 --> 00:13:03,292
+With postpartum hemorrhage, the source in most cases can and should be determined.
+
+106
+00:13:03,292 --> 00:13:09,767
+Frequent causes are uterine atony with placental site bleeding, genital tract trauma, or both.
+
+107
+00:13:09,767 --> 00:13:12,942
+Postpartum hemorrhage is usually obvious.
+
+108
+00:13:12,942 --> 00:13:22,767
+Important exceptions are unrecognized intrauterine and intravaginal blood accumulation and uterine rupture with intraperitoneal or retroperitoneal bleeding.
+
+109
+00:13:22,767 --> 00:13:29,055
+Another consideration is an expanding vulvar or vaginal hematoma (p. 740).
+
+110
+00:13:29,055 --> 00:13:35,967
+Initial evaluation includes attempts to differentiate uterine atony from genital tract lacerations.
+
+111
+00:13:35,967 --> 00:13:42,942
+For this, risk factors are sought, the lower genital tract is examined, and uterine tone is assessed.
+
+112
+00:13:42,942 --> 00:13:52,067
+Atony is identified by a boggy, soft uterus during bimanual examination and by expression of clots and hemorrhage during uterine massage.
+
+113
+00:13:52,067 --> 00:13:59,605
+Persistent bleeding despite a firm, well-contracted uterus suggests that hemorrhage most likely is from lacerations.
+
+114
+00:13:59,605 --> 00:14:03,392
+Bright red blood further suggests arterial bleeding.
+
+115
+00:14:03,392 --> 00:14:11,380
+To confirm that lacerations are a source of bleeding, careful inspection of the vagina, cervix, and uterus is essential.
+
+116
+00:14:11,380 --> 00:14:15,905
+Examination is easier if regional analgesia is employed.
+
+117
+00:14:15,905 --> 00:14:21,167
+Transfer from a labor and delivery room to an operative suite also may be prudent.
+
+118
+00:14:21,167 --> 00:14:31,017
+If there are no lower genital tract lacerations and the uterus is contracted, yet supracervical bleeding persists, manual exploration of the uterus
+
+119
+00:14:31,180 --> 00:14:34,105
+is done to exclude a uterine tear .
+
+120
+00:14:34,055 --> 00:14:39,867
+This also is completed routinely after internal podalic version or breech extraction.
+
+121
+00:14:39,867 --> 00:14:46,005
+Some perform this after successful vaginal birth after cesarean, and this is our practice.
+
+122
+00:14:46,005 --> 00:14:51,155
+Late postpartum hemorrhage describes bleeding after the first 24 hours.
+
+123
+00:14:51,155 --> 00:14:57,617
+Found in up to 1 percent of women, one risk factor is postpartum hemorrhage at the time of delivery .
+
+124
+00:14:57,617 --> 00:15:04,017
+Delayed hemorrhage may be serious and is discussed in Chapter 36 (p. 637).
+
+125
+00:15:04,017 --> 00:15:07,667
+# Appreciation of Estimated Blood Loss.
+
+126
+00:15:07,667 --> 00:15:14,305
+As discussed, visual blood loss estimates are often inaccurate, especially with excessive bleeding.
+
+127
+00:15:14,305 --> 00:15:19,580
+Instead of sudden and massive hemorrhage, postpartum bleeding is frequently steady.
+
+128
+00:15:19,580 --> 00:15:29,517
+If bleeding from atony or laceration persists, it may appear to be only moderate at any given instant but may continue until serious hypovolemia develops.
+
+129
+00:15:29,517 --> 00:15:41,555
+In some cases, after placental separation, blood may not escape vaginally but instead may collect within the uterine cavity, which can become distended by 1000 mL or more of blood.
+
+130
+00:15:41,555 --> 00:15:49,355
+Moreover, postpartum uterine massage will be ineffective if applied to a roll of abdominal fat mistaken for the uterus.
+
+131
+00:15:49,355 --> 00:15:55,255
+All of these factors can lead to an underappreciation of the magnitude of hemorrhage over time.
+
+132
+00:15:55,255 --> 00:16:03,680
+The effects of hemorrhage depend mainly on the maternal nonpregnant blood volume and the corresponding degree of pregnancy-induced hypervolemia.
+
+133
+00:16:03,680 --> 00:16:12,030
+Small women—even those with appropriate pregnancyinduced hypervolemia—do not tolerate more than seemingly average blood loss.
+
+134
+00:16:12,030 --> 00:16:19,255
+Some gravidas may be particularly susceptible to hemorrhage because their blood volume expansion is less than expected.
+
+135
+00:16:19,255 --> 00:16:28,905
+An example is women with severe preeclampsia or eclampsia, who are more vulnerable to hemorrhage because they frequently do not have a normal blood volume accrual.
+
+136
+00:16:28,905 --> 00:16:38,580
+Specifically, Zeeman and associates (2009) documented a mean increase above nonpregnant volume of only 10 percent in eclamptic women .
+
+137
+00:16:38,580 --> 00:16:46,905
+Another example is the moderate to severe curtailing of pregnancy-induced volume expansion in women with chronic renal insufficiency .
+
+138
+00:16:46,905 --> 00:16:55,417
+When excessive hemorrhage is suspected in these high-risk women, crystalloid and blood are promptly administered for suspected hypovolemia.
+
+139
+00:16:55,417 --> 00:17:05,205
+A treacherous feature of postpartum hemorrhage is the failure of the pulse and blood pressure to undergo more than moderate alterations until large amounts of blood have been lost.
+
+140
+00:17:05,205 --> 00:17:12,917
+The normotensive woman initially may actually become somewhat hypertensive from catecholamine release in response to hemorrhage.
+
+141
+00:17:12,917 --> 00:17:19,417
+Importantly, women with preeclampsia may become “normotensive” despite remarkable hypovolemia.
+
+142
+00:17:19,417 --> 00:17:24,342
+Accordingly, hypovolemia may not be recognized until very late.
+
+143
+00:17:24,342 --> 00:17:26,242
+Uterine Atony.
+
+144
+00:17:26,242 --> 00:17:29,367
+# Third-stage Labor Management.
+
+145
+00:17:29,367 --> 00:17:39,955
+The most frequent cause of obstetrical hemorrhage is failure of the uterus after delivery to contract sufficiently and arrest bleeding from vessels at the placental implantation site .
+
+146
+00:17:39,955 --> 00:17:46,492
+That said, some bleeding is inevitable during third-stage labor as the placenta begins to separate.
+
+147
+00:17:46,492 --> 00:18:00,605
+Blood from the implantation site may escape into the vagina immediately—the Duncan mechanism of placental separation, or it remains concealed behind the placenta and membranes until the placenta is delivered—the Schultze mechanism.
+
+148
+00:18:00,605 --> 00:18:04,830
+Placental descent is signified by a slack umbilical cord.
+
+149
+00:18:04,830 --> 00:18:11,455
+After signs of placental separation, the uterus should be massaged if it is not contracted firmly.
+
+150
+00:18:11,455 --> 00:18:20,580
+Importantly, separation and delivery of the placenta by cord traction, especially when the uterus is atonic, may cause uterine inversion.
+
+151
+00:18:20,580 --> 00:18:27,430
+Following placental delivery, the fundus is always palpated to confirm that the uterus is well contracted.
+
+152
+00:18:27,430 --> 00:18:33,680
+If it is not firm, vigorous fundal massage usually prevents postpartum hemorrhage from atony .
+
+153
+00:18:33,680 --> 00:18:41,380
+Concurrent administration of a uterotonic agent, discussed in the next sections, is another recommended preventive measure.
+
+154
+00:18:41,380 --> 00:18:43,767
+# Risk Factors.
+
+155
+00:18:43,767 --> 00:18:49,080
+In many women with known risks, uterine atony can at least be anticipated.
+
+156
+00:18:49,080 --> 00:18:56,380
+However, as discussed earlier (p. 733), risk-based scoring systems have limited value.
+
+157
+00:18:56,380 --> 00:18:59,955
+In one study, up to half of women with atony
+
+158
+00:19:00,124 --> 00:19:03,886
+after cesarean delivery had no risk factors .
+
+159
+00:19:03,836 --> 00:19:12,174
+The magnitude of risk for atony imposed by each of the factors shown in Table 42-2 varies considerably between reports.
+
+160
+00:19:12,174 --> 00:19:15,674
+Primiparity and high parity are two factors .
+
+161
+00:19:15,674 --> 00:19:25,874
+In one study, the incidence of postpartum hemorrhage rose from 0.3 percent in women of low parity to 1.9 percent with parity of four or greater.
+
+162
+00:19:25,874 --> 00:19:30,136
+It was 2.7 percent with parity of seven or greater .
+
+163
+00:19:30,136 --> 00:19:40,424
+The overdistended uterus is prone to hypotonia after delivery, and thus women with a large fetus, multiple fetuses, or hydramnios carry greater risk .
+
+164
+00:19:40,424 --> 00:19:46,286
+Labor abnormalities predispose to atony and include hyper- or hypotonic labor.
+
+165
+00:19:46,286 --> 00:19:54,536
+Similarly, labor induction or augmentation with either prostaglandins or oxytocin is more likely to be followed by atony .
+
+166
+00:19:54,536 --> 00:20:00,449
+The frequency of hemorrhage increases with third-stage labor lasting >20 minutes .
+
+167
+00:20:00,449 --> 00:20:05,961
+Last, the woman who has had a prior postpartum hemorrhage is at risk for recurrence.
+
+168
+00:20:05,961 --> 00:20:09,049
+# Evaluation and Management.
+
+169
+00:20:09,049 --> 00:20:15,561
+To improve immediate postpartum care, clinical safety bundles provide a standardized response .
+
+170
+00:20:15,561 --> 00:20:23,886
+In principle, all of these programs suggest notifying unit personnel, activating resources, and standardizing management.
+
+171
+00:20:23,886 --> 00:20:30,349
+With immediate postpartum hemorrhage, careful inspection aims to exclude birth canal laceration.
+
+172
+00:20:30,349 --> 00:20:38,636
+In some cases, bleeding is caused by retained placental fragments, and placental inspection after delivery should be routine.
+
+173
+00:20:38,636 --> 00:20:44,399
+If a defect is seen, the uterus should be manually explored and the fragment removed.
+
+174
+00:20:44,399 --> 00:20:49,899
+Occasionally, retention of a succenturiate lobe may cause postpartum hemorrhage .
+
+175
+00:20:49,899 --> 00:20:58,274
+During examination for lacerations and causes of atony, the uterus is massaged and uterotonic agents are administered.
+
+176
+00:20:58,274 --> 00:21:00,911
+Figure 42-3.
+
+177
+00:21:00,911 --> 00:21:05,499
+Parkland Hospital algorithm for management of postpartum hemorrhage.
+
+178
+00:21:05,499 --> 00:21:21,186
+CBC = complete blood count; EBL = estimated blood loss; INR = international normalized ratio; IV = intravenous; PT = prothrombin time; PTT = partial thromboplastin time.
+
+179
+00:21:21,186 --> 00:21:37,074
+Manual Removal of the Placenta If heavy bleeding persists after delivery of the newborn but while the placenta remains partially or totally attached, then manual placental removal is indicated (Cummings, 2016; Frolova, 2016).
+
+180
+00:21:37,074 --> 00:21:43,361
+For this, adequate analgesia is mandatory, and aseptic surgical technique is used.
+
+181
+00:21:43,361 --> 00:21:54,524
+As illustrated in Figure 27-8 (p. 508), the fingertips of one hand, with fingers approximated, are insinuated between the uterine wall and placenta.
+
+182
+00:21:54,524 --> 00:22:00,011
+A sweeping forward motion in this plane will peel the placenta off its uterine attachment.
+
+183
+00:22:00,011 --> 00:22:07,211
+After its removal, trailing membranes are carefully teased free from the decidua using ring forceps as needed.
+
+184
+00:22:07,211 --> 00:22:12,761
+Another method to clear membranes is to wipe out the uterine cavity with a gauze-wrapped hand.
+
+185
+00:22:12,761 --> 00:22:18,749
+Bierer forceps guided by ultrasound to remove retained placenta also has been described .
+
+186
+00:22:18,749 --> 00:22:30,136
+Some administer a single dose of intravenous antibiotics after manual uterine exploration, however, one systematic review of observational studies found no benefits .
+
+187
+00:22:30,136 --> 00:22:39,161
+The American College of Obstetricians and Gynecologists (2020b) concluded that data neither support nor refute this practice.
+
+188
+00:22:39,161 --> 00:22:50,261
+The World Health Organization (WHO) (2015) recommends ampicillin or cefazolin antimicrobial prophylaxis after manual placenta removal.
+
+189
+00:22:50,261 --> 00:22:57,049
+At Parkland Hospital, we routinely provide a single dose of cefazolin after manual exploration.
+
+190
+00:22:57,049 --> 00:23:03,411
+Uterotonic Agents Several compounds can be used to prompt the postpartum uterus to contract.
+
+191
+00:23:03,411 --> 00:23:08,224
+One of these is routinely selected and given to prevent postpartum bleeding.
+
+192
+00:23:08,224 --> 00:23:19,686
+Choices for prophylaxis include oxytocin (Pitocin); the ergots, namely ergonovine (Ergotrate) and methylergonovine (Methergine); or misoprostol (Cytotec) .
+
+193
+00:23:19,686 --> 00:23:25,974
+The WHO (2018) recommends oxytocin for first-line use for prophylaxis.
+
+194
+00:23:25,974 --> 00:23:41,799
+For administration, 20 units of oxytocin in 1000 mL of crystalloid solution is effective and given intravenously (IV) at 10 mL/min for a dose of 200 mU/min. Higher concentrations are minimally more efficient .
+
+195
+00:23:41,799 --> 00:23:52,524
+A summary of oxytocin administration regimens is found in the Practice Brief of the Association of Women’s Health Objective and Neonatal Nurses—AWHONN (2014).
+
+196
+00:23:52,524 --> 00:23:54,174
+In those
+
+197
+00:23:54,340 --> 00:23:59,740
+without IV access, oxytocin may be given intramuscularly (IM).
+
+198
+00:23:59,690 --> 00:24:08,490
+Adnan and colleagues (2018) found the IV route to more effectively prevent severe hemorrhage compared with IM administration.
+
+199
+00:24:08,490 --> 00:24:16,327
+Oxytocin is never given as an undiluted bolus dose because serious hypotension or cardiac arrhythmias can develop.
+
+200
+00:24:16,327 --> 00:24:20,727
+Most agents for prevention of atony are also used to treat it.
+
+201
+00:24:20,727 --> 00:24:27,015
+For atony, IV oxytocin is continued or may be initiated if not selected initially.
+
+202
+00:24:27,015 --> 00:24:31,627
+It is considered first-line treatment by the WHO (2012).
+
+203
+00:24:31,627 --> 00:24:36,990
+If bleeding and atony are refractory, an agent from a different group can be added .
+
+204
+00:24:36,990 --> 00:24:41,490
+Ergot alkaloids have been used for centuries to treat uterine atony.
+
+205
+00:24:41,490 --> 00:24:49,365
+If atony persists despite oxytocin and other preventive measures, ergot derivatives can be used for second-line treatment.
+
+206
+00:24:49,365 --> 00:24:57,852
+Given parenterally, these drugs rapidly stimulate tetanic uterine contractions and act for approximately 45 minutes .
+
+207
+00:24:57,852 --> 00:25:02,865
+A common regimen is 0.2 mg of either drug given IM.
+
+208
+00:25:02,865 --> 00:25:07,615
+Methergine can be repeated at 2- to 4-hour intervals as needed.
+
+209
+00:25:07,615 --> 00:25:16,190
+A caveat is that ergot agents, especially given IV, may cause dangerous hypertension, especially in women with preeclampsia.
+
+210
+00:25:16,190 --> 00:25:25,802
+Severe hypertension is also seen with concomitant use of protease inhibitors given for human immunodeficiency viral (HIV) infection.
+
+211
+00:25:25,802 --> 00:25:34,790
+These adverse effects notwithstanding, it is speculative whether ergot derivatives offer superior therapeutic effects compared with oxytocin.
+
+212
+00:25:34,790 --> 00:25:40,527
+Other second-line agents for atony have included the E- and F-series prostaglandins.
+
+213
+00:25:40,527 --> 00:25:47,390
+Carboprost tromethamine (Hemabate) is the 15-methyl derivative of prostaglandin F2α.
+
+214
+00:25:47,390 --> 00:25:55,840
+It is approved for uterine atony treatment in a dose of 250 μg (0.25 mg) given IM.
+
+215
+00:25:55,840 --> 00:26:03,465
+This dose can be repeated if necessary, at 15- to 90-minute intervals up to a maximum of eight doses.
+
+216
+00:26:03,465 --> 00:26:08,027
+Observational data indicate an 88-percent success rate .
+
+217
+00:26:08,027 --> 00:26:13,015
+Carboprost causes side effects in approximately 20 percent of women.
+
+218
+00:26:13,015 --> 00:26:21,752
+These include, in descending order of frequency, diarrhea, hypertension, vomiting, fever, flushing, and tachycardia.
+
+219
+00:26:21,752 --> 00:26:27,265
+Another pharmacological effect is pulmonary airway and vascular constriction.
+
+220
+00:26:27,265 --> 00:26:39,252
+Thus, carboprost should not be used for asthmatic women or those with pulmonary hypertension, including women those with suspected amnionic fluid embolism (p. 745).
+
+221
+00:26:39,252 --> 00:26:45,477
+It has also been reported to cause arterial oxygen desaturation that averaged 10 percent .
+
+222
+00:26:45,477 --> 00:26:51,852
+We have occasionally encountered severe hypertension with carboprost given to women with preeclampsia.
+
+223
+00:26:51,852 --> 00:26:58,315
+Other relative contraindications to carboprost include renal, liver, and cardiac disease .
+
+224
+00:26:58,315 --> 00:27:02,727
+Misoprostol is a synthetic prostaglandin E1 analogue.
+
+225
+00:27:02,727 --> 00:27:13,602
+In a Cochrane review, Mousa and associates (2014) reported no added benefits for misoprostol use for treatment compared with oxytocin or ergonovine.
+
+226
+00:27:13,602 --> 00:27:27,065
+If misoprostol is used to treat atony, the American College of Obstetricians and Gynecologists (2019a) recommends a dose of 600 to 1000 µg rectally, orally, or sublingually.
+
+227
+00:27:27,065 --> 00:27:32,140
+Dinoprostone (Cervidil, Prepidil) is prostaglandin E2.
+
+228
+00:27:32,140 --> 00:27:40,952
+It may also be used off label for atony treatment and is given as a 20-mg suppository per rectum or per vagina every 2 hours.
+
+229
+00:27:40,952 --> 00:27:49,752
+It typically causes diarrhea, which is problematic for the rectal route, whereas vigorous vaginal bleeding may preclude its use per vagina.
+
+230
+00:27:49,752 --> 00:27:56,177
+Hypotension, which is commonly encountered with hemorrhage, is considered a contraindication by some.
+
+231
+00:27:56,177 --> 00:28:02,065
+For this reason, this agent is not deployed for hemorrhage management at Parkland Hospital.
+
+232
+00:28:02,065 --> 00:28:09,215
+IV prostaglandin E2—sulprostone—is used in Europe, but it is not available in the United States.
+
+233
+00:28:09,215 --> 00:28:15,852
+Tranexamic Acid This antifibrinolytic agent has been evaluated to treat postpartum hemorrhage.
+
+234
+00:28:15,852 --> 00:28:31,765
+In the randomized WOMAN trial of gravidas with hemorrhage following vaginal birth or during cesarean delivery, mortality rates from obstetrical hemorrhage were 1.2 percent in those given a 1-g IV tranexamic acid dose plus traditional care for bleeding.
+
+235
+00:28:31,765 --> 00:28:38,702
+This rate was significantly lower than the 1.7-percent death rate in women given traditional care alone .
+
+236
+00:28:38,702 --> 00:28:44,440
+Another study of women with hemorrhage following vaginal birth found that rates of progression to
+
+237
+00:28:44,596 --> 00:28:53,321
+severe PPH, of transfusion, and of peripartum hysterectomy were lower in the TXA group compared with the traditional-care group .
+
+238
+00:28:53,271 --> 00:29:00,508
+Use of tranexamic acid in hemorrhage is discussed further in Chapter 44 (p. 773).
+
+239
+00:29:00,508 --> 00:29:18,246
+Bleeding Unresponsive to Uterotonic Agents If bleeding persists after initial measures for atony, the following management steps are performed immediately and simultaneously: 1. Begin bimanual uterine compression, which is easily done and controls most cases of continuing hemorrhage .
+
+240
+00:29:18,246 --> 00:29:21,683
+This technique is not simply fundal massage.
+
+241
+00:29:21,683 --> 00:29:30,008
+The posterior uterine wall is massaged by one hand on the abdomen, while the other hand is made into a fist and placed into the vagina.
+
+242
+00:29:30,008 --> 00:29:38,108
+This fist kneads the anterior uterine wall through the anterior vaginal wall, and the uterus is compressed between the two hands.
+
+243
+00:29:38,108 --> 00:29:40,758
+Figure 42-4.
+
+244
+00:29:40,758 --> 00:29:43,933
+Bimanual compression for uterine atony.
+
+245
+00:29:43,933 --> 00:29:53,646
+The uterus is positioned with the fist of one hand in the anterior fornix pushing against the anterior wall, which is held in place by the other hand on the abdomen.
+
+246
+00:29:53,646 --> 00:29:57,583
+The abdominal hand is also used for uterine massage.
+
+247
+00:29:57,583 --> 00:30:03,908
+2. Mobilize the emergent-care obstetrical team and call for whole blood or packed red cells.
+
+248
+00:30:03,908 --> 00:30:07,721
+3. Request urgent help from the anesthesia team.
+
+249
+00:30:07,721 --> 00:30:16,658
+4. Secure at least two large-bore IV catheters so that crystalloid with oxytocin can be continued simultaneously with blood products.
+
+250
+00:30:16,658 --> 00:30:21,296
+Insert a Foley catheter for continuous urine output monitoring.
+
+251
+00:30:21,296 --> 00:30:28,346
+5. Begin volume resuscitation with rapid IV crystalloid infusion (p. 734).
+
+252
+00:30:28,346 --> 00:30:44,071
+6. With sedation, analgesia, or anesthesia established and now with optimal exposure, once again manually explore the uterine cavity for retained placental fragments and for uterine abnormalities, including lacerations or rupture.
+
+253
+00:30:44,071 --> 00:30:50,871
+7. Thoroughly inspect the cervix and vagina again for lacerations that may have escaped attention.
+
+254
+00:30:50,871 --> 00:30:56,883
+8. Administer blood transfusions if the woman is still unstable or if bleeding persists .
+
+255
+00:30:56,883 --> 00:31:06,846
+At this juncture, after causes other than atony have been excluded and after hypovolemia is reversed, several other measures are considered if bleeding continues .
+
+256
+00:31:06,846 --> 00:31:14,221
+Their use depends on several factors such as parity, desire for sterilization, and experience with each method.
+
+257
+00:31:14,221 --> 00:31:17,533
+Balloon Tamponade and Surgical Procedures.
+
+258
+00:31:17,533 --> 00:31:28,546
+For this, the tip of a 24F to 30F Foley catheter with a 30-mL balloon is guided into the uterine cavity and filled with 60 to 80 mL of saline.
+
+259
+00:31:28,546 --> 00:31:33,071
+The open tip permits continuous drainage of blood from the uterus.
+
+260
+00:31:33,071 --> 00:31:43,046
+We have experienced balloon rupture when more than 50 mL was instilled into the balloon, thus a 34F Foley with a 60-ml balloon can be used.
+
+261
+00:31:43,046 --> 00:31:49,083
+If bleeding subsides, the catheter is typically removed after 12 to 24 hours.
+
+262
+00:31:49,083 --> 00:32:00,421
+Similar devices for tamponade include SengstakenBlakemore, Rusch, and ebb balloons and condom catheters (Antony, 2017; Kondoh, 2019).
+
+263
+00:32:00,421 --> 00:32:11,108
+Antibiotic prophylaxis using cefazolin, 1 gram every 8 hours until removal, has recently been suggested to reduce risk of postpartum endometritis .
+
+264
+00:32:11,108 --> 00:32:18,971
+Instead, specially constructed intrauterine balloons are available to treat hemorrhage from uterine atony and other causes.
+
+265
+00:32:18,971 --> 00:32:27,058
+A Bakri Postpartum Balloon or BT-Cath may be inserted and inflated to tamponade the endometrial cavity and stop bleeding .
+
+266
+00:32:27,058 --> 00:32:30,596
+Insertion requires two or three team members.
+
+267
+00:32:30,596 --> 00:32:34,821
+The first performs abdominal sonography during the procedure.
+
+268
+00:32:34,821 --> 00:32:39,858
+The second places the deflated balloon into the uterus and stabilizes it.
+
+269
+00:32:39,858 --> 00:32:53,521
+The third member instills fluid to inflate the balloon, rapidly infusing at least 150 mL followed by further instillation over a few minutes for a total of 300 to 500 mL to arrest hemorrhage.
+
+270
+00:32:53,521 --> 00:32:58,346
+It is reasonable to remove the balloon after approximately 12 hours .
+
+271
+00:32:58,346 --> 00:33:01,058
+Figure 42-5.
+
+272
+00:33:01,058 --> 00:33:04,971
+Intrauterine Bakri balloon for postpartum hemorrhage.
+
+273
+00:33:04,971 --> 00:33:18,471
+In small studies evaluating uterine balloons for all causes, the success rate approximated 85 percent (Kaya, 2016; Said Ali, 2021; Vintejoux, 2015).
+
+274
+00:33:18,471 --> 00:33:28,108
+From their review, Suarez and associates (2020) used balloon tamponade in 4729 women and reported a similar success rate.
+
+275
+00:33:28,108 --> 00:33:32,608
+At least one case of uterine rupture with a balloon has been reported .
+
+276
+00:33:32,608 --> 00:33:36,021
+Combinations of balloon tamponade and uterine
+
+277
+00:33:36,172 --> 00:33:43,009
+compression sutures also have been described (Diemert, 2012; Yoong, 2012).
+
+278
+00:33:42,959 --> 00:33:48,247
+Failure of uterotonic agents and tamponade requires more invasive methods.
+
+279
+00:33:48,247 --> 00:33:56,409
+These include uterine compression sutures, major pelvic vessel ligation, angiographic embolization, and hysterectomy.
+
+280
+00:33:56,409 --> 00:34:01,872
+These are discussed in detail in Chapters 44 (p. 778).
+
+281
+00:34:01,872 --> 00:34:07,409
+Peripartum hysterectomy is illustrated in Chapter 30 (p. 560).
+
+282
+00:34:07,409 --> 00:34:09,447
+Uterine Inversion.
+
+283
+00:34:09,447 --> 00:34:15,884
+Puerperal inversion of the uterus is one of the classic hemorrhagic disasters encountered in obstetrics.
+
+284
+00:34:15,884 --> 00:34:22,122
+Unless promptly recognized and managed appropriately, associated bleeding often is massive.
+
+285
+00:34:22,122 --> 00:34:39,647
+Risk factors include alone or in combination: (1) placental implantation at the fundus, (2) uterine atony, (3) cord traction applied before placental separation, and (4) abnormally adherent placentation seen with placenta accreta spectrum disorders .
+
+286
+00:34:39,647 --> 00:34:48,172
+Other risk factors are a short cord, uterine wall weakening at the implantation site, uterine tumors, and excessive fundal pressure .
+
+287
+00:34:48,172 --> 00:34:56,172
+Depending on which of these factors are contributory, the incidence and severity of uterine inversion varies and can be progressive .
+
+288
+00:34:56,172 --> 00:35:01,547
+The worst scenario is complete inversion with the uterus protruding from the birth canal .
+
+289
+00:35:01,547 --> 00:35:04,222
+Figure 42-6.
+
+290
+00:35:04,222 --> 00:35:07,309
+Progressive degrees of uterine inversion.
+
+291
+00:35:07,309 --> 00:35:09,922
+Figure 42-7.
+
+292
+00:35:09,922 --> 00:35:18,697
+Maternal death during home delivery caused by exsanguination from uterine inversion, which stemmed from a fundally implanted placenta increta.
+
+293
+00:35:18,697 --> 00:35:29,672
+The incidence of uterine inversion ranges from 1 case in 2000 to 1 in 20,000 vaginal deliveries (Coad, 2017; Witteveen, 2013).
+
+294
+00:35:29,672 --> 00:35:36,047
+Our experiences at Parkland Hospital correspond with the higher 1:2000 incidence.
+
+295
+00:35:36,047 --> 00:35:43,972
+This is despite our policy of discouraging placental delivery by cord traction alone, and before certainty of its separation.
+
+296
+00:35:43,972 --> 00:35:58,559
+It is unknown if active management of third-stage labor with cord traction applied ostensibly after signs of placental separation raises the likelihood of uterine inversion (DeneuxTharaux, 2013; Prick, 2013).
+
+297
+00:35:58,559 --> 00:36:01,522
+# Recognition and Management.
+
+298
+00:36:01,522 --> 00:36:07,997
+Immediate recognition of uterine inversion improves the chances of a quick resolution and good outcome.
+
+299
+00:36:07,997 --> 00:36:14,784
+If initially unrecognized, continued hemorrhage likely will prompt closer examination of the birth canal.
+
+300
+00:36:14,784 --> 00:36:28,872
+Although complete inversion is usually evident, the partially inverted uterus can be mistaken for a uterine myoma, and sonography can aid differentiation (Pan, 2015; Smulian, 2013).
+
+301
+00:36:28,872 --> 00:36:35,597
+Many cases are associated with immediate life-threatening hemorrhage, and a fourth require blood replacement .
+
+302
+00:36:35,597 --> 00:36:48,609
+Once any degree of uterine inversion is recognized, several steps must be implemented urgently and simultaneously: 1. Immediate assistance is summoned, including obstetrical and anesthesia personnel.
+
+303
+00:36:48,609 --> 00:36:52,884
+2. Blood is brought to the delivery suite for potential use.
+
+304
+00:36:52,884 --> 00:37:02,609
+3. Two large-bore IV infusion systems are secured to begin rapid crystalloid infusion to treat hypovolemia while awaiting arrival of blood products.
+
+305
+00:37:02,609 --> 00:37:07,397
+4. The woman is evaluated for emergency general anesthesia.
+
+306
+00:37:07,397 --> 00:37:24,372
+5. If the recently inverted uterus has not contracted and retracted completely and if the placenta has already separated, the uterus may often be replaced simply by pushing up on the inverted fundus with the palm of the hand and fingers in the direction of the long axis of the vagina .
+
+307
+00:37:24,372 --> 00:37:29,622
+Some use two fingers rigidly extended to push the center of the fundus upward.
+
+308
+00:37:29,622 --> 00:37:35,409
+Care is taken not to apply so much pressure as to perforate the uterus with the fingertips.
+
+309
+00:37:35,409 --> 00:37:37,859
+Figure 42-8.
+
+310
+00:37:37,859 --> 00:37:48,647
+Incomplete uterine inversion can be repositioned by using the abdominal hand for palpation of the crater-like depression while simultaneously gently pushing the inverted fundus upward.
+
+311
+00:37:48,647 --> 00:37:55,797
+6. If the placenta is still attached, attempts are made to reposition the uterus with the placenta in situ.
+
+312
+00:37:55,797 --> 00:38:03,109
+In theory, the uterus contracts to a lesser degree and placenta-site blood loss is less with an attached placenta.
+
+313
+00:38:03,109 --> 00:38:10,622
+At this time a trial of an intravenously administered tocolytic drug may aid uterine relaxation and repositioning.
+
+314
+00:38:10,622 --> 00:38:21,409
+Of options, a 250-µg subcutaneous dose of terbutaline, a 50- to 100-µg IV dose of nitroglycerin, or a 4-g IV dose of magnesium
+
+315
+00:38:21,580 --> 00:38:27,880
+sulfate are suitable (Catanzarite, 1986; Dufour, 1997).
+
+316
+00:38:27,830 --> 00:38:36,742
+If these fail to provide sufficient relaxation, then a rapid-acting halogenated inhalational agent is administered by anesthesia staff.
+
+317
+00:38:36,742 --> 00:38:41,880
+After the uterus is replaced, the placenta is carefully manually removed.
+
+318
+00:38:41,880 --> 00:38:50,442
+7. If uterine repositioning fails with the placenta attached, it is peeled off, and uterine repositioning is attempted again.
+
+319
+00:38:50,442 --> 00:39:04,055
+8. Once the uterus is restored to its normal configuration, tocolysis is stopped, oxytocin is then infused, and other uterotonic agents may be given as described for atony (p. 735).
+
+320
+00:39:04,055 --> 00:39:16,967
+Meanwhile, the operator maintains the fundus in its normal anatomical position while applying bimanual compression to control further hemorrhage until the uterus is well contracted (see Fig. 42-4).
+
+321
+00:39:16,967 --> 00:39:23,480
+The operator continues to monitor the uterus transvaginally for evidence of subsequent inversion.
+
+322
+00:39:23,480 --> 00:39:32,255
+A Bakri balloon has been used by some to maintain the repositioned uterus (Haeri, 2015; Ida, 2015).
+
+323
+00:39:32,255 --> 00:39:35,055
+# Surgical Intervention.
+
+324
+00:39:35,055 --> 00:39:41,867
+In most cases, the inverted uterus can be restored to its normal position by the just-described techniques.
+
+325
+00:39:41,867 --> 00:39:45,380
+Occasionally, manual replacement fails.
+
+326
+00:39:45,380 --> 00:39:49,305
+One cause is a dense myometrial constriction ring.
+
+327
+00:39:49,305 --> 00:39:52,767
+At this point, laparotomy is imperative.
+
+328
+00:39:52,767 --> 00:39:59,455
+The anatomical configuration found at surgery can be confusing as shown in Figure 42-9.
+
+329
+00:39:59,455 --> 00:40:09,980
+During laparotomy and after tocolysis is given, a combined effort is made to reposition the uterus by concurrently pushing upward from below and pulling upward from above.
+
+330
+00:40:09,980 --> 00:40:17,405
+Application of atraumatic clamps to each round ligament and upward traction may be helpful —the Huntington procedure.
+
+331
+00:40:17,405 --> 00:40:26,405
+In some cases, placing a deep traction suture in the inverted fundus or grasping it with tissue forceps may help but can be technically difficult.
+
+332
+00:40:26,405 --> 00:40:36,617
+If a constriction ring still prohibits repositioning, a sagittal surgical cut—Haultain incision—is made posteriorly through the muscular ring to release it.
+
+333
+00:40:36,617 --> 00:40:39,930
+The exposed fundus can then be reinverted .
+
+334
+00:40:39,930 --> 00:40:42,580
+Figure 42-9.
+
+335
+00:40:42,580 --> 00:40:47,992
+Surgical anatomy of a completely inverted uterus viewed from above at laparotomy.
+
+336
+00:40:47,992 --> 00:40:55,305
+After uterine replacement, tocolytics are stopped, and oxytocin and other uterotonic agents are given.
+
+337
+00:40:55,305 --> 00:40:59,742
+If the Haultain method is used, the uterine incision is repaired.
+
+338
+00:40:59,742 --> 00:41:08,055
+Risks of separation of this posterior hysterotomy incision during subsequent pregnancy, labor, and delivery are unknown .
+
+339
+00:41:08,055 --> 00:41:14,955
+Further illustration and discussion are found in Cunningham and Gilstrap’s Operative Obstetrics, 3rd edition .
+
+340
+00:41:14,955 --> 00:41:20,842
+In some cases, the uterus will again invert almost immediately after repositioning.
+
+341
+00:41:20,842 --> 00:41:30,305
+With this problem, uterine compression sutures can be used to prevent another inversion (Matsubara, 2009; Mondal, 2012).
+
+342
+00:41:30,305 --> 00:41:36,230
+Occasionally, chronic puerperal uterine inversion may become apparent weeks after delivery.
+
+343
+00:41:36,230 --> 00:41:38,492
+Birth Canal Injuries.
+
+344
+00:41:38,492 --> 00:41:41,717
+# Vulvovaginal Lacerations.
+
+345
+00:41:41,717 --> 00:41:48,480
+Childbirth is invariably associated with trauma to the uterus and cervix, vagina, and perineum.
+
+346
+00:41:48,480 --> 00:41:55,367
+Injuries range from minor mucosal tears to lacerations that create life-threatening hemorrhage or hematomas.
+
+347
+00:41:55,367 --> 00:42:05,942
+According to the American College of Obstetricians and Gynecologists (2020a), up to 80 percent of women sustain some type of laceration at vaginal birth.
+
+348
+00:42:05,942 --> 00:42:10,605
+These may lie proximally or distally along the lower genital tract.
+
+349
+00:42:10,605 --> 00:42:15,405
+Small tears of the vaginal wall near the urethra are relatively common.
+
+350
+00:42:15,405 --> 00:42:23,092
+They are often superficial with little to no bleeding but occasionally require fine-gauge absorbable sutures for hemostasis.
+
+351
+00:42:23,092 --> 00:42:32,867
+Those large enough to require extensive repair are typically associated with short-term voiding difficulty, and an indwelling bladder catheter will obviate this.
+
+352
+00:42:32,867 --> 00:42:40,080
+Deeper perineal lacerations are usually accompanied by varying degrees of injury to the outer third of the vagina.
+
+353
+00:42:40,080 --> 00:42:45,442
+Some extend to involve the anal sphincter or varying depths of the vaginal walls.
+
+354
+00:42:45,442 --> 00:42:51,605
+Repair of these perineal lacerations is detailed in Chapter 27 (p. 510).
+
+355
+00:42:51,605 --> 00:42:59,342
+Lacerations involving the middle or upper third of the vagina usually are comorbid with injuries of the perineum or cervix.
+
+356
+00:42:59,342 --> 00:43:03,080
+These sometimes are missed unless inspection is thorough.
+
+357
+00:43:03,080 --> 00:43:06,142
+Those that extend upward usually are
+
+358
+00:43:06,292 --> 00:43:08,204
+longitudinal.
+
+359
+00:43:08,154 --> 00:43:15,379
+They may follow spontaneous delivery but frequently result from injuries sustained during operative vaginal delivery.
+
+360
+00:43:15,379 --> 00:43:23,104
+Most involve deeper underlying tissues and thus usually cause significant hemorrhage, which is controlled by suture repair.
+
+361
+00:43:23,104 --> 00:43:33,554
+For this, effective analgesia or anesthesia, clear visualization, capable assistance, and sufficient resuscitation of hypovolemia are mandatory.
+
+362
+00:43:33,554 --> 00:43:42,767
+Extensive vaginal or cervical tears should prompt a careful search for evidence of retroperitoneal hemorrhage or of peritoneal perforation with hemorrhage.
+
+363
+00:43:42,767 --> 00:43:48,354
+Intrauterine exploration is also considered to exclude uterine tears or rupture .
+
+364
+00:43:48,354 --> 00:43:55,004
+If peritoneal perforation or uterine rupture is strongly suspected, laparotomy is reasonable .
+
+365
+00:43:55,004 --> 00:44:04,167
+As discussed later (p. 742), imaging and potential embolization may be suitable for large retroperitoneal hematomas.
+
+366
+00:44:04,167 --> 00:44:07,142
+# Cervical Lacerations.
+
+367
+00:44:07,142 --> 00:44:14,392
+Superficial lacerations of the cervix can be seen on close inspection in more than half of all vaginal deliveries.
+
+368
+00:44:14,392 --> 00:44:20,167
+Most of these measure <0.5 cm and seldom require repair.
+
+369
+00:44:20,167 --> 00:44:25,167
+Deeper lacerations are less frequent, but even these may be unnoticed.
+
+370
+00:44:25,167 --> 00:44:31,667
+Such lacerations are more likely to be associated with vacuum- or forceps-assisted vaginal delivery .
+
+371
+00:44:31,667 --> 00:44:36,417
+Due to ascertainment bias, variable incidences are described.
+
+372
+00:44:36,417 --> 00:44:48,467
+For example, with close inspection, the incidence of cervical lacerations in the Consortium on Safe Labor database was 1 percent in nulliparas and 0.5 percent in multiparas .
+
+373
+00:44:48,467 --> 00:44:56,517
+But, the overall incidence in a study of more than 81,000 Israeli women was only 0.16 percent .
+
+374
+00:44:56,517 --> 00:45:03,117
+Cervical lacerations are not usually problematic unless they cause hemorrhage or extend to the vagina.
+
+375
+00:45:03,117 --> 00:45:13,729
+Rarely, the cervix may be entirely or partially avulsed from the vagina in the anterior, posterior, or lateral fornices, an injury termed colporrhexis.
+
+376
+00:45:13,729 --> 00:45:21,217
+Another rare injury is avulsion of the entire vaginal portion of the cervix—annular or circular detachment.
+
+377
+00:45:21,217 --> 00:45:29,854
+These injuries sometimes follow forceps deliveries performed through an incompletely dilated cervix and with the blades applied against the cervix.
+
+378
+00:45:29,854 --> 00:45:37,579
+In some women, cervical tears reach into the lower uterine segment and involve the uterine artery and its major branches.
+
+379
+00:45:37,579 --> 00:45:41,354
+They occasionally extend into the peritoneal cavity.
+
+380
+00:45:41,354 --> 00:45:50,117
+More severe lacerations usually manifest as external hemorrhage or as a hematoma, however, they may occasionally be unsuspected.
+
+381
+00:45:50,117 --> 00:45:58,054
+In the Israeli study just cited, almost 11 percent of women with a cervical laceration required blood transfusions .
+
+382
+00:45:58,054 --> 00:46:05,542
+At times, the edematous anterior cervical lip is compressed between the fetal head and maternal symphysis pubis.
+
+383
+00:46:05,542 --> 00:46:10,154
+This usually is of little consequence and resolves spontaneously.
+
+384
+00:46:10,154 --> 00:46:18,779
+Rarely, this causes severe ischemia, and the anterior lip may undergo necrosis and later separate from the rest of the cervix.
+
+385
+00:46:18,779 --> 00:46:29,329
+As with vulvovaginal lacerations, cervical tears can be more fully appreciated with adequate exposure, which may be best attained with transfer to an operating room.
+
+386
+00:46:29,329 --> 00:46:38,229
+An assistant applies firm downward pressure on the uterus, while the operator exerts gentle traction on the lips of the cervix with ring forceps.
+
+387
+00:46:38,229 --> 00:46:46,142
+A second assistant can provide even better exposure with right-angle vaginal wall retractors or Breisky vaginal retractors.
+
+388
+00:46:46,142 --> 00:46:50,117
+Yankauer or other suction tips also can aid viewing.
+
+389
+00:46:50,117 --> 00:46:56,642
+In general, cervical lacerations of 1 to 2 cm are not repaired unless they are bleeding.
+
+390
+00:46:56,642 --> 00:47:07,567
+Such tears heal rapidly and ultimately form an irregular, sometimes stellate-appearing, external cervical os (Fig. 36-1, p. 635).
+
+391
+00:47:07,567 --> 00:47:11,617
+Deep cervical tears usually require surgical repair.
+
+392
+00:47:11,617 --> 00:47:25,042
+When the laceration is limited to the cervix or even when it extends somewhat into the vaginal fornix, satisfactory results are obtained by suturing the cervix after bringing it into view as depicted in Figure 42-10.
+
+393
+00:47:25,042 --> 00:47:34,929
+While cervical lacerations are repaired, any associated vaginal lacerations or an episiotomy may be tamponaded with gauze packs to arrest their bleeding.
+
+394
+00:47:34,929 --> 00:47:44,542
+Because hemorrhage usually comes from the upper angle of the wound, the first suture using 2–0 chromic or polyglactin is placed in tissue above the angle.
+
+395
+00:47:44,692 --> 00:47:51,779
+Subsequently, either interrupted or continuous locking sutures are serially placed outward toward the operator.
+
+396
+00:47:51,729 --> 00:48:04,317
+If the uterus is involved and hemorrhage persists, some of the surgical and angiographic methods described in Chapter 44 (p. 777) may be necessary to obtain hemostasis.
+
+397
+00:48:04,317 --> 00:48:17,654
+Following cervical lacerations, subsequent pregnancy outcomes include excessive recurrent lacerations, cervical incompetence, preterm labor, cesarean delivery, and severe perineal lacerations .
+
+398
+00:48:17,654 --> 00:48:20,229
+Figure 42-10.
+
+399
+00:48:20,229 --> 00:48:24,792
+Repair of cervical laceration with appropriate surgical exposure.
+
+400
+00:48:24,792 --> 00:48:30,404
+Continuous absorbable sutures are placed beginning at the upper angle of the laceration.
+
+401
+00:48:30,404 --> 00:48:33,242
+# Puerperal Hematomas.
+
+402
+00:48:33,242 --> 00:48:38,879
+Pelvic hematomas can have several anatomical manifestations following childbirth.
+
+403
+00:48:38,879 --> 00:48:47,404
+One classification is anatomical and describes vulvar, vulvovaginal, paravaginal, and retroperitoneal hematomas.
+
+404
+00:48:47,404 --> 00:48:56,979
+Vulvar hematomas may involve the vestibular bulb or branches of the pudendal artery, which are the inferior rectal, perineal, and clitoral arteries .
+
+405
+00:48:56,979 --> 00:49:02,129
+Paravaginal hematomas may involve the descending branch of the uterine artery.
+
+406
+00:49:02,129 --> 00:49:09,279
+In some cases, a torn vessel lies above the pelvic fascia, and a supralevator hematoma develops.
+
+407
+00:49:09,279 --> 00:49:15,179
+These can extend into the upper portion of the vaginal canal and may almost occlude its lumen.
+
+408
+00:49:15,179 --> 00:49:21,654
+Continued bleeding may dissect retroperitoneally to form a mass palpable above the inguinal ligament.
+
+409
+00:49:21,654 --> 00:49:27,792
+In some cases, it may even dissect up behind the ascending colon to the hepatic flexure .
+
+410
+00:49:27,792 --> 00:49:30,429
+Figure 42-11.
+
+411
+00:49:30,429 --> 00:49:34,479
+Schematic drawing showing types of puerperal hematomas.
+
+412
+00:49:34,479 --> 00:49:38,392
+A. Coronal view showing a supralevator hematoma.
+
+413
+00:49:38,392 --> 00:49:43,179
+B. Coronal view showing a hematoma in the urogenital triangle.
+
+414
+00:49:43,179 --> 00:49:49,192
+C. Perineal view showing anal triangle anatomy and an ischioanal fossa hematoma.
+
+415
+00:49:49,192 --> 00:49:55,692
+Reproduced with permission from Cunningham FG: Genital tract lacerations and hematomas.
+
+416
+00:49:55,692 --> 00:50:05,004
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+417
+00:50:05,004 --> 00:50:09,392
+New York, NY: McGraw Hill; 2017a.
+
+418
+00:50:09,392 --> 00:50:17,554
+Risks for puerperal hematomas include vaginal or perineal laceration, episiotomy, or operative vaginal delivery .
+
+419
+00:50:17,554 --> 00:50:28,129
+Any hematoma can also develop following stretch and rupture of a blood vessel without an associated laceration (Alturki, 2018; Lee, 2020).
+
+420
+00:50:28,129 --> 00:50:31,729
+This may be especially true with forceps delivery.
+
+421
+00:50:31,729 --> 00:50:36,692
+Occasionally, they are associated with an underlying coagulopathy .
+
+422
+00:50:36,692 --> 00:50:45,092
+Diagnosis Perineal, vulvar, and paravaginal hematomas can develop rapidly and frequently cause excruciating pain .
+
+423
+00:50:45,092 --> 00:50:55,654
+A tense, tender swelling of varying size rapidly develops, encroaches on the vaginal lumen, and causes overlying skin or epithelium to become ecchymotic.
+
+424
+00:50:55,654 --> 00:50:59,879
+A paravaginal hematoma may escape detection initially.
+
+425
+00:50:59,879 --> 00:51:06,454
+However, symptoms of pelvic pressure, pain, or inability to void should prompt evaluation.
+
+426
+00:51:06,454 --> 00:51:11,667
+Others may go undetected until other measures of hypovolemia become evident.
+
+427
+00:51:11,667 --> 00:51:19,867
+With a supralevator extension, the hematoma extends upward in the paravaginal space and between the leaves of the broad ligament.
+
+428
+00:51:19,867 --> 00:51:27,092
+The hematoma may escape detection until it can be felt on abdominal palpation or until hypovolemia develops.
+
+429
+00:51:27,092 --> 00:51:36,792
+Imaging with sonography or computed tomographic scanning may be useful (Cichowski, 2017; Kawamura, 2014).
+
+430
+00:51:36,792 --> 00:51:39,417
+Figure 42-12.
+
+431
+00:51:39,417 --> 00:51:43,179
+Right vulvar hematoma that required evacuation.
+
+432
+00:51:43,179 --> 00:51:46,717
+A Foley catheter was placed for bladder drainage.
+
+433
+00:51:46,717 --> 00:51:51,154
+Reproduced with permission from Dr. Emily H. Adhikari.
+
+434
+00:51:51,154 --> 00:51:56,642
+Management Small hematomas often remain contained and show minimal expansion.
+
+435
+00:51:56,642 --> 00:52:02,967
+In others, the tissues overlying an expanding hematoma may rupture from pressure necrosis.
+
+436
+00:52:02,967 --> 00:52:11,292
+In some, profuse hemorrhage may follow, but in other cases, the hematoma drains in the form of large clots and old blood.
+
+437
+00:52:11,292 --> 00:52:20,142
+In those that involve the paravaginal space and extend above the levator sling, retroperitoneal bleeding may be massive and occasionally fatal.
+
+438
+00:52:20,142 --> 00:52:26,217
+In rare instances, we encountered hematomas that rebled up to 2 weeks postpartum .
+
+439
+00:52:26,217 --> 00:52:34,154
+Vulvovaginal hematomas are managed according to their size, location, duration since delivery, and expansion.
+
+440
+00:52:34,154 --> 00:52:40,992
+If bleeding ceases, then small- to moderate-sized hematomas may be treated expectantly until absorbed.
+
+441
+00:52:40,992 --> 00:52:42,417
+Cool
+
+442
+00:52:42,580 --> 00:52:48,942
+packs and analgesics are supportive care, and an inability to void merits catheter drainage.
+
+443
+00:52:48,892 --> 00:52:56,080
+But, if pain is severe or if the hematoma continues to enlarge, surgical exploration is preferable.
+
+444
+00:52:56,080 --> 00:53:02,667
+Blood loss with large puerperal hematomas is nearly always considerably more than the clinical estimate.
+
+445
+00:53:02,667 --> 00:53:09,555
+Hypovolemia is common, and transfusions are frequently required when surgical repair is necessary.
+
+446
+00:53:09,555 --> 00:53:17,867
+For repair, an incision is made at the point of maximal distention, blood and clots are evacuated, and bleeding points ligated.
+
+447
+00:53:17,867 --> 00:53:21,842
+Often, no distinct bleeding vessels are identified.
+
+448
+00:53:21,842 --> 00:53:26,530
+The cavity may then be obliterated in layers with absorbable sutures.
+
+449
+00:53:26,530 --> 00:53:31,392
+With this, layered tissue closure acts to tamponade low-pressure bleeding.
+
+450
+00:53:31,392 --> 00:53:40,467
+With vaginal hematomas, the vagina is packed with 1 to 2 gauze roll(s) for 12 to 24 hours, and the number of rolls is recorded.
+
+451
+00:53:40,467 --> 00:53:44,367
+Supralevator hematomas are more difficult to treat.
+
+452
+00:53:44,367 --> 00:53:54,342
+Although some can be evacuated by vulvar or vaginal incisions, laparotomy or angiographic embolization are considerations if bleeding continues.
+
+453
+00:53:54,342 --> 00:53:59,605
+Embolization has become popular for management of some puerperal hematomas.
+
+454
+00:53:59,605 --> 00:54:04,855
+This is especially true for supralevator or retroperitoneal hematomas.
+
+455
+00:54:04,855 --> 00:54:21,492
+Embolization can be used primarily, or more likely secondarily, if surgical attempts at hemostasis have failed or if the hematoma is difficult to access surgically (Distefano, 2013; Lee, 2012; Poujade, 2012).
+
+456
+00:54:21,492 --> 00:54:30,967
+The use of a Bakri balloon for a paracervical hematoma also has been described (Gizzo, 2013; Grönvall, 2014).
+
+457
+00:54:30,967 --> 00:54:37,067
+Last, ultrasound-guided drainage of a recurrent supralevator hematoma has been reported .
+
+458
+00:54:37,067 --> 00:54:38,967
+Uterine Rupture.
+
+459
+00:54:38,967 --> 00:54:41,930
+# Predisposing Factors.
+
+460
+00:54:41,930 --> 00:54:47,392
+Uterine rupture is another event that may lead to potentially catastrophic hemorrhage.
+
+461
+00:54:47,392 --> 00:54:53,667
+Rupture may be primary, defined as occurring in a previously intact or unscarred uterus.
+
+462
+00:54:53,667 --> 00:55:01,592
+More often, rupture is secondary and associated with a preexisting incision, anomaly, or injury of the myometrium .
+
+463
+00:55:01,592 --> 00:55:04,180
+Table 42-3.
+
+464
+00:55:04,180 --> 00:55:11,680
+Some Causes of Uterine Rupture The contribution of each of these underlying causes has evolved during the past 50 years.
+
+465
+00:55:11,680 --> 00:55:20,655
+Before 1960, when cesarean delivery was infrequent and women of great parity were numerous, primary uterine rupture predominated.
+
+466
+00:55:20,655 --> 00:55:39,980
+As the incidence of cesarean delivery rose, and especially as a subsequent trial of labor in these women became prevalent through the 1990s, uterine rupture through the cesarean hysterotomy scar became the preeminent cause (Chang, 2020; Gibbins, 2015; Mone, 2016).
+
+467
+00:55:39,980 --> 00:55:49,930
+Concurrent with the diminished enthusiasm for a trial of labor after cesarean delivery (TOLAC), incidence trends for the two types of rupture have again changed.
+
+468
+00:55:49,930 --> 00:56:00,692
+In a study of 3942 cases of uterine rupture in more than 15 million women, only approximately half were in women with a prior cesarean delivery .
+
+469
+00:56:00,692 --> 00:56:11,242
+The International Network of Obstetric Survey Systems (INOSS) identified 864 complete uterine ruptures in more than 2.6 million deliveries .
+
+470
+00:56:11,242 --> 00:56:15,755
+The overall prevalence was 3 cases per 10,000 births.
+
+471
+00:56:15,755 --> 00:56:27,030
+In women without a prior cesarean delivery, the prevalence was 0.6 per 10,000 births, and it was 22 per 10,000 in those with a prior cesarean delivery.
+
+472
+00:56:27,030 --> 00:56:33,505
+This is similar to the recent overall rate of 5 cases per 10,000 births at Parkland Hospital.
+
+473
+00:56:33,505 --> 00:56:44,517
+During this time, there were 40 cases of uterine rupture, and despite a very conservative TOLAC policy, 25 of the 40 events were in women with a prior hysterotomy.
+
+474
+00:56:44,517 --> 00:56:50,392
+The current lower incidence of women of great parity also has lowered the primary-rupture rate.
+
+475
+00:56:50,392 --> 00:56:55,305
+In this regard, advancing maternal age may be a greater risk factor .
+
+476
+00:56:55,305 --> 00:57:00,630
+Another risk is excessive or inappropriate uterine stimulation with oxytocin.
+
+477
+00:57:00,630 --> 00:57:04,605
+This previously frequent cause has mostly disappeared.
+
+478
+00:57:04,605 --> 00:57:17,180
+In an analysis of three trials comparing contemporaneous high- and low-dose oxytocin regimens for labor induction in those with an unscarred uterus, the rate of uterine rupture did not differ between groups .
+
+479
+00:57:17,180 --> 00:57:27,605
+The rate of rupture, however, is increased with sequential induction of labor with prostaglandins and oxytocin in those both with and without prior cesarean delivery .
+
+480
+00:57:27,605 --> 00:57:30,580
+Other operations that traumatize the
+
+481
+00:57:30,748 --> 00:57:44,498
+myometrium include uterine curettage or perforation, endometrial ablation, myomectomy, operative hysteroscopy, or prior uterine rupture (Frank, 2018; Zhao, 2019).
+
+482
+00:57:44,448 --> 00:57:54,148
+Uterine rupture is also linked with disorders associated with connective tissue weakness (Cauldwell, 2019a,b; Noh, 2013).
+
+483
+00:57:54,148 --> 00:57:59,785
+Another report described rupture in a woman with prior childhood pelvic radiotherapy .
+
+484
+00:57:59,785 --> 00:58:04,810
+Blunt abdominal trauma also can rupture a substantially gravid uterus .
+
+485
+00:58:04,810 --> 00:58:13,385
+Thus, pregnant women in the later second- and third trimesters who sustain such trauma are ideally monitored for signs of uterine rupture.
+
+486
+00:58:13,385 --> 00:58:19,435
+Specific monitoring protocols are outlined in Chapter 50 (p. 896).
+
+487
+00:58:19,435 --> 00:58:31,423
+Uncommon causes today are those due to internal podalic version and extraction, difficult forceps delivery, breech extraction, and unusual fetal enlargement such as with hydrocephalus.
+
+488
+00:58:31,423 --> 00:58:38,460
+In one unusual case, fundal rupture followed spontaneous labor in a woman with an abdominal cerclage .
+
+489
+00:58:38,460 --> 00:58:50,448
+Rupture associated with multifetal pregnancy or uterine anomalies also is rare (Bankada, 2015; Tarney, 2013; Tola, 2014).
+
+490
+00:58:50,448 --> 00:58:58,085
+Although rare, rudimentary uterine horns are especially susceptible and described in Chapter 3 (p. 43).
+
+491
+00:58:58,085 --> 00:59:06,223
+Discussed in Chapter 43 (p. 760), placenta percreta may cause focal myometrial weakness and rupture .
+
+492
+00:59:06,223 --> 00:59:08,773
+# Pathogenesis.
+
+493
+00:59:08,773 --> 00:59:15,723
+Rupture of the previously intact uterus during labor most often involves the thinned-out lower uterine segment.
+
+494
+00:59:15,723 --> 00:59:22,448
+When the rent is in the immediate vicinity of the cervix, it frequently extends transversely or obliquely.
+
+495
+00:59:22,448 --> 00:59:29,248
+When the rent forms in the portion of the uterus adjacent to the broad ligament, the tear is usually longitudinal .
+
+496
+00:59:29,248 --> 00:59:39,123
+Although these tears develop primarily in the lower uterine segment, they can extend upward into the active segment or downward through the cervix and into the vagina.
+
+497
+00:59:39,123 --> 00:59:43,223
+In some cases, the bladder also may be lacerated.
+
+498
+00:59:43,223 --> 00:59:46,085
+Figure 42-13.
+
+499
+00:59:46,085 --> 00:59:49,035
+Peripartum hysterectomy specimen.
+
+500
+00:59:49,035 --> 00:59:55,935
+A right broad ligament hematoma is seen lateral to the closed hysterotomy incision and medial to the ovary.
+
+501
+00:59:55,935 --> 01:00:00,373
+Reproduced with permission from Dr. Emily H. Adhikari.
+
+502
+01:00:00,373 --> 01:00:07,235
+If the rupture is of sufficient size, the uterine contents will usually escape into the peritoneal cavity.
+
+503
+01:00:07,235 --> 01:00:15,198
+If the presenting fetal part is firmly engaged, however, then only a portion of the fetus may be extruded from the uterus.
+
+504
+01:00:15,198 --> 01:00:30,998
+Fetal prognosis is largely dependent on the size of the rent, the degree of placental separation, the magnitude of maternal hypovolemia, and the rapidity of diagnosis and response (Al-Zirqi, 2018; Rottenstreich, 2021).
+
+505
+01:00:30,998 --> 01:00:42,398
+In some cases, the overlying peritoneum remains intact, and this usually is accompanied by hemorrhage that extends into the broad ligament to cause a large retroperitoneal hematoma.
+
+506
+01:00:42,398 --> 01:00:55,423
+Following vaginal delivery in an unscarred uterus, we and others have occasionally encountered cases of an incomplete tear on the inside of the uterus that extends vertically into the active segment to cause profuse hemorrhage .
+
+507
+01:00:55,423 --> 01:01:03,948
+These tears are usually not visible from below but are found at the time of hysterectomy for intractable bleeding despite a contracted uterus.
+
+508
+01:01:03,948 --> 01:01:12,710
+Hemorrhage with this type of tear can be torrential, and bleeding is usually not slowed until the uterine artery pedicles are clamped bilaterally.
+
+509
+01:01:12,710 --> 01:01:15,623
+# Management and Outcomes.
+
+510
+01:01:15,623 --> 01:01:24,523
+The varied clinical presentations of uterine rupture and its management are discussed in detail in Chapter 31 (p. 579).
+
+511
+01:01:24,523 --> 01:01:36,698
+In the most recent national maternal mortality statistics, uterine rupture accounted for nearly 10 percent of hemorrhage-associated deaths (Creanga, 2015, 2017).
+
+512
+01:01:36,698 --> 01:01:42,210
+Maternal morbidity includes hysterectomy that may be necessary to control hemorrhage.
+
+513
+01:01:42,210 --> 01:01:53,673
+Rates of perinatal mortality and morbidity, which may include severe neurological impairment, also are high (Al-Zirqi, 2018; Rottenstreich, 2021).
+
+514
+01:01:53,673 --> 01:02:00,148
+Table 42-4 lists some perinatal outcomes in 72 women with uterine rupture.
+
+515
+01:02:00,148 --> 01:02:08,035
+Last, maternal obesity comorbid with uterine rupture is associated with increased rates of adverse neonatal outcomes .
+
+516
+01:02:08,035 --> 01:02:17,898
+With prior rupture and a subsequent pregnancy, Fox (2020) recommends cesarean delivery prior to labor or at the onset of preterm labor.
+
+517
+01:02:17,898 --> 01:02:20,523
+Table 42-4.
+
+518
+01:02:20,523 --> 01:02:22,010
+Some
+
+519
+01:02:22,180 --> 01:02:28,917
+Maternal and Perinatal Outcomes in 72 Women with Uterine Rupture Amnionic Fluid Embolism.
+
+520
+01:02:28,867 --> 01:02:31,667
+# Pathophysiology.
+
+521
+01:02:31,667 --> 01:02:38,155
+This syndrome usually is caused by intravenous embolization of meconiumladen amnionic fluid.
+
+522
+01:02:38,155 --> 01:02:44,292
+It results in rapid cardiorespiratory collapse and profound consumptive coagulopathy.
+
+523
+01:02:44,292 --> 01:02:51,105
+The understanding of the mechanism of injury for amnionic fluid embolism (AFE) has evolved.
+
+524
+01:02:51,105 --> 01:03:02,542
+Early theories proposed that amnionic fluid and debris entered the maternal circulation and obstructed pulmonary artery flow, which led to hypoxia, right heart failure, and death.
+
+525
+01:03:02,542 --> 01:03:13,292
+However, during normal delivery, amnionic fluid commonly enters maternal circulation through venous channels at the placental implantation site or small lacerations.
+
+526
+01:03:13,292 --> 01:03:25,130
+Accordingly, squames, fetal cells, and trophoblasts can often be identified in maternal peripheral blood at delivery (Clark, 1986; Lee, 1986).
+
+527
+01:03:25,130 --> 01:03:37,605
+And, at least in experimental animals, infused clear amnionic fluid is generally innocuous, even in large amounts (Adamsons, 1971; Stolte, 1967).
+
+528
+01:03:37,605 --> 01:03:44,117
+Instead, meconium-laden amnionic fluid is likely a potent cause of symptomatic AFE .
+
+529
+01:03:44,117 --> 01:03:51,367
+Disruption of the maternal-fetal interface allows material from the fetal compartment to enter maternal circulation.
+
+530
+01:03:51,367 --> 01:04:05,592
+This dyad leads to abnormal activation of proinflammatory mediator systems, similar to the systemic inflammatory response syndrome (SIRS), and causes initial, transient pulmonary vasoconstriction and hypertension .
+
+531
+01:04:05,592 --> 01:04:19,480
+Pulmonary hypertension causes acute right ventricular failure, which is followed by hemodynamic collapse from right ventricular infarction, interventricular septum displacement, and decreased left-sided cardiac output .
+
+532
+01:04:19,480 --> 01:04:26,955
+This right and then left ventricular dysfunction leads to cardiogenic pulmonary edema and systemic hypotension.
+
+533
+01:04:26,955 --> 01:04:32,092
+Acute respiratory failure with severe hypoxemia from shunting develops.
+
+534
+01:04:32,092 --> 01:04:41,117
+Notably, the resulting multiorgan dysfunction is an interrelated process, with both the cardiac and pulmonary systems affecting each other.
+
+535
+01:04:41,117 --> 01:04:49,830
+Women who survive beyond these first phases invariably develop the third component of the classic triad—a consumptive coagulopathy.
+
+536
+01:04:49,830 --> 01:04:55,755
+Material from the fetal compartment that contains tissue factor then activates factor VII.
+
+537
+01:04:55,755 --> 01:05:00,792
+This leads to the development of disseminated intravascular coagulation.
+
+538
+01:05:00,792 --> 01:05:04,330
+The rapidity of the coagulopathy is amazing .
+
+539
+01:05:04,330 --> 01:05:07,155
+Figure 42-14.
+
+540
+01:05:07,155 --> 01:05:10,155
+Fatal amnionic fluid embolism.
+
+541
+01:05:10,155 --> 01:05:20,467
+Results of some coagulation studies show an abrupt drop in plasma fibrinogen levels and platelet count but an extremely elevated serum fibrin split product level.
+
+542
+01:05:20,467 --> 01:05:26,080
+To those who succumb, postmortem histopathological findings may be obvious.
+
+543
+01:05:26,080 --> 01:05:33,805
+However, detection of squames and keratin may require special stains, and even then, debris may not be seen.
+
+544
+01:05:33,805 --> 01:05:46,805
+In one study, fetal elements were detected in 75 percent of autopsies and in 50 percent of specimens prepared from concentrated buffy coat aspirates taken antepartum from a pulmonary artery catheter .
+
+545
+01:05:46,805 --> 01:05:49,842
+# Incidence and Risk Factors.
+
+546
+01:05:49,842 --> 01:06:02,142
+Most reports describe an AFE frequency of 1 to 2 cases per 100,000 births (Clark, 2014; Fitzpatrick, 2019; Knight, 2010).
+
+547
+01:06:02,142 --> 01:06:07,692
+The case-fatality rate in all of these studies ranges from 11 to 43 percent.
+
+548
+01:06:07,692 --> 01:06:22,517
+From another perspective, AFE caused 5 to 15 percent of all pregnancy-related deaths in the United States, Canada, and France (Bonnet, 2018; Kramer, 2012; Petersen, 2019).
+
+549
+01:06:22,517 --> 01:06:34,867
+Predisposing conditions are rapid labor, meconium-stained amnionic fluid, and tears into uterine and other large pelvic veins that permit an exchange of fluids between the maternal and fetal compartment .
+
+550
+01:06:34,867 --> 01:06:55,430
+Other commonly cited risks include older maternal age; postterm pregnancy; labor induction or augmentation; eclampsia; cesarean, forceps, or vacuum delivery; placental abruption or previa; and hydramnios (Indraccolo, 2018; Knight, 2012; Kramer, 2012).
+
+551
+01:06:55,430 --> 01:07:07,030
+The associations of uterine hypertonus appears to be the effect rather than the cause because uterine blood flow ceases when intrauterine pressures exceed 35 to 40 mm Hg.
+
+552
+01:07:07,030 --> 01:07:15,430
+Thus, a hypertonic contraction would be the least likely circumstance for amnionic fluid and other debris to enter uterine veins .
+
+553
+01:07:15,430 --> 01:07:17,267
+For this reason,
+
+554
+01:07:17,428 --> 01:07:21,328
+hypertonus from oxytocin does not seem implicated.
+
+555
+01:07:21,278 --> 01:07:23,678
+# Diagnosis.
+
+556
+01:07:23,678 --> 01:07:32,153
+The classic triad of abrupt hemodynamic and respiratory compromise along with consumptive coagulopathy underpins its diagnosis .
+
+557
+01:07:32,153 --> 01:07:38,053
+Proposed criteria for AFE diagnosis are shown in Table 42-5.
+
+558
+01:07:38,053 --> 01:07:45,153
+In a French study, only 60 percent of women with autopsy-confirmed AFE had all four criteria .
+
+559
+01:07:45,153 --> 01:07:53,128
+The classic example is dramatic, and a woman in the late stages of labor or immediately postpartum begins gasping for air.
+
+560
+01:07:53,128 --> 01:08:05,540
+Seizures or cardiorespiratory arrest rapidly follow and are accompanied by massive hemorrhage from consumptive coagulopathy (Bernstein, 2019; Tanaka, 2017).
+
+561
+01:08:05,540 --> 01:08:20,353
+Clinical manifestations vary, and we and others have managed several women in whom otherwise uncomplicated vaginal or cesarean delivery was followed by severe acute consumptive coagulopathy without overt cardiorespiratory difficulties.
+
+562
+01:08:20,353 --> 01:08:29,978
+In these women, consumptive coagulopathy appears to be the forme fruste of AFE (Kramer, 2012; Porter, 1996).
+
+563
+01:08:29,978 --> 01:08:32,653
+Table 42-5.
+
+564
+01:08:32,653 --> 01:08:42,103
+Diagnostic Criteria for Amnionic Fluid Embolism In such cases, other sources of acute cardiac or respiratory failure should be considered.
+
+565
+01:08:42,103 --> 01:08:51,265
+These include myocardial infarction, pulmonary or air embolism, high spinal blockage, eclampsia, and anaphylactic shock .
+
+566
+01:08:51,265 --> 01:08:56,340
+In some cases, the temporal relationship of events aids diagnosis.
+
+567
+01:08:56,340 --> 01:09:06,190
+Unfortunately, no specific diagnostic laboratory test confirms or refutes the diagnosis of AFE, and it remains a clinical diagnosis.
+
+568
+01:09:06,190 --> 01:09:17,940
+Importantly, women suffering from excessive blood loss and resulting coagulopathy may be misdiagnosed with AFE, when the true culprit is unrecognized or underappreciated hemorrhage .
+
+569
+01:09:17,940 --> 01:09:24,190
+In either event, a woman with cardiopulmonary compromise should receive immediate resuscitation .
+
+570
+01:09:24,190 --> 01:09:26,415
+# Management.
+
+571
+01:09:26,415 --> 01:09:32,228
+The initial period of systemic and pulmonary hypertension with AFE is transient.
+
+572
+01:09:32,228 --> 01:09:46,278
+Thus, immediate high-quality cardiopulmonary resuscitation and advanced cardiac life support must be initiated without delay (Pacheco, 2020; Society for Maternal-Fetal Medicine, 2016).
+
+573
+01:09:46,278 --> 01:09:51,228
+These are discussed in detail in Chapter 50 (p. 897).
+
+574
+01:09:51,228 --> 01:09:57,578
+Coagulopathy is managed as described in Chapter 44 (p. 777).
+
+575
+01:09:57,578 --> 01:10:03,590
+If resuscitation is successful, hemodynamic instability is common in survivors.
+
+576
+01:10:03,590 --> 01:10:09,090
+Both fever and hyperoxia will worsen ischemia-reperfusion injury to the brain.
+
+577
+01:10:09,090 --> 01:10:17,215
+A suitable goal for temperature is 36°C and for mean arterial pressure is 65 mm Hg .
+
+578
+01:10:17,215 --> 01:10:22,203
+Additional supportive care measures such as intubation are usually necessary.
+
+579
+01:10:22,203 --> 01:10:34,615
+During the phase of right ventricular failure, inotropic agents such as dobutamine may improve right heart output, and later systemic hypotension should be treated with vasopressors such as norepinephrine.
+
+580
+01:10:34,615 --> 01:10:46,915
+Excess fluid administration is discouraged because it can worsen dilation of an already engorged right ventricle, which may cause right-sided myocardial infarction and interventricular septum displacement.
+
+581
+01:10:46,915 --> 01:10:57,653
+Extracorporeal membrane oxygenation (ECMO) has been described in the treatment of AFE (Bernstein, 2019; Webster, 2020).
+
+582
+01:10:57,653 --> 01:11:08,940
+Further discussed in Chapter 50 (p. 886), venovenous ECMO is used for severe hypoxemic respiratory failure, without right or left ventricular failure.
+
+583
+01:11:08,940 --> 01:11:16,503
+Venoarterial ECMO is less readily available and used for impending cardiac arrest and ventricular failure.
+
+584
+01:11:16,503 --> 01:11:25,578
+One recent review of outcomes in 20 women with AFE managed with ECMO reported a maternal mortality rate of only 15 percent.
+
+585
+01:11:25,578 --> 01:11:31,678
+The authors concluded that publication biases may have overestimated the favorable outcomes .
+
+586
+01:11:31,678 --> 01:11:42,590
+Either immediately after cardiopulmonary collapse or during the ensuing phases of injury, a coagulopathy develops in most cases from activation of factor VII and X.
+
+587
+01:11:42,590 --> 01:11:48,440
+This may be exacerbated by ongoing hemorrhage, and a common source is uterine atony.
+
+588
+01:11:48,440 --> 01:11:55,565
+Thus, immediate evaluation of coagulation parameters is indicated with concurrent management of bleeding.
+
+589
+01:11:55,565 --> 01:11:58,228
+# Clinical Outcomes.
+
+590
+01:11:58,228 --> 01:12:04,128
+Most reports describe significant maternal and perinatal mortality with AFE.
+
+591
+01:12:04,128 --> 01:12:12,465
+This is likely influenced by underdiagnosis and reporting biases that favor the most severe cases with the highest mortality rates.
+
+592
+01:12:12,465 --> 01:12:16,915
+From a California database of 1.1 million deliveries,
+
+593
+01:12:17,068 --> 01:12:20,805
+the mortality rate with AFE was 60 percent .
+
+594
+01:12:20,755 --> 01:12:26,780
+In the INOSS database, maternal mortality rates ranged from 30 to 41 percent .
+
+595
+01:12:26,780 --> 01:12:33,143
+Death can be rapid, and in one study, 12 of the 34 women died within 30 minutes .
+
+596
+01:12:33,143 --> 01:12:39,030
+The mortality rate is highest in women who present with cardiac arrest—89 percent .
+
+597
+01:12:39,030 --> 01:12:43,293
+Survivors commonly have profound neurological impairment.
+
+598
+01:12:43,293 --> 01:12:52,330
+Clark (1995) observed that only 8 percent of women who lived despite cardiac arrest survived without neurological injury.
+
+599
+01:12:52,330 --> 01:13:01,230
+In a report of 20 cases, the maternal mortality rate was 15 percent, and 40 percent of survivors had neurological disability .
+
+600
+01:13:01,230 --> 01:13:15,005
+Overall, the prognosis appears to be more associated with disease severity and the attendant cardiac arrest than with any specific treatment modality (Clark, 2014; Fitzpatrick, 2019).
+
+601
+01:13:15,005 --> 01:13:23,718
+As perhaps expected, perinatal outcomes also are poor and are inversely related to the maternal cardiac arrest-to-delivery interval.
+
+602
+01:13:23,718 --> 01:13:33,230
+Even so, the neonatal survival rate is 70 percent, but unfortunately, up to half of survivors suffer residual neurological impairment.
+
+603
+01:13:33,230 --> 01:13:39,493
+In a Canadian study, 28 percent of neonates were considered to be asphyxiated at birth .
+

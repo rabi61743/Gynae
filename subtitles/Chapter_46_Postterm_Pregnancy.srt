@@ -1,0 +1,936 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,837
+Chapter 46: Postterm Pregnancy.
+
+3
+00:00:05,837 --> 00:00:26,587
+Estimated Gestational Age Incidence Perinatal Mortality And Morbidity Pathophysiology Complications Antepartum Management Intrapartum Management References The adjectives postterm, prolonged, postdates, and postmature are used interchangeably to describe pregnancies that have exceeded a duration considered to be the upper limit of normal.
+
+4
+00:00:26,587 --> 00:00:35,825
+We eschew use of the term postdates because the real issue in many postterm pregnancies is uncertainty in the estimated date of delivery (EDD).
+
+5
+00:00:35,825 --> 00:00:45,550
+Postmature is reserved for the uncommon clinical fetal syndrome in which the newborn has recognizable features indicating a pathologically prolonged pregnancy.
+
+6
+00:00:45,550 --> 00:00:51,500
+Thus, postterm or prolonged pregnancy is our preferred term for an extended pregnancy.
+
+7
+00:00:51,500 --> 00:01:03,662
+The definition of postterm pregnancy is one that exceeds 420/7 weeks or is ≥294 days from the first day of the last menstrual period (LMP).
+
+8
+00:01:03,662 --> 00:01:07,425
+Importantly, this is 42 “completed weeks.
+
+9
+00:01:07,425 --> 00:01:18,162
+Pregnancies between 411/7 and 416/7 weeks, although in the 42nd week, do not complete 42 weeks until the seventh day has elapsed.
+
+10
+00:01:18,162 --> 00:01:26,575
+These are considered late term (American College of Obstetricians and Gynecologists, 2019e, 2020b).
+
+11
+00:01:26,575 --> 00:01:29,225
+Estimated Gestational Age.
+
+12
+00:01:29,225 --> 00:01:36,062
+The current definition of postterm pregnancy assumes that ovulation occurs 2 weeks after the LMP.
+
+13
+00:01:36,062 --> 00:01:43,862
+Thus, some pregnancies may not actually be postterm because of error in menstrual date recall or delayed ovulation.
+
+14
+00:01:43,862 --> 00:02:00,762
+Even with exactly recalled menstrual dates, there still is imprecision, and first-trimester sonography is the most accurate method to establish or confirm gestational age (American College of Obstetricians and Gynecologists, 2019b, 2020b).
+
+15
+00:02:00,762 --> 00:02:06,987
+Several studies support this (Bennett, 2004; Joseph, 2007).
+
+16
+00:02:06,987 --> 00:02:19,775
+If available, gestational ages calculated from the LMP and from the first accurate ultrasound are reconciled as shown in Table 14-1 (p. 248), and the EDD is recorded .
+
+17
+00:02:19,775 --> 00:02:21,462
+Incidence.
+
+18
+00:02:21,462 --> 00:02:32,262
+Of the 3.75 million neonates born in the United States during 2019, 0.3 percent were delivered at ≥42 weeks .
+
+19
+00:02:32,262 --> 00:02:38,437
+This rate has declined because of improved pregnancy dating accuracy and earlier intervention.
+
+20
+00:02:38,437 --> 00:02:52,625
+To identify predisposing factors for postterm pregnancy, one analysis of the Danish Birth Cohort found only prepregnancy body mass index ≥25 and nulliparity to be significantly associated .
+
+21
+00:02:52,625 --> 00:02:59,662
+Others reported similar associations (Arrowsmith, 2011; Mission, 2015).
+
+22
+00:02:59,662 --> 00:03:10,300
+Nulliparas with a long midpregnancy cervical length (third or fourth quartile) are twice as likely to deliver after 42 weeks (van der Ven, 2016).
+
+23
+00:03:10,300 --> 00:03:17,800
+Last, the risk for adverse pregnancy outcomes in postterm pregnancies increases with advancing maternal age .
+
+24
+00:03:17,800 --> 00:03:25,787
+The tendency for some mothers to have repeated postterm births suggests that some prolonged pregnancies are biologically determined.
+
+25
+00:03:25,787 --> 00:03:35,337
+In one study, if a mother and daughter had a prolonged pregnancy, the risk for the daughter to have a subsequent postterm pregnancy was significantly increased .
+
+26
+00:03:35,337 --> 00:03:40,125
+Maternal, not paternal, genes influence prolonged pregnancy .
+
+27
+00:03:40,125 --> 00:03:47,425
+For example, genes from one locus of chromosome 2q13 are associated with gestational duration .
+
+28
+00:03:47,425 --> 00:04:05,587
+As discussed in Chapter 5 (p. 102), rare fetal-placental factors that predispose to postterm pregnancy include anencephaly, adrenal hypoplasia, and X-linked placental sulfatase deficiency (Ayyavoo, 2014; MacDonald, 1965).
+
+29
+00:04:05,587 --> 00:04:08,637
+Perinatal Mortality And Morbidity.
+
+30
+00:04:08,637 --> 00:04:14,725
+Rates of stillbirth, neonatal death, and infant morbidity all rise after the EDD.
+
+31
+00:04:14,725 --> 00:04:21,000
+Data from times before widespread intervention for postterm pregnancies are most illustrative.
+
+32
+00:04:21,000 --> 00:04:29,787
+In two large Swedish studies, the perinatal mortality rate reached a nadir at 39 to 40 weeks’ gestation and rose thereafter .
+
+33
+00:04:29,787 --> 00:04:33,537
+This trend is also reported for the United States .
+
+34
+00:04:33,537 --> 00:04:45,312
+The major causes of morbidity in these studies include gestational hypertension, prolonged labor with cephalopelvic disproportion, birth injuries, and hypoxic-ischemic encephalopathy .
+
+35
+00:04:45,312 --> 00:04:55,087
+Similar outcomes were reported in 78,022 women with postterm pregnancies delivered before routine labor induction was adopted in Denmark .
+
+36
+00:04:55,087 --> 00:04:58,737
+A slight increase in cerebral palsy rates and
+
+37
+00:04:58,900 --> 00:05:10,525
+two-point lower intelligence quotient (IQ) scores have been reported in postterm births (Moster, 2010; Williams, 2020; Yang, 2010).
+
+38
+00:05:10,475 --> 00:05:15,200
+Conversely, data do not associate autism with postterm birth .
+
+39
+00:05:15,200 --> 00:05:17,812
+Figure 46-1.
+
+40
+00:05:17,812 --> 00:05:30,362
+Perinatal mortality rates in late pregnancy according to gestational age of all births in Sweden during 1943–1952 compared with those during 1977–1978.
+
+41
+00:05:30,362 --> 00:05:34,737
+The partially compressed scale is used for convenience in depiction.
+
+42
+00:05:34,737 --> 00:05:40,375
+Adapted from Bakketeig, 1991; Lindell, 1956.
+
+43
+00:05:40,375 --> 00:05:42,937
+Table 46-1.
+
+44
+00:05:42,937 --> 00:06:01,100
+Adverse Maternal and Perinatal Outcomes Associated with Postterm Pregnancy Alexander and colleagues (2000a) reviewed 56,317 singleton pregnancies delivered at ≥40 weeks between 1988 and 1998 at Parkland Hospital.
+
+45
+00:06:01,100 --> 00:06:06,550
+Labor was induced in 35 percent of pregnancies completing 42 weeks.
+
+46
+00:06:06,550 --> 00:06:15,187
+The rate of cesarean delivery for dystocia or fetal distress was significantly greater at 42 weeks compared with earlier gestations.
+
+47
+00:06:15,187 --> 00:06:20,425
+More newborns of postterm pregnancies were admitted to intensive care units.
+
+48
+00:06:20,425 --> 00:06:26,275
+Notably, the incidence of neonatal seizures and deaths was doubled at 42 weeks.
+
+49
+00:06:26,275 --> 00:06:39,337
+Smith (2001) has challenged analyses such as these because the population at risk for perinatal mortality in a given week consists of all ongoing pregnancies rather than just the births in a given week.
+
+50
+00:06:39,337 --> 00:06:55,200
+He calculated perinatal mortality rates using only births in a given week of gestation from 37 to 43 completed weeks compared with the cumulative probability—the perinatal index—of death when all ongoing pregnancies are included in the denominator.
+
+51
+00:06:55,200 --> 00:07:02,175
+Using this computation, delivery at 38 weeks’ gestation had the lowest risk for perinatal death.
+
+52
+00:07:02,175 --> 00:07:08,500
+In current practice, perinatal death is balanced against morbidity associated with immaturity.
+
+53
+00:07:08,500 --> 00:07:16,562
+This shapes the rationale for delaying delivery until 39 weeks’ gestation unless a comorbidity warrants earlier intervention .
+
+54
+00:07:16,562 --> 00:07:18,800
+Pathophysiology.
+
+55
+00:07:18,800 --> 00:07:21,662
+# Postmaturity Syndrome.
+
+56
+00:07:21,662 --> 00:07:36,137
+The postmature newborn is unique, and features include wrinkled, patchy, peeling skin; a long, thin body that suggests wasting; and advanced maturity in that the neonate is open-eyed, unusually alert, and appears old and worried .
+
+57
+00:07:36,137 --> 00:07:41,762
+Skin wrinkling can be prominent on the palms and soles, and nails are typically long.
+
+58
+00:07:41,762 --> 00:07:50,562
+Most postmature neonates are not technically growth restricted because their birthweight seldom falls below the 10th percentile for gestational age .
+
+59
+00:07:50,562 --> 00:07:58,162
+However, severe growth restriction— which logically must have preceded completion of 42 weeks—may be present.
+
+60
+00:07:58,162 --> 00:08:00,700
+Figure 46-2.
+
+61
+00:08:00,700 --> 00:08:03,012
+Postmaturity syndrome.
+
+62
+00:08:03,012 --> 00:08:10,062
+Neonate delivered at 43 weeks’ gestation with thick, viscous meconium coating the desquamating skin.
+
+63
+00:08:10,062 --> 00:08:14,025
+Note the long, thin appearance and wrinkling of the hands.
+
+64
+00:08:14,025 --> 00:08:29,062
+The incidence of postmaturity syndrome in newborns at 41, 42, or 43 weeks, respectively, has not been conclusively determined, but the syndrome complicates 10 to 20 percent of pregnancies at 42 completed weeks .
+
+65
+00:08:29,062 --> 00:08:34,837
+Associated oligohydramnios substantially raises the likelihood of postmaturity.
+
+66
+00:08:34,837 --> 00:08:51,050
+Trimmer and associates (1990) reported that 88 percent of fetuses were postmature if there was oligohydramnios, defined by a sonographic maximal vertical amnionic fluid pocket that measured ≤1 cm at 42 weeks.
+
+67
+00:08:51,050 --> 00:08:53,800
+# Placental Dysfunction.
+
+68
+00:08:53,800 --> 00:08:58,137
+Many believe that postterm pregnancy is an abnormal state.
+
+69
+00:08:58,137 --> 00:09:10,675
+Redman and Staff (2015) suggest that limited placental capacity, characterized by dysfunctional syncytiotrophoblast, explains the greater risks of the postmaturity syndrome.
+
+70
+00:09:10,675 --> 00:09:14,900
+A murine model of stillborn fetuses supports this theory .
+
+71
+00:09:14,900 --> 00:09:23,712
+Clifford (1954) proposed that the associated skin changes follow loss of the protective effects of vernix caseosa.
+
+72
+00:09:23,712 --> 00:09:32,250
+He also attributed the postmaturity syndrome to placental senescence, although he did not find placental degeneration histologically.
+
+73
+00:09:32,250 --> 00:09:49,100
+Still, the concept that postmaturity stems from placental insufficiency has persisted despite an absence of morphological or significant quantitative findings (Larsen, 1995; Redman, 2015; Rushton, 1991).
+
+74
+00:09:49,100 --> 00:10:00,375
+However, the rate of placental apoptosis—programmed cell death— is significantly greater at 41 to 42 completed weeks compared with that at 36 to 39
+
+75
+00:10:00,532 --> 00:10:02,057
+weeks .
+
+76
+00:10:02,007 --> 00:10:10,869
+Several proapoptotic genes such as kisspeptin are upregulated in postterm placental explants compared with the same genes in term ones .
+
+77
+00:10:10,869 --> 00:10:15,057
+The clinical significance of such apoptosis is unclear.
+
+78
+00:10:15,057 --> 00:10:27,357
+Jazayeri and coworkers (1998) investigated cord blood erythropoietin levels in 124 appropriately grown newborns delivered from 37 to 43 weeks.
+
+79
+00:10:27,357 --> 00:10:33,007
+The only known stimulator of erythropoietin is decreased partial oxygen pressure.
+
+80
+00:10:33,007 --> 00:10:40,819
+Thus, they sought to assess whether fetal oxygenation was compromised due to placental aging in postterm pregnancies.
+
+81
+00:10:40,819 --> 00:10:44,669
+All women had an uncomplicated labor and delivery.
+
+82
+00:10:44,669 --> 00:10:51,832
+Cord blood erythropoietin levels were significantly elevated in pregnancies reaching 41 weeks or more.
+
+83
+00:10:51,832 --> 00:11:01,294
+Although Apgar scores and acid-base studies were normal, these researchers concluded that fetal oxygenation was decreased in some postterm gestations.
+
+84
+00:11:01,294 --> 00:11:07,982
+However, the postterm fetus typically continues to gain weight and thus be unusually large at birth.
+
+85
+00:11:07,982 --> 00:11:12,732
+This suggests that placental function is not severely compromised.
+
+86
+00:11:12,732 --> 00:11:19,982
+Indeed, continued fetal growth is the norm—albeit at a slower rate beginning at 37 completed weeks .
+
+87
+00:11:19,982 --> 00:11:27,519
+Nahum and associates (1995) confirmed that fetal growth continues until at least 42 weeks.
+
+88
+00:11:27,519 --> 00:11:32,132
+However, umbilical blood flow does not increase concomitantly .
+
+89
+00:11:32,132 --> 00:11:34,682
+Figure 46-3.
+
+90
+00:11:34,682 --> 00:11:38,844
+Mean daily fetal growth during previous week of gestation.
+
+91
+00:11:38,844 --> 00:11:45,494
+Redrawn from Hendricks CH: Patterns of fetal and placental growth: the second half of pregnancy.
+
+92
+00:11:45,494 --> 00:11:50,807
+Obstet Gynecol 24:357, 1964.
+
+93
+00:11:50,807 --> 00:11:54,619
+# Fetal Distress and Oligohydramnios.
+
+94
+00:11:54,619 --> 00:12:02,482
+The principal reasons for increased risks to postterm fetuses were described by Leveno and colleagues (1984).
+
+95
+00:12:02,482 --> 00:12:12,519
+Both antepartum fetal jeopardy and intrapartum nonreassuring fetal status were found to be the consequence of cord compression associated with oligohydramnios.
+
+96
+00:12:12,519 --> 00:12:27,107
+In their analysis of 727 postterm pregnancies, intrapartum nonreassuring fetal status detected with electronic monitoring was not associated with late decelerations characteristic of uteroplacental insufficiency.
+
+97
+00:12:27,107 --> 00:12:38,957
+Instead, one or more prolonged decelerations such as shown in Figure 46-4 preceded three fourths of emergency cesarean deliveries for nonreassuring fetal heart rate tracings.
+
+98
+00:12:38,957 --> 00:12:43,669
+In all but two cases, there were also variable decelerations.
+
+99
+00:12:43,669 --> 00:12:50,444
+Another common fetal heart rate pattern, although not ominous by itself, was the saltatory baseline.
+
+100
+00:12:50,444 --> 00:13:00,682
+As described in Chapter 24 (p. 453), these findings are consistent with cord occlusion as the proximate cause of the nonreassuring tracings.
+
+101
+00:13:00,682 --> 00:13:05,594
+Other correlates included oligohydramnios and viscous meconium.
+
+102
+00:13:05,594 --> 00:13:17,744
+Schaffer and coworkers (2005) implicated a nuchal cord in abnormal intrapartum fetal heart rate patterns, meconium, and compromised newborn condition in prolonged pregnancies.
+
+103
+00:13:17,744 --> 00:13:20,419
+Figure 46-4.
+
+104
+00:13:20,419 --> 00:13:28,869
+A. Prolonged fetal heart rate deceleration before emergency cesarean delivery in a postterm pregnancy with oligohydramnios.
+
+105
+00:13:28,869 --> 00:13:34,494
+B. Variable decelerations in a postterm pregnancy with oligohydramnios.
+
+106
+00:13:34,494 --> 00:13:44,357
+C. Saltatory baseline fetal heart rate showing oscillations exceeding 20 bpm and associated with oligohydramnios in a postterm pregnancy.
+
+107
+00:13:44,357 --> 00:14:04,607
+Reproduced with permission from Leveno KJ, Quirk JG, Cunningham FG, et al: Prolonged pregnancy, I. Observations concerning the causes of fetal distress, Am J Obstet Gynecol. 1984 Nov 1;150(5 Pt 1):465–473.
+
+108
+00:14:04,607 --> 00:14:13,982
+Normally, the volume of amnionic fluid continues to decline after 38 weeks, and logically oligohydramnios may become problematic.
+
+109
+00:14:13,982 --> 00:14:24,144
+Moreover, meconium release into an already reduced amnionic fluid volume results in thick, viscous fluid that may cause meconium aspiration syndrome .
+
+110
+00:14:24,144 --> 00:14:28,494
+The risk for this increases to 5 percent at 42 weeks .
+
+111
+00:14:28,494 --> 00:14:31,332
+# Fetal-growth Restriction.
+
+112
+00:14:31,332 --> 00:14:40,744
+In the late 1990s, the clinical significance of fetal-growth restriction in the otherwise uncomplicated pregnancy became more fully appreciated.
+
+113
+00:14:40,744 --> 00:14:54,494
+Data from the National Swedish Medical Birth Registry showed that stillbirths were more common among growth-restricted newborns who were delivered after 42 weeks (Clausson, 1999; Divon, 1998).
+
+114
+00:14:54,494 --> 00:14:59,407
+Indeed, a third of postterm stillborn neonates were growth restricted.
+
+115
+00:14:59,407 --> 00:15:03,132
+During this time in Sweden, labor induction and
+
+116
+00:15:03,292 --> 00:15:07,779
+antenatal fetal testing usually commenced at 42 weeks.
+
+117
+00:15:07,729 --> 00:15:21,929
+In a study from Parkland Hospital, Alexander and colleagues (2000d) analyzed outcomes for 355 neonates from gestations ≥42 weeks and with birthweights <3rd percentile.
+
+118
+00:15:21,929 --> 00:15:29,704
+These outcomes were compared with those of 14,520 similarly aged newborns above the 3rd percentile.
+
+119
+00:15:29,704 --> 00:15:35,379
+Morbidity and mortality rates were significantly higher in the growth-restricted neonates.
+
+120
+00:15:35,379 --> 00:15:44,229
+Moreover, a fourth of all stillbirths associated with prolonged pregnancy were in this comparatively small number of growth-restricted fetuses.
+
+121
+00:15:44,229 --> 00:15:46,179
+Complications.
+
+122
+00:15:46,179 --> 00:15:48,967
+# Oligohydramnios.
+
+123
+00:15:48,967 --> 00:15:55,279
+Recognized postterm complications include oligohydramnios and fetal macrosomia.
+
+124
+00:15:55,279 --> 00:16:06,279
+In 38 postterm pregnancies, Trimmer and colleagues (1990) sonographically measured hourly fetal urine production using sequential bladder volume measurements.
+
+125
+00:16:06,279 --> 00:16:11,417
+Diminished urine production was found to be associated with oligohydramnios.
+
+126
+00:16:11,417 --> 00:16:22,717
+Using Doppler waveforms, Oz and associates (2002) concluded that fetal renal blood flow is reduced in postterm pregnancies complicated by oligohydramnios.
+
+127
+00:16:22,717 --> 00:16:27,854
+The lack of increasing umbilical blood flow postterm may be a possible cause .
+
+128
+00:16:27,854 --> 00:16:34,179
+Diminished amnionic fluid volume at any gestational age signifies increased fetal risk.
+
+129
+00:16:34,179 --> 00:16:39,579
+Unfortunately, an exact method to define this decreased volume is lacking.
+
+130
+00:16:39,579 --> 00:16:48,679
+Currently, sonographic measurement of the deepest vertical pocket or calculation of the amnionic fluid index (AFI) are options .
+
+131
+00:16:48,679 --> 00:16:57,754
+One study of postterm pregnancies attempted to determine which amnionic fluid volume criteria best predicted normal and abnormal outcomes .
+
+132
+00:16:57,754 --> 00:17:05,029
+The smaller the amnionic fluid pocket, the greater the likelihood of clinically significant oligohydramnios.
+
+133
+00:17:05,029 --> 00:17:10,679
+However, normal amnionic fluid volume did not preclude abnormal outcomes.
+
+134
+00:17:10,679 --> 00:17:19,479
+One randomized trial assigned 500 women with postterm pregnancies to assessment using either AFI or the deepest vertical pocket .
+
+135
+00:17:19,479 --> 00:17:26,667
+The authors concluded that the AFI overestimated the number of abnormal outcomes in postterm pregnancies.
+
+136
+00:17:26,667 --> 00:17:38,367
+Regardless of the criteria used to diagnose oligohydramnios in postterm pregnancies, most investigators have found a higher incidence of some measure of “fetal compromise” during labor.
+
+137
+00:17:38,367 --> 00:17:43,967
+Thus, oligohydramnios by most definitions is a clinically meaningful finding.
+
+138
+00:17:43,967 --> 00:17:51,479
+Conversely, reassurance of continued fetal well-being in the presence of “normal” amnionic fluid volume is tenuous.
+
+139
+00:17:51,479 --> 00:17:57,104
+This may be related to how quickly pathological oligohydramnios can develop.
+
+140
+00:17:57,104 --> 00:17:59,479
+# Macrosomia.
+
+141
+00:17:59,479 --> 00:18:06,492
+The velocity of fetal weight gain peaks at approximately 37 weeks (see Fig. 46-3).
+
+142
+00:18:06,492 --> 00:18:12,054
+Although growth velocity slows at that time, most fetuses continue to gain weight.
+
+143
+00:18:12,054 --> 00:18:21,342
+According to Duryea and associates (2014), the 95th percentile at 42 weeks is 4475 g.
+
+144
+00:18:21,342 --> 00:18:27,767
+Even so, in one study, brachial plexus injury was not related to postterm gestation .
+
+145
+00:18:27,767 --> 00:18:37,404
+Intuitively, it seems that both maternal and fetal morbidity associated with macrosomia would be mitigated with timely induction to preempt further growth.
+
+146
+00:18:37,404 --> 00:18:41,104
+This, however, does not appear to be the case.
+
+147
+00:18:41,104 --> 00:18:52,817
+The American College of Obstetricians and Gynecologists (2020a) concludes that current evidence does not support such a practice in women at term with suspected fetal macrosomia.
+
+148
+00:18:52,817 --> 00:19:03,304
+Moreover, the College notes that in the absence of diabetes, vaginal delivery is not contraindicated for women with an estimated fetal weight up to 5000 g .
+
+149
+00:19:03,304 --> 00:19:09,842
+Obvious problems with all such recommendations are substantive variations in fetal weight estimation.
+
+150
+00:19:09,842 --> 00:19:12,167
+Antepartum Management.
+
+151
+00:19:12,167 --> 00:19:20,042
+After completing 42 weeks, labor induction is recommended to help avoid the just-described morbidity and mortality.
+
+152
+00:19:20,042 --> 00:19:26,779
+For late-term gestations, some intervention is indicated, but the method and timing are not unanimous.
+
+153
+00:19:26,779 --> 00:19:34,004
+The decision focuses on whether labor induction is warranted or if expectant management with fetal surveillance is best.
+
+154
+00:19:34,004 --> 00:19:45,754
+In a survey done more than 15 years ago, 73 percent of members of the American College of Obstetricians and Gynecologists reported routinely induced women at 41 weeks .
+
+155
+00:19:45,754 --> 00:19:52,479
+Most of the remainder performed twice-weekly fetal antepartum testing until 42 completed weeks.
+
+156
+00:19:52,479 --> 00:19:54,179
+#
+
+157
+00:19:54,340 --> 00:19:56,515
+Induction Factors.
+
+158
+00:19:56,465 --> 00:20:02,177
+A cervix that is soft, dilated, and effaced improves labor induction success.
+
+159
+00:20:02,177 --> 00:20:08,302
+However, investigators have used differing criteria in studies of prolonged pregnancy.
+
+160
+00:20:08,302 --> 00:20:18,852
+Harris and coworkers (1983) defined an unfavorable cervix by a Bishop score <7 and reported this in 92 percent of women at 42 weeks .
+
+161
+00:20:18,852 --> 00:20:25,227
+Others found that 40 percent of women with a 41-week gestation had an “undilated cervix” .
+
+162
+00:20:25,227 --> 00:20:36,865
+In a study of 800 women undergoing induction for postterm pregnancy at Parkland Hospital, women without cervical dilation had a twofold higher cesarean delivery rate for “dystocia” .
+
+163
+00:20:36,865 --> 00:20:45,490
+Instead, a cervical length ≤3 cm measured with transvaginal sonography predicted successful induction .
+
+164
+00:20:45,490 --> 00:20:54,940
+In a similar study, cervical length ≤25 mm positively predicted spontaneous labor or successful induction .
+
+165
+00:20:54,940 --> 00:21:07,752
+Several investigators have evaluated prostaglandin E2 (PGE2) and E1 (PGE1) for induction in women with an unfavorable cervix and postterm pregnancy.
+
+166
+00:21:07,752 --> 00:21:17,015
+A study by the Maternal–Fetal Medicine Units Network (1994) found that PGE2 gel was not more effective than placebo.
+
+167
+00:21:17,015 --> 00:21:35,740
+Alexander and associates (2000c) treated 393 women with a postterm pregnancy with PGE2, regardless of cervical “favorability,” and reported that almost half of the 84 women with cervical dilation of 2 to 4 cm entered labor with PGE2 use alone.
+
+168
+00:21:35,740 --> 00:21:43,402
+Prostaglandins and other agents used for cervical ripening are discussed in Chapter 26 (p. 488).
+
+169
+00:21:43,402 --> 00:21:50,527
+Sweeping or stripping of the membranes to induce labor and thereby prevent postterm pregnancy has been evaluated.
+
+170
+00:21:50,527 --> 00:21:58,615
+A metaanalysis of 44 studies found that membrane stripping slightly increased spontaneous labor and lowered induction rates .
+
+171
+00:21:58,615 --> 00:22:03,315
+However, this practice did not lower the cesarean delivery rate.
+
+172
+00:22:03,315 --> 00:22:13,815
+Other trials have found that sweeping membranes did not reduce the need to induce labor (Hill, 2008; Kashanian 2006; Wong, 2002).
+
+173
+00:22:13,815 --> 00:22:20,952
+Drawbacks of membrane stripping included pain, vaginal bleeding, and irregular contractions without labor.
+
+174
+00:22:20,952 --> 00:22:27,690
+The station of the fetal head within the pelvis is another predictor of successful postterm pregnancy induction.
+
+175
+00:22:27,690 --> 00:22:36,290
+Shin and colleagues (2004) studied 484 nulliparas who underwent induction after 41 weeks’ gestation.
+
+176
+00:22:36,290 --> 00:22:40,540
+The cesarean delivery rate was directly related to station.
+
+177
+00:22:40,540 --> 00:22:53,615
+The rate was 6 percent if the vertex before induction was at –1 station; 20 percent at –2 station; 43 percent at –3 station; and 77 percent at –4 station.
+
+178
+00:22:53,615 --> 00:22:56,890
+# Induction versus Fetal Testing.
+
+179
+00:22:56,890 --> 00:23:07,215
+The less than optimal benefits from induction with an unfavorable cervix lead some clinicians to prefer fetal antepartum testing beginning at 41 completed weeks.
+
+180
+00:23:07,215 --> 00:23:16,940
+In a Canadian study, 3407 women were randomly assigned at ≥41 weeks to induction or to fetal testing .
+
+181
+00:23:16,940 --> 00:23:27,665
+Labor induction resulted in a small but significant reduction in the cesarean delivery rate compared with fetal testing—21 versus 24 percent, respectively.
+
+182
+00:23:27,665 --> 00:23:31,565
+There were only two stillbirths in the fetal testing group.
+
+183
+00:23:31,565 --> 00:23:40,490
+The Maternal–Fetal Medicine Network then performed a randomized trial of induction versus fetal testing beginning at 41 weeks’ gestation .
+
+184
+00:23:40,490 --> 00:23:50,490
+Fetal surveillance included nonstress testing and sonographic estimation of amnionic fluid volume performed twice weekly in 175 women.
+
+185
+00:23:50,490 --> 00:24:00,327
+Perinatal outcomes were compared with those of 265 women also at 41 weeks but randomly assigned to induction with or without cervical ripening.
+
+186
+00:24:00,327 --> 00:24:06,315
+There were no perinatal deaths, and the cesarean delivery rate did not differ between groups.
+
+187
+00:24:06,315 --> 00:24:10,990
+The results of this study support the validity of either management scheme.
+
+188
+00:24:10,990 --> 00:24:27,165
+In another study of women reaching 41 completed weeks’ gestation, those who entered spontaneous labor prior to 420/7 weeks had a lower cesarean delivery rate than those who did not spontaneously labor but who underwent induction after 420/7 weeks .
+
+189
+00:24:27,165 --> 00:24:35,977
+Cesarean delivery rates were significantly increased—19 versus 14 percent—in the induced group because of failure to progress.
+
+190
+00:24:35,977 --> 00:24:39,265
+A study from Denmark is also instructive .
+
+191
+00:24:39,265 --> 00:24:50,727
+In 2011, the Danish national guidelines were changed from labor induction at 420/7 weeks with no fetal surveillance to labor induction at 412/7
+
+192
+00:24:50,884 --> 00:24:57,034
+to 416/7 weeks with fetal surveillance beginning at 410/7 weeks.
+
+193
+00:24:56,984 --> 00:25:02,496
+They compared two 3-year epochs— one before and one after 2011.
+
+194
+00:25:02,496 --> 00:25:10,659
+The rate of pregnancies that progressed past 420/7 weeks decreased from 2.85 to 0.62 percent.
+
+195
+00:25:10,659 --> 00:25:21,984
+Concurrently, as expected, the induction rate rose significantly, and this was accompanied by a drop in the perinatal mortality rate—22 to 13 per 1000 births.
+
+196
+00:25:21,984 --> 00:25:25,409
+The cesarean delivery rate was not changed.
+
+197
+00:25:25,409 --> 00:25:39,496
+A similar before-and-after observational study reported that induction at ≥42 weeks’ gestation was associated with a significantly lower cesarean delivery rate—15 versus 19.4 percent .
+
+198
+00:25:39,496 --> 00:25:52,159
+To further address the question, the SWEdish Post-term Induction Study —SWEPIS—was a randomized trial that included 2760 low-risk pregnancies at 41 weeks’ gestation.
+
+199
+00:25:52,159 --> 00:26:00,384
+The trial compared outcomes with induction of labor at 41 weeks against expectant management and induction at 42 weeks.
+
+200
+00:26:00,384 --> 00:26:09,496
+As shown in Table 46-2, maternal and perinatal outcomes were not different with the exception of perinatal mortality and macrosomia .
+
+201
+00:26:09,496 --> 00:26:16,859
+The study was stopped early because of a significantly higher perinatal mortality rate in the expectantly management group.
+
+202
+00:26:16,859 --> 00:26:25,546
+The investigators concluded that these results should be interpreted with caution because the primary composite outcomes were not significantly different.
+
+203
+00:26:25,546 --> 00:26:28,109
+Table 46-2.
+
+204
+00:26:28,109 --> 00:26:34,284
+Selected Maternal and Perinatal Outcomes from SWEPIS Trial # Management Strategies.
+
+205
+00:26:34,284 --> 00:26:41,684
+At this time, evidence is insufficient to mandate a management strategy between 40 and 42 completed weeks.
+
+206
+00:26:41,684 --> 00:26:49,321
+Thus, induction of labor or initiation of fetal surveillance at 41 weeks’ gestation is a reasonable option.
+
+207
+00:26:49,321 --> 00:27:03,621
+The American College of Obstetricians and Gynecologists and the Society for Maternal-Fetal Medicine (2021) suggest that fetal surveillance should be done once or twice weekly beginning at 41 0/7 weeks.
+
+208
+00:27:03,621 --> 00:27:08,296
+After completing 42 weeks, labor induction is recommended.
+
+209
+00:27:08,296 --> 00:27:18,084
+A management algorithm by the American College of Obstetricians and Gynecologists (2020b) is summarized in Figure 46-5.
+
+210
+00:27:18,084 --> 00:27:30,509
+In light of the recent studies that show an increased stillbirth rate associated with expectant management at 41 weeks, it is likely that routine induction will eventually become preferable in most circumstances.
+
+211
+00:27:30,509 --> 00:27:33,196
+Figure 46-5.
+
+212
+00:27:33,196 --> 00:27:36,934
+Algorithm for management of postterm pregnancy.
+
+213
+00:27:36,934 --> 00:27:50,709
+When gestational age is uncertain, the American College of Obstetricians and Gynecologists (2019b) recommends delivery at 41 weeks’ gestation using the best clinical estimate of gestational age.
+
+214
+00:27:50,709 --> 00:27:55,971
+The College also recommends against amniocentesis for fetal lung maturity.
+
+215
+00:27:55,971 --> 00:27:58,234
+Intrapartum Management.
+
+216
+00:27:58,234 --> 00:28:02,759
+Labor is a particularly dangerous time for the postterm fetus.
+
+217
+00:28:02,759 --> 00:28:10,634
+Thus, women whose pregnancies are known or suspected to be postterm ideally come to the hospital as soon as they suspect labor.
+
+218
+00:28:10,634 --> 00:28:20,646
+While being evaluated for active labor, fetal heart rate and uterine contractions are monitored electronically for variations consistent with fetal compromise .
+
+219
+00:28:20,646 --> 00:28:25,521
+During labor, the decision to perform amniotomy is problematic.
+
+220
+00:28:25,521 --> 00:28:31,984
+Further reduction in fluid volume following amniotomy can enhance the possibility of cord compression.
+
+221
+00:28:31,984 --> 00:28:38,946
+Conversely, after membrane rupture, a scalp electrode and an intrauterine pressure catheter can be placed.
+
+222
+00:28:38,946 --> 00:28:45,071
+These usually provide more precise data concerning fetal heart rate and uterine contractions.
+
+223
+00:28:45,071 --> 00:28:49,309
+Amniotomy also aids identification of thick meconium.
+
+224
+00:28:49,309 --> 00:28:53,796
+Thick meconium in the amnionic fluid is particularly worrisome.
+
+225
+00:28:53,796 --> 00:28:59,371
+The viscosity probably signifies the lack of liquid and thus oligohydramnios.
+
+226
+00:28:59,371 --> 00:29:05,359
+Aspiration of thick meconium may cause severe pulmonary dysfunction and neonatal death .
+
+227
+00:29:05,359 --> 00:29:15,359
+According to the American College of Obstetricians and Gynecologists (2019a), amnioinfusion does not prevent meconium aspiration syndrome.
+
+228
+00:29:15,359 --> 00:29:24,171
+However, it remains a reasonable treatment approach for repetitive variable decelerations (Chap, 24, p. 459).
+
+229
+00:29:24,171 --> 00:29:34,959
+Suctioning the pharynx once the head is delivered is not recommended (American College of Obstetricians and Gynecologists, 2019a; Wyckoff, 2020).
+
+230
+00:29:34,959 --> 00:29:40,309
+If the depressed newborn has meconium-stained fluid, intubation is performed.
+
+231
+00:29:40,309 --> 00:29:42,421
+The likelihood of a
+
+232
+00:29:42,580 --> 00:29:51,467
+successful vaginal delivery is reduced appreciably for the nullipara who is in early labor with thick, meconium-stained amnionic fluid.
+
+233
+00:29:51,417 --> 00:30:05,667
+Thus, if a woman is remote from delivery, strong consideration should be given to prompt cesarean delivery, especially when cephalopelvic disproportion is suspected or either hypotonic or hypertonic dysfunctional labor is evident.
+
+234
+00:30:05,667 --> 00:30:10,392
+Some practitioners choose to avoid oxytocin use in these cases.
+

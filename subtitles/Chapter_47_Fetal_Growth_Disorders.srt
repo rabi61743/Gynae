@@ -1,0 +1,1704 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,887
+Chapter 47: Fetal-Growth Disorders.
+
+3
+00:00:05,887 --> 00:00:19,950
+Normal Fetal Growth Fetal-Growth Restriction Detection Risk Factors Management Fetal Macrosomia Risk Factors Management References Disorders of fetal growth occur at both ends of the spectrum, either fetalgrowth restriction or macrosomia.
+
+4
+00:00:19,950 --> 00:00:25,350
+Each poses concern because of associated morbidities and potential mortality.
+
+5
+00:00:25,350 --> 00:00:33,912
+However, in both categories most of these newborns are ultimately deemed normal and healthy but merely constitutionally small or large.
+
+6
+00:00:33,912 --> 00:00:40,325
+The clinical challenge thus lies in the evaluation and management of suspected fetal-growth disorders.
+
+7
+00:00:40,325 --> 00:00:42,475
+Normal Fetal Growth.
+
+8
+00:00:42,475 --> 00:00:46,000
+Fetal growth may be divided into three phases.
+
+9
+00:00:46,000 --> 00:00:53,612
+The initial phase of hyperplasia occurs in the first 16 weeks and is characterized by a rapid rise in cell number.
+
+10
+00:00:53,612 --> 00:01:01,637
+The second phase, which extends up to 32 weeks’ gestation, includes both cellular hyperplasia and hypertrophy.
+
+11
+00:01:01,637 --> 00:01:10,950
+After 32 weeks, fetal mass accrues by cellular hypertrophy, and it is during this phase that most fetal fat and glycogen accumulate.
+
+12
+00:01:10,950 --> 00:01:28,200
+The corresponding fetal-growth rates during these three phases approximate 5 g/d at 15 weeks’ gestation, 15 g/d at 24 weeks’, and 30 g/d at 34 weeks’ (Grantz, 2018; Williams, 1982).
+
+13
+00:01:28,200 --> 00:01:42,225
+In the National Institute of Child Health and Human Development Fetal Growth Studies, serial sonographic evaluations were performed in 1733 nonobese, low-risk pregnancies at 12 sites across the United States .
+
+14
+00:01:42,225 --> 00:01:48,662
+As shown in Figure 47-1, growth velocity peaked at 35 weeks’ gestation .
+
+15
+00:01:48,662 --> 00:01:56,875
+The investigators demonstrated that fetal growth varies considerably and that it is not highly correlated with fetal birthweight percentile.
+
+16
+00:01:56,875 --> 00:02:09,762
+Some fetuses with initial estimated weights below the 5th percentile maintained their growth velocity and ultimately weighed more at birth than other fetuses whose weight percentiles were initially higher but whose growth was slower.
+
+17
+00:02:09,762 --> 00:02:19,600
+Such findings support our understanding that large and small fetal weight percentiles reflect constitutional size in some but indicate disordered growth in others.
+
+18
+00:02:19,600 --> 00:02:25,275
+They further highlight the importance of serial sonography when abnormal growth is a concern.
+
+19
+00:02:25,275 --> 00:02:27,900
+Figure 47-1.
+
+20
+00:02:27,900 --> 00:02:33,212
+Fetal weight gain in grams per day by race/ethnicity throughout gestation.
+
+21
+00:02:33,212 --> 00:02:35,712
+# Normal Birthweight.
+
+22
+00:02:35,712 --> 00:02:41,350
+Accurate gestational age assessment is critical for determining whether birthweight is normal.
+
+23
+00:02:41,350 --> 00:02:54,162
+Current normative data are based on birthweights from pregnancies in which gestational age is established using an obstetrical estimate that includes sonography and discussed in Chapter 14 (p. 248) .
+
+24
+00:02:54,162 --> 00:03:05,262
+The birthweight percentiles shown in Table 47-1 were derived using data from more than 3 million liveborn singletons delivered across the United States in 2011 .
+
+25
+00:03:05,262 --> 00:03:20,312
+As shown in Figure 47-2, use of a birthweight percentile curve in which gestational age is based on a last menstrual period alone yields significantly larger weights for a given gestational age, particularly in the preterm period.
+
+26
+00:03:20,312 --> 00:03:29,000
+The accuracy of a birthweight reference thus has potential to affect the prevalence of neonates diagnosed as small or large for gestational age.
+
+27
+00:03:29,000 --> 00:03:31,562
+Table 47-1.
+
+28
+00:03:31,562 --> 00:03:43,425
+2011 Gestational Age Birthweight (g) Percentiles for 3,252,011 Singleton Live Births in the United States Figure 47-2.
+
+29
+00:03:43,425 --> 00:03:48,212
+Fetal-growth curves for births in the United States in 2011.
+
+30
+00:03:48,212 --> 00:03:58,662
+Curves vary depending on whether gestational age was calculated from the last menstrual period or from an improved obstetrical estimate, derived in part using sonography.
+
+31
+00:03:58,662 --> 00:04:08,450
+Modified with permission from Duryea EL, Hawkins JS, McIntire DD, et al: A revised birth weight reference for the United States.
+
+32
+00:04:08,450 --> 00:04:15,062
+Obstet Gynecol. 2014 Jul;124(1):16–22.
+
+33
+00:04:15,062 --> 00:04:23,637
+The curve by Duryea and associates (2014) is most accurately termed a population reference, rather than a standard.
+
+34
+00:04:23,637 --> 00:04:31,937
+A population reference incorporates pregnancies of varying risks, along with the resulting outcomes, both normal and abnormal.
+
+35
+00:04:31,937 --> 00:04:37,475
+In contrast, a standard incorporates normal pregnancies with normal outcomes.
+
+36
+00:04:37,475 --> 00:04:46,175
+Because population references include preterm births, which are more likely to be growth restricted, it has been argued that the associated
+
+37
+00:04:46,324 --> 00:04:53,799
+birthweight data overestimate impaired fetal growth (Mayer, 2013; Zhang, 2010).
+
+38
+00:04:53,749 --> 00:04:56,936
+# Physiology of Fetal Growth.
+
+39
+00:04:56,936 --> 00:05:06,649
+Fetal development is believed to be determined by maternal provision of substrate and its placental transfer, whereas fetal growth potential is governed by the genome.
+
+40
+00:05:06,649 --> 00:05:13,211
+The precise cellular and molecular mechanisms leading to normal fetal growth are incompletely understood.
+
+41
+00:05:13,211 --> 00:05:20,949
+Considerable evidence supports the role of insulin and insulin-like growth factors in fetal growth and weight gain regulation .
+
+42
+00:05:20,949 --> 00:05:28,486
+These growth factors are produced by virtually all organs and are potent stimulators of cell division and differentiation.
+
+43
+00:05:28,486 --> 00:05:36,161
+Other hormones implicated in fetal growth include leptin and other adipokines, which are derived from adipose tissue.
+
+44
+00:05:36,161 --> 00:05:49,999
+Fetal leptin concentrations rise during gestation, and they correlate both with birthweight and with neonatal fat mass (Briffa, 2015; Ökdemir, 2018; Simpson, 2017).
+
+45
+00:05:49,999 --> 00:05:56,824
+Both excessive and diminished maternal glucose availability also have the potential to affect fetal growth .
+
+46
+00:05:56,824 --> 00:06:04,549
+That said, growthrestricted neonates do not typically show pathologically low glucose concentrations in cord blood .
+
+47
+00:06:04,549 --> 00:06:13,124
+Fetal-growth restriction in response to glucose deprivation generally results only after long-term severe maternal caloric deprivation .
+
+48
+00:06:13,124 --> 00:06:18,499
+Conversely, hyperglycemia more consistently results in excessive growth.
+
+49
+00:06:18,499 --> 00:06:33,486
+The Hyperglycemia and Adverse Pregnancy Outcomes (HAPO) Study Cooperative Research Group (2008) found that elevated cord C-peptide levels, which reflect fetal hyperinsulinemia, are associated with greater birthweight.
+
+50
+00:06:33,486 --> 00:06:40,099
+This relationship was noted even in women with maternal glucose levels below the threshold for diabetes.
+
+51
+00:06:40,099 --> 00:06:45,374
+Excessive transfer of lipids has similarly been implicated in fetal overgrowth .
+
+52
+00:06:45,374 --> 00:07:00,111
+Free or nonesterified fatty acids in maternal plasma may be transferred to the fetus via facilitated diffusion or after liberation of fatty acids from triglycerides by trophoblastic lipases (GilSánchez, 2012).
+
+53
+00:07:00,111 --> 00:07:10,149
+Independent of prepregnancy body mass index (BMI), higher maternal free fatty acid levels during the latter half of pregnancy correlate with birthweight .
+
+54
+00:07:10,149 --> 00:07:17,174
+Greater intake of certain fatty acids, particularly omega-3, is associated with greater birthweight .
+
+55
+00:07:17,174 --> 00:07:26,724
+Placental fatty acid metabolism and transfer may be dysregulated in fetalgrowth restriction and in maternal conditions associated with fetal overgrowth.
+
+56
+00:07:26,724 --> 00:07:39,961
+For example, levels of endothelial lipase are reduced with deficient fetal growth, and this enzyme is overexpressed in placentas of women with diabetes (Gauster, 2007, 2011).
+
+57
+00:07:39,961 --> 00:07:47,236
+Others have reported that diabetes and obesity are associated with altered placental lipid-transport gene expression .
+
+58
+00:07:47,236 --> 00:07:54,811
+Obesity is also linked with greater expression of fatty acid binding/transport proteins within the trophoblast .
+
+59
+00:07:54,811 --> 00:08:09,586
+These alterations lead to an abnormal accumulation of lipids that can result in pathological placental inflammation and dysfunction (Calabuig-Navarro, 2016; Myatt, 2016; Yang, 2016).
+
+60
+00:08:09,586 --> 00:08:11,849
+Fetal-Growth Restriction.
+
+61
+00:08:11,849 --> 00:08:20,961
+Fundamental to understanding fetal-growth restriction (FGR) is an appreciation of the strengths and limitations of its defining criteria.
+
+62
+00:08:20,961 --> 00:08:29,136
+A diagnosis based on estimated fetal weight alone does not indicate disease but rather a fetus that is in an at-risk category.
+
+63
+00:08:29,136 --> 00:08:40,111
+Benefits of definitions such as the one used by the American College of Obstetricians and Gynecologists are ease of application and promotion of consistency across care settings.
+
+64
+00:08:40,111 --> 00:08:53,524
+However, if applied to an otherwise low-risk population, a 10th-percentile threshold will label nearly 10 percent of fetuses as growth restricted, although most are merely constitutionally small rather than compromised.
+
+65
+00:08:53,524 --> 00:09:01,861
+Moreover, a threshold will fail to identify at-risk fetuses with a weight above that threshold but who have not reached their growth potential.
+
+66
+00:09:01,861 --> 00:09:08,836
+Thus, the definition is intended to strike a balance between false-positive and falsenegative diagnoses.
+
+67
+00:09:08,836 --> 00:09:11,061
+# Definition.
+
+68
+00:09:11,061 --> 00:09:15,649
+Various criteria and thresholds have been used to define FGR.
+
+69
+00:09:15,649 --> 00:09:23,986
+These have included estimated fetal weights (EFW) below the 3rd, 5th, or 10th percentiles; similar abdominal
+
+70
+00:09:24,148 --> 00:09:35,798
+circumference (AC) percentiles; a specified decline in the EFW percentile or AC percentile over serial assessments; and various abnormal Doppler findings .
+
+71
+00:09:35,748 --> 00:09:42,648
+All definitions are based solely on prenatal sonography and rely on accurate gestational age assessment.
+
+72
+00:09:42,648 --> 00:10:01,185
+Currently, the American College of Obstetricians and Gynecologists (2021a) and the Society for Maternal-Fetal Medicine (2020) recommend defining FGR as either an EFW <10th percentile for gestational age or an AC <10th percentile for gestational age.
+
+73
+00:10:01,185 --> 00:10:12,498
+Use of the AC threshold may correctly identify one additional small-for-gestational age (SGA) newborn for every 14 sonograms performed in the last month of pregnancy .
+
+74
+00:10:12,498 --> 00:10:27,635
+Importantly, management recommendations are further stratified based on lower percentile thresholds and findings such as oligohydramnios or abnormal umbilical artery Doppler velocimetry, as discussed subsequently (p. 829).
+
+75
+00:10:27,635 --> 00:10:41,398
+To more precisely identify growth-restricted fetuses, investigators have derived customized growth charts that incorporate variables such as maternal height and weight, race or ethnicity, parity, and fetal sex.
+
+76
+00:10:41,398 --> 00:11:00,035
+However, customized growth curves do not improve outcomes and thus are not recommended (American College of Obstetricians and Gynecologists, 2021a; Chiossi, 2017; Costantine, 2013; Grobman, 2013; Zhang, 2011).
+
+77
+00:11:00,035 --> 00:11:07,248
+FGR should be differentiated from SGA, which is a postnatal designation based on birthweight percentile.
+
+78
+00:11:07,248 --> 00:11:16,623
+When considering FGR detection, investigators study the proportion of SGA neonates identified as FGR during prenatal sonography.
+
+79
+00:11:16,623 --> 00:11:23,648
+However, FGR often does not equate to SGA because of the inherent error of sonographic measurement.
+
+80
+00:11:23,648 --> 00:11:33,623
+One population-based study of routine third-trimester sonography found that 50 percent of those with suspected FGR had birthweights above the 10th percentile .
+
+81
+00:11:33,623 --> 00:11:44,498
+Those with false-positive diagnoses of FGR were delivered 2 weeks earlier in gestation, which raises concerns about potential iatrogenic sequelae of routine screening.
+
+82
+00:11:44,498 --> 00:11:51,210
+Importantly, as many as 70 percent of SGA newborns are not pathologically growth restricted.
+
+83
+00:11:51,210 --> 00:12:00,523
+Indeed, such children have normal outcomes and are thought to be appropriately grown when maternal ethnic group, parity, weight, and height are considered .
+
+84
+00:12:00,523 --> 00:12:11,573
+In a Swedish study of 130,000 term births, the maternal and paternal birthweights were estimated to account for 6 and 3 percent of variance in birthweight, respectively .
+
+85
+00:12:11,573 --> 00:12:19,760
+Additionally, as shown in Figure 47-3, most adverse outcomes occur in newborns smaller than the 3rd percentile .
+
+86
+00:12:19,760 --> 00:12:35,673
+In a review of more than 80,000 singleton term births from Parkland Hospital, McIntire and colleagues (1999) found that neonatal mortality and most neonatal morbidity rates rose only at birthweights at or below the 3rd percentile.
+
+87
+00:12:35,673 --> 00:12:38,335
+Figure 47-3.
+
+88
+00:12:38,335 --> 00:12:47,160
+Relationship between birthweight percentile and perinatal mortality and morbidity rates in 1560 small-for-gestational-age fetuses.
+
+89
+00:12:47,160 --> 00:12:54,023
+A progressive increase in both mortality and morbidity rates is observed as birthweight percentile decreases.
+
+90
+00:12:54,023 --> 00:13:02,335
+Small-but-normal neonates do not show evidence of the postnatal metabolic derangements commonly associated with deficient fetal growth.
+
+91
+00:13:02,335 --> 00:13:12,610
+Moreover, these intrinsically small newborns remain significantly smaller during surveillance to 2 years compared with appropriate-for-gestational-age sized neonates.
+
+92
+00:13:12,610 --> 00:13:19,648
+However, they do not show differences in measures of metabolic risk that included glucose and insulin levels .
+
+93
+00:13:19,648 --> 00:13:25,748
+As discussed later, true SGA newborns carry short- and long-term metabolic risks.
+
+94
+00:13:25,748 --> 00:13:27,923
+# Detection.
+
+95
+00:13:27,923 --> 00:13:32,573
+Identification of truly impaired fetal growth remains a challenge.
+
+96
+00:13:32,573 --> 00:13:40,535
+Ideally, it involves detecting fetuses who meet the aforementioned definition and also discerning those at risk for compromise.
+
+97
+00:13:40,535 --> 00:13:54,785
+There are three main tenets: 1. The diagnosis relies on accurate gestational age assessment, optimally confirmed with sonography in the first or early second trimester (Table 141, p. 248).
+
+98
+00:13:54,785 --> 00:14:01,548
+If gestational age is uncertain and the diagnosis is suspected, serial sonography is considered.
+
+99
+00:14:01,548 --> 00:14:08,485
+2. In low-risk pregnancies, the diagnosis is suspected based on clinical abdominal examination
+
+100
+00:14:08,644 --> 00:14:17,356
+after 24 weeks’ gestation in which the fundal height lags by ≥3 cm. Sonography is then performed.
+
+101
+00:14:17,306 --> 00:14:26,606
+3. If the pregnancy is at risk for FGR, based on factors reviewed in the next section, sonography is considered to assist with detection.
+
+102
+00:14:26,606 --> 00:14:30,894
+This is performed at approximately 32 weeks’ gestation.
+
+103
+00:14:30,894 --> 00:14:38,319
+Care is individualized, and in some cases sonography may be needed every 4 weeks to assess fetal growth.
+
+104
+00:14:38,319 --> 00:14:45,606
+One example of the latter is twin gestations, because fundal height cannot evaluate individual twin growth .
+
+105
+00:14:45,606 --> 00:14:54,069
+Uterine Fundal Height At each prenatal visit after 20 weeks’ gestation, fundal height is assessed to screen for fetal-growth impairment .
+
+106
+00:14:54,069 --> 00:14:58,994
+The measurement in centimeters approximates the gestational age in weeks.
+
+107
+00:14:58,994 --> 00:15:03,881
+The uterine size-date discrepancy may be unrelated to fetal size.
+
+108
+00:15:03,881 --> 00:15:13,869
+However, if the measurement differs by ≥3 cm in the absence of an obvious explanation, sonography is generally performed.
+
+109
+00:15:13,869 --> 00:15:26,756
+Serial fundal height measurement is the only routine screening for FGR that is endorsed by the American College of Obstetricians and Gynecologists and Society for Maternal-Fetal Medicine (2021a).
+
+110
+00:15:26,756 --> 00:15:38,494
+International consensus also indicates that carefully performed serial fundal height measurements are a simple, safe, inexpensive, and reasonably accurate method to screen for FGR .
+
+111
+00:15:38,494 --> 00:15:42,619
+Limitations of fundal height screening are well documented.
+
+112
+00:15:42,619 --> 00:15:56,831
+The overall sensitivity of fundal height to detect FGR ranges from 11 to 25 percent (Goetzinger, 2012; Grantz, 2021; Roex, 2012; Sparks, 2011).
+
+113
+00:15:56,831 --> 00:16:01,719
+Detection rates are lower in obese women than in those with normal BMI .
+
+114
+00:16:01,719 --> 00:16:23,831
+Sonographic Assessment Studies of routine screening for FGR using third-trimester sonography have yielded variable results, and detection of SGA neonates ranges from <20 percent to >60 percent (Hammad, 2016; Monier, 2015; Sovio, 2015; Wanyonyi, 2021).
+
+115
+00:16:23,831 --> 00:16:32,869
+One reason for poor detection is that sonography performed at any point in gestation will fail to detect pregnancies in which FGR develops later.
+
+116
+00:16:32,869 --> 00:16:39,644
+Also, it will miss those needing delivery for FGR before the sonographic examination was performed.
+
+117
+00:16:39,644 --> 00:16:43,994
+Compounding this is that EFW is an imperfect metric.
+
+118
+00:16:43,994 --> 00:16:53,219
+Given that most SGA neonates are constitutionally small, it is not unexpected that the recurrence risk for FGR approximates 20 percent.
+
+119
+00:16:53,219 --> 00:16:59,806
+Many of these cases are merely smaller mothers having smaller healthy children in successive pregnancies.
+
+120
+00:16:59,806 --> 00:17:07,969
+Routine third-trimester sonography to assess fetal growth is not recommended because it has not been demonstrated to improve outcomes .
+
+121
+00:17:07,969 --> 00:17:22,669
+Indeed, a Cochrane database analysis of 13 trials with 34,980 women found that routine late-pregnancy ultrasound for a low-risk or an unselected population was not associated with maternal or fetal benefit .
+
+122
+00:17:22,669 --> 00:17:25,469
+# Pathophysiology.
+
+123
+00:17:25,469 --> 00:17:32,631
+Fetal-growth restriction is one of the “major obstetrical syndromes” associated with defects in early placentation .
+
+124
+00:17:32,631 --> 00:17:42,531
+Mechanisms leading to abnormal trophoblastic invasion are likely multifactorial, and both vascular and immunological etiologies have been proposed.
+
+125
+00:17:42,531 --> 00:17:54,219
+For example, atrial natriuretic peptide converting enzyme, also known as corin, plays a critical role in trophoblastic invasion and remodeling of the uterine spiral arteries .
+
+126
+00:17:54,219 --> 00:18:00,781
+These processes are impaired in corin-deficient mice, which also develop evidence of preeclampsia.
+
+127
+00:18:00,781 --> 00:18:06,544
+Moreover, mutations in the gene for corin are reported in women with preeclampsia .
+
+128
+00:18:06,544 --> 00:18:11,531
+Several immunological abnormalities are associated with FGR.
+
+129
+00:18:11,531 --> 00:18:16,769
+This raises the prospect of maternal rejection of the “paternal semiallograft.
+
+130
+00:18:16,769 --> 00:18:27,144
+Rudzinski and colleagues (2013) studied C4d, a component of complement that is associated with humoral rejection of transplanted tissues.
+
+131
+00:18:27,144 --> 00:18:36,969
+They found this to be highly associated with chronic villitis—88 percent of cases versus only 5 percent of controls—and with reduced placental weight.
+
+132
+00:18:36,969 --> 00:18:48,006
+In a study of 10,204 placentas, chronic villitis was associated with placental hypoperfusion, fetal acidemia, and FGR and its sequelae .
+
+133
+00:18:48,006 --> 00:18:59,106
+Kim and coworkers (2015) extensively reviewed chronic inflammatory placental lesions and their association with fetal-growth restriction, preeclampsia, and
+
+134
+00:18:59,260 --> 00:19:01,160
+preterm birth.
+
+135
+00:19:01,110 --> 00:19:03,497
+# Risk Factors.
+
+136
+00:19:03,497 --> 00:19:13,185
+Risk factors for impaired fetal growth may be divided into three overlapping categories or “compartments”: those in the mother, the fetus, or the placenta.
+
+137
+00:19:13,185 --> 00:19:17,172
+Some of these are depicted in Figure 47-4.
+
+138
+00:19:17,172 --> 00:19:25,972
+Many causes of FGR are prospectively considered risk factors, because impaired fetal growth is not consistent in all affected women.
+
+139
+00:19:25,972 --> 00:19:28,685
+Figure 47-4.
+
+140
+00:19:28,685 --> 00:19:34,960
+Risk factors and causes of impaired fetal growth centering on the mother, fetus, and placenta.
+
+141
+00:19:34,960 --> 00:19:42,060
+Gestational Weight Gain and Nutrition Maternal weight gain during pregnancy is positively correlated with fetal size .
+
+142
+00:19:42,060 --> 00:19:50,547
+Among women with gestational diabetes, gestational weight gain is also associated with both neonatal birthweight and adiposity .
+
+143
+00:19:50,547 --> 00:20:05,885
+In contrast, a gestational weight gain during the second and third trimesters that is less than that recommended by the Institute of Medicine is associated with increased risk of an SGA neonate in women of all weight categories except class II or III obesity .
+
+144
+00:20:05,885 --> 00:20:12,210
+The best-documented effect of famine on fetal growth was in the winter of 1944 in Holland.
+
+145
+00:20:12,210 --> 00:20:22,222
+For 6 months, the German occupation army restricted dietary intake to 500 kcal/d for civilians, including pregnant women.
+
+146
+00:20:22,222 --> 00:20:27,222
+As a result, the average birthweight declined by 250 g .
+
+147
+00:20:27,222 --> 00:20:31,860
+Undernourished women may benefit from micronutrient supplementation.
+
+148
+00:20:31,860 --> 00:20:41,810
+In one study, almost 32,000 Indonesian women were randomly assigned to receive micronutrient supplementation or only iron and folate tablets .
+
+149
+00:20:41,810 --> 00:20:51,260
+Offspring of those receiving the supplement had lower risks of early infant mortality and low birthweight and had improved childhood motor and cognitive abilities.
+
+150
+00:20:51,260 --> 00:21:02,235
+A Cochrane review of 20 trials involving 141,849 women concluded that supplementation of micronutrients may lower the risk of low birthweight .
+
+151
+00:21:02,235 --> 00:21:09,097
+The importance of antenatal vitamins and trace metals is discussed in Chapter 10 (p. 185).
+
+152
+00:21:09,097 --> 00:21:20,385
+Socioeconomic Factors The effect of social deprivation on birthweight is interconnected with lifestyle factors such as smoking, alcohol or other substance abuse, and poor nutrition.
+
+153
+00:21:20,385 --> 00:21:32,897
+With appropriate modifying interventions, women with psychosocial factors were significantly less likely to deliver a lowbirthweight newborn and also had fewer preterm births and other pregnancy complications .
+
+154
+00:21:32,897 --> 00:21:41,597
+Food insecurity, late entry into prenatal care, and limited access to healthcare are all contributors to fetal-growth restriction .
+
+155
+00:21:41,597 --> 00:21:52,072
+Hall (2020) found that in a military population with equal access to healthcare, racial differences in late entry to prenatal care and FGR persist.
+
+156
+00:21:52,072 --> 00:22:00,810
+An Australian study showed that the proportion of pregnancies affected by fetal-growth restriction increased as levels of social disadvantage rose .
+
+157
+00:22:00,810 --> 00:22:10,210
+Vascular and Renal Disease Especially when complicated by superimposed preeclampsia, chronic vascular disease commonly restricts fetal growth .
+
+158
+00:22:10,210 --> 00:22:27,272
+Maternal vascular disease as evidenced by abnormal uterine artery Doppler velocimetry early in pregnancy is associated with higher rates of preeclampsia, SGA neonates, and delivery before 34 weeks (He, 2020; Poon, 2019).
+
+159
+00:22:27,272 --> 00:22:39,510
+Using Washington state birth certificate data, Leary and colleagues (2012) found that maternal ischemic heart disease was associated with a 16-percent risk of having an SGA newborn.
+
+160
+00:22:39,510 --> 00:22:46,335
+Chronic renal insufficiency is frequently associated with underlying hypertension and vascular disease.
+
+161
+00:22:46,335 --> 00:22:56,885
+Nephropathies are commonly accompanied by restricted fetal growth (Cunningham, 1990; Feng, 2015; Saliem, 2016).
+
+162
+00:22:56,885 --> 00:23:03,010
+These relationships are considered further in Chapter 56 (p. 1004).
+
+163
+00:23:03,010 --> 00:23:15,422
+Pregestational Diabetes Fetal-growth restriction in newborns of women with diabetes may be related to congenital malformations or may follow substrate deprivation from advanced maternal vascular disease .
+
+164
+00:23:15,422 --> 00:23:22,372
+The likelihood of restricted growth increases with worsening White classification, particularly nephropathy .
+
+165
+00:23:22,372 --> 00:23:29,235
+That said, the prevalence of serious vascular disease associated with diabetes in pregnancy is low.
+
+166
+00:23:29,235 --> 00:23:40,097
+Chronic Hypoxia Conditions associated with chronic hypoxia include asthma, maternal cyanotic heart disease, other chronic pulmonary disease, cigarette smoking,
+
+167
+00:23:40,252 --> 00:23:42,752
+and living at high altitude.
+
+168
+00:23:42,702 --> 00:23:49,452
+When exposed to a chronically hypoxic environment, some fetuses have significantly reduced birthweight.
+
+169
+00:23:49,452 --> 00:24:00,727
+Smoking causes a dose-dependent reduction in fetal growth, resulting in an average birthweight 200 g below that of newborns of nonsmokers (D’Souza, 1981).
+
+170
+00:24:00,727 --> 00:24:10,327
+For each 1000-meter rise in altitude, the birthweight declined 150 g in a study of more than 1.8 million births in Austria .
+
+171
+00:24:10,327 --> 00:24:15,614
+Anemia In most cases, maternal anemia does not impair fetal growth.
+
+172
+00:24:15,614 --> 00:24:24,539
+Exceptions include sickle-cell disease and other inherited anemias (Desai, 2017; Thame, 2016).
+
+173
+00:24:24,539 --> 00:24:34,064
+Importantly, curtailed maternal blood-volume expansion is linked to FGR (de Haas, 2017; Stott, 2017).
+
+174
+00:24:34,064 --> 00:24:38,452
+This is further discussed in Chapter 4 (p. 59).
+
+175
+00:24:38,452 --> 00:24:55,377
+Antiphospholipid Syndrome Adverse obstetrical outcomes including fetal-growth restriction have been associated with three types of antiphospholipid antibodies: anticardiolipin antibodies, lupus anticoagulant, and anti-β2 glycoprotein-I antibodies.
+
+176
+00:24:55,377 --> 00:25:04,189
+Mechanistically, a “two-hit” hypothesis suggests that initial endothelial damage is then followed by intervillous placental thrombosis.
+
+177
+00:25:04,189 --> 00:25:15,889
+More specifically, oxidative damage to certain membrane proteins is followed by antiphospholipid antibody binding, which leads to immune-complex formation and ultimately to thrombosis .
+
+178
+00:25:15,889 --> 00:25:24,564
+This syndrome is considered in detail in Chapters 55 (p. 979) and 62 (p. 1115).
+
+179
+00:25:24,564 --> 00:25:32,839
+Women with more than one type of antiphospholipid antibody are at higher risk for FGR compared with those with only one antibody .
+
+180
+00:25:32,839 --> 00:25:42,027
+Also, anti-β2 glycoprotein-I antibodies may have a stronger association with FGR, particularly early-onset disease.
+
+181
+00:25:42,027 --> 00:25:53,564
+Placental, Cord, and Uterine Abnormalities Several placental abnormalities are associated with poor fetal growth, which is presumed secondary to uteroplacental insufficiency.
+
+182
+00:25:53,564 --> 00:26:05,789
+These are discussed further throughout Chapter 6 and include chronic placental abruption, extensive infarction, chorioangioma, velamentous cord insertion, and umbilical artery thrombosis.
+
+183
+00:26:05,789 --> 00:26:12,177
+Abnormal placental implantation leading to endothelial dysfunction may also limit fetal growth .
+
+184
+00:26:12,177 --> 00:26:17,427
+This pathology is implicated in pregnancies complicated by preeclampsia .
+
+185
+00:26:17,427 --> 00:26:22,389
+Last, some uterine malformations are linked to impaired fetal growth .
+
+186
+00:26:22,389 --> 00:26:32,364
+Multifetal Gestation Pregnancy with two or more fetuses is more likely to be complicated by diminished growth of one or more fetuses compared with that of singletons .
+
+187
+00:26:32,364 --> 00:26:36,102
+Serial sonography is recommended for this reason.
+
+188
+00:26:36,102 --> 00:26:46,589
+With the understanding that normal twin growth may be less than that of singletons, we use a chorionicity-specific twin nomogram to diagnose FGR at Parkland Hospital.
+
+189
+00:26:46,589 --> 00:26:52,264
+Discordance in estimated fetal weight also is considered when evaluating twin growth .
+
+190
+00:26:52,264 --> 00:26:55,064
+Figure 47-5.
+
+191
+00:26:55,064 --> 00:27:02,914
+Birthweight and gestational age relationships in multifetal gestations without malformations delivered at Parkland Hospital.
+
+192
+00:27:02,914 --> 00:27:09,252
+Medications and Other Substances Fortunately, most medications do not affect fetal growth.
+
+193
+00:27:09,252 --> 00:27:17,489
+Selected medications and other substances that have been associated with FGR due to fetotoxicity are discussed in Chapter 8.
+
+194
+00:27:17,489 --> 00:27:26,977
+Examples include cyclophosphamide and other antineoplastic drugs, significant lead exposure, and drugs such as cocaine and methamphetamine.
+
+195
+00:27:26,977 --> 00:27:31,339
+Alcohol and tobacco each have potent effects on fetal growth.
+
+196
+00:27:31,339 --> 00:27:42,102
+FGR is included among the diagnostic criteria for fetal alcohol syndrome, and cigarette smoking is associated with a two- to threefold increased risk of FGR .
+
+197
+00:27:42,102 --> 00:27:55,089
+Maternal and Fetal Infections Viral, bacterial, protozoan, and spirochetal infections have been implicated in up to 5 percent of FGR cases and are discussed in Chapters 67 and 68.
+
+198
+00:27:55,089 --> 00:27:59,664
+The best known of these are rubella and cytomegalovirus infection.
+
+199
+00:27:59,664 --> 00:28:08,527
+Both promote calcifications in the fetus that are associated with cell death, and infection earlier in pregnancy correlates with worse outcomes.
+
+200
+00:28:08,527 --> 00:28:19,952
+Toda and colleagues (2015) described a Vietnamese epidemic in which 39 percent of 292 term newborns with congenital rubella syndrome were low birthweight.
+
+201
+00:28:19,952 --> 00:28:29,139
+In one study of 238 primary cytomegalovirus infections, no severe cases were observed when infection occurred after 14
+
+202
+00:28:29,308 --> 00:28:31,345
+weeks’ gestation .
+
+203
+00:28:31,295 --> 00:28:43,008
+These investigators later identified sonographic findings in 30 of 69 cases of congenital infection, and growth restriction was noted in 30 percent of these 30 cases .
+
+204
+00:28:43,008 --> 00:28:48,033
+Tuberculosis and syphilis also are associated with poor fetal growth.
+
+205
+00:28:48,033 --> 00:28:53,470
+Both extrapulmonary and pulmonary tuberculosis are linked with low birthweight .
+
+206
+00:28:53,470 --> 00:29:03,308
+Sobhy (2017) analyzed 13 studies that included a total of 3384 women with active tuberculosis.
+
+207
+00:29:03,308 --> 00:29:07,333
+The odds ratio was 1.7 for low birthweight.
+
+208
+00:29:07,333 --> 00:29:16,720
+The etiology is uncertain, however, the adverse effects on maternal health, compounded by effects of poor nutrition and poverty, are important .
+
+209
+00:29:16,720 --> 00:29:27,133
+Congenital syphilis is more common, and paradoxically, the placenta is almost always larger and heavier than normal due to edema and perivascular inflammation .
+
+210
+00:29:27,133 --> 00:29:32,958
+Congenital syphilis is strongly linked with preterm birth and thus lowbirthweight newborns .
+
+211
+00:29:32,958 --> 00:29:38,283
+Congenital infection with toxoplasma gondii is associated with FGR.
+
+212
+00:29:38,283 --> 00:29:46,795
+Capobiango (2014) described 31 Brazilian pregnancies complicated by congenital toxoplasmosis.
+
+213
+00:29:46,795 --> 00:29:56,008
+Only 13 percent were treated antepartum for toxoplasmosis, and low birthweight complicated nearly 40 percent of all the pregnancies.
+
+214
+00:29:56,008 --> 00:30:01,170
+Congenital malaria may similarly cause low birthweight and poor fetal growth.
+
+215
+00:30:01,170 --> 00:30:09,070
+Briand and colleagues (2016) emphasize the importance of prophylaxis early in pregnancy for women at risk.
+
+216
+00:30:09,070 --> 00:30:21,758
+Congenital Malformations In a classic review of more than 13,000 fetuses with major malformations and chromosomal abnormalities, the rate of growth restriction was double the population prevalence .
+
+217
+00:30:21,758 --> 00:30:26,658
+The birth defect most strongly linked with FGR is gastroschisis.
+
+218
+00:30:26,658 --> 00:30:35,645
+Nelson (2015) reviewed 111 fetuses with gastroschisis and found that a third had birthweights <10th percentile.
+
+219
+00:30:35,645 --> 00:30:42,158
+Congenital cardiac abnormalities are also associated with a slight increase in FGR risk.
+
+220
+00:30:42,158 --> 00:30:55,258
+In a recent review of 1789 singleton neonates with isolated congenital cardiac abnormalities, the prevalence of SGA was 13 percent, which was 3 percent higher than the general-population risk .
+
+221
+00:30:55,258 --> 00:31:05,158
+With few exceptions, the identification of growth restriction in the setting of a structural malformation further increases the risk for an underlying genetic syndrome.
+
+222
+00:31:05,158 --> 00:31:11,808
+If not already performed, amniocentesis with chromosomal microarray analysis should be offered.
+
+223
+00:31:11,808 --> 00:31:19,770
+Genetic Abnormalities Many genetic syndromes are strongly linked with prenatal-growth impairment or postnatal failure to thrive.
+
+224
+00:31:19,770 --> 00:31:32,258
+Among liveborn neonates with autosomal trisomies, trisomy 21 is associated with an SGA prevalence of 15 to 30 percent (Herrera, 2020; Khoury, 1988).
+
+225
+00:31:32,258 --> 00:31:41,295
+With trisomies 13 and 18, the risk of SGA is significantly greater, 50 percent and >80 percent, respectively .
+
+226
+00:31:41,295 --> 00:31:49,170
+In trisomy 18, the combination of fetal abnormalities plus FGR and hydramnios is particularly common.
+
+227
+00:31:49,170 --> 00:32:02,808
+The crown-rump length in fetuses with trisomy 18 and 13, unlike that with trisomy 21, is also typically shorter than expected (Bahado-Singh, 1997; Schemmer, 1997).
+
+228
+00:32:02,808 --> 00:32:12,370
+Poor fetal growth similarly complicates Turner syndrome, and the severity correlates with increasing haploinsufficiency of the short arm of the X chromosome .
+
+229
+00:32:12,370 --> 00:32:22,358
+In contrast, poor growth is not characteristic of an increased number of X chromosomes (Ottesen, 2010; Wigby, 2016).
+
+230
+00:32:22,358 --> 00:32:30,383
+Discussed in Chapter 16 (p. 318), confined placental mosaicism is a recognized cause of FGR.
+
+231
+00:32:30,383 --> 00:32:32,608
+# Management.
+
+232
+00:32:32,608 --> 00:32:39,258
+If FGR is detected, efforts are made to assess the fetal condition and search for possible causes.
+
+233
+00:32:39,258 --> 00:32:45,708
+The risk for stillbirth is increased, and early-onset growth restriction is especially problematic.
+
+234
+00:32:45,708 --> 00:32:57,233
+General tenets of management include serial evaluation of fetal growth every 3 weeks and at least weekly evaluation of amnionic fluid and umbilical artery Doppler velocimetry.
+
+235
+00:32:57,233 --> 00:33:03,695
+A fetus with slow but progressing EFW is more reassuring than one that has plateaued growth.
+
+236
+00:33:03,695 --> 00:33:12,208
+This is supplemented with antepartum evaluation of fetal well-being, which is usually nonstress testing or biophysical profile .
+
+237
+00:33:12,208 --> 00:33:23,658
+Consideration is also given to performing a detailed fetal anatomic survey and amniocentesis to assess for underlying genetic abnormalities or infection—particularly
+
+238
+00:33:23,812 --> 00:33:26,387
+with early-onset FGR.
+
+239
+00:33:26,337 --> 00:33:30,987
+A management algorithm is shown in Figure 47-6.
+
+240
+00:33:30,987 --> 00:33:33,824
+Figure 47-6.
+
+241
+00:33:33,824 --> 00:33:37,587
+Algorithm for management of fetal-growth restriction.
+
+242
+00:33:37,587 --> 00:33:53,699
+EFW = estimated fetal weight; FLM = fetal lung maturity; NST = nonstress test; TORCH = toxoplasmosis, other, rubella, cytomegalovirus, herpesvirus; UA = umbilical artery.
+
+243
+00:33:53,699 --> 00:33:59,349
+Delivery timing balances the risks of fetal death with the hazards of preterm birth.
+
+244
+00:33:59,349 --> 00:34:07,274
+Several multicenter studies address these problems, but unfortunately, none has elucidated the optimal timing of delivery.
+
+245
+00:34:07,274 --> 00:34:15,237
+For the preterm fetus, the only randomized trial of delivery timing is the Growth Restriction Intervention Trial (GRIT) .
+
+246
+00:34:15,237 --> 00:34:21,649
+This trial involved 548 women between 24 and 36 weeks’ gestation.
+
+247
+00:34:21,649 --> 00:34:28,087
+Women were randomly assigned to immediate delivery or to delayed delivery until the situation worsened.
+
+248
+00:34:28,087 --> 00:34:33,899
+The primary outcome was perinatal death or disability after reaching age 2 years.
+
+249
+00:34:33,899 --> 00:34:37,824
+Mortality rates did not differ through 2 years of age.
+
+250
+00:34:37,824 --> 00:34:45,399
+Moreover, children aged 6 to 13 years did not show clinically significant differences between the two groups .
+
+251
+00:34:45,399 --> 00:34:57,112
+The Disproportionate Intrauterine Growth Intervention Trial at Term (DIGITAT) study examined the delivery timing of growth-restricted fetuses who were 36 weeks’ gestation or older.
+
+252
+00:34:57,112 --> 00:35:03,887
+The 321 enrolled women were randomly assigned to labor induction or to expectant management.
+
+253
+00:35:03,887 --> 00:35:16,424
+Composite neonatal morbidity rates did not differ, except that neonatal admissions were lower after 38 weeks’ gestation in a secondary analysis (Boers, 2010, 2012).
+
+254
+00:35:16,424 --> 00:35:32,462
+Secondary analyses of DIGITAT did not identify a clear subgroup that benefited from labor induction, and neurodevelopmental and behavioral outcomes at age 2 were similar in both groups (Tajik, 2014; Van Wyk, 2012).
+
+255
+00:35:32,462 --> 00:35:41,124
+Doppler Velocimetry Umbilical artery Doppler flow studies are central to the evaluation and management of the fetus with growth restriction .
+
+256
+00:35:41,124 --> 00:35:46,649
+Abnormalities represent the negative progression from fetal adaptation to failure.
+
+257
+00:35:46,649 --> 00:35:56,749
+Specifically, initially increased impedance to flow in the umbilical artery may progress to absent end-diastolic flow and then reversed enddiastolic flow .
+
+258
+00:35:56,749 --> 00:36:02,574
+This negative progression correlates with hypoxia, acidosis, and fetal death.
+
+259
+00:36:02,574 --> 00:36:19,649
+In one prospective series of 1116 fetuses with EFW <10th percentile, only 1 percent of those with normal umbilical artery Doppler studies had adverse outcomes compared with 12 percent of fetuses with Doppler abnormalities (O’Dwyer, 2014).
+
+260
+00:36:19,649 --> 00:36:27,612
+The stillbirth risk in the setting of absent and reversed end-diastolic flow is 7 percent and 19 percent, respectively .
+
+261
+00:36:27,612 --> 00:36:43,474
+Because of these findings, the American College of Obstetricians and Gynecologists (2021a,b) and Society for Maternal-Fetal Medicine (2020) recommend serial umbilical artery Doppler studies in the management of FGR.
+
+262
+00:36:43,474 --> 00:36:46,224
+Figure 47-7.
+
+263
+00:36:46,224 --> 00:36:48,887
+Doppler velocity waveforms.
+
+264
+00:36:48,887 --> 00:36:53,024
+A. Normal waveform with normal S/D ratio.
+
+265
+00:36:53,024 --> 00:36:58,587
+B. Increased impedance to flow with abnormally elevated S/D ratio.
+
+266
+00:36:58,587 --> 00:37:01,774
+C. Absent end-diastolic flow.
+
+267
+00:37:01,774 --> 00:37:04,887
+D. Reversed end-diastolic flow.
+
+268
+00:37:04,887 --> 00:37:25,312
+Doppler abnormalities in other vessels may convey information regarding pathophysiology, but interrogation of these is not recommended for routine management of the pregnancy complicated by FGR (American college of Obstetricians and Gynecologists, 2021a; Society for MaternalFetal Medicine, 2020).
+
+269
+00:37:25,312 --> 00:37:39,237
+Doppler abnormalities of the ductus venosus (Fig. 14-12, p. 264) reflect increased central venous pressure from decreased cardiac compliance and higher right ventricular end-diastolic pressure.
+
+270
+00:37:39,237 --> 00:37:49,737
+Fetuses with abnormal ductus venosus Doppler flow have a 20-percent risk for stillbirth, and this increases to 46 percent in cases with a reversed Awave .
+
+271
+00:37:49,737 --> 00:37:55,787
+Second, pulsatile flow in the umbilical vein waveform indicates cardiac dysfunction.
+
+272
+00:37:55,787 --> 00:38:03,362
+Last, cerebral vasodilation is the fetal adaptative response to hypoxemia in the setting of growth restriction.
+
+273
+00:38:03,362 --> 00:38:18,399
+The cerebroplacental ratio (CPR)—defined as middle cerebral artery pulsatility index divided by umbilical artery pulsatility index —is a measure of this adaptation and may be abnormal in severe cases of FGR.
+
+274
+00:38:18,399 --> 00:38:23,199
+An abnormal CPR <1 has been associated with greater risk for
+
+275
+00:38:23,356 --> 00:38:35,356
+earlier delivery, lower birthweight, cesarean delivery, neonatal intensive care unit admission, and perinatal death (DeVore, 2015; Flood, 2014).
+
+276
+00:38:35,306 --> 00:38:44,618
+However, a metaanalysis of 18,731 fetuses found the CPR was not predictive of adverse perinatal outcomes .
+
+277
+00:38:44,618 --> 00:39:03,206
+Management of the Near-term Fetus Delivery of a suspected growth-restricted fetus with normal umbilical artery Doppler velocimetry, normal amnionic fluid volume, and reassuring fetal testing can likely be deferred until 37 to 38 weeks’ gestation (see Fig. 47-6).
+
+278
+00:39:03,206 --> 00:39:10,381
+Expectant management can be guided using antepartum evaluation of fetal well-being described in Chapter 20.
+
+279
+00:39:10,381 --> 00:39:27,481
+If oligohydramnios is present, delivery between 360/7 and 376/7 weeks’ gestation is recommended (American College of Obstetricians and Gynecologists, 2021c; Society for MaternalFetal Medicine, 2020).
+
+280
+00:39:27,481 --> 00:39:32,218
+With a normal fetal heart rate pattern, vaginal delivery is planned.
+
+281
+00:39:32,218 --> 00:39:36,381
+Notably, some of these fetuses do not tolerate labor.
+
+282
+00:39:36,381 --> 00:39:49,256
+Management of the Fetus Remote from Term If growth restriction is identified in a fetus before 34 weeks, and amnionic fluid volume and fetal surveillance findings are normal, observation is recommended.
+
+283
+00:39:49,256 --> 00:39:58,906
+As long as interval fetal growth and fetal surveillance test results are normal, pregnancy is allowed to continue (see Fig. 47-6).
+
+284
+00:39:58,906 --> 00:40:04,093
+Reassessment of fetal growth is typically made no sooner than 3 weeks later.
+
+285
+00:40:04,093 --> 00:40:12,943
+Weekly outpatient assessment of umbilical artery Doppler velocimetry and amnionic fluid volume is combined with fetal well-being testing.
+
+286
+00:40:12,943 --> 00:40:21,343
+If umbilical artery Doppler studies indicate absent or reversed end-diastolic flow, inpatient surveillance is undertaken.
+
+287
+00:40:21,343 --> 00:40:32,081
+During hospitalization, more frequent sonographic evaluations and antenatal testing of fetal well-being and close proximity to labor and delivery are advantages.
+
+288
+00:40:32,081 --> 00:40:37,943
+With growth restriction remote from term, no specific treatment ameliorates the condition.
+
+289
+00:40:37,943 --> 00:40:44,556
+Evidence does not support diminished activity or bed rest to accelerate growth or improve outcomes.
+
+290
+00:40:44,556 --> 00:40:54,943
+Nutrient supplementation, attempts at plasma volume expansion, oxygen therapy, antihypertensive drugs, heparin, and aspirin are all ineffective .
+
+291
+00:40:54,943 --> 00:41:03,668
+Management decisions hinge on assessment of the relative risks of fetal death during expectant management versus the risks from preterm delivery.
+
+292
+00:41:03,668 --> 00:41:10,168
+Reassuring results from fetal well-being tests may allow observation with continued maturation.
+
+293
+00:41:10,168 --> 00:41:25,393
+However, long-term neurological outcome, which theoretically may suffer from additional weeks in an inhospitable intrauterine environment, is a concern (Baschat, 2014; Lees, 2015; Thornton, 2004).
+
+294
+00:41:25,393 --> 00:41:36,156
+Baschat and associates (2009) showed that neurodevelopmental outcome at 2 years in growth-restricted fetuses was best predicted by birthweight and gestational age.
+
+295
+00:41:36,156 --> 00:41:45,906
+Doppler abnormalities are generally not associated with poor childhood cognitive developmental scores among low-birthweight fetuses delivered in the third trimester .
+
+296
+00:41:45,906 --> 00:41:52,031
+These findings emphasize that adverse neurodevelopmental outcomes cannot always be predicted.
+
+297
+00:41:52,031 --> 00:41:54,818
+# Intrapartum Management.
+
+298
+00:41:54,818 --> 00:42:05,731
+When lagging fetal growth is the result of placental insufficiency due to poor maternal perfusion or reduction of functional placenta, the fetal condition may be aggravated by labor.
+
+299
+00:42:05,731 --> 00:42:11,931
+Equally important, oligohydramnios raises the likelihood of cord compression during labor.
+
+300
+00:42:11,931 --> 00:42:17,218
+For these and other reasons, the frequency of cesarean delivery is increased.
+
+301
+00:42:17,218 --> 00:42:22,568
+The risk of neonatal hypoxia or meconium aspiration is also greater.
+
+302
+00:42:22,568 --> 00:42:31,106
+Thus, care for the newborn should be provided immediately by an attendant who can skillfully clear the airway and ventilate a neonate as needed .
+
+303
+00:42:31,106 --> 00:42:43,281
+The severely growth-restricted newborn is particularly susceptible to hypothermia and may also develop other metabolic derangements such as hypoglycemia, polycythemia, and hyperviscosity.
+
+304
+00:42:43,281 --> 00:42:52,393
+Risk is greatest at the lowest extremes of birthweight (Baschat, 2009, 2014; Llurba, 2013).
+
+305
+00:42:52,393 --> 00:42:54,606
+# Outcomes.
+
+306
+00:42:54,606 --> 00:42:59,506
+Lessons learned from SGA neonates inform concerns about FGR.
+
+307
+00:42:59,506 --> 00:43:10,831
+More than 50 years ago, Battaglia and Lubchenco (1967) classified SGA neonates as those whose weights were below the 10th percentile for their gestational age.
+
+308
+00:43:10,831 --> 00:43:12,156
+The
+
+309
+00:43:12,316 --> 00:43:21,028
+mortality rate of SGA neonates born at 38 weeks was 1 percent compared with 0.2 percent in those with larger birthweights.
+
+310
+00:43:20,978 --> 00:43:31,291
+More recent data also indicate that the overall stillbirth rate among SGA neonates approximates 1 percent, which is twice as high as the population prevalence .
+
+311
+00:43:31,291 --> 00:43:36,978
+The risk for abnormal neurological development also is greater in SGA neonates.
+
+312
+00:43:36,978 --> 00:43:54,753
+In an analysis of nearly 3000 newborns born before 27 weeks’ gestation, those weighing <10th percentile had a nearly fourfold higher risk of neonatal death or neurodevelopmental impairment and a nearly threefold greater risk of cerebral palsy compared with non-SGA neonates .
+
+313
+00:43:54,753 --> 00:44:12,703
+In another analysis of more than 91,000 otherwise uncomplicated pregnancies, newborns with birthweights <5th percentile had a higher risk of low 5-minute Apgar score, respiratory distress, necrotizing enterocolitis, and neonatal sepsis than appropriate-weight neonates.
+
+314
+00:44:12,703 --> 00:44:18,666
+The risks of stillbirth and neonatal death were sixfold and fourfold higher, respectively .
+
+315
+00:44:18,666 --> 00:44:24,141
+Newborns at the lowest birthweight percentiles are at greatest risk for adverse outcome.
+
+316
+00:44:24,141 --> 00:44:34,291
+In one study of more than 44,561 neonates, only 14 percent of those weighing <1st percentile at birth survived to discharge .
+
+317
+00:44:34,291 --> 00:44:50,366
+Poor motor, cognitive, language and attention, and behavioral outcomes in growth-restricted newborns unfortunately persist into early childhood and adolescence (Baschat, 2014; Levine, 2015; Rogne, 2015).
+
+318
+00:44:50,366 --> 00:45:00,353
+Early-onset Growth Restriction Perinatal morbidities are further increased in the 30 percent of FGR pregnancies diagnosed prior to 32 weeks’ gestation .
+
+319
+00:45:00,353 --> 00:45:06,741
+Thus, this gestational age is used to demarcate early-onset from late-onset growth restriction .
+
+320
+00:45:06,741 --> 00:45:20,828
+Early-onset FGR is typically more severe and more commonly associated with placental dysfunction and maternal hypertension than late-onset growth restriction (Aviram, 2019; Dall’Asta, 2017).
+
+321
+00:45:20,828 --> 00:45:29,328
+Pregnancies with early-onset FGR have greater rates of umbilical artery Doppler abnormalities compared with those with late onset.
+
+322
+00:45:29,328 --> 00:45:56,378
+Similar to pregnancies complicated by preeclampsia, increased maternal serum levels of antiangiogenic factors that include soluble vascular endothelial growth factor receptor 1 (sVEGFR-1) and soluble fms-like tyrosine kinase 1 (sFlt-1) are reported in pregnancies complicated by early-onset growth restriction (Kingdom, 2018; Korzeniewski, 2016) .
+
+323
+00:45:56,378 --> 00:46:06,491
+Barker Hypothesis Thirty years ago, Barker (1992) hypothesized that adult mortality and morbidity are related to fetal and infant health.
+
+324
+00:46:06,491 --> 00:46:09,728
+This includes both under- and overgrowth.
+
+325
+00:46:09,728 --> 00:46:28,291
+In the context of FGR, numerous reports describe a relationship between suboptimal fetal nutrition and a higher risk of subsequent adult hypertension, atherosclerosis, type 2 diabetes, and metabolic derangement (Colella, 2018; Jornayvaz, 2016).
+
+326
+00:46:28,291 --> 00:46:42,253
+The degree to which low birthweight mediates adult disease is controversial, as weight gain in early life also appears important (Breij, 2014; Kerkhof, 2012; McCloskey, 2016).
+
+327
+00:46:42,253 --> 00:46:48,466
+Evidence suggests that FGR may affect organ development, particularly that of the heart.
+
+328
+00:46:48,466 --> 00:46:57,578
+Individuals with low birthweight demonstrate cardiac structural changes and dysfunction that persist through childhood, adolescence, and adulthood .
+
+329
+00:46:57,578 --> 00:47:06,716
+In one study, 80 infants who were born SGA before 34 weeks’ gestation were compared at 6 months with 80 normally grown infants .
+
+330
+00:47:06,716 --> 00:47:13,628
+The ventricle in SGA infants was more globular, resulting in systolic and diastolic dysfunction.
+
+331
+00:47:13,628 --> 00:47:23,441
+In another study, echocardiography in 418 adolescents showed that low birthweight was associated with a thicker left ventricular posterior wall .
+
+332
+00:47:23,441 --> 00:47:28,016
+However, these findings have unclear long-term significance .
+
+333
+00:47:28,016 --> 00:47:34,053
+Growth restriction is also associated with postnatal structural and functional renal changes.
+
+334
+00:47:34,053 --> 00:47:47,166
+Luyckx and Brenner (2015) concluded that both low and high birthweight, maternal obesity, and gestational diabetes adversely affect in-utero development of the kidney and its health into adulthood.
+
+335
+00:47:47,166 --> 00:47:57,928
+However, other variables that include childhood nutrition, acute kidney injury, excessive childhood weight gain, and obesity also worsen long-term renal function.
+
+336
+00:47:57,928 --> 00:47:59,628
+#
+
+337
+00:47:59,788 --> 00:48:01,438
+Prevention.
+
+338
+00:48:01,388 --> 00:48:05,163
+Ideally, prevention begins before conception.
+
+339
+00:48:05,163 --> 00:48:11,963
+Maternal medical conditions are treated, and medications are modified to help lower FGR risks.
+
+340
+00:48:11,963 --> 00:48:14,663
+Smoking cessation is critical.
+
+341
+00:48:14,663 --> 00:48:25,163
+Other risk factors are tailored to the maternal condition, such as antimalarial prophylaxis for women living in endemic areas and correction of nutritional deficiencies.
+
+342
+00:48:25,163 --> 00:48:31,113
+Treatment of mild to moderate hypertension does not reduce the incidence of SGA newborns .
+
+343
+00:48:31,113 --> 00:48:35,838
+Currently, no pharmacologic therapies prevent growth restriction.
+
+344
+00:48:35,838 --> 00:48:43,300
+Considerable study of low-dose aspirin therapy has not demonstrated consistent benefit in low-risk pregnancies.
+
+345
+00:48:43,300 --> 00:48:51,088
+Daily aspirin therapy did not reduce the risk for SGA neonates in a randomized trial of 1700 women .
+
+346
+00:48:51,088 --> 00:49:09,113
+Two large metaanalyses involving more than 20,000 women did find that low-dose aspirin was associated with a significantly lower risk of FGR, whether initiated prior to or after 16 weeks’ gestation (Meher, 2017; Roberge, 2017).
+
+347
+00:49:09,113 --> 00:49:16,450
+A Cochrane database analysis showed a small reduction in the risk of SGA neonates with maternal aspirin therapy .
+
+348
+00:49:16,450 --> 00:49:25,775
+However, these studies included women at risk for preeclampsia, and the modest decrease in the risk for growth restriction was a secondary finding.
+
+349
+00:49:25,775 --> 00:49:45,263
+Because evidence in women without risk factors for preeclampsia is lacking, aspirin therapy for the prevention of FGR is not recommended (American College of Obstetricians and Gynecologists, 2020a, 2021a; Society for Maternal-Fetal Medicine, 2020) Fetal Macrosomia.
+
+350
+00:49:45,263 --> 00:49:47,488
+# Definition.
+
+351
+00:49:47,488 --> 00:50:00,125
+The term macrosomia is used rather imprecisely to describe a fetus whose estimated weight exceeds a threshold—typically 4000 g, 4500 g, or even 5000 g .
+
+352
+00:50:00,125 --> 00:50:11,538
+Although obstetricians generally agree that neonates weighing <4000 g are not excessively large, a similar consensus has not been reached for the definition of macrosomia.
+
+353
+00:50:11,538 --> 00:50:20,025
+Large for gestational age (LGA) denotes a fetus or newborn whose weight exceeds the 90th percentile for gestational age.
+
+354
+00:50:20,025 --> 00:50:26,238
+Similar to SGA, the term LGA does not imply that growth is necessarily abnormal.
+
+355
+00:50:26,238 --> 00:50:31,763
+Indeed, most such neonates are simply constitutionally larger than their peers.
+
+356
+00:50:31,763 --> 00:50:38,925
+The 90th percentile for birthweight at 39 weeks’ gestation approximates 3900 g .
+
+357
+00:50:38,925 --> 00:50:44,825
+Thus, most LGA neonates would not meet any of the common definitions of macrosomia.
+
+358
+00:50:44,825 --> 00:51:02,675
+In the United States in 2019, 6.4 percent of all newborns weighed 4000 to 4499 g; 0.9 percent weighed 4500 to 4999 g; and 0.1 percent were born weighing ≥5000 g .
+
+359
+00:51:02,675 --> 00:51:16,763
+Similarly, during a 30-year period at Parkland Hospital, during which more than 350,000 singletons were born, only 1.4 percent of neonates weighed ≥4500 g .
+
+360
+00:51:16,763 --> 00:51:25,825
+We are of the view that the upper limit of fetal growth, above which growth can be deemed abnormal, is likely to be two standard deviations above the mean.
+
+361
+00:51:25,825 --> 00:51:29,450
+This represents perhaps 3 percent of births.
+
+362
+00:51:29,450 --> 00:51:37,775
+At 40 weeks, such a threshold would correspond to approximately 4500 g. Table 47-2.
+
+363
+00:51:37,775 --> 00:51:48,300
+Birthweight Distribution of 354,509 Liveborn Infants at Parkland Hospital between 1988 and 2012 # Detection.
+
+364
+00:51:48,300 --> 00:51:57,188
+Because current methods fail to accurately estimate excessive fetal size, macrosomia cannot be definitively diagnosed until delivery .
+
+365
+00:51:57,188 --> 00:52:05,775
+Inaccuracy in estimates of fetal weight, by either fundal height measurement or sonography, are often attributable to maternal obesity.
+
+366
+00:52:05,775 --> 00:52:18,113
+In one study of 502 patients with sonographic estimated fetal weights >4000 g within 2 weeks of delivery, the risk of birthweight overestimation was >50 percent .
+
+367
+00:52:18,113 --> 00:52:29,050
+Of those who underwent cesarean delivery for suspected LGA, almost 30 percent delivered a neonate weighing <4000 g. # Pathophysiology.
+
+368
+00:52:29,050 --> 00:52:41,738
+Particularly in women with diabetes and elevated cord blood levels of insulin-like growth factor 1, fetal macrosomia is associated with greater neonatal fat mass and morphological heart changes.
+
+369
+00:52:41,738 --> 00:52:50,113
+Pedersen (1954) first proposed that hyperglycemia leads to fetal hyperinsulinemia and fetal overgrowth.
+
+370
+00:52:50,113 --> 00:53:03,725
+This has been extended to organ dysmorphia, for example, increased interventricular septal thickness in neonates of mothers with gestational diabetes (Aman, 2011; Garcia-Flores, 2011).
+
+371
+00:53:03,725 --> 00:53:07,413
+The cardiopulmonary vasculature also is
+
+372
+00:53:07,564 --> 00:53:11,239
+adversely affected by diabetes in pregnancy.
+
+373
+00:53:11,189 --> 00:53:23,514
+In 3277 cases of persistent pulmonary hypertension of the newborn, maternal obesity, diabetes, and both deficient and excessive fetal growth were independent risk factors .
+
+374
+00:53:23,514 --> 00:53:32,964
+Long-term metabolic consequences of fetal macrosomia in the setting of maternal obesity are discussed in Chapter 51 (p. 907).
+
+375
+00:53:32,964 --> 00:53:35,351
+# Risk Factors.
+
+376
+00:53:35,351 --> 00:53:41,464
+Some factors associated with fetal macrosomia are listed in Table 47-3.
+
+377
+00:53:41,464 --> 00:53:43,726
+Many are interrelated.
+
+378
+00:53:43,726 --> 00:53:52,264
+Advancing age usually correlates with multiparity and risk for diabetes, and obesity is similarly associated with diabetes.
+
+379
+00:53:52,264 --> 00:54:06,264
+In one study, the birth prevalence of macrosomia exceeded 24 percent among obese women in China, and macrosomia rates were approximately 2.5-fold higher for prolonged pregnancy and gestational diabetes .
+
+380
+00:54:06,264 --> 00:54:09,464
+As shown in Table 47-2.
+
+381
+00:54:09,464 --> 00:54:15,526
+maternal diabetes is strongly associated with neonates weighing >4000 g.
+
+382
+00:54:15,526 --> 00:54:32,289
+In a prospective study of 682 consecutive pregnancies complicated by diabetes, women with type 1 diabetes were significantly more likely than women with type 2 diabetes to have a neonate weighing above the 90th and 97.7th percentiles .
+
+383
+00:54:32,289 --> 00:54:44,001
+Higher third-trimester glucose concentration correlates with fetal macrosomia, and hemoglobin A1c and fasting glucose values are independent predictors of macrosomia risk .
+
+384
+00:54:44,001 --> 00:54:51,264
+Notably, maternal diabetes is associated with only a small percentage of the total number of LGA newborns.
+
+385
+00:54:51,264 --> 00:54:53,789
+TABLE 47-3.
+
+386
+00:54:53,789 --> 00:54:58,076
+Risk Factors for Fetal Macrosomia # Management.
+
+387
+00:54:58,076 --> 00:55:04,201
+Several interventions have been proposed to interdict suspected or “impending” fetal overgrowth.
+
+388
+00:55:04,201 --> 00:55:12,589
+Exercise in pregnancy is beneficial to the mother, does not increase the risk for growth impairment, and decreases macrosomia risk.
+
+389
+00:55:12,589 --> 00:55:30,026
+One metaanalysis of 28 studies involving 5322 women concluded that exercise reduces the risk of an LGA newborn or birthweight >4000 g without raising the risk of an SGA neonate or birthweight <2500 g .
+
+390
+00:55:30,026 --> 00:55:41,239
+Similarly, others have concluded that aerobic exercise increases the likelihood of a normal weight neonate (Di Mascio, 2016; Perales, 2016).
+
+391
+00:55:41,239 --> 00:55:53,151
+For women with diabetes, insulin therapy and glycemic control may lower the prevalence of neonatal macrosomia but have not consistently translated into reduced cesarean delivery rates.
+
+392
+00:55:53,151 --> 00:56:08,951
+Fetal macrosomia, irrespective of the diagnosis of diabetes mellitus, is strongly associated with maternal obesity and excessive gestational weight gain (Durie, 2011; Durst, 2016; Harper, 2015).
+
+393
+00:56:08,951 --> 00:56:17,076
+Currently recommended weight gains for pregnancy according to maternal BMI are described in Chapter 10 (p. 183).
+
+394
+00:56:17,076 --> 00:56:24,939
+Prophylactic” Labor Induction Some clinicians have induced labor when fetal macrosomia was suspected in nondiabetic women.
+
+395
+00:56:24,939 --> 00:56:34,464
+The rationale for this approach was to obviate further fetal growth and, in theory, reduce the risk of delivery complications or cesarean delivery.
+
+396
+00:56:34,464 --> 00:56:48,201
+In a systematic review of 11 studies of expectant management compared with labor induction for suspected macrosomia, labor induction significantly increased cesarean delivery rates without improving perinatal outcomes .
+
+397
+00:56:48,201 --> 00:57:08,514
+In contrast, Magro-Malosso and colleagues (2017) performed a metaanalysis of four randomized trials involving 1190 women and concluded that labor induction at ≥38 weeks’ gestation for suspected macrosomia significantly reduces the frequency of fetal overgrowth and fractures.
+
+398
+00:57:08,514 --> 00:57:18,264
+In one of these studies, 822 women with suspected LGA fetuses were randomly assigned either to early-term delivery or to expectant management .
+
+399
+00:57:18,264 --> 00:57:25,139
+There was a higher rate of vaginal delivery that was marginally significant and a lower composite measure of morbidity.
+
+400
+00:57:25,139 --> 00:57:32,101
+The authors cautioned that any benefits should be balanced with the risks of early-term labor induction and delivery.
+
+401
+00:57:32,101 --> 00:57:43,851
+Namely, a review of early-term births indicates that elective delivery before 39 weeks’ gestation does not improve maternal outcomes and is associated with worse neonatal outcomes .
+
+402
+00:57:43,851 --> 00:57:58,089
+We agree with the American College of Obstetricians and Gynecologists (2019a, 2020b) that current evidence does not support a policy for early labor induction or delivery before 39 weeks’ gestation.
+
+403
+00:57:58,089 --> 00:57:59,689
+Elective
+
+404
+00:57:59,860 --> 00:58:11,497
+Cesarean Delivery With the delivery of macrosomic neonates, shoulder dystocia and its attendant risks described in Chapter 27 (p. 501) are major concerns.
+
+405
+00:58:11,447 --> 00:58:16,535
+That said, 9 percent of these injuries still follow cesarean delivery .
+
+406
+00:58:16,535 --> 00:58:26,785
+Therefore, planned cesarean delivery on the basis of suspected macrosomia to prevent brachial plexopathy is an unreasonable strategy in the general population .
+
+407
+00:58:26,785 --> 00:58:38,760
+Ecker and coworkers (1997) analyzed 80 cases of brachial plexus injury in 77,616 consecutive newborns at Brigham and Women’s Hospital.
+
+408
+00:58:38,760 --> 00:58:49,835
+They concluded that an excessive number of otherwise unnecessary cesarean deliveries would be needed to prevent a single brachial plexus injury in neonates born to women without diabetes.
+
+409
+00:58:49,835 --> 00:58:58,747
+Others echoed these sentiments in their analysis of nondiabetic mothers (Rouse, 1996; Van der Looven, 2020).
+
+410
+00:58:58,747 --> 00:59:22,935
+Conversely, planned cesarean delivery may be a reasonable strategy for diabetic women with an estimated fetal weight >4250 or >4500 g. Conway and Langer (1998) described a protocol of routine cesarean delivery for sonographic estimates of ≥4250 g in diabetic women.
+
+411
+00:59:22,935 --> 00:59:29,710
+This management significantly lowered the shoulder dystocia rate from 2.4 to 1.1 percent.
+
+412
+00:59:29,710 --> 00:59:43,010
+In summary, we agree with the American College of Obstetricians and Gynecologists that elective delivery for the fetus that is suspected to be overgrown is inadvisable, particularly before 39 weeks’ gestation.
+
+413
+00:59:43,010 --> 01:00:03,060
+Last, we also conclude that elective cesarean delivery is not indicated when estimated fetal weight is <5000 g among women without diabetes and <4500 g among women with diabetes (American College of Obstetricians and Gynecologists, 2019a, 2020b).
+
+414
+01:00:03,060 --> 01:00:05,272
+# Outcomes.
+
+415
+01:00:05,272 --> 01:00:09,922
+The adverse consequences of excessive fetal growth are considerable.
+
+416
+01:00:09,922 --> 01:00:16,672
+Neonates with a birthweight of at least 4000 g have cesarean delivery rates exceeding 50 percent.
+
+417
+01:00:16,672 --> 01:00:30,197
+This is particularly true with maternal obesity or diabetes or with birthweights >5000 g (Cordero, 2015; Crosby, 2017; Hehir, 2015).
+
+418
+01:00:30,197 --> 01:00:36,322
+Neonatal morbidity is higher in LGA neonates compared with those with lower birthweights.
+
+419
+01:00:36,322 --> 01:00:48,285
+Macrosomic newborns have higher rates of shoulder dystocia, obstetrical brachial plexus injuries, and birth fractures (Beta, 2019; Chauhan, 2017).
+
+420
+01:00:48,285 --> 01:00:56,922
+Rates of shoulder dystocia vary greatly and can reach nearly 30 percent for macrosomic neonates when maternal diabetes is comorbid .
+
+421
+01:00:56,922 --> 01:01:12,035
+In general obstetrical populations that include diabetic mothers, dystocia rates are at least 5 percent for neonates with birthweights ≥5000 g (Crosby, 2017; Hehir, 2015).
+
+422
+01:01:12,035 --> 01:01:18,460
+The risk for stillbirth is greater with macrosomia, and this risk rises with increasing birth weight .
+
+423
+01:01:18,460 --> 01:01:29,172
+Rates of postpartum hemorrhage, perineal laceration, and maternal infection, which are related complications, also are higher in mothers delivering overgrown newborns.
+
+424
+01:01:29,172 --> 01:01:38,260
+Table 47-4 shows maternal and neonatal outcomes by birthweight for neonates >4000 g delivered at Parkland Hospital.
+
+425
+01:01:38,260 --> 01:01:40,872
+Table 47-4.
+
+426
+01:01:40,872 --> 01:01:49,885
+Maternal and Fetal Outcomes for 208,090 Pregnancies Delivered at Parkland Hospital from 1998 through 2012
+

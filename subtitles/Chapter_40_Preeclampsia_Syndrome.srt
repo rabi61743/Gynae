@@ -1,0 +1,2952 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,575
+Chapter 40: Preeclampsia Syndrome.
+
+3
+00:00:05,575 --> 00:00:22,662
+Terminology And Diagnosis Incidence And Risk Factors Etiopathogenesis Pathophysiology Prediction Prevention References Hypertensive disorders include preeclampsia, gestational hypertension, and chronic hypertension and complicate up to 10 percent of pregnancies.
+
+4
+00:00:22,662 --> 00:00:30,887
+As a group, they are one member of the deadly triad—along with hemorrhage and infection—that contributes greatly to maternal morbidity .
+
+5
+00:00:30,887 --> 00:00:37,275
+Preeclampsia, either alone or superimposed on chronic hypertension, is the most dangerous.
+
+6
+00:00:37,275 --> 00:00:47,437
+In the United States from 2011 to 2015, 7 percent of pregnancy-related maternal deaths were caused by preeclampsia or eclampsia .
+
+7
+00:00:47,437 --> 00:00:51,400
+Most hypertension-related deaths are deemed preventable .
+
+8
+00:00:51,400 --> 00:01:01,025
+In response, Joint Commission (2019) accredited hospitals are now required to track their recognition and timely treatment of hypertension.
+
+9
+00:01:01,025 --> 00:01:08,962
+In 2018, a workshop to study preeclampsia was convened by the National Heart, Lung, and Blood Institute.
+
+10
+00:01:08,962 --> 00:01:18,600
+This builds on the prior work of the American College of Obstetricians and Gynecologists’ Task Force on Hypertension in Pregnancy (2013).
+
+11
+00:01:18,600 --> 00:01:25,912
+Its purpose was to review topics regarding all aspects of preeclampsia and to recommend future research areas.
+
+12
+00:01:25,912 --> 00:01:31,012
+Many of these topics are discussed throughout this chapter and Chapter 41.
+
+13
+00:01:31,012 --> 00:01:33,750
+Terminology And Diagnosis.
+
+14
+00:01:33,750 --> 00:01:47,812
+To codify the classification of hypertensive disorders of pregnancy, the American College of Obstetricians and Gynecologists (2013, 2020) describes four types of hypertensive disease: 1.
+
+15
+00:01:47,812 --> 00:01:51,250
+Preeclampsia and eclampsia syndrome 2.
+
+16
+00:01:51,250 --> 00:01:54,787
+Chronic hypertension of any etiology 3.
+
+17
+00:01:54,787 --> 00:01:59,075
+Preeclampsia superimposed on chronic hypertension 4.
+
+18
+00:01:59,075 --> 00:02:08,650
+Gestational hypertension, in which definitive evidence for the preeclampsia syndrome does not develop and hypertension resolves by 12 weeks postpartum.
+
+19
+00:02:08,650 --> 00:02:17,450
+This classification aims to differentiate preeclampsia syndrome, which is potentially more ominous, from other hypertensive disorders.
+
+20
+00:02:17,450 --> 00:02:21,187
+# Diagnosis of Hypertensive Disorders.
+
+21
+00:02:21,187 --> 00:02:32,187
+Hypertension is diagnosed empirically when systolic and diastolic blood pressures exceed 140 mm Hg and 90 mm Hg, respectively.
+
+22
+00:02:32,187 --> 00:02:36,512
+Korotkoff phase V is used to define diastolic pressure.
+
+23
+00:02:36,512 --> 00:02:54,912
+Previously for pregnant women, increases of 30 mm Hg systolic or 15 mm Hg diastolic above blood pressure values taken at midpregnancy had also been used as diagnostic criteria, even when absolute values were <140/90 mm Hg.
+
+24
+00:02:54,912 --> 00:02:59,687
+These incremental changes are no longer used to define hypertension.
+
+25
+00:02:59,687 --> 00:03:10,750
+However, blood pressure surveillance in these gravidas is reasonable because eclamptic seizures develop in some whose blood pressures have stayed below 140/90 mm Hg .
+
+26
+00:03:10,750 --> 00:03:24,375
+In other cases, mean arterial pressures that suddenly rise but that still lie in normal range—“delta hypertension”—may signify preeclampsia (Macdonald-Wallis, 2012; Zeeman, 2007).
+
+27
+00:03:24,375 --> 00:03:34,987
+We use this term to describe a relatively acute rise in blood pressure in individual patients, albeit some still with pressures <140/90 mm Hg .
+
+28
+00:03:34,987 --> 00:03:47,812
+Some of these women will go on to have obvious preeclampsia, and some even develop eclamptic seizures or hemolysis, elevated liver enzyme levels, and low platelet count (HELLP) syndrome.
+
+29
+00:03:47,812 --> 00:03:50,125
+Figure 40-1.
+
+30
+00:03:50,125 --> 00:03:56,387
+Schematic of normal reference ranges for mean arterial blood pressure changes across pregnancy.
+
+31
+00:03:56,387 --> 00:04:02,425
+Patient A (blue) has mean blood pressures near the 20th percentile throughout pregnancy.
+
+32
+00:04:02,425 --> 00:04:13,862
+Patient B (red) has a similar pattern with mean pressures at the 25th percentile until approximately 36 weeks’ gestation, at which time her blood pressure begins to rise.
+
+33
+00:04:13,862 --> 00:04:21,125
+By term, it is substantively higher and in the 75th percentile, but she is still considered “normotensive.
+
+34
+00:04:21,125 --> 00:04:27,175
+This increase from the 25th to 75th percentile can be termed “delta hypertension.
+
+35
+00:04:27,175 --> 00:04:40,125
+Historically, systolic and diastolic blood pressure levels of 140/90 mm Hg have been arbitrarily used since the 1950s to define “hypertension” in nonpregnant individuals.
+
+36
+00:04:40,125 --> 00:04:47,237
+However, these levels were selected by insurance companies to characterize a population of middle-aged men.
+
+37
+00:04:47,237 --> 00:04:53,100
+It seems more realistic to define normal-range blood pressures for specific populations—
+
+38
+00:04:53,260 --> 00:04:59,822
+such as young, healthy, pregnant women (Lu, 2019; Reddy, 2020).
+
+39
+00:04:59,772 --> 00:05:06,672
+To provide such data, >1000 women were recently studied longitudinally through pregnancy .
+
+40
+00:05:06,672 --> 00:05:10,147
+Data of this type may shape future thresholds.
+
+41
+00:05:10,147 --> 00:05:13,185
+# Gestational Hypertension.
+
+42
+00:05:13,185 --> 00:05:23,760
+Women with gestational hypertension have blood pressures that reach 140/90 mm Hg or greater for the first time after midpregnancy but lack proteinuria.
+
+43
+00:05:23,760 --> 00:05:28,447
+Almost half of affected women subsequently develop preeclampsia .
+
+44
+00:05:28,447 --> 00:05:38,660
+Even so, when blood pressure rises appreciably, it is dangerous to both mother and fetus to ignore this elevation only because proteinuria has not yet developed .
+
+45
+00:05:38,660 --> 00:05:47,247
+As Chesley (1985) emphasized, 10 percent of eclamptic seizures develop before overt proteinuria can be detected.
+
+46
+00:05:47,247 --> 00:05:57,847
+Gestational hypertension is reclassified by some as transient hypertension if preeclampsia does not develop and blood pressure returns to normal by 12 weeks postpartum.
+
+47
+00:05:57,847 --> 00:06:00,735
+# Preeclampsia Syndrome.
+
+48
+00:06:00,735 --> 00:06:07,735
+Preeclampsia is best described as a pregnancy-specific syndrome that can affect virtually every organ system.
+
+49
+00:06:07,735 --> 00:06:17,172
+Although preeclampsia is more than simply gestational hypertension with proteinuria, the appearance of protein remains a primary diagnostic criterion.
+
+50
+00:06:17,172 --> 00:06:24,447
+It is an objective marker and reflects the system-wide endothelial leak that characterizes the preeclampsia syndrome.
+
+51
+00:06:24,447 --> 00:06:45,047
+Last, preeclampsia can be divided into early onset, <34 weeks; late onset, ≥34 weeks; preterm onset, <37 weeks; and term onset, ≥37 weeks (Burton, 2019; Poon, 2019).
+
+52
+00:06:45,047 --> 00:06:51,697
+In some women with preeclampsia, neither overt proteinuria nor fetalgrowth restriction are features .
+
+53
+00:06:51,697 --> 00:07:00,935
+Because of this, the Task Force (2013) suggests other diagnostic criteria, some of which are shown in Table 40-1.
+
+54
+00:07:00,935 --> 00:07:12,285
+Multiorgan involvement may be reflected by thrombocytopenia, renal dysfunction, hepatocellular necrosis, central nervous system perturbations, or pulmonary edema.
+
+55
+00:07:12,285 --> 00:07:14,535
+Table 40-1.
+
+56
+00:07:14,535 --> 00:07:24,997
+Classification and Diagnosis of Pregnancy-Associated Hypertension The markers listed in Table 40-1 help also to classify preeclampsia syndrome severity.
+
+57
+00:07:24,997 --> 00:07:34,722
+Although many use a dichotomous “mild” and “severe” classification, the Task Force (2013) discourages the use of “mild preeclampsia.
+
+58
+00:07:34,722 --> 00:07:51,285
+It is problematic that there are criteria for the diagnosis of “severe” preeclampsia, but the binary default classification is either implied or specifically termed “mild,” “less severe,” or “nonsevere” (Alexander, 2003; Lindheimer, 2008).
+
+59
+00:07:51,285 --> 00:07:57,735
+No consensus criteria define “moderate” preeclampsia, which is an elusive third category.
+
+60
+00:07:57,735 --> 00:08:10,660
+We use the criteria recommended by the American College of Obstetricians and Gynecologists (2020), some of which are listed in Table 40-2 and categorize disease as “severe” versus “nonsevere.
+
+61
+00:08:10,660 --> 00:08:12,972
+Table 40-2.
+
+62
+00:08:12,972 --> 00:08:19,660
+Indicators of Severity of Gestational Hypertensive Disordersa Some symptoms are considered ominous.
+
+63
+00:08:19,660 --> 00:08:28,622
+Headaches or visual disturbances can precede eclampsia, which is a convulsion in a woman with preeclampsia that is not attributable to another cause.
+
+64
+00:08:28,622 --> 00:08:33,810
+The seizures are generalized and may appear before, during, or after labor.
+
+65
+00:08:33,810 --> 00:08:44,085
+The proportion that develops seizures later—after 48 hours postpartum—approximates 10 percent (Sibai, 2005; Zwart, 2008).
+
+66
+00:08:44,085 --> 00:08:53,497
+Another symptom, epigastric or right upper quadrant pain, frequently accompanies hepatocellular necrosis, ischemia, and hepatic edema.
+
+67
+00:08:53,497 --> 00:08:58,085
+Elevated serum hepatic transaminase levels can be one marker.
+
+68
+00:08:58,085 --> 00:09:03,272
+Last, thrombocytopenia also signifies worsening preeclampsia.
+
+69
+00:09:03,272 --> 00:09:09,285
+It represents platelet activation and aggregation and microangiopathic hemolysis.
+
+70
+00:09:09,285 --> 00:09:15,235
+Other factors indicative of severe preeclampsia include renal or cardiac involvement.
+
+71
+00:09:15,235 --> 00:09:22,597
+When these signs and symptoms are profound, they likely cannot be temporized, and delivery will more likely be required.
+
+72
+00:09:22,597 --> 00:09:34,560
+Importantly, differentiating nonsevere and severe gestational hypertension or preeclampsia can be misleading because what might be apparently mild disease may progress rapidly to severe disease.
+
+73
+00:09:34,560 --> 00:09:39,172
+# Preeclampsia Superimposed on Chronic Hypertension.
+
+74
+00:09:39,172 --> 00:09:45,910
+Any chronic hypertensive disorder predisposes a woman to develop superimposed preeclampsia syndrome.
+
+75
+00:09:45,910 --> 00:09:47,447
+Chronic
+
+76
+00:09:47,596 --> 00:09:59,933
+underlying hypertension is diagnosed in women with documented blood pressures ≥140/90 mm Hg before pregnancy or before 20 weeks’ gestation, or both.
+
+77
+00:09:59,883 --> 00:10:07,621
+Thus, in women who are not first seen until after midpregnancy, hypertensive disorders can be difficult to classify.
+
+78
+00:10:07,621 --> 00:10:17,296
+For example, a woman with previously undiagnosed chronic vascular disease who is seen before 20 weeks frequently has blood pressures within normal range.
+
+79
+00:10:17,296 --> 00:10:29,046
+During the third trimester, however, as blood pressures return to their originally hypertensive levels, it may be difficult to determine whether hypertension is chronic or induced by pregnancy.
+
+80
+00:10:29,046 --> 00:10:42,646
+Even a careful search for evidence of preexisting end-organ damage may be futile, as many of these women have mild disease and no evidence of ventricular hypertrophy, retinal vascular changes, or renal involvement.
+
+81
+00:10:42,646 --> 00:10:52,658
+In 20 to 50 percent of women with chronic hypertension, blood pressure rises to obviously abnormal levels, typically after 24 weeks’ gestation.
+
+82
+00:10:52,658 --> 00:11:04,083
+If new-onset or worsening baseline hypertension is accompanied by new-onset proteinuria or other findings listed in Table 40-1, superimposed preeclampsia is diagnosed .
+
+83
+00:11:04,083 --> 00:11:11,058
+Compared with “pure” preeclampsia, superimposed preeclampsia commonly develops earlier in pregnancy.
+
+84
+00:11:11,058 --> 00:11:16,396
+It tends to be more severe and more often is accompanied by fetal-growth restriction.
+
+85
+00:11:16,396 --> 00:11:24,083
+The same criteria shown in Table 40-2 also further characterize the severity of superimposed preeclampsia.
+
+86
+00:11:24,083 --> 00:11:26,571
+Incidence And Risk Factors.
+
+87
+00:11:26,571 --> 00:11:35,396
+Preeclampsia is identified in 5 to 8 percent of all pregnancies (Jim, 2017; Poon, 2019).
+
+88
+00:11:35,396 --> 00:11:44,733
+Young and nulliparous women are particularly vulnerable, whereas older women are at greater risk for chronic hypertension with superimposed preeclampsia .
+
+89
+00:11:44,733 --> 00:11:51,908
+In one review of global studies, the incidence of preeclampsia in nulliparas ranged from 3 to 10 percent .
+
+90
+00:11:51,908 --> 00:12:00,158
+In multiparas, the incidence ranges from 2 to 5 percent (Jim, 2017; Poon, 2019).
+
+91
+00:12:00,158 --> 00:12:07,171
+The incidence of preeclampsia is also influenced by race, ethnicity, and genetic predisposition.
+
+92
+00:12:07,171 --> 00:12:23,083
+In one study by the Maternal–Fetal Medicine Units (MFMU) Network, the incidence of preeclampsia was 5 percent in white, 9 percent in Hispanic, and 11 percent in African American nulliparas (Myatt, 2012a,b).
+
+93
+00:12:23,083 --> 00:12:28,983
+In addition, black women carry higher risk for associated severe adverse outcomes .
+
+94
+00:12:28,983 --> 00:12:39,721
+For several clinical factors, Bartsch and associates (2016) extracted data from more than 25 million pregnancies and calculated relative risks .
+
+95
+00:12:39,721 --> 00:12:46,933
+Major risks include older age, nulliparity, obesity, diabetes, and chronic hypertension.
+
+96
+00:12:46,933 --> 00:12:54,533
+Another is preeclampsia and especially HELLP syndrome in a prior pregnancy (Malström, 2020).
+
+97
+00:12:54,533 --> 00:13:04,883
+Underlying metabolic syndrome, hyperhomocysteinemia, or chronic kidney disease are others (Masoudian, 2016; Wiles, 2020).
+
+98
+00:13:04,883 --> 00:13:07,183
+Table 40-3.
+
+99
+00:13:07,183 --> 00:13:26,958
+Selected Clinical Risk Factors for Preeclampsia Of lesser factors, human immunodeficiency virus (HIV) seropositivity, sleep-disordered breathing, and a male fetus pose a slightly higher risk (Facco, 2017; Jaskolka, 2017; Sansone, 2016).
+
+100
+00:13:26,958 --> 00:13:40,121
+Previously affected family members are another, and maternal and fetal genetics are assuming greater predictive importance (Burton, 2019; Gray, 2018; Phipps, 2019).
+
+101
+00:13:40,121 --> 00:13:44,821
+Last, preeclampsia frequently complicates the “mirror syndrome” .
+
+102
+00:13:44,821 --> 00:13:54,096
+Although smoking during pregnancy causes various adverse pregnancy outcomes, ironically, it lowers the risk for hypertension during pregnancy.
+
+103
+00:13:54,096 --> 00:14:00,371
+For eclampsia, seizure incidence has declined in areas where health care is more readily available.
+
+104
+00:14:00,371 --> 00:14:13,571
+In countries with adequate resources, the incidence averages 1 case in 2000 to 3000 deliveries (Jaatinen, 2016; O’Connor, 2013; Schaap, 2019).
+
+105
+00:14:13,571 --> 00:14:21,858
+At Parkland Hospital, the incidence has declined appreciably during the past decade and approximates 1 case in 2000 births .
+
+106
+00:14:21,858 --> 00:14:28,496
+This frequency may be related to improved access to prenatal care and our active management approach .
+
+107
+00:14:28,496 --> 00:14:30,783
+Figure 40-2.
+
+108
+00:14:30,783 --> 00:14:38,633
+Incidence of eclampsia per 10,000 deliveries at Parkland Hospital (p <0.05 for trend).
+
+109
+00:14:38,633 --> 00:14:40,971
+Etiopathogenesis.
+
+110
+00:14:40,971 --> 00:14:46,858
+The mechanisms by which pregnancy incites or aggravates hypertension remain unsolved.
+
+111
+00:14:46,858 --> 00:14:50,058
+Any satisfactory theory concerning the
+
+112
+00:14:50,212 --> 00:15:16,962
+origins of preeclampsia must account for the observation that gestational hypertensive disorders are more likely to develop in women with the following characteristics: • Exposure to chorionic villi for the first time • Exposure to a superabundance of chorionic villi, as with twins or hydatidiform mole • Preexisting conditions associated with endothelial cell activation or inflammation • Genetic predisposition to hypertension developing during pregnancy.
+
+113
+00:15:16,962 --> 00:15:21,112
+A fetus is not a requisite for preeclampsia to develop.
+
+114
+00:15:21,112 --> 00:15:25,849
+Although chorionic villi are essential, they need not be intrauterine.
+
+115
+00:15:25,849 --> 00:15:31,387
+For example, preeclampsia can develop with an advanced abdominal pregnancy .
+
+116
+00:15:31,387 --> 00:15:44,624
+Regardless of precipitating etiology, the cascade of promoting events leads to systemic vascular endothelial damage, vasospasm, plasma transudation, and ischemic and thrombotic sequelae.
+
+117
+00:15:44,624 --> 00:15:47,462
+# Phenotypic Expression.
+
+118
+00:15:47,462 --> 00:15:57,474
+This varies widely for preeclampsia, and phenotype is affected by the degree of remodeling of uterine spiral arterioles by endovascular trophoblasts.
+
+119
+00:15:57,474 --> 00:16:03,362
+This process underlies the “two-stage disorder” theory of preeclampsia pathogenesis.
+
+120
+00:16:03,362 --> 00:16:16,674
+According to Redman and coworkers (2015), stage I—the placental syndrome—is caused by faulty endovascular trophoblastic remodeling that downstream causes stage II—the maternal syndrome.
+
+121
+00:16:16,674 --> 00:16:25,349
+Importantly, stage II can be modified by maternal conditions that also manifest endothelial cell activation or inflammation.
+
+122
+00:16:25,349 --> 00:16:33,974
+These include chronic hypertension, renal disease, obesity, immunological or connective tissue disorders, and diabetes.
+
+123
+00:16:33,974 --> 00:16:39,999
+Such staging is artificial, and preeclampsia syndrome presents a spectrum of disease .
+
+124
+00:16:39,999 --> 00:16:44,937
+Moreover, “isoforms” likely exist and are discussed subsequently.
+
+125
+00:16:44,937 --> 00:16:59,349
+Differences include maternal and fetal characteristics, placental findings, genetic factors, and early- versus lateonset disease (Gray, 2018; Phipps, 2019; Poon, 2019).
+
+126
+00:16:59,349 --> 00:17:01,662
+# Etiology.
+
+127
+00:17:01,662 --> 00:17:27,924
+Of suggested mechanisms to explain the cause of preeclampsia, primary ones include: • Placental implantation with abnormal trophoblastic invasion of uterine vessels • Dysfunctional immunological tolerance between maternal, paternal (placental), and fetal tissues • Maternal maladaptation to cardiovascular or inflammatory changes of normal pregnancy • Genetic factors that include predisposing genes and epigenetic influences.
+
+128
+00:17:27,924 --> 00:17:31,274
+# Stage I—Placental Syndrome.
+
+129
+00:17:31,274 --> 00:17:42,812
+Normal placental implantation, as discussed in Chapter 5 (p. 90), is characterized by extensive remodeling of the spiral arterioles within the decidua basalis .
+
+130
+00:17:42,812 --> 00:17:50,312
+In this “placental bed,” endovascular trophoblasts replace the vascular endothelial and muscular linings.
+
+131
+00:17:50,312 --> 00:17:54,187
+This advantageously enlarges arteriole diameter .
+
+132
+00:17:54,187 --> 00:17:57,337
+Veins are invaded only superficially.
+
+133
+00:17:57,337 --> 00:18:03,599
+In some preeclampsia cases, but not all, trophoblastic invasion may be incomplete.
+
+134
+00:18:03,599 --> 00:18:11,049
+With this, decidual vessels, but not myometrial vessels, become lined with endovascular trophoblasts.
+
+135
+00:18:11,049 --> 00:18:17,849
+The deeper myometrial arterioles thus do not lose their endothelial lining and musculoelastic tissue.
+
+136
+00:18:17,849 --> 00:18:24,999
+As a result, their mean external diameter is only half that of corresponding vessels in normal placentas .
+
+137
+00:18:24,999 --> 00:18:30,037
+This mechanism is more prevalent in women with early-onset preeclampsia .
+
+138
+00:18:30,037 --> 00:18:37,837
+Evidence suggests a critical role for soluble antiangiogenic growth factors in this faulty endovascular remodeling .
+
+139
+00:18:37,837 --> 00:18:40,212
+Figure 40-3.
+
+140
+00:18:40,212 --> 00:18:48,624
+Schematic representation of normal placental implantation shows proliferation of extravillous trophoblasts from an anchoring villus.
+
+141
+00:18:48,624 --> 00:18:59,187
+These trophoblasts invade the decidua and extend into the walls of the spiral arteriole to replace the endothelium and muscular wall to create a dilated lowresistance vessel.
+
+142
+00:18:59,187 --> 00:19:09,124
+With preeclampsia, there is defective implantation characterized by incomplete invasion of the spiral arteriolar wall by extravillous trophoblasts.
+
+143
+00:19:09,124 --> 00:19:13,724
+This results in a small-caliber vessel with high resistance to flow.
+
+144
+00:19:13,724 --> 00:19:28,012
+From placental electron microscopy studies, early preeclamptic changes include endothelial damage, insudation of plasma constituents into vessel walls, myointimal cell proliferation, and medial necrosis .
+
+145
+00:19:28,012 --> 00:19:31,799
+Hertig (1945) referred to lipid
+
+146
+00:19:31,948 --> 00:19:37,098
+accumulation in myointimal cells and macrophages as atherosis.
+
+147
+00:19:37,048 --> 00:19:44,523
+These findings are more common in placentas from women diagnosed with preeclampsia before 34 weeks’ gestation .
+
+148
+00:19:44,523 --> 00:19:54,485
+Acute placental vascular atherosis may also identify a group of women at greater risk for atherosclerosis and cardiovascular disease later in life .
+
+149
+00:19:54,485 --> 00:20:04,448
+In pregnancy, abnormally narrow spiral arteriole lumens likely impair placental blood flow, reduce perfusion, and create a hypoxic environment .
+
+150
+00:20:04,448 --> 00:20:12,035
+At this point, these changes incite a systemic inflammatory response, which is stage II or the maternal syndrome.
+
+151
+00:20:12,035 --> 00:20:31,073
+Defective placentation is posited to further predispose affected women to gestational hypertension, preeclampsia syndrome, preterm delivery, fetal growth-restriction, and placental abruption (Brosens, 2019; Labarrere, 2017; Nelson, 2014).
+
+152
+00:20:31,073 --> 00:20:40,673
+Immunological Factors Maternal immune tolerance to paternally derived placental and fetal antigens is discussed in Chapter 5 (p. 85).
+
+153
+00:20:40,673 --> 00:20:45,110
+Loss of this tolerance is another cited theory for preeclampsia .
+
+154
+00:20:45,110 --> 00:20:53,423
+Certainly, histological changes at the maternal–placental interface in those with preeclampsia suggest acute graft rejection.
+
+155
+00:20:53,423 --> 00:21:00,435
+Tolerance dysregulation might also explain the elevated risk when the paternal antigenic load is increased.
+
+156
+00:21:00,435 --> 00:21:07,335
+One example is complete molar pregnancies, which have diploid complement of chromosomes solely from the father.
+
+157
+00:21:07,335 --> 00:21:13,010
+Those with later-stage moles, have a high incidence of early-onset preeclampsia.
+
+158
+00:21:13,010 --> 00:21:19,810
+Women with a trisomy 13 fetus also have a 30- to 40-percent incidence of preeclampsia.
+
+159
+00:21:19,810 --> 00:21:27,710
+The gene for one preeclampsia-linked factor, soluble fmslike tyrosine kinase 1, is on chromosome 13 .
+
+160
+00:21:27,710 --> 00:21:35,960
+These women have elevated serum levels of antiangiogenic factors, which can affect the placenta (p. 694).
+
+161
+00:21:35,960 --> 00:21:45,360
+Last, women previously exposed to paternal antigens, such as a prior pregnancy with the same partner, may be “immunized” against preeclampsia.
+
+162
+00:21:45,360 --> 00:21:51,323
+Conversely, multiparas impregnated by a new partner have a greater risk of preeclampsia .
+
+163
+00:21:51,323 --> 00:21:59,660
+Burton and colleagues (2019) reviewed the possible role of immune maladaptation in preeclampsia pathophysiology.
+
+164
+00:21:59,660 --> 00:22:11,635
+In women destined to have preeclampsia, extravillous trophoblasts early in pregnancy express reduced amounts of immunosuppressive nonclassic human leukocyte antigen G (HLAG).
+
+165
+00:22:11,635 --> 00:22:22,535
+Black women more commonly have the 1597∆C gene allele, which is associated with incomplete HLA-G expression and may predispose to preeclampsia .
+
+166
+00:22:22,535 --> 00:22:29,535
+This immune maladaptation may contribute to the defective placental vascularization seen with preeclampsia.
+
+167
+00:22:29,535 --> 00:22:41,323
+As discussed in Chapter 4 (p. 61), T-helper (Th) lymphocytes during normal pregnancy are produced so that type 2 activity is increased in relation to type 1.
+
+168
+00:22:41,323 --> 00:22:48,085
+This is the so-called type 2 bias (Phipps, 2019; Redman, 2015).
+
+169
+00:22:48,085 --> 00:22:55,973
+Th2 cells promote humoral immunity, whereas Th1 cells stimulate inflammatory cytokine secretion .
+
+170
+00:22:55,973 --> 00:23:02,973
+Beginning in the early second trimester in women who develop preeclampsia, Th1 action is increased.
+
+171
+00:23:02,973 --> 00:23:08,985
+Genetic Factors Preeclampsia appears to be a multifactorial, polygenic disorder.
+
+172
+00:23:08,985 --> 00:23:18,273
+In one study of almost 1.2 million Swedish births, a genetic association was found for gestational hypertension and for preeclampsia .
+
+173
+00:23:18,273 --> 00:23:34,073
+Ward and Taylor (2015) cite an incident risk for preeclampsia of 20 to 40 percent for daughters of preeclamptic mothers; 11 to 37 percent for sisters of preeclamptic women; and 22 to 47 percent for twins.
+
+174
+00:23:34,073 --> 00:23:41,260
+Ethnoracial factors are important and evidenced by the high incidence of preeclampsia in African American women.
+
+175
+00:23:41,260 --> 00:23:47,910
+Latina women have a lower incidence because of interactions of American Indian and white race genes .
+
+176
+00:23:47,910 --> 00:24:06,085
+The hereditary predisposition for preeclampsia likely stems from interactions of literally hundreds of inherited genes—both maternal and paternal—that control many enzymatic and metabolic functions throughout every organ system (Burton, 2019; Triche, 2014).
+
+177
+00:24:06,085 --> 00:24:14,785
+Plasma-derived factors may induce some of these genes in preeclampsia (Leseva, 2020; Mackenzie, 2012).
+
+178
+00:24:14,785 --> 00:24:21,585
+Thus, the clinical manifestation in any given woman with the preeclampsia syndrome will reflect a spectrum.
+
+179
+00:24:21,585 --> 00:24:24,785
+In this regard, phenotypic expression
+
+180
+00:24:24,940 --> 00:24:30,940
+will differ among similar genotypes depending on interactions with environmental components .
+
+181
+00:24:30,890 --> 00:24:42,177
+Hundreds of genes have been studied for their possible association with preeclampsia (Buurma, 2013; Sakowicz, 2016; Ward, 2015).
+
+182
+00:24:42,177 --> 00:24:51,165
+However, because of the complex phenotypic expression of preeclampsia, it is doubtful that any one candidate gene will be found responsible.
+
+183
+00:24:51,165 --> 00:25:02,402
+Last, a preeclampsia predisposition has also been linked to genes of the fetus (Burton, 2019; Gray, 2018; Leseva, 2020).
+
+184
+00:25:02,402 --> 00:25:05,827
+# Stage II—Maternal Syndrome.
+
+185
+00:25:05,827 --> 00:25:12,765
+Endothelial Cell Activation Inflammatory changes are believed to be a continuation of the placental syndrome.
+
+186
+00:25:12,765 --> 00:25:24,340
+In response to ischemia or other inciting causes, placental factors are released and initiate a series of events (Burton, 2019; Davidge, 2015).
+
+187
+00:25:24,340 --> 00:25:38,390
+Thus, antiangiogenic and metabolic factors and other inflammatory leukocyte mediators are thought to provoke the systemic endotheliopathy, which is used synonymously here with endothelial cell activation or dysfunction.
+
+188
+00:25:38,390 --> 00:25:48,690
+Injury to systemic endothelial cells is seen as a centerpiece of preeclampsia pathogenesis (Burton, 2019; Phipps, 2019).
+
+189
+00:25:48,690 --> 00:25:55,415
+Cellular dysfunction may result from an extreme activated state of leukocytes in the maternal circulation .
+
+190
+00:25:55,415 --> 00:26:06,890
+Briefly, cytokines such as tumor necrosis factor α (TNF-α) and the interleukins may contribute to the systemic oxidative stress associated with preeclampsia.
+
+191
+00:26:06,890 --> 00:26:12,027
+This is characterized by generation of highly toxic oxygen radicals.
+
+192
+00:26:12,027 --> 00:26:21,465
+These injure systemic vascular endothelial cells, lower nitric oxide production by these cells, and interfere with prostaglandin balance.
+
+193
+00:26:21,465 --> 00:26:39,815
+Other sequelae include production of the lipid-laden macrophage foam cells seen in placental atherosis; activation of systemic microvascular coagulation, which is manifested by thrombocytopenia; and greater systemic capillary permeability, which is reflected by edema and proteinuria.
+
+194
+00:26:39,815 --> 00:26:44,077
+Intact endothelium has anticoagulant properties.
+
+195
+00:26:44,077 --> 00:26:52,765
+Also, systemic endothelial cells, by releasing nitric oxide, blunt the response of vascular smooth muscle to agonists.
+
+196
+00:26:52,765 --> 00:27:02,590
+Injured or activated endothelial cells may produce less nitric oxide and may secrete substances that promote coagulation and vasopressor sensitivity.
+
+197
+00:27:02,590 --> 00:27:17,927
+Further evidence of endothelial activation includes changes in glomerular capillary endothelial morphology, greater capillary permeability, and elevated blood concentrations of substances associated with endothelial activations.
+
+198
+00:27:17,927 --> 00:27:28,302
+Likely, multiple factors in the plasma of preeclamptic women combine to exert these vasoactive effects (Myers, 2007; Walsh, 2009).
+
+199
+00:27:28,302 --> 00:27:34,215
+Vasospasm and Hypertension Vasospasm has long been associated with preeclampsia.
+
+200
+00:27:34,215 --> 00:27:41,502
+Systemic endothelial activation causes vasospasm, which elevates resistance to produce hypertension.
+
+201
+00:27:41,502 --> 00:27:51,465
+Concurrently, systemic endothelial cell injury promotes interstitial leakage, and platelets and fibrinogen are deposited in the subendothelial space.
+
+202
+00:27:51,465 --> 00:28:04,090
+Endothelial junctional proteins are also disrupted, and the subendothelial region of resistance arteries undergoes ultrastructural change (Suzuki, 2003; Wang, 2002).
+
+203
+00:28:04,090 --> 00:28:07,877
+The much larger venous circuit is similarly involved.
+
+204
+00:28:07,877 --> 00:28:20,027
+With diminished blood flow because of maldistribution from vasospasm and interstitial leakage, ischemia of the surrounding tissues can cause necrosis, hemorrhage, and other end-organ disturbances.
+
+205
+00:28:20,027 --> 00:28:28,052
+One important clinical correlate to these changes is the markedly attenuated blood volume seen in women with severe preeclampsia .
+
+206
+00:28:28,052 --> 00:28:37,777
+Increased Pressor Responses As discussed in Chapter 4 (p. 53), pregnant women normally develop refractoriness to infused vasopressors .
+
+207
+00:28:37,777 --> 00:28:50,615
+Women with early preeclampsia, however, have enhanced vascular reactivity to infused norepinephrine and angiotensin II (Raab, 1956; Talledo, 1968).
+
+208
+00:28:50,615 --> 00:28:58,252
+Moreover, increased sensitivity to angiotensin II clearly precedes the onset of gestational hypertension .
+
+209
+00:28:58,252 --> 00:29:05,665
+Paradoxically, women who develop preterm preeclampsia have lower circulating levels of angiotensin II .
+
+210
+00:29:05,665 --> 00:29:11,865
+Numerous prostaglandins are thought to be central to preeclampsia syndrome pathophysiology.
+
+211
+00:29:11,865 --> 00:29:17,027
+Specifically, the blunted pressor response seen in normal pregnancy is at
+
+212
+00:29:17,188 --> 00:29:24,375
+least partially due to diminished vascular responsiveness mediated by endothelial prostaglandin synthesis.
+
+213
+00:29:24,325 --> 00:29:33,375
+For example, compared with normal pregnancy, endothelial prostacyclin (PGI2) production is lower in preeclampsia.
+
+214
+00:29:33,375 --> 00:29:37,713
+This action appears to be mediated by phospholipase A2 .
+
+215
+00:29:37,713 --> 00:29:46,813
+At the same time, thromboxane A2 secretion by platelets is increased, and the prostacyclin: thromboxane A2 ratio declines.
+
+216
+00:29:46,813 --> 00:29:53,225
+The net result favors greater sensitivity to infused angiotensin II and vasoconstriction .
+
+217
+00:29:53,225 --> 00:29:59,463
+These changes appear as early as 22 weeks in gravidas who later develop preeclampsia .
+
+218
+00:29:59,463 --> 00:30:06,188
+Nitric oxide is a potent vasodilator and is synthesized from 1-arginine by endothelial cells.
+
+219
+00:30:06,188 --> 00:30:16,238
+Inhibition of nitric oxide synthesis raises mean arterial pressure, lowers heart rate, and reverses the pregnancy-induced refractoriness to vasopressors.
+
+220
+00:30:16,238 --> 00:30:25,075
+Nitric oxide likely is the compound that maintains the normal low-pressure vasodilated state characteristic of normal fetoplacental perfusion .
+
+221
+00:30:25,075 --> 00:30:34,525
+Nitric oxide mediates the effects of placental growth factor (PlGF) and vascular endothelial growth factor (VEGF) in vitro .
+
+222
+00:30:34,525 --> 00:30:39,413
+The effects of nitric oxide production in preeclampsia are unclear.
+
+223
+00:30:39,413 --> 00:30:48,213
+It appears that the syndrome is associated with decreased endothelial nitric oxide synthase expression and thus lower nitric oxide activity .
+
+224
+00:30:48,213 --> 00:30:53,775
+Endothelins are 21-amino-acid peptides and potent vasoconstrictors.
+
+225
+00:30:53,775 --> 00:30:59,888
+Endothelin l (ET-1) is the primary isoform produced by human endothelium .
+
+226
+00:30:59,888 --> 00:31:04,688
+Plasma ET-1 levels are elevated in normotensive pregnant women.
+
+227
+00:31:04,688 --> 00:31:11,125
+Women with preeclampsia have even higher levels, and these peptides may mediate renal injury .
+
+228
+00:31:11,125 --> 00:31:18,400
+Woman with preeclampsia develop functional autoantibodies to the endothelin and angiotensin II receptors .
+
+229
+00:31:18,400 --> 00:31:25,650
+Interestingly, treatment of preeclamptic women with magnesium sulfate lowers ET-1 concentrations .
+
+230
+00:31:25,650 --> 00:31:30,863
+In animal studies, sildenafil reduces ET-1 concentrations .
+
+231
+00:31:30,863 --> 00:31:38,763
+Angiogenic and Antiangiogenic Factors Placental vasculogenesis is evident by 21 days after conception.
+
+232
+00:31:38,763 --> 00:31:49,363
+The list of pro- and antiangiogenic substances involved in placental vascular development is extensive, and the VEGF and angiopoietin families are the most studied.
+
+233
+00:31:49,363 --> 00:31:59,963
+Angiogenic imbalance describes excessive amounts of antiangiogenic factors, which are thought to be stimulated by worsening hypoxia at the uteroplacental interface.
+
+234
+00:31:59,963 --> 00:32:08,900
+Trophoblast of women destined to develop preeclampsia overproduce at least two antiangiogenic peptides that enter the maternal circulation .
+
+235
+00:32:08,900 --> 00:32:18,563
+First, soluble fms-like tyrosine kinase 1 (sF1t-1) is a soluble variant of the membrane-bound receptor for VEGF.
+
+236
+00:32:18,563 --> 00:32:30,963
+As depicted in Figure 40-4, elevated maternal sFlt-1 levels inactivate and reduce circulating PlGF and VEGF concentrations, leading to endothelial dysfunction .
+
+237
+00:32:30,963 --> 00:32:41,363
+As shown in data from Myatt and coworkers (2013), sFlt-1 levels begin to rise in maternal serum months before preeclampsia is evident .
+
+238
+00:32:41,363 --> 00:32:52,075
+These high levels in the second trimester are associated with a much higher risk for preeclampsia development (Haggerty, 2012; March, 2015).
+
+239
+00:32:52,075 --> 00:32:57,425
+This elevation from normal levels appears even sooner with early-onset disease .
+
+240
+00:32:57,425 --> 00:33:03,163
+These factors are also operative in pregnancies complicated by fetalgrowth restriction .
+
+241
+00:33:03,163 --> 00:33:05,488
+Figure 40-4.
+
+242
+00:33:05,488 --> 00:33:14,950
+Schematic of receptor blocking action of soluble fms-like tyrosine kinase 1 (sFlt-1) and soluble endoglin (sENG).
+
+243
+00:33:14,950 --> 00:33:17,413
+Figure 40-5.
+
+244
+00:33:17,413 --> 00:33:25,963
+Angiogenic and antiangiogenic factors in normotensive (NT) and preeclamptic (PE) women across pregnancy.
+
+245
+00:33:25,963 --> 00:33:32,263
+Both pairs of factors are significantly divergent by 23 to 26 weeks’ gestation.
+
+246
+00:33:32,263 --> 00:33:40,388
+sFlt-1 = soluble fms-like tyrosine kinase 1; PlGF = placental growth factor.
+
+247
+00:33:40,388 --> 00:33:54,488
+A second antiangiogenic peptide, soluble endoglin (sEng), inhibits various transforming growth factor beta (TGF-β) isoforms from binding to endothelial receptors (see Fig. 40-4).
+
+248
+00:33:54,488 --> 00:33:57,288
+Endoglin is one of these receptors.
+
+249
+00:33:57,288 --> 00:34:03,625
+Decreased binding to endoglin diminishes endothelial nitric oxide-dependent vasodilation.
+
+250
+00:34:03,625 --> 00:34:09,650
+Serum levels of sEng also begin to rise months before clinical preeclampsia develops .
+
+251
+00:34:09,650 --> 00:34:17,388
+Simultaneously elevated levels of sFlt-1 and sEng are associated with more severe forms of preeclampsia .
+
+252
+00:34:17,388 --> 00:34:19,600
+In one systematic
+
+253
+00:34:19,756 --> 00:34:31,543
+review, third-trimester increases in sFlt-1 levels and lower PlGF concentrations were found to correlate with preeclampsia development after 25 weeks’ gestation .
+
+254
+00:34:31,493 --> 00:34:41,256
+From another study, doubling of sFlt-1 and sEng expression increased the preeclampsia risk by 39 and 74 percent, respectively .
+
+255
+00:34:41,256 --> 00:34:47,031
+The cause of placental overproduction of antiangiogenic proteins remains an enigma.
+
+256
+00:34:47,031 --> 00:34:57,793
+Concentrations of the soluble forms are not higher in fetal circulation or amnionic fluid of preeclamptic women, and their levels in maternal blood dissipate after delivery .
+
+257
+00:34:57,793 --> 00:35:06,793
+Clinical use of antiangiogenic protein levels to predict and diagnosis preeclampsia is being evaluated (p. 703).
+
+258
+00:35:06,793 --> 00:35:13,943
+Moreover, one preliminary report described therapeutic apheresis to reduce sFlt-1 levels .
+
+259
+00:35:13,943 --> 00:35:16,181
+Pathophysiology.
+
+260
+00:35:16,181 --> 00:35:19,181
+# Cardiovascular System.
+
+261
+00:35:19,181 --> 00:35:24,581
+Disturbances in the cardiovascular system are common with preeclampsia syndrome.
+
+262
+00:35:24,581 --> 00:35:48,868
+These are related to: (1) greater cardiac afterload imposed by hypertension; (2) cardiac preload, which is reduced by a pathologically diminished volume expansion during pregnancy and which is increased by administration of intravenous crystalloid or oncotic solutions; and (3) endothelial activation leading to leakage of intravascular fluid into the extracellular space.
+
+263
+00:35:48,868 --> 00:35:57,143
+Hemodynamic Changes and Cardiac Function The cardiovascular aberrations of pregnancy-related hypertensive disorders vary.
+
+264
+00:35:57,143 --> 00:36:08,381
+Modifying factors include preeclampsia severity, degree of hypertension, presence of underlying chronic disease, and the point in the clinical spectrum in which these are studied.
+
+265
+00:36:08,381 --> 00:36:19,368
+In some women, these cardiovascular changes may precede hypertension (Easterling, 1990; Khalil, 2012; Melchiorre, 2013).
+
+266
+00:36:19,368 --> 00:36:28,356
+Nevertheless, with the clinical onset of preeclampsia, cardiac output declines, due at least in part to greater peripheral resistance .
+
+267
+00:36:28,356 --> 00:36:41,393
+Myocardial Function Serial echocardiographic studies document diastolic dysfunction in up to 45 percent of women with preeclampsia (Guirguis, 2015; Vaught, 2018).
+
+268
+00:36:41,393 --> 00:36:47,393
+With this dysfunction, ventricles do not properly relax and cannot fill appropriately.
+
+269
+00:36:47,393 --> 00:36:57,218
+In some affected women, functional differences persist up to 4 years after delivery (Evans, 2011; Orabona, 2017).
+
+270
+00:36:57,218 --> 00:37:08,093
+Diastolic dysfunction stems from ventricular remodeling, which is a maladaptive response to the increased afterload of preeclampsia and aims to maintain normal contractility.
+
+271
+00:37:08,093 --> 00:37:12,693
+High levels of antiangiogenic proteins may be contributory .
+
+272
+00:37:12,693 --> 00:37:18,043
+In otherwise healthy gravidas, these changes are usually inconsequential.
+
+273
+00:37:18,043 --> 00:37:31,006
+But in those with underlying ventricular dysfunction—for example, concentric ventricular hypertrophy from chronic hypertension— further diastolic dysfunction may cause cardiogenic pulmonary edema .
+
+274
+00:37:31,006 --> 00:37:38,081
+This is discussed further in Chapters 50 (p. 883) and 52 (p. 916).
+
+275
+00:37:38,081 --> 00:37:48,731
+Ventricular Function Despite the relatively high frequency of diastolic dysfunction with preeclampsia, clinical cardiac function in most affected women is appropriate .
+
+276
+00:37:48,731 --> 00:37:55,081
+In some preeclamptic women, high-sensitivity cardiac troponin levels are slightly elevated .
+
+277
+00:37:55,081 --> 00:38:03,331
+With severe preeclampsia, amino-terminal pro–brain natriuretic peptide (NT–pro-BNP) levels are increased .
+
+278
+00:38:03,331 --> 00:38:09,256
+Women with preeclampsia syndrome usually have slightly hyperdynamic ventricular function .
+
+279
+00:38:09,256 --> 00:38:16,493
+Both these and normotensive pregnant women have a cardiac output that is appropriate for left-sided filling pressures.
+
+280
+00:38:16,493 --> 00:38:20,631
+This pressure can be altered by intravenous fluid volumes.
+
+281
+00:38:20,631 --> 00:38:26,481
+Thus, aggressive hydration results in overtly hyperdynamic ventricular function.
+
+282
+00:38:26,481 --> 00:38:35,431
+This is accompanied by elevated pulmonary capillary wedge pressures, and pulmonary edema may develop despite normal ventricular function.
+
+283
+00:38:35,431 --> 00:38:45,206
+This is partly because of an alveolar endothelial-epithelial leak, and it is compounded by decreased oncotic pressure from a low serum albumin concentration.
+
+284
+00:38:45,206 --> 00:38:59,118
+In sum, aggressive fluid administration to otherwise normal women with severe preeclampsia substantially elevates normal left-sided filling pressures and raises a physiologically normal cardiac output to hyperdynamic levels.
+
+285
+00:38:59,118 --> 00:39:01,543
+Figure 40-6.
+
+286
+00:39:01,543 --> 00:39:07,368
+Ventricular function in normally pregnant women (striped area) and in women with
+
+287
+00:39:07,540 --> 00:39:13,215
+eclampsia (boxed area) is plotted on a Braunwald ventricular function curve.
+
+288
+00:39:13,165 --> 00:39:20,465
+Normal values are from Clark, 1989, and those for eclampsia are from Hankins, 1984.
+
+289
+00:39:20,465 --> 00:39:29,090
+PCWP = pulmonary capillary wedge pressure; LVSWI = left ventricular stroke work index.
+
+290
+00:39:29,090 --> 00:39:31,427
+# Blood Volume.
+
+291
+00:39:31,427 --> 00:39:36,202
+In those with eclampsia, hemoconcentration is a hallmark feature .
+
+292
+00:39:36,202 --> 00:39:44,977
+Data from Zeeman and associates (2009) show that normally expected pregnancy blood volume expansion is severely curtailed .
+
+293
+00:39:44,977 --> 00:39:56,702
+Women of average size have a nonpregnant blood volume of 3000 mL, and during the last several weeks of a normal pregnancy, this averages 4500 mL .
+
+294
+00:39:56,702 --> 00:40:04,090
+With eclampsia, however, much or all of the anticipated 1500 mL excess is lost.
+
+295
+00:40:04,090 --> 00:40:13,902
+Such hemoconcentration results from generalized vasospasm that follows endothelial activation and then from leakage of plasma into the interstitial space.
+
+296
+00:40:13,902 --> 00:40:20,815
+In women with preeclampsia—depending on its severity— hemoconcentration is usually not as marked.
+
+297
+00:40:20,815 --> 00:40:23,202
+Figure 40-7.
+
+298
+00:40:23,202 --> 00:40:28,252
+Total blood volumes in normotensive women compared with those with eclampsia.
+
+299
+00:40:28,252 --> 00:40:32,640
+The vertical extensions are one standard deviation from the mean.
+
+300
+00:40:32,640 --> 00:40:39,840
+In the eclamptic women, note the minimally increased blood volume compared with a subsequent normotensive pregnancy.
+
+301
+00:40:39,840 --> 00:40:43,915
+These changes have substantial clinical consequences.
+
+302
+00:40:43,915 --> 00:40:51,665
+Women with severe hemoconcentration are unduly sensitive to blood loss at delivery that otherwise may be considered normal.
+
+303
+00:40:51,665 --> 00:41:00,040
+Vasospasm and endothelial leakage of plasma persist for a variable time after delivery as the endothelium is restored to normal.
+
+304
+00:41:00,040 --> 00:41:08,765
+As this takes place, vasoconstriction reverses, and as the blood volume reexpands, the hematocrit usually falls from dilution.
+
+305
+00:41:08,765 --> 00:41:15,590
+Importantly, a substantive cause of this fall in hematocrit frequently is the blood loss incurred at delivery.
+
+306
+00:41:15,590 --> 00:41:18,552
+# Hematological Changes.
+
+307
+00:41:18,552 --> 00:41:25,152
+Thrombocytopenia The platelet count is routinely measured in women with any form of gestational hypertension.
+
+308
+00:41:25,152 --> 00:41:36,602
+The frequency and intensity of thrombocytopenia vary and are dependent on the severity and duration of preeclampsia (Hellmann, 2007; Hupuczi, 2007).
+
+309
+00:41:36,602 --> 00:41:44,765
+Overt thrombocytopenia—defined by a platelet count <100,000/µL—reflects severe disease .
+
+310
+00:41:44,765 --> 00:41:51,927
+In general, the lower the platelet count, the higher the likelihood of maternal and fetal morbidity and mortality.
+
+311
+00:41:51,927 --> 00:41:57,815
+In most cases, delivery is advisable because thrombocytopenia usually worsens.
+
+312
+00:41:57,815 --> 00:42:03,352
+After delivery, the platelet count may continue to decline for the first day or so.
+
+313
+00:42:03,352 --> 00:42:08,965
+It then usually rises progressively to reach a normal level within 3 to 5 days.
+
+314
+00:42:08,965 --> 00:42:16,965
+As discussed later, in some instances with HELLP syndrome, the platelet count continues to fall after delivery.
+
+315
+00:42:16,965 --> 00:42:27,277
+If this nadir is delayed until 48 to 72 hours, preeclampsia syndrome may be incorrectly attributed to one of the thrombotic microangiopathies .
+
+316
+00:42:27,277 --> 00:42:32,702
+Another platelet alteration is platelet activation and increased αdegranulation.
+
+317
+00:42:32,702 --> 00:42:38,865
+This leads to release of β-thromboglobulin and factor 4 and to enhanced platelet clearance .
+
+318
+00:42:38,865 --> 00:42:43,640
+Platelet volume concomitantly increases as young platelets are released .
+
+319
+00:42:43,640 --> 00:42:52,577
+Paradoxically, in most studies, in vitro platelet aggregation is reduced compared with the normal increase that is characteristic of pregnancy.
+
+320
+00:42:52,577 --> 00:42:57,602
+This likely is due to platelet “exhaustion” following in-vivo activation.
+
+321
+00:42:57,602 --> 00:43:06,365
+Although the cause is unknown, immunological processes or simply platelet deposition at sites of endothelial damage may be implicated.
+
+322
+00:43:06,365 --> 00:43:14,827
+Levels of platelet-bound and circulating platelet-bindable immunoglobulins are elevated, which suggests platelet surface alterations.
+
+323
+00:43:14,827 --> 00:43:26,790
+Abnormally low platelet levels do not develop in the fetuses of women with preeclampsia despite severe maternal thrombocytopenia (Kenny, 2015; Pritchard, 1987).
+
+324
+00:43:26,790 --> 00:43:33,615
+Thus, thrombocytopenia in a hypertensive woman is not a fetal indication for cesarean delivery.
+
+325
+00:43:33,615 --> 00:43:44,840
+Hemolysis Severe preeclampsia is frequently accompanied by hemolysis, which manifests as elevated serum lactate dehydrogenase levels and reduced haptoglobin levels .
+
+326
+00:43:44,840 --> 00:43:57,765
+Other evidence comes from schizocytosis, spherocytosis, and reticulocytosis in peripheral blood (Cunningham, 1985; Pritchard, 1954, 1976).
+
+327
+00:43:57,765 --> 00:44:01,352
+Red cell distribution width (RDW)
+
+328
+00:44:01,516 --> 00:44:09,391
+reflects variability in the size of circulating red blood cells, and RDW is higher in preeclamptic women .
+
+329
+00:44:09,341 --> 00:44:18,766
+These derangements result in part from microangiopathic hemolysis caused by endothelial disruption with platelet adherence and fibrin deposition.
+
+330
+00:44:18,766 --> 00:44:28,566
+Cunningham and coworkers (1995) postulated that erythrocyte morphological changes were partially caused by serum lipid alterations.
+
+331
+00:44:28,566 --> 00:44:36,466
+Related, substantively decreased long-chain fatty acid content is found in erythrocytes of women with preeclampsia .
+
+332
+00:44:36,466 --> 00:44:49,378
+After early reports of hemolysis and thrombocytopenia with severe preeclampsia, descriptions were added of abnormally elevated serum liver transaminase levels that indicated hepatocellular necrosis .
+
+333
+00:44:49,378 --> 00:44:57,778
+Weinstein (1982) referred to this combination of events as the HELLP syndrome (p. 699).
+
+334
+00:44:57,778 --> 00:45:10,966
+Coagulation Changes Subtle changes consistent with intravascular coagulation commonly are found with preeclampsia and eclampsia (Cunningham, 2015; von Dadelszen, 2018).
+
+335
+00:45:10,966 --> 00:45:24,853
+Some include elevated factor VIII consumption, increased levels of fibrinopeptides A and B and of D-dimers, and reduced concentrations of the regulatory proteins—antithrombin III and proteins C and S.
+
+336
+00:45:24,853 --> 00:45:34,178
+Coagulation aberrations generally are mild and seldom clinically significant (Kenny, 2015; Pritchard, 1984).
+
+337
+00:45:34,178 --> 00:45:42,703
+Unless placental abruption is comorbid, plasma fibrinogen levels do not differ remarkably from levels found in normal pregnancy .
+
+338
+00:45:42,703 --> 00:45:52,203
+As preeclampsia worsens, so do abnormal findings with thromboelastography, which is described in Chapter 44 (p. 774) .
+
+339
+00:45:52,203 --> 00:46:09,716
+Despite these changes, routine laboratory assessments of coagulation, such as prothrombin time (PT), activated partial thromboplastin time (aPTT), and plasma fibrinogen level, are not required in the management of pregnancy-associated hypertensive disorders.
+
+340
+00:46:09,716 --> 00:46:13,278
+# Endocrine and Hormonal Alterations.
+
+341
+00:46:13,278 --> 00:46:25,841
+Plasma levels of renin, angiotensin II, aldosterone, deoxycorticosterone, and atrial natriuretic peptide (ANP) are substantively augmented during normal pregnancy.
+
+342
+00:46:25,841 --> 00:46:33,878
+ANP is released during atrial wall stretching from blood volume expansion, and it responds to cardiac contractility .
+
+343
+00:46:33,878 --> 00:46:40,703
+Serum ANP levels rise in pregnancy, and its secretion is further enhanced in preeclampsia .
+
+344
+00:46:40,703 --> 00:46:47,741
+Levels of its precursor—proatrial natriuretic peptide—also are elevated in preeclampsia.
+
+345
+00:46:47,741 --> 00:46:59,453
+Vasopressin levels are similar in nonpregnant, in normally pregnant, and in preeclamptic women, although its metabolic clearance is elevated in the latter two (Dürr, 1999).
+
+346
+00:46:59,453 --> 00:47:03,078
+# Fluid and Electrolyte Alterations.
+
+347
+00:47:03,078 --> 00:47:13,278
+In women with severe preeclampsia, the volume of extracellular fluid, which manifests as edema, is usually much greater than that in normal pregnant women.
+
+348
+00:47:13,278 --> 00:47:22,341
+The mechanism responsible for pathological fluid retention is endothelial injury and subsequent extravasation of intravascular fluid.
+
+349
+00:47:22,341 --> 00:47:26,578
+Affected women also have reduced plasma oncotic pressure.
+
+350
+00:47:26,578 --> 00:47:31,791
+This further displaces intravascular fluid into the surrounding interstitium.
+
+351
+00:47:31,791 --> 00:47:39,491
+In women with preeclampsia, electrolyte concentrations do not differ appreciably from those of normal pregnant women.
+
+352
+00:47:39,491 --> 00:47:50,441
+Following an eclamptic convulsion, the serum pH and bicarbonate concentration are lowered due to lactic acidosis and compensatory respiratory loss of carbon dioxide.
+
+353
+00:47:50,441 --> 00:48:01,803
+The intensity of acidosis relates to the amount of lactic acid produced— metabolic acidosis—and the rate at which carbon dioxide is exhaled—respiratory acidosis.
+
+354
+00:48:01,803 --> 00:48:03,816
+# Kidney.
+
+355
+00:48:03,816 --> 00:48:10,928
+During normal pregnancy, renal blood flow and glomerular filtration rate (GFR) rise appreciably .
+
+356
+00:48:10,928 --> 00:48:16,178
+With preeclampsia, several reversible physiological changes ensue.
+
+357
+00:48:16,178 --> 00:48:21,516
+Of clinical importance, renal perfusion and GFR are slightly reduced.
+
+358
+00:48:21,516 --> 00:48:33,716
+Most of the decrement in GFR is from increased renal afferent arteriolar resistance that may be elevated up to fivefold (Conrad, 2015; Cornelis, 2011).
+
+359
+00:48:33,716 --> 00:48:40,491
+Morphological changes are characterized by glomerular endotheliosis, which blocks filtration .
+
+360
+00:48:40,491 --> 00:48:51,241
+Diminished filtration causes serum creatinine levels to rise to values seen in nonpregnant individuals, that is, 1 mg/mL, and sometimes higher.
+
+361
+00:48:51,241 --> 00:48:54,953
+Acute kidney injury is discussed subsequently.
+
+362
+00:48:54,953 --> 00:48:58,266
+Plasma uric acid concentration is
+
+363
+00:48:58,420 --> 00:49:01,507
+typically elevated in preeclampsia.
+
+364
+00:49:01,457 --> 00:49:09,245
+The elevation exceeds that attributable to the reduced GFR and likely is also due to enhanced tubular reabsorption .
+
+365
+00:49:09,245 --> 00:49:18,657
+At the same time, preeclampsia is associated with diminished urinary excretion of calcium, perhaps because of greater tubular reabsorption .
+
+366
+00:49:18,657 --> 00:49:26,195
+Proteinuria Detection of proteinuria helps to establish the diagnosis of preeclampsia (see Table 40-1.
+
+367
+00:49:26,195 --> 00:49:46,332
+Abnormal protein excretion is empirically defined by 24-hour urinary excretion exceeding 300 mg; a spot urine protein: creatinine ratio ≥0.3; or persistent protein values of 30 mg/dL (1+ dipstick) in random urine samples.
+
+368
+00:49:46,332 --> 00:50:01,707
+Although worsening or nephrotic-range proteinuria was in the past considered by most to be a sign of severe disease, this does not appear to be the case (American College of Obstetricians and Gynecologists, 2013; Bartal, 2020).
+
+369
+00:50:01,707 --> 00:50:09,732
+Problematically, the optimal method of establishing abnormal levels of either urine protein or albumin remains to be defined.
+
+370
+00:50:09,732 --> 00:50:25,470
+For a 24-hour quantitative specimen, the consensus threshold value is ≥300 mg/24 h (American College of Obstetricians and Gynecologists, 2013; Bartal, 2020).
+
+371
+00:50:25,470 --> 00:50:34,070
+Using a urinary protein excretion threshold of 165 mg in a 12-hour sample shows equivalent efficacy .
+
+372
+00:50:34,070 --> 00:50:41,670
+Determination of urinary protein: creatinine ratio may supplant the cumbersome 24-hour quantification .
+
+373
+00:50:41,670 --> 00:50:58,832
+In one systematic review, random urine protein:creatinine ratios <130 to 150 mg/g, that is, 0.13 to 0.15, indicate a low likelihood of proteinuria exceeding 300 mg/d .
+
+374
+00:50:58,832 --> 00:51:09,520
+Ratios <0.08 or >1.19 have negative and positive predictive values of 86 and 96 percent, respectively .
+
+375
+00:51:09,520 --> 00:51:18,857
+However, midrange ratios, for example, 300 mg/g or 0.3, have poor sensitivity and specificity.
+
+376
+00:51:18,857 --> 00:51:27,907
+Any midrange ratio should be repeated, and if persistent, a 24hour urine collection for measurement of protein excretion should be considered.
+
+377
+00:51:27,907 --> 00:51:36,045
+With urine dipstick assessment, results depend on urine concentration and are notorious for false-positive and -negative results.
+
+378
+00:51:36,045 --> 00:51:53,282
+A concentrated urine specimen may show a dipstick value of 1+ to 2+ in women who actually excrete <300 mg/d. Importantly, proteinuria may develop late, and some women may already be delivered or have had an eclamptic convulsion before it appears.
+
+379
+00:51:53,282 --> 00:52:00,132
+At presentation, 10 to 15 percent of women with HELLP syndrome do not have proteinuria .
+
+380
+00:52:00,132 --> 00:52:07,007
+In another report, 17 percent of women with eclampsia did not have proteinuria by the time of seizures .
+
+381
+00:52:07,007 --> 00:52:17,407
+Anatomical Changes Sheehan and Lynch (1973) frequently found microscopic changes that were identified at autopsy in the kidneys of eclamptic women.
+
+382
+00:52:17,407 --> 00:52:26,207
+Glomeruli are enlarged by approximately 20 percent, they are “bloodless,” and capillary loops variably are dilated and contracted.
+
+383
+00:52:26,207 --> 00:52:31,895
+Endothelial cells are swollen— termed glomerular capillary endotheliosis .
+
+384
+00:52:31,895 --> 00:52:37,345
+Such swelling may be severe enough to block or partially block the capillary lumens .
+
+385
+00:52:37,345 --> 00:52:43,895
+Last, homogeneous subendothelial deposits of proteins and fibrin-like material are seen .
+
+386
+00:52:43,895 --> 00:52:46,232
+Figure 40-8.
+
+387
+00:52:46,232 --> 00:52:50,532
+Schematic showing glomerular capillary endotheliosis.
+
+388
+00:52:50,532 --> 00:53:00,907
+The capillary of the normal glomerulus shown on the left has wide endothelial fenestrations, and the pedicels emanating from the podocytes are widely spaced (arrow).
+
+389
+00:53:00,907 --> 00:53:07,220
+The illustration on the right is of a glomerulus with changes induced by the preeclampsia syndrome.
+
+390
+00:53:07,220 --> 00:53:13,882
+The endothelial cells are swollen and their fenestrae narrowed, as are the pedicels that now abut each other.
+
+391
+00:53:13,882 --> 00:53:18,745
+Endothelial swelling may result from angiogenic protein “withdrawal.
+
+392
+00:53:18,745 --> 00:53:28,895
+This is caused by the complexing of free angiogenic proteins with a compatible circulating antiangiogenic protein receptor (see Fig. 40-4).
+
+393
+00:53:28,895 --> 00:53:41,595
+The angiogenic proteins are crucial for podocyte health, and their inactivation leads to podocyte dysfunction and endothelial swelling (Conrad, 2015; Phipps, 2019).
+
+394
+00:53:41,595 --> 00:53:47,095
+Eclampsia is characterized by greater excretion of these epithelial podocytes .
+
+395
+00:53:47,095 --> 00:53:59,257
+Acute Kidney Injury In one study, preeclampsia syndrome caused acute kidney injury (AKI) in 5 percent of patients and in 14 percent of those with HELLP syndrome .
+
+396
+00:53:59,257 --> 00:54:03,532
+With severe preeclampsia, Rodriguez and colleagues
+
+397
+00:54:03,700 --> 00:54:10,275
+2021) reported AKI in 15 percent of women in a study from Parkland Hospital.
+
+398
+00:54:10,225 --> 00:54:13,362
+In most, AKI was stage 1.
+
+399
+00:54:13,362 --> 00:54:22,625
+In another study of 72 women with preeclampsia and renal failure, half had HELLP syndrome, and a third had placental abruption .
+
+400
+00:54:22,625 --> 00:54:29,562
+In a review of 183 women with HELLP syndrome, 5 percent had AKI .
+
+401
+00:54:29,562 --> 00:54:35,737
+Of those with renal injury, half had placental abruption, and most had postpartum hemorrhage.
+
+402
+00:54:35,737 --> 00:54:45,475
+Abnormal renal values usually begin to normalize 10 days or later after delivery (Cornelis, 2011; Spaan, 2012).
+
+403
+00:54:45,475 --> 00:54:57,412
+Although mild degrees of AKI are encountered, clinically apparent acute tubular necrosis is almost invariably induced by comorbid hemorrhage and subsequent hypovolemia and hypotension .
+
+404
+00:54:57,412 --> 00:55:03,387
+To evaluate AKI etiology clinically, urine electrolytes may be obtained.
+
+405
+00:55:03,387 --> 00:55:07,537
+Results with preeclampsia reflect an intrarenal cause.
+
+406
+00:55:07,537 --> 00:55:12,912
+In most with preeclampsia, the urine sodium concentration is elevated.
+
+407
+00:55:12,912 --> 00:55:24,700
+Instead, changes that indicate a prerenal mechanism include increase urine osmolality, elevated urine: plasma creatinine ratio, and low fractional excretion of sodium.
+
+408
+00:55:24,700 --> 00:55:31,250
+In response to oliguria, sodium-containing crystalloid temporarily improves urine output.
+
+409
+00:55:31,250 --> 00:55:38,350
+However, rapid infusions may cause clinically apparent pulmonary edema (p. 695).
+
+410
+00:55:38,350 --> 00:55:50,437
+Intensive intravenous fluid therapy is not indicated as “treatment” for women with preeclampsia and oliguria, unless urine output is diminished from hemorrhage or fluid loss from vomiting or fever.
+
+411
+00:55:50,437 --> 00:55:57,975
+In nonpregnant individuals, intravenous saline infusions have demonstrated a negative impact on renal function.
+
+412
+00:55:57,975 --> 00:56:07,662
+However, at Parkland Hospital, transition from Ringer lactate to normal saline did not significantly impair renal function in women with preeclampsia .
+
+413
+00:56:07,662 --> 00:56:09,612
+# Liver.
+
+414
+00:56:09,612 --> 00:56:14,350
+Hepatic changes are common in women with severe preeclampsia syndrome.
+
+415
+00:56:14,350 --> 00:56:21,700
+Several gross and microscopic anatomical derangements lead to elevated serum hepatic transaminase levels.
+
+416
+00:56:21,700 --> 00:56:28,225
+This transaminitis indicates hepatocellular injury and is a marker for severe preeclampsia.
+
+417
+00:56:28,225 --> 00:56:35,600
+Values are seldom more than 500 U/L, but levels exceeding 2000 U/L have been reported .
+
+418
+00:56:35,600 --> 00:56:45,050
+In general, serum concentrations inversely follow platelet levels, and they both usually return to normal levels within 3 days after delivery.
+
+419
+00:56:45,050 --> 00:56:56,512
+Anatomical Changes Regions of periportal hemorrhage in the liver periphery typify the hepatic lesions of eclampsia (Hecht, 2017; Sheehan, 1973).
+
+420
+00:56:56,512 --> 00:57:01,462
+Extensive involvement such as shown in Figure 40-9 is unusual.
+
+421
+00:57:01,462 --> 00:57:11,112
+Sheehan and Lynch (1973) described that some degree of hepatic infarction accompanied hemorrhage in almost half of women who died with eclampsia.
+
+422
+00:57:11,112 --> 00:57:19,225
+These findings corresponded with reports during the 1960s that described elevated serum hepatic transaminase levels.
+
+423
+00:57:19,225 --> 00:57:26,287
+Pritchard and associates (1954) described hemolysis and thrombocytopenia with eclampsia.
+
+424
+00:57:26,287 --> 00:57:34,787
+This constellation of hemolysis, hepatocellular necrosis, and thrombocytopenia was later termed HELLP syndrome.
+
+425
+00:57:34,787 --> 00:57:41,962
+Similarities with hepatic sinusoidal obstruction are reviewed by von Salmuth and coworkers (2020).
+
+426
+00:57:41,962 --> 00:57:44,350
+Figure 40-9.
+
+427
+00:57:44,350 --> 00:57:50,250
+Hepatic section from a woman with HELLP syndrome who died of aspiration pneumonia.
+
+428
+00:57:50,250 --> 00:57:57,687
+There are areas of ischemia and infarction, and histopathological examination showed periportal hemorrhages.
+
+429
+00:57:57,687 --> 00:58:03,225
+Liver involvement with preeclampsia may clinically display several manifestations.
+
+430
+00:58:03,225 --> 00:58:07,162
+First, pain is considered a sign of severe disease.
+
+431
+00:58:07,162 --> 00:58:13,875
+It typically manifests as moderate to severe right upper quadrant or midepigastric pain and tenderness.
+
+432
+00:58:13,875 --> 00:58:22,362
+These women usually have elevated serum aspartate transaminase (AST) or alanine transaminase (ALT) levels.
+
+433
+00:58:22,362 --> 00:58:31,550
+In some cases, however, the amount of hepatic tissue involved with infarction may be surprisingly extensive yet still clinically insignificant.
+
+434
+00:58:31,550 --> 00:58:39,187
+To study this, we performed magnetic resonance (MR) imaging in 16 women with HELLP syndrome .
+
+435
+00:58:39,187 --> 00:58:46,787
+All but two had evidence of acute liver injury, and the volume of involvement correlated with serum AST levels.
+
+436
+00:58:46,787 --> 00:58:55,637
+Frank infarction is unusual, and in our experiences, it may be worsened or precipitated by hypotension from obstetrical hemorrhage.
+
+437
+00:58:55,637 --> 00:59:02,225
+It occasionally causes hepatic failure—also called shock liver (Morgan, 2019;
+
+438
+00:59:02,380 --> 00:59:05,417
+Yoshihara, 2016).
+
+439
+00:59:05,367 --> 00:59:13,692
+Hepatic Hematoma In another presentation, periportal hemorrhage and infarction may extend to develop a hepatic hematoma.
+
+440
+00:59:13,692 --> 00:59:18,842
+This in turn can extend to form a subcapsular hematoma that may rupture.
+
+441
+00:59:18,842 --> 00:59:25,067
+Computed tomography (CT) scanning or MR imaging greatly aids diagnosis .
+
+442
+00:59:25,067 --> 00:59:33,292
+Unruptured hematomas are probably more common than clinically suspected and are more likely to be found with HELLP syndrome .
+
+443
+00:59:33,292 --> 00:59:42,080
+Although once considered a surgical condition, current management of a hepatic hematoma is usually observation unless bleeding is ongoing.
+
+444
+00:59:42,080 --> 00:59:49,267
+In some cases, however, prompt surgical intervention or angiographic embolization may be lifesaving .
+
+445
+00:59:49,267 --> 01:00:01,780
+In one review of 180 cases of hepatic hematoma or rupture, 94 percent of affected gravidas had HELLP syndrome, and in 90 percent of the total, the capsule had ruptured .
+
+446
+01:00:01,780 --> 01:00:08,680
+The maternal mortality rate was 22 percent, and the perinatal mortality rate was 31 percent.
+
+447
+01:00:08,680 --> 01:00:13,080
+Another review of 73 cases found similar outcomes .
+
+448
+01:00:13,080 --> 01:00:17,292
+In rare cases, liver transplantation is necessary .
+
+449
+01:00:17,292 --> 01:00:19,605
+Figure 40-10.
+
+450
+01:00:19,605 --> 01:00:27,255
+Abdominal CT imaging performed postpartum in a woman with severe HELLP syndrome and right-upper quadrant pain.
+
+451
+01:00:27,255 --> 01:00:35,492
+A large subcapsular hematoma (asterisk) is seen confluent with intrahepatic infarction and hematoma (arrowhead).
+
+452
+01:00:35,492 --> 01:00:40,792
+Numerous flame-shaped hemorrhages are seen at the hematoma interface (arrows).
+
+453
+01:00:40,792 --> 01:00:49,442
+Acute fatty liver of pregnancy is sometimes confused with preeclampsia (Byrne, 2020; Nelson, 2013).
+
+454
+01:00:49,442 --> 01:00:59,905
+It too has an onset in late pregnancy, and often hypertension, elevated serum transaminase and creatinine levels, and thrombocytopenia are comorbid.
+
+455
+01:00:59,905 --> 01:01:05,155
+In distinction, the hallmark of acute fatty liver is marked liver dysfunction.
+
+456
+01:01:05,155 --> 01:01:10,030
+Liver function overall is usually normal in HELLP syndrome.
+
+457
+01:01:10,030 --> 01:01:16,117
+Table 58-1 (p. 1031) highlights these clinical differences.
+
+458
+01:01:16,117 --> 01:01:21,317
+No convincing data link pancreatic involvement with preeclampsia syndrome.
+
+459
+01:01:21,317 --> 01:01:27,067
+In 407 women with severe preeclampsia, the incidence was 1 percent .
+
+460
+01:01:27,067 --> 01:01:33,305
+That said, the occasional case of concurrent hemorrhagic pancreatitis is likely unrelated .
+
+461
+01:01:33,305 --> 01:01:41,367
+In our experiences from Parkland Hospital, lipase and amylase levels are seldom elevated in women with preeclampsia .
+
+462
+01:01:41,367 --> 01:01:49,080
+HELLP Syndrome This acronym stands for hemolysis, elevated liver enzyme levels, and low platelet count.
+
+463
+01:01:49,080 --> 01:01:55,805
+No strict definition of the syndrome is universally accepted, and thus its reported incidence varies.
+
+464
+01:01:55,805 --> 01:02:06,392
+In women with preeclampsia, those with HELLP syndrome typically have worse outcomes than those without it (Martin, 2012, 2013).
+
+465
+01:02:06,392 --> 01:02:16,005
+In the previously noted study of 183 women with HELLP syndrome, 40 percent had adverse outcomes, and two mothers died .
+
+466
+01:02:16,005 --> 01:02:26,267
+Complications included eclampsia in 6 percent, placental abruption—10 percent, AKI—5 percent, and pulmonary edema—10 percent.
+
+467
+01:02:26,267 --> 01:02:34,580
+Stroke, hepatic hematoma, coagulopathy, acute respiratory distress syndrome, and sepsis were other complications.
+
+468
+01:02:34,580 --> 01:02:42,105
+In one review of 693 women with HELLP syndrome, 10 percent had concurrent eclampsia .
+
+469
+01:02:42,105 --> 01:02:45,355
+Obstetrical outcomes also may suffer.
+
+470
+01:02:45,355 --> 01:03:03,755
+In one study comparing women with HELLP against those with preeclampsia, rates of eclampsia were greater with HELLP—15 versus 4 percent; preterm birth— 93 versus 78 percent; and perinatal mortality—9 versus 4 percent, respectively .
+
+471
+01:03:03,755 --> 01:03:14,967
+Because of these marked clinical differences, some postulate that HELLP syndrome has a distinct pathogenesis (Reimer, 2013; Vaught, 2016).
+
+472
+01:03:14,967 --> 01:03:17,692
+# Central Nervous System.
+
+473
+01:03:17,692 --> 01:03:25,142
+Headaches and visual symptoms are common with severe preeclampsia, and associated convulsions define eclampsia.
+
+474
+01:03:25,142 --> 01:03:35,855
+The earliest anatomical descriptions of brain involvement came from autopsy specimens, but CT and MR imaging and Doppler studies have added important insights.
+
+475
+01:03:35,855 --> 01:03:47,542
+Neuroanatomical Lesions From early anatomical descriptions, brain pathology accounted for only approximately a third of fatal cases, such as the one shown in Figure 40-11.
+
+476
+01:03:47,542 --> 01:03:53,655
+In fact, most deaths were from pulmonary edema, and brain lesions were coincidental.
+
+477
+01:03:53,655 --> 01:04:01,780
+Thus, although gross intracerebral hemorrhage was seen in up to 60 percent of eclamptic women, it was fatal in only half of these .
+
+478
+01:04:01,780 --> 01:04:07,730
+With data from Sheehan and Lynch (1973) shown in Figure 40-12,
+
+479
+01:04:07,900 --> 01:04:15,362
+cortical and subcortical petechial hemorrhages are other principal lesions found at autopsy in women with eclampsia.
+
+480
+01:04:15,312 --> 01:04:24,737
+The classic microscopic vascular lesions consist of fibrinoid necrosis of the arterial wall and perivascular microinfarcts and hemorrhages.
+
+481
+01:04:24,737 --> 01:04:36,900
+Other lesions include nonhemorrhagic areas of “softening” throughout the brain, hemorrhages in the white matter, and subcortical edema (Hecht, 2017; Willard, 2018).
+
+482
+01:04:36,900 --> 01:04:43,225
+Hemorrhage in the basal ganglia or pons, often with rupture into the ventricles, may develop.
+
+483
+01:04:43,225 --> 01:04:45,662
+Figure 40-11.
+
+484
+01:04:45,662 --> 01:04:52,200
+This autopsy brain slice shows a fatal hypertensive hemorrhage in a primigravida with eclampsia.
+
+485
+01:04:52,200 --> 01:04:54,600
+Figure 40-12.
+
+486
+01:04:54,600 --> 01:05:01,475
+Composite illustration showing location of cerebral hemorrhages and petechiae in women with eclampsia.
+
+487
+01:05:01,475 --> 01:05:06,250
+Insert shows the level of the brain from which the main image was constructed.
+
+488
+01:05:06,250 --> 01:05:17,475
+Cerebrovascular Pathophysiology Clinical, pathological, and neuroimaging findings have led to two general theories to explain cerebral abnormalities with eclampsia.
+
+489
+01:05:17,475 --> 01:05:21,962
+Endothelial cell dysfunction likely plays a key role in both.
+
+490
+01:05:21,962 --> 01:05:32,375
+The first theory suggests that in response to acute and severe hypertension, cerebrovascular overregulation leads to vasospasm and eventual tissue infarction .
+
+491
+01:05:32,375 --> 01:05:35,937
+Little objective evidence supports this mechanism.
+
+492
+01:05:35,937 --> 01:05:44,200
+The second theory is that sudden elevations in systemic blood pressure exceed the normal cerebrovascular autoregulatory capacity .
+
+493
+01:05:44,200 --> 01:05:51,237
+Regions of forced vasodilation and vasoconstriction develop, especially in arterial boundary zones.
+
+494
+01:05:51,237 --> 01:06:04,025
+At the capillary level, disruption of end-capillary pressure causes increased hydrostatic pressure, hyperperfusion, and extravasation of plasma and red cells through endothelial tight-junction openings.
+
+495
+01:06:04,025 --> 01:06:06,962
+This leads to vasogenic edema.
+
+496
+01:06:06,962 --> 01:06:10,900
+Most likely, the true mechanism combines these two.
+
+497
+01:06:10,900 --> 01:06:28,162
+Thus, a preeclampsia-associated interendothelial cell leak develops at blood pressure levels much lower than those that usually cause vasogenic edema, and this is coupled with a loss of upper-limit autoregulation (Fugate, 2015; Zeeman, 2009).
+
+498
+01:06:28,162 --> 01:06:37,050
+As shown in Figure 40-13, these abnormalities manifest as the posterior reversible encephalopathy syndrome (PRES).
+
+499
+01:06:37,050 --> 01:06:49,650
+Lesions principally involve the occipital and parietal cortices, but other areas are often involved, although less extensively (Edlow, 2013; Zeeman, 2004a).
+
+500
+01:06:49,650 --> 01:06:52,287
+Figure 40-13.
+
+501
+01:06:52,287 --> 01:06:56,950
+Cranial magnetic resonance imaging in a nullipara with eclampsia.
+
+502
+01:06:56,950 --> 01:07:05,050
+This T2-FLAIR image shows an occipital lesion consistent with posterior reversible encephalopathy syndrome (PRES).
+
+503
+01:07:05,050 --> 01:07:08,912
+FLAIR = fluid-attenuated inversion recovery.
+
+504
+01:07:08,912 --> 01:07:19,062
+Cerebral Blood Flow Autoregulation is the mechanism by which cerebral blood flow remains relatively constant despite alterations in cerebral perfusion pressure.
+
+505
+01:07:19,062 --> 01:07:29,400
+In nonpregnant individuals, this mechanism protects the brain from hyperperfusion when mean arterial pressures increase up to 160 mm Hg.
+
+506
+01:07:29,400 --> 01:07:34,150
+These pressures are far greater than those seen in most women with eclampsia.
+
+507
+01:07:34,150 --> 01:07:41,225
+Thus, to explain eclamptic seizures, it was theorized that autoregulation must be altered by pregnancy.
+
+508
+01:07:41,225 --> 01:07:51,262
+Some investigators have shown impaired autoregulation in women with preeclampsia (Bergman, 2021b; Janzarik, 2014).
+
+509
+01:07:51,262 --> 01:07:58,375
+When studied 2 to 3 years postpartum, women who had preeclampsia had returned to normal autoregulation .
+
+510
+01:07:58,375 --> 01:08:08,400
+Zeeman and associates (2003) showed that cerebral blood flow during the first two trimesters of normal pregnancy is similar to nonpregnant values.
+
+511
+01:08:08,400 --> 01:08:13,687
+But during the last trimester, flow significantly drops by 20 percent.
+
+512
+01:08:13,687 --> 01:08:26,150
+They found greater cerebral blood flow in this trimester in women with severe preeclampsia compared with flow in normotensive pregnant women (Lee, 2019; Zeeman, 2004b).
+
+513
+01:08:26,150 --> 01:08:36,650
+Taken together, these findings suggest that eclampsia occurs when cerebral hyperperfusion forces capillary fluid interstitially because of endothelial damage.
+
+514
+01:08:36,650 --> 01:08:39,975
+This leak leads to perivascular edema.
+
+515
+01:08:39,975 --> 01:08:51,675
+Some data suggest that the blood-brain barrier is not impaired, but in-vitro studies may indicate increased permeability (Bergman, 2021a; Burwick, 2018).
+
+516
+01:08:51,675 --> 01:08:58,537
+Neurological Manifestations Several neurological manifestations typify the preeclampsia syndrome.
+
+517
+01:08:58,537 --> 01:09:00,637
+Each signifies
+
+518
+01:09:00,796 --> 01:09:04,608
+severe involvement and requires immediate attention.
+
+519
+01:09:04,558 --> 01:09:13,221
+First, headache and scotomata are thought to arise from cerebrovascular hyperperfusion that has a predilection for the occipital lobes.
+
+520
+01:09:13,221 --> 01:09:25,021
+In women preceding an eclamptic convulsion, up to 75 percent have headaches, and 20 to 30 percent have visual changes (Sibai, 2005; Zwart, 2008).
+
+521
+01:09:25,021 --> 01:09:28,558
+The headaches vary in severity and persistence.
+
+522
+01:09:28,558 --> 01:09:38,221
+In our experiences, they are unique in that they do not usually respond to traditional analgesia but frequently improve after magnesium sulfate infusion.
+
+523
+01:09:38,221 --> 01:09:41,646
+Convulsions are diagnostic for eclampsia.
+
+524
+01:09:41,646 --> 01:09:46,921
+These are caused by abnormal excessive or synchronous neural activity in the brain.
+
+525
+01:09:46,921 --> 01:09:53,483
+Evidence suggests that extended seizures can cause significant brain injury and later brain dysfunction.
+
+526
+01:09:53,483 --> 01:09:58,908
+Blindness and generalized cerebral edema are discussed in subsequent sections.
+
+527
+01:09:58,908 --> 01:10:07,408
+Last, women with eclampsia have been shown to have some cognitive decline when studied 5 to 10 years following the involved pregnancy .
+
+528
+01:10:07,408 --> 01:10:12,608
+This is discussed further in Chapter 41 (p. 727).
+
+529
+01:10:12,608 --> 01:10:24,258
+Neuroimaging Studies With CT imaging, localized hypodense lesions are frequently seen with eclampsia at the gray- and white-matter junction and primarily in the parietooccipital lobes.
+
+530
+01:10:24,258 --> 01:10:30,346
+Frontal and inferior temporal lobes, the basal ganglia, and thalamus are other sites .
+
+531
+01:10:30,346 --> 01:10:35,808
+These hypodense areas correspond to petechial hemorrhages and local edema.
+
+532
+01:10:35,808 --> 01:10:43,008
+Edema of the occipital lobes or diffuse cerebral edema may cause blindness, lethargy, and confusion .
+
+533
+01:10:43,008 --> 01:10:49,283
+Widespread edema can appear as marked compression or even obliteration of the cerebral ventricles.
+
+534
+01:10:49,283 --> 01:10:54,808
+Such women may develop signs of impending life-threatening transtentorial herniation.
+
+535
+01:10:54,808 --> 01:10:59,896
+Several MR imaging acquisitions are used to study women with eclampsia .
+
+536
+01:10:59,896 --> 01:11:11,158
+Common findings are hyperintense T2 lesions in the subcortical and cortical regions of the parietal and occipital lobes, which reflect PRES (see Fig. 40-13).
+
+537
+01:11:11,158 --> 01:11:20,496
+The basal ganglia, brainstem, and cerebellum are other involved sites (Brewer, 2013; Zeeman, 2004a).
+
+538
+01:11:20,496 --> 01:11:34,371
+PRES lesions are almost universal in women with eclampsia, and their incidence in women with severe preeclampsia approximates 20 percent (Hosapatna Basavarajappa, 2020; Mayama, 2016).
+
+539
+01:11:34,371 --> 01:11:43,171
+Although usually reversible, a fourth of these hyperintense lesions with eclampsia have restricted diffusion that signify cerebral infarctions.
+
+540
+01:11:43,171 --> 01:11:50,658
+These have persistent MR imaging findings (Loureiro, 2003; Zeeman, 2004a).
+
+541
+01:11:50,658 --> 01:11:57,808
+Visual Changes and Blindness Retinal artery and venular calibers are decreased in women with preeclampsia .
+
+542
+01:11:57,808 --> 01:12:08,421
+These changes, along with visual cortex involvement, can cause scotomata, blurred vision, or diplopia, which is common with severe preeclampsia and eclampsia.
+
+543
+01:12:08,421 --> 01:12:15,258
+These symptoms usually improve with magnesium sulfate therapy, or lowered blood pressure, or both.
+
+544
+01:12:15,258 --> 01:12:22,346
+Blindness is rare with preeclampsia alone, but it complicates up to 15 percent of women with eclampsia .
+
+545
+01:12:22,346 --> 01:12:25,858
+It can develop a week or more following delivery.
+
+546
+01:12:25,858 --> 01:12:30,971
+Blindness is usually reversible and may arise from three potential areas.
+
+547
+01:12:30,971 --> 01:12:37,433
+These are the occipital lobe’s visual cortex, the lateral geniculate nuclei, and the retina.
+
+548
+01:12:37,433 --> 01:12:41,158
+Occipital blindness is also called amaurosis.
+
+549
+01:12:41,158 --> 01:12:48,233
+With MR imaging, affected women usually have evidence of extensive occipital lobe vasogenic edema.
+
+550
+01:12:48,233 --> 01:12:57,758
+Of 15 women cared for at Parkland Hospital, occipital blindness lasted from 4 hours to 8 days, but it resolved completely in all cases .
+
+551
+01:12:57,758 --> 01:13:04,121
+Rarely, extensive cerebral infarctions may result in total or partial visual defects.
+
+552
+01:13:04,121 --> 01:13:09,433
+In the retina, ischemia, infarction, or serous detachment may occur .
+
+553
+01:13:09,433 --> 01:13:13,971
+Retinal infarction, termed Purtscher retinopathy, is rare .
+
+554
+01:13:13,971 --> 01:13:19,958
+Serous retinal detachment is usually unilateral and seldom causes total visual loss.
+
+555
+01:13:19,958 --> 01:13:25,508
+Asymptomatic serous retinal detachment is relatively common with preeclampsia .
+
+556
+01:13:25,508 --> 01:13:31,871
+In most cases of eclampsiaassociated blindness, visual acuity subsequently improves .
+
+557
+01:13:31,871 --> 01:13:37,633
+If blindness is caused by retinal artery occlusion, vision may be permanently impaired .
+
+558
+01:13:37,633 --> 01:13:40,208
+Figure 40-14.
+
+559
+01:13:40,208 --> 01:13:46,321
+Purtscher retinopathy caused by choroidal ischemia and infarction in preeclampsia syndrome.
+
+560
+01:13:46,321 --> 01:13:50,546
+Ophthalmoscopy shows scattered yellowish, opaque lesions
+
+561
+01:13:50,716 --> 01:13:53,116
+of the retina (arrows).
+
+562
+01:13:53,066 --> 01:13:59,316
+Reproduced with permission from Lam, DS, Chan W: Images in clinical medicine.
+
+563
+01:13:59,316 --> 01:14:02,491
+Choroidal ischemia in preeclampsia.
+
+564
+01:14:02,491 --> 01:14:08,253
+N Engl J Med 344(10):739, 2001).
+
+565
+01:14:08,253 --> 01:14:14,316
+Cerebral Edema Manifestations that suggest widespread cerebral edema are worrisome.
+
+566
+01:14:14,316 --> 01:14:23,491
+During 13 years at Parkland Hospital, 10 of 175 women with eclampsia were diagnosed with symptomatic cerebral edema .
+
+567
+01:14:23,491 --> 01:14:29,503
+Symptoms ranged from lethargy, confusion, and blurred vision to obtundation and coma.
+
+568
+01:14:29,503 --> 01:14:33,078
+In most cases, symptoms waxed and waned.
+
+569
+01:14:33,078 --> 01:14:39,553
+Of these 10, three became comatose and had imaging findings of transtentorial herniation.
+
+570
+01:14:39,553 --> 01:14:41,541
+One woman died.
+
+571
+01:14:41,541 --> 01:14:48,766
+Mental status changes generally correlated with the degree of involvement seen with CT and MR imaging studies.
+
+572
+01:14:48,766 --> 01:14:57,853
+These women are very susceptible to sudden and severe blood pressure elevations, which can acutely worsen the already widespread vasogenic edema.
+
+573
+01:14:57,853 --> 01:15:01,591
+Thus, careful blood pressure control is essential.
+
+574
+01:15:01,591 --> 01:15:04,653
+# Uteroplacental Perfusion.
+
+575
+01:15:04,653 --> 01:15:15,178
+Compromised uteroplacental perfusion is almost certainly a major contributor to the increased perinatal morbidity and mortality rates associated with preeclampsia syndrome .
+
+576
+01:15:15,178 --> 01:15:22,578
+Contributing defects in endovascular trophoblastic invasion were discussed earlier (p. 692).
+
+577
+01:15:22,578 --> 01:15:29,003
+Thus, measurement of uterine, intervillous, and placental blood flow would likely be informative.
+
+578
+01:15:29,003 --> 01:15:32,478
+Attempts to assess these in humans have been hampered.
+
+579
+01:15:32,478 --> 01:15:41,641
+Barriers include the placenta’s inaccessibility, the complexity of its venous effluent, and the need for invasive techniques or radioisotopes.
+
+580
+01:15:41,641 --> 01:15:50,166
+As a surrogate, sonographic measurement of uterine artery blood flow velocity can estimate resistance to uteroplacental blood flow.
+
+581
+01:15:50,166 --> 01:15:57,241
+Vascular resistance is estimated by comparing arterial systolic and diastolic velocity waveforms .
+
+582
+01:15:57,241 --> 01:16:11,741
+By the completion of placentation, impedance to uterine artery blood flow is markedly decreased, but with abnormal placentation, abnormally high resistance persists (Everett, 2012; Napolitano, 2012).
+
+583
+01:16:11,741 --> 01:16:21,066
+In earlier studies, peak systolic:diastolic velocity ratios from uterine and umbilical arteries in preeclamptic pregnancies were measured.
+
+584
+01:16:21,066 --> 01:16:28,991
+In some cases, but not all, resistance was higher (Ferrazzi, 2018; Trudinger, 1990).
+
+585
+01:16:28,991 --> 01:16:37,878
+Another Doppler waveform, termed uterine artery “notching,” has been linked with increased risks for preeclampsia or fetal-growth restriction .
+
+586
+01:16:37,878 --> 01:16:45,903
+However, in one MFMU Network study, notching had a low predictive value except for early-onset, severe disease .
+
+587
+01:16:45,903 --> 01:16:50,328
+Resistance in uterine spiral arteries also has been measured.
+
+588
+01:16:50,328 --> 01:16:58,328
+In one study, mean resistance values were greater in all women with preeclampsia compared with those in normotensive controls .
+
+589
+01:16:58,328 --> 01:17:09,566
+Another study used MR imaging and other techniques to assess placental perfusion ex vivo in the myometrial arteries removed from women with preeclampsia or fetal-growth restriction .
+
+590
+01:17:09,566 --> 01:17:15,553
+In both conditions, myometrial arteries exhibited similar vascular responses.
+
+591
+01:17:15,553 --> 01:17:24,441
+Despite these findings, evidence for compromised uteroplacental circulation is found in only a few women who later develop preeclampsia.
+
+592
+01:17:24,441 --> 01:17:33,703
+Indeed, when preeclampsia develops during the third trimester, only a third of women with severe disease have abnormal uterine artery velocimetry .
+
+593
+01:17:33,703 --> 01:17:41,141
+In a study of 50 women with HELLP syndrome, only a third had abnormal uterine artery waveforms .
+
+594
+01:17:41,141 --> 01:17:50,741
+In general, the extent of abnormal waveforms correlates with severity of fetal involvement (Ghidini, 2008; Groom, 2009).
+
+595
+01:17:50,741 --> 01:18:04,203
+These sonographic findings have value for prediction of fetal-growth restriction but not preeclampsia (American College of Obstetricians and Gynecologists, 2019b; Demers, 2019).
+
+596
+01:18:04,203 --> 01:18:10,103
+Several other flow velocity waveforms have been investigated for preeclampsia prediction.
+
+597
+01:18:10,103 --> 01:18:17,466
+However, none is suitable for clinical use (De Kat, 2019; Townsend, 2018).
+
+598
+01:18:17,466 --> 01:18:26,816
+Fetal-growth Restriction Discussed in detail in Chapter 47, this potential consequence of preeclampsia can serve as one severity indicator .
+
+599
+01:18:26,816 --> 01:18:33,816
+Namely, poor growth is usually confined to fetuses of women destined to develop severe preeclampsia .
+
+600
+01:18:33,816 --> 01:18:42,641
+Perry and colleagues (2020) reported that pregnancies complicated by fetal-growth restriction more likely had maternal hemodynamic
+
+601
+01:18:42,796 --> 01:18:45,783
+indices similar to preeclampsia.
+
+602
+01:18:45,733 --> 01:18:56,333
+Measures showed higher mean arterial pressure, greater systemic vascular resistance, lower cardiac output, and elevated uterine artery pulsatility index.
+
+603
+01:18:56,333 --> 01:19:03,021
+Fetuses born to preeclamptic mothers have cardiac remodeling similar to growth-restricted fetuses .
+
+604
+01:19:03,021 --> 01:19:04,671
+Prediction.
+
+605
+01:19:04,671 --> 01:19:12,471
+Some biological markers implicated in the genesis of the preeclampsia syndrome have been measured to help predict its development.
+
+606
+01:19:12,471 --> 01:19:20,608
+Although most have been evaluated in the first half of pregnancy, some have been tested as predictors of severity in the third trimester.
+
+607
+01:19:20,608 --> 01:19:25,008
+Still others have been used to forecast recurrent preeclampsia.
+
+608
+01:19:25,008 --> 01:19:38,508
+Overall, these efforts have resulted in testing strategies with poor sensitivity and poor positive predictive values for preeclampsia (Conde-Agudelo, 2015; De Kat, 2019).
+
+609
+01:19:38,508 --> 01:19:45,283
+Currently, no screening tests for preeclampsia are predictably reliable, valid, and economical.
+
+610
+01:19:45,283 --> 01:20:02,608
+Because combinations of tests and risk factors might be superior to single predictors, some have developed multivariable screening algorithms (Boutin, 2021; Brunelli, 2020; Copel, 2020; Serra, 2020; Snell, 2020).
+
+611
+01:20:02,608 --> 01:20:09,058
+One firsttrimester screening protocol using serum sFlt-1 levels has been proposed .
+
+612
+01:20:09,058 --> 01:20:17,596
+Other examples are midpregnancy algorithms (Black, 2020; Peguero, 2021; Stepan, 2020).
+
+613
+01:20:17,596 --> 01:20:22,871
+None has been adequately verified sufficiently for widespread clinical use .
+
+614
+01:20:22,871 --> 01:20:27,446
+# Vascular Resistance Testing and Placental Perfusion.
+
+615
+01:20:27,446 --> 01:20:33,058
+Most tests in this category are cumbersome, time consuming, and inaccurate.
+
+616
+01:20:33,058 --> 01:20:40,171
+To evaluate blood pressure changes, three tests assess the blood pressure rise in response to a stimulus.
+
+617
+01:20:40,171 --> 01:20:48,583
+In one, women at 28 to 32 weeks’ gestation rest in the left lateral decubitus position and then roll to lie supine.
+
+618
+01:20:48,583 --> 01:20:55,396
+With this roll-over test, rising blood pressure in response to the maneuver signifies a positive test.
+
+619
+01:20:55,396 --> 01:21:00,983
+The isometric exercise test employs the same principle by squeezing a handball.
+
+620
+01:21:00,983 --> 01:21:09,821
+The angiotensin II infusion test provides incrementally higher doses intravenously, and the hypertensive response is quantified.
+
+621
+01:21:09,821 --> 01:21:18,271
+Sensitivities of all three tests range from 55 to 70 percent, and specificities approximated 85 percent .
+
+622
+01:21:18,271 --> 01:21:25,608
+Uterine artery Doppler velocimetry is posited to reflect faulty trophoblastic invasion of the spiral arteries.
+
+623
+01:21:25,608 --> 01:21:33,658
+The poor predictive value of this for preeclampsia was described in the Uteroplacental Perfusion section (p. 702).
+
+624
+01:21:33,658 --> 01:21:37,471
+# Fetal-Placental Unit Endocrine Function.
+
+625
+01:21:37,471 --> 01:21:42,383
+Several serum analytes have been proposed to help predict preeclampsia.
+
+626
+01:21:42,383 --> 01:21:45,233
+Newer ones are continually added.
+
+627
+01:21:45,233 --> 01:21:50,721
+In general, none of these tests is clinically beneficial for hypertension prediction.
+
+628
+01:21:50,721 --> 01:21:53,508
+# Renal Function Tests.
+
+629
+01:21:53,508 --> 01:22:03,783
+Hyperuricemia results from reduced uric acid clearance caused by diminished glomerular filtration, increased tubular reabsorption, and decreased secretion.
+
+630
+01:22:03,783 --> 01:22:15,496
+In one study, the sensitivity of serum uric acid levels to detect preeclampsia ranged from 0 to 55 percent, and specificity was 77 to 95 percent .
+
+631
+01:22:15,496 --> 01:22:19,121
+These are seldom used to diagnose preeclampsia .
+
+632
+01:22:19,121 --> 01:22:28,421
+Isolated gestational proteinuria is a risk factor for preeclampsia (Jayaballa, 2015; Morgan, 2016).
+
+633
+01:22:28,421 --> 01:22:39,958
+But, as a predictive test for preeclampsia, microalbuminuria has sensitivities ranging from 7 to 90 percent and specificities spanning 29 to 97 percent .
+
+634
+01:22:39,958 --> 01:22:44,208
+# Endothelial Dysfunction and Oxidative Stress.
+
+635
+01:22:44,208 --> 01:22:50,983
+Endothelial activation and inflammation are major participants in preeclampsia pathophysiology.
+
+636
+01:22:50,983 --> 01:22:58,046
+Levels of some implicated compounds are elevated in the blood of affected women and have been assessed as predictors.
+
+637
+01:22:58,046 --> 01:23:07,046
+Fibronectins are high-molecular-weight glycoproteins released from endothelial cells and extracellular matrix following endothelial injury.
+
+638
+01:23:07,046 --> 01:23:15,733
+In one systematic review, however, neither cellular nor total fibronectin levels were clinically useful to predict preeclampsia .
+
+639
+01:23:15,733 --> 01:23:21,121
+Thrombocytopenia and platelet dysfunction are integral features of preeclampsia.
+
+640
+01:23:21,121 --> 01:23:26,846
+Platelet activation causes their augmented destruction and lower blood concentrations.
+
+641
+01:23:26,846 --> 01:23:38,033
+Platelet volume is increased because of platelet immaturity, and platelet volume has been described to be an early predictor of preeclampsia (Bellos, 2019; Mayer-Pickel,
+
+642
+01:23:38,188 --> 01:23:52,588
+2021). Although markers of coagulation activation described earlier (p. 696) are elevated, they substantively overlap with levels in normotensive pregnant women (von Dadelszen, 2018).
+
+643
+01:23:52,538 --> 01:24:01,613
+Of oxidative stress markers, higher levels of lipid peroxides coupled with decreased antioxidant activity can be seen with preeclampsia.
+
+644
+01:24:01,613 --> 01:24:21,388
+Other markers are iron, transferrin, and ferritin; resistin; hyperhomocysteinemia; blood lipids; and antioxidants such as ascorbic acid and vitamin E (Christiansen, 2015; Conde-Agudelo, 2015; Mackay, 2012; Mignini, 2005).
+
+645
+01:24:21,388 --> 01:24:25,075
+However, none has sufficient predictive value.
+
+646
+01:24:25,075 --> 01:24:29,675
+# Angiogenic and Antiangiogenic Factor Imbalance.
+
+647
+01:24:29,675 --> 01:24:38,975
+An imbalance in angiogenic and antiangiogenic factors is convincingly linked to preeclampsia pathogenesis (p. 694).
+
+648
+01:24:38,975 --> 01:24:45,163
+Serum levels of VEGF and PlGF begin to drop before clinical preeclampsia develops.
+
+649
+01:24:45,163 --> 01:24:52,800
+At the same time, levels of some antiangiogenic factors, such as sFlt-1 and sEng, begin to rise.
+
+650
+01:24:52,800 --> 01:24:59,650
+Factor levels and ratios differ significantly between women with preeclampsia and those who are normotensive.
+
+651
+01:24:59,650 --> 01:25:12,350
+These show especially good predictive performance with early-onset preeclampsia (Burton, 2019; Cerdeira, 2019; Phipps, 2019; Stepan, 2020).
+
+652
+01:25:12,350 --> 01:25:20,463
+These tests also can serve as diagnostic adjuncts (Duhig, 2019; Zeisler, 2016).
+
+653
+01:25:20,463 --> 01:25:33,050
+First, they may aid differentiating between preeclampsia and mimics that include chronic hypertension, chronic kidney disease, systemic lupus erythematosus, and immunological thrombocytopenia.
+
+654
+01:25:33,050 --> 01:25:37,763
+These tests can also help differentiate mild and severe disease.
+
+655
+01:25:37,763 --> 01:25:44,538
+These plus other multiple markers will likely have a future role in first-trimester preeclampsia screening .
+
+656
+01:25:44,538 --> 01:25:46,925
+# Other Markers.
+
+657
+01:25:46,925 --> 01:25:53,725
+Cell-free DNA (cfDNA) of placental origin can be detected in maternal plasma .
+
+658
+01:25:53,725 --> 01:26:01,550
+It is hypothesized that cfDNA is released in preeclampsia by accelerated apoptosis of cytotrophoblasts.
+
+659
+01:26:01,550 --> 01:26:10,088
+However, one MFMU Network study found no correlation between total cfDNA levels and preeclampsia prediction .
+
+660
+01:26:10,088 --> 01:26:26,163
+Other investigated markers include glycosylated hemoglobin A1c, serum cystatin-c, and first-trimester estimated placental volume (Bellos, 2019; Cavero-Redondo, 2018; Kim, 2021).
+
+661
+01:26:26,163 --> 01:26:35,413
+Proteomic, metabolomic, and transcriptomic technologies can be employed to study serum and urinary proteins and cellular metabolites.
+
+662
+01:26:35,413 --> 01:26:43,788
+Preliminary studies indicate their potential predictive value (Bahado-Singh, 2013; Ma, 2014).
+
+663
+01:26:43,788 --> 01:26:45,438
+Prevention.
+
+664
+01:26:45,438 --> 01:26:51,613
+Various strategies used to prevent or modify preeclampsia severity have been evaluated.
+
+665
+01:26:51,613 --> 01:26:54,825
+Some are listed in Table 40-4.
+
+666
+01:26:54,825 --> 01:27:00,713
+With the possible exception of aspirin, none is convincingly and reproducibly effective.
+
+667
+01:27:00,713 --> 01:27:02,950
+Table 40-4.
+
+668
+01:27:02,950 --> 01:27:11,438
+Some Methods to Prevent Preeclampsia That Have Been Evaluated in Randomized Trials # Dietary and Lifestyle Modifications.
+
+669
+01:27:11,438 --> 01:27:17,225
+A low-salt diet was one of the earliest researched preventions but is not supported by data .
+
+670
+01:27:17,225 --> 01:27:24,875
+Of studies, one randomized trial showed that a sodium-restricted diet was ineffective in preventing preeclampsia .
+
+671
+01:27:24,875 --> 01:27:35,050
+Regular exercise during pregnancy is linked to a lower risk of developing preeclampsia (Barakat, 2016; Morris, 2017).
+
+672
+01:27:35,050 --> 01:27:41,113
+In one systematic review, a similar trend toward risk reduction with exercise was noted .
+
+673
+01:27:41,113 --> 01:27:44,175
+Only a few studies have been randomized.
+
+674
+01:27:44,175 --> 01:27:54,563
+Somewhat related, one retrospective cohort study of 677 nonhypertensive women were hospitalized for bed rest because of threatened preterm delivery .
+
+675
+01:27:54,563 --> 01:28:07,563
+When outcomes of these women were compared with those of the general obstetrical population, bed rest was associated with a significantly reduced risk of developing preeclampsia (relative risk 0.27).
+
+676
+01:28:07,563 --> 01:28:19,613
+From two small randomized trials, prophylactic bed rest for 4 to 6 hours daily at home was successful in significantly lowering the preeclampsia incidence in women with normal blood pressures .
+
+677
+01:28:19,613 --> 01:28:30,713
+Currently, the Society for Maternal-Fetal Medicine (2020) does not recommend reduced activity for women with hypertensive disorders or for prevention of preeclampsia.
+
+678
+01:28:30,713 --> 01:28:43,938
+Calcium supplementation has been studied, but in one trial of more than 4500 low-risk nulliparas, supplementation failed to decrease the risk for preeclampsia or pregnancy-associated hypertension .
+
+679
+01:28:43,938 --> 01:28:46,188
+Similar findings were
+
+680
+01:28:46,348 --> 01:28:48,785
+reported from another trial .
+
+681
+01:28:48,735 --> 01:29:00,785
+In aggregate, most trials show that unless women are calcium deficient, supplementation offers no benefits (Palacios, 2019; Sanchez-Ramos, 2017).
+
+682
+01:29:00,785 --> 01:29:06,298
+Subclinical hypothyroidism is associated with increased preeclampsia risk.
+
+683
+01:29:06,298 --> 01:29:17,235
+This insufficiency has been postulated to stem from iodine deficiency, but a recent metaanalysis found no association between iodine sufficiency and preeclampsia .
+
+684
+01:29:17,235 --> 01:29:21,185
+Folic acid was evaluated in a randomized trial .
+
+685
+01:29:21,185 --> 01:29:28,423
+Nearly 2500 high-risk women were given a 4mg folic acid dose daily or placebo.
+
+686
+01:29:28,423 --> 01:29:33,610
+The incidence of preeclampsia in both groups approximated 14 percent.
+
+687
+01:29:33,610 --> 01:29:40,698
+Cardioprotective fatty acids found in some fish likely prevent inflammation-mediated atherogenesis.
+
+688
+01:29:40,698 --> 01:29:45,210
+Thus, it was posited that they might also prevent preeclampsia.
+
+689
+01:29:45,210 --> 01:29:52,198
+However, randomized trials conducted thus far show no such benefits from fish oil supplementation .
+
+690
+01:29:52,198 --> 01:30:01,210
+In one longitudinal cohort study, a seafood diet, compared with a western one, provided a protective effect against preeclampsia .
+
+691
+01:30:01,210 --> 01:30:04,210
+# Antihypertensive Drugs.
+
+692
+01:30:04,210 --> 01:30:15,610
+Because of the prior purported benefits of sodium restriction for preeclampsia prevention, diuretic therapy became popular with the advent of chlorothiazide in 1957 .
+
+693
+01:30:15,610 --> 01:30:27,098
+In one metaanalysis of nine randomized trials with more than 7000 pregnancies, women given diuretics had a lower incidence of edema and hypertension but not of preeclampsia .
+
+694
+01:30:27,098 --> 01:30:39,760
+Because women with chronic hypertension are at high risk for preeclampsia, several randomized trials have evaluated various antihypertensive drugs to reduce the incidence of superimposed preeclampsia .
+
+695
+01:30:39,760 --> 01:30:48,023
+A critical analysis of these trials by Staff and coworkers (2015) failed to demonstrate benefits for this goal.
+
+696
+01:30:48,023 --> 01:30:50,548
+# Antioxidants.
+
+697
+01:30:50,548 --> 01:30:58,335
+Data imply that an imbalance between oxidant and antioxidant activity plays a role in preeclampsia pathogenesis.
+
+698
+01:30:58,335 --> 01:31:05,710
+Thus, naturally occurring antioxidants— vitamins C, D, and E—might reduce such oxidation.
+
+699
+01:31:05,710 --> 01:31:17,160
+Several randomized studies have assessed antioxidant vitamin supplementation for women at high risk for preeclampsia (Burton, 2019; Villar, 2009).
+
+700
+01:31:17,160 --> 01:31:26,898
+The Combined Antioxidant and Preeclampsia Prediction Studies (CAPPS) by the MFMU Network included almost 10,000 low-risk nulliparas .
+
+701
+01:31:26,898 --> 01:31:34,985
+None of these studies showed reduced preeclampsia rates in women supplemented with vitamins C and E compared with those given placebo.
+
+702
+01:31:34,985 --> 01:31:43,935
+Statins were proposed to prevent preeclampsia because they stimulate heme oxygenase-1 expression, which inhibits sF1t-1 release.
+
+703
+01:31:43,935 --> 01:31:49,848
+Early animal data suggest that statins may prevent hypertensive disorders of pregnancy .
+
+704
+01:31:49,848 --> 01:31:57,673
+The MFMU Network plans a randomized trial to test pravastatin for prevention, and a pilot study is completed .
+
+705
+01:31:57,673 --> 01:32:05,598
+Metformin inhibits hypoxic inducible factor 1α by lowering mitochondrial electron transport chain activity.
+
+706
+01:32:05,598 --> 01:32:12,160
+It reduces sFlt-1 and sEng activity and thus has potential to prevent preeclampsia .
+
+707
+01:32:12,160 --> 01:32:23,123
+In a preliminary study, prediabetic women were given metformin or placebo throughout pregnancy, and metformin-treated women had a lower incidence of severe preeclampsia .
+
+708
+01:32:23,123 --> 01:32:26,435
+However, other clinical studies are lacking.
+
+709
+01:32:26,435 --> 01:32:29,460
+# Antithrombotic Agents.
+
+710
+01:32:29,460 --> 01:32:40,185
+Preeclampsia is characterized by vasospasm, endothelial cell dysfunction, inflammation, and activation of platelets and the coagulation–hemostasis system.
+
+711
+01:32:40,185 --> 01:32:45,535
+Other sequelae include placental infarction and spiral artery thrombosis .
+
+712
+01:32:45,535 --> 01:32:50,973
+Thus, antithrombotic agents have been evaluated to prevent preeclampsia.
+
+713
+01:32:50,973 --> 01:32:55,473
+Low-molecular-weight heparin has been studied in randomized trials.
+
+714
+01:32:55,473 --> 01:33:08,960
+In a subsequent metaanalysis using individual data from 963 women, the risk for recurrent preeclampsia, abruption, or fetal-growth restriction was similar in women receiving heparin or placebo .
+
+715
+01:33:08,960 --> 01:33:19,035
+Low-dose Aspirin In low doses of 50 to 150 mg daily, aspirin effectively inhibits platelet thromboxane A2 biosynthesis.
+
+716
+01:33:19,035 --> 01:33:23,235
+It has minimal effects on vascular prostacyclin production.
+
+717
+01:33:23,235 --> 01:33:29,260
+Still, several clinical trials have shown limited benefits in preeclampsia prevention.
+
+718
+01:33:29,260 --> 01:33:37,498
+In a randomized trial from the MFMU Network, risks for adverse outcomes were not significantly reduced with aspirin therapy .
+
+719
+01:33:37,498 --> 01:33:40,348
+This study was followed by numerous
+
+720
+01:33:40,516 --> 01:33:43,453
+similar studies and metaanalyses.
+
+721
+01:33:43,403 --> 01:33:57,728
+In another randomized trial of more than 1600 women at high risk for preterm preeclampsia, oral low-dose aspirin was given daily from 11 to 14 weeks’ gestation until 36 weeks to prevent recurrence .
+
+722
+01:33:57,728 --> 01:34:06,553
+The rate of preterm preeclampsia recurrence was 1.6 percent in the aspirin group compared with 4.3 percent in the placebo arm.
+
+723
+01:34:06,553 --> 01:34:23,416
+In a metaanalysis, Roberge and colleagues (2017) found that aspirin prophylaxis initiated before 16 weeks’ gestation was associated with a significant risk reduction— approximately 60 percent—of preeclampsia and fetal-growth restriction.
+
+724
+01:34:23,416 --> 01:34:36,441
+At the same time, however, Meher and associates (2017) performed an individual participant data metaanalysis and reported a much lower— approximately 10 percent—risk reduction.
+
+725
+01:34:36,441 --> 01:34:42,853
+Effects were significant whether therapy was initiated before or after 16 weeks’ gestation.
+
+726
+01:34:42,853 --> 01:34:57,653
+In a subsequent metaanalysis, Roberge and coworkers (2018) found that aspirin prophylaxis given starting ≤16 weeks’ gestation reduced the risk of preterm, but not term, preeclampsia.
+
+727
+01:34:57,653 --> 01:35:06,591
+Turner and colleagues (2020) reported that aspirin improved some perinatal outcomes independent of effects on preeclampsia risk.
+
+728
+01:35:06,591 --> 01:35:17,153
+But to the contrary, the review by Chaemsaithong and coworkers (2020) found no benefits even when low-dose aspirin was given before 11 weeks’ gestation.
+
+729
+01:35:17,153 --> 01:35:28,116
+Based on these data, the U.S. Preventive Services Task Force (2021) recommends low-dose aspirin prophylaxis for women at high risk for preeclampsia.
+
+730
+01:35:28,116 --> 01:35:42,166
+The American College of Obstetricians and Gynecologists (2018, 2020) now recommends low-dose aspirin be given between 12 and 28 weeks’ gestation to help prevent preeclampsia in high-risk women.
+
+731
+01:35:42,166 --> 01:35:54,928
+Candidates include those with ≥1 of the following: prior preeclampsia, chronic hypertension, overt diabetes, renal disease, autoimmune disorders, and multifetal gestation.
+
+732
+01:35:54,928 --> 01:36:10,628
+Supplementation may be considered for those with more than one of these qualities: nulliparous, aged older than 35 years, obese, family history of preeclampsia, vulnerable sociodemographics, and prior low-birthweight or growth-restricted neonate.
+
+733
+01:36:10,628 --> 01:36:16,691
+These results have also raised the question as to whether all pregnant women should be given aspirin .
+
+734
+01:36:16,691 --> 01:36:23,478
+Low-dose aspirin coupled with heparin mitigates thrombotic sequelae in women with lupus anticoagulant .
+
+735
+01:36:23,478 --> 01:36:35,191
+Because of a similarly high prevalence of placental thrombotic lesions found with severe preeclampsia, trials have assessed the possible merits of such treatments for women with prior preeclampsia.
+
+736
+01:36:35,191 --> 01:36:48,928
+In two randomized trials, women with a history of early-onset preeclampsia were given aspirin alone or a regimen of enoxaparin plus aspirin (Groom, 2017; Haddad, 2016).
+
+737
+01:36:48,928 --> 01:36:51,078
+Outcomes were similar.
+
+738
+01:36:51,078 --> 01:37:01,966
+Low-molecular-weight heparin, with or without aspirin, may decrease the risk for preeclampsia in high-risk women (de Vries, 2012; Wang, 2020).
+

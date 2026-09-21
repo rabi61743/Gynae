@@ -1,0 +1,3840 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,487
+Chapter 45: Preterm Birth.
+
+3
+00:00:05,487 --> 00:00:29,487
+Definition Of Preterm Birth Preterm Birth Rate Trends Preterm Newborn Morbidity Causes Of Preterm Birth Contributing Factors Diagnosis Preterm Birth Prevention Management Of Preterm Prelabor Rupture Of Membranes Management Of Preterm Labor With Intact Membranes References Preterm birth is a substantial global health issue with significant consequences to the newborn, family, and society.
+
+4
+00:00:29,487 --> 00:00:40,287
+Preterm delivery affects nearly 15 million births worldwide, is the leading cause of death in children younger than 5 years, and remains a prominent issue in obstetrics .
+
+5
+00:00:40,287 --> 00:00:50,575
+Although the burden of preterm birth is clear, defining the biology of human parturition and identifying strategies to reduce preterm birth rates remain elusive.
+
+6
+00:00:50,575 --> 00:00:53,200
+Definition Of Preterm Birth.
+
+7
+00:00:53,200 --> 00:01:00,500
+Preterm birth is delivery before 37 completed weeks, that is, before 366/7 weeks.
+
+8
+00:01:00,500 --> 00:01:03,887
+Subdivisions vary among organizations.
+
+9
+00:01:03,887 --> 00:01:15,550
+According to the American College of Obstetricians and Gynecologists (2021b), births occurring between 34 and 36 completed weeks are considered late preterm.
+
+10
+00:01:15,550 --> 00:01:25,837
+The Centers for Disease Control and Prevention recognizes this late preterm definition but also labels births before 336/7 weeks as early preterm .
+
+11
+00:01:25,837 --> 00:01:41,700
+Instead, the World Health Organization (2018) defines births before 28 completed weeks as extremely preterm, those from 28 to 32 weeks as very preterm, and from 32 to 37 weeks as moderate to late preterm.
+
+12
+00:01:41,700 --> 00:01:52,512
+These definitions lack a functional basis and should be distinguished from the concept of prematurity, which represents incomplete development of various organ systems at birth.
+
+13
+00:01:52,512 --> 00:01:59,187
+For example, the lungs are particularly affected and may be susceptible to the respiratory distress syndrome .
+
+14
+00:01:59,187 --> 00:02:06,937
+Similarly, neonates born before term can be small or large for gestational age but are still preterm by definition.
+
+15
+00:02:06,937 --> 00:02:20,812
+Low birthweight refers to neonates weighing 1500 to 2500 g; very low birthweight describes those between 1000 and 1500 g; and extremely low birthweight refers to those <1000 g .
+
+16
+00:02:20,812 --> 00:02:23,312
+Preterm Birth Rate Trends.
+
+17
+00:02:23,312 --> 00:02:33,025
+In the United States, the preterm birth rate rose from 10.02 percent in 2018 to 10.23 percent for 2019.
+
+18
+00:02:33,025 --> 00:02:38,200
+When interpreting these data, important factors and trends merit discussion.
+
+19
+00:02:38,200 --> 00:02:47,100
+First, during the past two decades, the percentage of preterm neonates fell from 2007 to 2014 but has since risen .
+
+20
+00:02:47,100 --> 00:02:53,837
+Some argue that the rate drop reflected changes in obstetrical dating criteria rather than true declines .
+
+21
+00:02:53,837 --> 00:03:05,400
+Specifically, beginning in 2014, the National Center for Health Statistics transitioned to a new standard for estimating newborn gestational age for birth certificate completion .
+
+22
+00:03:05,400 --> 00:03:14,637
+The new measure, which is the obstetrical estimate of gestational age at delivery, replaced calculations based on the date of the last menstrual period.
+
+23
+00:03:14,637 --> 00:03:21,600
+These measures differ and do not provide equivalent absolute numerical comparisons of preterm birth rates.
+
+24
+00:03:21,600 --> 00:03:28,762
+Thus, current national data are now not directly comparable to previously reported preterm birth rates.
+
+25
+00:03:28,762 --> 00:03:41,100
+Although the percentage of neonates born early preterm rose slightly, the rise in the overall preterm rate from 2018 to 2019 was due primarily to the increase in late-preterm births.
+
+26
+00:03:41,100 --> 00:03:46,175
+Rates of these preterm births have gradually risen since 2013 .
+
+27
+00:03:46,175 --> 00:03:54,012
+Notably, national data do not separate spontaneous preterm births from those that may be prompted for medical indication.
+
+28
+00:03:54,012 --> 00:04:00,600
+One disturbing aspect of preterm birth rate trends in the United States is persistent disparities.
+
+29
+00:04:00,600 --> 00:04:07,325
+Rates of preterm birth among black women are markedly elevated above those for white and Hispanic women .
+
+30
+00:04:07,325 --> 00:04:16,675
+Some investigators attribute this to differing socioeconomical circumstances (Collins, 2007; Leveno, 2009).
+
+31
+00:04:16,675 --> 00:04:27,700
+The rates of preterm birth in the United States are also higher compared with those in other industrialized countries (Ananth, 2009; Delnord, 2017).
+
+32
+00:04:27,700 --> 00:04:31,887
+Internationally, preterm birth rates also are rising .
+
+33
+00:04:31,887 --> 00:04:37,575
+Last, births in singleton pregnancies should be analyzed separately from all births.
+
+34
+00:04:37,575 --> 00:04:44,550
+Namely, multifetal gestations have a shorter average gestational length and raise preterm birth rates .
+
+35
+00:04:44,550 --> 00:04:47,075
+Preterm Newborn Morbidity
+
+36
+00:04:47,236 --> 00:04:49,136
+And Mortality.
+
+37
+00:04:49,086 --> 00:05:00,973
+In 2018 in the United States, 21,498 infants died in their first year of life, and 66 percent of infant deaths were among those born preterm.
+
+38
+00:05:00,973 --> 00:05:07,611
+Gestational age at delivery and the risk of neonatal morbidity and mortality are inversely related.
+
+39
+00:05:07,611 --> 00:05:20,686
+Namely, neonates born in the early-preterm period make up the smallest proportion of births, but these infants experience disproportionately higher rates of prematurity-related complications, including death .
+
+40
+00:05:20,686 --> 00:05:33,661
+For context, the infant mortality rate in those born at less than 28 weeks’ gestation was 186 times higher than in those born at 37 to 41 weeks in the United States in 2018.
+
+41
+00:05:33,661 --> 00:05:36,186
+Table 45-1.
+
+42
+00:05:36,186 --> 00:05:45,361
+Infant Mortality Rates in the United States in 2018 The joint effect of gestational age and infant condition at birth also has been examined.
+
+43
+00:05:45,361 --> 00:05:54,036
+Data from the Swedish Medical Birth Register correlated Apgar scores at 5 and 10 minutes in preterm neonates across gestational ages.
+
+44
+00:05:54,036 --> 00:05:59,223
+The relative risk of death consistently increased with decreased Apgar scores .
+
+45
+00:05:59,223 --> 00:06:06,236
+Low Apgar scores in preterm newborns may reflect biological immaturity rather than fetal depression.
+
+46
+00:06:06,236 --> 00:06:15,298
+However, Apgar scores and changes in the score between 5 and 10 minutes were associated with neonatal mortality among preterm newborns.
+
+47
+00:06:15,298 --> 00:06:23,511
+Preterm neonates who survive are at risk for a range of short- and longterm morbidities, largely due to organ system immaturity .
+
+48
+00:06:23,511 --> 00:06:29,586
+That said, remarkable strides have been made in neonatal survival for those born preterm.
+
+49
+00:06:29,586 --> 00:06:43,723
+In a study of more than 18,000 newborns weighing between 400 and 1500 g or aged between 22 and 32 weeks’ gestation, survival rates were analyzed as a function of both birthweight and gestational age .
+
+50
+00:06:43,723 --> 00:06:58,711
+After achieving a birthweight ≥1000 g, a gestational age ≥28 weeks for females, or age ≥30 weeks for males, survival rates reach 95 percent.
+
+51
+00:06:58,711 --> 00:07:01,236
+Table 45-2.
+
+52
+00:07:01,236 --> 00:07:07,623
+Major Short- and Long-Term Problems in Very-LowBirthweight Infants # Threshold of Viability.
+
+53
+00:07:07,623 --> 00:07:15,186
+Births once considered to be “abortuses” because the fetus weighed <500 g are now classified as live births.
+
+54
+00:07:15,186 --> 00:07:23,061
+In the United States in 2019, 5189 live births weighed <500 g .
+
+55
+00:07:23,061 --> 00:07:28,836
+Fortunately, perinatal and neonatal care has advanced tremendously for these births.
+
+56
+00:07:28,836 --> 00:07:38,298
+As a result, the threshold of viability, which is the lower limit of fetal maturation compatible with extrauterine survival, has been reassessed.
+
+57
+00:07:38,298 --> 00:07:45,748
+Currently, the threshold of viability lies between 200/7 and 256/7 weeks’ gestation.
+
+58
+00:07:45,748 --> 00:07:51,761
+Neonates born in this periviable period are vulnerable because of their immature organ systems.
+
+59
+00:07:51,761 --> 00:07:59,036
+Complications include brain injury and sepsis, both described in Chapter 34, (p. 618).
+
+60
+00:07:59,036 --> 00:08:06,923
+To guide obstetrical decision-making and care of these fetuses, a national perinatal workshop convened in 2013 .
+
+61
+00:08:06,923 --> 00:08:13,811
+The executive summary statement from this meeting served as the foundation for an Obstetric Care Consensus document .
+
+62
+00:08:13,811 --> 00:08:23,786
+Periviable Neonatal Survival Delivery before 23 weeks’ gestation often results in death, and survival rates approximate 5 to 10 percent .
+
+63
+00:08:23,786 --> 00:08:27,436
+Among survivors, morbidity is significant.
+
+64
+00:08:27,436 --> 00:08:35,711
+Practices regarding active resuscitation vary between institutions and may explain the differing perinatal outcomes among these.
+
+65
+00:08:35,711 --> 00:08:45,736
+Neonatal survival rates also vary among international comparisons, and rates at 24 weeks’ gestation range from 35 to 84 percent .
+
+66
+00:08:45,736 --> 00:08:48,273
+Figure 45-1.
+
+67
+00:08:48,273 --> 00:08:53,423
+Neonatal survival rates according to condition at birth and gestational age.
+
+68
+00:08:53,423 --> 00:09:13,273
+Ishii (2013) data curve reflects liveborn survival rates; Stoll (2010) curve reflects liveborn survival rates; Rysavy (2015) curve reflects overall survival rates; Younge (2017) curve reflects survival and neurodevelopmental outcomes.
+
+69
+00:09:13,273 --> 00:09:24,111
+A retrospective analysis of infants born at the University of Iowa from 2006 to 2015 at 22 to 25 weeks’ gestation underscores this issue .
+
+70
+00:09:24,111 --> 00:09:38,548
+After excluding anomalous fetuses, death in the delivery room, and parental request for palliation, the neurodevelopmental outcomes were analyzed for 169 of 214 survivors at 18 to 22 months.
+
+71
+00:09:38,548 --> 00:09:45,461
+Active management was defined as antenatal corticosteroids and resuscitation when desired by the parents.
+
+72
+00:09:45,461 --> 00:09:49,136
+The survival rate was lower in neonates born at
+
+73
+00:09:49,300 --> 00:09:54,600
+22 to 23 weeks’ than at 24 to 25 weeks’ gestation.
+
+74
+00:09:54,550 --> 00:10:03,587
+However, mild or no neurodevelopmental impairment was reported in 64 percent of the surviving 22- to 23-week infants.
+
+75
+00:10:03,587 --> 00:10:10,100
+An important caveat when examining perinatal outcomes, however, is ascertainment bias.
+
+76
+00:10:10,100 --> 00:10:22,537
+For example, the mean survival rate is 45 percent if the denominator is all live births compared with 72 percent if the denominator is only newborns admitted to neonatal intensive care .
+
+77
+00:10:22,537 --> 00:10:31,037
+Another source of bias is use of multicenter datasets with considerable differences in obstetrical and early neonatal interventions .
+
+78
+00:10:31,037 --> 00:10:57,075
+To evaluate contemporaneous outcomes of neonates born at 22 to 24 weeks, the National Institute of Child Health and Human Development (NICHD) Neonatal Research Network reported both survival and neurodevelopmental outcomes across consecutive birth-year epochs of 2000 to 2003, 2004 to 2007, and 2008 to 2011 in infants aged 18 to 22 months .
+
+79
+00:10:57,075 --> 00:11:07,187
+The percentage of infants who survived rose significantly from 30 percent in 2000 to 2003 to 36 percent in 2008 to 2011.
+
+80
+00:11:07,187 --> 00:11:17,025
+The percentage of infants who survived without neurodevelopmental impairment also significantly grew from 16 percent to 20 percent during the same time period.
+
+81
+00:11:17,025 --> 00:11:30,625
+Although rates of survival without neurodevelopmental impairment increased over time for those born at 23 and 24 weeks, only 1 percent of infants born at 22 weeks survived without neurodevelopmental impairment .
+
+82
+00:11:30,625 --> 00:11:34,250
+Somewhat similar results were published from Sweden.
+
+83
+00:11:34,250 --> 00:11:41,375
+This report details a national population-based study of all neonates born at 22 to 26 weeks.
+
+84
+00:11:41,375 --> 00:11:49,612
+Rates of survival to 1 year from 2004 to 2007 were compared with rates from 2014 to 2016.
+
+85
+00:11:49,612 --> 00:11:58,450
+Survival rates at 1 year among live-born neonates at 22 to 26 weeks’ gestation significantly improved during the later period .
+
+86
+00:11:58,450 --> 00:12:01,050
+Table 45-3.
+
+87
+00:12:01,050 --> 00:12:17,162
+One-Year Survival Among Infants Delivered at 22–26 Weeks’ Gestational Age in Sweden Clinical Management The Periviable Birth Obstetric Care Consensus document also addresses management options based on the clinical characteristics of a given pregnancy.
+
+88
+00:12:17,162 --> 00:12:22,212
+Nonmodifiable factors are fetal gender, weight, and plurality.
+
+89
+00:12:22,212 --> 00:12:34,250
+Potentially modifiable antepartum and intrapartum factors include the location of delivery, intent to intervene by cesarean delivery, and administration of antenatal corticosteroids .
+
+90
+00:12:34,250 --> 00:12:40,262
+Postnatal management addresses the initiation or withdrawal of intensive care after birth.
+
+91
+00:12:40,262 --> 00:12:42,887
+Table 45-4.
+
+92
+00:12:42,887 --> 00:12:50,025
+General Guidance for Threatened Periviable Birth Cesarean delivery at the threshold of viability is controversial.
+
+93
+00:12:50,025 --> 00:13:02,562
+If the fetus-neonate is perceived to be too immature for aggressive support, cesarean delivery for common indications such as breech presentation or nonreassuring fetal heart rate patterns might be preempted.
+
+94
+00:13:02,562 --> 00:13:11,962
+Moreover, observational studies have been inconsistent in demonstrating a benefit of cesarean delivery for the sole indication of periviability.
+
+95
+00:13:11,962 --> 00:13:22,962
+Moreover, cesarean delivery may predispose the gravida to adverse intraoperative events and morbidity (Bertholdt, 2018; Blanc, 2019).
+
+96
+00:13:22,962 --> 00:13:36,187
+In a study of 2906 singletons between 240/7 and 316/7 weeks eligible for attempted vaginal birth, 84 percent of cephalic presenting fetuses were delivered vaginally .
+
+97
+00:13:36,187 --> 00:13:42,687
+Neonatal mortality rates did not differ compared with those associated with planned cesarean delivery.
+
+98
+00:13:42,687 --> 00:13:50,425
+For breech presentations, however, relative risk for mortality was threefold higher with attempted vaginal delivery.
+
+99
+00:13:50,425 --> 00:14:00,587
+In another study, Werner and colleagues (2013) analyzed 20,231 newborns delivered at 24 to 34 weeks.
+
+100
+00:14:00,587 --> 00:14:11,637
+Cesarean delivery did not protect against poor outcomes such as neonatal death, intraventricular hemorrhage, seizures, respiratory distress, and subdural hemorrhage.
+
+101
+00:14:11,637 --> 00:14:22,750
+From these findings, the Obstetric Care Consensus proposes that cesarean delivery be considered for fetal indications at 230/7 to 246/7 weeks.
+
+102
+00:14:22,750 --> 00:14:28,875
+However, before 22 weeks, this route is reserved only for maternal indications.
+
+103
+00:14:28,875 --> 00:14:41,912
+As emphasized by the authors of the Iowa report cited earlier, providing active management—such as antenatal corticosteroids—can be uncoupled from the decision of cesarean in the periviable period .
+
+104
+00:14:41,912 --> 00:14:43,337
+That
+
+105
+00:14:43,492 --> 00:14:54,154
+said, the frequency of cesarean in the 23rd week has increased in the United States following publication of the perinatal workshop executive summary in 2014 .
+
+106
+00:14:54,104 --> 00:15:03,104
+It is difficult to summarize the current practices of obstetrical care in the management of the periviable pregnancy given its continued rapid evolution.
+
+107
+00:15:03,104 --> 00:15:11,779
+Moreover, it appears that maternal and neonatal interventions are shifting during the 22- to 23-week gestational age period.
+
+108
+00:15:11,779 --> 00:15:25,917
+Data from the National Center for Health Statistics show that rates of at least one maternal or neonatal intervention were 38.9 percent and 78.3 percent for 22 and 23 weeks’ gestation, respectively .
+
+109
+00:15:25,917 --> 00:15:33,617
+In this uncertain environment, individualized, patient-centered care with a multidisciplinary team remains essential.
+
+110
+00:15:33,617 --> 00:15:42,054
+This is particularly relevant given that nearly 20 percent of women may have serious morbidity with delivery during the periviable period .
+
+111
+00:15:42,054 --> 00:15:52,254
+For cases with threatened periviable delivery, neonatal and perinatal consultation aids informed decision-making and helps form expectations for the family.
+
+112
+00:15:52,254 --> 00:16:01,429
+For fetuses with a life-limiting condition, such as extreme prematurity, perinatal palliative care is a strategy that emphasizes comfort .
+
+113
+00:16:01,429 --> 00:16:08,667
+Care team members can include obstetric and neonatal professionals, chaplaincy, and mental health specialists.
+
+114
+00:16:08,667 --> 00:16:11,354
+# Late-preterm Birth.
+
+115
+00:16:11,354 --> 00:16:20,142
+As discussed, neonates born between 34 and 36 weeks’ gestation account for more than 70 percent of all preterm births .
+
+116
+00:16:20,142 --> 00:16:30,229
+Most of the increase in the total preterm birth rate for the United States 2018 to 2019 was among neonates born at 34 to 36 weeks.
+
+117
+00:16:30,229 --> 00:16:44,717
+To estimate the risks associated with late-preterm births, investigators analyzed neonatal mortality and morbidity rates at 34, 35, and 36 weeks compared with those of births at term at Parkland Hospital .
+
+118
+00:16:44,717 --> 00:16:54,229
+Approximately 3 percent of all births during the study period were between 24 and 32 weeks, and 9 percent were during the late-preterm period.
+
+119
+00:16:54,229 --> 00:17:01,567
+Thus, and similar to the national rates, late-preterm births accounted for three fourths of all preterm births.
+
+120
+00:17:01,567 --> 00:17:09,617
+Approximately 80 percent of these resulted from idiopathic spontaneous preterm labor or prematurely ruptured membranes .
+
+121
+00:17:09,617 --> 00:17:15,367
+Other obstetrical complications were implicated in the remaining 20 percent of cases.
+
+122
+00:17:15,367 --> 00:17:22,092
+Rates of morbidity and mortality were greater in these late-preterm newborns compared with rates in term ones .
+
+123
+00:17:22,092 --> 00:17:29,892
+Similarly, Tomashek (2007) reported higher neonatal mortality rates for late- preterm newborns.
+
+124
+00:17:29,892 --> 00:17:35,742
+Rates of adverse neurodevelopment outcomes also are increased in these late-preterm infants .
+
+125
+00:17:35,742 --> 00:17:43,392
+Taken together, these findings suggest that a health-care focus on prematurity should include these late-preterm births.
+
+126
+00:17:43,392 --> 00:17:45,942
+Figure 45-2.
+
+127
+00:17:45,942 --> 00:17:52,204
+Distribution of preterm births by gestational age in the United States in 2019.
+
+128
+00:17:52,204 --> 00:17:54,867
+Figure 45-3.
+
+129
+00:17:54,867 --> 00:18:03,117
+Obstetrical complications associated with 21,771 late-preterm births at Parkland Hospital.
+
+130
+00:18:03,117 --> 00:18:05,842
+Table 45-5.
+
+131
+00:18:05,842 --> 00:18:14,117
+Neonatal Outcomes in Live Births Delivered Late Preterm Compared with Referent Group at 39 Weeks Causes Of Preterm Birth.
+
+132
+00:18:14,117 --> 00:18:34,354
+Four direct causes for preterm births in the United States include (1) spontaneous unexplained preterm labor with intact membranes, (2) idiopathic preterm prelabor rupture of membranes, (3) delivery for maternal or fetal indications, and (4) twins and higher-order multifetal births.
+
+133
+00:18:34,354 --> 00:18:46,992
+Of all preterm births, 30 to 35 percent are indicated, 40 to 45 percent are due to spontaneous preterm labor, and 30 to 35 percent follow preterm membrane rupture .
+
+134
+00:18:46,992 --> 00:18:52,604
+More than 98 percent of triplets and 60 percent of twins are born preterm .
+
+135
+00:18:52,604 --> 00:18:58,729
+At term, a common parturition pathway is activated physiologically and leads to labor.
+
+136
+00:18:58,729 --> 00:19:06,317
+For preterm labor, several disease processes are thought to activate one or more of the components of this common pathway .
+
+137
+00:19:06,317 --> 00:19:11,504
+Put another way, preterm labor is not simply labor that starts too soon.
+
+138
+00:19:11,504 --> 00:19:26,292
+This paradigm is supported by the rationale that causes of preterm birth have multiple, often interacting, antecedents and contributing factors that lead to a heterogenous syndrome (Deindl, 2020; Esplin, 2016).
+
+139
+00:19:26,292 --> 00:19:31,304
+Analogous to other complex disease processes, multiple coexistent
+
+140
+00:19:31,468 --> 00:19:44,905
+genetic alterations, bacterial and viral colonization, and diverse environmental factors may lead to preterm birth (Bayar, 2020; Mekonnen, 2021; Volozonoka, 2020).
+
+141
+00:19:44,855 --> 00:20:04,405
+These multiple factors continue to pose challenges in identifying predictive biomarkers in blood, urine, or cervicovaginal fluid, despite significant technical advances in multiomic approaches (Ghaemi, 2021; Jehan, 2020; Peterson, 2020; Parry, 2020).
+
+142
+00:20:04,405 --> 00:20:07,680
+# Spontaneous Preterm Labor.
+
+143
+00:20:07,680 --> 00:20:16,368
+Pregnancies with spontaneous preterm labor yet intact fetal membranes must be distinguished from those complicated by ruptured membranes.
+
+144
+00:20:16,368 --> 00:20:22,143
+Even so, spontaneous preterm labor does not constitute a homogeneous group.
+
+145
+00:20:22,143 --> 00:20:27,780
+Evidence suggests it is a syndrome attributable to multiple pathological processes .
+
+146
+00:20:27,780 --> 00:20:44,418
+Among the more common associated findings are multifetal pregnancy, intrauterine infection, bleeding, placental infarction, premature cervical dilation, cervical insufficiency, hydramnios, uterine fundal abnormalities, and fetal anomalies.
+
+147
+00:20:44,418 --> 00:20:53,180
+Severe maternal illness from infections, autoimmune diseases, and gestational hypertension also elevate preterm labor risks.
+
+148
+00:20:53,180 --> 00:21:02,018
+These processes culminate in a common end point of premature cervical dilation, effacement, and activation of uterine contractions.
+
+149
+00:21:02,018 --> 00:21:13,668
+Importantly, the actual process of preterm labor should be considered a final step stemming from progressive or acute changes that could be initiated days or even weeks before labor onset.
+
+150
+00:21:13,668 --> 00:21:20,405
+Diverse pathways to instigate parturition exist and are dependent on the etiology of preterm birth .
+
+151
+00:21:20,405 --> 00:21:28,543
+Major causes include uterine overdistention, premature cervical changes, infection, and maternal–fetal stress.
+
+152
+00:21:28,543 --> 00:21:33,343
+Genetic and environmental factors likely contribute to each mechanism.
+
+153
+00:21:33,343 --> 00:21:36,055
+Figure 45-4.
+
+154
+00:21:36,055 --> 00:21:41,205
+Proposed mechanisms of disease implicated in spontaneous preterm labor.
+
+155
+00:21:41,205 --> 00:21:46,393
+Genetic and environmental factors are likely contributors to each mechanism.
+
+156
+00:21:46,393 --> 00:21:53,443
+Uterine Overdistention Multifetal pregnancy and hydramnios are well-recognized risks for preterm birth.
+
+157
+00:21:53,443 --> 00:21:58,618
+With these, uterine overdistention imparts greater stress on the myometrium.
+
+158
+00:21:58,618 --> 00:22:08,305
+In nonhuman primates, inflation of intraamnionic balloons can stimulate uterine contractility, preterm labor, and an “inflammatory pulse.
+
+159
+00:22:08,305 --> 00:22:15,155
+Similar inflammatory responses have been observed in the amnion of women with polyhydramnios and twins .
+
+160
+00:22:15,155 --> 00:22:22,943
+Early uterine overdistention likely acts to initiate expression of contraction-associated proteins in the myometrium.
+
+161
+00:22:22,943 --> 00:22:36,180
+These genes include those coding for gap-junction proteins, oxytocin receptors, and prostaglandin synthase (Korita, 2002; Lyall, 2002; Sooranna, 2004).
+
+162
+00:22:36,180 --> 00:22:42,980
+Excessive uterine distention also leads to early activation of the placental–fetal endocrine cascade .
+
+163
+00:22:42,980 --> 00:23:00,080
+Taken together, mechanical stress-induced distension and activation of endocrine cascades both lead to premature activation of inflammatory responses that result in uterine contractile activation (Gomez-Lopez, 2014; Stephen, 2015).
+
+164
+00:23:00,080 --> 00:23:06,243
+A possible compensatory response to uterine distention is tissue remodeling and muscle growth .
+
+165
+00:23:06,243 --> 00:23:12,855
+Cervical Dysfunction In most cases, premature cervical remodeling precedes labor onset.
+
+166
+00:23:12,855 --> 00:23:20,718
+In some instances, cervical dysfunction of the epithelia or its stromal extracellular matrix is the underlying cause .
+
+167
+00:23:20,718 --> 00:23:27,218
+Importantly, an intact cervical epithelial barrier is critical to prevent ascending infection.
+
+168
+00:23:27,218 --> 00:23:41,005
+For example, loss of hyaluronan in cervical epithelia or colonization of group B streptococcus (GBS) enhances risk of preterm birth (Akgul, 2014; Coleman, 2021).
+
+169
+00:23:41,005 --> 00:23:48,743
+GBS has the unique ability to synthesize the hyaluronan-degrading enzyme hyaluronidase to aid bacterial ascension .
+
+170
+00:23:48,743 --> 00:23:53,243
+Second, the mechanical competence of the cervix can be reduced.
+
+171
+00:23:53,243 --> 00:24:08,230
+Genetic mutations in components of collagen and elastic fibers or proteins required for their assembly can be risk factors for cervical insufficiency and preterm birth (Nallasamy, 2017; Volozonoka, 2020).
+
+172
+00:24:08,230 --> 00:24:18,168
+Infection Of all the mechanisms listed in Figure 45-4, only intraamnionic infection has been causally linked to spontaneous preterm delivery .
+
+173
+00:24:18,168 --> 00:24:24,655
+Bacteria can gain access to intrauterine tissues through (1) transplacental transfer of
+
+174
+00:24:24,820 --> 00:24:35,257
+maternal systemic infection, (2) flow of infection via the fallopian tubes, or (3) ascending infection with bacteria from the vagina and cervix.
+
+175
+00:24:35,207 --> 00:24:46,532
+Because the lower pole of the fetal membrane–decidual junction is contiguous with the cervical canal orifice, this anatomical arrangement provides a passageway for microorganisms.
+
+176
+00:24:46,532 --> 00:24:58,382
+Ascending infection is considered to be the most common entry route where microorganisms colonize the cervix, decidua, and possibly the membranes, and then may enter the amnionic sac.
+
+177
+00:24:58,382 --> 00:25:05,507
+Colonization with an infectious agent has been detected in 25 to 40 percent of all preterm deliveries .
+
+178
+00:25:05,507 --> 00:25:14,382
+In some instances, histological evidence of microbial inflammation is found in the fetal membranes, decidua, or umbilical cord.
+
+179
+00:25:14,382 --> 00:25:18,395
+Other cases are deemed sterile intraamnionic inflammation.
+
+180
+00:25:18,395 --> 00:25:33,245
+Despite the substantial association of infection with preterm birth, the cellular and molecular mechanisms underlying inflammation-driven preterm birth remain undefined (Cappelletti, 2020; Purisch, 2017).
+
+181
+00:25:33,245 --> 00:25:41,345
+Current data suggest that microbial invasion of the reproductive tract is sufficient to induce infection-mediated preterm birth.
+
+182
+00:25:41,345 --> 00:25:47,920
+The level and kinetics of inflammation can vary between a polymicrobial or single-microbe exposure .
+
+183
+00:25:47,920 --> 00:25:56,395
+Affected women are more likely to develop clinical chorioamnionitis and rupture of membranes compared with women whose cultures are sterile.
+
+184
+00:25:56,395 --> 00:26:03,357
+Moreover, their neonates are also more likely to have perinatal complications such as neonatal sepsis .
+
+185
+00:26:03,357 --> 00:26:18,932
+Although the clinical course is more severe when intraamnionic infection is obvious, inflammation in the absence of detectable intraamnionic microorganisms—termed sterile intraamnionic inflammation—is also a risk factor for an inflammatory response .
+
+186
+00:26:18,932 --> 00:26:29,270
+In sum, the earlier the onset of preterm labor, the greater the likelihood of underlying infection (Goldenberg, 2000; Goncalves, 2002).
+
+187
+00:26:29,270 --> 00:26:43,870
+Paradoxically, the incidence of culture-positive amnionic fluid collected by amniocentesis during spontaneous labor at term is similar to that with preterm labor (Gomez, 1994; Romero, 1993).
+
+188
+00:26:43,870 --> 00:26:55,582
+It has been suggested that at term, amnionic fluid is infiltrated by bacteria as a consequence of labor, whereas in preterm pregnancies, bacteria represent an inciting cause.
+
+189
+00:26:55,582 --> 00:27:04,395
+Thus, fetal infection, as defined by bacteria detected within amnionic fluid, has differing etiologies and consequences.
+
+190
+00:27:04,395 --> 00:27:10,995
+With chorioamnionitis, microbes may invade only maternal tissue and not amnionic fluid.
+
+191
+00:27:10,995 --> 00:27:18,570
+Despite this, endotoxins can stimulate amnionic cells to secrete cytokines that enter amnionic fluid.
+
+192
+00:27:18,570 --> 00:27:32,345
+This scenario may serve to explain the apparently contradictory observations concerning an association between amnionic fluid cytokines and preterm labor in cases in which microbes are not detected in the amnionic fluid.
+
+193
+00:27:32,345 --> 00:27:34,945
+Inflammatory Responses.
+
+194
+00:27:34,945 --> 00:27:40,245
+These responses drive the pathogenesis of infection-induced preterm labor.
+
+195
+00:27:40,245 --> 00:27:49,982
+Lipopolysaccharide (LPS) or other toxins elaborated by bacteria are recognized by receptors such as toll-like receptors (TLRs) .
+
+196
+00:27:49,982 --> 00:28:01,782
+These receptors are present on mononuclear phagocytes, decidual cells, cervical epithelia, and trophoblasts (Gonzalez, 2007; Holmlund, 2002).
+
+197
+00:28:01,782 --> 00:28:11,007
+The expression of TLRs on maternal immune cells is necessary to recognize inflammatory stimuli in inflammationmediated preterm birth .
+
+198
+00:28:11,007 --> 00:28:22,070
+Activation of TLRs induces a signaling cascade that activates production of chemokines such as interleukin 8 (IL-8) and cytokines such as IL-1β.
+
+199
+00:28:22,070 --> 00:28:26,770
+Activation also recruits immune cells into the reproductive tract.
+
+200
+00:28:26,770 --> 00:28:34,382
+Cytokines are produced by immune cells and by cells within the cervix, decidua, membranes, or fetus itself.
+
+201
+00:28:34,382 --> 00:29:02,695
+LPS-induced production of IL-1β in turn promotes a series of responses that include (1) increased synthesis of others, that is, IL-6, IL-8, and tumor necrosis factor alpha (TNF-α); (2) proliferation, activation, and migration of leukocytes; (3) modifications in extracellular matrix proteins; and (4) mitogenic and cytotoxic effects such as fever and acute-phase response .
+
+202
+00:29:02,695 --> 00:29:12,307
+In many tissues, including myometrium, decidua, and amnion, IL-1β also promotes prostaglandin formation that induces
+
+203
+00:29:12,460 --> 00:29:20,010
+cervical ripening and loss of myometrial quiescence (Challis, 2002; Keelan, 2003).
+
+204
+00:29:19,960 --> 00:29:37,322
+The importance of prostaglandins to infection-mediated preterm birth is supported by the observation that prostaglandin inhibitors can reduce the rate of LPS-induced preterm birth in both the mouse and nonhuman primate (Gravett, 2007; Timmons, 2014).
+
+205
+00:29:37,322 --> 00:29:43,685
+Inhibition of cyclooxygenase 2 prevents inflammation-mediated preterm labor in the mouse.
+
+206
+00:29:43,685 --> 00:29:49,897
+For these reasons, clinical approaches described on page 806 are being explored.
+
+207
+00:29:49,897 --> 00:30:03,247
+Proteases such as matrix metalloproteinases (MMPs) also are induced by inflammatory cytokines and function to break down extracellular matrix components such as collagen or elastic fibers.
+
+208
+00:30:03,247 --> 00:30:08,197
+This disrupts the structural integrity of fetal membranes or the cervix.
+
+209
+00:30:08,197 --> 00:30:24,947
+Current evidence from animal and human studies suggests that many aspects of infection-mediated preterm birth differ from pathways that regulate term parturition (Hamilton, 2012; Shynlova, 2013a,b; Willcockson, 2018).
+
+210
+00:30:24,947 --> 00:30:27,260
+Origin of Cytokines.
+
+211
+00:30:27,260 --> 00:30:32,235
+Secretion of uterine cytokines is likely important for preterm labor.
+
+212
+00:30:32,235 --> 00:30:45,310
+Cytokines produced in maternal decidua and myometrium have effects confined to that side, whereas cytokines produced in the membranes or in cells within the amnionic fluid will not be transferred to maternal tissues.
+
+213
+00:30:45,310 --> 00:30:53,535
+In general, resident and invading leukocytes produce the bulk of cytokines in cases of inflammation resulting from infection.
+
+214
+00:30:53,535 --> 00:31:00,310
+The presence of cytokines in amnionic fluid and their association with preterm labor is well documented.
+
+215
+00:31:00,310 --> 00:31:07,297
+But, their exact cellular origin—with or without recoverable microorganisms—is not well defined.
+
+216
+00:31:07,297 --> 00:31:16,685
+Amnionic fluid cytokines are most likely secreted by mononuclear phagocytes or neutrophils activated and recruited into the amnionic fluid .
+
+217
+00:31:16,685 --> 00:31:30,247
+Thus, the amount of amnionic fluid IL-1β would be determined by the number of leukocytes recruited, their activational status, or the effect of amnionic fluid constituents on their IL-1β secretion rate.
+
+218
+00:31:30,247 --> 00:31:32,172
+Microbiota.
+
+219
+00:31:32,172 --> 00:31:50,247
+Mucosal immunity and barrier function of the cervicovaginal epithelia, the vaginal microbiota composition, and their interplay among differing populations are major research topics (Elovitz, 2019; Fettweis, 2019; Serrano, 2019).
+
+220
+00:31:50,247 --> 00:32:02,872
+To explore these, advanced genomic analysis techniques are used and show that the nonpregnant vagina hosts a complex microbial community (Gajer, 2012; White, 2011).
+
+221
+00:32:02,872 --> 00:32:07,547
+And, the vaginal microbiome changes during normal pregnancy .
+
+222
+00:32:07,547 --> 00:32:14,372
+Specifically, the diversity of microbe populations are reduced during pregnancy and become more stable.
+
+223
+00:32:14,372 --> 00:32:29,810
+Some but not all studies report an increased population of certain microbes—for example, Gardnerella vaginalis and Ureaplasma urealyticum—in women with preterm birth (Donders, 2009; Nelson, 2014).
+
+224
+00:32:29,810 --> 00:32:39,822
+In contrast, Schuster and coworkers (2020) reported that asymptomatic vaginal Candida colonization was not associated with preterm birth.
+
+225
+00:32:39,822 --> 00:32:48,172
+Differences in populations studied, preterm birth definitions, and data analysis complicate interpretation of these data.
+
+226
+00:32:48,172 --> 00:32:55,672
+Currently, the strongest evidence for the role of the microbiome in preterm birth relates to the vaginal microbiota.
+
+227
+00:32:55,672 --> 00:33:04,347
+The most consistent finding across almost all studies is the benefit of a vaginal microbiota characterized by Lactobacillus crispatus .
+
+228
+00:33:04,347 --> 00:33:12,260
+Aagaard and colleagues (2014) suggested that the placenta contains a microbiome akin to the oral microbiome.
+
+229
+00:33:12,260 --> 00:33:20,397
+Subsequent studies, however, have failed to confirm this (Lauder, 2016; Theis, 2019).
+
+230
+00:33:20,397 --> 00:33:33,060
+Recently, de Goffau and associates (2019) found no evidence of bacteria in most of 537 placental samples from both complicated and uncomplicated pregnancies.
+
+231
+00:33:33,060 --> 00:33:43,497
+Almost all samples pointed to acquisition of bacteria during labor and delivery or to contamination of laboratory reagents with the exception of Streptococcus agalactiae.
+
+232
+00:33:43,497 --> 00:33:48,422
+Thus, the human placenta does not appear to have a relevant microbiome .
+
+233
+00:33:48,422 --> 00:33:52,210
+# Preterm Prelabor Rupture of Membranes.
+
+234
+00:33:52,210 --> 00:34:06,510
+Previously referred to as preterm premature rupture of membranes, preterm prelabor rupture of membranes (PPROM) defines spontaneous membrane rupture before 37 completed weeks and before labor onset .
+
+235
+00:34:06,676 --> 00:34:22,001
+Such rupture likely has various causes, but intrauterine infection, oxidative stress–induced DNA damage, and premature cellular senescence are major predisposing events (Dutta, 2016; Mercer, 2003).
+
+236
+00:34:21,951 --> 00:34:33,138
+Associated risk factors are similar to those at term and include lower socioeconomical status, low body mass index, nutritional deficiencies, and cigarette smoking.
+
+237
+00:34:33,138 --> 00:34:39,138
+Women with PPROM carry an enhanced risk for recurrence during a subsequent pregnancy .
+
+238
+00:34:39,138 --> 00:34:44,038
+Despite these known risk factors, none are identified in many cases.
+
+239
+00:34:44,038 --> 00:34:49,963
+Bacterial cultures of amnionic fluid support a role for infection in PPROM.
+
+240
+00:34:49,963 --> 00:34:59,738
+One review of 18 studies and almost 1500 women with PPROM found that bacteria were isolated from amnionic fluid in a third of cases .
+
+241
+00:34:59,738 --> 00:35:05,401
+Microbiome-mediated preterm birth and PPROM are current research areas .
+
+242
+00:35:05,401 --> 00:35:10,126
+One goal is to identify early risk markers for PPROM.
+
+243
+00:35:10,126 --> 00:35:24,626
+Molecular Changes In pregnancies with PPROM, the amnion exhibits a higher degree of cell death and more apoptosis markers than in term amnion (ArechavaletaVelasco, 2002; Fortunato, 2003).
+
+244
+00:35:24,626 --> 00:35:33,576
+In vitro studies indicate that apoptosis is likely regulated by bacterial endotoxin, IL-1β, and TNF-α.
+
+245
+00:35:33,576 --> 00:35:46,276
+In addition, oxidative stress initiated by events other than infection can induce DNA damage, premature senescence, and subsequent inflammation and proteolysis that leads to PPROM .
+
+246
+00:35:46,276 --> 00:35:53,601
+With membrane rupture, thrombin activity rises, which activates MMPs and prostaglandin synthesis.
+
+247
+00:35:53,601 --> 00:36:06,701
+Studies by Mogami (2013) provide a mechanism by which bacterial endotoxin or TNF-α elicits release of fetal fibronectin (fFN) by amnion epithelial cells.
+
+248
+00:36:06,701 --> 00:36:14,151
+The fFN then binds toll-like receptor 4 in the amnion mesenchymal cells to activate signaling cascades.
+
+249
+00:36:14,151 --> 00:36:26,851
+These result in augmented prostaglandin E (PGE2) synthesis and elevated activity of MMPs. Increasing prostaglandin levels promote cervical ripening and uterine contractions.
+
+250
+00:36:26,851 --> 00:36:34,388
+Greater MMP concentrations allow collagen breakdown in the fetal membranes, resulting in premature rupture.
+
+251
+00:36:34,388 --> 00:36:42,588
+Last, proteins involved in collagen synthesis or promoting its tensile strength are altered in membranes with premature rupture .
+
+252
+00:36:42,588 --> 00:36:51,013
+Recently, Blois and associates (2020) introduced the concept of galectins, a family of glycan-binding proteins.
+
+253
+00:36:51,013 --> 00:36:58,976
+They may serve as a mediator in fetal-maternal immune tolerance and work to prevent microbial infections that lead to preterm birth.
+
+254
+00:36:58,976 --> 00:37:08,213
+Both preterm labor and PPROM arise from distinct pathophysiological pathways but share inflammation as a common underlying mechanism.
+
+255
+00:37:08,213 --> 00:37:15,376
+Excellent reviews are presented by Menon (2020) and Diemert (2020) and their coworkers.
+
+256
+00:37:15,376 --> 00:37:18,151
+# Maternal-Fetal Stress.
+
+257
+00:37:18,151 --> 00:37:26,801
+In this context, stress is defined as a condition that disturbs the normal physiological or psychological functioning of an individual.
+
+258
+00:37:26,801 --> 00:37:33,413
+Since the 1940s, the association of maternal stress with birth outcomes has been explored.
+
+259
+00:37:33,413 --> 00:37:38,426
+Results vary partly because of methodological difference in measuring stress .
+
+260
+00:37:38,426 --> 00:37:52,276
+Quantitative measure is difficult, but considerable evidence shows that psychosocial stress in the form of racial discrimination— especially in black populations—results in poor health outcomes, including preterm birth .
+
+261
+00:37:52,276 --> 00:38:05,363
+Psychological duress can include childhood stress, depression, or posttraumatic stress syndrome (Gillespie, 2017; Goldstein, 2017; Venkatesh, 2016).
+
+262
+00:38:05,363 --> 00:38:15,101
+In one review of more than 50 studies, a significant link was found between low birthweight and preterm birth in women impacted by intimate partner violence .
+
+263
+00:38:15,101 --> 00:38:23,113
+One potential mechanism for stress-induced preterm birth is premature activation of the placental–adrenal endocrine axis.
+
+264
+00:38:23,113 --> 00:38:29,488
+Another mechanism by which stress may translate to preterm birth is premature cellular senescence.
+
+265
+00:38:29,488 --> 00:38:38,738
+As part of normal physiology, aging of fetal and decidual cells precipitates release of uterotonic signals for uterine activation at term.
+
+266
+00:38:38,738 --> 00:38:46,151
+The interplay between preterm birth and maternal stress was recently reviewed by Hong and colleagues (2021).
+
+267
+00:38:46,151 --> 00:38:48,376
+Contributing Factors.
+
+268
+00:38:48,376 --> 00:38:59,601
+Several factors associated with preterm birth include pregnancy factors, lifestyle and behaviors, genetic and demographic features, and aspects of obstetrical history .
+
+269
+00:38:59,764 --> 00:39:04,051
+Disentangling association from causation remains a dilemma.
+
+270
+00:39:04,001 --> 00:39:06,701
+Table 45-6.
+
+271
+00:39:06,701 --> 00:39:12,764
+Factors That May Contribute to the Genesis of Preterm Labor # Prior Preterm Birth.
+
+272
+00:39:12,764 --> 00:39:18,001
+The most important risk factor for preterm labor is a prior preterm birth.
+
+273
+00:39:18,001 --> 00:39:23,626
+Data from nearly 16,000 women delivered at Parkland Hospital are instructive .
+
+274
+00:39:23,626 --> 00:39:33,364
+Namely, the recurrent preterm delivery risk for women with a preterm first delivery was threefold greater than that of women whose first neonate was born at term.
+
+275
+00:39:33,364 --> 00:39:40,176
+More than a third of women whose first two newborns were preterm subsequently delivered a third preterm newborn.
+
+276
+00:39:40,176 --> 00:39:48,176
+Most—70 percent—of the recurrent births occurred within 2 weeks of the gestational age of the prior preterm delivery.
+
+277
+00:39:48,176 --> 00:39:52,076
+The causes of prior preterm delivery also recurred.
+
+278
+00:39:52,076 --> 00:40:00,639
+Although women with prior preterm births are clearly at risk for recurrence, they represented only 10 percent of the total preterm births.
+
+279
+00:40:00,639 --> 00:40:09,276
+Expressed another way, 90 percent of the preterm births at Parkland Hospital could not be predicted based on a history of preterm birth.
+
+280
+00:40:09,276 --> 00:40:14,089
+Others have confirmed the importance of prior spontaneous preterm birth .
+
+281
+00:40:14,089 --> 00:40:21,751
+Moreover, prior indicated preterm birth was strongly associated with subsequent spontaneous preterm birth.
+
+282
+00:40:21,751 --> 00:40:27,364
+Variable definitions of spontaneous and indicated may explain this association.
+
+283
+00:40:27,364 --> 00:40:41,151
+Ultimately, risk of recurrent preterm birth is influenced by three factors: the frequency of prior preterm deliveries, severity as measured by gestational age, and the order in which the prior preterm delivery occurred .
+
+284
+00:40:41,151 --> 00:40:50,001
+That is, an individual woman’s risk for recurrent preterm birth is influenced by her past number and sequence of preterm and term births.
+
+285
+00:40:50,001 --> 00:41:03,076
+For example, a risk of recurrent preterm birth for a gravida 3 para 2 woman with a prior preterm birth followed by a term birth is less than that for a woman with a prior term birth followed by preterm birth.
+
+286
+00:41:03,076 --> 00:41:10,264
+Thus, the influence of reproductive history has a profound prognostic significance for risk of recurrence.
+
+287
+00:41:10,264 --> 00:41:16,089
+This may also influence the supposed benefit attributed to interventions described later.
+
+288
+00:41:16,089 --> 00:41:18,751
+# Pregnancy Factors.
+
+289
+00:41:18,751 --> 00:41:25,551
+Of these, threatened abortion in early pregnancy is associated with higher rates of later adverse outcomes.
+
+290
+00:41:25,551 --> 00:41:34,464
+Weiss (2004) reported outcomes in nearly 14,000 women with vaginal bleeding at 6 to 13 weeks’ gestation.
+
+291
+00:41:34,464 --> 00:41:43,451
+Both light and heavy bleeding were associated with subsequent preterm labor, placental abruption, and pregnancy loss before 24 weeks.
+
+292
+00:41:43,451 --> 00:41:48,189
+Birth defects in the fetus also may predispose to preterm birth.
+
+293
+00:41:48,189 --> 00:42:00,026
+In a secondary analysis of data from the First- and Second-Trimester Evaluation of Risk (FASTER) trial, birth defects were associated with preterm birth and low-birthweight neonates .
+
+294
+00:42:00,026 --> 00:42:04,389
+Multifetal gestation is another well-recognized associate.
+
+295
+00:42:04,389 --> 00:42:13,126
+Importantly, preterm delivery continues to be the major cause of the excessive perinatal morbidity and mortality for these pregnancies.
+
+296
+00:42:13,126 --> 00:42:15,851
+# Lifestyle Factors.
+
+297
+00:42:15,851 --> 00:42:26,864
+Extremes of maternal weight—both underweight and obese mothers—have an enhanced risk of preterm birth (Cnattingius, 2013; Girsen, 2016).
+
+298
+00:42:26,864 --> 00:42:41,714
+Other maternal factors implicated include young or advanced maternal age, poverty, short stature, and vitamin C deficiency (Casanueva, 2005; Goldenberg, 2008; Leveno, 2009).
+
+299
+00:42:41,714 --> 00:42:50,014
+Cigarette smoking, inadequate maternal weight gain, and illicit drug use affect the incidence and outcome of lowbirthweight neonates .
+
+300
+00:42:50,014 --> 00:42:56,301
+Studies of work and physical activity related to preterm birth have yielded conflicting results .
+
+301
+00:42:56,301 --> 00:43:05,676
+Some evidence suggests that working long hours, fixed night shifts, and hard physical labor are probably linked to a higher risk of preterm birth .
+
+302
+00:43:05,676 --> 00:43:22,126
+However, aerobic exercise in normal-weight women with uncomplicated singleton pregnancies appears to be safe and not associated with preterm birth (American College of Obstetricians and Gynecologists, 2020f; Di Mascio, 2016).
+
+303
+00:43:22,126 --> 00:43:30,414
+One metaanalysis of physical activity found that leisure-time physical activity was associated with a reduced risk of preterm birth .
+
+304
+00:43:30,414 --> 00:43:38,564
+Because of the observational nature of many of the studies with the potential for confounding, the American College of Obstetricians and
+
+305
+00:43:38,716 --> 00:43:45,778
+Gynecologists (2020b) has offered guidance for employment considerations during pregnancy.
+
+306
+00:43:45,728 --> 00:43:54,916
+It is emphasized that accommodations that allow a woman to keep working are the most reliable way to guarantee pay, benefits, and job protection.
+
+307
+00:43:54,916 --> 00:43:57,478
+# Genetic Factors.
+
+308
+00:43:57,478 --> 00:44:04,078
+Evidence for a genetic component to preterm birth is supported by familial recurrent preterm births .
+
+309
+00:44:04,078 --> 00:44:11,291
+Genome-wide studies have identified genetic variants associated with gestational duration and preterm birth .
+
+310
+00:44:11,291 --> 00:44:18,778
+Common variants in EBF1, EEFSEC, and AGTR2 genes have an association with preterm birth.
+
+311
+00:44:18,778 --> 00:44:27,866
+Data sets, however, included only women with European ancestry, and thus future efforts will ideally include other populations.
+
+312
+00:44:27,866 --> 00:44:38,616
+Recent large-scale transcriptome studies have identified additional loci associated with gestation length (Marinić, 2021; Sakabe, 2020).
+
+313
+00:44:38,616 --> 00:44:41,478
+# Periodontal Disease.
+
+314
+00:44:41,478 --> 00:44:49,266
+Gingivitis is a chronic anaerobic inflammation that affects as many as 50 percent of pregnant women in the United States .
+
+315
+00:44:49,266 --> 00:44:56,903
+One metaanalysis of 17 studies showed that periodontal disease was significantly associated with preterm birth .
+
+316
+00:44:56,903 --> 00:45:09,353
+To better study this relationship, 813 pregnant women between 13 and 17 weeks’ gestation who had periodontal disease were randomly assigned to treatment during pregnancy or postpartum.
+
+317
+00:45:09,353 --> 00:45:17,103
+Treatment during pregnancy improved periodontal disease, however, it failed to significantly alter preterm birth rates .
+
+318
+00:45:17,103 --> 00:45:25,503
+A workshop of the European Federation of Periodontology and the American Academy of Periodontology reaffirmed this position .
+
+319
+00:45:25,503 --> 00:45:28,416
+# Interpregnancy Interval.
+
+320
+00:45:28,416 --> 00:45:39,753
+In one metaanalysis, intervals <18 months and >59 months were associated with greater risks for both preterm birth and small-for-gestational-age newborns .
+
+321
+00:45:39,753 --> 00:45:45,278
+The causal effect of short interpregnancy intervals, however, has been questioned .
+
+322
+00:45:45,278 --> 00:46:00,203
+A recent cohort study of more than three million births across four countries, including the United States, found that associations between interpregnancy intervals and preterm birth are modified by whether the previous pregnancy was preterm .
+
+323
+00:46:00,203 --> 00:46:02,391
+# Infection.
+
+324
+00:46:02,391 --> 00:46:12,228
+Antimicrobial Prophylaxis As discussed on page 789, a link between some cases of preterm birth and infection seems irrefutable .
+
+325
+00:46:12,228 --> 00:46:20,503
+In several studies, antimicrobial treatment has been given to prevent preterm labor that was thought to stem from microbial invasion.
+
+326
+00:46:20,503 --> 00:46:24,716
+Some of these strategies have targeted Mycoplasma species.
+
+327
+00:46:24,716 --> 00:46:42,641
+First, Andrews and associates (2006) reported results of a randomized trial in which they provided a course of azithromycin plus metronidazole every 4 months to 241 nonpregnant women whose last pregnancy resulted in spontaneous delivery before 34 weeks.
+
+328
+00:46:42,641 --> 00:46:50,916
+Approximately 80 percent of the women with subsequent pregnancies had received study drug within 6 months of their subsequent conception.
+
+329
+00:46:50,916 --> 00:46:57,303
+Such interconceptional antimicrobial treatment did not reduce the rate of recurrent preterm birth.
+
+330
+00:46:57,303 --> 00:47:06,653
+From a subgroup analysis of this data, Tita and coworkers (2007) concluded that such use of antimicrobials may be harmful.
+
+331
+00:47:06,653 --> 00:47:21,103
+In another randomized study, 2661 women were given placebo or metronidazole plus erythromycin between 20 and 24 weeks’ gestation followed by ampicillin plus metronidazole during labor .
+
+332
+00:47:21,103 --> 00:47:28,178
+This antimicrobial regimen did not reduce the rate of preterm birth or histological chorioamnionitis.
+
+333
+00:47:28,178 --> 00:47:38,066
+As discussed later, antibiotic prophylaxis to prevent preterm birth is not currently recommended in women with preterm labor and intact membranes .
+
+334
+00:47:38,066 --> 00:47:47,841
+Bacterial Vaginosis In this condition, normal, hydrogen peroxide–producing, lactobacilluspredominant vaginal flora is replaced with anaerobes.
+
+335
+00:47:47,841 --> 00:48:05,491
+For nearly 40 years, bacterial vaginosis has been recognized to be associated with spontaneous abortion, preterm labor, rupture of membranes, chorioamnionitis, and amnionic fluid infection (Gravett, 1986; Hillier, 1995).
+
+336
+00:48:05,491 --> 00:48:10,491
+Unfortunately, screening and treatment have not prevented preterm birth .
+
+337
+00:48:10,491 --> 00:48:24,166
+Moreover, microbial resistance or antimicrobial-induced change in the vaginal flora results from regimens intended to eliminate bacterial vaginosis (Beigi, 2004; Carey, 2005).
+
+338
+00:48:24,166 --> 00:48:26,078
+Covid-19.
+
+339
+00:48:26,078 --> 00:48:29,778
+Early reports suggested an increase in rates of
+
+340
+00:48:29,932 --> 00:48:33,682
+preterm birth in pregnant women with COVID-19.
+
+341
+00:48:33,632 --> 00:48:46,257
+However, population-level data show conflicting results on the changes, if any, in preterm birth rates (Berghella, 2020; Hedermann, 2021; Main, 2021).
+
+342
+00:48:46,257 --> 00:49:00,857
+At Parkland Hospital, Adhikari and colleagues (2020) did not identify higher rates of preterm birth in 252 women with COVID-19 compared with 3122 gravidas who tested negative.
+
+343
+00:49:00,857 --> 00:49:07,107
+However, women with severe infection are often delivered preterm for maternal indications .
+
+344
+00:49:07,107 --> 00:49:08,982
+Diagnosis.
+
+345
+00:49:08,982 --> 00:49:11,182
+# Symptoms.
+
+346
+00:49:11,182 --> 00:49:20,469
+Contractions, pelvic pressure, menstrual-like cramps, watery vaginal discharge, and lower back pain are typical symptoms of preterm labor.
+
+347
+00:49:20,469 --> 00:49:26,569
+These can also be seen with normal pregnancy and may be minimized by patients and providers.
+
+348
+00:49:26,569 --> 00:49:34,907
+Early differentiation between true and false labor is difficult —especially before demonstrable cervical effacement and dilation.
+
+349
+00:49:34,907 --> 00:49:40,232
+Uterine activity alone can be misleading because of Braxton Hicks contractions .
+
+350
+00:49:40,232 --> 00:49:59,619
+Accordingly, the American College of Obstetricians and Gynecologists (2020e) defines preterm labor to be regular contractions accompanied by a change in cervical dilation, effacement, or both or to be regular contractions and cervical dilation of at least 2 cm at initial presentation.
+
+351
+00:49:59,619 --> 00:50:16,957
+Chao (2011) prospectively studied 843 women with a singleton fetus who presented to Parkland Hospital with preterm labor symptoms between 240/7 and 336/7 weeks, intact membranes, and cervical dilation <2 cm.
+
+352
+00:50:16,957 --> 00:50:23,657
+Those whose cervix remained <2 cm were sent home with a diagnosis of false preterm labor.
+
+353
+00:50:23,657 --> 00:50:33,357
+When analyzed against the general obstetrical population, women sent home had a similar rate of birth before 34 weeks—2 versus 1 percent.
+
+354
+00:50:33,357 --> 00:50:42,494
+However, these women did have significantly higher rates of birth between 34 and 36 weeks—5 percent compared with 2 percent.
+
+355
+00:50:42,494 --> 00:50:54,782
+Women with cervical dilation of 1 cm at discharge were significantly more likely to deliver before 34 weeks compared with women without cervical dilation—5 percent versus 1 percent.
+
+356
+00:50:54,782 --> 00:51:01,469
+Almost 90 percent of the 1-cm group delivered within 21 days of the initial presentation.
+
+357
+00:51:01,469 --> 00:51:04,019
+# Cervical Change.
+
+358
+00:51:04,019 --> 00:51:10,807
+Asymptomatic cervical dilation after midpregnancy is suspected to be a preterm delivery risk factor.
+
+359
+00:51:10,807 --> 00:51:17,644
+Multiparity alone is not sufficient to explain cervical dilation discovered early in the third trimester.
+
+360
+00:51:17,644 --> 00:51:30,782
+Cook (1996) longitudinally evaluated cervical status with transvaginal sonography between 18 and 30 weeks’ gestation in nulliparas and multiparas who all subsequently gave birth at term.
+
+361
+00:51:30,782 --> 00:51:36,294
+Cervical length and diameter were identical in both groups throughout these critical weeks.
+
+362
+00:51:36,294 --> 00:51:46,682
+In a study from Parkland Hospital, routine digital cervical examinations were performed between 26 and 30 weeks in 185 asymptomatic women.
+
+363
+00:51:46,682 --> 00:51:54,407
+Approximately 25 percent of women whose cervix was dilated 2 or 3 cm delivered before 34 weeks .
+
+364
+00:51:54,407 --> 00:52:01,257
+Other investigators have verified cervical dilation as a predictor of increased preterm delivery risk .
+
+365
+00:52:01,257 --> 00:52:11,332
+Although women with dilation and effacement in the third trimester are at greater risk for preterm birth, detection does not necessarily improve pregnancy outcome.
+
+366
+00:52:11,332 --> 00:52:25,907
+In one randomized study, 2719 women undergoing routine cervical examinations at each prenatal visit were compared with 2721 gravidas in whom serial examinations were not performed.
+
+367
+00:52:25,907 --> 00:52:35,582
+Knowledge of antenatal cervical dilation did not affect any pregnancy outcome related to preterm birth or the frequency of interventions for preterm labor .
+
+368
+00:52:35,582 --> 00:52:42,944
+Thus, it seems that prenatal cervical examinations in asymptomatic women are neither beneficial nor harmful.
+
+369
+00:52:42,944 --> 00:52:52,332
+Numerous cervical imaging technologies are under investigation for early, accurate prediction of cervical changes associated with preterm birth .
+
+370
+00:52:52,332 --> 00:52:55,694
+# Ambulatory Uterine Monitoring.
+
+371
+00:52:55,694 --> 00:53:05,569
+An external tocodynamometer belted around the abdomen and connected to an electronic waist recorder allows a woman to ambulate while uterine activity is recorded.
+
+372
+00:53:05,569 --> 00:53:09,032
+Results are transmitted via telephone daily.
+
+373
+00:53:09,032 --> 00:53:16,744
+Women are educated concerning signs and symptoms of preterm labor, and clinicians are kept apprised of their progress.
+
+374
+00:53:16,744 --> 00:53:21,532
+The 1985 approval of this monitor by the U.S. Food and Drug
+
+375
+00:53:21,700 --> 00:53:26,600
+Administration (FDA) prompted its widespread clinical use.
+
+376
+00:53:26,550 --> 00:53:39,500
+Subsequently, it was proven that this expensive and time-consuming system did not reduce preterm birth rates (Collaborative Home Uterine Monitoring Study Group, 1995; Iams, 2002).
+
+377
+00:53:39,500 --> 00:53:44,487
+Despite technology improvements, use of such monitoring is discouraged .
+
+378
+00:53:44,487 --> 00:53:46,875
+# Biomarkers.
+
+379
+00:53:46,875 --> 00:53:54,137
+Because clinical symptoms alone are not predictive of preterm birth, surrogate biomarkers have been evaluated.
+
+380
+00:53:54,137 --> 00:54:07,225
+These include fetal fibronectin (fFN), phosphorylated insulin-like growth factor–binding protein 1 (phIGFBP-1), and placental alpha microglobulin 1 (PAMG-1).
+
+381
+00:54:07,225 --> 00:54:13,237
+Their performance varies between studies and is influenced by demographic and other factors .
+
+382
+00:54:13,237 --> 00:54:26,200
+Fetal Fibronectin This glycoprotein is produced in 20 different molecular forms by various cell types, including hepatocytes, fibroblasts, endothelial cells, and fetal amnion cells.
+
+383
+00:54:26,200 --> 00:54:38,725
+Present in high concentrations in maternal blood and amnionic fluid, fFN is thought to function in intercellular adhesion during implantation and in maintenance of placental adherence to uterine decidua .
+
+384
+00:54:38,725 --> 00:54:50,000
+Detected in cervicovaginal secretions in women who have normal pregnancies with intact membranes at term, fFN appears to reflect stromal remodeling of the cervix before labor.
+
+385
+00:54:50,000 --> 00:55:01,000
+Qualitative and quantitative fFN levels are measured using enzyme-linked immunosorbent assays, and values exceeding 50 ng/mL are considered positive.
+
+386
+00:55:01,000 --> 00:55:06,350
+Sample contamination by amnionic fluid and maternal blood should be avoided.
+
+387
+00:55:06,350 --> 00:55:18,850
+Interventional studies based on fFN screening results in asymptomatic women have not demonstrated improved perinatal outcomes (Andrews, 2003; Esplin, 2017).
+
+388
+00:55:18,850 --> 00:55:27,525
+The American College of Obstetricians and Gynecologists (2021c) does not recommend screening with fFN tests.
+
+389
+00:55:27,525 --> 00:55:38,262
+In one review of 16 trials involving management based upon fFN results, the low quality of existing evidence and need for cost-effectiveness analyses were noted .
+
+390
+00:55:38,262 --> 00:55:41,225
+# Cervical Length Measurement.
+
+391
+00:55:41,225 --> 00:55:48,425
+Progressively shorter cervical canals assessed sonographically are associated with increased rates of preterm birth .
+
+392
+00:55:48,425 --> 00:55:54,200
+The sonographic technique is described in Chapter 14 (p. 254).
+
+393
+00:55:54,200 --> 00:56:11,300
+The Society for Maternal-Fetal Medicine (2016b) has provided guidance for proper cervical length measurement and recommends that sonographers and practitioners obtain specific training through accreditation programs in the acquisition and interpretation of cervical length images.
+
+394
+00:56:11,300 --> 00:56:20,225
+Transvaginal cervical sonography is not affected by maternal obesity, cervix position, or shadowing from the fetal presenting part.
+
+395
+00:56:20,225 --> 00:56:32,450
+Because of the inability to easily distinguish the lower uterine segment from the cervix in early gestation, transvaginal cervical length assessment is typically performed after 16 weeks’ gestation.
+
+396
+00:56:32,450 --> 00:56:41,275
+Such interrogation is currently limited to singleton gestations and not recommended for multifetal gestations outside of research trials .
+
+397
+00:56:41,275 --> 00:56:45,500
+Indications for cervical length measurement are controversial.
+
+398
+00:56:45,500 --> 00:56:57,062
+For those women with a history of prior spontaneous preterm birth, the Society for Maternal-Fetal Medicine (2016b) recommends transvaginal cervical length screening.
+
+399
+00:56:57,062 --> 00:57:06,287
+And, the American College of Obstetricians and Gynecologists (2021c) now also recommends screening for this indication.
+
+400
+00:57:06,287 --> 00:57:19,850
+In women with singleton pregnancies but without a history of prior preterm birth, the Society for Maternal-Fetal Medicine and the College view cervical length screening as reasonable yet acknowledges that this remains an area of debate.
+
+401
+00:57:19,850 --> 00:57:24,787
+Biomarkers have been incorporated with hopes to improve screening performance.
+
+402
+00:57:24,787 --> 00:57:32,700
+Esplin and colleagues (2017) prospectively studied 9410 nulliparas with singleton pregnancies.
+
+403
+00:57:32,700 --> 00:57:45,275
+Universal screening of sonographically measured cervical length and quantitative measurement of vaginal fFN levels were evaluated as predictors of women who would spontaneously deliver before 37 weeks.
+
+404
+00:57:45,275 --> 00:57:49,712
+These measures had poor predictive performance as a screening test.
+
+405
+00:57:49,712 --> 00:57:56,612
+Based on these findings, routine use of these screening tests in a low-risk population is not recommended.
+
+406
+00:57:56,612 --> 00:58:02,812
+Of other markers, PAMG-1 has emerged as superior to predict potential preterm
+
+407
+00:58:02,980 --> 00:58:14,017
+birth compared with fFN, particularly among symptomatic women (Nikolova, 2018; Pirjani, 2019; Wing, 2017).
+
+408
+00:58:13,967 --> 00:58:25,992
+Incorporating results of cervicovaginal fluid proteomic markers and microRNAs obtained from peripheral blood also has been assessed (Parry, 2020; Winger, 2020).
+
+409
+00:58:25,992 --> 00:58:32,267
+Although evidence seems promising, any firm recommendations should await larger clinical trials .
+
+410
+00:58:32,267 --> 00:58:43,242
+This is particularly important given the challenges with accuracy and utility of screening, especially in low-risk women, who represent most of the population with preterm birth.
+
+411
+00:58:43,242 --> 00:58:54,292
+A second concern with screening is the efficacy of interventions to improve perinatal outcomes once cervical length screening, biomarkers, or both have isolated at-risk women.
+
+412
+00:58:54,292 --> 00:59:01,830
+Cervical cerclage or vaginal progesterone have been evaluated, and their efficacy is described in the next section.
+
+413
+00:59:01,830 --> 00:59:13,067
+Bloom and Leveno (2017) subsequently critiqued the use of transvaginal cervical length screening in low-risk women and the promulgation of consensus guidelines.
+
+414
+00:59:13,067 --> 00:59:20,405
+They highlighted the staggering costs encumbering the healthcare system in the United States as a result of such strategies.
+
+415
+00:59:20,405 --> 00:59:32,092
+Similar concerns were raised by Kuusela and associates (2021) who evaluated cervical length screening among 11,456 asymptomatic gravidas.
+
+416
+00:59:32,092 --> 00:59:34,467
+Preterm Birth Prevention.
+
+417
+00:59:34,467 --> 00:59:38,280
+Prevention of preterm birth remains an elusive goal.
+
+418
+00:59:38,280 --> 00:59:44,555
+Yet, experts continue to debate the optimal strategies to prevent or manage preterm birth .
+
+419
+00:59:44,555 --> 00:59:54,042
+Dietary supplementations, for example, have not shown benefit (Makrides, 2019; Palacios, 2019).
+
+420
+00:59:54,042 --> 01:00:03,917
+Still, recent reports suggest that prevention in selected populations may be achievable (Breslin, 2020; Goodfellow, 2021).
+
+421
+01:00:03,917 --> 01:00:06,567
+# Cervical Cerclage.
+
+422
+01:00:06,567 --> 01:00:12,417
+Cerclage placement may be used to prevent preterm birth in at least three circumstances.
+
+423
+01:00:12,417 --> 01:00:21,267
+First, the procedure may benefit women who have a history of recurrent second-trimester loss and who are diagnosed with cervical insufficiency.
+
+424
+01:00:21,267 --> 01:00:27,655
+A second instance is the woman identified during sonographic examination to have a short cervix.
+
+425
+01:00:27,655 --> 01:00:36,342
+The third indication is a “rescue” cerclage, done emergently when cervical incompetence is recognized in women with threatened preterm labor.
+
+426
+01:00:36,342 --> 01:00:45,442
+Cerclage placement in twin pregnancies for clinical indications is an evolving area (Li, 2019; Roman, 2020).
+
+427
+01:00:45,442 --> 01:00:51,630
+In this chapter, however, cerclage placement will be in the context of a singleton pregnancy.
+
+428
+01:00:51,630 --> 01:00:55,730
+An accurate history is critical for management decisions.
+
+429
+01:00:55,730 --> 01:01:03,755
+For recurrent abortion from cervical incompetence, historical clues are outlined in Chapter 11 (p. 205).
+
+430
+01:01:03,755 --> 01:01:14,942
+For women with a short cervix incidentally detected by sonography, the benefit of cerclage placement appears directly related to whether the woman has a history of prior preterm birth.
+
+431
+01:01:14,942 --> 01:01:22,917
+In those without a prior preterm birth, cerclage for a sonographically detected short cervix alone offers no advantage .
+
+432
+01:01:22,917 --> 01:01:40,180
+To and associates (2004) screened 47,123 women and randomly assigned the 253 women with a cervix measuring <15 mm, with or without a history of preterm birth, to cerclage or no cerclage groups.
+
+433
+01:01:40,180 --> 01:01:47,230
+The frequency of preterm delivery before 33 weeks did not differ significantly between the two cohorts.
+
+434
+01:01:47,230 --> 01:01:54,692
+In contrast, women with a sonographically diagnosed short cervix and a history of preterm birth may benefit.
+
+435
+01:01:54,692 --> 01:02:07,892
+Owen and colleagues (2009) randomly assigned 302 women with prior preterm birth plus a short cervix—defined as length <25 mm—to cerclage or no-procedure groups.
+
+436
+01:02:07,892 --> 01:02:12,267
+The primary study outcome was not supported by the intervention.
+
+437
+01:02:12,267 --> 01:02:25,117
+However, women with a cervical length <15 mm delivered before 35 weeks significantly less often following cerclage compared with women with no cerclage—30 versus 65 percent.
+
+438
+01:02:25,117 --> 01:02:36,330
+This study suggested that recurrent preterm birth could be prevented in a subset of women with asymptomatic singleton gestations with both previous preterm birth and short cervical length.
+
+439
+01:02:36,330 --> 01:02:45,705
+These findings prompted a reassessment by Berghella and coworkers (2011), who performed a metaanalysis using individual patient data .
+
+440
+01:02:45,705 --> 01:02:51,067
+The primary outcomes from the included trials did not support cerclage placement.
+
+441
+01:02:51,067 --> 01:02:54,755
+However, these investigators concluded that
+
+442
+01:02:54,916 --> 01:03:09,691
+cerclage significantly prevented preterm birth and improved composite perinatal mortality and morbidity outcomes in women with prior spontaneous preterm birth, singleton gestation, and cervical length <25 mm.
+
+443
+01:03:09,641 --> 01:03:12,403
+Figure 45-5.
+
+444
+01:03:12,403 --> 01:03:24,941
+Cerclage versus no cerclage for prevention of recurrent preterm birth in women with a cervical length <25 mm. Forest plot analysis of composite perinatal mortality and morbidity.
+
+445
+01:03:24,941 --> 01:03:29,828
+CI = confidence interval; M-H = Mantel-Haenszel.
+
+446
+01:03:29,828 --> 01:03:35,941
+One caveat in the interpretation of this cerclage data is the influence of obstetrical history.
+
+447
+01:03:35,941 --> 01:03:44,653
+For example, all of the trials comprising the metaanalysis included preterm birth as early as 16 to 17 weeks’ gestation.
+
+448
+01:03:44,653 --> 01:03:52,441
+Defining these early second-trimester losses as preterm births, rather than cervical incompetence, is problematic.
+
+449
+01:03:52,441 --> 01:04:01,278
+Thus, it is difficult to distinguish whether these women were treated in the context of cervical incompetence or of preterm labor at 16 weeks.
+
+450
+01:04:01,278 --> 01:04:25,928
+Nonetheless, based on these findings, the American College of Obstetricians and Gynecologists (2021c) concluded that in women with a singleton pregnancy, prior spontaneous preterm birth, cervical length <25 mm, and gestational age <24 weeks, cerclage placement may be considered versus vaginal progesterone (p. 797).
+
+451
+01:04:25,928 --> 01:04:32,416
+Technique The operative placement of cervical cerclage is shown in Chapter 11 (p. 206).
+
+452
+01:04:32,416 --> 01:04:36,403
+Several emerging trends, however, merit comment.
+
+453
+01:04:36,403 --> 01:04:42,816
+For example, indication for cerclage placement may influence selection of suture material .
+
+454
+01:04:42,816 --> 01:04:47,991
+Tocolysis and antibiotics with cerclage placement is another controversy .
+
+455
+01:04:47,991 --> 01:05:02,653
+In a retrospective report of 142 cases, 72 received perioperative prophylaxis, which consisted of perioperative cefazolin and indomethacin, during physical examination–indicated cerclage placement.
+
+456
+01:05:02,653 --> 01:05:08,366
+This practice was associated with a significant prolongation in gestational latency .
+
+457
+01:05:08,366 --> 01:05:12,691
+At Parkland Hospital, we have not adopted such practices.
+
+458
+01:05:12,691 --> 01:05:20,866
+Last, for women with a history of a failed cerclage, transabdominal cerclage appears to be superior to vaginal cerclage .
+
+459
+01:05:20,866 --> 01:05:24,903
+# Prophylaxis with Progestogen Compounds.
+
+460
+01:05:24,903 --> 01:05:30,891
+In most mammals, progesterone withdrawal is considered to be a parturition-triggering event.
+
+461
+01:05:30,891 --> 01:05:38,766
+During human parturition, however, maternal, fetal, and amnionic fluid progesterone levels remain elevated.
+
+462
+01:05:38,766 --> 01:05:47,653
+It has been proposed that human parturition involves functional progesterone withdrawal mediated by decreased activity of progesterone receptors .
+
+463
+01:05:47,653 --> 01:05:53,303
+It follows conceptually that progesterone administration may prevent preterm labor.
+
+464
+01:05:53,303 --> 01:06:04,991
+This hypothesis has stimulated several studies of both 17-alpha hydroxyprogesterone caproate and vaginally administered progesterone in women with varying risks for preterm birth.
+
+465
+01:06:04,991 --> 01:06:12,366
+At present, reported benefits of either progestogen therapy are largely limited to women with singleton pregnancies.
+
+466
+01:06:12,366 --> 01:06:26,166
+Progestogen prophylaxis specifically in multifetal gestations has not lowered preterm birth rates (Caritis, 2009; Dodd, 2019; Rehal, 2020; Rouse, 2007).
+
+467
+01:06:26,166 --> 01:06:45,041
+Accordingly, both the American College of Obstetricians and Gynecologists (2021c) and the Society for Maternal-Fetal Medicine (2020b) support the use of progestogen therapy for prevention of preterm birth in select women with singleton pregnancies despite the challenges chronicled .
+
+468
+01:06:45,041 --> 01:06:53,328
+Either a history of prior preterm birth or no prior preterm birth but a sonographically identified short cervix is a criterion.
+
+469
+01:06:53,328 --> 01:06:57,716
+# Prior Preterm Birth and Progestogen Compounds.
+
+470
+01:06:57,716 --> 01:07:06,966
+The synthetic progestogen 17-alpha-hydroxyprogesterone caproate (17OHPC) is the focus of current controversy.
+
+471
+01:07:06,966 --> 01:07:13,866
+It remains the first, and only, drug approved by the FDA for prevention of recurrent preterm birth.
+
+472
+01:07:13,866 --> 01:07:26,628
+This therapy was originally approved in 2011 through an accelerated process for orphan drugs and based on the findings of Maternal-Fetal Medicine Units (MFMU) Network study, described next.
+
+473
+01:07:26,628 --> 01:07:41,053
+However, this approval and justification for continued use is now disputed (Chang, 2020; Food and Drug Administration, 2019, 2020; Greene, 2020; Nelson, 2021).
+
+474
+01:07:41,053 --> 01:07:50,528
+Maternal-Fetal Medicine Units Network Trial In the MFMU Network trial, 463 women with a prior preterm birth were randomly
+
+475
+01:07:50,692 --> 01:08:00,079
+assigned to receive weekly intramuscular injections of inert oil placebo or 17-OHPC from 16 through 36 weeks’ gestation .
+
+476
+01:08:00,029 --> 01:08:09,117
+Recurrence of preterm birth rates were 36 percent in women receiving 17OHPC and 55 percent in those given placebo.
+
+477
+01:08:09,117 --> 01:08:15,442
+This study was challenged because of the unexpectedly high preterm delivery rate in the placebo arm .
+
+478
+01:08:15,442 --> 01:08:20,642
+One explanation for this high rate was asymmetry in the risks of recurrence.
+
+479
+01:08:20,642 --> 01:08:30,979
+Indeed, 41 percent of the placebo group had ≥2 prior preterm births compared with only 28 percent in the 17-OHPC group.
+
+480
+01:08:30,979 --> 01:08:43,154
+Another concern was that the injection dosage of 17-OHPC, which was 250 mg weekly, was empirically chosen (Caritis, 2012, 2014).
+
+481
+01:08:43,154 --> 01:08:52,617
+Because of these reported challenges, the FDA granted approval but called for a confirmatory randomized clinical trial before final FDA approval .
+
+482
+01:08:52,617 --> 01:09:00,417
+The multicenter, international, randomized trial was launched in 2009 but required 9 years to complete .
+
+483
+01:09:00,417 --> 01:09:10,967
+Pricing Concerns Following the accelerated approval, drug-overpricing claims prompted concern (Cohen, 2011; Romero, 2013).
+
+484
+01:09:10,967 --> 01:09:20,154
+In 2011, the FDA gave temporary approval to KV Pharmaceutical to market 17-OHPC under the brand name Makena.
+
+485
+01:09:20,154 --> 01:09:31,367
+Because regulations prohibited compounding, there was no competitor for this relatively inexpensive drug, and Makena was priced at $1500 per injection.
+
+486
+01:09:31,367 --> 01:09:38,767
+This caused widespread concern because the cumulative cost of Makena would be more than $30,000 per pregnancy.
+
+487
+01:09:38,767 --> 01:09:53,529
+Parkland Hospital, given these pricing concerns, contracted a local compounding pharmacy to provide 250-mg, single-dose vials of 17-OHPC in sesame oil at a cost of $25 per dose.
+
+488
+01:09:53,529 --> 01:10:04,342
+Nelson and colleagues (2017) reported their findings from this program in a prospective study of 430 women given this compounded 17-OHPC.
+
+489
+01:10:04,342 --> 01:10:13,167
+It was ineffective for prevention of recurrent preterm birth at 35 weeks or less compared with a historical cohort from Parkland Hospital.
+
+490
+01:10:13,167 --> 01:10:22,954
+Moreover, 17-OHPC did not significantly reduce the rates of recurrent preterm birth regardless of prior preterm birth number or sequence.
+
+491
+01:10:22,954 --> 01:10:35,492
+Moreover, plasma concentrations of 17-OHPC were not different at 24 weeks or 32 weeks between women delivered at ≤35 weeks and those delivered later.
+
+492
+01:10:35,492 --> 01:10:42,954
+Metabolism Despite its widespread use, the mechanism of action for 17-OHPC remains unknown.
+
+493
+01:10:42,954 --> 01:10:53,604
+Sharma and associates (2008) reported that the metabolism of 17OHPC was predominantly mediated by the CYP3A enzymatic system.
+
+494
+01:10:53,604 --> 01:11:00,204
+Thus, other agents that induce or inhibit this system or hepatic impairment may alter drug levels.
+
+495
+01:11:00,204 --> 01:11:09,617
+They also showed that 17-OHPC is not converted after administration to the progesterone metabolite 17α-hydroxyprogesterone.
+
+496
+01:11:09,617 --> 01:11:18,167
+The relative binding affinity of 17-OHPC to progesterone receptors approximates only 30 percent of that by progesterone .
+
+497
+01:11:18,167 --> 01:11:30,267
+Caritis and colleagues (2012) examined 61 women receiving 17-OHPC therapy and found that the half-life was relatively long (median 16.2 days).
+
+498
+01:11:30,267 --> 01:11:37,154
+Pharmacokinetic parameters were affected by maternal body habitus and varied widely between subjects.
+
+499
+01:11:37,154 --> 01:11:46,554
+In addition, 17-OHPC crossed the placental barrier and was detectible in cord plasma 44 days after the last maternal injection .
+
+500
+01:11:46,554 --> 01:11:52,692
+Despite this, evidence to date suggests that 17OHPC is safe for the fetus .
+
+501
+01:11:52,692 --> 01:12:03,517
+No abnormalities, including abnormal genitalia, were found in a 48-month follow-up study of infants exposed in the 2003 MFMU Network trial .
+
+502
+01:12:03,517 --> 01:12:14,554
+Simons and coworkers (2021) also reported no effect of progestogens on child development in a systematic review comprising numerous developmental measurements.
+
+503
+01:12:14,554 --> 01:12:22,254
+PROLONG Trial The FDA-required confirmatory trial was the PROLONG trial and completed in October 2018.
+
+504
+01:12:22,254 --> 01:12:30,367
+A total of 1708 women were randomly assigned in a 2:1 ratio to receive 17-OHPC or placebo.
+
+505
+01:12:30,367 --> 01:12:38,154
+This trial had two primary endpoints, which were birth <35 weeks’ gestation and a neonatal composite.
+
+506
+01:12:38,154 --> 01:12:42,867
+Data were analyzed for 1651 of the liveborn neonates .
+
+507
+01:12:42,867 --> 01:12:47,542
+Progesterone was not effective in preventing recurrent preterm birth.
+
+508
+01:12:47,542 --> 01:12:54,692
+In the analysis of various secondary outcomes, 17-OHPC treatment also lacked efficacy.
+
+509
+01:12:54,692 --> 01:12:57,392
+Table 45-7.
+
+510
+01:12:57,392 --> 01:13:05,217
+Perinatal Outcomes of PROLONG Trial FDA Recommendations In October 2019, the FDA convened an
+
+511
+01:13:05,380 --> 01:13:10,630
+Advisory Committee meeting to review 17-OHPC and the new data.
+
+512
+01:13:10,580 --> 01:13:18,917
+Efficacy, side effects, and several subgroup analyses were studied, and none supported 17-OHPC efficacy .
+
+513
+01:13:18,917 --> 01:13:32,667
+The FDA concluded that the PROLONG trial did not demonstrate a treatment benefit of 17-OHPC in reducing the neonatal composite index or the rate of spontaneous preterm birth prior to 35 weeks’ gestation.
+
+514
+01:13:32,667 --> 01:13:36,505
+The Advisory Committee recommended to withdraw approval.
+
+515
+01:13:36,505 --> 01:13:46,155
+In November 2020, the Center for Drug Evaluation and Research proposed that Makena (17-OHPC) be withdrawn from the market .
+
+516
+01:13:46,155 --> 01:13:48,905
+Figure 45-6.
+
+517
+01:13:48,905 --> 01:14:01,217
+In analysis of co-primary endpoints for the PROLONG Trial, five of the included defining risk factors were noted to be different from those in the Maternal-Fetal Medicine Units Network trial (see text).
+
+518
+01:14:01,217 --> 01:14:12,855
+These are black race, >1 prior spontaneous preterm birth, single or without a partner, substance use during pregnancy, and ≤12 years of formal education.
+
+519
+01:14:12,855 --> 01:14:25,605
+The three groups examined in this post-hoc composite risk profile analysis were those with no risk factors, those with ≥1 risk factor, and those with ≥2 risk factors.
+
+520
+01:14:25,605 --> 01:14:29,580
+Makena is the brand name of 17-OHPC.
+
+521
+01:14:29,580 --> 01:14:33,217
+Response to the FDA position has been mixed.
+
+522
+01:14:33,217 --> 01:14:51,780
+Both the American College of Obstetricians (2019a, 2021a) and Society for Maternal-Fetal Medicine (2020b) have issued statements endorsing continued use of 17OHPC for prevention of recurrent preterm birth in women with singleton pregnancies.
+
+523
+01:14:51,780 --> 01:15:04,667
+Endorsements by these organizations continue after publication of a metaanalysis by the Evaluating Progestogens for Preventing Preterm birth International Collaborative (EPPPIC) Group (2021).
+
+524
+01:15:04,667 --> 01:15:15,655
+These investigators summarized that vaginal progesterone and 17-OHPC both reduced birth rates before 34 weeks’ gestation in high-risk singleton pregnancies.
+
+525
+01:15:15,655 --> 01:15:21,842
+Notably, the findings for 17-OHPC did not reach statistical significance.
+
+526
+01:15:21,842 --> 01:15:28,205
+Moreover, this metaanalysis grouped together trials of patients with differing risk profiles.
+
+527
+01:15:28,205 --> 01:15:34,830
+It combined women with and without a prior preterm birth as well as women with and without a short cervix.
+
+528
+01:15:34,830 --> 01:15:46,880
+These positions have stimulated several dueling commentaries regarding its use (Chang, 2020; Godlewski, 2020; Greene, 2020; Sibai, 2020).
+
+529
+01:15:46,880 --> 01:15:51,755
+At this time, the FDA has not withdrawn the accelerated approval.
+
+530
+01:15:51,755 --> 01:16:01,092
+If formally withdrawn, however, a consequence may be continued “off-label” use, with the caveat that insurers may not provide payment coverage.
+
+531
+01:16:01,092 --> 01:16:05,405
+# Progesterone Prophylaxis with Shortened Cervix.
+
+532
+01:16:05,405 --> 01:16:14,492
+Three randomized trials are at the center of whether progestogen therapy should be used in women without prior preterm births but who have a shortened cervix .
+
+533
+01:16:14,492 --> 01:16:32,242
+In the first trial, 250 women with short cervices measuring ≤15 mm identified during routine prenatal care were nightly given 200-mg micronized progesterone vaginal capsules or placebo from 24 to 34 weeks’ gestation .
+
+534
+01:16:32,242 --> 01:16:39,180
+The rate of spontaneous delivery <34 weeks was significantly reduced by progesterone therapy.
+
+535
+01:16:39,180 --> 01:16:45,892
+Importantly, this trial included nulliparas and also those with twins or prior preterm birth.
+
+536
+01:16:45,892 --> 01:16:48,455
+Table 45-8.
+
+537
+01:16:48,455 --> 01:17:05,617
+Randomized Trials of Progestogen Compounds Given Prophylactically to Prevent Preterm Labor In the second trial, 465 women with a short cervix—10 to 20 mm—were given vaginal progesterone gel, 90 mg daily, or placebo .
+
+538
+01:17:05,617 --> 01:17:12,105
+Those receiving progesterone had significantly lower rates of preterm birth <33 weeks.
+
+539
+01:17:12,105 --> 01:17:17,205
+This trial also included nulliparas and women with prior preterm births.
+
+540
+01:17:17,205 --> 01:17:37,230
+According to Likis and colleagues (2012), the heterogeneity of these first two studies that included women with varied indications for progestogen treatment, combined with the fact that outcomes were not reported by risk factors such as nulliparity, made it impossible to interpret the efficacy of progesterone for specific indications.
+
+541
+01:17:37,230 --> 01:17:54,392
+The third study randomly assigned administration of 17-OHPC intramuscular injection or placebo between 16 and 223/7 weeks’ gestation to nulliparas with a singleton gestation and a cervical length <30 mm detected sonographically .
+
+542
+01:17:54,392 --> 01:18:01,417
+Treatment with 17-OHPC did not reduce the frequency of preterm birth <37 weeks.
+
+543
+01:18:01,417 --> 01:18:03,317
+Regardless of
+
+544
+01:18:03,484 --> 01:18:07,871
+cervical length, 17OHPC was ineffective.
+
+545
+01:18:07,821 --> 01:18:17,646
+From these, vaginal progesterone, but not intramuscular 17-OHPC, appears to benefit women with a sonographically measured short cervix.
+
+546
+01:18:17,646 --> 01:18:32,409
+Romero and Stanczyk (2013) provided a review to explain the conflicting evidence and argued that naturally occurring progesterone, which is used in the vaginal preparations, is not the same as synthetic 17-OHPC.
+
+547
+01:18:32,409 --> 01:18:44,046
+Likewise, Furcron and coworkers (2015) found that 17-OHPC did not have local antiinflammatory effects at the maternal-fetal interface or cervix.
+
+548
+01:18:44,046 --> 01:18:50,409
+Further, 17OHPC did not protect against endotoxin-induced preterm birth.
+
+549
+01:18:50,409 --> 01:19:03,546
+From all these studies, the American College of Obstetricians and Gynecologists (2021c) concluded that universal cervical length screening in women without a prior preterm birth is not mandatory.
+
+550
+01:19:03,546 --> 01:19:10,259
+However, this screening strategy could be considered in the context of treatment with vaginal progesterone.
+
+551
+01:19:10,259 --> 01:19:22,646
+Because of the preliminary results suggesting success of vaginally administered progesterone, the OPPTIMUM study was carried out—does progesterone prophylaxis to prevent preterm labor improve outcome?
+
+552
+01:19:22,646 --> 01:19:38,896
+High-risk women were defined as those with a prior spontaneous birth ≤34 weeks or with a cervical length ≤25 mm or a positive fFN test result combined with other clinical risk factors for preterm birth.
+
+553
+01:19:38,896 --> 01:19:46,021
+The primary outcomes of OPPTIMUM were unique in that both immediate obstetrical and childhood outcomes were examined.
+
+554
+01:19:46,021 --> 01:19:57,646
+These were fetal death or birth <34 weeks; a composite of death, brain injury, or bronchopulmonary dysplasia; and a standardized cognitive score at age 2 years.
+
+555
+01:19:57,646 --> 01:20:07,284
+Contrary to earlier reports, vaginal progesterone was not associated with a lower risk of preterm birth or composite neonatal adverse outcomes.
+
+556
+01:20:07,284 --> 01:20:13,196
+In children at 2 years, vaginal progesterone had no long-term benefit or harm.
+
+557
+01:20:13,196 --> 01:20:15,984
+# Progestogens Summary.
+
+558
+01:20:15,984 --> 01:20:22,821
+Thus, evidence remains conflicting as to the efficacy of progestogens across various indications.
+
+559
+01:20:22,821 --> 01:20:38,521
+Some have attempted to resolve these issues through systematic review and metaanalysis (Conde-Agudelo, 2018; da Fonseca, 2020; Jarde, 2019; Prior, 2017; Romero, 2018).
+
+560
+01:20:38,521 --> 01:20:46,096
+However, virtually all evidence supporting progestogen use for a specific indication can be challenged in some way.
+
+561
+01:20:46,096 --> 01:21:06,559
+At this time, we agree with Norman and colleagues (2016) that the results of recent studies should prompt a major review of progesterone use for preterm birth prophylaxis, a search to identify specific women who might benefit, and a redoubling of efforts to find alternative strategies to prevent preterm birth in women at risk.
+
+562
+01:21:06,559 --> 01:21:10,459
+# Geography-based Public Health-care Programs.
+
+563
+01:21:10,459 --> 01:21:17,159
+A well-organized prenatal system can lower preterm birth rates in high-risk indigent populations .
+
+564
+01:21:17,159 --> 01:21:29,734
+For example, in the Parkland Hospital prenatal clinic system, a declining preterm birth rate between 1988 and 2006 coincided with a substantial rise in prenatal visit attendance .
+
+565
+01:21:29,734 --> 01:21:41,071
+In the early 1990s, a concerted effort was made to improve access by creating seamless care that began with antenatal enrollment and extended through delivery and the puerperium.
+
+566
+01:21:41,071 --> 01:21:47,971
+Prenatal clinics were placed strategically throughout Dallas County to provide convenient access for patients.
+
+567
+01:21:47,971 --> 01:21:54,821
+Prenatal protocols are used by nurse practitioners at all clinic sites to guarantee homogeneous care.
+
+568
+01:21:54,821 --> 01:22:01,171
+Women with high-risk pregnancy complications are referred to a hospital-based central clinic system.
+
+569
+01:22:01,171 --> 01:22:10,109
+Here, maternal-fetal medicine clinics operate each weekday and are staffed by residents and midwives who are supervised by fellows and faculty.
+
+570
+01:22:10,109 --> 01:22:12,809
+Figure 45-7.
+
+571
+01:22:12,809 --> 01:22:24,346
+Percentage of births before 37 weeks’ gestation at Parkland Hospital from 1988 to 2006 compared with that in the United States from 1996 to 2002.
+
+572
+01:22:24,346 --> 01:22:32,996
+Analysis in both cohorts was limited to singleton liveborn infants ≥500 g who received prenatal care.
+
+573
+01:22:32,996 --> 01:22:43,059
+Reproduced with permission from Leveno KJ, McIntire DD, Bloom SL, et al: Decreased preterm births in an inner-city public hospital.
+
+574
+01:22:43,059 --> 01:22:50,221
+Obstet Gynecol. 2009 Mar;113(3):578–584.
+
+575
+01:22:50,221 --> 01:22:58,321
+A similar obstetrical care system for indigent women at the University of Alabama at Birmingham also has produced salutary
+
+576
+01:22:58,492 --> 01:23:00,129
+results .
+
+577
+01:23:00,079 --> 01:23:08,242
+Given the recent emphasis on access to care, especially among underserved minorities, these experiences remain relevant .
+
+578
+01:23:08,242 --> 01:23:16,379
+Prenatal care is an important component of a comprehensive public health-care system that at least partially affects the preterm birth rate.
+
+579
+01:23:16,379 --> 01:23:18,529
+# Aspirin.
+
+580
+01:23:18,529 --> 01:23:31,929
+Acetylsalicylic acid (ASA) is a cyclooxygenase inhibitor with antiinflammatory and antiplatelet properties that has been used in pregnancy most commonly to prevent or delay onset of preeclampsia .
+
+581
+01:23:31,929 --> 01:23:38,142
+Data now suggest that low-dose aspirin may also reduce spontaneous preterm birth rates .
+
+582
+01:23:38,142 --> 01:23:56,067
+In one randomized study of 11,976 nulliparas in six low- and middle-income countries, women were randomly assigned to receive low-dose aspirin (81 mg) or placebo initiated between 60/7 and 136/7 weeks’ gestation .
+
+583
+01:23:56,067 --> 01:24:03,529
+Low-dose aspirin decreased the incidence of birth <37 weeks and reduced the perinatal mortality rate.
+
+584
+01:24:03,529 --> 01:24:12,092
+Although this trial did not differentiate spontaneous from indicated preterm birth, it requires replication in high-resource settings.
+
+585
+01:24:12,092 --> 01:24:25,429
+The American College of Obstetricians and Gynecologists (2020c) does not recommend low-dose aspirin prophylaxis to prevent spontaneous preterm birth in the absence of preeclampsia risk factors.
+
+586
+01:24:25,429 --> 01:24:28,804
+Management Of Preterm Prelabor Rupture.
+
+587
+01:24:28,804 --> 01:24:30,667
+Of Membranes.
+
+588
+01:24:30,667 --> 01:24:37,529
+Methods used to diagnose ruptured membranes are detailed in Chapter 22 (p. 426).
+
+589
+01:24:37,529 --> 01:24:51,404
+A history of vaginal leakage of fluid, either as a continuous stream or a gush, should prompt a speculum examination to visualize gross vaginal pooling of amnionic fluid, clear fluid from the cervical canal, or both.
+
+590
+01:24:51,404 --> 01:25:05,479
+Confirmation of rupture of membranes is usually accompanied by sonographic examination to assess amnionic fluid volume, to identify the presenting part, and if not previously determined, to estimate gestational age.
+
+591
+01:25:05,479 --> 01:25:12,892
+Once PPROM is identified, the general scheme shown in Table 45-9 can guide management.
+
+592
+01:25:12,892 --> 01:25:15,492
+Table 45-9.
+
+593
+01:25:15,492 --> 01:25:20,392
+Management of Prelabor Rupture of Membranes # Natural History.
+
+594
+01:25:20,392 --> 01:25:27,354
+The time from PPROM to delivery is inversely related to the gestational age at which rupture occurs.
+
+595
+01:25:27,354 --> 01:25:33,742
+Very few days are gained if membranes rupture during the third trimester compared with midpregnancy .
+
+596
+01:25:33,742 --> 01:25:36,292
+Figure 45-8.
+
+597
+01:25:36,292 --> 01:25:43,942
+Relationship of time between preterm membrane rupture and delivery in 172 singleton pregnancies.
+
+598
+01:25:43,942 --> 01:25:53,167
+Reproduced with permission from Carroll SG, Blott M, Nicolaides KH: Preterm prelabor amniorrhexis: Outcome of live births.
+
+599
+01:25:53,167 --> 01:25:59,304
+Obstet Gynecol 1995 Jul;86(1):18–25.
+
+600
+01:25:59,304 --> 01:26:10,754
+In an earlier study from Parkland Hospital, 298 consecutive women with spontaneously ruptured membranes between 24 and 34 weeks’ gestation were analyzed .
+
+601
+01:26:10,754 --> 01:26:15,967
+PPROM constituted 1.7 percent of pregnancies during the study period.
+
+602
+01:26:15,967 --> 01:26:24,467
+At the time they presented, 76 percent of the women were already in labor, and 5 percent were delivered for other complications.
+
+603
+01:26:24,467 --> 01:26:29,742
+Thus, only 19 percent initially were suitable for expectant management.
+
+604
+01:26:29,742 --> 01:26:38,117
+Ultimately, delivery was delayed 48 hours or more after membrane rupture in only 7 percent of the total study cohort.
+
+605
+01:26:38,117 --> 01:26:41,004
+None of the neonates in this group died.
+
+606
+01:26:41,004 --> 01:26:49,017
+This contrasted with a neonatal death rate of 8 percent in preterm newborns delivered within 48 hours of membrane rupture.
+
+607
+01:26:49,017 --> 01:26:51,929
+Others have reported similar results .
+
+608
+01:26:51,929 --> 01:26:54,504
+# Hospitalization.
+
+609
+01:26:54,504 --> 01:26:58,692
+Most clinicians hospitalize women with PPROM.
+
+610
+01:26:58,692 --> 01:27:07,979
+Concerns regarding the costs of lengthy hospitalizations are usually moot, because most women enter labor within a week or less after membrane rupture.
+
+611
+01:27:07,979 --> 01:27:18,792
+Carlan and coworkers (1993) randomly assigned 67 women with PPROM at <37 weeks’ gestation to home or hospital management.
+
+612
+01:27:18,792 --> 01:27:22,367
+The mean gestational age was 31 weeks.
+
+613
+01:27:22,367 --> 01:27:32,129
+No benefits were found for hospitalization, and maternal hospital stays were reduced by 50 percent in those sent home—14 versus 7 days.
+
+614
+01:27:32,129 --> 01:27:41,517
+Importantly, the investigators emphasized that this study was too small to conclude that home management was safe in regard to umbilical cord prolapse.
+
+615
+01:27:41,517 --> 01:27:48,142
+If hospitalization is chosen, no consensus guides the optimal frequency of inpatient assessment.
+
+616
+01:27:48,142 --> 01:27:58,642
+The American College of Obstetricians and Gynecologists (2020g) notes that an acceptable strategy would include periodic sonograms for fetal growth,
+
+617
+01:27:58,804 --> 01:28:05,241
+fetal heart rate monitoring, and clinical surveillance for maternal infection—particularly fever.
+
+618
+01:28:05,191 --> 01:28:17,691
+During the periviable period and at gestation ages before interventions would be planned, a short period of initial observation and consideration of outpatient monitoring in select cases is reasonable.
+
+619
+01:28:17,691 --> 01:28:21,929
+Hospitalization would then be practiced at the time of viability.
+
+620
+01:28:21,929 --> 01:28:24,641
+# Intentional Delivery.
+
+621
+01:28:24,641 --> 01:28:31,941
+Before the mid-1970s, labor was usually induced in women with PPROM because of sepsis fears.
+
+622
+01:28:31,941 --> 01:28:41,879
+Maternal infection risk and fetal prematurity risk vary according to the gestational age at membrane rupture, and management decisions incorporate this data.
+
+623
+01:28:41,879 --> 01:28:52,554
+With periviable pregnancy, Morales (1993b) expectantly managed 94 singleton pregnancies with PPROM before 25 weeks.
+
+624
+01:28:52,554 --> 01:28:55,754
+The average time gained was 11 days.
+
+625
+01:28:55,754 --> 01:29:04,279
+Although 41 percent of infants survived to age 1 year, only 27 percent of the original cohort were neurologically normal.
+
+626
+01:29:04,279 --> 01:29:11,604
+Similar results were reported by Farooqi (1998) and Winn (2000) and their colleagues.
+
+627
+01:29:11,604 --> 01:29:17,041
+Management of these early pregnancies is discussed on page 785.
+
+628
+01:29:17,041 --> 01:29:29,041
+For PPROM in general, two randomized trials in the 1990s compared labor induction with expectant management (Cox, 1995; Mercer, 1993).
+
+629
+01:29:29,041 --> 01:29:39,941
+In both of these studies, the balance of risk and benefit was difficult to ascertain, as neither immediate delivery nor expectant management was superior for neonatal outcomes.
+
+630
+01:29:39,941 --> 01:29:48,879
+Lieman and associates (2005) found that neonatal outcomes did not improve with expectant management beyond 33 weeks.
+
+631
+01:29:48,879 --> 01:29:59,441
+McElrath and coworkers (2003) found that prolonged latency after membrane rupture was not associated with a greater incidence of fetal neurological damage.
+
+632
+01:29:59,441 --> 01:30:11,666
+An important correlate is that infection—specifically chorioamnionitis—is a recognized risk factor for neonatal neurological injury (Gaudet, 2001; Wu, 2000).
+
+633
+01:30:11,666 --> 01:30:21,566
+Bond and colleagues (2017) compared planned early birth with expectant management for women with PPROM before 37 weeks’ gestation.
+
+634
+01:30:21,566 --> 01:30:30,416
+They evaluated 12 randomized trials totaling 3617 women and 3628 newborns.
+
+635
+01:30:30,416 --> 01:30:39,741
+No clinically important differences in the incidence of neonatal sepsis between women who immediately delivered and those managed expectantly were identified.
+
+636
+01:30:39,741 --> 01:30:51,566
+Although the incidence of chorioamnionitis was lower, neonates of women randomized to early birth were more likely to be born at an earlier gestational age and encountered attendant perinatal sequelae.
+
+637
+01:30:51,566 --> 01:31:07,466
+The authors concluded that in women with rupture of membranes before 37 weeks’ gestation without contraindications to continuing the pregnancy, a policy of expectant management with careful monitoring was associated with better outcomes for both the mother and newborn.
+
+638
+01:31:07,466 --> 01:31:22,916
+A subsequent metaanalysis of late-preterm prelabor rupture of membranes by Quist-Nelson and coworkers (2018) noted that immediate delivery and expectant management resulted in comparable rates of the composite of adverse neonatal outcomes.
+
+639
+01:31:22,916 --> 01:31:36,241
+Because of conflicting data and the controversies of immediate delivery compared with expectant management, the American College of Obstetricians and Gynecologists (2020g) cannot make firm recommendations.
+
+640
+01:31:36,241 --> 01:31:40,516
+Clearly, gestational age is an important consideration.
+
+641
+01:31:40,516 --> 01:31:53,129
+At 240/7 to 336/7 weeks, expectant management in the absence of nonreassuring fetal status, clinical chorioamnionitis, or placental abruption is recommended.
+
+642
+01:31:53,129 --> 01:32:10,766
+At 340/7 to 366/7 weeks’ gestation, delivery was once recommended, however, it is now considered reasonable to offer either expectant management or immediate delivery following consideration of risks and benefits, counseling, and shared decision-making.
+
+643
+01:32:10,766 --> 01:32:15,954
+Expectant management should not go beyond 370/7 weeks’ gestation.
+
+644
+01:32:15,954 --> 01:32:26,754
+Based upon limitations of access to care and resources, our current practices at Parkland Hospital continue to favor immediate delivery after 34 weeks’ gestation.
+
+645
+01:32:26,754 --> 01:32:29,479
+# Expectant Management.
+
+646
+01:32:29,479 --> 01:32:38,141
+Several considerations arise during expectant management of PPROM (Boettcher, 2020; Shaddeau, 2020).
+
+647
+01:32:38,141 --> 01:32:41,216
+One is digital cervical examination.
+
+648
+01:32:41,216 --> 01:32:50,754
+Alexander and colleagues (2000) analyzed findings in women with membrane rupture expectantly managed between 24 and 32 weeks’
+
+649
+01:32:50,908 --> 01:32:52,645
+gestation.
+
+650
+01:32:52,595 --> 01:32:58,845
+They compared those who had one or two digital cervical examinations with women who were not examined.
+
+651
+01:32:58,845 --> 01:33:05,833
+Those who were examined had a rupture-todelivery interval of 3 days compared with 5 days in those not examined.
+
+652
+01:33:05,833 --> 01:33:10,208
+This difference did not worsen maternal or neonatal outcomes.
+
+653
+01:33:10,208 --> 01:33:17,295
+At Parkland Hospital, digital cervical examination is used judiciously in PPROM cases.
+
+654
+01:33:17,295 --> 01:33:22,620
+Rupture of membranes following second-trimester amniocentesis is uncommon .
+
+655
+01:33:22,620 --> 01:33:38,083
+Compared with women with spontaneous rupture during the second trimester, Borgida and associates (2000) found that pregnancies complicated by PPROM after genetic amniocentesis resulted in significantly better perinatal outcomes.
+
+656
+01:33:38,083 --> 01:33:41,870
+The perinatal survival rate was 91 percent.
+
+657
+01:33:41,870 --> 01:33:52,170
+After counseling, affected women are typically managed expectantly as outpatients with serial surveillance of amnionic fluid volume and selfassessment of temperature .
+
+658
+01:33:52,170 --> 01:34:01,545
+In the series cited above, the mean time to documentation of a normal amnionic fluid volume after amniocentesis approximated 2 weeks.
+
+659
+01:34:01,545 --> 01:34:06,458
+Tocolysis given with PPROM has been reported in few studies.
+
+660
+01:34:06,458 --> 01:34:16,933
+In women with ruptured membranes and lack of labor, prophylactic tocolysis does not improve neonatal outcomes but is associated with greater chorioamnionitis rates .
+
+661
+01:34:16,933 --> 01:34:25,533
+Similarly, therapeutic tocolysis— for those with ruptured membranes and labor—has not provided significant perinatal benefit .
+
+662
+01:34:25,533 --> 01:34:31,270
+Management of PPROM in the woman who has undergone cervical cerclage is complex .
+
+663
+01:34:31,270 --> 01:34:41,145
+McElrath and associates (2002) studied 114 women with a cerclage in place who later had ruptured membranes before 34 weeks.
+
+664
+01:34:41,145 --> 01:34:44,708
+They were compared with 288 controls.
+
+665
+01:34:44,708 --> 01:34:48,445
+Pregnancy outcomes were equivalent in both groups.
+
+666
+01:34:48,445 --> 01:35:04,933
+Cerclage retention for more than 24 hours after PPROM may be associated with pregnancy prolongation, however, intrauterine infection and its consequences are risks (Giraldo-Isaza, 2011; Laskin, 2012).
+
+667
+01:35:04,933 --> 01:35:14,933
+At Parkland Hospital, cerclage retention in the absence of infection or labor is currently practiced with close clinical surveillance in those with PPROM.
+
+668
+01:35:14,933 --> 01:35:28,208
+With PPROM in pregnancies before 26 weeks, the volume of amnionic fluid remaining after rupture appears to have prognostic importance (Carroll, 1995; Hadi, 1994).
+
+669
+01:35:28,208 --> 01:35:38,558
+Although varied by report, current rates of pulmonary hypoplasia with PPROM before 24 weeks among surviving neonates can be as high as 30 percent .
+
+670
+01:35:38,558 --> 01:35:44,333
+This suggests that 23 weeks reflects a threshold for lung hypoplasia development .
+
+671
+01:35:44,333 --> 01:35:53,983
+Further, when contemplating early expectant management, oligohydramnios and resultant limb compression deformities are influencing considerations.
+
+672
+01:35:53,983 --> 01:36:05,208
+For neonates born to women who have active herpetic lesions and who are expectantly managed, the infectious morbidity risk appears to be outweighed by risks associated with preterm birth .
+
+673
+01:36:05,208 --> 01:36:19,233
+Lewis and associates (2007) found that expectant management of women with PPROM and noncephalic presentation was associated with a higher rate of umbilical cord prolapse, especially before 26 weeks.
+
+674
+01:36:19,233 --> 01:36:23,658
+Tissue sealants are often used to gain surgical hemostasis.
+
+675
+01:36:23,658 --> 01:36:28,270
+Limited reports describe their use for repair of fetal membranes .
+
+676
+01:36:28,270 --> 01:36:38,258
+Crowley and coworkers (2016) concluded that available data are currently insufficient to assess the value of sealing procedures for PPROM.
+
+677
+01:36:38,258 --> 01:36:41,708
+We do not use these agents for this indication.
+
+678
+01:36:41,708 --> 01:36:44,933
+# Clinical Chorioamnionitis.
+
+679
+01:36:44,933 --> 01:36:48,695
+Infection is a major concern with membrane rupture.
+
+680
+01:36:48,695 --> 01:36:58,895
+Although some cases remain subclinical, if chorioamnionitis is diagnosed, prompt efforts to effect delivery, preferably vaginally, are initiated.
+
+681
+01:36:58,895 --> 01:37:08,408
+Because maternal leukocytosis alone is not a consistent finding, fever is the only reliable indicator for the diagnosis of chorioamnionitis.
+
+682
+01:37:08,408 --> 01:37:13,858
+Institutional practices and protocols vary in defining the temperature threshold.
+
+683
+01:37:13,858 --> 01:37:24,770
+Traditionally, a temperature ≥38°C (100.4°F) accompanying ruptured membranes has implied infection.
+
+684
+01:37:24,770 --> 01:37:29,008
+At Parkland Hospital, we still adhere to this criterion.
+
+685
+01:37:29,008 --> 01:37:39,220
+In 2015, a workshop sponsored by the NICHD was convened and suggested renaming this condition intraamnionic infection and inflammation —triple I .
+
+686
+01:37:39,220 --> 01:37:42,770
+The merits of this terminology have been questioned .
+
+687
+01:37:42,940 --> 01:37:54,177
+Nonetheless, the American College of Obstetricians and Gynecologists (2019b) revised both the definitions and temperature thresholds for intraamnionic infection.
+
+688
+01:37:54,127 --> 01:38:13,302
+Using these new definitions, the diagnosis of suspected intraamnionic infection is made when the maternal temperature is ≥39.0°C or when the maternal temperature is 38.0 to 38.9°C and one additional clinical risk factor is present.
+
+689
+01:38:13,302 --> 01:38:30,365
+The latter include low parity, multiple digital examinations, internal uterine and fetal monitors, meconium-stained amnionic fluid, and the presence of certain genital tract pathogens, such as group B streptococcus (GBS) and sexually transmitted agents.
+
+690
+01:38:30,365 --> 01:38:44,827
+Isolated maternal fever is defined as any maternal temperature between 38.0°C and 38.9°C with no additional risk factors present, and with or without persistent temperature elevation.
+
+691
+01:38:44,827 --> 01:38:50,752
+With chorioamnionitis, fetal and neonatal morbidity are substantively increased.
+
+692
+01:38:50,752 --> 01:38:59,415
+Alexander and colleagues (1998) studied 1367 very-lowbirthweight neonates delivered at Parkland Hospital.
+
+693
+01:38:59,415 --> 01:39:08,915
+Approximately 7 percent were born to women with overt chorioamnionitis, and their outcomes were compared with similar newborns without clinical infection.
+
+694
+01:39:08,915 --> 01:39:19,902
+Those in the infected group had higher incidences of sepsis, respiratory distress, early-onset seizures, intraventricular hemorrhage, and periventricular leukomalacia.
+
+695
+01:39:19,902 --> 01:39:28,990
+Yoon and colleagues (2000) found that intraamnionic infection in preterm neonates was associated with increased rates of cerebral palsy.
+
+696
+01:39:28,990 --> 01:39:40,502
+In one study of more than 11 million singleton live births in the United States from 1995 to 1997, 1.6 percent of gravidas had fever during labor.
+
+697
+01:39:40,502 --> 01:39:46,315
+This was a strong predictor of infection-related death in both term and preterm neonates .
+
+698
+01:39:46,315 --> 01:39:49,377
+# Antimicrobial Therapy.
+
+699
+01:39:49,377 --> 01:39:54,727
+Various antimicrobials have been evaluated to forestall preterm delivery.
+
+700
+01:39:54,727 --> 01:40:04,940
+Mercer and associates (1995) reviewed 13 randomized trials that evaluated antibiotics for PPROM before 35 weeks.
+
+701
+01:40:04,940 --> 01:40:22,015
+Their metaanalysis indicated that only three of 10 outcomes were possibly benefited: (1) fewer women developed chorioamnionitis, (2) fewer newborns developed sepsis, and (3) pregnancy was more often prolonged 7 days in women given antibiotics.
+
+702
+01:40:22,015 --> 01:40:29,402
+However, rates of other neonatal outcomes, including survival and respiratory distress, were unaffected.
+
+703
+01:40:29,402 --> 01:40:42,552
+In an MFMU Network trial, women with membrane rupture between 24 and 32 weeks’ gestation were randomly assigned to expectant management combined with placebo or to a 7-day antibiotic regimen.
+
+704
+01:40:42,552 --> 01:40:54,865
+Treatment included intravenous ampicillin plus erythromycin every 6 hours for 48 hours, which was followed by oral amoxicillin plus erythromycin, every 8 hours for 5 days.
+
+705
+01:40:54,865 --> 01:40:58,652
+Neither tocolytics nor corticosteroids were given.
+
+706
+01:40:58,652 --> 01:41:08,615
+Antimicrobialtreated women had significantly fewer newborns with respiratory distress, necrotizing enterocolitis, and composite adverse outcomes .
+
+707
+01:41:08,615 --> 01:41:12,440
+The latency period was also significantly longer.
+
+708
+01:41:12,440 --> 01:41:23,390
+Specifically, 50 percent of women given an antimicrobial regimen remained undelivered after 7 days of treatment compared with only 25 percent of those given placebo.
+
+709
+01:41:23,390 --> 01:41:30,290
+Also, a significantly greater number of treated pregnancies were undelivered at 14 and 21 days.
+
+710
+01:41:30,290 --> 01:41:35,127
+Cervicovaginal GBS colonization did not alter these results.
+
+711
+01:41:35,127 --> 01:41:41,965
+Other studies have examined the efficacy of shorter treatment lengths and different antimicrobial combinations.
+
+712
+01:41:41,965 --> 01:41:55,152
+Three-day treatments compared with 7day regimens using either ampicillin or ampicillin-sulbactam appear equally effective in regard to perinatal outcomes (Lewis, 2003; Segel, 2003).
+
+713
+01:41:55,152 --> 01:42:02,065
+Similarly, erythromycin compared with placebo offered a range of significant neonatal benefits.
+
+714
+01:42:02,065 --> 01:42:12,552
+The substitution of azithromycin for erythromycin does not appear to impact maternal or neonatal outcomes, and the former has an improved side-effect profile .
+
+715
+01:42:12,552 --> 01:42:22,890
+An amoxicillinclavulanate regimen is not recommended, however, because of its association with an increased incidence of neonatal necrotizing enterocolitis .
+
+716
+01:42:22,890 --> 01:42:33,840
+Some predicted that prolonged antimicrobial therapy in such pregnancies might have unwanted consequences (Carroll, 1996; Mercer, 1999).
+
+717
+01:42:33,840 --> 01:42:37,090
+Stoll and associates (2002)
+
+718
+01:42:37,252 --> 01:42:46,314
+studied 4337 neonates weighing from 400 to 1500 g and born from 1998 to 2000.
+
+719
+01:42:46,264 --> 01:42:58,514
+Their outcomes were compared with those of 7606 neonates of similar birthweight born from 1991 to 1993 and prior to the practice of antibiotic prophylaxis.
+
+720
+01:42:58,514 --> 01:43:03,864
+The overall rate of early-onset sepsis did not change between these two epochs.
+
+721
+01:43:03,864 --> 01:43:13,952
+But, the rate of GBS sepsis dropped from 5.9 per 1000 births in the earlier group to 1.7 per 1000 births in the later group.
+
+722
+01:43:13,952 --> 01:43:23,077
+Comparing these same epochs, the rate of Escherichia coli sepsis, however, rose from 3.2 to 6.8 per 1000 births.
+
+723
+01:43:23,077 --> 01:43:29,114
+Almost 85 percent of isolates from the more recent cohort were resistant to ampicillin.
+
+724
+01:43:29,114 --> 01:43:35,927
+Neonates with early-onset sepsis were more likely to die, especially if they were infected with coliforms.
+
+725
+01:43:35,927 --> 01:43:47,439
+Long term, Kenyon and coworkers (2008a) found that antimicrobials given for women with PPROM had no effect on the health of children at age 7 years.
+
+726
+01:43:47,439 --> 01:43:50,427
+# Corticosteroid Therapy.
+
+727
+01:43:50,427 --> 01:43:59,802
+A single course of corticosteroids is recommended for pregnant women with PPROM between 240/7 and 340/7 weeks’ gestation .
+
+728
+01:43:59,802 --> 01:44:08,527
+A single course of corticosteroids as early as 230/7 weeks in those at risk for preterm delivery within 7 days may be considered.
+
+729
+01:44:08,527 --> 01:44:20,477
+A similar controversy is found at the other end of the gestational age spectrum, 340/7 to 366/7 weeks’ gestation and with rescue therapy (p. 803).
+
+730
+01:44:20,477 --> 01:44:25,852
+These issues were summarized by Battarbee (2020) in a recent review.
+
+731
+01:44:25,852 --> 01:44:29,177
+Management Of Preterm Labor With Intact.
+
+732
+01:44:29,177 --> 01:44:30,964
+Membranes.
+
+733
+01:44:30,964 --> 01:44:38,589
+Women with signs and symptoms of preterm labor with intact membranes are managed similarly to those with PPROM.
+
+734
+01:44:38,589 --> 01:44:43,514
+If possible, delivery before 34 weeks’ gestation is delayed.
+
+735
+01:44:43,514 --> 01:44:49,339
+Drugs used to abate or suppress preterm uterine contractions are subsequently discussed.
+
+736
+01:44:49,339 --> 01:44:53,102
+# Amniocentesis to Detect Infection.
+
+737
+01:44:53,102 --> 01:45:01,027
+One of every 10 women with preterm labor and intact membranes will have intraamnionic infection that is largely subclinical .
+
+738
+01:45:01,027 --> 01:45:12,389
+Because of this, several tests have been used to diagnose intraamnionic infection (Andrews, 1995; Romero, 1993; Yoon, 1996).
+
+739
+01:45:12,389 --> 01:45:19,964
+Although such infection can be identified with a positive test result, routine amniocentesis offers little value.
+
+740
+01:45:19,964 --> 01:45:22,952
+# Corticosteroid Therapy.
+
+741
+01:45:22,952 --> 01:45:35,152
+Glucocorticosteroids were found to accelerate lung maturation in preterm sheep fetuses, and Liggins and Howie (1972) evaluated them to treat women with preterm labor.
+
+742
+01:45:35,152 --> 01:45:48,489
+Corticosteroid therapy was effective in lowering the incidence of respiratory distress syndrome (RDS) and neonatal mortality rates if birth was delayed for at least 24 hours after initiation of betamethasone.
+
+743
+01:45:48,489 --> 01:45:56,152
+Infants exposed to corticosteroids in these early studies have now been followed into adulthood with no ill effects detected.
+
+744
+01:45:56,152 --> 01:46:08,014
+In 1995, a National Institutes of Health (NIH) Consensus Development Conference panel recommended corticosteroids for fetal lung maturation in threatened preterm birth.
+
+745
+01:46:08,014 --> 01:46:24,214
+A subsequent NIH Conference (2000) summarized that data were insufficient to assess corticosteroid effectiveness in pregnancies complicated by hypertension, diabetes, multifetal gestation, fetal-growth restriction, or fetal hydrops.
+
+746
+01:46:24,214 --> 01:46:30,289
+It was concluded, however, that administering corticosteroids to these women is reasonable.
+
+747
+01:46:30,289 --> 01:46:42,364
+One metaanalysis of 30 studies totaling 7774 women and 8158 infants quantified the benefit of a single course of corticosteroids .
+
+748
+01:46:42,364 --> 01:46:57,152
+Treatment was associated with lower rates of perinatal death, neonatal death, RDS, intraventricular hemorrhage, necrotizing enterocolitis, mechanical ventilation, and systemic infection in the first 48 hours of life.
+
+749
+01:46:57,152 --> 01:47:04,989
+No obvious benefits were gained for chronic lung disease, death in childhood, or neurodevelopmental delay in childhood.
+
+750
+01:47:04,989 --> 01:47:08,989
+Therapy was not associated with chorioamnionitis.
+
+751
+01:47:08,989 --> 01:47:19,789
+Parenthetically, corticosteroids given prophylactically to women at risk of preterm birth in low- and middle-income countries actually increased perinatal mortality rates .
+
+752
+01:47:19,789 --> 01:47:33,702
+Because of this unexpected finding, a multicountry randomized trial comparing dexamethasone to placebo and involving pregnant women between 260/7 and 336/7 weeks’ gestation was recently completed .
+
+753
+01:47:33,702 --> 01:47:38,514
+The trial was stopped early due to benefits of dexamethasone, which
+
+754
+01:47:38,668 --> 01:47:43,605
+resulted in a significantly lower risk of stillbirth or neonatal death.
+
+755
+01:47:43,555 --> 01:47:50,080
+The discrepancy between the two reports was attributed to inaccuracies in gestational age assessment .
+
+756
+01:47:50,080 --> 01:48:04,768
+A single course of corticosteroids is currently recommended for women between 24 and 34 weeks’ gestation who are at risk for delivery within 7 days (American College of Obstetricians and Gynecologists (2020a).
+
+757
+01:48:04,768 --> 01:48:09,030
+This recommendation for premature twins has been challenged .
+
+758
+01:48:09,030 --> 01:48:19,155
+For pregnancies at 23 weeks and at risk of delivery within 7 days, a single course of corticosteroids may be considered (p. 785).
+
+759
+01:48:19,155 --> 01:48:28,793
+Administration of corticosteroids during the periviable period is linked to parental decisions regarding resuscitation and should be considered in that context .
+
+760
+01:48:28,793 --> 01:48:37,218
+Agent Selection Betamethasone and dexamethasone are glucocorticoids that appear equivalent in stimulating fetal lung maturation .
+
+761
+01:48:37,218 --> 01:48:51,405
+Reduced rates of major preterm neonatal morbidities and increased rates of survival without neurosensory disability at age 2 years do not differ between them (Crowther, 2019; Elimian, 2007).
+
+762
+01:48:51,405 --> 01:49:00,143
+A treatment course may be two 12-mg doses of betamethasone, and each dose is given intramuscularly 24 hours apart.
+
+763
+01:49:00,143 --> 01:49:07,468
+With dexamethasone, 6-mg doses are given intramuscularly every 12 hours for four doses.
+
+764
+01:49:07,468 --> 01:49:22,280
+Because treatment for less than 24 hours may be beneficial and reduce neonatal morbidity and mortality rates, a first dose of antenatal corticosteroids is administered regardless of the ability to complete additional doses before delivery .
+
+765
+01:49:22,280 --> 01:49:31,205
+Late-preterm Delivery Antenatal betamethasone has been compared against placebo for neonates that are likely to deliver in the late-preterm period .
+
+766
+01:49:31,205 --> 01:49:48,530
+Although only 60 percent of 2831 women received both injections, the rate of respiratory complications measured as a composite outcome was significantly lower with corticosteroid use compared with placebo—11.6 versus 14.4 percent.
+
+767
+01:49:48,530 --> 01:50:07,980
+Because of these findings, consideration for administration of a single course of betamethasone for women between 340/7 and 366/7 weeks is advocated by both the American College of Obstetricians and Gynecologists (2020a) and the Society for Maternal-Fetal Medicine (2016a).
+
+768
+01:50:07,980 --> 01:50:19,293
+Adoption of this practice has not been universal because of both shortand long-term neonatal safety concerns (Crowther, 2016; Kamath-Rayne, 2016).
+
+769
+01:50:19,293 --> 01:50:26,318
+Specifically, in the newborns receiving betamethasone, rates of hypoglycemia were significantly greater .
+
+770
+01:50:26,318 --> 01:50:34,643
+Neonatal hypoglycemia is particularly worrisome for possible adverse longterm consequences that include developmental delay .
+
+771
+01:50:34,643 --> 01:50:46,605
+Another caveat is that the largest effects of betamethasone included a reduction in transient tachypnea of the newborn (TTN), which is a selflimited condition with little clinical significance .
+
+772
+01:50:46,605 --> 01:50:55,368
+Specifically, the rates of TTN were 6.7 and 9.9 percent in those given betamethasone and placebo, respectively.
+
+773
+01:50:55,368 --> 01:51:02,493
+These rates are three- to fourfold higher than those reported by the Consortium on Safe Labor (2010).
+
+774
+01:51:02,493 --> 01:51:13,105
+The latter was a retrospective, observational study from 19 hospitals across the United States that included 233,844 deliveries.
+
+775
+01:51:13,105 --> 01:51:20,593
+Because of these issues, we do not provide corticosteroids beyond 34 weeks at Parkland Hospital at this time.
+
+776
+01:51:20,593 --> 01:51:30,318
+Repeated Courses A single dose of intramuscular corticosteroids has been compared with repeated courses for lung maturation in two major randomized trials.
+
+777
+01:51:30,318 --> 01:51:38,580
+Both found that repeated courses reduced neonatal respiratory morbidity rates, but the long-term consequences were much different.
+
+778
+01:51:38,580 --> 01:51:43,530
+In one study, all women were given a primary course of betamethasone.
+
+779
+01:51:43,530 --> 01:51:50,793
+If the preterm delivery risk persisted, they were assigned to serial weekly doses of betamethasone or placebo.
+
+780
+01:51:50,793 --> 01:51:56,305
+These investigators found no adverse effects in the infants followed to age 2 years .
+
+781
+01:51:56,305 --> 01:52:07,630
+In the second study, 495 women were randomly assigned to receive a single corticosteroid course that contained two doses or assigned to repeated courses that were given weekly .
+
+782
+01:52:07,630 --> 01:52:14,993
+In infants exposed to repeated courses, a nonsignificant rise in the cerebral palsy rate was identified.
+
+783
+01:52:14,993 --> 01:52:19,618
+Still, exposure to the doubled betamethasone dose was worrisome
+
+784
+01:52:19,780 --> 01:52:25,567
+because some experimental evidence supports the view that adverse effects are dose dependent .
+
+785
+01:52:25,517 --> 01:52:33,030
+We agree with Stiles (2007) who summarized these two studies as “early gain, long-term questions.
+
+786
+01:52:33,030 --> 01:52:43,680
+At Parkland Hospital, our practice is to follow the recommendations of the American College of Obstetricians and Gynecologists (2020a) for singlecourse therapy.
+
+787
+01:52:43,680 --> 01:52:53,917
+Rescue Therapy This refers to administration of a second corticosteroid dose when delivery becomes imminent and more than 7 days have elapsed since the initial dose.
+
+788
+01:52:53,917 --> 01:53:02,205
+In one randomized trial, 326 women received placebo or a single 12-mg dose of betamethasone .
+
+789
+01:53:02,205 --> 01:53:07,842
+Paradoxically, the rescue dose of betamethasone increased the risk of RDS.
+
+790
+01:53:07,842 --> 01:53:25,280
+In another randomized study of 437 women with gestations <33 weeks, Garite and associates (2009) reported significantly lower rates of respiratory complications and neonatal composite morbidity with rescue corticosteroids versus placebo.
+
+791
+01:53:25,280 --> 01:53:30,717
+Rates of perinatal mortality and other morbidities, however, did not differ.
+
+792
+01:53:30,717 --> 01:53:35,780
+Another study found that treated infants had improved respiratory compliance .
+
+793
+01:53:35,780 --> 01:53:51,080
+In a metaanalysis, Crowther and colleagues (2011) concluded that a single rescue course of corticosteroids should be considered in women whose prior course was administered at least 7 days previously and who were <34 weeks’ gestation.
+
+794
+01:53:51,080 --> 01:54:07,892
+The American College of Obstetricians and Gynecologists (2020a) notes that a single rescue course of antenatal corticosteroids should be considered in women with fetuses <34 weeks’ gestation whose prior course was administered at least 7 days previously.
+
+795
+01:54:07,892 --> 01:54:12,417
+Effects of rescue therapy beyond 34 weeks are unknown.
+
+796
+01:54:12,417 --> 01:54:20,542
+At Parkland Hospital, we currently do not provide additional courses of corticosteroids beyond the initial single-course therapy.
+
+797
+01:54:20,542 --> 01:54:24,342
+# Magnesium Sulfate for Neuroprotection.
+
+798
+01:54:24,342 --> 01:54:39,080
+Very-low-birthweight neonates whose mothers were treated with magnesium sulfate for preterm labor or preeclampsia were found to have a reduced incidence of cerebral palsy at 3 years (Grether, 2000; Nelson, 1995).
+
+799
+01:54:39,080 --> 01:54:44,680
+Because of this, randomized trials were designed to investigate this hypothesis.
+
+800
+01:54:44,680 --> 01:54:53,717
+In one trial, 1063 women at risk of delivery before 30 weeks’ gestation were given magnesium sulfate or placebo .
+
+801
+01:54:53,717 --> 01:54:57,917
+Magnesium exposure improved some perinatal outcomes.
+
+802
+01:54:57,917 --> 01:55:04,630
+Namely, rates of both neonatal death and cerebral palsy were lower in the magnesium-treated group.
+
+803
+01:55:04,630 --> 01:55:08,430
+However, this study was not sufficiently powered.
+
+804
+01:55:08,430 --> 01:55:15,280
+The multicenter French trial reported by Marret and associates (2008) had similar problems.
+
+805
+01:55:15,280 --> 01:55:26,867
+More convincing evidence for magnesium neuroprotection came from the randomized MFMU Network study—Beneficial Effects of Antenatal Magnesium Sulfate—BEAM—study .
+
+806
+01:55:26,867 --> 01:55:38,330
+In the study, 2241 women at imminent risk for preterm birth between 24 and 31 weeks’ gestation were assigned to magnesium sulfate or placebo.
+
+807
+01:55:38,330 --> 01:55:57,567
+Magnesium sulfate was given as a 6-g bolus over 20 to 30 minutes and was followed with a maintenance infusion of 2 g/hr. Magnesium sulfate was actually infusing at the time of delivery in approximately half of the treated women. Infusion continuation protocols vary by institution, including ours.
+
+808
+01:55:57,567 --> 01:56:06,530
+In the BEAM study, after 12 hours with no signs of imminent delivery, the infusion was stopped and resumed if delivery again seemed imminent.
+
+809
+01:56:06,530 --> 01:56:12,680
+If >6 hours had passed since discontinuation, another loading dose was given.
+
+810
+01:56:12,680 --> 01:56:18,242
+A 2-year assessment was available for 96 percent of the children in the BEAM trial .
+
+811
+01:56:18,242 --> 01:56:23,967
+The results can be interpreted differently depending on statistical methodologies employed.
+
+812
+01:56:23,967 --> 01:56:33,430
+Some interpret these findings to mean that magnesium sulfate infusion prevents cerebral palsy regardless of the gestational age at which therapy is given.
+
+813
+01:56:33,430 --> 01:56:43,242
+Those with a differing view conclude that this trial only supports use of magnesium sulfate for prevention of cerebral palsy potentially before 28 weeks.
+
+814
+01:56:43,242 --> 01:56:45,842
+Table 45-10.
+
+815
+01:56:45,842 --> 01:56:57,467
+Magnesium Sulfate for the Prevention of Cerebral Palsya Subsequently, Doyle and associates (2009) reviewed five randomized trials to assess neuroprotective effects.
+
+816
+01:56:57,467 --> 01:57:04,167
+A total of 6145 infants were studied, and these reviewers concluded that
+
+817
+01:57:04,324 --> 01:57:11,349
+magnesium sulfate exposure compared with no exposure significantly lowered risks for cerebral palsy.
+
+818
+01:57:11,299 --> 01:57:15,861
+Rates of other neonatal morbidities did not differ significantly.
+
+819
+01:57:15,861 --> 01:57:22,186
+It was calculated that treatment given to 63 women would prevent one case of cerebral palsy.
+
+820
+01:57:22,186 --> 01:57:32,599
+Controversy surrounding magnesium sulfate efficacy for neuroprotection prompted a debate at the 2011 annual meeting of the Society for MaternalFetal Medicine.
+
+821
+01:57:32,599 --> 01:57:47,836
+Rouse (2011) spoke for the benefits of magnesium sulfate, whereas Sibai (2011) challenged that the reported benefits were falsely positive due to random statistical error in the metaanalysis by Doyle (2009).
+
+822
+01:57:47,836 --> 01:57:52,686
+Another peculiarity is the apparent lack of dose-response for efficacy .
+
+823
+01:57:52,686 --> 01:58:11,474
+Because none of the individual studies found a benefit from magnesium sulfate for fetal neuroprotection, the American College of Obstetricians and Gynecologists (2020d,g) concluded that those electing prophylaxis should develop specific guidelines, and this includes those with PPROM.
+
+824
+01:58:11,474 --> 01:58:29,211
+In a recent prospective observational study of infants born at 220/7 to 266/7 weeks’ gestation, exposure to both corticosteroids and magnesium sulfate was associated with lower rates of neurodevelopmental impairment and death compared with corticosteroids alone .
+
+825
+01:58:29,211 --> 01:58:36,899
+At Parkland Hospital, for the periviable fetus, we individualize management as shown in Table 454.
+
+826
+01:58:36,899 --> 01:58:39,911
+# Antimicrobial Treatment.
+
+827
+01:58:39,911 --> 01:58:45,686
+Results have been disappointing in studies of antibiotics given to arrest preterm labor.
+
+828
+01:58:45,686 --> 01:58:57,624
+From one Cochrane metaanalysis, antimicrobial prophylaxis given to women with intact membranes did not reduce preterm birth rates or affect other clinically important short-term outcomes .
+
+829
+01:58:57,624 --> 01:59:04,511
+However, rates of short- and longer-term harm were higher for children of mothers exposed to antibiotics.
+
+830
+01:59:04,511 --> 01:59:19,386
+In the ORACLE Collaborative Group study of 6295 women with spontaneous preterm labor, intact membranes, but without evidence of infection, women were randomly assigned to receive antimicrobial or placebo therapy .
+
+831
+01:59:19,386 --> 01:59:27,761
+The primary outcomes of neonatal death, chronic lung disease, and major cerebral abnormality were similar in both groups.
+
+832
+01:59:27,761 --> 01:59:40,736
+In a follow-up of the ORACLE II trial, fetal exposure to antimicrobials in this setting was associated with an increased cerebral palsy rate at age 7 years compared with that in children without fetal exposure .
+
+833
+01:59:40,736 --> 01:59:55,811
+Moreover, although preterm birth is associated with bacterial vaginosis, treatment with clindamycin in more recent randomized trials has failed to lower preterm birth rates (Bellad, 2018; Subtil, 2018).
+
+834
+01:59:55,811 --> 02:00:02,836
+Importantly, antimicrobial use described here is distinct from that given for GBS prophylaxis .
+
+835
+02:00:02,836 --> 02:00:05,086
+# Bed Rest.
+
+836
+02:00:05,086 --> 02:00:11,574
+This has been one of the most often prescribed interventions, yet one of the least supported by evidence .
+
+837
+02:00:11,574 --> 02:00:19,374
+An earlier systematic review concluded that evidence neither supported nor refuted bed rest for preterm birth prevention .
+
+838
+02:00:19,374 --> 02:00:29,336
+Moreover, possible harms are thromboembolic events, deconditioning, and bone loss (Kovacevich, 2000; Promislow, 2004).
+
+839
+02:00:29,336 --> 02:00:40,536
+Grobman and associates (2013) reported that women with activity restriction were nearly 2.5 times more likely to have a preterm birth before 34 weeks.
+
+840
+02:00:40,536 --> 02:00:44,949
+This finding, however, may reflect ascertainment bias.
+
+841
+02:00:44,949 --> 02:00:53,224
+That is, women with restricted activity may have been assigned to bed rest because they were viewed to have a greater risk for preterm delivery.
+
+842
+02:00:53,224 --> 02:01:06,724
+The Society for Maternal-Fetal Medicine (2020a) and the American College of Obstetricians and Gynecologists (2020f) recommend against activity restriction to reduce preterm birth rates.
+
+843
+02:01:06,724 --> 02:01:09,411
+# Cervical Pessaries.
+
+844
+02:01:09,411 --> 02:01:17,636
+Silicone rings, such as the Arabin pessary, have been used to support the cervix in women with a sonographically short cervix.
+
+845
+02:01:17,636 --> 02:01:28,236
+In one study, 385 women with a cervical length ≤25 mm were provided a silicone pessary or expectant management .
+
+846
+02:01:28,236 --> 02:01:38,749
+Newborns spontaneously delivered before 34 weeks’ gestation in 6 percent of women in the pessary group compared with 27 percent in the expectant management group.
+
+847
+02:01:38,749 --> 02:01:50,711
+In another randomized trial, almost 100 women with a cervical length <25 mm at 20 to 24 weeks’ gestation received either pessaries or expectant management
+
+848
+02:01:50,860 --> 02:01:55,622
+The pessary did not lower the rate of delivery <34 weeks.
+
+849
+02:01:55,572 --> 02:01:58,535
+Others have reported similar findings .
+
+850
+02:01:58,535 --> 02:02:19,722
+Moreover, authors of a recent systematic review totaling 4687 women and 7167 infants found that current evidence does not support pessary use to prevent preterm birth or improve perinatal outcomes in singleton or twin gestations with a short cervix or in unselected twin gestations .
+
+851
+02:02:19,722 --> 02:02:28,860
+The Society for Maternal-Fetal Medicine (2017) currently recommends pessary prophylaxis only within research protocols.
+
+852
+02:02:28,860 --> 02:02:32,235
+# Emergency or Rescue Cerclage.
+
+853
+02:02:32,235 --> 02:02:40,497
+Some evidence supports the concept that cervical incompetence and preterm labor lie along a spectrum leading to preterm delivery.
+
+854
+02:02:40,497 --> 02:02:47,347
+Consequently, cerclage placement after preterm labor begins to manifest clinically has been studied.
+
+855
+02:02:47,347 --> 02:02:53,760
+Importantly, for women with labor and active cervical change, cerclage is contraindicated.
+
+856
+02:02:53,760 --> 02:03:05,422
+In one study, 23 women with cervical incompetence before 27 weeks’ gestation were randomly assigned to bed rest, with or without an adjunctive emergency McDonald cerclage .
+
+857
+02:03:05,422 --> 02:03:15,110
+Delivery delay was significantly greater in the cerclage group compared with those assigned to bed rest alone—54 versus 24 days, respectively.
+
+858
+02:03:15,110 --> 02:03:23,610
+Terkildsen and coworkers (2003) studied 116 women who underwent second-trimester emergency cerclage.
+
+859
+02:03:23,610 --> 02:03:36,335
+Nulliparity, membranes extending beyond the external cervical os, and cerclage before 22 weeks’ gestation were associated with a significantly lower chance of significant pregnancy continuation.
+
+860
+02:03:36,335 --> 02:03:49,710
+More recently, a multicenter randomized trial assessed women with twin pregnancies and asymptomatic cervical dilation of 1 to 5 cm between 160/7 and 236/7 weeks’ gestation .
+
+861
+02:03:49,710 --> 02:03:59,097
+From a total of 30 enrolled women, 17 women received physical examination-indicated cerclage, and 13 women received no cerclage.
+
+862
+02:03:59,097 --> 02:04:04,960
+Of note, all women who underwent cerclage received indomethacin and antibiotics.
+
+863
+02:04:04,960 --> 02:04:17,910
+In the cerclage group, the preterm birth rate was significantly decreased at all evaluated gestational ages, and specifically, cerclage lowered the birth rate for those <28 weeks by 50 percent.
+
+864
+02:04:17,910 --> 02:04:29,685
+From these limited reports, for women facing a poor pregnancy prognosis due to cervical dilation at midgestation, emergency or rescue cerclage with appropriate counseling is reasonable.
+
+865
+02:04:29,685 --> 02:04:38,860
+At this time, however, it is unclear if such interventions truly confer a benefit or merely increase the risk of membrane rupture and infection .
+
+866
+02:04:38,860 --> 02:04:41,235
+# Tocolysis.
+
+867
+02:04:41,235 --> 02:04:47,735
+Although several drugs have been used to prevent or inhibit preterm labor, none is completely effective.
+
+868
+02:04:47,735 --> 02:05:00,922
+The American College of Obstetricians and Gynecologists (2020e) has concluded that tocolytic agents do not markedly prolong gestation but may delay delivery in some women for up to 48 hours.
+
+869
+02:05:00,922 --> 02:05:09,422
+This may allow transport to an obstetrical center with higher-level neonatal care and permit time for a course of corticosteroid therapy.
+
+870
+02:05:09,422 --> 02:05:27,347
+Although delivery may be delayed to administer corticosteroids, evidence does not support that tocolytic therapy has any direct favorable effect on neonatal outcomes or that any prolongation of pregnancy afforded by tocolytics alone translates into statistically significant neonatal benefit.
+
+871
+02:05:27,347 --> 02:05:37,285
+Beta-adrenergic agonists, magnesium sulfate, calcium-channel blockers, or indomethacin are the recommended tocolytic agents for short-term use.
+
+872
+02:05:37,285 --> 02:05:41,385
+The gestational age range for tocolytic use is debatable .
+
+873
+02:05:41,385 --> 02:05:52,410
+But, because the perinatal outcomes in preterm neonates are generally good after 34 weeks’ gestation, most do not recommend use of tocolytics after 33 weeks.
+
+874
+02:05:52,410 --> 02:05:58,972
+In many women, tocolytics stop contractions temporarily but rarely prevent preterm birth.
+
+875
+02:05:58,972 --> 02:06:10,760
+Moreover, the American College of Obstetricians and Gynecologists (2020e) has concluded that maintenance therapy with tocolytics is ineffective for preventing preterm birth.
+
+876
+02:06:10,760 --> 02:06:18,860
+No trial has ever convincingly shown reduced rates of any important adverse outcome by a tocolytic drug compared with placebo .
+
+877
+02:06:18,860 --> 02:06:31,610
+β-Adrenergic Receptor Agonists Several compounds stimulate β-adrenergic receptors to reduce intracellular ionized calcium levels and prevent activation of myometrial contractile proteins .
+
+878
+02:06:31,610 --> 02:06:33,535
+Of β-mimetic
+
+879
+02:06:33,700 --> 02:06:42,825
+drugs in the United States, ritodrine and terbutaline have been used in obstetrics, but only ritodrine is FDA-approved for preterm labor.
+
+880
+02:06:42,775 --> 02:06:53,225
+Ritodrine was voluntarily withdrawn from the United States market in 2003, but a discussion of ritodrine is included here to present issues with βmimetic drug use.
+
+881
+02:06:53,225 --> 02:07:01,650
+In a randomized trial at Parkland Hospital, intravenous ritodrine delayed delivery for 24 hours but without other benefits .
+
+882
+02:07:01,650 --> 02:07:06,412
+Additional studies confirmed a delivery delay up to 48 hours .
+
+883
+02:07:06,412 --> 02:07:13,100
+Importantly, β-agonist infusion resulted in serious and even fatal maternal side effects.
+
+884
+02:07:13,100 --> 02:07:18,550
+Pulmonary edema is a special concern, and its cause is multifactorial.
+
+885
+02:07:18,550 --> 02:07:33,175
+Risk factors include tocolytic therapy with β-agonist drugs, multifetal gestation, concurrent corticosteroid therapy, tocolysis for more than 24 hours, and intravenous infusion of large volumes of crystalloid.
+
+886
+02:07:33,175 --> 02:07:42,300
+βAgonist agents cause retention of sodium and water, and with time—usually 24 to 48 hours—these can cause volume overload .
+
+887
+02:07:42,300 --> 02:07:50,525
+The drugs have been implicated in increased capillary permeability, cardiac rhythm disturbances, and myocardial ischemia.
+
+888
+02:07:50,525 --> 02:08:01,762
+For example, in an earlier study, tocolysis was the third most common cause of acute respiratory distress and death in pregnant women during a 14-year period in Mississippi .
+
+889
+02:08:01,762 --> 02:08:07,125
+Terbutaline is commonly used in the United States to forestall preterm labor.
+
+890
+02:08:07,125 --> 02:08:10,925
+Like ritodrine, it may cause pulmonary edema .
+
+891
+02:08:10,925 --> 02:08:23,637
+Lowdose terbutaline can be administered long-term by subcutaneous pump, but randomized trials fail to show benefit for such therapy (Guinn, 1998; Wenstrom, 1997).
+
+892
+02:08:23,637 --> 02:08:30,687
+Oral terbutaline also is ineffective (How, 1995; Parilla, 1993).
+
+893
+02:08:30,687 --> 02:08:43,775
+In one trial, 203 women with arrested preterm labor at 24 to 34 weeks’ gestation were randomly assigned to receive 5-mg terbutaline tablets or placebo every 4 hours .
+
+894
+02:08:43,775 --> 02:08:55,487
+Of outcomes, delivery rates at 1 week, median days of pregnancy extension, mean gestational age at delivery, and incidence of preterm labor relapse were similar in both groups.
+
+895
+02:08:55,487 --> 02:09:04,525
+Because of serious maternal side effects, the FDA (2011) issued a warning regarding terbutaline use for preterm labor.
+
+896
+02:09:04,525 --> 02:09:16,912
+The American College of Obstetricians and Gynecologists (2020e) recommends only short-term inpatient use of terbutaline as a tocolytic or as acute therapy for uterine tachysystole.
+
+897
+02:09:16,912 --> 02:09:23,687
+Subcutaneous dosages of 0.25 mg are commonly used for the latter indication.
+
+898
+02:09:23,687 --> 02:09:31,287
+Magnesium Sulfate Ionic magnesium in a sufficiently high concentration can alter myometrial contractility.
+
+899
+02:09:31,287 --> 02:09:38,287
+It functions as a calcium antagonist, and when given in pharmacological doses, it may inhibit labor.
+
+900
+02:09:38,287 --> 02:09:43,275
+Magnesium sulfate treatment has been associated with pulmonary edema .
+
+901
+02:09:43,275 --> 02:09:56,750
+As discussed in Chapter 41 (p. 720), this has not been our experience at Parkland Hospital with treatment of tens of thousands of preeclamptic women with intramuscular or intravenous magnesium sulfate.
+
+902
+02:09:56,750 --> 02:10:04,962
+In one randomized trial, 54 women with preterm labor received magnesium sulfate, ritodrine, or placebo.
+
+903
+02:10:04,962 --> 02:10:08,375
+Few differences in outcomes were identified .
+
+904
+02:10:08,375 --> 02:10:17,950
+Cox and coworkers (1990) randomly assigned 156 women to receive magnesium sulfate or infusions of normal saline.
+
+905
+02:10:17,950 --> 02:10:24,962
+Magnesium sulfate–treated women and their neonates had identical outcomes compared with those given placebo.
+
+906
+02:10:24,962 --> 02:10:30,562
+Because of these findings, this method of tocolysis was abandoned at Parkland Hospital.
+
+907
+02:10:30,562 --> 02:10:40,662
+Similarly, Crowther and associates (2014) concluded that magnesium sulfate to treat preterm labor was ineffective and potentially harmful.
+
+908
+02:10:40,662 --> 02:10:54,287
+Last, the FDA (2013) has warned against prolonged use of magnesium sulfate given to arrest preterm labor because of bone thinning and fractures in fetuses exposed for more than 5 to 7 days.
+
+909
+02:10:54,287 --> 02:10:58,150
+This was attributed to low calcium levels in the fetus.
+
+910
+02:10:58,150 --> 02:11:06,175
+Yule and associates (2020) demonstrated the influence of magnesium sulfate on maternal serum calcium levels.
+
+911
+02:11:06,175 --> 02:11:12,362
+Prostaglandin Inhibitors These compounds are intimately involved in the contractions of normal labor .
+
+912
+02:11:12,362 --> 02:11:19,150
+Antagonists act by inhibiting prostaglandin synthesis or by blocking their action on target organs.
+
+913
+02:11:19,150 --> 02:11:25,762
+Indomethacin, a nonselective cyclooxygenase inhibitor, was first used as a tocolytic in
+
+914
+02:11:25,924 --> 02:11:28,461
+one study of 50 women .
+
+915
+02:11:28,411 --> 02:11:38,686
+Studies that followed reported the efficacy of indomethacin in halting contractions and delaying preterm birth (Muench, 2003; Niebyl, 1980).
+
+916
+02:11:38,686 --> 02:11:52,161
+Morales and coworkers (1989, 1993a), however, compared indomethacin with either ritodrine or magnesium sulfate and found no difference in their efficacy to forestall preterm delivery.
+
+917
+02:11:52,161 --> 02:12:04,099
+Berghella and associates (2006) reviewed four trials of indomethacin given to women with a sonographically determined short cervix and found such therapy to be ineffective to halt labor.
+
+918
+02:12:04,099 --> 02:12:08,899
+But, as discussed earlier, its use with cerclage is gaining favor.
+
+919
+02:12:08,899 --> 02:12:19,086
+Most studies have limited indomethacin use to 24 to 48 hours because of concerns for oligohydramnios, which can develop with therapeutic doses.
+
+920
+02:12:19,086 --> 02:12:27,511
+If amnionic fluid is monitored, oligohydramnios can be detected early, and it is reversible with drug discontinuation.
+
+921
+02:12:27,511 --> 02:12:42,324
+There has also been considerable debate on the association of necrotizing enterocolitis or early ductus arteriosus closure and use of indomethacin (Doni, 2020; Hammers, 2015; Muench, 2001).
+
+922
+02:12:42,324 --> 02:12:53,249
+Two metaanalyses of the effects of antenatal indomethacin on neonatal outcomes had conflicting findings (Amin, 2007; Loe, 2005).
+
+923
+02:12:53,249 --> 02:13:04,399
+In one review of 20 studies, cyclooxygenase inhibitors, including indomethacin, provided no clear benefit compared with placebo or any other tocolytic agent .
+
+924
+02:13:04,399 --> 02:13:14,874
+Calcium-channel Blockers Myometrial activity is directly related to cytoplasmic free calcium, and reduced calcium concentrations inhibit contractions.
+
+925
+02:13:14,874 --> 02:13:21,949
+Calcium-channel blockers inhibit, by various mechanisms, calcium entry through cell membrane channels.
+
+926
+02:13:21,949 --> 02:13:35,311
+From study results, calcium-channel blockers, especially nifedipine, are safer and more effective tocolytic agents than β-agonist drugs (King, 2003; Papatsonis, 1997).
+
+927
+02:13:35,311 --> 02:13:47,586
+Comparing magnesium sulfate and nifedipine, one study of 192 women at 24 to 33 weeks’ gestation found no substantial differences in efficacy or adverse effects .
+
+928
+02:13:47,586 --> 02:14:00,024
+Comparing nifedipine and atosiban in 145 women with preterm labor between 24 and 33 weeks, another randomized study showed that neither agent was superior to delay delivery.
+
+929
+02:14:00,024 --> 02:14:03,286
+Neonatal morbidity rates were equivalent .
+
+930
+02:14:03,286 --> 02:14:14,799
+Flenady and coworkers (2014b) reviewed 38 trials of calcium-channel blockers for preterm labor and concluded that these agents have benefits compared with placebo.
+
+931
+02:14:14,799 --> 02:14:28,211
+It is problematic, however, that this conclusion stemmed from a trial with unclear risk of selection bias and a three-arm study of 84 women that was not blinded (Ara, 2008; Zhang, 2002).
+
+932
+02:14:28,211 --> 02:14:40,049
+More recently, Hawkins and associates (2021) performed a randomized, placebo-controlled trial of nifedipine for acute tocolysis of preterm labor at Parkland Hospital.
+
+933
+02:14:40,049 --> 02:14:45,124
+Acute tocolysis with nifedipine did not affect preterm birth rates.
+
+934
+02:14:45,124 --> 02:14:52,861
+However, the study results were obtained following an interim analysis demonstrating futility for study continuation.
+
+935
+02:14:52,861 --> 02:15:00,036
+Importantly, the combination of nifedipine and magnesium sulfate for tocolysis is potentially dangerous.
+
+936
+02:15:00,036 --> 02:15:14,074
+Ben-Ami (1994) and Kurtzman (1993) and their coworkers reported that nifedipine enhances the neuromuscular blocking effects of magnesium, which can interfere with pulmonary and cardiac function.
+
+937
+02:15:14,074 --> 02:15:25,024
+In one small study of 54 women with preterm labor who received either magnesium sulfate plus nifedipine or no tocolytic, neither benefit nor harm was found .
+
+938
+02:15:25,024 --> 02:15:34,799
+Other Agents Atosiban is a nonapeptide oxytocin analogue and an oxytocin-receptor antagonist that is used in European countries to forestall labor.
+
+939
+02:15:34,799 --> 02:15:48,499
+In randomized trials, atosiban failed to improve relevant neonatal outcomes and was linked with significant neonatal morbidity (Flenady, 2014a; Moutquin, 2000; Romero, 2000).
+
+940
+02:15:48,499 --> 02:15:54,799
+The FDA has denied approval of atosiban for use in the United States because of these findings.
+
+941
+02:15:54,799 --> 02:16:02,024
+Nitric oxide donors are potent smooth-muscle relaxants that affect the vasculature, gut, and uterus.
+
+942
+02:16:02,024 --> 02:16:13,524
+In randomized clinical trials, nitroglycerin administered orally, transdermally, or intravenously was ineffective or showed no superiority compared with other tocolytics.
+
+943
+02:16:13,524 --> 02:16:21,486
+In addition, maternal hypotension is a common side effect (Bisits, 2004; Lees, 1999).
+
+944
+02:16:21,486 --> 02:16:23,474
+# Labor
+
+945
+02:16:23,644 --> 02:16:25,369
+and Delivery.
+
+946
+02:16:25,319 --> 02:16:30,269
+Fetal heart rate and uterine contractions are monitored with preterm labor.
+
+947
+02:16:30,269 --> 02:16:33,769
+We prefer continuous electronic monitoring.
+
+948
+02:16:33,769 --> 02:16:39,369
+Fetal tachycardia, especially with ruptured membranes, suggests sepsis.
+
+949
+02:16:39,369 --> 02:16:48,369
+Some evidence supports that intrapartum acidemia may intensify some of the neonatal complications usually attributed to preterm delivery.
+
+950
+02:16:48,369 --> 02:17:01,419
+For example, Morgan and associates (2017) found that metabolic acidemia significantly raised the risks related to prematurity in neonates delivered <34 weeks’ gestation.
+
+951
+02:17:01,419 --> 02:17:13,819
+Low and colleagues (1995) observed that intrapartum acidosis—umbilical artery blood pH <7.0 —had an important role in neonatal complications.
+
+952
+02:17:13,819 --> 02:17:21,731
+GBS infections are common and dangerous in the preterm neonate, and antimicrobial prophylaxis should be provided .
+
+953
+02:17:21,731 --> 02:17:30,831
+For delivery, perinatal outcome data do not support routine episiotomy or forceps delivery to protect the “fragile” preterm fetal head.
+
+954
+02:17:30,831 --> 02:17:40,131
+Staff proficient in resuscitative techniques commensurate with the gestational age and fully oriented to any specific problems should be present at delivery.
+
+955
+02:17:40,131 --> 02:17:50,769
+The importance of specialized personnel and facilities for preterm newborn care is underscored by the improved survival rates of these neonates when delivered in tertiary-care centers.
+
+956
+02:17:50,769 --> 02:17:58,669
+For community-based hospitals, multidisciplinary team-based simulation for preterm delivery can improve performance .
+
+957
+02:17:58,669 --> 02:18:06,719
+Preterm newborns frequently have intracranial germinal matrix bleeding that can extend to more serious intraventricular hemorrhage.
+
+958
+02:18:06,719 --> 02:18:14,794
+It was hypothesized that cesarean delivery to obviate trauma from labor and vaginal delivery might prevent these complications.
+
+959
+02:18:14,794 --> 02:18:18,444
+This has not been validated by subsequent studies .
+
+960
+02:18:18,444 --> 02:18:24,769
+At Parkland Hospital, cesarean delivery is reserved for usual obstetrical indications.
+

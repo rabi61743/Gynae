@@ -1,0 +1,3640 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,862
+Chapter 48: Multifetal Pregnancy.
+
+3
+00:00:05,862 --> 00:00:31,300
+Mechanisms Of Multifetal Gestations Diagnosis Of Multifetal Gestation Maternal Physiological Adaptations Pregnancy Complications Unique Fetal Complications Discordant Growth Fetal Demise Prenatal Care Preterm Birth Labor And Delivery Reducing Fetal Number References Multifetal pregnancies may result from two or more fertilization events, from a single fertilization followed by a splitting of the zygote, or both.
+
+4
+00:00:31,300 --> 00:00:39,437
+In part because of infertility therapy, the twin birth rate in the United States was 3.2 percent in 2019.
+
+5
+00:00:39,437 --> 00:00:46,750
+For higher-order multifetal births, the number peaked in 1998 at 0.2 percent of all births.
+
+6
+00:00:46,750 --> 00:00:53,287
+Subsequent efforts in the reproductive endocrinology community to curb this rate have led to declines.
+
+7
+00:00:53,287 --> 00:01:00,912
+Specifically, the rate of triplets or more declined by 55 percent from 1998 to 2019 .
+
+8
+00:01:00,912 --> 00:01:06,387
+Multifetal gestations remain problematic for both the mother and her fetuses.
+
+9
+00:01:06,387 --> 00:01:15,587
+For the fetus, multifetal births accounted for 3 percent of all live births in 2013 but for 15 percent of all infant deaths.
+
+10
+00:01:15,587 --> 00:01:24,375
+Specifically, the infant mortality rate for twins was more than four times the rate for singletons, and for triplets it was 12-fold higher .
+
+11
+00:01:24,375 --> 00:01:32,537
+Neonates from multifetal gestations also make up a disproportionate percentage of very-lowbirthweight newborns in the United States .
+
+12
+00:01:32,537 --> 00:01:39,362
+These two outcomes in singletons and twins from Parkland Hospital are shown in Table 48-1.
+
+13
+00:01:39,362 --> 00:01:46,725
+Risks for congenital malformations and preterm birth are greater with multifetal gestation and discussed later.
+
+14
+00:01:46,725 --> 00:01:49,225
+Table 48-1.
+
+15
+00:01:49,225 --> 00:02:02,950
+Selected Outcomes in Singleton and Twin Pregnancies Delivered at Parkland Hospital from 1988 through 2021 The mother may also experience higher morbidity and mortality rates, and these rise with the number of fetuses .
+
+16
+00:02:02,950 --> 00:02:15,387
+In one study of more than 44,000 multifetal pregnancies, the risks for preeclampsia, postpartum hemorrhage, and maternal death were twofold higher than these rates in singleton gestations .
+
+17
+00:02:15,387 --> 00:02:20,125
+Rates of placenta previa and placenta accreta spectrum are increased .
+
+18
+00:02:20,125 --> 00:02:31,412
+Moreover, compared with rates for singletons, the peripartum hysterectomy rate was threefold greater for twins and 24-fold higher for triplets or quadruplets in one study .
+
+19
+00:02:31,412 --> 00:02:34,675
+Mechanisms Of Multifetal Gestations.
+
+20
+00:02:34,675 --> 00:02:38,462
+# Dizygotic versus Monozygotic Twinning.
+
+21
+00:02:38,462 --> 00:02:49,425
+Multifetal gestations are often described by zygosity, amnionicity, and chorionicity, which are the number of zygotes, amnions, and chorions, respectively.
+
+22
+00:02:49,425 --> 00:02:57,100
+Twin fetuses most often result from fertilization of two separate ova, which yields dizygotic or fraternal twins.
+
+23
+00:02:57,100 --> 00:03:04,912
+Less often, twins arise from a single fertilized ovum that then divides to create monozygotic or identical twins.
+
+24
+00:03:04,912 --> 00:03:14,350
+Dizygotic twins are not in a strict sense true twins because they result from the maturation and fertilization of two ova during a single ovulatory cycle.
+
+25
+00:03:14,350 --> 00:03:18,737
+Genetically, these twins are like any other pair of siblings.
+
+26
+00:03:18,737 --> 00:03:22,675
+Twins of opposite sex are almost always dizygotic.
+
+27
+00:03:22,675 --> 00:03:31,387
+Rarely, somatic mutations or chromosome aberration in one monozygotic twin can yield differing gender karyotype or phenotype.
+
+28
+00:03:31,387 --> 00:03:41,725
+For example, postzygotic loss of the Y chromosome in one 46,XY twin creates a phenotypically female twin with 45,X Turner syndrome.
+
+29
+00:03:41,725 --> 00:03:48,600
+Monozygotic twins, although they have the same genetic heritage, also are usually not identical.
+
+30
+00:03:48,600 --> 00:03:57,012
+For example, the division of one fertilized zygote into two does not necessarily yield equal sharing of protoplasmic material.
+
+31
+00:03:57,012 --> 00:04:09,125
+In addition, monozygotic twins may be discordant for genetic mutations because of a postzygotic mutation, or they may have the same genetic disease but with marked variability in its expression.
+
+32
+00:04:09,125 --> 00:04:16,500
+In female fetuses, skewed lyonization can produce differential expression of X-linked traits or diseases.
+
+33
+00:04:16,500 --> 00:04:23,475
+Last, sesquizygosity is a rare event of dispermic fertilization that leads to monozygotic twins.
+
+34
+00:04:23,475 --> 00:04:26,712
+Some cases may have sex discordance .
+
+35
+00:04:26,712 --> 00:04:29,475
+# Monozygotic Twinning.
+
+36
+00:04:29,475 --> 00:04:34,250
+Mechanisms underlying monozygotic twinning are poorly understood.
+
+37
+00:04:34,250 --> 00:04:41,337
+One association is assisted reproductive technology (ART) and in-vitro fertilization (IVF).
+
+38
+00:04:41,337 --> 00:04:45,400
+The monozygotic twinning incidence is twofold greater in
+
+39
+00:04:45,556 --> 00:04:51,881
+pregnancies conceived using blastocyst transfer compared with transfer of a later-stage embryo.
+
+40
+00:04:51,831 --> 00:04:56,431
+The predisposition to splitting may stem from culture media effects .
+
+41
+00:04:56,431 --> 00:05:03,893
+The outcome of the monozygotic twinning process depends on when division occurs as depicted in Figure 48-1.
+
+42
+00:05:03,893 --> 00:05:17,656
+If zygotes divide within the first 72 hours after fertilization, two embryos, two amnions, and two chorions develop, and a monozygotic, dichorionic, diamnionic twin gestation evolves.
+
+43
+00:05:17,656 --> 00:05:22,481
+Two distinct placentas or a single, fused placenta may develop.
+
+44
+00:05:22,481 --> 00:05:30,718
+If division occurs between days 4 through 8, a monozygotic, monochorionic, diamnionic twin pregnancy results.
+
+45
+00:05:30,718 --> 00:05:44,793
+By 8 days, the chorion and the amnion have already differentiated, and division results in two embryos within a common amnionic sac, which is a monozygotic, monochorionic, monoamnionic twin gestation.
+
+46
+00:05:44,793 --> 00:05:48,556
+Conjoined twins result if division initiates later.
+
+47
+00:05:48,556 --> 00:05:51,068
+Figure 48-1.
+
+48
+00:05:51,068 --> 00:05:54,118
+Mechanism of monozygotic twinning.
+
+49
+00:05:54,118 --> 00:06:00,143
+Black boxing and blue arrows in columns A, B, and C indicate timing of division.
+
+50
+00:06:00,143 --> 00:06:06,443
+A. At 0 to 4 days postfertilization, an early conceptus may divide into two.
+
+51
+00:06:06,443 --> 00:06:13,318
+Division at this early stage creates two chorions and two amnions (dichorionic, diamnionic).
+
+52
+00:06:13,318 --> 00:06:16,318
+Placentas may be separate or fused.
+
+53
+00:06:16,318 --> 00:06:24,368
+B. Division between 4 to 8 days leads to formation of a blastocyst with two separate embryoblasts (inner cell masses).
+
+54
+00:06:24,368 --> 00:06:31,243
+Each embryoblast will form its own amnion within a shared chorion (monochorionic, diamnionic).
+
+55
+00:06:31,243 --> 00:06:38,043
+C. Between 8 and 12 days, the amnion and amnionic cavity form above the germinal disc.
+
+56
+00:06:38,043 --> 00:06:45,956
+Embryonic division leads to two embryos with a shared amnion and shared chorion (monochorionic, monoamnionic).
+
+57
+00:06:45,956 --> 00:06:50,143
+D. Differing theories explain conjoined twin development.
+
+58
+00:06:50,143 --> 00:06:54,493
+One describes an incomplete splitting of one embryo into two.
+
+59
+00:06:54,493 --> 00:07:00,531
+The other describes fusion of a portion of one embryo from a monozygotic pair onto the other.
+
+60
+00:07:00,531 --> 00:07:04,568
+Rarely, monochorionic twins may be dizygotic.
+
+61
+00:07:04,568 --> 00:07:06,993
+Mechanisms are unclear.
+
+62
+00:07:06,993 --> 00:07:16,143
+In one review of 31 cases, nearly 80 percent were conceived after ART procedures, and 90 percent were associated with chimerism .
+
+63
+00:07:16,143 --> 00:07:19,031
+# Factors Affecting Twinning.
+
+64
+00:07:19,031 --> 00:07:32,118
+Dizygotic twinning is much more common than monozygotic splitting of a single oocyte, and its incidence is positively influenced by infertility treatment and by maternal age, race, heredity, and size.
+
+65
+00:07:32,118 --> 00:07:41,656
+By contrast, the frequency of monozygotic twin births is relatively constant worldwide— approximately one set per 250 births.
+
+66
+00:07:41,656 --> 00:07:47,456
+This incidence is generally independent of most demographic factors, except ART.
+
+67
+00:07:47,456 --> 00:08:03,131
+Of infertility therapies, ovulation induction with clomiphene citrate or with follicle-stimulating hormone (FSH) plus human chorionic gonadotropin (hCG) remarkably enhances the likelihood of multiple concurrent ovulations.
+
+68
+00:08:03,131 --> 00:08:10,406
+Moreover, with IVF, the greater the number of embryos that are transferred, the greater the risk of twins or more.
+
+69
+00:08:10,406 --> 00:08:21,693
+In 2017, ART contributed to 1.9 percent of all newborns in the United States and to 14.7 percent of all neonates in multifetal gestations .
+
+70
+00:08:21,693 --> 00:08:35,243
+The American Society for Reproductive Medicine (2017) revised their guidelines regarding the number of embryos or blastocysts transferred during IVF to reduce the incidence of multifetal pregnancies.
+
+71
+00:08:35,243 --> 00:08:43,468
+For example, women younger than 35 years are encouraged to receive a single-embryo transfer, regardless of embryo stage.
+
+72
+00:08:43,468 --> 00:08:47,668
+These practices have effectively lowered multifetal rates .
+
+73
+00:08:47,668 --> 00:08:56,643
+Advancing maternal age and delayed childbearing are other important risk factors (Adashi, 2018; Otta, 2016).
+
+74
+00:08:56,643 --> 00:09:03,531
+One explanation is FSH levels, which rise with age and lead to greater ovarian stimulation .
+
+75
+00:09:03,531 --> 00:09:07,893
+Higher levels of FSH have been linked with dizygotic twinning .
+
+76
+00:09:07,893 --> 00:09:12,318
+Another explanation may be a higher use of ART in older women.
+
+77
+00:09:12,318 --> 00:09:17,581
+Paternal age has also been linked to twinning, but its effect is felt to be small .
+
+78
+00:09:17,581 --> 00:09:22,831
+Different races and ethnic groups vary in their frequency of multifetal births.
+
+79
+00:09:22,831 --> 00:09:33,906
+In the United States in 2019, the twin birth rate was 4.1 percent in black women, 3.3 percent in whites, and 2.5 in Hispanics .
+
+80
+00:09:33,906 --> 00:09:39,568
+In one rural community in Nigeria, twinning occurred once in every 20 births .
+
+81
+00:09:39,568 --> 00:09:42,956
+These marked differences in twinning frequency
+
+82
+00:09:43,108 --> 00:09:47,245
+may stem from racial variations in FSH levels .
+
+83
+00:09:47,195 --> 00:09:53,108
+Heredity is another factor, and maternal influence appears to supersede that of the father.
+
+84
+00:09:53,108 --> 00:10:02,733
+In a study of 4000 genealogical records, women who themselves were a dizygotic twin gave birth to twins at a rate of one set per 58 births .
+
+85
+00:10:02,733 --> 00:10:11,908
+Women who were not a twin, but whose husbands were a dizygotic twin, gave birth to twins at a rate of one set per 116 pregnancies.
+
+86
+00:10:11,908 --> 00:10:19,770
+Genome-wide association studies have identified potentially contributory genes, and two are related to FSH .
+
+87
+00:10:19,770 --> 00:10:25,945
+However, the contribution of these variants to the overall incidence of twinning is likely small .
+
+88
+00:10:25,945 --> 00:10:29,020
+Maternal size is another risk factor.
+
+89
+00:10:29,020 --> 00:10:36,220
+Nylander (1971) showed an increasing gradient in the twinning rate in taller, heavier women.
+
+90
+00:10:36,220 --> 00:10:42,658
+These had a twinning rate 25 to 30 percent higher than short, nutritionally deprived women.
+
+91
+00:10:42,658 --> 00:10:49,070
+Likewise, another study found an association between greater maternal weight and dizygotic twinning .
+
+92
+00:10:49,070 --> 00:10:56,683
+Evidence acquired during and after World War II suggests that twinning correlates more with nutrition than with body size.
+
+93
+00:10:56,683 --> 00:11:03,883
+Widespread undernourishment in Europe during those years was associated with a marked fall in the dizygotic twinning rate .
+
+94
+00:11:03,883 --> 00:11:07,558
+# Superfecundation and Superfetation.
+
+95
+00:11:07,558 --> 00:11:16,620
+Superfecundation is fertilization of two ova within the same menstrual cycle but not at the same coitus nor necessarily by sperm from the same male.
+
+96
+00:11:16,620 --> 00:11:19,520
+The latter leads to heteropaternity .
+
+97
+00:11:19,520 --> 00:11:26,845
+In superfetation, an interval as long as or longer than a menstrual cycle intervenes between fertilizations.
+
+98
+00:11:26,845 --> 00:11:32,208
+Superfetation is not known to occur spontaneously and is likely due to ART .
+
+99
+00:11:32,208 --> 00:11:39,070
+Pseudosuperfetation often results from markedly unequal growth of twins with the same gestational age.
+
+100
+00:11:39,070 --> 00:11:42,245
+Diagnosis Of Multifetal Gestation.
+
+101
+00:11:42,245 --> 00:11:45,083
+# Clinical Evaluation.
+
+102
+00:11:45,083 --> 00:11:50,670
+Early diagnosis can help with management of the associated risks posed by twins.
+
+103
+00:11:50,670 --> 00:11:54,470
+Accurate fundal height measurement can be an initial tool.
+
+104
+00:11:54,470 --> 00:12:01,495
+With multiples, uterine size is typically larger during the second trimester than that expected for a singleton.
+
+105
+00:12:01,495 --> 00:12:10,408
+In one study, fundal heights obtained between 20 and 30 weeks’ gestation averaged 5 cm greater in twins than in singletons .
+
+106
+00:12:10,408 --> 00:12:16,058
+Palpation of fetal parts to diagnose twins before the third trimester is difficult.
+
+107
+00:12:16,058 --> 00:12:20,370
+Even then, obesity or hydramnios can hinder assessment.
+
+108
+00:12:20,370 --> 00:12:24,783
+Palpating two fetal heads strongly supports the diagnosis.
+
+109
+00:12:24,783 --> 00:12:33,808
+Moreover, a hand-held Doppler ultrasonic unit may isolate two fetal heartbeats if their rates are clearly distinct from each other and from the mother.
+
+110
+00:12:33,808 --> 00:12:40,983
+Overall, however, clinical criteria alone to diagnose multifetal gestations is unreliable.
+
+111
+00:12:40,983 --> 00:12:55,708
+In the Routine Antenatal Diagnostic Imaging with Ultrasound (RADIUS) trial, for 37 percent of women who did not have a screening ultrasound examination, their twin pregnancy was not diagnosed until 26 weeks’ gestation.
+
+112
+00:12:55,708 --> 00:13:03,433
+In 13 percent of unscanned women, their multifetal gestation was identified only during their admission for delivery .
+
+113
+00:13:03,433 --> 00:13:05,745
+# Sonography.
+
+114
+00:13:05,745 --> 00:13:10,683
+Sonographic examination should detect practically all sets of twins.
+
+115
+00:13:10,683 --> 00:13:18,220
+Further, it should aim to determine fetal number, estimated gestational age, chorionicity, and amnionicity.
+
+116
+00:13:18,220 --> 00:13:27,533
+Importantly, the risk for many twin-specific complications varies in relation to these (Hack, 2008; Manning, 1995).
+
+117
+00:13:27,533 --> 00:13:29,995
+Table 48-2.
+
+118
+00:13:29,995 --> 00:13:40,695
+Incidence of Some Complications Related to Twin Characteristics With sonography, separate gestational sacs, if present, can be identified early in twin pregnancy .
+
+119
+00:13:40,695 --> 00:13:49,108
+Subsequently, each fetal head should be seen in two perpendicular planes to avoid mistaking a fetal trunk for a second fetal head.
+
+120
+00:13:49,108 --> 00:13:58,333
+Ideally, two fetal heads or two abdomens are seen in the same image plane to avoid scanning the same fetus twice and interpreting it as twins.
+
+121
+00:13:58,333 --> 00:14:03,208
+Higher-order multifetal gestations are more challenging to evaluate.
+
+122
+00:14:03,208 --> 00:14:09,995
+Even in the first trimester, identifying the actual number of fetuses and their position can be difficult.
+
+123
+00:14:09,995 --> 00:14:16,670
+This determination is especially important if selective reduction is considered (p. 858).
+
+124
+00:14:16,670 --> 00:14:19,170
+Figure 48-2.
+
+125
+00:14:19,170 --> 00:14:22,320
+Sonograms of first-trimester twins.
+
+126
+00:14:22,320 --> 00:14:27,533
+A. Dichorionic diamnionic twin pregnancy at 6 weeks’ gestation.
+
+127
+00:14:27,533 --> 00:14:29,708
+Note the thick dividing
+
+128
+00:14:29,860 --> 00:14:32,297
+chorion (yellow arrow).
+
+129
+00:14:32,247 --> 00:14:35,960
+One of the yolk sacs is indicated (blue arrow).
+
+130
+00:14:35,960 --> 00:14:41,235
+B. Monochorionic diamnionic twin pregnancy at 8 weeks’ gestation.
+
+131
+00:14:41,235 --> 00:14:47,997
+Note the thin amnion encircling each embryo, resulting in a thin dividing membrane (blue arrow).
+
+132
+00:14:47,997 --> 00:14:54,735
+In determining chorionicity, sonography’s accuracy diminishes as gestational age advances.
+
+133
+00:14:54,735 --> 00:15:03,060
+It has a 98-percent accuracy in the first trimester but may be incorrect in up to 10 percent of second-trimester examinations.
+
+134
+00:15:03,060 --> 00:15:15,572
+Overall, chorionicity can be correctly determined with sonography before 24 weeks in approximately 95 percent of cases (Emery, 2015; Lee, 2006).
+
+135
+00:15:15,572 --> 00:15:21,835
+The sonographic features that are used to determine chorionicity vary according to gestational age.
+
+136
+00:15:21,835 --> 00:15:28,022
+Early in the first trimester, the number of chorions equates to the number of gestational sacs.
+
+137
+00:15:28,022 --> 00:15:38,060
+A thick band of chorion that separates two gestational sacs signals a dichorionic pregnancy, whereas monochorionic twins have a single gestational sac.
+
+138
+00:15:38,060 --> 00:15:46,997
+If the gestation is monochorionic diamnionic, it may be difficult to visualize the thin intervening amnion before 8 weeks’ gestation.
+
+139
+00:15:46,997 --> 00:15:54,760
+If the intervening membrane is difficult to visualize, the number of yolk sacs usually correlates with the number of amnions.
+
+140
+00:15:54,760 --> 00:16:01,047
+However, the number of yolk sacs as a predictor of amnionicity may not always be accurate .
+
+141
+00:16:01,047 --> 00:16:07,397
+Although uncommonly seen early, cord entanglement identifies a monoamnionic gestation.
+
+142
+00:16:07,397 --> 00:16:15,035
+At 10 to 14 weeks’ gestation, sonographic assessment of chorionicity may be determined using four features.
+
+143
+00:16:15,035 --> 00:16:27,897
+These are the number of placental masses, presence of an intervening membrane dividing the sacs, thickness of that membrane, and fetal gender (Emery, 2015; Khalil, 2016).
+
+144
+00:16:27,897 --> 00:16:32,197
+First, two separate placentas suggest dichorionicity.
+
+145
+00:16:32,197 --> 00:16:38,247
+The converse is not necessarily true, such as cases with a single fused placental mass.
+
+146
+00:16:38,247 --> 00:16:48,347
+Second, identification of a thick dividing membrane—generally ≥2 mm—supports a presumed diagnosis of dichorionicity.
+
+147
+00:16:48,347 --> 00:16:56,410
+In a dichorionic pregnancy, this visualized membrane is composed of four layers—two amnions and two chorions.
+
+148
+00:16:56,410 --> 00:17:06,422
+Also, the twin peak sign—also called lambda or delta sign—is seen by examining the point of origin of the dividing membrane on the placental surface.
+
+149
+00:17:06,422 --> 00:17:14,147
+The peak appears as a triangular projection of placental tissue extending a short distance between the layers of the dividing membrane .
+
+150
+00:17:14,147 --> 00:17:16,685
+Figure 48-3.
+
+151
+00:17:16,685 --> 00:17:23,760
+A. Sonographic image of the “twin-peak” sign, also termed the “lambda sign,” in a 24week gestation.
+
+152
+00:17:23,760 --> 00:17:31,297
+At the top of this sonogram, tissue from the anterior placenta is seen extending downward between the amnion layers.
+
+153
+00:17:31,297 --> 00:17:34,560
+This sign confirms dichorionic twinning.
+
+154
+00:17:34,560 --> 00:17:39,310
+B. The “twin-peak” sign is seen at the bottom of this schematic diagram.
+
+155
+00:17:39,310 --> 00:17:44,910
+The triangular portion of placenta insinuates between the amniochorion layers.
+
+156
+00:17:44,910 --> 00:17:55,485
+In contrast, monochorionic pregnancies have a dividing membrane that is so thin (generally <2 mm) that it may not be seen until the second trimester.
+
+157
+00:17:55,485 --> 00:18:03,735
+The relationship between the membranes and placenta without apparent extension of placenta between the dividing membranes is called the T sign .
+
+158
+00:18:03,735 --> 00:18:15,985
+Evaluation of the dividing membrane can establish chorionicity in more than 99 percent of pregnancies in the first trimester (Maruotti, 2016; Miller, 2012).
+
+159
+00:18:15,985 --> 00:18:21,410
+Lack of a dividing membrane signals a monochorionic monoamnionic gestation.
+
+160
+00:18:21,410 --> 00:18:24,072
+Figure 48-4.
+
+161
+00:18:24,072 --> 00:18:30,397
+A. Sonographic image of the “T” sign in a monochorionic diamnionic gestation at 30 weeks.
+
+162
+00:18:30,397 --> 00:18:37,060
+At the top of this sonogram, the two apposed amnion layers are seen as the thin line extending downward.
+
+163
+00:18:37,060 --> 00:18:40,285
+B. Schematic diagram of the “T” sign.
+
+164
+00:18:40,285 --> 00:18:46,285
+Twins are separated only by a membrane created by the juxtaposed amnion of each twin.
+
+165
+00:18:46,285 --> 00:18:50,510
+A “T” is formed at the point at which amnions meet the placenta.
+
+166
+00:18:50,510 --> 00:18:56,785
+Last, twins with differing gender indicates a dichorionic (and dizygotic) gestation.
+
+167
+00:18:56,785 --> 00:19:01,322
+Rare exceptions were described earlier (p. 839).
+
+168
+00:19:01,322 --> 00:19:04,335
+# Other Diagnostic Aids.
+
+169
+00:19:04,335 --> 00:19:12,747
+Magnetic resonance (MR) imaging may help delineate complications in monochorionic twins, including conjoined twins .
+
+170
+00:19:12,747 --> 00:19:19,435
+Abdominal radiography can be used if fetal number in a higher-order multifetal gestation is uncertain.
+
+171
+00:19:19,588 --> 00:19:27,913
+However, radiographs generally have limited utility and lead to an incorrect diagnosis if fetuses move during the exposure.
+
+172
+00:19:27,863 --> 00:19:33,125
+No biochemical test reliably identifies multifetal gestations.
+
+173
+00:19:33,125 --> 00:19:43,013
+Serum levels of β-hCG and of maternal serum alpha-fetoprotein (MSAFP) are usually higher, but ranges may overlap with those of singletons.
+
+174
+00:19:43,013 --> 00:19:45,925
+# Placental Examination.
+
+175
+00:19:45,925 --> 00:19:54,313
+Careful visual examination of the placenta and membranes after delivery can establish zygosity and chorionicity in many cases.
+
+176
+00:19:54,313 --> 00:20:00,450
+First, the placenta is gently delivered to preserve the attachment of the amnion and chorion.
+
+177
+00:20:00,450 --> 00:20:10,438
+With one common amnionic sac or with juxtaposed amnions not separated by chorion, the fetuses are monozygotic (see Fig. 48-1).
+
+178
+00:20:10,438 --> 00:20:19,263
+If adjacent amnions are separated by chorion, the fetuses could be either dizygotic or monozygotic, but dizygosity is more common .
+
+179
+00:20:19,263 --> 00:20:25,125
+If the neonates are of the same sex, blood typing of cord blood samples may be helpful.
+
+180
+00:20:25,125 --> 00:20:34,000
+Different genders or blood types reflects dizygosity, although the same gender or blood type in each fetus does not confirm monozygosity.
+
+181
+00:20:34,000 --> 00:20:44,025
+Postnatal zygosity genetic testing is available, and the benefits and ethics have been debated (Brown, 2015; Craig, 2015).
+
+182
+00:20:44,025 --> 00:20:46,700
+Figure 48-5.
+
+183
+00:20:46,700 --> 00:20:50,163
+Dichorionic diamnionic twin placenta.
+
+184
+00:20:50,163 --> 00:20:58,413
+The membrane partition that separated twin fetuses is elevated and consists of chorion (c) between two amnions (a).
+
+185
+00:20:58,413 --> 00:21:01,675
+Maternal Physiological Adaptations.
+
+186
+00:21:01,675 --> 00:21:11,500
+The physiological burdens of pregnancy and likelihood of serious maternal complications are typically greater with multifetal gestations than with singleton ones.
+
+187
+00:21:11,500 --> 00:21:19,800
+In the first trimester and with its higher serum β-hCG levels, multifetal gestations often cause nausea and vomiting.
+
+188
+00:21:19,800 --> 00:21:30,200
+In women carrying more than one fetus, blood volume expansion is greater and averages 50 to 60 percent compared with 40 to 50 percent in those with a singleton .
+
+189
+00:21:30,200 --> 00:21:38,875
+This augmented hypervolemia teleologically offsets blood loss with vaginal delivery of twins, which is twice that with a single fetus.
+
+190
+00:21:38,875 --> 00:21:44,988
+Although red cell mass also accrues, it does so proportionately less in twin pregnancies.
+
+191
+00:21:44,988 --> 00:21:50,513
+Combined with greater iron and folate requirements, this predisposes to anemia.
+
+192
+00:21:50,513 --> 00:21:55,550
+Women carrying twins also have a typical pattern of blood pressure change.
+
+193
+00:21:55,550 --> 00:22:02,050
+One study assessed serial blood pressures in more than 13,000 singleton and twin pregnancies .
+
+194
+00:22:02,050 --> 00:22:10,038
+As early as 8 weeks’ gestation, the diastolic blood pressure in women with twins was lower than that with singleton pregnancies.
+
+195
+00:22:10,038 --> 00:22:13,450
+It generally rose by a greater degree at term.
+
+196
+00:22:13,450 --> 00:22:24,963
+An earlier study demonstrated that this later rise was at least 15 mm Hg in 95 percent of women with twins compared with only 54 percent of women with a singleton .
+
+197
+00:22:24,963 --> 00:22:31,488
+Hypervolemia along with decreased vascular resistance has an impressive effect on cardiac function.
+
+198
+00:22:31,488 --> 00:22:40,025
+In one study of 119 women with twins, cardiac output rose another 20 percent above that in women with a singleton .
+
+199
+00:22:40,025 --> 00:22:51,050
+Similarly, a study of serial maternal echocardiography examinations found a greater elevation in cardiac output in 20 women with uncomplicated twin pregnancies .
+
+200
+00:22:51,050 --> 00:22:58,850
+Both studies found that the augmented cardiac output was predominantly due to greater stroke volume rather than higher heart rate.
+
+201
+00:22:58,850 --> 00:23:06,050
+Vascular resistance was significantly lower in twin gestations throughout pregnancy compared with singleton ones.
+
+202
+00:23:06,050 --> 00:23:16,300
+In a study of 30 uncomplicated twin pregnancies, this same group of investigators identified progressive diastolic dysfunction from the first to third trimester.
+
+203
+00:23:16,300 --> 00:23:20,250
+The dysfunction subsequently normalized after delivery .
+
+204
+00:23:20,250 --> 00:23:26,200
+Uterine growth in a multifetal gestation is substantively greater than in a singleton one.
+
+205
+00:23:26,200 --> 00:23:33,488
+The uterus and its nonfetal contents may achieve a volume of 10 L or more and weigh in excess of 20 pounds.
+
+206
+00:23:33,488 --> 00:23:40,413
+Especially with monozygotic twins, excessive amounts of amnionic fluid may rapidly accumulate.
+
+207
+00:23:40,413 --> 00:23:48,688
+In these circumstances, maternal abdominal viscera and lungs can be appreciably compressed and displaced by the expanding uterus.
+
+208
+00:23:48,688 --> 00:23:55,738
+As a result, the size and weight of the large uterus may preclude more than a sedentary existence for these women.
+
+209
+00:23:55,738 --> 00:24:00,875
+Rarely, maternal renal function can become seriously impaired, most
+
+210
+00:24:01,036 --> 00:24:04,748
+likely as the consequence of obstructive uropathy .
+
+211
+00:24:04,698 --> 00:24:18,048
+Hydramnios is a common associate, and therapeutic amniocentesis may provide relief for the mother, may improve obstructive uropathy, and possibly may lower rates of preterm labor or rupture of membranes.
+
+212
+00:24:18,048 --> 00:24:24,373
+Unfortunately, hydramnios often develops remote from term and rapidly reaccumulates.
+
+213
+00:24:24,373 --> 00:24:26,811
+Pregnancy Complications.
+
+214
+00:24:26,811 --> 00:24:32,348
+Several complications, discussed next, complicate multifetal pregnancy.
+
+215
+00:24:32,348 --> 00:24:38,461
+Others are preterm birth and discordant fetal growth, which are discussed in later sections.
+
+216
+00:24:38,461 --> 00:24:42,498
+# Spontaneous Abortion and Vanishing Fetus.
+
+217
+00:24:42,498 --> 00:24:52,186
+Among twins, monochorionic twins have significantly higher early fetal loss rates than dichorionic pairs (D’Antonio, 2013).
+
+218
+00:24:52,186 --> 00:24:58,611
+Twins achieved through ART may be at greater risk for abortion compared with those conceived spontaneously .
+
+219
+00:24:58,611 --> 00:25:04,973
+However, among ART-conceived gestations, twins have lower miscarriage rates than singletons .
+
+220
+00:25:04,973 --> 00:25:09,561
+In some cases, only one fetus is spontaneously lost.
+
+221
+00:25:09,561 --> 00:25:16,486
+As a result, the incidence of twins in the first trimester is much greater than the incidence of twins at birth.
+
+222
+00:25:16,486 --> 00:25:23,686
+Estimates suggest that while 1 in 8 pregnancies begin multifetal, only 1 in 80 births are multifetal .
+
+223
+00:25:23,686 --> 00:25:37,261
+Sonography studies in the first trimester have shown that one twin dies and “vanishes” before the second trimester in 10 to 40 percent of all twin pregnancies (Brady, 2013; Harris, 2020).
+
+224
+00:25:37,261 --> 00:25:40,723
+The incidence is higher following ART conception.
+
+225
+00:25:40,723 --> 00:25:44,873
+A vanishing fetus is more common in higher-order multiples.
+
+226
+00:25:44,873 --> 00:26:02,461
+In one study of spontaneous reduction in 709 multifetal pregnancies before 12 weeks’ gestation, one or more embryos died in 36 percent of twin pregnancies, in 53 percent of triplet pregnancies, and in 65 percent of quadruplet pregnancies .
+
+227
+00:26:02,461 --> 00:26:13,873
+Interestingly, in one study, ultimate pregnancy duration and birthweight were inversely related to initial gestational sac number regardless of the final number of fetuses at delivery .
+
+228
+00:26:13,873 --> 00:26:18,511
+This effect was most pronounced in twins who started as quadruplets.
+
+229
+00:26:18,511 --> 00:26:30,123
+Evidence for adverse immediate and long-term effects of twin spontaneous reduction on the remaining pregnancy is conflicting (Harris, 2020; McNamara, 2016).
+
+230
+00:26:30,123 --> 00:26:35,711
+Spontaneous reduction of a twin gestation may affect prenatal screening results.
+
+231
+00:26:35,711 --> 00:26:45,936
+In one study of ART-conceived gestations, 56 twin pregnancies with a single early demise and 897 singleton gestations were compared .
+
+232
+00:26:45,936 --> 00:26:54,811
+First-trimester serum marker concentrations did not differ between the groups if the embryonic loss was identified before 9 weeks’ gestation.
+
+233
+00:26:54,811 --> 00:27:00,211
+If diagnosed after 9 weeks, the marker levels were higher and less precise.
+
+234
+00:27:00,211 --> 00:27:09,348
+With a vanishing twin, first-trimester maternal serum levels of the pregnancyassociated plasma protein A (PAPP-A) can be elevated.
+
+235
+00:27:09,348 --> 00:27:14,398
+Second-trimester MSAFP and dimeric inhibin A levels also can be higher .
+
+236
+00:27:14,398 --> 00:27:22,123
+Early loss of one twin may also affect noninvasive prenatal testing using cell-free DNA (cfDNA) .
+
+237
+00:27:22,123 --> 00:27:28,136
+In one report, 15 percent of the false-positive results were attributed to this effect .
+
+238
+00:27:28,136 --> 00:27:37,048
+The development of single-nucleotide polymorphism technology for cfDNA testing holds promise in better identifying these cases .
+
+239
+00:27:37,048 --> 00:27:46,486
+Thus, a spontaneously reduced abortus is ideally identified to help avoid confusion with results from aneuploidy and neural-tube defect screening.
+
+240
+00:27:46,486 --> 00:27:49,523
+# Congenital Malformations.
+
+241
+00:27:49,523 --> 00:27:55,786
+The incidence of these is appreciably higher in multifetal gestations compared with singleton ones.
+
+242
+00:27:55,786 --> 00:28:05,348
+In one study, the congenital malformation rate was 406 per 10,000 twins compared with 238 per 10,000 singletons .
+
+243
+00:28:05,348 --> 00:28:11,448
+This rate in monochorionic twins was almost twice that of dichorionic twin gestations.
+
+244
+00:28:11,448 --> 00:28:21,098
+One large study between 1998 and 2010 found that twins had a 73-percent greater risk of congenital heart disease than singletons.
+
+245
+00:28:21,098 --> 00:28:30,836
+The occurrence risk and concordance were substantially higher among monochorionic twins (Best, 2015; Gijtenbeek, 2019).
+
+246
+00:28:30,836 --> 00:28:42,911
+From a 30-year European registry of multifetal births, structural anomaly rates rose steadily from 2.2 percent in 1987 to 3.3 percent in 2007 .
+
+247
+00:28:42,911 --> 00:28:52,023
+Yet, during this time, the proportion of dizygotic twins grew by 30 percent, whereas the proportion of monozygotic twins remained stable.
+
+248
+00:28:52,180 --> 00:28:59,880
+This higher risk of congenital malformations in dizygotic twins over time correlated with increased availability of ART.
+
+249
+00:28:59,830 --> 00:29:04,480
+An increase in birth defect rates related to ART has been reported .
+
+250
+00:29:04,480 --> 00:29:14,030
+However, if data are adjusted for maternal age or duration of subfertility, the risk of congenital anomalies does not appear to be increased by ART .
+
+251
+00:29:14,030 --> 00:29:16,417
+# Low Birthweight.
+
+252
+00:29:16,417 --> 00:29:24,905
+Multifetal gestations are more likely to be low birthweight than singleton pregnancies due to restricted fetal growth and preterm delivery.
+
+253
+00:29:24,905 --> 00:29:31,355
+Birthweights in twins closely paralleled those of singletons until 28 to 30 weeks’ gestation.
+
+254
+00:29:31,355 --> 00:29:35,267
+Thereafter, twin birthweights progressively lagged .
+
+255
+00:29:35,267 --> 00:29:42,617
+Beginning at 35 to 36 weeks’ gestation, twin birthweights clearly diverge from those of singletons.
+
+256
+00:29:42,617 --> 00:29:49,905
+Thus, abnormal growth should be diagnosed only when fetal size is less than expected for multifetal gestation.
+
+257
+00:29:49,905 --> 00:29:59,617
+Accordingly, twin and triplet growth curves have been developed (Kim, 2010; Odibo, 2013; Vora, 2006).
+
+258
+00:29:59,617 --> 00:30:08,217
+To confirm suitable growth in dichorionic pairs, we perform sonography every 4 weeks, starting at 16 to 20 weeks.
+
+259
+00:30:08,217 --> 00:30:15,455
+Monochorionic twins are imaged every 2 weeks for twin-twin transfusion syndrome (p. 848).
+
+260
+00:30:15,455 --> 00:30:24,430
+To identify suspected fetal-growth restriction, we use the standards of birthweight for twin gestations stratified by placental chorionicity .
+
+261
+00:30:24,430 --> 00:30:27,130
+Figure 48-6.
+
+262
+00:30:27,130 --> 00:30:43,955
+Birthweight percentiles (25th to 75th) for 357,205 singleton neonates compared with the 50th birthweight percentile for 3714 twins, Parkland Hospital 1988–2012.
+
+263
+00:30:43,955 --> 00:30:54,142
+Infants with major malformations, pregnancies complicated by stillbirth, and twin gestations with >25 percent discordance also were excluded.
+
+264
+00:30:54,142 --> 00:30:56,980
+Data from Dr. Don McIntire.
+
+265
+00:30:56,980 --> 00:30:59,330
+# Hypertension.
+
+266
+00:30:59,330 --> 00:31:11,580
+Compared with mothers of singletons, those with multifetal gestations are more likely to develop a pregnancy-associated hypertensive disorder, and the incidence further rises with advancing fetal number .
+
+267
+00:31:11,580 --> 00:31:18,655
+In one analysis, 14 percent of parturients with twins developed a hypertensive disorder of pregnancy .
+
+268
+00:31:18,655 --> 00:31:25,467
+No specific zygosity confers a greater rate of these disorders (Lučovnik, 2016).
+
+269
+00:31:25,467 --> 00:31:31,767
+However, with twins and gestational diabetes, the preeclampsia incidence is increased .
+
+270
+00:31:31,767 --> 00:31:38,817
+Similar to singleton pregnancies with hypertensive disorders, fetal-growth restriction is a potential outcome .
+
+271
+00:31:38,817 --> 00:31:47,580
+Data suggest that rising fetal number and levels of antiangiogenic factor play roles in preeclampsia pathogenesis in multiples .
+
+272
+00:31:47,580 --> 00:32:05,067
+Nonhypertensive women with twins compared with those with singletons have higher levels of the antiangiogenic factors soluble fms-like tyrosine kinase 1 (sFlt-1) and soluble endoglin and lower levels of proangiogenic placental growth factor (PlGF) .
+
+273
+00:32:05,067 --> 00:32:19,217
+In women with twins and preeclampsia in one study, both sFlt-1 levels and sFlt-1/PlGF ratios rose and PlGF concentrations declined compared with normotensive women with twins .
+
+274
+00:32:19,217 --> 00:32:27,067
+Aspirin therapy is recommended to help prevent preeclampsia and is discussed with prenatal care (p. 853).
+
+275
+00:32:27,067 --> 00:32:30,180
+# Long-term Infant Development.
+
+276
+00:32:30,180 --> 00:32:42,917
+In cohort studies evaluating twin and singletons, academic performance is similar and is unaffected by ART-assisted conception (Christensen, 2006; Spangmose, 2017).
+
+277
+00:32:42,917 --> 00:32:49,992
+For mono- or dichorionic pairs born preterm, neurodevelopment at 2 years was reported to be similar .
+
+278
+00:32:49,992 --> 00:32:59,942
+However, among normal-birthweight neonates, the cerebral palsy (CP) risk is twofold higher among multifetal pregnancies compared with singletons.
+
+279
+00:32:59,942 --> 00:33:13,255
+In term and preterm neonates from 12 large CP registries, the overall CP rate was 1.6 per 1000 singleton live births and 7 per 1000 live births from multifetal pregnancies .
+
+280
+00:33:13,255 --> 00:33:21,267
+In this and another registry study, the higher CP rate in multifetal gestations was attributed mainly to prematurity .
+
+281
+00:33:21,267 --> 00:33:30,405
+Fetal-growth restriction, congenital anomalies, twin-twin transfusion syndrome, and fetal demise of a co-twin are other potential contributors.
+
+282
+00:33:30,405 --> 00:33:33,030
+Unique Fetal Complications.
+
+283
+00:33:33,030 --> 00:33:37,630
+Several unique complications arise in multifetal pregnancies.
+
+284
+00:33:37,630 --> 00:33:43,567
+These are described in twins but also can be found in higher-order multifetal gestations.
+
+285
+00:33:43,567 --> 00:33:50,205
+Most fetal complications attributed to the twinning process itself are seen with monozygotic twins.
+
+286
+00:33:50,356 --> 00:33:57,118
+Their pathogenesis is best understood after reviewing the possibilities shown in Figure 48-1.
+
+287
+00:33:57,068 --> 00:34:00,056
+# Monoamnionic Twins.
+
+288
+00:34:00,056 --> 00:34:10,443
+These twins make up less than 1 percent of all twin pregnancies and 4 percent of monochorionic pairs (Chitrit, 2021; Sebire, 2000).
+
+289
+00:34:10,443 --> 00:34:15,118
+However, they have high rates of many significant complications.
+
+290
+00:34:15,118 --> 00:34:19,356
+Fetal loss rates in monoamnionic twins are substantial.
+
+291
+00:34:19,356 --> 00:34:26,181
+Among fetuses alive before 16 weeks’ gestation, less than half survive to the neonatal period.
+
+292
+00:34:26,181 --> 00:34:31,593
+Fetal abnormalities and spontaneous miscarriage contribute to most losses .
+
+293
+00:34:31,593 --> 00:34:45,431
+A high perinatal death rate is attributable to preterm birth, twin-twin transfusion syndrome, cord entanglement, birthweight discordance, and congenital anomalies (Buca, 2020; Saccone, 2020).
+
+294
+00:34:45,431 --> 00:34:51,106
+Congenital anomaly rates in monoamnionic twins reach 18 to 28 percent .
+
+295
+00:34:51,106 --> 00:34:56,393
+Concordance of anomalies is found in only approximately one quarter of cases.
+
+296
+00:34:56,393 --> 00:35:02,556
+Because of the greater risk of cardiac anomalies, fetal echocardiography is indicated.
+
+297
+00:35:02,556 --> 00:35:11,243
+Of note, monoamnionic twins are by definition monozygotic and thus presumed to be genetically identical, except in rare cases .
+
+298
+00:35:11,243 --> 00:35:20,831
+Interestingly, the risk for Down syndrome in each fetus of the monozygotic pair is similar to or lower than the risk in maternal age-matched singletons .
+
+299
+00:35:20,831 --> 00:35:28,518
+Twin-twin transfusion syndrome rates in monoamnionic twins are lower than in monochorionic diamnionic pregnancies .
+
+300
+00:35:28,518 --> 00:35:37,543
+This may be due to the near universal presence in monoamnionic twins of arterioarterial anastomoses, which are presumed to be protective .
+
+301
+00:35:37,543 --> 00:35:44,243
+Nonetheless, twin-twin transfusion syndrome surveillance is recommended and described in that section.
+
+302
+00:35:44,243 --> 00:35:47,843
+Umbilical cord entanglement is a frequent event .
+
+303
+00:35:47,843 --> 00:35:56,843
+Although color-flow Doppler sonography can help diagnose entanglement, factors that lead to pathological umbilical vessel constriction are unknown.
+
+304
+00:35:56,843 --> 00:36:03,818
+Fetal death from cord entanglement is thus unpredictable, and monitoring for this is relatively ineffective.
+
+305
+00:36:03,818 --> 00:36:11,956
+Moreover, studies of inpatient or outpatient fetal surveillance of monoamnionic twin pregnancies show conflicting data.
+
+306
+00:36:11,956 --> 00:36:22,718
+Heyborne and coworkers (2005) reported no stillbirths in 43 women admitted at 26 to 27 weeks’ gestation for daily fetal surveillance.
+
+307
+00:36:22,718 --> 00:36:28,518
+Conversely, 13 fetuses died in 44 women managed as outpatients.
+
+308
+00:36:28,518 --> 00:36:47,056
+In the MONOMONO Working Group (2019) study of 195 women with these twins, the fetal death rate was 3.3 percent in 75 mothers admitted at 24 to 29 weeks’ gestation compared with 10.8 percent in the 120 gravidas monitored outpatient.
+
+309
+00:36:47,056 --> 00:36:52,668
+Notably, no fetal deaths occurred after 32 weeks’ gestation in either group.
+
+310
+00:36:52,668 --> 00:37:08,156
+Last, Van Mieghem and associates (2014) found the risk of “potentially preventable death” was not significantly different in women with inpatient (2.1 percent) or outpatient (4.7 percent) fetal surveillance.
+
+311
+00:37:08,156 --> 00:37:10,831
+Figure 48-7.
+
+312
+00:37:10,831 --> 00:37:14,743
+Monochorionic monoamnionic cord entanglement.
+
+313
+00:37:14,743 --> 00:37:20,343
+A. Despite marked knotting of the cords, vigorous twins were delivered by cesarean.
+
+314
+00:37:20,343 --> 00:37:25,031
+B. Preoperative sonogram of this pregnancy shows entwined cords.
+
+315
+00:37:25,031 --> 00:37:29,918
+C. This finding is accentuated with application of color Doppler.
+
+316
+00:37:29,918 --> 00:37:33,493
+Reproduced with permission from Dr. Julie Lo.
+
+317
+00:37:33,493 --> 00:37:44,418
+In the United States, mothers with monoamnionic twins are often admitted at 24 to 28 weeks’ gestation to begin 1 hour of daily fetal heart rate monitoring .
+
+318
+00:37:44,418 --> 00:37:51,181
+Optimal surveillance is unclear and may include nonstress testing or biophysical profile assessment .
+
+319
+00:37:51,181 --> 00:37:58,343
+Betamethasone, discussed later, is considered to promote pulmonary maturation (p. 855).
+
+320
+00:37:58,343 --> 00:38:09,306
+If fetal testing remains reassuring and no other intervening indications arise, cesarean delivery is performed at 320/7 to 340/7 weeks’ gestation.
+
+321
+00:38:09,306 --> 00:38:17,631
+To help manage these many care items, the Society for Maternal-Fetal Medicine (2020) offers a prenatal checklist.
+
+322
+00:38:17,631 --> 00:38:20,568
+# Unique and Aberrant Twinning.
+
+323
+00:38:20,568 --> 00:38:26,556
+Several aberrations in monozygotic twinning result in a spectrum of fetal malformations.
+
+324
+00:38:26,556 --> 00:38:32,481
+These are traditionally ascribed to incomplete splitting of an embryo into two separate twins.
+
+325
+00:38:32,481 --> 00:38:38,818
+However, they theoretically may result from early secondary fusion of two separate embryos.
+
+326
+00:38:38,818 --> 00:38:43,343
+These separated embryos are either symmetrical or asymmetrical.
+
+327
+00:38:43,343 --> 00:38:45,231
+The spectrum of
+
+328
+00:38:45,388 --> 00:38:56,925
+asymmetrical twinning includes external parasitic twins, fetus-in-fetu, and twin reversedarterial-perfusion (TRAP) sequence, which is described later (p. 850).
+
+329
+00:38:56,875 --> 00:39:05,613
+Conjoined Twins Joining of the twins may begin at either pole and produce characteristic forms depending on which body parts are joined or shared .
+
+330
+00:39:05,613 --> 00:39:14,350
+The frequency of conjoined twins has a prevalence of 1.5 in 100,000 births, and thoracopagus is the most common type .
+
+331
+00:39:14,350 --> 00:39:16,775
+Figure 48-8.
+
+332
+00:39:16,775 --> 00:39:19,225
+Types of conjoined twins.
+
+333
+00:39:19,225 --> 00:39:24,425
+Conjoined twins can be identified using sonography in the first trimester .
+
+334
+00:39:24,425 --> 00:39:29,900
+This provides an opportunity for parents to decide whether to continue the pregnancy.
+
+335
+00:39:29,900 --> 00:39:38,363
+During sonographic interrogation, fetal poles are seen to be closely associated and do not change relative position from one another .
+
+336
+00:39:38,363 --> 00:39:48,538
+Other clues are more than three vessels in the umbilical cord, fewer limbs than expected, spine hyperflexion, bifid fetal pole, and increased nuchal thickness.
+
+337
+00:39:48,538 --> 00:39:56,350
+Three-dimensional ultrasound, color Doppler, and MR imaging are valuable adjuncts to clarify shared organs .
+
+338
+00:39:56,350 --> 00:39:58,975
+Figure 48-9.
+
+339
+00:39:58,975 --> 00:40:03,875
+Sonogram of a conjoined twin pregnancy at 13 weeks’ gestation.
+
+340
+00:40:03,875 --> 00:40:09,325
+These thoracoomphalopagus twins have two heads but a shared chest and abdomen.
+
+341
+00:40:09,325 --> 00:40:14,938
+Postnatal surgical separation may be successful if essential organs are not shared.
+
+342
+00:40:14,938 --> 00:40:22,663
+Conjoined twins may have discordant structural anomalies that further complicate decisions about whether to continue the pregnancy.
+
+343
+00:40:22,663 --> 00:40:28,100
+Consultation with a pediatric surgeon often assists with parental decisions.
+
+344
+00:40:28,100 --> 00:40:32,400
+Viable-aged conjoined twins should be delivered by cesarean.
+
+345
+00:40:32,400 --> 00:40:39,488
+For pregnancy termination, however, vaginal delivery is possible because the union is often pliable.
+
+346
+00:40:39,488 --> 00:40:46,025
+Still, dystocia is common, and vaginal delivery may be traumatic to the uterus or cervix.
+
+347
+00:40:46,025 --> 00:40:56,625
+External Parasitic Twins and Fetus-in-fetu Attached to a relatively normal twin, an external parasitic twin is a grossly defective fetus or merely fetal parts.
+
+348
+00:40:56,625 --> 00:41:02,675
+It usually consists of externally attached supernumerary limbs, often with some viscera.
+
+349
+00:41:02,675 --> 00:41:07,100
+Classically, however, a functional heart or brain is absent.
+
+350
+00:41:07,100 --> 00:41:16,575
+Parasitic twins are believed to derive from a dead defective twin, whose surviving tissue attaches to and receives vascular support from the normal co-twin .
+
+351
+00:41:16,575 --> 00:41:22,313
+In one study, parasitic twins accounted for 4 percent of all conjoined twins .
+
+352
+00:41:22,313 --> 00:41:29,225
+With fetus-in-fetu, one embryo may enfold early within its co-twin and mainly intraabdominally.
+
+353
+00:41:29,225 --> 00:41:34,938
+Normal development of this rare parasitic twin usually arrests in the first trimester.
+
+354
+00:41:34,938 --> 00:41:39,425
+Thus, normal spatial arrangement and many organs are lacking.
+
+355
+00:41:39,425 --> 00:41:46,400
+Classically, vertebral or axial bones are found in the fetiform mass, whereas a heart and brain are absent.
+
+356
+00:41:46,400 --> 00:41:56,038
+These masses are thought to be a monozygotic, monochorionic diamnionic twin gestation and are typically supported by large parasitic vessels to the host .
+
+357
+00:41:56,038 --> 00:42:00,688
+# Monochorionic Twins and Vascular Anastomoses.
+
+358
+00:42:00,688 --> 00:42:05,675
+All monochorionic placentas likely share some anastomotic connections.
+
+359
+00:42:05,675 --> 00:42:12,200
+With rare exceptions, anastomoses between twins are unique to monochorionic twin placentas.
+
+360
+00:42:12,200 --> 00:42:18,763
+However, the number, size, and direction of these seemingly haphazard connections vary markedly .
+
+361
+00:42:18,763 --> 00:42:25,975
+In one analysis of more than 200 monochorionic placentas, the median number of anastomoses was eight .
+
+362
+00:42:25,975 --> 00:42:28,475
+Figure 48-10.
+
+363
+00:42:28,475 --> 00:42:33,600
+Shared placenta from pregnancy complicated by twin-twin transfusion syndrome.
+
+364
+00:42:33,600 --> 00:42:37,163
+The following color code was applied for injection.
+
+365
+00:42:37,163 --> 00:42:45,263
+Left twin: yellow = artery, blue = vein; right twin: red = artery, green = vein.
+
+366
+00:42:45,263 --> 00:42:54,175
+A. Part of the arterial network of the right twin is filled with yellow dye, due to the presence of a small artery-to-artery anastomosis (arrow).
+
+367
+00:42:54,175 --> 00:43:00,013
+B. Close-up of the lower portion of the placenta displays the yellow dye-filled anastomosis.
+
+368
+00:43:00,013 --> 00:43:10,250
+Reproduced with permission from De Paepe ME, DeKoninck P, Friedman RM: Vascular distribution patterns in monochorionic twin placentas, Placenta.
+
+369
+00:43:10,250 --> 00:43:16,488
+2005 Jul;26(6):471–475.
+
+370
+00:43:16,488 --> 00:43:25,775
+Anastomoses may be artery-to-artery, vein-to-vein, or artery-to-vein communications and are located on the chorionic surface of the placenta.
+
+371
+00:43:25,775 --> 00:43:32,988
+In contrast to these superficial connections, deep artery-to-vein communications can extend through the capillary
+
+372
+00:43:33,148 --> 00:43:35,298
+bed of a given villus .
+
+373
+00:43:35,248 --> 00:43:46,073
+These deep arteriovenous anastomoses create a common villous compartment or “third circulation” that has been identified in approximately half of monochorionic twin placentas.
+
+374
+00:43:46,073 --> 00:43:48,810
+Figure 48-11.
+
+375
+00:43:48,810 --> 00:43:57,123
+Anastomoses between twins may be artery-to-vein (AV), artery-to-artery (AA), or vein-to-vein (VV).
+
+376
+00:43:57,123 --> 00:44:07,860
+Schematic representation of an AV anastomosis in twin-twin transfusion syndrome that forms a “common villous district” or “third circulation” deep within the villous tissue.
+
+377
+00:44:07,860 --> 00:44:13,660
+Blood from a donor twin may be transferred to a recipient twin through this shared circulation.
+
+378
+00:44:13,660 --> 00:44:22,485
+This transfer leads to a growth-restricted discordant donor twin (left) with markedly reduced amnionic fluid, causing it to be “stuck.
+
+379
+00:44:22,485 --> 00:44:29,623
+Whether these anastomoses are dangerous to either twin depends on the degree to which they are hemodynamically balanced.
+
+380
+00:44:29,623 --> 00:44:35,560
+In those with significant pressure or flow gradients, a shunt will develop between fetuses.
+
+381
+00:44:35,560 --> 00:44:51,285
+This chronic fetofetal transfusion may result in several clinical syndromes that include twin-twin transfusion syndrome (TTTS), twin anemia–polycythemia sequence (TAPS), and twin reversed-arterial-perfusion (TRAP) sequence.
+
+382
+00:44:51,285 --> 00:45:02,735
+Twin-Twin Transfusion Syndrome In this syndrome, blood is transfused from a donor twin to its recipient sibling such that the donor may eventually become anemic and its growth may be restricted.
+
+383
+00:45:02,735 --> 00:45:11,310
+In contrast, the recipient becomes polycythemic and may develop circulatory overload with heart failure manifest as hydrops.
+
+384
+00:45:11,310 --> 00:45:18,648
+Classically, the donor twin is smaller and pale, and its recipient sibling is larger and has volume excess.
+
+385
+00:45:18,648 --> 00:45:25,023
+As a result, the recipient neonate may suffer hyperviscosity and occlusive complications.
+
+386
+00:45:25,023 --> 00:45:31,873
+Polycythemia in the recipient twin may also lead to severe hyperbilirubinemia and kernicterus .
+
+387
+00:45:31,873 --> 00:45:37,098
+TTTS complicates 10 to 15 percent of monochorionic twins .
+
+388
+00:45:37,098 --> 00:45:43,435
+Chronic TTTS results from unidirectional flow through deep arteriovenous anastomoses.
+
+389
+00:45:43,435 --> 00:45:52,298
+Deoxygenated blood from a donor placental artery is pumped into a cotyledon shared by the recipient (see Fig. 48-11).
+
+390
+00:45:52,298 --> 00:46:01,385
+Once oxygen exchange is completed in the chorionic villus, the oxygenated blood leaves the cotyledon via a placental vein of the recipient twin.
+
+391
+00:46:01,385 --> 00:46:12,998
+Unless compensated—typically through superficial arterioarterial anastomoses— this unidirectional flow leads to volume depletion in the donor and volume excess in the recipient .
+
+392
+00:46:12,998 --> 00:46:21,498
+TTTS typically presents in midpregnancy when the donor fetus becomes oliguric from hypovolemia and decreased renal perfusion .
+
+393
+00:46:21,498 --> 00:46:31,898
+This fetus develops oligohydramnios, and the recipient fetus develops severe hydramnios, presumably due to increased urine production from hypervolemia.
+
+394
+00:46:31,898 --> 00:46:44,110
+Virtual absence of amnionic fluid in the donor sac prevents fetal motion, giving rise to the descriptive term stuck twin or polyhydramnios–oligohydramnios syndrome—“poly–oli.
+
+395
+00:46:44,110 --> 00:46:56,635
+This amnionic fluid imbalance is associated with growth restriction, contractures, and pulmonary hypoplasia in the donor twin, and premature rupture of the membranes and heart failure in the recipient.
+
+396
+00:46:56,635 --> 00:46:58,748
+Fetal Brain Damage.
+
+397
+00:46:58,748 --> 00:47:09,760
+Cerebral palsy, microcephaly, porencephaly, and multicystic encephalomalacia are serious complications associated with placental vascular anastomoses.
+
+398
+00:47:09,760 --> 00:47:19,385
+The exact pathogenesis of neurological damage is not fully understood but is likely caused by ischemic necrosis leading to cavitary brain lesions.
+
+399
+00:47:19,385 --> 00:47:24,960
+In the donor twin, ischemia results from hypotension, anemia, or both.
+
+400
+00:47:24,960 --> 00:47:31,960
+In the recipient, ischemia develops from blood pressure instability and episodes of profound hypotension .
+
+401
+00:47:31,960 --> 00:47:36,560
+Cerebral lesions may also be associated with preterm delivery .
+
+402
+00:47:36,560 --> 00:47:45,598
+In one review of 315 liveborn fetuses from pregnancies with TTTS, cerebral abnormalities were found in 8 percent .
+
+403
+00:47:45,598 --> 00:47:56,148
+If one twin of an affected pregnancy dies, blood is acutely transfused from high-pressure vessels of the living twin through anastomoses to lowresistance vessels of the dead twin.
+
+404
+00:47:56,148 --> 00:48:05,810
+This leads rapidly to hypovolemia and possible ischemic antenatal brain damage in the survivor (Fusi, 1990, 1991).
+
+405
+00:48:05,810 --> 00:48:11,273
+A less likely cause is emboli of thromboplastic material originating from the
+
+406
+00:48:11,428 --> 00:48:13,178
+dead fetus.
+
+407
+00:48:13,128 --> 00:48:21,690
+The acuity of hypotension following the death of one twin with TTTS makes successful intervention for the survivor nearly impossible.
+
+408
+00:48:21,690 --> 00:48:36,140
+Even with delivery immediately after a co-twin demise is recognized, the hypotension that occurs at the moment of death has likely already caused irreversible brain damage (Langer, 1997; Wada, 1998).
+
+409
+00:48:36,140 --> 00:48:42,503
+As such, immediate delivery is not considered beneficial in the absence of another indication.
+
+410
+00:48:42,503 --> 00:48:44,378
+Diagnosis.
+
+411
+00:48:44,378 --> 00:48:49,065
+TTTS is diagnosed based on two sonographic criteria .
+
+412
+00:48:49,065 --> 00:48:53,078
+First, a monochorionic pregnancy is identified.
+
+413
+00:48:53,078 --> 00:49:06,040
+Second, hydramnios defined by a largest vertical pocket >8 cm in one sac and oligohydramnios defined by a largest vertical pocket <2 cm in the other twin is found.
+
+414
+00:49:06,040 --> 00:49:14,278
+Growth discordance or growth restriction may be found with TTTS, but these per se are not considered diagnostic criteria.
+
+415
+00:49:14,278 --> 00:49:32,178
+Organizations that include the American College of Obstetricians and Gynecologists (2021b), Society for Maternal–Fetal Medicine (2013), and North American Fetal Therapy Network recommend sonographic surveillance of pregnancies at risk for TTTS .
+
+416
+00:49:32,178 --> 00:49:39,703
+These examinations begin at approximately 16 weeks’ gestation, and studies are performed every 2 weeks.
+
+417
+00:49:39,703 --> 00:49:51,428
+In one study of 108 monochorionic twin pairs, a sonographic evaluation interval >2 weeks was associated with a higher Quintero stage at the time of TTTS diagnosis .
+
+418
+00:49:51,428 --> 00:50:00,728
+Once identified, TTTS is typically classified by the Quintero (1999) staging system : Figure 48-12.
+
+419
+00:50:00,728 --> 00:50:05,540
+A. Sonogram of stage I TTTS at 19 weeks’ gestation.
+
+420
+00:50:05,540 --> 00:50:14,553
+Oligohydramnios in the donor twin sac causes the membrane to essentially wrap around the “stuck twin” and suspend it from the anterior uterine wall.
+
+421
+00:50:14,553 --> 00:50:20,078
+B. In this same pregnancy, hydramnios is seen in the recipient twin sac.
+
+422
+00:50:20,078 --> 00:50:28,203
+The measured pocket exceeds 10 cm. C. Stage II TTTS in a donor twin at 17 weeks’ gestation.
+
+423
+00:50:28,203 --> 00:50:34,090
+Color Doppler highlights the arteries that outline the fetal bladder, which contains no urine.
+
+424
+00:50:34,090 --> 00:51:03,565
+Stage I—discordant amnionic fluid volumes as described in the earlier paragraph, but urine is still visible sonographically within the bladder of the donor twin • Stage II—criteria of stage I, but urine is not visible within the donor bladder • Stage III—criteria of stage II and abnormal Doppler studies of the umbilical artery, ductus venosus, or umbilical vein • Stage IV—ascites or frank hydrops in either twin • Stage V—demise of either fetus.
+
+425
+00:51:03,565 --> 00:51:10,565
+In addition to these criteria, cardiac function of the recipient twin also declines with TTTS .
+
+426
+00:51:10,565 --> 00:51:20,865
+Although fetal echocardiographic findings are not part of the Quintero staging system, many centers routinely perform fetal echocardiography for TTTS.
+
+427
+00:51:20,865 --> 00:51:29,165
+Theoretically, earlier diagnosis of fetal cardiomyopathy may identify pregnancies that would benefit from early intervention .
+
+428
+00:51:29,165 --> 00:51:36,540
+One measure, the myocardial performance index (MPI), is a Doppler index of each ventricle’s function.
+
+429
+00:51:36,540 --> 00:51:50,228
+Scoring systems that include cardiac function have been developed, but their usefulness to predict outcomes remains controversial (Miller, 2021b; Society for Maternal-Fetal Medicine, 2013).
+
+430
+00:51:50,228 --> 00:51:52,890
+Management and Prognosis.
+
+431
+00:51:52,890 --> 00:52:01,803
+The prognosis for multifetal gestations complicated by TTTS is related to Quintero stage and gestational age at presentation.
+
+432
+00:52:01,803 --> 00:52:06,603
+Some stage I cases remain stable or regress without intervention.
+
+433
+00:52:06,603 --> 00:52:13,490
+However, 60 percent progress (Emery, 2016; Stirnemann, 2021).
+
+434
+00:52:13,490 --> 00:52:29,378
+Conversely, outcomes in those identified at stage III or higher are much worse, and the perinatal loss rate is 70 to 100 percent without intervention (Miller, 2021b; Society for Maternal-Fetal Medicine, 2013).
+
+435
+00:52:29,378 --> 00:52:39,228
+Several therapies available for TTTS include laser ablation of vascular placental anastomoses, amnioreduction, and selective feticide.
+
+436
+00:52:39,228 --> 00:52:45,640
+Similar to amniocentesis , amnioreduction is needle drainage of excess amnionic fluid.
+
+437
+00:52:45,640 --> 00:52:49,815
+These techniques have been evaluated in randomized trials.
+
+438
+00:52:49,815 --> 00:52:58,078
+The Eurofetus trial included 142 women with severe TTTS diagnosed before 26 weeks’ gestation.
+
+439
+00:52:58,078 --> 00:53:05,365
+Participants were randomly assigned to laser ablation of vascular anastomoses or to serial amnioreduction .
+
+440
+00:53:05,365 --> 00:53:09,315
+Laser ablation yielded a 76-percent rate of
+
+441
+00:53:09,484 --> 00:53:16,471
+survival to age 6 months for at least one twin compared with a 51-percent rate with amnioreduction.
+
+442
+00:53:16,421 --> 00:53:31,496
+Analyses of most randomized studies confirm better neonatal outcomes with laser therapy compared with selective amnioreduction (Marwan, 2019; Roberts, 2008; Rossi, 2008, 2009).
+
+443
+00:53:31,496 --> 00:53:44,546
+However, evaluation of twins from the Eurofetus trial through 6 years of age did not demonstrate an additional survival benefit beyond 6 months or improved neurological outcomes in those treated with laser .
+
+444
+00:53:44,546 --> 00:53:51,834
+At this time, laser ablation of anastomoses is preferred for severe TTTS (stages II–IV).
+
+445
+00:53:51,834 --> 00:54:03,146
+Optimal therapy for stage I disease is controversial, and laser ablation or expectant surveillance is an option (Emery, 2015; Stirnemann, 2021).
+
+446
+00:54:03,146 --> 00:54:10,846
+Of techniques, an ablation method may laser individual anastomoses or may ablate the entire the vascular equator.
+
+447
+00:54:10,846 --> 00:54:16,146
+This equator is the border between twin vasculature on the chorionic surface.
+
+448
+00:54:16,146 --> 00:54:23,709
+Equatorial ablation, which is referred to as a Solomon technique, reduces the likelihood of TTTS recurrence.
+
+449
+00:54:23,709 --> 00:54:30,346
+This method also lowers rates of TAPS, which can be a lasertherapy sequelae and described next .
+
+450
+00:54:30,346 --> 00:54:35,046
+After laser therapy, close ongoing surveillance is necessary.
+
+451
+00:54:35,046 --> 00:54:42,784
+Weekly ultrasound and Doppler studies are recommended (Marwan, 2019; Miller 2021b).
+
+452
+00:54:42,784 --> 00:54:50,034
+These evaluations monitor fetal growth, amnionic fluid volumes, placental function, and anemia.
+
+453
+00:54:50,034 --> 00:55:01,471
+Delivery timing is usually influenced by TTTS recurrence, fetal-growth restriction, or by abnormal Doppler velocimetry values, which reflect poor placental function .
+
+454
+00:55:01,471 --> 00:55:11,396
+Another treatment option, selective fetal reduction, has generally been considered if severe amnionic fluid and growth disturbances develop before 20 weeks.
+
+455
+00:55:11,396 --> 00:55:16,396
+In such cases, both fetuses typically will die without intervention.
+
+456
+00:55:16,396 --> 00:55:22,471
+Any substance injected into one twin may affect the other twin because of shared circulations.
+
+457
+00:55:22,471 --> 00:55:30,321
+Thus, for the fetus chosen for reduction, feticidal methods aim to occlude the umbilical vein or umbilical cord.
+
+458
+00:55:30,321 --> 00:55:45,609
+Radiofrequency ablation, fetoscopic ligation, or coagulation with laser, monopolar, or bipolar energy are options (Challis, 1999; Chang, 2009; Parra-Cordero, 2016).
+
+459
+00:55:45,609 --> 00:55:51,709
+Even after these procedures, however, risks to the remaining fetus are still appreciable .
+
+460
+00:55:51,709 --> 00:55:56,234
+Early termination of the entire pregnancy is yet another option.
+
+461
+00:55:56,234 --> 00:56:08,134
+Twin Anemia–Polycythemia Sequence Chronic fetofetal transfusion underlies this form, which is characterized by significant hemoglobin differences between donor and recipient twins.
+
+462
+00:56:08,134 --> 00:56:17,421
+Similar to TTTS, the donor twin in spontaneous TAPS is anemic and usually smaller than the recipient twin, which is polycythemic.
+
+463
+00:56:17,421 --> 00:56:23,984
+However, TAPS lacks the discrepancies in amnionic fluid volumes typical of TTTS.
+
+464
+00:56:23,984 --> 00:56:31,696
+Spontaneous TAPS can develop at any gestational age and complicates 1 to 6 percent of monochorionic twins .
+
+465
+00:56:31,696 --> 00:56:45,521
+Iatrogenic TAPS develops in up to 13 percent of pregnancies after laser ablation of the placenta and usually develops within 5 weeks of a procedure (Lewi, 2013; Tollenaar, 2021).
+
+466
+00:56:45,521 --> 00:56:54,671
+In iatrogenic TAPS, the former TTTS recipient twin usually becomes anemic, whereas the former donor becomes polycythemic .
+
+467
+00:56:54,671 --> 00:57:06,471
+Sonographically measuring blood flow velocity in the fetal middle cerebral artery (MCA) can accurately identify fetal anemia (Chap. 14, 262).
+
+468
+00:57:06,471 --> 00:57:15,009
+Antenatally, TAPS is diagnosed by discordant MCA peak systolic velocity (PSV) values between twins.
+
+469
+00:57:15,009 --> 00:57:26,084
+Specifically, an MCA-PSV value that is >1.5 multiples of the median (MoM) in the donor twin and <1.0 MoM in the recipient twin .
+
+470
+00:57:26,084 --> 00:57:33,546
+Others have suggested alternative threshold values (Khalil, 2020; Tollenaar, 2019).
+
+471
+00:57:33,546 --> 00:57:45,021
+A staging system for TAPS has been proposed, and higher stage is associated with increased perinatal mortality rate (Slaghekke, 2010; Tollenaar, 2021).
+
+472
+00:57:45,021 --> 00:57:58,071
+Screening for spontaneous TAPS is controversial, as improvements in perinatal outcomes have not been demonstrated (Khalil, 2016; Society for Maternal-Fetal Medicine, 2013).
+
+473
+00:57:58,071 --> 00:58:08,121
+Management options include expectant care, delivery, laser surgery, intrauterine transfusion, selective feticide, and pregnancy termination.
+
+474
+00:58:08,121 --> 00:58:13,659
+A clinical trial evaluating fetoscopic laser therapy for TAPS is currently
+
+475
+00:58:13,828 --> 00:58:15,428
+ongoing.
+
+476
+00:58:15,378 --> 00:58:20,053
+Antenatal surveillance mirrors that just described for TTTS.
+
+477
+00:58:20,053 --> 00:58:28,115
+Again, delivery timing is usually influenced by worsening fetal growth or by abnormal Doppler velocimetry values.
+
+478
+00:58:28,115 --> 00:58:36,078
+Postnatal treatment often requires blood transfusion for the donor twin and partial exchange transfusion of the recipient twin.
+
+479
+00:58:36,078 --> 00:58:49,840
+Twin Reversed-arterial-perfusion Sequence Also known as acardiac twinning, this rare, serious complication of monochorionic multifetal gestation has an estimated incidence of 1 case in 35,000 births.
+
+480
+00:58:49,840 --> 00:59:02,065
+With classic TRAP sequence, the twin pair is a normally formed donor twin that shows features of heart failure and a grossly malformed recipient twin that lacks a heart (acardius) and other structures.
+
+481
+00:59:02,065 --> 00:59:10,840
+In one theory, the TRAP sequence is caused by a large artery-to-artery placental shunt, often also accompanied by a vein-to-vein shunt .
+
+482
+00:59:10,840 --> 00:59:18,190
+Within the single, shared placenta, arterial perfusion pressure of the donor twin exceeds that in the recipient twin.
+
+483
+00:59:18,190 --> 00:59:24,965
+The recipient thus receives reversed blood flow containing deoxygenated arterial blood from its co-twin .
+
+484
+00:59:24,965 --> 00:59:33,115
+This “used” arterial blood reaches the recipient twin through its umbilical arteries and preferentially goes to its iliac vessels.
+
+485
+00:59:33,115 --> 00:59:40,003
+Thus, only the lower body is perfused, and disrupted growth and development of the upper body follows.
+
+486
+00:59:40,003 --> 00:59:56,815
+In these cases, failed head growth is called acardius acephalus; a partially developed head with identifiable limbs is called acardius myelacephalus; and failure of any recognizable structure to form is acardius amorphous, which is shown in Figure 48-14.
+
+487
+00:59:56,815 --> 01:00:07,765
+Because of this vascular connection, the normal donor twin must not only support its own circulation but also must pump blood to and through the underdeveloped acardiac recipient.
+
+488
+01:00:07,765 --> 01:00:16,803
+This may lead to cardiomegaly and high-output heart failure in the donor twin (Fox, 2007; Marwan, 2019).
+
+489
+01:00:16,803 --> 01:00:19,653
+Figure 48-13.
+
+490
+01:00:19,653 --> 01:00:23,040
+Twin reversed-arterial-perfusion sequence.
+
+491
+01:00:23,040 --> 01:00:31,615
+In the TRAP sequence, there is usually a normally formed donor twin that has features of heart failure, and a recipient twin that lacks a heart.
+
+492
+01:00:31,615 --> 01:00:40,390
+It is hypothesized that the TRAP sequence follows a large artery-to-artery placental shunt, often also accompanied by a vein-to-vein shunt.
+
+493
+01:00:40,390 --> 01:00:50,978
+Within the single, shared placenta, perfusion pressure of the donor twin overpowers that in the recipient twin, who thus receives reverse blood flow from its twin sibling.
+
+494
+01:00:50,978 --> 01:00:59,503
+The “used” arterial blood that reaches the recipient twin preferentially goes to its iliac vessels and thus perfuses only the lower body.
+
+495
+01:00:59,503 --> 01:01:03,340
+This disrupts growth and development of the upper body.
+
+496
+01:01:03,340 --> 01:01:06,128
+Figure 48-14.
+
+497
+01:01:06,128 --> 01:01:11,115
+Photograph of an acardiac twin weighing 475 grams.
+
+498
+01:01:11,115 --> 01:01:17,290
+The underdeveloped head is indicated by the black arrow, and its details are shown in the inset.
+
+499
+01:01:17,290 --> 01:01:20,728
+A yellow clamp is seen on its umbilical cord.
+
+500
+01:01:20,728 --> 01:01:28,515
+Its viable donor co-twin was delivered vaginally at 36 weeks and weighed 2325 grams.
+
+501
+01:01:28,515 --> 01:01:33,040
+Reproduced with permission from Dr. Michael D. Hnat.
+
+502
+01:01:33,040 --> 01:01:37,828
+In the past, the donor-twin mortality rate exceeded 50 percent.
+
+503
+01:01:37,828 --> 01:01:45,265
+This stemmed largely from complications of prematurity or from a prolonged high-output state leading to cardiac failure .
+
+504
+01:01:45,265 --> 01:01:49,515
+Risk is directly related to size of the acardiac twin.
+
+505
+01:01:49,515 --> 01:01:54,053
+When the acardiac twin is large, treatment is generally offered.
+
+506
+01:01:54,053 --> 01:02:03,828
+Radiofrequency ablation (RFA) is the preferred modality of therapy, and contemporary reports now suggest improved perinatal outcomes.
+
+507
+01:02:03,828 --> 01:02:14,953
+The North American Fetal Therapy Network reviewed their experiences with 98 cases from 1998 to 2008 in which RFA of the umbilical cord was performed.
+
+508
+01:02:14,953 --> 01:02:22,753
+Median gestational age at delivery was 37 weeks’ gestation, and 80 percent of donor neonates survived .
+
+509
+01:02:22,753 --> 01:02:27,103
+# Hydatidiform Mole with Coexisting Normal Fetus.
+
+510
+01:02:27,103 --> 01:02:33,615
+This rare gestation contains one normal fetus, and its co-twin is a complete molar pregnancy.
+
+511
+01:02:33,615 --> 01:02:45,240
+It must be differentiated from a partial molar pregnancy, which is a singleton, triploid fetus and its placenta composed of molar tissue (Fig. 13-4, p. 238).
+
+512
+01:02:45,240 --> 01:02:49,028
+Diagnosis in the first half of pregnancy is common.
+
+513
+01:02:49,028 --> 01:02:57,065
+Sonographically, a normal-appearing twin is accompanied by its co-twin, which is a large placenta containing multiple small
+
+514
+01:02:57,220 --> 01:02:59,407
+anechoic cysts.
+
+515
+01:02:59,357 --> 01:03:05,795
+Often, these pregnancies are terminated, but pregnancy continuation is increasingly adopted.
+
+516
+01:03:05,795 --> 01:03:09,507
+The live birth rate from one review was 50 percent .
+
+517
+01:03:09,507 --> 01:03:24,182
+The risk of gestational trophoblastic neoplasia (GTN), which is a malignant sequelae of hydatidiform mole, is similar whether the pregnancy is terminated or not (Massardier, 2009; Sebire, 2002).
+
+518
+01:03:24,182 --> 01:03:29,932
+Given the limited number of cases, robust data for firm recommendations are lacking.
+
+519
+01:03:29,932 --> 01:03:43,145
+Discussed in Chapter 13 (p. 237), complications of expectant management include vaginal bleeding, hyperemesis gravidarum, thyrotoxicosis, and early-onset preeclampsia.
+
+520
+01:03:43,145 --> 01:03:49,582
+Many of these complications result in preterm birth with its attendant adverse perinatal outcomes.
+
+521
+01:03:49,582 --> 01:03:56,095
+Logically, close antepartum and postpartum surveillance is needed for those continuing the pregnancy.
+
+522
+01:03:56,095 --> 01:04:02,670
+Postpartum GTN surveillance is essential and described in Chapter 13 (p. 240).
+
+523
+01:04:02,670 --> 01:04:04,695
+Discordant Growth.
+
+524
+01:04:04,695 --> 01:04:10,645
+Fetal size inequality develops in approximately 15 percent of twin gestations .
+
+525
+01:04:10,645 --> 01:04:17,757
+Generally, as the weight difference within a twin pair grows, the perinatal mortality rate rises proportionately.
+
+526
+01:04:17,757 --> 01:04:23,957
+Earlier discordancy and monochorionicity pose increased mortality risks for the smaller twin.
+
+527
+01:04:23,957 --> 01:04:38,932
+Specifically, with discordant growth identified at or before 20 weeks’ gestation in studies, 8 to 15 percent of the growth-restricted fetuses die (Couck, 2020; Curado, 2020; D’Antonio, 2018).
+
+528
+01:04:38,932 --> 01:04:41,482
+# Pathogenesis.
+
+529
+01:04:41,482 --> 01:04:48,270
+The etiology of growth discordance in monochorionic twins likely differs from that in dichorionic twins.
+
+530
+01:04:48,270 --> 01:04:58,445
+First, in monochorionic twins, the single placenta is not always equally shared, and this leads to higher discordant growth rates than in dichorionic pairs .
+
+531
+01:04:58,445 --> 01:05:08,832
+In cases with TTTS, discordancy in monochorionic twins is usually attributed to placental anastomoses that cause a perfusion imbalance between twins.
+
+532
+01:05:08,832 --> 01:05:13,932
+Reduced perfusion of the donor twin can diminish placental and fetal growth .
+
+533
+01:05:13,932 --> 01:05:21,482
+Last, monochorionic twins at times can be discordant in size because they are discordant for structural anomalies.
+
+534
+01:05:21,482 --> 01:05:24,157
+Figure 48-15.
+
+535
+01:05:24,157 --> 01:05:27,845
+Marked growth discordance in monochorionic twins.
+
+536
+01:05:27,845 --> 01:05:31,445
+Reproduced with permission from Dr. Laura Greer.
+
+537
+01:05:31,445 --> 01:05:36,695
+In dichorionic twins, discordancy may result from various factors.
+
+538
+01:05:36,695 --> 01:05:43,395
+Dizygotic fetuses may have different genetic growth potential, especially if they are of opposite genders.
+
+539
+01:05:43,395 --> 01:05:52,270
+Second, because the placentas are separate and require more implantation space, one placenta might have a suboptimal implantation site.
+
+540
+01:05:52,270 --> 01:06:00,845
+Additionally, umbilical cord abnormalities such as velamentous insertion, marginal insertion, or vasa previa may play a role .
+
+541
+01:06:00,845 --> 01:06:07,495
+One study showed that the incidence of severe discordancy is twice as great in triplets as it is in twins .
+
+542
+01:06:07,495 --> 01:06:12,845
+This supports the view that in-utero crowding promotes multifetal growth restriction.
+
+543
+01:06:12,845 --> 01:06:16,145
+Placental pathology may be contributory.
+
+544
+01:06:16,145 --> 01:06:29,745
+In one study of 668 twin placentas, a strong relationship between histological placental abnormalities and birthweight discordancy was observed in dichorionic but not monochorionic twin pregnancies .
+
+545
+01:06:29,745 --> 01:06:32,145
+# Diagnosis.
+
+546
+01:06:32,145 --> 01:06:37,732
+Antenatal size discordancy between twins can be best determined sonographically.
+
+547
+01:06:37,732 --> 01:06:43,095
+Crown-rump length differences are not reliable predictors for birthweight discordance .
+
+548
+01:06:43,095 --> 01:06:48,232
+Thus, most discordancy surveillance begins after the first trimester.
+
+549
+01:06:48,232 --> 01:06:54,795
+One common method uses sonographic fetal biometry to compute an estimated weight for each twin .
+
+550
+01:06:54,795 --> 01:07:03,457
+Percent discordancy is then calculated as the weight of the larger twin minus the weight of the smaller twin, divided by the weight of the larger twin.
+
+551
+01:07:03,457 --> 01:07:13,882
+The American College of Obstetricians and Gynecologists (2021b) defines discordance as an estimated fetal weight difference >20 percent.
+
+552
+01:07:13,882 --> 01:07:16,107
+# Management.
+
+553
+01:07:16,107 --> 01:07:22,107
+The risk for adverse perinatal outcomes in the setting of growth discordance remains controversial.
+
+554
+01:07:22,107 --> 01:07:39,320
+Some suggest that twin gestations with discordant growth between two fetuses that are appropriately grown for gestational age are not at increased risk for adverse outcomes (American College of Obstetricians and Gynecologists, 2021b; Appleton, 2007).
+
+555
+01:07:39,320 --> 01:07:44,432
+Others have shown an increased risk for adverse fetal outcomes but not for poor
+
+556
+01:07:44,596 --> 01:07:50,858
+neonatal outcomes (Amaru, 2004; D’Antonio, 2018).
+
+557
+01:07:50,808 --> 01:08:04,033
+However, accumulated data suggest that weight discordancy exceeding 25 to 30 percent most accurately predicts an adverse perinatal outcome (Cohen, 2001; Chen, 2019).
+
+558
+01:08:04,033 --> 01:08:12,733
+At Parkland Hospital, twin weight-discordancy values from 1370 delivered twin pairs were stratified by percentage increments .
+
+559
+01:08:12,733 --> 01:08:26,146
+The incidence of respiratory distress syndrome, intraventricular hemorrhage, seizures, periventricular leukomalacia, sepsis, and necrotizing enterocolitis rose directly with the percentage of weight discordancy.
+
+560
+01:08:26,146 --> 01:08:31,921
+Rates of these conditions grew substantially if discordancy exceeded 25 percent.
+
+561
+01:08:31,921 --> 01:08:42,971
+The relative risk of fetal death increased significantly to 5.6 if weight discordancy was >30 percent and rose to 18.9 if >40 percent.
+
+562
+01:08:42,971 --> 01:08:50,446
+Nonstress testing and biophysical profile assessment have all been recommended in management of twin growth discordancy.
+
+563
+01:08:50,446 --> 01:09:02,083
+If significant discordancy is identified in a monochorionic twin pair, umbilical artery Doppler studies in the smaller fetus may help guide management (Gratacós, 2007).
+
+564
+01:09:02,083 --> 01:09:08,583
+Data are limited to establish the optimal timing of delivery of twins with size discordancy alone.
+
+565
+01:09:08,583 --> 01:09:12,908
+At advanced gestational ages, delivery can be pursued.
+
+566
+01:09:12,908 --> 01:09:24,858
+Selective Fetal-growth Restriction Restricted growth of one twin fetus is termed selective fetal-growth restriction (sFGR) and usually develops late in the second and early third trimester.
+
+567
+01:09:24,858 --> 01:09:35,508
+Some diagnose sFGR if the abdominal circumference (AC) measurement difference exceeds 20 mm or if fetal-growth discordance is >20 percent .
+
+568
+01:09:35,508 --> 01:09:46,546
+If sFGR is diagnosed, weekly testing of fetal wellbeing, evaluation of amnionic fluid volume, and umbilical artery Doppler velocimetry are undertaken.
+
+569
+01:09:46,546 --> 01:09:56,596
+Investigators have correlated Doppler results with placental findings and with the degree of sFGR to predict fetal outcome (Gratacós, 2012).
+
+570
+01:09:56,596 --> 01:10:00,921
+These correlations have yielded categories of sFGR.
+
+571
+01:10:00,921 --> 01:10:09,158
+Type I shows positive end-diastolic flow, a smaller degree of weight discordance, and a relatively benign clinical course.
+
+572
+01:10:09,158 --> 01:10:17,721
+Type II displays persistently absent end-diastolic flow in the smaller twin and carries a high risk of deterioration and demise.
+
+573
+01:10:17,721 --> 01:10:22,683
+Type III has intermittently absent or reversed end-diastolic flow.
+
+574
+01:10:22,683 --> 01:10:33,621
+Because of large artery-to-artery anastomoses associated with the placentas in this last category, type III is associated with a lower risk of deterioration than type II.
+
+575
+01:10:33,621 --> 01:10:39,208
+In all evaluated cases, unequally shared placenta was noted to some degree.
+
+576
+01:10:39,208 --> 01:10:46,646
+Serial evaluation of fetal growth is performed every 3 weeks (Chap 47, p. 829).
+
+577
+01:10:46,646 --> 01:10:59,483
+At Parkland Hospital, daily inpatient surveillance is undertaken in women with fetal-growth restriction in one twin or with twin discordancy exceeding 25 percent in the setting of a twin with restricted growth.
+
+578
+01:10:59,483 --> 01:11:01,421
+Fetal Demise.
+
+579
+01:11:01,421 --> 01:11:09,008
+At any time during multifetal pregnancy, one or more fetuses may die, either simultaneously or sequentially.
+
+580
+01:11:09,008 --> 01:11:14,096
+Most causes stem from complications of fetal anomaly or chorionicity.
+
+581
+01:11:14,096 --> 01:11:29,508
+Related to the latter, compared with dichorionic twins, monochorionic pairs suffer higher rates of sFGR, TTTS, or TAPS from unequal vascular anastomoses, and monoamnionic pairs can die from cord entanglement.
+
+582
+01:11:29,508 --> 01:11:35,196
+When death is early, it may manifest as a vanishing twin (p. 843).
+
+583
+01:11:35,196 --> 01:11:45,133
+For the survivor, the risk of death after the first trimester is not increased, and the pregnancy requires no additional surveillance for this specific indication.
+
+584
+01:11:45,133 --> 01:11:56,533
+In a slightly more advanced gestation, the dead fetus may be compressed appreciably—fetus compressus, or it may be flattened remarkably through desiccation—fetus papyraceus .
+
+585
+01:11:56,533 --> 01:11:59,346
+Figure 48-16.
+
+586
+01:11:59,346 --> 01:12:05,021
+This fetus papyraceus is a tan ovoid mass compressed against the fetal membranes.
+
+587
+01:12:05,021 --> 01:12:08,633
+Anatomical parts can be identified as marked.
+
+588
+01:12:08,633 --> 01:12:15,546
+Demise of this twin had been noted during sonographic examination performed at 17 weeks’ gestation.
+
+589
+01:12:15,546 --> 01:12:19,046
+Its viable co-twin delivered at 40 weeks.
+
+590
+01:12:19,046 --> 01:12:23,346
+Reproduced with permission from Dr. Michael V. Zaretsky.
+
+591
+01:12:23,346 --> 01:12:34,696
+In gestations past 20 weeks, the stillbirth rate in twins in the United States was 1.4 percent of live births and exceeded the 0.6-percent rate in singletons .
+
+592
+01:12:34,696 --> 01:12:36,146
+After
+
+593
+01:12:36,316 --> 01:12:51,991
+a single intrauterine fetal demise (sIUFD) in these later gestations, risks to the remaining co-twin include death, preterm birth, and neurological injury (D’Antonio, 2017; Mackie, 2019).
+
+594
+01:12:51,941 --> 01:13:01,703
+With the last, acute hypovolemia from volume shifts within placental anastomoses occurs immediately, and neurological injury is not preventable.
+
+595
+01:13:01,703 --> 01:13:15,328
+Related to co-twin death, monochorionic diamnionic twins with an sIUFD were 16 times more likely to experience death of the co-twin than were dichorionic twins with an sIUFD in one large series .
+
+596
+01:13:15,328 --> 01:13:35,028
+In most studies, the rate of co-twin demise after sIUFD declines after 26 to 28 weeks’ gestation and with advancing gestational age (Mackie, 2019; McPherson, 2012; Southwest Thames Obstetric Research Collaborative, 2012; Wood, 2014).
+
+597
+01:13:35,028 --> 01:13:42,341
+The rate of preterm birth following sIUFD is increased but is similar between mono- and dichorionic twins.
+
+598
+01:13:42,341 --> 01:13:50,253
+Advancing rates are seen at later gestational ages (D’Antonio, 2017; Ong, 2006).
+
+599
+01:13:50,253 --> 01:13:56,091
+The neurological prognosis for a surviving co-twin is influenced by chorionicity.
+
+600
+01:13:56,091 --> 01:14:10,728
+In one review of diamnionic twin pregnancies complicated by sIUFD before 34 weeks, neurodevelopmental morbidity was 29 percent in monochorionic twins and was threefold higher than in dichorionic gestations .
+
+601
+01:14:10,728 --> 01:14:21,841
+In other series with sIUFD after 34 weeks, the likelihood of neurological deficits was essentially the same between monochorionic and dichorionic twin pregnancies .
+
+602
+01:14:21,841 --> 01:14:33,816
+Because of this significant neurological risk, if one fetus of a monochorionic twin gestation dies after the first trimester but before viability, pregnancy termination can be considered .
+
+603
+01:14:33,816 --> 01:14:40,853
+After viability, ultimate delivery timing balances the risk of prematurity against cotwin demise.
+
+604
+01:14:40,853 --> 01:14:46,616
+Early management emphasizes maternal and co-twin safety and gestation prolongation .
+
+605
+01:14:46,616 --> 01:14:51,653
+Antenatal corticosteroids for survivor lung maturity can be considered.
+
+606
+01:14:51,653 --> 01:14:57,528
+For sIUFD occurring after 34 weeks’ gestation, delivery is reasonable .
+
+607
+01:14:57,528 --> 01:15:03,503
+Last, the death of one fetus could theoretically trigger coagulation defects in the mother.
+
+608
+01:15:03,503 --> 01:15:10,578
+Only a few cases of maternal coagulopathy after a single fetal death in a twin pregnancy have been reported.
+
+609
+01:15:10,578 --> 01:15:16,591
+This is probably because the surviving twin is usually delivered within a few weeks of the demise .
+
+610
+01:15:16,591 --> 01:15:18,478
+Prenatal Care.
+
+611
+01:15:18,478 --> 01:15:26,703
+At Parkland Hospital clinics, women with multifetal gestations are seen every 2 weeks beginning at 22 weeks’ gestation.
+
+612
+01:15:26,703 --> 01:15:36,553
+One imperative is preterm delivery prevention, and a digital cervical examination is performed at each visit to screen for cervical shortening or dilation.
+
+613
+01:15:36,553 --> 01:15:45,253
+The maternal diet should provide additional requirements for calories, protein, minerals, vitamins, and essential fatty acids.
+
+614
+01:15:45,253 --> 01:15:55,953
+The Institute of Medicine (IOM) (2009) recommends a 37- to 54-lb weight gain for women with twins and a normal body mass index.
+
+615
+01:15:55,953 --> 01:16:12,553
+The daily recommended augmented caloric intake for women with twins is 40 to 45 kcal/kg/d. Diets contain 20 percent protein, 40 percent carbohydrate, and 40 percent fat divided into three meals and three snacks daily.
+
+616
+01:16:12,553 --> 01:16:24,141
+Based on upper-intake levels from the Food and Nutrition Board of the IOM, one review endorsed supplementation of calcium, magnesium, zinc, and vitamins C, D, and E .
+
+617
+01:16:24,141 --> 01:16:36,041
+Discussed in Chapter 40 (p. 705), low-dose aspirin prophylaxis is recommended in women at high risk of preeclampsia, which includes those with a multifetal pregnancy .
+
+618
+01:16:36,041 --> 01:16:44,266
+An 81-mg oral daily dose is initiated between 12 and 28 weeks’ gestation and is continued until delivery .
+
+619
+01:16:44,266 --> 01:16:51,616
+Prenatal screening for fetal aneuploidy is carried out as described in Chapter 17 (p. 334).
+
+620
+01:16:51,616 --> 01:16:59,703
+Thus, the combined test or secondary screening is done and interpreted with value thresholds set for multifetal pregnancies.
+
+621
+01:16:59,703 --> 01:17:12,941
+Noninvasive prenatal screening with cfDNA also is acceptable (American College of Obstetricians and Gynecologists, 2020d; Judah, 2021; Khalil, 2021).
+
+622
+01:17:12,941 --> 01:17:19,678
+Interpretation caveats for those with a vanishing twin were described earlier (p. 844).
+
+623
+01:17:19,678 --> 01:17:26,216
+To screen for structural anomalies, a midpregnancy anatomic sonography survey is performed.
+
+624
+01:17:26,216 --> 01:17:33,203
+In addition, monochorionic twins undergo echocardiography because of an increased risk for cardiac
+
+625
+01:17:33,364 --> 01:17:35,101
+anomalies .
+
+626
+01:17:35,051 --> 01:17:40,764
+As noted earlier (p. 844), fetal growth is assessed with sonography.
+
+627
+01:17:40,764 --> 01:17:46,614
+Amnionic fluid volume is quantified using the deepest vertical pocket in each sac.
+
+628
+01:17:46,614 --> 01:17:59,939
+A measurement <2 cm is considered oligohydramnios, and a measurement >8 cm is considered hydramnios (Duryea, 2017; Hernandez, 2012).
+
+629
+01:17:59,939 --> 01:18:05,639
+Twin pregnancies are at increased risk for stillbirth compared to singleton gestations.
+
+630
+01:18:05,639 --> 01:18:17,326
+The intrauterine fetal death rate is two- to threefold higher in monochorionic pregnancies compared with dichorionic gestations (Lee, 2008; Morikawa, 2012).
+
+631
+01:18:17,326 --> 01:18:28,364
+Cheong-See and colleagues (2016) reported a higher stillbirth rate in monochorionic gestations compared with dichorionic gestations beyond 34 weeks’ gestation.
+
+632
+01:18:28,364 --> 01:18:40,401
+Outpatient weekly nonstress test or biophysical profile may help lower the rate of intrauterine death in twin gestations (Booker, 2015; Burgess, 2014).
+
+633
+01:18:40,401 --> 01:18:52,976
+Weekly antenatal surveillance is undertaken at 36 weeks’ gestation for uncomplicated dichorionic pregnancies and at 32 weeks’ gestation or uncomplicated monochorionic gestations .
+
+634
+01:18:52,976 --> 01:18:58,039
+However, all antenatal testing schemes have high false-positive rates.
+
+635
+01:18:58,039 --> 01:19:06,539
+In cases of abnormal testing in one twin and normal results in another, iatrogenic preterm delivery remains a major concern.
+
+636
+01:19:06,539 --> 01:19:13,001
+Therefore, patients are carefully counseled prior to initiating antenatal testing in twins.
+
+637
+01:19:13,001 --> 01:19:14,901
+Preterm Birth.
+
+638
+01:19:14,901 --> 01:19:20,501
+Gestational length shortens and preterm birth risk rises with accruing fetal number.
+
+639
+01:19:20,501 --> 01:19:29,201
+In 2019 in the United States, the preterm birth rate in twins and triplets was 60 and 98 percent, respectively .
+
+640
+01:19:29,201 --> 01:19:42,476
+One review showed that approximately 60 percent of preterm births in twins are indicated, a third result from spontaneous labor, and 10 percent follow preterm prelabor rupture of membranes (PPROM) .
+
+641
+01:19:42,476 --> 01:19:50,514
+Of risks, preterm birth rates vary with chorionicity and are higher with monochorionic compared with dichorionic twins.
+
+642
+01:19:50,514 --> 01:20:01,201
+Other implicated factors are prior preterm birth, adolescence, nulliparity, obesity, and diabetes (Marleen, 2018, 2021).
+
+643
+01:20:01,201 --> 01:20:03,376
+# Prediction.
+
+644
+01:20:03,376 --> 01:20:10,014
+One goal of multifetal prenatal care is to identify women likely to experience preterm delivery.
+
+645
+01:20:10,014 --> 01:20:20,476
+To and associates (2006) sonographically measured cervical length in 1163 twin pregnancies at 22 to 24 weeks’ gestation.
+
+646
+01:20:20,476 --> 01:20:34,239
+Rates of preterm delivery before 32 weeks were 66 percent in those with cervical lengths of 10 mm; 24 percent for lengths of 20 mm; and only 1 percent for lengths of 40 mm.
+
+647
+01:20:34,239 --> 01:20:42,689
+In one review, a cervical length <20 mm was most accurate for predicting birth before 34 weeks’ gestation.
+
+648
+01:20:42,689 --> 01:20:49,251
+The specificity was 97 percent, and positive likelihood ratio was 9.0 .
+
+649
+01:20:49,251 --> 01:21:02,314
+Notably, a closed internal os by digital examination predicted postponed delivery equally well as the combination of a normal sonographically measured cervical length and negative fetal fibronectin test result .
+
+650
+01:21:02,314 --> 01:21:08,826
+Unfortunately, cervical length assessment in twin pregnancies has not led to improved outcomes .
+
+651
+01:21:08,826 --> 01:21:18,276
+The Society for Maternal–Fetal Medicine (2016) recommends against routine cervical length screening in multifetal gestations.
+
+652
+01:21:18,276 --> 01:21:22,701
+Fetal fibronectin levels also may predict preterm birth .
+
+653
+01:21:22,701 --> 01:21:29,214
+Again, neonatal outcomes are not improved in twins, and this screening tool is not recommended .
+
+654
+01:21:29,214 --> 01:21:31,364
+# Prevention.
+
+655
+01:21:31,364 --> 01:21:39,514
+Bed Rest In general, most strategies for preterm birth prevention are ineffective for singleton and multifetal pregnancies .
+
+656
+01:21:39,514 --> 01:21:45,939
+Of options, bed rest with or without hospitalization does not prolong multifetal pregnancy.
+
+657
+01:21:45,939 --> 01:21:53,976
+In one metaanalysis, the practice did not reduce the risk of preterm birth (da Silva Lopes, 2017).
+
+658
+01:21:53,976 --> 01:22:01,514
+At Parkland Hospital, elective hospitalization was compared with outpatient management, and no advantages were found .
+
+659
+01:22:01,514 --> 01:22:11,989
+Importantly, however, almost half of women managed as outpatients required admission for specific indications such as hypertension or threatened preterm delivery.
+
+660
+01:22:11,989 --> 01:22:28,326
+Limited physical activity, early work leave, more frequent health-care visits, serial sonographic examinations, and structured maternal education regarding preterm delivery risks have been advocated to reduce preterm birth rates in women with multiple fetuses.
+
+661
+01:22:28,326 --> 01:22:31,901
+However, little evidence suggests that these
+
+662
+01:22:32,068 --> 01:22:35,468
+practices substantially change this outcome.
+
+663
+01:22:35,418 --> 01:22:41,343
+Prophylactic Tocolysis This has not been studied extensively in multifetal pregnancies.
+
+664
+01:22:41,343 --> 01:22:54,680
+In one review of prophylactic oral beta-mimetic therapy that included 374 twin pregnancies, treatment did not reduce the rate of twins delivering before 37 or before 34 weeks’ gestation .
+
+665
+01:22:54,680 --> 01:23:07,005
+In light of the Food and Drug Administration warning against the use of oral terbutaline because of maternal side effects, the prophylactic use of beta-mimetic drugs in multifetal gestations seems unwarranted.
+
+666
+01:23:07,005 --> 01:23:22,730
+Progesterone Therapy 17-alpha-hydroxyprogesterone caproate (17-OHPC) injections are not effective for multifetal gestations (Caritis, 2009; Combs, 2011; Rouse, 2007).
+
+667
+01:23:22,730 --> 01:23:38,680
+Moreover, women carrying twins and having a cervical length <36 mm or a length <25 mm did not benefit despite their greater risk for preterm birth (Durnwald, 2010; Senat, 2013).
+
+668
+01:23:38,680 --> 01:23:53,980
+Vaginal micronized progesterone in various formulations in randomized studies has also proved ineffective for preterm birth prevention before 34 weeks in a general twin population (Norman, 2009; Rode, 2011).
+
+669
+01:23:53,980 --> 01:24:07,130
+For women with a short cervix, subgroup analysis and a metaanalysis show conflicting results regarding benefits (D’Antonio, 2021; Klein, 2011; Rehal, 2021).
+
+670
+01:24:07,130 --> 01:24:14,955
+At Parkland Hospital, current management of multifetal gestations does not typically include any progesterone therapy.
+
+671
+01:24:14,955 --> 01:24:21,880
+Cervical Cerclage Prophylactic cerclage does not improve perinatal outcome in women with twin pregnancies.
+
+672
+01:24:21,880 --> 01:24:31,505
+Studies have included women with and without a short cervix (D’Antonio, 2021; Jarde, 2017; Newman, 2002).
+
+673
+01:24:31,505 --> 01:24:39,868
+Physical examination–indicated cerclage in women with a second-trimester twin gestation and a dilated cervix may be beneficial.
+
+674
+01:24:39,868 --> 01:24:57,418
+Roman and coworkers (2016, 2020) reported that women undergoing rescue cerclage plus prophylactic antibiotic and indomethacin administration before 24 weeks’ gestation had lower preterm birth and perinatal mortality rates than those without a cerclage.
+
+675
+01:24:57,418 --> 01:25:10,068
+Pessary The silicone Arabin vaginal pessary encircles and theoretically compresses the cervix, alters the inclination of the cervical canal, and relieves direct pressure on the internal cervical os.
+
+676
+01:25:10,068 --> 01:25:26,205
+In a study of its use in women with a short cervix between 18 and 22 weeks’ gestation, a subgroup analysis of 23 women with twins showed a significant reduction in the delivery rate before 32 weeks compared with the rate in 23 control pregnancies .
+
+677
+01:25:26,205 --> 01:25:34,718
+In another randomized trial of twins, women treated with a cervical pessary had significantly fewer births before 34 weeks .
+
+678
+01:25:34,718 --> 01:25:40,430
+Other randomized studies comparing pessary against expectant care are less favorable.
+
+679
+01:25:40,430 --> 01:25:49,093
+In one trial with 1180 uncomplicated twin pregnancies, pessary use failed to alter the preterm birth rate .
+
+680
+01:25:49,093 --> 01:25:54,380
+Another trial of 813 unselected women had similar findings.
+
+681
+01:25:54,380 --> 01:26:05,368
+However, delivery rates before 32 weeks were lower—29 versus 14 percent—in a subset of women with a cervical length <38 mm .
+
+682
+01:26:05,368 --> 01:26:14,218
+Instead, other trials show no benefit from pessary use in this subgroup (Nicolaides, 2016; Norman, 2021).
+
+683
+01:26:14,218 --> 01:26:22,805
+At this time, pessary use is not recommended by the American College of Obstetricians and Gynecologists (2021b).
+
+684
+01:26:22,805 --> 01:26:24,880
+# Treatment.
+
+685
+01:26:24,880 --> 01:26:38,668
+Tocolytic therapy to help halt preterm labor in multifetal pregnancy does not measurably improve neonatal outcomes (Canadian Preterm Labor Investigators Group, 1992; Yamasmit, 2015).
+
+686
+01:26:38,668 --> 01:26:46,830
+Moreover, tocolytic therapy in women with a multifetal pregnancy entails higher maternal risk than in singleton pregnancy.
+
+687
+01:26:46,830 --> 01:26:57,443
+This stems in part from augmented pregnancy-induced hypervolemia, which raises cardiac demands and increases the susceptibility to iatrogenic pulmonary edema .
+
+688
+01:26:57,443 --> 01:27:10,318
+In one study, all women with a multifetal gestation treated with a beta-mimetic drug for preterm labor had more cardiovascular complications—43 versus 4 percent—than women with singletons .
+
+689
+01:27:10,318 --> 01:27:24,480
+In a retrospective analysis, nifedipine tocolysis in 58 singleton and 32 twin pregnancies led to higher incidences of side effects such as maternal tachycardia in women with twins—19 versus 9 percent .
+
+690
+01:27:24,480 --> 01:27:29,368
+Antenatal corticosteroids for fetal lung maturation have not been
+
+691
+01:27:29,524 --> 01:27:32,724
+well studied in multifetal gestations.
+
+692
+01:27:32,674 --> 01:27:40,299
+Of studies, many compare outcomes among singletons and twins whose mothers either did or did not receive this therapy.
+
+693
+01:27:40,299 --> 01:27:49,511
+In one large retrospective study evaluating betamethasone, neonatal morbidity rates were reduced in both twin and singleton treated groups .
+
+694
+01:27:49,511 --> 01:28:02,111
+Another similar comparison found reduced rates of periventricular hemorrhage rates in treated groups but not improved respiratory distress syndrome (RDS) rates (Gonçalves-Ferri, 2021).
+
+695
+01:28:02,111 --> 01:28:13,561
+Similarly, in another study, short-term neurological outcome was better in treated twin and singletons, but rates of mortality, RDS, and cerebral palsy were not reduced .
+
+696
+01:28:13,561 --> 01:28:22,949
+However, in one study solely with twins, the rate of RDS or of composite neonatal morbidity was not lower with corticosteroid therapy .
+
+697
+01:28:22,949 --> 01:28:28,936
+These authors posited pharmacokinetics in twin gestation as a potential explanation.
+
+698
+01:28:28,936 --> 01:28:35,099
+Currently, recommended use of agents is the same for multifetal and singleton gestations .
+
+699
+01:28:35,099 --> 01:28:40,361
+This therapy is described fully in Chapter 45 (p. 802).
+
+700
+01:28:40,361 --> 01:28:43,886
+# Preterm Prelabor Membrane Rupture.
+
+701
+01:28:43,886 --> 01:28:48,449
+The frequency of PPROM rises with increasing plurality.
+
+702
+01:28:48,449 --> 01:28:59,561
+In a populationbased study of more than 290,000 live births, the proportion of preterm birth complicated by PPROM was 13 percent in singletons.
+
+703
+01:28:59,561 --> 01:29:09,361
+This rate was 17, 20, 20, and 100 percent in twins, triplets, quadruplets, and higher-order multiples, respectively .
+
+704
+01:29:09,361 --> 01:29:20,861
+For both twin and singleton pregnancies, most studies show comparable neonatal risk with expectant management, which is outlined in Chapter 45 (p. 798) .
+
+705
+01:29:20,861 --> 01:29:26,586
+However, the time between births, often termed latency, is shorter with twins.
+
+706
+01:29:26,586 --> 01:29:37,561
+With PPROM after 24 weeks’ gestation, the median number of days to subsequent delivery was 4 days for twins compared with 7 days for singletons in one study .
+
+707
+01:29:37,561 --> 01:29:43,161
+After 30 weeks’ gestation, this latency for twins is significantly shortened .
+
+708
+01:29:43,161 --> 01:29:46,374
+# Delayed Delivery of Second Twin.
+
+709
+01:29:46,374 --> 01:29:54,124
+Rarely, after preterm birth of one fetus, it may be advantageous for undelivered fetus(es) to remain in utero.
+
+710
+01:29:54,124 --> 01:29:58,599
+This may be especially so at periviable gestational ages.
+
+711
+01:29:58,599 --> 01:30:03,824
+However, this advantage must be balanced against substantial maternal risk.
+
+712
+01:30:03,824 --> 01:30:10,449
+In one systematic review, nearly 40 percent of mothers suffered complications with delayed delivery .
+
+713
+01:30:10,449 --> 01:30:15,524
+These include infection, postpartum hemorrhage, and placental abruption.
+
+714
+01:30:15,524 --> 01:30:26,136
+From population-based data of delayed deliveries, the median latency duration was 6 days (range 6 to 107 days) in 200 twin pregnancies .
+
+715
+01:30:26,136 --> 01:30:32,486
+In all studies, retained fetuses had better overall survival rates than the first-born neonate.
+
+716
+01:30:32,486 --> 01:30:37,561
+In one series of 38 twins, the mean latency was 19 days.
+
+717
+01:30:37,561 --> 01:30:45,411
+Of first-born twins born at <25 weeks’ gestation, none survived, but 50 percent of their co-twins did.
+
+718
+01:30:45,411 --> 01:30:53,136
+Beyond 25 weeks, survival rates were 65 for first-born and 95 percent for second-born twins .
+
+719
+01:30:53,136 --> 01:31:00,986
+In their series of 28 twin pairs, cerclage, antibiotic therapy, and tocolysis did not improve outcomes .
+
+720
+01:31:00,986 --> 01:31:07,886
+If delayed delivery is attempted, counseling should include the potential for serious maternal complications.
+
+721
+01:31:07,886 --> 01:31:19,324
+The range of gestational age for which benefits outweigh the risks for delayed delivery is likely narrow, and gestations of 22 to 24 weeks would seem the most probable to benefit .
+
+722
+01:31:19,324 --> 01:31:24,024
+In our experience, good candidates for delayed delivery are rare.
+
+723
+01:31:24,024 --> 01:31:26,136
+Labor And Delivery.
+
+724
+01:31:26,136 --> 01:31:28,624
+# Delivery Timing.
+
+725
+01:31:28,624 --> 01:31:37,986
+Several factors affect this timing and include gestational age, fetal growth, maternal complications, lung maturity, and stillbirth risk.
+
+726
+01:31:37,986 --> 01:31:46,024
+The substantially greater stillbirth rate in monochorionic monoamnionic twins was discussed earlier (p. 845).
+
+727
+01:31:46,024 --> 01:31:59,436
+In dichorionic diamnionic twins, stillbirth rates rose to 10.6 deaths per 1000 pregnancies at 386/7 weeks’ gestation in a systematic review of more than 30,000 twin pairs.
+
+728
+01:31:59,436 --> 01:32:08,811
+The peak rate in monochorionic diamnionic twins was 9.6 deaths per 1000 pregnancies at 376/7 weeks .
+
+729
+01:32:08,811 --> 01:32:15,086
+In uncomplicated twins, stillbirth risk is balanced against the morbidity of prematurity.
+
+730
+01:32:15,086 --> 01:32:21,749
+Pulmonary maturation is usually synchronous in twins and occurs several weeks earlier than in singletons .
+
+731
+01:32:21,749 --> 01:32:26,249
+However, in some cases, pulmonary function may differ.
+
+732
+01:32:26,249 --> 01:32:28,624
+With sFGR, the
+
+733
+01:32:28,780 --> 01:32:35,455
+smaller, stressed twin has lower rates of RDS but higher rates of bronchopulmonary dysplasia .
+
+734
+01:32:35,405 --> 01:32:50,205
+The American College of Obstetricians and Gynecologists (2021b) recommends delivery at 380/7 to 386/7 weeks’ gestation for uncomplicated dichorionic diamnionic twin pregnancies.
+
+735
+01:32:50,205 --> 01:32:59,280
+Uncomplicated monochorionic diamnionic twin pregnancies can be delivered between 340/7 and 376/7 weeks.
+
+736
+01:32:59,280 --> 01:33:08,455
+For monochorionic monoamnionic twin pregnancies, delivery is recommended at 320/7 to 340/7 weeks.
+
+737
+01:33:08,455 --> 01:33:21,192
+At Parkland Hospital, we generally follow these recommendations and do not routinely deliver monochorionic diamnionic twin pregnancies before 37 weeks unless another obstetrical indication develops.
+
+738
+01:33:21,192 --> 01:33:23,642
+# Preparations.
+
+739
+01:33:23,642 --> 01:33:29,555
+A litany of complications may be encountered during labor and delivery of multiple fetuses.
+
+740
+01:33:29,555 --> 01:33:43,967
+Rates of uterine contractile dysfunction, abnormal fetal presentation, umbilical cord prolapse, placenta previa, placental abruption, emergent operative delivery, and postpartum hemorrhage rates from uterine atony are higher.
+
+741
+01:33:43,967 --> 01:33:56,930
+Moreover, second twins at term have worse composite neonatal outcomes compared with outcomes of their co-twin regardless of delivery method (Smith, 2007; Thorngren-Jerneck, 2001).
+
+742
+01:33:56,930 --> 01:34:03,305
+All of these must be anticipated, and thus certain precautions and special arrangements are prudent.
+
+743
+01:34:03,305 --> 01:34:10,680
+These include the following: 1. An appropriately trained obstetrical attendant should remain with the mother throughout labor.
+
+744
+01:34:10,680 --> 01:34:14,305
+Continuous electronic monitoring is preferable.
+
+745
+01:34:14,305 --> 01:34:20,442
+If membranes are ruptured and the cervix dilated, the presenting fetus is monitored internally.
+
+746
+01:34:20,442 --> 01:34:26,592
+2. An intravenous infusion system capable of delivering fluid rapidly is established.
+
+747
+01:34:26,592 --> 01:34:36,655
+In the absence of hemorrhage, lactated Ringer or an aqueous dextrose solution is infused at a rate of 60 to 125 mL/hr. 3.
+
+748
+01:34:36,655 --> 01:34:40,480
+Blood for transfusion is readily available if needed.
+
+749
+01:34:40,480 --> 01:34:49,492
+4. An obstetrician skilled in intrauterine identification of fetal parts and in intrauterine manipulation of a fetus should be present.
+
+750
+01:34:49,492 --> 01:35:00,530
+5. A sonography machine is readily available to evaluate the presentation and position of the fetuses during labor and to image the remaining fetus after delivery of the first.
+
+751
+01:35:00,530 --> 01:35:11,705
+6. An anesthesia team is immediately available in the event that emergent cesarean delivery is necessary or that intrauterine manipulation is required for vaginal delivery.
+
+752
+01:35:11,705 --> 01:35:22,217
+7. For each fetus, at least one attendant who is skilled in resuscitation and care of newborns and who has been appropriately informed of the case should be immediately available.
+
+753
+01:35:22,217 --> 01:35:31,467
+8. The delivery area should provide adequate space for the nursing, obstetrical, anesthesia, and pediatric team members to work effectively.
+
+754
+01:35:31,467 --> 01:35:39,580
+Equipment must be on site to provide emergent anesthesia, operative intervention, and maternal and neonatal resuscitation.
+
+755
+01:35:39,580 --> 01:35:42,817
+# Analgesia and Anesthesia.
+
+756
+01:35:42,817 --> 01:35:50,367
+For multifetal pregnancies, decisions regarding analgesia and anesthesia must factor planned route of delivery.
+
+757
+01:35:50,367 --> 01:36:01,530
+Other potential problems may stem from preterm labor, preeclampsia, desultory labor, need for intrauterine manipulation, and postpartum uterine atony and hemorrhage.
+
+758
+01:36:01,530 --> 01:36:12,917
+Labor epidural analgesia is ideal because it provides excellent pain relief and can be rapidly extended cephalad if internal podalic version or cesarean delivery is required.
+
+759
+01:36:12,917 --> 01:36:24,242
+If general anesthesia becomes necessary for intrauterine manipulation during vaginal birth, uterine relaxation can be accomplished rapidly with a halogenated inhalation agent .
+
+760
+01:36:24,242 --> 01:36:32,167
+Some clinicians use intravenous or sublingual nitroglycerin or intravenous terbutaline to achieve uterine relaxation.
+
+761
+01:36:32,167 --> 01:36:37,417
+If used, these agents are usually best administered by the anesthesia team.
+
+762
+01:36:37,417 --> 01:36:40,117
+# Fetal Presentation.
+
+763
+01:36:40,117 --> 01:36:45,767
+For labor and delivery, the fetal presentations are best determined sonographically.
+
+764
+01:36:45,767 --> 01:36:54,392
+If active labor is confirmed, the decision for vaginal or cesarean delivery is reached, and fetal presentation is a major factor.
+
+765
+01:36:54,392 --> 01:37:04,192
+Among the possible presentation combinations, those most common at admission for delivery are cephalic-cephalic, cephalic-breech, and cephalic-transverse.
+
+766
+01:37:04,192 --> 01:37:12,280
+At Parkland Hospital between 2008 and 2013, 71 percent of twin pregnancies had a cephalic
+
+767
+01:37:12,436 --> 01:37:17,286
+presentation of the first fetus at the time of labor and delivery admission.
+
+768
+01:37:17,236 --> 01:37:22,561
+During parturition, fetal presentation of a second twin can be unstable.
+
+769
+01:37:22,561 --> 01:37:36,248
+For them, compound or footling breech presentations and face or brow attitudes are relatively common and even more so if fetuses are small or numerous, amnionic fluid is excessive, or maternal parity is high.
+
+770
+01:37:36,248 --> 01:37:40,311
+Cord prolapse also is frequent in these circumstances.
+
+771
+01:37:40,311 --> 01:37:42,773
+# Delivery Route.
+
+772
+01:37:42,773 --> 01:37:58,923
+Cephalic First Twin With cephalic–cephalic presentation, general consensus supports consideration of vaginal birth in a laboring woman near term (American College of Obstetricians and Gynecologists, 2021b; D’Alton, 2010).
+
+773
+01:37:58,923 --> 01:38:10,273
+From studies, planned cesarean delivery does not improve neonatal outcome when both twins are cephalic (de Castro, 2016; Schmitz, 2017).
+
+774
+01:38:10,273 --> 01:38:15,373
+With trials of labor, vaginal delivery rates approximate 80 percent.
+
+775
+01:38:15,373 --> 01:38:21,711
+With cephalic–noncephalic presentation, the optimal delivery route remains controversial.
+
+776
+01:38:21,711 --> 01:38:30,848
+Patient selection and provider expertise with vaginal breech delivery is crucial and described in Chapter 28 (p. 527).
+
+777
+01:38:30,848 --> 01:38:36,136
+As a result, one common option is cesarean delivery of both twins.
+
+778
+01:38:36,136 --> 01:38:45,348
+Less often, after spontaneous vaginal delivery of a first twin, intrapartum external cephalic version of the second twin can be performed.
+
+779
+01:38:45,348 --> 01:38:58,973
+In case series, this practice, compared with internal podalic version, was associated with higher rates of intrapartum cesarean delivery and fetal distress (Gocke, 1989; Smith 1997).
+
+780
+01:38:58,973 --> 01:39:06,723
+With internal podalic version, a hand placed into the uterus grasps fetal feet to deliver the fetus by breech extraction .
+
+781
+01:39:06,723 --> 01:39:15,011
+Last and least desirable is vaginal delivery of the first but cesarean delivery of the second twin due to intrapartum complications.
+
+782
+01:39:15,011 --> 01:39:22,636
+These are umbilical cord prolapse, placental abruption, contracting cervix, or nonreassuring fetal heart rate.
+
+783
+01:39:22,636 --> 01:39:32,186
+Most but not all studies report the worst composite fetal outcomes for this scenario (Alexander, 2008; Rossi, 2011).
+
+784
+01:39:32,186 --> 01:39:35,011
+Figure 48-17.
+
+785
+01:39:35,011 --> 01:39:37,523
+Internal podalic version.
+
+786
+01:39:37,523 --> 01:39:44,961
+Upward pressure on the head by an abdominal hand is applied (not shown) as downward traction is exerted on the feet.
+
+787
+01:39:44,961 --> 01:39:57,586
+For cephalic–noncephalic twins, each with birthweights >1500 g and gestational ages >32 weeks, several reports attest to the safety of vaginal delivery.
+
+788
+01:39:57,586 --> 01:40:09,348
+In one study of 5915 pregnancies with a cephalic first twin and either cephalic or noncephalic second twin, 25 percent planned for cesarean delivery .
+
+789
+01:40:09,348 --> 01:40:16,011
+The other 75 percent planned a trial of vaginal delivery, which was successful in 80 percent.
+
+790
+01:40:16,011 --> 01:40:28,911
+Interestingly, perinatal mortality and morbidity rates were significantly higher in the planned cesarean delivery group delivered at <37 weeks—5.2 versus 3.0 percent, respectively.
+
+791
+01:40:28,911 --> 01:40:37,186
+Additionally, for those delivered vaginally, neonatal outcomes were similar for second twins that were cephalic or noncephalic .
+
+792
+01:40:37,186 --> 01:40:45,361
+The Twin Birth Study had similar inclusion criteria and randomly assigned women to planned vaginal or planned cesarean delivery.
+
+793
+01:40:45,361 --> 01:40:48,923
+Perinatal outcomes were similar in both groups.
+
+794
+01:40:48,923 --> 01:40:56,361
+For those delivered vaginally, neonatal outcomes were similar for second twins that were cephalic or noncephalic .
+
+795
+01:40:56,361 --> 01:41:12,436
+For neonates weighing <1500 g compared with those weighing more, comparable or even better fetal outcomes with vaginal delivery compared with cesarean delivery have been reported (Mol, 2020; Sentilhes, 2015).
+
+796
+01:41:12,436 --> 01:41:17,411
+However, rates of urgent operations for the second twin may be higher .
+
+797
+01:41:17,411 --> 01:41:28,173
+Other investigators advocate cesarean delivery for both fetuses of a cephalic–noncephalic twin pair (Armson, 2006; Hoffmann, 2012).
+
+798
+01:41:28,173 --> 01:41:36,898
+Yang and coworkers (2005a,b) studied 15,185 cephalic–noncephalic pairs.
+
+799
+01:41:36,898 --> 01:41:47,823
+The risks of asphyxia-related neonatal deaths and morbidity were higher in the group in which both twins were delivered vaginally compared with the group in which both twins were delivered surgically.
+
+800
+01:41:47,823 --> 01:41:55,473
+Breech First Twin Problems with the first twin presenting as a breech are similar to those encountered with a singleton breech fetus.
+
+801
+01:41:55,473 --> 01:42:04,123
+First, the fetal body can be small, and delivery of the extremities and trunk through an inadequately effaced and dilated cervix can leave the
+
+802
+01:42:04,276 --> 01:42:07,901
+relatively larger head trapped above the cervix.
+
+803
+01:42:07,851 --> 01:42:12,876
+This is more likely when disproportion between the head and body is significant.
+
+804
+01:42:12,876 --> 01:42:19,238
+Examples are preterm or growth-restricted fetuses or those with macrocephaly from hydrocephaly.
+
+805
+01:42:19,238 --> 01:42:23,663
+Second, umbilical cord prolapse is an ever-present risk.
+
+806
+01:42:23,663 --> 01:42:30,988
+Last, twin fetuses may become locked together during delivery if the first presents breech and the second cephalic.
+
+807
+01:42:30,988 --> 01:42:39,113
+As the breech of the first twin descends through the birth canal, the chin locks between the neck and chin of the second cephalic-presenting co-twin.
+
+808
+01:42:39,113 --> 01:42:48,313
+This phenomenon is rare, and Cohen and coworkers (1965) described it only once in 817 twin gestations.
+
+809
+01:42:48,313 --> 01:42:56,051
+If these problems are anticipated or identified, cesarean delivery is often preferred with a viable-sized fetus.
+
+810
+01:42:56,051 --> 01:43:04,738
+Even without these problems, many obstetricians perform cesarean delivery if the first twin presents as breech, and this is our practice.
+
+811
+01:43:04,738 --> 01:43:13,613
+However, data support the safety of vaginal delivery for twins older than 32 weeks and weighing >1500 g .
+
+812
+01:43:13,613 --> 01:43:19,388
+In one study, cesarean delivery was planned in 1169 such pairs.
+
+813
+01:43:19,388 --> 01:43:25,801
+Vaginal delivery was planned in 298 pairs and was successful in 64 percent.
+
+814
+01:43:25,801 --> 01:43:30,113
+Cesarean delivery of the second twin was done in 1 percent.
+
+815
+01:43:30,113 --> 01:43:35,613
+Neonatal mortality or morbidity measures did not differ between delivery groups .
+
+816
+01:43:35,613 --> 01:43:39,113
+# Labor Augmentation or Induction.
+
+817
+01:43:39,113 --> 01:43:47,226
+In general, active labor with twins progresses more slowly in both nulliparas and multiparas compared with that in singletons .
+
+818
+01:43:47,226 --> 01:43:51,088
+Secondstage labor of the first twin also is longer .
+
+819
+01:43:51,088 --> 01:43:58,201
+In women with twins who meet all criteria for oxytocin administration, labor augmentation is suitable .
+
+820
+01:43:58,201 --> 01:44:10,976
+For labor induction, studies have found that oxytocin alone or in combination with cervical ripening can safely be used in twin gestations (Hamou, 2016; Ko, 2014).
+
+821
+01:44:10,976 --> 01:44:25,451
+Compared with prelabor cesarean delivery, others have found higher maternal morbidity rates with labor induction, and ultimate cesarean delivery rates approximate 40 percent (Dougan, 2020; Grossman, 2021).
+
+822
+01:44:25,451 --> 01:44:36,813
+In an analysis of twin births in the United States, induction rates of twin pregnancies have declined from nearly 14 percent in 1999 to 10 percent in 2008 .
+
+823
+01:44:36,813 --> 01:44:43,851
+Generally, at Parkland Hospital we do not augment or induce labor in women with a multifetal gestation.
+
+824
+01:44:43,851 --> 01:44:50,301
+Concerns include risks for uterine rupture from an overdistended uterus and postpartum hemorrhage.
+
+825
+01:44:50,301 --> 01:44:57,188
+In suitable candidates with a strong desire for vaginal birth, amniotomy induction has been one option.
+
+826
+01:44:57,188 --> 01:44:59,776
+# Vaginal Delivery.
+
+827
+01:44:59,776 --> 01:45:07,026
+After delivery of the firstborn, one clamp is placed near the neonate, and another is placed nearer the placenta.
+
+828
+01:45:07,026 --> 01:45:19,226
+Until the last fetus is delivered, each cord must remain clamped to prevent fetal hypovolemia and anemia caused by blood leaving the placenta via anastomoses and then through an unclamped cord.
+
+829
+01:45:19,226 --> 01:45:24,326
+Cord blood is generally not collected until after delivery of all fetuses.
+
+830
+01:45:24,326 --> 01:45:31,976
+After the second neonate is delivered, two plastic clamps are placed on the placenta’s cord to differentiate it from the first.
+
+831
+01:45:31,976 --> 01:45:39,513
+In higher-order deliveries, color-tagged or alphabetically labeled clamps can be simpler than adding additional clamps.
+
+832
+01:45:39,513 --> 01:45:43,051
+This same practice holds for cesarean delivery.
+
+833
+01:45:43,051 --> 01:45:51,351
+At this time, evidence is insufficient to recommend for or against delayed umbilical cord clamping in multifetal gestations .
+
+834
+01:45:51,351 --> 01:46:06,188
+Following vaginal delivery of the first twin, the presenting part of the second twin, its size, and its relationship to the birth canal should be quickly ascertained by combined abdominal, vaginal, and, at times, intrauterine examination.
+
+835
+01:46:06,188 --> 01:46:08,901
+Sonography is a valuable aid.
+
+836
+01:46:08,901 --> 01:46:16,188
+If the fetal head or the breech is fixed in the birth canal, moderate fundal pressure is applied and membranes are ruptured.
+
+837
+01:46:16,188 --> 01:46:22,888
+Immediately afterward, digital examination of the cervix is repeated to exclude cord prolapse.
+
+838
+01:46:22,888 --> 01:46:25,388
+Labor is allowed to resume.
+
+839
+01:46:25,388 --> 01:46:33,451
+If contractions do not begin within approximately 10 minutes, dilute oxytocin may be used to stimulate contractions.
+
+840
+01:46:33,451 --> 01:46:40,376
+The preferred interval between delivery of the first and second twins is frequently cited as <30 minutes.
+
+841
+01:46:40,376 --> 01:46:45,513
+In some studies, longer intertwin intervals are associated with poorer
+
+842
+01:46:45,676 --> 01:46:51,513
+outcome of the second twin (Leung, 2002; Stein, 2008).
+
+843
+01:46:51,463 --> 01:46:59,388
+Others have correlated fetal heart rate tracing abnormalities during the intertwin interval rather than its length with poorer outcome .
+
+844
+01:46:59,388 --> 01:47:14,688
+If the occiput or breech presents immediately over the pelvic inlet, but is not fixed in the birth canal, the presenting part can often be guided into the pelvis by one hand in the vagina, while a second hand on the uterine fundus exerts moderate pressure caudally.
+
+845
+01:47:14,688 --> 01:47:19,701
+A presenting shoulder may be gently converted into a cephalic presentation.
+
+846
+01:47:19,701 --> 01:47:26,351
+Alternatively, with abdominal manipulation, an assistant can guide the presenting part into the pelvis.
+
+847
+01:47:26,351 --> 01:47:30,613
+Sonography can aid guidance and allow heart rate monitoring.
+
+848
+01:47:30,613 --> 01:47:42,063
+If the occiput or breech is not over the pelvic inlet and cannot be so positioned by gentle pressure or if appreciable uterine bleeding develops, delivery of the second twin can be problematic.
+
+849
+01:47:42,063 --> 01:47:57,101
+To obtain a favorable outcome, an obstetrician skilled in intrauterine fetal manipulation and anesthesia personnel skilled in providing anesthesia to effectively relax the uterus for vaginal delivery of a noncephalic second twin are essential .
+
+850
+01:47:57,101 --> 01:48:05,326
+To take maximum advantage of the dilated cervix before the uterus contracts and the cervix retracts, delay should be avoided.
+
+851
+01:48:05,326 --> 01:48:18,088
+Prompt cesarean delivery of the second fetus is preferred if no one present is skilled in the performance of internal podalic version or if anesthesia that will provide effective uterine relaxation is not immediately available.
+
+852
+01:48:18,088 --> 01:48:21,901
+# Trial of Labor after Cesarean Delivery.
+
+853
+01:48:21,901 --> 01:48:29,651
+The main concern with trial of labor after cesarean delivery (TOLAC) is uterine rupture from a distended uterus.
+
+854
+01:48:29,651 --> 01:48:37,951
+One metaanalysis found rates of rupture and of successful vaginal birth were comparable with those for TOLAC in singleton gestations .
+
+855
+01:48:37,951 --> 01:48:46,988
+Other studies also support the safety of TOLAC for selected women with twins (Cahill, 2005; Ford, 2006).
+
+856
+01:48:46,988 --> 01:48:54,151
+In one assessment of 186 women undergoing TOLAC, two thirds delivered both twins vaginally.
+
+857
+01:48:54,151 --> 01:49:00,026
+Of failed attempts, 45 percent underwent cesarean for delivery of the second twin .
+
+858
+01:49:00,026 --> 01:49:17,326
+According to the American College of Obstetricians and Gynecologists (2019), evidence currently does not suggest an increased risk of uterine rupture, and women with twins and one previous cesarean delivery with a low transverse incision may be considered TOLAC candidates.
+
+859
+01:49:17,326 --> 01:49:21,963
+At Parkland Hospital, we recommend repeat cesarean delivery.
+
+860
+01:49:21,963 --> 01:49:25,201
+# Cesarean Delivery Technique.
+
+861
+01:49:25,201 --> 01:49:32,401
+Several unusual intraoperative problems can arise during cesarean delivery of twins or higher-order multiples.
+
+862
+01:49:32,401 --> 01:49:40,501
+Supine hypotension is common, and thus gravidas are positioned in a left lateral tilt to deflect uterine weight off the aorta.
+
+863
+01:49:40,501 --> 01:49:48,463
+A low transverse hysterotomy is preferable if the incision can be made large enough to allow atraumatic delivery of all fetuses.
+
+864
+01:49:48,463 --> 01:49:52,963
+Piper forceps can be used if a second twin is presenting breech.
+
+865
+01:49:52,963 --> 01:50:00,726
+In some cases, a vertical hysterotomy beginning as low as possible in the lower uterine segment may be advantageous.
+
+866
+01:50:00,726 --> 01:50:16,226
+For example, if a fetus is transverse with its back down and the arms are inadvertently delivered first, it is much easier and safer to extend a vertical uterine incision upward than to extend a transverse incision laterally or to make a “T” incision vertically.
+
+867
+01:50:16,226 --> 01:50:19,626
+# Triplet or Higher-order Gestation.
+
+868
+01:50:19,626 --> 01:50:24,726
+Fetal heart rate monitoring during labor with triplet pregnancies is challenging.
+
+869
+01:50:24,726 --> 01:50:33,576
+A scalp electrode can be attached to the presenting fetus, but it is difficult to ensure that the other two fetuses are each being monitored separately.
+
+870
+01:50:33,576 --> 01:50:39,513
+With vaginal delivery, the first neonate is usually born with little or no manipulation.
+
+871
+01:50:39,513 --> 01:50:44,626
+Subsequent fetuses, however, are delivered according to the presenting part.
+
+872
+01:50:44,626 --> 01:50:54,201
+This often requires complicated obstetrical maneuvers such as total breech extraction with or without internal podalic version or even cesarean delivery.
+
+873
+01:50:54,201 --> 01:50:59,901
+Associated with malposition of fetuses is an increased incidence of cord prolapse.
+
+874
+01:50:59,901 --> 01:51:06,963
+Moreover, reduced placental perfusion and hemorrhage from separating placentas are more likely during delivery.
+
+875
+01:51:06,963 --> 01:51:11,476
+Data from the Consortium on Safe Labor found that only 17
+
+876
+01:51:11,644 --> 01:51:17,731
+percent of women with triplet gestation attempting vaginal birth were actually delivered vaginally.
+
+877
+01:51:17,681 --> 01:51:22,544
+In these births, composite neonatal morbidity rates were increased .
+
+878
+01:51:22,544 --> 01:51:30,219
+In 7000 triplet pregnancies, vaginal delivery also was associated with a higher perinatal mortality rate .
+
+879
+01:51:30,219 --> 01:51:37,469
+For all these reasons, we deliver most pregnancies complicated by three or more fetuses by cesarean delivery.
+
+880
+01:51:37,469 --> 01:51:50,019
+Vaginal delivery is reserved for those circumstances in which survival is not expected because fetuses are markedly immature or abnormal or maternal complications make cesarean delivery hazardous to the mother.
+
+881
+01:51:50,019 --> 01:51:59,056
+Centers for Disease Control and Prevention (2009) national data show that 94 percent of triplets are delivered by cesarean.
+
+882
+01:51:59,056 --> 01:52:06,831
+Other cases series describe more positive outcomes (Grobman, 1998; Peress, 2019).
+
+883
+01:52:06,831 --> 01:52:23,106
+In sum, the American College of Obstetricians and Gynecologists (2021b) notes vaginal birth may be considered for uncomplicated triplet pregnancies, if the first fetus is cephalic and attendants are experienced with multifetal vaginal birth.
+
+884
+01:52:23,106 --> 01:52:30,344
+As with twins, candidate fetuses should weigh >1500 g. Reducing Fetal Number.
+
+885
+01:52:30,344 --> 01:52:40,194
+For multifetal gestations, multifetal pregnancy reduction (MPR) aims to lower fetal number to improve survival rates of the remaining fetuses.
+
+886
+01:52:40,194 --> 01:52:48,269
+Instead, with selective reduction, early pregnancy intervention focuses on a fetus with an anomaly or serious health risk.
+
+887
+01:52:48,269 --> 01:52:57,569
+With selective termination, the indications are analogous to those for selective reduction, but interventions are performed at a later gestational age .
+
+888
+01:52:57,569 --> 01:53:02,769
+Selective reduction or MPR is typically done in the late first trimester.
+
+889
+01:53:02,769 --> 01:53:21,694
+This gestational age is chosen because most spontaneous abortions have already occurred, the remaining fetuses are large enough to be evaluated sonographically, the amount of devitalized fetal tissue remaining after the procedure is small, and the risk of aborting the entire pregnancy as a result of the procedure is low.
+
+890
+01:53:21,694 --> 01:53:27,194
+Skill in sonographically guiding needles through the mother’s abdomen and uterus is required.
+
+891
+01:53:27,194 --> 01:53:35,294
+For reductions of fetuses with their own chorion, potassium chloride is used and is injected into the fetal heart or thorax.
+
+892
+01:53:35,294 --> 01:53:40,306
+Entering or traversing the sacs of fetuses picked for retention is avoided.
+
+893
+01:53:40,306 --> 01:53:53,706
+For monochorionic fetuses and potentially shared vasculature, cord-occlusion is used, and with radiofrequency ablation (RFA), the needle is inserted into the intrafetal portion of the umbilical cord.
+
+894
+01:53:53,706 --> 01:54:04,919
+Before reduction procedures, discussion should include the morbidity and mortality rates associated with expectant care, entire pregnancy termination, or selective fetal reduction .
+
+895
+01:54:04,919 --> 01:54:24,644
+With these options, specific risks include (1) loss of all remaining fetuses, (2) abortion or retention of the wrong fetus, (3) damage without death to a fetus, (4) preterm labor, (5) fetuses with discordant or growth restriction, and (6) maternal complications.
+
+896
+01:54:24,644 --> 01:54:35,944
+With reduction procedures, uncommon potential complications are infection, hemorrhage, or disseminated intravascular coagulopathy because of retained products of conception.
+
+897
+01:54:35,944 --> 01:54:39,294
+# Multifetal Pregnancy Reduction.
+
+898
+01:54:39,294 --> 01:54:45,594
+In most cases of MPR, higher-order gestations are reduced by one or more fetuses.
+
+899
+01:54:45,594 --> 01:54:54,319
+With triplets, reduction to twins or a singleton lowers the rate of preterm birth before 34 weeks compared with expectant management.
+
+900
+01:54:54,319 --> 01:55:01,494
+Miscarriage rates are not higher (Anthoulakis, 2017; Morlando, 2015).
+
+901
+01:55:01,494 --> 01:55:12,106
+With even higher-order multiples, spontaneous loss and preterm birth rates also decline after MPR (Evans, 2014; Liu, 2020).
+
+902
+01:55:12,106 --> 01:55:16,631
+Twin gestations also may be reduced to a singleton pregnancy.
+
+903
+01:55:16,631 --> 01:55:28,444
+Maternal comorbidities or concerns for monochorionic twin complications, described earlier, are frequent indications (Rao, 2021; Vieira, 2019).
+
+904
+01:55:28,444 --> 01:55:32,444
+# Selective Reduction or Selective Termination.
+
+905
+01:55:32,444 --> 01:55:40,419
+If multiple fetuses are discordant for anatomical or genetic anomalies, elimination of the abnormal fetus is an option.
+
+906
+01:55:40,419 --> 01:55:46,094
+Other indications are severe TTTS, TAPS, TRAP, or sFGR.
+
+907
+01:55:46,094 --> 01:55:56,094
+Because abnormalities are often not fully delineated until the second trimester, selective termination is performed later in gestation than selective reduction
+
+908
+01:55:56,260 --> 01:55:58,710
+and entails greater risk.
+
+909
+01:55:58,660 --> 01:56:05,047
+This procedure is therefore usually not performed unless the abnormality is severe but not lethal.
+
+910
+01:56:05,047 --> 01:56:11,622
+In some cases, termination is considered because the abnormal fetus may jeopardize the normal one.
+
