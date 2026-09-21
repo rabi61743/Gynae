@@ -1,956 +1,220 @@
-CHAPTER 32
+# Chapter 32: The Newborn
 
-The Newborn
+- Transition To Air Breathing
+- Care In The Delivery Room
+- Evaluation Of Newborn Condition
+- Preventive Care
+- Routine Newborn Care
+- References
 
-TRANSITION TO AIR BREATHING
-CARE IN THE DELIVERY ROOM
-EVALUATION OF NEWBORN CONDITION
-PREVENTIVE CARE
-ROUTINE NEWBORN CARE
-REFERENCES
-In most instances at delivery, the newborn is healthy and vigorous, but at
-times, special care may be needed. For this reason, the American Academy
-of Pediatrics and the American College of Obstetricians and Gynecologists
-(2017a) recommend that every birth should be attended by at least one
-qualified individual. This person should be skilled in the initial steps of
-newborn care and positive-pressure ventilation, and their only responsibility
-is management of the newborn. This usually is a pediatrician, nurse
-practitioner, anesthesiologist, nurse anesthetist, or specially trained nurse.
-However, in their absence, the responsibility for neonatal resuscitation falls
-to the obstetrical attendant. Thus, obstetricians should be well versed in
-measures for immediate care of the newborn.
-The number and qualifications of personnel who attend the delivery will
-vary depending on the anticipated risk, the number of babies, and the hospital
-setting. A qualified team with full resuscitation skills should be present for
-high-risk deliveries and immediately available for every resuscitation. This
+In most instances at delivery, the newborn is healthy and vigorous, but at times, special care may be needed. For this reason, the American Academy of Pediatrics and the American College of Obstetricians and Gynecologists (2017a) recommend that every birth should be attended by at least one qualified individual. This person should be skilled in the initial steps of newborn care and positive-pressure ventilation, and their only responsibility is management of the newborn. This usually is a pediatrician, nurse practitioner, anesthesiologist, nurse anesthetist, or specially trained nurse. However, in their absence, the responsibility for neonatal resuscitation falls to the obstetrical attendant. Thus, obstetricians should be well versed in measures for immediate care of the newborn. The number and qualifications of personnel who attend the delivery will vary depending on the anticipated risk, the number of babies, and the hospital setting. A qualified team with full resuscitation skills should be present for high-risk deliveries and immediately available for every resuscitation. This
 
-team should not be on call at home or in a remote area of the hospital.
-Moreover, team training through frequent simulation practice is
-recommended for all who may be called to attend deliveries (Aziz, 2020).
+team should not be on call at home or in a remote area of the hospital. Moreover, team training through frequent simulation practice is recommended for all who may be called to attend deliveries (Aziz, 2020).
 
-TRANSITION TO AIR BREATHING
-Immediately following birth, the newborn must promptly convert from
-placental to pulmonary gas exchange. Pulmonary vascular resistance must
-fall, pulmonary perfusion must rapidly rise, and unique fetal vascular shunts
-must begin to close to separate the systemic and pulmonary circulations.
-These shunts include the patent ductus arteriosus and patent foramen ovale,
-described in Chapter 7 (p. 128). Lung aeration is not only critical for
-pulmonary gas exchange. Specifically, recent studies suggest that it is
-responsible for initiating cardiovascular changes at birth (Hooper, 2019).
-In utero, the fetal lungs are filled with amnionic fluid, which must be
-cleared quickly for air breathing. Various means contribute, and these
-mechanisms may depend on gestational age and mode of delivery. First, in
-term fetuses, a large release of fetal adrenaline late in labor stimulates
-pulmonary epithelial cells to stop secreting and instead to start reabsorbing
-lung liquid due to sodium-channel activation (te Pas, 2008). This mechanism
-is likely a minor one, as blockade of the receptors for sodium-channel
-activation reduces or delays but does not prevent liquid clearance from the
-lungs at birth (Buchiboyina, 2017).
-As a second method, mechanical forces aid lung fluid clearance. Early
-reports described expulsion of lung liquid by compression of the fetal thorax
-and abdomen as they passed through the birth canal (Karlberg, 1962;
-Saunders, 1978). By this mechanism, up to a third of lung liquid is expelled
-in a jet of fluid from the nose and mouth once the respiratory tract is exposed
-to the lower outside pressure. However, it appears that uterine contractions
-force a change in fetal posture, which compresses the thorax and raises
-intrathoracic pressures. This expels lung liquid early in labor more so than
-the “vaginal squeeze” theory (Hooper, 2019; te Pas, 2008; Vyas, 1981).
-In a third mechanism, a significant amount of lung liquid is cleared after
-birth (Hooper, 2019). In animal studies, most lung aeration occurs during
-inspiration—within three to five breaths after birth (Hooper, 2007). The
-transpulmonary pressure gradient during inspiration promotes movement of
+## Transition To Air Breathing
 
-fluid into the interstitial tissue. No liquid clears between breaths. From the
-interstitium, fluid is gradually cleared, probably by the pulmonary circulation
-and lymphatic vessels. It is possible for lung interstitial tissue pressure to
-rise to a point that fluid can actually move back into the airspaces during
-expiration unless positive end-expiratory pressure opposes liquid reentry
-(Siew, 2009). This may contribute to development of transient tachypnea of
-the newborn.
-As fluid is replaced by air, compression of the pulmonary vasculature is
-reduced considerably, and in turn, resistance to blood flow is lowered. With
-the fall in pulmonary arterial blood pressure, the ductus arteriosus normally
-closes.
-High, negative intrathoracic pressures are required to permit the initial
-entry of air into the fluid-filled alveoli. Normally, from the first breath after
-birth, progressively more residual air accumulates in the lung. With each
-successive breath, lower pulmonary opening pressure is required. In the
-normal mature newborn, by approximately the fifth breath, pressure-volume
-changes achieved with each respiration are very similar to those of the adult.
-Thus, the breathing pattern shifts from shallow episodic inspirations
-characteristic of the fetus to regular, deeper inhalations.
-As a last mechanism, surfactant is synthesized by type II pneumocytes. It
-lowers alveolar surface tension and helps maintain lung inflation by
-preventing alveolar collapse. Insufficient surfactant, which is common in
-preterm neonates, leads promptly to respiratory distress syndrome (Chap. 34,
-p. 615).
-In utero, umbilical venous return is the main source of preload for the left
-ventricle. Namely, the fetal pulmonary blood flow is very low due to high
-pulmonary vascular resistance and is unable to provide sufficient venous
-return to maintain left ventricular output (Hooper, 2019).
-Clamping the umbilical cord reduces preload for the left ventricle and
-thus reduces cardiac output. Until the lungs aerate and pulmonary blood flow
-increases, the reduced cardiac output will manifest as bradycardia. If cord
-clamping is delayed until after the lungs have aerated, the transition is
-smoother and cardiac output does not fall (Bhatt, 2013). This understanding
-has led to interest in delayed (physiological) cord clamping, especially if it
-can be done after successful inflation of the lung. Specialized resuscitation
-trolleys have been developed to aid this practice, and several international
-randomized trials are underway.
+Immediately following birth, the newborn must promptly convert from placental to pulmonary gas exchange. Pulmonary vascular resistance must fall, pulmonary perfusion must rapidly rise, and unique fetal vascular shunts must begin to close to separate the systemic and pulmonary circulations. These shunts include the patent ductus arteriosus and patent foramen ovale, described in Chapter 7 (p. 128). Lung aeration is not only critical for pulmonary gas exchange. Specifically, recent studies suggest that it is responsible for initiating cardiovascular changes at birth (Hooper, 2019). In utero, the fetal lungs are filled with amnionic fluid, which must be cleared quickly for air breathing. Various means contribute, and these mechanisms may depend on gestational age and mode of delivery. First, in term fetuses, a large release of fetal adrenaline late in labor stimulates pulmonary epithelial cells to stop secreting and instead to start reabsorbing lung liquid due to sodium-channel activation (te Pas, 2008). This mechanism is likely a minor one, as blockade of the receptors for sodium-channel activation reduces or delays but does not prevent liquid clearance from the lungs at birth (Buchiboyina, 2017). As a second method, mechanical forces aid lung fluid clearance. Early reports described expulsion of lung liquid by compression of the fetal thorax and abdomen as they passed through the birth canal (Karlberg, 1962; Saunders, 1978). By this mechanism, up to a third of lung liquid is expelled in a jet of fluid from the nose and mouth once the respiratory tract is exposed to the lower outside pressure. However, it appears that uterine contractions force a change in fetal posture, which compresses the thorax and raises intrathoracic pressures. This expels lung liquid early in labor more so than the “vaginal squeeze” theory (Hooper, 2019; te Pas, 2008; Vyas, 1981). In a third mechanism, a significant amount of lung liquid is cleared after birth (Hooper, 2019). In animal studies, most lung aeration occurs during inspiration—within three to five breaths after birth (Hooper, 2007). The transpulmonary pressure gradient during inspiration promotes movement of
 
-CARE IN THE DELIVERY ROOM
-The International Liaison Committee on Resuscitation (ILCOR) updated its
-scientific review for neonatal delivery room care and resuscitation (Wyckoff,
-2020). This review is used by the American Academy of Pediatrics and the
-American Heart Association to develop the neonatal resuscitation guidelines
-for North America (Aziz, 2020).
+fluid into the interstitial tissue. No liquid clears between breaths. From the interstitium, fluid is gradually cleared, probably by the pulmonary circulation and lymphatic vessels. It is possible for lung interstitial tissue pressure to rise to a point that fluid can actually move back into the airspaces during expiration unless positive end-expiratory pressure opposes liquid reentry (Siew, 2009). This may contribute to development of transient tachypnea of the newborn. As fluid is replaced by air, compression of the pulmonary vasculature is reduced considerably, and in turn, resistance to blood flow is lowered. With the fall in pulmonary arterial blood pressure, the ductus arteriosus normally closes. High, negative intrathoracic pressures are required to permit the initial entry of air into the fluid-filled alveoli. Normally, from the first breath after birth, progressively more residual air accumulates in the lung. With each successive breath, lower pulmonary opening pressure is required. In the normal mature newborn, by approximately the fifth breath, pressure-volume changes achieved with each respiration are very similar to those of the adult. Thus, the breathing pattern shifts from shallow episodic inspirations characteristic of the fetus to regular, deeper inhalations. As a last mechanism, surfactant is synthesized by type II pneumocytes. It lowers alveolar surface tension and helps maintain lung inflation by preventing alveolar collapse. Insufficient surfactant, which is common in preterm neonates, leads promptly to respiratory distress syndrome (Chap. 34, p. 615). In utero, umbilical venous return is the main source of preload for the left ventricle. Namely, the fetal pulmonary blood flow is very low due to high pulmonary vascular resistance and is unable to provide sufficient venous return to maintain left ventricular output (Hooper, 2019). Clamping the umbilical cord reduces preload for the left ventricle and thus reduces cardiac output. Until the lungs aerate and pulmonary blood flow increases, the reduced cardiac output will manifest as bradycardia. If cord clamping is delayed until after the lungs have aerated, the transition is smoother and cardiac output does not fall (Bhatt, 2013). This understanding has led to interest in delayed (physiological) cord clamping, especially if it can be done after successful inflation of the lung. Specialized resuscitation trolleys have been developed to aid this practice, and several international randomized trials are underway.
 
-■ Immediate Care
-Before and during delivery, several determinants of neonatal well-being are
-carefully considered. Risk factors can include: (1) poor maternal health
-status; (2) prenatal complications, including any suspected fetal
-malformations; (3) preterm gestational age; (4) labor complications; (5) long
-duration of labor and ruptured membranes; (6) anesthesia that may affect
-placental perfusion; (7) difficult delivery; and (8) various medications given
-during labor and their dosages, administration routes, and timing.
-When risk factors are present, neonatal resuscitation providers should be
-present for the delivery. This team readies equipment, ensures that adequate
-personnel are present, delegates roles and responsibilities, and considers
-contingency plans to stabilize the newborn. In preparation, a neonatal
-provider will ask the delivery provider regarding expected gestational age,
-amnionic fluid color, additional maternal and fetal risk factors, and the
-management plan for umbilical cord clamping (Weiner, 2021). Several
-neonatal conditions are associated with a nonvigorous presentation. These
-may include immaturity, hypoxemia or acidosis from any cause, sepsis,
-recent drugs administered to the mother, meconium-stained amnionic fluid,
-and central nervous system developmental abnormalities. Those related to
-the respiratory tract are lung abnormalities, upper airway obstruction,
-pneumothorax, and meconium aspiration.
+## Care In The Delivery Room
 
-■ Umbilical Cord Management
-Obstetrical and pediatric care teams should ideally discuss plans regarding
-umbilical cord management prior to delivery. Deferred cord clamping
-provides transfusion of placental blood to the newborn. In term neonates,
-delaying cord clamping by 30 to 60 seconds raises hemoglobin levels at birth
+The International Liaison Committee on Resuscitation (ILCOR) updated its scientific review for neonatal delivery room care and resuscitation (Wyckoff, 2020). This review is used by the American Academy of Pediatrics and the American Heart Association to develop the neonatal resuscitation guidelines for North America (Aziz, 2020).
 
-and improves iron stores during infancy. The only reported negative outcome
-is hyperbilirubinemia and a higher subsequent rate of phototherapy
-(Gomersall, 2021). In preterm neonates, deferred cord clamping may reduce
-rates of blood transfusion, intraventricular hemorrhage, and necrotizing
-enterocolitis and improves survival rates (Seidler, 2021).
-Delayed cord clamping should be performed in preterm and term
-newborns who do not require resuscitation at birth. There should be no delay
-if a newborn requires resuscitation or if placental abruption, cord avulsion,
-or bleeding placenta previa or vasa previa complicates delivery. Cord
-milking is a reasonable alternative to immediate cord clamping for late
-preterm and term newborns. It should be avoided in neonates <28 weeks’
-gestation (American College of Obstetricians and Gynecologists, 2020a;
-Gomersall, 2021; Seidler, 2021).
+### Immediate Care
 
-■ Newborn Resuscitation
-Approximately 10 percent of newborns require some degree of active
-resuscitation to stimulate breathing, and 1 percent need extensive care.
-Perhaps not coincidentally, the neonatal death rate with home birth in the
-United States is small but still fourfold greater than attended hospital births
-(Grünebaum, 2020).
-When deprived of adequate gas exchange, either before or after birth,
-neonates demonstrate a well-defined sequence of events leading to apnea
-(Fig. 32-1). With oxygen deprivation and carbon dioxide (CO2) elevation,
-there is a transient period of rapid breathing, and if it persists, breathing
-stops, which is termed primary apnea. This stage is accompanied by a fall in
-heart rate and loss of neuromuscular tone. Simple stimulation will usually
-reverse primary apnea. If oxygen deprivation and asphyxia persist, however,
-the newborn will develop deep gasping respirations, followed by secondary
-apnea. This latter stage is associated with a further decline in heart rate, fall
-in blood pressure, and loss of neuromuscular tone. Neonates in secondary
-apnea will not respond to stimulation and will not spontaneously resume
-respiratory efforts. Unless ventilation is assisted, death follows.
+Before and during delivery, several determinants of neonatal well-being are carefully considered. Risk factors can include: (1) poor maternal health status; (2) prenatal complications, including any suspected fetal malformations; (3) preterm gestational age; (4) labor complications; (5) long duration of labor and ruptured membranes; (6) anesthesia that may affect placental perfusion; (7) difficult delivery; and (8) various medications given during labor and their dosages, administration routes, and timing. When risk factors are present, neonatal resuscitation providers should be present for the delivery. This team readies equipment, ensures that adequate personnel are present, delegates roles and responsibilities, and considers contingency plans to stabilize the newborn. In preparation, a neonatal provider will ask the delivery provider regarding expected gestational age, amnionic fluid color, additional maternal and fetal risk factors, and the management plan for umbilical cord clamping (Weiner, 2021). Several neonatal conditions are associated with a nonvigorous presentation. These may include immaturity, hypoxemia or acidosis from any cause, sepsis, recent drugs administered to the mother, meconium-stained amnionic fluid, and central nervous system developmental abnormalities. Those related to the respiratory tract are lung abnormalities, upper airway obstruction, pneumothorax, and meconium aspiration.
 
-FIGURE 32-1 Physiological changes associated with primary and secondary apnea in the newborn.
-bpm = beats per minute; HR = heart rate; MAP = mean arterial pressure. (Reproduced with permission
-from Kattwinkel J: Textbook of Neonatal Resuscitation, 6th ed. Elk Grove Village, American Academy
-of Pediatrics and American Heart Association, 2010.)
+### Umbilical Cord Management
 
-Clinically, primary and secondary apneas are initially indistinguishable.
-When a response to stimulation is not immediate, resuscitation with effective
-ventilation of the apneic newborn must begin quickly. Effective positivepressure ventilation is the most critical intervention in neonatal resuscitation.
+Obstetrical and pediatric care teams should ideally discuss plans regarding umbilical cord management prior to delivery. Deferred cord clamping provides transfusion of placental blood to the newborn. In term neonates, delaying cord clamping by 30 to 60 seconds raises hemoglobin levels at birth
 
-■ Resuscitation Protocol
-Initial Assessment
-Immediately after birth and usually during the delay for umbilical cord
-clamping, newborn tone, respiratory effort, and heart rate are evaluated (Fig.
-32-2). Most term neonates are vigorous by 10 to 30 seconds after birth
-(Ersdal, 2012). For these, initial steps of warming the newborn can be done
-on the mother’s chest or abdomen. Direct skin-to-skin contact with the mother
-and drying and covering the newborn with a warm blanket will help maintain
-euthermia (36.5 to 37.5°C). A vigorously crying newborn does not require
-routine oral suctioning (Aziz 2020; Foster, 2017). Instead, bulb suctioning to
-remove secretions is best reserved for those who cannot clear secretions on
-their own due to apnea or copious secretions. Additional routine care steps
+and improves iron stores during infancy. The only reported negative outcome is hyperbilirubinemia and a higher subsequent rate of phototherapy (Gomersall, 2021). In preterm neonates, deferred cord clamping may reduce rates of blood transfusion, intraventricular hemorrhage, and necrotizing enterocolitis and improves survival rates (Seidler, 2021). Delayed cord clamping should be performed in preterm and term newborns who do not require resuscitation at birth. There should be no delay if a newborn requires resuscitation or if placental abruption, cord avulsion, or bleeding placenta previa or vasa previa complicates delivery. Cord milking is a reasonable alternative to immediate cord clamping for late preterm and term newborns. It should be avoided in neonates <28 weeks’ gestation (American College of Obstetricians and Gynecologists, 2020a; Gomersall, 2021; Seidler, 2021).
 
-include drying, gentle stimulation by rubbing the newborn’s back, and
-continued observation during the transition period.
+### Newborn Resuscitation
 
-FIGURE 32-2 Algorithm for resuscitation of the newborn based on the International Liaison
-Committee on Resuscitation scientific review and recommended by the American Academy of
-Pediatrics and American Heart Association (Aziz, 2020; Wyckoff, 2020). bpm = beats per minute;
-CPAP = continuous positive airway pressure; ECG = electrocardiogram; ETT = endotracheal tube; HR
-= heart rate; IV = intravenous; PPV = positive-pressure ventilation; SpO2 = peripheral oxygen
-saturation; UVC = umbilical venous catheter.
+Approximately 10 percent of newborns require some degree of active resuscitation to stimulate breathing, and 1 percent need extensive care. Perhaps not coincidentally, the neonatal death rate with home birth in the United States is small but still fourfold greater than attended hospital births (Grünebaum, 2020). When deprived of adequate gas exchange, either before or after birth, neonates demonstrate a well-defined sequence of events leading to apnea (Fig. 32-1). With oxygen deprivation and carbon dioxide (CO2) elevation, there is a transient period of rapid breathing, and if it persists, breathing stops, which is termed primary apnea. This stage is accompanied by a fall in heart rate and loss of neuromuscular tone. Simple stimulation will usually reverse primary apnea. If oxygen deprivation and asphyxia persist, however, the newborn will develop deep gasping respirations, followed by secondary apnea. This latter stage is associated with a further decline in heart rate, fall in blood pressure, and loss of neuromuscular tone. Neonates in secondary apnea will not respond to stimulation and will not spontaneously resume respiratory efforts. Unless ventilation is assisted, death follows.
 
-If not vigorous or if preterm, the neonate is carried to a prewarmed
-radiant warmer for initial newborn care steps. The initial wet birth blanket is
-removed to allow newborn drying. Cold stress is associated with multiple
-neonatal morbidities and mortality. Preterm infants are particularly
-vulnerable, and special steps can help maintain euthermia. These are
-providing a warm delivery room (>25°C), covering the neonatal head with
-either a plastic or wool hat, applying polyethylene plastic “ponchos” or
-wraps to slow evaporative heat losses, using chemically activated thermal
-mattresses to reduce conductive heat loss, and administering warm,
-humidified respiratory gases during respiratory stabilization (Aziz, 2020;
-Wyckoff, 2020).
-At the radiant warmer, newborns are positioned with mild neck extension
-to maximally open the airway. If the newborn is apneic or has copious
-secretions that obstruct the airway, then a bulb syringe or suction catheter can
-help clear the mouth and the nose. Routine intubation and suctioning of
-meconium-stained amnionic fluid is not recommended for the nonvigorous
-newborn (American College of Obstetricians and Gynecologists, 2021a;
-Wyckoff, 2020). Intubation and suction are reserved for suspected airway
+> **Figure 32-1:** Physiological changes associated with primary and secondary apnea in the newborn. bpm = beats per minute; HR = heart rate; MAP = mean arterial pressure. (Reproduced with permission from Kattwinkel J: Textbook of Neonatal Resuscitation, 6th ed. Elk Grove Village, American Academy of Pediatrics and American Heart Association, 2010.)
 
-obstruction. Meconium-stained amnionic fluid is a significant risk factor for
-the need for advanced resuscitation. In rare circumstances, the meconiumstained fluid can obstruct the newborn’s airway and necessitate intubation
-and tracheal suctioning (Aziz, 2020; Wyckoff, 2020).
-After completion of the initial stabilization steps, persisting apnea,
-gasping respirations, or heart rate ≤100 beats per minute (bpm) should
-prompt immediate administration of positive-pressure ventilation with room
-air (Fig. 32-3). This should be started by 60 seconds of life, if not sooner,
-once the initial steps are completed.
+Clinically, primary and secondary apneas are initially indistinguishable. When a response to stimulation is not immediate, resuscitation with effective ventilation of the apneic newborn must begin quickly. Effective positivepressure ventilation is the most critical intervention in neonatal resuscitation.
 
-FIGURE 32-3 Correct use of bag-and-mask ventilation. The head should be in a sniffing position with
-the tip of the nose pointing to the ceiling. The neck should not be hyperextended.
+### Resuscitation Protocol
 
-Mask Ventilation
-Assisted ventilation by facemask at a rate of 40 to 60 breaths per minute is
-recommended as an initial resuscitation step. Oxygen saturation is monitored
-by pulse oximetry. Supplemental oxygen can be given in graduated, rising
-percentages to maintain oxygen saturation values within a normal range.
-Percentage goals rise progressively with accruing minutes of life (Table 321) (Weiner, 2021). Adequate ventilation is best indicated by an improved
-heart rate. A colorimetric end-tidal carbon dioxide (ETCO2) monitor that
+Initial Assessment Immediately after birth and usually during the delay for umbilical cord clamping, newborn tone, respiratory effort, and heart rate are evaluated (Fig. 32-2). Most term neonates are vigorous by 10 to 30 seconds after birth (Ersdal, 2012). For these, initial steps of warming the newborn can be done on the mother’s chest or abdomen. Direct skin-to-skin contact with the mother and drying and covering the newborn with a warm blanket will help maintain euthermia (36.5 to 37.5°C). A vigorously crying newborn does not require routine oral suctioning (Aziz 2020; Foster, 2017). Instead, bulb suctioning to remove secretions is best reserved for those who cannot clear secretions on their own due to apnea or copious secretions. Additional routine care steps
 
-lies between the positive-pressure device and facemask serves as a helpful
-adjunct to detect successful gas exchange during mask ventilation.
-TABLE 32-1. Oxygen Saturation Goals per Minute of Life
+include drying, gentle stimulation by rubbing the newborn’s back, and continued observation during the transition period.
 
-If the heart rate remains ≤100 beats per minute after 5 to 10 positive
-pressure breaths, and the attempted ventilation is inadequate, then further
-corrective steps should begin. These can be remembered by the mnemonic
-MR. SOPA (Table 32-2) (Weiner, 2021). The two most common problems
-are mask leak due to an ineffective seal and malposition of the airway
-(Schmölzer, 2019). Mask positioning should maintain an open mouth. This
-provides a superior conduit for gas transfer than the narrow-caliber nares. If
-the other corrective steps do not raise the heart rate, either intubation with an
-endotracheal tube or placement of a supraglottic airway is required.
-TABLE 32-2. Ventilation Corrective Steps (MR. SOPA)
+> **Figure 32-2:** Algorithm for resuscitation of the newborn based on the International Liaison Committee on Resuscitation scientific review and recommended by the American Academy of Pediatrics and American Heart Association (Aziz, 2020; Wyckoff, 2020). bpm = beats per minute; CPAP = continuous positive airway pressure; ECG = electrocardiogram; ETT = endotracheal tube; HR = heart rate; IV = intravenous; PPV = positive-pressure ventilation; SpO2 = peripheral oxygen saturation; UVC = umbilical venous catheter.
 
-Alternative Airway
-If mask ventilation is ineffective or prolonged, an alternative airway is
-placed. For tracheal intubation, a laryngoscope with a straight blade—size 0
-for a preterm newborn and size 1 for a term neonate—is used. Gentle cricoid
-pressure may be useful. An increasing heart rate and ETCO2 detection after
-several breaths are the primary methods to confirm intubation of the trachea
+If not vigorous or if preterm, the neonate is carried to a prewarmed radiant warmer for initial newborn care steps. The initial wet birth blanket is removed to allow newborn drying. Cold stress is associated with multiple neonatal morbidities and mortality. Preterm infants are particularly vulnerable, and special steps can help maintain euthermia. These are providing a warm delivery room (>25°C), covering the neonatal head with either a plastic or wool hat, applying polyethylene plastic “ponchos” or wraps to slow evaporative heat losses, using chemically activated thermal mattresses to reduce conductive heat loss, and administering warm, humidified respiratory gases during respiratory stabilization (Aziz, 2020; Wyckoff, 2020). At the radiant warmer, newborns are positioned with mild neck extension to maximally open the airway. If the newborn is apneic or has copious secretions that obstruct the airway, then a bulb syringe or suction catheter can help clear the mouth and the nose. Routine intubation and suctioning of meconium-stained amnionic fluid is not recommended for the nonvigorous newborn (American College of Obstetricians and Gynecologists, 2021a; Wyckoff, 2020). Intubation and suction are reserved for suspected airway
 
-and not the esophagus. One can also look for symmetrical chest wall motion;
-auscultate for equal breath sounds, especially in the axillae; and auscultate
-for the absence of breath sounds or gurgling over the stomach.
-Once in place, the tube is used for tracheal suctioning only for a
-suspected obstructed airway. Otherwise, an appropriate positive-pressure
-device (self-inflating bag, flow-inflating bag, or T-piece resuscitator) is
-attached to the endotracheal tube (Roehr, 2021). Ventilation breaths are
-delivered at a rate of 40 to 60 per minute with a force adequate to stabilize
-the heart rate. In term newborns, opening pressures of 30 to 40 cm H2O
-typically will expand the alveoli without causing barotrauma. Once the lung
-is inflated, less pressure is typically needed (20 to 25 cm H2O). For preterm
-neonates, pressures of 20 to 25 cm H2O are typically used. Increases in heart
-rate and peripheral oxygen saturation (SpO2) levels to acceptable ranges
-reflect a positive response.
+obstruction. Meconium-stained amnionic fluid is a significant risk factor for the need for advanced resuscitation. In rare circumstances, the meconiumstained fluid can obstruct the newborn’s airway and necessitate intubation and tracheal suctioning (Aziz, 2020; Wyckoff, 2020). After completion of the initial stabilization steps, persisting apnea, gasping respirations, or heart rate ≤100 beats per minute (bpm) should prompt immediate administration of positive-pressure ventilation with room air (Fig. 32-3). This should be started by 60 seconds of life, if not sooner, once the initial steps are completed.
 
-Chest Compressions
-Most commonly, effective ventilation is all that is required to stabilize the
-newborn in the delivery room. If the heart rate remains <60 bpm despite
-ventilation corrective steps, including placement of an endotracheal tube,
-chest compressions are initiated. Once the endotracheal tube is secured,
-compressions are done from the head of the bed rather than the side so that
-space is opened up for a provider to have umbilical venous access. When
-compressions are initiated, the oxygen concentration is increased to 100
-percent. With the two-thumb compression method, hands encircle the chest,
-while the thumbs depress the sternum. Compressions are delivered on the
-lower third of the sternum at a depth sufficient to generate a palpable pulse.
-This is typically one third of the anterior-posterior diameter of the chest.
-Compared with other techniques, this method offers less provider fatigue
-over time, yields higher generated perfusion pressures, and lessens hand
-malpositioning that could cause traumatic injury (Kapadia, 2012).
-A 3:1 compressions-to-ventilation ratio is recommended, and 90
-compressions and 30 breaths achieve approximately 120 events each minute.
-Coordinated chest compressions and ventilations should continue until the
-spontaneous heart rate is ≥60 bpm (Wyckoff, 2020).
-If the heart rate remains ≤60 bpm after adequate ventilation and chest
-compressions, intravenously administered epinephrine is indicated. The
+> **Figure 32-3:** Correct use of bag-and-mask ventilation. The head should be in a sniffing position with the tip of the nose pointing to the ceiling. The neck should not be hyperextended.
 
-recommended intravenous dose is 0.01 to 0.03 mg/kg. Epinephrine may be
-given through the endotracheal tube if venous access has not been
-established, but its action is less reliable (Isayama, 2020). If given through
-the endotracheal tube, higher doses are employed—0.05 to 0.1 mg/kg.
+Mask Ventilation Assisted ventilation by facemask at a rate of 40 to 60 breaths per minute is recommended as an initial resuscitation step. Oxygen saturation is monitored by pulse oximetry. Supplemental oxygen can be given in graduated, rising percentages to maintain oxygen saturation values within a normal range. Percentage goals rise progressively with accruing minutes of life (Table 321) (Weiner, 2021). Adequate ventilation is best indicated by an improved heart rate. A colorimetric end-tidal carbon dioxide (ETCO2) monitor that
 
-Resuscitation Discontinuation
-ILCOR concludes that it is reasonable to discontinue resuscitative efforts for
-a neonate who remains without a heartbeat despite at least 20 minutes of
-continuous and adequate resuscitative efforts (Wyckoff, 2020). Notably, the
-decision to continue or discontinue resuscitative efforts must be
-individualized. The time was recently lengthened due to reports of some
-newborns enrolled in therapeutic hypothermia trials who had a 10-minute
-Apgar score of 0 yet survived without disability. This suggests the need for
-caution in limiting resuscitation to 10 minutes (Foglia, 2020).
+lies between the positive-pressure device and facemask serves as a helpful adjunct to detect successful gas exchange during mask ventilation.
 
-EVALUATION OF NEWBORN CONDITION
-■ Apgar Score
-The scoring system described by Dr. Virginia Apgar in 1953 remains a useful
-clinical tool to classify newborn health immediately after birth and to assess
-the effectiveness of resuscitative measures (American College of
-Obstetricians and Gynecologists, 2021b). During scoring, each of five easily
-identifiable characteristics—heart rate, respiratory effort, muscle tone, reflex
-irritability, and color—is assessed and assigned a value of 0, 1, or 2 (Table
-32-3). In the currently recommended expanded form, concurrent resuscitation
-interventions also are recorded over time. The total score, based on the sum
-of the five components, is determined in all neonates at 1 and 5 minutes after
-delivery. In those with a score <7, the score may be calculated at further 5minute intervals until a 20-minute Apgar score is assigned or resuscitation
-efforts are halted (Weiner, 2021).
-TABLE 32-3. 20-Minute Expanded Apgar Score
+> **Table 32-1:** Oxygen Saturation Goals per Minute of Life
 
-In an analysis of more than 150,000 newborns delivered at Parkland
-Hospital, Casey and associates (2001b) assessed the significance of the 5minute score for predicting survival during the first 28 days of life. They
-found that in term neonates, the risk of neonatal death was approximately 1 in
-5000 for those with Apgar scores of 7 to 10. This risk compares with a
-mortality rate of 25 percent for term newborns with 5-minute scores ≤3. Low
-5-minute scores were comparably predictive of neonatal death in preterm
-neonates. Similarly, an analysis of more than 113,000 preterm neonates
-ranging from 22 to 36 weeks’ gestation found that Apgar scores at 5 and 10
-minutes provided prognostic information for neonatal survival rates across
-gestational-age strata (Cnattingius, 2020). Thus, the Apgar scoring system
-remains relevant for the prediction of neonatal survival.
-Apgar scores alone are not predictive of hypoxic ischemic
-encephalopathy (HIE). However, in cohorts of babies diagnosed with HIE
-based on umbilical cord blood pH and standardized neurologic
-examinations, low 10-minute Apgar scores are significantly associated with
-school-age outcomes (Natarajan, 2013).
-Previously, many groups established erroneous definitions of asphyxia
-based solely on low Apgar scores. These prompted the American College of
-Obstetricians and Gynecologists and American Academy of Pediatrics
-(2021b) to issue a series of joint opinions with important caveats regarding
-Apgar score limitations. Certain elements of the Apgar score are partially
-dependent on the physiological maturity of the newborn, and a healthy,
-preterm neonate may receive a low score only because of immaturity. Other
+If the heart rate remains ≤100 beats per minute after 5 to 10 positive pressure breaths, and the attempted ventilation is inadequate, then further corrective steps should begin. These can be remembered by the mnemonic MR. SOPA (Table 32-2) (Weiner, 2021). The two most common problems are mask leak due to an ineffective seal and malposition of the airway (Schmölzer, 2019). Mask positioning should maintain an open mouth. This provides a superior conduit for gas transfer than the narrow-caliber nares. If the other corrective steps do not raise the heart rate, either intubation with an endotracheal tube or placement of a supraglottic airway is required.
 
-influencing factors include fetal malformations, maternal medications, and
-infection. Thus, it is inappropriate to use an Apgar score alone to diagnose
-asphyxia. Moreover, the Apgar score alone cannot establish hypoxia as the
-cause of cerebral palsy, as discussed in Chapter 33 (p. 604).
+> **Table 32-2:** Ventilation Corrective Steps (MR. SOPA)
 
-■ Umbilical Cord Blood Acid–Base Studies
-Blood taken from umbilical vessels may be used for acid–base studies to
-assess the metabolic status of the neonate. Blood collection is performed
-following delivery by immediately isolating a 10- to 20-cm segment of cord
-with two clamps placed near the neonate and another two clamps positioned
-nearer the placenta. The cord is then cut between the two proximal clamps
-and then the two distal clamps (Blickstein, 2007).
-Arterial blood is drawn from the isolated cord segment into a 1- to 2-mL
-commercially prepared plastic syringe containing lyophilized heparin or a
-similar syringe that has been flushed with a heparin solution containing 1000
-U/mL. Once sampling is completed, the needle is capped and the syringe
-transported, on ice, to the laboratory. Although efforts should be made for
-prompt transport, neither the pH nor partial pressure of CO2 (Pco2) values
-change significantly in blood kept at room temperature for up to 60 minutes
-(Lynn, 2007). Mathematical models have been developed that allow
-reasonable prediction of birth acid–base status in properly collected cord
-blood samples analyzed as late as 60 hours after delivery (Chauhan, 1994).
-Notably, acid–base measurements can show significant variances between
-different analyzing devices (Mokarami, 2012).
+Alternative Airway If mask ventilation is ineffective or prolonged, an alternative airway is placed. For tracheal intubation, a laryngoscope with a straight blade—size 0 for a preterm newborn and size 1 for a term neonate—is used. Gentle cricoid pressure may be useful. An increasing heart rate and ETCO2 detection after several breaths are the primary methods to confirm intubation of the trachea
 
-■ Fetal Acid–Base Physiology
-The fetus produces both carbonic and organic acids. Carbonic acid (H2CO3)
-forms from oxidative metabolism of CO2. The fetus usually rapidly clears
-CO2 through the placental circulation. If CO2 clearance drops, carbonic acid
-levels rise. This often follows impaired placental exchange. When H2CO3
-accumulates in fetal blood and organic acids do not concurrently rise, the
-result is respiratory acidemia.
-In contrast, organic acids primarily include lactic and β-hydroxybutyric
-acids. Levels of these increase with persistent placental exchange
+and not the esophagus. One can also look for symmetrical chest wall motion; auscultate for equal breath sounds, especially in the axillae; and auscultate for the absence of breath sounds or gurgling over the stomach. Once in place, the tube is used for tracheal suctioning only for a suspected obstructed airway. Otherwise, an appropriate positive-pressure device (self-inflating bag, flow-inflating bag, or T-piece resuscitator) is attached to the endotracheal tube (Roehr, 2021). Ventilation breaths are delivered at a rate of 40 to 60 per minute with a force adequate to stabilize the heart rate. In term newborns, opening pressures of 30 to 40 cm H2O typically will expand the alveoli without causing barotrauma. Once the lung is inflated, less pressure is typically needed (20 to 25 cm H2O). For preterm neonates, pressures of 20 to 25 cm H2O are typically used. Increases in heart rate and peripheral oxygen saturation (SpO2) levels to acceptable ranges reflect a positive response.
 
-impairment, and they result from anaerobic glycolysis. These organic acids
-are cleared slowly from fetal blood. When they accumulate, without a
-concurrent increase in H2CO3, the result is metabolic acidemia. With the
-development of metabolic acidemia, bicarbonate (HCO3−) levels drop
-because it is used to buffer the organic acid. A rise in H2CO3 concentrations
-accompanied by greater organic acid levels, reflected by decreased HCO3−
-levels, causes mixed respiratory-metabolic acidemia.
-In the fetus, respiratory and metabolic acidemia and ultimately tissue
-acidosis are most likely part of a progressively worsening continuum. This is
-different from adult pathophysiology, in which distinct conditions result
-either in respiratory acidosis—for example, pulmonary disease, or in
-metabolic acidosis—for example, diabetes. In the fetus, the placenta serves
-as both the lungs and, to a certain degree, the kidneys. One principal cause of
-fetal acidemia is a drop in uteroplacental perfusion. This creates retention of
-CO2, that is, respiratory acidemia, and if protracted and severe enough,
-yields a mixed or metabolic acidemia.
-Assuming that maternal pH and blood gases are normal, the actual pH of
-fetal blood depends on the proportion of carbonic and organic acids and the
-amount of bicarbonate, which is the major buffer in blood. This can best be
-illustrated by the Henderson–Hasselbalch equation:
+Chest Compressions Most commonly, effective ventilation is all that is required to stabilize the newborn in the delivery room. If the heart rate remains <60 bpm despite ventilation corrective steps, including placement of an endotracheal tube, chest compressions are initiated. Once the endotracheal tube is secured, compressions are done from the head of the bed rather than the side so that space is opened up for a provider to have umbilical venous access. When compressions are initiated, the oxygen concentration is increased to 100 percent. With the two-thumb compression method, hands encircle the chest, while the thumbs depress the sternum. Compressions are delivered on the lower third of the sternum at a depth sufficient to generate a palpable pulse. This is typically one third of the anterior-posterior diameter of the chest. Compared with other techniques, this method offers less provider fatigue over time, yields higher generated perfusion pressures, and lessens hand malpositioning that could cause traumatic injury (Kapadia, 2012). A 3:1 compressions-to-ventilation ratio is recommended, and 90 compressions and 30 breaths achieve approximately 120 events each minute. Coordinated chest compressions and ventilations should continue until the spontaneous heart rate is ≥60 bpm (Wyckoff, 2020). If the heart rate remains ≤60 bpm after adequate ventilation and chest compressions, intravenously administered epinephrine is indicated. The
 
-For clinical purposes, HCO3− represents the metabolic component and is
-reported in mEq/L. The H2CO3 concentration reflects the respiratory
-component and is reported as the Pco2 in mm Hg. Thus:
+recommended intravenous dose is 0.01 to 0.03 mg/kg. Epinephrine may be given through the endotracheal tube if venous access has not been established, but its action is less reliable (Isayama, 2020). If given through the endotracheal tube, higher doses are employed—0.05 to 0.1 mg/kg.
 
-The result of this equation is a pH value. Because pH is a logarithmic
-term, it does not give a linear measure of acid accumulation. For example, a
-change in hydrogen ion concentration associated with a fall in pH from 7.0 to
-6.9 is almost twice that which is associated with a fall in pH from 7.3 to 7.2.
+Resuscitation Discontinuation ILCOR concludes that it is reasonable to discontinue resuscitative efforts for a neonate who remains without a heartbeat despite at least 20 minutes of continuous and adequate resuscitative efforts (Wyckoff, 2020). Notably, the decision to continue or discontinue resuscitative efforts must be individualized. The time was recently lengthened due to reports of some newborns enrolled in therapeutic hypothermia trials who had a 10-minute Apgar score of 0 yet survived without disability. This suggests the need for caution in limiting resuscitation to 10 minutes (Foglia, 2020).
 
-For this reason, the change in base—termed delta base—offers a more linear
-measure of the degree of accumulation of metabolic acid (Armstrong, 2007).
-The delta base is a calculated number used as a measure of the change in
-buffering capacity of bicarbonate (HCO3−). The formula for calculating the
-base excess (BE) is as follows:
+## Evaluation Of Newborn Condition
 
-Shown in Figure 32-4 is a nomogram from which these can be calculated
-if only two parameters are known. For example, the HCO3− concentration
-declines with a metabolic acidemia as it is consumed to maintain a normal
-pH. A base deficit develops when the HCO3− concentration drops below
-normal levels, and a base excess occurs when HCO3− values are above
-normal. Importantly, a mixed respiratory–metabolic acidemia with a large
-base deficit and a low HCO3−, for example 12 mmol/L, is more often
-associated with a depressed neonate than is a mixed acidemia with a minimal
-base deficit and a more nearly normal HCO3− level.
+### Apgar Score
 
-FIGURE 32-4 Nomogram for determining the delta base. (Reproduced with permission from SiggaardAnderson O: Blood acid–base alignment nomogram. Scand J Clin Lab Invest. 1963;15:211–7.)
+The scoring system described by Dr. Virginia Apgar in 1953 remains a useful clinical tool to classify newborn health immediately after birth and to assess the effectiveness of resuscitative measures (American College of Obstetricians and Gynecologists, 2021b). During scoring, each of five easily identifiable characteristics—heart rate, respiratory effort, muscle tone, reflex irritability, and color—is assessed and assigned a value of 0, 1, or 2 (Table 32-3). In the currently recommended expanded form, concurrent resuscitation interventions also are recorded over time. The total score, based on the sum of the five components, is determined in all neonates at 1 and 5 minutes after delivery. In those with a score <7, the score may be calculated at further 5minute intervals until a 20-minute Apgar score is assigned or resuscitation efforts are halted (Weiner, 2021).
 
-■ Clinical Significance of Acidemia
-Fetal oxygenation and pH generally decline during the course of normal
-labor. Normal umbilical cord blood pH and blood gas values at delivery in
+> **Table 32-3:** 20-Minute Expanded Apgar Score
 
-term newborns are summarized in Table 32-4. Similar values have been
-reported for preterm neonates (Ramin, 1989; Skiold, 2017). The lower limits
-of normal pH in the newborn range from 7.05 to 7.16 for newborns 28 to 42
-weeks’ gestation at birth, with some variation based on gestational age
-(Skiold, 2017). Thus, these values should be considered to define neonatal
-acidemia. Even so, most fetuses will tolerate intrapartum acidemia with a pH
-as low as 7.00 without incurring neurological impairment (American College
-of Obstetricians and Gynecologists, 2014; Lee, 2020). That said, in a study
-of newborns with a pH <7.0 from Parkland Hospital, the incidences of
-neonatal deaths—8 percent, intensive care admissions—39 percent,
-intubations—14 percent, and seizures—13 percent, were notable (Goldaber,
-1991). In a study of more than 51,000 term newborns, the incidence of
-neonatal encephalopathy in those with a birth pH <7.0 was 3 percent (Yeh,
-2012). Even those who had normal 5-minute Apgar scores but who had an
-arterial cord pH values <7.0 experienced a higher risk of morbidity. This
-included respiratory distress, neonatal intensive care unit admission, and
-sepsis (Sabol, 2016). Faster acidemia resolution after birth is associated
-with better outcome (Casey, 2001a).
-TABLE 32-4. Umbilical Cord Blood pH and Blood Gas Values in Normal
-Term Newborns
+In an analysis of more than 150,000 newborns delivered at Parkland Hospital, Casey and associates (2001b) assessed the significance of the 5minute score for predicting survival during the first 28 days of life. They found that in term neonates, the risk of neonatal death was approximately 1 in 5000 for those with Apgar scores of 7 to 10. This risk compares with a mortality rate of 25 percent for term newborns with 5-minute scores ≤3. Low 5-minute scores were comparably predictive of neonatal death in preterm neonates. Similarly, an analysis of more than 113,000 preterm neonates ranging from 22 to 36 weeks’ gestation found that Apgar scores at 5 and 10 minutes provided prognostic information for neonatal survival rates across gestational-age strata (Cnattingius, 2020). Thus, the Apgar scoring system remains relevant for the prediction of neonatal survival. Apgar scores alone are not predictive of hypoxic ischemic encephalopathy (HIE). However, in cohorts of babies diagnosed with HIE based on umbilical cord blood pH and standardized neurologic examinations, low 10-minute Apgar scores are significantly associated with school-age outcomes (Natarajan, 2013). Previously, many groups established erroneous definitions of asphyxia based solely on low Apgar scores. These prompted the American College of Obstetricians and Gynecologists and American Academy of Pediatrics (2021b) to issue a series of joint opinions with important caveats regarding Apgar score limitations. Certain elements of the Apgar score are partially dependent on the physiological maturity of the newborn, and a healthy, preterm neonate may receive a low score only because of immaturity. Other
+
+influencing factors include fetal malformations, maternal medications, and infection. Thus, it is inappropriate to use an Apgar score alone to diagnose asphyxia. Moreover, the Apgar score alone cannot establish hypoxia as the cause of cerebral palsy, as discussed in Chapter 33 (p. 604).
+
+### Umbilical Cord Blood Acid–Base Studies
+
+Blood taken from umbilical vessels may be used for acid–base studies to assess the metabolic status of the neonate. Blood collection is performed following delivery by immediately isolating a 10- to 20-cm segment of cord with two clamps placed near the neonate and another two clamps positioned nearer the placenta. The cord is then cut between the two proximal clamps and then the two distal clamps (Blickstein, 2007). Arterial blood is drawn from the isolated cord segment into a 1- to 2-mL commercially prepared plastic syringe containing lyophilized heparin or a similar syringe that has been flushed with a heparin solution containing 1000 U/mL. Once sampling is completed, the needle is capped and the syringe transported, on ice, to the laboratory. Although efforts should be made for prompt transport, neither the pH nor partial pressure of CO2 (Pco2) values change significantly in blood kept at room temperature for up to 60 minutes (Lynn, 2007). Mathematical models have been developed that allow reasonable prediction of birth acid–base status in properly collected cord blood samples analyzed as late as 60 hours after delivery (Chauhan, 1994). Notably, acid–base measurements can show significant variances between different analyzing devices (Mokarami, 2012).
+
+### Fetal Acid–Base Physiology
+
+The fetus produces both carbonic and organic acids. Carbonic acid (H2CO3) forms from oxidative metabolism of CO2. The fetus usually rapidly clears CO2 through the placental circulation. If CO2 clearance drops, carbonic acid levels rise. This often follows impaired placental exchange. When H2CO3 accumulates in fetal blood and organic acids do not concurrently rise, the result is respiratory acidemia. In contrast, organic acids primarily include lactic and β-hydroxybutyric acids. Levels of these increase with persistent placental exchange
+
+impairment, and they result from anaerobic glycolysis. These organic acids are cleared slowly from fetal blood. When they accumulate, without a concurrent increase in H2CO3, the result is metabolic acidemia. With the development of metabolic acidemia, bicarbonate (HCO3−) levels drop because it is used to buffer the organic acid. A rise in H2CO3 concentrations accompanied by greater organic acid levels, reflected by decreased HCO3− levels, causes mixed respiratory-metabolic acidemia. In the fetus, respiratory and metabolic acidemia and ultimately tissue acidosis are most likely part of a progressively worsening continuum. This is different from adult pathophysiology, in which distinct conditions result either in respiratory acidosis—for example, pulmonary disease, or in metabolic acidosis—for example, diabetes. In the fetus, the placenta serves as both the lungs and, to a certain degree, the kidneys. One principal cause of fetal acidemia is a drop in uteroplacental perfusion. This creates retention of CO2, that is, respiratory acidemia, and if protracted and severe enough, yields a mixed or metabolic acidemia. Assuming that maternal pH and blood gases are normal, the actual pH of fetal blood depends on the proportion of carbonic and organic acids and the amount of bicarbonate, which is the major buffer in blood. This can best be illustrated by the Henderson–Hasselbalch equation:
+
+For clinical purposes, HCO3− represents the metabolic component and is reported in mEq/L. The H2CO3 concentration reflects the respiratory component and is reported as the Pco2 in mm Hg. Thus:
+
+The result of this equation is a pH value. Because pH is a logarithmic term, it does not give a linear measure of acid accumulation. For example, a change in hydrogen ion concentration associated with a fall in pH from 7.0 to 6.9 is almost twice that which is associated with a fall in pH from 7.3 to 7.2.
+
+For this reason, the change in base—termed delta base—offers a more linear measure of the degree of accumulation of metabolic acid (Armstrong, 2007). The delta base is a calculated number used as a measure of the change in buffering capacity of bicarbonate (HCO3−). The formula for calculating the base excess (BE) is as follows:
+
+Shown in Figure 32-4 is a nomogram from which these can be calculated if only two parameters are known. For example, the HCO3− concentration declines with a metabolic acidemia as it is consumed to maintain a normal pH. A base deficit develops when the HCO3− concentration drops below normal levels, and a base excess occurs when HCO3− values are above normal. Importantly, a mixed respiratory–metabolic acidemia with a large base deficit and a low HCO3−, for example 12 mmol/L, is more often associated with a depressed neonate than is a mixed acidemia with a minimal base deficit and a more nearly normal HCO3− level.
+
+> **Figure 32-4:** Nomogram for determining the delta base. (Reproduced with permission from SiggaardAnderson O: Blood acid–base alignment nomogram. Scand J Clin Lab Invest. 1963;15:211–7.)
+
+### Clinical Significance of Acidemia
+
+Fetal oxygenation and pH generally decline during the course of normal labor. Normal umbilical cord blood pH and blood gas values at delivery in
+
+term newborns are summarized in Table 32-4. Similar values have been reported for preterm neonates (Ramin, 1989; Skiold, 2017). The lower limits of normal pH in the newborn range from 7.05 to 7.16 for newborns 28 to 42 weeks’ gestation at birth, with some variation based on gestational age (Skiold, 2017). Thus, these values should be considered to define neonatal acidemia. Even so, most fetuses will tolerate intrapartum acidemia with a pH as low as 7.00 without incurring neurological impairment (American College of Obstetricians and Gynecologists, 2014; Lee, 2020). That said, in a study of newborns with a pH <7.0 from Parkland Hospital, the incidences of neonatal deaths—8 percent, intensive care admissions—39 percent, intubations—14 percent, and seizures—13 percent, were notable (Goldaber, 1991). In a study of more than 51,000 term newborns, the incidence of neonatal encephalopathy in those with a birth pH <7.0 was 3 percent (Yeh, 2012). Even those who had normal 5-minute Apgar scores but who had an arterial cord pH values <7.0 experienced a higher risk of morbidity. This included respiratory distress, neonatal intensive care unit admission, and sepsis (Sabol, 2016). Faster acidemia resolution after birth is associated with better outcome (Casey, 2001a).
+
+> **Table 32-4:** Umbilical Cord Blood pH and Blood Gas Values in Normal Term Newborns
 
 Respiratory Acidemia
 
-Acute interruption in placental gas exchange is accompanied by subsequent
-CO2 retention and respiratory acidemia. The most common antecedent factor
-is transient umbilical cord compression. Generally, respiratory acidemia is
-not harmful to the fetus (Low, 1994).
-The degree to which pH is affected by Pco2—the respiratory component
-of the acidosis—can be calculated. First, the upper normal neonatal Pco2
-value of about 50 mm Hg is subtracted from the cord blood gas Pco2 value.
-Each additional 10 mm Hg Pco2 increment will lower the pH by 0.08 units
-(Eisenberg, 1987). Thus, in a mixed respiratory–metabolic acidemia, the
-benign respiratory component can be calculated. As an example, acute cord
-prolapse during labor prompts cesarean delivery of a neonate 20 minutes
-later. The umbilical artery blood gas pH was 6.95 and the Pco2 was 90 mm
-Hg. The degree to which the cord compression and subsequent impairment of
-CO2 exchange affected the pH is calculated using the relationship given
-earlier and shown below.
+Acute interruption in placental gas exchange is accompanied by subsequent CO2 retention and respiratory acidemia. The most common antecedent factor is transient umbilical cord compression. Generally, respiratory acidemia is not harmful to the fetus (Low, 1994). The degree to which pH is affected by Pco2—the respiratory component of the acidosis—can be calculated. First, the upper normal neonatal Pco2 value of about 50 mm Hg is subtracted from the cord blood gas Pco2 value. Each additional 10 mm Hg Pco2 increment will lower the pH by 0.08 units (Eisenberg, 1987). Thus, in a mixed respiratory–metabolic acidemia, the benign respiratory component can be calculated. As an example, acute cord prolapse during labor prompts cesarean delivery of a neonate 20 minutes later. The umbilical artery blood gas pH was 6.95 and the Pco2 was 90 mm Hg. The degree to which the cord compression and subsequent impairment of CO2 exchange affected the pH is calculated using the relationship given earlier and shown below.
 
-Thus, the pH before cord prolapse was approximately 7.27, well within
-normal limits. Thus, the low pH resulted from respiratory acidosis.
+Thus, the pH before cord prolapse was approximately 7.27, well within normal limits. Thus, the low pH resulted from respiratory acidosis.
 
-Metabolic Acidemia
-The fetus begins to develop metabolic acidemia when oxygen deprivation is
-sufficiently long and severe to require anaerobic metabolism for cellular
-energy needs. Low and associates (1997) defined fetal acidosis as a base
-deficit ≥12 mmol/L, and severe fetal acidosis as a base deficit ≥16 mmol/L.
-In the Parkland study of more than 150,000 newborns cited earlier, metabolic
-acidemia was defined using umbilical cord blood gas thresholds that were
-two standard deviations below the mean (Casey, 2001b). Thus, metabolic
-acidemia was an umbilical artery blood pH <7.00 accompanied by a Pco2
-≤76.3 mm Hg, with higher values indicating a respiratory component; HCO3−
-concentration ≤17.7 mmol/L; and base deficit ≥10.3 mEq/L. From the
-standpoint of possible neurological injury, the American College of
+Metabolic Acidemia The fetus begins to develop metabolic acidemia when oxygen deprivation is sufficiently long and severe to require anaerobic metabolism for cellular energy needs. Low and associates (1997) defined fetal acidosis as a base deficit ≥12 mmol/L, and severe fetal acidosis as a base deficit ≥16 mmol/L. In the Parkland study of more than 150,000 newborns cited earlier, metabolic acidemia was defined using umbilical cord blood gas thresholds that were two standard deviations below the mean (Casey, 2001b). Thus, metabolic acidemia was an umbilical artery blood pH <7.00 accompanied by a Pco2 ≤76.3 mm Hg, with higher values indicating a respiratory component; HCO3− concentration ≤17.7 mmol/L; and base deficit ≥10.3 mEq/L. From the standpoint of possible neurological injury, the American College of
 
-Obstetricians and Gynecologists (2014) defines metabolic acidosis as
-umbilical arterial pH <7.0 and a base deficit ≥12 mmol/L.
-Metabolic acidemia is associated with a high rate of multiorgan
-dysfunction. In rare cases, such hypoxia-induced metabolic acidemia may be
-so severe that it causes subsequent hypoxic ischemic encephalopathy (Chap.
-33, p. 601). Severe metabolic acidosis is poorly predictive of subsequent
-neurological impairment in the term neonate (Cahill, 2017). In fact, a fetus
-without such acidemia cannot by definition have suffered recent hypoxicinduced injury. In preterm infants, newborn acid–base status is more closely
-linked to intraventricular hemorrhage, periventricular leukomalacia, and
-poorer long-term neurological outcomes (Baalbaki, 2021; Morgan, 2017).
-Associations between metabolic acidemia, low Apgar scores, and
-neonatal death have been described in term and preterm newborns (Morgan,
-2015). Regarding term neonates, the risk of neonatal death was more than
-3200-fold greater in term neonates with metabolic acidemia and 5-minute
-scores ≤3 compared with those with a 5-minute Apgar score ≥7 (Casey,
-2001b).
+Obstetricians and Gynecologists (2014) defines metabolic acidosis as umbilical arterial pH <7.0 and a base deficit ≥12 mmol/L. Metabolic acidemia is associated with a high rate of multiorgan dysfunction. In rare cases, such hypoxia-induced metabolic acidemia may be so severe that it causes subsequent hypoxic ischemic encephalopathy (Chap. 33, p. 601). Severe metabolic acidosis is poorly predictive of subsequent neurological impairment in the term neonate (Cahill, 2017). In fact, a fetus without such acidemia cannot by definition have suffered recent hypoxicinduced injury. In preterm infants, newborn acid–base status is more closely linked to intraventricular hemorrhage, periventricular leukomalacia, and poorer long-term neurological outcomes (Baalbaki, 2021; Morgan, 2017). Associations between metabolic acidemia, low Apgar scores, and neonatal death have been described in term and preterm newborns (Morgan, 2015). Regarding term neonates, the risk of neonatal death was more than 3200-fold greater in term neonates with metabolic acidemia and 5-minute scores ≤3 compared with those with a 5-minute Apgar score ≥7 (Casey, 2001b).
 
-■ Recommendations for Cord Blood Gas Determinations
-In some centers, cord gas analysis is performed in all neonates at birth
-(Morgan, 2015; Sabol, 2016). Cost-effectiveness analysis for universal cord
-blood gas measurement suggests benefit and potential cost savings (White,
-2016). It seems reasonable to obtain cord blood gas determinations for
-intrapartum cases of cesarean delivery for fetal compromise, abnormal fetal
-heart rate tracing, fever, and low 5-minute Apgar score. Multifetal gestation
-and severely growth-restricted fetuses are others.
-Although umbilical cord acid–base blood determinations are poorly
-predictive of either immediate or long-term adverse neurological outcome,
-they provide the most objective evidence of the fetal metabolic status at
-birth.
+### Recommendations for Cord Blood Gas Determinations
 
-PREVENTIVE CARE
-■ Eye Infection Prophylaxis
+In some centers, cord gas analysis is performed in all neonates at birth (Morgan, 2015; Sabol, 2016). Cost-effectiveness analysis for universal cord blood gas measurement suggests benefit and potential cost savings (White, 2016). It seems reasonable to obtain cord blood gas determinations for intrapartum cases of cesarean delivery for fetal compromise, abnormal fetal heart rate tracing, fever, and low 5-minute Apgar score. Multifetal gestation and severely growth-restricted fetuses are others. Although umbilical cord acid–base blood determinations are poorly predictive of either immediate or long-term adverse neurological outcome, they provide the most objective evidence of the fetal metabolic status at birth.
 
-Ophthalmia neonatorum is mucopurulent conjunctivitis of newborns.
-Gonococcal and chlamydial infections are among the most common causes
-(American Academy of Pediatrics, 2021b).
-Neisseria gonorrhoeae infection acquired at birth was a common cause
-of childhood blindness in the past. Gonococcal prophylaxis is now
-mandatory for all neonates in most states (American Academy of Pediatrics,
-2017a). For prophylaxis soon after delivery, 0.5-percent erythromycin
-ophthalmic ointment is recommended (U.S. Preventive Services Task Force,
-2019).
-For a neonate born to a mother with untreated gonorrhea, treatment of
-presumptive neonatal gonococcal conjunctivitis is a single ceftriaxone dose,
-25 to 50 mg/kg, intravenously or intramuscularly, not to exceed 125 mg
-intramuscularly (American Academy of Pediatrics, 2021b). Before treatment,
-neonatal testing for both gonococcal and chlamydia infections should be
-obtained.
-With chlamydial conjunctivitis, adequate neonatal prophylaxis is
-challenging. Ideally, prenatal screening and treatment for Chlamydia
-trachomatis obviates conjunctival infection (Hammerschlag, 2011) (Chap.
-68, p. 1212). In neonates delivered vaginally of mothers with an active
-chlamydial infection, 30 to 50 percent will develop conjunctivitis (Zikic,
-2018). Prophylactic topical eye treatments do not reliably reduce the
-incidence of chlamydial conjunctivitis.
-Conjunctivitis in a newborn up to age 3 months should prompt
-consideration for chlamydial infection (Moore, 2015). Treatment for neonatal
-chlamydial conjunctivitis is oral erythromycin base or ethylsuccinate, 50
-mg/kg/d given daily and divided into four doses for 14 days. Another is oral
-azithromycin, 20 mg/kg given as a single daily dose for 3 days. A second
-course may be required since the efficacy of erythromycin therapy
-approximates only 80 percent. Posttreatment follow-up of these infants is
-recommended (American Academy of Pediatrics, 2021b).
+## Preventive Care
 
-■ Hepatitis B Immunization
-Routine immunization with thimerosal-free vaccine against hepatitis B within
-the first 24 hours of life is standard practice for all medically stable
-newborns with birthweights >2000 g (American Academy of Pediatrics,
-2017b). If the mother is seropositive for hepatitis B surface antigen, the
+### Eye Infection Prophylaxis
 
-neonate is also passively immunized with hepatitis B immune globulin. For
-high-risk or even all seropositive women during pregnancy, some advocate
-treatment with antiviral nucleoside or nucleotide analogues to minimize fetal
-transmission (Dunkelberg, 2014) (Chap. 58, p. 1038).
+Ophthalmia neonatorum is mucopurulent conjunctivitis of newborns. Gonococcal and chlamydial infections are among the most common causes (American Academy of Pediatrics, 2021b). Neisseria gonorrhoeae infection acquired at birth was a common cause of childhood blindness in the past. Gonococcal prophylaxis is now mandatory for all neonates in most states (American Academy of Pediatrics, 2017a). For prophylaxis soon after delivery, 0.5-percent erythromycin ophthalmic ointment is recommended (U.S. Preventive Services Task Force, 2019). For a neonate born to a mother with untreated gonorrhea, treatment of presumptive neonatal gonococcal conjunctivitis is a single ceftriaxone dose, 25 to 50 mg/kg, intravenously or intramuscularly, not to exceed 125 mg intramuscularly (American Academy of Pediatrics, 2021b). Before treatment, neonatal testing for both gonococcal and chlamydia infections should be obtained. With chlamydial conjunctivitis, adequate neonatal prophylaxis is challenging. Ideally, prenatal screening and treatment for Chlamydia trachomatis obviates conjunctival infection (Hammerschlag, 2011) (Chap. 68, p. 1212). In neonates delivered vaginally of mothers with an active chlamydial infection, 30 to 50 percent will develop conjunctivitis (Zikic, 2018). Prophylactic topical eye treatments do not reliably reduce the incidence of chlamydial conjunctivitis. Conjunctivitis in a newborn up to age 3 months should prompt consideration for chlamydial infection (Moore, 2015). Treatment for neonatal chlamydial conjunctivitis is oral erythromycin base or ethylsuccinate, 50 mg/kg/d given daily and divided into four doses for 14 days. Another is oral azithromycin, 20 mg/kg given as a single daily dose for 3 days. A second course may be required since the efficacy of erythromycin therapy approximates only 80 percent. Posttreatment follow-up of these infants is recommended (American Academy of Pediatrics, 2021b).
 
-■ Vitamin K
-Supplemental vitamin K injection will prevent vitamin K deficiency bleeding
-of the newborn (Chap. 33, p. 606). A single intramuscular dose of vitamin K,
-0.5 to 1 mg, is given within 1 hour of birth (American Academy of
-Pediatrics, 2017a).
+### Hepatitis B Immunization
 
-■ COVID-19
-The novel SARS-CoV-2 virus is very contagious, spreads person to person,
-and can cause severe morbidity or mortality. Thus, birth attendants at the
-delivery of a mother with COVID-19 should implement airborne and contact
-isolation precautions to protect themselves during potentially aerosolizing
-resuscitation procedures (Edelson, 2020).
-National data suggest that approximately 2 percent of newborns of
-women who test positive for SARS-CoV-2 near delivery have also tested
-positive in the first 24 to 96 hours of life (American Academy of Pediatrics,
-2021a). Newborn death directly attributable to perinatal infection with
-SARS-CoV-2 is rare in the United States. However, evidence suggests that
-symptomatic maternal infection at delivery is associated with increased risks
-of preterm birth and perinatal morbidity (Chap. 67, p. 1188).
-Infected mothers should wear a mask while holding their newborn. A
-mother who is acutely ill with COVID-19 may be unable to care for her
-neonate and may need temporary separation until she improves. Mothers who
-are infected but who are not acutely ill can room-in with their well newborn
-but should maintain a reasonable distance from their babies when possible.
-Breastfeeding while wearing a mask and maintaining good hand hygiene is
-suitable (American College of Obstetricians and Gynecologists, 2020b). The
-newborn should be tested at least once for SARS-CoV-2 prior to discharge
-(American Academy of Pediatrics, 2021a).
+Routine immunization with thimerosal-free vaccine against hepatitis B within the first 24 hours of life is standard practice for all medically stable newborns with birthweights >2000 g (American Academy of Pediatrics, 2017b). If the mother is seropositive for hepatitis B surface antigen, the
 
-■ Newborn Screening
-Mass-screening tests are available for 35 newborn conditions, and these are
-recommended by the Advisory Committee on Heritable Disorders in
-Newborns and Children (2018). Shown in Table 32-5, many are mandated by
-various state laws. Most states require that all tests in the core panel be
-performed. Supplemental conditions—secondary conditions—are listed on
-the Advisory Committee’s website. Some states require some of these in
-addition to their mandated core panel. Each practitioner should be familiar
-with their individual state requirements, which are available at:
-babysfirsttest.org/newborn-screening/states.
-TABLE 32-5. Newborn Screening Core Panel
+neonate is also passively immunized with hepatitis B immune globulin. For high-risk or even all seropositive women during pregnancy, some advocate treatment with antiviral nucleoside or nucleotide analogues to minimize fetal transmission (Dunkelberg, 2014) (Chap. 58, p. 1038).
 
-ROUTINE NEWBORN CARE
-■ Gestational Age Estimation
-Newborn gestational age can be estimated very soon after delivery. The
-relationship between gestational age and birthweight can identify neonates at
-risk for complications. For example, neonates who are either small or large
-for gestational age are at greater risk for hypoglycemia and polycythemia,
-and measurements of blood glucose and hematocrit are indicated.
+### Vitamin K
 
-■ Care of Skin and Umbilical Cord
+Supplemental vitamin K injection will prevent vitamin K deficiency bleeding of the newborn (Chap. 33, p. 606). A single intramuscular dose of vitamin K, 0.5 to 1 mg, is given within 1 hour of birth (American Academy of Pediatrics, 2017a).
 
-All excess vernix, blood, and meconium is gently wiped off after delivery
-while keeping the newborn warm. Any remaining vernix is readily absorbed
-and disappears within 24 hours. The first bath is postponed until the
-neonate’s temperature is stable.
-Aseptic precautions are observed in the immediate care of the cord. The
-American Academy of Pediatrics (2017a) has concluded that keeping the
-cord dry is sufficient care. The umbilical cord begins to lose water from its
-Wharton jelly shortly after birth. Within 24 hours, the cord stump loses its
-characteristic bluish-white, moist appearance and soon becomes dry and
-black. Within several days to weeks, the stump sloughs and leaves a small,
-granulating wound, which after healing forms the umbilicus. Separation
-usually takes place within the first 2 weeks. The umbilical cord dries more
-quickly and separates more readily when exposed to air (López-Medina,
-2020). Thus, a dressing is not recommended.
-In resource-poor countries, local antimicrobial prophylaxis is reasonable
-(Salam, 2014). The World Health Organization (2014) recommends
-cleansing with chlorhexidine in situations in which hygienic conditions are
-poor or infection rates are high.
-Despite precautions, a serious umbilical infection—omphalitis—
-sometimes develops. The most likely offending organisms are
-Staphylococcus aureus, group A and B streptococcus, and gram-negative
-rods such as Escherichia coli (Stewart, 2016). Typical signs of cellulitis and
-stump discharge usually aid diagnosis. Mild erythema and some bleeding at
-the stump site with cord detachment is common, but some cases present with
-no outward signs.
+### COVID-19
 
-■ Feeding and Weight Loss
-Exclusive breastfeeding is preferred for the newborn’s first 6 months. In
-2020, 84 percent of U.S. newborns were initially breastfed, 58 percent were
-still nursing at 6 months, and 35 percent at 1 year (Centers for Disease
-Control and Prevention, 2020). In many hospitals, breastfeeding begins in the
-delivery room. Most term newborns thrive best when fed 8 to 12 times daily
-for approximately 15 minutes each episode. Preterm or growth-restricted
-newborns require feedings at shorter intervals. Breastfeeding is discussed
-further in Chapter 36 (p. 639).
+The novel SARS-CoV-2 virus is very contagious, spreads person to person, and can cause severe morbidity or mortality. Thus, birth attendants at the delivery of a mother with COVID-19 should implement airborne and contact isolation precautions to protect themselves during potentially aerosolizing resuscitation procedures (Edelson, 2020). National data suggest that approximately 2 percent of newborns of women who test positive for SARS-CoV-2 near delivery have also tested positive in the first 24 to 96 hours of life (American Academy of Pediatrics, 2021a). Newborn death directly attributable to perinatal infection with SARS-CoV-2 is rare in the United States. However, evidence suggests that symptomatic maternal infection at delivery is associated with increased risks of preterm birth and perinatal morbidity (Chap. 67, p. 1188). Infected mothers should wear a mask while holding their newborn. A mother who is acutely ill with COVID-19 may be unable to care for her neonate and may need temporary separation until she improves. Mothers who are infected but who are not acutely ill can room-in with their well newborn but should maintain a reasonable distance from their babies when possible. Breastfeeding while wearing a mask and maintaining good hand hygiene is suitable (American College of Obstetricians and Gynecologists, 2020b). The newborn should be tested at least once for SARS-CoV-2 prior to discharge (American Academy of Pediatrics, 2021a).
 
-Because most neonates actually receive little nutriment for the first 3 or 4
-days of life, they progressively lose weight until the flow of maternal milk is
-established or other feeding is instituted. Preterm neonates lose relatively
-more weight and regain their birthweight more slowly. Conversely, growthrestricted but otherwise healthy newborns regain their initial weight more
-quickly than those born preterm. With proper nourishment, birthweight of
-term newborns usually is regained by 10 days.
+### Newborn Screening
 
-■ Stools and Urine
-For the first 2 or 3 days after birth, the colon contains soft, brown-green
-meconium. This consists of desquamated epithelial cells from the intestinal
-tract, mucus, epidermal cells, and lanugo (fetal hair) that have been
-swallowed along with amnionic fluid. The characteristic color results from
-bile pigments. During fetal life and for a few hours after birth, the intestinal
-contents are sterile, but bacteria quickly colonize the bowel contents.
-Meconium stooling is seen in 90 percent of newborns within the first 24
-hours and in most of the rest within 36 hours. Usually, newborns first void
-shortly after birth but may not until the second day. Meconium and urine
-passage indicates patency of the gastrointestinal and urinary tracts,
-respectively. Failure of the newborn to stool or urinate after these times
-suggests a congenital defect, such as Hirschsprung disease, imperforate anus,
-or posterior urethral valve. After the third or fourth day, as a result of milk
-ingestion, meconium is replaced by light-yellow, softer, homogeneous feces.
+Mass-screening tests are available for 35 newborn conditions, and these are recommended by the Advisory Committee on Heritable Disorders in Newborns and Children (2018). Shown in Table 32-5, many are mandated by various state laws. Most states require that all tests in the core panel be performed. Supplemental conditions—secondary conditions—are listed on the Advisory Committee’s website. Some states require some of these in addition to their mandated core panel. Each practitioner should be familiar with their individual state requirements, which are available at: babysfirsttest.org/newborn-screening/states.
 
-■ Neonatal Hyperbilirubinemia
-Between the second and fifth day of life approximately one third of all
-neonates develop physiological jaundice of the newborn. It has special
-significance considering most hospitals have policies for early discharge.
-Guidelines regarding standard phototherapy equipment and monitoring, as
-well as treatment recommendations per gestational age, hour of life, and risk
-factors are used (American Academy of Pediatrics, 2017a).
-Hyperbilirubinemia is discussed further in Chapter 33 (p. 606).
+> **Table 32-5:** Newborn Screening Core Panel
 
-■ Male Circumcision
+## Routine Newborn Care
 
-Indications
-Neonatal circumcision of male newborns has been a controversial topic in
-the United States for at least 35 years. Even so, scientific evidence supports
-several medical benefits that include prevention of phimosis, paraphimosis,
-and balanoposthitis. Circumcision also lowers the incidence of penile cancer
-and of cervical cancer among their sexual partners. The Centers for Disease
-Control and Prevention (2011) estimates that the newborn male circumcision
-rate has declined over the past decades in the United States, and rates vary
-widely by region. From a national database, the overall circumcision rate
-decreased from 57 percent in 2003 to 52 percent in 2016 (Jacobson, 2021).
-The American Academy of Pediatrics Task Force on Circumcision
-(2012) concluded that health benefits of newborn male circumcision
-outweigh the risks. Specific benefits include prevention of urinary tract
-infections, penile cancer, and transmission of some sexually transmitted
-infections, including HIV (American Academy of Pediatrics, 2017a). Thus,
-access to the procedure is justified for families who choose it. The Task
-Force stopped short of recommending circumcision for all newborns.
+### Gestational Age Estimation
 
-Surgical Technique
-Circumcision is performed only in a healthy neonate. Other contraindications
-include any genital abnormalities such as hypospadias and a family history of
-a bleeding disorder, unless excluded in the newborn.
-The Task Force (2012) recommends procedural analgesia. Various pain
-relief techniques include lidocaine-prilocaine topical cream, local analgesia
-infiltration, dorsal penile nerve block, or ring block. The dorsal penile nerve
-block or the ring block is superior to topical analgesia. The use of a pacifier
-dipped in sucrose is a useful adjunct to these methods (Rossi 2021).
-After appropriate penile cleansing, the ring block places a wheal of 1percent lidocaine at the base of the penis and then advances the needle in a
-180-degree arc around the base of the penis. The needle is advanced first to
-one side and then to the other to achieve a circumferential ring of analgesia.
-The maximum dose of lidocaine is 1.0 mL. No vasoactive compounds such
-as epinephrine should ever be added to a local analgesic agent for
-circumcision.
-The most commonly used instruments are shown in Figure 32-5 and are
-Gomco and Mogen clamps and the Plastibell device. Compared with the
+Newborn gestational age can be estimated very soon after delivery. The relationship between gestational age and birthweight can identify neonates at risk for complications. For example, neonates who are either small or large for gestational age are at greater risk for hypoglycemia and polycythemia, and measurements of blood glucose and hematocrit are indicated.
 
-Gomco procedure, Kaufman and colleagues (2002) reported that the Mogen
-technique required less time to perform and was associated with less
-apparent discomfort for the newborn. Regardless of the method used, the goal
-is to remove enough shaft skin and inner preputial epithelium so that the glans
-is exposed sufficiently to prevent phimosis. Suitable technique ensures that:
-(1) the amount of external skin to be removed must be accurately estimated,
-(2) the preputial orifice must be dilated to visualize the glans and ensure that
-it is normal, (3) the inner preputial epithelium must be freed from the glans
-epithelium, and (4) the circumcision device must be left in place long enough
-to produce hemostasis before excising the prepuce (Omole, 2020).
+### Care of Skin and Umbilical Cord
 
-FIGURE 32-5 Three different tools used for circumcision. A. Mogen clamp. The arms of the clamp
-open to a 3-mm maximum width. B. Gomco clamp, assembled. C. Plastibell device.
+All excess vernix, blood, and meconium is gently wiped off after delivery while keeping the newborn warm. Any remaining vernix is readily absorbed and disappears within 24 hours. The first bath is postponed until the neonate’s temperature is stable. Aseptic precautions are observed in the immediate care of the cord. The American Academy of Pediatrics (2017a) has concluded that keeping the cord dry is sufficient care. The umbilical cord begins to lose water from its Wharton jelly shortly after birth. Within 24 hours, the cord stump loses its characteristic bluish-white, moist appearance and soon becomes dry and black. Within several days to weeks, the stump sloughs and leaves a small, granulating wound, which after healing forms the umbilicus. Separation usually takes place within the first 2 weeks. The umbilical cord dries more quickly and separates more readily when exposed to air (López-Medina, 2020). Thus, a dressing is not recommended. In resource-poor countries, local antimicrobial prophylaxis is reasonable (Salam, 2014). The World Health Organization (2014) recommends cleansing with chlorhexidine in situations in which hygienic conditions are poor or infection rates are high. Despite precautions, a serious umbilical infection—omphalitis— sometimes develops. The most likely offending organisms are Staphylococcus aureus, group A and B streptococcus, and gram-negative rods such as Escherichia coli (Stewart, 2016). Typical signs of cellulitis and stump discharge usually aid diagnosis. Mild erythema and some bleeding at the stump site with cord detachment is common, but some cases present with no outward signs.
 
-The risks for bleeding, infection, and hematoma formation are low.
-Unusual complications include distal glans amputation, acquisition of HIV
-infection or other sexually transmitted infection, meatal stenosis, penile
-denudation, penile destruction with electrosurgical coagulation, subsequent
-epidermal inclusion cyst and urethrocutaneous fistula, and ischemia
-following the inappropriate use of lidocaine with epinephrine (El Bcheraoui,
-2014; Pippi-Salle, 2013; Omole, 2020).
+### Feeding and Weight Loss
 
-■ Rooming In and Hospital Discharge
-Hospital rooming in places newborns in their mothers’ rooms instead of
-central nurseries. This practice attempts to make all phases of childbearing
-as natural as possible. It aims to foster early mother-child relationships and
-establish effective breast feeding practices. By 24 hours, the mother is
-generally fully ambulatory. Thereafter, she can usually provide routine care
-for herself and her newborn.
-Traditionally, the newborn is discharged with its mother, and in most
-cases, maternal stay has determined that of the neonate. From 1970 to the
-mid-1990s, average maternal postpartum length of stay declined steadily, and
-many mothers were discharged before 48 hours. The World Health
-Organization (2014) cites a minimal stay of only 24 hours. Although it is
-clear that most newborns can be safely discharged within 48 hours, this is not
-uniformly true. When Belgium recently reduced postpartum stays by 1 day,
-rates of neonatal readmission for jaundice and dehydration increased
-(Plusquin, 2020). Using Washington state data, Malkin and coworkers (2000)
-found that the 28-day mortality rate was increased fourfold in newborns
-discharged within 30 hours of birth, and the 1-year mortality rate grew
-twofold. Safe discharge for late-preterm newborns has special concerns
-(Whyte, 2012).
-Because of the increased scrutiny regarding short hospital stays, federal
-legislation—The Newborns’ and Mothers’ Health Protection Act of 1996—
-was enacted to prohibit insurers from restricting hospital stays for mothers
-and newborns to less than 2 days for vaginal delivery or 4 days for cesarean
-delivery. In an analysis of more than 662,000 births in California, Datar and
-Sood (2006) found that readmission rates declined by 9, 12, and 20 percent,
-respectively, at 1, 2, and 3 years after the legislation was implemented.
+Exclusive breastfeeding is preferred for the newborn’s first 6 months. In 2020, 84 percent of U.S. newborns were initially breastfed, 58 percent were still nursing at 6 months, and 35 percent at 1 year (Centers for Disease Control and Prevention, 2020). In many hospitals, breastfeeding begins in the delivery room. Most term newborns thrive best when fed 8 to 12 times daily for approximately 15 minutes each episode. Preterm or growth-restricted newborns require feedings at shorter intervals. Breastfeeding is discussed further in Chapter 36 (p. 639).
 
-REFERENCES
-Advisory Committee on Heritable Disorders in Newborns and Children: Recommended uniform
-screening panel. 2018. Available at: http://www.hrsa.gov/advisory-committees/heritabledisorders/rusp/index.html. Accessed June 16, 2021
-American Academy of Pediatrics: FAQs: management of infants born to mothers with suspected or
-confirmed COVID-19. 2021a. Available at https://services.aap.org/en/pages/2019-novelcoronavirus-covid-19-infections/clinical-guidance/faqs-management-of-infants-born-to-covid-19mothers/. Accessed June 16, 2021
+Because most neonates actually receive little nutriment for the first 3 or 4 days of life, they progressively lose weight until the flow of maternal milk is established or other feeding is instituted. Preterm neonates lose relatively more weight and regain their birthweight more slowly. Conversely, growthrestricted but otherwise healthy newborns regain their initial weight more quickly than those born preterm. With proper nourishment, birthweight of term newborns usually is regained by 10 days.
 
-American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Care of the
-newborn. In Guidelines for Perinatal Care, 8th ed. Elk Grove Village, AAP, 2017a
-American Academy of Pediatrics, Committee on Infectious Diseases, Committee on Fetus and
-Newborn: Elimination of perinatal hepatitis B: providing the first vaccine dose within 24 hours of
-birth. Pediatrics 140(3):e20171870, 2017b
-American Academy of Pediatrics Committee on Infectious Diseases: Red Book: Report of the
-Committee on Infectious Diseases. Elk Grove Village, AAP, 2021b
-American Academy of Pediatrics Task Force on Circumcision: Circumcision policy statement.
-Pediatrics 130(3):585, 2012
-American College of Obstetricians and Gynecologists: Executive summary: neonatal encephalopathy
-and neurologic outcome, second edition. Report of the American College of Obstetricians and
-Gynecologists’ Task Force on Neonatal Encephalopathy. Obstet Gynecol 123(4):896, 2014
-American College of Obstetricians and Gynecologists: Delayed umbilical cord clamping after birth.
-Committee Opinion No. 814, December 2020a
-American College of Obstetricians and Gynecologists: General information regarding pregnant
-individuals and COVID-19. 2020b. Available at: https://www.acog.org/clinical/clinicalguidance/practice-advisory/articles/2020/03/novel-coronavirus-2019. Accessed June 16, 2021
-American College of Obstetricians and Gynecologists: Delivery of a newborn with meconium-stained
-amniotic fluid. Committee Opinion No. 689, April 2017, Reaffirmed 2021a
-American College of Obstetricians and Gynecologists, American Academy of Pediatrics: The Apgar
-score. Committee Opinion No. 644, October 2015, Reaffirmed 2021b
-Apgar V: A proposal for a new method of evaluation of the newborn infant. Curr Res Anesth Analg
-32:260, 1953
-Armstrong L, Stenson BJ: Use of umbilical cord blood gas analysis in the assessment of the newborn.
-Arch Dis Child Fetal Neonatal Ed 92:430, 2007
-Aziz K, Lee HC, Escobedo MB, et al: Part 5: Neonatal resuscitation: 2020 American Heart Association
-guidelines for cardiopulmonary resuscitation and emergency cardiovascular care. Circulation
-142:S524, 2020
-Baalbaki SH, Wood SL, Tita AT, et al: Predicting long-term neurodevelopmental outcomes in very
-preterm neonates by umbilical cord gas parameters. Am J Obstet Gynecol MFM 3(1):100248, 2021
-Bhatt S, Alison BJ, Wallace EM, et al: Delaying cord clamping until ventilation onset improves
-cardiovascular function at birth in preterm lambs. J Physiol 591(8):2113, 2013
-Blickstein I, Green T: Umbilical cord blood gases. Clin Perinatol 34(3):451, 2007
-Buchiboyina A, Jasani B, Deshmukh M, et al: Strategies for managing transient tachypnoea of the
-newborn—a systematic review. J Matern Fetal Neonatal Med 30:1524, 2017
-Cahill AG, Mathur AM, Smyser CD, et al: Neurologic injury in acidemic term infants. Am J Perinatol
-34(7):668, 2017
-Casey BM, Goldaber KG, McIntire DD, et al: Outcomes among term infants when two-hour postnatal
-pH is compared with pH at delivery. Am J Obstet Gynecol 184:447, 2001a
-Casey BM, McIntire DD, Leveno KJ: The continuing value of the Apgar score for the assessment of
-newborn infants. N Engl J Med 344:467, 2001b
-Centers for Disease Control and Prevention: Breastfeeding report card: United States, 2020. Available
-at: http://www.cdc.gov/breastfeeding/data/reportcard.htm. Accessed June 6, 2021
-Centers for Disease Control and Prevention: Trends in in-hospital newborn male circumcision—United
-States, 1999–2010. MMWR 60(34):1167, 2011
+### Stools and Urine
 
-Chauhan SP, Cowan BD, Meydrech EF, et al: Determination of fetal acidemia at birth from a remote
-umbilical arterial blood gas analysis. Am J Obstet Gynecol 170:1705, 1994
-Cnattingius S, Johansson S, Razaz N: Apgar score and risk of neonatal death among preterm infants. N
-Engl J Med 383(1):49, 2020
-Datar A, Sood N: Impact of postpartum hospital-stay legislation on newborn length of stay, readmission,
-and mortality in California. Pediatrics 118:63, 2006
-Dunkelberg JC, Berkley EM, Thiel KW, et al: Hepatitis B and C in pregnancy: a review and
-recommendations for care. J Perinatol 34(12):882, 2014
-Edelson DP, Sasson C, Chan PS, et al: Interim guidance for basic and advanced life support in adults,
-children, and neonates with suspected or confirmed COVID-19. Circulation 141(25):e933, 2020
-Eisenberg MS, Cummins RO, Ho MT: Code Blue: Cardiac Arrest and Resuscitation. Philadelphia,
-Saunders, 1987
-El Bcheraoui C, Zhang X, Cooper CS, et al: Rates of adverse events associated with male circumcision
-in U.S. medical settings, 2001 to 2010. JAMA Pediatr 168(7):625, 2014
-Ersdal HL, Mduma E, Svensen E, et al: Early initiation of basic resuscitation interventions including face
-mask ventilation may reduce birth asphyxia related mortality in low-income countries: a prospective
-descriptive observational study. Resuscitation 83(7):869, 2012
-Foglia EE, Weiner G, de Almeida MF, et al: Duration of resuscitation at birth, mortality, and
-neurodevelopment: a systematic review. Pediatrics 146(3:e20201449, 2020
-Foster JP, Dawson JA, Davis PG et al: Routine oro/nasopharyngeal suction versus no suction at birth.
-Cochrane Database Syst Rev 4:CD010332, 2017
-Goldaber KG, Gilstrap LC III, Leveno KJ, et al: Pathologic fetal acidemia. Obstet Gynecol 78:1103,
-1991
-Gomersall J, Berber S, Middleton P, et al: Umbilical cord management at term and late preterm birth: a
-meta-analysis. Pediatrics 147(3):e2020015404, 2021
-Grünebaum A, McCullough LB, Orosz B, et al: Neonatal mortality in the United States is related to
-location of birth (hospital versus home) rather than the type of birth attendant. Am J Obstet Gynecol
-223(2):254.e1, 2020
-Hammerschlag MR: Chlamydial and gonococcal infections in infants and children. Clin Infect Dis
-53(3):S99, 2011
-Hooper SB, Kitchen MJ, Wallace MJ, et al: Imaging lung aeration and lung liquid clearance at birth.
-FASEB J 21(12):3329, 2007
-Hooper SB, Roberts C, Dekker J, et al: Issues in cardiopulmonary transition at birth. Semin Fetal
-Neonatal Med 24:101033, 2019
-Isayama T, Mildenhall L, Schmolzer GM, et al: The route, dose, and interval of epinephrine for neonatal
-resuscitation: a systematic review. Pediatrics 146:(4):e20200586, 2020
-Jacobson DL, Balmert LC, Holl JL, et al: Nationwide circumcision trends: 2003 to 2016. J Urol
-205(1):257, 2021
-Kapadia V, Wyckoff MH: Chest compressions for bradycardia or asystole in neonates. Clin Perinatol
-39(4):833, 2012
-Karlberg P, Adams FH, Geubelle F, et al: Alteration of the infant’s thorax during vaginal delivery. Acta
-Obstet Gynecol Scand 41:223, 1962
-Kattwinkel J: Textbook of Neonatal Resuscitation, 6th ed. Elk Grove Village, American Academy of
-Pediatrics and American Heart Association, 2010
-Kaufman GE, Cimo S, Miller LW, et al: An evaluation of the effects of sucrose on neonatal pain with 2
-commonly used circumcision methods. Am J Obstet Gynecol 186:564, 2002
+For the first 2 or 3 days after birth, the colon contains soft, brown-green meconium. This consists of desquamated epithelial cells from the intestinal tract, mucus, epidermal cells, and lanugo (fetal hair) that have been swallowed along with amnionic fluid. The characteristic color results from bile pigments. During fetal life and for a few hours after birth, the intestinal contents are sterile, but bacteria quickly colonize the bowel contents. Meconium stooling is seen in 90 percent of newborns within the first 24 hours and in most of the rest within 36 hours. Usually, newborns first void shortly after birth but may not until the second day. Meconium and urine passage indicates patency of the gastrointestinal and urinary tracts, respectively. Failure of the newborn to stool or urinate after these times suggests a congenital defect, such as Hirschsprung disease, imperforate anus, or posterior urethral valve. After the third or fourth day, as a result of milk ingestion, meconium is replaced by light-yellow, softer, homogeneous feces.
 
-Kotaska K, Urinovska R, Klapkova E, et al: Re-evaluation of cord blood arterial and venous reference
-ranges for pH, pO2, pCO2, according to spontaneous or cesarean delivery. J Clin Lab Anal
-24(5):300, 2010
-Lee JH, Jung J, Park H, et al: Umbilical cord arterial blood gas analysis in term singleton pregnancies: a
-retrospective analysis over 11 years. Obstet Gynecol Sci 63(3):293, 2020
-López-Medina MD, López-Araque AB, Linares-Abad M, et al: Umbilical cord separation time,
-predictors and healing complications in newborns with dry care. PLoS One 15(1): e0227209, 2020
-Low JA, Lindsay BG, Derrick EJ: Threshold of metabolic acidosis associated with newborn
-complications. Am J Obstet Gynecol 177:1391, 1997
-Low JA, Panagiotopoulos C, Derrick EJ: Newborn complications after intrapartum asphyxia with
-metabolic acidosis in the term fetus. Am J Obstet Gynecol 170:1081, 1994
-Lynn A, Beeby P: Cord and placenta arterial gas analysis: the accuracy of delayed sampling. Arch Dis
-Child Fetal Neonatal Ed 92(4):F281, 2007
-Malkin JD, Garber S, Broder MS, et al: Infant mortality and early postpartum discharge. Obstet Gynecol
-96:183, 2000
-Mokarami P, Wiberg N, Olofsson P: An overlooked aspect on metabolic acidosis at birth: blood gas
-analyzers calculate base deficit differently. Acta Obstet Gynecol Scand 91(5):574, 2012
-Moore DL, MacDonald NE, Canadian Paediatric Society Infectious Disease and Immunization
-Committee: Preventing ophthalmia neonatorum. Paediatr Child Health 20(2):93, 2015
-Morgan JL, Casey BM, Bloom SL, et al: Metabolic acidemia in live births at 35 weeks of gestation or
-greater. Obstet Gynecol 126(2):279, 2015
-Morgan JL, Nelson DB, Casey BM, et al: Impact of metabolic acidemia at birth on neonatal outcomes
-in infants born before 34 weeks’ gestation. J Matern Fetal Neonatal Med 30(16):1902, 2017
-Natarajan G, Shankaran S, Laptook AR, et al: Apgar scores at 10 min and outcomes at 6–7 years
-following hypoxic-ischaemic encephalopathy. Arch Dis Child Fetal Neonatal Ed 98:F473, 2013
-Omole F, Smith W, Carter-Wicker K: Newborn circumcision techniques. Am Fam Physician
-101(11):680, 2020
-Pippi-Salle JL, Jesus LE, Lorenzo AJ, et al: Glans amputation during routine neonatal circumcision:
-mechanism of injury and strategy for prevention. J Pediatr Urol 9:763, 2013
-Plusquin C, Uvin V, Drakopoulos P, et al: Reduction of hospital stay at maternity unit: an evaluation of
-the impact on maternal and neonatal readmission. J Obstet Gynaecol 40(1):46, 2020.
-Ramin SM, Gilstrap LC, Leveno KJ, et al: Umbilical artery acid–base status in the preterm infant.
-Obstet Gynecol 74:256, 1989
-Riley RJ, Jonson JW: Collecting and analyzing cord blood gases. Clin Obstet Gynecol 36:13, 1993
-Roehr CC, Davis PG, Weiner GM, et al: T-piece resuscitator or self-inflating bag during neonatal
-resuscitation: a scoping review. Pediatr Res 89:760, 2021
-Rossi S, Buonocore G, Bellieni CV: Management of pain in newborn circumcision: a systematic review.
-Eur J Pediatr 180(1):13, 2021
-Sabol BA, Caughey AB: Acidemia in neonates with a 5-minute Apgar score of 7 or greater—what are
-the outcomes? Am J Obstet Gynecol 215(4):486 e481, 2016
-Salam RA, Mansoor T, Mallick D, et al: Essential childbirth and postnatal interventions for improved
-maternal and neonatal health. Reprod Health 11 Suppl 1:S3, 2014
-Saunders RA, Milner AD: Pulmonary pressure/volume relationships during the last phase of delivery
-and the first postnatal breaths in human subjects. J Pediatr 93:667, 1978
+### Neonatal Hyperbilirubinemia
 
-Schmölzer GM, Morley CJ, Kamlin OC: Enhanced monitoring during neonatal resuscitation. Semin
-Perinatol 43(8):151177, 2019
-Seidler AL, Gyte GML, Rabe H, et al: Umbilical cord management for newborns <34 weeks’ gestation:
-a meta-analysis. Pediatrics 147(3):e20200576, 2021
-Siew ML, te Pas AB, Wallace MJ, et al: Positive end-expiratory pressure enhances development of a
-functional residual capacity in preterm rabbits ventilated from birth. J Appl Physiol (1985)
-106(5):1487, 2009
-Siggaard-Anderson O: Blood acid–base alignment nomogram. Scand J Clin Lab Invest 15:211, 1963
-Skiold B, Petersson G, Ahlberg M, et al: Population-based reference curve for umbilical cord arterial pH
-in infants born at 28 to 42 weeks. J Perinatol 37:254, 2017
-Stewart D, Benitz W, AAP Committee on Fetus and Newborn: Umbilical cord care in the newborn
-infant. Pediatrics 138(3):e20162149, 2016
-te Pas AB, Davis PG, Hooper SB, et al: From liquid to air: breathing after birth. J Pediatr 152(5):607,
-2008
-U.S. Preventive Services Task Force, Curry SJ, Krist AH, et al: Ocular prophylaxis for gonococcal
-ophthalmia neonatorum: U.S. Preventive Services Task Force reaffirmation recommendation
-statement. JAMA 321(4):394, 2019
-Watson MS, Mann MY, Lloyd-Puryear MA, et al: Newborn screening: towards a uniform screening
-panel and system. Executive summary. Genet Med 8(Suppl 5):1S, 2006
-Vyas H, Milner AD, Hopkins IE: Intrathoracic pressure and volume changes during the spontaneous
-onset of respiration in babies born by cesarean section and by vaginal delivery. J Pediatr 99(5):787,
-1981
-Weiner GM, Zaichkin J: Textbook of Neonatal Resuscitation. 8th ed. Elk Grove Village, American
-Academy of Pediatrics, 2021
-White CR, Doherty DA, Cannon JW, et al: Cost effectiveness of universal umbilical cord blood gas and
-lactate analysis in a tertiary level maternity unit. J Perinat Med 44(5):573, 2016
-Whyte RK: Neonatal management and safe discharge of late and moderate preterm infants. Semin
-Fetal Neonatal Med 17(3):153, 2012
-World Health Organization: Postnatal care of the mother and newborn, 2013. Geneva, WHO, 2014
-Wyckoff MH, Wyllie J, Aziz K, et al: Neonatal life support: 2020 International Consensus on
-Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science with Treatment
-Recommendations. Circulation 142:S185, 2020
-Yeh P, Emary K, Impey L: The relationship between umbilical cord arterial pH and serious adverse
-neonatal outcome: analysis of 51,519 consecutive validated samples. BJOG 119(7):824, 2012
-Zikic A, Schünemann H, Wi T, et al: Treatment of neonatal chlamydial conjunctivitis: a systematic
-review and meta-analysis. J Pediatric Infect Dis Soc 7(3):e107, 2018
+Between the second and fifth day of life approximately one third of all neonates develop physiological jaundice of the newborn. It has special significance considering most hospitals have policies for early discharge. Guidelines regarding standard phototherapy equipment and monitoring, as well as treatment recommendations per gestational age, hour of life, and risk factors are used (American Academy of Pediatrics, 2017a). Hyperbilirubinemia is discussed further in Chapter 33 (p. 606).
 
+### Male Circumcision
+
+Indications Neonatal circumcision of male newborns has been a controversial topic in the United States for at least 35 years. Even so, scientific evidence supports several medical benefits that include prevention of phimosis, paraphimosis, and balanoposthitis. Circumcision also lowers the incidence of penile cancer and of cervical cancer among their sexual partners. The Centers for Disease Control and Prevention (2011) estimates that the newborn male circumcision rate has declined over the past decades in the United States, and rates vary widely by region. From a national database, the overall circumcision rate decreased from 57 percent in 2003 to 52 percent in 2016 (Jacobson, 2021). The American Academy of Pediatrics Task Force on Circumcision (2012) concluded that health benefits of newborn male circumcision outweigh the risks. Specific benefits include prevention of urinary tract infections, penile cancer, and transmission of some sexually transmitted infections, including HIV (American Academy of Pediatrics, 2017a). Thus, access to the procedure is justified for families who choose it. The Task Force stopped short of recommending circumcision for all newborns.
+
+Surgical Technique Circumcision is performed only in a healthy neonate. Other contraindications include any genital abnormalities such as hypospadias and a family history of a bleeding disorder, unless excluded in the newborn. The Task Force (2012) recommends procedural analgesia. Various pain relief techniques include lidocaine-prilocaine topical cream, local analgesia infiltration, dorsal penile nerve block, or ring block. The dorsal penile nerve block or the ring block is superior to topical analgesia. The use of a pacifier dipped in sucrose is a useful adjunct to these methods (Rossi 2021). After appropriate penile cleansing, the ring block places a wheal of 1percent lidocaine at the base of the penis and then advances the needle in a 180-degree arc around the base of the penis. The needle is advanced first to one side and then to the other to achieve a circumferential ring of analgesia. The maximum dose of lidocaine is 1.0 mL. No vasoactive compounds such as epinephrine should ever be added to a local analgesic agent for circumcision. The most commonly used instruments are shown in Figure 32-5 and are Gomco and Mogen clamps and the Plastibell device. Compared with the
+
+Gomco procedure, Kaufman and colleagues (2002) reported that the Mogen technique required less time to perform and was associated with less apparent discomfort for the newborn. Regardless of the method used, the goal is to remove enough shaft skin and inner preputial epithelium so that the glans is exposed sufficiently to prevent phimosis. Suitable technique ensures that: (1) the amount of external skin to be removed must be accurately estimated, (2) the preputial orifice must be dilated to visualize the glans and ensure that it is normal, (3) the inner preputial epithelium must be freed from the glans epithelium, and (4) the circumcision device must be left in place long enough to produce hemostasis before excising the prepuce (Omole, 2020).
+
+> **Figure 32-5:** Three different tools used for circumcision. A. Mogen clamp. The arms of the clamp open to a 3-mm maximum width. B. Gomco clamp, assembled. C. Plastibell device.
+
+The risks for bleeding, infection, and hematoma formation are low. Unusual complications include distal glans amputation, acquisition of HIV infection or other sexually transmitted infection, meatal stenosis, penile denudation, penile destruction with electrosurgical coagulation, subsequent epidermal inclusion cyst and urethrocutaneous fistula, and ischemia following the inappropriate use of lidocaine with epinephrine (El Bcheraoui, 2014; Pippi-Salle, 2013; Omole, 2020).
+
+### Rooming In and Hospital Discharge
+
+Hospital rooming in places newborns in their mothers’ rooms instead of central nurseries. This practice attempts to make all phases of childbearing as natural as possible. It aims to foster early mother-child relationships and establish effective breast feeding practices. By 24 hours, the mother is generally fully ambulatory. Thereafter, she can usually provide routine care for herself and her newborn. Traditionally, the newborn is discharged with its mother, and in most cases, maternal stay has determined that of the neonate. From 1970 to the mid-1990s, average maternal postpartum length of stay declined steadily, and many mothers were discharged before 48 hours. The World Health Organization (2014) cites a minimal stay of only 24 hours. Although it is clear that most newborns can be safely discharged within 48 hours, this is not uniformly true. When Belgium recently reduced postpartum stays by 1 day, rates of neonatal readmission for jaundice and dehydration increased (Plusquin, 2020). Using Washington state data, Malkin and coworkers (2000) found that the 28-day mortality rate was increased fourfold in newborns discharged within 30 hours of birth, and the 1-year mortality rate grew twofold. Safe discharge for late-preterm newborns has special concerns (Whyte, 2012). Because of the increased scrutiny regarding short hospital stays, federal legislation—The Newborns’ and Mothers’ Health Protection Act of 1996— was enacted to prohibit insurers from restricting hospital stays for mothers and newborns to less than 2 days for vaginal delivery or 4 days for cesarean delivery. In an analysis of more than 662,000 births in California, Datar and Sood (2006) found that readmission rates declined by 9, 12, and 20 percent, respectively, at 1, 2, and 3 years after the legislation was implemented.
+
+## References
+
+Advisory Committee on Heritable Disorders in Newborns and Children: Recommended uniform screening panel. 2018. Available at: http://www.hrsa.gov/advisory-committees/heritabledisorders/rusp/index.html. Accessed June 16, 2021 American Academy of Pediatrics: FAQs: management of infants born to mothers with suspected or confirmed COVID-19. 2021a. Available at https://services.aap.org/en/pages/2019-novelcoronavirus-covid-19-infections/clinical-guidance/faqs-management-of-infants-born-to-covid-19mothers/. Accessed June 16, 2021
+
+American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Care of the newborn. In Guidelines for Perinatal Care, 8th ed. Elk Grove Village, AAP, 2017a American Academy of Pediatrics, Committee on Infectious Diseases, Committee on Fetus and Newborn: Elimination of perinatal hepatitis B: providing the first vaccine dose within 24 hours of birth. Pediatrics 140(3):e20171870, 2017b American Academy of Pediatrics Committee on Infectious Diseases: Red Book: Report of the Committee on Infectious Diseases. Elk Grove Village, AAP, 2021b American Academy of Pediatrics Task Force on Circumcision: Circumcision policy statement. Pediatrics 130(3):585, 2012 American College of Obstetricians and Gynecologists: Executive summary: neonatal encephalopathy and neurologic outcome, second edition. Report of the American College of Obstetricians and Gynecologists’ Task Force on Neonatal Encephalopathy. Obstet Gynecol 123(4):896, 2014 American College of Obstetricians and Gynecologists: Delayed umbilical cord clamping after birth.
+
+**Committee Opinion No.** 814, December 2020a American College of Obstetricians and Gynecologists: General information regarding pregnant individuals and COVID-19. 2020b. Available at: https://www.acog.org/clinical/clinicalguidance/practice-advisory/articles/2020/03/novel-coronavirus-2019. Accessed June 16, 2021 American College of Obstetricians and Gynecologists: Delivery of a newborn with meconium-stained amniotic fluid. Committee Opinion No. 689, April 2017, Reaffirmed 2021a American College of Obstetricians and Gynecologists, American Academy of Pediatrics: The Apgar score. Committee Opinion No. 644, October 2015, Reaffirmed 2021b Apgar V: A proposal for a new method of evaluation of the newborn infant. Curr Res Anesth Analg 32:260, 1953 Armstrong L, Stenson BJ: Use of umbilical cord blood gas analysis in the assessment of the newborn. Arch Dis Child Fetal Neonatal Ed 92:430, 2007 Aziz K, Lee HC, Escobedo MB, et al: Part 5: Neonatal resuscitation: 2020 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care. Circulation 142:S524, 2020 Baalbaki SH, Wood SL, Tita AT, et al: Predicting long-term neurodevelopmental outcomes in very preterm neonates by umbilical cord gas parameters. Am J Obstet Gynecol MFM 3(1):100248, 2021 Bhatt S, Alison BJ, Wallace EM, et al: Delaying cord clamping until ventilation onset improves cardiovascular function at birth in preterm lambs. J Physiol 591(8):2113, 2013 Blickstein I, Green T: Umbilical cord blood gases. Clin Perinatol 34(3):451, 2007 Buchiboyina A, Jasani B, Deshmukh M, et al: Strategies for managing transient tachypnoea of the newborn—a systematic review. J Matern Fetal Neonatal Med 30:1524, 2017 Cahill AG, Mathur AM, Smyser CD, et al: Neurologic injury in acidemic term infants. Am J Perinatol 34(7):668, 2017 Casey BM, Goldaber KG, McIntire DD, et al: Outcomes among term infants when two-hour postnatal pH is compared with pH at delivery. Am J Obstet Gynecol 184:447, 2001a Casey BM, McIntire DD, Leveno KJ: The continuing value of the Apgar score for the assessment of newborn infants. N Engl J Med 344:467, 2001b Centers for Disease Control and Prevention: Breastfeeding report card: United States, 2020. Available at: http://www.cdc.gov/breastfeeding/data/reportcard.htm. Accessed June 6, 2021 Centers for Disease Control and Prevention: Trends in in-hospital newborn male circumcision—United States, 1999–2010. MMWR 60(34):1167, 2011
+
+Chauhan SP, Cowan BD, Meydrech EF, et al: Determination of fetal acidemia at birth from a remote umbilical arterial blood gas analysis. Am J Obstet Gynecol 170:1705, 1994 Cnattingius S, Johansson S, Razaz N: Apgar score and risk of neonatal death among preterm infants. N Engl J Med 383(1):49, 2020 Datar A, Sood N: Impact of postpartum hospital-stay legislation on newborn length of stay, readmission, and mortality in California. Pediatrics 118:63, 2006 Dunkelberg JC, Berkley EM, Thiel KW, et al: Hepatitis B and C in pregnancy: a review and recommendations for care. J Perinatol 34(12):882, 2014 Edelson DP, Sasson C, Chan PS, et al: Interim guidance for basic and advanced life support in adults, children, and neonates with suspected or confirmed COVID-19. Circulation 141(25):e933, 2020 Eisenberg MS, Cummins RO, Ho MT: Code Blue: Cardiac Arrest and Resuscitation. Philadelphia, Saunders, 1987 El Bcheraoui C, Zhang X, Cooper CS, et al: Rates of adverse events associated with male circumcision in U.S. medical settings, 2001 to 2010. JAMA Pediatr 168(7):625, 2014 Ersdal HL, Mduma E, Svensen E, et al: Early initiation of basic resuscitation interventions including face mask ventilation may reduce birth asphyxia related mortality in low-income countries: a prospective descriptive observational study. Resuscitation 83(7):869, 2012 Foglia EE, Weiner G, de Almeida MF, et al: Duration of resuscitation at birth, mortality, and neurodevelopment: a systematic review. Pediatrics 146(3:e20201449, 2020 Foster JP, Dawson JA, Davis PG et al: Routine oro/nasopharyngeal suction versus no suction at birth. Cochrane Database Syst Rev 4:CD010332, 2017 Goldaber KG, Gilstrap LC III, Leveno KJ, et al: Pathologic fetal acidemia. Obstet Gynecol 78:1103,
+
+## 1991
+
+Gomersall J, Berber S, Middleton P, et al: Umbilical cord management at term and late preterm birth: a meta-analysis. Pediatrics 147(3):e2020015404, 2021 Grünebaum A, McCullough LB, Orosz B, et al: Neonatal mortality in the United States is related to location of birth (hospital versus home) rather than the type of birth attendant. Am J Obstet Gynecol 223(2):254.e1, 2020 Hammerschlag MR: Chlamydial and gonococcal infections in infants and children. Clin Infect Dis 53(3):S99, 2011 Hooper SB, Kitchen MJ, Wallace MJ, et al: Imaging lung aeration and lung liquid clearance at birth. FASEB J 21(12):3329, 2007 Hooper SB, Roberts C, Dekker J, et al: Issues in cardiopulmonary transition at birth. Semin Fetal Neonatal Med 24:101033, 2019 Isayama T, Mildenhall L, Schmolzer GM, et al: The route, dose, and interval of epinephrine for neonatal resuscitation: a systematic review. Pediatrics 146:(4):e20200586, 2020 Jacobson DL, Balmert LC, Holl JL, et al: Nationwide circumcision trends: 2003 to 2016. J Urol 205(1):257, 2021 Kapadia V, Wyckoff MH: Chest compressions for bradycardia or asystole in neonates. Clin Perinatol 39(4):833, 2012 Karlberg P, Adams FH, Geubelle F, et al: Alteration of the infant’s thorax during vaginal delivery. Acta Obstet Gynecol Scand 41:223, 1962 Kattwinkel J: Textbook of Neonatal Resuscitation, 6th ed. Elk Grove Village, American Academy of Pediatrics and American Heart Association, 2010 Kaufman GE, Cimo S, Miller LW, et al: An evaluation of the effects of sucrose on neonatal pain with 2 commonly used circumcision methods. Am J Obstet Gynecol 186:564, 2002
+
+Kotaska K, Urinovska R, Klapkova E, et al: Re-evaluation of cord blood arterial and venous reference ranges for pH, pO2, pCO2, according to spontaneous or cesarean delivery. J Clin Lab Anal 24(5):300, 2010 Lee JH, Jung J, Park H, et al: Umbilical cord arterial blood gas analysis in term singleton pregnancies: a retrospective analysis over 11 years. Obstet Gynecol Sci 63(3):293, 2020 López-Medina MD, López-Araque AB, Linares-Abad M, et al: Umbilical cord separation time, predictors and healing complications in newborns with dry care. PLoS One 15(1): e0227209, 2020 Low JA, Lindsay BG, Derrick EJ: Threshold of metabolic acidosis associated with newborn complications. Am J Obstet Gynecol 177:1391, 1997 Low JA, Panagiotopoulos C, Derrick EJ: Newborn complications after intrapartum asphyxia with metabolic acidosis in the term fetus. Am J Obstet Gynecol 170:1081, 1994 Lynn A, Beeby P: Cord and placenta arterial gas analysis: the accuracy of delayed sampling. Arch Dis Child Fetal Neonatal Ed 92(4):F281, 2007 Malkin JD, Garber S, Broder MS, et al: Infant mortality and early postpartum discharge. Obstet Gynecol 96:183, 2000 Mokarami P, Wiberg N, Olofsson P: An overlooked aspect on metabolic acidosis at birth: blood gas analyzers calculate base deficit differently. Acta Obstet Gynecol Scand 91(5):574, 2012 Moore DL, MacDonald NE, Canadian Paediatric Society Infectious Disease and Immunization Committee: Preventing ophthalmia neonatorum. Paediatr Child Health 20(2):93, 2015 Morgan JL, Casey BM, Bloom SL, et al: Metabolic acidemia in live births at 35 weeks of gestation or greater. Obstet Gynecol 126(2):279, 2015 Morgan JL, Nelson DB, Casey BM, et al: Impact of metabolic acidemia at birth on neonatal outcomes in infants born before 34 weeks’ gestation. J Matern Fetal Neonatal Med 30(16):1902, 2017 Natarajan G, Shankaran S, Laptook AR, et al: Apgar scores at 10 min and outcomes at 6–7 years following hypoxic-ischaemic encephalopathy. Arch Dis Child Fetal Neonatal Ed 98:F473, 2013 Omole F, Smith W, Carter-Wicker K: Newborn circumcision techniques. Am Fam Physician 101(11):680, 2020 Pippi-Salle JL, Jesus LE, Lorenzo AJ, et al: Glans amputation during routine neonatal circumcision: mechanism of injury and strategy for prevention. J Pediatr Urol 9:763, 2013 Plusquin C, Uvin V, Drakopoulos P, et al: Reduction of hospital stay at maternity unit: an evaluation of the impact on maternal and neonatal readmission. J Obstet Gynaecol 40(1):46, 2020. Ramin SM, Gilstrap LC, Leveno KJ, et al: Umbilical artery acid–base status in the preterm infant. Obstet Gynecol 74:256, 1989 Riley RJ, Jonson JW: Collecting and analyzing cord blood gases. Clin Obstet Gynecol 36:13, 1993 Roehr CC, Davis PG, Weiner GM, et al: T-piece resuscitator or self-inflating bag during neonatal resuscitation: a scoping review. Pediatr Res 89:760, 2021 Rossi S, Buonocore G, Bellieni CV: Management of pain in newborn circumcision: a systematic review. Eur J Pediatr 180(1):13, 2021 Sabol BA, Caughey AB: Acidemia in neonates with a 5-minute Apgar score of 7 or greater—what are the outcomes? Am J Obstet Gynecol 215(4):486 e481, 2016 Salam RA, Mansoor T, Mallick D, et al: Essential childbirth and postnatal interventions for improved maternal and neonatal health. Reprod Health 11 Suppl 1:S3, 2014 Saunders RA, Milner AD: Pulmonary pressure/volume relationships during the last phase of delivery and the first postnatal breaths in human subjects. J Pediatr 93:667, 1978
+
+Schmölzer GM, Morley CJ, Kamlin OC: Enhanced monitoring during neonatal resuscitation. Semin Perinatol 43(8):151177, 2019 Seidler AL, Gyte GML, Rabe H, et al: Umbilical cord management for newborns <34 weeks’ gestation: a meta-analysis. Pediatrics 147(3):e20200576, 2021 Siew ML, te Pas AB, Wallace MJ, et al: Positive end-expiratory pressure enhances development of a functional residual capacity in preterm rabbits ventilated from birth. J Appl Physiol (1985) 106(5):1487, 2009 Siggaard-Anderson O: Blood acid–base alignment nomogram. Scand J Clin Lab Invest 15:211, 1963 Skiold B, Petersson G, Ahlberg M, et al: Population-based reference curve for umbilical cord arterial pH in infants born at 28 to 42 weeks. J Perinatol 37:254, 2017 Stewart D, Benitz W, AAP Committee on Fetus and Newborn: Umbilical cord care in the newborn infant. Pediatrics 138(3):e20162149, 2016 te Pas AB, Davis PG, Hooper SB, et al: From liquid to air: breathing after birth. J Pediatr 152(5):607,
+
+## 2008
+
+U.S. Preventive Services Task Force, Curry SJ, Krist AH, et al: Ocular prophylaxis for gonococcal ophthalmia neonatorum: U.S. Preventive Services Task Force reaffirmation recommendation statement. JAMA 321(4):394, 2019 Watson MS, Mann MY, Lloyd-Puryear MA, et al: Newborn screening: towards a uniform screening panel and system. Executive summary. Genet Med 8(Suppl 5):1S, 2006 Vyas H, Milner AD, Hopkins IE: Intrathoracic pressure and volume changes during the spontaneous onset of respiration in babies born by cesarean section and by vaginal delivery. J Pediatr 99(5):787,
+
+## 1981
+
+Weiner GM, Zaichkin J: Textbook of Neonatal Resuscitation. 8th ed. Elk Grove Village, American Academy of Pediatrics, 2021 White CR, Doherty DA, Cannon JW, et al: Cost effectiveness of universal umbilical cord blood gas and lactate analysis in a tertiary level maternity unit. J Perinat Med 44(5):573, 2016 Whyte RK: Neonatal management and safe discharge of late and moderate preterm infants. Semin Fetal Neonatal Med 17(3):153, 2012 World Health Organization: Postnatal care of the mother and newborn, 2013. Geneva, WHO, 2014 Wyckoff MH, Wyllie J, Aziz K, et al: Neonatal life support: 2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science with Treatment Recommendations. Circulation 142:S185, 2020 Yeh P, Emary K, Impey L: The relationship between umbilical cord arterial pH and serious adverse neonatal outcome: analysis of 51,519 consecutive validated samples. BJOG 119(7):824, 2012 Zikic A, Schünemann H, Wi T, et al: Treatment of neonatal chlamydial conjunctivitis: a systematic review and meta-analysis. J Pediatric Infect Dis Soc 7(3):e107, 2018

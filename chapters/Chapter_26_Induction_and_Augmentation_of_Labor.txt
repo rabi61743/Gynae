@@ -1,862 +1,201 @@
-CHAPTER 26
+# Chapter 26: Induction and Augmentation of Labor
 
-Induction and Augmentation of Labor
+- Labor Induction
+- Preinduction Cervical Ripening
+- Pharmacological Agents
+- Mechanical Techniques
+- Methods Of Induction And Augmentation
+- Prostaglandin E1
+- Oxytocin
+- Amniotomy For Induction And Augmentation
+- References
 
-LABOR INDUCTION
-PREINDUCTION CERVICAL RIPENING
-PHARMACOLOGICAL AGENTS
-MECHANICAL TECHNIQUES
-METHODS OF INDUCTION AND AUGMENTATION
-PROSTAGLANDIN E1
-OXYTOCIN
-AMNIOTOMY FOR INDUCTION AND AUGMENTATION
-REFERENCES
-Today, several pharmacological agents permit labor to be induced or
-augmented. Induction implies stimulation of contractions before the
-spontaneous onset of labor, with or without ruptured membranes. When the
-cervix is closed and uneffaced, labor induction is often preceded by cervical
-ripening, a process to soften and open the cervix. This is somewhat of a
-misnomer in that cervical ripening, per se, may also be a means of labor
-induction. Augmentation refers to enhancement of spontaneous contractions
-that are considered inadequate because of failed cervical dilation and poor
-fetal descent. This chapter presents indications and methods for labor
-induction or augmentation and for cervical ripening.
+Today, several pharmacological agents permit labor to be induced or augmented. Induction implies stimulation of contractions before the spontaneous onset of labor, with or without ruptured membranes. When the cervix is closed and uneffaced, labor induction is often preceded by cervical ripening, a process to soften and open the cervix. This is somewhat of a misnomer in that cervical ripening, per se, may also be a means of labor induction. Augmentation refers to enhancement of spontaneous contractions that are considered inadequate because of failed cervical dilation and poor fetal descent. This chapter presents indications and methods for labor induction or augmentation and for cervical ripening.
 
-LABOR INDUCTION
-■ Indications
-In the United States, the incidence of labor induction rose from 9.5 percent in
-1991 to 27 percent in 2019 (Martin, 2019). Induction is indicated when the
-benefits to either mother or fetus outweigh those of pregnancy continuation.
-The more common indications include membrane rupture without labor,
-gestational hypertension, oligohydramnios, nonreassuring fetal status,
-postterm pregnancy, and various maternal medical conditions such as chronic
-hypertension and diabetes (American College of Obstetricians and
-Gynecologists, 2019a).
-Methods to induce or augment labor are contraindicated by most
-conditions that preclude spontaneous labor or delivery. Maternal
-contraindications are an abnormally implanted placenta or a prior uterine
-incision type that is associated with a high rupture risk. Uncommon
-conditions are active genital herpes infection, contracted or distorted pelvic
-anatomy, or cervical cancer. Fetal factors include appreciable macrosomia,
-severe hydrocephalus, malpresentation, or nonreassuring fetal status.
+## Labor Induction
 
-■ Risks
-Some maternal complications associated with labor induction are
-chorioamnionitis, uterine rupture, and postpartum hemorrhage from uterine
-atony. Earlier nonrandomized studies suggested a particularly higher risk for
-cesarean delivery in nulliparas undergoing labor induction (Luthy, 2004;
-Yeast, 1999). More recent ones, however, cite comparable or even lower
-rates of cesarean delivery when induced labor is compared with spontaneous
-labor (Middleton, 2020; Souter, 2019).
-These studies used spontaneous labor as the comparator, which may be
-less suitable than using expectant management as the comparator. In the
-ARRIVE trial—A Randomized Trial of Induction Versus Expectant
-Management-more than 6000 low-risk nulliparas at 39 weeks’ gestation
-were randomly assigned to labor induction or expectant management groups
-(Table 26-1) (Grobman, 2018; Tita, 2021). Primary outcome, which was the
-rate of severe neonatal morbidity or death, did not differ between cohorts.
-However, the cesarean delivery rate in the induction arm was significantly
+### Indications
 
-lower than that in the expectantly managed cohort—18.6 versus 22.2 percent,
-respectively. Rates of chorioamnionitis, postpartum hemorrhage, and
-peripartum infection were not significantly different. In a metaanalysis of six
-cohort studies, elective induction at 39 weeks’ gestation had a significantly
-lower risk of cesarean delivery and these other morbidities compared with
-expectant management (Grobman, 2019).
-TABLE 26-1. Selected Maternal and Perinatal Outcomes with Labor
-Induction Versus Expectant Management in Low-Risk Nulliparous Women—
-the ARRIVE Trial
+In the United States, the incidence of labor induction rose from 9.5 percent in 1991 to 27 percent in 2019 (Martin, 2019). Induction is indicated when the benefits to either mother or fetus outweigh those of pregnancy continuation. The more common indications include membrane rupture without labor, gestational hypertension, oligohydramnios, nonreassuring fetal status, postterm pregnancy, and various maternal medical conditions such as chronic hypertension and diabetes (American College of Obstetricians and Gynecologists, 2019a). Methods to induce or augment labor are contraindicated by most conditions that preclude spontaneous labor or delivery. Maternal contraindications are an abnormally implanted placenta or a prior uterine incision type that is associated with a high rupture risk. Uncommon conditions are active genital herpes infection, contracted or distorted pelvic anatomy, or cervical cancer. Fetal factors include appreciable macrosomia, severe hydrocephalus, malpresentation, or nonreassuring fetal status.
 
-With induction, the overall associated risk of uterine rupture is low but is
-highest with a prior uterine scar (Landon, 2004). The American College of
-Obstetricians and Gynecologists (2019c) recommends against the use of
-prostaglandins for preinduction cervical ripening or for labor induction in
-women with a prior uterine incision. It recognizes labor induction with
+### Risks
 
-oxytocin as an option but also notes the higher potential rupture rate and
-lower VBAC rate. Oxytocin augmentation may be used in those undergoing
-TOLAC, although evidence for higher rupture rates are conflicting.
-Amniotomy is often selected to augment labor (p. 494). Of other potential
-risks, women whose labor is managed with amniotomy have a higher
-incidence of chorioamnionitis compared with those in spontaneous labor
-(American College of Obstetricians and Gynecologists, 2019a).
-In some, but not all studies, uterine atony and associated postpartum
-hemorrhage are more common in women undergoing induction or
-augmentation (Grobman, 2018; Widmer, 2020). And as discussed in Chapter
-42 (p. 733), atony with intractable hemorrhage, especially following
-cesarean delivery, is a frequent indication for peripartum hysterectomy. In a
-study from Parkland Hospital, labor induction was associated with 17
-percent of 553 unanticipated peripartum hysterectomies (Hernandez, 2013).
+Some maternal complications associated with labor induction are chorioamnionitis, uterine rupture, and postpartum hemorrhage from uterine atony. Earlier nonrandomized studies suggested a particularly higher risk for cesarean delivery in nulliparas undergoing labor induction (Luthy, 2004; Yeast, 1999). More recent ones, however, cite comparable or even lower rates of cesarean delivery when induced labor is compared with spontaneous labor (Middleton, 2020; Souter, 2019). These studies used spontaneous labor as the comparator, which may be less suitable than using expectant management as the comparator. In the ARRIVE trial—A Randomized Trial of Induction Versus Expectant Management-more than 6000 low-risk nulliparas at 39 weeks’ gestation were randomly assigned to labor induction or expectant management groups (Table 26-1) (Grobman, 2018; Tita, 2021). Primary outcome, which was the rate of severe neonatal morbidity or death, did not differ between cohorts. However, the cesarean delivery rate in the induction arm was significantly
 
-■ Elective Labor Induction
-Until recently, the American College of Obstetricians and Gynecologists
-(2019a) did not recommend elective labor induction at term for convenience.
-Occasional exceptions are risk of rapid labor, psychosocial indications, or
-logistics that factor family support availability and distance from the
-hospital. Importantly, several studies have shown that elective delivery
-before 39 completed weeks’ gestation is associated with significant adverse
-neonatal morbidity (Chiossi, 2013; Salemi, 2016; Tita, 2009).
-This proscription against elective induction at term was reconsidered
-following publication of the previously cited ARRIVE trial. Because of the
-results from that trial, the American College of Obstetricians and
-Gynecologists (2018) and the Society for Maternal-Fetal Medicine (2019)
-conclude that offering elective induction to low-risk, well-dated nulliparas at
-39 weeks’ gestation is reasonable. These women must meet the criteria for
-the ARRIVE trial, and it is recommended to combine shared decision-making
-with consideration of available resources.
+lower than that in the expectantly managed cohort—18.6 versus 22.2 percent, respectively. Rates of chorioamnionitis, postpartum hemorrhage, and peripartum infection were not significantly different. In a metaanalysis of six cohort studies, elective induction at 39 weeks’ gestation had a significantly lower risk of cesarean delivery and these other morbidities compared with expectant management (Grobman, 2019).
 
-■ Factors Affecting Induction Success
-Several factors affect the ability of labor induction to achieve vaginal
-delivery. Favorable factors include younger age, multiparity, body mass
+> **Table 26-1:** Selected Maternal and Perinatal Outcomes with Labor Induction Versus Expectant Management in Low-Risk Nulliparous Women— the ARRIVE Trial
 
-index (BMI) <30, favorable cervix, and birthweight <3500 g (Freret, 2021;
-Sievert, 2017). In many cases, the uterus is simply poorly prepared for labor.
-One example is an “unripe” or “unfavorable” cervix. Indeed, investigators
-with the Consortium on Safe Labor reported that elective induction resulted
-in vaginal delivery in 97 percent of multiparas and 76 percent of nulliparas.
-Induction was more often successful with a “ripe cervix” (Laughon, 2012).
-Failure of induction is likely strongly influenced by the induction
-duration, especially with an unfavorable cervix (Spong, 2012). In one study,
-labor duration to reach the active phase and to complete dilation was
-adversely affected by a higher BMI (Kominiarek, 2011). Similar findings
-were reported for women with diabetes (Hawkins, 2017). Simon and
-Grobman (2005) concluded that a latent phase as long as 18 hours allowed
-most women undergoing labor induction to achieve a vaginal delivery
-without a significantly increased risk of maternal or neonatal morbidity.
-Rouse and associates (2000) recommend a minimum of 12 hours of uterine
-stimulation with oxytocin after membrane rupture, whereas Kawakita and
-coworkers (2016) recommend up to 15 hours for multiparas.
+With induction, the overall associated risk of uterine rupture is low but is highest with a prior uterine scar (Landon, 2004). The American College of Obstetricians and Gynecologists (2019c) recommends against the use of prostaglandins for preinduction cervical ripening or for labor induction in women with a prior uterine incision. It recognizes labor induction with
 
-PREINDUCTION CERVICAL RIPENING
-As noted, a soft cervix—described as “ripe” or “favorable”—is important to
-successful labor induction. However, some estimates of favorability are
-highly subjective (Feltovich, 2017). Still, pharmacological and mechanical
-methods can enhance cervical qualities in a process of preinduction cervical
-ripening.
-Some of the techniques may have benefits compared with oxytocin
-induction alone (Table 26-2). Namely, some are able to initiate labor and
-may effect delivery when used alone. However, few data support the premise
-that any of these methods lower cesarean delivery rates or lessen maternal or
-neonatal morbidity compared with women in whom these methods are not
-used.
-TABLE 26-2. Some Commonly Used Regimens Compared with Oxytocin
-Infusion for Preinduction Cervical Ripening and/or Labor Induction
+oxytocin as an option but also notes the higher potential rupture rate and lower VBAC rate. Oxytocin augmentation may be used in those undergoing TOLAC, although evidence for higher rupture rates are conflicting. Amniotomy is often selected to augment labor (p. 494). Of other potential risks, women whose labor is managed with amniotomy have a higher incidence of chorioamnionitis compared with those in spontaneous labor (American College of Obstetricians and Gynecologists, 2019a). In some, but not all studies, uterine atony and associated postpartum hemorrhage are more common in women undergoing induction or augmentation (Grobman, 2018; Widmer, 2020). And as discussed in Chapter 42 (p. 733), atony with intractable hemorrhage, especially following cesarean delivery, is a frequent indication for peripartum hysterectomy. In a study from Parkland Hospital, labor induction was associated with 17 percent of 553 unanticipated peripartum hysterectomies (Hernandez, 2013).
 
-■ Cervical “Favorability”
-One quantifiable method to predict labor induction outcomes is the score
-described by Bishop (1964) and presented in Table 26-3. As favorability or
-Bishop score rises, the rate of induction to effect vaginal delivery also
-increases. A Bishop score >8 conveys a high likelihood for a successful
-induction, and a score ≤6 is considered unfavorable (American College of
-Obstetricians and Gynecologists, 2019a).
-TABLE 26-3. Bishop Scoring System Used for Assessment of Inducibility
+### Elective Labor Induction
 
-Laughon and coworkers (2011) attempted to simplify the Bishop score by
-performing a regression analysis on 5610 nulliparas with term singletons at
-38 to 42 weeks’ gestation. Cervical dilation, station, and effacement were
-significantly associated with successful vaginal delivery. Thus, a simplified
-Bishop score had a similar or improved positive- or negative-predictive
-value compared with that of the original Bishop score. Others have reported
-similar findings when consistency and position are omitted (Ivars, 2016;
-Raghuraman, 2016).
-Transvaginal sonographic measurement of cervical length has been
-evaluated as a Bishop score alternative (Feltovich, 2017). However, data
-from a metaanalysis of 31 trials showed overall low sensitivity and
-specificity and limited predictive utility to forecast successful induction
-(Verhoeven, 2013).
+Until recently, the American College of Obstetricians and Gynecologists (2019a) did not recommend elective labor induction at term for convenience. Occasional exceptions are risk of rapid labor, psychosocial indications, or logistics that factor family support availability and distance from the hospital. Importantly, several studies have shown that elective delivery before 39 completed weeks’ gestation is associated with significant adverse neonatal morbidity (Chiossi, 2013; Salemi, 2016; Tita, 2009). This proscription against elective induction at term was reconsidered following publication of the previously cited ARRIVE trial. Because of the results from that trial, the American College of Obstetricians and Gynecologists (2018) and the Society for Maternal-Fetal Medicine (2019) conclude that offering elective induction to low-risk, well-dated nulliparas at 39 weeks’ gestation is reasonable. These women must meet the criteria for the ARRIVE trial, and it is recommended to combine shared decision-making with consideration of available resources.
 
-■ Pharmacological Agents
-Prostaglandin analogues make up available options. These can also stimulate
-contractions and thereby aid subsequent labor induction or augmentation.
-Importantly, in most studies of preinduction cervical ripening, oxytocin
-infusion either is initiated with the ripening agent or follows cervical change.
+### Factors Affecting Induction Success
 
-■ Prostaglandin E2
-Dinoprostone is a synthetic analogue of prostaglandin E2 (PGE2). It is
-commercially available in three forms: a gel, a time-release vaginal insert,
-and a 20-mg suppository (see Table 26-2). The gel and time-release vaginal
-insert formulations are indicated only for cervical ripening before labor
-induction. Importantly, the 20-mg suppository is not indicated for cervical
-ripening. It instead is used for pregnancy termination between 12 and 20
-weeks’ gestation and for evacuation of the uterus after fetal demise up to 28
-weeks.
-Local application of the PGE2 gel form—Prepidil—is available in a 2.5mL syringe for an intracervical application of 0.5 mg of dinoprostone. With
-the woman supine, the tip of a prefilled syringe is placed intracervically, and
-the gel is deposited just below the internal cervical os. After application, the
+Several factors affect the ability of labor induction to achieve vaginal delivery. Favorable factors include younger age, multiparity, body mass
 
-woman remains reclined for 30 minutes. Doses may be repeated every 6
-hours, with a maximum of three doses recommended in 24 hours.
-A 10-mg dinoprostone vaginal insert—Cervidil—also is approved for
-cervical ripening. This is a thin, flat, rectangular polymeric wafer held
-within a small, white, mesh polyester sac (Fig. 26-1). The sac has a long
-attached tail to allow easy removal from the vagina. The insert provides
-slower release of medication—0.3 mg/hr—than the gel form. Cervidil is
-used as a single dose placed transversely in the posterior vaginal fornix.
-Lubricant is used sparingly, if at all, because it can coat the device and
-hinder dinoprostone release. Following insertion, the woman remains
-recumbent for at least 2 hours. The insert is removed after 12 hours or with
-labor onset and at least 30 minutes before the administration of oxytocin.
-Since the active drug is encased in a mesh sac, one benefit is the ability for
-removal if fetal heart rate abnormalities or tachysystole develop.
+index (BMI) <30, favorable cervix, and birthweight <3500 g (Freret, 2021; Sievert, 2017). In many cases, the uterus is simply poorly prepared for labor. One example is an “unripe” or “unfavorable” cervix. Indeed, investigators with the Consortium on Safe Labor reported that elective induction resulted in vaginal delivery in 97 percent of multiparas and 76 percent of nulliparas. Induction was more often successful with a “ripe cervix” (Laughon, 2012). Failure of induction is likely strongly influenced by the induction duration, especially with an unfavorable cervix (Spong, 2012). In one study, labor duration to reach the active phase and to complete dilation was adversely affected by a higher BMI (Kominiarek, 2011). Similar findings were reported for women with diabetes (Hawkins, 2017). Simon and Grobman (2005) concluded that a latent phase as long as 18 hours allowed most women undergoing labor induction to achieve a vaginal delivery without a significantly increased risk of maternal or neonatal morbidity. Rouse and associates (2000) recommend a minimum of 12 hours of uterine stimulation with oxytocin after membrane rupture, whereas Kawakita and coworkers (2016) recommend up to 15 hours for multiparas.
 
-FIGURE 26-1 Cervidil vaginal insert contains 10 mg of dinoprostone designed to release approximately
-0.3 mg/hr during a 10-hour period.
+## Preinduction Cervical Ripening
 
-Most metaanalyses of dinoprostone efficacy report a reduced time to
-delivery within 24 hours. However, they do not consistently show a
+As noted, a soft cervix—described as “ripe” or “favorable”—is important to successful labor induction. However, some estimates of favorability are highly subjective (Feltovich, 2017). Still, pharmacological and mechanical methods can enhance cervical qualities in a process of preinduction cervical ripening. Some of the techniques may have benefits compared with oxytocin induction alone (Table 26-2). Namely, some are able to initiate labor and may effect delivery when used alone. However, few data support the premise that any of these methods lower cesarean delivery rates or lessen maternal or neonatal morbidity compared with women in whom these methods are not used.
 
-reduction in the cesarean delivery rate. Thomas and colleagues (2014)
-provided a Cochrane review of 70 trials that included 11,487 women given
-vaginal prostaglandins or either placebo compared with no treatment. They
-noted a higher vaginal delivery rate within 24 hours when prostaglandins
-were used. They also reported a threefold greater risk of tachysystole
-accompanied by fetal heart rate changes, but cesarean delivery rates were not
-significantly decreased. Similar results were noted in another Cochrane
-review of intracervical dinoprostone gel (Boulvain, 2008). Compared with
-placebo or no treatment, a reduced risk of cesarean delivery was found only
-in a subgroup of women with an unfavorable cervix and intact membranes.
-Last, the Foley catheter versus vaginal PGE2 gel for induction of labor at
-term—PROBAAT-P and M trials—were unblinded, randomized trials
-comparing these two options (Jozwiak, 2011, 2013, 2014). The cesarean
-delivery rate did not differ, a finding consistent with accompanying
-metaanalyses.
+> **Table 26-2:** Some Commonly Used Regimens Compared with Oxytocin Infusion for Preinduction Cervical Ripening and/or Labor Induction
 
-Side Effects
-Uterine tachysystole follows vaginally administered PGE2 in 1 to 5 percent
-of women (Hawkins, 2012). Although definitions of abnormal uterine activity
-vary among studies, most use the definition recommended by the American
-College of Obstetricians and Gynecologists (2019b). Uterine tachysystole is
-defined as >5 contractions in a 10-minute period. It should always be
-qualified by the presence or absence of fetal heart rate abnormalities. The
-terms uterine hypertonus, hyperstimulation, and hypercontractility are
-terms no longer defined, and their use is not recommended.
-Because uterine tachysystole associated with fetal compromise may
-develop when prostaglandins are used with preexisting spontaneous labor,
-such use is not recommended. If tachysystole follows the 10-mg insert, its
-removal by pulling on the tail of the surrounding net sac will usually reverse
-this effect. Irrigation to remove the gel preparation has not been shown to be
-helpful.
-The manufacturers recommend caution when these preparations are used
-in women with ruptured membranes. This concern is also extended to women
-with glaucoma or asthma. However, in a review of 189 women with asthma,
-dinoprostone was not associated with asthma worsening or exacerbation
-(Towers, 2004). Other contraindications listed by the manufacturers include
+### Cervical “Favorability”
 
-prior dinoprostone hypersensitivity, suspicion of fetal compromise or
-cephalopelvic disproportion, unexplained vaginal bleeding, six or more
-prior term pregnancies, and contraindications to vaginal delivery. Others are
-women already receiving oxytocin, those with a contraindication to oxytocin,
-or those who may be endangered by prolonged uterine contractions, for
-example, those with prior cesarean delivery or uterine surgery.
+One quantifiable method to predict labor induction outcomes is the score described by Bishop (1964) and presented in Table 26-3. As favorability or Bishop score rises, the rate of induction to effect vaginal delivery also increases. A Bishop score >8 conveys a high likelihood for a successful induction, and a score ≤6 is considered unfavorable (American College of Obstetricians and Gynecologists, 2019a).
 
-Administration
-PGE2 preparations should be administered only in or near the delivery suite.
-Moreover, uterine activity and fetal heart rate should be monitored
-(American College of Obstetricians and Gynecologists, 2019a). These
-guidelines stem from the risk of uterine tachysystole. When contractions
-begin, they are usually apparent in the first hour and show peak activity in the
-first 4 hours. According to manufacturer guidelines, oxytocin induction that
-follows prostaglandin use for cervical ripening should be delayed for 6 to 12
-hours following PGE2 gel administration or for at least 30 minutes after
-removal of the vaginal insert.
+> **Table 26-3:** Bishop Scoring System Used for Assessment of Inducibility
 
-■ Prostaglandin E1
-Misoprostol—Cytotec—is a synthetic prostaglandin E1 (PGE1) that is
-approved as a 100- or 200-µg tablet for peptic ulcer prevention. These
-tablets can be split to administer 25- or 50-µg doses. The drug is absorbed
-from both vaginal, oral, and buccal administration. Randomized trials of
-labor induction with misoprostol have evaluated various induction regimens
-with differing primary outcomes (Table 26-4).
-TABLE 26-4. Randomized Trials with 200 or More Subjects Designed to
-Compare Misoprostol (PGE1) With or Without Foley Bulb
+Laughon and coworkers (2011) attempted to simplify the Bishop score by performing a regression analysis on 5610 nulliparas with term singletons at 38 to 42 weeks’ gestation. Cervical dilation, station, and effacement were significantly associated with successful vaginal delivery. Thus, a simplified Bishop score had a similar or improved positive- or negative-predictive value compared with that of the original Bishop score. Others have reported similar findings when consistency and position are omitted (Ivars, 2016; Raghuraman, 2016). Transvaginal sonographic measurement of cervical length has been evaluated as a Bishop score alternative (Feltovich, 2017). However, data from a metaanalysis of 31 trials showed overall low sensitivity and specificity and limited predictive utility to forecast successful induction (Verhoeven, 2013).
 
-Misoprostol is widely used “off label” safely for preinduction cervical
-ripening (American College of Obstetricians and Gynecologists, 2019a). The
-tablets are stable at room temperature, and the drug currently is the preferred
-prostaglandin for cervical ripening at Parkland Hospital.
+### Pharmacological Agents
 
-Vaginal Administration
-Compared with intracervical or intravaginal PGE2, vaginally administered
-misoprostol tablets offer equivalent or superior efficacy for cervical ripening
-or labor induction (Hofmeyr, 2010). Compared with oxytocin or with
-intravaginal or intracervical dinoprostone, vaginal misoprostol increased the
-vaginal delivery rate within 24 hours. Although the uterine tachysystole rate
-was higher, this did not affect cesarean delivery rates. Moreover, compared
-with dinoprostone, misoprostol lowered the need for oxytocin induction, but
-it raised the frequency of meconium-stained amnionic fluid. Higher doses of
-misoprostol are associated with a decreased need for oxytocin but with
-greater rates of uterine tachysystole, with and without fetal heart rate
-changes. The American College of Obstetricians and Gynecologists (2019a)
-recommends a 25-µg vaginal dose. The drug is evenly distributed among
-100-µg tablets that are quartered.
+Prostaglandin analogues make up available options. These can also stimulate contractions and thereby aid subsequent labor induction or augmentation. Importantly, in most studies of preinduction cervical ripening, oxytocin infusion either is initiated with the ripening agent or follows cervical change.
 
-Oral Administration
-PGE1 tablets are also effective when given orally, but with a faster peak
-concentration and decline compared with the vaginal route. One Cochrane
-metaanalysis of 76 trials reported that oral misoprostol compared with
-placebo significantly increased the rate of vaginal birth within 24 hours,
-while decreasing the need for oxytocin and lowering the cesarean delivery
-rate (Alfirevic, 2014). Comparisons of oral misoprostol and oxytocin and of
-oral misoprostol and dinoprostone also found significantly reduced rates of
-cesarean delivery with misoprostol. Similar efficacy was noted between oral
-misoprostol and vaginal administration, although oral administration was
-associated with significantly higher Apgar scores and less postpartum
-hemorrhage. Thorbiörnson and associates (2017) also reported lower rates
-of cesarean delivery with oral misoprostol compared with vaginal
-dinoprostone.
+### Prostaglandin E2
 
-■ Nitric Oxide Donors
-Over the years, agents that stimulate nitric oxide production have been
-studied for labor induction. Physiologically, nitric oxide is likely a mediator
-of cervical ripening. Cervical nitric oxide metabolite concentrations are
-increased at the beginning of uterine contractions.
-Both isosorbide mononitrate and glyceryl trinitrate have been studied
-but are less effective clinically than prostaglandins for cervical ripening. In
-one metaanalysis, the rate of cesarean delivery was not reduced in those
-given nitric oxide donors compared with those given placebo, intravaginal or
-intracervical prostaglandins, intravaginal misoprostol, or intracervical
-catheter (Ghosh, 2016). However, nitric oxide donors were associated with
-significantly more headaches, nausea, and vomiting.
+Dinoprostone is a synthetic analogue of prostaglandin E2 (PGE2). It is commercially available in three forms: a gel, a time-release vaginal insert, and a 20-mg suppository (see Table 26-2). The gel and time-release vaginal insert formulations are indicated only for cervical ripening before labor induction. Importantly, the 20-mg suppository is not indicated for cervical ripening. It instead is used for pregnancy termination between 12 and 20 weeks’ gestation and for evacuation of the uterus after fetal demise up to 28 weeks. Local application of the PGE2 gel form—Prepidil—is available in a 2.5mL syringe for an intracervical application of 0.5 mg of dinoprostone. With the woman supine, the tip of a prefilled syringe is placed intracervically, and the gel is deposited just below the internal cervical os. After application, the
 
-■ Mechanical Techniques
-These include transcervical placement of a Foley catheter, with or without
-extraamnionic saline infusion; hygroscopic cervical dilators; and membrane
-stripping. In one metaanalysis, mechanical methods reduced the risk of
-uterine tachysystole compared with prostaglandins, although cesarean
-delivery rates were unchanged (Jozwiak, 2012). Trials comparing
+woman remains reclined for 30 minutes. Doses may be repeated every 6 hours, with a maximum of three doses recommended in 24 hours. A 10-mg dinoprostone vaginal insert—Cervidil—also is approved for cervical ripening. This is a thin, flat, rectangular polymeric wafer held within a small, white, mesh polyester sac (Fig. 26-1). The sac has a long attached tail to allow easy removal from the vagina. The insert provides slower release of medication—0.3 mg/hr—than the gel form. Cervidil is used as a single dose placed transversely in the posterior vaginal fornix. Lubricant is used sparingly, if at all, because it can coat the device and hinder dinoprostone release. Following insertion, the woman remains recumbent for at least 2 hours. The insert is removed after 12 hours or with labor onset and at least 30 minutes before the administration of oxytocin. Since the active drug is encased in a mesh sac, one benefit is the ability for removal if fetal heart rate abnormalities or tachysystole develop.
 
-mechanical techniques and oxytocin found a lower rate of cesarean delivery
-with mechanical methods. Trials comparing mechanical options with
-dinoprostone found a higher rate of multiparas undelivered at 24 hours with
-mechanical methods. In another metaanalysis comparing Foley catheter and
-intravaginal dinoprostone inserts, cesarean delivery rates were similar, but
-uterine tachysystole was less frequent with catheter use (Jozwiak, 2013).
+> **Figure 26-1:** Cervidil vaginal insert contains 10 mg of dinoprostone designed to release approximately 0.3 mg/hr during a 10-hour period.
 
-Transcervical Catheter
-Generally, this option is only used with an unfavorable cervix because the
-catheter comes out as the cervix opens. It is suitable for women with
-membranes that are intact or ruptured. In most cases, a Foley catheter is
-placed through the internal cervical os, and downward tension is created by
-taping the catheter to the thigh (Mei-Dan, 2014). Extraamnionic saline
-infusion (EASI) is one modification. It adds a constant saline infusion through
-the catheter into the space between the internal os and placental membranes
-(Fig. 26-2). In one study, chorioamnionitis was significantly less frequent
-when infusion was added compared with no infusion—6 versus 16 percent
-(Karjane, 2006). Similarly, in a metaanalysis, transcervical catheters were
-not associated with higher rates of maternal or fetal infection (McMaster,
-2015).
+Most metaanalyses of dinoprostone efficacy report a reduced time to delivery within 24 hours. However, they do not consistently show a
 
-FIGURE 26-2 Extraamnionic saline infusion (EASI) through a 26F Foley catheter that is placed
-through the cervix. The 30-mL balloon is inflated with saline and pulled snugly against the internal os,
-and the catheter is taped to the thigh. Room-temperature normal saline is infused through the catheter
-port of the Foley at 30 or 40 mL/hour by intravenous infusion pump.
+reduction in the cesarean delivery rate. Thomas and colleagues (2014) provided a Cochrane review of 70 trials that included 11,487 women given vaginal prostaglandins or either placebo compared with no treatment. They noted a higher vaginal delivery rate within 24 hours when prostaglandins were used. They also reported a threefold greater risk of tachysystole accompanied by fetal heart rate changes, but cesarean delivery rates were not significantly decreased. Similar results were noted in another Cochrane review of intracervical dinoprostone gel (Boulvain, 2008). Compared with placebo or no treatment, a reduced risk of cesarean delivery was found only in a subgroup of women with an unfavorable cervix and intact membranes. Last, the Foley catheter versus vaginal PGE2 gel for induction of labor at term—PROBAAT-P and M trials—were unblinded, randomized trials comparing these two options (Jozwiak, 2011, 2013, 2014). The cesarean delivery rate did not differ, a finding consistent with accompanying metaanalyses.
 
-As discussed earlier, transcervical catheters do not reduce the cesarean
-delivery rate compared with prostaglandins. There were several iterations of
-the PROBAAT trials—I, P, M, and II—in which cervical ripening with a
-Foley catheter was compared with vaginal dinoprostone gel, dinoprostone
-vaginal inserts, and vaginal or oral misoprostol (Jozwiak, 2011, 2013, 2014;
-Ten Eikelder, 2016). These studies reported similar outcomes between the
-mechanical methods and the prostaglandin agents. Also, fewer overall cases
-of cardiotocographic changes were seen in the mechanical technique group.
-Similar cesarean delivery rates are found in other comparison studies.
-Schoen and coworkers (2017) observed that concurrent oxytocin with a
-transcervical Foley catheter shortened the median time to delivery compared
+Side Effects Uterine tachysystole follows vaginally administered PGE2 in 1 to 5 percent of women (Hawkins, 2012). Although definitions of abnormal uterine activity vary among studies, most use the definition recommended by the American College of Obstetricians and Gynecologists (2019b). Uterine tachysystole is defined as >5 contractions in a 10-minute period. It should always be qualified by the presence or absence of fetal heart rate abnormalities. The terms uterine hypertonus, hyperstimulation, and hypercontractility are terms no longer defined, and their use is not recommended. Because uterine tachysystole associated with fetal compromise may develop when prostaglandins are used with preexisting spontaneous labor, such use is not recommended. If tachysystole follows the 10-mg insert, its removal by pulling on the tail of the surrounding net sac will usually reverse this effect. Irrigation to remove the gel preparation has not been shown to be helpful. The manufacturers recommend caution when these preparations are used in women with ruptured membranes. This concern is also extended to women with glaucoma or asthma. However, in a review of 189 women with asthma, dinoprostone was not associated with asthma worsening or exacerbation (Towers, 2004). Other contraindications listed by the manufacturers include
 
-with a Foley catheter followed by oxytocin. However, rates of cesarean
-delivery were unchanged. Connolly and associates (2016) reported similar
-findings for women within intact membranes undergoing labor induction.
-Amorosa and colleagues (2017) found no benefit for transcervical catheter
-coupled with oxytocin compared with oxytocin alone for women with
-ruptured membranes. Other studies of concurrent misoprostol reported
-reduced time to delivery without affecting cesarean delivery rates (Carbone,
-2013; Levine, 2016). With catheter induction plus misoprostol, one
-randomized trial found vaginal misoprostol to be superior to buccal
-administration (Gomez, 2021). Last, addition of tension does not appear to
-enhance catheter efficacy (Fruhman, 2017). These investigators randomly
-assigned 140 women to transcervical Foley catheter placement, with and
-without tension, and reported similar vaginal delivery rates.
-One large trial at Parkland Hospital evaluated the addition of a Foley
-catheter to oral misoprostol. With catheter addition, investigators found no
-improvement in the vaginal delivery rate, but the chorioamnionitis rate was
-30-percent higher (Adhikari, 2020). The unaltered vaginal delivery rate
-persisted in a stratified analysis of nulliparas and multiparas. In this study,
-our standard labor induction protocol with misoprostol alone achieved a 77percent vaginal delivery rate.
+prior dinoprostone hypersensitivity, suspicion of fetal compromise or cephalopelvic disproportion, unexplained vaginal bleeding, six or more prior term pregnancies, and contraindications to vaginal delivery. Others are women already receiving oxytocin, those with a contraindication to oxytocin, or those who may be endangered by prolonged uterine contractions, for example, those with prior cesarean delivery or uterine surgery.
 
-Hygroscopic Cervical Dilators
-Cervical dilation can be accomplished using hygroscopic or osmotic
-cervical dilators, which are illustrated in Chapter 11 (p. 209). Briefly, these
-include Laminaria japonicum or hygroscopic devices (Dilapan-S). Intuitive
-concerns of ascending infection have not been verified, and their use appears
-to be safe. Placement generally requires a speculum and positioning of the
-woman on an examination table. Studies comparing hygroscopic cervical
-dilators and prostaglandins found few benefits (Maier, 2018).
+Administration PGE2 preparations should be administered only in or near the delivery suite. Moreover, uterine activity and fetal heart rate should be monitored (American College of Obstetricians and Gynecologists, 2019a). These guidelines stem from the risk of uterine tachysystole. When contractions begin, they are usually apparent in the first hour and show peak activity in the first 4 hours. According to manufacturer guidelines, oxytocin induction that follows prostaglandin use for cervical ripening should be delayed for 6 to 12 hours following PGE2 gel administration or for at least 30 minutes after removal of the vaginal insert.
 
-METHODS OF INDUCTION AND AUGMENTATION
-Oxytocin has been used for labor induction for more than 70 years
-(Theobald, 1948). As discussed, other methods now include prostaglandins,
-which are used alone or in combination with oxytocin. Prostaglandins
-include misoprostol and dinoprostone. Mechanical methods encompass
+### Prostaglandin E1
 
-membrane stripping, artificial rupture of membranes, extraamnionic saline
-infusion, transcervical balloons, and hygroscopic cervical dilators. As
-recommended in Guidelines for Perinatal Care, each obstetrical department
-should have written protocols that describe administration of these methods
-for labor induction and augmentation (American College of Obstetricians,
-2017).
-Because preinduction cervical ripening frequently prompts labor, studies
-to determine induction efficacy for some of these agents have produced
-confusing results. The use of prostaglandins for labor augmentation has
-generally been considered experimental due to high rates of uterine
-tachysystole.
+Misoprostol—Cytotec—is a synthetic prostaglandin E1 (PGE1) that is approved as a 100- or 200-µg tablet for peptic ulcer prevention. These tablets can be split to administer 25- or 50-µg doses. The drug is absorbed from both vaginal, oral, and buccal administration. Randomized trials of labor induction with misoprostol have evaluated various induction regimens with differing primary outcomes (Table 26-4).
 
-■ Prostaglandin E1
-Both vaginal and oral misoprostol are used for either cervical ripening or
-labor induction. For labor induction in women at or near term with either
-prematurely ruptured membranes or a favorable cervix, 100 µg of oral or 25
-µg of vaginal misoprostol has similar efficacy compared with intravenous
-oxytocin. From these studies, evidence supports that oral misoprostol may be
-superior (Alfirevic, 2014; Hofmeyr, 2010; Lo, 2003). That said, misoprostol
-is associated with a greater rate of uterine tachysystole, particularly at higher
-doses. Also, induction with PGE1 may prove ineffective and require
-subsequent induction or augmentation with oxytocin.
-Thus, although there are trade-offs regarding the risks, costs, and ease of
-administration of each drug, either is suitable for labor induction. At
-Parkland Hospital, we administer an initial oral 100-µg dose, which may be
-repeated for inadequate labor after 6 hours. Four hours after the second dose
-or in those with tachysystole, an oxytocin infusion is begun, if needed, for
-hypotonic labor. One study compared oral misoprostol and a newer
-misoprostol vaginal insert that releases drug up to 24 hours. With the insert,
-cesarean delivery and adverse neonatal outcome rates were higher, but time
-to delivery was shorter (Döbert, 2018). Additional studies found these
-adverse outcomes were mitigated if the insert time was limited to 10 hours
-(Brandstetter, 2019, 2020).
-For labor augmentation, results of a randomized controlled trial showed
-oral misoprostol, 75 µg given at 4-hour intervals for a maximum of two
+> **Table 26-4:** Randomized Trials with 200 or More Subjects Designed to Compare Misoprostol (PGE1) With or Without Foley Bulb
 
-doses, to be safe and effective (Bleich, 2011). Although the uterine
-tachysystole rate was higher among women with labor augmented with
-misoprostol, the frequency of nonreassuring fetal status or cesarean delivery
-did not differ between oxytocin and misoprostol.
+Misoprostol is widely used “off label” safely for preinduction cervical ripening (American College of Obstetricians and Gynecologists, 2019a). The tablets are stable at room temperature, and the drug currently is the preferred prostaglandin for cervical ripening at Parkland Hospital.
 
-■ Oxytocin
-As previously emphasized, in many instances, preinduction cervical ripening
-and labor induction are simply a continuum. In this regard “ripening” can
-also stimulate labor. If not, induction or augmentation may be continued with
-solutions of oxytocin given by infusion pump. Its use in augmentation is a key
-component in the active management of labor, described in Chapter 22 (p.
-430). With oxytocin use, the American College of Obstetricians and
-Gynecologists (2019a) recommends fetal heart rate and uterine contraction
-monitoring. Contractions can be monitored either by palpation or by
-electronic means.
+Vaginal Administration Compared with intracervical or intravaginal PGE2, vaginally administered misoprostol tablets offer equivalent or superior efficacy for cervical ripening or labor induction (Hofmeyr, 2010). Compared with oxytocin or with intravaginal or intracervical dinoprostone, vaginal misoprostol increased the vaginal delivery rate within 24 hours. Although the uterine tachysystole rate was higher, this did not affect cesarean delivery rates. Moreover, compared with dinoprostone, misoprostol lowered the need for oxytocin induction, but it raised the frequency of meconium-stained amnionic fluid. Higher doses of misoprostol are associated with a decreased need for oxytocin but with greater rates of uterine tachysystole, with and without fetal heart rate changes. The American College of Obstetricians and Gynecologists (2019a) recommends a 25-µg vaginal dose. The drug is evenly distributed among 100-µg tablets that are quartered.
 
-Intravenous Oxytocin Administration
-A 1-mL vial contains 10 units of oxytocin. A typical infusate consists of 10
-or 20 units, which is 10,000 or 20,000 mU, respectively, mixed into 1000 mL
-of crystalloid or dextrose solution. This mixture results in an oxytocin
-concentration of 10 or 20 mU/mL, respectively, and is administered by
-infusion pump. To avoid bolus administration, the infusion should be inserted
-into the main intravenous line close to the venipuncture site.
-The goal of induction or augmentation is to effect uterine activity
-sufficient to produce cervical change and fetal descent, while avoiding
-development of a nonreassuring fetal status. According to the American
-College of Obstetricians and Gynecologists (2019a), the latter is a category
-III fetal heart rate tracing. In general, oxytocin is discontinued if the number
-of contractions persists with a frequency of more than five in a 10-minute
-period or more than seven in a 15-minute period or with a persistent
-nonreassuring fetal heart rate pattern. Oxytocin discontinuation nearly always
-rapidly lowers contraction frequency. When oxytocin is stopped, its
-concentration in plasma rapidly falls because the half-life is approximately 3
-to 5 minutes.
+Oral Administration PGE1 tablets are also effective when given orally, but with a faster peak concentration and decline compared with the vaginal route. One Cochrane metaanalysis of 76 trials reported that oral misoprostol compared with placebo significantly increased the rate of vaginal birth within 24 hours, while decreasing the need for oxytocin and lowering the cesarean delivery rate (Alfirevic, 2014). Comparisons of oral misoprostol and oxytocin and of oral misoprostol and dinoprostone also found significantly reduced rates of cesarean delivery with misoprostol. Similar efficacy was noted between oral misoprostol and vaginal administration, although oral administration was associated with significantly higher Apgar scores and less postpartum hemorrhage. Thorbiörnson and associates (2017) also reported lower rates of cesarean delivery with oral misoprostol compared with vaginal dinoprostone.
 
-The uterus contracts within 3 to 5 minutes of beginning an oxytocin
-infusion, and a plasma steady state is reached in 40 minutes (Seitchik, 1984).
-Response varies greatly and depends on preexisting uterine activity, cervical
-status, pregnancy duration, and individual biological differences. CaldeyroBarcia and Poseiro (1960) reported that the uterine response to oxytocin
-increases from 20 to 30 weeks’ gestation and rises rapidly at term.
-Oxytocin is generally very successful when used to stimulate labor. In
-one large Cochrane metaanalysis, oxytocin was compared with expectant
-management, and fewer women—8 versus 54 percent—failed to deliver
-vaginally within 24 hours with oxytocin (Alfirevic, 2009). This analysis
-studied different oxytocin dosing regimens.
+### Nitric Oxide Donors
 
-Oxytocin Regimens
-Several evidence-based regimens for labor stimulation are now
-recommended by the American College of Obstetricians and Gynecologists
-(2019a). These and others are shown in Table 26-5. Initially, only variations
-of low-dose protocols were used in the United States. Subsequently,
-O’Driscoll and colleagues (1984) described their Dublin protocol for the
-active management of labor that called for oxytocin at a starting dosage of 6
-mU/min and advanced in 6-mU/min increments. Subsequent comparative
-trials during the 1990s studied high-dose (4 to 6 mU/min) versus
-conventional low-dose (0.5 to 1.5 mU/min) regimens, both for labor
-induction and for augmentation.
-TABLE 26-5. Various Low- and High-Dose Oxytocin Regimens Used for
-Labor Induction
+Over the years, agents that stimulate nitric oxide production have been studied for labor induction. Physiologically, nitric oxide is likely a mediator of cervical ripening. Cervical nitric oxide metabolite concentrations are increased at the beginning of uterine contractions. Both isosorbide mononitrate and glyceryl trinitrate have been studied but are less effective clinically than prostaglandins for cervical ripening. In one metaanalysis, the rate of cesarean delivery was not reduced in those given nitric oxide donors compared with those given placebo, intravaginal or intracervical prostaglandins, intravaginal misoprostol, or intracervical catheter (Ghosh, 2016). However, nitric oxide donors were associated with significantly more headaches, nausea, and vomiting.
 
-From Parkland Hospital, Satin and associates (1992) evaluated an
-oxytocin regimen using an initial and incremental dosage of 6 mU/min
-compared with one using 1 mU/min. Among 1112 women undergoing
-induction, the 6-mU/min regimen resulted in a shorter mean admission-todelivery time, fewer failed inductions, and no cases of neonatal sepsis.
-Among 1676 women who had labor augmentation, those who received the 6mU/min regimen had a shorter duration-to-delivery time, fewer forceps
-deliveries, fewer cesarean deliveries for dystocia, and lower rates of
-intrapartum chorioamnionitis or neonatal sepsis. With this protocol, uterine
-tachysystole was managed by oxytocin discontinuation followed by
-resumption when indicated and at half the stopping dosage. Thereafter, the
-dosage was increased at 3 mU/min when appropriate, instead of the usual 6mU/min increase used for women without tachysystole. No adverse neonatal
-effects were observed. More recently, Son and colleagues (2021) confirmed
-these findings in a randomized clinical trial.
-In 1990 at Parkland Hospital, routine use of the 6-mU/min oxytocin
-beginning and incremental dosage was incorporated and continues through
-today. In other labor units, a 2-mU/min beginning and incremental oxytocin
+### Mechanical Techniques
 
-regimen is preferred and administered. With either regimen, dosages are
-employed for either labor induction or augmentation.
+These include transcervical placement of a Foley catheter, with or without extraamnionic saline infusion; hygroscopic cervical dilators; and membrane stripping. In one metaanalysis, mechanical methods reduced the risk of uterine tachysystole compared with prostaglandins, although cesarean delivery rates were unchanged (Jozwiak, 2012). Trials comparing
 
-Interval Between Incremental Dosing
-Intervals to increase oxytocin doses vary from 15 to 40 minutes (see Table
-26-5). Satin and associates (1994) addressed this aspect with a 6-mU/min
-regimen providing increases at either 20- or 40-minute intervals. Women
-assigned to the 20-minute interval regimen for labor augmentation had a
-significantly reduced cesarean delivery rate for dystocia compared with that
-for the 40-minute interval regimen—8 versus 12 percent. As perhaps
-expected, uterine tachysystole was significantly more frequent with the 20minute escalation regimen.
-Other investigators reported even more frequent incremental increases.
-Frigoletto (1995) and Xenakis (1995) and their coworkers gave oxytocin at 4
-mU/min with increases as needed every 15 minutes. Merrill and Zlatnik
-(1999) started with 4.5-mU/min doses and increased this every 30 minutes.
-López-Zeno and associates (1992) used 6-mU/min doses and 15-minute
-intervals.
+mechanical techniques and oxytocin found a lower rate of cesarean delivery with mechanical methods. Trials comparing mechanical options with dinoprostone found a higher rate of multiparas undelivered at 24 hours with mechanical methods. In another metaanalysis comparing Foley catheter and intravaginal dinoprostone inserts, cesarean delivery rates were similar, but uterine tachysystole was less frequent with catheter use (Jozwiak, 2013).
 
-Maximal Oxytocin Dosage
-The maximal effective dose of oxytocin to achieve adequate contractions in
-all women is different. In one study of 1151 consecutive nulliparas, the
-likelihood of progression to vaginal delivery decreased at and beyond an
-oxytocin dosage of 36 mU/min (Wen, 2001). Still, at a dosage of 72 mU/min,
-half of the nulliparas were delivered vaginally. Thus, if contractions are not
-adequate—less than 200 Montevideo units—and if the fetal status is
-reassuring and labor has arrested, an oxytocin infusion dose greater than 48
-mU/min has no apparent risks (Tesemma, 2020).
+Transcervical Catheter Generally, this option is only used with an unfavorable cervix because the catheter comes out as the cervix opens. It is suitable for women with membranes that are intact or ruptured. In most cases, a Foley catheter is placed through the internal cervical os, and downward tension is created by taping the catheter to the thigh (Mei-Dan, 2014). Extraamnionic saline infusion (EASI) is one modification. It adds a constant saline infusion through the catheter into the space between the internal os and placental membranes (Fig. 26-2). In one study, chorioamnionitis was significantly less frequent when infusion was added compared with no infusion—6 versus 16 percent (Karjane, 2006). Similarly, in a metaanalysis, transcervical catheters were not associated with higher rates of maternal or fetal infection (McMaster, 2015).
 
-■ Risks versus Benefits
-Unless the uterus is scarred, uterine rupture associated with oxytocin infusion
-is rare, even in parous women. Flannelly and associates (1993) reported no
-cases of uterine rupture, with or without oxytocin, in 27,829 nulliparas. Eight
-instances of overt uterine rupture during labor were noted in 48,718 parous
-women. Only one of these was associated with oxytocin use. A population-
+> **Figure 26-2:** Extraamnionic saline infusion (EASI) through a 26F Foley catheter that is placed through the cervix. The 30-mL balloon is inflated with saline and pulled snugly against the internal os, and the catheter is taped to the thigh. Room-temperature normal saline is infused through the catheter port of the Foley at 30 or 40 mL/hour by intravenous infusion pump.
 
-based retrospective review from Denmark reported a rupture rate of 3.3 per
-100,000 women without prior cesarean, with the highest risk among
-multiparas (Thisted, 2015). Our experience from Parkland Hospital is that
-oxytocin induction and augmentation are associated with uterine rupture.
-During an 8-year period in which there were almost 95,000 births, 15
-women suffered a primary uterine rupture, and 14 of these cases were
-associated with oxytocin use. In half of these women, prostaglandins were
-also given before augmentation with oxytocin.
-Oxytocin has amino-acid homology similar to arginine vasopressin
-(AVP) and has significant antidiuretic action. When infused at doses of 20
-mU/min or more, renal free water clearance drops markedly. If aqueous
-fluids are infused in appreciable amounts along with oxytocin, water
-intoxication can lead to convulsions, coma, and even death. In general, if
-oxytocin is to be administered in high doses for a considerable period of
-time, its concentration should be increased rather than raising the flow rate of
-a more dilute solution. Consideration also should be given to use of
-crystalloids—either normal saline or lactated Ringer solution.
+As discussed earlier, transcervical catheters do not reduce the cesarean delivery rate compared with prostaglandins. There were several iterations of the PROBAAT trials—I, P, M, and II—in which cervical ripening with a Foley catheter was compared with vaginal dinoprostone gel, dinoprostone vaginal inserts, and vaginal or oral misoprostol (Jozwiak, 2011, 2013, 2014; Ten Eikelder, 2016). These studies reported similar outcomes between the mechanical methods and the prostaglandin agents. Also, fewer overall cases of cardiotocographic changes were seen in the mechanical technique group. Similar cesarean delivery rates are found in other comparison studies. Schoen and coworkers (2017) observed that concurrent oxytocin with a transcervical Foley catheter shortened the median time to delivery compared
 
-■ Uterine Contraction Pressures
-Contraction forces in spontaneously laboring women range from 90 to 390
-Montevideo units (Chap. 24, p. 462). Early researchers found that the mean
-or median spontaneous uterine contraction pattern between 140 and 150
-Montevideo units resulted in progression to vaginal delivery (CaldeyroBarcia, 1950; Seitchik, 1984).
-Labor arrest in first-stage labor is described in Chapter 23 (p. 434). In
-the management of active-phase arrest, and with no contraindication to
-intravenous oxytocin, decisions must be made with knowledge of the safe
-upper range of uterine activity. Hauth and colleagues (1986) described an
-effective and safe protocol for oxytocin augmentation for active-phase arrest.
-With it, more than 90 percent of women achieved an average of at least 200
-to 225 Montevideo units. They later reported that nearly all women in whom
-active-phase arrest persisted despite oxytocin generated more than 200
-Montevideo units (Hauth, 1991). Importantly, despite no labor progression,
-no adverse maternal or perinatal effects were noted in those ultimately
-requiring cesarean delivery. Data regarding the safety and efficacy of
+with a Foley catheter followed by oxytocin. However, rates of cesarean delivery were unchanged. Connolly and associates (2016) reported similar findings for women within intact membranes undergoing labor induction. Amorosa and colleagues (2017) found no benefit for transcervical catheter coupled with oxytocin compared with oxytocin alone for women with ruptured membranes. Other studies of concurrent misoprostol reported reduced time to delivery without affecting cesarean delivery rates (Carbone, 2013; Levine, 2016). With catheter induction plus misoprostol, one randomized trial found vaginal misoprostol to be superior to buccal administration (Gomez, 2021). Last, addition of tension does not appear to enhance catheter efficacy (Fruhman, 2017). These investigators randomly assigned 140 women to transcervical Foley catheter placement, with and without tension, and reported similar vaginal delivery rates. One large trial at Parkland Hospital evaluated the addition of a Foley catheter to oral misoprostol. With catheter addition, investigators found no improvement in the vaginal delivery rate, but the chorioamnionitis rate was 30-percent higher (Adhikari, 2020). The unaltered vaginal delivery rate persisted in a stratified analysis of nulliparas and multiparas. In this study, our standard labor induction protocol with misoprostol alone achieved a 77percent vaginal delivery rate.
 
-contraction patterns in women with a prior cesarean delivery, with twins, or
-with an overdistended uterus are lacking.
+Hygroscopic Cervical Dilators Cervical dilation can be accomplished using hygroscopic or osmotic cervical dilators, which are illustrated in Chapter 11 (p. 209). Briefly, these include Laminaria japonicum or hygroscopic devices (Dilapan-S). Intuitive concerns of ascending infection have not been verified, and their use appears to be safe. Placement generally requires a speculum and positioning of the woman on an examination table. Studies comparing hygroscopic cervical dilators and prostaglandins found few benefits (Maier, 2018).
 
-■ Amniotomy for Induction and Augmentation
-Elective amniotomy with the intention of accelerating labor is often
-performed. For labor induction, artificial rupture of the membranes—
-sometimes called surgical induction—can be used and always implies a
-commitment to delivery. The main disadvantage of amniotomy used alone for
-labor induction is the unpredictable and occasionally long interval until labor
-onset. That said, in a randomized trial, Bakos and Bäckström (1987) found
-that amniotomy alone or combined with oxytocin was superior to oxytocin
-alone. Mercer and colleagues (1995) randomly assigned 209 women
-undergoing oxytocin induction to either early amniotomy at 1 to 2 cm or late
-amniotomy at 5 cm. Early amniotomy was associated with a 4-hour reduction
-in labor duration. With early amniotomy, however, the incidence of
-chorioamnionitis was elevated. In a metaanalysis, De Vivo and associates
-(2020) reported that early amniotomy did not increase the risk of cesarean
-delivery yet reduced the interval from induction to delivery.
-For labor augmentation, amniotomy is commonly performed when labor
-is abnormally slow. Shown in Table 26-6, amniotomy at approximately 5-cm
-dilation accelerated spontaneous labor by 1 to 1½ hours. Importantly, neither
-the need for oxytocin stimulation nor the overall cesarean delivery rate was
-higher. Although the incidences of mild and moderate cord compression
-patterns were increased following amniotomy, cesarean delivery rates for
-fetal distress were not greater. Most importantly, there were no adverse
-perinatal effects.
-TABLE 26-6. Randomized Clinical Trials of Elective Amniotomy in Early
-Spontaneous Labor at Term
+## Methods Of Induction And Augmentation
 
-Rouse and associates (1994) also found that amniotomy with oxytocin
-augmentation for arrested active-phase labor shortened the time to delivery
-by 44 minutes compared with that of oxytocin alone. Although amniotomy did
-not alter the delivery route, one drawback was that it significantly increased
-the incidence of chorioamnionitis.
-Regardless of the indication, amniotomy is associated with a risk of cord
-prolapse. To minimize this risk, disengagement of the fetal head during
-amniotomy is avoided. Toward this goal, fundal or suprapubic pressure or
-both may be helpful. Some clinicians prefer to rupture membranes during a
-contraction. If the vertex is not well applied to the lower uterine segment, a
-gradual egress of amnionic fluid can sometimes be accomplished by several
-membrane punctures with a 26-gauge needle held with a ring forceps and
-with direct visualization using a vaginal speculum. Alternatively, the trumpet
-used for pudendal blockade can sheath the needle and manually guide it
-through the cervix for amniotomy. In many of these cases, however,
-membranes tear and fluid is lost rapidly. Because of the risk of cord
-prolapse, or rarely placental abruption, the fetal heart rate is assessed before
-and immediately after amniotomy.
+Oxytocin has been used for labor induction for more than 70 years (Theobald, 1948). As discussed, other methods now include prostaglandins, which are used alone or in combination with oxytocin. Prostaglandins include misoprostol and dinoprostone. Mechanical methods encompass
 
-■ Membrane Stripping for Labor Induction
-Labor induction by membrane “stripping” or “sweeping” is a frequent
-practice. Several studies have suggested that membrane stripping is safe and
-lowers the incidence of postterm pregnancy without consistently raising the
-incidence of ruptured membranes, infection, or bleeding. Randomized trials
-are limited and a metaanalysis of two of these reported sweeping to be
+membrane stripping, artificial rupture of membranes, extraamnionic saline infusion, transcervical balloons, and hygroscopic cervical dilators. As recommended in Guidelines for Perinatal Care, each obstetrical department should have written protocols that describe administration of these methods for labor induction and augmentation (American College of Obstetricians, 2017). Because preinduction cervical ripening frequently prompts labor, studies to determine induction efficacy for some of these agents have produced confusing results. The use of prostaglandins for labor augmentation has generally been considered experimental due to high rates of uterine tachysystole.
 
-ineffective (Hamidi, 2020). Downsides are discomfort and associated
-bleeding (Boulvain, 2005).
+### Prostaglandin E1
 
-REFERENCES
-Adhikari EH, Nelson DB, McIntire DD, et al: Foley bulb added to an oral misoprostol induction protocol:
-a cluster randomized trial. Obstet Gynecol 136(5):953, 2020
-Alfirevic Z, Aflaifel N, Weeks A: Oral misoprostol for induction of labour. Cochrane Database Syst Rev
-6:CD001338, 2014
-Alfirevic Z, Kelly AJ, Dowswell T: Intravenous oxytocin alone for cervical ripening and induction of
-labour. Cochrane Database Syst Rev 4:CD003246, 2009
-Al-Ibraheemi Z, Brustman L, Bimson BE, et al: Misoprostol with Foley bulb compared with misoprostol
-alone for cervical ripening: a randomized controlled trial. Obstet Gynecol 131(1):23, 2018
-American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Guidelines for
-Perinatal Care, 8th ed. Elk Grove Village, AAP, 2017
-American College of Obstetricians and Gynecologists: Practice advisory: clinical guidance for
-integration of the findings of The ARRIVE Trial: labor induction versus expectant management in
-low-risk nulliparous women. 2018. Available at: https://www.acog.org/clinical/clinicalguidance/practice-advisory/articles/2018/08/clinical-guidance-for-integration-of-the-findings-of-thearrive-trial. Accessed November 21, 2020
-American College of Obstetricians and Gynecologists: Induction of labor. Practice Bulletin No. 107,
-August 2009, Reaffirmed 2019a
-American College of Obstetricians and Gynecologists: Intrapartum fetal heart rate monitoring:
-nomenclature, interpretation, and general management principles. Practice Bulletin No. 106, July
-2009, Reaffirmed 2019b
-American College of Obstetricians and Gynecologists: Vaginal birth after previous cesarean delivery.
-Practice Bulletin 205, February 2019c
-Amorosa JM, Stone J, Factor SH, et al: A randomized trial of Foley bulb for labor induction in premature
-rupture of membranes in nulliparas (FLIP). Am J Obstet Gynecol 217(3):360.e1, 2017
-Bakos O, Bäckström T: Induction of labor: a prospective, randomized study into amniotomy and oxytocin
-as induction methods in a total unselected population. Acta Obstet Gynecol Scand 66:537, 1987
-Bishop EH: Pelvic scoring for elective induction. Obstet Gynecol 24:266, 1964
-Bleich AT, Villano KS, Lo JY, et al: Oral misoprostol for labor augmentation: a randomized controlled
-trial. Obstet Gynecol 118(6):1255, 2011
-Boulvain M, Kelly A, Irion O: Intracervical prostaglandins for induction of labour. Cochrane Database
-Syst Rev 1:CD006971, 2008
-Boulvain M, Stan C, Irion O: Membrane sweeping for induction of labour. Cochrane Database Syst Rev
-1:CD000451, 2005
-Brandstetter A, Döbert M, Schwaerzler P, et al: Safety of misoprostol vaginal insert for labor induction
-using standard vs. adjusted retrieval criteria: a comparative cohort study. J Perinat Med. 48(5):488,
-2020
-Brandstetter A, Döbert M, Schwaerzler P, et al: Standard and adjusted criteria for the use of the
-misoprostol vaginal insert for labor induction: a comparative cohort study J Perinat Med 47(7):750,
-2019
+Both vaginal and oral misoprostol are used for either cervical ripening or labor induction. For labor induction in women at or near term with either prematurely ruptured membranes or a favorable cervix, 100 µg of oral or 25 µg of vaginal misoprostol has similar efficacy compared with intravenous oxytocin. From these studies, evidence supports that oral misoprostol may be superior (Alfirevic, 2014; Hofmeyr, 2010; Lo, 2003). That said, misoprostol is associated with a greater rate of uterine tachysystole, particularly at higher doses. Also, induction with PGE1 may prove ineffective and require subsequent induction or augmentation with oxytocin. Thus, although there are trade-offs regarding the risks, costs, and ease of administration of each drug, either is suitable for labor induction. At Parkland Hospital, we administer an initial oral 100-µg dose, which may be repeated for inadequate labor after 6 hours. Four hours after the second dose or in those with tachysystole, an oxytocin infusion is begun, if needed, for hypotonic labor. One study compared oral misoprostol and a newer misoprostol vaginal insert that releases drug up to 24 hours. With the insert, cesarean delivery and adverse neonatal outcome rates were higher, but time to delivery was shorter (Döbert, 2018). Additional studies found these adverse outcomes were mitigated if the insert time was limited to 10 hours (Brandstetter, 2019, 2020). For labor augmentation, results of a randomized controlled trial showed oral misoprostol, 75 µg given at 4-hour intervals for a maximum of two
 
-Caldeyro-Barcia R, Alvarez H, Reynolds SR: A better understanding of uterine contractility through
-simultaneous recording with an internal and a seven channel external method. Surg Obstet Gynecol
-91:641, 1950
-Caldeyro-Barcia R, Poseiro JJ: Physiology of the uterine contraction. Clin Obstet Gynecol 3:386, 1960
-Carbone JF, Tuuli MG, Fogertey PJ, et al: Combination of Foley bulb and vaginal misoprostol compared
-with vaginal misoprostol alone for cervical ripening and labor induction: a randomized controlled trial.
-Obstet Gynecol 121:247, 2013
-Chiossi G, Lai Y, Landon MB, et al: Timing of delivery and adverse outcomes in term singleton repeat
-cesarean deliveries. Obstet Gynecol 121(3):561, 2013
-Connolly KA, Kohari KS, Rekawek P, et al: A randomized trial of Foley balloon induction of labor trial in
-nulliparas (FIAT-N). Am J Obstet Gynecol. 215:392.e1, 2016
-De Vivo V, Carbone L, Saccone G, et al: Early amniotomy after cervical ripening for induction of labor:
-a systematic review and meta-analysis of randomized controlled trials. Am J Obstet Gynecol
-222(4):320, 2020
-Döbert M, Brandstetter A, Henrich W, et al: The misoprostol vaginal insert compared with oral
-misoprostol for labor induction in term pregnancies: a pair-matched case-control study. J Perinat
-Med 46(3):309, 2018
-Feltovich H: Cervical evaluation. From ancient medicine to precision medicine. Obstet Gynecol 130:51,
-2017
-Flannelly GM, Turner MJ, Rassmussen MJ, et al: Rupture of the uterus in Dublin: an update. J Obstet
-Gynaecol 13:440, 1993
-Fraser W, Marcoux S, Moutquin JM, et al: Effect of early amniotomy on the risk of dystocia in
-nulliparous women. N Engl J Med 328:1145, 1993
-Freret TS, Woods GT, James KE, et al: Incidence of and risk factors for failed induction of labor using a
-contemporary definition. Obstet Gynecol 137(3):497, 2021
-Frigoletto FD, Lieberman E, Lang JM, et al: A clinical trial of active management of labor. N Engl J
-Med 333:745, 1995
-Fruhman G, Gavard JA, Amon E, et al: Tension compared to no tension on a Foley transcervical
-catheter for cervical ripening: a randomized controlled trial. Am J Obstet Gynecol 216:67.e1, 2017
-Garite TJ, Porto M, Carlson NJ, et al: The influence of elective amniotomy on fetal heart rate patterns
-and the course of labor in term patients: a randomized study. Am J Obstet Gynecol 168:1827, 1993
-Ghosh A, Lattey KR, Kelly AJ: Nitric oxide donors for cervical ripening and induction of labour.
-Cochrane Database Syst Rev 12:CD006901, 2016
-Gomez HB, Hoffman MK, Caplan R, et al: Buccal vs vaginal misoprostol combined with Foley catheter
-for cervical ripening at term (the BEGIN trial): a randomized controlled trial. Am J Obstet Gynecol
-224(5):524.e1, 2021
-Grobman WA, Caughey AB: Elective induction of labor at 39 weeks compared with expectant
-management: a meta-analysis of cohort studies. Am J Obstet Gynecol 221(4):304, 2019
-Grobman WA, Rice MM, Reddy UM, et al: Labor induction versus expectant management in low-risk
-nulliparous women. N Engl J Med 379(6):513, 2018
-Hamidi O, Quist-Nelson J, Xodo S, et al: Membrane sweeping in patients planning a trial of labor after
-cesarean: a systematic review and meta-analysis or randomized controlled trials. J Matern Fetal
-Neonatal Med 33(18):3103, 2020
-Hauth JC, Hankins GD, Gilstrap LC III: Uterine contraction pressures achieved in parturients with
-active phase arrest. Obstet Gynecol 78:344, 1991
+doses, to be safe and effective (Bleich, 2011). Although the uterine tachysystole rate was higher among women with labor augmented with misoprostol, the frequency of nonreassuring fetal status or cesarean delivery did not differ between oxytocin and misoprostol.
 
-Hauth JC, Hankins GD, Gilstrap LC III: Uterine contraction pressures with oxytocin
-induction/augmentation. Obstet Gynecol 68:305, 1986
-Hawkins JS, Stephenson M, Powers B, et al: Diabetes mellitus: an independent predictor of duration of
-prostaglandin labor induction. J Perinatol 37:488, 2017
-Hawkins JS, Wing DA: Current pharmacotherapy options for labor induction. Expert Opin
-Pharmacother 13(14):2005, 2012
-Hernandez JS, Wendel GD Jr, Sheffield JS: Trends in emergency peripartum hysterectomy at a single
-institution: 1988–2009. Am J Perinatol 30(5):365, 2013
-Hofmeyr GJ, Gülmezoglu AM, Pileggi C: Vaginal misoprostol for cervical ripening and induction of
-labour. Cochrane Database Syst Rev 10:CD000941, 2010
-Ivars J, Garabedian C, Devos P, et al: Simplified Bishop score including parity predicts successful
-induction of labor. Eur J Obstet Gynecol Reprod Biol 203:309, 2016
-Jozwiak M, Bloemenkamp KW, Kelly AJ, et al: Mechanical methods for induction of labour. Cochrane
-Database Syst Rev 3:CD001233, 2012
-Jozwiak M, Oude Rengerink K, Benthem M, et al: Foley catheter versus vaginal prostaglandin E2 gel
-for induction of labour at term (PROBAAT trial): an open-label, randomised controlled trial. Lancet
-378(9809):2095, 2011
-Jozwiak M, Oude Rengerink K, Ten Eikelder ML, et al: Foley catheter or prostaglandin E2 inserts for
-induction of labour at term: an open-label randomized controlled trial (PROBAAT-P trial) and
-systematic review of literature. Eur J Obstet Gynecol Reprod Biol 170(1):137, 2013
-Jozwiak M, Ten Eikelder M, Rengerink KO, et al: Foley catheter versus vaginal misoprostol: randomized
-controlled trial (PROBAAT-M Study) and systematic review and meta-analysis of literature. Am J
-Perinatol 31:145, 2014
-Karjane NW, Brock EL, Walsh SW: Induction of labor using a Foley balloon, with and without extraamniotic saline infusion. Obstet Gynecol 107:234, 2006
-Kawakita T, Reddy UM, Iqbal SN, et al: Duration of oxytocin and rupture of membranes before
-diagnosing a failed induction of labor. Obstet Gynecol 128:373, 2016
-Kehl S, Ziegler J, Schleussner E, et al: Sequential use of double-balloon catheter and oral misoprostol
-versus oral misoprostol alone for induction of labour at term (CRBplus trial): a multicenter, openlabel randomised controlled trial. BJOG 122(1):129, 2015
-Kominiarek MA, Zhang J, Vanveldhuisen P, et al: Contemporary labor patterns: the impact of maternal
-body mass index. Am J Obstet Gynecol 205(3):244.e1, 2011
-Kruit H, Tihtonen K, Raudaskoski T, et al: Foley catheter or oral misoprostol for induction of labor in
-women with term premature rupture of membranes: a randomized multicenter trial. Am J Perinatol
-33(9):866, 2016
-Landon MB, Hauth JC, Leveno KJ, et al: Maternal and perinatal outcomes associated with a trial of
-labor after prior cesarean delivery. N Engl J Med 351(25):2581, 2004
-Laughon SK, Branch DW, Beaver J, et al: Changes in labor patterns over 50 years. Am J Obstet
-Gynecol 206(5):419.e1, 2012
-Laughon SK, Zhang J, Troendle J, et al: Using a simplified Bishop score to predict vaginal delivery.
-Obstet Gynecol 117(4):805, 2011
-Levine LD, Downes KL, Elovitz MA, et al: Mechanical and pharmacologic methods of labor induction:
-a randomized controlled trial. Obstet Gynecol 128:1357, 2016
-Lo JY, Alexander JM, McIntire DD, et al: Ruptured membranes at term: randomized, double-blind trial
-of oral misoprostol for labor induction. Obstet Gynecol 101:685, 2003
+### Oxytocin
 
-López-Zeno JA, Peaceman AM, Adashek JA, et al: A controlled trial of a program for the active
-management of labor. N Engl J Med 326:450, 1992
-Luthy DA, Malmgren JA, Zingheim RW: Cesarean delivery after elective induction in nulliparous
-women: the physician effect. Am J Obstet Gynecol 191:1511, 2004
-Maier JT, Metz M, Watermann N, et al: Induction of labor in patients with an unfavorable cervix after a
-cesarean using an osmotic dilator versus vaginal prostaglandin. J Perinatal Med 46(3):299, 2018
-Martin JA, Hamilton BE, Osterman MJ, et al: Births: final data for 2018. Natl Vital Stat Rep 68(13):1,
-2019
-McMaster K, Sanchez-Ramos L, Kaunitz AM: Evaluation of a transcervical Foley catheter as a source
-of infection: a systematic review and meta-analysis. Obstet Gynecol 126:539, 2015
-Mei-Dan E, Walfisch A, Valencia C, et al: Making cervical ripening EASI: a prospective controlled
-comparison of single versus double balloon catheters. J Matern Fetal Neonatal Med 27:1765, 2014
-Mercer BM, McNanley T, O’Brien JM, et al: Early versus late amniotomy for labor induction: a
-randomized trial. Am J Obstet Gynecol 173:1371, 1995
-Merrill DC, Zlatnik FJ: Randomized, double-masked comparison of oxytocin dosage in induction and
-augmentation of labor. Obstet Gynecol 94:455, 1999
-Middleton P, Shepherd E, Morris J, et al: Induction of labour at or beyond 37 weeks’ gestation. Cochran
-Database Syst Rev 7(7): CD004945, 2020
-Mundle S, Bracken H, Kedikar V, et al: Foley catheterisation versus oral misoprostol for induction of
-labour in hypertensive women in India (INFORM): a multicentre, open-label, randomised controlled
-trial. Lancet 390(10095):669, 2017
-O’Driscoll K, Foley M, MacDonald D: Active management of labor as an alternative to cesarean
-section for dystocia. Obstet Gynecol 63:485, 1984
-Raghuraman N, Stout MJ, Young OM: Utility of the simplified Bishop score in spontaneous labor. Am J
-Perinatol 33:1176, 2016
-Rouse DJ, McCullough C, Wren AL, et al: Active-phase labor arrest: a randomized trial of chorioamnion
-management. Obstet Gynecol 83:937, 1994
-Rouse DJ, Owen J, Hauth JC: Criteria for failed labor induction: prospective evaluation of a
-standardized protocol. Obstet Gynecol 96:671, 2000
-Salemi JL, Pathak EB, Salihu HM: Infant outcomes after elective early-term delivery compared with
-expectant management. Obstet Gynecol 127:657, 2016
-Satin AJ, Leveno KJ, Sherman ML, et al: High-dose oxytocin: 20- versus 40-minute dosage interval.
-Obstet Gynecol 83:234, 1994
-Satin AJ, Leveno KJ, Sherman ML, et al: High-versus low-dose oxytocin for labor stimulation. Obstet
-Gynecol 80:111, 1992
-Schoen CN, Grant G, Berghella V, et al: Intracervical Foley catheter with and without oxytocin for labor
-induction: a randomized controlled trial. Obstet Gynecol 129:1046, 2017
-Seitchik J, Amico J, Robinson AG, et al: Oxytocin augmentation of dysfunctional labor. IV. Oxytocin
-pharmacokinetics. Am J Obstet Gynecol 150:225, 1984
-Sievert RA, Kuper SG, Jauk VC: Predictors of vaginal delivery in medically indicated early preterm
-induction of labor. Am J Obstet Gynecol 217(3):375.e1, 2017
-Simon CE, Grobman WA: When has an induction failed? Obstet Gynecol 105:705, 2005
-Society for Maternal-Fetal Medicine: SMFM statement on elective induction of labor in low-risk
-nulliparous women at term: the ARRIVE trial. Am J Obstet Gynecol 221(1):B2, 2019
-Son M, Roy A, Stetson BT, et al: High-dose versus, standard-dose oxytocin regimens to augment labor
-in nulliparous: a double-blind randomized trial. Abstract No. 6, Presented at the 2020 Society for
+As previously emphasized, in many instances, preinduction cervical ripening and labor induction are simply a continuum. In this regard “ripening” can also stimulate labor. If not, induction or augmentation may be continued with solutions of oxytocin given by infusion pump. Its use in augmentation is a key component in the active management of labor, described in Chapter 22 (p. 430). With oxytocin use, the American College of Obstetricians and Gynecologists (2019a) recommends fetal heart rate and uterine contraction monitoring. Contractions can be monitored either by palpation or by electronic means.
 
-Maternal-Fetal Medicine Meeting. January 28–30, 2021
-Souter V, Painter I, Sitcov K, et al: Maternal and newborn outcomes with elective induction of labor at
-term. Am J Obstet Gynecol 220(3):273.e1, 2019
-Spong CY, Berghella V, Wenstrom KD, et al: Preventing the first cesarean delivery. Summary of a Joint
-Eunice Kennedy Shriver National Institute of Child Health and Human Development, Society for
-Maternal-Fetal Medicine, and American College of Obstetricians and Gynecologists Workshop.
-Obstet Gynecol 120(5):1181, 2012
-Ten Eikelder ML, Oude Rengerink K, Jozwiak M, et al: Induction of labor at term with oral misoprostol
-versus a Foley catheter (PROBAAT-II): a multicenter randomized controlled non-inferiority trial.
-Lancet 387:1619, 2016
-Tesemma MG, Sori DA, Gemeda DH: High dose and low dose oxytocin regimens as determinants of
-successful labor induction: a multicenter comparative study. BMC Pregnancy Childbirth 20(1):232,
-2020
-Theobald GW, Graham A, Campbell J, et al: The use of post-pituitary extract in physiological amounts in
-obstetrics; a preliminary report. BMJ 2(4567):123, 1948
-Thisted DL, Mortensen LH, Krebs L: Uterine rupture without previous caesarean delivery: a populationbased cohort study. Eur J Obstet Gynecol Reprod Biol 195:151, 2015
-Thomas J, Fairclough A, Kavanagh J, et al: Vaginal prostaglandin (PGE2 and PGF2a) for induction of
-labour at term. Cochrane Database Syst Rev 6:CD003101, 2014
-Thorbiörnson A, Vladic T, Stjernholm YV: Oral versus vaginal prostaglandin for labor induction. J
-Matern Fetal Neonatal Med 30:789, 2017
-Tita AT, Doherty L, Grobman WA, et al: Perinatal outcomes of expectant management of full-term, lowrisk, nulliparous patients. Obstet Gynecol 137(2):250, 2021
-Tita AT, Landon MB, Spong CY, et al: Timing of elective repeat cesarean delivery at term and neonatal
-outcomes. N Engl J Med 360(2):111, 2009
-Towers CV, Briggs GG, Rojas JA: The use of prostaglandin E2 in pregnant patients with asthma. Am J
-Obstet Gynecol 190(6):1777, 2004
-UK Amniotomy Group: A multicentre randomised trial of amniotomy in spontaneous first labour at term.
-BJOG 101:307, 1994
-Verhoeven CJ, Opmeer BC, Oei SG, et al: Transvaginal sonographic assessment of cervical length and
-wedging for predicting outcome of labor induction at term: a systematic review and meta-analysis.
-Ultrasound Obstet Gynecol 42:500, 2013
-Wen T, Beceir A, Xenakis E, et al: Is there a maximum effective dose of Pitocin? Am J Obstet Gynecol
-185:S212, 2001
-Widmer M, Piaggio G, Hofmeyr GJ, et al: Maternal characteristics and causes associated with
-refractory postpartum haemorrhage after vaginal birth: a secondary analysis of the WHO
-CHAMPION trial data. BJOG 127(5):628, 2020
-Xenakis EM, Langer O, Piper JM, et al: Low-dose versus high-dose oxytocin augmentation of labor—a
-randomized trial. Am J Obstet Gynecol 173: 1874, 1995
-Yeast JD, Jones A, Poskin M: Induction of labor and the relationship to cesarean delivery: a review of
-7001 consecutive inductions. Am J Obstet Gynecol 180:628, 1999
-Young DC, Delaney T, Armson BA, et al: Oral misoprostol, low dose vaginal misoprostol, and vaginal
-dinoprostone for labor induction: randomized controlled trial. PLoS One 15(1):e0227245, 2020
+Intravenous Oxytocin Administration A 1-mL vial contains 10 units of oxytocin. A typical infusate consists of 10 or 20 units, which is 10,000 or 20,000 mU, respectively, mixed into 1000 mL of crystalloid or dextrose solution. This mixture results in an oxytocin concentration of 10 or 20 mU/mL, respectively, and is administered by infusion pump. To avoid bolus administration, the infusion should be inserted into the main intravenous line close to the venipuncture site. The goal of induction or augmentation is to effect uterine activity sufficient to produce cervical change and fetal descent, while avoiding development of a nonreassuring fetal status. According to the American College of Obstetricians and Gynecologists (2019a), the latter is a category III fetal heart rate tracing. In general, oxytocin is discontinued if the number of contractions persists with a frequency of more than five in a 10-minute period or more than seven in a 15-minute period or with a persistent nonreassuring fetal heart rate pattern. Oxytocin discontinuation nearly always rapidly lowers contraction frequency. When oxytocin is stopped, its concentration in plasma rapidly falls because the half-life is approximately 3 to 5 minutes.
 
-SECTION 8
+The uterus contracts within 3 to 5 minutes of beginning an oxytocin infusion, and a plasma steady state is reached in 40 minutes (Seitchik, 1984). Response varies greatly and depends on preexisting uterine activity, cervical status, pregnancy duration, and individual biological differences. CaldeyroBarcia and Poseiro (1960) reported that the uterine response to oxytocin increases from 20 to 30 weeks’ gestation and rises rapidly at term. Oxytocin is generally very successful when used to stimulate labor. In one large Cochrane metaanalysis, oxytocin was compared with expectant management, and fewer women—8 versus 54 percent—failed to deliver vaginally within 24 hours with oxytocin (Alfirevic, 2009). This analysis studied different oxytocin dosing regimens.
 
-DELIVERY
+Oxytocin Regimens Several evidence-based regimens for labor stimulation are now recommended by the American College of Obstetricians and Gynecologists (2019a). These and others are shown in Table 26-5. Initially, only variations of low-dose protocols were used in the United States. Subsequently, O’Driscoll and colleagues (1984) described their Dublin protocol for the active management of labor that called for oxytocin at a starting dosage of 6 mU/min and advanced in 6-mU/min increments. Subsequent comparative trials during the 1990s studied high-dose (4 to 6 mU/min) versus conventional low-dose (0.5 to 1.5 mU/min) regimens, both for labor induction and for augmentation.
 
+> **Table 26-5:** Various Low- and High-Dose Oxytocin Regimens Used for Labor Induction
+
+From Parkland Hospital, Satin and associates (1992) evaluated an oxytocin regimen using an initial and incremental dosage of 6 mU/min compared with one using 1 mU/min. Among 1112 women undergoing induction, the 6-mU/min regimen resulted in a shorter mean admission-todelivery time, fewer failed inductions, and no cases of neonatal sepsis. Among 1676 women who had labor augmentation, those who received the 6mU/min regimen had a shorter duration-to-delivery time, fewer forceps deliveries, fewer cesarean deliveries for dystocia, and lower rates of intrapartum chorioamnionitis or neonatal sepsis. With this protocol, uterine tachysystole was managed by oxytocin discontinuation followed by resumption when indicated and at half the stopping dosage. Thereafter, the dosage was increased at 3 mU/min when appropriate, instead of the usual 6mU/min increase used for women without tachysystole. No adverse neonatal effects were observed. More recently, Son and colleagues (2021) confirmed these findings in a randomized clinical trial. In 1990 at Parkland Hospital, routine use of the 6-mU/min oxytocin beginning and incremental dosage was incorporated and continues through today. In other labor units, a 2-mU/min beginning and incremental oxytocin
+
+regimen is preferred and administered. With either regimen, dosages are employed for either labor induction or augmentation.
+
+Interval Between Incremental Dosing Intervals to increase oxytocin doses vary from 15 to 40 minutes (see Table 26-5). Satin and associates (1994) addressed this aspect with a 6-mU/min regimen providing increases at either 20- or 40-minute intervals. Women assigned to the 20-minute interval regimen for labor augmentation had a significantly reduced cesarean delivery rate for dystocia compared with that for the 40-minute interval regimen—8 versus 12 percent. As perhaps expected, uterine tachysystole was significantly more frequent with the 20minute escalation regimen. Other investigators reported even more frequent incremental increases. Frigoletto (1995) and Xenakis (1995) and their coworkers gave oxytocin at 4 mU/min with increases as needed every 15 minutes. Merrill and Zlatnik (1999) started with 4.5-mU/min doses and increased this every 30 minutes. López-Zeno and associates (1992) used 6-mU/min doses and 15-minute intervals.
+
+Maximal Oxytocin Dosage The maximal effective dose of oxytocin to achieve adequate contractions in all women is different. In one study of 1151 consecutive nulliparas, the likelihood of progression to vaginal delivery decreased at and beyond an oxytocin dosage of 36 mU/min (Wen, 2001). Still, at a dosage of 72 mU/min, half of the nulliparas were delivered vaginally. Thus, if contractions are not adequate—less than 200 Montevideo units—and if the fetal status is reassuring and labor has arrested, an oxytocin infusion dose greater than 48 mU/min has no apparent risks (Tesemma, 2020).
+
+### Risks versus Benefits
+
+Unless the uterus is scarred, uterine rupture associated with oxytocin infusion is rare, even in parous women. Flannelly and associates (1993) reported no cases of uterine rupture, with or without oxytocin, in 27,829 nulliparas. Eight instances of overt uterine rupture during labor were noted in 48,718 parous women. Only one of these was associated with oxytocin use. A population-
+
+based retrospective review from Denmark reported a rupture rate of 3.3 per 100,000 women without prior cesarean, with the highest risk among multiparas (Thisted, 2015). Our experience from Parkland Hospital is that oxytocin induction and augmentation are associated with uterine rupture. During an 8-year period in which there were almost 95,000 births, 15 women suffered a primary uterine rupture, and 14 of these cases were associated with oxytocin use. In half of these women, prostaglandins were also given before augmentation with oxytocin. Oxytocin has amino-acid homology similar to arginine vasopressin (AVP) and has significant antidiuretic action. When infused at doses of 20 mU/min or more, renal free water clearance drops markedly. If aqueous fluids are infused in appreciable amounts along with oxytocin, water intoxication can lead to convulsions, coma, and even death. In general, if oxytocin is to be administered in high doses for a considerable period of time, its concentration should be increased rather than raising the flow rate of a more dilute solution. Consideration also should be given to use of crystalloids—either normal saline or lactated Ringer solution.
+
+### Uterine Contraction Pressures
+
+Contraction forces in spontaneously laboring women range from 90 to 390 Montevideo units (Chap. 24, p. 462). Early researchers found that the mean or median spontaneous uterine contraction pattern between 140 and 150 Montevideo units resulted in progression to vaginal delivery (CaldeyroBarcia, 1950; Seitchik, 1984). Labor arrest in first-stage labor is described in Chapter 23 (p. 434). In the management of active-phase arrest, and with no contraindication to intravenous oxytocin, decisions must be made with knowledge of the safe upper range of uterine activity. Hauth and colleagues (1986) described an effective and safe protocol for oxytocin augmentation for active-phase arrest. With it, more than 90 percent of women achieved an average of at least 200 to 225 Montevideo units. They later reported that nearly all women in whom active-phase arrest persisted despite oxytocin generated more than 200 Montevideo units (Hauth, 1991). Importantly, despite no labor progression, no adverse maternal or perinatal effects were noted in those ultimately requiring cesarean delivery. Data regarding the safety and efficacy of
+
+contraction patterns in women with a prior cesarean delivery, with twins, or with an overdistended uterus are lacking.
+
+### Amniotomy for Induction and Augmentation
+
+Elective amniotomy with the intention of accelerating labor is often performed. For labor induction, artificial rupture of the membranes— sometimes called surgical induction—can be used and always implies a commitment to delivery. The main disadvantage of amniotomy used alone for labor induction is the unpredictable and occasionally long interval until labor onset. That said, in a randomized trial, Bakos and Bäckström (1987) found that amniotomy alone or combined with oxytocin was superior to oxytocin alone. Mercer and colleagues (1995) randomly assigned 209 women undergoing oxytocin induction to either early amniotomy at 1 to 2 cm or late amniotomy at 5 cm. Early amniotomy was associated with a 4-hour reduction in labor duration. With early amniotomy, however, the incidence of chorioamnionitis was elevated. In a metaanalysis, De Vivo and associates (2020) reported that early amniotomy did not increase the risk of cesarean delivery yet reduced the interval from induction to delivery. For labor augmentation, amniotomy is commonly performed when labor is abnormally slow. Shown in Table 26-6, amniotomy at approximately 5-cm dilation accelerated spontaneous labor by 1 to 1½ hours. Importantly, neither the need for oxytocin stimulation nor the overall cesarean delivery rate was higher. Although the incidences of mild and moderate cord compression patterns were increased following amniotomy, cesarean delivery rates for fetal distress were not greater. Most importantly, there were no adverse perinatal effects.
+
+> **Table 26-6:** Randomized Clinical Trials of Elective Amniotomy in Early Spontaneous Labor at Term
+
+Rouse and associates (1994) also found that amniotomy with oxytocin augmentation for arrested active-phase labor shortened the time to delivery by 44 minutes compared with that of oxytocin alone. Although amniotomy did not alter the delivery route, one drawback was that it significantly increased the incidence of chorioamnionitis. Regardless of the indication, amniotomy is associated with a risk of cord prolapse. To minimize this risk, disengagement of the fetal head during amniotomy is avoided. Toward this goal, fundal or suprapubic pressure or both may be helpful. Some clinicians prefer to rupture membranes during a contraction. If the vertex is not well applied to the lower uterine segment, a gradual egress of amnionic fluid can sometimes be accomplished by several membrane punctures with a 26-gauge needle held with a ring forceps and with direct visualization using a vaginal speculum. Alternatively, the trumpet used for pudendal blockade can sheath the needle and manually guide it through the cervix for amniotomy. In many of these cases, however, membranes tear and fluid is lost rapidly. Because of the risk of cord prolapse, or rarely placental abruption, the fetal heart rate is assessed before and immediately after amniotomy.
+
+### Membrane Stripping for Labor Induction
+
+Labor induction by membrane “stripping” or “sweeping” is a frequent practice. Several studies have suggested that membrane stripping is safe and lowers the incidence of postterm pregnancy without consistently raising the incidence of ruptured membranes, infection, or bleeding. Randomized trials are limited and a metaanalysis of two of these reported sweeping to be
+
+ineffective (Hamidi, 2020). Downsides are discomfort and associated bleeding (Boulvain, 2005).
+
+## References
+
+Adhikari EH, Nelson DB, McIntire DD, et al: Foley bulb added to an oral misoprostol induction protocol: a cluster randomized trial. Obstet Gynecol 136(5):953, 2020 Alfirevic Z, Aflaifel N, Weeks A: Oral misoprostol for induction of labour. Cochrane Database Syst Rev 6:CD001338, 2014 Alfirevic Z, Kelly AJ, Dowswell T: Intravenous oxytocin alone for cervical ripening and induction of labour. Cochrane Database Syst Rev 4:CD003246, 2009 Al-Ibraheemi Z, Brustman L, Bimson BE, et al: Misoprostol with Foley bulb compared with misoprostol alone for cervical ripening: a randomized controlled trial. Obstet Gynecol 131(1):23, 2018 American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Guidelines for Perinatal Care, 8th ed. Elk Grove Village, AAP, 2017 American College of Obstetricians and Gynecologists: Practice advisory: clinical guidance for integration of the findings of The ARRIVE Trial: labor induction versus expectant management in low-risk nulliparous women. 2018. Available at: https://www.acog.org/clinical/clinicalguidance/practice-advisory/articles/2018/08/clinical-guidance-for-integration-of-the-findings-of-thearrive-trial. Accessed November 21, 2020 American College of Obstetricians and Gynecologists: Induction of labor. Practice Bulletin No. 107, August 2009, Reaffirmed 2019a American College of Obstetricians and Gynecologists: Intrapartum fetal heart rate monitoring: nomenclature, interpretation, and general management principles. Practice Bulletin No. 106, July 2009, Reaffirmed 2019b American College of Obstetricians and Gynecologists: Vaginal birth after previous cesarean delivery. Practice Bulletin 205, February 2019c Amorosa JM, Stone J, Factor SH, et al: A randomized trial of Foley bulb for labor induction in premature rupture of membranes in nulliparas (FLIP). Am J Obstet Gynecol 217(3):360.e1, 2017 Bakos O, Bäckström T: Induction of labor: a prospective, randomized study into amniotomy and oxytocin as induction methods in a total unselected population. Acta Obstet Gynecol Scand 66:537, 1987 Bishop EH: Pelvic scoring for elective induction. Obstet Gynecol 24:266, 1964 Bleich AT, Villano KS, Lo JY, et al: Oral misoprostol for labor augmentation: a randomized controlled trial. Obstet Gynecol 118(6):1255, 2011 Boulvain M, Kelly A, Irion O: Intracervical prostaglandins for induction of labour. Cochrane Database Syst Rev 1:CD006971, 2008 Boulvain M, Stan C, Irion O: Membrane sweeping for induction of labour. Cochrane Database Syst Rev 1:CD000451, 2005 Brandstetter A, Döbert M, Schwaerzler P, et al: Safety of misoprostol vaginal insert for labor induction using standard vs. adjusted retrieval criteria: a comparative cohort study. J Perinat Med. 48(5):488,
+
+## 2020
+
+Brandstetter A, Döbert M, Schwaerzler P, et al: Standard and adjusted criteria for the use of the misoprostol vaginal insert for labor induction: a comparative cohort study J Perinat Med 47(7):750,
+
+## 2019
+
+Caldeyro-Barcia R, Alvarez H, Reynolds SR: A better understanding of uterine contractility through simultaneous recording with an internal and a seven channel external method. Surg Obstet Gynecol 91:641, 1950 Caldeyro-Barcia R, Poseiro JJ: Physiology of the uterine contraction. Clin Obstet Gynecol 3:386, 1960 Carbone JF, Tuuli MG, Fogertey PJ, et al: Combination of Foley bulb and vaginal misoprostol compared with vaginal misoprostol alone for cervical ripening and labor induction: a randomized controlled trial. Obstet Gynecol 121:247, 2013 Chiossi G, Lai Y, Landon MB, et al: Timing of delivery and adverse outcomes in term singleton repeat cesarean deliveries. Obstet Gynecol 121(3):561, 2013 Connolly KA, Kohari KS, Rekawek P, et al: A randomized trial of Foley balloon induction of labor trial in nulliparas (FIAT-N). Am J Obstet Gynecol. 215:392.e1, 2016 De Vivo V, Carbone L, Saccone G, et al: Early amniotomy after cervical ripening for induction of labor: a systematic review and meta-analysis of randomized controlled trials. Am J Obstet Gynecol 222(4):320, 2020 Döbert M, Brandstetter A, Henrich W, et al: The misoprostol vaginal insert compared with oral misoprostol for labor induction in term pregnancies: a pair-matched case-control study. J Perinat Med 46(3):309, 2018 Feltovich H: Cervical evaluation. From ancient medicine to precision medicine. Obstet Gynecol 130:51,
+
+## 2017
+
+Flannelly GM, Turner MJ, Rassmussen MJ, et al: Rupture of the uterus in Dublin: an update. J Obstet Gynaecol 13:440, 1993 Fraser W, Marcoux S, Moutquin JM, et al: Effect of early amniotomy on the risk of dystocia in nulliparous women. N Engl J Med 328:1145, 1993 Freret TS, Woods GT, James KE, et al: Incidence of and risk factors for failed induction of labor using a contemporary definition. Obstet Gynecol 137(3):497, 2021 Frigoletto FD, Lieberman E, Lang JM, et al: A clinical trial of active management of labor. N Engl J Med 333:745, 1995 Fruhman G, Gavard JA, Amon E, et al: Tension compared to no tension on a Foley transcervical catheter for cervical ripening: a randomized controlled trial. Am J Obstet Gynecol 216:67.e1, 2017 Garite TJ, Porto M, Carlson NJ, et al: The influence of elective amniotomy on fetal heart rate patterns and the course of labor in term patients: a randomized study. Am J Obstet Gynecol 168:1827, 1993 Ghosh A, Lattey KR, Kelly AJ: Nitric oxide donors for cervical ripening and induction of labour. Cochrane Database Syst Rev 12:CD006901, 2016 Gomez HB, Hoffman MK, Caplan R, et al: Buccal vs vaginal misoprostol combined with Foley catheter for cervical ripening at term (the BEGIN trial): a randomized controlled trial. Am J Obstet Gynecol 224(5):524.e1, 2021 Grobman WA, Caughey AB: Elective induction of labor at 39 weeks compared with expectant management: a meta-analysis of cohort studies. Am J Obstet Gynecol 221(4):304, 2019 Grobman WA, Rice MM, Reddy UM, et al: Labor induction versus expectant management in low-risk nulliparous women. N Engl J Med 379(6):513, 2018 Hamidi O, Quist-Nelson J, Xodo S, et al: Membrane sweeping in patients planning a trial of labor after cesarean: a systematic review and meta-analysis or randomized controlled trials. J Matern Fetal Neonatal Med 33(18):3103, 2020 Hauth JC, Hankins GD, Gilstrap LC III: Uterine contraction pressures achieved in parturients with active phase arrest. Obstet Gynecol 78:344, 1991
+
+Hauth JC, Hankins GD, Gilstrap LC III: Uterine contraction pressures with oxytocin induction/augmentation. Obstet Gynecol 68:305, 1986 Hawkins JS, Stephenson M, Powers B, et al: Diabetes mellitus: an independent predictor of duration of prostaglandin labor induction. J Perinatol 37:488, 2017 Hawkins JS, Wing DA: Current pharmacotherapy options for labor induction. Expert Opin Pharmacother 13(14):2005, 2012 Hernandez JS, Wendel GD Jr, Sheffield JS: Trends in emergency peripartum hysterectomy at a single institution: 1988–2009. Am J Perinatol 30(5):365, 2013 Hofmeyr GJ, Gülmezoglu AM, Pileggi C: Vaginal misoprostol for cervical ripening and induction of labour. Cochrane Database Syst Rev 10:CD000941, 2010 Ivars J, Garabedian C, Devos P, et al: Simplified Bishop score including parity predicts successful induction of labor. Eur J Obstet Gynecol Reprod Biol 203:309, 2016 Jozwiak M, Bloemenkamp KW, Kelly AJ, et al: Mechanical methods for induction of labour. Cochrane Database Syst Rev 3:CD001233, 2012 Jozwiak M, Oude Rengerink K, Benthem M, et al: Foley catheter versus vaginal prostaglandin E2 gel for induction of labour at term (PROBAAT trial): an open-label, randomised controlled trial. Lancet 378(9809):2095, 2011 Jozwiak M, Oude Rengerink K, Ten Eikelder ML, et al: Foley catheter or prostaglandin E2 inserts for induction of labour at term: an open-label randomized controlled trial (PROBAAT-P trial) and systematic review of literature. Eur J Obstet Gynecol Reprod Biol 170(1):137, 2013 Jozwiak M, Ten Eikelder M, Rengerink KO, et al: Foley catheter versus vaginal misoprostol: randomized controlled trial (PROBAAT-M Study) and systematic review and meta-analysis of literature. Am J Perinatol 31:145, 2014 Karjane NW, Brock EL, Walsh SW: Induction of labor using a Foley balloon, with and without extraamniotic saline infusion. Obstet Gynecol 107:234, 2006 Kawakita T, Reddy UM, Iqbal SN, et al: Duration of oxytocin and rupture of membranes before diagnosing a failed induction of labor. Obstet Gynecol 128:373, 2016 Kehl S, Ziegler J, Schleussner E, et al: Sequential use of double-balloon catheter and oral misoprostol versus oral misoprostol alone for induction of labour at term (CRBplus trial): a multicenter, openlabel randomised controlled trial. BJOG 122(1):129, 2015 Kominiarek MA, Zhang J, Vanveldhuisen P, et al: Contemporary labor patterns: the impact of maternal body mass index. Am J Obstet Gynecol 205(3):244.e1, 2011 Kruit H, Tihtonen K, Raudaskoski T, et al: Foley catheter or oral misoprostol for induction of labor in women with term premature rupture of membranes: a randomized multicenter trial. Am J Perinatol 33(9):866, 2016 Landon MB, Hauth JC, Leveno KJ, et al: Maternal and perinatal outcomes associated with a trial of labor after prior cesarean delivery. N Engl J Med 351(25):2581, 2004 Laughon SK, Branch DW, Beaver J, et al: Changes in labor patterns over 50 years. Am J Obstet Gynecol 206(5):419.e1, 2012 Laughon SK, Zhang J, Troendle J, et al: Using a simplified Bishop score to predict vaginal delivery. Obstet Gynecol 117(4):805, 2011 Levine LD, Downes KL, Elovitz MA, et al: Mechanical and pharmacologic methods of labor induction: a randomized controlled trial. Obstet Gynecol 128:1357, 2016 Lo JY, Alexander JM, McIntire DD, et al: Ruptured membranes at term: randomized, double-blind trial of oral misoprostol for labor induction. Obstet Gynecol 101:685, 2003
+
+López-Zeno JA, Peaceman AM, Adashek JA, et al: A controlled trial of a program for the active management of labor. N Engl J Med 326:450, 1992 Luthy DA, Malmgren JA, Zingheim RW: Cesarean delivery after elective induction in nulliparous women: the physician effect. Am J Obstet Gynecol 191:1511, 2004 Maier JT, Metz M, Watermann N, et al: Induction of labor in patients with an unfavorable cervix after a cesarean using an osmotic dilator versus vaginal prostaglandin. J Perinatal Med 46(3):299, 2018 Martin JA, Hamilton BE, Osterman MJ, et al: Births: final data for 2018. Natl Vital Stat Rep 68(13):1,
+
+## 2019
+
+McMaster K, Sanchez-Ramos L, Kaunitz AM: Evaluation of a transcervical Foley catheter as a source of infection: a systematic review and meta-analysis. Obstet Gynecol 126:539, 2015 Mei-Dan E, Walfisch A, Valencia C, et al: Making cervical ripening EASI: a prospective controlled comparison of single versus double balloon catheters. J Matern Fetal Neonatal Med 27:1765, 2014 Mercer BM, McNanley T, O’Brien JM, et al: Early versus late amniotomy for labor induction: a randomized trial. Am J Obstet Gynecol 173:1371, 1995 Merrill DC, Zlatnik FJ: Randomized, double-masked comparison of oxytocin dosage in induction and augmentation of labor. Obstet Gynecol 94:455, 1999 Middleton P, Shepherd E, Morris J, et al: Induction of labour at or beyond 37 weeks’ gestation. Cochran Database Syst Rev 7(7): CD004945, 2020 Mundle S, Bracken H, Kedikar V, et al: Foley catheterisation versus oral misoprostol for induction of labour in hypertensive women in India (INFORM): a multicentre, open-label, randomised controlled trial. Lancet 390(10095):669, 2017 O’Driscoll K, Foley M, MacDonald D: Active management of labor as an alternative to cesarean section for dystocia. Obstet Gynecol 63:485, 1984 Raghuraman N, Stout MJ, Young OM: Utility of the simplified Bishop score in spontaneous labor. Am J Perinatol 33:1176, 2016 Rouse DJ, McCullough C, Wren AL, et al: Active-phase labor arrest: a randomized trial of chorioamnion management. Obstet Gynecol 83:937, 1994 Rouse DJ, Owen J, Hauth JC: Criteria for failed labor induction: prospective evaluation of a standardized protocol. Obstet Gynecol 96:671, 2000 Salemi JL, Pathak EB, Salihu HM: Infant outcomes after elective early-term delivery compared with expectant management. Obstet Gynecol 127:657, 2016 Satin AJ, Leveno KJ, Sherman ML, et al: High-dose oxytocin: 20- versus 40-minute dosage interval. Obstet Gynecol 83:234, 1994 Satin AJ, Leveno KJ, Sherman ML, et al: High-versus low-dose oxytocin for labor stimulation. Obstet Gynecol 80:111, 1992 Schoen CN, Grant G, Berghella V, et al: Intracervical Foley catheter with and without oxytocin for labor induction: a randomized controlled trial. Obstet Gynecol 129:1046, 2017 Seitchik J, Amico J, Robinson AG, et al: Oxytocin augmentation of dysfunctional labor. IV. Oxytocin pharmacokinetics. Am J Obstet Gynecol 150:225, 1984 Sievert RA, Kuper SG, Jauk VC: Predictors of vaginal delivery in medically indicated early preterm induction of labor. Am J Obstet Gynecol 217(3):375.e1, 2017 Simon CE, Grobman WA: When has an induction failed? Obstet Gynecol 105:705, 2005 Society for Maternal-Fetal Medicine: SMFM statement on elective induction of labor in low-risk nulliparous women at term: the ARRIVE trial. Am J Obstet Gynecol 221(1):B2, 2019 Son M, Roy A, Stetson BT, et al: High-dose versus, standard-dose oxytocin regimens to augment labor in nulliparous: a double-blind randomized trial. Abstract No. 6, Presented at the 2020 Society for
+
+**Maternal-Fetal Medicine Meeting.** January 28–30, 2021 Souter V, Painter I, Sitcov K, et al: Maternal and newborn outcomes with elective induction of labor at term. Am J Obstet Gynecol 220(3):273.e1, 2019 Spong CY, Berghella V, Wenstrom KD, et al: Preventing the first cesarean delivery. Summary of a Joint Eunice Kennedy Shriver National Institute of Child Health and Human Development, Society for Maternal-Fetal Medicine, and American College of Obstetricians and Gynecologists Workshop. Obstet Gynecol 120(5):1181, 2012 Ten Eikelder ML, Oude Rengerink K, Jozwiak M, et al: Induction of labor at term with oral misoprostol versus a Foley catheter (PROBAAT-II): a multicenter randomized controlled non-inferiority trial. Lancet 387:1619, 2016 Tesemma MG, Sori DA, Gemeda DH: High dose and low dose oxytocin regimens as determinants of successful labor induction: a multicenter comparative study. BMC Pregnancy Childbirth 20(1):232,
+
+## 2020
+
+Theobald GW, Graham A, Campbell J, et al: The use of post-pituitary extract in physiological amounts in obstetrics; a preliminary report. BMJ 2(4567):123, 1948 Thisted DL, Mortensen LH, Krebs L: Uterine rupture without previous caesarean delivery: a populationbased cohort study. Eur J Obstet Gynecol Reprod Biol 195:151, 2015 Thomas J, Fairclough A, Kavanagh J, et al: Vaginal prostaglandin (PGE2 and PGF2a) for induction of labour at term. Cochrane Database Syst Rev 6:CD003101, 2014 Thorbiörnson A, Vladic T, Stjernholm YV: Oral versus vaginal prostaglandin for labor induction. J Matern Fetal Neonatal Med 30:789, 2017 Tita AT, Doherty L, Grobman WA, et al: Perinatal outcomes of expectant management of full-term, lowrisk, nulliparous patients. Obstet Gynecol 137(2):250, 2021 Tita AT, Landon MB, Spong CY, et al: Timing of elective repeat cesarean delivery at term and neonatal outcomes. N Engl J Med 360(2):111, 2009 Towers CV, Briggs GG, Rojas JA: The use of prostaglandin E2 in pregnant patients with asthma. Am J Obstet Gynecol 190(6):1777, 2004 UK Amniotomy Group: A multicentre randomised trial of amniotomy in spontaneous first labour at term. BJOG 101:307, 1994 Verhoeven CJ, Opmeer BC, Oei SG, et al: Transvaginal sonographic assessment of cervical length and wedging for predicting outcome of labor induction at term: a systematic review and meta-analysis. Ultrasound Obstet Gynecol 42:500, 2013 Wen T, Beceir A, Xenakis E, et al: Is there a maximum effective dose of Pitocin? Am J Obstet Gynecol 185:S212, 2001 Widmer M, Piaggio G, Hofmeyr GJ, et al: Maternal characteristics and causes associated with refractory postpartum haemorrhage after vaginal birth: a secondary analysis of the WHO CHAMPION trial data. BJOG 127(5):628, 2020 Xenakis EM, Langer O, Piper JM, et al: Low-dose versus high-dose oxytocin augmentation of labor—a randomized trial. Am J Obstet Gynecol 173: 1874, 1995 Yeast JD, Jones A, Poskin M: Induction of labor and the relationship to cesarean delivery: a review of 7001 consecutive inductions. Am J Obstet Gynecol 180:628, 1999 Young DC, Delaney T, Armson BA, et al: Oral misoprostol, low dose vaginal misoprostol, and vaginal dinoprostone for labor induction: randomized controlled trial. PLoS One 15(1):e0227245, 2020
+
+SECTION 8
+
+## Delivery

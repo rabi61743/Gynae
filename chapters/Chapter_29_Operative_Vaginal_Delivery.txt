@@ -1,987 +1,209 @@
-CHAPTER 29
-
-Operative Vaginal Delivery
-
-INCIDENCE AND INDICATIONS
-CLASSIFICATION AND PREREQUISITES
-MORBIDITY
-FORCEPS DELIVERY
-VACUUM-ASSISTED DELIVERY
-TRAINING
-REFERENCES
-Operative vaginal delivery (OVD) is birth accomplished with assistance
-from forceps or a vacuum-cup device. Once these are applied to the fetal
-head, outward traction generates forces that augment maternal pushing to
-deliver the fetus.
-
-INCIDENCE AND INDICATIONS
-From national data, forceps or vacuum-assisted vaginal delivery aided 3.1
-percent of births in the United States in 2015. This is a decline from 9
-percent in 1990 (Martin, 2017). For these procedures, a vacuum is
-disproportionately selected, and the vacuum-to-forceps delivery ratio
-approximates 4:1 (Yeomans, 2010). Most of these procedures are successful
-in effecting vaginal birth. From 2006 United States data, only 0.4 percent of
-
-forceps trials and 0.8 percent of vacuum extraction attempts failed to result in
-vaginal birth (Osterman, 2009). In the specific group of nulliparas with term
-gestations, higher failure rates of 4.4 and 6.4 percent, respectively, were
-found in a study of 25 academic hospitals (Bailit, 2016).
-If technically safe, termination of second-stage labor by OVD is
-considered for any condition that threatens the mother or fetus and that is
-likely to be relieved by delivery. Of maternal indications, the most common
-are maternal exhaustion and prolonged second-stage labor. However, a
-specific, maximum second-stage length beyond which all women should be
-considered for OVD has not been defined (American College of
-Obstetricians and Gynecologists, 2019). Other maternal reasons are
-preexisting or intrapartum conditions that limit effective pushing or warrant
-expedited delivery. Severe or acute pulmonary compromise, decompensation
-from intrapartum infection, neurological disease, and serious cardiac
-disorders are examples. Frequent fetal indications include nonreassuring
-fetal heart rate and premature placental separation (Schuit, 2012).
-
-CLASSIFICATION AND PREREQUISITES
-Classification of OVD is summarized in Table 29-1. It emphasizes that
-station and rotation are the two most important discriminators of risk for both
-mother and neonate. Station is measured by the number of centimeters, either
-above or below, an anatomical zero station, which is a line drawn between
-the ischial spines. Stations range from –5 to 0 to +5. Procedures are
-categorized as outlet, low, and midpelvic, and most are low or outlet
-deliveries. High forceps, in which instruments are applied above 0 station,
-have no place in current obstetrics.
-TABLE 29-1. Operative Vaginal Delivery Prerequisites and Classification
-According to Station and Rotationa
-
-To aid patient selection, the Society for Maternal–Fetal Medicine (2020)
-published a preprocedural checklist and documentation template. Once
-station and rotation are determined, the prerequisites listed in Table 29-1 are
-assessed. For vacuum extraction, fetuses ideally are not younger than 34
-weeks’ gestation because of cranial hemorrhage vulnerability at earlier ages
-(Åberg, 2014). Also prior to vacuum use, although infrequently used in the
-United States, fetal scalp blood sampling should not have been recently
-performed. Of requisites, ascertaining correct head position is essential, and
-Figure 29-1 shows fetal skull anatomy. In unclear cases, sonography can help
-identify fetal orbits and nasal bridge to aid orientation (Ghi, 2018).
-
-FIGURE 29-1 Fetal head (A–B) at term showing fontanels, sutures, and various dimensions.
-
-Regional analgesia is preferable for low or midpelvic procedures.
-Pudendal blockade may prove adequate for outlet deliveries. As a causative
-factor, newer epidural methods or placement during early labor do not raise
-OVD rates (Anim-Somuahm, 2018; Liu, 2004).
-The bladder is emptied to provide additional pelvic space and minimize
-bladder trauma. Urinary retention and bladder dysfunction are frequent shortterm effects of OVD (Mulder, 2012; Pifarotti, 2014). Notably, episiotomy
-and epidural analgesia, both common associates of OVD, also are risks for
-urinary retention. Retention usually resolves after 24 to 48 hours of passive
-catheter bladder drainage (Chap. 36, p. 643).
-
-MORBIDITY
-■ Maternal Morbidity
-OVD carries increased risk of certain morbidities for both mother and fetus.
-In general, a higher station and greater degrees of rotation raise procedure
-difficulty and the chance of injury. Morbidity is most properly compared with
-morbidity from cesarean delivery and not with that from spontaneous birth.
-This is the most appropriate comparator because the alternative to indicated
-OVD is cesarean delivery.
-
-Lacerations
-The very indications that prompt OVD are among those that also increase the
-need for episiotomy and the likelihood of lacerations (de Leeuw, 2008). That
-said, higher rates of third- and fourth-degree perineal lacerations, vaginal
-wall lacerations, and less often cervical tears do complicate OVD compared
-with spontaneous birth (Friedman, 2015; Gurol-Urganci, 2013; Landy, 2011).
-These rates with OVD are also substantially higher than with cesarean
-delivery. Third- and fourth-degree perineal lacerations are grouped as
-obstetrical anal sphincter injuries (OASIS). In general, these tears more
-frequently attend forceps delivery compared with vacuum extraction, and
-especially if an episiotomy is midline (Kudish, 2006; O’Mahony, 2010).
-With OVD, indicated episiotomy rather than routine use is
-recommended. If required, a mediolateral episiotomy affords greater
-protection against OASIS than midline incision (Gurol-Urganci, 2013; Jangö,
-2014; van Bavel, 2018). But, short-term rates of pain and dyspareunia are
-similar or increased with mediolateral episiotomy (Chap. 27, p. 510). As
-another OASIS protection, early forceps disarticulation and removal can
-avoid the full perineal distention created by the blades and crowning head.
-Moreover, cessation of maternal pushing during disarticulation or as the head
-begins to crown allows the clinician sole control of outward forces against
-the perineum. Similarly, adding a dedicated assistant to bolster the perineum
-can lower OASIS rates, and this is our practice (Wan, 2020). Last, OASIS
-are more common with an occiput posterior (OP) position (Damron, 2004).
-Thus, manual or forceps rotation to an occiput anterior (OA) position may
-lower rates of lower reproductive tract injury (Bradley, 2013).
-
-Infection and Subsequent-pregnancy Morbidity
-As detailed in Chapter 30 (p. 548), cesarean delivery carries greater
-maternal morbidity compared with spontaneous birth. For OVD, in one study
-of more than 1 million births, cesarean delivery, but not OVD, was a risk for
-peripartum hysterectomy (Spiliopoulos, 2011). Further, avoiding cesarean
-delivery can minimize rates of subsequent pregnancy complications, such as
-placenta previa, placenta accreta spectrum, uterine rupture, and adhesionrelated surgical organ injury.
-In addition, postpartum wound or uterine infection is more frequent in
-women following cesarean compared with OVD (Bailit, 2016; Halscott,
-
-2015). Still, to address peripartum infection, investigators in the ANODE
-trial randomly assigned nearly 3500 gravidas undergoing OVD to receive
-either placebo or a single intravenous dose of amoxicillin plus clavulanic
-acid (Knight, 2019). The puerperal infection rate was 11 percent after
-antibiotic prophylaxis compared with 19 percent in those given placebo.
-Notably, these infections often coincide with long labors and multiple
-cervical examinations, both of which are common with women requiring
-OVD. Thus, we believe that provision of antibiotics to those undergoing
-OVD without other infection-related risks warrants further study. Indeed, the
-American College of Obstetricians and Gynecologists (2020a) notes that this
-prophylaxis is reasonable but recommends against routine antibiotic
-prophylaxis for all women undergoing OVD. However, the College (2020b)
-does note that a single antibiotic dose with third- and fourth-degree perineal
-laceration is reasonable. Several studies support this practice (Duggal, 2008;
-Lewicky-Gaupp, 2015; Stock, 2013a).
-
-Pelvic Floor Disorders
-This term encompasses urinary incontinence, anal incontinence, and pelvic
-organ prolapse (POP). OVD has been implicated as a possible risk for each.
-Proposed mechanisms include structural compromise or pelvic floor
-denervation secondary to forces exerted during delivery.
-For urinary incontinence, parity and specifically vaginal delivery are risk
-factors (Gyhagen, 2013; Rortveit, 2003). But, many studies do not support a
-higher risk from OVD compared with the risk from vaginal birth alone
-(Gartland, 2016; Leijonhufvud, 2011; MacArthur, 2016).
-Evidence linking anal incontinence with OVD is conflicting. Some
-studies show that OASIS, but not delivery mode, is the main etiological link
-(Bols, 2010; Evers, 2012; Nygaard, 1997). In contrast, others directly
-associate OVD with anal incontinence (Dolan, 2010; MacArthur, 2013). But,
-these studies may not be incongruous—recall that OVD is associated with
-increased rates of OASIS. Importantly, several studies and reviews have not
-found cesarean delivery to be protective long term against anal incontinence
-(Nelson, 2010).
-Similarly for POP, evidence linking it to OVD is mixed (Gyhagen, 2013;
-Volløyhaug, 2015). First, pelvic floor mechanisms leading to POP are
-complex and incompletely defined (Gordon, 2019). Despite this, obstetrical
-
-avulsion of the levator ani muscle from the pelvic sidewall has been
-implicated, and OVD, especially forceps delivery, is one risk for this injury
-(DeLancey, 2007; Dietz, 2008; Friedman, 2019). Again, the pelvic floor
-injury rather OVD itself may be the causative agent, as those with OVD but
-no avulsion did not suffer greater POP rates in one recent analysis (Handa,
-2019).
-
-■ Perinatal Morbidity
-Acute Perinatal Injury
-OVD carries higher risk for fetal injury than cesarean delivery or
-spontaneous birth. Both OVD methods are implicated, and factors can
-include delivery duration and the number of pulls or cup pop-offs (Åberg,
-2019; Levin, 2019; Miller, 2020). Injuries are more frequent with vacuum
-extraction, and injuries with this device include cephalohematoma, subgaleal
-hemorrhage, retinal hemorrhage, neonatal jaundice secondary to these
-hemorrhages, clavicular fracture, and scalp lacerations. Cephalohematoma
-and subgaleal hemorrhage are both extracranial lesions illustrated in Figure
-33-2 (p. 608). Shoulder dystocia has been linked to both methods (Dall’Asta,
-2016). Forceps delivery has higher rates of facial nerve injury, brachial
-plexus injury, depressed skull fracture, and corneal abrasion (American
-College of Obstetricians and Gynecologists, 2020a; Demissie, 2004; Dupuis,
-2005). With intracranial hemorrhage, some studies have associated vacuum
-extraction with higher rates, whereas others show similar rates with either
-OVD method (Towner, 1999; Wen, 2001; Werner, 2011).
-Compared with cesarean delivery, OVD carries higher risk of
-extracranial hematomas, fractures, nerve injuries, retinal hemorrhage, and
-head lacerations. However, rates of fetal acidemia or hypoxic
-encephalopathy are not higher with OVD compared with second-stage
-cesarean delivery (Bailit, 2016; Contag, 2010; Walsh, 2013). Intracranial
-hemorrhage rates are similar among newborns delivered by vacuum
-extraction, forceps, or cesarean delivery during labor (Towner, 1999). But,
-intracranial hemorrhage rates are higher than among those delivered
-spontaneously or by cesarean delivery before labor. These authors suggest
-that the common risk factor for intracranial hemorrhage is abnormal labor.
-Werner and associates (2011), in their evaluation of more than 150,000
-
-singleton deliveries, reported that forceps delivery was associated with
-fewer total neurological complications that included seizures,
-intraventricular hemorrhage, and subdural hemorrhage compared with
-vacuum-assisted birth or any cesarean delivery.
-Compared with rotational OVD, second-stage cesarean delivery has
-similar maternal and neonatal morbidity rates (Aiken, 2015; Bahl, 2013;
-Stock, 2013b). For example, in their large series, Tempest and associates
-(2013) found similar morbidity rates among malpositioned fetuses during
-second-stage labor that underwent Kielland rotation, rotational vacuum
-extraction, or emergency cesarean delivery.
-Midforceps by definition are performed from a higher station. The bulk
-of data are from older studies, and most show comparable neonatal
-morbidity between low and midforceps procedures (Dierker, 1985; Gilstrap,
-1984). In a recent report also comparing these two, Ducarme and coworkers
-(2015) found comparable neonatal and maternal composite morbidity scores.
-Comparing midpelvic OVD and second-stage cesarean delivery, most
-studies support neonatal safety (Bashore, 1990; Cibils, 1990; HagadornFreathy, 1991). But, others have found increased rates of trauma and
-umbilical cord blood acidemia with midforceps delivery (Robertson, 1990).
-More recently, Muraca and associates (2018) compared midpelvic OVD
-methods against second-stage cesarean delivery. For the indication of
-dystocia, fetal and maternal morbidity composite scores were higher with
-OVD. With distress as the indication, the neonatal morbidity score was
-greater only with midpelvic vacuum-assisted OVD, whereas the maternal
-morbidity score was higher only with midforceps. In another study
-comparing both midpelvic OVD methods, maternal morbidity was greater
-with forceps, and neonatal morbidity differed only in a higher
-cephalohematoma rate with vacuum-assisted delivery (Baerthlein, 1986).
-
-Mechanisms of Acute Injury
-The types of fetal injury with OVD can usually be explained by the forces
-exerted. In cases of cephalohematoma or subgaleal hemorrhage, suction and
-perhaps rotation during vacuum extraction may lead to a primary vessel
-shearing. Intracranial hemorrhage may result from skull fracture that lacerates
-vessels or from vessel rupture alone due to exerted forces. With facial nerve
-palsy, one of the forceps blades compresses the nerve against the facial
-
-bones. To explain brachial plexus injury, Towner and Ciotti (2007) proposed
-that as the fetal head descends down the birth canal, the shoulders may stay
-above the pelvic inlet. Thus, similar to shoulder dystocia at the symphysis,
-this “shoulder dystocia at the pelvic inlet” is overcome by traction forces but
-with concomitant stretch on the brachial plexus.
-
-Long-term Infant Morbidity
-Evidence regarding long-term neurodevelopmental outcomes in children born
-by OVD is reassuring (Seidman, 1991; Wesley, 1992). Moreover, no
-association between forceps delivery and later epilepsy was found in a
-cohort study of more than 21,000 births (Murphy, 2004). In their review,
-O’Callaghan and colleagues (2011) reported no link between cerebral palsy
-and OVD. Last, the incidence of neurodevelopmental morbidity was similar
-in those undergoing successful forceps delivery, failed forceps with cesarean
-delivery, or cesarean delivery without forceps in one study (Bahl, 2007).
-Similarly, with midpelvic OVD, long-term neurodevelopment is not harmed
-in most analyses (Dierker, 1986; Friedman, 1984; Nilsen, 1984; Wesley,
-1993).
-
-Trial of Operative Vaginal Delivery
-If an attempt to perform OVD is expected to be difficult, it should be
-considered a trial. Moving the woman to an operating room for this attempt,
-which could be followed by immediate cesarean delivery if OVD fails, has
-merit. If forceps cannot be satisfactorily applied, the procedure is stopped.
-Either a trial of vacuum-assisted delivery or cesarean delivery is then
-performed. With the former, if the fetus does not descend with traction, the
-trial should be abandoned and cesarean delivery performed.
-With such caveats, cesarean delivery after an OVD attempt was not
-associated with adverse neonatal outcomes if the fetal heart rate was
-concurrently reassuring (Alexander, 2009). A similar study evaluated 122
-women who had a trial of midpelvic OVD in a setting with full preparations
-for cesarean delivery (Lowe, 1987). Investigators found no significant
-difference in immediate neonatal or maternal morbidity compared with that
-of 42 women delivered for similar indications by cesarean but without such a
-trial. Conversely, in 61 women who had “unexpected” vacuum or forceps
-
-failure in which there was no prior preparation for immediate cesarean
-delivery, neonatal morbidity was higher.
-Some factors associated with OVD failure are persistent OP positions
-and birthweight >4000 g (Ben-Haroush, 2007; Verhoeven, 2016). However,
-Palatnik and coworkers (2016) found that risk factors poorly predicted
-success. In general, to avert morbidity with failed OVD, the American
-College of Obstetricians and Gynecologists (2020a) cautions that these trials
-should be attempted only if the clinical assessment suggests a successful
-outcome. We also emphasize proper training.
-Sequential instrumentation most often involves an attempt at vacuumassisted OVD followed by one with forceps. This sequence likely reflects
-the overall higher completion rate with forceps. However, this practice
-significantly raises fetal trauma risks (Dupuis, 2005; Gardella, 2001;
-Murphy, 2011). The American College of Obstetricians and Gynecologists
-(2020a) recommends against the sequential use of instruments unless there is
-a “compelling and justifiable reason.”
-
-FORCEPS DELIVERY
-■ Design
-Forceps refers to the paired instrument, and each member of this pair is
-called a branch. Branches are designated left or right according to the side of
-the maternal pelvis to which they are applied (Fig. 29-2A). Each branch has
-four components: blade, shank, lock, and handle (see Fig. 29-2B). Each
-blade has a toe, a heel, and two curves. Of these, the outward cephalic curve
-conforms to the round fetal head, whereas the upward pelvic curve
-corresponds to the curve of the birth canal. Some blades are solid, meaning
-smooth on both surfaces. Others have an opening within or a depression
-along the blade surface and are termed fenestrated or pseudofenestrated,
-respectively. A true window in the blade reduces the degree of head slippage
-within the blades during forceps rotation. Disadvantageously, it can increase
-blade thickness and friction against the vaginal wall. With
-pseudofenestration, the forceps blade is smooth on the outer maternal side
-but indented on the inner fetal surface. The goal is to reduce head slipping yet
-improve the ease and safety of application and removal of forceps. In most
-situations, however, despite these subtle differences, any are appropriate.
-
-FIGURE 29-2 A. Simpson forceps have fenestrated blades, parallel shanks, and English lock. The
-cephalic curve accommodates the fetal head. B. Luikart forceps have pseudofenestrated blades,
-overlapping shanks, a sliding lock, and tongue-in-groove handles. The pelvic curve (black curve) is
-marked in this example.
-
-The blades are connected to shanks, which may be parallel or
-overlapping. Parallel shanks limit compression of blades against the fetal
-head and may be helpful with deliveries employing greater forces. These
-shanks, however, add width against the introitus. In comparison, overlapping
-
-shanks raise compression forces but distend the perineum less. This may
-offer greatest advantage for outlet deliveries.
-Locks are found on all forceps and help to connect the right and left
-branches and stabilize the instrument. They can be located at the end of the
-shank nearest to the handles (English lock), at the ends of the handles (pivot
-lock), or along the shank (sliding lock). Although varied in design, handles,
-when squeezed, raise compression forces against the fetal head. Thus, forces
-to consider include traction and compression.
-
-■ Blade Application and Delivery
-Forceps blades grasp the head and are applied according to fetal head
-position. If the head is in an OA position, two or more fingers of the right
-hand are introduced inside the left posterior portion of the vulva and
-advanced into the vagina beside the fetal head. The handle of the left branch
-is grasped between the thumb and two fingers of the left hand (Fig. 29-3).
-The blade tip is then gently introduced along the posterior left vaginal wall.
-It is swept upward and inward between the fetal head and the palmar surface
-of the fingers (Fig. 29-4). This blade can be held in position by an assistant.
-For application of the right blade, two or more fingers of the left hand are
-introduced into the right posterior portion of the vagina to serve as a guide
-for the right blade. This blade is held in the right hand and introduced into the
-vagina. With each blade, the thumb is positioned behind the heel, and most of
-the insertion force comes from this thumb (Fig. 29-5). If the head is
-positioned in a left OA (LOA) or right OA (ROA) position, then the lower of
-the two blades is typically placed first.
-
-FIGURE 29-3 For OA or LOA positions, the left handle of the forceps is held in the left hand. The
-blade is introduced into the left side of the pelvis between the fetal head and the fingers of the
-operator’s right hand.
-
-FIGURE 29-4 Insertion arc of the blade. Importantly, the thumb of the right hand, not shown here,
-guides the blade during placement.
-
-FIGURE 29-5 In applying the second blade, insertional force is generated mainly by the thumb.
-(Reproduced with permission from Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman
-BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York,
-NY: McGraw Hill; 2017.)
-
-The blades are constructed so that their cephalic curve is closely adapted
-to the sides of the fetal head (Fig. 29-6). The fetal head is perfectly grasped
-only when the long axis of the blades corresponds to the occipitomental
-diameter (see Fig. 29-1). As a result, most of the blade lies over the lateral
-face.
-
-FIGURE 29-6 A. The forceps are symmetrically placed and articulated. B. The vertex is OA.
-(Reproduced with permission from Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman
-BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York,
-NY: McGraw Hill; 2017.)
-
-Suboptimal blade placement can increase morbidity (Ramphul, 2015).
-For OA positions, appropriately applied blades are equidistant from the
-sagittal suture, and each blade is equidistant from its adjacent lambdoid
-suture. In OP positions, blades are symmetrically placed relative to the
-sagittal suture and to each coronal suture. After correct positioning, the
-branches can be articulated. If branches do not articulate, the blade’s
-relationships to the sutures are reassessed. Applied in this way, forceps
-should not slip, and traction may be applied most advantageously. With most
-forceps, if one blade is applied over the brow and the other over the occiput,
-
-the instrument cannot be locked, or if locked, the blades will slip off when
-traction is applied.
-With both branches in place, slow articulation of the handles will also
-typically correct mild asynclitism. For greater asynclitism, Luikart forceps
-can be placed and once positioned, one handle will extend further than the
-other along their long axis. Asynclitism is resolved by pulling and/or pushing
-each respective branch within the sliding lock along the instrument’s long
-axis until the finger guards align.
-Once blades are placed satisfactorily, rotation to OA position is
-performed before traction is applied (Fig. 29-7). Next, gentle, intermittent,
-downward and outward traction is exerted concurrent with maternal efforts
-until the perineum begins to bulge. For most stations, the initial direction of
-traction is downward and brings the head beneath the symphysis.
-
-FIGURE 29-7 If LOA, the vertex is rotated from this position to OA (arrow). (Reproduced with
-permission from Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC
-III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill;
-2017.)
-
-With head descent, the vector of forces changes continuously and are
-gradually directed upward (Fig. 29-8). During the birth of the head,
-mechanisms of spontaneous delivery should be simulated as closely as
-possible. As a teaching tool for this, a Bill axis traction device can be
-attached over the finger guards of most forceps. The instrument has an arrow
-and indicator line. When the arrow points directly to the line, traction is
-along the path of least resistance.
-
-FIGURE 29-8 With low forceps, the direction of gentle traction for delivery of the head is indicated
-(arrows). (Reproduced with permission from Yeomans ER: Operative vaginal delivery. In Yeomans ER,
-Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New
-York, NY: McGraw Hill; 2017.)
-
-It is impossible to ascertain the amount of force exerted by forceps for an
-individual patient. Thus, traction is ideally intermittent and relieved between
-contractions, as in spontaneous labor. Except when urgently indicated,
-delivery should be sufficiently slow, deliberate, and gentle to prevent undue
-head compression. It is preferable to apply traction only with each uterine
-contraction. Maternal pushing will augment these efforts.
-With traction, as the occiput distends the vulva, an episiotomy may be
-performed if needed. The delivery may be completed in several ways. Some
-clinicians keep the forceps in place to control the head. However, this blade
-volume adds to vulvar distention and raises risks for laceration or
-episiotomy. To prevent this, the forceps may be removed, and delivery is
-then completed by maternal pushing (Fig. 29-9). Importantly, if blades are
-disarticulated and removed too early, the head may recede and prolong
-delivery. Pushing in some cases may be aided by the modified Ritgen
-
-maneuver. We emphasize bolstering of the perineum to control outward
-forces.
-
-FIGURE 29-9 Branches are removed in the opposite order from that in which they were originally
-placed. The fingers of the right hand, covered by a sterile towel, bolster the perineum. The thumb is
-placed directly on the head to prevent sudden egress. (Reproduced with permission from Yeomans ER:
-Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and
-Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
-
-■ Manual Rotation
-In many cases, OT and OP head positions are often imperfectly flexed and
-present a wider head diameter. This can slow fetal descent and lengthen
-second-stage labor. By manually rotating the fetal occiput into the anterior
-pelvis (OA positions), cephalopelvic proportions improve to help hasten
-spontaneous birth. This is usually reserved for second-stage labor. Compared
-with no attempt, manual rotation is associated with lower rates of cesarean
-delivery, OVD, severe perineal laceration, and chorioamnionitis (Blanc,
-2021; Shaffer, 2011). If OVD is still required, the new OA position lowers
-rates of perineal trauma.
-In the simplest cases, digital rotation can correct OT or OP positioning.
-With head molding, the sutures override one another to create a bony ridge.
-Two fingers hooked against this ridge and forces directed parallel to the
-skull can rotate the occiput toward the anterior pelvis. This is done between
-contractions, and advancements are then held in place during pushing.
-Progressive degrees of rotation are attained with each attempt, and several
-may be needed to ultimately rotate the occiput into the anterior pelvis.
-Instead, with manual rotation, an open hand is inserted into the vagina.
-For ROP position, the right palm cups the fetal head and straddles the sagittal
-suture. The operator’s fingers wrap to one side of the fetal face, and the
-thumb extends along the other side. Rotation is clockwise to bring the occiput
-to an ROA position (Fig. 29-10). With LOP position, rotation is
-counterclockwise with the left palm. Three actions are performed
-simultaneously between contractions. The fetal head is flexed to provide a
-smaller diameter for rotation and subsequent descent within the pelvis. Next,
-slight destationing of the fetal head moves the head to a level in the maternal
-pelvis with sufficient room to complete the rotation. Importantly, destationing
-should not be confused with disengaging the fetal head, which is proscribed.
-Third, we and others prefer also to place the other hand externally on the
-corresponding side of the maternal abdomen to pull the back of the fetus up
-and toward the midline in synchrony with internal head rotation. Barth
-(2015) provides an excellent summary of this technique.
-
-FIGURE 29-10 A. Manual rotation using the left hand, palm-up, to rotate from ROP. B. The head is
-flexed and destationed during clockwise rotation to reach an OA position. (Reproduced with permission
-
-from Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al
-(eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
-
-Le Ray and associates (2007, 2013) reported a success rate >90 percent
-with manual rotation. Complication were uncommon. In their report of 796
-rotations, no cords prolapsed. Two women sustained cervical lacerations,
-which required simple vaginal repair. Notably, this study allowed rotations
-at advanced cervical dilation prior to second-stage labor, which may have
-enhanced cervical injury risk. In 71 percent, fetal heart rate (FHR) was
-normal during rotation, but severe FHR abnormalities were noted in 10
-percent. However, the need for cesarean delivery after successful manual
-rotation was not associated with FHR abnormalities. Failure to rotate the
-head does not mandate cesarean delivery, and options are described next.
-
-■ Persistent Occiput Posterior Positions
-In cases with persistent OP positioning, the head may spontaneously deliver
-OP, may be manually or instrumentally rotated to an OA position, or may be
-delivered OP by forceps or vacuum (Bertholdt, 2019). In many cases, the
-cause of a persistent OP position and of the difficulty in accomplishing
-rotation is an anthropoid pelvis. This architecture opposes rotation and
-predisposes to posterior delivery (Fig. 2-16, p. 29).
-With forceps delivery from an OP position, downward and outward
-traction is applied until the base of the nose passes under the symphysis (Fig.
-29-11). The handles are then slowly elevated until the occiput gradually
-emerges over the perineum’s fourchette. The forceps are directed downward
-again, and the nose, mouth, and chin successively emerge from the vulva.
-
-FIGURE 29-11 Outlet forceps delivery from an OP position. The head should be flexed after the
-bregma passes under the symphysis.
-
-OP delivery causes greater vulvar distention, and an episiotomy may be
-needed. OP deliveries have a higher incidence of severe perineal lacerations
-and of extensive episiotomy compared with OA positions (de Leeuw, 2008;
-Pearl, 1993). Also, newborns undergoing OVD from OP positions have a
-higher incidence of Erb and facial nerve palsies, 1 and 2 percent,
-respectively, than those delivered from OA positions. As expected, rotations
-to OA ultimately decrease perineal delivery trauma (Bradley, 2013).
-For forceps rotations from an OP to OA position, Kielland forceps are
-preferred because they have a less pronounced pelvic curve (Fig. 29-12).
-Cunningham and Gilstrap’s Operative Obstetrics, 3rd edition offers a more
-detailed description and illustration of this Kielland forceps procedure
-(Yeomans, 2017).
-
-FIGURE 29-12 Kielland forceps. The characteristic features are minimal pelvic curvature (A), sliding
-lock (B), and light weight.
-
-■ Occiput Transverse Positions
-With occiput transverse (OT) fetal head positions, rotation is required for
-delivery. For this, the head may be manually or instrumentally rotated into an
-OA position. Manual rotation was described earlier in that section (p. 540).
-Forceps rotation by experienced operators can offer high success rates
-with minimal maternal morbidity (Burke, 2012; Stock, 2013b). Either
-standard forceps or specialized forceps, such as Kielland forceps, are used.
-With the latter, each handle has a small knob, and branches are placed so that
-this knob faces the occiput.
-Kielland described two methods of applying the anterior blade. In this
-example, placement with a left OT (LOT) position is described. With the
-wandering method, the anterior blade is first introduced into the posterior
-pelvis (Fig. 29-13). The blade is then arched around the face to an anterior
-position. To permit this sweep of the blade, the handle is held close to the
-left maternal buttock throughout the maneuver. The second blade is
-introduced posteriorly, and the branches are locked.
-
-FIGURE 29-13 A. Application of the right branch of the Kielland forceps to a head in LOT position.
-The knob on this branch (colored blue) will ultimately face the occiput. B. The right branch is
-wandered to its final position behind the symphysis. C. Insertion of the left branch of the Kielland
-forceps directly posterior along the hollow of the sacrum. This branch is inserted to the maternal right of
-the anterior branch to aid in engaging the sliding lock. (Reproduced with permission from Yeomans ER:
-Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and
-Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
-
-After checking the application, the provider pulls the handles of the
-Kielland forceps slightly to the patient’s right to flex the fetal head and create
-a smaller diameter for rotation. The first and second fingers of the left hand
-are placed over the finger guards with the palm against the handles. This
-palm faces the maternal left. Concurrently, the first two fingers of the
-operator’s right hand are placed against the anterior lambdoid suture. The
-fetal head is then elevated and slightly destationed. For rotation in a
-counterclockwise direction, the wrist of the left hand supinates, to direct this
-palm upward. Simultaneously, two fingers of the right hand press against the
-lambdoid suture ridge. This ensures that the fetal head turns with the blades
-and does not slip. As a newer adjunct, abdominal sonography can follow and
-document head rotation (Hinkson, 2021).
-The second type of blade application introduces the anterior blade with
-its cephalic curve directed upward to curve under the symphysis. After it has
-been advanced far enough toward the upper vagina, it is turned on its long
-axis through 180 degrees to adapt the cephalic curvature to the head. The
-second blade is introduced posteriorly, and the branches are locked.
-After rotation of the fetal occiput into the anterior pelvis, two acceptable
-methods for delivery are available. In one, the operator applies traction on
-the Kielland forceps using a bimanual grip described previously for
-conventional forceps (p. 539). When the posterior fontanel has passed under
-the subpubic arch, the handles can be elevated to the horizontal, but no
-further. Raising the handles above the horizontal may cause vaginal sulcus
-
-tears because of the reverse pelvic curve (Dennen, 1955). Alternatively, the
-Kielland forceps can be removed after rotation and replaced with
-conventional forceps. With this approach, moderate traction is first employed
-to seat the head before switching instruments.
-
-■ Face Presentations
-With a mentum anterior face presentation, OVD is an option. The blades are
-applied to the sides of the head along the occipitomental diameter, with the
-pelvic curve directed toward the neck (see Fig. 29-1). Downward traction is
-exerted until the chin appears under the symphysis. Then, by an upward
-movement, the face is slowly extracted, with the nose, eyes, brow, and
-occiput appearing in succession over the anterior margin of the perineum.
-Forceps should not be applied to the mentum posterior presentation
-because vaginal delivery is impossible except in very small fetuses.
-
-VACUUM-ASSISTED DELIVERY
-■ Vacuum Extractor Design
-With vacuum-assisted OVD, suction is created within a cup placed on the
-fetal scalp such that traction on the cup aids fetal birth. In the United States,
-vacuum extractor is the preferred term, whereas in Europe it is commonly
-called a ventouse (Fig. 29-14). Theoretical benefits of this tool compared
-with forceps include simpler requirements for precise positioning on the fetal
-head and avoidance of space-occupying blades within the vagina to help
-mitigate maternal trauma.
-
-FIGURE 29-14 Vacuum delivery systems. A. The Kiwi OmniCup contains a handheld vacuumgenerating pump, which is attached via flexible tubing to a rigid plastic mushroom cup. B. The Mityvac
-Mystic II MitySoft Bell Cup has a soft bell cup attached by a semirigid shaft to a handheld pump.
-
-Vacuum devices contain a cup, shaft, handle, and vacuum generator.
-Vacuum cups are metal or plastic and differ in their shape, size, and
-reusability. In the United States, plastic cups are generally preferred. Of
-these, the soft cup is a pliable bell-shaped dome, whereas the rigid type has a
-firm flattened mushroom-shaped cup and circular ridge around the cup rim
-(Table 29-2). When compared, rigid mushroom cups generate significantly
-more traction force (Hofmeyr, 1990; Muise, 1993). With OP positions or
-with asynclitism, the flatter cup also permits improved placement at the
-flexion point, which is typically less accessible with these head positions.
-The trade-off is that the flatter cups have higher scalp laceration rates. Thus,
-many manufacturers recommend soft bell cups for more straightforward OA
-deliveries.
-TABLE 29-2. Vacuum Cups for Operative Vaginal Delivery
-
-Several investigators have compared outcomes with various rigid and
-soft cups. Metal cups yield higher success rates but greater rates of scalp
-injuries, including cephalohematomas (O’Mahony, 2010). In another study,
-Kuit and colleagues (1993) found that the only advantage of the soft cups was
-
-a lower incidence of scalp injury. In a review, Vacca (2002) concluded that
-fewer scalp lacerations occurred with the soft cup, but that the rate of
-cephalohematomas and subgaleal hemorrhage was similar between soft and
-rigid cups. Importantly, high-pressure vacuum generates large amounts of
-force regardless of the cup used (Duchon, 1998).
-Aside from the cup, the shaft that connects the cup and handle may be
-flexible or semiflexible. Tubing-like flexible shafts may be preferred for OP
-positions or asynclitism to permit better seating of the cup. Last, the vacuum
-generator may be handheld and actuated by the operator, or it may be held
-and operated by an assistant.
-
-■ Technique
-An important step in vacuum-assisted OVD is proper cup placement over the
-flexion point. This pivot point maximizes traction, minimizes cup
-detachment, flexes the neck, and delivers the smallest head diameter through
-the pelvic outlet. This improves success rates, lowers scalp injury rates, and
-lessens perineal trauma because the smallest head diameter distends the
-vulva (Baskett, 2008).
-The flexion point is found along the sagittal suture, approximately 3 cm
-from the posterior fontanel’s center and approximately 6 cm from the anterior
-fontanel’s center. Because most cup diameters measure 5 to 6 cm, when
-properly placed, the cup rim lies at the posterior fontanel’s border and 3 cm
-from the anterior fontanel (Fig. 29-15). Placement of the cup more anteriorly
-on the fetal cranium—near the anterior fontanel—is ideally avoided as it
-leads to neck extension during traction unless the fetus is small. Such
-placement delivers a wider head diameter through the vaginal opening. Last,
-asymmetrical placement relative to the sagittal suture may worsen
-asynclitism. Cup placement in OA positions is seldom difficult. In contrast, if
-the indication for delivery is failure to descend caused by occipital
-malposition, cup positioning can be difficult.
-
-FIGURE 29-15 Drawing demonstrates correct cup placement at the flexion point. Along the sagittal
-suture, this spot lies 3 cm from the posterior fontanel and 6 cm from the anterior fontanel.
-
-During cup placement, maternal soft tissue entrapment predisposes the
-mother to lacerations and virtually ensures cup dislodgement, colloquially
-called a “pop off.” Thus, the entire cup circumference should be palpated
-both before and after the vacuum has been created and again prior to traction
-to exclude such entrapment. Gradual vacuum creation is advocated by some
-and is generated by increasing the suction in increments of 0.2 kg/cm2 every
-2 minutes until a total negative pressure of 0.8 kg/cm2 is reached (Table 293). That said, other studies have shown that negative pressure can be
-increased to 0.8 kg/cm2 in <2 minutes without a significant difference in
-efficacy or in maternal and fetal outcomes (Suwannachat, 2011, 2012).
-TABLE 29-3. Vacuum Pressure Conversions
-
-Once suction is created, the instrument handle is grasped, and traction is
-initiated. Similar to forceps delivery, traction angles mirror that in Figure 298 and should be steady without jerking or rocking. The number of needed
-pulls increases with higher station but typically ranges from one to four.
-Efforts are intermittent, and each pull is coordinated with maternal pushing.
-Manual torque to the cup is avoided as it can cause cup displacement or
-cephalohematomas and, with metal cups, “cookie-cutter”–type scalp
-lacerations. Thus, OA oblique positions are corrected not by rotation, but
-solely by downward outward traction. Similarly, for OP positions, rotational
-forces should not be applied. Instead, with correct flexion point placement
-and line of traction, the head will usually rotate by itself (van den Akker,
-2019).
-During pulls, the operator should place the nondominant hand within the
-vagina, with the thumb on the extractor cup and one or more fingers on the
-fetal scalp. So positioned, descent of the presenting part can be judged and
-the traction angle can be adjusted with head descent. In addition, the
-relationship of the cup edge to the scalp can be assessed to help detect cup
-separation.
-Between contractions, some physicians will lower the suction levels to
-decrease scalp injury rates, whereas others will maintain suction in cases
-with a nonreassuring FHR to aid rapid delivery. No differences in maternal
-or fetal outcome were noted if the vacuum level was decreased between
-contractions or if an effort was made to prevent fetal loss of station (Bofill,
-1997). Once the head is delivered, the vacuum pressure is relieved and the
-cup removed.
-Vacuum extraction should be considered a trial. Without early and clear
-evidence of descent toward delivery, an alternative delivery approach should
-be adopted. As a general guideline, progressive descent should accompany
-
-each traction attempt. Neither data nor consensus are available regarding the
-number of pulls required to effect delivery, the maximum number of cup popoffs that can be tolerated, or optimal total duration of the procedure. Some
-manufacturers have recommendations regarding these (Clinical Innovations,
-2018; CooperSurgical, 2018).
-During a vacuum-assisted delivery trial, cup dislodgement due to
-technical failure or less than optimal placement should not be equated with
-dislodgement under ideal conditions of exact cup placement and optimal
-vacuum maintenance. Technical failures may merit either additional attempts
-at cup placement or, alternatively, a trial of forceps (Ezenagu, 1999;
-Williams, 1991). The least desirable cases are those in which traction
-without progress or multiple disengagements occur following correct cup
-application and appropriate traction. As with forceps, clinicians should
-embrace a willingness to abandon attempts at vacuum-assisted delivery if
-satisfactory progress is not made (American College of Obstetricians and
-Gynecologists, 2020a).
-
-TRAINING
-As the OVD rate has declined, so have opportunities for resident training
-(Fitzwater, 2015; Kyser, 2014). In accredited programs, the median number
-of these procedures completed by trainees has reached critically low levels,
-and for recent graduates it approximated only 20 (Accreditation Council for
-Graduate Medical Education, 2019; Dildy, 2016). For residents completing
-training in 2021, the Accreditation Council for Graduate Medical Education
-(2020) minimum requirement is 15 procedures.
-To adapt, residency programs should have readily available skilled
-operators to teach these procedures by simulation as well as through actual
-cases (Spong, 2012). In one study, a 59-percent increase in forceps
-deliveries over 2 years was related to a single experienced and proactive
-instructor assigned to teach forceps to residents in labor and delivery (Solt,
-2011).
-In another, following implementation of a formal education program that
-included a manikin and pelvic model simulation, rates of neonatal morbidity
-and of severe maternal cervical, labial, and vaginal lacerations declined.
-However, OASIS rates were unchanged (Cheong, 2004). Gossett and
-
-associates (2016) found a 22-percent reduction in the OASIS rate following
-an OVD simulation curriculum.
-
-REFERENCES
-Åberg K, Norman M, Ekéus C: Preterm birth by vacuum extraction and neonatal outcome: a populationbased cohort study. BMC Pregnancy Childbirth 14:42, 2014
-Åberg K, Norman M, Pettersson K, et al: Protracted vacuum extraction and neonatal intracranial
-hemorrhage among infants born at term: a nationwide case-control study. Acta Obstet Gynecol
-Scand 98(4):523, 2019
-Accreditation Council for Graduate Medical Education: Case log minimum numbers: obstetrics and
-gynecology. 2020. Available at:
-https://www.acgme.org/Portals/0/PFAssets/ProgramResources/220_Ob_Gyn_Minimum_Numbers_
-Announcement.pdf?ver=2018-06-25-104354-993. Accessed July 23, 2020
-Accreditation Council for Graduate Medical Education: Obstetrics and gynecology case logs. 2019.
-Available at:
-https://www.acgme.org/Portals/0/PDFs/220_National_Report_Program_Version_2018-2019.pdf.
-Accessed July 23, 2020
-Aiken AR, Aiken CE, Alberry MS, et al: Management of fetal malposition in the second stage of labor:
-a propensity score analysis. Am J Obstet Gynecol 212(3):355.e1, 2015
-Alexander JM, Leveno KJ, Hauth JC, et al: Failed operative vaginal delivery. Obstet Gynecol
-114(5):1017, 2009
-American College of Obstetricians and Gynecologists, Society for Maternal-Fetal Medicine: Safe
-prevention of the primary cesarean delivery. Obstetric Care Consensus No. 1, March 2014,
-Reaffirmed 2019
-American College of Obstetricians and Gynecologists: Operative vaginal birth. Practice Bulletin No.
-219, April 2020a
-American College of Obstetricians and Gynecologists: Prevention and management of obstetrical
-lacerations at vaginal birth. Practice Bulletin No. 198, June 2018, Reaffirmed 2020b
-Anim-Somuah M, Smyth RM, Cyna AM, et al: Epidural versus non-epidural or no analgesia for pain
-management in labour Cochrane Database Syst Rev 5:CD000331, 2018
-Baerthlein WC, Moodley S, Stinson SK: Comparison of maternal and neonatal morbidity in midforceps
-delivery and midpelvis vacuum extraction. Obstet Gynecol 67(4):594, 1986
-Bahl R, Patel RR, Swingler R, et al: Neurodevelopmental outcome at 5 years after operative delivery in
-the second stage of labor: a cohort study. Am J Obstet Gynecol 197:147, 2007
-Bahl R, Van de Venne M, Macleod M, et al: Maternal and neonatal morbidity in relation to the
-instrument used for mid-cavity rotational operative vaginal delivery: a prospective cohort study.
-BJOG 120(12):1526, 2013
-Bailit JL, Grobman WA, Rice MM, et al: Evaluation of delivery options for second-stage events. Am J
-Obstet Gynecol 214(5):638.e1, 2016
-Barth WH Jr: Persistent occiput posterior. Obstet Gynecol 125(3):695, 2015
-Bashore RA, Phillips WH Jr, Brinkman CR III: A comparison of the morbidity of midforceps and
-cesarean delivery. Am J Obstet Gynecol 162(6):1428, 1990
-
-Baskett TF, Fanning CA, Young DC, et al: A prospective observational study of 1000 vacuum assisted
-deliveries with the OmniCup device. J Obstet Gynaecol Can 30(7):573, 2008
-Ben-Haroush A, Melamed N, Kaplan B, et al: Predictors of failed operative vaginal delivery: a singlecenter experience. Am J Obstet Gynecol 197:308.e1, 2007
-Bertholdt C, Gauchotte E, Dap M, et al: Predictors of successful manual rotation for occiput posterior
-positions. Int J Gynaecol Obstet 144(2):210, 2019
-Blanc J, Castel P, Mauviel F, et al: Prophylactic manual rotation of occiput posterior and transverse
-positions to decrease operative delivery: the PROPOP randomized clinical trial. Am J Obstet
-Gynecol May 24, 2021 [Epub ahead of print]
-Bofill JA, Rust OA, Schorr SJ, et al: A randomized trial of two vacuum extraction techniques. Obstet
-Gynecol 89(5 Pt 1):758, 1997
-Bols EM, Hendriks EJ, Berghmans BC, et al: A systematic review of etiological factors for postpartum
-fecal incontinence. Acta Obstet Gynecol Scand 89(3):302, 2010
-Bradley MS, Kaminski RJ, Streitman DC, et al: Effect of rotation on perineal lacerations in forcepsassisted vaginal deliveries. Obstet Gynecol 122(1):132, 2013
-Broman SH, Nichols PL, Kennedy WA: Preschool IQ: prenatal and early developmental correlates.
-Hillside, L. Erlbaum Associates, 1975
-Burke N, Field K, Mujahid F, et al: Use and safety of Kielland’s forceps in current obstetric practice.
-Obstet Gynecol 120(4):766, 2012
-Cheong YC, Abdullahi H, Lashen H, et al: Can formal education and training improve the outcome of
-instrumental delivery? Eur J Obstet Gynecol 113:139, 2004
-Cibils LA, Ringler GE: Evaluation of midforceps delivery as an alternative. J Perinat Med 18(1):5, 1990
-Clinical Innovations: Kiwi complete vacuum delivery system instructions for use. 2018. Available at:
-clinicalinnovations.com/wp-content/uploads/2015/10/Kiwi-M_ME-IFU.pdf. Accessed August 13,
-2020
-Contag SA, Clifton RG, Bloom SL, et al: Neonatal outcomes and operative vaginal delivery versus
-cesarean delivery. Am J Perinatol 27(6):493, 2010
-Cooper Surgical: Mityvac vacuum-assisted delivery system. 2018. Available at:
-www.coopersurgical.com/product-resources/5cf330cb-141e-4573-83caf67b4147ba4f_Mityvac_MitySoft_Bell_Cup_Instruction_for_Use.pdf. Accessed August 13, 2020
-Dall’Asta A, Ghi T, Pedrazzi G, et al: Does vacuum delivery carry a higher risk of shoulder dystocia?
-Review and meta-analysis of the literature. Eur J Obstet Gynecol Reprod Biol 204:62, 2016
-Damron DP, Capeless EL: Operative vaginal delivery: a comparison of forceps and vacuum for success
-rate and risk of rectal sphincter injury. Am J Obstet Gynecol 191:907, 2004
-de Leeuw JW, de Wit C, Kuijken JP, et al: Mediolateral episiotomy reduces the risk for anal sphincter
-injury during operative vaginal delivery. BJOG 115:104, 2008
-DeLancey JO, Morgan DM, Fenner DE, et al: Comparison of levator ani muscle defects and function in
-women with and without pelvic organ prolapse. Obstet Gynecol 109:295, 2007
-Demissie K, Rhoads GG, Smulian JC, et al: Operative vaginal delivery and neonatal and infant adverse
-outcomes: population based retrospective analysis. BMJ 329(7456):24, 2004
-Dennen EH: Forceps Delivery. Philadelphia, F.A. Davis Company, 1955
-Dierker LJ, Rosen MG, Thompson K, et al: Midforceps deliveries: long-term outcome of infants. Am J
-Obstet Gynecol 154:764, 1986
-Dierker LJ, Rosen MG, Thompson K, et al: The midforceps: maternal and neonatal outcomes. Am J
-Obstet Gynecol 152(2):176, 1985
-Dietz HP, Simpson JM: Levator trauma is associated with pelvic organ prolapse. BJOG 115:979, 2008
-
-Dildy GA, Belfort MA, Clark SL: Obstetric forceps: a species on the brink of extinction. Obstet Gynecol
-128(3):436, 2016
-Dolan LM, Hilton P: Obstetric risk factors and pelvic floor dysfunction 20 years after first delivery. Int
-Urogynecol J Pelvic Floor Dysfunct 21:535, 2010
-Ducarme G, Hamel JF, Bouet PE, et al: Maternal and neonatal morbidity after attempted operative
-vaginal delivery according to fetal head station. Obstet Gynecol 126(3):521, 2015
-Duchon MA, DeMund MA, Brown RH: Laboratory comparison of modern vacuum extractors. Obstet
-Gynecol 72:155, 1998
-Duggal N, Mercado C, Daniels K, et al: Antibiotic prophylaxis for prevention of postpartum perineal
-wound complications: a randomized controlled trial. Obstet Gynecol 111(6):1268, 2008
-Dupuis O, Silveira R, Dupont C, et al: Comparison of “instrument-associated” and “spontaneous”
-obstetric depressed skull fractures in a cohort of 68 neonates. Am J Obstet Gynecol 192(1):165,
-2005
-Evers EC, Blomquist JL, McDermott KC, et al: Obstetrical anal sphincter laceration and anal
-incontinence 5–10 years after childbirth. Am J Obstet Gynecol 207(5):425.e1, 2012
-Ezenagu LC, Kakaria R, Bofill JA: Sequential use of instruments at operative vaginal delivery: is it safe?
-Am J Obstet Gynecol 180:1446, 1999
-Fitzwater JL, Owen J, Ankumah NA, et al: Nulliparous women in the second stage of labor: changes in
-delivery outcomes between two cohorts from 2000 and 2011. Obstet Gynecol 126(1):81, 2015
-Friedman AM, Ananth CV, Prendergast E, et al: Evaluation of third-degree and fourth-degree laceration
-rates as quality indicators. Obstet Gynecol 125(4):927, 2015
-Friedman EA, Sachtleben-Murray MR, Dahrouge D, et al: Long-term effects of labor and delivery on
-offspring: a matched-pair analysis. Am J Obstet Gynecol 150:941, 1984
-Friedman T, Eslick GD, Dietz HP: Delivery mode and the risk of levator muscle avulsion: a metaanalysis. Int Urogynecol J 30(6):901, 2019
-Gardella C, Taylor M, Benedetti T, et al: The effect of sequential use of vacuum and forceps for
-assisted vaginal delivery on neonatal and maternal outcomes. Am J Obstet Gynecol 185(4):896, 2001
-Gartland D, MacArthur C, Woolhouse H, et al: Frequency, severity and risk factors for urinary and
-faecal incontinence at 4 years postpartum: a prospective cohort. BJOG 123(7):1203, 2016
-Ghi T, Eggebø T, Lees C, et al: ISUOG practice guidelines: intrapartum ultrasound. Ultrasound Obstet
-Gynecol 52:128, 2018
-Gilstrap LC 3rd, Hauth JC, Schiano S, et al: Neonatal acidosis and method of delivery. Obstet Gynecol
-63(5):681, 1984
-Gordon MT, DeLancey JO, Renfroe A, et al: Development of anatomically based customizable threedimensional finite-element model of pelvic floor support system: POP-SIM1.0. Interface Focus
-9(4):20190022, 2019
-Gossett DR, Gilchrist-Scott D, Wayne DB, et al: Simulation training for forceps-assisted vaginal delivery
-and rates of maternal perineal trauma. Obstet Gynecol 128(3):429, 2016
-Gurol-Urganci I, Cromwell DA, Edozien LC, et al: Third- and fourth-degree perineal tears among
-primiparous women in England between 2000 and 2012: time trends and risk factors. BJOG
-120(12):1516, 2013
-Gyhagen M, Bullarbo M, Nielsen T, et al: The prevalence of urinary incontinence 20 years after
-childbirth: a national cohort study in singleton primiparae after vaginal or caesarean delivery. BJOG
-120:144, 2013
-Hagadorn-Freathy AS, Yeomans ER, Hankins GD: Validation of the 1988 ACOG forceps classification
-system. Obstet Gynecol 77:356, 1991
-
-Halscott TL, Reddy UM, Landy HJ, et al: Maternal and neonatal outcomes by attempted mode of
-operative delivery from a low station in the second stage of labor. Obstet Gynecol 126(6):1265, 2015
-Handa VL, Blomquist JL, Roem J, et al: Pelvic floor disorders after obstetric avulsion of the levator ani
-muscle. Female Pelvic Med Reconstr Surg 25(1):3, 2019
-Hinkson L, Henrich W, Tutschek B: Intrapartum ultrasound during rotational forceps delivery: a novel
-tool for safety, quality control and teaching. Am J Obstet Gynecol 224(1):93.e1, 2021
-Hofmeyr GJ, Gobetz L, Sonnendecker EW, et al: New design rigid and soft vacuum extractor cups: a
-preliminary comparison of traction forces. BJOG 97(8):681, 1990
-Jangö H, Langhoff-Roos J, Rosthøj S, et al: Modifiable risk factors of obstetric anal sphincter injury in
-primiparous women: a population-based cohort study. Am J Obstet Gynecol 210(1):59.e1, 2014
-Knight M, Chiocchia V, Partlett C, et al: Prophylactic antibiotics in the prevention of infection after
-operative vaginal delivery (ANODE): a multicentre randomised controlled trial. Lancet
-393(10189):2395, 2019
-Kudish B, Blackwell S, Mcneeley SG, et al: Operative vaginal delivery and midline episiotomy: a bad
-combination for the perineum. Am J Obstet Gynecol 195(3):749, 2006
-Kuit JA, Eppinga HG, Wallenburg HC, et al: A randomized comparison of vacuum extraction delivery
-with a rigid and a pliable cup. Obstet Gynecol 82:280, 1993
-Kyser KL, Lu X, Santillan D, et al: Forceps delivery volumes in teaching and nonteaching hospitals: are
-volumes sufficient for physicians to acquire and maintain competence? Acad Med 89(1):71, 2014
-Landy HJ, Laughon SK, Bailit JL, et al: Characteristics associated with severe perineal and cervical
-lacerations during vaginal delivery. Obstet Gynecol 117(3):627, 2011
-Le Ray C, Deneux-Tharaux C, Khireddine I, et al: Manual rotation to decrease operative delivery in
-posterior or transverse positions. Obstet Gynecol 122(3):634, 2013
-Le Ray C, Serres P, Schmitz T, et al: Manual rotation in occiput posterior or transverse positions. Obstet
-Gynecol 110:873, 2007
-Leijonhufvud A, Lundholm C, Cnattingius S, et al: Risks of stress urinary incontinence and pelvic organ
-prolapse surgery in relation to mode of childbirth. Am J Obstet Gynecol 204(1):70.e1, 2011
-Levin G, Elchalal U, Yagel S, et al: Risk factors associated with subgaleal hemorrhage in neonates
-exposed to vacuum extraction. Acta Obstet Gynecol Scand 98(11):1464, 2019
-Lewicky-Gaupp C, Leader-Cramer A, Johnson LL, et al: Wound complications after obstetric anal
-sphincter injuries. Obstet Gynecol 125(5):1088, 2015
-Liu EH, Sia AT: Rates of caesarean section and instrumental vaginal delivery in nulliparous women after
-low concentration epidural infusions or opioid analgesia: systematic review. BMJ 328(7453):1410,
-2004
-Lowe B: Fear of failure: a place for the trial of instrumental delivery. BJOG 94:60, 1987
-MacArthur C, Wilson D, Herbison P, et al: Faecal incontinence persisting after childbirth: a 12-year
-longitudinal study. BJOG 120(2):169, 2013
-MacArthur C, Wilson D, Herbison P, et al: Urinary incontinence persisting after childbirth: extent,
-delivery history, and effects in a 12-year longitudinal cohort study. Prolong Study Group. BJOG
-123(6):1022, 2016
-Martin JA, Hamilton BE, Osterman MJ, et al: Births: final data for 2015. Natl Vital Stat Rep 66(1):1,
-2017
-Miller ES, Lai Y, Bailit J, et al: Duration of operative vaginal delivery and adverse obstetric outcomes.
-Am J Perinatol 37(5):503, 2020
-Muise KL, Duchon MA, Brown RH: The effect of artificial caput on performance of vacuum
-extractors. Obstet Gynecol 81(2):170, 1993
-
-Mulder F, Schoffelmeer M, Hakvoort R, et al: Risk factors for postpartum urinary retention: a
-systematic review and meta-analysis. BJOG 119(12):1440, 2012
-Muraca GM, Skoll A, Lisonkova S, et al: Perinatal and maternal morbidity and mortality among term
-singletons following midcavity operative vaginal delivery versus caesarean delivery. BJOG
-125(6):693, 2018
-Murphy DJ, Libby G, Chien P, et al: Cohort study of forceps delivery and the risk of epilepsy in
-adulthood. Am J Obstet Gynecol 191:392, 2004
-Murphy DJ, Macleod M, Bahl R, et al: A cohort study of maternal and neonatal morbidity in relation to
-use of sequential instruments at operative vaginal delivery. Eur J Obstet Gynecol Reprod Biol
-156(1):41, 2011
-Nelson RL, Furner SE, Westercamp M, et al: Cesarean delivery for the prevention of anal incontinence.
-Cochrane Database Syst Rev 2:CD006756, 2010
-Nilsen ST: Boys born by forceps and vacuum extraction examined at 18 years of age. Acta Obstet
-Gynecol Scand 63:549, 1984
-Nygaard IE, Rao SS, Dawson JD: Anal incontinence after anal sphincter disruption: a 30-year
-retrospective cohort study. Obstet Gynecol 89:896, 1997
-O’Callaghan ME, MacLennan AH, Gibson CS, et al: Epidemiologic associations with cerebral palsy.
-Obstet Gynecol 118(3):576, 2011
-O’Mahony F, Hofmeyr GJ, Menon V: Choice of instruments for assisted vaginal delivery. Cochrane
-Database Syst Rev 11:CD005455, 2010
-Osterman MJ, Martin JA, Menacker F: Expanded health data from the new birth certificate, 2006. Natl
-Vital Stat Rep 58(5):1, 2009
-Palatnik A, Grobman WA, Hellendag MG, et al: Predictors of failed operative vaginal delivery in a
-contemporary obstetric cohort. Obstet Gynecol 127(3):501, 2016
-Pearl ML, Roberts JM, Laros RK, et al: Vaginal delivery from the persistent occiput posterior position:
-influence on maternal and neonatal morbidity. J Reprod Med 38:955, 1993
-Pifarotti P, Gargasole C, Folcini C, et al: Acute post-partum urinary retention: analysis of risk factors, a
-case-control study. Arch Gynecol Obstet 289(6):1249, 2014
-Ramphul M, Kennelly MM, Burke G, et al: Risk factors and morbidity associated with suboptimal
-instrument placement at instrumental delivery: observational study nested within the Instrumental
-Delivery & Ultrasound randomised controlled trial ISRCTN 72230496. BJOG 122(4):558, 2015
-Robertson PA, Laros RK, Zhao RL: Neonatal and maternal outcome in low-pelvic and mid-pelvic
-operative deliveries. Am J Obstet Gynecol 162:1436, 1990
-Rortveit G, Daltveit AK, Hannestad YS, et al: Urinary incontinence after vaginal delivery or cesarean
-section. N Engl J Med 348:9000, 2003
-Schuit E, Kwee A, Westerhuis ME, et al: A clinical prediction model to assess the risk of operative
-delivery. BJOG 119(8):915, 2012
-Seidman DS, Laor A, Gale R, et al: Long-term effects of vacuum and forceps deliveries. Lancet
-337:1583, 1991
-Shaffer BL, Cheng YW, Vargas JE, et al: Manual rotation to reduce caesarean delivery in persistent
-occiput posterior or transverse position. J Matern Fetal Neonatal Med 24(1):65, 2011
-Society for Maternal-Fetal Medicine, Staat B, Combs CA: SMFM special statement: operative vaginal
-delivery: checklists for performance and documentation. Am J Obstet Gynecol 222(5):B15, 2020
-Solt I, Jackson S, Moore T, et al: Teaching forceps: the impact of proactive faculty. Am J Obstet
-Gynecol 204(5):448.e1, 2011
-
-Spiliopoulos M, Kareti A, Jain NJ, et al: Risk of peripartum hysterectomy by mode of delivery and prior
-obstetric history: data from a population-based study. Arch Gynecol Obstet 283(6):1261, 2011
-Spong CY, Berghella V, Wenstrom KD, et al: Preventing the first cesarean delivery: summary of a Joint
-Eunice Kennedy Shriver National Institute of Child Health and Human Development, Society for
-Maternal-Fetal Medicine, and American College of Obstetricians and Gynecologists Workshop.
-Obstet Gynecol 120(5):1181, 2012
-Stock L, Basham E, Gossett DR, et al: Factors associated with wound complications in women with
-obstetric anal sphincter injuries (OASIS). Am J Obstet Gynecol 208(4):327.e1, 2013a
-Stock SJ, Josephs K, Farquharson S, et al: Maternal and neonatal outcomes of successful Kielland’s
-rotational forceps delivery. Obstet Gynecol 121(5):1032, 2013b
-Suwannachat B, Laopaiboon M, Tonmat S, et al: Rapid versus stepwise application of negative pressure
-in vacuum extraction-assisted vaginal delivery: a multicentre randomised controlled non-inferiority
-trial. BJOG 118(10):1247, 2011
-Suwannachat B, Lumbiganon P, Laopaiboon M: Rapid versus stepwise negative pressure application for
-vacuum extraction assisted vaginal delivery. Cochrane Database Syst Rev 8:CD006636, 2012
-Tempest N, Hart A, Walkinshaw S, et al: A re-evaluation of the role of rotational forceps: retrospective
-comparison of maternal and perinatal outcomes following different methods of birth for malposition
-in the second stage of labor. BJOG 120(10):1277, 2013
-Towner D, Castro MA, Eby-Wilkens E, et al: Effect of mode of delivery in nulliparous women on
-neonatal intracranial injury. N Engl J Med 341:1709, 1999
-Towner DR, Ciotti MC: Operative vaginal delivery: a cause of birth injury or is it? Clin Obstet Gynecol
-50(3):563, 2007
-Vacca A: Vacuum-assisted delivery. Best Pract Res Clin Obstet Gynaecol 16:17, 2002
-van Bavel J, Hukkelhoven CW, de Vries C, et al: The effectiveness of mediolateral episiotomy in
-preventing obstetric anal sphincter injuries during operative vaginal delivery: a ten-year analysis of a
-national registry. Int Urogynecol J 29(3):407, 2018
-van den Akker T: Vacuum extraction for non-rotational and rotational assisted vaginal birth. Best Pract
-Res Clin Obstet Gynaecol 56:47, 2019
-Verhoeven CJ, Nuij C, Janssen-Rolf CR, et al: Predictors for failure of vacuum-assisted vaginal
-delivery: a case-control study. Eur J Obstet Gynecol Reprod Biol 200:29, 2016
-Volløyhaug I, Mørkved S, Salvesen Ø, et al: Forceps delivery is associated with increased risk of pelvic
-organ prolapse and muscle trauma: a cross-sectional study 16–24 years after first delivery.
-Ultrasound Obstet Gynecol 46(4):487, 2015
-Walsh CA, Robson M, McAuliffe FM: Mode of delivery at term and adverse neonatal outcomes. Obstet
-Gynecol 121(1):122, 2013
-Wan L, Xia W, Zhang J: Effect of perineum protection cooperated by two operators in the forcepsassisted vaginal delivery: a case-control study. J Matern Fetal Neonatal Med 12:1, 2020
-Wen SW, Liu S, Kramer MS, et al: Comparison of maternal and infant outcomes between vacuum
-extraction and forceps deliveries. Am J Epidemiol 153(2):103, 2001
-Werner EF, Janevic TM, Illuzzi J, et al: Mode of delivery in nulliparous women and neonatal intracranial
-injury. Obstet Gynecol 118(6):1239, 2011
-Wesley B, van den Berg B, Reece EA: The effect of operative vaginal delivery on cognitive
-development. Am J Obstet Gynecol 166:288, 1992
-Wesley BD, van den Berg BJ, Reece EA: The effect of forceps delivery on cognitive development. Am
-J Obstet Gynecol 169(5):1091, 1993
-
-Williams MC, Knuppel RA, O’Brien WF, et al: A randomized comparison of assisted vaginal delivery by
-obstetric forceps and polyethylene vacuum cup. Obstet Gynecol 78:789, 1991
-Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds):
-Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw-Hill Education, 2017
-Yeomans ER: Operative vaginal delivery. Obstet Gynecol 115(3):645, 2010
+# Chapter 29: Operative Vaginal Delivery
 
+- Incidence And Indications
+- Classification And Prerequisites
+- Morbidity
+- Forceps Delivery
+- Vacuum-Assisted Delivery
+- Training
+- References
+
+Operative vaginal delivery (OVD) is birth accomplished with assistance from forceps or a vacuum-cup device. Once these are applied to the fetal head, outward traction generates forces that augment maternal pushing to deliver the fetus.
+
+## Incidence And Indications
+
+From national data, forceps or vacuum-assisted vaginal delivery aided 3.1 percent of births in the United States in 2015. This is a decline from 9 percent in 1990 (Martin, 2017). For these procedures, a vacuum is disproportionately selected, and the vacuum-to-forceps delivery ratio approximates 4:1 (Yeomans, 2010). Most of these procedures are successful in effecting vaginal birth. From 2006 United States data, only 0.4 percent of
+
+forceps trials and 0.8 percent of vacuum extraction attempts failed to result in vaginal birth (Osterman, 2009). In the specific group of nulliparas with term gestations, higher failure rates of 4.4 and 6.4 percent, respectively, were found in a study of 25 academic hospitals (Bailit, 2016). If technically safe, termination of second-stage labor by OVD is considered for any condition that threatens the mother or fetus and that is likely to be relieved by delivery. Of maternal indications, the most common are maternal exhaustion and prolonged second-stage labor. However, a specific, maximum second-stage length beyond which all women should be considered for OVD has not been defined (American College of Obstetricians and Gynecologists, 2019). Other maternal reasons are preexisting or intrapartum conditions that limit effective pushing or warrant expedited delivery. Severe or acute pulmonary compromise, decompensation from intrapartum infection, neurological disease, and serious cardiac disorders are examples. Frequent fetal indications include nonreassuring fetal heart rate and premature placental separation (Schuit, 2012).
+
+## Classification And Prerequisites
+
+Classification of OVD is summarized in Table 29-1. It emphasizes that station and rotation are the two most important discriminators of risk for both mother and neonate. Station is measured by the number of centimeters, either above or below, an anatomical zero station, which is a line drawn between the ischial spines. Stations range from –5 to 0 to +5. Procedures are categorized as outlet, low, and midpelvic, and most are low or outlet deliveries. High forceps, in which instruments are applied above 0 station, have no place in current obstetrics.
+
+> **Table 29-1:** Operative Vaginal Delivery Prerequisites and Classification According to Station and Rotationa
+
+To aid patient selection, the Society for Maternal–Fetal Medicine (2020) published a preprocedural checklist and documentation template. Once station and rotation are determined, the prerequisites listed in Table 29-1 are assessed. For vacuum extraction, fetuses ideally are not younger than 34 weeks’ gestation because of cranial hemorrhage vulnerability at earlier ages (Åberg, 2014). Also prior to vacuum use, although infrequently used in the United States, fetal scalp blood sampling should not have been recently performed. Of requisites, ascertaining correct head position is essential, and
+
+> **Figure 29-1:** shows fetal skull anatomy. In unclear cases, sonography can help identify fetal orbits and nasal bridge to aid orientation (Ghi, 2018).
+
+> **Figure 29-1:** Fetal head (A–B) at term showing fontanels, sutures, and various dimensions.
+
+Regional analgesia is preferable for low or midpelvic procedures. Pudendal blockade may prove adequate for outlet deliveries. As a causative factor, newer epidural methods or placement during early labor do not raise OVD rates (Anim-Somuahm, 2018; Liu, 2004). The bladder is emptied to provide additional pelvic space and minimize bladder trauma. Urinary retention and bladder dysfunction are frequent shortterm effects of OVD (Mulder, 2012; Pifarotti, 2014). Notably, episiotomy and epidural analgesia, both common associates of OVD, also are risks for urinary retention. Retention usually resolves after 24 to 48 hours of passive catheter bladder drainage (Chap. 36, p. 643).
+
+## Morbidity
+
+### Maternal Morbidity
+
+OVD carries increased risk of certain morbidities for both mother and fetus. In general, a higher station and greater degrees of rotation raise procedure difficulty and the chance of injury. Morbidity is most properly compared with morbidity from cesarean delivery and not with that from spontaneous birth. This is the most appropriate comparator because the alternative to indicated OVD is cesarean delivery.
+
+Lacerations The very indications that prompt OVD are among those that also increase the need for episiotomy and the likelihood of lacerations (de Leeuw, 2008). That said, higher rates of third- and fourth-degree perineal lacerations, vaginal wall lacerations, and less often cervical tears do complicate OVD compared with spontaneous birth (Friedman, 2015; Gurol-Urganci, 2013; Landy, 2011). These rates with OVD are also substantially higher than with cesarean delivery. Third- and fourth-degree perineal lacerations are grouped as obstetrical anal sphincter injuries (OASIS). In general, these tears more frequently attend forceps delivery compared with vacuum extraction, and especially if an episiotomy is midline (Kudish, 2006; O’Mahony, 2010). With OVD, indicated episiotomy rather than routine use is recommended. If required, a mediolateral episiotomy affords greater protection against OASIS than midline incision (Gurol-Urganci, 2013; Jangö, 2014; van Bavel, 2018). But, short-term rates of pain and dyspareunia are similar or increased with mediolateral episiotomy (Chap. 27, p. 510). As another OASIS protection, early forceps disarticulation and removal can avoid the full perineal distention created by the blades and crowning head. Moreover, cessation of maternal pushing during disarticulation or as the head begins to crown allows the clinician sole control of outward forces against the perineum. Similarly, adding a dedicated assistant to bolster the perineum can lower OASIS rates, and this is our practice (Wan, 2020). Last, OASIS are more common with an occiput posterior (OP) position (Damron, 2004). Thus, manual or forceps rotation to an occiput anterior (OA) position may lower rates of lower reproductive tract injury (Bradley, 2013).
+
+Infection and Subsequent-pregnancy Morbidity As detailed in Chapter 30 (p. 548), cesarean delivery carries greater maternal morbidity compared with spontaneous birth. For OVD, in one study of more than 1 million births, cesarean delivery, but not OVD, was a risk for peripartum hysterectomy (Spiliopoulos, 2011). Further, avoiding cesarean delivery can minimize rates of subsequent pregnancy complications, such as placenta previa, placenta accreta spectrum, uterine rupture, and adhesionrelated surgical organ injury. In addition, postpartum wound or uterine infection is more frequent in women following cesarean compared with OVD (Bailit, 2016; Halscott,
+
+2015). Still, to address peripartum infection, investigators in the ANODE trial randomly assigned nearly 3500 gravidas undergoing OVD to receive either placebo or a single intravenous dose of amoxicillin plus clavulanic acid (Knight, 2019). The puerperal infection rate was 11 percent after antibiotic prophylaxis compared with 19 percent in those given placebo. Notably, these infections often coincide with long labors and multiple cervical examinations, both of which are common with women requiring OVD. Thus, we believe that provision of antibiotics to those undergoing OVD without other infection-related risks warrants further study. Indeed, the American College of Obstetricians and Gynecologists (2020a) notes that this prophylaxis is reasonable but recommends against routine antibiotic prophylaxis for all women undergoing OVD. However, the College (2020b) does note that a single antibiotic dose with third- and fourth-degree perineal laceration is reasonable. Several studies support this practice (Duggal, 2008; Lewicky-Gaupp, 2015; Stock, 2013a).
+
+Pelvic Floor Disorders This term encompasses urinary incontinence, anal incontinence, and pelvic organ prolapse (POP). OVD has been implicated as a possible risk for each. Proposed mechanisms include structural compromise or pelvic floor denervation secondary to forces exerted during delivery. For urinary incontinence, parity and specifically vaginal delivery are risk factors (Gyhagen, 2013; Rortveit, 2003). But, many studies do not support a higher risk from OVD compared with the risk from vaginal birth alone (Gartland, 2016; Leijonhufvud, 2011; MacArthur, 2016). Evidence linking anal incontinence with OVD is conflicting. Some studies show that OASIS, but not delivery mode, is the main etiological link (Bols, 2010; Evers, 2012; Nygaard, 1997). In contrast, others directly associate OVD with anal incontinence (Dolan, 2010; MacArthur, 2013). But, these studies may not be incongruous—recall that OVD is associated with increased rates of OASIS. Importantly, several studies and reviews have not found cesarean delivery to be protective long term against anal incontinence (Nelson, 2010). Similarly for POP, evidence linking it to OVD is mixed (Gyhagen, 2013; Volløyhaug, 2015). First, pelvic floor mechanisms leading to POP are complex and incompletely defined (Gordon, 2019). Despite this, obstetrical
+
+avulsion of the levator ani muscle from the pelvic sidewall has been implicated, and OVD, especially forceps delivery, is one risk for this injury (DeLancey, 2007; Dietz, 2008; Friedman, 2019). Again, the pelvic floor injury rather OVD itself may be the causative agent, as those with OVD but no avulsion did not suffer greater POP rates in one recent analysis (Handa, 2019).
+
+### Perinatal Morbidity
+
+Acute Perinatal Injury OVD carries higher risk for fetal injury than cesarean delivery or spontaneous birth. Both OVD methods are implicated, and factors can include delivery duration and the number of pulls or cup pop-offs (Åberg, 2019; Levin, 2019; Miller, 2020). Injuries are more frequent with vacuum extraction, and injuries with this device include cephalohematoma, subgaleal hemorrhage, retinal hemorrhage, neonatal jaundice secondary to these hemorrhages, clavicular fracture, and scalp lacerations. Cephalohematoma and subgaleal hemorrhage are both extracranial lesions illustrated in Figure 33-2 (p. 608). Shoulder dystocia has been linked to both methods (Dall’Asta, 2016). Forceps delivery has higher rates of facial nerve injury, brachial plexus injury, depressed skull fracture, and corneal abrasion (American College of Obstetricians and Gynecologists, 2020a; Demissie, 2004; Dupuis, 2005). With intracranial hemorrhage, some studies have associated vacuum extraction with higher rates, whereas others show similar rates with either OVD method (Towner, 1999; Wen, 2001; Werner, 2011). Compared with cesarean delivery, OVD carries higher risk of extracranial hematomas, fractures, nerve injuries, retinal hemorrhage, and head lacerations. However, rates of fetal acidemia or hypoxic encephalopathy are not higher with OVD compared with second-stage cesarean delivery (Bailit, 2016; Contag, 2010; Walsh, 2013). Intracranial hemorrhage rates are similar among newborns delivered by vacuum extraction, forceps, or cesarean delivery during labor (Towner, 1999). But, intracranial hemorrhage rates are higher than among those delivered spontaneously or by cesarean delivery before labor. These authors suggest that the common risk factor for intracranial hemorrhage is abnormal labor. Werner and associates (2011), in their evaluation of more than 150,000
+
+singleton deliveries, reported that forceps delivery was associated with fewer total neurological complications that included seizures, intraventricular hemorrhage, and subdural hemorrhage compared with vacuum-assisted birth or any cesarean delivery. Compared with rotational OVD, second-stage cesarean delivery has similar maternal and neonatal morbidity rates (Aiken, 2015; Bahl, 2013; Stock, 2013b). For example, in their large series, Tempest and associates (2013) found similar morbidity rates among malpositioned fetuses during second-stage labor that underwent Kielland rotation, rotational vacuum extraction, or emergency cesarean delivery. Midforceps by definition are performed from a higher station. The bulk of data are from older studies, and most show comparable neonatal morbidity between low and midforceps procedures (Dierker, 1985; Gilstrap, 1984). In a recent report also comparing these two, Ducarme and coworkers (2015) found comparable neonatal and maternal composite morbidity scores. Comparing midpelvic OVD and second-stage cesarean delivery, most studies support neonatal safety (Bashore, 1990; Cibils, 1990; HagadornFreathy, 1991). But, others have found increased rates of trauma and umbilical cord blood acidemia with midforceps delivery (Robertson, 1990). More recently, Muraca and associates (2018) compared midpelvic OVD methods against second-stage cesarean delivery. For the indication of dystocia, fetal and maternal morbidity composite scores were higher with OVD. With distress as the indication, the neonatal morbidity score was greater only with midpelvic vacuum-assisted OVD, whereas the maternal morbidity score was higher only with midforceps. In another study comparing both midpelvic OVD methods, maternal morbidity was greater with forceps, and neonatal morbidity differed only in a higher cephalohematoma rate with vacuum-assisted delivery (Baerthlein, 1986).
+
+Mechanisms of Acute Injury The types of fetal injury with OVD can usually be explained by the forces exerted. In cases of cephalohematoma or subgaleal hemorrhage, suction and perhaps rotation during vacuum extraction may lead to a primary vessel shearing. Intracranial hemorrhage may result from skull fracture that lacerates vessels or from vessel rupture alone due to exerted forces. With facial nerve palsy, one of the forceps blades compresses the nerve against the facial
+
+bones. To explain brachial plexus injury, Towner and Ciotti (2007) proposed that as the fetal head descends down the birth canal, the shoulders may stay above the pelvic inlet. Thus, similar to shoulder dystocia at the symphysis, this “shoulder dystocia at the pelvic inlet” is overcome by traction forces but with concomitant stretch on the brachial plexus.
+
+Long-term Infant Morbidity Evidence regarding long-term neurodevelopmental outcomes in children born by OVD is reassuring (Seidman, 1991; Wesley, 1992). Moreover, no association between forceps delivery and later epilepsy was found in a cohort study of more than 21,000 births (Murphy, 2004). In their review, O’Callaghan and colleagues (2011) reported no link between cerebral palsy and OVD. Last, the incidence of neurodevelopmental morbidity was similar in those undergoing successful forceps delivery, failed forceps with cesarean delivery, or cesarean delivery without forceps in one study (Bahl, 2007). Similarly, with midpelvic OVD, long-term neurodevelopment is not harmed in most analyses (Dierker, 1986; Friedman, 1984; Nilsen, 1984; Wesley, 1993).
+
+Trial of Operative Vaginal Delivery If an attempt to perform OVD is expected to be difficult, it should be considered a trial. Moving the woman to an operating room for this attempt, which could be followed by immediate cesarean delivery if OVD fails, has merit. If forceps cannot be satisfactorily applied, the procedure is stopped. Either a trial of vacuum-assisted delivery or cesarean delivery is then performed. With the former, if the fetus does not descend with traction, the trial should be abandoned and cesarean delivery performed. With such caveats, cesarean delivery after an OVD attempt was not associated with adverse neonatal outcomes if the fetal heart rate was concurrently reassuring (Alexander, 2009). A similar study evaluated 122 women who had a trial of midpelvic OVD in a setting with full preparations for cesarean delivery (Lowe, 1987). Investigators found no significant difference in immediate neonatal or maternal morbidity compared with that of 42 women delivered for similar indications by cesarean but without such a trial. Conversely, in 61 women who had “unexpected” vacuum or forceps
+
+failure in which there was no prior preparation for immediate cesarean delivery, neonatal morbidity was higher. Some factors associated with OVD failure are persistent OP positions and birthweight >4000 g (Ben-Haroush, 2007; Verhoeven, 2016). However, Palatnik and coworkers (2016) found that risk factors poorly predicted success. In general, to avert morbidity with failed OVD, the American College of Obstetricians and Gynecologists (2020a) cautions that these trials should be attempted only if the clinical assessment suggests a successful outcome. We also emphasize proper training. Sequential instrumentation most often involves an attempt at vacuumassisted OVD followed by one with forceps. This sequence likely reflects the overall higher completion rate with forceps. However, this practice significantly raises fetal trauma risks (Dupuis, 2005; Gardella, 2001; Murphy, 2011). The American College of Obstetricians and Gynecologists (2020a) recommends against the sequential use of instruments unless there is a “compelling and justifiable reason.”
+
+## Forceps Delivery
+
+### Design
+
+Forceps refers to the paired instrument, and each member of this pair is called a branch. Branches are designated left or right according to the side of the maternal pelvis to which they are applied (Fig. 29-2A). Each branch has four components: blade, shank, lock, and handle (see Fig. 29-2B). Each blade has a toe, a heel, and two curves. Of these, the outward cephalic curve conforms to the round fetal head, whereas the upward pelvic curve corresponds to the curve of the birth canal. Some blades are solid, meaning smooth on both surfaces. Others have an opening within or a depression along the blade surface and are termed fenestrated or pseudofenestrated, respectively. A true window in the blade reduces the degree of head slippage within the blades during forceps rotation. Disadvantageously, it can increase blade thickness and friction against the vaginal wall. With pseudofenestration, the forceps blade is smooth on the outer maternal side but indented on the inner fetal surface. The goal is to reduce head slipping yet improve the ease and safety of application and removal of forceps. In most situations, however, despite these subtle differences, any are appropriate.
+
+> **Figure 29-2:** A. Simpson forceps have fenestrated blades, parallel shanks, and English lock. The cephalic curve accommodates the fetal head. B. Luikart forceps have pseudofenestrated blades, overlapping shanks, a sliding lock, and tongue-in-groove handles. The pelvic curve (black curve) is marked in this example.
+
+The blades are connected to shanks, which may be parallel or overlapping. Parallel shanks limit compression of blades against the fetal head and may be helpful with deliveries employing greater forces. These shanks, however, add width against the introitus. In comparison, overlapping
+
+shanks raise compression forces but distend the perineum less. This may offer greatest advantage for outlet deliveries. Locks are found on all forceps and help to connect the right and left branches and stabilize the instrument. They can be located at the end of the shank nearest to the handles (English lock), at the ends of the handles (pivot lock), or along the shank (sliding lock). Although varied in design, handles, when squeezed, raise compression forces against the fetal head. Thus, forces to consider include traction and compression.
+
+### Blade Application and Delivery
+
+Forceps blades grasp the head and are applied according to fetal head position. If the head is in an OA position, two or more fingers of the right hand are introduced inside the left posterior portion of the vulva and advanced into the vagina beside the fetal head. The handle of the left branch is grasped between the thumb and two fingers of the left hand (Fig. 29-3). The blade tip is then gently introduced along the posterior left vaginal wall. It is swept upward and inward between the fetal head and the palmar surface of the fingers (Fig. 29-4). This blade can be held in position by an assistant. For application of the right blade, two or more fingers of the left hand are introduced into the right posterior portion of the vagina to serve as a guide for the right blade. This blade is held in the right hand and introduced into the vagina. With each blade, the thumb is positioned behind the heel, and most of the insertion force comes from this thumb (Fig. 29-5). If the head is positioned in a left OA (LOA) or right OA (ROA) position, then the lower of the two blades is typically placed first.
+
+> **Figure 29-3:** For OA or LOA positions, the left handle of the forceps is held in the left hand. The blade is introduced into the left side of the pelvis between the fetal head and the fingers of the operator’s right hand.
+
+> **Figure 29-4:** Insertion arc of the blade. Importantly, the thumb of the right hand, not shown here, guides the blade during placement.
+
+> **Figure 29-5:** In applying the second blade, insertional force is generated mainly by the thumb. (Reproduced with permission from Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+
+The blades are constructed so that their cephalic curve is closely adapted to the sides of the fetal head (Fig. 29-6). The fetal head is perfectly grasped only when the long axis of the blades corresponds to the occipitomental diameter (see Fig. 29-1). As a result, most of the blade lies over the lateral face.
+
+> **Figure 29-6:** A. The forceps are symmetrically placed and articulated. B. The vertex is OA. (Reproduced with permission from Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+
+Suboptimal blade placement can increase morbidity (Ramphul, 2015). For OA positions, appropriately applied blades are equidistant from the sagittal suture, and each blade is equidistant from its adjacent lambdoid suture. In OP positions, blades are symmetrically placed relative to the sagittal suture and to each coronal suture. After correct positioning, the branches can be articulated. If branches do not articulate, the blade’s relationships to the sutures are reassessed. Applied in this way, forceps should not slip, and traction may be applied most advantageously. With most forceps, if one blade is applied over the brow and the other over the occiput,
+
+the instrument cannot be locked, or if locked, the blades will slip off when traction is applied. With both branches in place, slow articulation of the handles will also typically correct mild asynclitism. For greater asynclitism, Luikart forceps can be placed and once positioned, one handle will extend further than the other along their long axis. Asynclitism is resolved by pulling and/or pushing each respective branch within the sliding lock along the instrument’s long axis until the finger guards align. Once blades are placed satisfactorily, rotation to OA position is performed before traction is applied (Fig. 29-7). Next, gentle, intermittent, downward and outward traction is exerted concurrent with maternal efforts until the perineum begins to bulge. For most stations, the initial direction of traction is downward and brings the head beneath the symphysis.
+
+> **Figure 29-7:** If LOA, the vertex is rotated from this position to OA (arrow). (Reproduced with permission from Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+
+With head descent, the vector of forces changes continuously and are gradually directed upward (Fig. 29-8). During the birth of the head, mechanisms of spontaneous delivery should be simulated as closely as possible. As a teaching tool for this, a Bill axis traction device can be attached over the finger guards of most forceps. The instrument has an arrow and indicator line. When the arrow points directly to the line, traction is along the path of least resistance.
+
+> **Figure 29-8:** With low forceps, the direction of gentle traction for delivery of the head is indicated (arrows). (Reproduced with permission from Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+
+It is impossible to ascertain the amount of force exerted by forceps for an individual patient. Thus, traction is ideally intermittent and relieved between contractions, as in spontaneous labor. Except when urgently indicated, delivery should be sufficiently slow, deliberate, and gentle to prevent undue head compression. It is preferable to apply traction only with each uterine contraction. Maternal pushing will augment these efforts. With traction, as the occiput distends the vulva, an episiotomy may be performed if needed. The delivery may be completed in several ways. Some clinicians keep the forceps in place to control the head. However, this blade volume adds to vulvar distention and raises risks for laceration or episiotomy. To prevent this, the forceps may be removed, and delivery is then completed by maternal pushing (Fig. 29-9). Importantly, if blades are disarticulated and removed too early, the head may recede and prolong delivery. Pushing in some cases may be aided by the modified Ritgen
+
+maneuver. We emphasize bolstering of the perineum to control outward forces.
+
+> **Figure 29-9:** Branches are removed in the opposite order from that in which they were originally placed. The fingers of the right hand, covered by a sterile towel, bolster the perineum. The thumb is placed directly on the head to prevent sudden egress. (Reproduced with permission from Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+
+### Manual Rotation
+
+In many cases, OT and OP head positions are often imperfectly flexed and present a wider head diameter. This can slow fetal descent and lengthen second-stage labor. By manually rotating the fetal occiput into the anterior pelvis (OA positions), cephalopelvic proportions improve to help hasten spontaneous birth. This is usually reserved for second-stage labor. Compared with no attempt, manual rotation is associated with lower rates of cesarean delivery, OVD, severe perineal laceration, and chorioamnionitis (Blanc, 2021; Shaffer, 2011). If OVD is still required, the new OA position lowers rates of perineal trauma. In the simplest cases, digital rotation can correct OT or OP positioning. With head molding, the sutures override one another to create a bony ridge. Two fingers hooked against this ridge and forces directed parallel to the skull can rotate the occiput toward the anterior pelvis. This is done between contractions, and advancements are then held in place during pushing. Progressive degrees of rotation are attained with each attempt, and several may be needed to ultimately rotate the occiput into the anterior pelvis. Instead, with manual rotation, an open hand is inserted into the vagina. For ROP position, the right palm cups the fetal head and straddles the sagittal suture. The operator’s fingers wrap to one side of the fetal face, and the thumb extends along the other side. Rotation is clockwise to bring the occiput to an ROA position (Fig. 29-10). With LOP position, rotation is counterclockwise with the left palm. Three actions are performed simultaneously between contractions. The fetal head is flexed to provide a smaller diameter for rotation and subsequent descent within the pelvis. Next, slight destationing of the fetal head moves the head to a level in the maternal pelvis with sufficient room to complete the rotation. Importantly, destationing should not be confused with disengaging the fetal head, which is proscribed. Third, we and others prefer also to place the other hand externally on the corresponding side of the maternal abdomen to pull the back of the fetus up and toward the midline in synchrony with internal head rotation. Barth (2015) provides an excellent summary of this technique.
+
+> **Figure 29-10:** A. Manual rotation using the left hand, palm-up, to rotate from ROP. B. The head is flexed and destationed during clockwise rotation to reach an OA position. (Reproduced with permission
+
+from Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+
+Le Ray and associates (2007, 2013) reported a success rate >90 percent with manual rotation. Complication were uncommon. In their report of 796 rotations, no cords prolapsed. Two women sustained cervical lacerations, which required simple vaginal repair. Notably, this study allowed rotations at advanced cervical dilation prior to second-stage labor, which may have enhanced cervical injury risk. In 71 percent, fetal heart rate (FHR) was normal during rotation, but severe FHR abnormalities were noted in 10 percent. However, the need for cesarean delivery after successful manual rotation was not associated with FHR abnormalities. Failure to rotate the head does not mandate cesarean delivery, and options are described next.
+
+### Persistent Occiput Posterior Positions
+
+In cases with persistent OP positioning, the head may spontaneously deliver OP, may be manually or instrumentally rotated to an OA position, or may be delivered OP by forceps or vacuum (Bertholdt, 2019). In many cases, the cause of a persistent OP position and of the difficulty in accomplishing rotation is an anthropoid pelvis. This architecture opposes rotation and predisposes to posterior delivery (Fig. 2-16, p. 29). With forceps delivery from an OP position, downward and outward traction is applied until the base of the nose passes under the symphysis (Fig. 29-11). The handles are then slowly elevated until the occiput gradually emerges over the perineum’s fourchette. The forceps are directed downward again, and the nose, mouth, and chin successively emerge from the vulva.
+
+> **Figure 29-11:** Outlet forceps delivery from an OP position. The head should be flexed after the bregma passes under the symphysis.
+
+OP delivery causes greater vulvar distention, and an episiotomy may be needed. OP deliveries have a higher incidence of severe perineal lacerations and of extensive episiotomy compared with OA positions (de Leeuw, 2008; Pearl, 1993). Also, newborns undergoing OVD from OP positions have a higher incidence of Erb and facial nerve palsies, 1 and 2 percent, respectively, than those delivered from OA positions. As expected, rotations to OA ultimately decrease perineal delivery trauma (Bradley, 2013). For forceps rotations from an OP to OA position, Kielland forceps are preferred because they have a less pronounced pelvic curve (Fig. 29-12). Cunningham and Gilstrap’s Operative Obstetrics, 3rd edition offers a more detailed description and illustration of this Kielland forceps procedure (Yeomans, 2017).
+
+> **Figure 29-12:** Kielland forceps. The characteristic features are minimal pelvic curvature (A), sliding lock (B), and light weight.
+
+### Occiput Transverse Positions
+
+With occiput transverse (OT) fetal head positions, rotation is required for delivery. For this, the head may be manually or instrumentally rotated into an OA position. Manual rotation was described earlier in that section (p. 540). Forceps rotation by experienced operators can offer high success rates with minimal maternal morbidity (Burke, 2012; Stock, 2013b). Either standard forceps or specialized forceps, such as Kielland forceps, are used. With the latter, each handle has a small knob, and branches are placed so that this knob faces the occiput. Kielland described two methods of applying the anterior blade. In this example, placement with a left OT (LOT) position is described. With the wandering method, the anterior blade is first introduced into the posterior pelvis (Fig. 29-13). The blade is then arched around the face to an anterior position. To permit this sweep of the blade, the handle is held close to the left maternal buttock throughout the maneuver. The second blade is introduced posteriorly, and the branches are locked.
+
+> **Figure 29-13:** A. Application of the right branch of the Kielland forceps to a head in LOT position. The knob on this branch (colored blue) will ultimately face the occiput. B. The right branch is wandered to its final position behind the symphysis. C. Insertion of the left branch of the Kielland forceps directly posterior along the hollow of the sacrum. This branch is inserted to the maternal right of the anterior branch to aid in engaging the sliding lock. (Reproduced with permission from Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+
+After checking the application, the provider pulls the handles of the Kielland forceps slightly to the patient’s right to flex the fetal head and create a smaller diameter for rotation. The first and second fingers of the left hand are placed over the finger guards with the palm against the handles. This palm faces the maternal left. Concurrently, the first two fingers of the operator’s right hand are placed against the anterior lambdoid suture. The fetal head is then elevated and slightly destationed. For rotation in a counterclockwise direction, the wrist of the left hand supinates, to direct this palm upward. Simultaneously, two fingers of the right hand press against the lambdoid suture ridge. This ensures that the fetal head turns with the blades and does not slip. As a newer adjunct, abdominal sonography can follow and document head rotation (Hinkson, 2021). The second type of blade application introduces the anterior blade with its cephalic curve directed upward to curve under the symphysis. After it has been advanced far enough toward the upper vagina, it is turned on its long axis through 180 degrees to adapt the cephalic curvature to the head. The second blade is introduced posteriorly, and the branches are locked. After rotation of the fetal occiput into the anterior pelvis, two acceptable methods for delivery are available. In one, the operator applies traction on the Kielland forceps using a bimanual grip described previously for conventional forceps (p. 539). When the posterior fontanel has passed under the subpubic arch, the handles can be elevated to the horizontal, but no further. Raising the handles above the horizontal may cause vaginal sulcus
+
+tears because of the reverse pelvic curve (Dennen, 1955). Alternatively, the Kielland forceps can be removed after rotation and replaced with conventional forceps. With this approach, moderate traction is first employed to seat the head before switching instruments.
+
+### Face Presentations
+
+With a mentum anterior face presentation, OVD is an option. The blades are applied to the sides of the head along the occipitomental diameter, with the pelvic curve directed toward the neck (see Fig. 29-1). Downward traction is exerted until the chin appears under the symphysis. Then, by an upward movement, the face is slowly extracted, with the nose, eyes, brow, and occiput appearing in succession over the anterior margin of the perineum. Forceps should not be applied to the mentum posterior presentation because vaginal delivery is impossible except in very small fetuses.
+
+## Vacuum-Assisted Delivery
+
+### Vacuum Extractor Design
+
+With vacuum-assisted OVD, suction is created within a cup placed on the fetal scalp such that traction on the cup aids fetal birth. In the United States, vacuum extractor is the preferred term, whereas in Europe it is commonly called a ventouse (Fig. 29-14). Theoretical benefits of this tool compared with forceps include simpler requirements for precise positioning on the fetal head and avoidance of space-occupying blades within the vagina to help mitigate maternal trauma.
+
+> **Figure 29-14:** Vacuum delivery systems. A. The Kiwi OmniCup contains a handheld vacuumgenerating pump, which is attached via flexible tubing to a rigid plastic mushroom cup. B. The Mityvac Mystic II MitySoft Bell Cup has a soft bell cup attached by a semirigid shaft to a handheld pump.
+
+Vacuum devices contain a cup, shaft, handle, and vacuum generator. Vacuum cups are metal or plastic and differ in their shape, size, and reusability. In the United States, plastic cups are generally preferred. Of these, the soft cup is a pliable bell-shaped dome, whereas the rigid type has a firm flattened mushroom-shaped cup and circular ridge around the cup rim (Table 29-2). When compared, rigid mushroom cups generate significantly more traction force (Hofmeyr, 1990; Muise, 1993). With OP positions or with asynclitism, the flatter cup also permits improved placement at the flexion point, which is typically less accessible with these head positions. The trade-off is that the flatter cups have higher scalp laceration rates. Thus, many manufacturers recommend soft bell cups for more straightforward OA deliveries.
+
+> **Table 29-2:** Vacuum Cups for Operative Vaginal Delivery
+
+Several investigators have compared outcomes with various rigid and soft cups. Metal cups yield higher success rates but greater rates of scalp injuries, including cephalohematomas (O’Mahony, 2010). In another study, Kuit and colleagues (1993) found that the only advantage of the soft cups was
+
+a lower incidence of scalp injury. In a review, Vacca (2002) concluded that fewer scalp lacerations occurred with the soft cup, but that the rate of cephalohematomas and subgaleal hemorrhage was similar between soft and rigid cups. Importantly, high-pressure vacuum generates large amounts of force regardless of the cup used (Duchon, 1998). Aside from the cup, the shaft that connects the cup and handle may be flexible or semiflexible. Tubing-like flexible shafts may be preferred for OP positions or asynclitism to permit better seating of the cup. Last, the vacuum generator may be handheld and actuated by the operator, or it may be held and operated by an assistant.
+
+### Technique
+
+An important step in vacuum-assisted OVD is proper cup placement over the flexion point. This pivot point maximizes traction, minimizes cup detachment, flexes the neck, and delivers the smallest head diameter through the pelvic outlet. This improves success rates, lowers scalp injury rates, and lessens perineal trauma because the smallest head diameter distends the vulva (Baskett, 2008). The flexion point is found along the sagittal suture, approximately 3 cm from the posterior fontanel’s center and approximately 6 cm from the anterior fontanel’s center. Because most cup diameters measure 5 to 6 cm, when properly placed, the cup rim lies at the posterior fontanel’s border and 3 cm from the anterior fontanel (Fig. 29-15). Placement of the cup more anteriorly on the fetal cranium—near the anterior fontanel—is ideally avoided as it leads to neck extension during traction unless the fetus is small. Such placement delivers a wider head diameter through the vaginal opening. Last, asymmetrical placement relative to the sagittal suture may worsen asynclitism. Cup placement in OA positions is seldom difficult. In contrast, if the indication for delivery is failure to descend caused by occipital malposition, cup positioning can be difficult.
+
+> **Figure 29-15:** Drawing demonstrates correct cup placement at the flexion point. Along the sagittal suture, this spot lies 3 cm from the posterior fontanel and 6 cm from the anterior fontanel.
+
+During cup placement, maternal soft tissue entrapment predisposes the mother to lacerations and virtually ensures cup dislodgement, colloquially called a “pop off.” Thus, the entire cup circumference should be palpated both before and after the vacuum has been created and again prior to traction to exclude such entrapment. Gradual vacuum creation is advocated by some and is generated by increasing the suction in increments of 0.2 kg/cm2 every 2 minutes until a total negative pressure of 0.8 kg/cm2 is reached (Table 293). That said, other studies have shown that negative pressure can be increased to 0.8 kg/cm2 in <2 minutes without a significant difference in efficacy or in maternal and fetal outcomes (Suwannachat, 2011, 2012).
+
+> **Table 29-3:** Vacuum Pressure Conversions
+
+Once suction is created, the instrument handle is grasped, and traction is initiated. Similar to forceps delivery, traction angles mirror that in Figure 298 and should be steady without jerking or rocking. The number of needed pulls increases with higher station but typically ranges from one to four. Efforts are intermittent, and each pull is coordinated with maternal pushing. Manual torque to the cup is avoided as it can cause cup displacement or cephalohematomas and, with metal cups, “cookie-cutter”–type scalp lacerations. Thus, OA oblique positions are corrected not by rotation, but solely by downward outward traction. Similarly, for OP positions, rotational forces should not be applied. Instead, with correct flexion point placement and line of traction, the head will usually rotate by itself (van den Akker, 2019). During pulls, the operator should place the nondominant hand within the vagina, with the thumb on the extractor cup and one or more fingers on the fetal scalp. So positioned, descent of the presenting part can be judged and the traction angle can be adjusted with head descent. In addition, the relationship of the cup edge to the scalp can be assessed to help detect cup separation. Between contractions, some physicians will lower the suction levels to decrease scalp injury rates, whereas others will maintain suction in cases with a nonreassuring FHR to aid rapid delivery. No differences in maternal or fetal outcome were noted if the vacuum level was decreased between contractions or if an effort was made to prevent fetal loss of station (Bofill, 1997). Once the head is delivered, the vacuum pressure is relieved and the cup removed. Vacuum extraction should be considered a trial. Without early and clear evidence of descent toward delivery, an alternative delivery approach should be adopted. As a general guideline, progressive descent should accompany
+
+each traction attempt. Neither data nor consensus are available regarding the number of pulls required to effect delivery, the maximum number of cup popoffs that can be tolerated, or optimal total duration of the procedure. Some manufacturers have recommendations regarding these (Clinical Innovations, 2018; CooperSurgical, 2018). During a vacuum-assisted delivery trial, cup dislodgement due to technical failure or less than optimal placement should not be equated with dislodgement under ideal conditions of exact cup placement and optimal vacuum maintenance. Technical failures may merit either additional attempts at cup placement or, alternatively, a trial of forceps (Ezenagu, 1999; Williams, 1991). The least desirable cases are those in which traction without progress or multiple disengagements occur following correct cup application and appropriate traction. As with forceps, clinicians should embrace a willingness to abandon attempts at vacuum-assisted delivery if satisfactory progress is not made (American College of Obstetricians and Gynecologists, 2020a).
+
+## Training
+
+As the OVD rate has declined, so have opportunities for resident training (Fitzwater, 2015; Kyser, 2014). In accredited programs, the median number of these procedures completed by trainees has reached critically low levels, and for recent graduates it approximated only 20 (Accreditation Council for Graduate Medical Education, 2019; Dildy, 2016). For residents completing training in 2021, the Accreditation Council for Graduate Medical Education (2020) minimum requirement is 15 procedures. To adapt, residency programs should have readily available skilled operators to teach these procedures by simulation as well as through actual cases (Spong, 2012). In one study, a 59-percent increase in forceps deliveries over 2 years was related to a single experienced and proactive instructor assigned to teach forceps to residents in labor and delivery (Solt, 2011). In another, following implementation of a formal education program that included a manikin and pelvic model simulation, rates of neonatal morbidity and of severe maternal cervical, labial, and vaginal lacerations declined. However, OASIS rates were unchanged (Cheong, 2004). Gossett and
+
+associates (2016) found a 22-percent reduction in the OASIS rate following an OVD simulation curriculum.
+
+## References
+
+Åberg K, Norman M, Ekéus C: Preterm birth by vacuum extraction and neonatal outcome: a populationbased cohort study. BMC Pregnancy Childbirth 14:42, 2014 Åberg K, Norman M, Pettersson K, et al: Protracted vacuum extraction and neonatal intracranial hemorrhage among infants born at term: a nationwide case-control study. Acta Obstet Gynecol Scand 98(4):523, 2019 Accreditation Council for Graduate Medical Education: Case log minimum numbers: obstetrics and gynecology. 2020. Available at: https://www.acgme.org/Portals/0/PFAssets/ProgramResources/220_Ob_Gyn_Minimum_Numbers_ Announcement.pdf?ver=2018-06-25-104354-993. Accessed July 23, 2020 Accreditation Council for Graduate Medical Education: Obstetrics and gynecology case logs. 2019. Available at: https://www.acgme.org/Portals/0/PDFs/220_National_Report_Program_Version_2018-2019.pdf. Accessed July 23, 2020 Aiken AR, Aiken CE, Alberry MS, et al: Management of fetal malposition in the second stage of labor: a propensity score analysis. Am J Obstet Gynecol 212(3):355.e1, 2015 Alexander JM, Leveno KJ, Hauth JC, et al: Failed operative vaginal delivery. Obstet Gynecol 114(5):1017, 2009 American College of Obstetricians and Gynecologists, Society for Maternal-Fetal Medicine: Safe prevention of the primary cesarean delivery. Obstetric Care Consensus No. 1, March 2014, Reaffirmed 2019 American College of Obstetricians and Gynecologists: Operative vaginal birth. Practice Bulletin No. 219, April 2020a American College of Obstetricians and Gynecologists: Prevention and management of obstetrical lacerations at vaginal birth. Practice Bulletin No. 198, June 2018, Reaffirmed 2020b Anim-Somuah M, Smyth RM, Cyna AM, et al: Epidural versus non-epidural or no analgesia for pain management in labour Cochrane Database Syst Rev 5:CD000331, 2018 Baerthlein WC, Moodley S, Stinson SK: Comparison of maternal and neonatal morbidity in midforceps delivery and midpelvis vacuum extraction. Obstet Gynecol 67(4):594, 1986 Bahl R, Patel RR, Swingler R, et al: Neurodevelopmental outcome at 5 years after operative delivery in the second stage of labor: a cohort study. Am J Obstet Gynecol 197:147, 2007 Bahl R, Van de Venne M, Macleod M, et al: Maternal and neonatal morbidity in relation to the instrument used for mid-cavity rotational operative vaginal delivery: a prospective cohort study. BJOG 120(12):1526, 2013 Bailit JL, Grobman WA, Rice MM, et al: Evaluation of delivery options for second-stage events. Am J Obstet Gynecol 214(5):638.e1, 2016 Barth WH Jr: Persistent occiput posterior. Obstet Gynecol 125(3):695, 2015 Bashore RA, Phillips WH Jr, Brinkman CR III: A comparison of the morbidity of midforceps and cesarean delivery. Am J Obstet Gynecol 162(6):1428, 1990
+
+Baskett TF, Fanning CA, Young DC, et al: A prospective observational study of 1000 vacuum assisted deliveries with the OmniCup device. J Obstet Gynaecol Can 30(7):573, 2008 Ben-Haroush A, Melamed N, Kaplan B, et al: Predictors of failed operative vaginal delivery: a singlecenter experience. Am J Obstet Gynecol 197:308.e1, 2007 Bertholdt C, Gauchotte E, Dap M, et al: Predictors of successful manual rotation for occiput posterior positions. Int J Gynaecol Obstet 144(2):210, 2019 Blanc J, Castel P, Mauviel F, et al: Prophylactic manual rotation of occiput posterior and transverse positions to decrease operative delivery: the PROPOP randomized clinical trial. Am J Obstet Gynecol May 24, 2021 [Epub ahead of print] Bofill JA, Rust OA, Schorr SJ, et al: A randomized trial of two vacuum extraction techniques. Obstet Gynecol 89(5 Pt 1):758, 1997 Bols EM, Hendriks EJ, Berghmans BC, et al: A systematic review of etiological factors for postpartum fecal incontinence. Acta Obstet Gynecol Scand 89(3):302, 2010 Bradley MS, Kaminski RJ, Streitman DC, et al: Effect of rotation on perineal lacerations in forcepsassisted vaginal deliveries. Obstet Gynecol 122(1):132, 2013 Broman SH, Nichols PL, Kennedy WA: Preschool IQ: prenatal and early developmental correlates. Hillside, L. Erlbaum Associates, 1975 Burke N, Field K, Mujahid F, et al: Use and safety of Kielland’s forceps in current obstetric practice. Obstet Gynecol 120(4):766, 2012 Cheong YC, Abdullahi H, Lashen H, et al: Can formal education and training improve the outcome of instrumental delivery? Eur J Obstet Gynecol 113:139, 2004 Cibils LA, Ringler GE: Evaluation of midforceps delivery as an alternative. J Perinat Med 18(1):5, 1990 Clinical Innovations: Kiwi complete vacuum delivery system instructions for use. 2018. Available at: clinicalinnovations.com/wp-content/uploads/2015/10/Kiwi-M_ME-IFU.pdf. Accessed August 13,
+
+## 2020
+
+Contag SA, Clifton RG, Bloom SL, et al: Neonatal outcomes and operative vaginal delivery versus cesarean delivery. Am J Perinatol 27(6):493, 2010 Cooper Surgical: Mityvac vacuum-assisted delivery system. 2018. Available at: www.coopersurgical.com/product-resources/5cf330cb-141e-4573-83caf67b4147ba4f_Mityvac_MitySoft_Bell_Cup_Instruction_for_Use.pdf. Accessed August 13, 2020 Dall’Asta A, Ghi T, Pedrazzi G, et al: Does vacuum delivery carry a higher risk of shoulder dystocia?
+
+**Review and meta-analysis of the literature.** Eur J Obstet Gynecol Reprod Biol 204:62, 2016 Damron DP, Capeless EL: Operative vaginal delivery: a comparison of forceps and vacuum for success rate and risk of rectal sphincter injury. Am J Obstet Gynecol 191:907, 2004 de Leeuw JW, de Wit C, Kuijken JP, et al: Mediolateral episiotomy reduces the risk for anal sphincter injury during operative vaginal delivery. BJOG 115:104, 2008 DeLancey JO, Morgan DM, Fenner DE, et al: Comparison of levator ani muscle defects and function in women with and without pelvic organ prolapse. Obstet Gynecol 109:295, 2007 Demissie K, Rhoads GG, Smulian JC, et al: Operative vaginal delivery and neonatal and infant adverse outcomes: population based retrospective analysis. BMJ 329(7456):24, 2004 Dennen EH: Forceps Delivery. Philadelphia, F.A. Davis Company, 1955 Dierker LJ, Rosen MG, Thompson K, et al: Midforceps deliveries: long-term outcome of infants. Am J Obstet Gynecol 154:764, 1986 Dierker LJ, Rosen MG, Thompson K, et al: The midforceps: maternal and neonatal outcomes. Am J Obstet Gynecol 152(2):176, 1985 Dietz HP, Simpson JM: Levator trauma is associated with pelvic organ prolapse. BJOG 115:979, 2008
+
+Dildy GA, Belfort MA, Clark SL: Obstetric forceps: a species on the brink of extinction. Obstet Gynecol 128(3):436, 2016 Dolan LM, Hilton P: Obstetric risk factors and pelvic floor dysfunction 20 years after first delivery. Int Urogynecol J Pelvic Floor Dysfunct 21:535, 2010 Ducarme G, Hamel JF, Bouet PE, et al: Maternal and neonatal morbidity after attempted operative vaginal delivery according to fetal head station. Obstet Gynecol 126(3):521, 2015 Duchon MA, DeMund MA, Brown RH: Laboratory comparison of modern vacuum extractors. Obstet Gynecol 72:155, 1998 Duggal N, Mercado C, Daniels K, et al: Antibiotic prophylaxis for prevention of postpartum perineal wound complications: a randomized controlled trial. Obstet Gynecol 111(6):1268, 2008 Dupuis O, Silveira R, Dupont C, et al: Comparison of “instrument-associated” and “spontaneous” obstetric depressed skull fractures in a cohort of 68 neonates. Am J Obstet Gynecol 192(1):165,
+
+## 2005
+
+Evers EC, Blomquist JL, McDermott KC, et al: Obstetrical anal sphincter laceration and anal incontinence 5–10 years after childbirth. Am J Obstet Gynecol 207(5):425.e1, 2012 Ezenagu LC, Kakaria R, Bofill JA: Sequential use of instruments at operative vaginal delivery: is it safe? Am J Obstet Gynecol 180:1446, 1999 Fitzwater JL, Owen J, Ankumah NA, et al: Nulliparous women in the second stage of labor: changes in delivery outcomes between two cohorts from 2000 and 2011. Obstet Gynecol 126(1):81, 2015 Friedman AM, Ananth CV, Prendergast E, et al: Evaluation of third-degree and fourth-degree laceration rates as quality indicators. Obstet Gynecol 125(4):927, 2015 Friedman EA, Sachtleben-Murray MR, Dahrouge D, et al: Long-term effects of labor and delivery on offspring: a matched-pair analysis. Am J Obstet Gynecol 150:941, 1984 Friedman T, Eslick GD, Dietz HP: Delivery mode and the risk of levator muscle avulsion: a metaanalysis. Int Urogynecol J 30(6):901, 2019 Gardella C, Taylor M, Benedetti T, et al: The effect of sequential use of vacuum and forceps for assisted vaginal delivery on neonatal and maternal outcomes. Am J Obstet Gynecol 185(4):896, 2001 Gartland D, MacArthur C, Woolhouse H, et al: Frequency, severity and risk factors for urinary and faecal incontinence at 4 years postpartum: a prospective cohort. BJOG 123(7):1203, 2016 Ghi T, Eggebø T, Lees C, et al: ISUOG practice guidelines: intrapartum ultrasound. Ultrasound Obstet Gynecol 52:128, 2018 Gilstrap LC 3rd, Hauth JC, Schiano S, et al: Neonatal acidosis and method of delivery. Obstet Gynecol 63(5):681, 1984 Gordon MT, DeLancey JO, Renfroe A, et al: Development of anatomically based customizable threedimensional finite-element model of pelvic floor support system: POP-SIM1.0. Interface Focus 9(4):20190022, 2019 Gossett DR, Gilchrist-Scott D, Wayne DB, et al: Simulation training for forceps-assisted vaginal delivery and rates of maternal perineal trauma. Obstet Gynecol 128(3):429, 2016 Gurol-Urganci I, Cromwell DA, Edozien LC, et al: Third- and fourth-degree perineal tears among primiparous women in England between 2000 and 2012: time trends and risk factors. BJOG 120(12):1516, 2013 Gyhagen M, Bullarbo M, Nielsen T, et al: The prevalence of urinary incontinence 20 years after childbirth: a national cohort study in singleton primiparae after vaginal or caesarean delivery. BJOG 120:144, 2013 Hagadorn-Freathy AS, Yeomans ER, Hankins GD: Validation of the 1988 ACOG forceps classification system. Obstet Gynecol 77:356, 1991
+
+Halscott TL, Reddy UM, Landy HJ, et al: Maternal and neonatal outcomes by attempted mode of operative delivery from a low station in the second stage of labor. Obstet Gynecol 126(6):1265, 2015 Handa VL, Blomquist JL, Roem J, et al: Pelvic floor disorders after obstetric avulsion of the levator ani muscle. Female Pelvic Med Reconstr Surg 25(1):3, 2019 Hinkson L, Henrich W, Tutschek B: Intrapartum ultrasound during rotational forceps delivery: a novel tool for safety, quality control and teaching. Am J Obstet Gynecol 224(1):93.e1, 2021 Hofmeyr GJ, Gobetz L, Sonnendecker EW, et al: New design rigid and soft vacuum extractor cups: a preliminary comparison of traction forces. BJOG 97(8):681, 1990 Jangö H, Langhoff-Roos J, Rosthøj S, et al: Modifiable risk factors of obstetric anal sphincter injury in primiparous women: a population-based cohort study. Am J Obstet Gynecol 210(1):59.e1, 2014 Knight M, Chiocchia V, Partlett C, et al: Prophylactic antibiotics in the prevention of infection after operative vaginal delivery (ANODE): a multicentre randomised controlled trial. Lancet 393(10189):2395, 2019 Kudish B, Blackwell S, Mcneeley SG, et al: Operative vaginal delivery and midline episiotomy: a bad combination for the perineum. Am J Obstet Gynecol 195(3):749, 2006 Kuit JA, Eppinga HG, Wallenburg HC, et al: A randomized comparison of vacuum extraction delivery with a rigid and a pliable cup. Obstet Gynecol 82:280, 1993 Kyser KL, Lu X, Santillan D, et al: Forceps delivery volumes in teaching and nonteaching hospitals: are volumes sufficient for physicians to acquire and maintain competence? Acad Med 89(1):71, 2014 Landy HJ, Laughon SK, Bailit JL, et al: Characteristics associated with severe perineal and cervical lacerations during vaginal delivery. Obstet Gynecol 117(3):627, 2011 Le Ray C, Deneux-Tharaux C, Khireddine I, et al: Manual rotation to decrease operative delivery in posterior or transverse positions. Obstet Gynecol 122(3):634, 2013 Le Ray C, Serres P, Schmitz T, et al: Manual rotation in occiput posterior or transverse positions. Obstet Gynecol 110:873, 2007 Leijonhufvud A, Lundholm C, Cnattingius S, et al: Risks of stress urinary incontinence and pelvic organ prolapse surgery in relation to mode of childbirth. Am J Obstet Gynecol 204(1):70.e1, 2011 Levin G, Elchalal U, Yagel S, et al: Risk factors associated with subgaleal hemorrhage in neonates exposed to vacuum extraction. Acta Obstet Gynecol Scand 98(11):1464, 2019 Lewicky-Gaupp C, Leader-Cramer A, Johnson LL, et al: Wound complications after obstetric anal sphincter injuries. Obstet Gynecol 125(5):1088, 2015 Liu EH, Sia AT: Rates of caesarean section and instrumental vaginal delivery in nulliparous women after low concentration epidural infusions or opioid analgesia: systematic review. BMJ 328(7453):1410,
+
+## 2004
+
+Lowe B: Fear of failure: a place for the trial of instrumental delivery. BJOG 94:60, 1987 MacArthur C, Wilson D, Herbison P, et al: Faecal incontinence persisting after childbirth: a 12-year longitudinal study. BJOG 120(2):169, 2013 MacArthur C, Wilson D, Herbison P, et al: Urinary incontinence persisting after childbirth: extent, delivery history, and effects in a 12-year longitudinal cohort study. Prolong Study Group. BJOG 123(6):1022, 2016 Martin JA, Hamilton BE, Osterman MJ, et al: Births: final data for 2015. Natl Vital Stat Rep 66(1):1,
+
+## 2017
+
+Miller ES, Lai Y, Bailit J, et al: Duration of operative vaginal delivery and adverse obstetric outcomes. Am J Perinatol 37(5):503, 2020 Muise KL, Duchon MA, Brown RH: The effect of artificial caput on performance of vacuum extractors. Obstet Gynecol 81(2):170, 1993
+
+Mulder F, Schoffelmeer M, Hakvoort R, et al: Risk factors for postpartum urinary retention: a systematic review and meta-analysis. BJOG 119(12):1440, 2012 Muraca GM, Skoll A, Lisonkova S, et al: Perinatal and maternal morbidity and mortality among term singletons following midcavity operative vaginal delivery versus caesarean delivery. BJOG 125(6):693, 2018 Murphy DJ, Libby G, Chien P, et al: Cohort study of forceps delivery and the risk of epilepsy in adulthood. Am J Obstet Gynecol 191:392, 2004 Murphy DJ, Macleod M, Bahl R, et al: A cohort study of maternal and neonatal morbidity in relation to use of sequential instruments at operative vaginal delivery. Eur J Obstet Gynecol Reprod Biol 156(1):41, 2011 Nelson RL, Furner SE, Westercamp M, et al: Cesarean delivery for the prevention of anal incontinence. Cochrane Database Syst Rev 2:CD006756, 2010 Nilsen ST: Boys born by forceps and vacuum extraction examined at 18 years of age. Acta Obstet Gynecol Scand 63:549, 1984 Nygaard IE, Rao SS, Dawson JD: Anal incontinence after anal sphincter disruption: a 30-year retrospective cohort study. Obstet Gynecol 89:896, 1997 O’Callaghan ME, MacLennan AH, Gibson CS, et al: Epidemiologic associations with cerebral palsy. Obstet Gynecol 118(3):576, 2011 O’Mahony F, Hofmeyr GJ, Menon V: Choice of instruments for assisted vaginal delivery. Cochrane Database Syst Rev 11:CD005455, 2010 Osterman MJ, Martin JA, Menacker F: Expanded health data from the new birth certificate, 2006. Natl Vital Stat Rep 58(5):1, 2009 Palatnik A, Grobman WA, Hellendag MG, et al: Predictors of failed operative vaginal delivery in a contemporary obstetric cohort. Obstet Gynecol 127(3):501, 2016 Pearl ML, Roberts JM, Laros RK, et al: Vaginal delivery from the persistent occiput posterior position: influence on maternal and neonatal morbidity. J Reprod Med 38:955, 1993 Pifarotti P, Gargasole C, Folcini C, et al: Acute post-partum urinary retention: analysis of risk factors, a case-control study. Arch Gynecol Obstet 289(6):1249, 2014 Ramphul M, Kennelly MM, Burke G, et al: Risk factors and morbidity associated with suboptimal instrument placement at instrumental delivery: observational study nested within the Instrumental Delivery & Ultrasound randomised controlled trial ISRCTN 72230496. BJOG 122(4):558, 2015 Robertson PA, Laros RK, Zhao RL: Neonatal and maternal outcome in low-pelvic and mid-pelvic operative deliveries. Am J Obstet Gynecol 162:1436, 1990 Rortveit G, Daltveit AK, Hannestad YS, et al: Urinary incontinence after vaginal delivery or cesarean section. N Engl J Med 348:9000, 2003 Schuit E, Kwee A, Westerhuis ME, et al: A clinical prediction model to assess the risk of operative delivery. BJOG 119(8):915, 2012 Seidman DS, Laor A, Gale R, et al: Long-term effects of vacuum and forceps deliveries. Lancet 337:1583, 1991 Shaffer BL, Cheng YW, Vargas JE, et al: Manual rotation to reduce caesarean delivery in persistent occiput posterior or transverse position. J Matern Fetal Neonatal Med 24(1):65, 2011 Society for Maternal-Fetal Medicine, Staat B, Combs CA: SMFM special statement: operative vaginal delivery: checklists for performance and documentation. Am J Obstet Gynecol 222(5):B15, 2020 Solt I, Jackson S, Moore T, et al: Teaching forceps: the impact of proactive faculty. Am J Obstet Gynecol 204(5):448.e1, 2011
+
+Spiliopoulos M, Kareti A, Jain NJ, et al: Risk of peripartum hysterectomy by mode of delivery and prior obstetric history: data from a population-based study. Arch Gynecol Obstet 283(6):1261, 2011 Spong CY, Berghella V, Wenstrom KD, et al: Preventing the first cesarean delivery: summary of a Joint Eunice Kennedy Shriver National Institute of Child Health and Human Development, Society for Maternal-Fetal Medicine, and American College of Obstetricians and Gynecologists Workshop. Obstet Gynecol 120(5):1181, 2012 Stock L, Basham E, Gossett DR, et al: Factors associated with wound complications in women with obstetric anal sphincter injuries (OASIS). Am J Obstet Gynecol 208(4):327.e1, 2013a Stock SJ, Josephs K, Farquharson S, et al: Maternal and neonatal outcomes of successful Kielland’s rotational forceps delivery. Obstet Gynecol 121(5):1032, 2013b Suwannachat B, Laopaiboon M, Tonmat S, et al: Rapid versus stepwise application of negative pressure in vacuum extraction-assisted vaginal delivery: a multicentre randomised controlled non-inferiority trial. BJOG 118(10):1247, 2011 Suwannachat B, Lumbiganon P, Laopaiboon M: Rapid versus stepwise negative pressure application for vacuum extraction assisted vaginal delivery. Cochrane Database Syst Rev 8:CD006636, 2012 Tempest N, Hart A, Walkinshaw S, et al: A re-evaluation of the role of rotational forceps: retrospective comparison of maternal and perinatal outcomes following different methods of birth for malposition in the second stage of labor. BJOG 120(10):1277, 2013 Towner D, Castro MA, Eby-Wilkens E, et al: Effect of mode of delivery in nulliparous women on neonatal intracranial injury. N Engl J Med 341:1709, 1999 Towner DR, Ciotti MC: Operative vaginal delivery: a cause of birth injury or is it? Clin Obstet Gynecol 50(3):563, 2007 Vacca A: Vacuum-assisted delivery. Best Pract Res Clin Obstet Gynaecol 16:17, 2002 van Bavel J, Hukkelhoven CW, de Vries C, et al: The effectiveness of mediolateral episiotomy in preventing obstetric anal sphincter injuries during operative vaginal delivery: a ten-year analysis of a national registry. Int Urogynecol J 29(3):407, 2018 van den Akker T: Vacuum extraction for non-rotational and rotational assisted vaginal birth. Best Pract Res Clin Obstet Gynaecol 56:47, 2019 Verhoeven CJ, Nuij C, Janssen-Rolf CR, et al: Predictors for failure of vacuum-assisted vaginal delivery: a case-control study. Eur J Obstet Gynecol Reprod Biol 200:29, 2016 Volløyhaug I, Mørkved S, Salvesen Ø, et al: Forceps delivery is associated with increased risk of pelvic organ prolapse and muscle trauma: a cross-sectional study 16–24 years after first delivery. Ultrasound Obstet Gynecol 46(4):487, 2015 Walsh CA, Robson M, McAuliffe FM: Mode of delivery at term and adverse neonatal outcomes. Obstet Gynecol 121(1):122, 2013 Wan L, Xia W, Zhang J: Effect of perineum protection cooperated by two operators in the forcepsassisted vaginal delivery: a case-control study. J Matern Fetal Neonatal Med 12:1, 2020 Wen SW, Liu S, Kramer MS, et al: Comparison of maternal and infant outcomes between vacuum extraction and forceps deliveries. Am J Epidemiol 153(2):103, 2001 Werner EF, Janevic TM, Illuzzi J, et al: Mode of delivery in nulliparous women and neonatal intracranial injury. Obstet Gynecol 118(6):1239, 2011 Wesley B, van den Berg B, Reece EA: The effect of operative vaginal delivery on cognitive development. Am J Obstet Gynecol 166:288, 1992 Wesley BD, van den Berg BJ, Reece EA: The effect of forceps delivery on cognitive development. Am J Obstet Gynecol 169(5):1091, 1993
+
+Williams MC, Knuppel RA, O’Brien WF, et al: A randomized comparison of assisted vaginal delivery by obstetric forceps and polyethylene vacuum cup. Obstet Gynecol 78:789, 1991 Yeomans ER: Operative vaginal delivery. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw-Hill Education, 2017 Yeomans ER: Operative vaginal delivery. Obstet Gynecol 115(3):645, 2010

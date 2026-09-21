@@ -1,1037 +1,261 @@
-CHAPTER 31
+# Chapter 31: Prior Cesarean Delivery
 
-Prior Cesarean Delivery
+- 100 Years Of Controversy
+- Influencing Factors
+- Delivery Route Risks
+- Trial Of Labor Selection Considerations
+- Labor And Delivery Considerations
+- Uterine Scar Rupture
+- Multiple Repeat Cesarean Deliveries
+- Vaginal Birth After Cesarean—2021
+- References
 
-100 YEARS OF CONTROVERSY
-INFLUENCING FACTORS
-DELIVERY ROUTE RISKS
-TRIAL OF LABOR SELECTION CONSIDERATIONS
-LABOR AND DELIVERY CONSIDERATIONS
-UTERINE SCAR RUPTURE
-MULTIPLE REPEAT CESAREAN DELIVERIES
-VAGINAL BIRTH AFTER CESAREAN—2021
-REFERENCES
-By the beginning of the 20th century, cesarean delivery had become a
-relatively safe procedure. However, rupture of the uterine scar with
-subsequent labor was appreciated early. This danger resulted in the oftquoted remark by Cragin (1916) that “Once a cesarean, always a cesarean.”
-During the intervening 50 years, enthusiasm developed to allow many of
-these women to be delivered vaginally. But, as chronicled next, this support
-has waned during the past three decades. So, as we reach the 100-year mark
-of Cragin’s pronouncement, the issue remains largely unsettled.
+By the beginning of the 20th century, cesarean delivery had become a relatively safe procedure. However, rupture of the uterine scar with subsequent labor was appreciated early. This danger resulted in the oftquoted remark by Cragin (1916) that “Once a cesarean, always a cesarean.” During the intervening 50 years, enthusiasm developed to allow many of these women to be delivered vaginally. But, as chronicled next, this support has waned during the past three decades. So, as we reach the 100-year mark of Cragin’s pronouncement, the issue remains largely unsettled.
 
-100 YEARS OF CONTROVERSY
+## 100 Years Of Controversy
 
-Despite Cragin’s early philosophy, some practitioners did allow labor in a
-subsequent pregnancy after a cesarean delivery. Eastman (1950) described a
-30-percent postcesarean vaginal delivery rate at Johns Hopkins Hospital. He
-also reported a 2-percent uterine rupture rate and associated 10-percent
-maternal mortality rate. As modern techniques made cesarean delivery safer,
-observational studies during the 1960s suggested that postcesarean vaginal
-delivery was a reasonable option (Pauerstein, 1966, 1969). Germane to this
-is that through the 1960s, the overall cesarean delivery rate approximated
-only 5 percent. Since then, as the primary cesarean rate has escalated, the
-repeat cesarean delivery rate followed (Rosenstein, 2013).
-During the 1980s, a National Institutes of Health (NIH) Consensus
-Development Conference on Vaginal Birth After Cesarean (1981) was
-convened, and the participants questioned the necessity of routine repeat
-cesarean delivery. With support and encouragement from the American
-College of Obstetricians and Gynecologists (1988, 1994), enthusiastic
-attempts were begun to increase the practice rate of vaginal birth after
-cesarean—VBAC. These attempts were highly successful, and VBAC rates
-rose from 3.4 percent in 1980 to a peak of 28.3 percent in 1996. This rate
-and a concomitant decline in total cesarean delivery rate for the United
-States, are shown in Figure 31-1. Also, a new lexicon was developed to
-describe these practices and outcomes (Table 31-1).
+Despite Cragin’s early philosophy, some practitioners did allow labor in a subsequent pregnancy after a cesarean delivery. Eastman (1950) described a 30-percent postcesarean vaginal delivery rate at Johns Hopkins Hospital. He also reported a 2-percent uterine rupture rate and associated 10-percent maternal mortality rate. As modern techniques made cesarean delivery safer, observational studies during the 1960s suggested that postcesarean vaginal delivery was a reasonable option (Pauerstein, 1966, 1969). Germane to this is that through the 1960s, the overall cesarean delivery rate approximated only 5 percent. Since then, as the primary cesarean rate has escalated, the repeat cesarean delivery rate followed (Rosenstein, 2013). During the 1980s, a National Institutes of Health (NIH) Consensus Development Conference on Vaginal Birth After Cesarean (1981) was convened, and the participants questioned the necessity of routine repeat cesarean delivery. With support and encouragement from the American College of Obstetricians and Gynecologists (1988, 1994), enthusiastic attempts were begun to increase the practice rate of vaginal birth after cesarean—VBAC. These attempts were highly successful, and VBAC rates rose from 3.4 percent in 1980 to a peak of 28.3 percent in 1996. This rate and a concomitant decline in total cesarean delivery rate for the United States, are shown in Figure 31-1. Also, a new lexicon was developed to describe these practices and outcomes (Table 31-1).
 
-FIGURE 31-1 Total, primary, and low-risk cesarean delivery (CD) rates and vaginal birth after
-previous cesarean (VBAC) rates in the United States, 1989–2018. Epochs denoted within rectangles
-represent contemporaneous ongoing events related to these rates. ACOG = American College of
-Obstetricians and Gynecologists; NIH = National Institutes of Health; PB = practice bulletin. (Data
-from Hamilton, 2015, 2016; Martin, 2019; National Institutes of Health: NIH Consensus Development
-Conference, 2010.)
+> **Figure 31-1:** Total, primary, and low-risk cesarean delivery (CD) rates and vaginal birth after previous cesarean (VBAC) rates in the United States, 1989–2018. Epochs denoted within rectangles represent contemporaneous ongoing events related to these rates. ACOG = American College of Obstetricians and Gynecologists; NIH = National Institutes of Health; PB = practice bulletin. (Data from Hamilton, 2015, 2016; Martin, 2019; National Institutes of Health: NIH Consensus Development Conference, 2010.)
 
-TABLE 31-1. Acronyms Used to Describe Management of Women with a
-Prior Cesarean Delivery
+> **Table 31-1:** Acronyms Used to Describe Management of Women with a Prior Cesarean Delivery
 
-However, with the higher postcesarean vaginal delivery rate, reports of
-uterine rupture-related maternal and perinatal morbidity and mortality began
-to appear (McMahon, 1996; Sachs, 1999). These complications dampened
-prevailing enthusiasm for a trial of labor after cesarean section (TOLAC).
-They also prompted the American College of Obstetricians and
-Gynecologists (1998) to caution that such trials should be attempted only in
-appropriately equipped institutions with physicians readily available to
-provide emergency care. Less than a year later, the College (1999)
-recommended that physicians should be immediately available when
-pursuing a TOLAC. Many believe that this one-word change—from readily
-to immediately available—was an impetus for the resulting decade-long
-decline in national VBAC rates illustrated in Figure 31-1 (Cheng, 2014;
-Leeman, 2013).
-In a cross-sectional analysis between 1990 and 2009, the proportion of
-women with a prior cesarean delivery who underwent a TOLAC peaked in
-1995, and slightly more than half of these women chose this option (Fig. 312). After this, the proportion of women attempting TOLAC declined to a
-nadir of 16 percent in 2006 and subsequently rose to 21 percent through
-2009. Additionally, the percentage of VBACs reached its peak of 70 percent
+However, with the higher postcesarean vaginal delivery rate, reports of uterine rupture-related maternal and perinatal morbidity and mortality began to appear (McMahon, 1996; Sachs, 1999). These complications dampened prevailing enthusiasm for a trial of labor after cesarean section (TOLAC). They also prompted the American College of Obstetricians and Gynecologists (1998) to caution that such trials should be attempted only in appropriately equipped institutions with physicians readily available to provide emergency care. Less than a year later, the College (1999) recommended that physicians should be immediately available when pursuing a TOLAC. Many believe that this one-word change—from readily to immediately available—was an impetus for the resulting decade-long decline in national VBAC rates illustrated in Figure 31-1 (Cheng, 2014; Leeman, 2013). In a cross-sectional analysis between 1990 and 2009, the proportion of women with a prior cesarean delivery who underwent a TOLAC peaked in 1995, and slightly more than half of these women chose this option (Fig. 312). After this, the proportion of women attempting TOLAC declined to a nadir of 16 percent in 2006 and subsequently rose to 21 percent through 2009. Additionally, the percentage of VBACs reached its peak of 70 percent
 
-in 2000 but subsequently declined to a nadir of 38 percent in 2006 (Uddin,
-2013).
+in 2000 but subsequently declined to a nadir of 38 percent in 2006 (Uddin, 2013).
 
-FIGURE 31-2 Percentage of women with a prior cesarean delivery who attempted a trial of labor
-(TOLAC) compared with the successful vaginal delivery (VBAC) rate for the United States 1990–
-2009. (Data from Centers for Disease Control and Prevention; National Center for Health Statistics;
-Curtin, 2015; Simon, 2013; Uddin, 2013).
+> **Figure 31-2:** Percentage of women with a prior cesarean delivery who attempted a trial of labor (TOLAC) compared with the successful vaginal delivery (VBAC) rate for the United States 1990– 2009. (Data from Centers for Disease Control and Prevention; National Center for Health Statistics; Curtin, 2015; Simon, 2013; Uddin, 2013).
 
-Using birth certificate data for 2013, Curtin and associates (2015)
-reported that only 1 in 5 women with one prior cesarean delivery attempted a
-TOLAC. In women with two or more prior cesarean deliveries, less than 1 in
-10 women attempt a TOLAC, and half resulted in successful vaginal
-deliveries. At Parkland Hospital, although only 15 percent of women choose
-a TOLAC, the VBAC rate is 86 percent.
-Thus, multiple interrelated factors—both medical and nonmedical—
-undoubtedly contributed to declining VBAC rates. Because of this, in 2010
-the NIH convened a Consensus Development Conference Panel to study the
-issue. The panel report included a contemporaneous summary concerning the
-risks and benefits of repeat cesarean versus vaginal delivery. These findings
-were subsequently described and coupled with current recommendations by
-various professional organizations. As shown in Figure 31-1, it would seem
-that this report was followed by a slight rise in the VBAC rate.
+Using birth certificate data for 2013, Curtin and associates (2015) reported that only 1 in 5 women with one prior cesarean delivery attempted a TOLAC. In women with two or more prior cesarean deliveries, less than 1 in 10 women attempt a TOLAC, and half resulted in successful vaginal deliveries. At Parkland Hospital, although only 15 percent of women choose a TOLAC, the VBAC rate is 86 percent. Thus, multiple interrelated factors—both medical and nonmedical— undoubtedly contributed to declining VBAC rates. Because of this, in 2010 the NIH convened a Consensus Development Conference Panel to study the issue. The panel report included a contemporaneous summary concerning the risks and benefits of repeat cesarean versus vaginal delivery. These findings were subsequently described and coupled with current recommendations by various professional organizations. As shown in Figure 31-1, it would seem that this report was followed by a slight rise in the VBAC rate.
 
-INFLUENCING FACTORS
-For the woman with a prior cesarean delivery, planning for future
-pregnancies and delivery route should begin with preconceptional counseling
-and be addressed again early in prenatal care. Importantly, decisions made
-throughout pregnancy regarding delivery mode are subject to continuing
-revisions as dictated by exigencies that arise during pregnancy. Assuming no
-mitigating circumstances, there are two basic choices. First, a TOLAC offers
-the goal of achieving a VBAC. If cesarean delivery becomes necessary during
-the trial, it is a failed TOLAC. A second choice is elective repeat cesarean
-delivery (ERCD). This includes scheduled cesarean delivery as well as
-unscheduled but planned cesarean delivery for spontaneous labor or another
-delivery indication.
-The decision regarding delivery mode should weigh clinical factors
-known to influence TOLAC success as well as benefits and risks (Table 312). As expected, TOLAC rates vary between institutions and providers. Last,
-economics, staffing, and medicolegal factors also may shape the decision to
-offer TOLAC.
-TABLE 31-2. Some Factors That Influence a Successful Trial of Labor in a
-Woman with Prior Cesarean Delivery (CD)
+## Influencing Factors
 
-DELIVERY ROUTE RISKS
+For the woman with a prior cesarean delivery, planning for future pregnancies and delivery route should begin with preconceptional counseling and be addressed again early in prenatal care. Importantly, decisions made throughout pregnancy regarding delivery mode are subject to continuing revisions as dictated by exigencies that arise during pregnancy. Assuming no mitigating circumstances, there are two basic choices. First, a TOLAC offers the goal of achieving a VBAC. If cesarean delivery becomes necessary during the trial, it is a failed TOLAC. A second choice is elective repeat cesarean delivery (ERCD). This includes scheduled cesarean delivery as well as unscheduled but planned cesarean delivery for spontaneous labor or another delivery indication. The decision regarding delivery mode should weigh clinical factors known to influence TOLAC success as well as benefits and risks (Table 312). As expected, TOLAC rates vary between institutions and providers. Last, economics, staffing, and medicolegal factors also may shape the decision to offer TOLAC.
 
-As evidence mounted that the uterine rupture risk might be greater than
-expected, the American College of Obstetricians and Gynecologists (1988,
-1994, 1998, 1999, 2015, 2019a,d) issued updated bulletins supporting
-TOLAC but also urging a more cautious approach. It is problematic that
-both options have risks and benefits to mother and fetus but that these are
-not always congruent.
+> **Table 31-2:** Some Factors That Influence a Successful Trial of Labor in a Woman with Prior Cesarean Delivery (CD)
 
-■ Maternal Risks
-Rates of uterine rupture and associated complications clearly are increased
-with TOLAC. As shown in Table 31-1, uterine rupture typically is classified
-as either: (1) complete, when all uterine wall layers are separated, or (2)
-incomplete, when the uterine muscle is separated but the visceral peritoneum
-is intact. Incomplete rupture is also commonly referred to as uterine
-dehiscence (Chap. 42, p. 742). It is these risks that underpin most of the angst
-in attempting TOLAC. Despite this, some argue that these factors should
-weigh only minimally in the decision because their absolute risk is low. For
-example, a systematic review by Guise and coworkers (2010) concludes that
-the uterine rupture risk was significantly elevated in women undergoing
-TOLAC—absolute risk of 0.47 percent and relative risk of 20.7—compared
-with women choosing ERCD.
-The Maternal-Fetal Medicine Units (MFMU) Network conducted a
-prospective study at 19 medical centers (Landon, 2004). Shown in Table 313 are outcomes of nearly 18,000 women attempting TOLAC that were
-compared with those of more than 15,000 gravidas undergoing ERCD. The
-absolute risk of uterine rupture was 0.7 percent compared with no reported
-uterine ruptures in the ERCD cohort. Various reports suggest either no or an
-increased mortality risk for ERCD compared with attempted TOLAC (Guise,
-2010; Wen, 2004).
-TABLE 31-3. Complications in Women with a Prior Cesarean Delivery
-Enrolled in the Study by the NICHD MFMU, 1999–2002
+## Delivery Route Risks
 
-Maternal morbidity estimates also are conflicting. The review by Guise
-and coworkers (2010) observed no significant differences in hysterectomy or
-transfusion risk. But, another metaanalysis reported that women undergoing
-TOLAC were approximately half as likely to require transfusion or
-hysterectomy compared with those undergoing ERCD (Mozurkewich, 2000).
-Conversely, in the MFMU Network study, the risks for transfusion and
-infection were significantly greater for women attempting TOLAC (Landon,
-2004). A recent large retrospective Canadian cohort study compared
-maternal and neonatal outcomes (Young, 2018). The absolute rates of severe
-maternal morbidity and mortality were low. However, women attempting
-TOLAC had significantly higher adjusted risk ratios of uterine rupture (6.41),
-severe postpartum hemorrhage with transfusion (2.80), and composite
+As evidence mounted that the uterine rupture risk might be greater than expected, the American College of Obstetricians and Gynecologists (1988, 1994, 1998, 1999, 2015, 2019a,d) issued updated bulletins supporting TOLAC but also urging a more cautious approach. It is problematic that both options have risks and benefits to mother and fetus but that these are not always congruent.
 
-maternal morbidity (1.96) compared with women who underwent ERCD.
-This disparity is also found among other studies. Importantly, compared with
-a successful TOLAC, the risk of these major complications was fivefold
-greater with a failed TOLAC (Rossi, 2008).
+### Maternal Risks
 
-■ Perinatal Risks
-In the Canadian study cited previously, rates of composite severe neonatal
-morbidity and mortality were higher among women delivering after an
-attempted VBAC compared with those delivering by ERCD—adjusted odds
-ratio (aOR) 1.49 (Young, 2018). In this study failed VBAC was also
-associated with a significantly increased rate of neonatal death—aOR 3.22.
-Both the prospective MFMU Network study shown in Table 31-3 and review
-by Guise (2010) found significantly higher perinatal mortality rates with
-TOLAC compared with ERCD. In the latter review, the perinatal mortality
-rate with TOLAC was 0.13 percent compared with 0.05 percent for ERCD.
-In the Canadian study cited previously, adjusted risk ratios for neonatal death
-(3.22) and for composite severe neonatal morbidity and mortality (1.49)
-were significantly higher among women delivering after an attempted
-TOLAC compared with those delivering by ERCD (Young, 2018). In another
-study of nearly 25,000 women with a prior cesarean delivery, the TOLACrelated perinatal death rate was 1.3 per 1000 among 15,515 women (Smith,
-2002). Although this absolute risk is small, it is 11 times greater than the
-perinatal risk found in 9014 women with ERCD.
-TOLAC also appears to be associated with a higher risk of hypoxic
-ischemic encephalopathy (HIE) compared with that for ERCD. The MFMU
-Network study reported the incidence of encephalopathy at term to be 46 per
-100,000 TOLACs compared with zero cases in women undergoing ERCD
-(Landon, 2004). In the review by Guise (2010), the absolute risk of transient
-tachypnea of the newborn was slightly higher with ERCD compared with
-TOLAC—4.2 versus 3.6 percent. But, neonatal bag and mask ventilation was
-used more often in newborns delivered following TOLAC than in those
-delivered by ERCD—5.4 versus 2.5 percent. The 5-minute Apgar scores or
-neonatal intensive care unit admission rates for newborns delivered by
-TOLAC did not differ from those delivered by ERCD.
+Rates of uterine rupture and associated complications clearly are increased with TOLAC. As shown in Table 31-1, uterine rupture typically is classified as either: (1) complete, when all uterine wall layers are separated, or (2) incomplete, when the uterine muscle is separated but the visceral peritoneum is intact. Incomplete rupture is also commonly referred to as uterine dehiscence (Chap. 42, p. 742). It is these risks that underpin most of the angst in attempting TOLAC. Despite this, some argue that these factors should weigh only minimally in the decision because their absolute risk is low. For example, a systematic review by Guise and coworkers (2010) concludes that the uterine rupture risk was significantly elevated in women undergoing TOLAC—absolute risk of 0.47 percent and relative risk of 20.7—compared with women choosing ERCD. The Maternal-Fetal Medicine Units (MFMU) Network conducted a prospective study at 19 medical centers (Landon, 2004). Shown in Table 313 are outcomes of nearly 18,000 women attempting TOLAC that were compared with those of more than 15,000 gravidas undergoing ERCD. The absolute risk of uterine rupture was 0.7 percent compared with no reported uterine ruptures in the ERCD cohort. Various reports suggest either no or an increased mortality risk for ERCD compared with attempted TOLAC (Guise, 2010; Wen, 2004).
 
-TRIAL OF LABOR SELECTION CONSIDERATIONS
-Both patients and providers ideally would like individualized risks when
-counseling regarding the chance of successful TOLAC. However, few highquality data guide selection of suitable TOLAC candidates. Several
-TOLAC/VBAC calculators can be used at entry to prenatal care and again at
-the time of labor to assist in successful TOLAC prediction. However, these
-have not been validated as predictors of adverse maternal outcomes, such as
-uterine rupture. Similarly, algorithms and nomograms to aid prediction fail to
-demonstrated reasonable prognostic value (Grobman, 2007b, 2008, 2021;
-Metz, 2013; Wyckoff, 2020). Lipschuetz and colleagues (2020) applied
-newer statistical analysis techniques to help improve prognostic accuracy.
-Despite the limitations of these predictive tools, several points are
-pertinent to candidate evaluation and are described subsequently. Current
-recommendations of the American College of Obstetricians and
-Gynecologists (2019d) are that most women with one prior low transverse
-hysterotomy are candidates, and if appropriate, they should be counseled
-regarding both TOLAC and ERCD options. It is further recommended that
-home birth is a contraindication for TOLAC.
+> **Table 31-3:** Complications in Women with a Prior Cesarean Delivery Enrolled in the Study by the NICHD MFMU, 1999–2002
 
-■ Prior Uterine Incision
-Prior Incision Type
-The type and number of prior cesarean deliveries are overriding factors in
-recommending TOLAC (see Table 31-2). And these caveats aim to avoid
-intrapartum uterine rupture. As shown in Table 31-4, women with one prior
-low transverse hysterotomy have the lowest risk of symptomatic scar
-separation. However, asymptomatic dehiscence or complete rupture is still a
-concern in these women (Fig. 31-3). The uterine rupture risk in women with
-a prior vertical incision that did not extend into the fundus is unclear. Martin
-(1997) and Shipp (1999) and their associates reported that these low vertical
-uterine incisions do not have a higher risk for rupture compared with low
-transverse incisions. The American College of Obstetricians and
-Gynecologists (2015) concluded that although evidence is limited, women
-with a prior vertical incision in the lower uterine segment without fundal
-extension may be candidates for TOLAC. This is in contrast to prior
+Maternal morbidity estimates also are conflicting. The review by Guise and coworkers (2010) observed no significant differences in hysterectomy or transfusion risk. But, another metaanalysis reported that women undergoing TOLAC were approximately half as likely to require transfusion or hysterectomy compared with those undergoing ERCD (Mozurkewich, 2000). Conversely, in the MFMU Network study, the risks for transfusion and infection were significantly greater for women attempting TOLAC (Landon, 2004). A recent large retrospective Canadian cohort study compared maternal and neonatal outcomes (Young, 2018). The absolute rates of severe maternal morbidity and mortality were low. However, women attempting TOLAC had significantly higher adjusted risk ratios of uterine rupture (6.41), severe postpartum hemorrhage with transfusion (2.80), and composite
 
-classical or T-shaped uterine incisions, which are considered by most as
-contraindications to labor.
-TABLE 31-4. Types of Prior Uterine Incisions and Estimated Risks for
-Uterine Rupture
+maternal morbidity (1.96) compared with women who underwent ERCD. This disparity is also found among other studies. Importantly, compared with a successful TOLAC, the risk of these major complications was fivefold greater with a failed TOLAC (Rossi, 2008).
 
-FIGURE 31-3 Extensive “uterine window” in a woman at term with one prior low transverse cesarean
-delivery. A. Transabdominal sonogram shows the uterine defect (arrow), bulging amnionic sac, and
+### Perinatal Risks
 
-adjacent anatomy. B = Bladder. B. At the time of cesarean delivery, the amnionic sac is seen protruding
-through the defect and is visible beneath the thin vesicocervical peritoneum. (Reproduced with
-permission from Dr. Angela Seasley.)
+In the Canadian study cited previously, rates of composite severe neonatal morbidity and mortality were higher among women delivering after an attempted VBAC compared with those delivering by ERCD—adjusted odds ratio (aOR) 1.49 (Young, 2018). In this study failed VBAC was also associated with a significantly increased rate of neonatal death—aOR 3.22. Both the prospective MFMU Network study shown in Table 31-3 and review by Guise (2010) found significantly higher perinatal mortality rates with TOLAC compared with ERCD. In the latter review, the perinatal mortality rate with TOLAC was 0.13 percent compared with 0.05 percent for ERCD. In the Canadian study cited previously, adjusted risk ratios for neonatal death (3.22) and for composite severe neonatal morbidity and mortality (1.49) were significantly higher among women delivering after an attempted TOLAC compared with those delivering by ERCD (Young, 2018). In another study of nearly 25,000 women with a prior cesarean delivery, the TOLACrelated perinatal death rate was 1.3 per 1000 among 15,515 women (Smith, 2002). Although this absolute risk is small, it is 11 times greater than the perinatal risk found in 9014 women with ERCD. TOLAC also appears to be associated with a higher risk of hypoxic ischemic encephalopathy (HIE) compared with that for ERCD. The MFMU Network study reported the incidence of encephalopathy at term to be 46 per 100,000 TOLACs compared with zero cases in women undergoing ERCD (Landon, 2004). In the review by Guise (2010), the absolute risk of transient tachypnea of the newborn was slightly higher with ERCD compared with TOLAC—4.2 versus 3.6 percent. But, neonatal bag and mask ventilation was used more often in newborns delivered following TOLAC than in those delivered by ERCD—5.4 versus 2.5 percent. The 5-minute Apgar scores or neonatal intensive care unit admission rates for newborns delivered by TOLAC did not differ from those delivered by ERCD.
 
-The highest risks are with prior vertical incisions extending into the
-fundus. Importantly, women with a classical uterine scar may rupture before
-labor onset, and this may even occur before term. Chauhun and colleagues
-(2002) reviewed 157 women with a prior classical cesarean incision. They
-used a policy of fetal lung maturity assessment at 36 weeks and then delivery
-if mature. With a mean gestational age of 35.6 weeks at delivery, they
-reported one uterine rupture at 29 weeks that resulted in fetal death; 9percent uterine dehiscence rate; and 25-percent risk of maternal morbidity.
-For a woman with a prior classical cesarean delivery, the authors concluded
-that uterine rupture and dehiscence are neither predictable nor preventable
-despite early delivery. The risk for earlier rupture is even greater in women
-who have undergone open maternal-fetal surgery (Chmait, 2019; Goodnight,
-2019). The American College of Obstetricians and Gynecologists (2021)
-recommends delivery between 360/7 and 370/7 weeks for a prior classical
-incision.
-Although few indications dictate a primary classical incision, 53 percent
-of women undergoing cesarean delivery between 240/7 weeks and 256/7
-weeks have such an incision (Osmundson, 2013). By 28 weeks’ gestation, the
-risk drops to 35 percent and declines to <10 percent by 32 weeks. The
-likelihood of classical uterine incision is also increased by noncephalic
-presentations. In those instances—for example, preterm breech fetus with an
-undeveloped lower segment—the “low vertical” incision almost invariably
-extends into the active segment. From their review, Moramarco and
-colleagues (2020) reported that prior preterm classical cesarean delivery
-was associated with a 1-percent risk for rupture. Lannon and coworkers
-(2015) compared 456 women with a prior periviable cesarean delivery with
-more than 10,000 women whose prior cesarean delivery was done at term.
-The uterine rupture rate was 1.8 percent in the prior periviable group and 0.4
-percent in the prior term group. Of the uterine ruptures in the periviable
-group, half were in women whose prior uterine incision was described as
-low transverse. Harper and associates (2009) did not confirm these findings.
-The type of uterine incision cannot be confirmed in all women. Unless
-clinical circumstances raise concern for a prior classical uterine incision, the
+## Trial Of Labor Selection Considerations
 
-American College of Obstetricians and Gynecologists (2019d) consider
-these women as potential TOLAC candidates.
-Special consideration is given to women with uterine malformations who
-have undergone cesarean delivery. Earlier reports suggested that the uterine
-rupture risk in a subsequent pregnancy was greater than the risk in those with
-a normal uterus and a prior low transverse hysterotomy (Ravasia, 1999).
-However, in a study of 103 women with müllerian duct anomalies, there
-were no cases of uterine rupture (Erez, 2007).
+Both patients and providers ideally would like individualized risks when counseling regarding the chance of successful TOLAC. However, few highquality data guide selection of suitable TOLAC candidates. Several TOLAC/VBAC calculators can be used at entry to prenatal care and again at the time of labor to assist in successful TOLAC prediction. However, these have not been validated as predictors of adverse maternal outcomes, such as uterine rupture. Similarly, algorithms and nomograms to aid prediction fail to demonstrated reasonable prognostic value (Grobman, 2007b, 2008, 2021; Metz, 2013; Wyckoff, 2020). Lipschuetz and colleagues (2020) applied newer statistical analysis techniques to help improve prognostic accuracy. Despite the limitations of these predictive tools, several points are pertinent to candidate evaluation and are described subsequently. Current recommendations of the American College of Obstetricians and Gynecologists (2019d) are that most women with one prior low transverse hysterotomy are candidates, and if appropriate, they should be counseled regarding both TOLAC and ERCD options. It is further recommended that home birth is a contraindication for TOLAC.
 
-Prior Incision Closure
-As discussed in Chapter 30 (p. 558), the low transverse uterine incision can
-be sutured in either one or two layers. One metaanalysis compared singleversus double-layer closure and locking versus nonlocking suture for uterine
-closure (Roberge, 2014). The uterine dehiscence or rupture rates for these
-closures did not differ significantly. Both single-layer closure and closure
-that locked the first layer, however, were associated with a reduced
-myometrial thickness during subsequent sonographic measurement. In
-contrast, Bennich and coworkers (2016) reported that a double-layer closure
-did not increase the residual myometrial thickness when saline contrast
-sonography was done several months postpartum. Our practice at Parkland
-Hospital is to routinely suture the lower-segment incision with one running,
-locking suture line.
+### Prior Uterine Incision
 
-Number of Prior Cesarean Incisions
-At least three studies report a doubling or tripling of the uterine rupture rate
-in women with two compared with one prior transverse hysterotomy
-(Macones, 2005a; Miller, 1994; Tahseen, 2010). In contrast, an analysis of
-the MFMU Network database did not confirm this (Landon, 2006). Namely,
-in 975 women with multiple prior cesarean deliveries, the rupture rate was
-0.9 percent and not significantly different from the 0.7-percent rate in 16,915
-women with a single prior operation.
+Prior Incision Type The type and number of prior cesarean deliveries are overriding factors in recommending TOLAC (see Table 31-2). And these caveats aim to avoid intrapartum uterine rupture. As shown in Table 31-4, women with one prior low transverse hysterotomy have the lowest risk of symptomatic scar separation. However, asymptomatic dehiscence or complete rupture is still a concern in these women (Fig. 31-3). The uterine rupture risk in women with a prior vertical incision that did not extend into the fundus is unclear. Martin (1997) and Shipp (1999) and their associates reported that these low vertical uterine incisions do not have a higher risk for rupture compared with low transverse incisions. The American College of Obstetricians and Gynecologists (2015) concluded that although evidence is limited, women with a prior vertical incision in the lower uterine segment without fundal extension may be candidates for TOLAC. This is in contrast to prior
 
-Imaging of Prior Incision
-Sonographic measurement of a prior hysterotomy incision has been used to
-predict rupture risk. Large defects in a nonpregnant uterus forecast a greater
-risk (Osser, 2011). Naji and coworkers (2013a,b) found that the residual
+classical or T-shaped uterine incisions, which are considered by most as contraindications to labor.
 
-myometrial thickness decreased as pregnancy progressed and that rupture
-risk correlated positively with a thinner scar.
-Jastrow and colleagues (2010a) did a systematic review of women with
-a prior low transverse hysterotomy incision who underwent third-trimester
-sonographic evaluation. They concluded that a uterine scar defect was
-strongly predicted by a thin lower uterine segment. They defined this segment
-as the smallest measurement between urine in the maternal bladder and
-amnionic fluid. That said, they could not find an ideal threshold value to
-recommend safe TOLAC. This same group subsequently recruited 1856
-women contemplating vaginal birth after a single low transverse incision,
-and they sonographically measured lower uterine segment thickness between
-340/7 and 386/7 weeks (Jastrow, 2016). Women were grouped into three risk
-categories for uterine rupture during TOLAC based on measurements: high
-risk <2.0 mm; intermediate risk 2.0 to 2.4 mm; and low risk ≥2.5 mm. The
-TOLAC rates were 9, 42, and 61 percent in the three categories,
-respectively. Of the 984 TOLACs, there were no symptomatic uterine
-ruptures. At Parkland Hospital, we do not assess the lower uterine segment
-in women with a prior cesarean delivery.
+> **Table 31-4:** Types of Prior Uterine Incisions and Estimated Risks for Uterine Rupture
 
-■ Prior Uterine Rupture
-Women who have previously sustained a uterine rupture are at greater risk
-for recurrence. As shown in Table 31-4, those with a prior lower-segment
-rupture have up to a 6-percent recurrence risk, whereas prior upper-segment
-rupture confers a 9- to 32-percent risk (Reyes-Ceja, 1969; Ritchie, 1971).
-Sheth (1968) described outcomes of 21 subsequent pregnancies in 13 women
-who underwent uterine rupture repair. Rupture recurred in four pregnancies
-—approximately 20 percent. Usta and colleagues (2007) reported similar
-results. Fox and associates (2014) reported 14 women with prior uterine
-rupture and 30 women with prior uterine dehiscence. In 60 subsequent
-pregnancies, they noted no uterine ruptures or severe complications if women
-underwent ERCD prior to labor onset or immediately at the onset of preterm
-labor. Delivery is recommended between 360/7 and 370/7 weeks’ gestation
-(American College of Obstetricians and Gynecologists, 2021).
+> **Figure 31-3:** Extensive “uterine window” in a woman at term with one prior low transverse cesarean delivery. A. Transabdominal sonogram shows the uterine defect (arrow), bulging amnionic sac, and
 
-■ Interdelivery Interval
+adjacent anatomy. B = Bladder. B. At the time of cesarean delivery, the amnionic sac is seen protruding through the defect and is visible beneath the thin vesicocervical peritoneum. (Reproduced with permission from Dr. Angela Seasley.)
 
-Magnetic resonance imaging studies of myometrial healing suggest that
-complete uterine involution and restoration of anatomy may require at least 6
-months (Dicle, 1997). As a potential risk for uterine rupture, the relationship
-between interdelivery interval and uterine rupture in 2409 women with one
-prior cesarean delivery was examined (Shipp, 2001). There were 29 women
-with a uterine rupture—1.4 percent. Interdelivery intervals ≤18 months were
-associated with a threefold greater risk of symptomatic rupture during a
-subsequent TOLAC compared with intervals >18 months. Similarly, Stamilio
-and associates (2007) noted a threefold augmented risk of uterine rupture in
-women with an interpregnancy interval <6 months compared with one ≥6
-months.
+The highest risks are with prior vertical incisions extending into the fundus. Importantly, women with a classical uterine scar may rupture before labor onset, and this may even occur before term. Chauhun and colleagues (2002) reviewed 157 women with a prior classical cesarean incision. They used a policy of fetal lung maturity assessment at 36 weeks and then delivery if mature. With a mean gestational age of 35.6 weeks at delivery, they reported one uterine rupture at 29 weeks that resulted in fetal death; 9percent uterine dehiscence rate; and 25-percent risk of maternal morbidity. For a woman with a prior classical cesarean delivery, the authors concluded that uterine rupture and dehiscence are neither predictable nor preventable despite early delivery. The risk for earlier rupture is even greater in women who have undergone open maternal-fetal surgery (Chmait, 2019; Goodnight, 2019). The American College of Obstetricians and Gynecologists (2021) recommends delivery between 360/7 and 370/7 weeks for a prior classical incision. Although few indications dictate a primary classical incision, 53 percent of women undergoing cesarean delivery between 240/7 weeks and 256/7 weeks have such an incision (Osmundson, 2013). By 28 weeks’ gestation, the risk drops to 35 percent and declines to <10 percent by 32 weeks. The likelihood of classical uterine incision is also increased by noncephalic presentations. In those instances—for example, preterm breech fetus with an undeveloped lower segment—the “low vertical” incision almost invariably extends into the active segment. From their review, Moramarco and colleagues (2020) reported that prior preterm classical cesarean delivery was associated with a 1-percent risk for rupture. Lannon and coworkers (2015) compared 456 women with a prior periviable cesarean delivery with more than 10,000 women whose prior cesarean delivery was done at term. The uterine rupture rate was 1.8 percent in the prior periviable group and 0.4 percent in the prior term group. Of the uterine ruptures in the periviable group, half were in women whose prior uterine incision was described as low transverse. Harper and associates (2009) did not confirm these findings. The type of uterine incision cannot be confirmed in all women. Unless clinical circumstances raise concern for a prior classical uterine incision, the
 
-■ Prior Vaginal Delivery
-Prior vaginal delivery, either before or after a cesarean birth, significantly
-improves the prognosis for a successful TOLAC (Grinstead, 2004; Hendler,
-2004; Mercer, 2008). Prior vaginal delivery also lowers the TOLAC-related
-risk of subsequent uterine rupture and other morbidities (Cahill, 2006;
-Hochler, 2014; Zelop, 1999).
+American College of Obstetricians and Gynecologists (2019d) consider these women as potential TOLAC candidates. Special consideration is given to women with uterine malformations who have undergone cesarean delivery. Earlier reports suggested that the uterine rupture risk in a subsequent pregnancy was greater than the risk in those with a normal uterus and a prior low transverse hysterotomy (Ravasia, 1999). However, in a study of 103 women with müllerian duct anomalies, there were no cases of uterine rupture (Erez, 2007).
 
-■ Prior Cesarean Delivery Indication
-Women with a nonrecurring indication—for example, breech presentation—
-have the highest successful TOLAC rate—nearly 90 percent (Wing, 1999).
-Those with a prior cesarean delivery for fetal compromise have an
-approximately 80-percent VBAC rate, and for those done for labor arrest,
-VBAC rates approximate only 60 percent (Bujold, 2001; Peaceman, 2006).
-Prior second-stage cesarean delivery can be associated with secondstage uterine rupture in a subsequent pregnancy (Jastrow, 2013). A secondary
-analysis of the MFMU Cesarean Registry revealed that a prolonged second
-stage of labor—exceeding 3 hours—during TOLAC will often lead to
-VBAC. However, adverse maternal outcomes including uterine rupture or
-dehiscence were observed to be more common as the second stage lengthens
-(Hehir, 2018).
+Prior Incision Closure As discussed in Chapter 30 (p. 558), the low transverse uterine incision can be sutured in either one or two layers. One metaanalysis compared singleversus double-layer closure and locking versus nonlocking suture for uterine closure (Roberge, 2014). The uterine dehiscence or rupture rates for these closures did not differ significantly. Both single-layer closure and closure that locked the first layer, however, were associated with a reduced myometrial thickness during subsequent sonographic measurement. In contrast, Bennich and coworkers (2016) reported that a double-layer closure did not increase the residual myometrial thickness when saline contrast sonography was done several months postpartum. Our practice at Parkland Hospital is to routinely suture the lower-segment incision with one running, locking suture line.
 
-■ Fetal Size and Lie
+Number of Prior Cesarean Incisions At least three studies report a doubling or tripling of the uterine rupture rate in women with two compared with one prior transverse hysterotomy (Macones, 2005a; Miller, 1994; Tahseen, 2010). In contrast, an analysis of the MFMU Network database did not confirm this (Landon, 2006). Namely, in 975 women with multiple prior cesarean deliveries, the rupture rate was 0.9 percent and not significantly different from the 0.7-percent rate in 16,915 women with a single prior operation.
 
-Most studies show that increasing fetal size is inversely related to VBAC
-rates. The risk for uterine rupture is less robustly linked. Zelop and
-colleagues (2001) studied outcomes of almost 2750 women undergoing
-TOLAC, and the uterine rupture rate increased—albeit not significantly—
-with rising fetal weight. The rate was 1.0 percent for fetal weight <4000 g,
-1.6 percent for >4000 g, and 2.4 percent for >4250 g. Similarly, others have
-found associated increased risks for uterine rupture with fetuses >4000 g
-(Jastrow, 2010b). With preterm fetuses, compared with term ones, women
-who attempt a TOLAC have similar or higher VBAC rates and lower uterine
-rupture rates (Durnwald, 2006; Quiñones, 2005).
-Few studies address the choice of TOLAC for a singleton term breech
-fetus. Very limited data suggest a possible link with adverse perinatal
-outcome (Azria, 2012; Macharey, 2017). Data supporting external cephalic
-version for breech presentation with a prior cesarean scar also are limited
-and are derived from small studies (Impey, 2018; Weill, 2017). From these,
-version success and adverse event rates appear comparable with women
-without a prior cesarean delivery. The American College of Obstetricians
-and Gynecologists (2020) does not consider a prior uterine incision to be a
-contraindication for attempted version. At Parkland Hospital, we do not
-attempt version or vaginal breech delivery in these women.
+Imaging of Prior Incision Sonographic measurement of a prior hysterotomy incision has been used to predict rupture risk. Large defects in a nonpregnant uterus forecast a greater risk (Osser, 2011). Naji and coworkers (2013a,b) found that the residual
 
-■ Multifetal Gestation
-Twin pregnancy does not appear to increase the risk of uterine rupture. In one
-study of 1850 women with twins, the VBAC rate was 45 percent, and the
-rupture rate was 0.9 percent (Ford, 2006). Similar studies by Cahill (2005)
-and Varner (2007) and their coworkers reported rupture rates of 0.7 to 1.1
-percent and VBAC rates of 75 to 85 percent. According to the American
-College of Obstetricians and Gynecologists (2019d), women with twins and
-a prior low transverse hysterotomy can safely undergo TOLAC.
+myometrial thickness decreased as pregnancy progressed and that rupture risk correlated positively with a thinner scar. Jastrow and colleagues (2010a) did a systematic review of women with a prior low transverse hysterotomy incision who underwent third-trimester sonographic evaluation. They concluded that a uterine scar defect was strongly predicted by a thin lower uterine segment. They defined this segment as the smallest measurement between urine in the maternal bladder and amnionic fluid. That said, they could not find an ideal threshold value to recommend safe TOLAC. This same group subsequently recruited 1856 women contemplating vaginal birth after a single low transverse incision, and they sonographically measured lower uterine segment thickness between 340/7 and 386/7 weeks (Jastrow, 2016). Women were grouped into three risk categories for uterine rupture during TOLAC based on measurements: high risk <2.0 mm; intermediate risk 2.0 to 2.4 mm; and low risk ≥2.5 mm. The TOLAC rates were 9, 42, and 61 percent in the three categories, respectively. Of the 984 TOLACs, there were no symptomatic uterine ruptures. At Parkland Hospital, we do not assess the lower uterine segment in women with a prior cesarean delivery.
 
-■ Maternal Obesity
-Multiple studies have reported an inverse relationship between prepregnancy
-body mass index (BMI) and successful TOLAC rates (Juhasz, 2005; Wu,
-2019). Hibbard and associates (2006) reported the following rates: 85
+### Prior Uterine Rupture
 
-percent with a normal BMI, 78 percent with a BMI between 25 and 30, 70
-percent with a BMI between 30 and 40, and 61 percent with a BMI ≥40.
+Women who have previously sustained a uterine rupture are at greater risk for recurrence. As shown in Table 31-4, those with a prior lower-segment rupture have up to a 6-percent recurrence risk, whereas prior upper-segment rupture confers a 9- to 32-percent risk (Reyes-Ceja, 1969; Ritchie, 1971). Sheth (1968) described outcomes of 21 subsequent pregnancies in 13 women who underwent uterine rupture repair. Rupture recurred in four pregnancies —approximately 20 percent. Usta and colleagues (2007) reported similar results. Fox and associates (2014) reported 14 women with prior uterine rupture and 30 women with prior uterine dehiscence. In 60 subsequent pregnancies, they noted no uterine ruptures or severe complications if women underwent ERCD prior to labor onset or immediately at the onset of preterm labor. Delivery is recommended between 360/7 and 370/7 weeks’ gestation (American College of Obstetricians and Gynecologists, 2021).
 
-■ Fetal Death
-Most women with a prior cesarean delivery and fetal death in the current
-pregnancy would prefer a vaginal delivery. Although fetal concerns are
-obviated, available data suggest that maternal risks are increased. Nearly
-46,000 women with a prior cesarean delivery in the MFMU Network
-database had a total of 209 fetal deaths at an average gestational age of 32.8
-weeks (Ramirez, 2010). Of the 158 women who elected TOLAC, the VBAC
-rate was 87 percent. In the entire TOLAC group, the uterine rupture rate was
-2.4 percent, and in 116 women who underwent an induction of labor, the
-rupture rate was 3.4 percent. Labor induction for second-trimester fetal
-demise has a low complication rate (Bahar, 2021).
+### Interdelivery Interval
 
-LABOR AND DELIVERY CONSIDERATIONS
-■ Timing
-The American College of Obstetricians and Gynecologists (2019a)
-recommends delaying nonmedically indicated deliveries until 39 completed
-weeks of gestation or beyond. Data from Tita and colleagues in Figure 31-4
-show significant and appreciable adverse neonatal morbidity has been
-reported with ERCD before 39 completed weeks (Chiossi, 2013; Clark,
-2009). Thus, if ERCD is planned, it is essential that the fetus be mature.
-Conversely, delaying delivery beyond 40 weeks is associated with higher
-neonatal morbidity rates.
+Magnetic resonance imaging studies of myometrial healing suggest that complete uterine involution and restoration of anatomy may require at least 6 months (Dicle, 1997). As a potential risk for uterine rupture, the relationship between interdelivery interval and uterine rupture in 2409 women with one prior cesarean delivery was examined (Shipp, 2001). There were 29 women with a uterine rupture—1.4 percent. Interdelivery intervals ≤18 months were associated with a threefold greater risk of symptomatic rupture during a subsequent TOLAC compared with intervals >18 months. Similarly, Stamilio and associates (2007) noted a threefold augmented risk of uterine rupture in women with an interpregnancy interval <6 months compared with one ≥6 months.
 
-FIGURE 31-4 Neonatal morbidity rates seen with 13,258 elective repeat cesarean deliveries. Any
-adverse outcome includes death. Sepsis includes suspected and proven. RDS = respiratory distress
-syndrome; TTN = transient tachypnea of the newborn.
+### Prior Vaginal Delivery
 
-Accurate pregnancy dating is paramount prior to ERCD. The American
-College of Obstetricians and Gynecologists (2019c) offers guidelines to
-assist in accurate pregnancy dating using a combination of last menstrual
-period and sonography. The most accurate method to confirm or establish
-gestational age is by sonographic measurement of an early embryo-fetus.
+Prior vaginal delivery, either before or after a cesarean birth, significantly improves the prognosis for a successful TOLAC (Grinstead, 2004; Hendler, 2004; Mercer, 2008). Prior vaginal delivery also lowers the TOLAC-related risk of subsequent uterine rupture and other morbidities (Cahill, 2006; Hochler, 2014; Zelop, 1999).
 
-■ Intrapartum Care
-Because uterine rupture during TOLAC may be unpredictable, the American
-College of Obstetricians and Gynecologists (2019d) recommends that labor
-in women attempting TOLAC should be undertaken in facilities that can
-provide emergency cesarean delivery for situations associated with
-immediate threats to the life of the women or her fetus. If those resources are
-not available, the College recommends discussion of the hospital’s resources
-and availability of providers with the patient considering TOLAC.
-Ultimately, the best alternative may be referral to an institution with
-resources appropriate for TOLAC.
+### Prior Cesarean Delivery Indication
 
-Some argue that these provisions deny women full access to choices. For
-example, in an earlier survey of Ohio hospitals, 15 percent of Level I, 63
-percent of Level II, and 100 percent of Level III institutions met these
-requirements (Lavin, 2002). Moreover, an obstetrical anesthesia workforce
-survey reported that due to staffing limitations, TOLAC was allowed in only
-88 percent of hospitals with ≥1500 annual deliveries, in 59 percent of those
-with 500 to 1499 deliveries, and in 43 percent of those with <500 deliveries
-(Traynor, 2016).
+Women with a nonrecurring indication—for example, breech presentation— have the highest successful TOLAC rate—nearly 90 percent (Wing, 1999). Those with a prior cesarean delivery for fetal compromise have an approximately 80-percent VBAC rate, and for those done for labor arrest, VBAC rates approximate only 60 percent (Bujold, 2001; Peaceman, 2006). Prior second-stage cesarean delivery can be associated with secondstage uterine rupture in a subsequent pregnancy (Jastrow, 2013). A secondary analysis of the MFMU Cesarean Registry revealed that a prolonged second stage of labor—exceeding 3 hours—during TOLAC will often lead to VBAC. However, adverse maternal outcomes including uterine rupture or dehiscence were observed to be more common as the second stage lengthens (Hehir, 2018).
 
-■ Cervical Ripening and Labor Stimulation
-Labor induction is associated with a higher TOLAC failure rate compared
-with spontaneous labor. The risks for uterine rupture, however, are less clear
-with induction or augmentation, with the exception of prostaglandin E1
-(PGE1)—misoprostol—which is contraindicated (American College of
-Obstetricians and Gynecologists, 2019d). Of other considerations, induction
-or augmentation is ideally avoided in women with an unknown prior incision
-type, an unfavorable cervix, or pregnancy >40 weeks. At Parkland Hospital
-we do not induce or augment labor pharmacologically in women electing
-TOLAC. Instead, we attempt induction only by amniotomy.
+### Fetal Size and Lie
 
-Oxytocin
-Use of oxytocin for labor induction or augmentation has been implicated in
-increased uterine rupture rates in women undergoing TOLAC (Zelop, 1999).
-In the MFMU Network study reported by Landon (2004), uterine rupture was
-more frequent in women induced with oxytocin alone—1.1 percent—
-compared with those presenting in spontaneous labor—0.4 percent. Labor
-augmentation was associated with uterine rupture in 0.9 percent. Among
-women in this cohort without a prior vaginal delivery, the uterine rupture risk
-associated with oxytocin induction was 1.8 percent—a fourfold greater risk
-compared with spontaneous labor (Grobman, 2007a). In contrast, in one
-case-control study, induction was not associated with a higher rupture risk
-(Harper, 2012a). Cahill (2008) and Goetzl (2001) and their coworkers
-reported a dose-related risk of rupture with oxytocin.
+Most studies show that increasing fetal size is inversely related to VBAC rates. The risk for uterine rupture is less robustly linked. Zelop and colleagues (2001) studied outcomes of almost 2750 women undergoing TOLAC, and the uterine rupture rate increased—albeit not significantly— with rising fetal weight. The rate was 1.0 percent for fetal weight <4000 g, 1.6 percent for >4000 g, and 2.4 percent for >4250 g. Similarly, others have found associated increased risks for uterine rupture with fetuses >4000 g (Jastrow, 2010b). With preterm fetuses, compared with term ones, women who attempt a TOLAC have similar or higher VBAC rates and lower uterine rupture rates (Durnwald, 2006; Quiñones, 2005). Few studies address the choice of TOLAC for a singleton term breech fetus. Very limited data suggest a possible link with adverse perinatal outcome (Azria, 2012; Macharey, 2017). Data supporting external cephalic version for breech presentation with a prior cesarean scar also are limited and are derived from small studies (Impey, 2018; Weill, 2017). From these, version success and adverse event rates appear comparable with women without a prior cesarean delivery. The American College of Obstetricians and Gynecologists (2020) does not consider a prior uterine incision to be a contraindication for attempted version. At Parkland Hospital, we do not attempt version or vaginal breech delivery in these women.
+
+### Multifetal Gestation
+
+Twin pregnancy does not appear to increase the risk of uterine rupture. In one study of 1850 women with twins, the VBAC rate was 45 percent, and the rupture rate was 0.9 percent (Ford, 2006). Similar studies by Cahill (2005) and Varner (2007) and their coworkers reported rupture rates of 0.7 to 1.1 percent and VBAC rates of 75 to 85 percent. According to the American College of Obstetricians and Gynecologists (2019d), women with twins and a prior low transverse hysterotomy can safely undergo TOLAC.
+
+### Maternal Obesity
+
+Multiple studies have reported an inverse relationship between prepregnancy body mass index (BMI) and successful TOLAC rates (Juhasz, 2005; Wu, 2019). Hibbard and associates (2006) reported the following rates: 85
+
+percent with a normal BMI, 78 percent with a BMI between 25 and 30, 70 percent with a BMI between 30 and 40, and 61 percent with a BMI ≥40.
+
+### Fetal Death
+
+Most women with a prior cesarean delivery and fetal death in the current pregnancy would prefer a vaginal delivery. Although fetal concerns are obviated, available data suggest that maternal risks are increased. Nearly 46,000 women with a prior cesarean delivery in the MFMU Network database had a total of 209 fetal deaths at an average gestational age of 32.8 weeks (Ramirez, 2010). Of the 158 women who elected TOLAC, the VBAC rate was 87 percent. In the entire TOLAC group, the uterine rupture rate was 2.4 percent, and in 116 women who underwent an induction of labor, the rupture rate was 3.4 percent. Labor induction for second-trimester fetal demise has a low complication rate (Bahar, 2021).
+
+## Labor And Delivery Considerations
+
+### Timing
+
+The American College of Obstetricians and Gynecologists (2019a) recommends delaying nonmedically indicated deliveries until 39 completed weeks of gestation or beyond. Data from Tita and colleagues in Figure 31-4 show significant and appreciable adverse neonatal morbidity has been reported with ERCD before 39 completed weeks (Chiossi, 2013; Clark, 2009). Thus, if ERCD is planned, it is essential that the fetus be mature. Conversely, delaying delivery beyond 40 weeks is associated with higher neonatal morbidity rates.
+
+> **Figure 31-4:** Neonatal morbidity rates seen with 13,258 elective repeat cesarean deliveries. Any adverse outcome includes death. Sepsis includes suspected and proven. RDS = respiratory distress syndrome; TTN = transient tachypnea of the newborn.
+
+Accurate pregnancy dating is paramount prior to ERCD. The American College of Obstetricians and Gynecologists (2019c) offers guidelines to assist in accurate pregnancy dating using a combination of last menstrual period and sonography. The most accurate method to confirm or establish gestational age is by sonographic measurement of an early embryo-fetus.
+
+### Intrapartum Care
+
+Because uterine rupture during TOLAC may be unpredictable, the American College of Obstetricians and Gynecologists (2019d) recommends that labor in women attempting TOLAC should be undertaken in facilities that can provide emergency cesarean delivery for situations associated with immediate threats to the life of the women or her fetus. If those resources are not available, the College recommends discussion of the hospital’s resources and availability of providers with the patient considering TOLAC. Ultimately, the best alternative may be referral to an institution with resources appropriate for TOLAC.
+
+Some argue that these provisions deny women full access to choices. For example, in an earlier survey of Ohio hospitals, 15 percent of Level I, 63 percent of Level II, and 100 percent of Level III institutions met these requirements (Lavin, 2002). Moreover, an obstetrical anesthesia workforce survey reported that due to staffing limitations, TOLAC was allowed in only 88 percent of hospitals with ≥1500 annual deliveries, in 59 percent of those with 500 to 1499 deliveries, and in 43 percent of those with <500 deliveries (Traynor, 2016).
+
+### Cervical Ripening and Labor Stimulation
+
+Labor induction is associated with a higher TOLAC failure rate compared with spontaneous labor. The risks for uterine rupture, however, are less clear with induction or augmentation, with the exception of prostaglandin E1 (PGE1)—misoprostol—which is contraindicated (American College of Obstetricians and Gynecologists, 2019d). Of other considerations, induction or augmentation is ideally avoided in women with an unknown prior incision type, an unfavorable cervix, or pregnancy >40 weeks. At Parkland Hospital we do not induce or augment labor pharmacologically in women electing TOLAC. Instead, we attempt induction only by amniotomy.
+
+Oxytocin Use of oxytocin for labor induction or augmentation has been implicated in increased uterine rupture rates in women undergoing TOLAC (Zelop, 1999). In the MFMU Network study reported by Landon (2004), uterine rupture was more frequent in women induced with oxytocin alone—1.1 percent— compared with those presenting in spontaneous labor—0.4 percent. Labor augmentation was associated with uterine rupture in 0.9 percent. Among women in this cohort without a prior vaginal delivery, the uterine rupture risk associated with oxytocin induction was 1.8 percent—a fourfold greater risk compared with spontaneous labor (Grobman, 2007a). In contrast, in one case-control study, induction was not associated with a higher rupture risk (Harper, 2012a). Cahill (2008) and Goetzl (2001) and their coworkers reported a dose-related risk of rupture with oxytocin.
 
 Prostaglandins
 
-Various prostaglandin preparations commonly employed for cervical
-ripening or labor induction are discussed in Chapter 26 (p. 489). Wing and
-colleagues (1998) compared misoprostol versus oxytocin for labor induction
-in women with a prior cesarean delivery. They terminated their trial after
-two of the first 17 women assigned to misoprostol developed a uterine
-rupture. Other studies confirmed this. The American College of Obstetricians
-and Gynecologists (2019d) recommends that misoprostol should not be used
-for cervical ripening or labor induction in women at term with a prior
-cesarean delivery or major uterine surgery.
-Studies using other prostaglandin agents for labor induction are
-contradictory. Ravasia and coworkers (2000) compared uterine rupture rates
-in 172 women given PGE2 gel with 1544 women in spontaneous labor. The
-rupture rate of 2.9 percent was significantly greater in women treated with
-PGE2 gel compared with 0.9 percent in those with spontaneous labor. LydonRochelle and associates (2001) found similar results. In the MFMU Network
-study cited previously, however, the uterine rupture rate was 1.4 percent
-when any prostaglandin was used in combination with oxytocin (Landon,
-2004). But, in the subgroup of 227 women in whom labor was induced with a
-prostaglandin alone, there were no ruptures. Similar findings were reported
-with intravaginal prostaglandins, which were not associated with a greater
-uterine rupture risk (Macones, 2005b). These latter investigators, along with
-Kayani and colleagues (2005), found that sequential use of a prostaglandin
-followed by oxytocin was associated with a threefold greater rupture risk
-compared with spontaneous labor.
+Various prostaglandin preparations commonly employed for cervical ripening or labor induction are discussed in Chapter 26 (p. 489). Wing and colleagues (1998) compared misoprostol versus oxytocin for labor induction in women with a prior cesarean delivery. They terminated their trial after two of the first 17 women assigned to misoprostol developed a uterine rupture. Other studies confirmed this. The American College of Obstetricians and Gynecologists (2019d) recommends that misoprostol should not be used for cervical ripening or labor induction in women at term with a prior cesarean delivery or major uterine surgery. Studies using other prostaglandin agents for labor induction are contradictory. Ravasia and coworkers (2000) compared uterine rupture rates in 172 women given PGE2 gel with 1544 women in spontaneous labor. The rupture rate of 2.9 percent was significantly greater in women treated with PGE2 gel compared with 0.9 percent in those with spontaneous labor. LydonRochelle and associates (2001) found similar results. In the MFMU Network study cited previously, however, the uterine rupture rate was 1.4 percent when any prostaglandin was used in combination with oxytocin (Landon, 2004). But, in the subgroup of 227 women in whom labor was induced with a prostaglandin alone, there were no ruptures. Similar findings were reported with intravaginal prostaglandins, which were not associated with a greater uterine rupture risk (Macones, 2005b). These latter investigators, along with Kayani and colleagues (2005), found that sequential use of a prostaglandin followed by oxytocin was associated with a threefold greater rupture risk compared with spontaneous labor.
 
-Mechanical Methods
-In a retrospective study of 2479 women with a prior cesarean delivery, the
-uterine rupture risk using a transcervical Foley catheter for labor induction
-(1.6 percent) was not significantly greater than that with spontaneous labor
-(1.1 percent)—or with amniotomy with or without oxytocin (1.2 percent)
-(Bujold, 2004). In 101 women induced with a balloon catheter, a 50-percent
-successful TOLAC rate and no uterine ruptures was reported (Sarreau 2020).
-In contrast, Hoffman and coworkers (2004) described 138 women who
-underwent preinduction cervical ripening with a Foley catheter compared
-with 536 women who entered labor spontaneously. The inordinately high
-intrapartum uterine rupture rate of 6.5 percent following Foley catheter
+Mechanical Methods In a retrospective study of 2479 women with a prior cesarean delivery, the uterine rupture risk using a transcervical Foley catheter for labor induction (1.6 percent) was not significantly greater than that with spontaneous labor (1.1 percent)—or with amniotomy with or without oxytocin (1.2 percent) (Bujold, 2004). In 101 women induced with a balloon catheter, a 50-percent successful TOLAC rate and no uterine ruptures was reported (Sarreau 2020). In contrast, Hoffman and coworkers (2004) described 138 women who underwent preinduction cervical ripening with a Foley catheter compared with 536 women who entered labor spontaneously. The inordinately high intrapartum uterine rupture rate of 6.5 percent following Foley catheter
 
-cervical ripening was greater than the 1.9-percent rate with spontaneous
-labor.
+cervical ripening was greater than the 1.9-percent rate with spontaneous labor.
 
-■ Epidural Analgesia
-Concerns that epidural analgesia for labor might mask the pain of uterine
-rupture have not been verified. Fewer than 10 percent of women with scar
-separation experience pain and bleeding, and fetal heart rate decelerations
-are the most likely sign of rupture (Kieser, 2002). That said, Cahill and
-associates (2010a) documented that more frequent episodes of epidural
-catheter dosing were associated with increasing uterine rupture rates. VBAC
-rates are similar, and in some cases higher, among women with labor
-epidural analgesia compared with those using other analgesia forms (Landon,
-2005). Perhaps related, almost a fourth of VBAC deliveries were completed
-with either forceps or vacuum (Inbar, 2017). The American Academy of
-Pediatrics and the American College of Obstetricians and Gynecologists
-(2017) have concluded that epidural analgesia may safely be used during
-TOLAC.
+### Epidural Analgesia
 
-■ Uterine Scar Exploration
-Following VBAC, some clinicians routinely document the integrity of a prior
-scar by placing a hand through the dilated cervix and along the inner surface
-of the lower uterine segment. But, routine uterine exploration is considered
-by others to be unnecessary. In a longitudinal study of 3469 women who had
-a VBAC, seven uterine dehiscences and one uterine rupture yielded an
-overall event rate of 0.23 percent (Silberstein, 1998). These investigators
-concluded that transcervical evaluation need only be performed for those
-with severe third-stage bleeding.
-Currently, the benefits of routine scar evaluation in the asymptomatic
-woman are unclear, however, surgical correction of a dehiscence is
-necessary for associated significant bleeding. At Parkland Hospital, we
-routinely examine the lower uterine segment following a VBAC and
-document its integrity. A large tear, a breach into the peritoneal cavity, and
-presence of active bleeding favor a decision for laparotomy and repair.
+Concerns that epidural analgesia for labor might mask the pain of uterine rupture have not been verified. Fewer than 10 percent of women with scar separation experience pain and bleeding, and fetal heart rate decelerations are the most likely sign of rupture (Kieser, 2002). That said, Cahill and associates (2010a) documented that more frequent episodes of epidural catheter dosing were associated with increasing uterine rupture rates. VBAC rates are similar, and in some cases higher, among women with labor epidural analgesia compared with those using other analgesia forms (Landon, 2005). Perhaps related, almost a fourth of VBAC deliveries were completed with either forceps or vacuum (Inbar, 2017). The American Academy of Pediatrics and the American College of Obstetricians and Gynecologists (2017) have concluded that epidural analgesia may safely be used during TOLAC.
 
-UTERINE SCAR RUPTURE
-■ Diagnosis
-Progress of labor in women attempting TOLAC is similar to normal labor,
-and no specific pattern presages uterine rupture (Graseck, 2012; Harper,
-2012b). Before hypovolemic shock develops, symptoms and physical
-findings in women with uterine rupture may appear bizarre unless the
-possibility is kept in mind. For example, hemoperitoneum from a ruptured
-uterus may result in diaphragmatic irritation with pain referred to the chest.
-This may suggest a diagnosis of pulmonary or amnionic fluid embolism
-instead of uterine rupture. As the example shown in Figure 31-5, the most
-common sign of uterine rupture is a nonreassuring fetal heart rate pattern with
-variable decelerations that may evolve into late decelerations and
-bradycardia. In one report of 36 cases during TOLAC, fetal signs of uterine
-rupture were evident in 24, maternal signs in eight, and a combination of
-maternal and fetal in three (Holmgren, 2012). Few women experience
-cessation of contractions following uterine rupture, and the use of intrauterine
-pressure catheters does not assist reliably in the diagnosis (Rodriguez,
-1989).
+### Uterine Scar Exploration
 
-FIGURE 31-5 Fetal heart rate tracing in a woman whose uterus ruptured during labor while pushing.
-The rupture apparently stimulated a reflex push, after which uterine tone diminished and fetal
-bradycardia worsened.
+Following VBAC, some clinicians routinely document the integrity of a prior scar by placing a hand through the dilated cervix and along the inner surface of the lower uterine segment. But, routine uterine exploration is considered by others to be unnecessary. In a longitudinal study of 3469 women who had a VBAC, seven uterine dehiscences and one uterine rupture yielded an overall event rate of 0.23 percent (Silberstein, 1998). These investigators concluded that transcervical evaluation need only be performed for those with severe third-stage bleeding. Currently, the benefits of routine scar evaluation in the asymptomatic woman are unclear, however, surgical correction of a dehiscence is necessary for associated significant bleeding. At Parkland Hospital, we routinely examine the lower uterine segment following a VBAC and document its integrity. A large tear, a breach into the peritoneal cavity, and presence of active bleeding favor a decision for laparotomy and repair.
 
-The clinical appearance of uterine rupture associated with a TOLAC may
-mirror that of placental abruption but with little appreciable pain or
-tenderness. Also, because most women in labor are treated for discomfort
-with either narcotics or epidural analgesia, pain and tenderness may not be
-readily apparent. Ultimately, the diagnosis of uterine rupture becomes
-evident because of fetal distress and occasionally because of maternal
-hypovolemia from concealed hemorrhage.
-If the fetal presenting part has already entered the pelvis with labor, loss
-of station may be detected by pelvic examination. If the fetus is partly or
-totally extruded from the uterine rupture site, abdominal palpation or vaginal
-examination may be helpful to identify the presenting part, which will have
-moved away from the pelvic inlet. A firm contracted uterus may at times be
-felt alongside the fetus. Emergent sonography in the labor unit may be
-helpful.
+## Uterine Scar Rupture
 
-■ Management
-With rupture and expulsion of the fetus into the peritoneal cavity, the chances
-for intact fetal survival are poor. Fetal condition depends on the degree to
-which the placental implantation remains intact, although this can change
-within minutes. The only chance of intact fetal survival is afforded by
-immediate delivery—most often by laparotomy—otherwise, hypoxia is
-inevitable. If rupture is followed by total placental separation, very few
-neurologically intact fetuses will be salvaged.
-Thus, even in the best of circumstances, some fetal outcomes will be
-impaired. The Utah experiences are instructive here (Holmgren, 2012). Of
-the 35 laboring patients with uterine rupture, the decision-to-delivery time
-was <18 minutes in 17, and none of these infants had an adverse neurological
-outcome. Of the 18 born >18 minutes from decision time, the three infants
-with long-term neurological impairments were delivered at 31, 40, and 42
-minutes. There were no deaths, but severe neonatal neurological morbidity
-developed in 8 percent of this group of 35 women with uterine rupture.
-Importantly, delivery within 30 minutes did not prevent every case of low
-cord pH or low 5-minute Apgar score. When uterine rupture was identified
-and delivery was accomplished is less than 30 minutes, there was no longterm neonatal morbidity. In the MFMU Network study cited earlier, seven of
+### Diagnosis
 
-the 114 uterine ruptures associated with TOLAC—6 percent—were
-complicated by development of neonatal encephalopathy (Spong, 2007).
-Neonatal mortality rate is likewise increased several fold. In a study
-using the Swedish Birth Registry, the risk of neonatal death following uterine
-rupture was 5 percent (Kaczmarczyk, 2007).
-Maternal deaths from uterine rupture are uncommon. Of 2.5 million
-women who gave birth in Canada between 1991 and 2001, there were 1898
-cases of uterine rupture, and four of these—0.2 percent—resulted in maternal
-death (Wen, 2005). In other regions of the world, however, maternal
-mortality rates are much higher. From rural India, the maternal mortality rate
-associated with uterine rupture was 30 percent (Chatterjee, 2007).
-Following complete rupture during TOLAC, hysterectomy may be
-required. In selected cases, however, suture repair with uterine preservation
-may be performed. Subsequent pregnancy following such repair was
-described earlier (p. 576). Bladder injury may be comorbid, and
-interrogation of its integrity is prudent (Chap. 30, p. 563) (Phipps, 2005;
-Webb, 2000).
+Progress of labor in women attempting TOLAC is similar to normal labor, and no specific pattern presages uterine rupture (Graseck, 2012; Harper, 2012b). Before hypovolemic shock develops, symptoms and physical findings in women with uterine rupture may appear bizarre unless the possibility is kept in mind. For example, hemoperitoneum from a ruptured uterus may result in diaphragmatic irritation with pain referred to the chest. This may suggest a diagnosis of pulmonary or amnionic fluid embolism instead of uterine rupture. As the example shown in Figure 31-5, the most common sign of uterine rupture is a nonreassuring fetal heart rate pattern with variable decelerations that may evolve into late decelerations and bradycardia. In one report of 36 cases during TOLAC, fetal signs of uterine rupture were evident in 24, maternal signs in eight, and a combination of maternal and fetal in three (Holmgren, 2012). Few women experience cessation of contractions following uterine rupture, and the use of intrauterine pressure catheters does not assist reliably in the diagnosis (Rodriguez, 1989).
 
-MULTIPLE REPEAT CESAREAN DELIVERIES
-The incidences of some common complications for women with a prior
-transverse cesarean delivery who undergo an ERCD were shown in Table
-31-3 (Landon, 2004). Rates of these complications and of other serious
-maternal morbidity rise with the number of prior cesarean deliveries
-(Marshall, 2011).
-First, the incidence of placenta accreta spectrum (PAS), which includes
-placenta accreta, increta, or percreta increases markedly with the number of
-previous hysterotomies. In an MFMU Network cohort of 30,132 women who
-had from one to six repeat cesarean deliveries, a significant association
-between an accruing number of cesarean deliveries and PAS in women with
-placenta previa was noted (Fig. 31-6) (Silver, 2006). The PAS rate grew
-from 11 percent for women with a placenta previa undergoing their second
-cesarean delivery to 67 percent for women undergoing their fifth (Fig. 43-12,
-p. 761). Indeed, almost half of cesarean hysterectomies done at Parkland
-Hospital are in women with one or more prior cesarean deliveries
-(Hernandez, 2013).
+> **Figure 31-5:** Fetal heart rate tracing in a woman whose uterus ruptured during labor while pushing. The rupture apparently stimulated a reflex push, after which uterine tone diminished and fetal bradycardia worsened.
 
-FIGURE 31-6 Maternal-Fetal Medicine Units Network: rates of some complications with increasing
-number of repeat cesarean deliveries.
+The clinical appearance of uterine rupture associated with a TOLAC may mirror that of placental abruption but with little appreciable pain or tenderness. Also, because most women in labor are treated for discomfort with either narcotics or epidural analgesia, pain and tenderness may not be readily apparent. Ultimately, the diagnosis of uterine rupture becomes evident because of fetal distress and occasionally because of maternal hypovolemia from concealed hemorrhage. If the fetal presenting part has already entered the pelvis with labor, loss of station may be detected by pelvic examination. If the fetus is partly or totally extruded from the uterine rupture site, abdominal palpation or vaginal examination may be helpful to identify the presenting part, which will have moved away from the pelvic inlet. A firm contracted uterus may at times be felt alongside the fetus. Emergent sonography in the labor unit may be helpful.
 
-Other maternal morbidity data come from the same MFMU Network
-cohort and are shown in Figure 31-6 (Silver, 2006). In addition, rates of
-bowel or bladder injury, admission to an intensive care unit or need for
-ventilator therapy, maternal mortality, and length of surgery and
-hospitalization showed significantly rising trends. Similar results have been
-reported by others (Nisenblat, 2006; Usta, 2005). More difficult to quantify
-are risks for bowel obstruction and pelvic pain from peritoneal adhesive
+### Management
 
-disease, both of which increase after each successive cesarean delivery
-(Andolf, 2010; Mankuta, 2013).
-From the United Kingdom Obstetric Surveillance System (UKOSS),
-adverse sequelae in women with five or more cesarean deliveries were
-described (Cook, 2013). These women had significantly higher rates of
-morbidity compared with those with one prior operation. Specifically, the
-major hemorrhage rate increased 18-fold; visceral damage, 17-fold; critical
-care admissions, 15-fold; and delivery <37 weeks, sixfold. Much of this
-morbidity was in the 18 percent who had a placenta previa or PAS. This
-same study showed higher neonatal complication rates stemming mainly from
-indicated premature delivery.
+With rupture and expulsion of the fetus into the peritoneal cavity, the chances for intact fetal survival are poor. Fetal condition depends on the degree to which the placental implantation remains intact, although this can change within minutes. The only chance of intact fetal survival is afforded by immediate delivery—most often by laparotomy—otherwise, hypoxia is inevitable. If rupture is followed by total placental separation, very few neurologically intact fetuses will be salvaged. Thus, even in the best of circumstances, some fetal outcomes will be impaired. The Utah experiences are instructive here (Holmgren, 2012). Of the 35 laboring patients with uterine rupture, the decision-to-delivery time was <18 minutes in 17, and none of these infants had an adverse neurological outcome. Of the 18 born >18 minutes from decision time, the three infants with long-term neurological impairments were delivered at 31, 40, and 42 minutes. There were no deaths, but severe neonatal neurological morbidity developed in 8 percent of this group of 35 women with uterine rupture. Importantly, delivery within 30 minutes did not prevent every case of low cord pH or low 5-minute Apgar score. When uterine rupture was identified and delivery was accomplished is less than 30 minutes, there was no longterm neonatal morbidity. In the MFMU Network study cited earlier, seven of
 
-VAGINAL BIRTH AFTER CESAREAN—2021
-Unfortunately for women and their providers, no large randomized trials
-compare maternal or neonatal outcomes in those pursuing either TOLAC or
-ERCD. Most studies have compared actual routes of delivery rather than the
-intended route of delivery. Thus, we agree with Scott (2011) regarding a
-common-sense approach. The woman—and if she wishes, her partner—are
-encouraged to actively participate with the provider in an informed-consent
-discussion. Patient decision aids often assist shared decision making
-(Poprzenczny, 2020). Although the absolute rates of adverse maternal and
-neonatal outcomes are low, TOLAC is associated with a higher rate of both
-maternal and neonatal morbidity and mortality compared with ERCD.
-Counseling should include documentation of the prior uterine incision
-and discussion of risks, benefits, and probable outcomes associated with
-TOLAC or ERCD. This includes consideration of risks involving future
-pregnancies. Ideally, counseling begins preconceptionally and continues
-throughout pregnancy, with flexible options extending up to delivery. For
-women who desire TOLAC despite a factor that increases their specific risk,
-additions to the consent form are recommended by the American College of
-Obstetricians and Gynecologists (2019d). Bonanno and colleagues (2011)
-have provided such an example. Tsakiridis and coworkers (2018) have
-compared national guidelines of societies in the United States, Canada, and
-the United Kingdom. A composite of these recommendations of professional
-society guidelines is shown in Table 31-5 (Dy, 2019). Guidelines that tend to
-be more conservative are shown in Table 31-6.
+the 114 uterine ruptures associated with TOLAC—6 percent—were complicated by development of neonatal encephalopathy (Spong, 2007). Neonatal mortality rate is likewise increased several fold. In a study using the Swedish Birth Registry, the risk of neonatal death following uterine rupture was 5 percent (Kaczmarczyk, 2007). Maternal deaths from uterine rupture are uncommon. Of 2.5 million women who gave birth in Canada between 1991 and 2001, there were 1898 cases of uterine rupture, and four of these—0.2 percent—resulted in maternal death (Wen, 2005). In other regions of the world, however, maternal mortality rates are much higher. From rural India, the maternal mortality rate associated with uterine rupture was 30 percent (Chatterjee, 2007). Following complete rupture during TOLAC, hysterectomy may be required. In selected cases, however, suture repair with uterine preservation may be performed. Subsequent pregnancy following such repair was described earlier (p. 576). Bladder injury may be comorbid, and interrogation of its integrity is prudent (Chap. 30, p. 563) (Phipps, 2005; Webb, 2000).
 
-TABLE 31-5. Some Recommendations of Professional Societies
-Concerning TOLAC
+## Multiple Repeat Cesarean Deliveries
 
-TABLE 31-6. Conservative Approach to TOLAC
+The incidences of some common complications for women with a prior transverse cesarean delivery who undergo an ERCD were shown in Table 31-3 (Landon, 2004). Rates of these complications and of other serious maternal morbidity rise with the number of prior cesarean deliveries (Marshall, 2011). First, the incidence of placenta accreta spectrum (PAS), which includes placenta accreta, increta, or percreta increases markedly with the number of previous hysterotomies. In an MFMU Network cohort of 30,132 women who had from one to six repeat cesarean deliveries, a significant association between an accruing number of cesarean deliveries and PAS in women with placenta previa was noted (Fig. 31-6) (Silver, 2006). The PAS rate grew from 11 percent for women with a placenta previa undergoing their second cesarean delivery to 67 percent for women undergoing their fifth (Fig. 43-12, p. 761). Indeed, almost half of cesarean hysterectomies done at Parkland Hospital are in women with one or more prior cesarean deliveries (Hernandez, 2013).
 
-REFERENCES
-American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Guidelines for
-Perinatal Care, 8th ed. Elk Grove Village, 2017
-American College of Obstetricians and Gynecologists: Guidelines for vaginal delivery after a previous
-cesarean birth. Committee Opinion No. 64, October 1988
-American College of Obstetricians and Gynecologists: Vaginal delivery after previous cesarean birth.
-Committee Opinion No. 143, October 1994
-American College of Obstetricians and Gynecologists: Vaginal birth after previous cesarean delivery.
-Practice Bulletin No. 2, October 1998
-American College of Obstetricians and Gynecologists: Vaginal birth after previous cesarean delivery.
-Practice Bulletin No. 5, July 1999
-American College of Obstetricians and Gynecologists: Vaginal birth after cesarean delivery. Practice
-Bulletin No. 115, August 2010, Reaffirmed 2015
-American College of Obstetricians and Gynecologists: Vaginal birth after cesarean delivery. Practice
-Bulletin No. 184, November 2017
-American College of Obstetricians and Gynecologists: Avoidance of nonmedically indicated early term
-deliveries and associated neonate morbidity. Committee Opinion No. 765, February 2019a
-American College of Obstetricians and Gynecologists: Method for estimating the due date. Committee
-Opinion No. 700, May 2019c
-American College of Obstetricians and Gynecologists: Vaginal birth after previous cesarean delivery.
-Practice Bulletin No. 205, February 2019d
-American College of Obstetricians and Gynecologists: External cephalic version. Practice Bulletin No.
-221, April 2020
-American College of Obstetricians and Gynecologists: Medically indicated late-preterm and early-term
-deliveries. Committee Opinion No. 831, June 2021
-Arlier S, Seyfettinoğlu S, Yilmaz E, et al: Incidence of adhesions and maternal and neonatal morbidity
-after repeat cesarean section. Arch Gynecol Obstet 295(2):303, 2017
-Azria E, Le Meaux JP, Khoshnood B, et al: Factors associated with adverse perinatal outcomes for term
-breech fetuses with planned vaginal delivery. Am J Obstet Gynecol 207(4):285.e1, 2012
-Bahar R, Alexandroni H, Karavani G, et al: Safety of medical second trimester abortions for women
-with prior cesarean sections. Arch Gynecol Obstet 303:1217, 2021
-Bennich G, Rudnicki M, Wilken-Jensen C, et al: Impact of adding a second layer to a single unlocked
-closure of a cesarean uterine incision: randomized controlled trial. Ultrasound Obstet Gynecol
-47(4):417, 2016
-Bonanno C, Clausing M, Berkowitz R: VBAC: a medicolegal perspective. Clin Perinatol 38:217, 2011
-Bujold E, Blackwell SC, Gauthier RJ: Cervical ripening with transcervical Foley catheter and the risk of
-uterine rupture. Obstet Gynecol 103(1):18 2004
-Bujold E, Gauthier RJ: Should we allow a trial of labor after a previous cesarean for dystocia in the
-second stage of labor? Obstet Gynecol 98:652, 2001
-Cahill A, Stamilio DM, Paré E, et al: Vaginal birth after cesarean (VBAC) attempt in twin pregnancies:
-is it safe? Am J Obstet Gynecol 193:1050, 2005
-Cahill AG, Odibo AO, Allswroth JE, et al: Frequent epidural dosing as a marker for impending uterine
-rupture in patients who attempt vaginal birth after cesarean delivery. Am J Obstet Gynecol
-202:355.e1, 2010a
+> **Figure 31-6:** Maternal-Fetal Medicine Units Network: rates of some complications with increasing number of repeat cesarean deliveries.
 
-Cahill AG, Stamilio DM, Odibo A, et al: Is vaginal birth after cesarean (VBAC) or elective repeat
-cesarean safer in women with a prior vaginal delivery? Am J Obstet Gynecol 195:1143, 2006
-Cahill AG, Tuuli M, Odibo AO, et al: Vaginal birth after caesarean for women with three or more prior
-caesareans: assessing safety and success. BJOG 117:422, 2010b
-Cahill AG, Waterman BM, Stamilio DM, et al: Higher maximum doses of oxytocin are associated with
-an unacceptably high risk for uterine rupture in patients attempting vaginal birth after cesarean
-delivery. Am J Obstet Gynecol 199:32.e1, 2008
-Chatterjee SR, Bhaduri S: Clinical analysis of 40 cases of uterine rupture at Durgapur Subdivisional
-Hospital: an observational study. J Indian Med Assoc 105:510, 2007
-Chauhan SP, Magann EF, Wiggs CD, et al: Pregnancy after classic cesarean delivery. Obstet Gynecol
-100:946, 2002
-Cheng Y, Snowden J, Cottrell E, et al: Trends in proportions of hospitals with VBAC: impact of ACOG
-guidelines. Am J Obstet Gynecol 210:S241, 2014
-Chiossi G, Lai Y, Landon MB, et al: Timing of delivery and adverse outcomes in term singleton repeat
-cesarean deliveries. Obstet Gynecol 121:561, 2013
-Chmait RH, Kontopoulos EV, Quintero RA: Uterine legacy of open maternal-fetal surgery: preterm
-uterine rupture. Am J Obstet Gynecol 221(5):535, 2019
-Clark SL, Miller DD, Belfort MA, et al: Neonatal and maternal outcomes associated with elective term
-delivery. Am J Obstet Gynecol 200(2):156.e1, 2009
-Cook J, Javis S, Knight M, et al: Multiple repeat caesarean section in the UK: incidence and
-consequences to mother and child. A national, prospective, cohort study. BJOG 120(1):85, 2013
-Curtin SC, Gregory KD, Korst LL, et al: Maternal morbidity for vaginal and cesarean deliveries,
-according to previous cesarean history: new data from the birth certificate. 2013. Natl Vital Stat Rep
-62(4):1, 2015
-Cragin E: Conservatism in obstetrics. N Y Med J 104:1, 1916
-Dicle O, Kücükler C, Pirnar T: Magnetic resonance imaging evaluation of incision healing after
-cesarean sections. Eur Radiol 7:31, 1997
-Durnwald CP, Rouse DJ, Leveno KJ, et al: The Maternal-Fetal Medicine Units Cesarean Registry:
-safety and efficacy of a trial of labor in preterm pregnancy after a prior cesarean delivery. Am J
-Obstet Gynecol 195:1119, 2006
-Dy J, DeMeester S, Lipworth H, et al: No. 382-trial of labour after caesarean. J Obstet Gynecaecol
-Can 41(7):992, 2019
-Eastman NJ: Williams Obstetrics, 10th ed. New York, Appleton-Century-Crofts, 1950
-Erez O, Dulder D, Novack L, et al: Trial of labor and vaginal birth after cesarean section in patients with
-uterine müllerian anomalies: a population-based study. Am J Obstet Gynecol 196:537.e1, 2007
-Ford AA, Bateman BT, Simpson LL: Vaginal birth after cesarean delivery in twin gestations: a large,
-nationwide sample of deliveries. Am J Obstet Gynecol 195:1138, 2006
-Fox NS, Gerber RS, Mourad M, et al: Pregnancy outcomes in patients with prior uterine rupture or
-dehiscence. Obstet Gynecol 123(4):785, 2014
-Goetzl L, Shipp TD, Cohen A, et al: Oxytocin dose and the risk of uterine rupture in trial of labor after
-cesarean. Obstet Gynecol 97:381, 2001
-Goodnight WH, Bahtiyar O, Bennett KA, et al: Subsequent pregnancy outcomes after open maternalfetal surgery for myelomeningocele. Am J Obstet Gynecol 220:494.e1, 2019
-Graseck AS, Odibo AO, Tuuli M, et al: Normal first stage of labor in women undergoing trial of labor
-after cesarean delivery. Obstet Gynecol 119(4):732, 2012
+Other maternal morbidity data come from the same MFMU Network cohort and are shown in Figure 31-6 (Silver, 2006). In addition, rates of bowel or bladder injury, admission to an intensive care unit or need for ventilator therapy, maternal mortality, and length of surgery and hospitalization showed significantly rising trends. Similar results have been reported by others (Nisenblat, 2006; Usta, 2005). More difficult to quantify are risks for bowel obstruction and pelvic pain from peritoneal adhesive
 
-Grinstead J, Grobman WA: Induction of labor after one prior cesarean: predictors of vaginal delivery.
-Obstet Gynecol 103:534, 2004
-Grobman WA, Gilbert S, Landon MB, et al: Outcomes of induction of labor after one prior cesarean.
-Obstet Gynecol 109:262, 2007a
-Grobman WA, Lai Y, Landon MB, et al: Development of a nomogram for prediction of vaginal birth
-after cesarean delivery. Obstet Gynecol 109:806, 2007b
-Grobman WA, Lai Y, Landon MB, et al: Prediction of uterine rupture associated with attempted vaginal
-birth after cesarean delivery. Am J Obstet Gynecol 199:30.e1, 2008
-Grobman WA, Sandoval G, Rice MM, et al: Prediction of a vaginal birth after cesarean in term
-gestation. A calculator without race and ethnicity. Am J Obstet Gynecol May 24, 2021 [Epub ahead
-of print]
-Guise JM, Denman MA, Emeis C, et al: Vaginal birth after cesarean: new insights on maternal and
-neonatal outcomes. Obstet Gynecol 115:1267, 2010
-Hamilton BE, Martin JA, Osterman MJ, et al: Births: final data for 2014. Natl Vital Stat Rep 64(12):1,
-2015
+disease, both of which increase after each successive cesarean delivery (Andolf, 2010; Mankuta, 2013). From the United Kingdom Obstetric Surveillance System (UKOSS), adverse sequelae in women with five or more cesarean deliveries were described (Cook, 2013). These women had significantly higher rates of morbidity compared with those with one prior operation. Specifically, the major hemorrhage rate increased 18-fold; visceral damage, 17-fold; critical care admissions, 15-fold; and delivery <37 weeks, sixfold. Much of this morbidity was in the 18 percent who had a placenta previa or PAS. This same study showed higher neonatal complication rates stemming mainly from indicated premature delivery.
+
+## Vaginal Birth After Cesarean—2021
+
+Unfortunately for women and their providers, no large randomized trials compare maternal or neonatal outcomes in those pursuing either TOLAC or ERCD. Most studies have compared actual routes of delivery rather than the intended route of delivery. Thus, we agree with Scott (2011) regarding a common-sense approach. The woman—and if she wishes, her partner—are encouraged to actively participate with the provider in an informed-consent discussion. Patient decision aids often assist shared decision making (Poprzenczny, 2020). Although the absolute rates of adverse maternal and neonatal outcomes are low, TOLAC is associated with a higher rate of both maternal and neonatal morbidity and mortality compared with ERCD. Counseling should include documentation of the prior uterine incision and discussion of risks, benefits, and probable outcomes associated with TOLAC or ERCD. This includes consideration of risks involving future pregnancies. Ideally, counseling begins preconceptionally and continues throughout pregnancy, with flexible options extending up to delivery. For women who desire TOLAC despite a factor that increases their specific risk, additions to the consent form are recommended by the American College of Obstetricians and Gynecologists (2019d). Bonanno and colleagues (2011) have provided such an example. Tsakiridis and coworkers (2018) have compared national guidelines of societies in the United States, Canada, and the United Kingdom. A composite of these recommendations of professional society guidelines is shown in Table 31-5 (Dy, 2019). Guidelines that tend to be more conservative are shown in Table 31-6.
+
+> **Table 31-5:** Some Recommendations of Professional Societies Concerning TOLAC
+
+> **Table 31-6:** Conservative Approach to TOLAC
+
+## References
+
+American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Guidelines for Perinatal Care, 8th ed. Elk Grove Village, 2017 American College of Obstetricians and Gynecologists: Guidelines for vaginal delivery after a previous cesarean birth. Committee Opinion No. 64, October 1988 American College of Obstetricians and Gynecologists: Vaginal delivery after previous cesarean birth.
+
+**Committee Opinion No.** 143, October 1994 American College of Obstetricians and Gynecologists: Vaginal birth after previous cesarean delivery.
+
+**Practice Bulletin No.** 2, October 1998 American College of Obstetricians and Gynecologists: Vaginal birth after previous cesarean delivery.
+
+**Practice Bulletin No.** 5, July 1999 American College of Obstetricians and Gynecologists: Vaginal birth after cesarean delivery. Practice Bulletin No. 115, August 2010, Reaffirmed 2015 American College of Obstetricians and Gynecologists: Vaginal birth after cesarean delivery. Practice Bulletin No. 184, November 2017 American College of Obstetricians and Gynecologists: Avoidance of nonmedically indicated early term deliveries and associated neonate morbidity. Committee Opinion No. 765, February 2019a American College of Obstetricians and Gynecologists: Method for estimating the due date. Committee Opinion No. 700, May 2019c American College of Obstetricians and Gynecologists: Vaginal birth after previous cesarean delivery.
+
+**Practice Bulletin No.** 205, February 2019d American College of Obstetricians and Gynecologists: External cephalic version. Practice Bulletin No. 221, April 2020 American College of Obstetricians and Gynecologists: Medically indicated late-preterm and early-term deliveries. Committee Opinion No. 831, June 2021 Arlier S, Seyfettinoğlu S, Yilmaz E, et al: Incidence of adhesions and maternal and neonatal morbidity after repeat cesarean section. Arch Gynecol Obstet 295(2):303, 2017 Azria E, Le Meaux JP, Khoshnood B, et al: Factors associated with adverse perinatal outcomes for term breech fetuses with planned vaginal delivery. Am J Obstet Gynecol 207(4):285.e1, 2012 Bahar R, Alexandroni H, Karavani G, et al: Safety of medical second trimester abortions for women with prior cesarean sections. Arch Gynecol Obstet 303:1217, 2021 Bennich G, Rudnicki M, Wilken-Jensen C, et al: Impact of adding a second layer to a single unlocked closure of a cesarean uterine incision: randomized controlled trial. Ultrasound Obstet Gynecol 47(4):417, 2016 Bonanno C, Clausing M, Berkowitz R: VBAC: a medicolegal perspective. Clin Perinatol 38:217, 2011 Bujold E, Blackwell SC, Gauthier RJ: Cervical ripening with transcervical Foley catheter and the risk of uterine rupture. Obstet Gynecol 103(1):18 2004 Bujold E, Gauthier RJ: Should we allow a trial of labor after a previous cesarean for dystocia in the second stage of labor? Obstet Gynecol 98:652, 2001 Cahill A, Stamilio DM, Paré E, et al: Vaginal birth after cesarean (VBAC) attempt in twin pregnancies: is it safe? Am J Obstet Gynecol 193:1050, 2005 Cahill AG, Odibo AO, Allswroth JE, et al: Frequent epidural dosing as a marker for impending uterine rupture in patients who attempt vaginal birth after cesarean delivery. Am J Obstet Gynecol 202:355.e1, 2010a
+
+Cahill AG, Stamilio DM, Odibo A, et al: Is vaginal birth after cesarean (VBAC) or elective repeat cesarean safer in women with a prior vaginal delivery? Am J Obstet Gynecol 195:1143, 2006 Cahill AG, Tuuli M, Odibo AO, et al: Vaginal birth after caesarean for women with three or more prior caesareans: assessing safety and success. BJOG 117:422, 2010b Cahill AG, Waterman BM, Stamilio DM, et al: Higher maximum doses of oxytocin are associated with an unacceptably high risk for uterine rupture in patients attempting vaginal birth after cesarean delivery. Am J Obstet Gynecol 199:32.e1, 2008 Chatterjee SR, Bhaduri S: Clinical analysis of 40 cases of uterine rupture at Durgapur Subdivisional Hospital: an observational study. J Indian Med Assoc 105:510, 2007 Chauhan SP, Magann EF, Wiggs CD, et al: Pregnancy after classic cesarean delivery. Obstet Gynecol 100:946, 2002 Cheng Y, Snowden J, Cottrell E, et al: Trends in proportions of hospitals with VBAC: impact of ACOG guidelines. Am J Obstet Gynecol 210:S241, 2014 Chiossi G, Lai Y, Landon MB, et al: Timing of delivery and adverse outcomes in term singleton repeat cesarean deliveries. Obstet Gynecol 121:561, 2013 Chmait RH, Kontopoulos EV, Quintero RA: Uterine legacy of open maternal-fetal surgery: preterm uterine rupture. Am J Obstet Gynecol 221(5):535, 2019 Clark SL, Miller DD, Belfort MA, et al: Neonatal and maternal outcomes associated with elective term delivery. Am J Obstet Gynecol 200(2):156.e1, 2009 Cook J, Javis S, Knight M, et al: Multiple repeat caesarean section in the UK: incidence and consequences to mother and child. A national, prospective, cohort study. BJOG 120(1):85, 2013 Curtin SC, Gregory KD, Korst LL, et al: Maternal morbidity for vaginal and cesarean deliveries, according to previous cesarean history: new data from the birth certificate. 2013. Natl Vital Stat Rep 62(4):1, 2015 Cragin E: Conservatism in obstetrics. N Y Med J 104:1, 1916 Dicle O, Kücükler C, Pirnar T: Magnetic resonance imaging evaluation of incision healing after cesarean sections. Eur Radiol 7:31, 1997 Durnwald CP, Rouse DJ, Leveno KJ, et al: The Maternal-Fetal Medicine Units Cesarean Registry: safety and efficacy of a trial of labor in preterm pregnancy after a prior cesarean delivery. Am J Obstet Gynecol 195:1119, 2006 Dy J, DeMeester S, Lipworth H, et al: No. 382-trial of labour after caesarean. J Obstet Gynecaecol Can 41(7):992, 2019 Eastman NJ: Williams Obstetrics, 10th ed. New York, Appleton-Century-Crofts, 1950 Erez O, Dulder D, Novack L, et al: Trial of labor and vaginal birth after cesarean section in patients with uterine müllerian anomalies: a population-based study. Am J Obstet Gynecol 196:537.e1, 2007 Ford AA, Bateman BT, Simpson LL: Vaginal birth after cesarean delivery in twin gestations: a large, nationwide sample of deliveries. Am J Obstet Gynecol 195:1138, 2006 Fox NS, Gerber RS, Mourad M, et al: Pregnancy outcomes in patients with prior uterine rupture or dehiscence. Obstet Gynecol 123(4):785, 2014 Goetzl L, Shipp TD, Cohen A, et al: Oxytocin dose and the risk of uterine rupture in trial of labor after cesarean. Obstet Gynecol 97:381, 2001 Goodnight WH, Bahtiyar O, Bennett KA, et al: Subsequent pregnancy outcomes after open maternalfetal surgery for myelomeningocele. Am J Obstet Gynecol 220:494.e1, 2019 Graseck AS, Odibo AO, Tuuli M, et al: Normal first stage of labor in women undergoing trial of labor after cesarean delivery. Obstet Gynecol 119(4):732, 2012
+
+Grinstead J, Grobman WA: Induction of labor after one prior cesarean: predictors of vaginal delivery. Obstet Gynecol 103:534, 2004 Grobman WA, Gilbert S, Landon MB, et al: Outcomes of induction of labor after one prior cesarean. Obstet Gynecol 109:262, 2007a Grobman WA, Lai Y, Landon MB, et al: Development of a nomogram for prediction of vaginal birth after cesarean delivery. Obstet Gynecol 109:806, 2007b Grobman WA, Lai Y, Landon MB, et al: Prediction of uterine rupture associated with attempted vaginal birth after cesarean delivery. Am J Obstet Gynecol 199:30.e1, 2008 Grobman WA, Sandoval G, Rice MM, et al: Prediction of a vaginal birth after cesarean in term gestation. A calculator without race and ethnicity. Am J Obstet Gynecol May 24, 2021 [Epub ahead of print] Guise JM, Denman MA, Emeis C, et al: Vaginal birth after cesarean: new insights on maternal and neonatal outcomes. Obstet Gynecol 115:1267, 2010 Hamilton BE, Martin JA, Osterman MJ, et al: Births: final data for 2014. Natl Vital Stat Rep 64(12):1,
+
+## 2015
+
 Hamilton BE, Martin JA, Osterman MJ: Births: preliminary data for 2015. Natl Vital Stat Rep 65(3):1,
-2016
-Harper LM, Cahill AG, Boslaugh S, et al: Association of induction of labor and uterine rupture in women
-attempting vaginal birth after cesarean: a survival analysis. Am J Obstet Gynecol 206:51.e1, 2012a
-Harper LM, Cahill AG, Roehl KA, et al: The pattern of labor preceding uterine rupture. Am J Obstet
-Gynecol 207(3):210.e1, 2012b
-Harper LM, Cahill AG, Stamilio DM, et al: Effect of gestational age at the prior cesarean delivery on
-maternal morbidity in subsequent VBAC attempt. Am J Obstet Gynecol 200(3):276.e1, 2009
-Hehir MP, Rouse DJ, Miller RS, et al: Second-stage duration and outcomes among women who labored
-after a prior cesarean delivery Obstet Gynecol 131:514, 2018
-Hendler I, Bujold E: Effect of prior vaginal delivery or prior vaginal birth after cesarean delivery on
-obstetric outcomes in women undergoing trial of labor. Obstet Gynecol 104(2):273, 2004
-Hernandez JS, Wendel GD, Sheffield JS: Trends in emergency peripartum hysterectomy at a single
-institution: 1988–2009. Am J Perinatol 30:365, 2013
-Hibbard JU, Gilbert S, Landon MB, et al: Trial of labor or repeat cesarean delivery in women with
-morbid obesity and previous cesarean delivery. Obstet Gynecol 108:125, 2006
-Hochler H, Yaffe H, Schwed P, et al: Safety of a trial of labor after cesarean delivery in
-grandmultiparous women. Obstet Gynecol 123:304, 2014
-Hoffman MK, Sciscione A, Srinivasana M, et al: Uterine rupture in patients with a prior cesarean
-delivery: the impact of cervical ripening. Am J Perinatol 21(4):217, 2004
-Holmgren C, Scott JR, Porter TF, et al: Uterine rupture with attempted vaginal birth after cesarean
-delivery. Obstet Gynecol 119:725, 2012
-Impey OR, Greenwood CE, Impey LW: External cephalic version after previous cesarean section: a
-cohort study of 100 consecutive attempts. Eur J Obstet Gynecol Reprod Biol. 231:210, 2018
-Inbar R, Mazaaki S, Kalter A, et al: Trial of labour after caesarean (TOLAC) is associated with
-increased risk for instrumental delivery. J Obstet Gynaecol 37(1):44, 2017
-Jastrow N, Chailet N, Roberge S, et al: Sonographic lower uterine segment thickness and risk of uterine
-scar defect: a systematic review. J Obstet Gynaecol Can 32(4):321, 2010a
-Jastrow N, Demers S, Chaillet N, et al: Lower uterine segment thickness to prevent uterine rupture and
-adverse perinatal outcomes: a multicenter prospective study. Am J Obstet Gynecol 215(5):604.e1,
-2016
 
-Jastrow N, Demers S, Gauthier RI, et al: Adverse obstetric outcomes in women with previous cesarean
-for dystocia in second stage labor. Am J Perinatol 30:173, 2013
-Jastrow N, Robere S, Gauthier RJ, et al: Effect of birth weight on adverse obstetric outcomes in vaginal
-birth after cesarean delivery. Obstet Gynecol 115(2):338, 2010b
-Juhasz G, Gyamfi C, Gyamfi P, et al: Effect of body mass index and excessive weight gain on success
-of vaginal birth after cesarean delivery. Obstet Gynecol 106:741, 2005
-Kaczmarczyk M, Sparén P, Terry P, et al: Risk factors for uterine rupture and neonatal consequences of
-uterine rupture: a population-based study of successive pregnancies in Sweden. BJOG 114:1208,
-2007
-Kayani SI, Alfirevic Z: Uterine rupture after induction of labour in women with previous caesarean
-section. BJOG 112:451, 2005
-Kieser KE, Baskett TF: A 10-year population-based study of uterine rupture. Obstet Gynecol 100:749,
-2002
-Landon MB, Hauth JC, Leveno KJ, et al: Maternal and perinatal outcomes associated with a trial of
-labor after prior cesarean delivery. N Engl J Med 351:2581, 2004
-Landon MB, Leindecker S, Spong CY, et al: The MFMU Cesarean Registry: factors affecting the
-success of trial of labor after previous cesarean delivery. Am J Obstet Gynecol 193:1016, 2005
-Landon MB, Spong CY, Thom E, et al: Risk of uterine rupture with a trial of labor in women with
-multiple and single prior cesarean delivery. Obstet Gynecol 108:12, 2006
-Lannon SM, Guthrie KA, Vanderhoeven JP, et al: Uterine rupture risk after periviable cesarean delivery.
-Obstet Gynecol 125:1095, 2015
-Lavin JP, DiPasquale L, Crane S, et al: A state-wide assessment of the obstetric, anesthesia, and
-operative team personnel who are available to manage the labors and deliveries and to treat the
-complications of women who attempt vaginal birth after cesarean delivery. Am J Obstet Gynecol
-187:611, 2002
-Leeman LM, Beagle M, Espey E, et al: Diminishing availability of trial of labor after cesarean delivery
-in New Mexico hospitals. Obstet Gynecol 122:242, 2013
-Lipschuetz M, Guedalia J, Rottenstreich A, et al: Prediction of vaginal birth after cesarean deliveries
-using machine learning. Am J Obstet Gynecol 222(6):613.e1, 2020
-Lydon-Rochelle M, Holt VL, Easterling TR, et al: Risk of uterine rupture during labor among women
-with a prior cesarean delivery. N Engl J Med 345:3, 2001
-Macharey G, Gissler M, Rahkonen L, et al: Breech presentation at term and associated obstetric risks
-factors-a nationwide population based cohort study. Arch Gynecol Obstet 295(4):833, 2017
-Macones GA, Cahill A, Pare E, et al: Obstetric outcomes in women with two prior cesarean deliveries:
-is vaginal birth after cesarean delivery a viable option? Am J Obstet Gynecol 192:1223, 2005a
-Macones GA, Peipert J, Nelson DB, et al: Maternal complications with vaginal birth after cesarean
-delivery: a multicenter study. Am J Obstet Gynecol 193:1656, 2005b
-Marshall NE, Fu R, Guise JM: Impact of multiple cesarean deliveries on maternal morbidity: a
-systematic review. Am J Obstet Gynecol 205:262.e1, 2011
-Martin JA, Hamilton BE, Osterman MJ: Births in the United States, 2018. NCHS Data Brief 346:1,
-2019
-Martin JN, Perry KG, Roberts WE, et al: The care for trial of labor in the patients with a prior lowsegment vertical cesarean incision. Am J Obstet Gynecol 177:144, 1997
-McMahon MJ, Luther ER, Bowes WA Jr, et al: Comparison of a trial of labor with an elective second
-cesarean section. N Engl J Med 335:689, 1996
+## 2016
 
-Mercer BM, Gilbert S, Landon MB, et al: Labor outcomes with increasing number of prior vaginal births
-after cesarean delivery. Obstet Gynecol 111:285, 2008
-Metz TD, Stoddard GJ, Henry E, et al: Simple, validated vaginal birth after cesarean delivery prediction
-model for use at the time of admission. Obstet Gynecol 122:571, 2013
-Miller DA, Diaz FG, Paul RH: Vaginal birth after cesarean: a 10-year experience. Obstet Gynecol
-84(2):255, 1994
-Moramarco V, Korale Liyanage S, Ninan K, et al: Classical cesarean: what are the maternal and infant
-risks compared with low transverse cesarean in preterm birth, and subsequent uterine rupture? A
-systematic review and meta-analysis. J Obstet Gynaecol Can 42(2):179, 2020
-Mozurkewich EL, Hutton EK: Elective repeat cesarean delivery versus trial of labor: a meta-analysis of
-the literature from 1989 to 1999. Am J Obstet Gynecol 183(5):1187, 2000
-Naji O, Daemen A, Smith A, et al: Changes in cesarean section scar dimensions during pregnancy: a
-prospective longitudinal study. Ultrasound Obstet Gynecol 41(5):556, 2013a
-Naji O, Wynants L, Smith A, et al: Predicting successful vaginal birth after cesarean section using a
-model based on cesarean scar features examined using transvaginal sonography. Ultrasound Obstet
-Gynecol 41(6):672, 2013b
-National Institutes of Health: Consensus Development Conference of Cesarean Childbirth, September
-1980. NIH Pub No. 82–2067, Bethesda, NIH, 1981
-National Institutes of Health Consensus Development Conference Panel: National Institutes of Health
-Consensus Development Conference statement: Vaginal birth after cesarean: new insights. March
-8–10, 2010. Obstet Gynecol 115:1279, 2010
-Nisenblat V, Barak S, Griness OB, et al: Maternal complications associated with multiple cesarean
-deliveries. Obstet Gynecol 108:21, 2006
-Osmundson SS, Garabedian MJ, Lyell DJ: Risk factors for classical hysterotomy by gestational age.
-Obstet Gynecol 122:845, 2013
-Osser OV, Valentin L: Clinical importance of appearance of cesarean hysterotomy scar at transvaginal
-ultrasonography in nonpregnant women. Obstet Gynecol 117:525, 2011
-Pauerstein CJ: Once a section, always a trial of labor? Obstet Gynecol 28:273, 1966
-Pauerstein CJ, Karp L, Muher S: Trial of labor after low segment cesarean section. S Med J 62:925,
-1969
-Peaceman AM, Gersnoviez R, Landon MB, et al: The MFMU cesarean registry: impact of fetal size on
-trial of labor success for patients with previous cesarean for dystocia. Am J Obstet Gynecol
-195:1127, 2006
-Phipps MG, Watabe B, Clemons JL, et al: Risk factors for bladder injury during cesarean delivery.
-Obstet Gynecol 105(1):156, 2005
-Poprzeczny AJ, Stocking K, Showell M, et al: Patient decision aids to facilitate shared decision making
-in obstetrics and gynecology: a systematic review and meta-analysis. Obstet Gynecol 135(2):444,
-2020
-Quiñones JN, Stamilio DM, Paré E, et al: The effect of prematurity on vaginal birth after cesarean
-delivery: success and maternal morbidity. Obstet Gynecol 105:519, 2005
-Ramirez MM, Gilbert S, Landon MB, et al: Mode of delivery in women with antepartum fetal death and
-prior cesarean delivery. Am J Perinatol 27:825, 2010
-Ravasia DJ, Brain PH, Pollard JK: Incidence of uterine rupture among women with müllerian duct
-anomalies who attempt vaginal birth after cesarean delivery. Am J Obstet Gynecol 181:877, 1999
-Ravasia DJ, Wood SL, Pollard JK: Uterine rupture during induced trial of labor among women with
-previous cesarean delivery. Am J Obstet Gynecol 183:1176, 2000
+Harper LM, Cahill AG, Boslaugh S, et al: Association of induction of labor and uterine rupture in women attempting vaginal birth after cesarean: a survival analysis. Am J Obstet Gynecol 206:51.e1, 2012a Harper LM, Cahill AG, Roehl KA, et al: The pattern of labor preceding uterine rupture. Am J Obstet Gynecol 207(3):210.e1, 2012b Harper LM, Cahill AG, Stamilio DM, et al: Effect of gestational age at the prior cesarean delivery on maternal morbidity in subsequent VBAC attempt. Am J Obstet Gynecol 200(3):276.e1, 2009 Hehir MP, Rouse DJ, Miller RS, et al: Second-stage duration and outcomes among women who labored after a prior cesarean delivery Obstet Gynecol 131:514, 2018 Hendler I, Bujold E: Effect of prior vaginal delivery or prior vaginal birth after cesarean delivery on obstetric outcomes in women undergoing trial of labor. Obstet Gynecol 104(2):273, 2004 Hernandez JS, Wendel GD, Sheffield JS: Trends in emergency peripartum hysterectomy at a single institution: 1988–2009. Am J Perinatol 30:365, 2013 Hibbard JU, Gilbert S, Landon MB, et al: Trial of labor or repeat cesarean delivery in women with morbid obesity and previous cesarean delivery. Obstet Gynecol 108:125, 2006 Hochler H, Yaffe H, Schwed P, et al: Safety of a trial of labor after cesarean delivery in grandmultiparous women. Obstet Gynecol 123:304, 2014 Hoffman MK, Sciscione A, Srinivasana M, et al: Uterine rupture in patients with a prior cesarean delivery: the impact of cervical ripening. Am J Perinatol 21(4):217, 2004 Holmgren C, Scott JR, Porter TF, et al: Uterine rupture with attempted vaginal birth after cesarean delivery. Obstet Gynecol 119:725, 2012 Impey OR, Greenwood CE, Impey LW: External cephalic version after previous cesarean section: a cohort study of 100 consecutive attempts. Eur J Obstet Gynecol Reprod Biol. 231:210, 2018 Inbar R, Mazaaki S, Kalter A, et al: Trial of labour after caesarean (TOLAC) is associated with increased risk for instrumental delivery. J Obstet Gynaecol 37(1):44, 2017 Jastrow N, Chailet N, Roberge S, et al: Sonographic lower uterine segment thickness and risk of uterine scar defect: a systematic review. J Obstet Gynaecol Can 32(4):321, 2010a Jastrow N, Demers S, Chaillet N, et al: Lower uterine segment thickness to prevent uterine rupture and adverse perinatal outcomes: a multicenter prospective study. Am J Obstet Gynecol 215(5):604.e1,
 
-Reyes-Ceja L, Cabrera R, Insfran E, et al: Pregnancy following previous uterine rupture: study of 19
-patients. Obstet Gynecol 34:387, 1969
-Ritchie EH: Pregnancy after rupture of the pregnant uterus: a report of 36 pregnancies and a study of
-cases reported since 1932. J Obstet Gynaecol Br Commonw 78:642, 1971
-Roberge S, Demers S, Bergella V, et al: Impact of single- vs double-layer closure on adverse outcomes
-and uterine scar defect: a systematic review and metaanalysis. Am J Obstet Gynecol 211:453, 2014
-Rodriguez MH, Masaki DI, Phelan JP, et al: Uterine rupture: are intrauterine pressure catheters useful
-in the diagnosis? Am J Obstet Gynecol 161:666, 1989
-Rosenstein MG, Kuppermann M, Gregorich SE, et al: Association between vaginal birth after cesarean
-delivery and primary cesarean delivery rates. Obstet Gynecol 122:1010, 2013
-Rossi AC, D’Addario V: Maternal morbidity following a trial of labor after cesarean section vs elective
-repeat cesarean delivery: a systematic review with metaanalysis. Am J Obstet Gynecol 199(3):224,
-2008
-Royal College of Obstetricians and Gynaecologists: Birth after previous caesarean birth. Green-top
-Guideline No. 45, October 2015
-Sachs BP, Koblin C, Castro MA, et al: The risk of lowering the cesarean-delivery rate. N Engl J Med
-340:5, 1999
-Sarreau M, Isly H, Poulain P, et al: Balloon catheter vs oxytocin alone for induction of labor in women
-with a previous cesarean section: a randomized controlled trial. Acta Obstet Gynecol Scand
-99(2):259, 2020
-Sciscione AC, Landon MB, Leveno KJ, et al: Previous preterm cesarean delivery and risk of
-subsequent uterine rupture. Obstet Gynecol 111:648, 2008
-Scott JR: Vaginal birth after cesarean delivery: a common-sense approach. Obstet Gynecol 118:342,
-2011
-Sheth SS: Results of treatment of rupture of the uterus by suturing. J Obstet Gynaecol Br Commonw
-75:55, 1968
-Shipp TD, Zelop CM, Repke JT, et al: Interdelivery interval and risk of symptomatic uterine rupture.
-Obstet Gynecol 97:175, 2001
-Shipp TD, Zelop CM, Repke JT, et al: Intrapartum uterine rupture and dehiscence in patients with prior
-lower uterine segment vertical and transverse incisions. Obstet Gynecol 94:735, 1999
-Silberstein T, Wiznitzer A, Katz M, et al: Routine revision of uterine scar after cesarean section: has it
-ever been necessary? Eur J Obstet Gynecol Reprod Biol 78:29, 1998
-Silver RM, Landon MB, Rouse DJ, et al: Maternal morbidity associated with multiple repeat cesarean
-deliveries. Obstet Gynecol 207:1226, 2006
-Simon AE, Uddin SG: National trends in primary cesarean delivery, labor attempts, and labor success,
-1990–2010. Am J Obstet Gynecol 209(6):554.e1, 2013
-Smith GC, Pell JP, Cameron AD, et al: Risk of perinatal death associated with labor after previous
-cesarean delivery in uncomplicated term pregnancies. JAMA 287:2684, 2002
-Society for Maternal-Fetal Medicine: Counseling and management of women with prior classical
-cesarean delivery. Contemp OB/GYN 57(6):26, 2012
-Spong CY, Landon MB, Gilbert S, et al: Risk of uterine rupture and adverse perinatal outcome at term
-after cesarean delivery. Obstet Gynecol 110:801, 2007
-Stamilio DM, DeFranco E, Paré E, et al: Short interpregnancy interval. Risk of uterine rupture and
-complications of vaginal birth after cesarean delivery. Obstet Gynecol 110, 1075, 2007
-Tahseen S, Griffiths M: Vaginal birth after two caesarean sections (VBAC-2)—a systematic review
-with meta-analysis of success rate and adverse outcomes of VBAC-2 versus VBAC-1 and repeat
+## 2016
 
-(third) caesarean sections. BJOG 117:5, 2010
-Tita AT, Landon MB, Spong CY, et al: Timing of elective repeat cesarean delivery at term and neonatal
-outcomes. N Engl J Med 360(2):111, 2009
-Traynor AJ, Aragon M, Ghosh D, et al: Obstetric Anesthesia Workforce Survey: a 30-year update.
-Anesth Analg 122(6):1939, 2016
-Tsakiridis I, Mamopoulos A, Athanasiadis A, et al: Vaginal birth after previous cesarean birth: a
-comparison of 3 national guidelines. Obstet Gynecol Surv 73(9):537, 2018
-Tulandi T, Agdi M, Zarei A, et al: Adhesion development and morbidity after repeat cesarean delivery.
-Am J Obstet Gynecol 201(1):56, 2009
-Uddin SF, Simon AE: Rates and success rates of trial of labor after cesarean delivery in the United
-States, 1990–2009. Matern Child Health J 17:1309, 2013
-Usta IM, Hamdi MA, Abu Musa AA, et al: Pregnancy outcome in patients with previous uterine
-rupture. Acta Obstet Gynecol 86:172, 2007
-Usta IM, Hobeika EM, Abu-Musa AA, et al: Placenta previa-accreta: risk factors and complications.
-Am J Obstet Gynecol 193:1045, 2005
-Varner MW, Thom E, Spong CY, et al: Trial of labor after one previous cesarean delivery for multifetal
-gestation. Obstet Gynecol 110:814, 2007
-Webb JC, Gilson G, Gordon L: Late second stage rupture of the uterus and bladder with vaginal birth
-after cesarean section: a case report and review of the literature. J Matern Fetal Med 9(6):362,
-2000
-Weill Y, Pollack RN: The efficacy and safety of external cephalic version after a previous caesarean
-delivery. Aust N Z J Obstet Gynaecol 57(3):323, 2017
-Wen SW, Huang L, Liston R, et al: Severe maternal morbidity in Canada, 1991–2001. CMAJ 173:759,
-2005
-Wen SW, Rusen ID, Walker M, et al: Comparison of maternal mortality and morbidity between trial of
-labor and elective cesarean section among women with previous cesarean delivery. Am J Obstet
-Gynecol 191(4):1263, 2004
-Wing DA, Lovett K, Paul RH: Disruption of prior uterine incision following misoprostol for labor
-induction in women with previous cesarean delivery. Obstet Gynecol 91:828, 1998
-Wing DA, Paul RH: Vaginal birth after cesarean section: selection and management. Clin Obstet
-Gynecol 42:836, 1999
-Wu Y, Kataria Y, Wang Z, et al: Factors associated with successful vaginal birth after a cesarean
-section: a systematic review and meta-analysis. BMC Pregnancy Childbirth 19(1):360, 2019
-Wyckoff ET, Cua GM, Gibson DJ, et al: Efficacy of the NICHD vaginal birth after cesarean delivery
-calculator: a single center experience. J Matern Fetal Neonatal Med 33(4):553, 2020
-Young CB, Liu S, Muraca GM, et al: Mode of delivery after a previous cesarean birth, and associated
-maternal and neonatal morbidity. CMAJ 190(18):E556, 2018
-Zelop CM, Shipp TD, Repke JT, et al: Outcomes of trial of labor following previous cesarean delivery
-among women with fetuses weighing >4000 g. Am J Obstet Gynecol 185:903, 2001
-Zelop CM, Shipp TD, Repke JT, et al: Uterine rupture during induced or augmented labor in gravid
-women with one prior cesarean delivery. Am J Obstet Gynecol 181:882, 1999
+Jastrow N, Demers S, Gauthier RI, et al: Adverse obstetric outcomes in women with previous cesarean for dystocia in second stage labor. Am J Perinatol 30:173, 2013 Jastrow N, Robere S, Gauthier RJ, et al: Effect of birth weight on adverse obstetric outcomes in vaginal birth after cesarean delivery. Obstet Gynecol 115(2):338, 2010b Juhasz G, Gyamfi C, Gyamfi P, et al: Effect of body mass index and excessive weight gain on success of vaginal birth after cesarean delivery. Obstet Gynecol 106:741, 2005 Kaczmarczyk M, Sparén P, Terry P, et al: Risk factors for uterine rupture and neonatal consequences of uterine rupture: a population-based study of successive pregnancies in Sweden. BJOG 114:1208,
 
-SECTION 9
+## 2007
 
-THE NEWBORN
+Kayani SI, Alfirevic Z: Uterine rupture after induction of labour in women with previous caesarean section. BJOG 112:451, 2005 Kieser KE, Baskett TF: A 10-year population-based study of uterine rupture. Obstet Gynecol 100:749,
 
+## 2002
+
+Landon MB, Hauth JC, Leveno KJ, et al: Maternal and perinatal outcomes associated with a trial of labor after prior cesarean delivery. N Engl J Med 351:2581, 2004 Landon MB, Leindecker S, Spong CY, et al: The MFMU Cesarean Registry: factors affecting the success of trial of labor after previous cesarean delivery. Am J Obstet Gynecol 193:1016, 2005 Landon MB, Spong CY, Thom E, et al: Risk of uterine rupture with a trial of labor in women with multiple and single prior cesarean delivery. Obstet Gynecol 108:12, 2006 Lannon SM, Guthrie KA, Vanderhoeven JP, et al: Uterine rupture risk after periviable cesarean delivery. Obstet Gynecol 125:1095, 2015 Lavin JP, DiPasquale L, Crane S, et al: A state-wide assessment of the obstetric, anesthesia, and operative team personnel who are available to manage the labors and deliveries and to treat the complications of women who attempt vaginal birth after cesarean delivery. Am J Obstet Gynecol 187:611, 2002 Leeman LM, Beagle M, Espey E, et al: Diminishing availability of trial of labor after cesarean delivery in New Mexico hospitals. Obstet Gynecol 122:242, 2013 Lipschuetz M, Guedalia J, Rottenstreich A, et al: Prediction of vaginal birth after cesarean deliveries using machine learning. Am J Obstet Gynecol 222(6):613.e1, 2020 Lydon-Rochelle M, Holt VL, Easterling TR, et al: Risk of uterine rupture during labor among women with a prior cesarean delivery. N Engl J Med 345:3, 2001 Macharey G, Gissler M, Rahkonen L, et al: Breech presentation at term and associated obstetric risks factors-a nationwide population based cohort study. Arch Gynecol Obstet 295(4):833, 2017 Macones GA, Cahill A, Pare E, et al: Obstetric outcomes in women with two prior cesarean deliveries: is vaginal birth after cesarean delivery a viable option? Am J Obstet Gynecol 192:1223, 2005a Macones GA, Peipert J, Nelson DB, et al: Maternal complications with vaginal birth after cesarean delivery: a multicenter study. Am J Obstet Gynecol 193:1656, 2005b Marshall NE, Fu R, Guise JM: Impact of multiple cesarean deliveries on maternal morbidity: a systematic review. Am J Obstet Gynecol 205:262.e1, 2011 Martin JA, Hamilton BE, Osterman MJ: Births in the United States, 2018. NCHS Data Brief 346:1,
+
+## 2019
+
+Martin JN, Perry KG, Roberts WE, et al: The care for trial of labor in the patients with a prior lowsegment vertical cesarean incision. Am J Obstet Gynecol 177:144, 1997 McMahon MJ, Luther ER, Bowes WA Jr, et al: Comparison of a trial of labor with an elective second cesarean section. N Engl J Med 335:689, 1996
+
+Mercer BM, Gilbert S, Landon MB, et al: Labor outcomes with increasing number of prior vaginal births after cesarean delivery. Obstet Gynecol 111:285, 2008 Metz TD, Stoddard GJ, Henry E, et al: Simple, validated vaginal birth after cesarean delivery prediction model for use at the time of admission. Obstet Gynecol 122:571, 2013 Miller DA, Diaz FG, Paul RH: Vaginal birth after cesarean: a 10-year experience. Obstet Gynecol 84(2):255, 1994 Moramarco V, Korale Liyanage S, Ninan K, et al: Classical cesarean: what are the maternal and infant risks compared with low transverse cesarean in preterm birth, and subsequent uterine rupture? A systematic review and meta-analysis. J Obstet Gynaecol Can 42(2):179, 2020 Mozurkewich EL, Hutton EK: Elective repeat cesarean delivery versus trial of labor: a meta-analysis of the literature from 1989 to 1999. Am J Obstet Gynecol 183(5):1187, 2000 Naji O, Daemen A, Smith A, et al: Changes in cesarean section scar dimensions during pregnancy: a prospective longitudinal study. Ultrasound Obstet Gynecol 41(5):556, 2013a Naji O, Wynants L, Smith A, et al: Predicting successful vaginal birth after cesarean section using a model based on cesarean scar features examined using transvaginal sonography. Ultrasound Obstet Gynecol 41(6):672, 2013b National Institutes of Health: Consensus Development Conference of Cesarean Childbirth, September 1980. NIH Pub No. 82–2067, Bethesda, NIH, 1981 National Institutes of Health Consensus Development Conference Panel: National Institutes of Health Consensus Development Conference statement: Vaginal birth after cesarean: new insights. March 8–10, 2010. Obstet Gynecol 115:1279, 2010 Nisenblat V, Barak S, Griness OB, et al: Maternal complications associated with multiple cesarean deliveries. Obstet Gynecol 108:21, 2006 Osmundson SS, Garabedian MJ, Lyell DJ: Risk factors for classical hysterotomy by gestational age. Obstet Gynecol 122:845, 2013 Osser OV, Valentin L: Clinical importance of appearance of cesarean hysterotomy scar at transvaginal ultrasonography in nonpregnant women. Obstet Gynecol 117:525, 2011 Pauerstein CJ: Once a section, always a trial of labor? Obstet Gynecol 28:273, 1966 Pauerstein CJ, Karp L, Muher S: Trial of labor after low segment cesarean section. S Med J 62:925,
+
+## 1969
+
+Peaceman AM, Gersnoviez R, Landon MB, et al: The MFMU cesarean registry: impact of fetal size on trial of labor success for patients with previous cesarean for dystocia. Am J Obstet Gynecol 195:1127, 2006 Phipps MG, Watabe B, Clemons JL, et al: Risk factors for bladder injury during cesarean delivery. Obstet Gynecol 105(1):156, 2005 Poprzeczny AJ, Stocking K, Showell M, et al: Patient decision aids to facilitate shared decision making in obstetrics and gynecology: a systematic review and meta-analysis. Obstet Gynecol 135(2):444,
+
+## 2020
+
+Quiñones JN, Stamilio DM, Paré E, et al: The effect of prematurity on vaginal birth after cesarean delivery: success and maternal morbidity. Obstet Gynecol 105:519, 2005 Ramirez MM, Gilbert S, Landon MB, et al: Mode of delivery in women with antepartum fetal death and prior cesarean delivery. Am J Perinatol 27:825, 2010 Ravasia DJ, Brain PH, Pollard JK: Incidence of uterine rupture among women with müllerian duct anomalies who attempt vaginal birth after cesarean delivery. Am J Obstet Gynecol 181:877, 1999 Ravasia DJ, Wood SL, Pollard JK: Uterine rupture during induced trial of labor among women with previous cesarean delivery. Am J Obstet Gynecol 183:1176, 2000
+
+Reyes-Ceja L, Cabrera R, Insfran E, et al: Pregnancy following previous uterine rupture: study of 19 patients. Obstet Gynecol 34:387, 1969 Ritchie EH: Pregnancy after rupture of the pregnant uterus: a report of 36 pregnancies and a study of cases reported since 1932. J Obstet Gynaecol Br Commonw 78:642, 1971 Roberge S, Demers S, Bergella V, et al: Impact of single- vs double-layer closure on adverse outcomes and uterine scar defect: a systematic review and metaanalysis. Am J Obstet Gynecol 211:453, 2014 Rodriguez MH, Masaki DI, Phelan JP, et al: Uterine rupture: are intrauterine pressure catheters useful in the diagnosis? Am J Obstet Gynecol 161:666, 1989 Rosenstein MG, Kuppermann M, Gregorich SE, et al: Association between vaginal birth after cesarean delivery and primary cesarean delivery rates. Obstet Gynecol 122:1010, 2013 Rossi AC, D’Addario V: Maternal morbidity following a trial of labor after cesarean section vs elective repeat cesarean delivery: a systematic review with metaanalysis. Am J Obstet Gynecol 199(3):224,
+
+## 2008
+
+Royal College of Obstetricians and Gynaecologists: Birth after previous caesarean birth. Green-top Guideline No. 45, October 2015 Sachs BP, Koblin C, Castro MA, et al: The risk of lowering the cesarean-delivery rate. N Engl J Med 340:5, 1999 Sarreau M, Isly H, Poulain P, et al: Balloon catheter vs oxytocin alone for induction of labor in women with a previous cesarean section: a randomized controlled trial. Acta Obstet Gynecol Scand 99(2):259, 2020 Sciscione AC, Landon MB, Leveno KJ, et al: Previous preterm cesarean delivery and risk of subsequent uterine rupture. Obstet Gynecol 111:648, 2008 Scott JR: Vaginal birth after cesarean delivery: a common-sense approach. Obstet Gynecol 118:342,
+
+## 2011
+
+Sheth SS: Results of treatment of rupture of the uterus by suturing. J Obstet Gynaecol Br Commonw 75:55, 1968 Shipp TD, Zelop CM, Repke JT, et al: Interdelivery interval and risk of symptomatic uterine rupture. Obstet Gynecol 97:175, 2001 Shipp TD, Zelop CM, Repke JT, et al: Intrapartum uterine rupture and dehiscence in patients with prior lower uterine segment vertical and transverse incisions. Obstet Gynecol 94:735, 1999 Silberstein T, Wiznitzer A, Katz M, et al: Routine revision of uterine scar after cesarean section: has it ever been necessary? Eur J Obstet Gynecol Reprod Biol 78:29, 1998 Silver RM, Landon MB, Rouse DJ, et al: Maternal morbidity associated with multiple repeat cesarean deliveries. Obstet Gynecol 207:1226, 2006 Simon AE, Uddin SG: National trends in primary cesarean delivery, labor attempts, and labor success, 1990–2010. Am J Obstet Gynecol 209(6):554.e1, 2013 Smith GC, Pell JP, Cameron AD, et al: Risk of perinatal death associated with labor after previous cesarean delivery in uncomplicated term pregnancies. JAMA 287:2684, 2002 Society for Maternal-Fetal Medicine: Counseling and management of women with prior classical cesarean delivery. Contemp OB/GYN 57(6):26, 2012 Spong CY, Landon MB, Gilbert S, et al: Risk of uterine rupture and adverse perinatal outcome at term after cesarean delivery. Obstet Gynecol 110:801, 2007 Stamilio DM, DeFranco E, Paré E, et al: Short interpregnancy interval. Risk of uterine rupture and complications of vaginal birth after cesarean delivery. Obstet Gynecol 110, 1075, 2007 Tahseen S, Griffiths M: Vaginal birth after two caesarean sections (VBAC-2)—a systematic review with meta-analysis of success rate and adverse outcomes of VBAC-2 versus VBAC-1 and repeat
+
+(third) caesarean sections. BJOG 117:5, 2010 Tita AT, Landon MB, Spong CY, et al: Timing of elective repeat cesarean delivery at term and neonatal outcomes. N Engl J Med 360(2):111, 2009 Traynor AJ, Aragon M, Ghosh D, et al: Obstetric Anesthesia Workforce Survey: a 30-year update. Anesth Analg 122(6):1939, 2016 Tsakiridis I, Mamopoulos A, Athanasiadis A, et al: Vaginal birth after previous cesarean birth: a comparison of 3 national guidelines. Obstet Gynecol Surv 73(9):537, 2018 Tulandi T, Agdi M, Zarei A, et al: Adhesion development and morbidity after repeat cesarean delivery. Am J Obstet Gynecol 201(1):56, 2009 Uddin SF, Simon AE: Rates and success rates of trial of labor after cesarean delivery in the United States, 1990–2009. Matern Child Health J 17:1309, 2013 Usta IM, Hamdi MA, Abu Musa AA, et al: Pregnancy outcome in patients with previous uterine rupture. Acta Obstet Gynecol 86:172, 2007 Usta IM, Hobeika EM, Abu-Musa AA, et al: Placenta previa-accreta: risk factors and complications. Am J Obstet Gynecol 193:1045, 2005 Varner MW, Thom E, Spong CY, et al: Trial of labor after one previous cesarean delivery for multifetal gestation. Obstet Gynecol 110:814, 2007 Webb JC, Gilson G, Gordon L: Late second stage rupture of the uterus and bladder with vaginal birth after cesarean section: a case report and review of the literature. J Matern Fetal Med 9(6):362,
+
+## 2000
+
+Weill Y, Pollack RN: The efficacy and safety of external cephalic version after a previous caesarean delivery. Aust N Z J Obstet Gynaecol 57(3):323, 2017 Wen SW, Huang L, Liston R, et al: Severe maternal morbidity in Canada, 1991–2001. CMAJ 173:759,
+
+## 2005
+
+Wen SW, Rusen ID, Walker M, et al: Comparison of maternal mortality and morbidity between trial of labor and elective cesarean section among women with previous cesarean delivery. Am J Obstet Gynecol 191(4):1263, 2004 Wing DA, Lovett K, Paul RH: Disruption of prior uterine incision following misoprostol for labor induction in women with previous cesarean delivery. Obstet Gynecol 91:828, 1998 Wing DA, Paul RH: Vaginal birth after cesarean section: selection and management. Clin Obstet Gynecol 42:836, 1999 Wu Y, Kataria Y, Wang Z, et al: Factors associated with successful vaginal birth after a cesarean section: a systematic review and meta-analysis. BMC Pregnancy Childbirth 19(1):360, 2019 Wyckoff ET, Cua GM, Gibson DJ, et al: Efficacy of the NICHD vaginal birth after cesarean delivery calculator: a single center experience. J Matern Fetal Neonatal Med 33(4):553, 2020 Young CB, Liu S, Muraca GM, et al: Mode of delivery after a previous cesarean birth, and associated maternal and neonatal morbidity. CMAJ 190(18):E556, 2018 Zelop CM, Shipp TD, Repke JT, et al: Outcomes of trial of labor following previous cesarean delivery among women with fetuses weighing >4000 g. Am J Obstet Gynecol 185:903, 2001 Zelop CM, Shipp TD, Repke JT, et al: Uterine rupture during induced or augmented labor in gravid women with one prior cesarean delivery. Am J Obstet Gynecol 181:882, 1999
+
+SECTION 9
+
+## The Newborn

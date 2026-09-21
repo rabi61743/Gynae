@@ -1,536 +1,126 @@
-CHAPTER 35
+# Chapter 35: Stillbirth
 
-Stillbirth
+- Definitions
+- Etiologies
+- Risk Factors
+- Evaluation Of The Stillborn Fetus
+- Perinatal Care
+- Prior Stillbirth
+- Changes In Stillbirth Rates
+- References
 
-DEFINITIONS
-ETIOLOGIES
-RISK FACTORS
-EVALUATION OF THE STILLBORN FETUS
-PERINATAL CARE
-PRIOR STILLBIRTH
-CHANGES IN STILLBIRTH RATES
-REFERENCES
-Perinatal mortality combines fetal and neonatal deaths and is one measure of
-healthcare quality before, during, and after delivery. Fetal mortality data
-from the National Vital Statistics system are usually presented for fetal
-deaths after the 20-week threshold. Using this threshold, the numbers of fetal
-deaths in the United States in 2013 slightly surpassed numbers of neonatal
-deaths when considering fetal deaths beyond 20 weeks (Fig. 35-1)
-(MacDorman, 2015a).
+Perinatal mortality combines fetal and neonatal deaths and is one measure of healthcare quality before, during, and after delivery. Fetal mortality data from the National Vital Statistics system are usually presented for fetal deaths after the 20-week threshold. Using this threshold, the numbers of fetal deaths in the United States in 2013 slightly surpassed numbers of neonatal deaths when considering fetal deaths beyond 20 weeks (Fig. 35-1) (MacDorman, 2015a).
 
-FIGURE 35-1 Distribution of fetal and neonatal deaths in the United States, 2013. (Data from
-MacDorman, 2015a.)
+> **Figure 35-1:** Distribution of fetal and neonatal deaths in the United States, 2013. (Data from MacDorman, 2015a.)
 
-DEFINITIONS
-As discussed in Chapter 1 (p. 3), the current definition of fetal death adopted
-in the United States by the National Center for Health Statistics is based on
-one recommended by the World Health Organization (MacDorman, 2015a). It
-states that “Fetal death means death prior to complete expulsion or
-extraction from the mother of a product of human conception irrespective
-of the duration of pregnancy and which is not an induced termination of
-pregnancy. The death is indicated by the fact that after such expulsion or
-extraction, the fetus does not breathe or show any other evidence of life
-such as beating of the heart, pulsation of the umbilical cord, or definite
-movement of voluntary muscles. Heartbeats are to be distinguished from
-transient cardiac contractions; respirations are to be distinguished from
-fleeting respiratory efforts or gasps.”
-Reporting requirements for fetal deaths in the United States are
-determined by each state, and thus criteria differ. Most states mandate
-reporting of deaths of fetuses that are 20 weeks’ gestation or older or have a
+## Definitions
 
-minimum birthweight of 350 g, which roughly equates to that at 20 weeks—
-or a combination of both. However, evidence shows that not all required
-fetal deaths are reported, especially at earlier gestational ages (MacDorman,
-2015a).
-Similarly, comparisons of rates among countries are limited by
-incomplete fetal death data. Internationally, less than 5 percent of neonatal
-deaths have formalized documentation (Lawn, 2016). Further, comparative
-analyses using birthweight versus gestational age among countries yield
-discordant results. In the United States, if stillbirth were defined by a
-birthweight ≥500 g, the stillbirth rate would be reduced by 40 percent
-compared with a 20-week-age defined cohort (Blencowe, 2016).
-Three fetal mortality epochs are generally recognized. Early describes
-deaths before 20 completed weeks’ gestation; intermediate for those
-between 20 and 27 weeks; and late for those ≥28 weeks. The fetal mortality
-rate in each epoch has changed little since 2006. As shown in Figure 35-2,
-fetal death rates are highest at the earliest and latest gestational ages, which
-suggests etiological differences.
+As discussed in Chapter 1 (p. 3), the current definition of fetal death adopted in the United States by the National Center for Health Statistics is based on one recommended by the World Health Organization (MacDorman, 2015a). It states that “Fetal death means death prior to complete expulsion or extraction from the mother of a product of human conception irrespective of the duration of pregnancy and which is not an induced termination of pregnancy. The death is indicated by the fact that after such expulsion or extraction, the fetus does not breathe or show any other evidence of life such as beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles. Heartbeats are to be distinguished from transient cardiac contractions; respirations are to be distinguished from fleeting respiratory efforts or gasps.” Reporting requirements for fetal deaths in the United States are determined by each state, and thus criteria differ. Most states mandate reporting of deaths of fetuses that are 20 weeks’ gestation or older or have a
 
-FIGURE 35-2 National Vital Statistics Report: fetal mortality rate per 1000 births by weeks’ gestation.
-(Data from MacDorman, 2015a.)
+minimum birthweight of 350 g, which roughly equates to that at 20 weeks— or a combination of both. However, evidence shows that not all required fetal deaths are reported, especially at earlier gestational ages (MacDorman, 2015a). Similarly, comparisons of rates among countries are limited by incomplete fetal death data. Internationally, less than 5 percent of neonatal deaths have formalized documentation (Lawn, 2016). Further, comparative analyses using birthweight versus gestational age among countries yield discordant results. In the United States, if stillbirth were defined by a birthweight ≥500 g, the stillbirth rate would be reduced by 40 percent compared with a 20-week-age defined cohort (Blencowe, 2016). Three fetal mortality epochs are generally recognized. Early describes deaths before 20 completed weeks’ gestation; intermediate for those between 20 and 27 weeks; and late for those ≥28 weeks. The fetal mortality rate in each epoch has changed little since 2006. As shown in Figure 35-2, fetal death rates are highest at the earliest and latest gestational ages, which suggests etiological differences.
 
-ETIOLOGIES
-To ascertain stillbirth causes in racially and geographically diverse
-populations in the United States, the Eunice Kennedy Shriver National
+> **Figure 35-2:** National Vital Statistics Report: fetal mortality rate per 1000 births by weeks’ gestation. (Data from MacDorman, 2015a.)
 
-Institute of Child Health and Human Development (NICHD) organized the
-Stillbirth Collaborative Research Network Writing Group (2011b). The
-group examined reasons for death at 20 weeks’ gestation or later between
-2006 and 2008 in 59 tertiary care and community hospitals in five states.
-Standardized evaluations included autopsy, placental histology, and testing of
-maternal or fetal blood/tissues, including fetal karyotyping. Evaluations were
-performed in 500 women with 512 stillbirths. Of these losses, 83 percent
-were before labor. Causes were divided into eight categories (Table 35-1).
-These categories were then classified as probable, possible, or unknown
-causes. As an example, diabetes was considered a probable cause if the
-fetus had diabetic embryopathy with lethal anomalies or if the mother had
-diabetic ketoacidosis. It was a possible cause if the mother had poor
-glycemic control and the fetus had abnormal growth. A probable or possible
-source was identified in 76 percent of cases. This proportion is similar to
-that from Australia using a comparable national audit tool (Lehner, 2019).
-TABLE 35-1. Causes of 512 Stillbirths in the Stillbirth Collaborative
-Research Network Study
+## Etiologies
 
-This Network study is unprecedented in the United States for several
-reasons. It was a population-based cohort of stillbirths, in which all
-underwent systematic and thorough evaluation. Each assigned cause of fetal
-death is reasonably straightforward and comprehensible except for
-“placental abnormalities.” This category contains uteroplacental
-insufficiency and a few other less clearly defined placental entities. This
-aside, the leading reasons for fetal death were obstetrical and primarily
-included abruption, multifetal gestation complications, and spontaneous labor
-or ruptured membranes before viability. Structural anomaly was another
-(Son, 2021a). This study also illustrated that systematic evaluation may
+To ascertain stillbirth causes in racially and geographically diverse populations in the United States, the Eunice Kennedy Shriver National
 
-identify a likely cause in approximately three fourths of stillbirths. This high
-rate emphasizes the importance of standardized evaluation. However, a
-Cochrane database study concluded that evidence specifically from
-randomized trials to support specific tests for stillbirth evaluation was
-lacking (Wojcieszek, 2018b).
+Institute of Child Health and Human Development (NICHD) organized the Stillbirth Collaborative Research Network Writing Group (2011b). The group examined reasons for death at 20 weeks’ gestation or later between 2006 and 2008 in 59 tertiary care and community hospitals in five states. Standardized evaluations included autopsy, placental histology, and testing of maternal or fetal blood/tissues, including fetal karyotyping. Evaluations were performed in 500 women with 512 stillbirths. Of these losses, 83 percent were before labor. Causes were divided into eight categories (Table 35-1). These categories were then classified as probable, possible, or unknown causes. As an example, diabetes was considered a probable cause if the fetus had diabetic embryopathy with lethal anomalies or if the mother had diabetic ketoacidosis. It was a possible cause if the mother had poor glycemic control and the fetus had abnormal growth. A probable or possible source was identified in 76 percent of cases. This proportion is similar to that from Australia using a comparable national audit tool (Lehner, 2019).
 
-RISK FACTORS
-Many factors are associated with an increased stillbirth risk (Table 35-2).
-Major associations include sociodemographic factors such as non-Hispanic
-black women, who have higher incidences of hypertension, diabetes,
-placental abruption, and preterm premature rupture of membranes (Healy,
-2006). Other common associations are maternal age at either end of the
-spectrum, obesity, preeclampsia, diabetes, substance use, and late-term
-pregnancy (American College of Obstetricians and Gynecologists, 2020;
-Page, 2018). Multifetal pregnancies, especially monochorionic gestations,
-are high risk (Korlesky, 2019). Women with prior adverse pregnancy
-outcomes—such as stillbirth, preterm birth, or growth restriction—also carry
-an increased risk (Reddy, 2010; Varner, 2014). Pregnancies complicated by
-current fetal-growth restriction are particularly vulnerable because of their
-associations with hypertension, diabetes, fetal infection, autoimmune
-disorders, and chronic renal disease (Brackett, 2020; Silver, 2018).
-Recently, the SARS-CoV-2 pandemic has posed both direct and indirect risks
-for adverse perinatal outcomes. Data are mixed as to whether rates of
-stillbirth have been higher during the pandemic (Khalil, 2020; Srivastava,
-2021; Simon, 2021; Son, 2021b). Some suggest greater risks in low-source
-countries (Leisher, 2021). Although with recognized limitations, these
-findings merit further investigation regarding perinatal care during this
-pandemic (Hu, 2021; Rasmussen, 2020). In 245 gravidas with SARS-CoV-2
-infection at Parkland Hospital, the stillbirth rate was not increased compared
-with that in gravidas with negative test results during the same period.
-TABLE 35-2. Maternal Risk Factors and Estimated Stillbirth Rate
+> **Table 35-1:** Causes of 512 Stillbirths in the Stillbirth Collaborative Research Network Study
 
-To help lower stillbirth rates, two major studies assessed whether risk
-factors could be identified either before or shortly after pregnancy
-confirmation. In the first, Reddy and colleagues (2010) analyzed data from
-the NICHD Consortium on Safe Labor. Briefly, the pregnancy outcomes of
-206,969 women delivered between 2002 and 2008 at 19 hospitals in the
-United States were analyzed. When stillbirths were apportioned according to
-gestational age, most occurred primarily at term. These investigators
-concluded that their results did not support routine antenatal surveillance for
-any demographic risk factors.
-The second analysis of risk factors was included in the Stillbirth
-Collaborative Research Network study described earlier (2011a). The
-validity of stillbirth prediction was assessed based on risks identified in
-early pregnancy. They found that pregnancy factors known at the start of
-pregnancy accounted for only a small proportion of stillbirth risk. Indeed,
-except for prior stillbirth or pregnancy loss from causes such as preterm birth
-or fetal-growth restriction, other risks had limited predictive value. Prior
-stillbirth as a risk for recurrence has been emphasized by others (Lamont,
-2015; Sharma, 2006). Specifically, the stillbirth risk was fivefold higher in
-women with a prior stillbirth. From another report, prior preterm birth, fetalgrowth restriction, preeclampsia, and placental abruption were strongly
-associated with subsequent stillbirth (Rasmussen, 2009).
+This Network study is unprecedented in the United States for several reasons. It was a population-based cohort of stillbirths, in which all underwent systematic and thorough evaluation. Each assigned cause of fetal death is reasonably straightforward and comprehensible except for “placental abnormalities.” This category contains uteroplacental insufficiency and a few other less clearly defined placental entities. This aside, the leading reasons for fetal death were obstetrical and primarily included abruption, multifetal gestation complications, and spontaneous labor or ruptured membranes before viability. Structural anomaly was another (Son, 2021a). This study also illustrated that systematic evaluation may
 
-EVALUATION OF THE STILLBORN FETUS
-■ Clinical Examination
-Determining the cause of fetal death aids maternal coping, helps assuage
-perceived guilt, permits more accurate counseling regarding recurrence risk,
-and may prompt intervention to prevent a recurrent outcome. Identification of
-inherited syndromes also assists other family members. Important tests
-include autopsy, chromosomal analysis, and pathological examination of the
-placenta, cord, and chorioamnionic membranes (Pinar, 2014). Page and
-coworkers (2017) found placental pathology and fetal autopsy to be the most
-useful.
-Clinically, the fetal weight, head circumference, and length and the
-placental weight are measured (Fig. 35-3). Photographs are taken of the
+identify a likely cause in approximately three fourths of stillbirths. This high rate emphasizes the importance of standardized evaluation. However, a Cochrane database study concluded that evidence specifically from randomized trials to support specific tests for stillbirth evaluation was lacking (Wojcieszek, 2018b).
 
-extremities and palms. Frontal plus profile views of the whole fetus and face
-also are obtained. A full radiograph of the fetus—a fetogram—may be
-performed (American College of Obstetricians and Gynecologists, 2020).
-Postnatal magnetic resonance (MR) imaging, radiographs, or sonography may
-be especially important if parents decline a full autopsy (McPherson, 2017;
-Shruthi, 2018). Findings are documented in the medical record, and relevant
-ante- and intrapartum events are delineated.
+## Risk Factors
 
-FIGURE 35-3 Flow chart for stillbirth evaluation. APAS = antiphospholipid antibody syndrome; KB =
-Kleihauer-Betke; MR = magnetic resonance; SLE = systemic lupus erythematosus. (From American
-College of Obstetricians and Gynecologists, 2020; Page, 2017, 2018.)
+Many factors are associated with an increased stillbirth risk (Table 35-2). Major associations include sociodemographic factors such as non-Hispanic black women, who have higher incidences of hypertension, diabetes, placental abruption, and preterm premature rupture of membranes (Healy, 2006). Other common associations are maternal age at either end of the spectrum, obesity, preeclampsia, diabetes, substance use, and late-term pregnancy (American College of Obstetricians and Gynecologists, 2020; Page, 2018). Multifetal pregnancies, especially monochorionic gestations, are high risk (Korlesky, 2019). Women with prior adverse pregnancy outcomes—such as stillbirth, preterm birth, or growth restriction—also carry an increased risk (Reddy, 2010; Varner, 2014). Pregnancies complicated by current fetal-growth restriction are particularly vulnerable because of their associations with hypertension, diabetes, fetal infection, autoimmune disorders, and chronic renal disease (Brackett, 2020; Silver, 2018). Recently, the SARS-CoV-2 pandemic has posed both direct and indirect risks for adverse perinatal outcomes. Data are mixed as to whether rates of stillbirth have been higher during the pandemic (Khalil, 2020; Srivastava, 2021; Simon, 2021; Son, 2021b). Some suggest greater risks in low-source countries (Leisher, 2021). Although with recognized limitations, these findings merit further investigation regarding perinatal care during this pandemic (Hu, 2021; Rasmussen, 2020). In 245 gravidas with SARS-CoV-2 infection at Parkland Hospital, the stillbirth rate was not increased compared with that in gravidas with negative test results during the same period.
 
-The reported incidence of fetal anomalies varies. For example, FayePetersen and colleagues (1999) reported that if autopsy and chromosomal
-studies are performed, up to 35 percent of stillborn fetuses were discovered
-to have major structural anomalies. Approximately 20 percent had
-dysmorphic features or skeletal anomalies, and 8 percent had chromosomal
-abnormalities (Pauli, 1994; Saller, 1995). As shown in Table 35-1, however,
+> **Table 35-2:** Maternal Risk Factors and Estimated Stillbirth Rate
 
-the incidence of structural anomalies in the Stillbirth Collaborative Research
-Network (2011b) was only 14 percent.
+To help lower stillbirth rates, two major studies assessed whether risk factors could be identified either before or shortly after pregnancy confirmation. In the first, Reddy and colleagues (2010) analyzed data from the NICHD Consortium on Safe Labor. Briefly, the pregnancy outcomes of 206,969 women delivered between 2002 and 2008 at 19 hospitals in the United States were analyzed. When stillbirths were apportioned according to gestational age, most occurred primarily at term. These investigators concluded that their results did not support routine antenatal surveillance for any demographic risk factors. The second analysis of risk factors was included in the Stillbirth Collaborative Research Network study described earlier (2011a). The validity of stillbirth prediction was assessed based on risks identified in early pregnancy. They found that pregnancy factors known at the start of pregnancy accounted for only a small proportion of stillbirth risk. Indeed, except for prior stillbirth or pregnancy loss from causes such as preterm birth or fetal-growth restriction, other risks had limited predictive value. Prior stillbirth as a risk for recurrence has been emphasized by others (Lamont, 2015; Sharma, 2006). Specifically, the stillbirth risk was fivefold higher in women with a prior stillbirth. From another report, prior preterm birth, fetalgrowth restriction, preeclampsia, and placental abruption were strongly associated with subsequent stillbirth (Rasmussen, 2009).
 
-■ Laboratory Evaluation
-In the absence of anatomical dysmorphology, up to 5 percent of stillborn
-fetuses will have a chromosomal abnormality (Korteweg, 2008). Previously,
-karyotyping all stillborn fetuses was standard practice, but whole-genome
-sequencing—such as with chromosomal microarray analysis (CMA)—is
-now recommended for stillborns (American College of Obstetricians and
-Gynecologists, 2020; Holmes, 2018; Martinez-Portilla, 2019). Described
-further in Chapter 16 (p. 325), this technique does not require dividing cells.
-This is especially helpful because culturing of macerated fetal tissue is
-frequently unsuccessful (Reddy, 2012).
-Looking to the future, Stanley and associates (2020) evaluated exome
-sequencing in 246 unexplained stillbirths to search for disease-causing
-variants in the coding region of the genome. These investigators found that
-8.5 percent of stillbirths with a normal chromosomal microarray and without
-probable maternal or obstetrical causes were probably attributable to
-mendelian disorders. These findings suggest that a portion of stillbirth cases
-is caused by pathological variants in genes known to underlie disorders in
-infants and adults. In addition, a similar number of cases are caused by lossof-function variants in genes that are critical to in-utero survival but not
-currently known to be associated with stillbirth. Thus, the full phenotypic
-spectrum of many known mendelian disorders is not fully understood without
-the inclusion of cases resulting in stillbirth (Wojcik, 2020).
-To take fetal samples, a provider must obtain appropriate parental
-consent. Any type of fetal or placental tissue or amnionic fluid can be
-submitted for genetic testing using CMA (American College of Obstetricians
-and Gynecologists, 2018). Contamination with maternal tissue or blood is
-ideally avoided. Specimens are collected by sterile technique and kept at
-room temperature. If fetal blood cannot be withdrawn from the umbilical
-cord or heart, at least one of the following can be sent for testing: (1)
-placental block measuring 1 × 1 cm taken below the cord insertion site in a
-specimen not fixed in formalin; (2) 1.5-cm-long umbilical cord segment; or
-(3) internal fetal tissue sample from the costochondral junction, fascia lata,
-or patella. Tissue is washed with sterile saline and suspended in Ringer
+## Evaluation Of The Stillborn Fetus
 
-solution, or sterile cytogenetic medium. Formalin or alcohol kills viable
-cells.
-If conventional karyotyping is the only test available and the death is
-recent, amnionic fluid can be obtained by amniocentesis. This is particularly
-valuable if delivery is not expected imminently. As such, these cells provide
-a greater likelihood of cell growth and eventual results compared with tissue
-harvested after delivery.
-Maternal blood is obtained for Kleihauer-Betke staining; for
-antiphospholipid antibody and lupus anticoagulant testing if indicated; and
-for serum glucose measurement to exclude overt diabetes (Silver, 2013).
-Testing for syphilis is reasonable if no prior screen has been performed, if
-the patient has exposure risk factors, or if patient, fetus, or placenta show
-suggestive findings, described in Chapter 68 (p. 1208) (Page, 2017).
-Although some have recommended routine evaluation of heritable
-thrombophilias, no evidence supports the clinical efficiency of screening in
-an unselected population. Silver and colleagues (2016) found that most
-maternal and fetal thrombophilias were not associated with stillbirth and
-recommended against routine testing. This is echoed by the American
-College of Obstetricians and Gynecologists and the Society for MaternalFetal Medicine (2020).
+### Clinical Examination
 
-■ Placental Examination
-Gross and microscopical examination of the placenta, membranes, and cord
-by a perinatal pathologist is ideal. Numerous maternal and fetal disorders
-can be identified. Cord knotting and placental microvascular abnormalities
-are examples and discussed in Chapter 6 (p. 107). Implicated infections are
-described in Chapters 67 and 68.
+Determining the cause of fetal death aids maternal coping, helps assuage perceived guilt, permits more accurate counseling regarding recurrence risk, and may prompt intervention to prevent a recurrent outcome. Identification of inherited syndromes also assists other family members. Important tests include autopsy, chromosomal analysis, and pathological examination of the placenta, cord, and chorioamnionic membranes (Pinar, 2014). Page and coworkers (2017) found placental pathology and fetal autopsy to be the most useful. Clinically, the fetal weight, head circumference, and length and the placental weight are measured (Fig. 35-3). Photographs are taken of the
 
-■ Autopsy
-Parents are encouraged to allow a full autopsy, which is more likely to yield
-valuable data. Pinar and coworkers (2012) provide the autopsy protocol
-used by the Stillbirth Collaborative Research Network. An analysis of 400
-consecutive fetal deaths in Wales showed that autopsy altered the presumed
-cause of death in 13 percent and provided new data in another 26 percent
-(Cartlidge, 1995). Other investigators have found that autopsy results
+extremities and palms. Frontal plus profile views of the whole fetus and face also are obtained. A full radiograph of the fetus—a fetogram—may be performed (American College of Obstetricians and Gynecologists, 2020). Postnatal magnetic resonance (MR) imaging, radiographs, or sonography may be especially important if parents decline a full autopsy (McPherson, 2017; Shruthi, 2018). Findings are documented in the medical record, and relevant ante- and intrapartum events are delineated.
 
-changed the recurrence risk estimates and parental counseling in 25 to 50
-percent of cases (Faye-Petersen, 1999; Silver, 2007). Miller and associates
-(2016) reported that placental examination with autopsy altered future
-medical management in 45 percent of cases. Limited autopsy protocols can
-also yield valuable information. Of components, external examination
-combined with photography, radiography, MR imaging, bacterial cultures,
-and selective use of chromosomal and histopathological studies often aids
-determination.
-According to one survey, most hospitals do not audit stillbirths
-(Goldenberg, 2013). In other centers, including ours, maternal records and
-autopsy findings are reviewed monthly by a stillbirth committee composed of
-obstetricians, maternal-fetal medicine specialists, neonatologists, geneticists,
-and perinatal pathologists. If possible, the cause of death is assigned from
-available evidence. Most importantly, parents are then contacted and offered
-counseling regarding the cause of death, the potential recurrence risk, and
-possible strategies to avoid recurrence (Page, 2020).
+> **Figure 35-3:** Flow chart for stillbirth evaluation. APAS = antiphospholipid antibody syndrome; KB = Kleihauer-Betke; MR = magnetic resonance; SLE = systemic lupus erythematosus. (From American College of Obstetricians and Gynecologists, 2020; Page, 2017, 2018.)
 
-PERINATAL CARE
-Fetal death is psychologically traumatic for a woman and her family. Further
-stressors include an interval of more than 24 hours between the diagnosis of
-fetal death and labor induction; not seeing her neonate for as long as she
-desires; having no tokens of remembrance; and poor communication with
-caregivers (Heazell, 2016; Siassakos, 2018). Seeing and holding a stillborn
-neonate assists parental psychological well-being (Kingdon, 2015).
-Unfortunately, few obstetrical providers receive formal training in perinatal
-bereavement care (Nuzum, 2014). At Parkland Hospital, care is coordinated
-through a dedicated nursing team affiliated with labor and delivery.
-Intervention includes time with the neonate, keepsake items, photographs,
-chaplaincy consultation, and bereavement support information. These
-principles dovetail with the recent global consensus recommendations for
-bereavement care (Shakespeare, 2020). A woman experiencing a stillbirth or
-early miscarriage is at increased risk for depression and posttraumatic stress
-disorder and should be closely monitored (Nelson, 2013) (Chap. 64, p.
-1145).
-Distinct from stillbirth, fetuses with life-limiting conditions and short
-survival also merit special consideration. Conceptually, perinatal palliative
+The reported incidence of fetal anomalies varies. For example, FayePetersen and colleagues (1999) reported that if autopsy and chromosomal studies are performed, up to 35 percent of stillborn fetuses were discovered to have major structural anomalies. Approximately 20 percent had dysmorphic features or skeletal anomalies, and 8 percent had chromosomal abnormalities (Pauli, 1994; Saller, 1995). As shown in Table 35-1, however,
 
-care provides obstetrical and neonatal care to maximize the comfort and
-quality of life for these newborns (American College of Obstetricians and
-Gynecologists, 2019). Components of this care include review of the
-diagnosis, creation of a birth plan, bereavement counseling, and consultation
-with neonatal services. This care is typically provided by a team that is able
-to offer medical, psychological, and spiritual support. During planning,
-parents’ values, goals, and fears are a focus.
+the incidence of structural anomalies in the Stillbirth Collaborative Research Network (2011b) was only 14 percent.
 
-PRIOR STILLBIRTH
+### Laboratory Evaluation
+
+In the absence of anatomical dysmorphology, up to 5 percent of stillborn fetuses will have a chromosomal abnormality (Korteweg, 2008). Previously, karyotyping all stillborn fetuses was standard practice, but whole-genome sequencing—such as with chromosomal microarray analysis (CMA)—is now recommended for stillborns (American College of Obstetricians and Gynecologists, 2020; Holmes, 2018; Martinez-Portilla, 2019). Described further in Chapter 16 (p. 325), this technique does not require dividing cells. This is especially helpful because culturing of macerated fetal tissue is frequently unsuccessful (Reddy, 2012). Looking to the future, Stanley and associates (2020) evaluated exome sequencing in 246 unexplained stillbirths to search for disease-causing variants in the coding region of the genome. These investigators found that 8.5 percent of stillbirths with a normal chromosomal microarray and without probable maternal or obstetrical causes were probably attributable to mendelian disorders. These findings suggest that a portion of stillbirth cases is caused by pathological variants in genes known to underlie disorders in infants and adults. In addition, a similar number of cases are caused by lossof-function variants in genes that are critical to in-utero survival but not currently known to be associated with stillbirth. Thus, the full phenotypic spectrum of many known mendelian disorders is not fully understood without the inclusion of cases resulting in stillbirth (Wojcik, 2020). To take fetal samples, a provider must obtain appropriate parental consent. Any type of fetal or placental tissue or amnionic fluid can be submitted for genetic testing using CMA (American College of Obstetricians and Gynecologists, 2018). Contamination with maternal tissue or blood is ideally avoided. Specimens are collected by sterile technique and kept at room temperature. If fetal blood cannot be withdrawn from the umbilical cord or heart, at least one of the following can be sent for testing: (1) placental block measuring 1 × 1 cm taken below the cord insertion site in a specimen not fixed in formalin; (2) 1.5-cm-long umbilical cord segment; or (3) internal fetal tissue sample from the costochondral junction, fascia lata, or patella. Tissue is washed with sterile saline and suspended in Ringer
+
+solution, or sterile cytogenetic medium. Formalin or alcohol kills viable cells. If conventional karyotyping is the only test available and the death is recent, amnionic fluid can be obtained by amniocentesis. This is particularly valuable if delivery is not expected imminently. As such, these cells provide a greater likelihood of cell growth and eventual results compared with tissue harvested after delivery. Maternal blood is obtained for Kleihauer-Betke staining; for antiphospholipid antibody and lupus anticoagulant testing if indicated; and for serum glucose measurement to exclude overt diabetes (Silver, 2013). Testing for syphilis is reasonable if no prior screen has been performed, if the patient has exposure risk factors, or if patient, fetus, or placenta show suggestive findings, described in Chapter 68 (p. 1208) (Page, 2017). Although some have recommended routine evaluation of heritable thrombophilias, no evidence supports the clinical efficiency of screening in an unselected population. Silver and colleagues (2016) found that most maternal and fetal thrombophilias were not associated with stillbirth and recommended against routine testing. This is echoed by the American College of Obstetricians and Gynecologists and the Society for MaternalFetal Medicine (2020).
+
+### Placental Examination
+
+Gross and microscopical examination of the placenta, membranes, and cord by a perinatal pathologist is ideal. Numerous maternal and fetal disorders can be identified. Cord knotting and placental microvascular abnormalities are examples and discussed in Chapter 6 (p. 107). Implicated infections are described in Chapters 67 and 68.
+
+### Autopsy
+
+Parents are encouraged to allow a full autopsy, which is more likely to yield valuable data. Pinar and coworkers (2012) provide the autopsy protocol used by the Stillbirth Collaborative Research Network. An analysis of 400 consecutive fetal deaths in Wales showed that autopsy altered the presumed cause of death in 13 percent and provided new data in another 26 percent (Cartlidge, 1995). Other investigators have found that autopsy results
+
+changed the recurrence risk estimates and parental counseling in 25 to 50 percent of cases (Faye-Petersen, 1999; Silver, 2007). Miller and associates (2016) reported that placental examination with autopsy altered future medical management in 45 percent of cases. Limited autopsy protocols can also yield valuable information. Of components, external examination combined with photography, radiography, MR imaging, bacterial cultures, and selective use of chromosomal and histopathological studies often aids determination. According to one survey, most hospitals do not audit stillbirths (Goldenberg, 2013). In other centers, including ours, maternal records and autopsy findings are reviewed monthly by a stillbirth committee composed of obstetricians, maternal-fetal medicine specialists, neonatologists, geneticists, and perinatal pathologists. If possible, the cause of death is assigned from available evidence. Most importantly, parents are then contacted and offered counseling regarding the cause of death, the potential recurrence risk, and possible strategies to avoid recurrence (Page, 2020).
+
+## Perinatal Care
+
+Fetal death is psychologically traumatic for a woman and her family. Further stressors include an interval of more than 24 hours between the diagnosis of fetal death and labor induction; not seeing her neonate for as long as she desires; having no tokens of remembrance; and poor communication with caregivers (Heazell, 2016; Siassakos, 2018). Seeing and holding a stillborn neonate assists parental psychological well-being (Kingdon, 2015). Unfortunately, few obstetrical providers receive formal training in perinatal bereavement care (Nuzum, 2014). At Parkland Hospital, care is coordinated through a dedicated nursing team affiliated with labor and delivery. Intervention includes time with the neonate, keepsake items, photographs, chaplaincy consultation, and bereavement support information. These principles dovetail with the recent global consensus recommendations for bereavement care (Shakespeare, 2020). A woman experiencing a stillbirth or early miscarriage is at increased risk for depression and posttraumatic stress disorder and should be closely monitored (Nelson, 2013) (Chap. 64, p. 1145). Distinct from stillbirth, fetuses with life-limiting conditions and short survival also merit special consideration. Conceptually, perinatal palliative
+
+care provides obstetrical and neonatal care to maximize the comfort and quality of life for these newborns (American College of Obstetricians and Gynecologists, 2019). Components of this care include review of the diagnosis, creation of a birth plan, bereavement counseling, and consultation with neonatal services. This care is typically provided by a team that is able to offer medical, psychological, and spiritual support. During planning, parents’ values, goals, and fears are a focus.
+
+## Prior Stillbirth
+
 The woman with a prior stillbirth has a substantial risk for a recurrence (see
-Table 35-2). Preterm or growth-restricted stillborn fetuses magnify this risk
-(Malacova, 2018). In one cohort of 43 women with a recurrent stillbirth,
-most fetuses died before 28 weeks’ gestation (Fig. 35-4) (Whitham, 2020).
 
-FIGURE 35-4 Stillbirth Collaborative Research Network: gestational age distribution of recurrent
-stillbirths.
+> **Table 35-2:** ). Preterm or growth-restricted stillborn fetuses magnify this risk (Malacova, 2018). In one cohort of 43 women with a recurrent stillbirth, most fetuses died before 28 weeks’ gestation (Fig. 35-4) (Whitham, 2020).
 
-An outlined approach for women with a prior stillbirth is shown in Table
-35-3. Importantly, these recommendations are based primarily on limited or
+> **Figure 35-4:** Stillbirth Collaborative Research Network: gestational age distribution of recurrent stillbirths.
 
-inconsistent scientific evidence or on expert opinions. Few studies address
-management of affected women (Wojcieszek, 2018a).
-TABLE 35-3. Management of Subsequent Pregnancy after Stillbirth
+An outlined approach for women with a prior stillbirth is shown in Table 35-3. Importantly, these recommendations are based primarily on limited or
 
-Very few risk factors for stillbirth are modifiable (Whitham, 2020).
-Intuitively some such as hypertension or diabetes warrant disease-specific
-prevention strategies. Women with a prior fetal death due to placental
-insufficiency also are at increased risk for subsequent adverse perinatal
-outcomes (Monari, 2016). According to Reddy (2007), almost half of fetal
-deaths are associated with growth restriction, and thus sonographic
-anatomical assessment beginning at midpregnancy is recommended. This is
-followed by serial growth studies beginning at 28 weeks. Detection of
-growth restriction may lead to iatrogenic prematurity and its associated longterm childhood consequences but to fewer intrauterine deaths (Andreasen,
-2021).
-Weeks and associates (1995) evaluated fetal biophysical testing in 300
-women whose only indication was prior stillbirth. There was one subsequent
-stillbirth, and only three fetuses had abnormal testing results before 32
-weeks. Notably, the gestational age of the prior stillborn fetus did not relate
-to the incidence or timing of abnormal test results or fetal jeopardy in the
-subsequent pregnancy. These investigators concluded that antepartum
-surveillance should begin at 32 weeks’ gestation or later in the otherwise
-healthy woman with a history of stillbirth. The American College of
-Obstetricians and Gynecologists and the Society for Maternal-Fetal
-Medicine (2020) support this, with the caveat that it increases the iatrogenic
-preterm delivery rate. Although fetal movement counting strategies are
-routinely employed and described in Chapter 20 (p. 384), few data guide its
-use in clinical practice for those with a prior stillbirth (Mangesi, 2015).
-Unless other indications intervene, delivery at 39 weeks’ gestation is
-recommended. This timing minimizes fetal mortality rates, although the
+inconsistent scientific evidence or on expert opinions. Few studies address management of affected women (Wojcieszek, 2018a).
 
-degree of risk reduction may be greater for older women (Page, 2013). Labor
-induction is suitable, and cesarean delivery is reserved for those with a
-contraindication to induction.
+> **Table 35-3:** Management of Subsequent Pregnancy after Stillbirth
 
-CHANGES IN STILLBIRTH RATES
-As noted, following declines through 2011, the United States fetal mortality
-rate has changed little (Middleton, 2018). Interpretation of these rates in the
-context of changing healthcare strategies has spawned debate. One example
-is the trend against nonmedically indicated deliveries before 39 weeks’
-gestation and its subsequent effect on term stillbirth rates (Middleton, 2018).
-This practice’s value for neonatal outcome is described in Chapter 26 (p.
-486). To analyze whether implementation of this 39-week rule has altered the
-term stillbirth rate, data from 45 states and the District of Columbia were
-examined (Nicholson, 2016). The proportion of births before 39 weeks
-progressively declined from 2007 and 2013, but the term stillbirth rate
-increased. This suggests that the 39-week rule may cause unintended harm.
-One review of studies with 15 million pregnancies showed that the
-prospective risk of stillbirth rose from 0.11 per 1000 births at 37 weeks to
-3.18 per 1000 births at 42 weeks (Muglu, 2019).
-MacDorman and associates (2015b) also evaluated trends in stillbirth
-rates by gestational ages in the United States between 2006 and 2012. They
-used a “traditional stillbirth rate,” which was calculated using a denominator
-composed of the live-birth number plus the stillbirth number at a given
-gestational age. They found increased rates at 24 to 27, 34 to 36, and 38
-weeks’ gestation. Alternatively, no differences were found in “prospective
-stillbirth rates.” These rates were calculated using a denominator composed
-of the number of women who are pregnant at a given gestational age for
-weeks 21 through 42. The discrepancies in stillbirth rates appear to
-primarily derive from the decline in the birth numbers in the preterm and
-early-term gestational ages.
-In sum, implementation of the 39-week rule has reduced the number of
-elective births before 39 weeks’ gestation, although an unintended
-consequence may be an increase in term stillbirths—especially among
-women with medical complications. The importance of induction before 39
-weeks in pregnant women with complications to prevent stillbirth is
-underscored by Little and colleagues (2015). These authors performed a
+Very few risk factors for stillbirth are modifiable (Whitham, 2020). Intuitively some such as hypertension or diabetes warrant disease-specific prevention strategies. Women with a prior fetal death due to placental insufficiency also are at increased risk for subsequent adverse perinatal outcomes (Monari, 2016). According to Reddy (2007), almost half of fetal deaths are associated with growth restriction, and thus sonographic anatomical assessment beginning at midpregnancy is recommended. This is followed by serial growth studies beginning at 28 weeks. Detection of growth restriction may lead to iatrogenic prematurity and its associated longterm childhood consequences but to fewer intrauterine deaths (Andreasen, 2021). Weeks and associates (1995) evaluated fetal biophysical testing in 300 women whose only indication was prior stillbirth. There was one subsequent stillbirth, and only three fetuses had abnormal testing results before 32 weeks. Notably, the gestational age of the prior stillborn fetus did not relate to the incidence or timing of abnormal test results or fetal jeopardy in the subsequent pregnancy. These investigators concluded that antepartum surveillance should begin at 32 weeks’ gestation or later in the otherwise healthy woman with a history of stillbirth. The American College of Obstetricians and Gynecologists and the Society for Maternal-Fetal Medicine (2020) support this, with the caveat that it increases the iatrogenic preterm delivery rate. Although fetal movement counting strategies are routinely employed and described in Chapter 20 (p. 384), few data guide its use in clinical practice for those with a prior stillbirth (Mangesi, 2015). Unless other indications intervene, delivery at 39 weeks’ gestation is recommended. This timing minimizes fetal mortality rates, although the
 
-retrospective multistate analysis of early-term deliveries—370/7 to 386/7
-weeks—from 2005 to 2011. They noted a decline in the number of early-term
-deliveries during this time but not a significant change in the term stillbirth
-rates. There was, however, a 25-percent rise in the rate of term, singleton
-stillbirths among women with diabetes, and this was attributed to clinicians
-misapplying early-term delivery policies to high-risk women. Undoubtedly,
-continued surveillance of stillbirth rates is warranted for both high- and lowrisk pregnancies at the state and national level.
+degree of risk reduction may be greater for older women (Page, 2013). Labor induction is suitable, and cesarean delivery is reserved for those with a contraindication to induction.
 
-REFERENCES
-Adhikari EH, Moreno W, Zofkie AC, et al: Pregnancy outcomes among women with and without severe
-acute respiratory syndrome coronavirus 2 infection. JAMA Netw Open 3(11): e2029256, 2020
-American College of Obstetricians and Gynecologists: Prenatal diagnostic testing for genetic disorders.
-Practice Bulletin No. 162, May 2016, Reaffirmed 2018
-American College of Obstetricians and Gynecologists: Perinatal palliative care. Committee Opinion No.
-786, August 2019
-American College of Obstetricians and Gynecologists, Society for Maternal-Fetal Medicine:
-Management of stillbirth. Obstetric Care Consensus No. 10, February 2020
-Andreasen LA, Tabor A, Nøgaard LN, et al: Detection of growth-restricted fetuses during pregnancy is
-associated with fewer intrauterine deaths but increased adverse childhood outcomes: an
-observational study. BJOG 128(1):77, 2021
-Blencowe H, Cousens S, Bianchi JF, et al: National, regional, and worldwide estimates of stillbirth rates
-in 2015, with trends from 2000: a systematic analysis. Lancet Glob Health 4(2):e98, 2016
-Brackett EE, Hall ES, DeFranco EA, et al: Factors associated with occurrence of stillbirth before 32
-weeks of gestation in a contemporary cohort. Am J Perinatol July 31, 2020 [Epub ahead of print]
-Cartlidge PH, Stewart JH: Effect of changing the stillbirth definition on evaluation of perinatal mortality
-rates. Lancet 346:486, 1995
-Faye-Petersen OM, Guinn DA, Wenstrom KD: Value of perinatal autopsy. Obstet Gynecol 94(6):915,
-1999
-Fretts RC: Etiology and prevention of stillbirth. Am J Obstet Gynecol 193(6):1923, 2005
-Goldenberg RL, Farrow V, McClure EM, et al: Stillbirth: knowledge and practice among U.S.
-obstetrician-gynecologists. Am J Perinatol 30(10):813, 2013
-Gregory EC, Drake P, Martin JA: Lack of change in perinatal mortality in the United States, 2014–2016.
-NCHS Data Brief, August 2018
-Healy AJ, Malone FD, Sullivan LM, et al: Early access to prenatal care: implications for racial disparity
-in perinatal mortality. Obstet Gynecol 107(3):625, 2006
-Heazell AEP, Siassakos D, Blencowe H, et al: Stillbirths: economic and psychosocial consequences.
-Lancet 387(10018):604, 2016
-Holmes LB, Nasri H, Beroukhim R, et al: Stillborn infants: associated malformations. Birth Defects Res
-110(2):114, 2018
-Hu YJ, Wake M, Saffery R: Clarifying the sweeping consequences of COVID-19 in pregnant women,
-newborns, and children with existing cohorts. JAMA Pediatr 175(2):117, 2021
+## Changes In Stillbirth Rates
 
-Khalil A, von Dadelszen P, Draycott T, et al: Change in the incidence of stillbirth and preterm delivery
-during the COVID-19 pandemic. JAMA 324(7):705, 2020
-Kingdon C, Givens JL, O’Donnell E, et al: Seeing and holding Baby: systematic review of clinical
-management and parental outcomes after stillbirth. Birth 42(3):206, 2015
-Korlesky C, McPherson E: Early demise of twins in a cohort of stillbirths and second trimester
-miscarriages. Am J Med Genet A 179(3):350, 2019
-Korteweg FJ, Bouman K, Erwich JJ, et al: Cytogenetic analysis after evaluation of 750 fetal deaths.
-Obstet Gynecol 111:865, 2008
-Lamont K, Scott NW, Jones GT, et al: Risk of recurrent stillbirth: systematic review and meta-analysis.
-BMJ 350:h3080, 2015
-Lawn JE, Blencowe H, Waiswa P, et al: Stillbirths: rates, risk factors, and acceleration towards 2030.
-Lancet 387(10018):587, 2016
-Lehner C, Harry A, Pelecanos A, et al: The feasibility of a clinical audit tool to investigate stillbirth in
-Australia–a single centre experience. Aust N Z J Obstet Gynaecol 59(1):59, 2019
-Leisher SH, International Stillbirth Alliance: COVID-19 and maternal and perinatal outcomes Lancet
-Glob Health 9(8):e1061, 2021
-Little SE, Zera CA, Clapp MA, et al: A multi-state analysis of early-term delivery trends and the
-association with term stillbirth. Obstet Gynecol 126(6):1138, 2015
-MacDorman MF, Gregory EC: Fetal and perinatal mortality, United States, 2013. Natl Vital Stat Rep
-64(8):1, 2015a
-MacDorman MF, Reddy UM, Silver RM: Trends in stillbirth by gestational age in the United States,
-2006–2012. Obstet Gynecol 126(6):1146, 2015b
-Malacova E, Regan A, Nassar N, et al: Risk of stillbirth, preterm delivery, and fetal growth restriction
-following exposure in a previous birth: systematic review and meta-analysis. BJOG 125(2):183, 2018
-Mangesi L, Hofmeyr GJ, Smith V, et al: Fetal movement counting for assessment of fetal wellbeing.
-Cochrane Database Syst Rev 10:CD004909, 2015
-Martinez-Portilla RJ, Pauta M, Hawkins-Villarreal A, et al: Added value of chromosomal microarray
-analysis over conventional karyotyping in stillbirth work-up: systematic review and meta-analysis.
-Ultrasound Obstet Gynecol 53(5):590, 2019
-McPherson E, Nestoridi E, Heinke D, et al: Alternatives to autopsy for fetal and early neonatal
-(perinatal) deaths: insights from the Wisconsin stillbirth service program. Birth Defects Res
-109(18):1430, 2017
-Middleton P, Shepherd E, Crowther CA: Induction of labour for improving birth outcomes for women at
-or beyond term. Cochrane Database Syst Rev 5:CD004945, 2018
-Miller ES, Minturn L, Linn R, et al: Stillbirth evaluation: a stepwise assessment of placental pathology
-and autopsy. Am J Obstet Gynecol 214:115, 2016
-Monari F, Pedrielli G, Vergani P, et al: Adverse perinatal outcome in subsequent pregnancy after stillbirth
-by placental vascular disorders. PLoS One 11(5):e0155761, 2016
-Muglu J, Rather H, Arroyo-Manzano D, et al: Risks of stillbirth and neonatal death with advancing
-gestation at term: a systematic review and meta-analysis of cohort studies of 15 million pregnancies.
-PLoS Med 16(7):e1002838, 2019
-Nelson DB, Freeman MP, Johnson NL, et al: A prospective study of postpartum depression in 17,648
-parturients. J Matern Fetal Neonatal Med 26(12):1155, 2013
-Nicholson JM, Kellar LC, Ahmad S, et al: US term stillbirth rates and the 39-week rule: a cause for
-concern? Am J Obstet Gynecol 214:621, 2016
+As noted, following declines through 2011, the United States fetal mortality rate has changed little (Middleton, 2018). Interpretation of these rates in the context of changing healthcare strategies has spawned debate. One example is the trend against nonmedically indicated deliveries before 39 weeks’ gestation and its subsequent effect on term stillbirth rates (Middleton, 2018). This practice’s value for neonatal outcome is described in Chapter 26 (p. 486). To analyze whether implementation of this 39-week rule has altered the term stillbirth rate, data from 45 states and the District of Columbia were examined (Nicholson, 2016). The proportion of births before 39 weeks progressively declined from 2007 and 2013, but the term stillbirth rate increased. This suggests that the 39-week rule may cause unintended harm. One review of studies with 15 million pregnancies showed that the prospective risk of stillbirth rose from 0.11 per 1000 births at 37 weeks to 3.18 per 1000 births at 42 weeks (Muglu, 2019). MacDorman and associates (2015b) also evaluated trends in stillbirth rates by gestational ages in the United States between 2006 and 2012. They used a “traditional stillbirth rate,” which was calculated using a denominator composed of the live-birth number plus the stillbirth number at a given gestational age. They found increased rates at 24 to 27, 34 to 36, and 38 weeks’ gestation. Alternatively, no differences were found in “prospective stillbirth rates.” These rates were calculated using a denominator composed of the number of women who are pregnant at a given gestational age for weeks 21 through 42. The discrepancies in stillbirth rates appear to primarily derive from the decline in the birth numbers in the preterm and early-term gestational ages. In sum, implementation of the 39-week rule has reduced the number of elective births before 39 weeks’ gestation, although an unintended consequence may be an increase in term stillbirths—especially among women with medical complications. The importance of induction before 39 weeks in pregnant women with complications to prevent stillbirth is underscored by Little and colleagues (2015). These authors performed a
 
-Nuzum D, Meaney S, O’Donoghue K: The impact of stillbirth on consultant obstetrician gynaecologists:
-a qualitative study. BJOG 121:1020, 2014
-Page JM, Christiansen-Lindquist L, Thorsten V, et al: Diagnostic tests for evaluation of stillbirth: results
-from the Stillbirth Collaborative Research Network. Obstet Gynecol 129(4):699, 2017
-Page JM, Silver RM: Evaluation of stillbirth. Curr Opin Obstet Gynecol 30:130, 2018
-Page JM, Silver RM: Stillbirth: evaluation and follow-up. Obstet Gynecol Clin North Am 47(3):439, 2020
-Page JM, Snowden JM, Cheng YW, et al: The risk of stillbirth and infant death by each additional week
-of expectant management stratified by maternal age. Am J Obstet Gynecol 209(4):375.e1, 2013
-Pauli RM, Reiser CA: Wisconsin Stillbirth Service Program: II. Analysis of diagnoses and diagnostic
-categories in the first 1,000 referrals. Am J Med Genet 50:135, 1994
-Pinar H, Goldenberg RL, Koch MA, et al: Placental findings in singleton stillbirths. Obstet Gynecol
-123:325, 2014
-Pinar H, Koch MA, Hawkins H, et al: The stillbirth collaborative research network postmortem
-examination protocol. Am J Perinatol 29:187, 2012
-Rasmussen S, Irgens LM, Skjaerven R, et al: Prior adverse pregnancy outcome and the risk of stillbirth.
-Obstet Gynecol 114(6):1259, 2009
-Rasmussen SA, Jamieson DJ: Caring for women who are planning a pregnancy, pregnant, or
-postpartum during the COVID-19 pandemic. JAMA 324(2):190, 2020
-Reddy UM: Prediction and prevention of recurrent stillbirth. Obstet Gynecol 110:1151, 2007
-Reddy UM, Laughon SK, Sun L, et al: Prepregnancy risk factors for antepartum stillbirth in the United
-States. Obstet Gynecol 116:1119, 2010
-Reddy UM, Page GP, Saade GR, et al: Karyotype versus microarray testing for genetic abnormalities
-after stillbirth. N Engl J Med 367(23):2185, 2012
-Rosenstein MG, Snowden JM, Cheng YW, et al: The mortality risk of expectant management compared
-with delivery stratified by gestational age and race and ethnicity. Am J Obstet Gynecol
-211(6):660.e1, 2014
-Saller DN Jr, Lesser KB, Harrel U, et al: The clinical utility of the perinatal autopsy. JAMA 273:663,
-1995
-Shakespeare C, Merriel A, Bakhbakhi D, et al: The RESPECT Study for consensus on global
-bereavement care after stillbirth. Int J Gynaecol Obstet 149(2):137, 2020
-Sharma PP, Salihu HM, Oyelese Y, et al: Is race a determinant of stillbirth recurrence? Obstet Gynecol
-107(2 Pt 1):391, 2006
-Shruthi M, Gupta N, Jana M, et al: Comparative study of conventional and virtual autopsy using
-postmortem MRI in the phenotypic characterization of stillbirths and malformed fetuses. Ultrasound
-Obstet Gynecol 51(2):236, 2018
-Siassakos D, Jackson S, Gleeson K, et al: All bereaved parents are entitled to good care after stillbirth: a
-mixed-methods multicentre study (INSIGHT). BJOG 125(2):160, 2018
-Silver RM: Examining the link between placental pathology, growth restriction, and stillbirth. Best Pract
-Res Clin Obstet Gynaecol 49:89, 2018
-Silver RM: Fetal death. Obstet Gynecol 109:153, 2007
-Silver RM, Parker CB, Reddy UM, et al: Antiphospholipid antibodies in stillbirth. Obstet Gynecol
-122(3):641, 2013
-Silver RM, Saade GR, Thorsten V, et al: Factor V Leiden prothrombin G20210A, and methylene
-tetrahydrofolate reductase mutations and stillbirth: the Stillbirth Collaborative Research Network.
-Am J Obstet Gynecol 215:468, 2016
+retrospective multistate analysis of early-term deliveries—370/7 to 386/7 weeks—from 2005 to 2011. They noted a decline in the number of early-term deliveries during this time but not a significant change in the term stillbirth rates. There was, however, a 25-percent rise in the rate of term, singleton stillbirths among women with diabetes, and this was attributed to clinicians misapplying early-term delivery policies to high-risk women. Undoubtedly, continued surveillance of stillbirth rates is warranted for both high- and lowrisk pregnancies at the state and national level.
 
-Simon E, Cottenet J, Mariet AS, et al: Impact of the COVID-19 pandemic on preterm birth and stillbirth:
-a nationwide, population-based retrospective cohort study. Am J Obstet Gynecol 225(3):347, 2021
-Son SL, Allshouse AA, Page JM, et al: Stillbirth and fetal anomalies: secondary analysis of a casecontrol study BJOG 128(2):252, 2021a
-Son M, Gallagher K, Lo JY, et al: Coronavirus disease 2019 (COVID-19) pandemic and pregnancy
-outcomes in a U.S. population. Obstet Gynecol 138(4):542, 2021b
-Srivastava K. Covid-19: why has India had a spike in stillbirths? BMJ 374:n2133, 2021
-Stanley KE, Giordano J, Throsten V, et al: Causal genetic variants in stillbirth. N Engl J Med
-383(12):1107, 2020
-Stillbirth Collaborative Research Network Writing Group: Association between stillbirth and risk factors
-known at pregnancy confirmation. JAMA 306(22):2469, 2011a
-Stillbirth Collaborative Research Network Writing Group: Causes of death among stillbirths. JAMA
-306(22):2459, 2011b
-Varner JW, Silver RM, Rowland Hogue CJ, et al: Association between stillbirth and illicit drug use and
-smoking during pregnancy. Obstet Gynecol 123:113, 2014
-Weeks JW, Asrat T, Morgan MA, et al: Antepartum surveillance for a history of stillbirth: when to
-begin? Am J Obstet Gynecol 172:486, 1995
-Whitman M, Gammon E, Chronister BC, et al: Risk factors for recurrent stillbirth (SB): results from the
-Stillbirth Collaborative Research Network (SCRN). Abstract No. 161, Am J Obstet Gynecol
-222:S116 2020
-Wojcieszek AM, Shepherd E, Middleton P, et al: Care prior to and during subsequent pregnancies
-following stillbirth for improving outcomes. Cochrane Database Syst Rev 12:CD012203, 2018a
-Wojcieszek AM, Shepherd, Middleton P, et al: Interventions for investigating and identifying the causes
-of stillbirth. Cochrane Database Syst Rev 4:CD012504, 2018b
-Wojcik M: Genomic insights into stillbirth. N Engl J Med 383(12):1182, 2020
+## References
 
-SECTION 10
+Adhikari EH, Moreno W, Zofkie AC, et al: Pregnancy outcomes among women with and without severe acute respiratory syndrome coronavirus 2 infection. JAMA Netw Open 3(11): e2029256, 2020 American College of Obstetricians and Gynecologists: Prenatal diagnostic testing for genetic disorders.
 
-THE PUERPERIUM
+**Practice Bulletin No.** 162, May 2016, Reaffirmed 2018 American College of Obstetricians and Gynecologists: Perinatal palliative care. Committee Opinion No. 786, August 2019 American College of Obstetricians and Gynecologists, Society for Maternal-Fetal Medicine: Management of stillbirth. Obstetric Care Consensus No. 10, February 2020 Andreasen LA, Tabor A, Nøgaard LN, et al: Detection of growth-restricted fetuses during pregnancy is associated with fewer intrauterine deaths but increased adverse childhood outcomes: an observational study. BJOG 128(1):77, 2021 Blencowe H, Cousens S, Bianchi JF, et al: National, regional, and worldwide estimates of stillbirth rates in 2015, with trends from 2000: a systematic analysis. Lancet Glob Health 4(2):e98, 2016 Brackett EE, Hall ES, DeFranco EA, et al: Factors associated with occurrence of stillbirth before 32 weeks of gestation in a contemporary cohort. Am J Perinatol July 31, 2020 [Epub ahead of print] Cartlidge PH, Stewart JH: Effect of changing the stillbirth definition on evaluation of perinatal mortality rates. Lancet 346:486, 1995 Faye-Petersen OM, Guinn DA, Wenstrom KD: Value of perinatal autopsy. Obstet Gynecol 94(6):915,
 
+## 1999
+
+Fretts RC: Etiology and prevention of stillbirth. Am J Obstet Gynecol 193(6):1923, 2005 Goldenberg RL, Farrow V, McClure EM, et al: Stillbirth: knowledge and practice among U.S. obstetrician-gynecologists. Am J Perinatol 30(10):813, 2013 Gregory EC, Drake P, Martin JA: Lack of change in perinatal mortality in the United States, 2014–2016. NCHS Data Brief, August 2018 Healy AJ, Malone FD, Sullivan LM, et al: Early access to prenatal care: implications for racial disparity in perinatal mortality. Obstet Gynecol 107(3):625, 2006 Heazell AEP, Siassakos D, Blencowe H, et al: Stillbirths: economic and psychosocial consequences. Lancet 387(10018):604, 2016 Holmes LB, Nasri H, Beroukhim R, et al: Stillborn infants: associated malformations. Birth Defects Res 110(2):114, 2018 Hu YJ, Wake M, Saffery R: Clarifying the sweeping consequences of COVID-19 in pregnant women, newborns, and children with existing cohorts. JAMA Pediatr 175(2):117, 2021
+
+Khalil A, von Dadelszen P, Draycott T, et al: Change in the incidence of stillbirth and preterm delivery during the COVID-19 pandemic. JAMA 324(7):705, 2020 Kingdon C, Givens JL, O’Donnell E, et al: Seeing and holding Baby: systematic review of clinical management and parental outcomes after stillbirth. Birth 42(3):206, 2015 Korlesky C, McPherson E: Early demise of twins in a cohort of stillbirths and second trimester miscarriages. Am J Med Genet A 179(3):350, 2019 Korteweg FJ, Bouman K, Erwich JJ, et al: Cytogenetic analysis after evaluation of 750 fetal deaths. Obstet Gynecol 111:865, 2008 Lamont K, Scott NW, Jones GT, et al: Risk of recurrent stillbirth: systematic review and meta-analysis. BMJ 350:h3080, 2015 Lawn JE, Blencowe H, Waiswa P, et al: Stillbirths: rates, risk factors, and acceleration towards 2030. Lancet 387(10018):587, 2016 Lehner C, Harry A, Pelecanos A, et al: The feasibility of a clinical audit tool to investigate stillbirth in Australia–a single centre experience. Aust N Z J Obstet Gynaecol 59(1):59, 2019 Leisher SH, International Stillbirth Alliance: COVID-19 and maternal and perinatal outcomes Lancet Glob Health 9(8):e1061, 2021 Little SE, Zera CA, Clapp MA, et al: A multi-state analysis of early-term delivery trends and the association with term stillbirth. Obstet Gynecol 126(6):1138, 2015 MacDorman MF, Gregory EC: Fetal and perinatal mortality, United States, 2013. Natl Vital Stat Rep 64(8):1, 2015a MacDorman MF, Reddy UM, Silver RM: Trends in stillbirth by gestational age in the United States, 2006–2012. Obstet Gynecol 126(6):1146, 2015b Malacova E, Regan A, Nassar N, et al: Risk of stillbirth, preterm delivery, and fetal growth restriction following exposure in a previous birth: systematic review and meta-analysis. BJOG 125(2):183, 2018 Mangesi L, Hofmeyr GJ, Smith V, et al: Fetal movement counting for assessment of fetal wellbeing. Cochrane Database Syst Rev 10:CD004909, 2015 Martinez-Portilla RJ, Pauta M, Hawkins-Villarreal A, et al: Added value of chromosomal microarray analysis over conventional karyotyping in stillbirth work-up: systematic review and meta-analysis. Ultrasound Obstet Gynecol 53(5):590, 2019 McPherson E, Nestoridi E, Heinke D, et al: Alternatives to autopsy for fetal and early neonatal (perinatal) deaths: insights from the Wisconsin stillbirth service program. Birth Defects Res 109(18):1430, 2017 Middleton P, Shepherd E, Crowther CA: Induction of labour for improving birth outcomes for women at or beyond term. Cochrane Database Syst Rev 5:CD004945, 2018 Miller ES, Minturn L, Linn R, et al: Stillbirth evaluation: a stepwise assessment of placental pathology and autopsy. Am J Obstet Gynecol 214:115, 2016 Monari F, Pedrielli G, Vergani P, et al: Adverse perinatal outcome in subsequent pregnancy after stillbirth by placental vascular disorders. PLoS One 11(5):e0155761, 2016 Muglu J, Rather H, Arroyo-Manzano D, et al: Risks of stillbirth and neonatal death with advancing gestation at term: a systematic review and meta-analysis of cohort studies of 15 million pregnancies. PLoS Med 16(7):e1002838, 2019 Nelson DB, Freeman MP, Johnson NL, et al: A prospective study of postpartum depression in 17,648 parturients. J Matern Fetal Neonatal Med 26(12):1155, 2013 Nicholson JM, Kellar LC, Ahmad S, et al: US term stillbirth rates and the 39-week rule: a cause for concern? Am J Obstet Gynecol 214:621, 2016
+
+Nuzum D, Meaney S, O’Donoghue K: The impact of stillbirth on consultant obstetrician gynaecologists: a qualitative study. BJOG 121:1020, 2014 Page JM, Christiansen-Lindquist L, Thorsten V, et al: Diagnostic tests for evaluation of stillbirth: results from the Stillbirth Collaborative Research Network. Obstet Gynecol 129(4):699, 2017 Page JM, Silver RM: Evaluation of stillbirth. Curr Opin Obstet Gynecol 30:130, 2018 Page JM, Silver RM: Stillbirth: evaluation and follow-up. Obstet Gynecol Clin North Am 47(3):439, 2020 Page JM, Snowden JM, Cheng YW, et al: The risk of stillbirth and infant death by each additional week of expectant management stratified by maternal age. Am J Obstet Gynecol 209(4):375.e1, 2013 Pauli RM, Reiser CA: Wisconsin Stillbirth Service Program: II. Analysis of diagnoses and diagnostic categories in the first 1,000 referrals. Am J Med Genet 50:135, 1994 Pinar H, Goldenberg RL, Koch MA, et al: Placental findings in singleton stillbirths. Obstet Gynecol 123:325, 2014 Pinar H, Koch MA, Hawkins H, et al: The stillbirth collaborative research network postmortem examination protocol. Am J Perinatol 29:187, 2012 Rasmussen S, Irgens LM, Skjaerven R, et al: Prior adverse pregnancy outcome and the risk of stillbirth. Obstet Gynecol 114(6):1259, 2009 Rasmussen SA, Jamieson DJ: Caring for women who are planning a pregnancy, pregnant, or postpartum during the COVID-19 pandemic. JAMA 324(2):190, 2020 Reddy UM: Prediction and prevention of recurrent stillbirth. Obstet Gynecol 110:1151, 2007 Reddy UM, Laughon SK, Sun L, et al: Prepregnancy risk factors for antepartum stillbirth in the United States. Obstet Gynecol 116:1119, 2010 Reddy UM, Page GP, Saade GR, et al: Karyotype versus microarray testing for genetic abnormalities after stillbirth. N Engl J Med 367(23):2185, 2012 Rosenstein MG, Snowden JM, Cheng YW, et al: The mortality risk of expectant management compared with delivery stratified by gestational age and race and ethnicity. Am J Obstet Gynecol 211(6):660.e1, 2014 Saller DN Jr, Lesser KB, Harrel U, et al: The clinical utility of the perinatal autopsy. JAMA 273:663,
+
+## 1995
+
+Shakespeare C, Merriel A, Bakhbakhi D, et al: The RESPECT Study for consensus on global bereavement care after stillbirth. Int J Gynaecol Obstet 149(2):137, 2020 Sharma PP, Salihu HM, Oyelese Y, et al: Is race a determinant of stillbirth recurrence? Obstet Gynecol 107(2 Pt 1):391, 2006 Shruthi M, Gupta N, Jana M, et al: Comparative study of conventional and virtual autopsy using postmortem MRI in the phenotypic characterization of stillbirths and malformed fetuses. Ultrasound Obstet Gynecol 51(2):236, 2018 Siassakos D, Jackson S, Gleeson K, et al: All bereaved parents are entitled to good care after stillbirth: a mixed-methods multicentre study (INSIGHT). BJOG 125(2):160, 2018 Silver RM: Examining the link between placental pathology, growth restriction, and stillbirth. Best Pract Res Clin Obstet Gynaecol 49:89, 2018 Silver RM: Fetal death. Obstet Gynecol 109:153, 2007 Silver RM, Parker CB, Reddy UM, et al: Antiphospholipid antibodies in stillbirth. Obstet Gynecol 122(3):641, 2013 Silver RM, Saade GR, Thorsten V, et al: Factor V Leiden prothrombin G20210A, and methylene tetrahydrofolate reductase mutations and stillbirth: the Stillbirth Collaborative Research Network. Am J Obstet Gynecol 215:468, 2016
+
+Simon E, Cottenet J, Mariet AS, et al: Impact of the COVID-19 pandemic on preterm birth and stillbirth: a nationwide, population-based retrospective cohort study. Am J Obstet Gynecol 225(3):347, 2021 Son SL, Allshouse AA, Page JM, et al: Stillbirth and fetal anomalies: secondary analysis of a casecontrol study BJOG 128(2):252, 2021a Son M, Gallagher K, Lo JY, et al: Coronavirus disease 2019 (COVID-19) pandemic and pregnancy outcomes in a U.S. population. Obstet Gynecol 138(4):542, 2021b Srivastava K. Covid-19: why has India had a spike in stillbirths? BMJ 374:n2133, 2021 Stanley KE, Giordano J, Throsten V, et al: Causal genetic variants in stillbirth. N Engl J Med 383(12):1107, 2020 Stillbirth Collaborative Research Network Writing Group: Association between stillbirth and risk factors known at pregnancy confirmation. JAMA 306(22):2469, 2011a Stillbirth Collaborative Research Network Writing Group: Causes of death among stillbirths. JAMA 306(22):2459, 2011b Varner JW, Silver RM, Rowland Hogue CJ, et al: Association between stillbirth and illicit drug use and smoking during pregnancy. Obstet Gynecol 123:113, 2014 Weeks JW, Asrat T, Morgan MA, et al: Antepartum surveillance for a history of stillbirth: when to begin? Am J Obstet Gynecol 172:486, 1995 Whitman M, Gammon E, Chronister BC, et al: Risk factors for recurrent stillbirth (SB): results from the Stillbirth Collaborative Research Network (SCRN). Abstract No. 161, Am J Obstet Gynecol 222:S116 2020 Wojcieszek AM, Shepherd E, Middleton P, et al: Care prior to and during subsequent pregnancies following stillbirth for improving outcomes. Cochrane Database Syst Rev 12:CD012203, 2018a Wojcieszek AM, Shepherd, Middleton P, et al: Interventions for investigating and identifying the causes of stillbirth. Cochrane Database Syst Rev 4:CD012504, 2018b Wojcik M: Genomic insights into stillbirth. N Engl J Med 383(12):1182, 2020
+
+## Section 10
+
+## The Puerperium

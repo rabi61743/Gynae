@@ -1,1218 +1,231 @@
-CHAPTER 19
+# Chapter 19: Fetal Therapy
 
-Fetal Therapy
+- Medical Therapy
+- Surgical Therapy
+- Open Fetal Surgery
+- Fetoscopic Surgery
+- Percutaneous Procedures
+- Ex-Utero Intrapartum Treatment
+- References
 
-MEDICAL THERAPY
-SURGICAL THERAPY
-OPEN FETAL SURGERY
-FETOSCOPIC SURGERY
-PERCUTANEOUS PROCEDURES
-EX-UTERO INTRAPARTUM TREATMENT
-REFERENCES
-Innovative treatments developed during the past three decades have
-dramatically altered the course of selected fetal anomalies and conditions.
-Over time, fetal interventions have become less invasive, and the number of
-fetal centers has expanded. The North American Fetal Therapy Network now
-includes 36 medical centers in the United States and Canada. Some of the
-fetal abnormalities and conditions amenable to either medical or surgical
-treatment are presented here. The management of fetal anemia and
-thrombocytopenia is reviewed in Chapter 18, and treatment of some fetal
-infections is discussed in Chapters 67 and 68.
+Innovative treatments developed during the past three decades have dramatically altered the course of selected fetal anomalies and conditions. Over time, fetal interventions have become less invasive, and the number of fetal centers has expanded. The North American Fetal Therapy Network now includes 36 medical centers in the United States and Canada. Some of the fetal abnormalities and conditions amenable to either medical or surgical treatment are presented here. The management of fetal anemia and thrombocytopenia is reviewed in Chapter 18, and treatment of some fetal infections is discussed in Chapters 67 and 68.
 
-MEDICAL THERAPY
+## Medical Therapy
 
-Selected medications administered to the pregnant woman are transported
-across the placenta in concentrations high enough to treat fetal conditions.
-Pregnancy physiology affects drug concentration, and transfer depends on
-maternal and placental metabolism (Chap. 8, p. 145).
+Selected medications administered to the pregnant woman are transported across the placenta in concentrations high enough to treat fetal conditions. Pregnancy physiology affects drug concentration, and transfer depends on maternal and placental metabolism (Chap. 8, p. 145).
 
-■ Arrhythmias
-Abnormal fetal cardiac rhythms are grouped into three categories:
-tachyarrhythmias, heart rates >180 beats per minute (bpm);
-bradyarrhythmias, heart rates <110 bpm; and ectopy, typically premature
-atrial contractions. If a fetal arrhythmia is suspected, M-mode ultrasound,
-described in Chapter 15 (p. 294), is used to measure the atrial and
-ventricular rates and to clarify the relationship between atrial and ventricular
-beats, thereby diagnosing the type of rhythm disturbance.
+### Arrhythmias
 
-Premature Atrial Contractions
-If the fetal heart rate is normal but the rhythm is irregular, the most common
-etiology is premature atrial contractions (PACs). These atrial ectopic beats
-are found in 1 to 2 percent of uncomplicated pregnancies (Hahurij, 2011;
-Strasburger, 2010). PACs represent immaturity of the cardiac conduction
-system. They typically resolve later in gestation or in the neonatal period.
-PACs are usually an isolated finding but may be associated with redundancy
-of the foramen ovale flap—formerly termed a foramen ovale aneurysm.
-When a PAC is conducted, an extra beat is heard with handheld Doppler.
-However, the premature contraction more commonly arrives at the
-atrioventricular node during the refractory period. This results in a
-compensatory pause, which sounds like a dropped beat. M-mode evaluation
-confirms the diagnosis (Fig. 15-46, p. 295).
-PACs may occur as frequently as every other beat, which means that the
-auscultated fetal heart rate may be as low as 60 to 80 bpm. Known as
-blocked atrial bigeminy, this condition is benign and does not require
-treatment (Strasburger, 2010). However, monitoring the fetus in labor may be
-challenging and necessitate cesarean delivery. M-mode ultrasound will
-differentiate atrial bigeminy from other causes of bradycardia, such as thirddegree atrioventricular block.
+Abnormal fetal cardiac rhythms are grouped into three categories: tachyarrhythmias, heart rates >180 beats per minute (bpm); bradyarrhythmias, heart rates <110 bpm; and ectopy, typically premature atrial contractions. If a fetal arrhythmia is suspected, M-mode ultrasound, described in Chapter 15 (p. 294), is used to measure the atrial and ventricular rates and to clarify the relationship between atrial and ventricular beats, thereby diagnosing the type of rhythm disturbance.
 
-Up to 2 percent of fetuses with PACs are later found to have
-supraventricular tachycardia (Copel, 2000; Srinivasan, 2008). Given the
-importance of prompt identification and treatment of supraventricular
-tachyarrhythmias, pregnancies with PACs are often monitored with fetal heart
-rate assessment every 1 to 2 weeks until the ectopy resolves. At Parkland
-Hospital, we find that auscultation with handheld Doppler is sufficient for
-surveillance.
+Premature Atrial Contractions If the fetal heart rate is normal but the rhythm is irregular, the most common etiology is premature atrial contractions (PACs). These atrial ectopic beats are found in 1 to 2 percent of uncomplicated pregnancies (Hahurij, 2011; Strasburger, 2010). PACs represent immaturity of the cardiac conduction system. They typically resolve later in gestation or in the neonatal period. PACs are usually an isolated finding but may be associated with redundancy of the foramen ovale flap—formerly termed a foramen ovale aneurysm. When a PAC is conducted, an extra beat is heard with handheld Doppler. However, the premature contraction more commonly arrives at the atrioventricular node during the refractory period. This results in a compensatory pause, which sounds like a dropped beat. M-mode evaluation confirms the diagnosis (Fig. 15-46, p. 295). PACs may occur as frequently as every other beat, which means that the auscultated fetal heart rate may be as low as 60 to 80 bpm. Known as blocked atrial bigeminy, this condition is benign and does not require treatment (Strasburger, 2010). However, monitoring the fetus in labor may be challenging and necessitate cesarean delivery. M-mode ultrasound will differentiate atrial bigeminy from other causes of bradycardia, such as thirddegree atrioventricular block.
 
-Tachyarrhythmias
-The two most common tachyarrhythmias are supraventricular tachycardia
-(SVT) and atrial flutter. SVT is characterized by an abrupt increase in the
-fetal heart rate to 180 to 300 bpm with 1:1 atrioventricular concordance (Fig.
-19-1). The typical range is 200 to 240 bpm. SVT may develop secondary to
-an ectopic focus or to an accessory atrioventricular pathway leading to a
-reentrant tachycardia. Atrial flutter is characterized by a much higher atrial
-rate, generally 300 to 500 bpm, with varying degrees of atrioventricular
-block. As a result, the ventricular rate in a fetus with atrial flutter may range
-from below normal to approximately 250 bpm (Fig. 19-2). In contrast, fetal
-sinus tachycardia typically presents with a gradual heart rate rise to a rate
-that is only slightly above normal. With this, readily discernible causes may
-be maternal fever or hyperthyroidism, or rarely, fetal anemia or infection.
+Up to 2 percent of fetuses with PACs are later found to have supraventricular tachycardia (Copel, 2000; Srinivasan, 2008). Given the importance of prompt identification and treatment of supraventricular tachyarrhythmias, pregnancies with PACs are often monitored with fetal heart rate assessment every 1 to 2 weeks until the ectopy resolves. At Parkland Hospital, we find that auscultation with handheld Doppler is sufficient for surveillance.
 
-FIGURE 19-1 Supraventricular tachycardia (SVT). This M-mode image at 20 weeks’ gestation
-demonstrates an initially normal fetal heartrate of 150 bpm. Midway through the image (arrow), the
-fetal heart rate suddenly increases to 240 bpm. With SVT, there is one atrial beat (A) for each
-ventricular beat (V).
+Tachyarrhythmias The two most common tachyarrhythmias are supraventricular tachycardia (SVT) and atrial flutter. SVT is characterized by an abrupt increase in the fetal heart rate to 180 to 300 bpm with 1:1 atrioventricular concordance (Fig. 19-1). The typical range is 200 to 240 bpm. SVT may develop secondary to an ectopic focus or to an accessory atrioventricular pathway leading to a reentrant tachycardia. Atrial flutter is characterized by a much higher atrial rate, generally 300 to 500 bpm, with varying degrees of atrioventricular block. As a result, the ventricular rate in a fetus with atrial flutter may range from below normal to approximately 250 bpm (Fig. 19-2). In contrast, fetal sinus tachycardia typically presents with a gradual heart rate rise to a rate that is only slightly above normal. With this, readily discernible causes may be maternal fever or hyperthyroidism, or rarely, fetal anemia or infection.
 
-FIGURE 19-2 Atrial flutter. In this M-mode image at 32 weeks’ gestation, calipers mark the
-ventricular rate, which is approximately 220 bpm. There are two atrial beats (A) for each ventricular
-beat (V), such that the atrial rate is approximately 440 bpm with 2:1 atrioventricular block.
+> **Figure 19-1:** Supraventricular tachycardia (SVT). This M-mode image at 20 weeks’ gestation demonstrates an initially normal fetal heartrate of 150 bpm. Midway through the image (arrow), the fetal heart rate suddenly increases to 240 bpm. With SVT, there is one atrial beat (A) for each ventricular beat (V).
 
-If a fetal tachyarrhythmia is identified, it is important to determine
-whether it is sustained—defined as present for at least 50 percent of the
-time. It may be necessary to monitor the fetal heart rate for 12 to 24 hours
-upon initial detection, and then periodically to reassess (Srinivasan, 2008).
-Unsustained or intermittent tachyarrhythmias may become sustained over
-time. Although intermittent tachyarrhythmias do not generally require
-treatment, close fetal surveillance is warranted.
-Sustained fetal tachyarrhythmias with ventricular rates exceeding 200
-bpm impair ventricular filling to a degree that the risks for developing
-cardiomyopathy and hydrops are significant. With atrial flutter, lack of
-coordinated atrioventricular contractions may further compound this risk.
-Maternal administration of antiarrhythmic agents that cross the placenta may
-convert the rhythm to normal or may lower the baseline heart rate to forestall
-heart failure. Therapy can require dosages at the upper end of the therapeutic
-adult range. Therefore, a maternal electrocardiogram is obtained before and
-during therapy. Monitoring of the maternal serum level may be necessary,
+> **Figure 19-2:** Atrial flutter. In this M-mode image at 32 weeks’ gestation, calipers mark the ventricular rate, which is approximately 220 bpm. There are two atrial beats (A) for each ventricular beat (V), such that the atrial rate is approximately 440 bpm with 2:1 atrioventricular block.
 
-particularly if the dosage requires titration. If medical therapy is successful,
-the medication is generally continued until delivery.
-Antiarrhythmic medications most commonly used include digoxin,
-flecainide, and sotalol. Their selection depends on the type of
-tachyarrhythmia and provider experience with the drug. Traditionally,
-digoxin was the initial preferred treatment, but its placental transfer may be
-poor in the setting of hydrops. Many centers now use flecainide or sotalol as
-first-line therapy (Ekiz, 2018; van der Heijden, 2013). A second agent is
-needed in more than 50 percent of cases (Jaeggi, 2011; O’Leary, 2020; Shah,
-2012). With treatment, conversion to a normal rhythm or reduction in heart
-rate to a normal range occurs in 90 percent, including 80 percent of those
-with hydrops (Miyoshi, 2019; Ueda, 2018). SVT is more likely than atrial
-flutter to convert to a normal rhythm. The neonatal survival rate exceeds 90
-percent (Ekman-Joelsson, 2015; Miyoshi, 2019; O’Leary, 2020; van der
-Heijden, 2013).
+If a fetal tachyarrhythmia is identified, it is important to determine whether it is sustained—defined as present for at least 50 percent of the time. It may be necessary to monitor the fetal heart rate for 12 to 24 hours upon initial detection, and then periodically to reassess (Srinivasan, 2008). Unsustained or intermittent tachyarrhythmias may become sustained over time. Although intermittent tachyarrhythmias do not generally require treatment, close fetal surveillance is warranted. Sustained fetal tachyarrhythmias with ventricular rates exceeding 200 bpm impair ventricular filling to a degree that the risks for developing cardiomyopathy and hydrops are significant. With atrial flutter, lack of coordinated atrioventricular contractions may further compound this risk. Maternal administration of antiarrhythmic agents that cross the placenta may convert the rhythm to normal or may lower the baseline heart rate to forestall heart failure. Therapy can require dosages at the upper end of the therapeutic adult range. Therefore, a maternal electrocardiogram is obtained before and during therapy. Monitoring of the maternal serum level may be necessary,
 
-Bradyarrhythmia
-The most common etiology of fetal bradycardia is congenital heart block.
-Approximately 50 percent of cases occur in the setting of a structural cardiac
-abnormality involving the conduction system. These include heterotaxy, in
-particular left-atrial isomerism; endocardial cushion defect; and less
-commonly corrected transposition of the great vessels (Srinivasan, 2008).
-The prognosis of heart block from a structural cardiac anomaly is extremely
-poor, and fetal loss rates exceed 80 percent (Glatz, 2008; Strasburger, 2010).
-In a structurally normal heart, 85 percent of atrioventricular block cases
-are caused by transplacental passage of maternal anti-SSA/Ro or antiSSB/La antibodies (Buyon, 2009). Many of these women have, or
-subsequently develop, systemic lupus erythematosus or other autoimmune
-disease (Chap. 62, p. 1113). The risk of third-degree heart block with Ro
-antibodies is small—only approximately 2 percent. However, the risk may
-reach 20 percent if a prior infant has been affected. Immune-mediated
-congenital heart block confers a mortality rate of nearly 20 percent, requires
-permanent pacing in two thirds of surviving children, and also poses a risk
-for cardiomyopathy (Brito-Zeron, 2015; Izmirly, 2011). If associated with
-effusions, bradyarrhythmias, or endocardial fibroelastosis, neonatal status
-may progressively worsen after birth.
+particularly if the dosage requires titration. If medical therapy is successful, the medication is generally continued until delivery. Antiarrhythmic medications most commonly used include digoxin, flecainide, and sotalol. Their selection depends on the type of tachyarrhythmia and provider experience with the drug. Traditionally, digoxin was the initial preferred treatment, but its placental transfer may be poor in the setting of hydrops. Many centers now use flecainide or sotalol as first-line therapy (Ekiz, 2018; van der Heijden, 2013). A second agent is needed in more than 50 percent of cases (Jaeggi, 2011; O’Leary, 2020; Shah, 2012). With treatment, conversion to a normal rhythm or reduction in heart rate to a normal range occurs in 90 percent, including 80 percent of those with hydrops (Miyoshi, 2019; Ueda, 2018). SVT is more likely than atrial flutter to convert to a normal rhythm. The neonatal survival rate exceeds 90 percent (Ekman-Joelsson, 2015; Miyoshi, 2019; O’Leary, 2020; van der Heijden, 2013).
 
-Research has focused on maternal corticosteroid therapy to potentially
-reverse fetal heart block or to forestall it. In the PR Interval and
-Dexamethasone (PRIDE) study, a multicenter trial of pregnancies with antiSSA/Ro antibodies, Friedman and colleagues (2008, 2009) performed
-weekly fetal echocardiography to assess for development of heart block.
-Fetal heart block was treated with maternal oral dexamethasone, 4 mg daily.
-Unfortunately, therapy did not prevent progression from second- to thirddegree block, and third-degree atrioventricular block was irreversible. In
-rare cases, there was a potential benefit in reversing first-degree
-atrioventricular block. However, first-degree block did not generally
-progress even without treatment. Similarly, a subsequent review of
-pregnancies with isolated second- or third-degree fetal heart block found that
-dexamethasone therapy did not affect disease progression, need for
-pacemaker in the neonatal period, or overall survival rates (Izmirly, 2016).
-Despite considerable enthusiasm for corticosteroid treatment, a systematic
-review of more than 700 pregnancies with treated fetal heart block
-demonstrated no improvement in fetal or neonatal morbidity or mortality
-rates (Michael, 2019). Thus, we do not recommend dexamethasone use for
-this indication.
-More recent efforts have turned to potential therapy with
-hydroxychloroquine (Plaquenil), a mainstay of treatment for systemic lupus
-erythematosus (Chap. 62, p. 1112). In a review of more than 250 women with
-prior affected children, early treatment with hydroxychloroquine was
-associated with a significant decrease in recurrence of congenital heart block
-(Izmirly, 2012). A subsequent clinical trial found that treatment with
-hydroxychloroquine was associated with a greater than 50-percent reduction
-in the rate of fetal heart block (Izmirly, 2020). In each of these series, fewer
-than 8 percent of children from pregnancies treated with hydroxychloroquine
-experienced heart block. Research in this area is ongoing.
-Maternal terbutaline has also been given in small cohorts with either
-alloimmune- or heterotaxy-mediated fetal heart block in which the fetal heart
-rate is persistently below 56 bpm. The terbutaline dosage is titrated to a
-maternal heart rate of 95 to 115 bpm. Fetal heart rate increases of 5 to 10
-bpm have been reported, but resolution of hydrops has not been consistently
-demonstrated (Cuneo, 2007, 2010).
+Bradyarrhythmia The most common etiology of fetal bradycardia is congenital heart block. Approximately 50 percent of cases occur in the setting of a structural cardiac abnormality involving the conduction system. These include heterotaxy, in particular left-atrial isomerism; endocardial cushion defect; and less commonly corrected transposition of the great vessels (Srinivasan, 2008). The prognosis of heart block from a structural cardiac anomaly is extremely poor, and fetal loss rates exceed 80 percent (Glatz, 2008; Strasburger, 2010). In a structurally normal heart, 85 percent of atrioventricular block cases are caused by transplacental passage of maternal anti-SSA/Ro or antiSSB/La antibodies (Buyon, 2009). Many of these women have, or subsequently develop, systemic lupus erythematosus or other autoimmune disease (Chap. 62, p. 1113). The risk of third-degree heart block with Ro antibodies is small—only approximately 2 percent. However, the risk may reach 20 percent if a prior infant has been affected. Immune-mediated congenital heart block confers a mortality rate of nearly 20 percent, requires permanent pacing in two thirds of surviving children, and also poses a risk for cardiomyopathy (Brito-Zeron, 2015; Izmirly, 2011). If associated with effusions, bradyarrhythmias, or endocardial fibroelastosis, neonatal status may progressively worsen after birth.
 
-■ Congenital Adrenal Hyperplasia
-Several autosomal recessive enzyme deficiencies impair fetal synthesis of
-cortisol from cholesterol by the adrenal cortex, leading to congenital adrenal
-hyperplasia (CAH). CAH is the most common etiology of androgen excess in
-those with 46,XX disorders of sex development (Chap. 3, p. 38). Lack of
-cortisol stimulates adrenocorticotrophic hormone (ACTH) secretion by the
-anterior pituitary, overproduction of androstenedione and testosterone, and
-subsequent virilization of female fetuses. Sequelae may include formation of
-labioscrotal folds, persistence of a urogenital sinus, or even creation of a
-penile urethra and scrotal sac (Fig. 15-55, p. 299).
-More than 90 percent of CAH cases are caused by 21-hydroxylase
-deficiency. There are two types: classic and nonclassic. The incidence of
-classic CAH approximates 1 in 15,000 births worldwide but is higher in
-selected populations. Among Yupik Eskimos, the reported incidence is 1 in
-300 births (Nimkarn, 2016). Of those with classic CAH, 75 percent require
-postnatal treatment with mineralocorticoids and glucocorticoids to prevent a
-salt-wasting adrenal crisis, which is characterized by hyponatremia,
-dehydration, hypotension, and even cardiovascular collapse. The remaining
-25 percent with classic CAH have the simple virilizing type and also require
-glucocorticoid supplementation. Nonclassic CAH may present with
-precocious pubarche, hirsutism, or infertility. However, affected individuals
-also may be asymptomatic. The prevalence of nonclassic CAH approximates
-1 case per 200 Caucasians and Ashkenazi Jews in the United States (HannahShmouni, 2017). As discussed in Chapter 32 (p.594), all states mandate
-newborn screening for CAH.
-For more than three decades, dexamethasone has been administered to the
-pregnant woman to suppress fetal androgen overproduction and either
-obviate or ameliorate virilization of female fetuses (David, 1984; New,
-2012). Prenatal corticosteroid therapy is successful in most cases if initiated
-early and taken consistently. One metaanalysis found that dexamethasone
-treatment was associated with reduced virilization. Specifically, the Prader
-score, which grades genital masculinization on a scale 1 to 5, improved by
-2.3 grades (Fernandez-Balselis, 2010). The alternative is consideration of
-postnatal genitoplasty, which may include clitoroplasty, urogenital sinus
-surgery, and additional vaginoplasty procedures. In a recent review, 18
-percent of children treated with feminizing genitoplasty experienced
+Research has focused on maternal corticosteroid therapy to potentially reverse fetal heart block or to forestall it. In the PR Interval and Dexamethasone (PRIDE) study, a multicenter trial of pregnancies with antiSSA/Ro antibodies, Friedman and colleagues (2008, 2009) performed weekly fetal echocardiography to assess for development of heart block. Fetal heart block was treated with maternal oral dexamethasone, 4 mg daily. Unfortunately, therapy did not prevent progression from second- to thirddegree block, and third-degree atrioventricular block was irreversible. In rare cases, there was a potential benefit in reversing first-degree atrioventricular block. However, first-degree block did not generally progress even without treatment. Similarly, a subsequent review of pregnancies with isolated second- or third-degree fetal heart block found that dexamethasone therapy did not affect disease progression, need for pacemaker in the neonatal period, or overall survival rates (Izmirly, 2016). Despite considerable enthusiasm for corticosteroid treatment, a systematic review of more than 700 pregnancies with treated fetal heart block demonstrated no improvement in fetal or neonatal morbidity or mortality rates (Michael, 2019). Thus, we do not recommend dexamethasone use for this indication. More recent efforts have turned to potential therapy with hydroxychloroquine (Plaquenil), a mainstay of treatment for systemic lupus erythematosus (Chap. 62, p. 1112). In a review of more than 250 women with prior affected children, early treatment with hydroxychloroquine was associated with a significant decrease in recurrence of congenital heart block (Izmirly, 2012). A subsequent clinical trial found that treatment with hydroxychloroquine was associated with a greater than 50-percent reduction in the rate of fetal heart block (Izmirly, 2020). In each of these series, fewer than 8 percent of children from pregnancies treated with hydroxychloroquine experienced heart block. Research in this area is ongoing. Maternal terbutaline has also been given in small cohorts with either alloimmune- or heterotaxy-mediated fetal heart block in which the fetal heart rate is persistently below 56 bpm. The terbutaline dosage is titrated to a maternal heart rate of 95 to 115 bpm. Fetal heart rate increases of 5 to 10 bpm have been reported, but resolution of hydrops has not been consistently demonstrated (Cuneo, 2007, 2010).
 
-postoperative complications, and 12 percent required further surgery
-(Baskin, 2020).
-The typical preventive regimen is oral dexamethasone given to the
-mother at a dosage of 20 μg/kg/d—up to 1.5 mg per day, divided in three
-doses. The critical period for external genitalia development is 7 to 12
-weeks’ gestation, and treatment to prevent virilization should be initiated by
-9 weeks—before it is known whether the fetus is affected. Because this is
-an autosomal recessive condition, affected females make up only 1 in 8 atrisk conceptions.
-Carrier parents are typically identified after the birth of an affected child.
-Molecular genetic testing is clinically available in such cases and initially
-uses sequence analysis of the CYP21A2 gene, which encodes the 21hydroxylase enzyme (Nimkarn, 2016). If this is uninformative, gene-targeted
-deletion/duplication analysis is performed, and additional testing such as
-whole exome sequencing may be considered (Chap. 16, p. 327).
-A goal of prenatal diagnosis is to limit dexamethasone exposure in males
-and in unaffected females. If both parents are determined to be carriers,
-prenatal molecular genetic testing may be performed on chorionic villi—at
-10 to 12 weeks’ gestation—or on amniocytes after 15 weeks. Determination
-of fetal gender using cell-free DNA (cfDNA) may aid in avoiding
-dexamethasone treatment. CfDNA sensitivity to detect Y-chromosome
-sequences is at least 95 percent when performed at or beyond 7 weeks
-(Devaney, 2011; Hill, 2011). In the research setting, effective cfDNA testing
-using hybridization probes flanking the CYP21A2 gene has been reported as
-early as 56/7 weeks’ gestation (New, 2014).
-Maternal treatment with dexamethasone has become controversial. The
-Endocrine Society recommends that treatment be given only in the context of
-research protocols (Speiser, 2018). It further recommends that such protocols
-incorporate cfDNA screening for the Y-chromosome to avoid treatment of
-male fetuses. Of note, if therapy is initiated shortly before 9 weeks’
-gestation, the dose of dexamethasone used is not considered to have
-significant teratogenic potential because organogenesis of major organs has
-already taken place (McCullough, 2010). Ongoing concerns focus on the
-potential effects of either excess endogenous androgens or excess exogenous
-dexamethasone on the developing brain. Although maternal dexamethasone
-has been used for many years to prevent virilization of female fetuses with
-CAH, long-term safety data are relatively limited.
+### Congenital Adrenal Hyperplasia
 
-■ Congenital Cystic Adenomatoid Malformation
-This well-circumscribed lung mass may appear solid and echogenic or may
-have one or multiple variably sized cysts (Fig. 15-33, p. 288). Lesions with
-one or more cysts ≥5 mm are termed macrocystic, whereas solid lesions and
-those with smaller cysts are microcystic (Adzick, 1985). A small subset of
-microcystic congenital cystic adenomatoid malformations (CCAMs) may
-demonstrate rapid growth, generally between 18 and 26 weeks’ gestation.
-The mass may become so large that it causes mediastinal shift, which may
-compromise cardiac output and venous return, leading to hydrops (Cavoretto,
-2008).
-A CCAM-volume ratio (CVR) has been used to quantify size and risk for
-hydrops in these severe cases (Crombleholme, 2002). This ratio is an
-estimate of the CCAM volume using the formula for a prolate ellipse (length
-× width × height × π/6) divided by the head circumference. In a series of 40
-pregnancies with microcystic CCAM, the mean CVR was 0.5 at 20 weeks’
-gestation, peaked at 1.0 by 26 weeks, and then declined sharply before
-delivery (Macardle, 2016). With a CVR exceeding 1.6, the risk for hydrops
-is as high as 60 percent. However, if the initial CVR is below 1.6, CCAM
-growth resulting in hydrops develops in fewer than 2 percent of cases
-(Ehrenberg-Buchner, 2013; Peranteau, 2016).
-A CVR threshold of 1.0 also may assist counseling. In a series of 62
-pregnancies with fetal lung masses, a maximal CVR >1.0 was associated
-with a 75-percent likelihood that the neonate would be symptomatic
-(Ehrenberg-Buchner, 2013). However, no fetus with a CVR ≤1.0
-subsequently required surgery in the newborn period.
-If the CVR exceeds 1.6 or if signs of hydrops develop, corticosteroid
-treatment may be beneficial. Regimens include dexamethasone—6.25 mg
-every 12 hours for four doses, or betamethasone—12.5 mg intramuscularly
-every 24 hours for two doses. A single course of corticosteroids has been
-associated with resolution of hydrops in approximately 80 percent of cases,
-and 90 percent of treated fetuses survived (Loh, 2012; Peranteau, 2016).
-Multiple courses of corticosteroids—generally two—have been advocated
-for fetuses with large CCAM lesions and with persistent or worsening
-hydrops or ascites despite a single course of medication (Derderian, 2015;
-Peranteau, 2016). Therapy for macrocystic CCAM is discussed later.
+Several autosomal recessive enzyme deficiencies impair fetal synthesis of cortisol from cholesterol by the adrenal cortex, leading to congenital adrenal hyperplasia (CAH). CAH is the most common etiology of androgen excess in those with 46,XX disorders of sex development (Chap. 3, p. 38). Lack of cortisol stimulates adrenocorticotrophic hormone (ACTH) secretion by the anterior pituitary, overproduction of androstenedione and testosterone, and subsequent virilization of female fetuses. Sequelae may include formation of labioscrotal folds, persistence of a urogenital sinus, or even creation of a penile urethra and scrotal sac (Fig. 15-55, p. 299). More than 90 percent of CAH cases are caused by 21-hydroxylase deficiency. There are two types: classic and nonclassic. The incidence of classic CAH approximates 1 in 15,000 births worldwide but is higher in selected populations. Among Yupik Eskimos, the reported incidence is 1 in 300 births (Nimkarn, 2016). Of those with classic CAH, 75 percent require postnatal treatment with mineralocorticoids and glucocorticoids to prevent a salt-wasting adrenal crisis, which is characterized by hyponatremia, dehydration, hypotension, and even cardiovascular collapse. The remaining 25 percent with classic CAH have the simple virilizing type and also require glucocorticoid supplementation. Nonclassic CAH may present with precocious pubarche, hirsutism, or infertility. However, affected individuals also may be asymptomatic. The prevalence of nonclassic CAH approximates 1 case per 200 Caucasians and Ashkenazi Jews in the United States (HannahShmouni, 2017). As discussed in Chapter 32 (p.594), all states mandate newborn screening for CAH. For more than three decades, dexamethasone has been administered to the pregnant woman to suppress fetal androgen overproduction and either obviate or ameliorate virilization of female fetuses (David, 1984; New, 2012). Prenatal corticosteroid therapy is successful in most cases if initiated early and taken consistently. One metaanalysis found that dexamethasone treatment was associated with reduced virilization. Specifically, the Prader score, which grades genital masculinization on a scale 1 to 5, improved by 2.3 grades (Fernandez-Balselis, 2010). The alternative is consideration of postnatal genitoplasty, which may include clitoroplasty, urogenital sinus surgery, and additional vaginoplasty procedures. In a recent review, 18 percent of children treated with feminizing genitoplasty experienced
 
-■ Thyroid Disease
-Identification of fetal thyroid disease is rare and is usually prompted by
-sonographic detection of a fetal goiter. If a goiter is identified, determination
-of fetal hyper- or hypothyroidism is essential, and thyroid hormone levels
-should be measured in amnionic fluid or fetal blood. Traditionally, fetal
-blood sampling was preferred to amniocentesis for guiding treatment, but
-data are limited (Abuhamad, 1995; Ribault, 2009). Performance of these
-procedures is discussed in Chapter 17 (p. 347). Goals of therapy are
-correction of the physiological abnormality and diminished goiter size. The
-goiter may compress the trachea and esophagus, leading to hydramnios from
-impaired swallowing. Despite this, case reports attest to lack of airway
-compromise and favorable outcomes (Blumenfeld, 2013; Machado, 2019).
+postoperative complications, and 12 percent required further surgery (Baskin, 2020). The typical preventive regimen is oral dexamethasone given to the mother at a dosage of 20 μg/kg/d—up to 1.5 mg per day, divided in three doses. The critical period for external genitalia development is 7 to 12 weeks’ gestation, and treatment to prevent virilization should be initiated by 9 weeks—before it is known whether the fetus is affected. Because this is an autosomal recessive condition, affected females make up only 1 in 8 atrisk conceptions. Carrier parents are typically identified after the birth of an affected child. Molecular genetic testing is clinically available in such cases and initially uses sequence analysis of the CYP21A2 gene, which encodes the 21hydroxylase enzyme (Nimkarn, 2016). If this is uninformative, gene-targeted deletion/duplication analysis is performed, and additional testing such as whole exome sequencing may be considered (Chap. 16, p. 327). A goal of prenatal diagnosis is to limit dexamethasone exposure in males and in unaffected females. If both parents are determined to be carriers, prenatal molecular genetic testing may be performed on chorionic villi—at 10 to 12 weeks’ gestation—or on amniocytes after 15 weeks. Determination of fetal gender using cell-free DNA (cfDNA) may aid in avoiding dexamethasone treatment. CfDNA sensitivity to detect Y-chromosome sequences is at least 95 percent when performed at or beyond 7 weeks (Devaney, 2011; Hill, 2011). In the research setting, effective cfDNA testing using hybridization probes flanking the CYP21A2 gene has been reported as early as 56/7 weeks’ gestation (New, 2014). Maternal treatment with dexamethasone has become controversial. The Endocrine Society recommends that treatment be given only in the context of research protocols (Speiser, 2018). It further recommends that such protocols incorporate cfDNA screening for the Y-chromosome to avoid treatment of male fetuses. Of note, if therapy is initiated shortly before 9 weeks’ gestation, the dose of dexamethasone used is not considered to have significant teratogenic potential because organogenesis of major organs has already taken place (McCullough, 2010). Ongoing concerns focus on the potential effects of either excess endogenous androgens or excess exogenous dexamethasone on the developing brain. Although maternal dexamethasone has been used for many years to prevent virilization of female fetuses with CAH, long-term safety data are relatively limited.
 
-Thyrotoxicosis
-Maternal Graves disease may result in transplacental passage of
-immunoglobulin G (IgG) thyroid-stimulating antibodies. Untreated fetal
-thyrotoxicosis can present with goiter, tachycardia, growth restriction,
-hydramnios, accelerated bone maturation, and even heart failure and hydrops
-(Huel, 2009; Kiefer, 2017; Peleg, 2002; van Dijk, 2018). Fetal blood
-sampling may be considered to confirm the diagnosis (Duncombe, 2001;
-Srisupundit, 2008). Maternal administration of antithyroid medication may be
-needed, even if the woman has had prior surgery or ablation and no longer
-has hyperthyroidism. If the pregnant women develops hypothyroidism, she is
-treated with supplemental levothyroxine (Hui, 2011).
+### Congenital Cystic Adenomatoid Malformation
 
-Hypothyroidism
-In a woman receiving medication for Graves disease, transplacental passage
-of methimazole or propylthiouracil may cause fetal hypothyroidism (Bliddal,
-2011). Other potential causes of fetal hypothyroidism resulting in goiter
-include transplacental passage of thyroid peroxidase antibodies, fetal thyroid
-dyshormonogenesis, and maternal consumption of iodine supplements
-(Agrawal, 2002; Hardley, 2018; Overcash, 2016).
-Goitrous hypothyroidism may lead to hydramnios, neck hyperextension,
-and delayed bone maturation. Treatment with intraamnionic levothyroxine
-should be considered. Optimal dosage and frequency have not been
-established but have typically ranged from 150 to 500 μg every 1 to 4 weeks
+This well-circumscribed lung mass may appear solid and echogenic or may have one or multiple variably sized cysts (Fig. 15-33, p. 288). Lesions with one or more cysts ≥5 mm are termed macrocystic, whereas solid lesions and those with smaller cysts are microcystic (Adzick, 1985). A small subset of microcystic congenital cystic adenomatoid malformations (CCAMs) may demonstrate rapid growth, generally between 18 and 26 weeks’ gestation. The mass may become so large that it causes mediastinal shift, which may compromise cardiac output and venous return, leading to hydrops (Cavoretto, 2008). A CCAM-volume ratio (CVR) has been used to quantify size and risk for hydrops in these severe cases (Crombleholme, 2002). This ratio is an estimate of the CCAM volume using the formula for a prolate ellipse (length × width × height × π/6) divided by the head circumference. In a series of 40 pregnancies with microcystic CCAM, the mean CVR was 0.5 at 20 weeks’ gestation, peaked at 1.0 by 26 weeks, and then declined sharply before delivery (Macardle, 2016). With a CVR exceeding 1.6, the risk for hydrops is as high as 60 percent. However, if the initial CVR is below 1.6, CCAM growth resulting in hydrops develops in fewer than 2 percent of cases (Ehrenberg-Buchner, 2013; Peranteau, 2016). A CVR threshold of 1.0 also may assist counseling. In a series of 62 pregnancies with fetal lung masses, a maximal CVR >1.0 was associated with a 75-percent likelihood that the neonate would be symptomatic (Ehrenberg-Buchner, 2013). However, no fetus with a CVR ≤1.0 subsequently required surgery in the newborn period. If the CVR exceeds 1.6 or if signs of hydrops develop, corticosteroid treatment may be beneficial. Regimens include dexamethasone—6.25 mg every 12 hours for four doses, or betamethasone—12.5 mg intramuscularly every 24 hours for two doses. A single course of corticosteroids has been associated with resolution of hydrops in approximately 80 percent of cases, and 90 percent of treated fetuses survived (Loh, 2012; Peranteau, 2016). Multiple courses of corticosteroids—generally two—have been advocated for fetuses with large CCAM lesions and with persistent or worsening hydrops or ascites despite a single course of medication (Derderian, 2015; Peranteau, 2016). Therapy for macrocystic CCAM is discussed later.
 
-(Machado, 2019; Nemescu, 2020; Ribault, 2009). If the pregnant woman is
-receiving antithyroid medication, it is generally discontinued.
+### Thyroid Disease
 
-SURGICAL THERAPY
-Fetal surgery, also called maternal-fetal surgery, is offered for selected
-congenital abnormalities in which the likelihood of deterioration during
-gestation is so great that delaying treatment until after delivery would risk
-fetal death or substantially greater postnatal morbidity. Fetal surgical
-procedures are highly specialized interventions performed at relatively few
-centers to treat a small number of fetal conditions. They require extensive
-preoperative counseling and multidisciplinary care. Principles for guiding
-case selection are listed in Table 19-1. When considering fetal surgery, the
-overriding concern is the safety of the mother and fetus. Accomplishing the
-fetal goals of the procedure is secondary (Walsh, 2011).
-TABLE 19-1. Guiding Principles for Fetal Surgical Procedures
+Identification of fetal thyroid disease is rare and is usually prompted by sonographic detection of a fetal goiter. If a goiter is identified, determination of fetal hyper- or hypothyroidism is essential, and thyroid hormone levels should be measured in amnionic fluid or fetal blood. Traditionally, fetal blood sampling was preferred to amniocentesis for guiding treatment, but data are limited (Abuhamad, 1995; Ribault, 2009). Performance of these procedures is discussed in Chapter 17 (p. 347). Goals of therapy are correction of the physiological abnormality and diminished goiter size. The goiter may compress the trachea and esophagus, leading to hydramnios from impaired swallowing. Despite this, case reports attest to lack of airway compromise and favorable outcomes (Blumenfeld, 2013; Machado, 2019).
+
+Thyrotoxicosis Maternal Graves disease may result in transplacental passage of immunoglobulin G (IgG) thyroid-stimulating antibodies. Untreated fetal thyrotoxicosis can present with goiter, tachycardia, growth restriction, hydramnios, accelerated bone maturation, and even heart failure and hydrops (Huel, 2009; Kiefer, 2017; Peleg, 2002; van Dijk, 2018). Fetal blood sampling may be considered to confirm the diagnosis (Duncombe, 2001; Srisupundit, 2008). Maternal administration of antithyroid medication may be needed, even if the woman has had prior surgery or ablation and no longer has hyperthyroidism. If the pregnant women develops hypothyroidism, she is treated with supplemental levothyroxine (Hui, 2011).
+
+Hypothyroidism In a woman receiving medication for Graves disease, transplacental passage of methimazole or propylthiouracil may cause fetal hypothyroidism (Bliddal, 2011). Other potential causes of fetal hypothyroidism resulting in goiter include transplacental passage of thyroid peroxidase antibodies, fetal thyroid dyshormonogenesis, and maternal consumption of iodine supplements (Agrawal, 2002; Hardley, 2018; Overcash, 2016). Goitrous hypothyroidism may lead to hydramnios, neck hyperextension, and delayed bone maturation. Treatment with intraamnionic levothyroxine should be considered. Optimal dosage and frequency have not been established but have typically ranged from 150 to 500 μg every 1 to 4 weeks
+
+(Machado, 2019; Nemescu, 2020; Ribault, 2009). If the pregnant woman is receiving antithyroid medication, it is generally discontinued.
+
+## Surgical Therapy
+
+Fetal surgery, also called maternal-fetal surgery, is offered for selected congenital abnormalities in which the likelihood of deterioration during gestation is so great that delaying treatment until after delivery would risk fetal death or substantially greater postnatal morbidity. Fetal surgical procedures are highly specialized interventions performed at relatively few centers to treat a small number of fetal conditions. They require extensive preoperative counseling and multidisciplinary care. Principles for guiding case selection are listed in Table 19-1. When considering fetal surgery, the overriding concern is the safety of the mother and fetus. Accomplishing the fetal goals of the procedure is secondary (Walsh, 2011).
+
+> **Table 19-1:** Guiding Principles for Fetal Surgical Procedures
 
 Selected abnormalities amenable to fetal surgical treatment are shown in
-Table 19-2. An overview of some of these procedures, their indications, and
-complications is provided here to assist with initial patient evaluation and
-counseling. Additional content is also found in Cunningham and Gilstrap’s
-Operative Obstetrics, 3rd edition.
-TABLE 19-2. Selected Fetal and Placental Abnormalities Amenable to InUtero Procedures
 
-■ Open Fetal Surgery
-Fetal procedures are considered open if they are accomplished though a
-hysterotomy that is not performed for the purpose of delivery. Open
-procedures are performed under general endotracheal anesthesia to suppress
-uterine contractions and fetal responses. The hysterotomy is made with a
-stapling device, and intraoperative ultrasound is used to avoid the placental
-edge and to verify fetal position. The stapler seals the edges of the
-myometrium and membranes to achieve hemostasis and avoid chorioamnion
-separation. Warmed fluid is continuously infused into the uterus thorough a
-rapid infusion device to limit cord compression. The fetus is gently
-manipulated to facilitate exposure, to permit pulse oximetry monitoring, and
-to establish venous access in case fluids or blood are emergently needed.
-The surgical procedure is then performed, and the hysterotomy is closed.
-Prophylactic antibiotics are generally administered for 24 hours. Tocolysis
-typically includes intravenous magnesium sulfate for 24 hours and oral
-indomethacin for 48 hours. Cesarean delivery is needed later in gestation and
-for all future deliveries.
+> **Table 19-2:** An overview of some of these procedures, their indications, and complications is provided here to assist with initial patient evaluation and counseling. Additional content is also found in Cunningham and Gilstrap’s Operative Obstetrics, 3rd edition. TABLE 19-2. Selected Fetal and Placental Abnormalities Amenable to InUtero Procedures
 
-Risks
-Open fetal surgery entails significant maternal and fetal risks. The most
-recent data are from studies of fetal myelomeningocele repair, which is the
-most commonly performed procedure. Morbidities identified in the
-Management of Myelomeningocele Study (MOMS) are shown in Table 19-3
-(Adzick, 2011). In a review of 26 open fetal myelomeningocele cases, 15
-percent experienced preterm rupture of membranes, and the mean gestational
-age at delivery was 35 weeks (Pruthi, 2021). Other potential risks include
-maternal sepsis and fetal death during or following the procedure,
-particularly if hydrops is present. Wilson and associates (2010) reviewed
-subsequent pregnancy outcomes following open fetal surgery and reported
-that 14 percent of women experienced uterine rupture and 14 percent had
-uterine dehiscence.
+### Open Fetal Surgery
 
-TABLE 19-3. Benefits and Risks of Fetal Myelomeningocele Surgery
-versus Postnatal Repair
+Fetal procedures are considered open if they are accomplished though a hysterotomy that is not performed for the purpose of delivery. Open procedures are performed under general endotracheal anesthesia to suppress uterine contractions and fetal responses. The hysterotomy is made with a stapling device, and intraoperative ultrasound is used to avoid the placental edge and to verify fetal position. The stapler seals the edges of the myometrium and membranes to achieve hemostasis and avoid chorioamnion separation. Warmed fluid is continuously infused into the uterus thorough a rapid infusion device to limit cord compression. The fetus is gently manipulated to facilitate exposure, to permit pulse oximetry monitoring, and to establish venous access in case fluids or blood are emergently needed. The surgical procedure is then performed, and the hysterotomy is closed. Prophylactic antibiotics are generally administered for 24 hours. Tocolysis typically includes intravenous magnesium sulfate for 24 hours and oral indomethacin for 48 hours. Cesarean delivery is needed later in gestation and for all future deliveries.
 
-Myelomeningocele Surgery
-Fetal myelomeningocele is the first nonlethal birth defect for which in-utero
-repair has been offered (Fig. 19-3). Following standard postnatal
-myelomeningocele repair, affected children experience varying degrees of
-paralysis, bladder and bowel dysfunction, developmental delays, and
-brainstem dysfunction from the Arnold-Chiari II malformation (Chap. 15, p.
-277). Damage is postulated to result from abnormal embryonic neurulation
-followed by exposure of neural elements to amnionic fluid throughout
-pregnancy (Adzick, 2010; Meuli, 1995, 1997).
+Risks Open fetal surgery entails significant maternal and fetal risks. The most recent data are from studies of fetal myelomeningocele repair, which is the most commonly performed procedure. Morbidities identified in the Management of Myelomeningocele Study (MOMS) are shown in Table 19-3 (Adzick, 2011). In a review of 26 open fetal myelomeningocele cases, 15 percent experienced preterm rupture of membranes, and the mean gestational age at delivery was 35 weeks (Pruthi, 2021). Other potential risks include maternal sepsis and fetal death during or following the procedure, particularly if hydrops is present. Wilson and associates (2010) reviewed subsequent pregnancy outcomes following open fetal surgery and reported that 14 percent of women experienced uterine rupture and 14 percent had uterine dehiscence.
 
-FIGURE 19-3 Fetal myelomeningocele surgery. A. With the edges of both the laparotomy and
-hysterotomy incisions retracted, the skin around the defect is incised. Subsequently, the neural placode is
-sharply dissected from the arachnoid membrane. B. The dural membrane is reflected to the midline to
-cover the neural placode and is reapproximated using suture. In some cases a patch is needed (not
-shown). The fetal skin incision is subsequently sutured. Last, hysterotomy and laparotomy are then
-closed. (Figures 19-3, 19-4, 19-6, and 19-8: Reproduced with permission from Shamshirsaz AA, Ramin,
-SM, Belfort MA: Fetal therapy. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al: Cunningham and
-Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw Hill Education, 2017.)
+> **Table 19-3:** Benefits and Risks of Fetal Myelomeningocele Surgery versus Postnatal Repair
 
-In the landmark MOMS trial, Adzick and colleagues (2011) randomized
-183 pregnancies to prenatal or standard postnatal myelomeningocele repair
-at three centers. Criteria for trial participation included: (1) a singleton fetus
-at 19.0 to 25.9 weeks’ gestation; (2) an upper myelomeningocele boundary
-between T1 and S1 confirmed by magnetic resonance imaging; (3) evidence
-of hindbrain herniation; and (4) a normal karyotype and no evidence of a
-fetal anomaly unrelated to the myelomeningocele. Women at risk for preterm
-birth or placental abruption, those with a contraindication to fetal surgery,
-and women with body mass index (BMI) >35 kg/m2 were excluded.
-The MOMS trial demonstrated improved early childhood outcomes in the
-prenatal surgery cohort (see Table 19-3). Children who had undergone fetal
-surgery were twice as likely to walk independently by 30 months. They had
-significantly less hindbrain herniation and were only half as likely to undergo
-ventriculoperitoneal shunting by age 1 year. A primary outcome was a
-composite score that was derived from the Bayley Mental Development
-Index and from the difference between the functional and anatomical level of
+Myelomeningocele Surgery Fetal myelomeningocele is the first nonlethal birth defect for which in-utero repair has been offered (Fig. 19-3). Following standard postnatal myelomeningocele repair, affected children experience varying degrees of paralysis, bladder and bowel dysfunction, developmental delays, and brainstem dysfunction from the Arnold-Chiari II malformation (Chap. 15, p. 277). Damage is postulated to result from abnormal embryonic neurulation followed by exposure of neural elements to amnionic fluid throughout pregnancy (Adzick, 2010; Meuli, 1995, 1997).
 
-the lesion at 30 months. This primary outcome was also significantly better in
-the prenatal surgery group.
-Despite these benefits, most children who received fetal surgery were
-not able to ambulate independently, and nearly 30 percent were not able to
-ambulate at all. Prenatal surgery did not confer improvements in fetal or
-neonatal death rates or in the Bayley Mental Development Index score at age
-30 months. Prenatal surgery was also associated with a small risk for
-placental abruption and maternal pulmonary edema. Moreover, nearly half
-were delivered before 34 weeks, which significantly increased the risk for
-respiratory distress syndrome (Adzick, 2011).
-It is the position of the American College of Obstetricians and
-Gynecologists (2017) that nondirective counseling include the option of fetal
-surgery for all pregnancies that meet MOMS trial criteria. Study of fetal
-myelomeningocele repair in women with BMI up to 40 kg/m2 has
-demonstrated outcomes similar to those in women of lower BMI (Hilton,
-2019; Moldenhauer, 2020). Otherwise, MOMS trial criteria are strictly
-followed. Outcomes of children aged 6 to 10 years who previously
-participated in the MOMs trial are now available (Houtrow, 2020). Fetal
-surgery conferred a sustained benefit in the likelihood of independent
-ambulation. Nearly 30 percent of children were able to ambulate
-independently, and approximately 50 percent required ventriculoperitoneal
-shunt placement. Overall cognitive function was similar between cohorts
-(Houtrow, 2020).
+> **Figure 19-3:** Fetal myelomeningocele surgery. A. With the edges of both the laparotomy and hysterotomy incisions retracted, the skin around the defect is incised. Subsequently, the neural placode is sharply dissected from the arachnoid membrane. B. The dural membrane is reflected to the midline to cover the neural placode and is reapproximated using suture. In some cases a patch is needed (not shown). The fetal skin incision is subsequently sutured. Last, hysterotomy and laparotomy are then closed. (Figures 19-3, 19-4, 19-6, and 19-8: Reproduced with permission from Shamshirsaz AA, Ramin, SM, Belfort MA: Fetal therapy. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al: Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw Hill Education, 2017.)
 
-Thoracic Masses
-Open fetal surgery is rarely performed for thoracic masses. Most are small,
-and these have a good prognosis. Large CCAMs are often treated medically
-with a course of corticosteroids (p. 370). A dominant cyst in a CCAM may
-be amenable to drainage or shunt placement (p. 376). Similarly, an isolated
-pleural effusion surrounding a pulmonary sequestration may be amenable to
-drainage or shunt placement.
-Fetal surgery is generally reserved for pregnancies prior to 32 weeks’
-gestation in which there is a large, solid-appearing or microcystic mass and
-hydrops is developing. In carefully selected cases, the survival rate
-following open lobectomy approximates 60 percent (Vrecenak, 2013). Use of
+In the landmark MOMS trial, Adzick and colleagues (2011) randomized 183 pregnancies to prenatal or standard postnatal myelomeningocele repair at three centers. Criteria for trial participation included: (1) a singleton fetus at 19.0 to 25.9 weeks’ gestation; (2) an upper myelomeningocele boundary between T1 and S1 confirmed by magnetic resonance imaging; (3) evidence of hindbrain herniation; and (4) a normal karyotype and no evidence of a fetal anomaly unrelated to the myelomeningocele. Women at risk for preterm birth or placental abruption, those with a contraindication to fetal surgery, and women with body mass index (BMI) >35 kg/m2 were excluded. The MOMS trial demonstrated improved early childhood outcomes in the prenatal surgery cohort (see Table 19-3). Children who had undergone fetal surgery were twice as likely to walk independently by 30 months. They had significantly less hindbrain herniation and were only half as likely to undergo ventriculoperitoneal shunting by age 1 year. A primary outcome was a composite score that was derived from the Bayley Mental Development Index and from the difference between the functional and anatomical level of
 
-the ex-utero intrapartum treatment procedure in the treatment of fetal lung
-masses at delivery is discussed later.
+the lesion at 30 months. This primary outcome was also significantly better in the prenatal surgery group. Despite these benefits, most children who received fetal surgery were not able to ambulate independently, and nearly 30 percent were not able to ambulate at all. Prenatal surgery did not confer improvements in fetal or neonatal death rates or in the Bayley Mental Development Index score at age 30 months. Prenatal surgery was also associated with a small risk for placental abruption and maternal pulmonary edema. Moreover, nearly half were delivered before 34 weeks, which significantly increased the risk for respiratory distress syndrome (Adzick, 2011). It is the position of the American College of Obstetricians and Gynecologists (2017) that nondirective counseling include the option of fetal surgery for all pregnancies that meet MOMS trial criteria. Study of fetal myelomeningocele repair in women with BMI up to 40 kg/m2 has demonstrated outcomes similar to those in women of lower BMI (Hilton, 2019; Moldenhauer, 2020). Otherwise, MOMS trial criteria are strictly followed. Outcomes of children aged 6 to 10 years who previously participated in the MOMs trial are now available (Houtrow, 2020). Fetal surgery conferred a sustained benefit in the likelihood of independent ambulation. Nearly 30 percent of children were able to ambulate independently, and approximately 50 percent required ventriculoperitoneal shunt placement. Overall cognitive function was similar between cohorts (Houtrow, 2020).
 
-Sacrococcygeal Teratoma
-The perinatal mortality rate for cases of sacrococcygeal teratoma diagnosed
-prenatally is 20 to 40 percent (Hedrick, 2004; Shue, 2013, Simonini, 2021).
-Poor prognostic factors include a solid component constituting more than 50
-percent of the tumor mass and a tumor volume-to-fetal weight ratio exceeding
-12 percent prior to 24 weeks’ gestation (Akinkuotu, 2015). Hydramnios is
-common, and hydrops may develop from high-output cardiac failure, either
-as a consequence of tumor vascularity or secondary to bleeding within the
-tumor and resulting anemia. Fetal loss rates approach 100 percent in such
-cases. Mirror syndrome—maternal preeclampsia developing along with
-fetal hydrops—may occur in this setting (Chap. 18, p. 364).
-Open fetal surgery is considered only if the tumor is completely external
-and high cardiac output with early hydrops has developed in the second
-trimester (Vrecenak, 2013). However, given the poor prognosis, rapid
-growth beyond 27 weeks often prompts early delivery and postnatal
-resection rather than open fetal surgery (Baumgarten, 2019).
+Thoracic Masses Open fetal surgery is rarely performed for thoracic masses. Most are small, and these have a good prognosis. Large CCAMs are often treated medically with a course of corticosteroids (p. 370). A dominant cyst in a CCAM may be amenable to drainage or shunt placement (p. 376). Similarly, an isolated pleural effusion surrounding a pulmonary sequestration may be amenable to drainage or shunt placement. Fetal surgery is generally reserved for pregnancies prior to 32 weeks’ gestation in which there is a large, solid-appearing or microcystic mass and hydrops is developing. In carefully selected cases, the survival rate following open lobectomy approximates 60 percent (Vrecenak, 2013). Use of
 
-■ Fetoscopic Surgery
-As with open fetal surgeries, these procedures are performed at highly
-specialized centers. Fetoscopy is performed with fiberoptic endoscopes that
-measure 1 to 2 mm in diameter. Instruments such as lasers fit through a 3- to
-5-mm cannula that surrounds the endoscope. Not all fetoscopic procedures
-involve placing the instruments through the maternal anterior abdominal wall.
-In some cases, laparotomy facilitates optimal placement and maneuvering of
-the instruments or positioning of the fetus. Examples of conditions treated by
-fetoscopy are listed in Table 19-2.
+the ex-utero intrapartum treatment procedure in the treatment of fetal lung masses at delivery is discussed later.
 
-Twin-Twin Transfusion Syndrome
-As discussed in Chapter 48 (p. 849), fetoscopic laser ablation of placental
-anastomoses is the preferred management for severe twin-twin transfusion
-syndrome (TTTS). It is generally performed between 16 and 26 weeks’
+Sacrococcygeal Teratoma The perinatal mortality rate for cases of sacrococcygeal teratoma diagnosed prenatally is 20 to 40 percent (Hedrick, 2004; Shue, 2013, Simonini, 2021). Poor prognostic factors include a solid component constituting more than 50 percent of the tumor mass and a tumor volume-to-fetal weight ratio exceeding 12 percent prior to 24 weeks’ gestation (Akinkuotu, 2015). Hydramnios is common, and hydrops may develop from high-output cardiac failure, either as a consequence of tumor vascularity or secondary to bleeding within the tumor and resulting anemia. Fetal loss rates approach 100 percent in such cases. Mirror syndrome—maternal preeclampsia developing along with fetal hydrops—may occur in this setting (Chap. 18, p. 364). Open fetal surgery is considered only if the tumor is completely external and high cardiac output with early hydrops has developed in the second trimester (Vrecenak, 2013). However, given the poor prognosis, rapid growth beyond 27 weeks often prompts early delivery and postnatal resection rather than open fetal surgery (Baumgarten, 2019).
 
-gestation for monochorionic-diamnionic twin pregnancies with stage II to
-stage IV TTTS (Quintero, 1999; Society for Maternal-Fetal Medicine, 2013).
-A fetoscope inserted into the sac of the recipient twin is used to image
-the vascular equator. The vascular equator separates the placental
-cotyledons that supply each twin (Fig. 19-4). Selective laser
-photocoagulation involves individually coagulating anastomoses that cross
-between the twins (Ville, 1995). Arteriovenous anastomoses along the
-placental surface of the equator are visualized with the fetoscope and then
-photocoagulated using a 600-μm diameter diode laser or a 400-μm
-neodymium:yttrium-aluminum-garnet (Nd:YAG) laser (Fig. 19-5). The
-procedure is typically performed under epidural analgesia. At the end,
-amnioreduction is performed to decrease the single deepest pocket of
-amnionic fluid to below 5 cm, and antibiotics are injected into the amnionic
-cavity.
+### Fetoscopic Surgery
 
-FIGURE 19-4 Selective laser photocoagulation for twin-twin transfusion syndrome. The fetoscope is
-inserted into the recipient-twin sac and positioned over the vascular equator, which lies in between the
-two placental cord insertion sites. Arteriovenous anastomoses along the placental surface are
-individually photocoagulated using the laser. (Reproduced with permission from Shamshirsaz AA,
-Ramin, SM, Belfort MA: Fetal therapy. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al:
-Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+As with open fetal surgeries, these procedures are performed at highly specialized centers. Fetoscopy is performed with fiberoptic endoscopes that measure 1 to 2 mm in diameter. Instruments such as lasers fit through a 3- to 5-mm cannula that surrounds the endoscope. Not all fetoscopic procedures involve placing the instruments through the maternal anterior abdominal wall. In some cases, laparotomy facilitates optimal placement and maneuvering of the instruments or positioning of the fetus. Examples of conditions treated by fetoscopy are listed in Table 19-2.
 
-FIGURE 19-5 Fetoscopic photograph of laser photocoagulation for twin-twin transfusion syndrome. A.
-Vascular anastomoses (arrows) are shown before photocoagulation is performed. B. The ablation sites
-appear as blanched yellow-white areas (arrows). (Reproduced with permission from Dr. Timothy M.
-Crombleholme.)
+Twin-Twin Transfusion Syndrome As discussed in Chapter 48 (p. 849), fetoscopic laser ablation of placental anastomoses is the preferred management for severe twin-twin transfusion syndrome (TTTS). It is generally performed between 16 and 26 weeks’
 
-Unfortunately, residual anastomoses remain in up to a third of cases and
-may lead to TTTS recurrence or to the development of twin anemiapolycythemia sequence (TAPS). The latter is a feto-fetal transfusion
-characterized by large differences in hemoglobin concentrations between a
-pair of monochorionic twins. With the Solomon technique, immediately after
-selective photocoagulation, the laser is used to coagulate the entire vascular
-equator from one edge of the placenta to the other (Slaghekke, 2014a).
-Placental dye-injection studies confirm a significant reduction in the number
-of residual anastomoses following this procedure (Ruano, 2013; Slaghekke,
-2014b).
-Families should have reasonable expectations of procedural success and
-potential complications. Without treatment, the perinatal mortality rate for
-severe TTTS is 70 to 100 percent. Following laser therapy, the perinatal
-mortality rate approximates 30 to 50 percent, and the risk for long-term
-neurological handicap is 5 to 20 percent (Society for Maternal-Fetal
-Medicine, 2013). One series reported a double-twin survival rate of nearly
-70 percent and survival of at least one twin in more than 90 percent of cases
-(Diehl, 2017). Ischemic fetal brain lesions have been identified in 2 percent
-of those treated by laser and include cystic periventricular leukomalacia and
-grade III or IV interventricular hemorrhage (Stirnemann, 2018). Cerebral
-palsy has been reported in 5 percent of surviving children (Schou, 2019).
+gestation for monochorionic-diamnionic twin pregnancies with stage II to stage IV TTTS (Quintero, 1999; Society for Maternal-Fetal Medicine, 2013). A fetoscope inserted into the sac of the recipient twin is used to image the vascular equator. The vascular equator separates the placental cotyledons that supply each twin (Fig. 19-4). Selective laser photocoagulation involves individually coagulating anastomoses that cross between the twins (Ville, 1995). Arteriovenous anastomoses along the placental surface of the equator are visualized with the fetoscope and then photocoagulated using a 600-μm diameter diode laser or a 400-μm neodymium:yttrium-aluminum-garnet (Nd:YAG) laser (Fig. 19-5). The procedure is typically performed under epidural analgesia. At the end, amnioreduction is performed to decrease the single deepest pocket of amnionic fluid to below 5 cm, and antibiotics are injected into the amnionic cavity.
 
-Procedure-related complications include preterm prelabor ruptured
-membranes in up to 25 percent, placental abruption in 8 percent, vascular
-laceration in 3 percent, and amnionic band syndrome resulting from laser
-laceration of the membranes in 3 percent. Additionally, TAPS complicates 16
-percent of pregnancies treated with selective laser photocoagulation and 3
-percent treated with the Solomon technique (Habli, 2009; Robyr, 2006;
-Slaghekke, 2014b). The majority of laser-treated TTTS pregnancies deliver
-before 34 weeks’ gestation (Akkermans, 2015).
+> **Figure 19-4:** Selective laser photocoagulation for twin-twin transfusion syndrome. The fetoscope is inserted into the recipient-twin sac and positioned over the vascular equator, which lies in between the two placental cord insertion sites. Arteriovenous anastomoses along the placental surface are individually photocoagulated using the laser. (Reproduced with permission from Shamshirsaz AA, Ramin, SM, Belfort MA: Fetal therapy. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al: Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
 
-Congenital Diaphragmatic Hernia
-Early attempts to treat congenital diaphragmatic hernia (CDH) used open
-fetal surgery to reposition the liver into the abdomen. This unfortunately
-kinked the umbilical vein and led to fetal demise (Harrison, 1993).
-Knowledge that lungs normally produce fluid and that fetuses with upper
-airway obstruction develop pulmonary hyperplasia formed the rationale for
-tracheal occlusion. The idea was to “plug the lung until it grows” (Hedrick,
-1994). Initial efforts focused on occluding the trachea with an external clip
-(Harrison, 1993). Subsequently, a detachable silicone or latex balloon was
-placed within the trachea endoscopically and inflated with normal saline
-(Fig. 19-6). This procedure, fetoscopic tracheal occlusion (FETO), is
-offered to selected pregnancies with isolated CDH in which the prognosis is
-otherwise poor based on the degree of fetal liver herniation.
+> **Figure 19-5:** Fetoscopic photograph of laser photocoagulation for twin-twin transfusion syndrome. A. Vascular anastomoses (arrows) are shown before photocoagulation is performed. B. The ablation sites appear as blanched yellow-white areas (arrows). (Reproduced with permission from Dr. Timothy M. Crombleholme.)
 
-FIGURE 19-6 Fetoscopic tracheal occlusion (FETO). The endoscope enters the fetal oropharynx and
-advances down the trachea. Inset: The balloon is inflated to occlude the trachea, and then the
-endoscope is removed. (Reproduced with permission from Shamshirsaz AA, Ramin, SM, Belfort MA:
-Fetal therapy. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al: Cunningham and Gilstrap’s
-Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+Unfortunately, residual anastomoses remain in up to a third of cases and may lead to TTTS recurrence or to the development of twin anemiapolycythemia sequence (TAPS). The latter is a feto-fetal transfusion characterized by large differences in hemoglobin concentrations between a pair of monochorionic twins. With the Solomon technique, immediately after selective photocoagulation, the laser is used to coagulate the entire vascular equator from one edge of the placenta to the other (Slaghekke, 2014a). Placental dye-injection studies confirm a significant reduction in the number of residual anastomoses following this procedure (Ruano, 2013; Slaghekke, 2014b). Families should have reasonable expectations of procedural success and potential complications. Without treatment, the perinatal mortality rate for severe TTTS is 70 to 100 percent. Following laser therapy, the perinatal mortality rate approximates 30 to 50 percent, and the risk for long-term neurological handicap is 5 to 20 percent (Society for Maternal-Fetal Medicine, 2013). One series reported a double-twin survival rate of nearly 70 percent and survival of at least one twin in more than 90 percent of cases (Diehl, 2017). Ischemic fetal brain lesions have been identified in 2 percent of those treated by laser and include cystic periventricular leukomalacia and grade III or IV interventricular hemorrhage (Stirnemann, 2018). Cerebral palsy has been reported in 5 percent of surviving children (Schou, 2019).
 
-FETO uses a 3-mm operating sheath and fetoscopes as small as 1 mm
-(Van der Veeken, 2018). The procedure is generally performed between 26
-and 30 weeks’ gestation. The balloon is removed after 6 weeks or at
-approximately 34 weeks, either through a second fetoscopic procedure or by
-ultrasound-guided puncture (Baschat, 2020). Fetal lamb research
-demonstrated that without balloon removal, the number of type II
-pneumocytes was markedly reduced, but that balloon removal normalized
-type II pneumocyte density (Flageole, 1998). Because the procedure is
-performed fetoscopically, vaginal delivery is not contraindicated.
+Procedure-related complications include preterm prelabor ruptured membranes in up to 25 percent, placental abruption in 8 percent, vascular laceration in 3 percent, and amnionic band syndrome resulting from laser laceration of the membranes in 3 percent. Additionally, TAPS complicates 16 percent of pregnancies treated with selective laser photocoagulation and 3 percent treated with the Solomon technique (Habli, 2009; Robyr, 2006; Slaghekke, 2014b). The majority of laser-treated TTTS pregnancies deliver before 34 weeks’ gestation (Akkermans, 2015).
 
-In 2003, a randomized trial of the FETO procedure in pregnancies with
-isolated CDH, liver herniation, and lung-to-head ratio <1.4 did not identify a
-benefit from fetal therapy (Harrison, 2003). Survival rates 90 days after birth
-were unexpectedly high—75 percent—in both groups. Therefore, the lung-tohead threshold was lowered and adjusted for gestational age in an effort to
-improve prediction. In a metaanalysis of more than 200 pregnancies,
-treatment with FETO was associated with a 13-fold improvement in survival
-rates (Al-Maary, 2016). FETO has also been associated with improved
-survival rates in right-sided CDH (Russo, 2021). Although study outcomes
-are promising, this procedure is currently available in the United States only
-through a research protocol.
-Lung-to-Head Ratio. This imaging index was developed to improve
-prediction of survival in fetuses with isolated left-sided CDH diagnosed
-before 25 weeks’ gestation (Metkus, 1996). The lung-to-head ratio (LHR) is
-a semi-quantitative estimate of the right lung area divided by the head
-circumference. Investigators found that the neonatal survival rate was 100
-percent if the LHR was >1.35 and that there were no survivors if the LHR
-was <0.6 (Metkus, 1996). Nearly three fourths of pregnancies had values
-between 0.6 and 1.35, and prediction was difficult in this group because the
-overall survival rate approximated 60 percent.
-Modifications to the LHR have been developed in an effort to improve
-prediction. Jani and colleagues (2007) derived an observed-to-expected
-(O/E) LHR nomogram to account for differential growth of the head and
-torso across gestation. Lung area has been measured in 3 different ways: (1)
-by tracing the lung circumference, (2) by multiplying the longest diameter of
-the lung with its longest perpendicular diameter, and (3) by multiplying the
-anterior-posterior diameter of the lung at the mid-clavicular line by the
-perpendicular diameter at its midpoint (Jani, 2012). The North American
-Fetal Therapy Network found that reproducibility of the O/E LHR was
-highest when the lung circumference was traced, but that overall interrater
-agreement was lower than anticipated (Abbasi, 2019).
+Congenital Diaphragmatic Hernia Early attempts to treat congenital diaphragmatic hernia (CDH) used open fetal surgery to reposition the liver into the abdomen. This unfortunately kinked the umbilical vein and led to fetal demise (Harrison, 1993). Knowledge that lungs normally produce fluid and that fetuses with upper airway obstruction develop pulmonary hyperplasia formed the rationale for tracheal occlusion. The idea was to “plug the lung until it grows” (Hedrick, 1994). Initial efforts focused on occluding the trachea with an external clip (Harrison, 1993). Subsequently, a detachable silicone or latex balloon was placed within the trachea endoscopically and inflated with normal saline (Fig. 19-6). This procedure, fetoscopic tracheal occlusion (FETO), is offered to selected pregnancies with isolated CDH in which the prognosis is otherwise poor based on the degree of fetal liver herniation.
 
-Fetoscopic Myelomeningocele Repair
-After publication of the MOMS trial findings, research efforts focused on
-whether maternal morbidities associated with open fetal myelomeningocele
-repair might be mitigated if the procedure were accomplished fetoscopically.
+> **Figure 19-6:** Fetoscopic tracheal occlusion (FETO). The endoscope enters the fetal oropharynx and advances down the trachea. Inset: The balloon is inflated to occlude the trachea, and then the endoscope is removed. (Reproduced with permission from Shamshirsaz AA, Ramin, SM, Belfort MA: Fetal therapy. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al: Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
 
-Araujo Junior and associates (2016) conducted a systematic review that
-included 456 open cases and 84 fetoscopic surgeries. The endoscopic
-procedures were generally performed by inserting instruments through the
-maternal abdominal wall and then through the uterine wall, with partial
-carbon dioxide insufflation of the uterus. The rate of maternal myometrial
-dehiscence or attenuation was only 1 percent following endoscopy compared
-with 26 percent following open procedures. However, fetoscopy was
-associated with significantly higher rates of preterm delivery before 34
-weeks—80 versus 45 percent, and of perinatal mortality—14 versus 5
-percent.
-More recently, investigators have performed fetoscopic
-myelomeningocele repair but used laparotomy and exteriorization of the
-uterus (Belfort 2017). The proportion of infants requiring
-ventriculoperitoneal shunts before age 1 year—approximately 40 percent—
-was similar to that with open fetal surgery in the MOMS trial (Adzick, 2011;
-Belfort, 2017). In one series of 34 pregnancies treated with open fetoscopic
-myelomeningocele repair, the median gestational age at delivery was 38
-weeks, and 50 percent delivered vaginally (Kohn, 2018). Research is
-ongoing in this area.
+FETO uses a 3-mm operating sheath and fetoscopes as small as 1 mm (Van der Veeken, 2018). The procedure is generally performed between 26 and 30 weeks’ gestation. The balloon is removed after 6 weeks or at approximately 34 weeks, either through a second fetoscopic procedure or by ultrasound-guided puncture (Baschat, 2020). Fetal lamb research demonstrated that without balloon removal, the number of type II pneumocytes was markedly reduced, but that balloon removal normalized type II pneumocyte density (Flageole, 1998). Because the procedure is performed fetoscopically, vaginal delivery is not contraindicated.
 
-■ Percutaneous Procedures
-These procedures are performed using a shunt, angioplasty catheter,
-radiofrequency ablation needle, or bipolar cautery. Under ultrasound
-guidance, instruments are inserted through the maternal abdominal wall,
-uterine wall, and membranes to reach the amnionic cavity and fetus. Risks
-may include preterm labor, preterm prelabor ruptured membranes, placental
-abruption, maternal infection, and fetal injury or loss.
+In 2003, a randomized trial of the FETO procedure in pregnancies with isolated CDH, liver herniation, and lung-to-head ratio <1.4 did not identify a benefit from fetal therapy (Harrison, 2003). Survival rates 90 days after birth were unexpectedly high—75 percent—in both groups. Therefore, the lung-tohead threshold was lowered and adjusted for gestational age in an effort to improve prediction. In a metaanalysis of more than 200 pregnancies, treatment with FETO was associated with a 13-fold improvement in survival rates (Al-Maary, 2016). FETO has also been associated with improved survival rates in right-sided CDH (Russo, 2021). Although study outcomes are promising, this procedure is currently available in the United States only through a research protocol.
 
-Thoracic Shunts
-These shunts drain fetal pleural fluid into the amnionic cavity (Fig. 19-7). A
-large effusion may result in pulmonary hypoplasia or may cause mediastinal
-shift that is severe enough to result in hydrops. The most common etiology of
-a primary effusion is chylothorax, which is caused by lymphatic obstruction.
-Chylothorax is diagnosed if a cell count performed on the pleural fluid
-demonstrates that more than 80 percent of the cells are lymphocytes, and
-there is no evidence of infection. Pleural effusions may also form secondary
+**Lung-to-Head Ratio.** This imaging index was developed to improve prediction of survival in fetuses with isolated left-sided CDH diagnosed before 25 weeks’ gestation (Metkus, 1996). The lung-to-head ratio (LHR) is a semi-quantitative estimate of the right lung area divided by the head circumference. Investigators found that the neonatal survival rate was 100 percent if the LHR was >1.35 and that there were no survivors if the LHR was <0.6 (Metkus, 1996). Nearly three fourths of pregnancies had values between 0.6 and 1.35, and prediction was difficult in this group because the overall survival rate approximated 60 percent. Modifications to the LHR have been developed in an effort to improve prediction. Jani and colleagues (2007) derived an observed-to-expected (O/E) LHR nomogram to account for differential growth of the head and torso across gestation. Lung area has been measured in 3 different ways: (1) by tracing the lung circumference, (2) by multiplying the longest diameter of the lung with its longest perpendicular diameter, and (3) by multiplying the anterior-posterior diameter of the lung at the mid-clavicular line by the perpendicular diameter at its midpoint (Jani, 2012). The North American Fetal Therapy Network found that reproducibility of the O/E LHR was highest when the lung circumference was traced, but that overall interrater agreement was lower than anticipated (Abbasi, 2019).
 
-to congenital viral infection or aneuploidy, or they may be associated with a
-malformation such as a pulmonary sequestration. Yinon and associates
-(2010) reported aneuploidy in approximately 5 percent and associated
-anomalies in 10 percent of cases.
+Fetoscopic Myelomeningocele Repair After publication of the MOMS trial findings, research efforts focused on whether maternal morbidities associated with open fetal myelomeningocele repair might be mitigated if the procedure were accomplished fetoscopically.
 
-FIGURE 19-7 Thoracoamnionic shunt placement. A. A large, right-sided fetal pleural effusion
-(asterisks) and ascites were identified at 18 weeks’ gestation. The effusion was drained but rapidly
-reaccumulated. The xanthochromic fluid contained 95-percent lymphocytes, consistent with chylothorax.
-B. A double-pigtail shunt (arrow) was inserted under ultrasound guidance. Following shunt placement,
-the effusion and ascites resolved.
+Araujo Junior and associates (2016) conducted a systematic review that included 456 open cases and 84 fetoscopic surgeries. The endoscopic procedures were generally performed by inserting instruments through the maternal abdominal wall and then through the uterine wall, with partial carbon dioxide insufflation of the uterus. The rate of maternal myometrial dehiscence or attenuation was only 1 percent following endoscopy compared with 26 percent following open procedures. However, fetoscopy was associated with significantly higher rates of preterm delivery before 34 weeks—80 versus 45 percent, and of perinatal mortality—14 versus 5 percent. More recently, investigators have performed fetoscopic myelomeningocele repair but used laparotomy and exteriorization of the uterus (Belfort 2017). The proportion of infants requiring ventriculoperitoneal shunts before age 1 year—approximately 40 percent— was similar to that with open fetal surgery in the MOMS trial (Adzick, 2011; Belfort, 2017). In one series of 34 pregnancies treated with open fetoscopic myelomeningocele repair, the median gestational age at delivery was 38 weeks, and 50 percent delivered vaginally (Kohn, 2018). Research is ongoing in this area.
 
-Typically, the effusion is first drained using a 22-gauge needle. The fluid
-may be sent for chromosomal microarray analysis, infection studies, and a
-cell count. If the effusion recurs, a double-pigtail shunt is placed through the
-fetal chest wall using a trocar and cannula. For a right-sided effusion, the
-shunt is placed in the lower third of the chest to permit maximum expansion
-of the lung. If left-sided, the shunt is placed along the upper axillary line to
-allow the heart to return to normal position. The overall survival rate is 70
-percent, and that for hydropic fetuses approximates 50 percent (Mann, 2010;
-Yinon, 2010). We recommend weekly surveillance following shunt
-placement because displacement into the amnionic cavity is common. At time
-of delivery, the shunt must be clamped immediately to avoid neonatal
-pneumothorax.
-A shunt may also be used drain a dominant cyst in a fetus with
-macrocystic CCAM (Fig. 15-33, p. 288). Only rarely are such cysts large
+### Percutaneous Procedures
 
-enough to confer risk for hydrops or pulmonary hypoplasia. Shunt placement
-may improve the survival rate to 90 percent in those without hydrops and to
-at least 75 percent if hydrops has developed (Litwinska, 2017).
+These procedures are performed using a shunt, angioplasty catheter, radiofrequency ablation needle, or bipolar cautery. Under ultrasound guidance, instruments are inserted through the maternal abdominal wall, uterine wall, and membranes to reach the amnionic cavity and fetus. Risks may include preterm labor, preterm prelabor ruptured membranes, placental abruption, maternal infection, and fetal injury or loss.
 
-Urinary Shunts
-Vesicoamnionic shunts are offered in selected cases of fetal bladder-outlet
-obstruction in which the amnionic fluid volume is severely diminished.
-Lower urinary tract obstruction (LUTO) occurs more often in male fetuses. It
-is most commonly caused by posterior urethral valves but may be due to
-anterior urethral valves, urethral atresia or stenosis, or prune belly
-syndrome, which is also called Eagle-Barrett syndrome. Cases in females
-may be associated with complex cloacal abnormalities or the megacystismicrocolon syndrome. Ultrasound findings include dilation of the bladder
-and proximal urethra, termed the “keyhole” sign, along with bladder wall
-thickening (Fig. 15-61, p. 301). Associated oligohydramnios before
-midpregnancy leads to pulmonary hypoplasia. Unfortunately, postnatal renal
-function may be poor even when amnionic fluid volume is normal.
-Evaluation includes a careful search for associated anomalies, which
-may occur in 40 percent of cases, and for aneuploidy, which has been
-reported in 5 to 8 percent (Hayden, 1988; Hobbins, 1984; Mann, 2010).
-Potential candidates for therapy are fetuses without other severe anomalies
-or genetic syndromes. Therapy is generally offered only if the fetus is male
-because the underlying anomaly tends to be even more severe in females.
-Serial bladder drainage—vesicocentesis—performed under ultrasound
-guidance at approximately 48-hour intervals is used to evaluate fetal urine
-electrolyte and protein content. Fetal urine is normally hypotonic due to
-tubular resorption of sodium and chloride, whereas isotonic urine in the
-setting of obstruction suggests renal tubular damage. Serial assessment has
-been used to guide candidate selection for therapy (Table 19-4).
-Chromosomal microarray analysis also may be performed on fetal urine.
-TABLE 19-4. Fetal Urinary Analyte Values with Bladder Outlet
-Obstruction
+Thoracic Shunts These shunts drain fetal pleural fluid into the amnionic cavity (Fig. 19-7). A large effusion may result in pulmonary hypoplasia or may cause mediastinal shift that is severe enough to result in hydrops. The most common etiology of a primary effusion is chylothorax, which is caused by lymphatic obstruction. Chylothorax is diagnosed if a cell count performed on the pleural fluid demonstrates that more than 80 percent of the cells are lymphocytes, and there is no evidence of infection. Pleural effusions may also form secondary
 
-Vesicoamnionic shunt placement allows urine to drain from the bladder
-into the amnionic cavity (Fig. 19-8). While this may prevent pulmonary
-hypoplasia, it does not reliably preserve renal function, particularly if
-cortical cysts are visible sonographically (Ruano, 2017). Warmed lactated
-Ringer solution is first infused into the amniotic cavity. Amnioinfusion
-improves ultrasound visualization, thereby facilitating evaluation of fetal
-anatomy and shunt placement. A small trocar and cannula are then inserted
-into the fetal bladder. A double-pigtail catheter is used, and the shunt is
-placed as caudal as possible within the bladder to avoid dislodgement after
-bladder decompression.
+to congenital viral infection or aneuploidy, or they may be associated with a malformation such as a pulmonary sequestration. Yinon and associates (2010) reported aneuploidy in approximately 5 percent and associated anomalies in 10 percent of cases.
 
-FIGURE 19-8 Vesicoamnionic shunt placement. A. After amnioinfusion is performed, a trocar is
-inserted into the distended fetal bladder under sonographic guidance. The pigtail catheter is threaded into
-the trocar. B. The double-pigtail shunt has been deployed down the trocar, and the trocar has been
-removed. The distal end of the shunt is coiled within the fetal bladder, and the proximal end is draining
-into the amnionic cavity. (Reproduced with permission from Shamshirsaz AA, Ramin, SM, Belfort MA:
-Fetal therapy. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al: Cunningham and Gilstrap’s
-Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
+> **Figure 19-7:** Thoracoamnionic shunt placement. A. A large, right-sided fetal pleural effusion (asterisks) and ascites were identified at 18 weeks’ gestation. The effusion was drained but rapidly reaccumulated. The xanthochromic fluid contained 95-percent lymphocytes, consistent with chylothorax. B. A double-pigtail shunt (arrow) was inserted under ultrasound guidance. Following shunt placement, the effusion and ascites resolved.
 
-Complications include displacement of the shunt out of the fetal bladder
-in up to 40 percent of cases, urinary ascites in approximately 20 percent, and
-even development of bowel herniation through the abdominal wall defect—
-gastroschisis—in up to 10 percent (Freedman, 2000; Mann, 2010). Preterm
-delivery is common, and reported neonatal survival rates range from 50 to 90
-percent (Biard, 2005; Walsh, 2011). A third of surviving children have
-required dialysis or renal transplantation, and almost half have respiratory
-problems (Biard, 2005). In a randomized trial comparing vesicoamnionic
-shunt with conservative management in 31 cases, those receiving shunts had
-higher survival rates. However, only two children had normal renal function
-at age 2 years (Morris, 2013). Similarly, a metaanalysis of LUTO studies
-performed between 1990 and 2015 found that vesicoamnionic shunt
-conferred perinatal survival benefit but no improvement in renal function or
-survival at age 2 years (Nassr, 2017).
+Typically, the effusion is first drained using a 22-gauge needle. The fluid may be sent for chromosomal microarray analysis, infection studies, and a cell count. If the effusion recurs, a double-pigtail shunt is placed through the fetal chest wall using a trocar and cannula. For a right-sided effusion, the shunt is placed in the lower third of the chest to permit maximum expansion of the lung. If left-sided, the shunt is placed along the upper axillary line to allow the heart to return to normal position. The overall survival rate is 70 percent, and that for hydropic fetuses approximates 50 percent (Mann, 2010; Yinon, 2010). We recommend weekly surveillance following shunt placement because displacement into the amnionic cavity is common. At time of delivery, the shunt must be clamped immediately to avoid neonatal pneumothorax. A shunt may also be used drain a dominant cyst in a fetus with macrocystic CCAM (Fig. 15-33, p. 288). Only rarely are such cysts large
 
-Radiofrequency Ablation
-With this procedure, high-frequency alternating current is used to coagulate
-and desiccate tissue. Radiofrequency ablation (RFA) is the favored modality
+enough to confer risk for hydrops or pulmonary hypoplasia. Shunt placement may improve the survival rate to 90 percent in those without hydrops and to at least 75 percent if hydrops has developed (Litwinska, 2017).
 
-for treatment of twin reversed arterial perfusion (TRAP) sequence, also
-known as acardiac twin (Chap. 48, p. 850). Without treatment, the mortality
-rate for the normal or pump twin in severe TRAP sequence exceeds 50
-percent. The procedure is also used for selective termination with other
-monochorionic twin complications.
-Under ultrasound guidance, a 17- to 19-gauge RFA needle is directed
-into the base of the umbilical cord within the abdomen of the acardiac twin,
-and a 2-cm area of coagulation is achieved. Color Doppler is used to verify
-absent flow into the acardius. The procedure is generally performed at 20
-weeks’ gestation. The neonatal survival rate of the normal or pump twin
-approximates 85 percent (Cabassa, 2013; Lee, 2013; Wagata, 2016). Risks
-are higher for monoamnionic twin pregnancies, in whom the survival rate is
-only 67 percent (Sugibayashi, 2016). The most common complications are
-preterm prelabor ruptured membranes and preterm birth.
-RFA has generally been offered for TRAP sequence when the volume of
-the acardiac twin is large. In a series from the North American Fetal Therapy
-Network, the median size of the acardius relative to the pump twin was 90
-percent (Lee, 2013). Considering procedure-related risks, expectant
-management with close fetal surveillance is often considered if the estimated
-weight of the acardius is below 50 percent of the estimated weight of the
-pump twin (Jelin, 2010).
+Urinary Shunts Vesicoamnionic shunts are offered in selected cases of fetal bladder-outlet obstruction in which the amnionic fluid volume is severely diminished. Lower urinary tract obstruction (LUTO) occurs more often in male fetuses. It is most commonly caused by posterior urethral valves but may be due to anterior urethral valves, urethral atresia or stenosis, or prune belly syndrome, which is also called Eagle-Barrett syndrome. Cases in females may be associated with complex cloacal abnormalities or the megacystismicrocolon syndrome. Ultrasound findings include dilation of the bladder and proximal urethra, termed the “keyhole” sign, along with bladder wall thickening (Fig. 15-61, p. 301). Associated oligohydramnios before midpregnancy leads to pulmonary hypoplasia. Unfortunately, postnatal renal function may be poor even when amnionic fluid volume is normal. Evaluation includes a careful search for associated anomalies, which may occur in 40 percent of cases, and for aneuploidy, which has been reported in 5 to 8 percent (Hayden, 1988; Hobbins, 1984; Mann, 2010). Potential candidates for therapy are fetuses without other severe anomalies or genetic syndromes. Therapy is generally offered only if the fetus is male because the underlying anomaly tends to be even more severe in females. Serial bladder drainage—vesicocentesis—performed under ultrasound guidance at approximately 48-hour intervals is used to evaluate fetal urine electrolyte and protein content. Fetal urine is normally hypotonic due to tubular resorption of sodium and chloride, whereas isotonic urine in the setting of obstruction suggests renal tubular damage. Serial assessment has been used to guide candidate selection for therapy (Table 19-4). Chromosomal microarray analysis also may be performed on fetal urine.
 
-Intracardiac Catheter Procedures
-Selected fetal cardiac lesions may worsen during gestation, further
-complicating and even limiting options for postnatal repair. Severe
-narrowing of a cardiac outflow tract may result in progressive myocardial
-damage in utero, and a goal of fetal intervention is to permit muscle growth
-and preserve ventricular function. These innovative procedures include
-aortic valvuloplasty for critical aortic stenosis; atrial septoplasty for
-hypoplastic left heart syndrome with intact interatrial septum; and pulmonary
-valvuloplasty for pulmonary atresia with intact interventricular septum.
-Fetal aortic valvuloplasty is the most commonly performed cardiac
-procedure, accounting for 75 percent of cases reported by the International
-Fetal Cardiac Intervention Registry (Moon-Grady, 2015). It is offered for
-selected cases of critical aortic stenosis in which the left ventricle is either
-normal sized or dilated. The goal is to prevent progression to hypoplastic left
+> **Table 19-4:** Fetal Urinary Analyte Values with Bladder Outlet Obstruction
 
-heart and to permit postnatal biventricular repair. Under sonographic
-guidance, an 18-gauge cannula is inserted through uterus and fetal chest wall
-and into the left ventricle. Although the procedure is ideally performed
-percutaneously—through the maternal abdominal wall—laparotomy may be
-needed if the fetal position is unfavorable. The cannula tip is positioned in
-front of the stenotic aortic valve, and a 2.5- to 4.5-mm balloon catheter is
-guided into the aortic annulus and then inflated. Fetal bradycardia requiring
-treatment may complicate a third of cases, and hemopericardium requiring
-drainage affects approximately 20 percent (Patel, 2020).
-In a review of 108 fetuses treated with aortic valvuloplasty from 15
-international centers, 75 percent survived until delivery, and biventricular
-repair was achieved in 32 percent (Patel, 2020). Friedman and coworkers
-(2018) from Boston Children’s Hospital have reported improved outcomes
-with the procedure in recent years. Of 52 aortic valvuloplasty procedures
-performed between 2009 and 2015, nearly 90 percent resulted in a live birth,
-and more than 50 percent achieved biventricular repair. Guseh and
-colleagues (2020) emphasize that most children with biventricular function
-still require postnatal cardiac procedures. The risk for neurodevelopmental
-impairment in childhood appears similar to cases treated with postnatal
-repair (Laraja, 2017; Moon-Grady, 2015).
-The subset of fetuses with hypoplastic left heart syndrome who also have
-an intact or restrictive interatrial septum have postnatal mortality rates of
-nearly 80 percent (Glantz, 2007; Jantzen, 2017). To help improve survival,
-fetal atrial septoplasty using a percutaneous balloon catheter has been
-offered. Atrial septal stent placement is often attempted at the time of
-septoplasty to ensure patency. Of 47 such procedures reported by the
-International Fetal Cardiac Intervention Registry, 35 percent of infants
-survived to hospital discharge (Jantzen, 2017). However, the 1-year survival
-rate was higher in those that had successful fetal cardiac intervention
-compared with those that had not undergone intervention.
-Fetal pulmonary valvuloplasty has been offered in cases of pulmonary
-atresia with intact interventricular septum to prevent development of
-hypoplastic right heart syndrome and subsequent single ventricle palliation.
-The International Fetal Cardiac Intervention Registry reported that of 58
-cases of attempted pulmonary valvuloplasty, the procedure was technically
-successful in 70 percent (Hogan, 2020). Those with successful in-utero
-procedures were twice as likely to achieve biventricular repair. However,
+Vesicoamnionic shunt placement allows urine to drain from the bladder into the amnionic cavity (Fig. 19-8). While this may prevent pulmonary hypoplasia, it does not reliably preserve renal function, particularly if cortical cysts are visible sonographically (Ruano, 2017). Warmed lactated Ringer solution is first infused into the amniotic cavity. Amnioinfusion improves ultrasound visualization, thereby facilitating evaluation of fetal anatomy and shunt placement. A small trocar and cannula are then inserted into the fetal bladder. A double-pigtail catheter is used, and the shunt is placed as caudal as possible within the bladder to avoid dislodgement after bladder decompression.
 
-when procedure-related losses were considered, survival to hospital
-discharge was similar to those who had not received fetal intervention,
-approximating 75 percent. Long-term benefits of the procedure have yet to be
-demonstrated.
+> **Figure 19-8:** Vesicoamnionic shunt placement. A. After amnioinfusion is performed, a trocar is inserted into the distended fetal bladder under sonographic guidance. The pigtail catheter is threaded into the trocar. B. The double-pigtail shunt has been deployed down the trocar, and the trocar has been removed. The distal end of the shunt is coiled within the fetal bladder, and the proximal end is draining into the amnionic cavity. (Reproduced with permission from Shamshirsaz AA, Ramin, SM, Belfort MA: Fetal therapy. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al: Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017.)
 
-■ Ex-Utero Intrapartum Treatment
-This procedure allows the fetus to remain perfused by the placenta after
-being partially delivered, so that lifesaving treatment can be performed
-before completing the delivery. The technique was first developed to obtain
-an airway with fetal tumors involving the oropharynx and neck and is still
-used for this indication (Catalano, 1992; Kelly, 1990; Langer, 1992;
-Shamshirsaz, 2021). An ex-utero intrapartum treatment (EXIT) procedure is
-performed by a multidisciplinary team, which may include an obstetrician,
-maternal-fetal medicine specialist, pediatric surgeon(s), pediatric
-otolaryngologist, pediatric cardiologist, anesthesiologists for the mother and
-fetus, neonatologists, and specially trained nursing personnel. Components of
-the procedure are shown in Table 19-5 (Moldenhauer, 2013).
-TABLE 19-5. Components of the Ex-Utero Intrapartum Treatment (EXIT)
-Procedure
+Complications include displacement of the shunt out of the fetal bladder in up to 40 percent of cases, urinary ascites in approximately 20 percent, and even development of bowel herniation through the abdominal wall defect— gastroschisis—in up to 10 percent (Freedman, 2000; Mann, 2010). Preterm delivery is common, and reported neonatal survival rates range from 50 to 90 percent (Biard, 2005; Walsh, 2011). A third of surviving children have required dialysis or renal transplantation, and almost half have respiratory problems (Biard, 2005). In a randomized trial comparing vesicoamnionic shunt with conservative management in 31 cases, those receiving shunts had higher survival rates. However, only two children had normal renal function at age 2 years (Morris, 2013). Similarly, a metaanalysis of LUTO studies performed between 1990 and 2015 found that vesicoamnionic shunt conferred perinatal survival benefit but no improvement in renal function or survival at age 2 years (Nassr, 2017).
 
-Selected indications are listed in Table 19-2. EXIT is the preferred
-procedure for intrapartum management of large venolymphatic malformations
-of the neck such as the one shown in Figure 19-9. Criteria for EXIT with a
-cervical venolymphatic malformation include compression, deviation, or
-obstruction of the airway by the mass, and also involvement of the floor of
-the mouth (Laje, 2015). However, a review of 112 pregnancies with fetal
+Radiofrequency Ablation With this procedure, high-frequency alternating current is used to coagulate and desiccate tissue. Radiofrequency ablation (RFA) is the favored modality
 
-cervical venolymphatic malformations found that only about 10 percent met
-these criteria. Other indications for EXIT include severe micrognathia and
-congenital high airway obstruction sequence (CHAOS), which are
-discussed in Chapter 15 (Figs. 15-27 and 15-35, p. 285). Criteria for an
-EXIT procedure for micrognathia include a fetal jaw measurement below the
-5th percentile along with indirect evidence of obstruction, such as
-hydramnios, an absent stomach bubble, or glossoptosis (Morris, 2009b).
-Case selection for EXIT procedures is generally based on fetal magnetic
-resonance imaging findings.
+for treatment of twin reversed arterial perfusion (TRAP) sequence, also known as acardiac twin (Chap. 48, p. 850). Without treatment, the mortality rate for the normal or pump twin in severe TRAP sequence exceeds 50 percent. The procedure is also used for selective termination with other monochorionic twin complications. Under ultrasound guidance, a 17- to 19-gauge RFA needle is directed into the base of the umbilical cord within the abdomen of the acardiac twin, and a 2-cm area of coagulation is achieved. Color Doppler is used to verify absent flow into the acardius. The procedure is generally performed at 20 weeks’ gestation. The neonatal survival rate of the normal or pump twin approximates 85 percent (Cabassa, 2013; Lee, 2013; Wagata, 2016). Risks are higher for monoamnionic twin pregnancies, in whom the survival rate is only 67 percent (Sugibayashi, 2016). The most common complications are preterm prelabor ruptured membranes and preterm birth. RFA has generally been offered for TRAP sequence when the volume of the acardiac twin is large. In a series from the North American Fetal Therapy Network, the median size of the acardius relative to the pump twin was 90 percent (Lee, 2013). Considering procedure-related risks, expectant management with close fetal surveillance is often considered if the estimated weight of the acardius is below 50 percent of the estimated weight of the pump twin (Jelin, 2010).
 
-FIGURE 19-9 Ex-utero intrapartum treatment (EXIT) procedure for a venolymphatic malformation.
-A. Upon delivery of the head, placental circulation was maintained, and an airway was established over
-the course of 20 minutes by a team of pediatric subspecialists that included a surgeon, anesthesiologist,
-and otolaryngologist. B. Following a controlled intubation, the fetus was ready for delivery and transfer
-to the neonatal intensive care unit team. (Reproduced with permission from Drs. Stacey Thomas and
-Patricia Santiago-Muñoz.)
+Intracardiac Catheter Procedures Selected fetal cardiac lesions may worsen during gestation, further complicating and even limiting options for postnatal repair. Severe narrowing of a cardiac outflow tract may result in progressive myocardial damage in utero, and a goal of fetal intervention is to permit muscle growth and preserve ventricular function. These innovative procedures include aortic valvuloplasty for critical aortic stenosis; atrial septoplasty for hypoplastic left heart syndrome with intact interatrial septum; and pulmonary valvuloplasty for pulmonary atresia with intact interventricular septum. Fetal aortic valvuloplasty is the most commonly performed cardiac procedure, accounting for 75 percent of cases reported by the International Fetal Cardiac Intervention Registry (Moon-Grady, 2015). It is offered for selected cases of critical aortic stenosis in which the left ventricle is either normal sized or dilated. The goal is to prevent progression to hypoplastic left
 
-In some cases, an EXIT procedure has been used as a bridge to other
-procedures. For example, resection of large thoracic masses may be
-accomplished by fetal thoracotomy performed with intact placental
-circulation. In a series of 16 fetuses with CCAM volume ratios >1.6 or
-hydrops, all of whom had mediastinal compression, Cass and colleagues
-(2013) reported that nine infants undergoing EXIT-to-resection survived. In
-contrast, there were no survivors with urgent postnatal surgery alone.
-Similarly, Moldenhauer (2013) reported that 20 of 22 newborns treated with
-EXIT-to-resection for lung masses survived. The EXIT procedure has also
-been used as a bridge to extracorporeal membrane oxygenation—EXIT-toECMO—in pregnancies with severe congenital diaphragmatic hernia.
+heart and to permit postnatal biventricular repair. Under sonographic guidance, an 18-gauge cannula is inserted through uterus and fetal chest wall and into the left ventricle. Although the procedure is ideally performed percutaneously—through the maternal abdominal wall—laparotomy may be needed if the fetal position is unfavorable. The cannula tip is positioned in front of the stenotic aortic valve, and a 2.5- to 4.5-mm balloon catheter is guided into the aortic annulus and then inflated. Fetal bradycardia requiring treatment may complicate a third of cases, and hemopericardium requiring drainage affects approximately 20 percent (Patel, 2020). In a review of 108 fetuses treated with aortic valvuloplasty from 15 international centers, 75 percent survived until delivery, and biventricular repair was achieved in 32 percent (Patel, 2020). Friedman and coworkers (2018) from Boston Children’s Hospital have reported improved outcomes with the procedure in recent years. Of 52 aortic valvuloplasty procedures performed between 2009 and 2015, nearly 90 percent resulted in a live birth, and more than 50 percent achieved biventricular repair. Guseh and colleagues (2020) emphasize that most children with biventricular function still require postnatal cardiac procedures. The risk for neurodevelopmental impairment in childhood appears similar to cases treated with postnatal repair (Laraja, 2017; Moon-Grady, 2015). The subset of fetuses with hypoplastic left heart syndrome who also have an intact or restrictive interatrial septum have postnatal mortality rates of nearly 80 percent (Glantz, 2007; Jantzen, 2017). To help improve survival, fetal atrial septoplasty using a percutaneous balloon catheter has been offered. Atrial septal stent placement is often attempted at the time of septoplasty to ensure patency. Of 47 such procedures reported by the International Fetal Cardiac Intervention Registry, 35 percent of infants survived to hospital discharge (Jantzen, 2017). However, the 1-year survival rate was higher in those that had successful fetal cardiac intervention compared with those that had not undergone intervention. Fetal pulmonary valvuloplasty has been offered in cases of pulmonary atresia with intact interventricular septum to prevent development of hypoplastic right heart syndrome and subsequent single ventricle palliation. The International Fetal Cardiac Intervention Registry reported that of 58 cases of attempted pulmonary valvuloplasty, the procedure was technically successful in 70 percent (Hogan, 2020). Those with successful in-utero procedures were twice as likely to achieve biventricular repair. However,
 
-However, it has not been found to clearly confer survival benefit in such
-cases (Morris, 2009a; Shieh, 2017; Stoffan, 2012).
-Counseling prior to an EXIT procedure includes procedure-related risks
-such as hemorrhage from placental abruption or uterine atony, need for
-cesarean delivery in future pregnancies, higher risk for subsequent uterine
-rupture or dehiscence, possible need for hysterectomy, and fetal death or
-permanent neonatal disability. Compared with cesarean delivery, the EXIT
-procedure is associated with greater blood loss, a higher incidence of wound
-complications, and a longer operating time (Noah, 2002; Shamshirsaz, 2019).
+when procedure-related losses were considered, survival to hospital discharge was similar to those who had not received fetal intervention, approximating 75 percent. Long-term benefits of the procedure have yet to be demonstrated.
 
-REFERENCES
-Abbasi N, Ryan G, Johnson A, et al: Reproducibility of fetal lung-to-head ratio in left diaphragmatic
-hernia across the North American Fetal Therapy Network (NAFTNet). Prenat Diagn 39(2):188,
-2019
-Abuhamad AZ, Fisher DA, Warsof SL, et al: Antenatal diagnosis and treatment of fetal goitrous
-hypothyroidism: case report and review of the literature. Ultrasound Obstet Gynecol 6:368, 1995
-Adzick NS: Fetal myelomeningocele: natural history, pathophysiology, and in utero intervention. Semin
-Fetal Neonatal Med 15(1):9, 2010
-Adzick NS, Harrison MR, Glick PL, et al: Fetal cystic adenomatoid malformation: prenatal diagnosis and
-natural history. J Pediatr Surg 20:483, 1985
-Adzick NS, Thom EA, Spong CY, et al: A randomized trial of prenatal versus postnatal repair of
-myelomeningocele. N Engl J Med 364(11):993, 2011
-Agrawal P, Ogilvy-Stuart A, Lees C: Intrauterine diagnosis and management of congenital goitrous
-hypothyroidism. Ultrasound Obstet Gynecol 19:501, 2002
-Akinkuotu AC, Coleman A, Shue E, et al: Predictors of poor prognosis in prenatally diagnosed
-sacrococcygeal teratoma: a multiinstitutional review. J Pediatr Surg 50(5):771, 2015
-Akkermans J, Peeters SH, Klumper FJ, et al: Twenty-five years of fetoscopic laser coagulation for
-twin-twin transfusion syndrome: a systematic review. Fetal Diagn Ther 38(4):241, 2015.
-Al-Maary J, Eastwood MP, Russo FM, et al: Fetal tracheal occlusion for severe pulmonary hypoplasia in
-isolated congenital diaphragmatic hernia. A systematic review and meta-analysis of survival. Ann
-Surg 264(6):929, 2016
-American College of Obstetricians and Gynecologists: Neural tube defects. Practice Bulletin No. 187,
-December 2017, Reaffirmed 2019
-Araujo Junior EA, Eggink AJ, van den Dobbelsteen J, et al: Procedure-related complications of open vs
-endoscopic fetal surgery for treatment of spina bifida in an era of intrauterine myelomeningocele
-repair: systematic review and meta-analysis. Ultrasound Obstet Gynecol 48(2):151, 2016
-Baschat AA, Rosner M, Millard SE, et al: Single-center outcome of fetoscopic tracheal balloon
-occlusion for severe congenital diaphragmatic hernia. Obstet Gynecol 135(3):511, 2020
-Baskin A, Wisniewski AB, Aston CE, et al: Post-operative complications following feminizing
-genitoplasty in moderate to severe atypia: results from a multicenter, observational prospective
-cohort study. J Pediatr Urol 16(5):568, 2020
+### Ex-Utero Intrapartum Treatment
 
-Baumgarten HD, Gebb JS, Khalek N, et al: Preemptive delivery and immediate resection for fetuses
-with high-risk sacrococcygeal teratomas. Fetal Diagn Ther 45(3):137, 2019
-Belfort MA, Whitehead WE, Shamshirsaz AA, et al: Fetoscopic open neural tube defect repair.
-Development and refinement of a two-port carbon dioxide insufflation technique. Obstet Gynecol
-129(4):734, 2017
-Biard JM, Johnson MP, Carr MC, et al: Long-term outcomes in children treated by prenatal
-vesicoamniotic shunting for lower urinary tract obstruction. Obstet Gynecol 106(3):503, 2005
-Bliddal S, Rasmussen AK, Sundberg K, et al: Antithyroid drug-induced fetal goitrous hypothyroidism.
-Nat Rev Endocrinol 7:396, 2011
-Blumenfeld YJ, Davis A, Milan K, et al: Conservatively managed fetal goiter: an alternative to in utero
-therapy. Fetal Diagn Ther 34(3):184, 2013
-Brito-Zeron P, Izmirly PM, Ramos-Casals M, et al: The clinical spectrum of autoimmune congenital
-heart block. Nat Rev Rheumatol 11(5):301, 2015
-Buyon JP, Clancy RM, Friedman DM: Autoimmune associated congenital heart block: integration of
-clinical and research clues in the management of the maternal/fetal dyad at risk. J Intern Med
-265(6):653, 2009
-Cabassa P, Fichera A, Prefumo F, et al: The use of radiofrequency in the treatment of twin reversed
-arterial perfusion sequence: a case series and review of the literature. Eur J Obstet Gynecol Reprod
-Biol 166(2):127, 2013
-Cass DL, Olutoye OO, Cassady CI, et al: EXIT-to-resection for fetuses with large lung masses and
-persistent mediastinal compression near birth. J Pediatr Surg 48(1):138, 2013
-Catalano PJ, Urken ML, Alvarez M, et al: New approach to the management of airway obstruction in
-“high risk” neonates. Arch Otolaryngol Head Neck Surg 118:306, 1992
-Cavoretto P, Molina F, Poggi S, et al: Prenatal diagnosis and outcome of echogenic fetal lung lesions.
-Ultrasound Obstet Gynecol 32:769, 2008
-Copel JA, Liang RI, Demasio K, et al: The clinical significance of the irregular fetal heart rhythm. Am J
-Obstet Gynecol 182:813, 2000
-Crombleholme TM, Coleman B, Hedrick H, et al: Cystic adenomatoid volume ratio predicts outcome in
-prenatally diagnosed cystic adenomatoid malformation of the lung. J Pediatr Surg 37(3):331, 2002
-Cuneo BF, Lee M, Roberson D, et al: A management strategy for fetal immune-mediated
-atrioventricular block. J Matern Fetal Neonatal Med 23(12):1400, 2010
-Cuneo BF, Zhao H, Strasburger JF, et al: Atrial and ventricular rate response and patterns of heart rate
-acceleration during maternal-fetal terbutaline treatment of fetal complete heart block. Am J Cardiol
-100(4):661, 2007
-David M, Forest MG: Prenatal treatment of congenital adrenal hyperplasia resulting from 21hydroxylase deficiency. J Pediatr 105(5):799, 1984
-Deprest JA, Flake AW, Gratacos E, et al: The making of fetal surgery. Prenat Diagn 30(7):653, 2010
-Derderian SC, Coleman AM, Jeanty C, et al: Favorable outcomes in high-risk congenital pulmonary
-airway malformations treated with multiple courses of maternal betamethasone. J Pediatr Surg
-50(4):515, 2015
-Devaney SA, Palomaki GE, Scott JA, et al: Noninvasive fetal sex determination using cell-free fetal
-DNA: a systematic review and meta-analysis. JAMA 306(6):627, 2011
-Dhillon RK, Hillman SC, Pounds R, et al: Comparison of Solomon technique with selective laser ablation
-for twin-twin transfusion syndrome: a systematic review. Ultrasound Obstet Gynecol 46(5):526,
-2015
+This procedure allows the fetus to remain perfused by the placenta after being partially delivered, so that lifesaving treatment can be performed before completing the delivery. The technique was first developed to obtain an airway with fetal tumors involving the oropharynx and neck and is still used for this indication (Catalano, 1992; Kelly, 1990; Langer, 1992; Shamshirsaz, 2021). An ex-utero intrapartum treatment (EXIT) procedure is performed by a multidisciplinary team, which may include an obstetrician, maternal-fetal medicine specialist, pediatric surgeon(s), pediatric otolaryngologist, pediatric cardiologist, anesthesiologists for the mother and fetus, neonatologists, and specially trained nursing personnel. Components of the procedure are shown in Table 19-5 (Moldenhauer, 2013).
 
-Diehl W, Diemert A, Grasso D, et al: Fetoscopic laser coagulation in 1020 pregnancies with twin-twin
-transfusion syndrome demonstrates improvement in double-twin survival rate. Ultrasound Obstet
-Gynecol 50():728, 2017
-Duncombe GJ, Dickinson JE: Fetal thyrotoxicosis after maternal thyroidectomy. Aust N Z J Obstet
-Gynaecol 41(2):224, 2001
-Ehrenberg-Buchner S, Stapf AM, Berman DR, et al: Fetal lung lesions: can we start to breathe easier?
-Am J Obstet Gynecol 208(2):151.e1, 2013
-Ekiz A, Kaya B, Bornaun H, et al: Flecainide as first-line treatment for fetal supraventricular
-tachycardia. J Matern Fetal Neonatal Med 31(4):407, 2018
-Ekman-Joelsson BM, Mellander M, Lagnefeldt L, et al: Foetal tachyarrhythmia treatment remains
-challenging even if the vast majority of cases have a favourable outcome. Acta Paediatr
-104(11):1090, 2015
-Fernandez-Balsells MM, Muthusamy K, Smushkin G, et al: Prenatal dexamethasone use for the
-prevention of virilization in pregnancies at risk for classical congenital adrenal hyperplasia because
-of 21-hydroxylase (CYP21A2) deficiency: a systematic review and meta-analyses. Clin Endocrinol
-73(4):436, 2010
-Flageole H, Evrard VA, Piedboeuf B, et al: The plug-unplug sequence: an important step to achieve type
-II pneumocyte maturation in the fetal lamb model. J Pediatr Surg 33(2):299, 1998
-Freedman AL, Johnson MP, Gonzalez R: Fetal therapy for obstructive uropathy: past, present… future?
-Pediatr Nephrol 14:167, 2000
-Friedman DM, Kim MY, Copel JA, et al: Prospective evaluation of fetuses with autoimmune associated
-congenital heart block followed in the PR interval and dexamethasone evaluation (PRIDE) study.
-Am J Cardiol 103(8):1102, 2009
-Friedman DM, Kim MY, Copel JA: Utility of cardiac monitoring in fetuses at risk for congenital heart
-block: the PR Interval and Dexamethasone (PRIDE) Prospective Study. Circulation 117:485, 2008
-Friedman KG, Sleeper LA, Freud LR, et al: Improved technical success, postnatal outcome and refined
-predictors of outcome for fetal aortic valvuloplasty. Ultrasound Obstet Gynecol 52(2):212, 2018
-Glantz JA, Tabbutt S, Gaynor JW, et al: Hypoplastic left heart syndrome with atrial level restriction in
-the era of prenatal diagnosis. Ann Thorac Surg 84:1633, 2007
-Glatz AC, Gaynor JW, Rhodes LA, et al: Outcome of high-risk neonates with congenital complete heart
-block paced in the first 24 hours after birth. J Thorac Cardiovasc Surg 136(3):767, 2008
-Guseh SH, Friedman KG, Wilkins-Haug LE: Fetal cardiac intervention-perspectives from a single
-center. Prenat Diagn 40(4):415, 2020
-Habli M, Bombrys A, Lewis D, et al: Incidence of complications in twin-twin transfusion syndrome after
-selective fetoscopic laser photocoagulation: a single-center experience. Am J Obstet Gynecol
-201(4):417.e1, 2009
-Hahurij ND, Blom NA, Lopriore E, et al: Perinatal management and long-term cardiac outcome in fetal
-arrhythmia. Early Hum Dev 87:83, 2011
-Hannah-Shmouni F, Morissette R, Sinaii N, et al: Revising the prevalence of nonclassic congenital
-adrenal hyperplasia in US Ashkenazi Jews and Caucasians. Genet Med 19(11):1276, 2017
-Hardley MT, Chon AH, Mestman J, et al: Iodine-induced fetal hypothyroidism: Diagnosis and treatment
-with intra-amniotic levothyroxine. Horm Res Paediatr 90(6):419, 2018
-Harrison MR, Filly RA, Golbus MS, et al: Fetal treatment. N Engl J Med 307:1651, 1982
-Harrison MR, Keller RL, Hawgood SB, et al: A randomized trial of fetal endoscopic tracheal occlusion
-for severe fetal congenital diaphragmatic hernia. N Engl J Med 349:1916, 2003
+> **Table 19-5:** Components of the Ex-Utero Intrapartum Treatment (EXIT) Procedure
 
-Harrison MR, Sydorak MR, Farrell JA, et al: Fetoscopic temporary tracheal occlusion for congenital
-diaphragmatic hernia: prelude to a randomized controlled trial. J Pediatr Surg 38:1012, 1993
-Hayden SA, Russ PD, Pretorius DH, et al: Posterior urethral obstruction. Prenatal sonographic findings
-and clinical outcome in fourteen cases. J Ultrasound Med 7(7):371, 1988
-Hedrick HL, Flake AW, Crombleholme TM, et al: Sacrococcygeal teratoma: prenatal assessment, fetal
-intervention, and outcome. J Pediatr Surg 39(3):430, 2004
-Hedrick MH, Estes JM, Sullivan KM, et al: Plug the lung until it grows (PLUG): a new method to treat
-congenital diaphragmatic hernia in utero. J Pediatr Surg 29(5):612, 1994
-Hill M, Finning K, Martin P, et al: Non-invasive prenatal determination of fetal sex: translating research
-into clinical practice. Clin Genet 80(1):68, 2011
-Hilton SA, Hodges MM, Dewberry LC, et al: MOMS plus: single institution review of outcomes for
-extended BMI criteria for open fetal repair of myelomeningocele. Fetal Diagn Ther 46(6):411, 2019
-Hobbins JC, Robero R, Grannum P, et al: Antenatal diagnosis of renal anomalies with ultrasound: I.
-Obstructive uropathy. Am J Obstet Gynecol 148:868, 1984
-Hogan WJ, Grinenco S, Armstrong A, et al: Fetal cardiac intervention for pulmonary atresia with intact
-ventricular septum: International Fetal Cardiac Intervention Registry. Fetal Diagn Ther July 7, 2020
-[Epub ahead of print]
-Houtrow AJ, Thom EA, Fletcher JM, et al: Prenatal repair of myelomeningocele and school-age
-functional outcomes. Pediatrics 145(2):e20191544, 2020
-Huel C, Guibourdenche J, Vuillard E, et al: Use of ultrasound to distinguish between fetal
-hyperthyroidism and hypothyroidism on discovery of a goiter. Ultrasound Obstet Gynecol 33:412,
-2009
+Selected indications are listed in Table 19-2. EXIT is the preferred procedure for intrapartum management of large venolymphatic malformations of the neck such as the one shown in Figure 19-9. Criteria for EXIT with a cervical venolymphatic malformation include compression, deviation, or obstruction of the airway by the mass, and also involvement of the floor of the mouth (Laje, 2015). However, a review of 112 pregnancies with fetal
+
+cervical venolymphatic malformations found that only about 10 percent met these criteria. Other indications for EXIT include severe micrognathia and congenital high airway obstruction sequence (CHAOS), which are discussed in Chapter 15 (Figs. 15-27 and 15-35, p. 285). Criteria for an EXIT procedure for micrognathia include a fetal jaw measurement below the 5th percentile along with indirect evidence of obstruction, such as hydramnios, an absent stomach bubble, or glossoptosis (Morris, 2009b). Case selection for EXIT procedures is generally based on fetal magnetic resonance imaging findings.
+
+> **Figure 19-9:** Ex-utero intrapartum treatment (EXIT) procedure for a venolymphatic malformation. A. Upon delivery of the head, placental circulation was maintained, and an airway was established over the course of 20 minutes by a team of pediatric subspecialists that included a surgeon, anesthesiologist, and otolaryngologist. B. Following a controlled intubation, the fetus was ready for delivery and transfer to the neonatal intensive care unit team. (Reproduced with permission from Drs. Stacey Thomas and Patricia Santiago-Muñoz.)
+
+In some cases, an EXIT procedure has been used as a bridge to other procedures. For example, resection of large thoracic masses may be accomplished by fetal thoracotomy performed with intact placental circulation. In a series of 16 fetuses with CCAM volume ratios >1.6 or hydrops, all of whom had mediastinal compression, Cass and colleagues (2013) reported that nine infants undergoing EXIT-to-resection survived. In contrast, there were no survivors with urgent postnatal surgery alone. Similarly, Moldenhauer (2013) reported that 20 of 22 newborns treated with EXIT-to-resection for lung masses survived. The EXIT procedure has also been used as a bridge to extracorporeal membrane oxygenation—EXIT-toECMO—in pregnancies with severe congenital diaphragmatic hernia.
+
+However, it has not been found to clearly confer survival benefit in such cases (Morris, 2009a; Shieh, 2017; Stoffan, 2012). Counseling prior to an EXIT procedure includes procedure-related risks such as hemorrhage from placental abruption or uterine atony, need for cesarean delivery in future pregnancies, higher risk for subsequent uterine rupture or dehiscence, possible need for hysterectomy, and fetal death or permanent neonatal disability. Compared with cesarean delivery, the EXIT procedure is associated with greater blood loss, a higher incidence of wound complications, and a longer operating time (Noah, 2002; Shamshirsaz, 2019).
+
+## References
+
+Abbasi N, Ryan G, Johnson A, et al: Reproducibility of fetal lung-to-head ratio in left diaphragmatic hernia across the North American Fetal Therapy Network (NAFTNet). Prenat Diagn 39(2):188,
+
+## 2019
+
+Abuhamad AZ, Fisher DA, Warsof SL, et al: Antenatal diagnosis and treatment of fetal goitrous hypothyroidism: case report and review of the literature. Ultrasound Obstet Gynecol 6:368, 1995 Adzick NS: Fetal myelomeningocele: natural history, pathophysiology, and in utero intervention. Semin Fetal Neonatal Med 15(1):9, 2010 Adzick NS, Harrison MR, Glick PL, et al: Fetal cystic adenomatoid malformation: prenatal diagnosis and natural history. J Pediatr Surg 20:483, 1985 Adzick NS, Thom EA, Spong CY, et al: A randomized trial of prenatal versus postnatal repair of myelomeningocele. N Engl J Med 364(11):993, 2011 Agrawal P, Ogilvy-Stuart A, Lees C: Intrauterine diagnosis and management of congenital goitrous hypothyroidism. Ultrasound Obstet Gynecol 19:501, 2002 Akinkuotu AC, Coleman A, Shue E, et al: Predictors of poor prognosis in prenatally diagnosed sacrococcygeal teratoma: a multiinstitutional review. J Pediatr Surg 50(5):771, 2015 Akkermans J, Peeters SH, Klumper FJ, et al: Twenty-five years of fetoscopic laser coagulation for twin-twin transfusion syndrome: a systematic review. Fetal Diagn Ther 38(4):241, 2015. Al-Maary J, Eastwood MP, Russo FM, et al: Fetal tracheal occlusion for severe pulmonary hypoplasia in isolated congenital diaphragmatic hernia. A systematic review and meta-analysis of survival. Ann Surg 264(6):929, 2016 American College of Obstetricians and Gynecologists: Neural tube defects. Practice Bulletin No. 187, December 2017, Reaffirmed 2019 Araujo Junior EA, Eggink AJ, van den Dobbelsteen J, et al: Procedure-related complications of open vs endoscopic fetal surgery for treatment of spina bifida in an era of intrauterine myelomeningocele repair: systematic review and meta-analysis. Ultrasound Obstet Gynecol 48(2):151, 2016 Baschat AA, Rosner M, Millard SE, et al: Single-center outcome of fetoscopic tracheal balloon occlusion for severe congenital diaphragmatic hernia. Obstet Gynecol 135(3):511, 2020 Baskin A, Wisniewski AB, Aston CE, et al: Post-operative complications following feminizing genitoplasty in moderate to severe atypia: results from a multicenter, observational prospective cohort study. J Pediatr Urol 16(5):568, 2020
+
+Baumgarten HD, Gebb JS, Khalek N, et al: Preemptive delivery and immediate resection for fetuses with high-risk sacrococcygeal teratomas. Fetal Diagn Ther 45(3):137, 2019 Belfort MA, Whitehead WE, Shamshirsaz AA, et al: Fetoscopic open neural tube defect repair. Development and refinement of a two-port carbon dioxide insufflation technique. Obstet Gynecol 129(4):734, 2017 Biard JM, Johnson MP, Carr MC, et al: Long-term outcomes in children treated by prenatal vesicoamniotic shunting for lower urinary tract obstruction. Obstet Gynecol 106(3):503, 2005 Bliddal S, Rasmussen AK, Sundberg K, et al: Antithyroid drug-induced fetal goitrous hypothyroidism. Nat Rev Endocrinol 7:396, 2011 Blumenfeld YJ, Davis A, Milan K, et al: Conservatively managed fetal goiter: an alternative to in utero therapy. Fetal Diagn Ther 34(3):184, 2013 Brito-Zeron P, Izmirly PM, Ramos-Casals M, et al: The clinical spectrum of autoimmune congenital heart block. Nat Rev Rheumatol 11(5):301, 2015 Buyon JP, Clancy RM, Friedman DM: Autoimmune associated congenital heart block: integration of clinical and research clues in the management of the maternal/fetal dyad at risk. J Intern Med 265(6):653, 2009 Cabassa P, Fichera A, Prefumo F, et al: The use of radiofrequency in the treatment of twin reversed arterial perfusion sequence: a case series and review of the literature. Eur J Obstet Gynecol Reprod Biol 166(2):127, 2013 Cass DL, Olutoye OO, Cassady CI, et al: EXIT-to-resection for fetuses with large lung masses and persistent mediastinal compression near birth. J Pediatr Surg 48(1):138, 2013 Catalano PJ, Urken ML, Alvarez M, et al: New approach to the management of airway obstruction in “high risk” neonates. Arch Otolaryngol Head Neck Surg 118:306, 1992 Cavoretto P, Molina F, Poggi S, et al: Prenatal diagnosis and outcome of echogenic fetal lung lesions. Ultrasound Obstet Gynecol 32:769, 2008 Copel JA, Liang RI, Demasio K, et al: The clinical significance of the irregular fetal heart rhythm. Am J Obstet Gynecol 182:813, 2000 Crombleholme TM, Coleman B, Hedrick H, et al: Cystic adenomatoid volume ratio predicts outcome in prenatally diagnosed cystic adenomatoid malformation of the lung. J Pediatr Surg 37(3):331, 2002 Cuneo BF, Lee M, Roberson D, et al: A management strategy for fetal immune-mediated atrioventricular block. J Matern Fetal Neonatal Med 23(12):1400, 2010 Cuneo BF, Zhao H, Strasburger JF, et al: Atrial and ventricular rate response and patterns of heart rate acceleration during maternal-fetal terbutaline treatment of fetal complete heart block. Am J Cardiol 100(4):661, 2007 David M, Forest MG: Prenatal treatment of congenital adrenal hyperplasia resulting from 21hydroxylase deficiency. J Pediatr 105(5):799, 1984 Deprest JA, Flake AW, Gratacos E, et al: The making of fetal surgery. Prenat Diagn 30(7):653, 2010 Derderian SC, Coleman AM, Jeanty C, et al: Favorable outcomes in high-risk congenital pulmonary airway malformations treated with multiple courses of maternal betamethasone. J Pediatr Surg 50(4):515, 2015 Devaney SA, Palomaki GE, Scott JA, et al: Noninvasive fetal sex determination using cell-free fetal DNA: a systematic review and meta-analysis. JAMA 306(6):627, 2011 Dhillon RK, Hillman SC, Pounds R, et al: Comparison of Solomon technique with selective laser ablation for twin-twin transfusion syndrome: a systematic review. Ultrasound Obstet Gynecol 46(5):526,
+
+## 2015
+
+Diehl W, Diemert A, Grasso D, et al: Fetoscopic laser coagulation in 1020 pregnancies with twin-twin transfusion syndrome demonstrates improvement in double-twin survival rate. Ultrasound Obstet Gynecol 50():728, 2017 Duncombe GJ, Dickinson JE: Fetal thyrotoxicosis after maternal thyroidectomy. Aust N Z J Obstet Gynaecol 41(2):224, 2001 Ehrenberg-Buchner S, Stapf AM, Berman DR, et al: Fetal lung lesions: can we start to breathe easier? Am J Obstet Gynecol 208(2):151.e1, 2013 Ekiz A, Kaya B, Bornaun H, et al: Flecainide as first-line treatment for fetal supraventricular tachycardia. J Matern Fetal Neonatal Med 31(4):407, 2018 Ekman-Joelsson BM, Mellander M, Lagnefeldt L, et al: Foetal tachyarrhythmia treatment remains challenging even if the vast majority of cases have a favourable outcome. Acta Paediatr 104(11):1090, 2015 Fernandez-Balsells MM, Muthusamy K, Smushkin G, et al: Prenatal dexamethasone use for the prevention of virilization in pregnancies at risk for classical congenital adrenal hyperplasia because of 21-hydroxylase (CYP21A2) deficiency: a systematic review and meta-analyses. Clin Endocrinol 73(4):436, 2010 Flageole H, Evrard VA, Piedboeuf B, et al: The plug-unplug sequence: an important step to achieve type II pneumocyte maturation in the fetal lamb model. J Pediatr Surg 33(2):299, 1998 Freedman AL, Johnson MP, Gonzalez R: Fetal therapy for obstructive uropathy: past, present… future? Pediatr Nephrol 14:167, 2000 Friedman DM, Kim MY, Copel JA, et al: Prospective evaluation of fetuses with autoimmune associated congenital heart block followed in the PR interval and dexamethasone evaluation (PRIDE) study. Am J Cardiol 103(8):1102, 2009 Friedman DM, Kim MY, Copel JA: Utility of cardiac monitoring in fetuses at risk for congenital heart block: the PR Interval and Dexamethasone (PRIDE) Prospective Study. Circulation 117:485, 2008 Friedman KG, Sleeper LA, Freud LR, et al: Improved technical success, postnatal outcome and refined predictors of outcome for fetal aortic valvuloplasty. Ultrasound Obstet Gynecol 52(2):212, 2018 Glantz JA, Tabbutt S, Gaynor JW, et al: Hypoplastic left heart syndrome with atrial level restriction in the era of prenatal diagnosis. Ann Thorac Surg 84:1633, 2007 Glatz AC, Gaynor JW, Rhodes LA, et al: Outcome of high-risk neonates with congenital complete heart block paced in the first 24 hours after birth. J Thorac Cardiovasc Surg 136(3):767, 2008 Guseh SH, Friedman KG, Wilkins-Haug LE: Fetal cardiac intervention-perspectives from a single center. Prenat Diagn 40(4):415, 2020 Habli M, Bombrys A, Lewis D, et al: Incidence of complications in twin-twin transfusion syndrome after selective fetoscopic laser photocoagulation: a single-center experience. Am J Obstet Gynecol 201(4):417.e1, 2009 Hahurij ND, Blom NA, Lopriore E, et al: Perinatal management and long-term cardiac outcome in fetal arrhythmia. Early Hum Dev 87:83, 2011 Hannah-Shmouni F, Morissette R, Sinaii N, et al: Revising the prevalence of nonclassic congenital adrenal hyperplasia in US Ashkenazi Jews and Caucasians. Genet Med 19(11):1276, 2017 Hardley MT, Chon AH, Mestman J, et al: Iodine-induced fetal hypothyroidism: Diagnosis and treatment with intra-amniotic levothyroxine. Horm Res Paediatr 90(6):419, 2018 Harrison MR, Filly RA, Golbus MS, et al: Fetal treatment. N Engl J Med 307:1651, 1982 Harrison MR, Keller RL, Hawgood SB, et al: A randomized trial of fetal endoscopic tracheal occlusion for severe fetal congenital diaphragmatic hernia. N Engl J Med 349:1916, 2003
+
+Harrison MR, Sydorak MR, Farrell JA, et al: Fetoscopic temporary tracheal occlusion for congenital diaphragmatic hernia: prelude to a randomized controlled trial. J Pediatr Surg 38:1012, 1993 Hayden SA, Russ PD, Pretorius DH, et al: Posterior urethral obstruction. Prenatal sonographic findings and clinical outcome in fourteen cases. J Ultrasound Med 7(7):371, 1988 Hedrick HL, Flake AW, Crombleholme TM, et al: Sacrococcygeal teratoma: prenatal assessment, fetal intervention, and outcome. J Pediatr Surg 39(3):430, 2004 Hedrick MH, Estes JM, Sullivan KM, et al: Plug the lung until it grows (PLUG): a new method to treat congenital diaphragmatic hernia in utero. J Pediatr Surg 29(5):612, 1994 Hill M, Finning K, Martin P, et al: Non-invasive prenatal determination of fetal sex: translating research into clinical practice. Clin Genet 80(1):68, 2011 Hilton SA, Hodges MM, Dewberry LC, et al: MOMS plus: single institution review of outcomes for extended BMI criteria for open fetal repair of myelomeningocele. Fetal Diagn Ther 46(6):411, 2019 Hobbins JC, Robero R, Grannum P, et al: Antenatal diagnosis of renal anomalies with ultrasound: I.
+
+**Obstructive uropathy.** Am J Obstet Gynecol 148:868, 1984 Hogan WJ, Grinenco S, Armstrong A, et al: Fetal cardiac intervention for pulmonary atresia with intact ventricular septum: International Fetal Cardiac Intervention Registry. Fetal Diagn Ther July 7, 2020 [Epub ahead of print] Houtrow AJ, Thom EA, Fletcher JM, et al: Prenatal repair of myelomeningocele and school-age functional outcomes. Pediatrics 145(2):e20191544, 2020 Huel C, Guibourdenche J, Vuillard E, et al: Use of ultrasound to distinguish between fetal hyperthyroidism and hypothyroidism on discovery of a goiter. Ultrasound Obstet Gynecol 33:412,
+
+## 2009
+
 Hui L, Bianchi DW: Prenatal pharmacotherapy for fetal anomalies: a 2011 update. Prenat Diagn 31:735,
-2011
-Izmirly P, Kim M, Friedman DM, et al: Hydroxychloroquine to prevent recurrent congenital heart block
-in fetuses of anti-SSA/Ro-positive mothers. J Amer Col Cardiol 76(3):292, 2020
-Izmirly PM, Costedoat-Chalumeau N, Pisoni C, et al: Maternal use of hydroxychloroquine is associated
-with a reduced risk of recurrent anti-SSA/Ro associated cardiac manifestations of neonatal lupus.
-Circulation 126(1):76, 2012
-Izmirly PM, Saxena A, Kim MY, et al: Maternal and fetal factors associated with mortality and
-morbidity in a multi-racial/ethnic registry of anti-SSA/Ro-associated cardiac neonatal lupus.
-Circulation 124(18):1927, 2011
-Izmirly PM, Saxena A, Sahl SK, et al: Assessment of fluorinated steroids to avert progression and
-mortality in anti-SSA/Ro-associated cardiac injury limited to the fetal conduction system. Ann
-Rheum Dis 75(6):1161, 2016
-Jaeggi E, Carvalho JS, de Groot E, et al: Comparison of transplacental treatment of fetal
-supraventricular tachyarrhythmias with digoxin, flecainide, and sotalol. Results of a nonrandomized
-multicenter study. Circulation 124(16):1747, 2011
-Jani J, Nicolaides KH, Keller RL, et al: Observed to expected lung area to head circumference ratio in
-the prediction of survival in fetuses with isolated diaphragmatic hernia. Ultrasound Obstet Gynecol
-30(1):67, 2007
-Jani JC, Peralta CF, Nicolaides KH: Lung-to-head ratio: a need to unify the technique. Ultrasound
-Obstet Gynecol 39(1):2, 2012
-Jantzen DW, Moon-Grady AJ, Morris SA, et al: Hypoplastic left heart syndrome with intact or
-restrictive atrial septum: a report from the International Fetal Cardiac Intervention Registry.
-Circulation 136(14):1346, 2017
 
-Jelin E, Hirose S, Rand L, et al: Perinatal outcome of conservative management versus fetal intervention
-for twin reversed arterial perfusion sequence with a small acardiac twin. Fetal Diagn Ther 27:138,
-2010
-Kelly MF, Berenholz L, Rizzo KA, et al: Approach for oxygenation of the newborn with airway
-obstruction due to a cervical mass. Ann Otol Rhinol Laryngol 99(3 pt 1):179, 1990
-Kiefer FL, Klebermass-Schrehf K, Steiner M, et al: Fetal/neonatal thyrotoxicosis in a newborn from a
-hypothyroid woman with Hashimoto thyroiditis. J Clin Endocrinol Metab 102(1):6, 2017
-Kohn JR, Rao V, Sellner AA, et al: Management of labor and delivery after fetoscopic repair of an open
-neural tube defect. Obstet Gynecol 131(6):1062, 2018
-Laje P, Peranteau WH, Hedrick HL, et al: Ex utero intrapartum treatment (EXIT) in the management of
-cervical lymphatic teratoma. J Pediatr Surg 50(2):311, 2015
-Langer JC, Tabb T, Thompson P, et al: Management of prenatally diagnosed tracheal obstruction: access
-to the airway in utero prior to delivery. Fetal Diagn Ther 7(1):12, 1992
-Laraja K, Sadhwani A, Tworetzky W, et al: Neurodevelopmental outcome in children after fetal cardiac
-intervention for aortic stenosis with evolving hypoplastic left heart syndrome. J Pediatr 184:130, 2017
-Lee H, Bebbington M, Crombleholme TM, et al: The North American Fetal Therapy Network Registry
-data on outcomes of radiofrequency ablation for twin-reversed arterial perfusion sequence. Fetal
-Diagn Ther 33(4):224, 2013
-Litwinska M, Litwinska E, Janiak K, et al: Thoracoamniotic shunts in macrocystic lung lesions: case
-series and review of the literature. Fetal Diagn Ther 41(3):179, 2017
-Loh K, Jelin E, Hirose S, et al: Microcystic congenital pulmonary airway malformation with hydrops
-fetalis: steroids vs open fetal resection. J Pediatr Surg 47(1):36, 2012
-Macardle CA, Ehrenberg-Buchner S, Smith EA, et al: Surveillance of fetal lung lesions using the
-congenital pulmonary airway malformation volume ratio: natural history and outcomes. Prenat Diagn
-36(3):282, 2016
-Machado CM, Castro JM, Campos RA, et al: Graves’ disease complicated by fetal goitrous
-hypothyroidism treated with intra-amniotic administration of levothyroxine. BMJ Case Rep
-12(8):e230457, 2019
-Mann S, Johnson MP, Wilson RD: Fetal thoracic and bladder shunts. Semin Fetal Neonatal Med 15:28,
-2010
-McCullough LB, Chervenak FA, Brent RL, et al: A case study in unethical transgressive bioethics:
-“Letter of Concern from Bioethicists” about the prenatal administration of dexamethasone. Am J
-Bioeth 10(9):35, 2010
-Metkus AP, Filly RA, Stringer MD, et al: Sonographic predictors of survival in fetal diaphragmatic
-hernia. J Pediatr Surg 31(1):148, 1996
-Meuli M, Meuli-Simmen C, Hutchins GM, et al: In utero surgery rescues neurological function at birth in
-sheep with spina bifida. Nat Med 1(4):342, 1995
-Meuli M, Meuli-Simmen C, Hutchins GM, et al: The spinal cord lesion in human fetuses with
-myelomeningocele: implications for fetal surgery. J Pediatr Surg 32(3):448, 1997
-Michael A, Radwan AA, Kamel Ali A, et al: Use of antenatal fluorinated corticosteroids in management
-of congenital heart block: systematic review and meta-analysis. Eur J Obstet Gynecol Reprod Biol X
-16(4):1000072, 2019
-Miyoshi T, Maeno Y, Hamasaki T, et al: Antenatal therapy for fetal supraventricular tachyarrhythmias:
-multicenter trial. J Am Coll Cardiol 74(7):874, 2019
-Moldenhauer JS: Ex utero intrapartum therapy. Semin Pediatr Surg 22(1):44, 2013
+## 2011
 
-Moldenhauer JS, Soni S, Jatres J, et al: Open fetal surgical outcomes for myelomeningocele closure
-stratified by maternal body mass index in a large single-center cohort. Fetal Diagn Ther 47(12):889,
-2020
-Moon-Grady AJ, Morris SA, Belfort M, et al: International Fetal Cardiac Intervention Registry. A
-worldwide collaborative description and preliminary outcomes. J Am Coll Cardiol 66(4):388, 2015
-Morris LM, Lim FY, Crombleholme TM: Ex utero intrapartum treatment procedure: a peripartum
-management strategy in particularly challenging cases. J Pediatr 154(1):126, 2009a
-Morris LM, Lim FY, Elluru RG, et al: Severe micrognathia: indications for EXIT-to-airway. Fetal Diagn
-Ther 26:162, 2009b
-Morris RK, Malin GL, Quinlan-Jones E, et al: Percutaneous vesicoamniotic shunting versus
-conservative management in fetal lower urinary tract obstruction (PLUTO): a randomized trial.
-Lancet 382(9903):1496, 2013
-Nassr AA, Shazly SA, Abdelmagied AM, et al: Effectiveness of vesicoamniotic shunt in fetuses with
-congenital lower urinary tract obstruction: an updated systematic review and meta-analysis.
-Ultrasound Obstet Gynecol 49(6):696, 2017
-Nemescu D, Tanasa IA, Stoian DL, et al: Conservative in utero treatment of fetal dyshormonogenetic
-goiter with levothyroxine, a systematic literature review. Exp Ther Med 20(3):2434, 2020
-New MI, Abraham M, Yuen T, et al: An update on prenatal diagnosis and treatment of congenital
-adrenal hyperplasia. Semin Reprod Med 30(5):396, 2012
-New MI, Tong YK, Yuen T, et al: Noninvasive prenatal diagnosis of congenital adrenal hyperplasia
-using cell-free DNA in maternal plasma. J Clin Endocrinol Metab 99(6):E1022, 2014
-Nimkarn S, Gangishetti PK, Yau M, et al: 21-Hydroxylase deficient congenital adrenal hyperplasia. In
-Pagon RA, Adam MP, Ardinger HH, et al (eds): GeneReviews. Seattle, University of Washington,
-2016
-Noah MM, Norton ME, Sandberg P, et al: Short-term maternal outcomes that are associated with the
-EXIT procedure, as compared with cesarean delivery. Am J Obstet Gynecol 186(4):773, 2002
-O’Leary ET, Alexander ME, Bezzerides VJ, et al: Low mortality in fetal supraventricular tachycardia:
-outcomes in a 30-year single-institution experience. J Cardiovasc Electrophysiol 31(5):1105, 2020
-Overcash RT, Marc-Aurele KL, Hull AD, et al: Maternal iodine exposure: a case of fetal goiter and
-neonatal hearing loss. Pediatrics 137(4):e1, 2016
-Patel ND, Nageotte S, Ing FF, et al: Procedural, pregnancy, and short-term outcomes after fetal aortic
-valvuloplasty. Catheter Cardiovasc Inter 96(3):626, 2020
-Peleg D, Cada S, Peleg A, et al: The relationship between maternal serum thyroid-stimulating
-immunoglobulin and neonatal thyrotoxicosis. Obstet Gynecol 99(6):1040, 2002
-Peranteau WH, Boelig MM, Khalek N, et al: Effect of single and multiple courses of maternal
-betamethasone on prenatal congenital lung lesion growth and fetal survival. J Pediatr Surg 51(1):28,
-2016
-Pruthi V, Abbasi N, Ryan G, et al: Fetal surgery for open spina bifida in Canada: initial results. J Obstet
-Gynecol Can 43(6):733, 2021
-Quintero RA, Morales WJ, Allen MH, et al: Staging of twin-twin transfusion syndrome. J Perinatol
-19:550, 1999
-Ribault V, Castanet M, Bertrand AM, et al: Experience with intraamniotic thyroxine treatment in
-nonimmune fetal goitrous hypothyroidism in 12 cases. J Clin Endocrinol Metab 94:3731, 2009
-Robyr R, Lewi L, Salomon LJ, et al: Prevalence and management of late fetal complications following
-successful selective laser coagulation of chorionic plate anastomoses in twin-to-twin transfusion
-syndrome. Am J Obstet Gynecol 194(3):796, 2006
+Izmirly P, Kim M, Friedman DM, et al: Hydroxychloroquine to prevent recurrent congenital heart block in fetuses of anti-SSA/Ro-positive mothers. J Amer Col Cardiol 76(3):292, 2020 Izmirly PM, Costedoat-Chalumeau N, Pisoni C, et al: Maternal use of hydroxychloroquine is associated with a reduced risk of recurrent anti-SSA/Ro associated cardiac manifestations of neonatal lupus. Circulation 126(1):76, 2012 Izmirly PM, Saxena A, Kim MY, et al: Maternal and fetal factors associated with mortality and morbidity in a multi-racial/ethnic registry of anti-SSA/Ro-associated cardiac neonatal lupus. Circulation 124(18):1927, 2011 Izmirly PM, Saxena A, Sahl SK, et al: Assessment of fluorinated steroids to avert progression and mortality in anti-SSA/Ro-associated cardiac injury limited to the fetal conduction system. Ann Rheum Dis 75(6):1161, 2016 Jaeggi E, Carvalho JS, de Groot E, et al: Comparison of transplacental treatment of fetal supraventricular tachyarrhythmias with digoxin, flecainide, and sotalol. Results of a nonrandomized multicenter study. Circulation 124(16):1747, 2011 Jani J, Nicolaides KH, Keller RL, et al: Observed to expected lung area to head circumference ratio in the prediction of survival in fetuses with isolated diaphragmatic hernia. Ultrasound Obstet Gynecol 30(1):67, 2007 Jani JC, Peralta CF, Nicolaides KH: Lung-to-head ratio: a need to unify the technique. Ultrasound Obstet Gynecol 39(1):2, 2012 Jantzen DW, Moon-Grady AJ, Morris SA, et al: Hypoplastic left heart syndrome with intact or restrictive atrial septum: a report from the International Fetal Cardiac Intervention Registry. Circulation 136(14):1346, 2017
 
-Ruano R, Dunn T, Braun MC, et al: Lower urinary tract obstruction: fetal intervention based on prenatal
-staging. Pediatr Nephrol 32:(10):1871, 2017
-Ruano R, Rodo C, Peiro JL, et al: Fetoscopic laser ablation of placental anastomoses in twin-twin
-transfusion syndrome using “Solomon technique.” Ultrasound Obstet Gynecol 42(4):434, 2013
-Russo FM, Cordier AG, Basurto D, et al: Fetoscopic endoluminal tracheal occlusion reverses the natural
-history of right-sided congenital diaphragmatic hernia: a European multicenter experience.
-Ultrasound Obstet Gynecol 57(3):378, 2021
-Schou KV, Lando AV, Ekelund CK, et al: Long-term neurodevelopmental outcome of monochorionic
-twins after laser therapy or umbilical cord occlusion for twin-twin transfusion syndrome. Fetal Diagn
-Ther 46(1):20, 2019
-Shah A, Moon-Grady A, Bhogal N, et al: Effectiveness of sotalol as first-line therapy for fetal
-supraventricular tachyarrhythmias. Am J Cardiol 190(11):1614, 2012
-Shamshirsaz AA, Aalipour S, Erfani H, et al: Obstetrics outcomes of ex-utero intrapartum treatment
-(EXIT). Prenat Diagn 39(8):643, 2019
-Shamshirsaz AA, Aalipour S, Stewart KA, et al: Perinatal characteristics and early childhood follow up
-after ex-utero intrapartum treatment for head and neck teratomas by prenatal diagnosis. Prenat
-Diagn 41(4):497, 2021
-Shamshirsaz AA, Ramin SM, Belfort MA: Fetal therapy. In Yeomans ER, Hoffman BL, Gilstrap LC III,
-et al: Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw-Hill Education,
-2017
-Shieh HF, Wilson JM, Sheils CA, et al: Does the ex utero intrapartum treatment to extracorporeal
-membrane oxygenation procedure change morbidity outcomes for high-risk congenital diaphragmatic
-hernia survivors? J Pediatr Surg 52(1):22, 2017
-Shue E, Bolouri M, Jelin EB, et al: Tumor metrics and morphology predict poor prognosis in prenatally
-diagnosed sacrococcygeal teratoma: a 25-year experience at a single institution. J Pediatr Surg
-48(6):1225, 2013
-Simonini C, Strizek B, Berg C, et al: Fetal teratomas–a retrospective observational single-center study.
-Prenat Diagn 41(3):301, 2021
-Slaghekke F, Lewi L, Middeldorp JM, et al: Residual anastomoses in twin-twin transfusion syndrome
-after laser: the Solomon randomized trial. Am J Obstet Gynecol 211(3):285.e1, 2014a
-Slaghekke F, Lopriore E, Lewi L, et al: Fetoscopic laser coagulation of the vascular equator versus
-selective coagulation for twin-to-twin transfusion syndrome: an open-label randomized controlled
-trial. Lancet 383(9935):2144, 2014b
-Society for Maternal-Fetal Medicine, Simpson LL: Twin-twin transfusion syndrome. Am J Obstet
-Gynecol 208(1):3, 2013
-Speiser PW, Arlt W, Auchus RJ, et al: Congenital adrenal hyperplasia due to steroid 21-hydroxylase
-deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab 103(11):4043,
-2018
-Srinivasan S, Strasburger J: Overview of fetal arrhythmias. Curr Opin Pediatr 20:522, 2008
-Srisupundit K, Sirichotiyakul S, Tongprasent F, et al: Fetal therapy in fetal thyrotoxicosis: a case report.
-Fetal Diagn Ther 23(2):114, 2008
-Stirnemann J, Chalouhi G, Essaoui M, et al: Fetal brain imaging following laser surgery in twin-to-twin
-surgery. BJOG 125(9):1186, 2018
-Stoffan AP, Wilson JM, Jennings RW, et al: Does the ex utero intrapartum treatment to extracorporeal
-membrane oxygenation procedure change outcomes for high-risk patients with congenital
-diaphragmatic hernia? J Pediatr Surg 47(6):1053, 2012
+Jelin E, Hirose S, Rand L, et al: Perinatal outcome of conservative management versus fetal intervention for twin reversed arterial perfusion sequence with a small acardiac twin. Fetal Diagn Ther 27:138,
 
-Strasburger JF, Wakai RT: Fetal cardiac arrhythmia detection and in utero therapy. Nat Rev Cardiol
-7(5):277, 2010
-Sugibayashi R, Ozawa K, Sumie M, et al: Forty cases of twin reversed arterial perfusion sequence
-treated with radio frequency ablation using the multistep coagulation method: a single-center
-experience. Prenat Diagn 36(5):437, 2016
-Ueda K, Maeno Y, Miyoshi T, et al: The impact of intrauterine treatment on fetal tachycardia: a
-nationwide survey in Japan. J Matern Fetal Neonatal Med 31(19):2605, 2018
-van der Heijden LB, Oudijk MA, Manten GT, et al: Sotalol as first-line treatment for fetal tachycardia
-and neonatal follow-up. Ultrasound Obstet Gynecol 42(3):285, 2013
-Van der Veeken L, Russo FM, de Catte L, et al: Fetoscopic endoluminal tracheal occlusion and
-reestablishment of fetal airways for congenital diaphragmatic hernia. Gynecol Surg 15(1):9, 2018
-van Dijk, Smits IH, Fliers E, et al: Maternal thyrotropin receptor antibody concentration and the risk of
-fetal and neonatal thyrotoxicosis: a systematic review. Thyroid 28(2):257, 2018
-Ville Y, Hyett J, Hecher K, et al: Preliminary experience with endoscopic laser surgery for severe twintwin transfusion syndrome. N Engl J Med 332(4):224, 1995
-Vrecenak JD, Flake AW: Fetal surgical intervention: progress and perspectives. Pediatr Surg Int
-29(5):407, 2013
-Wagata M, Muraskoshi T, Ishii K, et al: Radiofrequency ablation with an internally cooled electrode for
-twin reversed arterial perfusion sequence. Fetal Diagn Ther 40(2):110, 2016
-Walsh WF, Chescheir NC, Gillam-Krakauer M, et al: Maternal-fetal surgical procedures. Technical
-Brief No. 5. AHRQ Publication No. 10(11)-EHC059-EF, Rockville, Agency for Healthcare
-Research and Quality, 2011
-Wilson RD, Lemerand K, Johnson MP, et al: Reproductive outcomes in subsequent pregnancies after a
-pregnancy complicated by open maternal-fetal surgery (1996–2007). Am J Obstet Gynecol
-203(3):209.e1, 2010
-Yinon Y, Grisaru-Granovsky S, Chaddha V, et al: Perinatal outcome following fetal chest shunt insertion
-for pleural effusion. Ultrasound Obstet Gynecol 36:58, 2010
+## 2010
 
+Kelly MF, Berenholz L, Rizzo KA, et al: Approach for oxygenation of the newborn with airway obstruction due to a cervical mass. Ann Otol Rhinol Laryngol 99(3 pt 1):179, 1990 Kiefer FL, Klebermass-Schrehf K, Steiner M, et al: Fetal/neonatal thyrotoxicosis in a newborn from a hypothyroid woman with Hashimoto thyroiditis. J Clin Endocrinol Metab 102(1):6, 2017 Kohn JR, Rao V, Sellner AA, et al: Management of labor and delivery after fetoscopic repair of an open neural tube defect. Obstet Gynecol 131(6):1062, 2018 Laje P, Peranteau WH, Hedrick HL, et al: Ex utero intrapartum treatment (EXIT) in the management of cervical lymphatic teratoma. J Pediatr Surg 50(2):311, 2015 Langer JC, Tabb T, Thompson P, et al: Management of prenatally diagnosed tracheal obstruction: access to the airway in utero prior to delivery. Fetal Diagn Ther 7(1):12, 1992 Laraja K, Sadhwani A, Tworetzky W, et al: Neurodevelopmental outcome in children after fetal cardiac intervention for aortic stenosis with evolving hypoplastic left heart syndrome. J Pediatr 184:130, 2017 Lee H, Bebbington M, Crombleholme TM, et al: The North American Fetal Therapy Network Registry data on outcomes of radiofrequency ablation for twin-reversed arterial perfusion sequence. Fetal Diagn Ther 33(4):224, 2013 Litwinska M, Litwinska E, Janiak K, et al: Thoracoamniotic shunts in macrocystic lung lesions: case series and review of the literature. Fetal Diagn Ther 41(3):179, 2017 Loh K, Jelin E, Hirose S, et al: Microcystic congenital pulmonary airway malformation with hydrops fetalis: steroids vs open fetal resection. J Pediatr Surg 47(1):36, 2012 Macardle CA, Ehrenberg-Buchner S, Smith EA, et al: Surveillance of fetal lung lesions using the congenital pulmonary airway malformation volume ratio: natural history and outcomes. Prenat Diagn 36(3):282, 2016 Machado CM, Castro JM, Campos RA, et al: Graves’ disease complicated by fetal goitrous hypothyroidism treated with intra-amniotic administration of levothyroxine. BMJ Case Rep 12(8):e230457, 2019 Mann S, Johnson MP, Wilson RD: Fetal thoracic and bladder shunts. Semin Fetal Neonatal Med 15:28,
+
+## 2010
+
+McCullough LB, Chervenak FA, Brent RL, et al: A case study in unethical transgressive bioethics: “Letter of Concern from Bioethicists” about the prenatal administration of dexamethasone. Am J Bioeth 10(9):35, 2010 Metkus AP, Filly RA, Stringer MD, et al: Sonographic predictors of survival in fetal diaphragmatic hernia. J Pediatr Surg 31(1):148, 1996 Meuli M, Meuli-Simmen C, Hutchins GM, et al: In utero surgery rescues neurological function at birth in sheep with spina bifida. Nat Med 1(4):342, 1995 Meuli M, Meuli-Simmen C, Hutchins GM, et al: The spinal cord lesion in human fetuses with myelomeningocele: implications for fetal surgery. J Pediatr Surg 32(3):448, 1997 Michael A, Radwan AA, Kamel Ali A, et al: Use of antenatal fluorinated corticosteroids in management of congenital heart block: systematic review and meta-analysis. Eur J Obstet Gynecol Reprod Biol X 16(4):1000072, 2019 Miyoshi T, Maeno Y, Hamasaki T, et al: Antenatal therapy for fetal supraventricular tachyarrhythmias: multicenter trial. J Am Coll Cardiol 74(7):874, 2019 Moldenhauer JS: Ex utero intrapartum therapy. Semin Pediatr Surg 22(1):44, 2013
+
+Moldenhauer JS, Soni S, Jatres J, et al: Open fetal surgical outcomes for myelomeningocele closure stratified by maternal body mass index in a large single-center cohort. Fetal Diagn Ther 47(12):889,
+
+## 2020
+
+Moon-Grady AJ, Morris SA, Belfort M, et al: International Fetal Cardiac Intervention Registry. A worldwide collaborative description and preliminary outcomes. J Am Coll Cardiol 66(4):388, 2015 Morris LM, Lim FY, Crombleholme TM: Ex utero intrapartum treatment procedure: a peripartum management strategy in particularly challenging cases. J Pediatr 154(1):126, 2009a Morris LM, Lim FY, Elluru RG, et al: Severe micrognathia: indications for EXIT-to-airway. Fetal Diagn Ther 26:162, 2009b Morris RK, Malin GL, Quinlan-Jones E, et al: Percutaneous vesicoamniotic shunting versus conservative management in fetal lower urinary tract obstruction (PLUTO): a randomized trial. Lancet 382(9903):1496, 2013 Nassr AA, Shazly SA, Abdelmagied AM, et al: Effectiveness of vesicoamniotic shunt in fetuses with congenital lower urinary tract obstruction: an updated systematic review and meta-analysis. Ultrasound Obstet Gynecol 49(6):696, 2017 Nemescu D, Tanasa IA, Stoian DL, et al: Conservative in utero treatment of fetal dyshormonogenetic goiter with levothyroxine, a systematic literature review. Exp Ther Med 20(3):2434, 2020 New MI, Abraham M, Yuen T, et al: An update on prenatal diagnosis and treatment of congenital adrenal hyperplasia. Semin Reprod Med 30(5):396, 2012 New MI, Tong YK, Yuen T, et al: Noninvasive prenatal diagnosis of congenital adrenal hyperplasia using cell-free DNA in maternal plasma. J Clin Endocrinol Metab 99(6):E1022, 2014 Nimkarn S, Gangishetti PK, Yau M, et al: 21-Hydroxylase deficient congenital adrenal hyperplasia. In Pagon RA, Adam MP, Ardinger HH, et al (eds): GeneReviews. Seattle, University of Washington,
+
+## 2016
+
+Noah MM, Norton ME, Sandberg P, et al: Short-term maternal outcomes that are associated with the EXIT procedure, as compared with cesarean delivery. Am J Obstet Gynecol 186(4):773, 2002 O’Leary ET, Alexander ME, Bezzerides VJ, et al: Low mortality in fetal supraventricular tachycardia: outcomes in a 30-year single-institution experience. J Cardiovasc Electrophysiol 31(5):1105, 2020 Overcash RT, Marc-Aurele KL, Hull AD, et al: Maternal iodine exposure: a case of fetal goiter and neonatal hearing loss. Pediatrics 137(4):e1, 2016 Patel ND, Nageotte S, Ing FF, et al: Procedural, pregnancy, and short-term outcomes after fetal aortic valvuloplasty. Catheter Cardiovasc Inter 96(3):626, 2020 Peleg D, Cada S, Peleg A, et al: The relationship between maternal serum thyroid-stimulating immunoglobulin and neonatal thyrotoxicosis. Obstet Gynecol 99(6):1040, 2002 Peranteau WH, Boelig MM, Khalek N, et al: Effect of single and multiple courses of maternal betamethasone on prenatal congenital lung lesion growth and fetal survival. J Pediatr Surg 51(1):28,
+
+## 2016
+
+Pruthi V, Abbasi N, Ryan G, et al: Fetal surgery for open spina bifida in Canada: initial results. J Obstet Gynecol Can 43(6):733, 2021 Quintero RA, Morales WJ, Allen MH, et al: Staging of twin-twin transfusion syndrome. J Perinatol 19:550, 1999 Ribault V, Castanet M, Bertrand AM, et al: Experience with intraamniotic thyroxine treatment in nonimmune fetal goitrous hypothyroidism in 12 cases. J Clin Endocrinol Metab 94:3731, 2009 Robyr R, Lewi L, Salomon LJ, et al: Prevalence and management of late fetal complications following successful selective laser coagulation of chorionic plate anastomoses in twin-to-twin transfusion syndrome. Am J Obstet Gynecol 194(3):796, 2006
+
+Ruano R, Dunn T, Braun MC, et al: Lower urinary tract obstruction: fetal intervention based on prenatal staging. Pediatr Nephrol 32:(10):1871, 2017 Ruano R, Rodo C, Peiro JL, et al: Fetoscopic laser ablation of placental anastomoses in twin-twin transfusion syndrome using “Solomon technique.” Ultrasound Obstet Gynecol 42(4):434, 2013 Russo FM, Cordier AG, Basurto D, et al: Fetoscopic endoluminal tracheal occlusion reverses the natural history of right-sided congenital diaphragmatic hernia: a European multicenter experience. Ultrasound Obstet Gynecol 57(3):378, 2021 Schou KV, Lando AV, Ekelund CK, et al: Long-term neurodevelopmental outcome of monochorionic twins after laser therapy or umbilical cord occlusion for twin-twin transfusion syndrome. Fetal Diagn Ther 46(1):20, 2019 Shah A, Moon-Grady A, Bhogal N, et al: Effectiveness of sotalol as first-line therapy for fetal supraventricular tachyarrhythmias. Am J Cardiol 190(11):1614, 2012 Shamshirsaz AA, Aalipour S, Erfani H, et al: Obstetrics outcomes of ex-utero intrapartum treatment (EXIT). Prenat Diagn 39(8):643, 2019 Shamshirsaz AA, Aalipour S, Stewart KA, et al: Perinatal characteristics and early childhood follow up after ex-utero intrapartum treatment for head and neck teratomas by prenatal diagnosis. Prenat Diagn 41(4):497, 2021 Shamshirsaz AA, Ramin SM, Belfort MA: Fetal therapy. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al: Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw-Hill Education,
+
+## 2017
+
+Shieh HF, Wilson JM, Sheils CA, et al: Does the ex utero intrapartum treatment to extracorporeal membrane oxygenation procedure change morbidity outcomes for high-risk congenital diaphragmatic hernia survivors? J Pediatr Surg 52(1):22, 2017 Shue E, Bolouri M, Jelin EB, et al: Tumor metrics and morphology predict poor prognosis in prenatally diagnosed sacrococcygeal teratoma: a 25-year experience at a single institution. J Pediatr Surg 48(6):1225, 2013 Simonini C, Strizek B, Berg C, et al: Fetal teratomas–a retrospective observational single-center study. Prenat Diagn 41(3):301, 2021 Slaghekke F, Lewi L, Middeldorp JM, et al: Residual anastomoses in twin-twin transfusion syndrome after laser: the Solomon randomized trial. Am J Obstet Gynecol 211(3):285.e1, 2014a Slaghekke F, Lopriore E, Lewi L, et al: Fetoscopic laser coagulation of the vascular equator versus selective coagulation for twin-to-twin transfusion syndrome: an open-label randomized controlled trial. Lancet 383(9935):2144, 2014b Society for Maternal-Fetal Medicine, Simpson LL: Twin-twin transfusion syndrome. Am J Obstet Gynecol 208(1):3, 2013 Speiser PW, Arlt W, Auchus RJ, et al: Congenital adrenal hyperplasia due to steroid 21-hydroxylase deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab 103(11):4043,
+
+## 2018
+
+Srinivasan S, Strasburger J: Overview of fetal arrhythmias. Curr Opin Pediatr 20:522, 2008 Srisupundit K, Sirichotiyakul S, Tongprasent F, et al: Fetal therapy in fetal thyrotoxicosis: a case report. Fetal Diagn Ther 23(2):114, 2008 Stirnemann J, Chalouhi G, Essaoui M, et al: Fetal brain imaging following laser surgery in twin-to-twin surgery. BJOG 125(9):1186, 2018 Stoffan AP, Wilson JM, Jennings RW, et al: Does the ex utero intrapartum treatment to extracorporeal membrane oxygenation procedure change outcomes for high-risk patients with congenital diaphragmatic hernia? J Pediatr Surg 47(6):1053, 2012
+
+Strasburger JF, Wakai RT: Fetal cardiac arrhythmia detection and in utero therapy. Nat Rev Cardiol 7(5):277, 2010 Sugibayashi R, Ozawa K, Sumie M, et al: Forty cases of twin reversed arterial perfusion sequence treated with radio frequency ablation using the multistep coagulation method: a single-center experience. Prenat Diagn 36(5):437, 2016 Ueda K, Maeno Y, Miyoshi T, et al: The impact of intrauterine treatment on fetal tachycardia: a nationwide survey in Japan. J Matern Fetal Neonatal Med 31(19):2605, 2018 van der Heijden LB, Oudijk MA, Manten GT, et al: Sotalol as first-line treatment for fetal tachycardia and neonatal follow-up. Ultrasound Obstet Gynecol 42(3):285, 2013 Van der Veeken L, Russo FM, de Catte L, et al: Fetoscopic endoluminal tracheal occlusion and reestablishment of fetal airways for congenital diaphragmatic hernia. Gynecol Surg 15(1):9, 2018 van Dijk, Smits IH, Fliers E, et al: Maternal thyrotropin receptor antibody concentration and the risk of fetal and neonatal thyrotoxicosis: a systematic review. Thyroid 28(2):257, 2018 Ville Y, Hyett J, Hecher K, et al: Preliminary experience with endoscopic laser surgery for severe twintwin transfusion syndrome. N Engl J Med 332(4):224, 1995 Vrecenak JD, Flake AW: Fetal surgical intervention: progress and perspectives. Pediatr Surg Int 29(5):407, 2013 Wagata M, Muraskoshi T, Ishii K, et al: Radiofrequency ablation with an internally cooled electrode for twin reversed arterial perfusion sequence. Fetal Diagn Ther 40(2):110, 2016 Walsh WF, Chescheir NC, Gillam-Krakauer M, et al: Maternal-fetal surgical procedures. Technical Brief No. 5. AHRQ Publication No. 10(11)-EHC059-EF, Rockville, Agency for Healthcare Research and Quality, 2011 Wilson RD, Lemerand K, Johnson MP, et al: Reproductive outcomes in subsequent pregnancies after a pregnancy complicated by open maternal-fetal surgery (1996–2007). Am J Obstet Gynecol 203(3):209.e1, 2010 Yinon Y, Grisaru-Granovsky S, Chaddha V, et al: Perinatal outcome following fetal chest shunt insertion for pleural effusion. Ultrasound Obstet Gynecol 36:58, 2010

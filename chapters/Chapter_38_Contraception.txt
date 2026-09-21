@@ -1,1437 +1,274 @@
-CHAPTER 38
+# Chapter 38: Contraception
 
-Contraception
+- Intrauterine Devices
+- Progestin-Only Contraceptives
+- Combination Hormonal Contraceptives
+- Barrier Methods
+- Fertility Awareness-Based Methods
+- Spermicides
+- Emergency Contraception
+- References
 
-INTRAUTERINE DEVICES
-PROGESTIN-ONLY CONTRACEPTIVES
-COMBINATION HORMONAL CONTRACEPTIVES
-BARRIER METHODS
-FERTILITY AWARENESS-BASED METHODS
-SPERMICIDES
-EMERGENCY CONTRACEPTION
-REFERENCES
-The puerperium offers an excellent opportunity to provide effective
-contraception. For mothers who are nursing exclusively, ovulation during the
-first 10 weeks after delivery is unlikely. Nursing, however, is not a reliable
-method of family planning for women whose infants breastfeed only during
-the day. Moreover, waiting for first menses involves a risk of pregnancy,
-because ovulation usually antedates menstruation. Certainly, after the first
-menses, contraception is essential unless the woman desires pregnancy.
-Nearly half of all pregnancies each year in the United States are
-unintended (Finer, 2016). These may follow contraceptive method failure or
-stem from lack of contraceptive use. For those seeking contraception,
-effective options are available (Table 38-1). Among these, estimated failure
-rates of perfect and typical use during the first year differ widely (Trussell,
+The puerperium offers an excellent opportunity to provide effective contraception. For mothers who are nursing exclusively, ovulation during the first 10 weeks after delivery is unlikely. Nursing, however, is not a reliable method of family planning for women whose infants breastfeed only during the day. Moreover, waiting for first menses involves a risk of pregnancy, because ovulation usually antedates menstruation. Certainly, after the first menses, contraception is essential unless the woman desires pregnancy. Nearly half of all pregnancies each year in the United States are unintended (Finer, 2016). These may follow contraceptive method failure or stem from lack of contraceptive use. For those seeking contraception, effective options are available (Table 38-1). Among these, estimated failure rates of perfect and typical use during the first year differ widely (Trussell,
 
-2018). Efficacy tiers reflect these failure rates, and implants and intrauterine
-devices (IUDs) are found in the top tier (Steiner, 2006). They effectively
-drop unintended pregnancy rates and are considered long-acting reversible
-contraception (LARC). Clinicians provide counseling on all options and
-encourage LARC for appropriate candidates (American College of
-Obstetricians and Gynecologists, 2019d).
-TABLE 38-1. Contraceptive Failure Rates of Reversible Methods During
-the First Year and Use Ratesa
+2018). Efficacy tiers reflect these failure rates, and implants and intrauterine devices (IUDs) are found in the top tier (Steiner, 2006). They effectively drop unintended pregnancy rates and are considered long-acting reversible contraception (LARC). Clinicians provide counseling on all options and encourage LARC for appropriate candidates (American College of Obstetricians and Gynecologists, 2019d).
 
-No contraceptive method is completely without side effects, but
-contraception usually poses less risk than pregnancy. However, some
-disorders or medications can raise the risks of certain contraceptives. The
-World Health Organization (2015) has provided guidelines for the use of
-effective reversible contraceptive methods by women with various health
-conditions. Individual countries have subsequently modified these guidelines.
-The United States Medical Eligibility Criteria (US MEC) was updated in
-2016 by the Centers for Disease Control and Prevention and is available at
-their website (Curtis, 2016b).
-In the US MEC, reversible contraceptive methods are organized into six
-groups: levonorgestrel-releasing intrauterine system (LNG-IUS), copper
-intrauterine devices (Cu-IUDs), implants, depot medroxyprogesterone
-acetate (DMPA), progestin-only pills (POPs), and combination hormonal
-contraceptives (CHCs). This last group includes combination oral
-contraceptives (COCs), rings, and patches. For a given health condition, each
-method is categorized 1 through 4. The score describes the safety profile for
-a typical woman with that condition: (1) no restriction of method use, (2)
-method advantages outweigh risks, (3) method risks outweigh advantages,
-and (4) method poses an unacceptable health risk.
-Alternatively, depending on the underlying disorder or patient desire,
-male or female sterilization may be a preferred or recommended permanent
+> **Table 38-1:** Contraceptive Failure Rates of Reversible Methods During the First Year and Use Ratesa
 
-contraceptive method. These options are discussed in Chapter 39.
+No contraceptive method is completely without side effects, but contraception usually poses less risk than pregnancy. However, some disorders or medications can raise the risks of certain contraceptives. The World Health Organization (2015) has provided guidelines for the use of effective reversible contraceptive methods by women with various health conditions. Individual countries have subsequently modified these guidelines. The United States Medical Eligibility Criteria (US MEC) was updated in 2016 by the Centers for Disease Control and Prevention and is available at their website (Curtis, 2016b). In the US MEC, reversible contraceptive methods are organized into six groups: levonorgestrel-releasing intrauterine system (LNG-IUS), copper intrauterine devices (Cu-IUDs), implants, depot medroxyprogesterone acetate (DMPA), progestin-only pills (POPs), and combination hormonal contraceptives (CHCs). This last group includes combination oral contraceptives (COCs), rings, and patches. For a given health condition, each method is categorized 1 through 4. The score describes the safety profile for a typical woman with that condition: (1) no restriction of method use, (2) method advantages outweigh risks, (3) method risks outweigh advantages, and (4) method poses an unacceptable health risk. Alternatively, depending on the underlying disorder or patient desire, male or female sterilization may be a preferred or recommended permanent
 
-INTRAUTERINE DEVICES
-The five IUDs currently approved for use in the United States are chemically
-active and continually elute either copper or a progestin. All have a flexible,
-T-shaped, polyethylene frame compounded with barium to render them
-radiopaque. The progestin-eluting devices are similarly shaped, but each
-differs by size, string color, longevity, and presence or absence of a silver
-band at the junction of the stem and arms (Table 38-2). Among these,
-smaller-sized devices are thought to better fit a nulliparous uterus (GemzellDanielsson, 2012). In contrast, the copper device, the T380A IUD named
-ParaGard, contains a thin copper strand wound around its stem and a copper
-bracelet on each arm.
-TABLE 38-2. Properties of Intrauterine Devices
+contraceptive method. These options are discussed in Chapter 39.
 
-■ Contraceptive Action
-The contraceptive mechanism of IUDs is not precisely defined, but
-prevention of fertilization is now favored. Within the uterus, an intense local
-endometrial inflammatory response is induced, especially by the Cu-IUD.
-Inflammatory fluid fills the uterine cavity and fallopian tubes to decrease
-sperm and egg viability (Ortiz, 2007). Also, in the unlikely event that
-fertilization does occur, the same inflammatory actions are directed against
-the blastocyst. With the LNG-IUS, progestin release atrophies the
-endometrium to hinder normal implantation and creates scant viscous
-cervical mucus to obstruct sperm motility (Apter, 2014; Silverberg, 1986).
+## Intrauterine Devices
 
-The above effects are considered primary because ovulation inhibition is
-inconsistent with the LNG-IUS and lacking with the Cu-IUD (Nilsson, 1984).
+The five IUDs currently approved for use in the United States are chemically active and continually elute either copper or a progestin. All have a flexible, T-shaped, polyethylene frame compounded with barium to render them radiopaque. The progestin-eluting devices are similarly shaped, but each differs by size, string color, longevity, and presence or absence of a silver band at the junction of the stem and arms (Table 38-2). Among these, smaller-sized devices are thought to better fit a nulliparous uterus (GemzellDanielsson, 2012). In contrast, the copper device, the T380A IUD named ParaGard, contains a thin copper strand wound around its stem and a copper bracelet on each arm.
 
-■ Method-specific Adverse Effects
-Ectopic Pregnancy
-In the past, IUDs were perceived to increase the risk of ectopic pregnancy,
-but this has since been clarified. Specifically, IUDs provide effective
-contraception and lower the absolute number of ectopic pregnancies by half
-compared with the rate in noncontracepting women (World Health
-Organization, 1985). But, the IUD mechanisms of action are more effective in
-preventing intrauterine implantation. Thus, if an IUD fails, a higher
-proportion of pregnancies are likely to be ectopic (Furlong, 2002; Teal,
-2019).
+> **Table 38-2:** Properties of Intrauterine Devices
 
-Lost Device
-Expulsion of an IUD from the uterus is most common during the first month.
-Thus, women are examined approximately 4 to 6 weeks following IUD
-insertion, usually after menses, to identify the tails trailing from the cervix.
-Following this, a woman is instructed to palpate the strings each month after
-menses. Regardless of IUD type, the cumulative 3-year expulsion rate
-approximates 10 percent following nonpuerperal insertion (Madden, 2014;
-Simonatto, 2016).
-If the tail of an IUD cannot be visualized, the device may have been
-expelled, may have perforated the uterus, or may be malpositioned.
-Alternatively, the device may be normally positioned with its tail folded
-within the endocervical canal or uterine cavity. To investigate, after
-excluding pregnancy, a cytological brush can be twirled within the
-endocervical canal to entangle the strings and bring them gently into the
-vagina. If unsuccessful, the uterine cavity is probed gently with a Randall
-stone clamp or with a specialized rod with a terminal hook to retrieve the
-strings.
-One should not assume that a device has been expelled unless it was
-seen. Thus, if tails are not visible and the device is not felt by gentle probing
-of the uterine cavity, transvaginal sonography (TVS) can be used to ascertain
-if the device lies within the uterus. Although traditional TVS will document
+### Contraceptive Action
 
-IUD position adequately in most cases, three-dimensional TVS offers
-improved views (Moschos, 2011). If sonography is inconclusive or if no
-device is seen, a plain radiograph of the abdominopelvis is taken. Computed
-tomography (CT) scanning or magnetic resonance (MR) imaging is an
-alternative depending on coexisting pregnancy and study access. MR imaging
-at 1.5 or 3 Tesla with an IUD in place is safe (Ciet, 2015).
+The contraceptive mechanism of IUDs is not precisely defined, but prevention of fertilization is now favored. Within the uterus, an intense local endometrial inflammatory response is induced, especially by the Cu-IUD. Inflammatory fluid fills the uterine cavity and fallopian tubes to decrease sperm and egg viability (Ortiz, 2007). Also, in the unlikely event that fertilization does occur, the same inflammatory actions are directed against the blastocyst. With the LNG-IUS, progestin release atrophies the endometrium to hinder normal implantation and creates scant viscous cervical mucus to obstruct sperm motility (Apter, 2014; Silverberg, 1986).
 
-Perforation
-During sounding or IUD insertion, the uterus may be perforated, which is
-identified by the tool traveling farther than expected based on initial
-bimanual uterine examination. Rates approximate 1 case per 1000 insertions,
-and risks include puerperal insertion and breastfeeding (Barnett, 2017;
-Kaislasuo, 2012).
-With acute perforation, the fundus is the more common site, and bleeding
-is often minimal due to myometrial contraction around the puncture site. If no
-brisk bleeding is noted from the os following removal of the wounding tool,
-patient observation alone is reasonable. Rarely, lateral perforations may
-lacerate the uterine artery, and subsequent heavy bleeding prompts
-laparoscopy or laparotomy for control.
-With occult perforation, a device can penetrate the myometrium to
-varying degrees. Abdominal pain, uterine bleeding, or missing strings are
-clues, and imaging described in the last section is a primary step (Kaislasuo,
-2013). A device with an arm partially embedded can sometimes be removed
-transcervically with steady traction. Otherwise, IUDs with a mainly
-intrauterine location are usually removed hysteroscopically. Devices that
-have nearly or completely perforated through the uterine wall are more easily
-extracted laparoscopically. Devices often embed on posterior cul-de-sac
-structures and omentum, but bowel and bladder perforations are possible
-(Şengül, 2014; Zeino, 2011).
+The above effects are considered primary because ovulation inhibition is inconsistent with the LNG-IUS and lacking with the Cu-IUD (Nilsson, 1984).
 
-Menstrual Changes
-Dysmenorrhea and irregular bleeding can complicate IUD use. These can be
-treated with some degree of success by nonsteroidal antiinflammatory drugs
-(NSAIDs) or tranexamic acid, which is an antifibrinolytic (Friedlander,
-2015). Of IUD types, heavy bleeding more often complicates Cu-IUD use and
-may cause iron-deficiency anemia, for which oral iron salts are given. With
+### Method-specific Adverse Effects
 
-the LNG-IUS, irregular spotting for up to 6 months after placement often
-gives way to progressive amenorrhea, which is reported by approximately
-10 percent of women after year 1 and 35 percent after 3 years (Goldthwaite,
-2019). This is frequently associated with improved dysmenorrhea.
+Ectopic Pregnancy In the past, IUDs were perceived to increase the risk of ectopic pregnancy, but this has since been clarified. Specifically, IUDs provide effective contraception and lower the absolute number of ectopic pregnancies by half compared with the rate in noncontracepting women (World Health Organization, 1985). But, the IUD mechanisms of action are more effective in preventing intrauterine implantation. Thus, if an IUD fails, a higher proportion of pregnancies are likely to be ectopic (Furlong, 2002; Teal, 2019).
 
-Infection
-The risk of upper genital tract device-related infection is greatest during the
-first 3 weeks following IUD insertion (Farley, 1992; Turok, 2016). Pathogens
-include Neisseria gonorrhoeae, Chlamydia trachomatis, and vaginal flora.
-Women at risk for sexually transmitted diseases (STDs) should be screened
-either before or at the time of IUD insertion (Centers for Disease Control and
-Prevention, 2015). That said, device insertion need not be delayed while
-awaiting STD or Pap test results in asymptomatic women (Birgisson, 2015).
-If these bacteria are subsequently found, the IUD may remain and treatment
-may be prescribed. Routine antimicrobial prophylaxis before insertion is not
-recommended (Grimes, 2012). Bacterial endocarditis prophylaxis is not
-needed with insertion (Nishimura, 2017).
-After the first month, infection risk is not elevated in IUD users who
-would otherwise be at low risk of STDs. Correspondingly, IUDs cause little,
-if any, increase in infertility rates in these low-risk patients (Hubacher,
-2001). The American College of Obstetricians and Gynecologists (2020a)
-recommends that women at low risk for STDs, including adolescents, be
-considered good candidates for IUDs. The IUD is also safe and effective in
-women with immunosuppression, including human immunodeficiency virus
-(HIV) infection (Tepper, 2016a). Moreover, IUD use does not appear to raise
-HIV acquisition rates (Curtis, 2020).
-If infection does develop, it may take several forms and typically
-requires broad-spectrum antibiotics. Pelvic inflammatory disease (PID)
-without abscess is treated with antibiotics. There are theoretical concerns
-that a coexistent IUD may worsen the infection or delay resolution. A
-provider may choose to remove an IUD in this setting, although growing
-evidence supports allowing device retention during treatment in those with
-mild or moderate PID (Curtis, 2016a; Tepper, 2013). If infection fails to
-improve during 48 to 72 hours of treatment, the device is removed.
-Tuboovarian abscess can complicate PID and is treated aggressively with
-intravenous broad-spectrum antibiotics and IUD removal. Last, septic
-abortion mandates immediate uterine evacuation and antibiotics.
+Lost Device Expulsion of an IUD from the uterus is most common during the first month. Thus, women are examined approximately 4 to 6 weeks following IUD insertion, usually after menses, to identify the tails trailing from the cervix. Following this, a woman is instructed to palpate the strings each month after menses. Regardless of IUD type, the cumulative 3-year expulsion rate approximates 10 percent following nonpuerperal insertion (Madden, 2014; Simonatto, 2016). If the tail of an IUD cannot be visualized, the device may have been expelled, may have perforated the uterus, or may be malpositioned. Alternatively, the device may be normally positioned with its tail folded within the endocervical canal or uterine cavity. To investigate, after excluding pregnancy, a cytological brush can be twirled within the endocervical canal to entangle the strings and bring them gently into the vagina. If unsuccessful, the uterine cavity is probed gently with a Randall stone clamp or with a specialized rod with a terminal hook to retrieve the strings. One should not assume that a device has been expelled unless it was seen. Thus, if tails are not visible and the device is not felt by gentle probing of the uterine cavity, transvaginal sonography (TVS) can be used to ascertain if the device lies within the uterus. Although traditional TVS will document
 
-Actinomyces israelii is a gram-positive, slow-growing, anaerobic,
-indigenous vaginal bacterium. It is frequently identified in the vaginal flora
-or on the Pap smears of IUD users (Curtis, 1981; Kim, 2014). If found, an
-asymptomatic woman may retain her IUD and does not require antibiotics
-(Lippes, 1999; Westhoff, 2007a). However, with infection in a woman who
-harbors Actinomyces species, the device is removed and antibiotics with
-gram-positive coverage are given. Early findings with infection include
-fever, weight loss, abdominal pain, and abnormal uterine bleeding or
-discharge.
+IUD position adequately in most cases, three-dimensional TVS offers improved views (Moschos, 2011). If sonography is inconclusive or if no device is seen, a plain radiograph of the abdominopelvis is taken. Computed tomography (CT) scanning or magnetic resonance (MR) imaging is an alternative depending on coexisting pregnancy and study access. MR imaging at 1.5 or 3 Tesla with an IUD in place is safe (Ciet, 2015).
 
-Pregnancy with an IUD
-For women who become pregnant despite an IUD, ectopic pregnancy and
-pelvic infection each must be excluded. Pregnant women with a retained IUD
-and infection are treated with broad-spectrum antibiotics and prompt uterine
-evacuation.
-For those with intrauterine pregnancy without infection, the IUD tail can
-be grasped, and the IUD removed by gentle outward traction. This action
-reduces rates of subsequent abortion, chorioamnionitis, and preterm birth
-(Brahmi, 2012). Specifically, in one cohort, a 54-percent abortion rate and
-17-percent preterm delivery rate was noted if the device remained in situ.
-More favorably, rates of 25 percent and 4 percent, respectively, resulted
-from prompt Cu-IUD removal (Tatum, 1976). Few data guide management
-with the LNG-IUS, and most practice extrapolates from copper devices.
-If the tail is not visible, attempts to locate and remove the device may
-result in abortion. Some case reports and small series describe sonography
-or hysteroscopy to assist difficult device removals, but this is not our
-practice (Pérez-Medina, 2014; Schiesser, 2004). In women who give birth
-with a device in place, appropriate steps should be taken at delivery to
-identify and remove the IUD.
+Perforation During sounding or IUD insertion, the uterus may be perforated, which is identified by the tool traveling farther than expected based on initial bimanual uterine examination. Rates approximate 1 case per 1000 insertions, and risks include puerperal insertion and breastfeeding (Barnett, 2017; Kaislasuo, 2012). With acute perforation, the fundus is the more common site, and bleeding is often minimal due to myometrial contraction around the puncture site. If no brisk bleeding is noted from the os following removal of the wounding tool, patient observation alone is reasonable. Rarely, lateral perforations may lacerate the uterine artery, and subsequent heavy bleeding prompts laparoscopy or laparotomy for control. With occult perforation, a device can penetrate the myometrium to varying degrees. Abdominal pain, uterine bleeding, or missing strings are clues, and imaging described in the last section is a primary step (Kaislasuo, 2013). A device with an arm partially embedded can sometimes be removed transcervically with steady traction. Otherwise, IUDs with a mainly intrauterine location are usually removed hysteroscopically. Devices that have nearly or completely perforated through the uterine wall are more easily extracted laparoscopically. Devices often embed on posterior cul-de-sac structures and omentum, but bowel and bladder perforations are possible (Şengül, 2014; Zeino, 2011).
 
-■ Intrauterine Device Insertion
-Timing
-Before insertion, IUD contraindications are sought (Table 38-3). Candidates
-are counseled, and written consent obtained.
+Menstrual Changes Dysmenorrhea and irregular bleeding can complicate IUD use. These can be treated with some degree of success by nonsteroidal antiinflammatory drugs (NSAIDs) or tranexamic acid, which is an antifibrinolytic (Friedlander, 2015). Of IUD types, heavy bleeding more often complicates Cu-IUD use and may cause iron-deficiency anemia, for which oral iron salts are given. With
 
-TABLE 38-3. Contraindications to IUD Use
+the LNG-IUS, irregular spotting for up to 6 months after placement often gives way to progressive amenorrhea, which is reported by approximately 10 percent of women after year 1 and 35 percent after 3 years (Goldthwaite, 2019). This is frequently associated with improved dysmenorrhea.
 
-To reduce expulsion rates, IUD insertion traditionally has followed
-complete uterine involution and is termed interval placement. Instead,
-immediately following miscarriage, surgical abortion, or delivery, an IUD
-may be inserted in the absence of overt infection (Roe, 2019; Whitaker,
-2018). Also, early insertion 1 week after mifepristone and completed
-medical abortion has been described (Sääv, 2012; Shimoni, 2011).
-Compared with interval insertion, the IUD expulsion rate is slightly higher
-with immediate placement, defined as the first 10 minutes after placenta
-delivery. The highest rates are with early placement, defined as later than 10
-minutes but within the first month postpartum (Jatlaoui, 2018). The higher US
-MEC scores seen in Table 38-4 reflect these early-placement expulsion
-risks. However, the number of women in immediate-placement groups who
-ultimately receive and retain an IUD is greater than in groups scheduled for
-interval placement, because some fail to return for insertion (Bednarek,
-2011; Chen, 2010).
-TABLE 38-4. U.S. Medical Eligibility Criteria Category of Contraceptive
-Methods Related to Breastfeeding and Time After Delivery
+Infection The risk of upper genital tract device-related infection is greatest during the first 3 weeks following IUD insertion (Farley, 1992; Turok, 2016). Pathogens include Neisseria gonorrhoeae, Chlamydia trachomatis, and vaginal flora. Women at risk for sexually transmitted diseases (STDs) should be screened either before or at the time of IUD insertion (Centers for Disease Control and Prevention, 2015). That said, device insertion need not be delayed while awaiting STD or Pap test results in asymptomatic women (Birgisson, 2015). If these bacteria are subsequently found, the IUD may remain and treatment may be prescribed. Routine antimicrobial prophylaxis before insertion is not recommended (Grimes, 2012). Bacterial endocarditis prophylaxis is not needed with insertion (Nishimura, 2017). After the first month, infection risk is not elevated in IUD users who would otherwise be at low risk of STDs. Correspondingly, IUDs cause little, if any, increase in infertility rates in these low-risk patients (Hubacher, 2001). The American College of Obstetricians and Gynecologists (2020a) recommends that women at low risk for STDs, including adolescents, be considered good candidates for IUDs. The IUD is also safe and effective in women with immunosuppression, including human immunodeficiency virus (HIV) infection (Tepper, 2016a). Moreover, IUD use does not appear to raise HIV acquisition rates (Curtis, 2020). If infection does develop, it may take several forms and typically requires broad-spectrum antibiotics. Pelvic inflammatory disease (PID) without abscess is treated with antibiotics. There are theoretical concerns that a coexistent IUD may worsen the infection or delay resolution. A provider may choose to remove an IUD in this setting, although growing evidence supports allowing device retention during treatment in those with mild or moderate PID (Curtis, 2016a; Tepper, 2013). If infection fails to improve during 48 to 72 hours of treatment, the device is removed. Tuboovarian abscess can complicate PID and is treated aggressively with intravenous broad-spectrum antibiotics and IUD removal. Last, septic abortion mandates immediate uterine evacuation and antibiotics.
 
-Postpregnancy Insertion Techniques
-With immediate insertion, techniques depend on uterine size. After firsttrimester evacuation, the IUD can be placed using the manufacturer’s
-standard instructions. If the uterine cavity is larger, the IUD can be placed
-using ring forceps with sonographic guidance (Fox, 2011).
+Actinomyces israelii is a gram-positive, slow-growing, anaerobic, indigenous vaginal bacterium. It is frequently identified in the vaginal flora or on the Pap smears of IUD users (Curtis, 1981; Kim, 2014). If found, an asymptomatic woman may retain her IUD and does not require antibiotics (Lippes, 1999; Westhoff, 2007a). However, with infection in a woman who harbors Actinomyces species, the device is removed and antibiotics with gram-positive coverage are given. Early findings with infection include fever, weight loss, abdominal pain, and abnormal uterine bleeding or discharge.
 
-Immediately following vaginal or cesarean delivery, an IUD can be
-placed by a hand, by its inserter tube, or by ring forceps (Levi, 2015). The
-arms of the IUD need not be folded into the inserter tube prior to insertion.
-During cesarean delivery placement, the hand or inserter travels through the
-unsutured hysterotomy opening to deposit the device at the fundus (Fig. 381). A second hand cupping the outer fundus can provide back pressure and
-stabilize the uterus during insertion. Strings are gently directed but not pulled
-toward the cervix.
+Pregnancy with an IUD For women who become pregnant despite an IUD, ectopic pregnancy and pelvic infection each must be excluded. Pregnant women with a retained IUD and infection are treated with broad-spectrum antibiotics and prompt uterine evacuation. For those with intrauterine pregnancy without infection, the IUD tail can be grasped, and the IUD removed by gentle outward traction. This action reduces rates of subsequent abortion, chorioamnionitis, and preterm birth (Brahmi, 2012). Specifically, in one cohort, a 54-percent abortion rate and 17-percent preterm delivery rate was noted if the device remained in situ. More favorably, rates of 25 percent and 4 percent, respectively, resulted from prompt Cu-IUD removal (Tatum, 1976). Few data guide management with the LNG-IUS, and most practice extrapolates from copper devices. If the tail is not visible, attempts to locate and remove the device may result in abortion. Some case reports and small series describe sonography or hysteroscopy to assist difficult device removals, but this is not our practice (Pérez-Medina, 2014; Schiesser, 2004). In women who give birth with a device in place, appropriate steps should be taken at delivery to identify and remove the IUD.
 
-FIGURE 38-1 A. Intrauterine device (IUD) insertion at cesarean delivery. The device inserter guides
-the device to the uterine fundus. A hand at the fundus can provide back pressure to stabilize the uterus
-during insertion. B. IUD insertion after vaginal delivery. Ring forceps direct the device to the uterine
-fundus. Back pressure against the fundus by an abdominal hand can help guide positioning. (Reproduced
-with permission from Stuart GS, Hoffman BL: Puerperal sterilization. In Yeomans ER, Hoffman BL,
-Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York,
-McGraw Hill; 2017.)
+### Intrauterine Device Insertion
 
-For instrumented insertion following vaginal delivery, the clinician
-resterilizes the vulva and changes gloves after placental delivery but before
-perineal repairs. The anterior lip of the floppy cervix is held with ring
-forceps. A second ring forceps gently grasps the IUD stem, guides it up into
-the uterine cavity, and deposits it at the fundus. During forceps removal, the
-jaws remain open to avoid ensnaring the strings. For manual insertion
-following vaginal delivery, the provider holds the IUD between fingers to
-deposit the device. In either case, back pressure against the fundus by an
-abdominal hand can guide fundal positioning (Stuart, 2017).
+Timing Before insertion, IUD contraindications are sought (Table 38-3). Candidates are counseled, and written consent obtained.
 
-Interval Insertion Technique
-For placement not related to pregnancy, insertion near the end of normal
-menstruation, when the cervix is usually softer and somewhat more dilated,
-may be easier and also helps exclude early pregnancy. However, for the
+> **Table 38-3:** Contraindications to IUD Use
 
-woman who is sure she is not pregnant and does not want to be pregnant,
-insertion is done at any time.
-To ease insertional pain, applying lidocaine-prilocaine cream locally or
-placing paracervical blockade can be helpful (Akers, 2017; Samy, 2019).
-Bimanual pelvic examination delineates uterine position and size.
-Abnormalities are evaluated, as they may contraindicate insertion.
-Mucopurulent cervicitis or significant vaginitis is appropriately treated and
-resolved before IUD insertion.
-The ectocervix is cleansed with an antiseptic solution, and sterile
-instruments are used. A tenaculum is placed on the cervical lip, and the
-endocervical canal and uterine cavity are straightened by applying gentle
-outward traction. A uterine sound is guided into the cavity to identify its
-direction and depth. Specific steps of Cu-IUD and LNG-IUS insertions are
-outlined in their respective package inserts.
-Following insertion, only the threads should be visible trailing from the
-cervix. These are trimmed to allow 3 to 4 cm to protrude into the vagina, and
-their length is recorded. An oral NSAID can be used for cramping after
-insertion (Ngo, 2015).
-If improper device positioning is suspected, placement should be
-confirmed, using sonography if necessary. If the IUD is not positioned
-completely within the uterus, it is removed and replaced with a new device.
-An expelled or partially expelled device should not be reinserted.
+To reduce expulsion rates, IUD insertion traditionally has followed complete uterine involution and is termed interval placement. Instead, immediately following miscarriage, surgical abortion, or delivery, an IUD may be inserted in the absence of overt infection (Roe, 2019; Whitaker, 2018). Also, early insertion 1 week after mifepristone and completed medical abortion has been described (Sääv, 2012; Shimoni, 2011). Compared with interval insertion, the IUD expulsion rate is slightly higher with immediate placement, defined as the first 10 minutes after placenta delivery. The highest rates are with early placement, defined as later than 10 minutes but within the first month postpartum (Jatlaoui, 2018). The higher US MEC scores seen in Table 38-4 reflect these early-placement expulsion risks. However, the number of women in immediate-placement groups who ultimately receive and retain an IUD is greater than in groups scheduled for interval placement, because some fail to return for insertion (Bednarek, 2011; Chen, 2010).
 
-PROGESTIN-ONLY CONTRACEPTIVES
-■ Actions and Side Effects
-Progestin-only contraceptives include implants, injectables, and pills. These
-suppress luteinizing hormone (LH) to block ovulation, cervical mucus
-thickens to retard sperm passage, and atrophy renders the endometrium
-unfavorable for implantation. Fertility is restored rapidly following cessation
-except for DMPA, described later (Mansour, 2011).
-After placenta delivery, progesterone withdrawal may contribute to
-lactogenesis, and early progestin use theoretically could hinder breastmilk
-establishment. Although studies support the safety of early puerperal use of
-progestins, this theoretical risk is still reflected in their higher US MEC
-score (see Table 38-4) (Carmo, 2017; Phillips, 2016).
+> **Table 38-4:** U.S. Medical Eligibility Criteria Category of Contraceptive Methods Related to Breastfeeding and Time After Delivery
 
-For all progestin-only methods, irregular uterine bleeding is the most
-frequent adverse event prompting discontinuation. Often, counseling and
-reassurance is sufficient. In others, troublesome bleeding may be improved
-by combining the progestin method with a 2-week course of estrogen or with
-a short course of NSAIDs (Abdel-Aleem, 2013). A few cycles of COCs
-combined with DMPA or an implant is another option. Fortunately, with
-prolonged use, progestins induce endometrial atrophy, which can lead to
-sustained amenorrhea. For the informed patient, this is often an advantage.
-Iron-deficiency anemia is also less likely.
-Most progestin-only contraceptive methods do not significantly affect
-lipid metabolism, glucose levels, hemostatic factors, liver function, thyroid
-function, or blood pressure (Dorflinger, 2002). However, the increased lowdensity lipoprotein (LDL) cholesterol and decreased high-density lipoprotein
-(HDL) cholesterol levels seen with DMPA are less desirable for women
-with cardiovascular disease risks (Kongsayreepong, 1993).
-Risks for genital tract, liver, or breast neoplasia are not increased with
-progestin-only methods (Samson, 2016; Wilailak, 2012; World Health
-Organization, 1991a,b, 1992). Weight gain and bone fracture are not
-prominent side effects of this contraceptive group, except for DMPA,
-discussed later (Lopez, 2012, 2013). Functional ovarian cysts are seen more
-often in women using progestin-only agents, although intervention is not
-usually required (European Society of Human Reproduction and Embryology,
-2001). Last, concern for a higher depression rate is not supported by recent
-studies (Skovlund, 2016; Worly, 2018).
+Postpregnancy Insertion Techniques With immediate insertion, techniques depend on uterine size. After firsttrimester evacuation, the IUD can be placed using the manufacturer’s standard instructions. If the uterine cavity is larger, the IUD can be placed using ring forceps with sonographic guidance (Fox, 2011).
 
-■ Progestin Contraindications
-Current pregnancy, breast cancer, acute liver disease, liver tumors, and
-undiagnosed abnormal genital bleeding are absolute contraindications. For
-Nexplanon and DMPA, their manufacturers also add current or past history of
-thromboembolic disorders (Merck, 2019; Pfizer, 2017). However, for
-women with these disorders, the US MEC considers progestin-containing
-methods category 2 (Curtis, 2016b).
+Immediately following vaginal or cesarean delivery, an IUD can be placed by a hand, by its inserter tube, or by ring forceps (Levi, 2015). The arms of the IUD need not be folded into the inserter tube prior to insertion. During cesarean delivery placement, the hand or inserter travels through the unsutured hysterotomy opening to deposit the device at the fundus (Fig. 381). A second hand cupping the outer fundus can provide back pressure and stabilize the uterus during insertion. Strings are gently directed but not pulled toward the cervix.
 
-■ Progestin Implants
+> **Figure 38-1:** A. Intrauterine device (IUD) insertion at cesarean delivery. The device inserter guides the device to the uterine fundus. A hand at the fundus can provide back pressure to stabilize the uterus during insertion. B. IUD insertion after vaginal delivery. Ring forceps direct the device to the uterine fundus. Back pressure against the fundus by an abdominal hand can help guide positioning. (Reproduced with permission from Stuart GS, Hoffman BL: Puerperal sterilization. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw Hill; 2017.)
 
-These thin, pliable, progestin-containing cylinders can be implanted in the
-upper arm to release contraceptive hormone over several years. Implants are
-an effective, top-tier method (Mommers, 2012; Sivin, 1998; Steiner, 2010).
-These systems are placed subdermally on the inner arm approximately 8
-cm from the elbow. Implants vary in their insertion technique, and
-manufacturer instructions should be consulted. After their expiration date,
-implants are removed, and may be replaced at the same site or in the
-opposite arm.
-Nexplanon is a single-rod etonogestrel implant that releases at least 30
-µg of hormone daily and may be used for 3 years. The inserter design assists
-with subdermal positioning and averting deeper placement. Nexplanon
-replaced Implanon, which is still approved by the Food and Drug
-Administration (FDA) but no longer distributed by the manufacturer.
-Levonorgestrel implants are two-rod systems available outside the
-United States and contain a total LNG dose of 150 mg. Jadelle provides
-contraception for 5 years. It is approved by the FDA but not marketed in the
-United States. Sino-implant II provides 3 years of contraception (Steiner,
-2019).
+For instrumented insertion following vaginal delivery, the clinician resterilizes the vulva and changes gloves after placental delivery but before perineal repairs. The anterior lip of the floppy cervix is held with ring forceps. A second ring forceps gently grasps the IUD stem, guides it up into the uterine cavity, and deposits it at the fundus. During forceps removal, the jaws remain open to avoid ensnaring the strings. For manual insertion following vaginal delivery, the provider holds the IUD between fingers to deposit the device. In either case, back pressure against the fundus by an abdominal hand can guide fundal positioning (Stuart, 2017).
 
-Method-specific Adverse Effects
-In addition to the hormonal side effects listed earlier, the implants themselves
-can cause adverse events. These complicate approximately 1 percent of
-implant insertions and 5 percent of removals (Creinin, 2017; Reed, 2019). Of
-serious events, branches of the medial antebrachial cutaneous nerve and
-median nerve can be injured during an implant insertion that is too deep or
-during exploration for implant removal (Laumonerie, 2018). Thus, implants
-found deep in muscle or near neurovascular structures are best removed by
-surgeons with a clear understanding of upper arm anatomy (American
-College of Obstetricians and Gynecologists, 2019a).
-Nonpalpable devices are not uncommon and require imaging for
-localization prior to attempted removal. Nexplanon is radiopaque and can be
-imaged by two-dimensional x-ray views. Implanon is not radiopaque, and
-sonography using a 10- to 15-MHz linear array transducer or MR imaging is
-needed (Correia, 2012; Shulman, 2006). Rarely, an implant can migrate to
-distant sites such as the lung (Kang, 2017). If imaging fails to locate an
-implant, etonogestrel blood levels can help verify that the implant is indeed
+Interval Insertion Technique For placement not related to pregnancy, insertion near the end of normal menstruation, when the cervix is usually softer and somewhat more dilated, may be easier and also helps exclude early pregnancy. However, for the
 
-in situ. This assay must be coordinated with the manufacturer (877-8884231).
+woman who is sure she is not pregnant and does not want to be pregnant, insertion is done at any time. To ease insertional pain, applying lidocaine-prilocaine cream locally or placing paracervical blockade can be helpful (Akers, 2017; Samy, 2019). Bimanual pelvic examination delineates uterine position and size. Abnormalities are evaluated, as they may contraindicate insertion. Mucopurulent cervicitis or significant vaginitis is appropriately treated and resolved before IUD insertion. The ectocervix is cleansed with an antiseptic solution, and sterile instruments are used. A tenaculum is placed on the cervical lip, and the endocervical canal and uterine cavity are straightened by applying gentle outward traction. A uterine sound is guided into the cavity to identify its direction and depth. Specific steps of Cu-IUD and LNG-IUS insertions are outlined in their respective package inserts. Following insertion, only the threads should be visible trailing from the cervix. These are trimmed to allow 3 to 4 cm to protrude into the vagina, and their length is recorded. An oral NSAID can be used for cramping after insertion (Ngo, 2015). If improper device positioning is suspected, placement should be confirmed, using sonography if necessary. If the IUD is not positioned completely within the uterus, it is removed and replaced with a new device. An expelled or partially expelled device should not be reinserted.
 
-Implant Insertion
-The etonogestrel implant is ideally inserted within 5 days of menses onset.
-With LNG-releasing implants, contraception is established within 24 hours if
-inserted within the first 7 days of the menstrual cycle. For transitioning
-methods, an implant is placed on the day of the first placebo COC pill; on the
-day that the next DMPA injection would be due; or within 24 hours of the last
-POP (Merck, 2019). In women certain that they are not pregnant, insertion at
-other times of the cycle is followed by an additional method that serves as a
-back-up method for 7 days. Postabortion or postpartum, an implant may be
-inserted before discharge home (Madden, 2012; Sothornwit, 2017).
-For insertion, the supine patient positions her nondominant arm against
-the bed so that the arm is abducted and the elbow is flexed. With a sterile
-pen, the insertion site is marked 8 to 10 cm proximal to the humerus’ medial
-condyle and 3 to 5 cm posterior to the groove between biceps and triceps
-muscles (Iwanaga, 2019). A second mark is placed 4 cm proximal to the first
-and serves as a guide for the insertion path along the arm’s long axis. The
-Nexplanon is inserted using sterile technique. The area is cleansed
-aseptically, and a 1-percent lidocaine anesthetic track is injected beneath the
-skin along the planned insertion path. The implant is then placed as shown in
-Figure 38-2. After placement, both patient and provider should palpate and
-identify both ends of the 4-cm implant. To minimize bruising at the site, a
-pressure bandage is created around the arm and is removed the following
-day.
+## Progestin-Only Contraceptives
 
-FIGURE 38-2 Nexplanon insertion. A sterile pen marks the insertion site, which is 8 to 10 cm proximal
-to the medial humeral condyle. A second mark is placed 4 cm proximally along the arm’s long axis. The
-area is cleaned aseptically, and a 1-percent lidocaine anesthetic track is injected along the planned
+### Actions and Side Effects
 
-insertion path. A. The insertion device is grasped at its gripper bubbles found on either side, and the
-needle cap is removed outward. The device can be seen within the needle bore. The needle bevel then
-pierces the skin at a 30-degree angle. B. Once the complete bevel is subcutaneous, the needle is quickly
-angled downward to lie horizontally. C. Importantly, the skin is tented upward by the needle as the
-needle is slowly advanced horizontally and subdermally. D. Once the needle is completely inserted, the
-lever on the top of the device is pulled backward toward the operator. This retracts the needle and
-thereby deposits the implant. The device is then lifted away from the skin. After placement, both patient
-and operator should palpate the 4-cm implant.
+Progestin-only contraceptives include implants, injectables, and pills. These suppress luteinizing hormone (LH) to block ovulation, cervical mucus thickens to retard sperm passage, and atrophy renders the endometrium unfavorable for implantation. Fertility is restored rapidly following cessation except for DMPA, described later (Mansour, 2011). After placenta delivery, progesterone withdrawal may contribute to lactogenesis, and early progestin use theoretically could hinder breastmilk establishment. Although studies support the safety of early puerperal use of progestins, this theoretical risk is still reflected in their higher US MEC score (see Table 38-4) (Carmo, 2017; Phillips, 2016).
 
-With implant extraction, the removal site is first cleansed with antiseptic.
-The proximal end of the implant is depressed with a finger to allow the distal
-end to lift up toward the skin. After anesthetizing the skin over this bulge, the
-skin is incised 2 mm toward the elbow along the arm’s long axis. The
-implant’s proximal butt is then pushed toward this incision. Once visible, the
-implant’s distal end is grasped with a hemostat and removed. Superficial
-adhesions surrounding an implant are common and are dissected away with
-hemostat tips.
+For all progestin-only methods, irregular uterine bleeding is the most frequent adverse event prompting discontinuation. Often, counseling and reassurance is sufficient. In others, troublesome bleeding may be improved by combining the progestin method with a 2-week course of estrogen or with a short course of NSAIDs (Abdel-Aleem, 2013). A few cycles of COCs combined with DMPA or an implant is another option. Fortunately, with prolonged use, progestins induce endometrial atrophy, which can lead to sustained amenorrhea. For the informed patient, this is often an advantage. Iron-deficiency anemia is also less likely. Most progestin-only contraceptive methods do not significantly affect lipid metabolism, glucose levels, hemostatic factors, liver function, thyroid function, or blood pressure (Dorflinger, 2002). However, the increased lowdensity lipoprotein (LDL) cholesterol and decreased high-density lipoprotein (HDL) cholesterol levels seen with DMPA are less desirable for women with cardiovascular disease risks (Kongsayreepong, 1993). Risks for genital tract, liver, or breast neoplasia are not increased with progestin-only methods (Samson, 2016; Wilailak, 2012; World Health Organization, 1991a,b, 1992). Weight gain and bone fracture are not prominent side effects of this contraceptive group, except for DMPA, discussed later (Lopez, 2012, 2013). Functional ovarian cysts are seen more often in women using progestin-only agents, although intervention is not usually required (European Society of Human Reproduction and Embryology, 2001). Last, concern for a higher depression rate is not supported by recent studies (Skovlund, 2016; Worly, 2018).
 
-■ Injectable Progestin Contraceptives
-DMPA, 150 mg every 3 months, and norethisterone enanthate, 200 mg every
-2 months, are two intramuscular injectable progestin-only contraceptives
-used worldwide. Of the two, DMPA is available in the United States and
-marketed as Depo-Provera. DMPA is injected into the deltoid or gluteus
-muscle, but massage is avoided to ensure that the drug is released slowly. A
-subcutaneous version, depo-subQ provera 104, is injected into the
-subcutaneous tissue of the anterior thigh or abdomen every 3 months. This
-form may be self-administered (Curtis, 2021).
-Initial injection is given within the first 5 days following menses onset.
-Serum levels sufficient for contraception are present by 24 hours. Thus, no
-additional contraceptive method is required for initiation within this
-window. Limited data support a quick start, or initiation of DMPA
-regardless of cycle day. If so implemented, investigators recommend an
-initial negative pregnancy test result before injection, a supplemental
-contraceptive method during the 7 days following injection, and a second
-pregnancy test after 3 to 6 weeks to identify an early pregnancy (Sneed,
-2005). Conceptions during DMPA use do not have higher fetal anomaly rates
-(Katz, 1985).
+### Progestin Contraindications
 
-Method-specific Adverse Effects
-Unique to DMPA, prolonged anovulation can follow discontinuation and
-results in delayed fertility resumption (Paulen, 2009). After injections are
-stopped, a fourth of patients do not resume regular menses for up to 1 year
-(Gardner, 1970). Thus, DMPA may be less ideal for women who plan to use
-birth control only briefly before attempting conception.
-As with other progestins, DMPA is not associated with cardiovascular
-events or stroke in otherwise healthy women. However, in those with severe
-hypertension, a higher risk of stroke has been found in DMPA users (World
-Health Organization, 1998). The US MEC authors express concerns
-regarding DMPA’s hypoestrogenic effects and reduced HDL levels for
-women with vascular disease or multiple cardiovascular disease risks
-(Curtis, 2016b).
-Weight gain is generally attributed to DMPA, and ranges from 1 to 3 kg in
-the first year (Dianat, 2019). In long-term users, bone density loss is also
-greater than in nonusers (Petitti, 2000; Scholes, 1999). It is somewhat
-reassuring that bone loss appears to slowly reverse after cessation (Clark,
-2006; Scholes, 2002). In 2004, the FDA added a black box warning to
-DMPA labeling, which notes that this concern is probably most relevant for
-adolescents, who are building bone mass, and perimenopausal women, who
-will soon have increased bone loss during menopause. Despite this, DMPA
-should not be restricted in those high-risk groups (American College of
-Obstetricians and Gynecologists, 2019b).
+Current pregnancy, breast cancer, acute liver disease, liver tumors, and undiagnosed abnormal genital bleeding are absolute contraindications. For Nexplanon and DMPA, their manufacturers also add current or past history of thromboembolic disorders (Merck, 2019; Pfizer, 2017). However, for women with these disorders, the US MEC considers progestin-containing methods category 2 (Curtis, 2016b).
 
-■ Progestin-only Pills
-Also called mini-pills, this group contains norethindrone-only, desogestrelonly, and drospirenone-only pills. Of these, each norethindrone-only pill
-provides 0.35 mg of hormone and is taken daily and continuously. This
-specific drug does not reliably inhibit ovulation. Efficacy stems from
-cervical mucus thickening and endometrial atrophy. Because mucus changes
-are not sustained, these pills are best taken at the same time each day. If the
-pill is taken even 3 hours late (missed-pill window), a back-up form of
-contraception is used for the next 48 hours.
-In contrast, the drospirenone-only pill marketed as Slynd delivers 4 mg
-of hormone and is taken for 24 consecutive days out of a 28-day cycle.
+### Progestin Implants
 
-Progestin withdrawal during the last 4 days aims to minimize irregular
-bleeding (Archer, 2015). Both drospirenone and desogestrel pills alter
-mucus and endometrium plus reliably inhibit ovulation. Slynd offers a 24hour missed-pill window, which mirrors that of COC pills (Duijkers, 2016).
-Drospirenone is structurally similar to spironolactone. It displays
-antiandrogenic activity, provides an antialdosterone action to minimize water
-retention, and has antimineralocorticoid properties that may, in theory, cause
-potassium retention and hyperkalemia (Krattenmacher, 2000). Thus,
-contraindications are renal or adrenal insufficiency in addition to traditional
-progestin contraindications, listed earlier (p. 669). Serum potassium level
-monitoring is recommended in the first month for patients chronically treated
-with any drug associated with potassium retention. These include NSAIDs,
-angiotensin-converting enzyme (ACE) inhibitors, angiotensin II antagonists,
-heparin, aldosterone antagonists, and potassium-sparing diuretics.
-Last, desogestrel-only pills contain 0.075 mg of hormone and are used
-daily and continuously. Its missed-pill window is 12 hours. These are not
-available in the United States.
+These thin, pliable, progestin-containing cylinders can be implanted in the upper arm to release contraceptive hormone over several years. Implants are an effective, top-tier method (Mommers, 2012; Sivin, 1998; Steiner, 2010). These systems are placed subdermally on the inner arm approximately 8 cm from the elbow. Implants vary in their insertion technique, and manufacturer instructions should be consulted. After their expiration date, implants are removed, and may be replaced at the same site or in the opposite arm. Nexplanon is a single-rod etonogestrel implant that releases at least 30 µg of hormone daily and may be used for 3 years. The inserter design assists with subdermal positioning and averting deeper placement. Nexplanon replaced Implanon, which is still approved by the Food and Drug Administration (FDA) but no longer distributed by the manufacturer. Levonorgestrel implants are two-rod systems available outside the United States and contain a total LNG dose of 150 mg. Jadelle provides contraception for 5 years. It is approved by the FDA but not marketed in the United States. Sino-implant II provides 3 years of contraception (Steiner, 2019).
 
-COMBINATION HORMONAL CONTRACEPTIVES
-■ Mechanism of Action
-The most important contraceptive effect of both the estrogen and progestin
-components of CHCs is suppression of hypothalamic gonadotropin-releasing
-factors to inhibit ovulation. The progestin also thickens cervical mucus to
-retard sperm passage and renders the endometrium unfavorable for
-implantation. Estrogen stabilizes the endometrium, which prevents
-intermenstrual bleeding—also known as breakthrough bleeding. This benefit
-is termed cycle control. The net effect is an extremely effective yet highly
-reversible contraceptive method.
+Method-specific Adverse Effects In addition to the hormonal side effects listed earlier, the implants themselves can cause adverse events. These complicate approximately 1 percent of implant insertions and 5 percent of removals (Creinin, 2017; Reed, 2019). Of serious events, branches of the medial antebrachial cutaneous nerve and median nerve can be injured during an implant insertion that is too deep or during exploration for implant removal (Laumonerie, 2018). Thus, implants found deep in muscle or near neurovascular structures are best removed by surgeons with a clear understanding of upper arm anatomy (American College of Obstetricians and Gynecologists, 2019a). Nonpalpable devices are not uncommon and require imaging for localization prior to attempted removal. Nexplanon is radiopaque and can be imaged by two-dimensional x-ray views. Implanon is not radiopaque, and sonography using a 10- to 15-MHz linear array transducer or MR imaging is needed (Correia, 2012; Shulman, 2006). Rarely, an implant can migrate to distant sites such as the lung (Kang, 2017). If imaging fails to locate an implant, etonogestrel blood levels can help verify that the implant is indeed
 
-■ Combination Oral Contraceptive Pills
-Composition
-COCs are marketed in various estrogen and progestin combinations (Table
-38-5). Ethinyl estradiol is the most common estrogen present in formulations
+in situ. This assay must be coordinated with the manufacturer (877-8884231).
 
-in the United States. Less frequently, mestranol, estetrol, or estradiol valerate
-is used. Unwanted effects most often attributed to the estrogen component are
-breast tenderness, weight gain, nausea, and headache.
-TABLE 38-5. Estrogen and Progestins Used in FDA-Approved
-Combination Oral Contraceptive Pills
+Implant Insertion The etonogestrel implant is ideally inserted within 5 days of menses onset. With LNG-releasing implants, contraception is established within 24 hours if inserted within the first 7 days of the menstrual cycle. For transitioning methods, an implant is placed on the day of the first placebo COC pill; on the day that the next DMPA injection would be due; or within 24 hours of the last POP (Merck, 2019). In women certain that they are not pregnant, insertion at other times of the cycle is followed by an additional method that serves as a back-up method for 7 days. Postabortion or postpartum, an implant may be inserted before discharge home (Madden, 2012; Sothornwit, 2017). For insertion, the supine patient positions her nondominant arm against the bed so that the arm is abducted and the elbow is flexed. With a sterile pen, the insertion site is marked 8 to 10 cm proximal to the humerus’ medial condyle and 3 to 5 cm posterior to the groove between biceps and triceps muscles (Iwanaga, 2019). A second mark is placed 4 cm proximal to the first and serves as a guide for the insertion path along the arm’s long axis. The Nexplanon is inserted using sterile technique. The area is cleansed aseptically, and a 1-percent lidocaine anesthetic track is injected beneath the skin along the planned insertion path. The implant is then placed as shown in
 
-COCs contain one of several progestins that are structurally related to
-progesterone, testosterone, or spironolactone. Thus, these progestins bind
-variably to progesterone, androgen, glucocorticoid, and mineralocorticoid
-receptors. These affinities explain many pill-related side effects and are
-often used to compare one progestin with another. However, the advantage of
-one progestin over another is less apparent clinically (Lawrie, 2011;
-Moreau, 2007).
-To minimize adverse effects, estrogen and progestin content in COCs has
-dropped remarkably. Currently, the lowest acceptable dose is limited by the
-ability to prevent pregnancy yet maintain cycle control. Thus, the daily
-estrogen content varies from 10 to 50 μg of ethinyl estradiol, and most
-contain ≤35 μg.
-In a few COCs, inert placebo pills have been replaced by tablets
-containing iron. These have the suffix Fe added to their name. Instead, Beyaz
-and Sayfral have a form of folate—levomefolate calcium—within both its
-active and placebo pills.
-With COCs termed monophasic, the progestin dose remains constant. In
-others, the dose frequently is varied, and term biphasic, triphasic, or
-quadriphasic is used depending on the number of dose changes within one
-cycle. In some formulations, the estrogen dose also varies. In general, phasic
-pills aim to reduce the total progestin content and associated side effects per
-cycle without sacrificing contraceptive efficacy or cycle control. The
-theoretical advantage of this approach, however, has not been borne out
-clinically (Moreau, 2007). Cycle control also appears similar among mono-,
-bi-, and triphasic pills (van Vliet, 2011a,b,c).
+> **Figure 38-2:** After placement, both patient and provider should palpate and identify both ends of the 4-cm implant. To minimize bruising at the site, a pressure bandage is created around the arm and is removed the following day.
 
-Administration
-Hormones are taken daily for a specified time (21 to 81 days) and then
-replaced by placebo for a specified time (4 to 7 days), which is called the
-pill-free interval. During these pill-free days, bleeding prompted by
-hormonal withdrawal is expected.
-With the trend toward lower estrogen doses, follicular growth and
-ovulation may occur. To counter this, the active-pill duration in some
-formulations is extended to 24 days. In comparison, these 24/4 regimens
-perform similarly to 21/7 regimens (Anttila, 2011; Marr, 2012).
+> **Figure 38-2:** Nexplanon insertion. A sterile pen marks the insertion site, which is 8 to 10 cm proximal to the medial humeral condyle. A second mark is placed 4 cm proximally along the arm’s long axis. The area is cleaned aseptically, and a 1-percent lidocaine anesthetic track is injected along the planned
 
-Longer durations of active hormone are designed to minimize the number
-of withdrawal bleeding episodes. This practice has similar efficacy and
-safety profiles compared with traditional administration (Edelman, 2014).
-These extended-cycle products produce a 13-week cycle, that is, 12 weeks
-of hormone use, followed by a week for withdrawal menses. Instead, the
-product Amethyst provides continuous active hormone pills for 365 days
-each year. These extended-cycle and continuous regimens may be especially
-suited for women with significant menstrual symptoms (Mendoza, 2014).
-Women ideally begin COCs on the first day of a menstrual cycle. In such
-cases, a back-up method is unnecessary. With the more traditional “Sunday
-start,” women begin pills on the first Sunday that follows menses onset, and a
-back-up method is added for 1 week. If menses begin on a Sunday, pills are
-begun that day and no back-up method is required. Alternatively, with a quick
-start, COCs are started on any day, commonly the day prescribed. A back-up
-method is added for 1 week (Westhoff, 2007b). If the woman is unknowingly
-already pregnant, COCs are not teratogenic (Rothman, 1978; Savolainen,
-1981). A missed menses after COC initiation should prompt pregnancy
-testing. Similar initiation methods are used for contraceptive vaginal rings or
-patches.
-For maximum efficiency, pills are best taken at the same time each day. If
-one dose is missed, the missed pill is taken immediately; the scheduled dose
-for that day is taken on time; and then daily pills are continued. If two or
-more doses are missed, the most recent missed pill is taken immediately; the
-scheduled dose for that day is taken on time; and a back-up method is used
-for 7 days while daily pills are then continued (Curtis, 2016a). If withdrawal
-bleeding fails to occur during the pill-free interval, a woman should continue
-her pills but exclude pregnancy.
-With COC initiation, spotting or bleeding is common. It does not reflect
-contraceptive failure and typically resolves within one to three cycles. If
-unscheduled bleeding persists, those with bleeding during the first part of a
-pill pack may benefit from an increase in the estrogen dose, whereas those
-with bleeding during the second part may improve with a higher progestin
-dose (Nelson, 2011).
+insertion path. A. The insertion device is grasped at its gripper bubbles found on either side, and the needle cap is removed outward. The device can be seen within the needle bore. The needle bevel then pierces the skin at a 30-degree angle. B. Once the complete bevel is subcutaneous, the needle is quickly angled downward to lie horizontally. C. Importantly, the skin is tented upward by the needle as the needle is slowly advanced horizontally and subdermally. D. Once the needle is completely inserted, the lever on the top of the device is pulled backward toward the operator. This retracts the needle and thereby deposits the implant. The device is then lifted away from the skin. After placement, both patient and operator should palpate the 4-cm implant.
 
-■ Method-specific Effects
+With implant extraction, the removal site is first cleansed with antiseptic. The proximal end of the implant is depressed with a finger to allow the distal end to lift up toward the skin. After anesthetizing the skin over this bulge, the skin is incised 2 mm toward the elbow along the arm’s long axis. The implant’s proximal butt is then pushed toward this incision. Once visible, the implant’s distal end is grasped with a hemostat and removed. Superficial adhesions surrounding an implant are common and are dissected away with hemostat tips.
+
+### Injectable Progestin Contraceptives
+
+DMPA, 150 mg every 3 months, and norethisterone enanthate, 200 mg every 2 months, are two intramuscular injectable progestin-only contraceptives used worldwide. Of the two, DMPA is available in the United States and marketed as Depo-Provera. DMPA is injected into the deltoid or gluteus muscle, but massage is avoided to ensure that the drug is released slowly. A subcutaneous version, depo-subQ provera 104, is injected into the subcutaneous tissue of the anterior thigh or abdomen every 3 months. This form may be self-administered (Curtis, 2021). Initial injection is given within the first 5 days following menses onset. Serum levels sufficient for contraception are present by 24 hours. Thus, no additional contraceptive method is required for initiation within this window. Limited data support a quick start, or initiation of DMPA regardless of cycle day. If so implemented, investigators recommend an initial negative pregnancy test result before injection, a supplemental contraceptive method during the 7 days following injection, and a second pregnancy test after 3 to 6 weeks to identify an early pregnancy (Sneed, 2005). Conceptions during DMPA use do not have higher fetal anomaly rates (Katz, 1985).
+
+Method-specific Adverse Effects Unique to DMPA, prolonged anovulation can follow discontinuation and results in delayed fertility resumption (Paulen, 2009). After injections are stopped, a fourth of patients do not resume regular menses for up to 1 year (Gardner, 1970). Thus, DMPA may be less ideal for women who plan to use birth control only briefly before attempting conception. As with other progestins, DMPA is not associated with cardiovascular events or stroke in otherwise healthy women. However, in those with severe hypertension, a higher risk of stroke has been found in DMPA users (World Health Organization, 1998). The US MEC authors express concerns regarding DMPA’s hypoestrogenic effects and reduced HDL levels for women with vascular disease or multiple cardiovascular disease risks (Curtis, 2016b). Weight gain is generally attributed to DMPA, and ranges from 1 to 3 kg in the first year (Dianat, 2019). In long-term users, bone density loss is also greater than in nonusers (Petitti, 2000; Scholes, 1999). It is somewhat reassuring that bone loss appears to slowly reverse after cessation (Clark, 2006; Scholes, 2002). In 2004, the FDA added a black box warning to DMPA labeling, which notes that this concern is probably most relevant for adolescents, who are building bone mass, and perimenopausal women, who will soon have increased bone loss during menopause. Despite this, DMPA should not be restricted in those high-risk groups (American College of Obstetricians and Gynecologists, 2019b).
+
+### Progestin-only Pills
+
+Also called mini-pills, this group contains norethindrone-only, desogestrelonly, and drospirenone-only pills. Of these, each norethindrone-only pill provides 0.35 mg of hormone and is taken daily and continuously. This specific drug does not reliably inhibit ovulation. Efficacy stems from cervical mucus thickening and endometrial atrophy. Because mucus changes are not sustained, these pills are best taken at the same time each day. If the pill is taken even 3 hours late (missed-pill window), a back-up form of contraception is used for the next 48 hours. In contrast, the drospirenone-only pill marketed as Slynd delivers 4 mg of hormone and is taken for 24 consecutive days out of a 28-day cycle.
+
+Progestin withdrawal during the last 4 days aims to minimize irregular bleeding (Archer, 2015). Both drospirenone and desogestrel pills alter mucus and endometrium plus reliably inhibit ovulation. Slynd offers a 24hour missed-pill window, which mirrors that of COC pills (Duijkers, 2016). Drospirenone is structurally similar to spironolactone. It displays antiandrogenic activity, provides an antialdosterone action to minimize water retention, and has antimineralocorticoid properties that may, in theory, cause potassium retention and hyperkalemia (Krattenmacher, 2000). Thus, contraindications are renal or adrenal insufficiency in addition to traditional progestin contraindications, listed earlier (p. 669). Serum potassium level monitoring is recommended in the first month for patients chronically treated with any drug associated with potassium retention. These include NSAIDs, angiotensin-converting enzyme (ACE) inhibitors, angiotensin II antagonists, heparin, aldosterone antagonists, and potassium-sparing diuretics. Last, desogestrel-only pills contain 0.075 mg of hormone and are used daily and continuously. Its missed-pill window is 12 hours. These are not available in the United States.
+
+## Combination Hormonal Contraceptives
+
+### Mechanism of Action
+
+The most important contraceptive effect of both the estrogen and progestin components of CHCs is suppression of hypothalamic gonadotropin-releasing factors to inhibit ovulation. The progestin also thickens cervical mucus to retard sperm passage and renders the endometrium unfavorable for implantation. Estrogen stabilizes the endometrium, which prevents intermenstrual bleeding—also known as breakthrough bleeding. This benefit is termed cycle control. The net effect is an extremely effective yet highly reversible contraceptive method.
+
+### Combination Oral Contraceptive Pills
+
+Composition COCs are marketed in various estrogen and progestin combinations (Table 38-5). Ethinyl estradiol is the most common estrogen present in formulations
+
+in the United States. Less frequently, mestranol, estetrol, or estradiol valerate is used. Unwanted effects most often attributed to the estrogen component are breast tenderness, weight gain, nausea, and headache.
+
+> **Table 38-5:** Estrogen and Progestins Used in FDA-Approved Combination Oral Contraceptive Pills
+
+COCs contain one of several progestins that are structurally related to progesterone, testosterone, or spironolactone. Thus, these progestins bind variably to progesterone, androgen, glucocorticoid, and mineralocorticoid receptors. These affinities explain many pill-related side effects and are often used to compare one progestin with another. However, the advantage of one progestin over another is less apparent clinically (Lawrie, 2011; Moreau, 2007). To minimize adverse effects, estrogen and progestin content in COCs has dropped remarkably. Currently, the lowest acceptable dose is limited by the ability to prevent pregnancy yet maintain cycle control. Thus, the daily estrogen content varies from 10 to 50 μg of ethinyl estradiol, and most contain ≤35 μg. In a few COCs, inert placebo pills have been replaced by tablets containing iron. These have the suffix Fe added to their name. Instead, Beyaz and Sayfral have a form of folate—levomefolate calcium—within both its active and placebo pills. With COCs termed monophasic, the progestin dose remains constant. In others, the dose frequently is varied, and term biphasic, triphasic, or quadriphasic is used depending on the number of dose changes within one cycle. In some formulations, the estrogen dose also varies. In general, phasic pills aim to reduce the total progestin content and associated side effects per cycle without sacrificing contraceptive efficacy or cycle control. The theoretical advantage of this approach, however, has not been borne out clinically (Moreau, 2007). Cycle control also appears similar among mono-, bi-, and triphasic pills (van Vliet, 2011a,b,c).
+
+Administration Hormones are taken daily for a specified time (21 to 81 days) and then replaced by placebo for a specified time (4 to 7 days), which is called the pill-free interval. During these pill-free days, bleeding prompted by hormonal withdrawal is expected. With the trend toward lower estrogen doses, follicular growth and ovulation may occur. To counter this, the active-pill duration in some formulations is extended to 24 days. In comparison, these 24/4 regimens perform similarly to 21/7 regimens (Anttila, 2011; Marr, 2012).
+
+Longer durations of active hormone are designed to minimize the number of withdrawal bleeding episodes. This practice has similar efficacy and safety profiles compared with traditional administration (Edelman, 2014). These extended-cycle products produce a 13-week cycle, that is, 12 weeks of hormone use, followed by a week for withdrawal menses. Instead, the product Amethyst provides continuous active hormone pills for 365 days each year. These extended-cycle and continuous regimens may be especially suited for women with significant menstrual symptoms (Mendoza, 2014). Women ideally begin COCs on the first day of a menstrual cycle. In such cases, a back-up method is unnecessary. With the more traditional “Sunday start,” women begin pills on the first Sunday that follows menses onset, and a back-up method is added for 1 week. If menses begin on a Sunday, pills are begun that day and no back-up method is required. Alternatively, with a quick start, COCs are started on any day, commonly the day prescribed. A back-up method is added for 1 week (Westhoff, 2007b). If the woman is unknowingly already pregnant, COCs are not teratogenic (Rothman, 1978; Savolainen, 1981). A missed menses after COC initiation should prompt pregnancy testing. Similar initiation methods are used for contraceptive vaginal rings or patches. For maximum efficiency, pills are best taken at the same time each day. If one dose is missed, the missed pill is taken immediately; the scheduled dose for that day is taken on time; and then daily pills are continued. If two or more doses are missed, the most recent missed pill is taken immediately; the scheduled dose for that day is taken on time; and a back-up method is used for 7 days while daily pills are then continued (Curtis, 2016a). If withdrawal bleeding fails to occur during the pill-free interval, a woman should continue her pills but exclude pregnancy. With COC initiation, spotting or bleeding is common. It does not reflect contraceptive failure and typically resolves within one to three cycles. If unscheduled bleeding persists, those with bleeding during the first part of a pill pack may benefit from an increase in the estrogen dose, whereas those with bleeding during the second part may improve with a higher progestin dose (Nelson, 2011).
+
+### Method-specific Effects
+
 Altered Drug Efficacy
 
-Some drugs decrease COC effectiveness, and choosing another contraceptive
-method is preferable. Most notable are rifampin/rifabutin, but other
-antibiotics are not implicated (Simmons, 2018). Cytochrome P450–inducing
-anticonvulsants are another group and include phenytoin, phenobarbital,
-primidone, carbamazepine, oxcarbazepine, topiramate, rufinamide, and
-felbamate (American College of Obstetricians and Gynecologists, 2020b).
-Some antiretroviral drugs, mainly among the protease inhibitor group, can
-interact with COCs. A rapidly evolving list is provided by the U.S.
-Department of Health and Human Services (2019).
-In obese women, COCs are effective (Simmons, 2016). With the Ortho
-Evra transdermal patch, however, obesity may alter pharmacokinetics and
-lower efficacy (p. 674).
-On the other hand, some COCs lower the actions of certain drugs.
-Notably, lamotrigine efficacy is lowered by COCs (Gaffield, 2011).
+Some drugs decrease COC effectiveness, and choosing another contraceptive method is preferable. Most notable are rifampin/rifabutin, but other antibiotics are not implicated (Simmons, 2018). Cytochrome P450–inducing anticonvulsants are another group and include phenytoin, phenobarbital, primidone, carbamazepine, oxcarbazepine, topiramate, rufinamide, and felbamate (American College of Obstetricians and Gynecologists, 2020b). Some antiretroviral drugs, mainly among the protease inhibitor group, can interact with COCs. A rapidly evolving list is provided by the U.S. Department of Health and Human Services (2019). In obese women, COCs are effective (Simmons, 2016). With the Ortho Evra transdermal patch, however, obesity may alter pharmacokinetics and lower efficacy (p. 674). On the other hand, some COCs lower the actions of certain drugs. Notably, lamotrigine efficacy is lowered by COCs (Gaffield, 2011).
 
-Metabolic Changes, Risks, and Benefits
-The hormones in COCs can induce metabolic changes that may aggravate
-underlying medical conditions. Most of the contraindications to COCs reflect
-these metabolic alterations (Table 38-6).
-TABLE 38-6. Contraindications to the Use of Combination Oral
-Contraceptive Pills
+Metabolic Changes, Risks, and Benefits The hormones in COCs can induce metabolic changes that may aggravate underlying medical conditions. Most of the contraindications to COCs reflect these metabolic alterations (Table 38-6).
 
-Hepatic angiotensinogen synthesis is augmented by COCs. Its conversion
-by renin to angiotensin I may be associated with pill-induced hypertension.
-Thus, patients return 8 to 12 weeks after COC initiation for evaluation of
-blood pressure and other symptoms. However, women using low-dose COC
-formulations rarely develop clinically significant hypertension (ChasanTaber, 1996).
-In women with well-controlled hypertension, COC use is linked to
-greater risks than in nonusers for stroke, acute myocardial infarction, and
-peripheral arterial disease, and in these women, COCs are considered US
-MEC category 3 (Curtis, 2016b). Severe forms of hypertension, especially
-those with end-organ involvement, preclude COC use.
-The estrogen component of COCs boosts hepatic production of fibrinogen
-and many of the clotting factors. Deep-vein thrombosis and pulmonary
-embolism rates are increased in women who use COCs (Stadel, 1981).
-These events are estrogen-dose related, and rates have substantively
-declined with lower-dose formulations containing 10 to 35 μg of ethinyl
-estradiol. The general-population risk of venous thromboembolism (VTE) is
-4 to 5 events per 100,000 woman-years. The incidence of VTE with COC
+> **Table 38-6:** Contraindications to the Use of Combination Oral Contraceptive Pills
 
-use increases three- to fivefold compared with nonusers (Shaw, 2013; van
-Hylckama Vlieg, 2009). Obesity raises the general VTE risk, which is
-compounded by COCs (Horton, 2016; Suchon, 2016). Accordingly, in an
-obese woman, COCs are considered a US MEC category 2. VTE rates are
-also significantly increased in women smokers older than 35 years, and
-COCs are not recommended. Those most at risk for VTE include women
-with thrombophilias (ESHRE Capri Workshop Group, 2013). Moreover,
-COC use during the month before a major operative procedure appears to
-double the risk for postoperative VTE (Robinson, 1991). Thus, the American
-College of Obstetricians and Gynecologists (2021) recommends balancing
-the risks of VTE and the degree of postoperative immobility with the risk of
-unintended pregnancy during the 4 to 6 weeks required to reverse the
-thrombogenic effects of COCs before surgery. In the early puerperium, VTE
-risks are also increased, and COCs are not recommended early (see Table
-38-4).
-Certain progestins within COC are also linked with greater VTE rates. A
-slightly higher VTE risk with drospirenone-containing COCs has been shown
-in two studies. In response, an assessment of benefits and VTE risks in users
-of these pills has been emphasized (Food and Drug Administration, 2012;
-Jick, 2011; Parkin, 2011). Desogestrel and gestodene are also implicated and
-carry similarly elevated risks (Stegeman, 2013; Vinogradova, 2015).
-For women with prior myocardial infarction, COCs should not be
-considered. Also, for women with multiple cardiovascular risk factors,
-which include smoking, hypertension, older age, dyslipidemias, and diabetes,
-the risk for myocardial infarction outweighs the benefits of this method. For
-women with no cardiovascular risks, low-dose oral contraceptives are not
-associated with an increased risk of myocardial infarction (Margolis, 2007;
-World Health Organization, 1997).
-For nonsmoking women younger than 35, stroke is rare (World Health
-Organization, 1996). COCs are associated with a small increased risk for
-ischemic stroke (Chan, 2004; Lidegaard, 2012). Rates rise significantly for
-women who have hypertension, who smoke, or who have migraine headaches
-with visual aura or other focal neurological changes and use COCs
-(MacClellan, 2007; Tepper, 2016b). The evidence for stroke risk in
-migraineurs without aura is less clear (Etminan, 2005; Schürks, 2009). COC
-initiation may be considered for women with preexisting migraines without
-aura if they are otherwise healthy, younger, normotensive nonsmokers. For
+Hepatic angiotensinogen synthesis is augmented by COCs. Its conversion by renin to angiotensin I may be associated with pill-induced hypertension. Thus, patients return 8 to 12 weeks after COC initiation for evaluation of blood pressure and other symptoms. However, women using low-dose COC formulations rarely develop clinically significant hypertension (ChasanTaber, 1996). In women with well-controlled hypertension, COC use is linked to greater risks than in nonusers for stroke, acute myocardial infarction, and peripheral arterial disease, and in these women, COCs are considered US MEC category 3 (Curtis, 2016b). Severe forms of hypertension, especially those with end-organ involvement, preclude COC use. The estrogen component of COCs boosts hepatic production of fibrinogen and many of the clotting factors. Deep-vein thrombosis and pulmonary embolism rates are increased in women who use COCs (Stadel, 1981). These events are estrogen-dose related, and rates have substantively declined with lower-dose formulations containing 10 to 35 μg of ethinyl estradiol. The general-population risk of venous thromboembolism (VTE) is 4 to 5 events per 100,000 woman-years. The incidence of VTE with COC
 
-women with prior stroke, COCs should not be considered to avoid repeat
-events.
-Regarding carbohydrate metabolism, the risk of developing diabetes is
-not increased with COC use (Kim, 2002). For diabetic women, COCs may
-be used in nonsmokers with disease duration <20 years and without
-associated vascular disease, nephropathy, retinopathy, or neuropathy (Curtis,
-2016b). In general, COCs raise serum triglycerides and total and HDL
-cholesterol levels but lower LDL cholesterol concentrations. Last, studies do
-not support a connection between COCs and weight gain (Gallo, 2014).
-Regarding neoplasia, COCs offer a protective effect against ovarian and
-endometrial cancers (Collaborative Group on Epidemiological Studies of
-Ovarian Cancer, 2008; Tsilidis, 2011). As an exception, the relative risk of
-cervical dysplasia and cervical cancer is higher in current COC users, but
-this declines after use is discontinued. Following 10 or more years, risk
-returns to that of never users (International Collaboration of Epidemiological
-Studies of Cervical Cancer, 2007). It is unclear whether COCs contribute to
-breast cancer development. Major studies show no risk or a small risk
-among current users, which drops with time following cessation
-(Collaborative Group on Hormonal Factors in Breast Cancer, 1996;
-Hannaford, 2007; Marchbanks, 2002).
-COCs are not a risk for liver tumors (Heinemann, 1998; Maheshwari,
-2007). For women with known tumors, COCs may be used in those with
-focal nodular hyperplasia, but avoided in those with benign hepatic adenoma
-and hepatocellular carcinoma (Kapp, 2009c). Rates of colorectal cancer
-appear to be reduced in ever users (Bosetti, 2009; Luan, 2015).
-Of other potential effects, cholestasis and cholestatic jaundice are
-uncommon and resolve when COCs are discontinued. In women who have
-active hepatitis, COCs should not be initiated, but these may be continued in
-women who experience a flare of their liver disease while already taking
-COCs. Use of progestin-only contraception in these women is not restricted.
-Moreover, COCs are suitable for women who have recovered. Mild
-compensated cirrhosis does not limit the use of COCs or progestin-only
-methods. With severe decompensated disease, all hormonal methods are
-avoided (Kapp, 2009a).
-Chloasma, which is hyperpigmentation of the face and forehead, is more
-likely in women who demonstrated such a change during pregnancy. This is
-less common with low-dose estrogen formulations.
+use increases three- to fivefold compared with nonusers (Shaw, 2013; van Hylckama Vlieg, 2009). Obesity raises the general VTE risk, which is compounded by COCs (Horton, 2016; Suchon, 2016). Accordingly, in an obese woman, COCs are considered a US MEC category 2. VTE rates are also significantly increased in women smokers older than 35 years, and COCs are not recommended. Those most at risk for VTE include women with thrombophilias (ESHRE Capri Workshop Group, 2013). Moreover, COC use during the month before a major operative procedure appears to double the risk for postoperative VTE (Robinson, 1991). Thus, the American College of Obstetricians and Gynecologists (2021) recommends balancing the risks of VTE and the degree of postoperative immobility with the risk of unintended pregnancy during the 4 to 6 weeks required to reverse the thrombogenic effects of COCs before surgery. In the early puerperium, VTE risks are also increased, and COCs are not recommended early (see Table 38-4). Certain progestins within COC are also linked with greater VTE rates. A slightly higher VTE risk with drospirenone-containing COCs has been shown in two studies. In response, an assessment of benefits and VTE risks in users of these pills has been emphasized (Food and Drug Administration, 2012; Jick, 2011; Parkin, 2011). Desogestrel and gestodene are also implicated and carry similarly elevated risks (Stegeman, 2013; Vinogradova, 2015). For women with prior myocardial infarction, COCs should not be considered. Also, for women with multiple cardiovascular risk factors, which include smoking, hypertension, older age, dyslipidemias, and diabetes, the risk for myocardial infarction outweighs the benefits of this method. For women with no cardiovascular risks, low-dose oral contraceptives are not associated with an increased risk of myocardial infarction (Margolis, 2007; World Health Organization, 1997). For nonsmoking women younger than 35, stroke is rare (World Health Organization, 1996). COCs are associated with a small increased risk for ischemic stroke (Chan, 2004; Lidegaard, 2012). Rates rise significantly for women who have hypertension, who smoke, or who have migraine headaches with visual aura or other focal neurological changes and use COCs (MacClellan, 2007; Tepper, 2016b). The evidence for stroke risk in migraineurs without aura is less clear (Etminan, 2005; Schürks, 2009). COC initiation may be considered for women with preexisting migraines without aura if they are otherwise healthy, younger, normotensive nonsmokers. For
 
-Previously, COCs were used to treat functional ovarian cysts. However,
-data do not support use of current low-dose COC formulations to resolve or
-prevent these (European Society of Human Reproduction and Embryology,
-2001; Grimes, 2014).
-Last, many noncontraceptive benefits are associated with COC use
-(American College of Obstetricians and Gynecologists, 2018). COCs are
-often selected for these effects, even in those without contraceptive needs.
-First, dysmenorrhea and heavy menstrual bleeding declines. COCs also
-elevate hepatic production of sex hormone–binding globulin. This binds
-bioavailable testosterone to diminish the action of androgens. Thus,
-conditions such as acne and hirsutism can improve. For women with
-premenstrual dysphoric disorder, drospirenone-containing COCs can lessen
-symptoms (Pearlstein, 2005; Yonkers, 2005).
+women with prior stroke, COCs should not be considered to avoid repeat events. Regarding carbohydrate metabolism, the risk of developing diabetes is not increased with COC use (Kim, 2002). For diabetic women, COCs may be used in nonsmokers with disease duration <20 years and without associated vascular disease, nephropathy, retinopathy, or neuropathy (Curtis, 2016b). In general, COCs raise serum triglycerides and total and HDL cholesterol levels but lower LDL cholesterol concentrations. Last, studies do not support a connection between COCs and weight gain (Gallo, 2014). Regarding neoplasia, COCs offer a protective effect against ovarian and endometrial cancers (Collaborative Group on Epidemiological Studies of Ovarian Cancer, 2008; Tsilidis, 2011). As an exception, the relative risk of cervical dysplasia and cervical cancer is higher in current COC users, but this declines after use is discontinued. Following 10 or more years, risk returns to that of never users (International Collaboration of Epidemiological Studies of Cervical Cancer, 2007). It is unclear whether COCs contribute to breast cancer development. Major studies show no risk or a small risk among current users, which drops with time following cessation (Collaborative Group on Hormonal Factors in Breast Cancer, 1996; Hannaford, 2007; Marchbanks, 2002). COCs are not a risk for liver tumors (Heinemann, 1998; Maheshwari, 2007). For women with known tumors, COCs may be used in those with focal nodular hyperplasia, but avoided in those with benign hepatic adenoma and hepatocellular carcinoma (Kapp, 2009c). Rates of colorectal cancer appear to be reduced in ever users (Bosetti, 2009; Luan, 2015). Of other potential effects, cholestasis and cholestatic jaundice are uncommon and resolve when COCs are discontinued. In women who have active hepatitis, COCs should not be initiated, but these may be continued in women who experience a flare of their liver disease while already taking COCs. Use of progestin-only contraception in these women is not restricted. Moreover, COCs are suitable for women who have recovered. Mild compensated cirrhosis does not limit the use of COCs or progestin-only methods. With severe decompensated disease, all hormonal methods are avoided (Kapp, 2009a). Chloasma, which is hyperpigmentation of the face and forehead, is more likely in women who demonstrated such a change during pregnancy. This is less common with low-dose estrogen formulations.
 
-■ Intravaginal Rings
-NuvaRing is a flexible clear intravaginal ring that measures 54 mm in
-diameter and 4 mm in cross section. Its core releases ethinyl estradiol and
-etonogestrel, which are absorbed across the vaginal epithelium. Annovera is
-a new ring that releases ethinyl estradiol and segesterone acetate. Colored
-white, it measures 56 mm in diameter and 8.4 mm in cross section.
-For both, the ring is inserted within 5 days of menses onset and, after 3
-weeks of use, is removed for 1 week to allow withdrawal bleeding.
-Nuvaring is single use, and after menses, a new ring is placed. In contrast,
-after removal and washing, the same Annovera ring is reinserted for another
-3 weeks. One ring can function for 13 such cycles (Nelson, 2019).
-With insertion, the ring is compressed and advanced into the vagina, but
-no specific final orientation within the vagina is required. Patient satisfaction
-is high with this method, although vaginitis, ring-related events, and
-leukorrhea are more common than with COCs (Gemzell-Danielsson, 2019;
-Oddsson, 2005). A ring may be used concurrently with vaginal medications
-or with a tampon (Verhoeven, 2004a,b). However, with Annovera,
-miconazole suppositories raised hormone levels. These were not altered
-with miconazole cream, and thus cream or oral antifungals are preferable
-(Simmons, 2018). Partners may feel the ring during intercourse (Dieben,
-2002). If this is bothersome, the ring may be removed for intercourse but
+Previously, COCs were used to treat functional ovarian cysts. However, data do not support use of current low-dose COC formulations to resolve or prevent these (European Society of Human Reproduction and Embryology, 2001; Grimes, 2014). Last, many noncontraceptive benefits are associated with COC use (American College of Obstetricians and Gynecologists, 2018). COCs are often selected for these effects, even in those without contraceptive needs. First, dysmenorrhea and heavy menstrual bleeding declines. COCs also elevate hepatic production of sex hormone–binding globulin. This binds bioavailable testosterone to diminish the action of androgens. Thus, conditions such as acne and hirsutism can improve. For women with premenstrual dysphoric disorder, drospirenone-containing COCs can lessen symptoms (Pearlstein, 2005; Yonkers, 2005).
 
-should be replaced within 3 hours for Nuvaring and within 2 hours for
-Annovera to maintain efficacy.
+### Intravaginal Rings
 
-■ Transdermal Patches
-The Ortho Evra patch and its generic Xulane each contain ethinyl estradiol
-and norelgestromin. A newer patch, Twirla, releases ethinyl estradiol and
-levonorgestrel. Either patch may be applied to the buttocks, upper outer arm,
-lower abdomen, or upper torso, but the breasts are avoided. Rates of
-application-site skin reaction are low (Kaunitz, 2015; Smallwood, 2001). If
-a patch is so poorly adhered that it requires reinforcement with tape, it
-should be replaced. Women can wear the patch in saunas and whirlpools
-without decreased efficacy (Abrams, 2001; Archer, 2013). However, with
-Twirla, swimming is limited to 30 minutes.
-Initiation of the patch is the same as for COCs, and a new patch is
-applied weekly for 3 weeks, followed by a patch-free week to allow
-withdrawal bleeding. In general, the transdermal patches and vaginal rings
-produce metabolic changes, side effects, and efficacy rates comparable to
-those with COC pills.
-However, the Ortho Evra patch has been associated with a higher VTE
-risk in some but not all studies (Cole, 2007; Jick, 2010; Lidegaard, 2011).
-Labeling for the patch states that the risk for VTE may be increased
-compared with COCs, and relative risk estimates range from 1.2 to 2.2. In
-addition, obesity—90 kg or greater—may be associated with a higher risk
-for patch contraceptive failure (Zieman, 2002).
-In contrast, the LNG-containing patch showed comparable VTE rates
-compared with COCs in one randomized trial (Kaunitz, 2015). Moreover,
-efficacy was similar between obese and normal-weight users.
+NuvaRing is a flexible clear intravaginal ring that measures 54 mm in diameter and 4 mm in cross section. Its core releases ethinyl estradiol and etonogestrel, which are absorbed across the vaginal epithelium. Annovera is a new ring that releases ethinyl estradiol and segesterone acetate. Colored white, it measures 56 mm in diameter and 8.4 mm in cross section. For both, the ring is inserted within 5 days of menses onset and, after 3 weeks of use, is removed for 1 week to allow withdrawal bleeding. Nuvaring is single use, and after menses, a new ring is placed. In contrast, after removal and washing, the same Annovera ring is reinserted for another 3 weeks. One ring can function for 13 such cycles (Nelson, 2019). With insertion, the ring is compressed and advanced into the vagina, but no specific final orientation within the vagina is required. Patient satisfaction is high with this method, although vaginitis, ring-related events, and leukorrhea are more common than with COCs (Gemzell-Danielsson, 2019; Oddsson, 2005). A ring may be used concurrently with vaginal medications or with a tampon (Verhoeven, 2004a,b). However, with Annovera, miconazole suppositories raised hormone levels. These were not altered with miconazole cream, and thus cream or oral antifungals are preferable (Simmons, 2018). Partners may feel the ring during intercourse (Dieben, 2002). If this is bothersome, the ring may be removed for intercourse but
 
-BARRIER METHODS
-■ Male Condom
-For many years, male and female condoms, vaginal diaphragms, and periodic
-abstinence have been used for contraception with variable success. When
-used properly, condoms provide considerable but not absolute protection
-against a broad range of STDs, including HIV (Eaton, 2014). Contraceptive
+should be replaced within 3 hours for Nuvaring and within 2 hours for Annovera to maintain efficacy.
 
-efficacy of the male condom is enhanced by a reservoir tip and by the
-addition of a spermicide. Adjunct lubricant and spermicides should be
-water-based because oil-based products degrade latex.
-For individuals sensitive to latex, condoms made from lamb intestines
-are effective, but they do not provide infection protection. Instead,
-nonallergenic condoms made of polyurethane or of synthetic elastomers are
-available. Polyurethane condoms are effective against STDs but have a
-higher breakage and slippage rate compared with latex condoms (Gallo,
-2015).
+### Transdermal Patches
 
-■ Female Condom
-The only female condom available in the United States is marketed as the
-FC2 Female Condom. It contains a nitrile sheath and outer ring and a
-flexible polyurethane inner ring. Its open ring remains outside the vagina,
-whereas its closed internal ring is fitted under the symphysis like a
-diaphragm (Fig. 38-3). The inner and outer sheath are covered with siliconebased lubricant, and other-based lubricants can be added. Male condoms
-should not be used concurrently because simultaneous use creates friction
-that leads to condom slipping, tearing, and displacement. Following use, the
-female condom outer ring should be twisted to seal the condom so that no
-semen spills. As an added value, the female condom may offer some
-protection against STDs (Minnis, 2005).
+The Ortho Evra patch and its generic Xulane each contain ethinyl estradiol and norelgestromin. A newer patch, Twirla, releases ethinyl estradiol and levonorgestrel. Either patch may be applied to the buttocks, upper outer arm, lower abdomen, or upper torso, but the breasts are avoided. Rates of application-site skin reaction are low (Kaunitz, 2015; Smallwood, 2001). If a patch is so poorly adhered that it requires reinforcement with tape, it should be replaced. Women can wear the patch in saunas and whirlpools without decreased efficacy (Abrams, 2001; Archer, 2013). However, with Twirla, swimming is limited to 30 minutes. Initiation of the patch is the same as for COCs, and a new patch is applied weekly for 3 weeks, followed by a patch-free week to allow withdrawal bleeding. In general, the transdermal patches and vaginal rings produce metabolic changes, side effects, and efficacy rates comparable to those with COC pills. However, the Ortho Evra patch has been associated with a higher VTE risk in some but not all studies (Cole, 2007; Jick, 2010; Lidegaard, 2011). Labeling for the patch states that the risk for VTE may be increased compared with COCs, and relative risk estimates range from 1.2 to 2.2. In addition, obesity—90 kg or greater—may be associated with a higher risk for patch contraceptive failure (Zieman, 2002). In contrast, the LNG-containing patch showed comparable VTE rates compared with COCs in one randomized trial (Kaunitz, 2015). Moreover, efficacy was similar between obese and normal-weight users.
 
-FIGURE 38-3 FC2 Female Condom insertion and positioning. A. The inner ring is squeezed for
-insertion. The sheath is inserted similarly to a diaphragm. B. The inner ring is pushed inward with an
-index finger.
+## Barrier Methods
 
-■ Diaphragm plus Spermicide
-The diaphragm consists of a latex dome of various diameters supported by a
-circular latex-covered metal spring. It is effective when used in combination
-with water-based spermicidal jelly or cream, which is applied into the dome
-cup and along the device rim. The diaphragm is then positioned so that the
-cup faces the cervix and the cervix is partitioned effectively from the
-remainder of the vagina and the penis. In this fashion, the centrally placed
-spermicide is held against the cervix. When appropriately positioned, one
-rim is lodged deep in the posterior vaginal fornix, and the opposite rim fits
-behind the inner surface of the symphysis and immediately below the urethra.
-If a diaphragm is too small, it will not remain in place. If it is too large, it is
-uncomfortable when forced into position. Coexistent pelvic organ prolapse
-typically leads to instability and expulsion. Because size and spring
-flexibility must be individualized, the diaphragm is fitted by providers and
-available only by prescription.
-The diaphragm and spermicide can be inserted hours before intercourse.
-If more than 6 hours elapse, the diaphragm can remain but additional
-spermicide is placed in the vagina for maximum protection. Spermicide is
-reapplied before each coital episode. The diaphragm is not removed for at
-least 6 hours after intercourse. Because toxic shock syndrome has been
-described following its use, it may be worthwhile to remove the diaphragm
-at 6 hours, or at least the next morning, to minimize this rare event.
-Diaphragm use is associated with a slightly greater rate of urinary infections,
-presumably from urethral irritation by the ring under the symphysis.
+### Male Condom
 
-■ Cervical Cap
-FemCap is the only cervical cap currently available in the United States.
-Made of silicone rubber, it has a sailor-cap shape with a dome that covers
-the cervix and a flared brim, which allows the cap to be held in place by the
-upper vagina’s muscular walls. Available in 22-, 26-, and 30-mm sizes, it is
-used with a spermicide applied once at insertion to both sides of the dome
+For many years, male and female condoms, vaginal diaphragms, and periodic abstinence have been used for contraception with variable success. When used properly, condoms provide considerable but not absolute protection against a broad range of STDs, including HIV (Eaton, 2014). Contraceptive
 
-cup. For contraception, it should remain in place for 6 hours following coitus
-and may remain for up to 48 hours. Even with proper fitting and correct use,
-pregnancy rates with this method are higher than those with the diaphragm
-(Gallo, 2012).
+efficacy of the male condom is enhanced by a reservoir tip and by the addition of a spermicide. Adjunct lubricant and spermicides should be water-based because oil-based products degrade latex. For individuals sensitive to latex, condoms made from lamb intestines are effective, but they do not provide infection protection. Instead, nonallergenic condoms made of polyurethane or of synthetic elastomers are available. Polyurethane condoms are effective against STDs but have a higher breakage and slippage rate compared with latex condoms (Gallo, 2015).
 
-FERTILITY AWARENESS–BASED METHODS
-These attempt to identify the fertile days each cycle and advise sexual
-abstinence during these days. Fertility awareness–based methods (FABMs)
-as a group have a 15-percent pregnancy rate with typical use (Trussell,
-2018). Some smartphone applications aim to assist these practices (Berglund
-Scherwitzl, 2017; Jennings, 2019).
-The Standard Days Method counsels women to avoid unprotected
-intercourse during cycle days 8 through 19. For successful use, women must
-have regular monthly cycles of 26 to 32 days. Those who use this method can
-mark a calendar or can use Cycle-Beads, which is a ring of counting beads,
-to keep track of their days.
-The TwoDay Method relies on awareness of vaginal wetness, which
-reflects changes in the amount and quality of cervical mucus at different times
-in the menstrual cycle. Intercourse is considered safe if a woman did not note
-mucus on the day of planned intercourse or the day prior.
-The Symptothermal Method combines changes in cervical mucus—onset
-of the fertile period; changes in basal body temperature—end of the fertile
-period; and calculations to estimate ovulation. A sustained 0.4°F rise in the
-basal body temperature usually precedes ovulation. For maximum efficacy,
-the woman must abstain from intercourse from the first day of menses through
-the third day after the temperature increase. Overall, this method is more
-complex to learn and apply, and it does not appreciably improve efficacy.
+### Female Condom
 
-SPERMICIDES
-Most spermicides contain nonoxynol-9 and are sold over-the-counter as
-creams, jellies, suppositories, films, and foams. They are a less effective
-method but provide a chemical spermicidal action and a physical barrier to
-sperm penetration. Their duration of maximal effectiveness is usually no
+The only female condom available in the United States is marketed as the FC2 Female Condom. It contains a nitrile sheath and outer ring and a flexible polyurethane inner ring. Its open ring remains outside the vagina, whereas its closed internal ring is fitted under the symphysis like a diaphragm (Fig. 38-3). The inner and outer sheath are covered with siliconebased lubricant, and other-based lubricants can be added. Male condoms should not be used concurrently because simultaneous use creates friction that leads to condom slipping, tearing, and displacement. Following use, the female condom outer ring should be twisted to seal the condom so that no semen spills. As an added value, the female condom may offer some protection against STDs (Minnis, 2005).
 
-more than 1 hour, and these do not offer STD protection. If pregnancy does
-occur, nonoxynol-9 is not teratogenic (Briggs, 2017).
-In 2020, a vaginal contraceptive gel containing lactic acid, citric acid,
-and potassium bitartrate was FDA approved as Phexxi. As an acidifying
-agent, it resists the buffering effect of semen and thereby allows the vagina’s
-normally acidic pH to work as a spermicide (Garg, 2001; Nelson, 2018).
-This pH effect also has potential as a microbicide, which warrants additional
-study.
-Ideally, either agent is deposited high in the vagina up to 1 hour before
-coitus. Thereafter, each must be reinserted before repeat intercourse.
+> **Figure 38-3:** FC2 Female Condom insertion and positioning. A. The inner ring is squeezed for insertion. The sheath is inserted similarly to a diaphragm. B. The inner ring is pushed inward with an index finger.
 
-■ Contraceptive Sponge
-The Today contraceptive sponge is an over-the-counter, one-size-fits-all
-device. The nonoxynol-9–impregnated polyurethane disc is 2.5 cm thick and
-5.5 cm wide. One side has a dimple that faces the cervix, and the other has a
-satin loop for removal. The sponge can be inserted up to 24 hours prior to
-intercourse, and while in place, it provides contraception regardless of coital
-frequency. It should remain in place for 6 hours after intercourse. Pregnancy
-is prevented primarily by the spermicide and to a lesser extent by covering
-the cervix and absorbing semen.
-Although the sponge is possibly more convenient than the diaphragm or
-condom, it is less effective than either (Kuyoh, 2013). Most common causes
-for method discontinuance are pregnancy, discomfort, or vaginitis (Beckman,
-1989). Although toxic shock syndrome has been reported with the
-contraceptive sponge, it is rare, and evidence suggests that the sponge may
-actually limit production of the responsible staphylococcal exotoxin
-(Remington, 1987). Still, it is recommended that the sponge not be used
-during menses or the puerperium.
+### Diaphragm plus Spermicide
 
-EMERGENCY CONTRACEPTION
-Following unprotected sexual intercourse, several emergency contraception
-(EC) regimens substantially lower the likelihood of an unwanted pregnancy.
-Current methods include COCs, a progestin, a selective progesteronereceptor modulator (SPRM), and the Cu-IUD (Table 38-7). Notably, the
+The diaphragm consists of a latex dome of various diameters supported by a circular latex-covered metal spring. It is effective when used in combination with water-based spermicidal jelly or cream, which is applied into the dome cup and along the device rim. The diaphragm is then positioned so that the cup faces the cervix and the cervix is partitioned effectively from the remainder of the vagina and the penis. In this fashion, the centrally placed spermicide is held against the cervix. When appropriately positioned, one rim is lodged deep in the posterior vaginal fornix, and the opposite rim fits behind the inner surface of the symphysis and immediately below the urethra. If a diaphragm is too small, it will not remain in place. If it is too large, it is uncomfortable when forced into position. Coexistent pelvic organ prolapse typically leads to instability and expulsion. Because size and spring flexibility must be individualized, the diaphragm is fitted by providers and available only by prescription. The diaphragm and spermicide can be inserted hours before intercourse. If more than 6 hours elapse, the diaphragm can remain but additional spermicide is placed in the vagina for maximum protection. Spermicide is reapplied before each coital episode. The diaphragm is not removed for at least 6 hours after intercourse. Because toxic shock syndrome has been described following its use, it may be worthwhile to remove the diaphragm at 6 hours, or at least the next morning, to minimize this rare event. Diaphragm use is associated with a slightly greater rate of urinary infections, presumably from urethral irritation by the ring under the symphysis.
 
-single-dose LNG pill is available over-the-counter without a prescription to
-all reproductive-aged individuals. Patients can obtain information regarding
-EC by calling 888-NOT-2-LATE or accessing The Emergency Contraception
-Website: http://not-2-late.com. Although not yet adopted as EC, early
-efficacy data find the LNG-IUS not inferior to the Cu-IUD for EC (Turok,
-2021).
-TABLE 38-7. Emergency Contraception Methods and Some Brand-Name
-Examples
+### Cervical Cap
 
-■ Hormonal Emergency Contraception
-Except for allergy to a particular component, no conditions in the US MEC
-contraindicate hormonal EC methods. Moreover, clinical examination or
-pregnancy testing is not required before EC provision (American College of
+FemCap is the only cervical cap currently available in the United States. Made of silicone rubber, it has a sailor-cap shape with a dome that covers the cervix and a flared brim, which allows the cap to be held in place by the upper vagina’s muscular walls. Available in 22-, 26-, and 30-mm sizes, it is used with a spermicide applied once at insertion to both sides of the dome
 
-Obstetricians and Gynecologists, 2019c). With all methods, dosing begins as
-early as possible and ideally within 72 hours of unprotected coitus. It may be
-given up to 120 hours after coitus (Fine, 2010; Rodrigues, 2001; von
-Hertzen, 2002).
-The major mechanism with all hormonal regimens is inhibition or delay
-of ovulation. Of oral methods, failure rates are lowest with ulipristal (1 to 2
-percent) and greatest with the Yuzpe method (2 to 3.5 percent) (Cleland,
-2014). If EC fails to prevent pregnancy or is mistimed, no associations with
-major congenital malformation or pregnancy complications have been noted
-with these hormonal methods (Jatlaoui, 2016; Levy, 2014). With EC
-administration, nausea and vomiting can be an important side effect.
-Accordingly, an oral antiemetic may be prescribed at least 1 hour before
-each dose (Rodriguez, 2013). If a woman vomits within 2 hours of a dose,
-the dose is repeated.
-For subsequent coitus, a barrier method is recommended until long-term
-contraception is begun. If not, EC can be repeated within a given menstrual
-cycle. Quick start initiation of contraceptive methods is suitable and is
-discussed in the respective method sections. Notably, because ulipristal
-competes at the progesterone receptor, a 5-day delay is recommended before
-starting progestin-containing contraceptives.
+cup. For contraception, it should remain in place for 6 hours following coitus and may remain for up to 48 hours. Even with proper fitting and correct use, pregnancy rates with this method are higher than those with the diaphragm (Gallo, 2012).
 
-■ Copper-containing Intrauterine Devices
-For women who are candidates, Cu-IUD insertion is the most effective EC
-method and provides an effective 10-year form of contraception. If an IUD is
-placed up to 5 days after unprotected coitus, the pregnancy rate approximates
-only 0.1 percent (Cleland, 2012; Wu, 2010).
+## Fertility Awareness–Based Methods
 
-REFERENCES
-Abdel-Aleem H, d’Arcangues C, Vogelsong KM, et al: Treatment of vaginal bleeding irregularities
-induced by progestin only contraceptives. Cochrane Database Syst Rev 10:CD003449, 2013
-Abrams LS, Skee DM, Natarajan J, et al: Pharmacokinetics of norelgestromin and ethinyl estradiol
-delivered by a contraceptive patch (Ortho Evra/Evra) under conditions of heat, humidity, and
-exercise. J Clin Pharmacol 41(12):1301, 2001
-Abrams LS, Skee DM, Wong FA, et al: Pharmacokinetics of norelgestromin and ethinyl estradiol from
-two consecutive contraceptive patches. J Clin Pharmacol 41:1232, 2001
+These attempt to identify the fertile days each cycle and advise sexual abstinence during these days. Fertility awareness–based methods (FABMs) as a group have a 15-percent pregnancy rate with typical use (Trussell, 2018). Some smartphone applications aim to assist these practices (Berglund Scherwitzl, 2017; Jennings, 2019). The Standard Days Method counsels women to avoid unprotected intercourse during cycle days 8 through 19. For successful use, women must have regular monthly cycles of 26 to 32 days. Those who use this method can mark a calendar or can use Cycle-Beads, which is a ring of counting beads, to keep track of their days. The TwoDay Method relies on awareness of vaginal wetness, which reflects changes in the amount and quality of cervical mucus at different times in the menstrual cycle. Intercourse is considered safe if a woman did not note mucus on the day of planned intercourse or the day prior. The Symptothermal Method combines changes in cervical mucus—onset of the fertile period; changes in basal body temperature—end of the fertile period; and calculations to estimate ovulation. A sustained 0.4°F rise in the basal body temperature usually precedes ovulation. For maximum efficacy, the woman must abstain from intercourse from the first day of menses through the third day after the temperature increase. Overall, this method is more complex to learn and apply, and it does not appreciably improve efficacy.
 
-Akers AY, Steinway C, Sonalkar S, et al: Reducing pain during intrauterine device insertion: a
-randomized controlled trial in adolescents and young women. Obstet Gynecol 130(4):795, 2017
-American College of Obstetricians and Gynecologists: Noncontraceptive use of hormonal
-contraceptives. Practice Bulletin No. 110, January 2010, Reaffirmed 2018
-American College of Obstetricians and Gynecologists: Clinical challenges of long-acting reversible
-contraceptive methods. Committee Opinion No. 672, September 2016, Reaffirmed 2019a
-American College of Obstetricians and Gynecologists: Depot medroxyprogesterone acetate and bone
-effects. Committee Opinion No. 602, June 2014, Reaffirmed 2019b
-American College of Obstetricians and Gynecologists: Emergency contraception. Practice Bulletin No.
-152, September 2015, Reaffirmed 2019c
-American College of Obstetricians and Gynecologists: Long-acting reversible contraception: implants
-and intrauterine devices. Practice Bulletin No. 186, November 2017, Reaffirmed 2019d
-American College of Obstetricians and Gynecologists: Adolescents and long-acting reversible
-contraception: implants and intrauterine devices. Committee Opinion No. 735, May 2018,
-Reaffirmed 2020a
-American College of Obstetricians and Gynecologists: Gynecologic management of adolescents and
-young women with seizure disorders. Committee Opinion No. 806, May 2020b
-American College of Obstetricians and Gynecologists: Prevention of venous thromboembolism in
-gynecologic surgery. Practice Bulletin No. 232, July 2021
-Anttila L, Bachmann G, Hernádi L, et al: Contraceptive efficacy of a combined oral contraceptive
-containing ethinyl oestradiol 20 μg/drospirenone 3 mg administered in a 24/4 regimen: a pooled
-analysis of four open-label studies. Eur J Obstet Gynecol Reprod Biol 155(2):180, 2011
-Apter D, Gemzell-Danielsson K, Hauck B, et al: Pharmacokinetics of two low-dose levonorgestrelreleasing intrauterine systems and effects on ovulation rate and cervical function: pooled analyses of
-phase II and III studies. Fertil Steril 101(6):1656, 2014
-Archer DF, Ahrendt HJ, Drouin D: Drospirenone-only oral contraceptive: results from a multicenter
-noncomparative trial of efficacy, safety and tolerability. Contraception 92(5):439, 2015
-Archer DF, Stanczyk FZ, Rubin A, et al: Pharmacokinetics and adhesion of the Agile transdermal
-contraceptive patch (AG200-15) during daily exposure to external conditions of heat, humidity and
-exercise. Contraception 87(2):212, 2013
-Barnett C, Moehner S, Do Minh T, et al: Perforation risk and intra-uterine devices: results of the
-EURAS-IUD 5-year extension study. Eur J Contracept Reprod Health Care 22(6):424, 2017
-Bayer HealthCare Pharmaceuticals: Mirena: highlights of prescribing information. 2017. Available at:
-https://labeling.bayerhealthcare.com/html/products/pi/Mirena_PI.pdf. Accessed August 15, 2020
-Beckman LJ, Murray J, Harvey SM: The contraceptive sponge: factors in initiation and discontinuation
-of use. Contraception 40:481, 1989
-Bednarek PH, Creinin MD, Reeves MF, et al: Immediate versus delayed IUD insertion after uterine
-aspiration. N Engl J Med 364(23):2208, 2011
-Berglund Scherwitzl E, Lundberg O, Kopp Kallner H, et al: Perfect-use and typical-use Pearl Index of a
-contraceptive mobile app. Contraception 96(6):420, 2017
-Birgisson NE, Zhao Q, Secura GM, et al: Positive testing for Neisseria gonorrhoeae and Chlamydia
-trachomatis and the risk of pelvic inflammatory disease in IUD users. J Womens Health 24(5):354,
-2015
-Bosetti C, Bravi F, Negri E, et al: Oral contraceptives and colorectal cancer risk: a systematic review
-and meta-analysis. Hum Reprod Update 15(5):489, 2009
+## Spermicides
 
-Brahmi D, Steenland MW, Renner RM, et al: Pregnancy outcomes with an IUD in situ: a systematic
-review. Contraception 85(2):131, 2012
-Briggs GG, Freeman RK, Towers CV, et al: Drugs in Pregnancy and Lactation, 11th ed. Philadelphia,
-Wolters Kluwer, 2017
-Carmo LSMP, Braga GC, Ferriani RA, et al: Timing of etonogestrel-releasing implants and growth of
-breastfed infants: a randomized controlled trial. Obstet Gynecol 130(1):100, 2017
-Centers for Disease Control and Prevention: Sexually transmitted diseases treatment guidelines, 2015.
-MMWR 64(3):1, 2015
-Chan WS, Ray J, Wai EK, et al: Risk of stroke in women exposed to low-dose oral contraceptives: a
-critical evaluation of the evidence. Arch Intern Med 164:741, 2004
-Chasan-Taber L, Willett WC, Manson JE, et al: Prospective study of oral contraceptives and
-hypertension among women in the United States. Circulation 94:483, 1996
-Chen BA, Reeves MF, Hayes JL, et al: Postplacental or delayed insertion of the levonorgestrel
-intrauterine device after vaginal delivery: a randomized controlled trial. Obstet Gynecol 116(5):1079,
-2010
-Ciet P, Litmanovich DE: MR safety issues particular to women. Magn Reson Imaging Clin N Am
-23(1):59, 2015
-Clark MK, Sowers M, Levy B, et al: Bone mineral density loss and recovery during 48 months in firsttime users of depot medroxyprogesterone acetate. Fertil Steril 86:1466, 2006
-Cleland K, Raymond EG, Westley E, et al: Emergency contraception review: evidence-based
-recommendations for clinicians. Clin Obstet Gynecol 57(4):741, 2014
-Cleland K, Zhu H, Goldstuck N, et al: The efficacy of intrauterine devices for emergency contraception:
-a systematic review of 35 years of experience. Hum Reprod 27(7):1994, 2012
-Cole JA, Norman H, Doherty M, et al: Venous thromboembolism, myocardial infarction, and stroke
-among transdermal contraceptive system users. Obstet Gynecol 109:339, 2007
-Collaborative Group on Epidemiological Studies of Ovarian Cancer, Beral V, Doll R, et al: Ovarian
-cancer and oral contraceptives: collaborative reanalysis of data of 45 epidemiological studies
-including 23,257 women with ovarian cancer and 87,303 controls. Lancet 371:303, 2008
-Collaborative Group on Hormonal Factors in Breast Cancer: Breast cancer and hormonal
-contraceptives: collaborative reanalysis of individual data on 53,297 women with breast cancer and
-100,239 women without breast cancer from 54 epidemiological studies. Lancet 347:1713, 1996
-CooperSurgical: Paragard: highlights of prescribing information. 2020. Available at:
-https://www.paragard.com/wp-content/uploads/2018/10/PARAGARD-PI.pdf. Accessed August 15,
-2020
-Correia L, Ramos AB, Machado AI, et al: Magnetic resonance imaging and gynecological devices.
-Contraception 85(6):538, 2012
-Creinin MD, Kaunitz AM, Darney PD, et al: The US etonogestrel implant mandatory clinical training
-and active monitoring programs: 6-year experience. Contraception 95(2):205, 2017
-Curtis EM, Pine L: Actinomyces in the vaginas of women with and without intrauterine contraceptive
-devices. Am J Obstet Gynecol 140:880, 1981
-Curtis KM, Hannaford PC, Rodriguez MI, et al: Hormonal contraception and HIV acquisition among
-women: an updated systematic review. BMJ Sex Reprod Health 46(1):8, 2020
-Curtis KM, Jatlaoui TC, Tepper NK, et al: U.S. selected practice recommendations for contraceptive
-use, 2016. MMWR 65(4):1, 2016a
-Curtis KM, Nguyen A, Reeves JA, et al: Update to U.S. selected practice recommendations for
-contraceptive use: self-administration of subcutaneous depot medroxyprogesterone acetate. MMWR
+Most spermicides contain nonoxynol-9 and are sold over-the-counter as creams, jellies, suppositories, films, and foams. They are a less effective method but provide a chemical spermicidal action and a physical barrier to sperm penetration. Their duration of maximal effectiveness is usually no
 
-70(20):739, 2021
-Curtis KM, Tepper NK, Jatlaoui TC, et al: U.S. medical eligibility criteria for contraceptive use, 2016.
-MMWR 65(3):1, 2016b
-Dianat S, Fox E, Ahrens KA, et al: Side effects and health benefits of depot medroxyprogesterone
-acetate: a systematic review. Obstet Gynecol 133(2):332, 2019
-Dieben TO, Roumen FJ, Apter D: Efficacy, cycle control, and user acceptability of a novel combined
-contraceptive vaginal ring. Obstet Gynecol 100:585, 2002
-Dorflinger LJ: Metabolic effects of implantable steroid contraceptives for women. Contraception
-65(1):47, 2002
-Duijkers IJM, Heger-Mahn D, Drouin D, Colli E, Skouby S. Maintenance of ovulation inhibition with a
-new progestogen-only pill containing drospirenone after scheduled 24-h delays in pill intake.
-Contraception 93(4):303, 2016
-Eaton EF, Hoesley CJ: Barrier methods for human immunodeficiency virus prevention. Infect Dis Clin
-North Am 28(4):585, 2014
-Edelman A, Micks E, Gallo MF, et al: Continuous or extended cycle vs. cyclic use of combined
-hormonal contraceptives for contraception. Cochrane Database Syst Rev 7:CD004695, 2014
-ESHRE Capri Workshop Group: Venous thromboembolism in women: a specific reproductive health
-risk. Hum Reprod Update 19(5):471, 2013
-Etminan M, Takkouche B, Isorna FC, et al: Risk of ischaemic stroke in people with migraine: systematic
-review and meta-analysis of observational studies. BMJ 330:63, 2005
-European Society of Human Reproduction and Embryology—ESHRE Capri Workshop Group: Ovarian
-and endometrial function during hormonal contraception. Hum Reprod 16(7):1527, 2001
-Farley TM, Rosenberg MJ, Rowe PJ, et al: Intrauterine devices and pelvic inflammatory disease: an
-international perspective. Lancet 339:785, 1992
-Fine P, Mathé H, Ginde S, Cullins V, Morfesis J, Gainer E. Ulipristal acetate taken 48–120 hours after
-intercourse for emergency contraception. Obstet Gynecol 115(2 Pt 1):257, 2010
-Finer LB, Zolna MR: Declines in unintended pregnancy in the United States, 2008–2011. N Engl J Med
-374(9):843, 2016
-Food and Drug Administration: FDA Drug Safety Communication: Updated information about the risk
-of blood clots in women taking birth control pills containing drospirenone. 2012. Available at:
-http://www.fda.gov/Drugs/DrugSafety/ucm299305.htm. Accessed July 7, 2016
-Fox MC, Oat-Judge J, Severson K, et al: Immediate placement of intrauterine devices after first and
-second trimester pregnancy termination. Contraception 83(1):34, 2011
-Friedlander E, Kaneshiro B. Therapeutic options for unscheduled bleeding associated with long-acting
-reversible contraception. Obstet Gynecol Clin North Am 42(4):593, 2015
-Furlong LA: Ectopic pregnancy risk when contraception fails. J Reprod Med 47:881, 2002
-Gaffield ME, Culwell KR, Lee CR: The use of hormonal contraception among women taking
-anticonvulsant therapy. Contraception 83(1):16, 2011
-Gallo MF, Grimes DA, Lopez LM, et al: Non-latex versus latex male condoms for contraception.
-Cochrane Database Syst Rev 1:CD003550, 2006, Reaffirmed 2015
-Gallo MF, Grimes DA, Schulz KF: Cervical cap versus diaphragm for contraception. Cochrane
-Database Syst Rev 4:CD003551, 2002, Reassessed 2012
-Gallo MF, Lopez LM, Grimes DA, et al: Combination contraceptives: effects on weight. Cochrane
-Database Syst Rev 1:CD003987, 2014
-Gardner JM, Mishell DR Jr: Analysis of bleeding patterns and resumption of fertility following
-discontinuation of a long-acting injectable contraceptive. Fertil Steril 21:286, 1970
+more than 1 hour, and these do not offer STD protection. If pregnancy does occur, nonoxynol-9 is not teratogenic (Briggs, 2017). In 2020, a vaginal contraceptive gel containing lactic acid, citric acid, and potassium bitartrate was FDA approved as Phexxi. As an acidifying agent, it resists the buffering effect of semen and thereby allows the vagina’s normally acidic pH to work as a spermicide (Garg, 2001; Nelson, 2018). This pH effect also has potential as a microbicide, which warrants additional study. Ideally, either agent is deposited high in the vagina up to 1 hour before coitus. Thereafter, each must be reinserted before repeat intercourse.
 
-Garg S, Anderson RA, Chany CJ, et al. Properties of a new acid-buffering bioadhesive vaginal
-formulation (ACIDFORM). Contraception 64(1):67, 2001
-Gemzell-Danielsson K, Schellschmidt I, Apter D: A randomized, phase II study describing the efficacy,
-bleeding profile, and safety of two low-dose levonorgestrel-releasing intrauterine contraceptive
-systems and Mirena. Fertil Steril 97(3):616, 2012
-Gemzell-Danielsson K, Sitruk-Ware R, Creinin MD, et al: Segesterone acetate/ethinyl estradiol 12month contraceptive vaginal system safety evaluation. Contraception 99(6):323, 2019
-Goldthwaite LM, Creinin MD: Comparing bleeding patterns for the levonorgestrel 52 mg, 19.5 mg, and
-13.5 mg intrauterine systems. Contraception 100(2):128, 2019
-Grimes DA, Jones LB, Lopez LM, et al: Oral contraceptives for functional ovarian cysts. Cochrane
-Database Syst Rev 4:CD006134, 2014
-Grimes DA, Lopez LM; Schulz KF: Antibiotic prophylaxis for intrauterine contraceptive device
-insertion. Cochrane Database Syst Rev 2:CD001327, 2001, Reaffirmed 2012
-Guttmacher Institute: Contraceptive use in the United States. 2020. Available at:
-https://www.guttmacher.org/fact-sheet/contraceptive-use-united-states. Accessed August 21, 2020
-Hall KS, Trussell J, Schwarz EB: Progestin-only contraceptive pill use among women in the United
-States. Contraception 86(6):653, 2012
-Hannaford PC, Selvaraj S, Elliott AM, et al: Cancer risk among users of oral contraceptives: cohort data
-from the Royal College of General Practitioners’ oral contraception study. BMJ 335:651, 2007
-Heinemann LA, Weimann A, Gerken G, et al: Modern oral contraceptive use and benign liver tumors:
-the German Benign Liver Tumor Case-Control Study. Eur J Contracept Reprod Health Care 3:194,
-1998
-Horton LG, Simmons KB, Curtis KM: Combined hormonal contraceptive use among obese women and
-risk for cardiovascular events: a systematic review. Contraception 94(6):590 2016
-Hubacher D, Lara-Ricalde R, Taylor DJ, et al: Use of copper intrauterine devices and the risk of tubal
-infertility among nulligravid women. N Engl J Med 345:561, 2001
-International Collaboration of Epidemiological Studies of Cervical Cancer: Cervical cancer and hormonal
-contraceptives: collaborative reanalysis of individual data for 16,573 women with cervical cancer
-and 35,509 women without cervical cancer from 24 epidemiological studies. Lancet 370:1609, 2007
-Iwanaga J, Fox MC, Rekers H, Schwartz L, Tubbs RS. Neurovascular anatomy of the adult female
-medial arm in relationship to potential sites for insertion of the etonogestrel contraceptive implant.
-Contraception 100(1):26, 2019
-Jatlaoui TC, Riley H, Curtis KM: Safety data for levonorgestrel, ulipristal acetate and Yuzpe regimens
-for emergency contraception. Contraception 93(2):93, 2016
-Jatlaoui TC, Whiteman MK, Jeng G, et al: Intrauterine device expulsion after postpartum placement: a
-systematic review and meta-analysis. Obstet Gynecol 132(4):895, 2018
-Jennings V, Haile LT, Simmons RG, et al: Perfect- and typical-use effectiveness of the Dot fertility app
-over 13 cycles: results from a prospective contraceptive effectiveness trial. Eur J Contracept
-Reprod Health Care 24(2):148, 2019
-Jick SS, Hagberg KW, Kaye JA: ORTHO EVRA and venous thromboembolism: an update.
-Contraception 81(5):452, 2010
-Jick SS, Hernandez RK: Risk of non-fatal venous thromboembolism in women using oral contraceptives
-containing drospirenone compared with women using oral contraceptives containing levonorgestrel:
-case-control study using United States claims data. BMJ 340:d2151, 2011
-Kaislasuo J, Suhonen S, Gissler M, et al: Intrauterine contraception: incidence and factors associated
-with uterine perforation–a population-based study. Hum Reprod 27(9):2658, 2012
+### Contraceptive Sponge
 
-Kaislasuo J, Suhonen S, Gissler M, et al: Uterine perforation caused by intrauterine devices: clinical
-course and treatment. Hum Reprod 28(6):1546, 2013
-Kang S, Niak A, Gada N, et al: Etonogestrel implant migration to the vasculature, chest wall, and distant
-body sites: cases from a pharmacovigilance database. Contraception 96(6):439, 2017
-Kapp N, Curtis KM: Hormonal contraceptive use among women with liver tumors: a systematic review.
-Contraception 80(4):387, 2009a
-Kapp N, Curtis KM: Intrauterine device insertion during the postpartum period: a systematic review.
-Contraception 80(4):327, 2009b
-Kapp N, Tilley IB, Curtis KM: The effects of hormonal contraceptive use among women with viral
-hepatitis or cirrhosis of the liver: a systematic review. Contraception 80(4):381, 2009c
-Katz Z, Lancet M, Skornik J, et al: Teratogenicity of progestogens given during the first trimester of
-pregnancy. Obstet Gynecol 65(6):775, 1985
-Kaunitz AM, Archer DF, Mishell DR Jr, et al: Safety and tolerability of a new low-dose contraceptive
-patch in obese and nonobese women. Am J Obstet Gynecol 212(3):318.e1, 2015
-Kim C, Siscovick DS, Sidney S, et al: Oral contraceptive use and association with glucose, insulin, and
-diabetes in young adult women: the CARDIA Study. Coronary Artery Risk Development in Young
-Adults. Diabetes Care 25:1027, 2002
-Kim YJ, Youm J, Kim JH, et al: Actinomyces-like organisms in cervical smears: the association with
-intrauterine device and pelvic inflammatory diseases. Obstet Gynecol Sci 57(5):393, 2014
-Kongsayreepong R, Chutivongse S, George P, et al: A multicentre comparative study of serum lipids and
-apolipoproteins in long-term users of DMPA and a control group of IUD users. World Health
-Organization. Task Force on Long-Acting Systemic Agents for Fertility Regulation Special
-Programme of Research, Development and Research Training in Human Reproduction.
-Contraception 47(2):177, 1993
-Krattenmacher R: Drospirenone: pharmacology and pharmacokinetics of a unique progestogen.
-Contraception 62:29, 2000
-Kuyoh MA, Toroitich-Ruto C, Grimes DA, et al: Sponge versus diaphragm for contraception. Cochrane
-Database Syst Rev 5:CD003172, 2013
-Lammer EJ, Cordero JF: Exogenous sex hormone exposure and the risk for major malformations.
-JAMA 255:3128, 1986
-Laumonerie P, Blasco L, Tibbo ME, et al: Peripheral nerve injury associated with a subdermal
-contraceptive implant: illustrative cases and systematic review of literature. World Neurosurg
-111:317, 2018
-Lawrie TA, Helmerhorst FM, Maitra NK, et al: Types of progestogens in combined oral contraception:
-effectiveness and side-effects. Cochrane Database Syst Rev 5:CD004861, 2011
-Levi EE, Stuart GS, Zerden ML, et al: Intrauterine device placement during cesarean delivery and
-continued use 6 months postpartum: a randomized controlled trial. Obstet Gynecol 126(1):5, 2015
-Levy DP, Jager M, Kapp N, et al: Ulipristal acetate for emergency contraception: postmarketing
-experience after use by more than 1 million women. Contraception 89(5):431, 2014
-Lidegaard Ø, Løkkegaard E, Jensen A, et al: Thrombotic stroke and myocardial infarction with
-hormonal contraception. N Engl J Med 366(24):2257, 2012
-Lidegaard Ø, Nielsen LH, Skovlund CW, et al: Risk of venous thromboembolism from use of oral
-contraceptives containing different progestogens and oestrogen doses: Danish cohort study, 2001–9.
-BMJ 343:d6423, 2011
-Lippes J: Pelvic actinomycosis: a review and preliminary look at prevalence. Am J Obstet Gynecol
-180:265, 1999
+The Today contraceptive sponge is an over-the-counter, one-size-fits-all device. The nonoxynol-9–impregnated polyurethane disc is 2.5 cm thick and 5.5 cm wide. One side has a dimple that faces the cervix, and the other has a satin loop for removal. The sponge can be inserted up to 24 hours prior to intercourse, and while in place, it provides contraception regardless of coital frequency. It should remain in place for 6 hours after intercourse. Pregnancy is prevented primarily by the spermicide and to a lesser extent by covering the cervix and absorbing semen. Although the sponge is possibly more convenient than the diaphragm or condom, it is less effective than either (Kuyoh, 2013). Most common causes for method discontinuance are pregnancy, discomfort, or vaginitis (Beckman, 1989). Although toxic shock syndrome has been reported with the contraceptive sponge, it is rare, and evidence suggests that the sponge may actually limit production of the responsible staphylococcal exotoxin (Remington, 1987). Still, it is recommended that the sponge not be used during menses or the puerperium.
 
-Lopez LM, Chen M, Mullins S, et al: Steroidal contraceptives and bone fractures in women: evidence
-from observational studies. Cochrane Database Syst Rev 8:CD009849, 2012
-Lopez LM, Edelman A, Chen M, et al: Progestin-only contraceptives: effects on weight. Cochrane
-Database Syst Rev 7:CD008815, 2013
-Luan NN, Wu L, Gong TT, et al: Nonlinear reduction in risk for colorectal cancer by oral contraceptive
-use: a meta-analysis of epidemiological studies. Cancer Causes Control 26(1):65, 2015
-MacClellan LR, Giles W, Cole J, et al: Probable migraine with visual aura and risk of ischemic stroke:
-the Stroke Prevention in Young Women Study. Stroke 38:2438, 2007
-Madden T, Eisenberg DL, Zhao Q, et al: Continuation of the etonogestrel implant in women undergoing
-immediate postabortion placement. Obstet Gynecol 120(5):1053, 2012
-Madden T, McNicholas C, Zhao Q, et al: Association of age and parity with intrauterine device
-expulsion. Obstet Gynecol 124(4):718, 2014
-Madden T, Proehl S, Allsworth JE, et al: Naproxen or estradiol for bleeding and spotting with the
-levonorgestrel intrauterine system: a randomized controlled trial. Am J Obstet Gynecol
-206(2):129.e1, 2012
-Maheshwari S, Sarraj A, Kramer J, et al: Oral contraception and the risk of hepatocellular carcinoma. J
-Hepatol 47:506, 2007
-Mansour D, Gemzell-Danielsson K, Inki P, et al: Fertility after discontinuation of contraception: a
-comprehensive review of the literature. Contraception 84(5):465, 2011
-Marchbanks PA, McDonald JA, Wilson HG, et al: Oral contraceptives and the risk of breast cancer. N
-Engl J Med 346(26):2025, 2002
-Margolis KL, Adami HO, Luo J, et al: A prospective study of oral contraceptive use and risk of
-myocardial infarction among Swedish women. Fertil Steril 88:310, 2007
-Marr J, Gerlinger C, Kunz M: A historical cycle control comparison of two drospirenone-containing
-combined oral contraceptives: ethinyl estradiol 30 μg/drospirenone 3 mg administered in a 21/7
-regimen versus ethinyl estradiol 20 μg/drospirenone 3 mg administered in a 24/4 regimen. Eur J
-Obstet Gynecol Reprod Biol 162(1):91, 2012
-Mendoza N, Lobo P, Lertxundi R, et al: Extended regimens of combined hormonal contraception to
-reduce symptoms related to withdrawal bleeding and the hormone-free interval: a systematic review
-of randomised and observational studies. Eur J Contracept Reprod Health Care 19(5):321, 2014
-Merck: Nexplanon: highlights of prescribing information. 2019. Available at:
-https://www.merck.com/product/usa/pi_circulars/n/nexplanon/nexplanon_pi.pdf. Accessed August
-21, 2020
-Minnis AM, Padian NS: Effectiveness of female controlled barrier methods in preventing sexually
-transmitted infections and HIV: current evidence and future research directions. Sex Transm Infect
-81(3):193, 2005
-Mommers E, Blum GF, Gent TG, et al: Nexplanon, a radiopaque etonogestrel implant in combination
-with a next-generation applicator: 3-year results of a noncomparative multicenter trial. Am J Obstet
-Gynecol 207(5):388.e1, 2012
-Moreau C, Trussell J, Gilbert F, et al: Oral contraceptive tolerance: does the type of pill matter? Obstet
-Gynecol 109:1277, 2007
-Moschos E, Twickler DM: Does the type of intrauterine device affect conspicuity on 2D and 3D
-ultrasound? AJR Am J Roentgenol 196(6):1439, 2011
-Nelson AL, Cwiak C: Combined oral contraceptives (COCs). In Hatcher RA, Trussell J, Nelson AL, et
-al (eds): Contraceptive Technology, 20th ed. New York, Ardent Media, 2011
+## Emergency Contraception
 
-Nelson AL: An overview of properties of Amphora (Acidform) contraceptive vaginal gel. Expert Opin
-Drug Saf 17(9):935, 2018
-Nelson AL: Comprehensive overview of the recently FDA-approved contraceptive vaginal ring
-releasing segesterone acetate and ethinylestradiol: A new year-long, patient controlled, reversible
-birth control method. Expert Rev Clin Pharmacol 12(10):953, 2019
-Ngo LL, Ward KK, Mody SK: Ketorolac for pain control with intrauterine device placement: a
-randomized controlled trial. Obstet Gynecol 126(1):29, 2015
-Nilsson CG, Lähteenmäki PL, Luukkainen T: Ovarian function in amenorrheic and menstruating users of
-a levonorgestrel-releasing intrauterine device. Fertil Steril 41(1):52, 1984
-Nishimura RA, Otto CM, Bonow RO, et al: 2017 AHA/ACC focused update of the 2014 AHA/ACC
-Guideline for the Management of Patients with Valvular Heart Disease: A Report of the American
-College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.
-Circulation 135(25):e1159, 2017
-Oddsson K, Leifels-Fischer B, Wiel-Masson D, et al: Superior cycle control with a contraceptive vaginal
-ring compared with an oral contraceptive containing 30 microg ethinylestradiol and 150 microg
-levonorgestrel: a randomized trial. Hum Reprod 20:557, 2005
-Ortiz ME, Croxatto HB: Copper-T intrauterine device and levonorgestrel intrauterine system: biological
-bases of their mechanism of action. Contraception 75:S16, 2007
-Parkin L, Sharples K, Hernandez RK, et al: Risk of venous thromboembolism in users of oral
-contraceptives containing drospirenone or levonorgestrel: nested case-control study based on UK
-General Practice Research Database. BMJ 340:d2139, 2011
-Paulen ME, Curtis KM: When can a woman have repeat progestogen-only injectables–depot
-medroxyprogesterone acetate or norethisterone enantate? Contraception 80(4):391, 2009
-Pearlstein TB, Bachmann GA, Zacur HA, et al: Treatment of premenstrual dysphoric disorder with a
-new drospirenone-containing oral contraceptive formulation. Contraception 72:414, 2005
-Pérez-Medina T, Sancho-Saúco J, Ríos M, et al: Hysteroscopy in pregnancy-related conditions:
-descriptive analysis in 273 patients. J Minim Invasive Gynecol 21(3):417, 2014
-Petitti DB, Piaggio G, Mehta S, et al: Steroid hormone contraception and bone mineral density: a crosssectional study in an international population. The WHO Study of Hormonal Contraception and Bone
-Health. Obstet Gynecol 95(5):736, 2000
-Pfizer: Depo-Provera (medroxyprogesterone acetate) injectable suspension: highlights of prescribing
-information. 2017. Available at: https://labeling.pfizer.com/ShowLabeling.aspx?id=522. Accessed
-August 21, 2020
-Phillips SJ, Tepper NK, Kapp N, et al: Progestogen-only contraceptive use among breastfeeding
-women: a systematic review. Contraception 94(3):226, 2016
-Raps M, Curvers J, Helmerhorst FM, et al: Thyroid function, activated protein C resistance and the risk
-of venous thrombosis in users of hormonal contraceptives. Thromb Res 133(4):640, 2014
-Reed S, Do Minh T, Lange JA, et al: Real world data on Nexplanon® procedure-related events: final
-results from the Nexplanon Observational Risk Assessment study (NORA). Contraception
-100(1):31, 2019
-Remington KM, Buller RS, Kelly JR: Effect of the Today contraceptive sponge on growth and toxic
-shock syndrome toxin-1 production by Staphylococcus aureus. Obstet Gynecol 69:563, 1987
-Robinson GE, Burren T, Mackie IJ, et al: Changes in haemostasis after stopping the combined
-contraceptive pill: implications for major surgery. BMJ 302:269, 1991
-Rodrigues I, Grou F, Joly J: Effectiveness of emergency contraceptive pills between 72 and 120 hours
-after unprotected sexual intercourse. Am J Obstet Gynecol 184(4):531, 2001
+Following unprotected sexual intercourse, several emergency contraception (EC) regimens substantially lower the likelihood of an unwanted pregnancy. Current methods include COCs, a progestin, a selective progesteronereceptor modulator (SPRM), and the Cu-IUD (Table 38-7). Notably, the
 
-Rodriguez MI, Godfrey EM, Warden M, et al: Prevention and management of nausea and vomiting with
-emergency contraception: a systematic review. Contraception 87(5):583, 2013
-Roe AH, Bartz D: Society of family planning clinical recommendations: contraception after surgical
-abortion. Contraception 99(1):2, 2019
-Rothman KJ, Louik C: Oral contraceptives and birth defects. N Engl J Med 299:522, 1978
-Sääv I, Stephansson O, Gemzell-Danielsson K: Early versus delayed insertion of intrauterine
-contraception after medical abortion—a randomized controlled trial. PLoS One 7(11):e48948, 2012
-Samson M, Porter N, Orekoya O, et al: Progestin and breast cancer risk: a systematic review. Breast
-Cancer Res Treat 155(1):3, 2016
-Samy A, Abbas AM, Mahmoud M, et al: Evaluating different pain lowering medications during
-intrauterine device insertion: a systematic review and network meta-analysis. Fertil Steril 111(3):553,
-2019
-Savolainen E, Saksela E, Saxen L: Teratogenic hazards of oral contraceptives analyzed in a national
-malformation register. Am J Obstet Gynecol 140:521, 1981
-Schiesser M, Lapaire O, Tercanli S, et al: Lost intrauterine devices during pregnancy: maternal and fetal
-outcome after ultrasound-guided extraction. An analysis of 82 cases. Ultrasound Obstet Gynecol
-23:486, 2004
-Scholes D, LaCroix AS, Ichikawa LE, et al: Injectable hormone contraception and bone density: results
-from a prospective study. Epidemiology 13:581, 2002
-Scholes D, LaCroix AS, Ott SM, et al: Bone mineral density in women using depot
-medroxyprogesterone acetate for contraception. Obstet Gynecol 93:233, 1999
-Schürks M, Rist PM, Bigal ME, et al: Migraine and cardiovascular disease: systematic review and
-meta-analysis. BMJ 339:b3914, 2009
-Şengül Ö, Dilbaz B, Kavak D, et al: J Surgical management of extrauterine mislocated intrauterine
-contraceptive devices and related risks. Obstet Gynaecol 34(1):70, 2014
-Shaw KA, Edelman AB: Obesity and oral contraceptives: a clinician’s guide. Best Pract Res Clin
-Endocrinol Metab 27(1):55, 2013
-Shimoni N, Davis A, Ramos ME, et al: Timing of copper intrauterine device insertion after medical
-abortion: a randomized controlled trial. Obstet Gynecol 118(3):623, 2011
-Shulman LP, Gabriel H: Management and localization strategies for the nonpalpable Implanon rod.
-Contraception 73:325, 2006
-Silverberg SG, Haukkamaa M, Arko H, et al: Endometrial morphology during long-term use of
-levonorgestrel releasing intrauterine devices. Int J Gynecol Pathol 5:235, 1986
-Simmons KB, Edelman AB: Hormonal contraception and obesity. Fertil Steril 106(6):1282, 2016
-Simmons KB, Kumar N, Plagianos M, et al: Effects of concurrent vaginal miconazole treatment on the
-absorption and exposure of Nestorone® (segesterone acetate) and ethinyl estradiol delivered from a
-contraceptive vaginal ring: a randomized, crossover drug-drug interaction study. Contraception
-97(3):270, 2018
-Simonatto P, Bahamondes MV, Fernandes A, et al: Comparison of two cohorts of women who expulsed
-either a copper-intrauterine device or a levonorgestrel-releasing intrauterine system. J Obstet
-Gynaecol Res 42(5):554, 2016
-Sivin I, Campodonico I, Kiriwat O, et al: The performance of levonorgestrel rod and Norplant
-contraceptive implants: a 5 year randomized study. Hum Reprod 13(12):3371, 1998
-Skovlund CW, Mørch LS, Kessing LV, et al: Association of hormonal contraception with depression.
-JAMA Psychiatry 73(11):1154, 2016
+single-dose LNG pill is available over-the-counter without a prescription to all reproductive-aged individuals. Patients can obtain information regarding EC by calling 888-NOT-2-LATE or accessing The Emergency Contraception Website: http://not-2-late.com. Although not yet adopted as EC, early efficacy data find the LNG-IUS not inferior to the Cu-IUD for EC (Turok, 2021).
 
-Smallwood GH, Meador ML, Lenihan JP, et al: Efficacy and safety of a transdermal contraceptive
-system. Obstet Gynecol, 98 (5 Pt. 1) 799, 2001
-Sneed R, Westhoff C, Morroni C, et al: A prospective study of immediate initiation of depot
-medroxyprogesterone acetate contraceptive injection. Contraception 71(2):99, 2005
-Sothornwit J, et al: Immediate versus delayed postpartum insertion of contraceptive implant for
-contraception. Cochrane Database Syst Rev 4(4):CD011913, 2017
-Stadel BV: Oral contraceptives and cardiovascular disease. N Engl J Med 305:612, 1981
-Stegeman BH, de Bastos M, Rosendaal FR, et al: Different combined oral contraceptives and the risk
-of venous thrombosis: systematic review and network meta-analysis. BMJ 347:f5298, 2013
-Steiner M, Lopez M, Grimes D, et al: Sino-implant (II)—a levonorgestrel releasing two-rod implant:
-systematic review of the randomized controlled trials. Contraception 81(3)197, 2010
-Steiner MJ, Brache V, Taylor D, et al: Randomized trial to evaluate contraceptive efficacy, safety and
-acceptability of a two-rod contraceptive implant over 4 years in the Dominican Republic. Contracept
-X 1(100006): 1, 2019
-Steiner MJ, Trussell J, Mehta N, et al: Communicating contraceptive effectiveness: a randomized
-controlled trial to inform a World Health Organization family planning handbook. Am J Obstet
-Gynecol 195(1):85, 2006
-Stuart GS, Hoffman BL: Puerperal sterilization. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al
-(eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw-Hill Education,
-2017
-Suchon P, Al Frouh F, Henneuse A, et al: Risk factors for venous thromboembolism in women under
-combined oral contraceptive. The PILl Genetic Risk Monitoring (PILGRIM) Study. Thromb
-Haemost 115(1):13, 2016
-Tatum HJ, Schmidt FH, Jain AK: Management and outcome of pregnancies associated with Copper-T
-intrauterine contraceptive device. Am J Obstet Gynecol 126:869, 1976
-Teal SB, Turok DK, Chen BA, et al: Five-year contraceptive efficacy and safety of a levonorgestrel 52mg intrauterine system. Obstet Gynecol 133(1):63, 2019
-Tepper NK, Curtis KM, Nanda K, et al: Safety of intrauterine devices among women with HIV: a
-systematic review. Contraception 94(6):713, 2016a
-Tepper NK, Steenland MW, Gaffield ME, et al: Retention of intrauterine devices in women who acquire
-pelvic inflammatory disease: a systematic review. Contraception 87(5):655, 2013
-Tepper NK, Whiteman MK, Zapata LB, et al: Safety of hormonal contraceptives among women with
-migraine: a systematic review. Contraception 94(6):630, 2016b
-Trussell J, Aikens AR, Micks E, et al: Efficacy, safety, and personal considerations. In Hatcher RA,
-Nelson AL, Trussell J, et al (eds): Contraceptive Technology, 21st ed. New York, Ayer Company,
-2018, p 100
-Tsilidis KK, Allen NE, Key TJ, et al: Oral contraceptive use and reproductive factors and risk of ovarian
-cancer in the European Prospective Investigation into Cancer and Nutrition. Br J Cancer
-105(9):1436, 2011
-Turok DK, Eisenberg DL, Teal SB, et al: A prospective assessment of pelvic infection risk following
-same-day sexually transmitted infection testing and levonorgestrel intrauterine system placement.
-Am J Obstet Gynecol 215(5):599.e1, 2016
-Turok DK, Gero A, Simmons RG, et al: Levonorgestrel vs. copper intrauterine devices for emergency
-contraception. N Engl J Med 384(4):335, 2021
-US Department of Health and Human Services: Guidelines for the use of antiretroviral agents in adults
-and adolescents with HIV. 2019. Available at: https://clinicalinfo.hiv.gov/sites/default/files/inline-
+> **Table 38-7:** Emergency Contraception Methods and Some Brand-Name Examples
 
-files/AdultandAdolescentGL.pdf. Accessed October 17, 2020
-van Hylckama Vlieg A, Helmerhorst FM, Vandenbroucke JP, et al: The venous thrombotic risk of oral
-contraceptives, effects of oestrogen dose and progestogen type: results of the MEGA case-control
-study. BMJ 339:b2921, 2009
-Van Vliet HA, Grimes DA, Helmerhorst FM, et al: Biphasic versus monophasic oral contraceptives for
-contraception. Cochrane Database Syst Rev 6:CD002032, 2006, Reaffirmed 2011a
-Van Vliet HA, Grimes DA, Lopez LM, et al: Triphasic versus monophasic oral contraceptives for
-contraception. Cochrane Database Syst Rev 11:CD003553, 2011b
-Van Vliet HA, Raps M, Lopez LM, et al: Quadriphasic versus monophasic oral contraceptives for
-contraception. Cochrane Database Syst Rev 11:CD009038, 2011c
-Verhoeven CH, Dieben TO: The combined contraceptive vaginal ring, NuvaRing, and tampon co-usage.
-Contraception 69(3):197, 2004a
-Verhoeven CH, van den Heuvel MW, Mulders TM, et al: The contraceptive vaginal ring, NuvaRing, and
-antimycotic co-medication. Contraception 69(2):129, 2004b
-Vinogradova Y, Coupland C, Hippisley-Cox J: Use of combined oral contraceptives and risk of venous
-thromboembolism: nested case-control studies using the Research and CPRD data-bases. BMJ
-350:h2135, 2015
-von Hertzen H, Piaggio G, Ding J, et al: Low dose mifepristone and two regimens of levonorgestrel for
-emergency contraception: a WHO multicentre randomised trial. WHO Research Group on Postovulatory Methods of Fertility Regulation. Lancet 360(9348):1803, 2002
-Westhoff C, Heartwell S, Edwards S, et al: Initiation of oral contraceptive using a quick start compared
-with a conventional start: a randomized controlled trial. Obstet Gynecol 109:1270, 2007b
-Westhoff C: IUDs and colonization or infection with Actinomyces. Contraception 75:S48, 2007a
-Whitaker AK, Chen BA: Society of family planning guidelines: postplacental insertion of intrauterine
-devices. Contraception 97(1):2, 2018
-Wilailak S, Vipupinyo C, Suraseranivong V, et al: Depot medroxyprogesterone acetate and epithelial
-ovarian cancer: a multicentre case-control study. BJOG 119(6):672, 2012
-World Health Organization: A multinational case-control study of ectopic pregnancy. Clin Reprod Fertil
-3:131, 1985
-World Health Organization: Acute myocardial infarction and combined oral contraceptives: results of an
-international multi-center case-control study. Lancet 349:1202, 1997
-World Health Organization: Cardiovascular disease and use of oral and injectable progestogen-only
-contraceptives and combined injectable contraceptives. Results of an international, multicenter, casecontrol study. Contraception 57:315, 1998
-World Health Organization: Depot-medroxyprogesterone acetate (DMPA) and risk of endometrial
-cancer. Int J Cancer 49:186, 1991a
-World Health Organization: Depot-medroxyprogesterone acetate (DMPA) and risk of liver cancer. Int J
-Cancer 49(2):182, 1991b
-World Health Organization: Depot-medroxyprogesterone acetate (DMPA) and risk of invasive
-squamous cell cervical cancer. Contraception 45(4): 299, 1992
-World Health Organization: Ischaemic stroke and combined oral contraceptives: results of an
-international, multi-center case-control study. Lancet 348:498, 1996
-World Health Organization: Medical Eligibility for Contraceptive Use, 5th ed. Geneva, World Health
-Organization, 2015
-Worly BL, Gur TL, Schaffir J: The relationship between progestin hormonal contraception and
-depression: a systematic review. Contraception 97(6):478, 2018
+### Hormonal Emergency Contraception
 
-Wu S, Godfrey EM, Wojdyla D, et al: Copper T380A intrauterine device for emergency contraception: a
-prospective, multicentre, cohort clinical trial. BJOG 117(10):1205, 2010
-Yonkers KA, Brown C, Pearlstein TB, et al: Efficacy of a new low-dose oral contraceptive with
-drospirenone in premenstrual dysphoric disorder. Obstet Gynecol 106:492, 2005
-Zeino MY, Wietfeldt ED, Advani V, et al: Laparoscopic removal of a copper intrauterine device from
-the sigmoid colon. JSLS 15(4):568, 2011
-Zieman M, Guillebaud J, Weisberg E, et al: Contraceptive efficacy and cycle control with the Ortho
-Evra/Evra transdermal system: the analysis of pooled data. Fertil Steril 77:S13, 2002
+Except for allergy to a particular component, no conditions in the US MEC contraindicate hormonal EC methods. Moreover, clinical examination or pregnancy testing is not required before EC provision (American College of
 
+Obstetricians and Gynecologists, 2019c). With all methods, dosing begins as early as possible and ideally within 72 hours of unprotected coitus. It may be given up to 120 hours after coitus (Fine, 2010; Rodrigues, 2001; von Hertzen, 2002). The major mechanism with all hormonal regimens is inhibition or delay of ovulation. Of oral methods, failure rates are lowest with ulipristal (1 to 2 percent) and greatest with the Yuzpe method (2 to 3.5 percent) (Cleland, 2014). If EC fails to prevent pregnancy or is mistimed, no associations with major congenital malformation or pregnancy complications have been noted with these hormonal methods (Jatlaoui, 2016; Levy, 2014). With EC administration, nausea and vomiting can be an important side effect. Accordingly, an oral antiemetic may be prescribed at least 1 hour before each dose (Rodriguez, 2013). If a woman vomits within 2 hours of a dose, the dose is repeated. For subsequent coitus, a barrier method is recommended until long-term contraception is begun. If not, EC can be repeated within a given menstrual cycle. Quick start initiation of contraceptive methods is suitable and is discussed in the respective method sections. Notably, because ulipristal competes at the progesterone receptor, a 5-day delay is recommended before starting progestin-containing contraceptives.
+
+### Copper-containing Intrauterine Devices
+
+For women who are candidates, Cu-IUD insertion is the most effective EC method and provides an effective 10-year form of contraception. If an IUD is placed up to 5 days after unprotected coitus, the pregnancy rate approximates only 0.1 percent (Cleland, 2012; Wu, 2010).
+
+## References
+
+Abdel-Aleem H, d’Arcangues C, Vogelsong KM, et al: Treatment of vaginal bleeding irregularities induced by progestin only contraceptives. Cochrane Database Syst Rev 10:CD003449, 2013 Abrams LS, Skee DM, Natarajan J, et al: Pharmacokinetics of norelgestromin and ethinyl estradiol delivered by a contraceptive patch (Ortho Evra/Evra) under conditions of heat, humidity, and exercise. J Clin Pharmacol 41(12):1301, 2001 Abrams LS, Skee DM, Wong FA, et al: Pharmacokinetics of norelgestromin and ethinyl estradiol from two consecutive contraceptive patches. J Clin Pharmacol 41:1232, 2001
+
+Akers AY, Steinway C, Sonalkar S, et al: Reducing pain during intrauterine device insertion: a randomized controlled trial in adolescents and young women. Obstet Gynecol 130(4):795, 2017 American College of Obstetricians and Gynecologists: Noncontraceptive use of hormonal contraceptives. Practice Bulletin No. 110, January 2010, Reaffirmed 2018 American College of Obstetricians and Gynecologists: Clinical challenges of long-acting reversible contraceptive methods. Committee Opinion No. 672, September 2016, Reaffirmed 2019a American College of Obstetricians and Gynecologists: Depot medroxyprogesterone acetate and bone effects. Committee Opinion No. 602, June 2014, Reaffirmed 2019b American College of Obstetricians and Gynecologists: Emergency contraception. Practice Bulletin No. 152, September 2015, Reaffirmed 2019c American College of Obstetricians and Gynecologists: Long-acting reversible contraception: implants and intrauterine devices. Practice Bulletin No. 186, November 2017, Reaffirmed 2019d American College of Obstetricians and Gynecologists: Adolescents and long-acting reversible contraception: implants and intrauterine devices. Committee Opinion No. 735, May 2018, Reaffirmed 2020a American College of Obstetricians and Gynecologists: Gynecologic management of adolescents and young women with seizure disorders. Committee Opinion No. 806, May 2020b American College of Obstetricians and Gynecologists: Prevention of venous thromboembolism in gynecologic surgery. Practice Bulletin No. 232, July 2021 Anttila L, Bachmann G, Hernádi L, et al: Contraceptive efficacy of a combined oral contraceptive containing ethinyl oestradiol 20 μg/drospirenone 3 mg administered in a 24/4 regimen: a pooled analysis of four open-label studies. Eur J Obstet Gynecol Reprod Biol 155(2):180, 2011 Apter D, Gemzell-Danielsson K, Hauck B, et al: Pharmacokinetics of two low-dose levonorgestrelreleasing intrauterine systems and effects on ovulation rate and cervical function: pooled analyses of phase II and III studies. Fertil Steril 101(6):1656, 2014 Archer DF, Ahrendt HJ, Drouin D: Drospirenone-only oral contraceptive: results from a multicenter noncomparative trial of efficacy, safety and tolerability. Contraception 92(5):439, 2015 Archer DF, Stanczyk FZ, Rubin A, et al: Pharmacokinetics and adhesion of the Agile transdermal contraceptive patch (AG200-15) during daily exposure to external conditions of heat, humidity and exercise. Contraception 87(2):212, 2013 Barnett C, Moehner S, Do Minh T, et al: Perforation risk and intra-uterine devices: results of the EURAS-IUD 5-year extension study. Eur J Contracept Reprod Health Care 22(6):424, 2017 Bayer HealthCare Pharmaceuticals: Mirena: highlights of prescribing information. 2017. Available at: https://labeling.bayerhealthcare.com/html/products/pi/Mirena_PI.pdf. Accessed August 15, 2020 Beckman LJ, Murray J, Harvey SM: The contraceptive sponge: factors in initiation and discontinuation of use. Contraception 40:481, 1989 Bednarek PH, Creinin MD, Reeves MF, et al: Immediate versus delayed IUD insertion after uterine aspiration. N Engl J Med 364(23):2208, 2011 Berglund Scherwitzl E, Lundberg O, Kopp Kallner H, et al: Perfect-use and typical-use Pearl Index of a contraceptive mobile app. Contraception 96(6):420, 2017 Birgisson NE, Zhao Q, Secura GM, et al: Positive testing for Neisseria gonorrhoeae and Chlamydia trachomatis and the risk of pelvic inflammatory disease in IUD users. J Womens Health 24(5):354,
+
+## 2015
+
+Bosetti C, Bravi F, Negri E, et al: Oral contraceptives and colorectal cancer risk: a systematic review and meta-analysis. Hum Reprod Update 15(5):489, 2009
+
+Brahmi D, Steenland MW, Renner RM, et al: Pregnancy outcomes with an IUD in situ: a systematic review. Contraception 85(2):131, 2012 Briggs GG, Freeman RK, Towers CV, et al: Drugs in Pregnancy and Lactation, 11th ed. Philadelphia, Wolters Kluwer, 2017 Carmo LSMP, Braga GC, Ferriani RA, et al: Timing of etonogestrel-releasing implants and growth of breastfed infants: a randomized controlled trial. Obstet Gynecol 130(1):100, 2017 Centers for Disease Control and Prevention: Sexually transmitted diseases treatment guidelines, 2015. MMWR 64(3):1, 2015 Chan WS, Ray J, Wai EK, et al: Risk of stroke in women exposed to low-dose oral contraceptives: a critical evaluation of the evidence. Arch Intern Med 164:741, 2004 Chasan-Taber L, Willett WC, Manson JE, et al: Prospective study of oral contraceptives and hypertension among women in the United States. Circulation 94:483, 1996 Chen BA, Reeves MF, Hayes JL, et al: Postplacental or delayed insertion of the levonorgestrel intrauterine device after vaginal delivery: a randomized controlled trial. Obstet Gynecol 116(5):1079,
+
+## 2010
+
+Ciet P, Litmanovich DE: MR safety issues particular to women. Magn Reson Imaging Clin N Am 23(1):59, 2015 Clark MK, Sowers M, Levy B, et al: Bone mineral density loss and recovery during 48 months in firsttime users of depot medroxyprogesterone acetate. Fertil Steril 86:1466, 2006 Cleland K, Raymond EG, Westley E, et al: Emergency contraception review: evidence-based recommendations for clinicians. Clin Obstet Gynecol 57(4):741, 2014 Cleland K, Zhu H, Goldstuck N, et al: The efficacy of intrauterine devices for emergency contraception: a systematic review of 35 years of experience. Hum Reprod 27(7):1994, 2012 Cole JA, Norman H, Doherty M, et al: Venous thromboembolism, myocardial infarction, and stroke among transdermal contraceptive system users. Obstet Gynecol 109:339, 2007 Collaborative Group on Epidemiological Studies of Ovarian Cancer, Beral V, Doll R, et al: Ovarian cancer and oral contraceptives: collaborative reanalysis of data of 45 epidemiological studies including 23,257 women with ovarian cancer and 87,303 controls. Lancet 371:303, 2008 Collaborative Group on Hormonal Factors in Breast Cancer: Breast cancer and hormonal contraceptives: collaborative reanalysis of individual data on 53,297 women with breast cancer and 100,239 women without breast cancer from 54 epidemiological studies. Lancet 347:1713, 1996 CooperSurgical: Paragard: highlights of prescribing information. 2020. Available at: https://www.paragard.com/wp-content/uploads/2018/10/PARAGARD-PI.pdf. Accessed August 15,
+
+## 2020
+
+Correia L, Ramos AB, Machado AI, et al: Magnetic resonance imaging and gynecological devices. Contraception 85(6):538, 2012 Creinin MD, Kaunitz AM, Darney PD, et al: The US etonogestrel implant mandatory clinical training and active monitoring programs: 6-year experience. Contraception 95(2):205, 2017 Curtis EM, Pine L: Actinomyces in the vaginas of women with and without intrauterine contraceptive devices. Am J Obstet Gynecol 140:880, 1981 Curtis KM, Hannaford PC, Rodriguez MI, et al: Hormonal contraception and HIV acquisition among women: an updated systematic review. BMJ Sex Reprod Health 46(1):8, 2020 Curtis KM, Jatlaoui TC, Tepper NK, et al: U.S. selected practice recommendations for contraceptive use, 2016. MMWR 65(4):1, 2016a Curtis KM, Nguyen A, Reeves JA, et al: Update to U.S. selected practice recommendations for contraceptive use: self-administration of subcutaneous depot medroxyprogesterone acetate. MMWR
+
+70(20):739, 2021 Curtis KM, Tepper NK, Jatlaoui TC, et al: U.S. medical eligibility criteria for contraceptive use, 2016. MMWR 65(3):1, 2016b Dianat S, Fox E, Ahrens KA, et al: Side effects and health benefits of depot medroxyprogesterone acetate: a systematic review. Obstet Gynecol 133(2):332, 2019 Dieben TO, Roumen FJ, Apter D: Efficacy, cycle control, and user acceptability of a novel combined contraceptive vaginal ring. Obstet Gynecol 100:585, 2002 Dorflinger LJ: Metabolic effects of implantable steroid contraceptives for women. Contraception 65(1):47, 2002 Duijkers IJM, Heger-Mahn D, Drouin D, Colli E, Skouby S. Maintenance of ovulation inhibition with a new progestogen-only pill containing drospirenone after scheduled 24-h delays in pill intake. Contraception 93(4):303, 2016 Eaton EF, Hoesley CJ: Barrier methods for human immunodeficiency virus prevention. Infect Dis Clin North Am 28(4):585, 2014 Edelman A, Micks E, Gallo MF, et al: Continuous or extended cycle vs. cyclic use of combined hormonal contraceptives for contraception. Cochrane Database Syst Rev 7:CD004695, 2014 ESHRE Capri Workshop Group: Venous thromboembolism in women: a specific reproductive health risk. Hum Reprod Update 19(5):471, 2013 Etminan M, Takkouche B, Isorna FC, et al: Risk of ischaemic stroke in people with migraine: systematic review and meta-analysis of observational studies. BMJ 330:63, 2005 European Society of Human Reproduction and Embryology—ESHRE Capri Workshop Group: Ovarian and endometrial function during hormonal contraception. Hum Reprod 16(7):1527, 2001 Farley TM, Rosenberg MJ, Rowe PJ, et al: Intrauterine devices and pelvic inflammatory disease: an international perspective. Lancet 339:785, 1992 Fine P, Mathé H, Ginde S, Cullins V, Morfesis J, Gainer E. Ulipristal acetate taken 48–120 hours after intercourse for emergency contraception. Obstet Gynecol 115(2 Pt 1):257, 2010 Finer LB, Zolna MR: Declines in unintended pregnancy in the United States, 2008–2011. N Engl J Med 374(9):843, 2016 Food and Drug Administration: FDA Drug Safety Communication: Updated information about the risk of blood clots in women taking birth control pills containing drospirenone. 2012. Available at: http://www.fda.gov/Drugs/DrugSafety/ucm299305.htm. Accessed July 7, 2016 Fox MC, Oat-Judge J, Severson K, et al: Immediate placement of intrauterine devices after first and second trimester pregnancy termination. Contraception 83(1):34, 2011 Friedlander E, Kaneshiro B. Therapeutic options for unscheduled bleeding associated with long-acting reversible contraception. Obstet Gynecol Clin North Am 42(4):593, 2015 Furlong LA: Ectopic pregnancy risk when contraception fails. J Reprod Med 47:881, 2002 Gaffield ME, Culwell KR, Lee CR: The use of hormonal contraception among women taking anticonvulsant therapy. Contraception 83(1):16, 2011 Gallo MF, Grimes DA, Lopez LM, et al: Non-latex versus latex male condoms for contraception. Cochrane Database Syst Rev 1:CD003550, 2006, Reaffirmed 2015 Gallo MF, Grimes DA, Schulz KF: Cervical cap versus diaphragm for contraception. Cochrane Database Syst Rev 4:CD003551, 2002, Reassessed 2012 Gallo MF, Lopez LM, Grimes DA, et al: Combination contraceptives: effects on weight. Cochrane Database Syst Rev 1:CD003987, 2014 Gardner JM, Mishell DR Jr: Analysis of bleeding patterns and resumption of fertility following discontinuation of a long-acting injectable contraceptive. Fertil Steril 21:286, 1970
+
+Garg S, Anderson RA, Chany CJ, et al. Properties of a new acid-buffering bioadhesive vaginal formulation (ACIDFORM). Contraception 64(1):67, 2001 Gemzell-Danielsson K, Schellschmidt I, Apter D: A randomized, phase II study describing the efficacy, bleeding profile, and safety of two low-dose levonorgestrel-releasing intrauterine contraceptive systems and Mirena. Fertil Steril 97(3):616, 2012 Gemzell-Danielsson K, Sitruk-Ware R, Creinin MD, et al: Segesterone acetate/ethinyl estradiol 12month contraceptive vaginal system safety evaluation. Contraception 99(6):323, 2019 Goldthwaite LM, Creinin MD: Comparing bleeding patterns for the levonorgestrel 52 mg, 19.5 mg, and 13.5 mg intrauterine systems. Contraception 100(2):128, 2019 Grimes DA, Jones LB, Lopez LM, et al: Oral contraceptives for functional ovarian cysts. Cochrane Database Syst Rev 4:CD006134, 2014 Grimes DA, Lopez LM; Schulz KF: Antibiotic prophylaxis for intrauterine contraceptive device insertion. Cochrane Database Syst Rev 2:CD001327, 2001, Reaffirmed 2012 Guttmacher Institute: Contraceptive use in the United States. 2020. Available at: https://www.guttmacher.org/fact-sheet/contraceptive-use-united-states. Accessed August 21, 2020 Hall KS, Trussell J, Schwarz EB: Progestin-only contraceptive pill use among women in the United States. Contraception 86(6):653, 2012 Hannaford PC, Selvaraj S, Elliott AM, et al: Cancer risk among users of oral contraceptives: cohort data from the Royal College of General Practitioners’ oral contraception study. BMJ 335:651, 2007 Heinemann LA, Weimann A, Gerken G, et al: Modern oral contraceptive use and benign liver tumors: the German Benign Liver Tumor Case-Control Study. Eur J Contracept Reprod Health Care 3:194,
+
+## 1998
+
+Horton LG, Simmons KB, Curtis KM: Combined hormonal contraceptive use among obese women and risk for cardiovascular events: a systematic review. Contraception 94(6):590 2016 Hubacher D, Lara-Ricalde R, Taylor DJ, et al: Use of copper intrauterine devices and the risk of tubal infertility among nulligravid women. N Engl J Med 345:561, 2001 International Collaboration of Epidemiological Studies of Cervical Cancer: Cervical cancer and hormonal contraceptives: collaborative reanalysis of individual data for 16,573 women with cervical cancer and 35,509 women without cervical cancer from 24 epidemiological studies. Lancet 370:1609, 2007 Iwanaga J, Fox MC, Rekers H, Schwartz L, Tubbs RS. Neurovascular anatomy of the adult female medial arm in relationship to potential sites for insertion of the etonogestrel contraceptive implant. Contraception 100(1):26, 2019 Jatlaoui TC, Riley H, Curtis KM: Safety data for levonorgestrel, ulipristal acetate and Yuzpe regimens for emergency contraception. Contraception 93(2):93, 2016 Jatlaoui TC, Whiteman MK, Jeng G, et al: Intrauterine device expulsion after postpartum placement: a systematic review and meta-analysis. Obstet Gynecol 132(4):895, 2018 Jennings V, Haile LT, Simmons RG, et al: Perfect- and typical-use effectiveness of the Dot fertility app over 13 cycles: results from a prospective contraceptive effectiveness trial. Eur J Contracept Reprod Health Care 24(2):148, 2019 Jick SS, Hagberg KW, Kaye JA: ORTHO EVRA and venous thromboembolism: an update. Contraception 81(5):452, 2010 Jick SS, Hernandez RK: Risk of non-fatal venous thromboembolism in women using oral contraceptives containing drospirenone compared with women using oral contraceptives containing levonorgestrel: case-control study using United States claims data. BMJ 340:d2151, 2011 Kaislasuo J, Suhonen S, Gissler M, et al: Intrauterine contraception: incidence and factors associated with uterine perforation–a population-based study. Hum Reprod 27(9):2658, 2012
+
+Kaislasuo J, Suhonen S, Gissler M, et al: Uterine perforation caused by intrauterine devices: clinical course and treatment. Hum Reprod 28(6):1546, 2013 Kang S, Niak A, Gada N, et al: Etonogestrel implant migration to the vasculature, chest wall, and distant body sites: cases from a pharmacovigilance database. Contraception 96(6):439, 2017 Kapp N, Curtis KM: Hormonal contraceptive use among women with liver tumors: a systematic review. Contraception 80(4):387, 2009a Kapp N, Curtis KM: Intrauterine device insertion during the postpartum period: a systematic review. Contraception 80(4):327, 2009b Kapp N, Tilley IB, Curtis KM: The effects of hormonal contraceptive use among women with viral hepatitis or cirrhosis of the liver: a systematic review. Contraception 80(4):381, 2009c Katz Z, Lancet M, Skornik J, et al: Teratogenicity of progestogens given during the first trimester of pregnancy. Obstet Gynecol 65(6):775, 1985 Kaunitz AM, Archer DF, Mishell DR Jr, et al: Safety and tolerability of a new low-dose contraceptive patch in obese and nonobese women. Am J Obstet Gynecol 212(3):318.e1, 2015 Kim C, Siscovick DS, Sidney S, et al: Oral contraceptive use and association with glucose, insulin, and diabetes in young adult women: the CARDIA Study. Coronary Artery Risk Development in Young Adults. Diabetes Care 25:1027, 2002 Kim YJ, Youm J, Kim JH, et al: Actinomyces-like organisms in cervical smears: the association with intrauterine device and pelvic inflammatory diseases. Obstet Gynecol Sci 57(5):393, 2014 Kongsayreepong R, Chutivongse S, George P, et al: A multicentre comparative study of serum lipids and apolipoproteins in long-term users of DMPA and a control group of IUD users. World Health Organization. Task Force on Long-Acting Systemic Agents for Fertility Regulation Special Programme of Research, Development and Research Training in Human Reproduction. Contraception 47(2):177, 1993 Krattenmacher R: Drospirenone: pharmacology and pharmacokinetics of a unique progestogen. Contraception 62:29, 2000 Kuyoh MA, Toroitich-Ruto C, Grimes DA, et al: Sponge versus diaphragm for contraception. Cochrane Database Syst Rev 5:CD003172, 2013 Lammer EJ, Cordero JF: Exogenous sex hormone exposure and the risk for major malformations. JAMA 255:3128, 1986 Laumonerie P, Blasco L, Tibbo ME, et al: Peripheral nerve injury associated with a subdermal contraceptive implant: illustrative cases and systematic review of literature. World Neurosurg 111:317, 2018 Lawrie TA, Helmerhorst FM, Maitra NK, et al: Types of progestogens in combined oral contraception: effectiveness and side-effects. Cochrane Database Syst Rev 5:CD004861, 2011 Levi EE, Stuart GS, Zerden ML, et al: Intrauterine device placement during cesarean delivery and continued use 6 months postpartum: a randomized controlled trial. Obstet Gynecol 126(1):5, 2015 Levy DP, Jager M, Kapp N, et al: Ulipristal acetate for emergency contraception: postmarketing experience after use by more than 1 million women. Contraception 89(5):431, 2014 Lidegaard Ø, Løkkegaard E, Jensen A, et al: Thrombotic stroke and myocardial infarction with hormonal contraception. N Engl J Med 366(24):2257, 2012 Lidegaard Ø, Nielsen LH, Skovlund CW, et al: Risk of venous thromboembolism from use of oral contraceptives containing different progestogens and oestrogen doses: Danish cohort study, 2001–9. BMJ 343:d6423, 2011 Lippes J: Pelvic actinomycosis: a review and preliminary look at prevalence. Am J Obstet Gynecol 180:265, 1999
+
+Lopez LM, Chen M, Mullins S, et al: Steroidal contraceptives and bone fractures in women: evidence from observational studies. Cochrane Database Syst Rev 8:CD009849, 2012 Lopez LM, Edelman A, Chen M, et al: Progestin-only contraceptives: effects on weight. Cochrane Database Syst Rev 7:CD008815, 2013 Luan NN, Wu L, Gong TT, et al: Nonlinear reduction in risk for colorectal cancer by oral contraceptive use: a meta-analysis of epidemiological studies. Cancer Causes Control 26(1):65, 2015 MacClellan LR, Giles W, Cole J, et al: Probable migraine with visual aura and risk of ischemic stroke: the Stroke Prevention in Young Women Study. Stroke 38:2438, 2007 Madden T, Eisenberg DL, Zhao Q, et al: Continuation of the etonogestrel implant in women undergoing immediate postabortion placement. Obstet Gynecol 120(5):1053, 2012 Madden T, McNicholas C, Zhao Q, et al: Association of age and parity with intrauterine device expulsion. Obstet Gynecol 124(4):718, 2014 Madden T, Proehl S, Allsworth JE, et al: Naproxen or estradiol for bleeding and spotting with the levonorgestrel intrauterine system: a randomized controlled trial. Am J Obstet Gynecol 206(2):129.e1, 2012 Maheshwari S, Sarraj A, Kramer J, et al: Oral contraception and the risk of hepatocellular carcinoma. J Hepatol 47:506, 2007 Mansour D, Gemzell-Danielsson K, Inki P, et al: Fertility after discontinuation of contraception: a comprehensive review of the literature. Contraception 84(5):465, 2011 Marchbanks PA, McDonald JA, Wilson HG, et al: Oral contraceptives and the risk of breast cancer. N Engl J Med 346(26):2025, 2002 Margolis KL, Adami HO, Luo J, et al: A prospective study of oral contraceptive use and risk of myocardial infarction among Swedish women. Fertil Steril 88:310, 2007 Marr J, Gerlinger C, Kunz M: A historical cycle control comparison of two drospirenone-containing combined oral contraceptives: ethinyl estradiol 30 μg/drospirenone 3 mg administered in a 21/7 regimen versus ethinyl estradiol 20 μg/drospirenone 3 mg administered in a 24/4 regimen. Eur J Obstet Gynecol Reprod Biol 162(1):91, 2012 Mendoza N, Lobo P, Lertxundi R, et al: Extended regimens of combined hormonal contraception to reduce symptoms related to withdrawal bleeding and the hormone-free interval: a systematic review of randomised and observational studies. Eur J Contracept Reprod Health Care 19(5):321, 2014 Merck: Nexplanon: highlights of prescribing information. 2019. Available at: https://www.merck.com/product/usa/pi_circulars/n/nexplanon/nexplanon_pi.pdf. Accessed August
+
+## 21, 2020
+
+Minnis AM, Padian NS: Effectiveness of female controlled barrier methods in preventing sexually transmitted infections and HIV: current evidence and future research directions. Sex Transm Infect 81(3):193, 2005 Mommers E, Blum GF, Gent TG, et al: Nexplanon, a radiopaque etonogestrel implant in combination with a next-generation applicator: 3-year results of a noncomparative multicenter trial. Am J Obstet Gynecol 207(5):388.e1, 2012 Moreau C, Trussell J, Gilbert F, et al: Oral contraceptive tolerance: does the type of pill matter? Obstet Gynecol 109:1277, 2007 Moschos E, Twickler DM: Does the type of intrauterine device affect conspicuity on 2D and 3D ultrasound? AJR Am J Roentgenol 196(6):1439, 2011 Nelson AL, Cwiak C: Combined oral contraceptives (COCs). In Hatcher RA, Trussell J, Nelson AL, et al (eds): Contraceptive Technology, 20th ed. New York, Ardent Media, 2011
+
+Nelson AL: An overview of properties of Amphora (Acidform) contraceptive vaginal gel. Expert Opin Drug Saf 17(9):935, 2018 Nelson AL: Comprehensive overview of the recently FDA-approved contraceptive vaginal ring releasing segesterone acetate and ethinylestradiol: A new year-long, patient controlled, reversible birth control method. Expert Rev Clin Pharmacol 12(10):953, 2019 Ngo LL, Ward KK, Mody SK: Ketorolac for pain control with intrauterine device placement: a randomized controlled trial. Obstet Gynecol 126(1):29, 2015 Nilsson CG, Lähteenmäki PL, Luukkainen T: Ovarian function in amenorrheic and menstruating users of a levonorgestrel-releasing intrauterine device. Fertil Steril 41(1):52, 1984 Nishimura RA, Otto CM, Bonow RO, et al: 2017 AHA/ACC focused update of the 2014 AHA/ACC Guideline for the Management of Patients with Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Circulation 135(25):e1159, 2017 Oddsson K, Leifels-Fischer B, Wiel-Masson D, et al: Superior cycle control with a contraceptive vaginal ring compared with an oral contraceptive containing 30 microg ethinylestradiol and 150 microg levonorgestrel: a randomized trial. Hum Reprod 20:557, 2005 Ortiz ME, Croxatto HB: Copper-T intrauterine device and levonorgestrel intrauterine system: biological bases of their mechanism of action. Contraception 75:S16, 2007 Parkin L, Sharples K, Hernandez RK, et al: Risk of venous thromboembolism in users of oral contraceptives containing drospirenone or levonorgestrel: nested case-control study based on UK General Practice Research Database. BMJ 340:d2139, 2011 Paulen ME, Curtis KM: When can a woman have repeat progestogen-only injectables–depot medroxyprogesterone acetate or norethisterone enantate? Contraception 80(4):391, 2009 Pearlstein TB, Bachmann GA, Zacur HA, et al: Treatment of premenstrual dysphoric disorder with a new drospirenone-containing oral contraceptive formulation. Contraception 72:414, 2005 Pérez-Medina T, Sancho-Saúco J, Ríos M, et al: Hysteroscopy in pregnancy-related conditions: descriptive analysis in 273 patients. J Minim Invasive Gynecol 21(3):417, 2014 Petitti DB, Piaggio G, Mehta S, et al: Steroid hormone contraception and bone mineral density: a crosssectional study in an international population. The WHO Study of Hormonal Contraception and Bone Health. Obstet Gynecol 95(5):736, 2000 Pfizer: Depo-Provera (medroxyprogesterone acetate) injectable suspension: highlights of prescribing information. 2017. Available at: https://labeling.pfizer.com/ShowLabeling.aspx?id=522. Accessed August 21, 2020 Phillips SJ, Tepper NK, Kapp N, et al: Progestogen-only contraceptive use among breastfeeding women: a systematic review. Contraception 94(3):226, 2016 Raps M, Curvers J, Helmerhorst FM, et al: Thyroid function, activated protein C resistance and the risk of venous thrombosis in users of hormonal contraceptives. Thromb Res 133(4):640, 2014 Reed S, Do Minh T, Lange JA, et al: Real world data on Nexplanon® procedure-related events: final results from the Nexplanon Observational Risk Assessment study (NORA). Contraception 100(1):31, 2019 Remington KM, Buller RS, Kelly JR: Effect of the Today contraceptive sponge on growth and toxic shock syndrome toxin-1 production by Staphylococcus aureus. Obstet Gynecol 69:563, 1987 Robinson GE, Burren T, Mackie IJ, et al: Changes in haemostasis after stopping the combined contraceptive pill: implications for major surgery. BMJ 302:269, 1991 Rodrigues I, Grou F, Joly J: Effectiveness of emergency contraceptive pills between 72 and 120 hours after unprotected sexual intercourse. Am J Obstet Gynecol 184(4):531, 2001
+
+Rodriguez MI, Godfrey EM, Warden M, et al: Prevention and management of nausea and vomiting with emergency contraception: a systematic review. Contraception 87(5):583, 2013 Roe AH, Bartz D: Society of family planning clinical recommendations: contraception after surgical abortion. Contraception 99(1):2, 2019 Rothman KJ, Louik C: Oral contraceptives and birth defects. N Engl J Med 299:522, 1978 Sääv I, Stephansson O, Gemzell-Danielsson K: Early versus delayed insertion of intrauterine contraception after medical abortion—a randomized controlled trial. PLoS One 7(11):e48948, 2012 Samson M, Porter N, Orekoya O, et al: Progestin and breast cancer risk: a systematic review. Breast Cancer Res Treat 155(1):3, 2016 Samy A, Abbas AM, Mahmoud M, et al: Evaluating different pain lowering medications during intrauterine device insertion: a systematic review and network meta-analysis. Fertil Steril 111(3):553,
+
+## 2019
+
+Savolainen E, Saksela E, Saxen L: Teratogenic hazards of oral contraceptives analyzed in a national malformation register. Am J Obstet Gynecol 140:521, 1981 Schiesser M, Lapaire O, Tercanli S, et al: Lost intrauterine devices during pregnancy: maternal and fetal outcome after ultrasound-guided extraction. An analysis of 82 cases. Ultrasound Obstet Gynecol 23:486, 2004 Scholes D, LaCroix AS, Ichikawa LE, et al: Injectable hormone contraception and bone density: results from a prospective study. Epidemiology 13:581, 2002 Scholes D, LaCroix AS, Ott SM, et al: Bone mineral density in women using depot medroxyprogesterone acetate for contraception. Obstet Gynecol 93:233, 1999 Schürks M, Rist PM, Bigal ME, et al: Migraine and cardiovascular disease: systematic review and meta-analysis. BMJ 339:b3914, 2009 Şengül Ö, Dilbaz B, Kavak D, et al: J Surgical management of extrauterine mislocated intrauterine contraceptive devices and related risks. Obstet Gynaecol 34(1):70, 2014 Shaw KA, Edelman AB: Obesity and oral contraceptives: a clinician’s guide. Best Pract Res Clin Endocrinol Metab 27(1):55, 2013 Shimoni N, Davis A, Ramos ME, et al: Timing of copper intrauterine device insertion after medical abortion: a randomized controlled trial. Obstet Gynecol 118(3):623, 2011 Shulman LP, Gabriel H: Management and localization strategies for the nonpalpable Implanon rod. Contraception 73:325, 2006 Silverberg SG, Haukkamaa M, Arko H, et al: Endometrial morphology during long-term use of levonorgestrel releasing intrauterine devices. Int J Gynecol Pathol 5:235, 1986 Simmons KB, Edelman AB: Hormonal contraception and obesity. Fertil Steril 106(6):1282, 2016 Simmons KB, Kumar N, Plagianos M, et al: Effects of concurrent vaginal miconazole treatment on the absorption and exposure of Nestorone® (segesterone acetate) and ethinyl estradiol delivered from a contraceptive vaginal ring: a randomized, crossover drug-drug interaction study. Contraception 97(3):270, 2018 Simonatto P, Bahamondes MV, Fernandes A, et al: Comparison of two cohorts of women who expulsed either a copper-intrauterine device or a levonorgestrel-releasing intrauterine system. J Obstet Gynaecol Res 42(5):554, 2016 Sivin I, Campodonico I, Kiriwat O, et al: The performance of levonorgestrel rod and Norplant contraceptive implants: a 5 year randomized study. Hum Reprod 13(12):3371, 1998 Skovlund CW, Mørch LS, Kessing LV, et al: Association of hormonal contraception with depression. JAMA Psychiatry 73(11):1154, 2016
+
+Smallwood GH, Meador ML, Lenihan JP, et al: Efficacy and safety of a transdermal contraceptive system. Obstet Gynecol, 98 (5 Pt. 1) 799, 2001 Sneed R, Westhoff C, Morroni C, et al: A prospective study of immediate initiation of depot medroxyprogesterone acetate contraceptive injection. Contraception 71(2):99, 2005 Sothornwit J, et al: Immediate versus delayed postpartum insertion of contraceptive implant for contraception. Cochrane Database Syst Rev 4(4):CD011913, 2017 Stadel BV: Oral contraceptives and cardiovascular disease. N Engl J Med 305:612, 1981 Stegeman BH, de Bastos M, Rosendaal FR, et al: Different combined oral contraceptives and the risk of venous thrombosis: systematic review and network meta-analysis. BMJ 347:f5298, 2013 Steiner M, Lopez M, Grimes D, et al: Sino-implant (II)—a levonorgestrel releasing two-rod implant: systematic review of the randomized controlled trials. Contraception 81(3)197, 2010 Steiner MJ, Brache V, Taylor D, et al: Randomized trial to evaluate contraceptive efficacy, safety and acceptability of a two-rod contraceptive implant over 4 years in the Dominican Republic. Contracept X 1(100006): 1, 2019 Steiner MJ, Trussell J, Mehta N, et al: Communicating contraceptive effectiveness: a randomized controlled trial to inform a World Health Organization family planning handbook. Am J Obstet Gynecol 195(1):85, 2006 Stuart GS, Hoffman BL: Puerperal sterilization. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw-Hill Education,
+
+## 2017
+
+Suchon P, Al Frouh F, Henneuse A, et al: Risk factors for venous thromboembolism in women under combined oral contraceptive. The PILl Genetic Risk Monitoring (PILGRIM) Study. Thromb Haemost 115(1):13, 2016 Tatum HJ, Schmidt FH, Jain AK: Management and outcome of pregnancies associated with Copper-T intrauterine contraceptive device. Am J Obstet Gynecol 126:869, 1976 Teal SB, Turok DK, Chen BA, et al: Five-year contraceptive efficacy and safety of a levonorgestrel 52mg intrauterine system. Obstet Gynecol 133(1):63, 2019 Tepper NK, Curtis KM, Nanda K, et al: Safety of intrauterine devices among women with HIV: a systematic review. Contraception 94(6):713, 2016a Tepper NK, Steenland MW, Gaffield ME, et al: Retention of intrauterine devices in women who acquire pelvic inflammatory disease: a systematic review. Contraception 87(5):655, 2013 Tepper NK, Whiteman MK, Zapata LB, et al: Safety of hormonal contraceptives among women with migraine: a systematic review. Contraception 94(6):630, 2016b Trussell J, Aikens AR, Micks E, et al: Efficacy, safety, and personal considerations. In Hatcher RA, Nelson AL, Trussell J, et al (eds): Contraceptive Technology, 21st ed. New York, Ayer Company, 2018, p 100 Tsilidis KK, Allen NE, Key TJ, et al: Oral contraceptive use and reproductive factors and risk of ovarian cancer in the European Prospective Investigation into Cancer and Nutrition. Br J Cancer 105(9):1436, 2011 Turok DK, Eisenberg DL, Teal SB, et al: A prospective assessment of pelvic infection risk following same-day sexually transmitted infection testing and levonorgestrel intrauterine system placement. Am J Obstet Gynecol 215(5):599.e1, 2016 Turok DK, Gero A, Simmons RG, et al: Levonorgestrel vs. copper intrauterine devices for emergency contraception. N Engl J Med 384(4):335, 2021 US Department of Health and Human Services: Guidelines for the use of antiretroviral agents in adults and adolescents with HIV. 2019. Available at: https://clinicalinfo.hiv.gov/sites/default/files/inline-
+
+files/AdultandAdolescentGL.pdf. Accessed October 17, 2020 van Hylckama Vlieg A, Helmerhorst FM, Vandenbroucke JP, et al: The venous thrombotic risk of oral contraceptives, effects of oestrogen dose and progestogen type: results of the MEGA case-control study. BMJ 339:b2921, 2009 Van Vliet HA, Grimes DA, Helmerhorst FM, et al: Biphasic versus monophasic oral contraceptives for contraception. Cochrane Database Syst Rev 6:CD002032, 2006, Reaffirmed 2011a Van Vliet HA, Grimes DA, Lopez LM, et al: Triphasic versus monophasic oral contraceptives for contraception. Cochrane Database Syst Rev 11:CD003553, 2011b Van Vliet HA, Raps M, Lopez LM, et al: Quadriphasic versus monophasic oral contraceptives for contraception. Cochrane Database Syst Rev 11:CD009038, 2011c Verhoeven CH, Dieben TO: The combined contraceptive vaginal ring, NuvaRing, and tampon co-usage. Contraception 69(3):197, 2004a Verhoeven CH, van den Heuvel MW, Mulders TM, et al: The contraceptive vaginal ring, NuvaRing, and antimycotic co-medication. Contraception 69(2):129, 2004b Vinogradova Y, Coupland C, Hippisley-Cox J: Use of combined oral contraceptives and risk of venous thromboembolism: nested case-control studies using the Research and CPRD data-bases. BMJ 350:h2135, 2015 von Hertzen H, Piaggio G, Ding J, et al: Low dose mifepristone and two regimens of levonorgestrel for emergency contraception: a WHO multicentre randomised trial. WHO Research Group on Postovulatory Methods of Fertility Regulation. Lancet 360(9348):1803, 2002 Westhoff C, Heartwell S, Edwards S, et al: Initiation of oral contraceptive using a quick start compared with a conventional start: a randomized controlled trial. Obstet Gynecol 109:1270, 2007b Westhoff C: IUDs and colonization or infection with Actinomyces. Contraception 75:S48, 2007a Whitaker AK, Chen BA: Society of family planning guidelines: postplacental insertion of intrauterine devices. Contraception 97(1):2, 2018 Wilailak S, Vipupinyo C, Suraseranivong V, et al: Depot medroxyprogesterone acetate and epithelial ovarian cancer: a multicentre case-control study. BJOG 119(6):672, 2012 World Health Organization: A multinational case-control study of ectopic pregnancy. Clin Reprod Fertil 3:131, 1985 World Health Organization: Acute myocardial infarction and combined oral contraceptives: results of an international multi-center case-control study. Lancet 349:1202, 1997 World Health Organization: Cardiovascular disease and use of oral and injectable progestogen-only contraceptives and combined injectable contraceptives. Results of an international, multicenter, casecontrol study. Contraception 57:315, 1998 World Health Organization: Depot-medroxyprogesterone acetate (DMPA) and risk of endometrial cancer. Int J Cancer 49:186, 1991a World Health Organization: Depot-medroxyprogesterone acetate (DMPA) and risk of liver cancer. Int J Cancer 49(2):182, 1991b World Health Organization: Depot-medroxyprogesterone acetate (DMPA) and risk of invasive squamous cell cervical cancer. Contraception 45(4): 299, 1992 World Health Organization: Ischaemic stroke and combined oral contraceptives: results of an international, multi-center case-control study. Lancet 348:498, 1996 World Health Organization: Medical Eligibility for Contraceptive Use, 5th ed. Geneva, World Health Organization, 2015 Worly BL, Gur TL, Schaffir J: The relationship between progestin hormonal contraception and depression: a systematic review. Contraception 97(6):478, 2018
+
+Wu S, Godfrey EM, Wojdyla D, et al: Copper T380A intrauterine device for emergency contraception: a prospective, multicentre, cohort clinical trial. BJOG 117(10):1205, 2010 Yonkers KA, Brown C, Pearlstein TB, et al: Efficacy of a new low-dose oral contraceptive with drospirenone in premenstrual dysphoric disorder. Obstet Gynecol 106:492, 2005 Zeino MY, Wietfeldt ED, Advani V, et al: Laparoscopic removal of a copper intrauterine device from the sigmoid colon. JSLS 15(4):568, 2011 Zieman M, Guillebaud J, Weisberg E, et al: Contraceptive efficacy and cycle control with the Ortho Evra/Evra transdermal system: the analysis of pooled data. Fertil Steril 77:S13, 2002

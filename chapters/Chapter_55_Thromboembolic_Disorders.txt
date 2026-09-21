@@ -1,1374 +1,280 @@
-CHAPTER 55
+# Chapter 55: Thromboembolic Disorders
 
-Thromboembolic Disorders
+- Pathophysiology
+- Thrombophilias
+- Antiphospholipid Syndrome
+- Thrombophilia Screening
+- Deep-Vein Thrombosis
+- Labor And Delivery
+- Superficial Venous Thrombophlebitis
+- Pulmonary Embolism
+- Thromboprophylaxis
+- References
 
-PATHOPHYSIOLOGY
-THROMBOPHILIAS
-ANTIPHOSPHOLIPID SYNDROME
-THROMBOPHILIA SCREENING
-DEEP-VEIN THROMBOSIS
-LABOR AND DELIVERY
-SUPERFICIAL VENOUS THROMBOPHLEBITIS
-PULMONARY EMBOLISM
-THROMBOPROPHYLAXIS
-REFERENCES
-During the past century, the frequency of venous thromboembolism (VTE)
-during the puerperium decreased remarkably as early ambulation became
-routine practice. Despite this and other advances in prevention and treatment,
-thromboembolism remains a leading cause of maternal morbidity and
-mortality (Abe, 2019). Thrombotic pulmonary embolism accounted for
-almost 10 percent of pregnancy-related deaths in the United States between
-2011 and 2015 (Creanga, 2017; Petersen, 2019).
-The absolute incidence of VTE during pregnancy is low—1 or 2 cases
-per 1000 pregnancies. However, the risk is approximately five times higher
+During the past century, the frequency of venous thromboembolism (VTE) during the puerperium decreased remarkably as early ambulation became routine practice. Despite this and other advances in prevention and treatment, thromboembolism remains a leading cause of maternal morbidity and mortality (Abe, 2019). Thrombotic pulmonary embolism accounted for almost 10 percent of pregnancy-related deaths in the United States between 2011 and 2015 (Creanga, 2017; Petersen, 2019). The absolute incidence of VTE during pregnancy is low—1 or 2 cases per 1000 pregnancies. However, the risk is approximately five times higher
 
-than that among women who are not pregnant (Greer, 2015). Approximately
-equal numbers of cases are identified antepartum and in the puerperium. But
-deep-vein thrombosis alone is more frequent antepartum, and pulmonary
-embolism is more common postpartum. During the first 6 weeks of the
-puerperium, the estimated incidence of a thromboembolic complication is 22
-events per 100,000 deliveries. Although still elevated, the risk falls to
-approximately 3 cases per 100,000 deliveries during the second 6-week
-postpartum period (Kamei, 2014). As many as 2 percent of these women
-have postthrombotic syndrome (Govindappagari, 2020).
+than that among women who are not pregnant (Greer, 2015). Approximately equal numbers of cases are identified antepartum and in the puerperium. But deep-vein thrombosis alone is more frequent antepartum, and pulmonary embolism is more common postpartum. During the first 6 weeks of the puerperium, the estimated incidence of a thromboembolic complication is 22 events per 100,000 deliveries. Although still elevated, the risk falls to approximately 3 cases per 100,000 deliveries during the second 6-week postpartum period (Kamei, 2014). As many as 2 percent of these women have postthrombotic syndrome (Govindappagari, 2020).
 
-PATHOPHYSIOLOGY
-Rudolf Virchow (1856) postulated that stasis, local trauma to the vessel
-wall, and hypercoagulability predisposed to venous thrombosis. During
-pregnancy, the risk for each of these rises. Compression of the pelvic veins
-and inferior vena cava by the enlarging uterus renders the lower extremity
-venous system particularly vulnerable to stasis. Marik and Plante (2008) cite
-a 50-percent reduction in venous flow velocity in the legs that lasts from the
-early third trimester until 6 weeks postpartum. This stasis is the most
-constant predisposing risk factor for venous thrombosis. Venous stasis,
-delivery, preeclampsia, and sepsis contribute to endothelial cell injury. Last,
-as listed in the Appendix (p. 1228), the synthesis of most clotting factors is
-markedly enhanced during pregnancy and favors coagulation.
-Risk factors for developing VTE during pregnancy are shown in Table
-55-1. The most important of these is a personal history of thrombosis.
-Specifically, 15 to 25 percent of all VTE cases during pregnancy are
-recurrent events (American College of Obstetricians and Gynecologists,
-2020b). Another important individual risk factor is a genetically determined
-thrombophilia. An estimated 20 to 50 percent of women who develop a
-venous thrombosis during pregnancy or postpartum have an identifiable
-underlying procoagulant genetic disorder (American College of Obstetricians
-and Gynecologists, 2020a).
-TABLE 55-1. Some Risk Factors Associated with an Increased Risk for
-VTE
+## Pathophysiology
 
-Calculated risks for thromboembolism are approximately doubled in
-women with multifetal gestation, anemia, hyperemesis, hemorrhage, cesarean
-delivery, obesity, preeclampsia, and postpartum infection (Waldman, 2013).
-Scheres and coworkers (2020) had similar observations for women with
-preeclampsia. Risks were significantly higher among women who had a
-stillbirth or who underwent peripartum hysterectomy. Last, as discussed in
+Rudolf Virchow (1856) postulated that stasis, local trauma to the vessel wall, and hypercoagulability predisposed to venous thrombosis. During pregnancy, the risk for each of these rises. Compression of the pelvic veins and inferior vena cava by the enlarging uterus renders the lower extremity venous system particularly vulnerable to stasis. Marik and Plante (2008) cite a 50-percent reduction in venous flow velocity in the legs that lasts from the early third trimester until 6 weeks postpartum. This stasis is the most constant predisposing risk factor for venous thrombosis. Venous stasis, delivery, preeclampsia, and sepsis contribute to endothelial cell injury. Last, as listed in the Appendix (p. 1228), the synthesis of most clotting factors is markedly enhanced during pregnancy and favors coagulation. Risk factors for developing VTE during pregnancy are shown in Table 55-1. The most important of these is a personal history of thrombosis. Specifically, 15 to 25 percent of all VTE cases during pregnancy are recurrent events (American College of Obstetricians and Gynecologists, 2020b). Another important individual risk factor is a genetically determined thrombophilia. An estimated 20 to 50 percent of women who develop a venous thrombosis during pregnancy or postpartum have an identifiable underlying procoagulant genetic disorder (American College of Obstetricians and Gynecologists, 2020a).
 
-Chapter 57 (p. 1021), inflammatory bowel disease increases the risk two- to
-threefold (Kim, 2019).
+> **Table 55-1:** Some Risk Factors Associated with an Increased Risk for VTE
 
-THROMBOPHILIAS
-Several important regulatory proteins act as inhibitors in the coagulation
-cascade (Fig. 55-1). Normal values for many of these proteins during
-pregnancy are found in the Appendix (p. 1228). Inherited or acquired
-deficiencies of these inhibitory proteins are collectively referred to as
-thrombophilias. These can lead to hypercoagulability and recurrent VTE
-(Connors, 2017). Although these disorders are collectively present in
-approximately 15 percent of white European populations, they are
-responsible for approximately 50 percent of all thromboembolic events
-during pregnancy (Pierangeli, 2011). Some aspects of the more common
-inherited thrombophilias related to VTE are summarized in Table 55-2.
+Calculated risks for thromboembolism are approximately doubled in women with multifetal gestation, anemia, hyperemesis, hemorrhage, cesarean delivery, obesity, preeclampsia, and postpartum infection (Waldman, 2013). Scheres and coworkers (2020) had similar observations for women with preeclampsia. Risks were significantly higher among women who had a stillbirth or who underwent peripartum hysterectomy. Last, as discussed in
 
-FIGURE 55-1 Inherited thrombophilias and their effect(s) on the coagulation cascade.
+Chapter 57 (p. 1021), inflammatory bowel disease increases the risk two- to threefold (Kim, 2019).
 
-TABLE 55-2. Inherited Thrombophilias and Their Association with Venous
-Thromboembolism (VTE) in Pregnancy
+## Thrombophilias
 
-■ Inherited Thrombophilias
-Patients with inherited thrombophilic disorders often have a family history of
-thrombosis. These mutations are also found in up to half of all patients who
-present with VTE before the age of 45 years, particularly in those whose
-event occurred in the absence of well-recognized risk factors. Of greatest
-significance is a family history of sudden death due to pulmonary embolism
-or a history of multiple family members requiring long-term anticoagulation
-therapy because of recurrent thrombosis (Connors, 2017).
+Several important regulatory proteins act as inhibitors in the coagulation cascade (Fig. 55-1). Normal values for many of these proteins during pregnancy are found in the Appendix (p. 1228). Inherited or acquired deficiencies of these inhibitory proteins are collectively referred to as thrombophilias. These can lead to hypercoagulability and recurrent VTE (Connors, 2017). Although these disorders are collectively present in approximately 15 percent of white European populations, they are responsible for approximately 50 percent of all thromboembolic events during pregnancy (Pierangeli, 2011). Some aspects of the more common inherited thrombophilias related to VTE are summarized in Table 55-2.
 
-Antithrombin Deficiency
-Synthesized in the liver, antithrombin is one of the most important inhibitors
-of thrombin and inactivates thrombin and factor Xa (Rhéaume, 2016).
-Notably, the rate of antithrombin interaction with its target is accelerated
-over 1000–fo1d by heparin. Antithrombin deficiency may result from
-hundreds of different mutations that are almost always autosomal dominant.
-Type I deficiency results from reduced synthesis of biologically normal
-antithrombin, and type II deficiency is characterized by normal levels of
-antithrombin with reduced functional activity.
+> **Figure 55-1:** Inherited thrombophilias and their effect(s) on the coagulation cascade.
 
-Homozygous antithrombin deficiency is lethal. Heterozygous deficiency
-affects approximately 1 in 2500 individuals. It is the most thrombogenic of
-the heritable coagulopathies. The risk for thrombosis correlates with the
-degree of deficiency. Antithrombin deficiency is associated with a 25- to 50fold higher relative risk of VTE in the general population and a sixfold
-increased risk of thromboembolic complications during pregnancy (Ilonczai,
-2015). As shown in Table 55-2, those affected have an inordinately high risk
-of VTE during pregnancy.
-Sabadell and associates (2010) studied the outcomes of 18 pregnancies
-complicated by antithrombin deficiency. Twelve of these women were
-treated with therapeutic doses of low-molecular-weight heparin (LMWH).
-Three of the untreated patients suffered a thromboembolic episode compared
-with none in the treated group. Untreated women also had a 50-percent risk
-of stillbirth and fetal-growth restriction. By comparison, none of the treated
-women had a stillbirth, but a fourth developed fetal-growth restriction.
-Abbattista and coworkers (2020) reported a 7-percent risk of VTE for
-women treated with LMWH during pregnancy and a 12-percent risk for those
-not treated. Similar results were reported by Ilonczai and colleagues (2015).
-Last, Garcia-Botella and associates (2016) described a mesenteric vein
-thrombosis in a pregnant woman with antithrombin deficiency.
-Given such risk, affected women are managed during pregnancy with
-anticoagulation regardless of whether they have had a prior thrombosis
-(Abbattista, 2020; Bates, 2018). When anticoagulation is necessarily
-withheld, such as during surgery or delivery, or if VTE develops in an
-anticoagulated woman, treatment with recombinant human antithrombin may
-be protective (Paidas, 2016).
+> **Table 55-2:** Inherited Thrombophilias and Their Association with Venous Thromboembolism (VTE) in Pregnancy
 
-Protein C Deficiency
-When thrombin is bound to thrombomodulin on endothelial cells of small
-vessels, its procoagulant activities are neutralized. This binding also
-activates protein C, a natural anticoagulant. It, in the presence of protein S,
-controls thrombin generation, in part, by inactivating factors Va and VIIIa
-(see Fig. 55-1). Protein C activity increases modestly but significantly
-throughout the first half of pregnancy, and some have speculated that this
-augmentation may play a role in maintaining early pregnancy through both
-anticoagulant and inflammatory regulatory pathways (Said, 2010).
+### Inherited Thrombophilias
 
-More than 160 different autosomal dominant mutations for the protein C
-gene have been described (Louis-Jacques, 2016). The prevalence of
-heterozygous protein C deficiency is 2 to 3 per 1000, but many of these
-individuals do not have a thrombosis history because the phenotypic
-expression is highly variable. These prevalence estimates correspond with
-functional activity threshold values of 50 to 60 percent, which are used by
-most laboratories. As shown in Table 55-2, these are associated with a sixto twelvefold higher risk for VTE (Lockwood, 2012). The rare cases of
-homozygous protein C deficiency may cause fatal neonatal purpura
-fulminans. Last, sepsis can result in purpura fulminans in the adult with
-heterozygous protein C deficiency (Bendapudi, 2021).
+Patients with inherited thrombophilic disorders often have a family history of thrombosis. These mutations are also found in up to half of all patients who present with VTE before the age of 45 years, particularly in those whose event occurred in the absence of well-recognized risk factors. Of greatest significance is a family history of sudden death due to pulmonary embolism or a history of multiple family members requiring long-term anticoagulation therapy because of recurrent thrombosis (Connors, 2017).
 
-Protein S Deficiency
-This circulating anticoagulant is activated by protein C, which enhances the
-capacity of protein S to inactivate factors Va and VIIIa (see Fig. 55-1).
-Protein S deficiency may be caused by more than 130 different mutations,
-with an aggregate heterozygous prevalence of approximately 0.3 to 1.3 per
-1000 individuals (Louis-Jacques, 2016). Protein S deficiency may be
-measured by antigenically determined free, functional, and total S levels. All
-three decline substantively during normal gestation (Appendix, p. 1228).
-Thus, the diagnosis in pregnant women—as well as in those taking certain
-oral contraceptives—is difficult. If screening during pregnancy is necessary,
-threshold values for free protein S antigen levels in the second and third
-trimesters have been identified at <30 percent and <24 percent, respectively.
-The risk of VTE in pregnancy is increased severalfold (see Table 55-2).
-Among those with a positive family history, the VTE risk in pregnancy is 6 to
-7 percent (American College of Obstetricians and Gynecologists, 2020a).
-Conard and coworkers (1990) described thrombosis in five of 29
-pregnant women with protein S deficiency. They, as well as Burneo and
-colleagues (2002), reported maternal cerebral vein thrombosis. Neonatal
-homozygous protein S deficiency is usually associated with purpura
-fulminans, the fatal clinical phenotype.
+Antithrombin Deficiency Synthesized in the liver, antithrombin is one of the most important inhibitors of thrombin and inactivates thrombin and factor Xa (Rhéaume, 2016). Notably, the rate of antithrombin interaction with its target is accelerated over 1000–fo1d by heparin. Antithrombin deficiency may result from hundreds of different mutations that are almost always autosomal dominant. Type I deficiency results from reduced synthesis of biologically normal antithrombin, and type II deficiency is characterized by normal levels of antithrombin with reduced functional activity.
 
-Factor V Leiden Mutation
-This is the most prevalent of the known thrombophilia syndromes and is
-characterized by resistance of plasma to the anticoagulant effects of activated
+**Homozygous antithrombin deficiency is lethal.** Heterozygous deficiency affects approximately 1 in 2500 individuals. It is the most thrombogenic of the heritable coagulopathies. The risk for thrombosis correlates with the degree of deficiency. Antithrombin deficiency is associated with a 25- to 50fold higher relative risk of VTE in the general population and a sixfold increased risk of thromboembolic complications during pregnancy (Ilonczai, 2015). As shown in Table 55-2, those affected have an inordinately high risk of VTE during pregnancy. Sabadell and associates (2010) studied the outcomes of 18 pregnancies complicated by antithrombin deficiency. Twelve of these women were treated with therapeutic doses of low-molecular-weight heparin (LMWH). Three of the untreated patients suffered a thromboembolic episode compared with none in the treated group. Untreated women also had a 50-percent risk of stillbirth and fetal-growth restriction. By comparison, none of the treated women had a stillbirth, but a fourth developed fetal-growth restriction. Abbattista and coworkers (2020) reported a 7-percent risk of VTE for women treated with LMWH during pregnancy and a 12-percent risk for those not treated. Similar results were reported by Ilonczai and colleagues (2015). Last, Garcia-Botella and associates (2016) described a mesenteric vein thrombosis in a pregnant woman with antithrombin deficiency. Given such risk, affected women are managed during pregnancy with anticoagulation regardless of whether they have had a prior thrombosis (Abbattista, 2020; Bates, 2018). When anticoagulation is necessarily withheld, such as during surgery or delivery, or if VTE develops in an anticoagulated woman, treatment with recombinant human antithrombin may be protective (Paidas, 2016).
 
-protein C. There are several mutations that create this resistance, but the most
-common is the factor V Leiden mutation. This missense mutation results from
-a substitution of glutamine for arginine at position 506 in the factor V
-polypeptide. As a result of this mutation, activated factor V is neutralized
-approximately tenfold more slowly by activated protein C (see Fig. 55-1).
-This leads to enhanced thrombin generation.
-Heterozygous inheritance of factor V Leiden is the most common
-heritable thrombophilia. It is found in 3 to 15 percent of select European
-populations, 1.2 percent of African Americans, and 2.2 of Hispanic
-Americans, but is virtually absent in African blacks and Asians (American
-College of Obstetricians and Gynecologists, 2020a). Women who are
-heterozygous for factor V Leiden account for approximately 40 percent of
-VTE cases during pregnancy. However, the actual risk among pregnant
-women who are heterozygous and who do not have a personal history or a
-first-degree relative with a thrombotic episode before age 50 years is 5 to 12
-events per 1000 births (see Table 55-2). In contrast, this risk is at least 10
-percent among pregnant women with a personal or family history. Pregnant
-women who are homozygous without a personal or family history have a 1to 4-percent risk for VTE, whereas those with such a history have an
-approximately 17-percent risk (American College of Obstetricians and
-Gynecologists, 2020a).
-Diagnosis during pregnancy is performed by DNA analysis for the mutant
-factor V gene. Bioassay is not used because of the normal resistance that
-develops after early pregnancy from alterations in other coagulation protein
-concentrations. Of note, activated protein C resistance can also be caused by
-antiphospholipid syndrome, which is described on page 979 and also
-detailed in Chapter 62 (p. 1114).
-To assess the prognostic significance of maternal factor V Leiden
-mutation during pregnancy, Kjellberg and associates (2010) compared the
-outcomes of 491 carriers with those of 1055 controls. All three of the
-thromboembolic events occurred among the carriers. But, preterm birth rates,
-birthweights, or hypertensive complication rates did not differ between the
-two groups. In a prospective observational study of almost 5000 women
-conducted by the Maternal-Fetal Medicine Units Network, the heterozygous
-mutant gene incidence was 2.7 percent (Dizon-Townson, 2005). Of three
-pulmonary emboli and one deep-vein thrombosis cases—a rate of 0.8 per
-1000 pregnancies—none was among these carriers. Moreover, in the
+Protein C Deficiency When thrombin is bound to thrombomodulin on endothelial cells of small vessels, its procoagulant activities are neutralized. This binding also activates protein C, a natural anticoagulant. It, in the presence of protein S, controls thrombin generation, in part, by inactivating factors Va and VIIIa (see Fig. 55-1). Protein C activity increases modestly but significantly throughout the first half of pregnancy, and some have speculated that this augmentation may play a role in maintaining early pregnancy through both anticoagulant and inflammatory regulatory pathways (Said, 2010).
 
-heterozygous women, the risks of preeclampsia, placental abruption, fetalgrowth restriction, or pregnancy loss were not elevated. The investigators
-concluded that universal prenatal screening for the Leiden mutation and
-prophylaxis for carriers without a prior VTE is not indicated.
+More than 160 different autosomal dominant mutations for the protein C gene have been described (Louis-Jacques, 2016). The prevalence of heterozygous protein C deficiency is 2 to 3 per 1000, but many of these individuals do not have a thrombosis history because the phenotypic expression is highly variable. These prevalence estimates correspond with functional activity threshold values of 50 to 60 percent, which are used by most laboratories. As shown in Table 55-2, these are associated with a sixto twelvefold higher risk for VTE (Lockwood, 2012). The rare cases of homozygous protein C deficiency may cause fatal neonatal purpura fulminans. Last, sepsis can result in purpura fulminans in the adult with heterozygous protein C deficiency (Bendapudi, 2021).
 
-Prothrombin G20210A Mutation
-This missense mutation in the prothrombin gene leads to excessive
-accumulation of prothrombin, which may be converted to thrombin.
-Prothrombin levels are increased approximately 30 percent in heterozygotes
-and 70 percent in homozygotes (MacCallum, 2014). As with factor V Leiden,
-a personal or family history of VTE in a first-degree relative before age 50
-years raises the risk of VTE during pregnancy (see Table 55-2). For a
-heterozygous carrier with such a history, the risk exceeds 10 percent. Without
-such a history, heterozygous carriers of the mutation have less than a 1percent risk of VTE during pregnancy (American College of Obstetricians
-and Gynecologists, 2020a).
-Silver and coworkers (2010) tested nearly 4200 women for the
-prothrombin G20210A mutation. A total of 157—or 3.8 percent—of the
-women carried the mutation, and only one of these was homozygous. Carriers
-had similar rates of pregnancy loss, preeclampsia, fetal-growth restriction,
-and placental abruption compared with noncarriers. Three thromboembolic
-events occurred in women who tested negative for the mutation.
-Homozygous patients, or those who are doubly heterozygous for a
-G20210A mutation with a factor V Leiden mutation, have a greater
-thromboembolism risk than heterozygous carriers (Connors, 2017). Others
-have provided detailed information on pregnancy outcomes in women with
-such rare compound thrombophilias (Carroll, 2018; Lim, 2016).
+Protein S Deficiency This circulating anticoagulant is activated by protein C, which enhances the capacity of protein S to inactivate factors Va and VIIIa (see Fig. 55-1). Protein S deficiency may be caused by more than 130 different mutations, with an aggregate heterozygous prevalence of approximately 0.3 to 1.3 per 1000 individuals (Louis-Jacques, 2016). Protein S deficiency may be measured by antigenically determined free, functional, and total S levels. All three decline substantively during normal gestation (Appendix, p. 1228). Thus, the diagnosis in pregnant women—as well as in those taking certain oral contraceptives—is difficult. If screening during pregnancy is necessary, threshold values for free protein S antigen levels in the second and third trimesters have been identified at <30 percent and <24 percent, respectively. The risk of VTE in pregnancy is increased severalfold (see Table 55-2). Among those with a positive family history, the VTE risk in pregnancy is 6 to 7 percent (American College of Obstetricians and Gynecologists, 2020a). Conard and coworkers (1990) described thrombosis in five of 29 pregnant women with protein S deficiency. They, as well as Burneo and colleagues (2002), reported maternal cerebral vein thrombosis. Neonatal homozygous protein S deficiency is usually associated with purpura fulminans, the fatal clinical phenotype.
 
-Hyperhomocysteinemia
-The most common cause of elevated homocysteine is the C667T thermolabile
-mutation of the 5, 10– methylene–tetrahydrofolate reductase (MTHFR)
-enzyme. Inheritance is autosomal recessive. Elevated homocysteine levels
-may also result from deficiency of one of several enzymes involved in
-methionine metabolism and from correctible nutritional deficiencies of folic
-acid, vitamin B6, or vitamin B12. During normal pregnancy, mean
+Factor V Leiden Mutation This is the most prevalent of the known thrombophilia syndromes and is characterized by resistance of plasma to the anticoagulant effects of activated
 
-homocysteine plasma concentrations decline and make a diagnosis difficult
-(Lockwood, 2002).
-A metaanalysis by den Heijer and associates (2005) reported an
-association between MTHFR polymorphisms and a slightly greater risk for
-thrombosis in international studies, but no such association was found in
-North American studies (den Heijer, 2005). The authors speculated that folic
-acid supplementation could explain the difference. Recall that folic acid
-serves as a cofactor in the remethylation reaction of homocysteine to
-methionine. Similarly, the American College of Chest Physicians posited that
-the lack of an association with thromboembolism could reflect the
-physiological reductions in homocysteine levels associated with pregnancy
-as well as the effects of widespread prenatal folic acid supplementation
-(Bates, 2012). The American College of Obstetricians and Gynecologists
-(2020a) has concluded that there is insufficient evidence to support
-assessment of MTHFR polymorphisms or measurement of fasting
-homocysteine levels in the evaluation for VTE.
+protein C. There are several mutations that create this resistance, but the most common is the factor V Leiden mutation. This missense mutation results from a substitution of glutamine for arginine at position 506 in the factor V polypeptide. As a result of this mutation, activated factor V is neutralized approximately tenfold more slowly by activated protein C (see Fig. 55-1). This leads to enhanced thrombin generation. Heterozygous inheritance of factor V Leiden is the most common heritable thrombophilia. It is found in 3 to 15 percent of select European populations, 1.2 percent of African Americans, and 2.2 of Hispanic Americans, but is virtually absent in African blacks and Asians (American College of Obstetricians and Gynecologists, 2020a). Women who are heterozygous for factor V Leiden account for approximately 40 percent of VTE cases during pregnancy. However, the actual risk among pregnant women who are heterozygous and who do not have a personal history or a first-degree relative with a thrombotic episode before age 50 years is 5 to 12 events per 1000 births (see Table 55-2). In contrast, this risk is at least 10 percent among pregnant women with a personal or family history. Pregnant women who are homozygous without a personal or family history have a 1to 4-percent risk for VTE, whereas those with such a history have an approximately 17-percent risk (American College of Obstetricians and Gynecologists, 2020a). Diagnosis during pregnancy is performed by DNA analysis for the mutant factor V gene. Bioassay is not used because of the normal resistance that develops after early pregnancy from alterations in other coagulation protein concentrations. Of note, activated protein C resistance can also be caused by antiphospholipid syndrome, which is described on page 979 and also detailed in Chapter 62 (p. 1114). To assess the prognostic significance of maternal factor V Leiden mutation during pregnancy, Kjellberg and associates (2010) compared the outcomes of 491 carriers with those of 1055 controls. All three of the thromboembolic events occurred among the carriers. But, preterm birth rates, birthweights, or hypertensive complication rates did not differ between the two groups. In a prospective observational study of almost 5000 women conducted by the Maternal-Fetal Medicine Units Network, the heterozygous mutant gene incidence was 2.7 percent (Dizon-Townson, 2005). Of three pulmonary emboli and one deep-vein thrombosis cases—a rate of 0.8 per 1000 pregnancies—none was among these carriers. Moreover, in the
 
-Other Thrombophilia Mutations
-Protein Z is a vitamin K–dependent protein that serves as a cofactor in factor
-Xa inactivation. Studies have found that low protein Z levels are associated
-with an elevated thromboembolism risk in nonpregnant patients and may be
-implicated in the pathogenesis of poor pregnancy outcomes (Almawi, 2013).
-Similarly, plasminogen activator inhibitor type 1 (PAI-I) is an important
-regulator of fibrinolysis. Certain polymorphisms in the gene promoter have
-been associated with slightly higher VTE risks. Although these
-thrombophilias may exacerbate risk among patients when coinherited with
-other thrombophilias, the American College of Obstetricians and
-Gynecologists (2020a) has concluded that evidence to recommend screening
-is insufficient.
+heterozygous women, the risks of preeclampsia, placental abruption, fetalgrowth restriction, or pregnancy loss were not elevated. The investigators concluded that universal prenatal screening for the Leiden mutation and prophylaxis for carriers without a prior VTE is not indicated.
 
-■ Acquired Thrombophilias
-Some examples of acquired hypercoagulable states include antiphospholipid
-syndrome (APS), heparin-induced thrombocytopenia, and cancer.
+Prothrombin G20210A Mutation This missense mutation in the prothrombin gene leads to excessive accumulation of prothrombin, which may be converted to thrombin. Prothrombin levels are increased approximately 30 percent in heterozygotes and 70 percent in homozygotes (MacCallum, 2014). As with factor V Leiden, a personal or family history of VTE in a first-degree relative before age 50 years raises the risk of VTE during pregnancy (see Table 55-2). For a heterozygous carrier with such a history, the risk exceeds 10 percent. Without such a history, heterozygous carriers of the mutation have less than a 1percent risk of VTE during pregnancy (American College of Obstetricians and Gynecologists, 2020a). Silver and coworkers (2010) tested nearly 4200 women for the prothrombin G20210A mutation. A total of 157—or 3.8 percent—of the women carried the mutation, and only one of these was homozygous. Carriers had similar rates of pregnancy loss, preeclampsia, fetal-growth restriction, and placental abruption compared with noncarriers. Three thromboembolic events occurred in women who tested negative for the mutation. Homozygous patients, or those who are doubly heterozygous for a G20210A mutation with a factor V Leiden mutation, have a greater thromboembolism risk than heterozygous carriers (Connors, 2017). Others have provided detailed information on pregnancy outcomes in women with such rare compound thrombophilias (Carroll, 2018; Lim, 2016).
+
+Hyperhomocysteinemia The most common cause of elevated homocysteine is the C667T thermolabile mutation of the 5, 10– methylene–tetrahydrofolate reductase (MTHFR) enzyme. Inheritance is autosomal recessive. Elevated homocysteine levels may also result from deficiency of one of several enzymes involved in methionine metabolism and from correctible nutritional deficiencies of folic acid, vitamin B6, or vitamin B12. During normal pregnancy, mean
+
+homocysteine plasma concentrations decline and make a diagnosis difficult (Lockwood, 2002). A metaanalysis by den Heijer and associates (2005) reported an association between MTHFR polymorphisms and a slightly greater risk for thrombosis in international studies, but no such association was found in North American studies (den Heijer, 2005). The authors speculated that folic acid supplementation could explain the difference. Recall that folic acid serves as a cofactor in the remethylation reaction of homocysteine to methionine. Similarly, the American College of Chest Physicians posited that the lack of an association with thromboembolism could reflect the physiological reductions in homocysteine levels associated with pregnancy as well as the effects of widespread prenatal folic acid supplementation (Bates, 2012). The American College of Obstetricians and Gynecologists (2020a) has concluded that there is insufficient evidence to support assessment of MTHFR polymorphisms or measurement of fasting homocysteine levels in the evaluation for VTE.
+
+Other Thrombophilia Mutations Protein Z is a vitamin K–dependent protein that serves as a cofactor in factor Xa inactivation. Studies have found that low protein Z levels are associated with an elevated thromboembolism risk in nonpregnant patients and may be implicated in the pathogenesis of poor pregnancy outcomes (Almawi, 2013). Similarly, plasminogen activator inhibitor type 1 (PAI-I) is an important regulator of fibrinolysis. Certain polymorphisms in the gene promoter have been associated with slightly higher VTE risks. Although these thrombophilias may exacerbate risk among patients when coinherited with other thrombophilias, the American College of Obstetricians and Gynecologists (2020a) has concluded that evidence to recommend screening is insufficient.
+
+### Acquired Thrombophilias
+
+Some examples of acquired hypercoagulable states include antiphospholipid syndrome (APS), heparin-induced thrombocytopenia, and cancer.
 
 Antiphospholipid Syndrome
 
-This prothrombotic disorder can affect both the venous and arterial
-circulations. The deeper veins of the lower limbs and the cerebral arterial
-circulation are the most frequent sites of venous and arterial thrombosis,
-respectively (Garcia, 2018; Konkle, 2018). Besides thrombosis, the other
-major clinical manifestations of APS are adverse obstetrical outcomes
-(Table 11-4, p. 205). Criteria for APS include (1) at least one otherwise
-unexplained fetal death at or beyond 10 weeks; (2) at least one preterm birth
-before 34 weeks’ gestation because of eclampsia, severe preeclampsia, or
-placental insufficiency; or (3) at least three unexplained consecutive
-spontaneous abortions before 10 weeks. The syndrome is discussed in detail
-in Chapter 62 (p. 1114).
-Testing for antiphospholipid antibodies should be performed in women
-with an unexplained arterial or venous thromboembolism or a history of one
-fetal loss or three or more recurrent embryonic or fetal losses (American
-College of Obstetricians and Gynecologists, 2020a). At this time, preterm
-severe preeclampsia and early-onset placental insufficiency do not support
-such testing. That said, there is evidence that antiphospholipid positivity
-confers a worse prognosis for pregnancies complicated by HELLP syndrome
-(Pécourt, 2021). These patients should be tested for the presence of three
-factors: (1) lupus anticoagulant, (2) anticardiolipin immunoglobulin G and M
-(IgG and IgM) antibodies, and (3) anti-β2 glycoprotein-I IgG and IgM
-antibodies. If any of these laboratory test results are positive, a confirmatory
-test is performed 12 weeks later (Connors, 2017).
-Based on their study of 750 singleton pregnancies complicated by APS,
-Saccone and colleagues (2017) found that anticardiolipin antibody is the
-most common sole antiphospholipid antibody present. Women with APS have
-a 5- to 12-percent risk of thrombosis during pregnancy or the puerperium.
-Indeed, up to 25 percent of these thrombotic events occur during pregnancy
-or in the puerperium.
+This prothrombotic disorder can affect both the venous and arterial circulations. The deeper veins of the lower limbs and the cerebral arterial circulation are the most frequent sites of venous and arterial thrombosis, respectively (Garcia, 2018; Konkle, 2018). Besides thrombosis, the other major clinical manifestations of APS are adverse obstetrical outcomes (Table 11-4, p. 205). Criteria for APS include (1) at least one otherwise unexplained fetal death at or beyond 10 weeks; (2) at least one preterm birth before 34 weeks’ gestation because of eclampsia, severe preeclampsia, or placental insufficiency; or (3) at least three unexplained consecutive spontaneous abortions before 10 weeks. The syndrome is discussed in detail in Chapter 62 (p. 1114). Testing for antiphospholipid antibodies should be performed in women with an unexplained arterial or venous thromboembolism or a history of one fetal loss or three or more recurrent embryonic or fetal losses (American College of Obstetricians and Gynecologists, 2020a). At this time, preterm severe preeclampsia and early-onset placental insufficiency do not support such testing. That said, there is evidence that antiphospholipid positivity confers a worse prognosis for pregnancies complicated by HELLP syndrome (Pécourt, 2021). These patients should be tested for the presence of three factors: (1) lupus anticoagulant, (2) anticardiolipin immunoglobulin G and M (IgG and IgM) antibodies, and (3) anti-β2 glycoprotein-I IgG and IgM antibodies. If any of these laboratory test results are positive, a confirmatory test is performed 12 weeks later (Connors, 2017). Based on their study of 750 singleton pregnancies complicated by APS, Saccone and colleagues (2017) found that anticardiolipin antibody is the most common sole antiphospholipid antibody present. Women with APS have a 5- to 12-percent risk of thrombosis during pregnancy or the puerperium. Indeed, up to 25 percent of these thrombotic events occur during pregnancy or in the puerperium.
 
-■ Thrombophilias and Pregnancy Complications
-Contrary to past teaching, no definite causal link between inherited
-thrombophilias and adverse pregnancy outcomes exists (Ormesher, 2017).
-The confusion was caused by a number of observational studies that were
-later followed by large prospective cohort studies. Currently, the American
-College of Obstetricians and Gynecologists (2020a) does not recommend
+### Thrombophilias and Pregnancy Complications
 
-inherited thrombophilia screening for women with a history of fetal loss or
-adverse pregnancy outcomes such as fetal-growth restriction, placental
-abruption, and preeclampsia.
-There are no convincing data that link inherited thrombophilias and fetal
-loss. It follows that there is no benefit to aspirin or heparin therapy as might
-accrue for recurrent pregnancy loss due to antiphospholipid antibodies
-(Chap. 62, p. 1116). Stillbirths also are not more common with heterozygous
-mutations, but there is a weak association with homozygous factor V Leiden
-mutation (Silver, 2016). Last, there is insufficient evidence to screen for
-inherited thrombophilias in women with a fetal death (Arachchillage, 2019).
-Fetal-growth restriction also is not more common with inherited
-thrombophilias (American College of Obstetricians and Gynecologists,
-2020a; Infante-Rivard, 2002). Likewise, there have been a number of
-prospective cohort studies that showed no association of inherited
-thrombophilias with placental abruption (Dizon-Townson, 2005; Silver,
-2010). Conversely, Alfirevic and coworkers (2002) reported an association
-with these and both heterozygosity and homozygosity for factor V Leiden
-mutations as well as heterozygous prothrombin G20210A mutation.
-Studies showing an association of inherited thrombophilias and
-preeclampsia also are conflicting (American College of Obstetricians and
-Gynecologists, 2020a). One large systematic review and metaanalysis of
-nearly 22,000 women did not show an association between factor V Leiden
-or prothrombin gene mutations with preeclampsia (Rodger, 2010). Similarly,
-a more recent prospective study failed to show an association between
-preeclampsia and 12 hereditary thrombophilias (Fernandez Arias, 2019).
-Thus, because of uncertainties in the magnitude of risk and in the benefits
-of prophylaxis given to prevent pregnancy complications in women with
-heritable thrombophilias, it remains unproven that universal screening is
-indicated (Louis-Jacques, 2016). In contrast, the association between APS
-and adverse pregnancy outcomes—including fetal loss, recurrent pregnancy
-loss, and preeclampsia—is much stronger (Liu, 2019).
+Contrary to past teaching, no definite causal link between inherited thrombophilias and adverse pregnancy outcomes exists (Ormesher, 2017). The confusion was caused by a number of observational studies that were later followed by large prospective cohort studies. Currently, the American College of Obstetricians and Gynecologists (2020a) does not recommend
 
-■ Thrombophilia Screening
-Given the relatively high incidence of thrombophilia in the population and
-the low incidence of VTE, universal screening during pregnancy is not costeffective. Thus, a selective screening strategy is required. The American
+inherited thrombophilia screening for women with a history of fetal loss or adverse pregnancy outcomes such as fetal-growth restriction, placental abruption, and preeclampsia. There are no convincing data that link inherited thrombophilias and fetal loss. It follows that there is no benefit to aspirin or heparin therapy as might accrue for recurrent pregnancy loss due to antiphospholipid antibodies (Chap. 62, p. 1116). Stillbirths also are not more common with heterozygous mutations, but there is a weak association with homozygous factor V Leiden mutation (Silver, 2016). Last, there is insufficient evidence to screen for inherited thrombophilias in women with a fetal death (Arachchillage, 2019). Fetal-growth restriction also is not more common with inherited thrombophilias (American College of Obstetricians and Gynecologists, 2020a; Infante-Rivard, 2002). Likewise, there have been a number of prospective cohort studies that showed no association of inherited thrombophilias with placental abruption (Dizon-Townson, 2005; Silver, 2010). Conversely, Alfirevic and coworkers (2002) reported an association with these and both heterozygosity and homozygosity for factor V Leiden mutations as well as heterozygous prothrombin G20210A mutation. Studies showing an association of inherited thrombophilias and preeclampsia also are conflicting (American College of Obstetricians and Gynecologists, 2020a). One large systematic review and metaanalysis of nearly 22,000 women did not show an association between factor V Leiden or prothrombin gene mutations with preeclampsia (Rodger, 2010). Similarly, a more recent prospective study failed to show an association between preeclampsia and 12 hereditary thrombophilias (Fernandez Arias, 2019). Thus, because of uncertainties in the magnitude of risk and in the benefits of prophylaxis given to prevent pregnancy complications in women with heritable thrombophilias, it remains unproven that universal screening is indicated (Louis-Jacques, 2016). In contrast, the association between APS and adverse pregnancy outcomes—including fetal loss, recurrent pregnancy loss, and preeclampsia—is much stronger (Liu, 2019).
 
-College of Obstetricians and Gynecologists (2020a) recommends that
-thrombophilia screening be considered in the following clinical
-circumstances: (1) a personal history of VTE with or without a recurrent risk
-factor such as fractures, surgery, or prolonged immobilization; and (2) a firstdegree relative (parent or sibling) with a history of a high-risk inherited
-thrombophilia. As discussed previously, testing for inherited thrombophilias
-in women who have experienced recurrent fetal loss or adverse pregnancy
-outcomes is not recommended.
-Methods of screening for the more common inherited thrombophilias are
-shown in Table 55-3. Whenever possible, laboratory testing is performed at
-least 6 weeks after the thrombotic event, while the patient is not pregnant,
-and when she is not receiving anticoagulation or hormonal therapy. Last,
-screening for hyperhomocysteinemia is not recommended (American College
-of Obstetricians and Gynecologists, 2020a).
-TABLE 55-3. How to Test for Thrombophilias
+### Thrombophilia Screening
 
-DEEP-VEIN THROMBOSIS
-■ Clinical Presentation
-During pregnancy, most venous thromboses are confined to the deep veins of
-the lower extremity. Most of these are located in the iliofemoral and iliac
-veins without involvement of the calf veins (Chan, 2010). In contrast, in the
-general population, more than 80 percent of deep-vein thromboses involve
-calf veins (Huisman, 2015). The vast majority are left sided (Blanco-Molina,
+Given the relatively high incidence of thrombophilia in the population and the low incidence of VTE, universal screening during pregnancy is not costeffective. Thus, a selective screening strategy is required. The American
 
-2007). Greer (2003) hypothesizes that this results from compression of the
-left iliac vein by the right iliac and ovarian arteries, both of which cross the
-vein only on the left side. Yet, as described in Chapter 56 (p. 994), the ureter
-is compressed more on the right side.
-Signs and symptoms vary depending on the degree of occlusion and the
-intensity of the inflammatory response. Classically, thrombosis involving the
-lower extremity is abrupt in onset, and there is pain and edema of the leg and
-thigh. The thrombus typically involves much of the deep-venous system to the
-iliofemoral region. Occasionally, reflex arterial spasm causes a pale, cool
-extremity with diminished pulsations. Calf measurements may identify a
-discordance in size. Alternatively, there may be appreciable clot, yet little
-pain, heat, or swelling. Importantly, calf pain, either spontaneous or in
-response to squeezing or to Achilles tendon stretching—Homans sign—may
-be caused by a strained muscle or contusion. Importantly, 30 to 60 percent
-of women with a confirmed lower-extremity acute deep-vein thrombosis
-(DVT) have an asymptomatic pulmonary embolism (p. 986).
+College of Obstetricians and Gynecologists (2020a) recommends that thrombophilia screening be considered in the following clinical circumstances: (1) a personal history of VTE with or without a recurrent risk factor such as fractures, surgery, or prolonged immobilization; and (2) a firstdegree relative (parent or sibling) with a history of a high-risk inherited thrombophilia. As discussed previously, testing for inherited thrombophilias in women who have experienced recurrent fetal loss or adverse pregnancy outcomes is not recommended. Methods of screening for the more common inherited thrombophilias are shown in Table 55-3. Whenever possible, laboratory testing is performed at least 6 weeks after the thrombotic event, while the patient is not pregnant, and when she is not receiving anticoagulation or hormonal therapy. Last, screening for hyperhomocysteinemia is not recommended (American College of Obstetricians and Gynecologists, 2020a).
 
-■ Diagnosis
-Clinical diagnosis of DVT is difficult without testing and is confirmed in
-only 10 percent of cases (Hull, 1990). Another challenge is that many of the
-common diagnostic tests that have been investigated extensively in
-nonpregnant patients have not been validated appropriately in pregnancy
-(Huisman, 2015). Shown in Figure 55-2 is one diagnostic algorithm that can
-be used for evaluation of pregnant women. With a few modifications, we
-follow a similar evaluation at Parkland Hospital.
+> **Table 55-3:** How to Test for Thrombophilias
 
-FIGURE 55-2 Algorithm to evalate suspected venous thromboembolism in pregnancy depending upon
-number of YEARS criteria met. Evidence of DVT should prompt compression ultrasound. aThe three
-YEARS criteria are clinical signs of DVT, hemoptysis, and PE as the most likely diagnosis. bThe
-American Thoracic Society and Society of Thoracic Radiology recommend CXR; cThe American
-Society of Hematology recommends pulmonary V/Q scanning. CT = computed tomography; CTA =
-computed tomography angiography; CXR = chest x-ray; DVT = deep-vein thrombosis; MR = magnetic
-resonance; PE = pulmonary embolism; V/Q scan = ventilation perfusion scan. (From Bates, 2018;
-Guyatt, 2012; Leung, 2011; van der Hulle, 2019; van der Pol, 2019.)
+## Deep-Vein Thrombosis
 
-Compression Ultrasonography
-With suspected DVT, the initial diagnostic test recommended is compression
-ultrasonography of the proximal leg veins (American College of
+### Clinical Presentation
 
-Obstetricians and Gynecologists, 2020b). The diagnosis is based on the
-noncompressibility and typical echoarchitecture of a thrombosed vein. For
-nonpregnant patients with suspected thrombosis, the safety of withholding
-anticoagulation for 1 week has been established in the setting of a normal
-compression ultrasound examination (Birdwell, 1998). Serial compression
-examinations are then performed because isolated undetected calf
-thromboses that ultimately extend into the proximal veins will do so within 1
-to 2 weeks of presentation in approximately a fourth of patients. In pregnant
-women, however, normal findings with ultrasonography do not always
-exclude a pulmonary embolism. This is because the thrombosis may have
-already embolized or because it arose from iliac or other deep-pelvic veins,
-which are less accessible to ultrasound evaluation.
-Two studies are helpful for evaluating whether serial examinations are
-necessary for pregnant women suspected of having a DVT. Chan and
-associates (2013) studied 221 pregnant and postpartum women presenting
-with a suspected DVT. The 205 women with a negative initial study result
-underwent serial testing, which was negative in all cases. Of these, one
-woman had a pulmonary embolism 7 weeks later. Le Gal and colleagues
-(2012) studied 210 pregnant and postpartum women with a suspected DVT.
-Of these, 177 women without a DVT were not anticoagulated and did not
-undergo serial testing. Two had an objectively confirmed thrombosis
-diagnosed within 3 months. In sum, these data suggest that a negative single
-complete compression ultrasonography study may safely exclude the
-diagnosis of DVT in most pregnant women.
+During pregnancy, most venous thromboses are confined to the deep veins of the lower extremity. Most of these are located in the iliofemoral and iliac veins without involvement of the calf veins (Chan, 2010). In contrast, in the general population, more than 80 percent of deep-vein thromboses involve calf veins (Huisman, 2015). The vast majority are left sided (Blanco-Molina,
 
-Magnetic Resonance Imaging
-This imaging technique allows excellent delineation of anatomical detail
-above the inguinal ligament. Thus, in many cases, magnetic resonance (MR)
-imaging is immensely useful for diagnosis of iliofemoral and pelvic vein
-thrombosis. The venous system can also be reconstructed using MR
-venography (Chap. 49, p. 875). MR imaging is 100-percent sensitive and 90percent specific for detection of venographically proven DVT in nonpregnant
-patients (Erdman, 1990). Importantly, almost half of those without DVT were
-found to have nonthrombotic conditions that included cellulitis, myositis,
-edema, hematomas, and superficial phlebitis.
+2007). Greer (2003) hypothesizes that this results from compression of the left iliac vein by the right iliac and ovarian arteries, both of which cross the vein only on the left side. Yet, as described in Chapter 56 (p. 994), the ureter is compressed more on the right side. Signs and symptoms vary depending on the degree of occlusion and the intensity of the inflammatory response. Classically, thrombosis involving the lower extremity is abrupt in onset, and there is pain and edema of the leg and thigh. The thrombus typically involves much of the deep-venous system to the iliofemoral region. Occasionally, reflex arterial spasm causes a pale, cool extremity with diminished pulsations. Calf measurements may identify a discordance in size. Alternatively, there may be appreciable clot, yet little pain, heat, or swelling. Importantly, calf pain, either spontaneous or in response to squeezing or to Achilles tendon stretching—Homans sign—may be caused by a strained muscle or contusion. Importantly, 30 to 60 percent of women with a confirmed lower-extremity acute deep-vein thrombosis (DVT) have an asymptomatic pulmonary embolism (p. 986).
 
-D-dimer Screening Tests
-These specific fibrin degradation products are generated when fibrinolysin
-(plasminogen) degrades fibrin, as occurs in thromboembolism. Their
-measurement is usually incorporated into diagnostic algorithms for VTE in
-nonpregnant patients (Righini, 2018). This method was shown to be accurate
-in the YEARS study (van der Hulle, 2017). Screening with the D-dimer test
-in pregnancy, however, is problematic for several reasons. Depending on
-assay sensitivity, D-dimer serum levels rise with gestational age along with
-substantively elevated plasma fibrinogen concentrations (Appendix, p. 1228)
-(Johnson, 2019). Levels are also affected by multifetal gestation and
-cesarean delivery (Hu, 2020; Miyamoto, 2020). Last, D-dimer concentrations
-can also be elevated in pregnancy complications such as placental abruption,
-preeclampsia, and sepsis (Cunningham, 2015).
-Three large prospective studies have evaluated D-dimer testing in
-pregnant women to diagnose VTE. Righini and colleagues (2018) found that
-D-dimer measurement, bilateral leg ultrasound, and computed tomographyangiogram safely ruled out VTE. Subsequently, van der Pol and coworkers
-(2019) used a pregnancy-adapted YEARS algorithm to diagnose suspected
-pulmonary embolism. The algorithm used D-dimer measurements and clinical
-suspicion to confirm VTE. With none of the clinical criteria present, and with
-the D-dimer level <1000 ng/mL, or with one or more clinical criteria present
-and with the D-dimer level <500 ng/mL, pulmonary embolism was safely
-excluded (see Fig. 55-2). Last, the DiPEP study showed that neither clinical
-risk factors nor D-dimer levels were accurate in identifying pulmonary
-embolism in pregnant women (Goodacre, 2019). They concluded that
-pregnant women with suspected pulmonary embolism should all undergo
-imaging studies.
-The findings of the YEARS study and subsequent others will no doubt
-guide care. However, currently the American College of Obstetricians and
-Gynecologists (2020b) recommends against the use of D-dimer assays to
-diagnose VTE in pregnant women. We agree, and in our view, these positive
-results need to be duplicated before adaptation of their widespread use in
-pregnant women. Still, a negative D-dimer assay should be reassuring, unless
-VTE is the most likely diagnosis (Viau-Lapointe, 2020).
+### Diagnosis
 
-■ Management of Venous Thromboembolism
+Clinical diagnosis of DVT is difficult without testing and is confirmed in only 10 percent of cases (Hull, 1990). Another challenge is that many of the common diagnostic tests that have been investigated extensively in nonpregnant patients have not been validated appropriately in pregnancy (Huisman, 2015). Shown in Figure 55-2 is one diagnostic algorithm that can be used for evaluation of pregnant women. With a few modifications, we follow a similar evaluation at Parkland Hospital.
 
-Optimal management of VTE during pregnancy has not undergone major
-clinical study to provide evidence-based practices. There is, however,
-consensus for treatment with anticoagulation and limited activity.
-Thrombophilia testing does not change treatment (Connors, 2017).
-Anticoagulation is initiated with either unfractionated heparin (UFH) or
-LMWH (Table 55-4). Although either type is acceptable, most recommend
-one of the LMWHs (American College of Obstetricians and Gynecologists,
-2020b; Kearon, 2016). The American Society of Hematology recommends
-preferential use of LMWH during pregnancy because of better
-bioavailability, longer plasma half-life, more predictable dose response,
-reduced risks of osteoporosis and thrombocytopenia, and less frequent
-dosing (Bates, 2018).
-TABLE 55-4. Anticoagulation Regimen Definitions
+> **Figure 55-2:** Algorithm to evalate suspected venous thromboembolism in pregnancy depending upon number of YEARS criteria met. Evidence of DVT should prompt compression ultrasound. aThe three YEARS criteria are clinical signs of DVT, hemoptysis, and PE as the most likely diagnosis. bThe American Thoracic Society and Society of Thoracic Radiology recommend CXR; cThe American Society of Hematology recommends pulmonary V/Q scanning. CT = computed tomography; CTA = computed tomography angiography; CXR = chest x-ray; DVT = deep-vein thrombosis; MR = magnetic resonance; PE = pulmonary embolism; V/Q scan = ventilation perfusion scan. (From Bates, 2018; Guyatt, 2012; Leung, 2011; van der Hulle, 2019; van der Pol, 2019.)
 
-The duration of full anticoagulation varies, and no studies have defined
-the optimal duration for pregnancy-related thromboembolism. In nonpregnant
-patients, evidence supports a minimum treatment duration of 3 months
-(Kearon, 2012). For pregnant patients, the American College of
-Obstetricians and Gynecologists (2020b) recommends therapeutic
-anticoagulation for 3 to 6 months followed by intermediate or prophylactic
-therapy for the duration of pregnancy and the postpartum period. If the
-woman is not breastfeeding, direct acting oral agents can be considered (p.
-985).
-Recall that pulmonary embolism develops in as many as 60 percent of
-patients with untreated venous thrombosis, and anticoagulation decreases this
-risk to less than 5 percent. In nonpregnant patients, the mortality rate with a
-pulmonary embolism approximates 1 percent (Douketis, 1998; Pollack,
-2011).
-With DVT, over several days, leg pain dissipates. After symptoms have
-abated, graded ambulation is begun. Elastic stockings are fitted, and
-anticoagulation is continued. Recovery to this stage usually takes 7 to 10
-days. Graduated compression stockings can be continued for 2 years after the
-diagnosis to reduce the incidence of postthrombotic syndrome (Brandjes,
-1997). Symptoms include chronic leg paresthesias or pain, intractable
-edema, skin changes, and leg ulcers. According to the American Society of
-Hematology, catheter-directed thrombolytic therapy does not mitigate against
-this complication (Bates, 2018).
+Compression Ultrasonography With suspected DVT, the initial diagnostic test recommended is compression ultrasonography of the proximal leg veins (American College of
 
-Unfractionated Heparin
-This agent should be considered for the initial treatment of thromboembolism
-and in situations in which delivery, surgery, or thrombolysis may be
-necessary (American College of Obstetricians and Gynecologists, 2020b).
-UFH can be administered by one of two alternatives: (1) initial intravenous
-therapy followed by adjusted-dose subcutaneous UFH given every 12 hours;
-or (2) twice-daily, adjusted-dose subcutaneous UFH with doses adjusted to
-prolong the activated partial thromboplastin time (aPTT) into the therapeutic
-range 6 hours post injection (Table 55-5).
-TABLE 55-5. Some Recommendations for Thromboprophylaxis During
-Pregnancy
+Obstetricians and Gynecologists, 2020b). The diagnosis is based on the noncompressibility and typical echoarchitecture of a thrombosed vein. For nonpregnant patients with suspected thrombosis, the safety of withholding anticoagulation for 1 week has been established in the setting of a normal compression ultrasound examination (Birdwell, 1998). Serial compression examinations are then performed because isolated undetected calf thromboses that ultimately extend into the proximal veins will do so within 1 to 2 weeks of presentation in approximately a fourth of patients. In pregnant women, however, normal findings with ultrasonography do not always exclude a pulmonary embolism. This is because the thrombosis may have already embolized or because it arose from iliac or other deep-pelvic veins, which are less accessible to ultrasound evaluation. Two studies are helpful for evaluating whether serial examinations are necessary for pregnant women suspected of having a DVT. Chan and associates (2013) studied 221 pregnant and postpartum women presenting with a suspected DVT. The 205 women with a negative initial study result underwent serial testing, which was negative in all cases. Of these, one woman had a pulmonary embolism 7 weeks later. Le Gal and colleagues (2012) studied 210 pregnant and postpartum women with a suspected DVT. Of these, 177 women without a DVT were not anticoagulated and did not undergo serial testing. Two had an objectively confirmed thrombosis diagnosed within 3 months. In sum, these data suggest that a negative single complete compression ultrasonography study may safely exclude the diagnosis of DVT in most pregnant women.
 
-For intravenous therapy, several protocols are acceptable. In general, if
-UFH is used, it is initiated with a bolus intravenous dose of 70 to 100 U/kg,
-which is 5000 to 10,000 U. This is followed by continuous intravenous
-infusions beginning at 1000 U/hr or 15 to 20 U/kg/hr. This infusion rate is
-titrated to achieve an aPTT 1.5 to 2.5 times control values (Linnemann,
-2016). Intravenous anticoagulation is maintained for about 5 to 7 days, after
-which treatment is converted to subcutaneous heparin to maintain the aPTT to
-at least 1.5 to 2.5 times control throughout the dosing interval. For women
-with lupus anticoagulant, aPTT does not accurately assess heparin
-anticoagulation, and thus anti–factor Xa levels are preferred.
+Magnetic Resonance Imaging This imaging technique allows excellent delineation of anatomical detail above the inguinal ligament. Thus, in many cases, magnetic resonance (MR) imaging is immensely useful for diagnosis of iliofemoral and pelvic vein thrombosis. The venous system can also be reconstructed using MR venography (Chap. 49, p. 875). MR imaging is 100-percent sensitive and 90percent specific for detection of venographically proven DVT in nonpregnant patients (Erdman, 1990). Importantly, almost half of those without DVT were found to have nonthrombotic conditions that included cellulitis, myositis, edema, hematomas, and superficial phlebitis.
 
-Low-molecular-weight Heparin
-This is a family of derivatives of unfractionated heparin, and their molecular
-weights average 4000 to 5000 daltons compared with 12,000 to 16,000
-daltons for conventional heparin. None of these heparins cross the placenta,
-and all exert their anticoagulant activity by activating antithrombin. UFH has
-equivalent activity against factor Xa and thrombin compared with LMWHs,
-which have greater activity against factor Xa than against thrombin. They
-also have a more predictable anticoagulant response and fewer bleeding
-complications than UFH because of their better bioavailability, longer halflife, dose-independent clearance, and decreased interference with platelets
-(American College of Obstetricians and Gynecologists, 2020b; Bates, 2018).
-Their longer half-life prohibits neuraxial analgesia in laboring women.
-LMWH compounds are cleared by the kidneys and must be used cautiously
-when there is renal dysfunction.
-Several studies have shown that VTE is treated effectively with LMWH
-(Quinlan, 2004; Tapson, 2008). Using serial venograms, Breddin and
-associates (2001) observed that these compounds were more effective than
-UFH in reducing thrombus size without increasing mortality rates or major
-bleeding complications. Several different treatment regimens using LMWH
-for treatment of acute VTE are listed in Table 55-4 (American College of
-Obstetricians and Gynecologists, 2020b).
-Whether LMWH requires adjustments during the course of pregnancy is
-controversial (Berresheim, 2014). The American College of Obstetricians
-and Gynecologists (2020b) recommends monitoring with an anti-Xa level 4
-hours after an injection with dose adjustment to maintain a therapeutic level.
-Large studies using clinical end points that demonstrate an optimal
+D-dimer Screening Tests These specific fibrin degradation products are generated when fibrinolysin (plasminogen) degrades fibrin, as occurs in thromboembolism. Their measurement is usually incorporated into diagnostic algorithms for VTE in nonpregnant patients (Righini, 2018). This method was shown to be accurate in the YEARS study (van der Hulle, 2017). Screening with the D-dimer test in pregnancy, however, is problematic for several reasons. Depending on assay sensitivity, D-dimer serum levels rise with gestational age along with substantively elevated plasma fibrinogen concentrations (Appendix, p. 1228) (Johnson, 2019). Levels are also affected by multifetal gestation and cesarean delivery (Hu, 2020; Miyamoto, 2020). Last, D-dimer concentrations can also be elevated in pregnancy complications such as placental abruption, preeclampsia, and sepsis (Cunningham, 2015). Three large prospective studies have evaluated D-dimer testing in pregnant women to diagnose VTE. Righini and colleagues (2018) found that D-dimer measurement, bilateral leg ultrasound, and computed tomographyangiogram safely ruled out VTE. Subsequently, van der Pol and coworkers (2019) used a pregnancy-adapted YEARS algorithm to diagnose suspected pulmonary embolism. The algorithm used D-dimer measurements and clinical suspicion to confirm VTE. With none of the clinical criteria present, and with the D-dimer level <1000 ng/mL, or with one or more clinical criteria present and with the D-dimer level <500 ng/mL, pulmonary embolism was safely excluded (see Fig. 55-2). Last, the DiPEP study showed that neither clinical risk factors nor D-dimer levels were accurate in identifying pulmonary embolism in pregnant women (Goodacre, 2019). They concluded that pregnant women with suspected pulmonary embolism should all undergo imaging studies. The findings of the YEARS study and subsequent others will no doubt guide care. However, currently the American College of Obstetricians and Gynecologists (2020b) recommends against the use of D-dimer assays to diagnose VTE in pregnant women. We agree, and in our view, these positive results need to be duplicated before adaptation of their widespread use in pregnant women. Still, a negative D-dimer assay should be reassuring, unless VTE is the most likely diagnosis (Viau-Lapointe, 2020).
 
-therapeutic range or show that dose adjustments increase therapy, safety, or
-efficacy are lacking. Accordingly, the American Society of Hematology and
-others have concluded that routine monitoring with anti-Xa levels is difficult
-to justify (Bates, 2018; McDonnell, 2017).
-In general, heparin pharmacokinetics includes more rapid clearance of
-heparins as pregnancy progresses. The peaks of anti-Xa activity of
-enoxaparin (Lovenox) across pregnancy are shown in Figure 55-3. Similarly,
-tinzaparin (Innohep) with a dosage of 75 to 175 U/kg/d was necessary to
-achieve peak anti–factor Xa levels of 0.1 to 1.0 U/mL (Smith, 2004). In
-studies of dalteparin (Fragmin) pharmacokinetics, conventional starting
-doses of dalteparin—100 U/kg every 12 hours—were likely insufficient to
-maintain full anticoagulation in pregnant women (Barbour, 2004; Jacobsen,
-2003). Thus, slightly higher doses than that shown in Table 55-4 may be
-required.
+### Management of Venous Thromboembolism
 
-FIGURE 55-3 Anti–factor Xa activity with repeated daily administration of 40 mg enoxaparin
-subcutaneously in nonpregnant women and those from each trimester (Data from Lebaudy, 2008).
+Optimal management of VTE during pregnancy has not undergone major clinical study to provide evidence-based practices. There is, however, consensus for treatment with anticoagulation and limited activity. Thrombophilia testing does not change treatment (Connors, 2017). Anticoagulation is initiated with either unfractionated heparin (UFH) or LMWH (Table 55-4). Although either type is acceptable, most recommend one of the LMWHs (American College of Obstetricians and Gynecologists, 2020b; Kearon, 2016). The American Society of Hematology recommends preferential use of LMWH during pregnancy because of better bioavailability, longer plasma half-life, more predictable dose response, reduced risks of osteoporosis and thrombocytopenia, and less frequent dosing (Bates, 2018).
 
-Any concerns regarding teratogenicity of enoxaparin have been obviated
-(American College of Obstetricians and Gynecologists, 2020b; Bates, 2021).
-A comprehensive study of 1267 pregnant women treated with tinzaparin
-found no cases of heparin-induced thrombocytopenia, maternal deaths, or
-complications from regional analgesia (Nelson-Piercy, 2011). A total of 43
-women (3.4 percent) required medical intervention for bleeding. Of 15
-stillbirths, four were judged as possibly being related to tinzaparin use.
-LMWHs have been judged to be safe during breastfeeding (Bates, 2018).
+> **Table 55-4:** Anticoagulation Regimen Definitions
 
-Labor and Delivery
-Women receiving either therapeutic or prophylactic anticoagulation should
-be converted from LMWH to the shorter-half-life UFH in the last month of
-pregnancy or sooner if delivery appears imminent. The purpose of
-conversion to UFH has less to do with any risk of maternal bleeding at the
-time of delivery, but rather with neuraxial blockade complicated by an
-epidural or spinal hematoma (Chap. 25, p. 478). The Society for Obstetric
-Anesthesia and Perinatology recommends that UFH low-dose
-thromboprophylaxis be withheld for 4 to 6 hours; UFH intermediate-dose
-thromboprophylaxis for 12 hours; and UFH therapeutic dose for 24 hours
-before neuraxial analgesia (Leffert, 2018). For LMWH, the Society
-recommends to withhold low doses for 12 hours; intermediate doses 12 to 24
-hours; and therapeutic doses 24 hours.
-If a woman begins labor while taking UFH, clearance can be verified by
-an aPTT. Reversal of heparin with protamine sulfate—1 mg per 100 units
-heparin with a maximum dose of 50 mg—is rarely required and is not
-indicated with a prophylactic dose of heparin. For women in whom
-anticoagulation therapy has temporarily been discontinued, pneumatic
-compression devices are recommended.
+The duration of full anticoagulation varies, and no studies have defined the optimal duration for pregnancy-related thromboembolism. In nonpregnant patients, evidence supports a minimum treatment duration of 3 months (Kearon, 2012). For pregnant patients, the American College of Obstetricians and Gynecologists (2020b) recommends therapeutic anticoagulation for 3 to 6 months followed by intermediate or prophylactic therapy for the duration of pregnancy and the postpartum period. If the woman is not breastfeeding, direct acting oral agents can be considered (p. 985). Recall that pulmonary embolism develops in as many as 60 percent of patients with untreated venous thrombosis, and anticoagulation decreases this risk to less than 5 percent. In nonpregnant patients, the mortality rate with a pulmonary embolism approximates 1 percent (Douketis, 1998; Pollack, 2011). With DVT, over several days, leg pain dissipates. After symptoms have abated, graded ambulation is begun. Elastic stockings are fitted, and anticoagulation is continued. Recovery to this stage usually takes 7 to 10 days. Graduated compression stockings can be continued for 2 years after the diagnosis to reduce the incidence of postthrombotic syndrome (Brandjes, 1997). Symptoms include chronic leg paresthesias or pain, intractable edema, skin changes, and leg ulcers. According to the American Society of Hematology, catheter-directed thrombolytic therapy does not mitigate against this complication (Bates, 2018).
 
-Warfarin Compounds
-Vitamin K antagonists are generally contraindicated because they readily
-cross the placenta and cause fetal death and malformations from
-hemorrhages. This is discussed in detail in Chapter 8 (p. 156). Their sole
-antepartum use is in women with a mechanical heart valve (Daughety, 2020).
-These compounds do not accumulate in breast milk and are thus safe during
-breastfeeding.
+Unfractionated Heparin This agent should be considered for the initial treatment of thromboembolism and in situations in which delivery, surgery, or thrombolysis may be necessary (American College of Obstetricians and Gynecologists, 2020b). UFH can be administered by one of two alternatives: (1) initial intravenous therapy followed by adjusted-dose subcutaneous UFH given every 12 hours; or (2) twice-daily, adjusted-dose subcutaneous UFH with doses adjusted to prolong the activated partial thromboplastin time (aPTT) into the therapeutic range 6 hours post injection (Table 55-5).
 
-Postpartum venous thrombosis is usually treated with intravenous heparin
-and oral warfarin initiated simultaneously. The initial dose of warfarin is 5
-to 10 mg for the first 2 days. Subsequent doses are titrated to achieve an
-international normalized ratio (INR) of 2 to 3. To avoid paradoxical
-thrombosis and skin necrosis from the early antiprotein C effect of warfarin,
-these women are maintained on therapeutic doses of UFH or LMWH for 5
-days and until the INR is in a therapeutic range for 2 consecutive days
-(American College of Obstetricians and Gynecologists, 2020b).
-Treatment in the puerperium may require larger doses of anticoagulant.
-Brooks and colleagues (2002) compared anticoagulation in postpartum
-women with that of age-matched nonpregnant controls. The former required a
-significantly larger median total dose of warfarin—45 versus 24 mg—and a
-longer time—7 versus 4 days—to achieve the target INR.
+> **Table 55-5:** Some Recommendations for Thromboprophylaxis During Pregnancy
 
-Direct-acting Oral Anticoagulants
-Of these newer oral anticoagulants, dabigatran (Pradaxa) inhibits thrombin
-and rivaroxaban (Xarelto) and apixaban (Eliquis) inhibit factor Xa. These
-agents are becoming the drugs of choice for nonpregnant subjects with
-thromboembolism (Kruger, 2019). Currently, very few reports address these
-newer agents during pregnancy and breastfeeding, and thus the human
-reproductive risks are essentially unknown (Lameijer, 2018; Rosenbloom,
-2019). Despite this, the GARFIELD-VTE study reported that direct-acting
-oral anticoagulant use in pregnant women was gaining favor (Jerjes-Sanchez,
-2021). Dabigatran crosses the placenta, however, it is unknown whether any
-of these agents are excreted in breast milk (Bapat, 2014). At this time,
-because of the potential for infant harm, a decision should be made to either
-avoid breastfeeding or use an alternative anticoagulant, such as warfarin, in
-breastfeeding women (Bates, 2021; Kruger, 2019).
+For intravenous therapy, several protocols are acceptable. In general, if UFH is used, it is initiated with a bolus intravenous dose of 70 to 100 U/kg, which is 5000 to 10,000 U. This is followed by continuous intravenous infusions beginning at 1000 U/hr or 15 to 20 U/kg/hr. This infusion rate is titrated to achieve an aPTT 1.5 to 2.5 times control values (Linnemann, 2016). Intravenous anticoagulation is maintained for about 5 to 7 days, after which treatment is converted to subcutaneous heparin to maintain the aPTT to at least 1.5 to 2.5 times control throughout the dosing interval. For women with lupus anticoagulant, aPTT does not accurately assess heparin anticoagulation, and thus anti–factor Xa levels are preferred.
 
-■ Complications of Anticoagulation
-Three significant complications associated with anticoagulation are
-hemorrhage, thrombocytopenia, and osteoporosis. The latter two are unique
-to heparin, and their risk may be reduced with LMWHs. The most serious
-complication is hemorrhage, which is more likely if there has been recent
-surgery or lacerations. Troublesome bleeding is also more likely if the
-heparin dosage is excessive. Unfortunately, management schemes using
+Low-molecular-weight Heparin This is a family of derivatives of unfractionated heparin, and their molecular weights average 4000 to 5000 daltons compared with 12,000 to 16,000 daltons for conventional heparin. None of these heparins cross the placenta, and all exert their anticoagulant activity by activating antithrombin. UFH has equivalent activity against factor Xa and thrombin compared with LMWHs, which have greater activity against factor Xa than against thrombin. They also have a more predictable anticoagulant response and fewer bleeding complications than UFH because of their better bioavailability, longer halflife, dose-independent clearance, and decreased interference with platelets (American College of Obstetricians and Gynecologists, 2020b; Bates, 2018). Their longer half-life prohibits neuraxial analgesia in laboring women. LMWH compounds are cleared by the kidneys and must be used cautiously when there is renal dysfunction. Several studies have shown that VTE is treated effectively with LMWH (Quinlan, 2004; Tapson, 2008). Using serial venograms, Breddin and associates (2001) observed that these compounds were more effective than UFH in reducing thrombus size without increasing mortality rates or major bleeding complications. Several different treatment regimens using LMWH for treatment of acute VTE are listed in Table 55-4 (American College of Obstetricians and Gynecologists, 2020b). Whether LMWH requires adjustments during the course of pregnancy is controversial (Berresheim, 2014). The American College of Obstetricians and Gynecologists (2020b) recommends monitoring with an anti-Xa level 4 hours after an injection with dose adjustment to maintain a therapeutic level. Large studies using clinical end points that demonstrate an optimal
 
-laboratory testing to identify when a heparin dosage is sufficient to inhibit
-further thrombosis, yet not cause serious hemorrhage, have been
-discouraging.
+therapeutic range or show that dose adjustments increase therapy, safety, or efficacy are lacking. Accordingly, the American Society of Hematology and others have concluded that routine monitoring with anti-Xa levels is difficult to justify (Bates, 2018; McDonnell, 2017). In general, heparin pharmacokinetics includes more rapid clearance of heparins as pregnancy progresses. The peaks of anti-Xa activity of enoxaparin (Lovenox) across pregnancy are shown in Figure 55-3. Similarly, tinzaparin (Innohep) with a dosage of 75 to 175 U/kg/d was necessary to achieve peak anti–factor Xa levels of 0.1 to 1.0 U/mL (Smith, 2004). In studies of dalteparin (Fragmin) pharmacokinetics, conventional starting doses of dalteparin—100 U/kg every 12 hours—were likely insufficient to maintain full anticoagulation in pregnant women (Barbour, 2004; Jacobsen, 2003). Thus, slightly higher doses than that shown in Table 55-4 may be required.
 
-Heparin-induced Thrombocytopenia
-There are two types—the most common is a nonimmune, benign, reversible
-thrombocytopenia that develops within the first few days of therapy and
-resolves in approximately 5 days without therapy cessation. The second is
-the severe form of heparin-induced thrombocytopenia, which results from an
-immune reaction involving IgG antibodies directed against complexes of
-platelet factor 4 and heparin. The diagnosis of heparin-induced
-thrombocytopenia (HIT) is based on a drop in the platelet count of more than
-50 percent or thrombosis beginning 5 to 10 days after the start of heparin in
-association with the appearance of platelet-activating HIT antibodies. The
-fall in platelet count in HIT occurs rapidly—over a period of 1 to 3 days—
-and is assessed relative to the highest platelet count after the start of heparin.
-The typical nadir is 40,000 to 80,000 platelets per microliter (Greinacher,
-2015).
-Although the incidence of HIT is approximately 3 to 5 percent in
-nonpregnant individuals, it is <0.1 percent in obstetrical patients (American
-College of Obstetricians and Gynecologists, 2020b). Fausett and coworkers
-(2001) reported no cases among 244 heparin-treated gravidas compared with
-10 among 244 nonpregnant patients. Accordingly, the American College of
-Chest Physicians recommends against platelet count monitoring when the risk
-of HIT is considered to be <1 percent (Linkins, 2012). In others, they suggest
-monitoring every 2 or 3 days from day 4 until 14.
-Women with a presumptive diagnosis of HIT should have laboratory
-testing for antiplatelet antibodies or by functional assays. However, these
-tests often require several days to return results, so initial management
-should be directed by clinical findings. Heparin therapy is stopped, and
-alternative anticoagulation initiated. LMWH may not be entirely safe because
-it has some cross reactivity with UFH. The American Society of Hematology
-recommends use of fondaparinux (Arixtra), which is a pentasaccharide factor
-Xa inhibitor (Bates, 2018). Successful use in pregnancy has been reported
-(De Carolis, 2015; Elsaigh, 2015). Last, platelet transfusions are avoided
-(Greinacher, 2015).
+> **Figure 55-3:** Anti–factor Xa activity with repeated daily administration of 40 mg enoxaparin subcutaneously in nonpregnant women and those from each trimester (Data from Lebaudy, 2008).
 
-Heparin-induced Osteoporosis
-Bone loss may develop with long-term heparin administration—usually 6
-months or longer—and is more prevalent in cigarette smokers. UFH can
-cause osteopenia, and this is less likely with LMWHs. Women treated with
-any heparin should be encouraged to take an oral daily 1500-mg calcium
-supplement (Cunningham, 2005; Lockwood, 2012).
+Any concerns regarding teratogenicity of enoxaparin have been obviated (American College of Obstetricians and Gynecologists, 2020b; Bates, 2021). A comprehensive study of 1267 pregnant women treated with tinzaparin found no cases of heparin-induced thrombocytopenia, maternal deaths, or complications from regional analgesia (Nelson-Piercy, 2011). A total of 43 women (3.4 percent) required medical intervention for bleeding. Of 15 stillbirths, four were judged as possibly being related to tinzaparin use. LMWHs have been judged to be safe during breastfeeding (Bates, 2018).
 
-■ Anticoagulation and Abortion
-The treatment of DVT with heparin does not preclude pregnancy termination
-by careful curettage. After the products are removed without trauma to the
-reproductive tract, full-dose heparin can be restarted in several hours.
+Labor and Delivery Women receiving either therapeutic or prophylactic anticoagulation should be converted from LMWH to the shorter-half-life UFH in the last month of pregnancy or sooner if delivery appears imminent. The purpose of conversion to UFH has less to do with any risk of maternal bleeding at the time of delivery, but rather with neuraxial blockade complicated by an epidural or spinal hematoma (Chap. 25, p. 478). The Society for Obstetric Anesthesia and Perinatology recommends that UFH low-dose thromboprophylaxis be withheld for 4 to 6 hours; UFH intermediate-dose thromboprophylaxis for 12 hours; and UFH therapeutic dose for 24 hours before neuraxial analgesia (Leffert, 2018). For LMWH, the Society recommends to withhold low doses for 12 hours; intermediate doses 12 to 24 hours; and therapeutic doses 24 hours. If a woman begins labor while taking UFH, clearance can be verified by an aPTT. Reversal of heparin with protamine sulfate—1 mg per 100 units heparin with a maximum dose of 50 mg—is rarely required and is not indicated with a prophylactic dose of heparin. For women in whom anticoagulation therapy has temporarily been discontinued, pneumatic compression devices are recommended.
 
-■ Anticoagulation and Delivery
-The effects of heparin on blood loss at delivery depend on several variables:
-(1) dose, route, and timing of administration; (2) number and depth of
-incisions and lacerations; (3) intensity of postpartum myometrial
-contractions; and (4) presence of other coagulation defects. Blood loss
-should not be greatly increased with vaginal delivery if there are no
-lacerations, and the uterus promptly contracts. Unfortunately, such ideal
-circumstances do not always prevail. Thus, heparin therapy generally is
-stopped during labor and delivery.
-The American College of Obstetricians and Gynecologists (2020b)
-recommends restarting UFH or LMWH no sooner than 4 to 6 hours after
-vaginal delivery or 6 to 12 hours after cesarean delivery. From their review,
-Moriuchi and associates (2019) found that thromboprophylaxis started
-within 24 hours after cesarean delivery was safe. At Parkland Hospital, we
-wait at least 24 hours to restart therapeutic-dose heparin after cesarean
-delivery or after vaginal delivery with significant lacerations.
+Warfarin Compounds Vitamin K antagonists are generally contraindicated because they readily cross the placenta and cause fetal death and malformations from hemorrhages. This is discussed in detail in Chapter 8 (p. 156). Their sole antepartum use is in women with a mechanical heart valve (Daughety, 2020). These compounds do not accumulate in breast milk and are thus safe during breastfeeding.
 
-SUPERFICIAL VENOUS THROMBOPHLEBITIS
-Thrombosis limited strictly to the superficial veins of the saphenous system
-is typically associated with varicosities or as a sequela of an indwelling
-intravenous catheter. It is treated with analgesia, elastic support, heat, and
+Postpartum venous thrombosis is usually treated with intravenous heparin and oral warfarin initiated simultaneously. The initial dose of warfarin is 5 to 10 mg for the first 2 days. Subsequent doses are titrated to achieve an international normalized ratio (INR) of 2 to 3. To avoid paradoxical thrombosis and skin necrosis from the early antiprotein C effect of warfarin, these women are maintained on therapeutic doses of UFH or LMWH for 5 days and until the INR is in a therapeutic range for 2 consecutive days (American College of Obstetricians and Gynecologists, 2020b). Treatment in the puerperium may require larger doses of anticoagulant. Brooks and colleagues (2002) compared anticoagulation in postpartum women with that of age-matched nonpregnant controls. The former required a significantly larger median total dose of warfarin—45 versus 24 mg—and a longer time—7 versus 4 days—to achieve the target INR.
 
-rest. Superficial vein thrombosis raises the risk of DVT four- to six-fold. In a
-metaanalysis of nonpregnant patients with thrombophlebitis, 18 percent had a
-concomitant DVT and 7 percent had a pulmonary embolism (Di Minno,
-2016). Although controversial, the American Society of Hematology suggests
-LMWH therapy (Bates, 2018).
+Direct-acting Oral Anticoagulants Of these newer oral anticoagulants, dabigatran (Pradaxa) inhibits thrombin and rivaroxaban (Xarelto) and apixaban (Eliquis) inhibit factor Xa. These agents are becoming the drugs of choice for nonpregnant subjects with thromboembolism (Kruger, 2019). Currently, very few reports address these newer agents during pregnancy and breastfeeding, and thus the human reproductive risks are essentially unknown (Lameijer, 2018; Rosenbloom, 2019). Despite this, the GARFIELD-VTE study reported that direct-acting oral anticoagulant use in pregnant women was gaining favor (Jerjes-Sanchez, 2021). Dabigatran crosses the placenta, however, it is unknown whether any of these agents are excreted in breast milk (Bapat, 2014). At this time, because of the potential for infant harm, a decision should be made to either avoid breastfeeding or use an alternative anticoagulant, such as warfarin, in breastfeeding women (Bates, 2021; Kruger, 2019).
 
-PULMONARY EMBOLISM
-Although it causes approximately 10 percent of maternal deaths, pulmonary
-embolism is relatively uncommon during pregnancy and the puerperium.
-According to Marik and Plante (2008), 70 percent of gravidas presenting
-with a pulmonary embolism have associated clinical evidence of DVT. And
-recall that between 30 and 60 percent of women with a DVT will have a
-coexisting silent pulmonary embolism.
+### Complications of Anticoagulation
 
-■ Clinical Presentation
-In almost 2500 nonpregnant patients with a proven pulmonary embolism,
-symptoms included dyspnea in 82 percent, chest pain in 49 percent, cough in
-20 percent, syncope in 14 percent, and hemoptysis in 7 percent (Goldhaber,
-1999). Other predominant clinical findings typically include tachypnea,
-apprehension, and tachycardia. In some cases, an accentuated pulmonic
-closure sound, rales, and/or friction rub is heard.
-Right axis deviation and T-wave inversion in the anterior chest leads may
-be evident on the electrocardiogram. In most cases, chest radiography results
-are normal. In others, nonspecific findings may include atelectasis, an
-infiltrate, cardiomegaly, or an effusion. Vascular markings in the lung region
-supplied by the obstructed artery can be lost. Although most women are
-hypoxemic, a normal arterial blood gas analysis does not exclude pulmonary
-embolism. Approximately a third of young patients have PO2 values >80 mm
-Hg. Thus, the alveolar- arterial oxygen tension difference is a more useful
-indicator of disease. More than 86 percent of patients with acute pulmonary
-embolism will have an alveolar-arterial difference >20 mm Hg (Lockwood,
-2012). Even with massive pulmonary embolism, signs, symptoms, and
-laboratory data to support the diagnosis may be deceptively nonspecific.
+Three significant complications associated with anticoagulation are hemorrhage, thrombocytopenia, and osteoporosis. The latter two are unique to heparin, and their risk may be reduced with LMWHs. The most serious complication is hemorrhage, which is more likely if there has been recent surgery or lacerations. Troublesome bleeding is also more likely if the heparin dosage is excessive. Unfortunately, management schemes using
 
-■ Massive and Submassive Pulmonary Embolism
-Defined as embolism causing hemodynamic instability, these account for 5 to
-10 percent of cases (Handal-Örefice, 2019). Acute mechanical obstruction of
-the pulmonary vasculature causes increased vascular resistance and
-pulmonary hypertension followed by acute right ventricular dilation. In
-otherwise healthy patients, significant pulmonary hypertension does not
-develop until 60 to 75 percent of the pulmonary vascular tree is occluded
-(Guyton, 1954). Moreover, circulatory collapse requires 75- to 80-percent
-obstruction. This is depicted in Figure 55-4 and emphasizes that most acutely
-symptomatic emboli are large and likely a saddle embolism (Singhal, 1973).
-These are suspected when the pulmonary artery pressure is substantively
-increased as estimated by echocardiography.
+laboratory testing to identify when a heparin dosage is sufficient to inhibit further thrombosis, yet not cause serious hemorrhage, have been discouraging.
 
-FIGURE 55-4 Schematic of pulmonary arterial circulation. Note that the cross-sectional area of the
-pulmonary trunk and the combined pulmonary arteries is 9 cm. A large saddle embolism could occlude
-50 to 90 percent of the pulmonary tree, causing hemodynamic instability. As the arteries give off distal
-branches, the total surface area rapidly increases, that is, 13 cm for the combined five lobar arteries, 36
-cm for the combined 19 segmental arteries, and more than 800 cm for the total 65 subsegmental arterial
-branches. Thus, hemodynamic instability is less likely with emboli past the lobar arteries.
+Heparin-induced Thrombocytopenia There are two types—the most common is a nonimmune, benign, reversible thrombocytopenia that develops within the first few days of therapy and resolves in approximately 5 days without therapy cessation. The second is the severe form of heparin-induced thrombocytopenia, which results from an immune reaction involving IgG antibodies directed against complexes of platelet factor 4 and heparin. The diagnosis of heparin-induced thrombocytopenia (HIT) is based on a drop in the platelet count of more than 50 percent or thrombosis beginning 5 to 10 days after the start of heparin in association with the appearance of platelet-activating HIT antibodies. The fall in platelet count in HIT occurs rapidly—over a period of 1 to 3 days— and is assessed relative to the highest platelet count after the start of heparin. The typical nadir is 40,000 to 80,000 platelets per microliter (Greinacher, 2015). Although the incidence of HIT is approximately 3 to 5 percent in nonpregnant individuals, it is <0.1 percent in obstetrical patients (American College of Obstetricians and Gynecologists, 2020b). Fausett and coworkers (2001) reported no cases among 244 heparin-treated gravidas compared with 10 among 244 nonpregnant patients. Accordingly, the American College of Chest Physicians recommends against platelet count monitoring when the risk of HIT is considered to be <1 percent (Linkins, 2012). In others, they suggest monitoring every 2 or 3 days from day 4 until 14. Women with a presumptive diagnosis of HIT should have laboratory testing for antiplatelet antibodies or by functional assays. However, these tests often require several days to return results, so initial management should be directed by clinical findings. Heparin therapy is stopped, and alternative anticoagulation initiated. LMWH may not be entirely safe because it has some cross reactivity with UFH. The American Society of Hematology recommends use of fondaparinux (Arixtra), which is a pentasaccharide factor Xa inhibitor (Bates, 2018). Successful use in pregnancy has been reported (De Carolis, 2015; Elsaigh, 2015). Last, platelet transfusions are avoided (Greinacher, 2015).
 
-Submassive embolism is diagnosed when there is evidence of right
-ventricular dysfunction (Handal-Örefice, 2019). The mortality rate
-approaches 25 percent, which compares with a 1-percent rate without such
+Heparin-induced Osteoporosis Bone loss may develop with long-term heparin administration—usually 6 months or longer—and is more prevalent in cigarette smokers. UFH can cause osteopenia, and this is less likely with LMWHs. Women treated with any heparin should be encouraged to take an oral daily 1500-mg calcium supplement (Cunningham, 2005; Lockwood, 2012).
 
-dysfunction (Kinane, 2008). It is important in these cases to infuse
-crystalloids carefully and to support blood pressure with vasopressors.
-Aggressive intravenous fluid infusion has been associated with worsening
-right-sided ventricular dysfunction (Konstantides, 2014). As discussed on
-page 988, oxygen treatment, tracheal intubation, and mechanical ventilation
-are completed preparatory to thrombolysis, filter placement, or
-embolectomy.
+### Anticoagulation and Abortion
 
-■ Diagnosis
-In most cases, recognition of a pulmonary embolism requires a high index of
-suspicion that prompts objective evaluation. Exposure of the mother and fetus
-to ionizing radiation is a concern when investigating a suspected pulmonary
-embolism during pregnancy. However, this concern is largely overruled by
-the hazards of missing a potentially fatal diagnosis. Moreover, erroneously
-assigning a diagnosis of pulmonary embolism to a pregnant woman is also
-fraught with problems. It unnecessarily exposes the mother and fetus to the
-risks of anticoagulation treatment and will impact delivery plans, future
-contraception, and thromboprophylaxis during subsequent pregnancies.
-Therefore, investigations should aim for diagnostic certainty (Cohen, 2020).
-Diagnosis of a pulmonary embolism follows the same algorithm as for
-DVT shown in Figure 55-2. In addition to compression ultrasound of the
-extremities, if a pulmonary embolism is suspected, chest x-ray and
-electrocardiogram may be revealing. Echocardiography is useful to detect
-other conditions that mimic pulmonary embolism—acute myocardial
-infarction, pericardial tamponade, and aortic dissection. Further imaging
-with computed tomography (CT) scanning, MR imaging, or ventilationperfusion lung scanning confirms the diagnosis (American College of
-Obstetricians and Gynecologists, 2020b). As discussed later (p. 988), the
-American Society of Hematology recommends lung scanning as the first-line
-diagnostic tool (Bates, 2018). At Parkland Hospital we preferentially use
-CT-pulmonary angiography for suspected pulmonary embolism.
+The treatment of DVT with heparin does not preclude pregnancy termination by careful curettage. After the products are removed without trauma to the reproductive tract, full-dose heparin can be restarted in several hours.
 
-Computed Tomographic Pulmonary Angiography
-Multidetector CT-pulmonary angiography (CTPA) is the most commonly
-employed technique to diagnose pulmonary embolism in nonpregnant
-patients. The technique is described further in Chapter 49 (p. 874), and an
+### Anticoagulation and Delivery
 
-imaging example is shown in Figure 55-5. The estimated fetal radiation
-exposure averages 0.45 to 0.6 mGy. The estimated maternal breast dose is 10
-to 70 mGy (Waksmonski, 2014).
+The effects of heparin on blood loss at delivery depend on several variables: (1) dose, route, and timing of administration; (2) number and depth of incisions and lacerations; (3) intensity of postpartum myometrial contractions; and (4) presence of other coagulation defects. Blood loss should not be greatly increased with vaginal delivery if there are no lacerations, and the uterus promptly contracts. Unfortunately, such ideal circumstances do not always prevail. Thus, heparin therapy generally is stopped during labor and delivery. The American College of Obstetricians and Gynecologists (2020b) recommends restarting UFH or LMWH no sooner than 4 to 6 hours after vaginal delivery or 6 to 12 hours after cesarean delivery. From their review, Moriuchi and associates (2019) found that thromboprophylaxis started within 24 hours after cesarean delivery was safe. At Parkland Hospital, we wait at least 24 hours to restart therapeutic-dose heparin after cesarean delivery or after vaginal delivery with significant lacerations.
 
-FIGURE 55-5 Axial image of the chest from a four-channel multidetector spiral computed
-tomographic scan performed after administration of intravenous contrast. There is enhancement of the
-pulmonary artery with a large thrombus on the right (arrow) consistent with pulmonary embolism.
-(Reproduced with permission from Dr. Michael Landay.)
+## Superficial Venous Thrombophlebitis
 
-CTPA has many advantages, but we find that the higher resolution allows
-detection of previously inaccessible smaller distal emboli that have uncertain
-clinical significance. Similar observations have been reported by others
-(Anderson, 2007; Hall, 2009). Bourjeily and colleagues (2012) performed a
-follow-up study of 318 pregnant women who had a negative CTPA
-performed for a suspected pulmonary embolism. All were seen 3 months
-following their initial presentation or at 6 weeks postpartum. None of these
-women were subsequently diagnosed with a thromboembolism.
+Thrombosis limited strictly to the superficial veins of the saphenous system is typically associated with varicosities or as a sequela of an indwelling intravenous catheter. It is treated with analgesia, elastic support, heat, and
+
+rest. Superficial vein thrombosis raises the risk of DVT four- to six-fold. In a metaanalysis of nonpregnant patients with thrombophlebitis, 18 percent had a concomitant DVT and 7 percent had a pulmonary embolism (Di Minno, 2016). Although controversial, the American Society of Hematology suggests LMWH therapy (Bates, 2018).
+
+## Pulmonary Embolism
+
+Although it causes approximately 10 percent of maternal deaths, pulmonary embolism is relatively uncommon during pregnancy and the puerperium. According to Marik and Plante (2008), 70 percent of gravidas presenting with a pulmonary embolism have associated clinical evidence of DVT. And recall that between 30 and 60 percent of women with a DVT will have a coexisting silent pulmonary embolism.
+
+### Clinical Presentation
+
+In almost 2500 nonpregnant patients with a proven pulmonary embolism, symptoms included dyspnea in 82 percent, chest pain in 49 percent, cough in 20 percent, syncope in 14 percent, and hemoptysis in 7 percent (Goldhaber, 1999). Other predominant clinical findings typically include tachypnea, apprehension, and tachycardia. In some cases, an accentuated pulmonic closure sound, rales, and/or friction rub is heard. Right axis deviation and T-wave inversion in the anterior chest leads may be evident on the electrocardiogram. In most cases, chest radiography results are normal. In others, nonspecific findings may include atelectasis, an infiltrate, cardiomegaly, or an effusion. Vascular markings in the lung region supplied by the obstructed artery can be lost. Although most women are hypoxemic, a normal arterial blood gas analysis does not exclude pulmonary embolism. Approximately a third of young patients have PO2 values >80 mm Hg. Thus, the alveolar- arterial oxygen tension difference is a more useful indicator of disease. More than 86 percent of patients with acute pulmonary embolism will have an alveolar-arterial difference >20 mm Hg (Lockwood, 2012). Even with massive pulmonary embolism, signs, symptoms, and laboratory data to support the diagnosis may be deceptively nonspecific.
+
+### Massive and Submassive Pulmonary Embolism
+
+Defined as embolism causing hemodynamic instability, these account for 5 to 10 percent of cases (Handal-Örefice, 2019). Acute mechanical obstruction of the pulmonary vasculature causes increased vascular resistance and pulmonary hypertension followed by acute right ventricular dilation. In otherwise healthy patients, significant pulmonary hypertension does not develop until 60 to 75 percent of the pulmonary vascular tree is occluded (Guyton, 1954). Moreover, circulatory collapse requires 75- to 80-percent obstruction. This is depicted in Figure 55-4 and emphasizes that most acutely symptomatic emboli are large and likely a saddle embolism (Singhal, 1973). These are suspected when the pulmonary artery pressure is substantively increased as estimated by echocardiography.
+
+> **Figure 55-4:** Schematic of pulmonary arterial circulation. Note that the cross-sectional area of the pulmonary trunk and the combined pulmonary arteries is 9 cm. A large saddle embolism could occlude 50 to 90 percent of the pulmonary tree, causing hemodynamic instability. As the arteries give off distal branches, the total surface area rapidly increases, that is, 13 cm for the combined five lobar arteries, 36 cm for the combined 19 segmental arteries, and more than 800 cm for the total 65 subsegmental arterial branches. Thus, hemodynamic instability is less likely with emboli past the lobar arteries.
+
+Submassive embolism is diagnosed when there is evidence of right ventricular dysfunction (Handal-Örefice, 2019). The mortality rate approaches 25 percent, which compares with a 1-percent rate without such
+
+dysfunction (Kinane, 2008). It is important in these cases to infuse crystalloids carefully and to support blood pressure with vasopressors. Aggressive intravenous fluid infusion has been associated with worsening right-sided ventricular dysfunction (Konstantides, 2014). As discussed on page 988, oxygen treatment, tracheal intubation, and mechanical ventilation are completed preparatory to thrombolysis, filter placement, or embolectomy.
+
+### Diagnosis
+
+In most cases, recognition of a pulmonary embolism requires a high index of suspicion that prompts objective evaluation. Exposure of the mother and fetus to ionizing radiation is a concern when investigating a suspected pulmonary embolism during pregnancy. However, this concern is largely overruled by the hazards of missing a potentially fatal diagnosis. Moreover, erroneously assigning a diagnosis of pulmonary embolism to a pregnant woman is also fraught with problems. It unnecessarily exposes the mother and fetus to the risks of anticoagulation treatment and will impact delivery plans, future contraception, and thromboprophylaxis during subsequent pregnancies. Therefore, investigations should aim for diagnostic certainty (Cohen, 2020). Diagnosis of a pulmonary embolism follows the same algorithm as for DVT shown in Figure 55-2. In addition to compression ultrasound of the extremities, if a pulmonary embolism is suspected, chest x-ray and electrocardiogram may be revealing. Echocardiography is useful to detect other conditions that mimic pulmonary embolism—acute myocardial infarction, pericardial tamponade, and aortic dissection. Further imaging with computed tomography (CT) scanning, MR imaging, or ventilationperfusion lung scanning confirms the diagnosis (American College of Obstetricians and Gynecologists, 2020b). As discussed later (p. 988), the American Society of Hematology recommends lung scanning as the first-line diagnostic tool (Bates, 2018). At Parkland Hospital we preferentially use CT-pulmonary angiography for suspected pulmonary embolism.
+
+Computed Tomographic Pulmonary Angiography Multidetector CT-pulmonary angiography (CTPA) is the most commonly employed technique to diagnose pulmonary embolism in nonpregnant patients. The technique is described further in Chapter 49 (p. 874), and an
+
+imaging example is shown in Figure 55-5. The estimated fetal radiation exposure averages 0.45 to 0.6 mGy. The estimated maternal breast dose is 10 to 70 mGy (Waksmonski, 2014).
+
+> **Figure 55-5:** Axial image of the chest from a four-channel multidetector spiral computed tomographic scan performed after administration of intravenous contrast. There is enhancement of the pulmonary artery with a large thrombus on the right (arrow) consistent with pulmonary embolism. (Reproduced with permission from Dr. Michael Landay.)
+
+CTPA has many advantages, but we find that the higher resolution allows detection of previously inaccessible smaller distal emboli that have uncertain clinical significance. Similar observations have been reported by others (Anderson, 2007; Hall, 2009). Bourjeily and colleagues (2012) performed a follow-up study of 318 pregnant women who had a negative CTPA performed for a suspected pulmonary embolism. All were seen 3 months following their initial presentation or at 6 weeks postpartum. None of these women were subsequently diagnosed with a thromboembolism.
 
 Ventilation-Perfusion Scintigraphy Lung Scan
 
-This technique involves a small dose of radiotracer such as intravenously
-administered technetium-99m macroaggregated albumin. There is negligible
-fetal and maternal breast radiation exposure—0.1 to 0.4 mGy. The scan may
-not provide a definite diagnosis because many other conditions can cause
-perfusion defects. Examples are pneumonia or local bronchospasm. Chan and
-coworkers (2002) found that a fourth of ventilation-perfusion scans in
-pregnant women were nondiagnostic. In these instances, CTPA is preferred
-(Tromeur, 2017).
-To compare the performance of lung scintigraphy and CTPA, Revel and
-associates (2011) evaluated 137 pregnant women with suspected pulmonary
-embolism. The two modalities performed comparably and had no significant
-differences between the proportions of positive, negative, or indeterminate
-results. Specifically, the proportion of indeterminate results for both
-approximated 20 percent, Similarly, one systematic review concluded that
-both CTPA and lung scintigraphy seem appropriate for exclusion of
-pulmonary embolism during pregnancy (van Mens, 2017).
+This technique involves a small dose of radiotracer such as intravenously administered technetium-99m macroaggregated albumin. There is negligible fetal and maternal breast radiation exposure—0.1 to 0.4 mGy. The scan may not provide a definite diagnosis because many other conditions can cause perfusion defects. Examples are pneumonia or local bronchospasm. Chan and coworkers (2002) found that a fourth of ventilation-perfusion scans in pregnant women were nondiagnostic. In these instances, CTPA is preferred (Tromeur, 2017). To compare the performance of lung scintigraphy and CTPA, Revel and associates (2011) evaluated 137 pregnant women with suspected pulmonary embolism. The two modalities performed comparably and had no significant differences between the proportions of positive, negative, or indeterminate results. Specifically, the proportion of indeterminate results for both approximated 20 percent, Similarly, one systematic review concluded that both CTPA and lung scintigraphy seem appropriate for exclusion of pulmonary embolism during pregnancy (van Mens, 2017).
 
-Intravascular Pulmonary Angiography
-This requires catheterization of the right side of the heart and is considered
-the reference test for pulmonary embolism. With newer-generation
-multidetector CT scanners, however, the role of invasive pulmonary
-angiography has been questioned. This is especially true given the higher
-radiation exposure for the fetus (Konstantinides, 2014). Other detractions are
-that it can be time consuming, uncomfortable, and associated with dyeinduced allergy and renal failure. It is reserved for confirmation when less
-invasive tests are equivocal.
+Intravascular Pulmonary Angiography This requires catheterization of the right side of the heart and is considered the reference test for pulmonary embolism. With newer-generation multidetector CT scanners, however, the role of invasive pulmonary angiography has been questioned. This is especially true given the higher radiation exposure for the fetus (Konstantinides, 2014). Other detractions are that it can be time consuming, uncomfortable, and associated with dyeinduced allergy and renal failure. It is reserved for confirmation when less invasive tests are equivocal.
 
-■ Management
-Immediate treatment for pulmonary embolism is full anticoagulation similar
-to that for DVT as discussed on page 982 and shown in Table 55-4. There
-are several complementary procedures that may be indicated.
+### Management
 
-Vena Caval Filters
-The woman who has very recently suffered a pulmonary embolism and who
-must undergo cesarean delivery presents a particularly serious problem.
+Immediate treatment for pulmonary embolism is full anticoagulation similar to that for DVT as discussed on page 982 and shown in Table 55-4. There are several complementary procedures that may be indicated.
 
-Reversal of anticoagulation may be followed by another embolus, and
-surgery while fully anticoagulated frequently results in life-threatening
-hemorrhage or troublesome hematomas. In these cases, placement of a vena
-caval filter should be considered before surgery (Marik, 2008). Moreover, in
-the very infrequent circumstances in which heparin therapy fails to prevent
-recurrent pulmonary embolism from the pelvis or legs or in which embolism
-develops from these sites despite heparin treatment, a vena caval filter may
-also be indicated. Such filters can also be used following massive emboli in
-patients who are not candidates for thrombolysis.
-The device is inserted through either the jugular or femoral vein and can
-be inserted during labor (Jamjute, 2006). Routine filter placement has no
-added advantage to heparin given alone (Decousus, 1998). Retrievable
-filters may be used as short-term protection and then removed 1 to 2 weeks
-later (Liu, 2012). From their systematic review, Harris and colleagues
-(2016) found that complication rates in pregnant women with vena caval
-filters are comparable to those in nonpregnant patients. In another series of
-24 filters placed in obstetrical patients, 29 percent had complications
-including removal failure (Rottenstreich, 2019).
+Vena Caval Filters The woman who has very recently suffered a pulmonary embolism and who must undergo cesarean delivery presents a particularly serious problem.
 
-Thrombolysis
-Compared with heparin, thrombolytic agents provide more rapid lysis of
-pulmonary clots and improvement of pulmonary hypertension in lifethreatening cases (Bates, 2021; Goldhaber, 2018). In one study of
-nonpregnant patients receiving heparin for an acute submassive pulmonary
-embolism, those receiving the recombinant tissue plasminogen activator
-alteplase had a lower risk of death or treatment escalation (Konstantinides,
-2002). One metaanalysis of trials involving nonpregnant patients reported
-that the risk of recurrence or death was significantly lower in patients given
-thrombolytic agents and heparin compared with those given heparin alone—
-10 versus 17 percent (Agnelli, 2002). Importantly, however, there were five
-—2 percent—fatal bleeding episodes in the thrombolysis group and none in
-the heparin-only group.
-There have been several case reports and reviews of thrombolysis in
-pregnant women. Leonhardt and coworkers (2006) identified 28 reports of
-tissue plasminogen activator use during pregnancy. Ten cases were for
-thromboembolism. Complication rates were similar to those in nonpregnant
-patients, and the authors concluded that such therapy should not be withheld
+Reversal of anticoagulation may be followed by another embolus, and surgery while fully anticoagulated frequently results in life-threatening hemorrhage or troublesome hematomas. In these cases, placement of a vena caval filter should be considered before surgery (Marik, 2008). Moreover, in the very infrequent circumstances in which heparin therapy fails to prevent recurrent pulmonary embolism from the pelvis or legs or in which embolism develops from these sites despite heparin treatment, a vena caval filter may also be indicated. Such filters can also be used following massive emboli in patients who are not candidates for thrombolysis. The device is inserted through either the jugular or femoral vein and can be inserted during labor (Jamjute, 2006). Routine filter placement has no added advantage to heparin given alone (Decousus, 1998). Retrievable filters may be used as short-term protection and then removed 1 to 2 weeks later (Liu, 2012). From their systematic review, Harris and colleagues (2016) found that complication rates in pregnant women with vena caval filters are comparable to those in nonpregnant patients. In another series of 24 filters placed in obstetrical patients, 29 percent had complications including removal failure (Rottenstreich, 2019).
 
-during pregnancy if indicated. Akazawa and Nishida (2017) reviewed 13
-cases of systemic thrombolytic therapy administered during the first 48 hours
-after delivery. Blood transfusion was required in five of the eight cesarean
-deliveries, including three cases of hysterectomy and two cases of hematoma
-drainage. Sousa-Gomes and associates (2019) reviewed outcomes in 141
-pregnant women undergoing thrombolysis for VTE or stroke. Maternal death
-complicated 3 percent of cases, and major bleeding occurred in 9 percent.
+Thrombolysis Compared with heparin, thrombolytic agents provide more rapid lysis of pulmonary clots and improvement of pulmonary hypertension in lifethreatening cases (Bates, 2021; Goldhaber, 2018). In one study of nonpregnant patients receiving heparin for an acute submassive pulmonary embolism, those receiving the recombinant tissue plasminogen activator alteplase had a lower risk of death or treatment escalation (Konstantinides, 2002). One metaanalysis of trials involving nonpregnant patients reported that the risk of recurrence or death was significantly lower in patients given thrombolytic agents and heparin compared with those given heparin alone— 10 versus 17 percent (Agnelli, 2002). Importantly, however, there were five —2 percent—fatal bleeding episodes in the thrombolysis group and none in the heparin-only group. There have been several case reports and reviews of thrombolysis in pregnant women. Leonhardt and coworkers (2006) identified 28 reports of tissue plasminogen activator use during pregnancy. Ten cases were for thromboembolism. Complication rates were similar to those in nonpregnant patients, and the authors concluded that such therapy should not be withheld
 
-Embolectomy
-Given the efficacy of thrombolysis and filters, surgical embolectomy is
-uncommonly indicated. Published experience with emergency embolectomy
-during pregnancy is limited to case reports (Colombier, 2015; Saeed, 2014).
-From their review, Ahearn and colleagues (2002) found that although the
-operative risk to the mother is reasonable, the stillbirth rate is 20 to 40
-percent.
+during pregnancy if indicated. Akazawa and Nishida (2017) reviewed 13 cases of systemic thrombolytic therapy administered during the first 48 hours after delivery. Blood transfusion was required in five of the eight cesarean deliveries, including three cases of hysterectomy and two cases of hematoma drainage. Sousa-Gomes and associates (2019) reviewed outcomes in 141 pregnant women undergoing thrombolysis for VTE or stroke. Maternal death complicated 3 percent of cases, and major bleeding occurred in 9 percent.
 
-THROMBOPROPHYLAXIS
-A Cochrane review of guidelines for thromboprophylaxis in pregnancy
-concluded that there is a lack of overall agreement about which women
-should be offered thromboprophylaxis (Middleton, 2021). The American
-Society of Hematology summarized that evidence-based recommendations
-rely largely on observational studies and on data extrapolated from
-nonpregnant patients. In many cases, this led them to suggest—rather than
-recommend—various schemes for thromboprophylaxis (Bates, 2018). In an
-earlier study, Cleary-Goldman and coworkers (2007) surveyed 151 fellows
-of the American College of Obstetricians and Gynecologists and reported
-that intervention without a clear indication is common. Table 55-5 lists
-several consensus recommendations for thromboprophylaxis. In some cases,
-more than one option is listed, thus illustrating the confusion that currently
-reigns. It is important to emphasize that the decision to treat with
-anticoagulation in pregnancy is influenced by personal VTE history, family
-history of VTE, severity of thrombophilias, and additional risk factors such
-as obesity, cesarean delivery, or prolonged immobility (American College of
-Obstetricians and Gynecologists, 2020a).
+Embolectomy Given the efficacy of thrombolysis and filters, surgical embolectomy is uncommonly indicated. Published experience with emergency embolectomy during pregnancy is limited to case reports (Colombier, 2015; Saeed, 2014). From their review, Ahearn and colleagues (2002) found that although the operative risk to the mother is reasonable, the stillbirth rate is 20 to 40 percent.
 
-■ Prior Venous Thromboembolism
-In general, either antepartum surveillance or heparin prophylaxis is
-recommended for women with prior VTE but without a recurrent risk factor.
-Tengborn and associates (1989), however, suggested that such management
-may not be effective. They reported outcomes in 87 pregnant Swedish
-women who had prior thromboembolic disease and were not tested for
-thrombophilias. Despite unfractionated heparin prophylaxis, which was
-usually 5000 U twice daily, 15 percent developed antepartum VTE
-recurrence. This compared with 12 percent not given heparin.
-Brill-Edwards and colleagues (2000) prospectively studied 125 pregnant
-women with a single prior VTE. Antepartum heparin was not given, but
-anticoagulant therapy was given for 4 to 6 weeks postpartum. Six women had
-a recurrent venous thrombosis, but there were no recurrences in women
-without a known thrombophilia or whose prior thrombosis was associated
-with a temporary risk factor. A study of 88 women without antiphospholipid
-antibodies and who were not given antithrombotic prophylaxis reported a
-subsequent pregnancy- or puerperium-related VTE in 22 percent (De
-Stefano, 2006). Of 20 women whose original thrombosis was associated
-with a transient risk factor—not including pregnancy or oral contraceptive
-use—there were no recurrences during pregnancy, but two during the
-puerperium. These findings imply that women with a prior thrombosis in
-association with a thrombophilia or in the absence of a temporary risk factor
-generally should be given both antepartum and postpartum prophylaxis
-(Connors, 2017). These data also suggest that for women with a prior VTE,
-antithrombotic prophylaxis during pregnancy could be tailored according to
-the circumstances of the original event.
-It is important to emphasize that VTE may recur despite antithrombotic
-prophylaxis. A study of 270 women who had at least one previous VTE
-found that 10 percent suffered a recurrent VTE (Galambosi, 2014). Twelve
-of these recurrences occurred early in pregnancy before the initiation of
-antithrombotic prophylaxis, and 16 occurred despite prophylactic use of
-LMWH.
-Our practice at Parkland Hospital for many years for women with a
-history of prior VTE was to administer subcutaneous UFH, 5000 to 7500
-units two to three times daily. More recently, we have used 40 mg of
-enoxaparin given subcutaneously daily with transition to UFH near delivery.
+## Thromboprophylaxis
 
-With either regimen, the recurrence of documented DVT embolization has
-been uncommon.
+A Cochrane review of guidelines for thromboprophylaxis in pregnancy concluded that there is a lack of overall agreement about which women should be offered thromboprophylaxis (Middleton, 2021). The American Society of Hematology summarized that evidence-based recommendations rely largely on observational studies and on data extrapolated from nonpregnant patients. In many cases, this led them to suggest—rather than recommend—various schemes for thromboprophylaxis (Bates, 2018). In an earlier study, Cleary-Goldman and coworkers (2007) surveyed 151 fellows of the American College of Obstetricians and Gynecologists and reported that intervention without a clear indication is common. Table 55-5 lists several consensus recommendations for thromboprophylaxis. In some cases, more than one option is listed, thus illustrating the confusion that currently reigns. It is important to emphasize that the decision to treat with anticoagulation in pregnancy is influenced by personal VTE history, family history of VTE, severity of thrombophilias, and additional risk factors such as obesity, cesarean delivery, or prolonged immobility (American College of Obstetricians and Gynecologists, 2020a).
 
-■ Cesarean Delivery
-The risk for DVT and especially for fatal thromboembolism rises many fold
-following cesarean delivery compared with that after vaginal delivery. When
-considering that a third of women giving birth in the United States yearly
-undergo cesarean delivery, pulmonary embolism is understandably a major
-cause of maternal mortality (Creanga, 2017; Petersen, 2019). That said, the
-lack of consensus described earlier by Middleton and coworkers (2021)
-creates considerable variation in the current recommendations promulgated
-by the American College of Obstetricians and Gynecologists, the Royal
-College of Obstetricians and Gynaecologists, and the American College of
-Chest Physicians (Palmerola, 2016).
-Adherence to individual society guidelines following cesarean delivery
-confers a greater risk in some instances. According to the Society for
-Maternal-Fetal Medicine (2020), if American College guidelines were
-followed, only 1 percent of these women would be candidates for
-thromboprophylaxis. Almost 85 percent of the same cohort would be given
-thromboprophylaxis following Royal College guidelines and about 35
-percent if American College of Chest Physician guidelines were followed.
-Some comparisons of these thromboprophylaxis guidelines are shown in
-Table 55-6.
-TABLE 55-6. Thromboprophylaxis Guidelines for Women Undergoing
-Cesarean Delivery
+### Prior Venous Thromboembolism
 
-Since 2011, the American College of Obstetricians and Gynecologists
-(2020b) recommends placement of pneumatic compression devices before
-cesarean delivery for all women not already receiving thromboprophylaxis.
-This recommendation was based primarily on consensus and expert opinion.
-For patients undergoing cesarean delivery with additional risk factors for
-thromboembolism, both pneumatic compression devices and UFH or LMWH
-may be recommended. The College stipulated that cesarean delivery in an
-emergency setting should not be delayed because of the time necessary to
-begin thromboprophylaxis.
-Implementation of this strategy by the Hospital Corporation of America,
-the largest for-profit obstetrical health care delivery system in the United
-States, was associated with a reduction in deaths from pulmonary embolism
-from 7 of 458,097 cesarean births to 1 of 465,880 cesarean births (Clark,
-2011, 2014).
-In 2016, the National Partnership for Maternal Safety published several
-consensus recommendations for the prevention of maternal VTE (D’Alton,
-2016). These recommendations included expanded use of antenatal
-thromboprophylaxis for women hospitalized 3 days or longer, expanded use
+In general, either antepartum surveillance or heparin prophylaxis is recommended for women with prior VTE but without a recurrent risk factor. Tengborn and associates (1989), however, suggested that such management may not be effective. They reported outcomes in 87 pregnant Swedish women who had prior thromboembolic disease and were not tested for thrombophilias. Despite unfractionated heparin prophylaxis, which was usually 5000 U twice daily, 15 percent developed antepartum VTE recurrence. This compared with 12 percent not given heparin. Brill-Edwards and colleagues (2000) prospectively studied 125 pregnant women with a single prior VTE. Antepartum heparin was not given, but anticoagulant therapy was given for 4 to 6 weeks postpartum. Six women had a recurrent venous thrombosis, but there were no recurrences in women without a known thrombophilia or whose prior thrombosis was associated with a temporary risk factor. A study of 88 women without antiphospholipid antibodies and who were not given antithrombotic prophylaxis reported a subsequent pregnancy- or puerperium-related VTE in 22 percent (De Stefano, 2006). Of 20 women whose original thrombosis was associated with a transient risk factor—not including pregnancy or oral contraceptive use—there were no recurrences during pregnancy, but two during the puerperium. These findings imply that women with a prior thrombosis in association with a thrombophilia or in the absence of a temporary risk factor generally should be given both antepartum and postpartum prophylaxis (Connors, 2017). These data also suggest that for women with a prior VTE, antithrombotic prophylaxis during pregnancy could be tailored according to the circumstances of the original event. It is important to emphasize that VTE may recur despite antithrombotic prophylaxis. A study of 270 women who had at least one previous VTE found that 10 percent suffered a recurrent VTE (Galambosi, 2014). Twelve of these recurrences occurred early in pregnancy before the initiation of antithrombotic prophylaxis, and 16 occurred despite prophylactic use of LMWH. Our practice at Parkland Hospital for many years for women with a history of prior VTE was to administer subcutaneous UFH, 5000 to 7500 units two to three times daily. More recently, we have used 40 mg of enoxaparin given subcutaneously daily with transition to UFH near delivery.
 
-of prophylaxis during and after vaginal delivery, and expanded use of
-pharmacological prophylaxis to most women after cesarean delivery. In
-response, Sibai and Rouse (2016) expressed concern that these new
-recommendations derive from sparse data of questionable applicability to
-obstetrical patients. They called for better quality evidence to measure the
-benefits, harms, and costs of increased pharmacological thromboprophylaxis.
-As aptly expressed by Macones (2017), “an intervention, such as increased
-postcesarean pharmacologic thromboprophylaxis, where there are legitimate
-concerns about efficacy and safety, requires a much higher degree of
-evidence before a national guideline is implemented.” We agree with these
-sentiments.
+With either regimen, the recurrence of documented DVT embolization has been uncommon.
 
-REFERENCES
-Abbattista M, Gianiello F, Novembrino C, et al: Risk of pregnancy-related venous thromboembolism and
-obstetrical complications in women with inherited type I antithrombin deficiency: a retrospective,
-single-centre, cohort study. Lancet Haematol 7(4):e320, 2020
-Abe K, Kuklina EV, Hooper WC, et al: Venous thromboembolism as a cause of severe maternal
-morbidity and mortality in the United States. Semin Perinatal 43(4):e320, 2019
-Agnelli G, Becattini C, Kirschstein T: Thrombolysis vs heparin in the treatment of pulmonary embolism.
-Arch Intern Med 162: 2537, 2002
-Ahearn GS, Hadjiliadis D, Govert JA, et al: Massive pulmonary embolism during pregnancy successfully
-treated with recombinant tissue plasminogen activator. Arch Intern Med 162:1221, 2002
-Akazawa M, Nishida M: Thrombolysis with intravenous recombinant tissue plasminogen activator during
-early postpartum period: a review of the literature. Acta Obstet Gynecol Scand 96(5):529, 2017
-Alfirevic Z, Roberts D, Martlew V: How strong is the association between maternal thrombophilia and
-adverse pregnancy outcome? A systematic review. Eur J Obstet Gynecol Reprod Biol 101:6, 2002
-Almawi WY, Al-Shaikh FS, Melemedjian OK, et al: Protein Z, an anticoagulant protein with expanding
-role in reproductive biology. Reproduction 146(2):R73, 2013
-American College of Obstetricians and Gynecologists: Inherited thrombophilias in pregnancy. Practice
-Bulletin No. 197, June 2018. Reaffirmed 2020a
-American College of Obstetricians and Gynecologists: Thromboembolism in pregnancy. Practice
-Bulletin No. 196, June 2018. Reaffirmed 2020b
-Anderson DR, Kahn SR, Rodger MA, et al: Computed tomographic pulmonary angiography vs
-ventilation-perfusion lung scanning in patients with suspected pulmonary embolism: a randomized
-controlled trial. JAMA 298:2743, 2007
-Arachchillage DR, Makris M: Inherited thrombophilia and pregnancy complications: should we test?
-Semin Thromb Hemost 45(1):50, 2019
-Bapat P, Kedar R, Lubetsky A, et al: Transfer of dabigatran and dabigatran etexilate mesylate across
-the dually perfused human placenta. Obstet Gynecol 123(6):1256, 2014
-Barbour LA, Oja JL, Schultz LK: A prospective trial that demonstrates that dalteparin requirements
-increase in pregnancy to maintain therapeutic levels of anticoagulation. Am J Obstet Gynecol
+### Cesarean Delivery
 
-191:1024, 2004
-Bates SM: Pulmonary embolism in pregnancy. Semin Respir Crit Care Med 42(2):284, 2021
-Bates SM, Greer IA, Middledorp S, et al: VTE, thrombophilia, antithrombotic therapy, and pregnancy.
-Chest 141:e691S, 2012
-Bates SM, Rajasekhar A, Middeldorp S, et al: American Society of Hematology 2018 guidelines for
-management of venous thromboembolism: venous thromboembolism in the context of pregnancy.
-Blood Adv 2(22):3317, 2018
-Bendapudi PK, Whalen MJ, Lahoud-Rahme M, et al: Case 7–2021: a 19-year-old man with shock,
-multiple organ failure, and rash. N Engl J Med 384(30):953, 2021
-Berresheim M, Wilkie J, Nerenberg KA, et al: A case series of LMWH use in pregnancy: should trough
-anti-Xa levels guide dosing? Thromb Res 134(6):1234, 2014
-Birdwell BG, Raskob GE, Whitsett TL, et al: The clinical validity of normal compression ultrasonography
-in outpatients suspected of having deep venous thrombosis. Ann Intern Med 128:1, 1998
-Blanco-Molina A, Trujillo-Santos J, Criado J, et al: Venous thromboembolism during pregnancy or
-postpartum: findings from the RIETE Registry. Thromb Haemost 97:186, 2007
-Bourjeily G, Khalil H, Raker C, et al: Outcomes of negative multidetector computed tomography with
-pulmonary angiography in pregnant women suspected of pulmonary embolism. Lung 190:105, 2012
-Brandjes DP, Buller HR, Heijboer H, et al: Randomised trial of effect of compression stockings in
-patients with symptomatic proximal-vein thrombosis. Lancet 349:759, 1997
-Breddin HK, Hach-Wunderle V, Nakov R, et al: Effects of a low-molecular-weight heparin on thrombus
-regression and recurrent thromboembolism in patients with DVT. N Engl J Med 344:626, 2001
-Brill-Edwards P, Ginsberg JS, Gent M, et al: Safety of withholding heparin in pregnant women with a
-history of venous thromboembolism. N Engl J Med 343:1439, 2000
-Brooks C, Rutherford JM, Gould J, et al: Warfarin dosage in postpartum women: a case-control study.
-Br J Obstet Gynaecol 109:187, 2002
-Burneo JG, Elias SB, Barkley GL: Cerebral venous thrombosis due to protein S deficiency in pregnancy.
-Lancet 359:892, 2002
-Carroll R, Rebarber A, Booker W, et al: Double versus single thrombophilias during pregnancy. J
-Matern Fetal Neonatal Med 31(19):2590, 2018
-Chan WS, Ray JG, Murray S, et al: Suspected pulmonary embolism in pregnancy. Arch Intern Med
-162:1170, 2002
-Chan WS, Spencer FA, Ginsberg JS: Anatomic distribution of deep vein thrombosis in pregnancy.
-CMAJ 182:657, 2010
-Chan WS, Spencer FA, Lee AY, et al: Safety of withholding anticoagulation in pregnant women with
-suspected deep vein thrombosis following negative serial compression ultrasound and iliac vein
-imaging. CMAJ 185(4):E194, 2013
-Clark SL, Christmas JT, Frye DR, et al: Maternal mortality in the United States: predictability and the
-impact of protocols on fatal postcesarean pulmonary embolism and hypertension-related intracranial
-hemorrhage. Am J Obstet Gynecol 211:32, 2014
-Clark SL, Meyers JA, Frye DK, et al: Patient safety in obstetrics—the Hospital Corporation of America
-experience. Am J Obstet Gynecol 204(4):283, 2011
-Cleary-Goldman J, Bettes B, Robinson JN, et al: Thrombophilia and the obstetric patient. Obstet
-Gynecol 110:669, 2007
-Cohen SL, Feizullayeva C, McCandish JA, et al: Comparison of international societal guidelines for the
-diagnosis of suspected pulmonary embolism during pregnancy. Lancet Haematol 7(3):e247, 2020
+The risk for DVT and especially for fatal thromboembolism rises many fold following cesarean delivery compared with that after vaginal delivery. When considering that a third of women giving birth in the United States yearly undergo cesarean delivery, pulmonary embolism is understandably a major cause of maternal mortality (Creanga, 2017; Petersen, 2019). That said, the lack of consensus described earlier by Middleton and coworkers (2021) creates considerable variation in the current recommendations promulgated by the American College of Obstetricians and Gynecologists, the Royal College of Obstetricians and Gynaecologists, and the American College of Chest Physicians (Palmerola, 2016). Adherence to individual society guidelines following cesarean delivery confers a greater risk in some instances. According to the Society for Maternal-Fetal Medicine (2020), if American College guidelines were followed, only 1 percent of these women would be candidates for thromboprophylaxis. Almost 85 percent of the same cohort would be given thromboprophylaxis following Royal College guidelines and about 35 percent if American College of Chest Physician guidelines were followed. Some comparisons of these thromboprophylaxis guidelines are shown in
 
-Colombier S, Niclauss L: Successful surgical pulmonary embolectomy for massive perinatal embolism
-after emergency cesarean section. Ann Vasc Surg 29(7):1452.e1, 2015
-Conard J, Horellou MH, Van Dreden P, et al: Thrombosis and pregnancy in congenital deficiencies in AT
-III, protein C or protein S: study of 78 women. Thromb Haemost 63:319, 1990
-Connors JM: Thrombophilia testing and venous thrombosis. N Engl J Med 377(12):1177, 2017
-Creanga AA, Syverson C, Seed K, et al: Pregnancy-related mortality in the United States, 2011–2013.
-Obstet Gynecol 130(2):366, 2017
-Croles FN, Nasserinejad K, Duvekot JJ, et al: Pregnancy, thrombophilia, and the risk of a first venous
-thrombosis: systematic review and Bayesian meta-analysis. BMJ 359:j4452, 2017
-Cunningham FG: Screening for osteoporosis. N Engl J Med 353:1975, 2005
-Cunningham FG, Nelson DB: Disseminated intravascular coagulation syndromes in obstetrics. Obstet
-Gynecol 126(5):999, 2015
-D’Alton ME, Friedman AM, Smiley RM, et al: National partnership for maternal safety: consensus
-bundle on venous thromboembolism. Obstet Gynecol 128(4):688, 2016
-Daughety MM, Zilberman-Rudenko J, Shatzel JJ, et al: Management of anticoagulation in pregnant
-women with mechanical heart valves. Obstet Gynecol Surv 75(3):190, 2020
-De Carolis S, di Pasquo E, Rossi E, et al: Fondaparinux in pregnancy: could it be a safe option? A
-review of the literature. Thromb Res. 135(6):1039, 2015
-De Stefano V, Martinelli I, Rossi E, et al: The risk of recurrent venous thromboembolism in pregnancy
-and puerperium without antithrombotic prophylaxis. Br J Haematol 135:386, 2006
-Decousus H, Leizorovicz A, Parent F, et al: A clinical trial of vena caval filters in the prevention of
-pulmonary embolism in patients with proximal deep-vein thrombosis. N Engl J Med 338:409, 1998
-Den Heijer M, Lewington S, Clarke R: Homocysteine, MTHRF and risk of venous thrombosis: a metaanalysis of published epidemiological studies. Thromb Haemost 3:292, 2005
-Di Minno MN, Ambrosino P, Ambrosini F, et al: Prevalence of deep vein thrombosis and pulmonary
-embolism in patients with superficial vein thrombosis: a systematic review and meta-analysis. J
-Thromb Haemost 14(5):964, 2016
-Dizon-Townson D, Miller C, Sibai B, et al: The relationship of the factor V Leiden mutation and
-pregnancy outcomes for mother and fetus. Obstet Gynecol 106:517, 2005
-Douketis JD, Kearon C, Bates S, et al: Risk of fatal pulmonary embolism in patients with treated venous
-thromboembolism. JAMA 279:458, 1998
-Elsaigh E, Thachil J, Nash MJ, et al: The use of fondaparinux in pregnancy. Br J Haematol 168(5):762,
-2015
-Erdman WA, Jayson HT, Redman HC, et al: Deep venous thrombosis of extremities: role of MR
-imaging in the diagnosis. Radiology 174:425, 1990
-Fausett MB, Vogtlander M, Lee RM, et al: Heparin-induced thrombocytopenia is rare in pregnancy. Am
-J Obstet Gynecol 185:148, 2001
-Fernandez Arias M, Mazarico E, Gonzalex A, et al: Genetic risk assessment of thrombophilia in patients
-with adverse obstetric outcomes. PLoS One 14(2):e0211114, 2019
-Galambosi PJ, Ulander VM, Kaaja RJ: The incidence and risk factors of recurrent venous
-thromboembolism during pregnancy. Thromb Res 134(2):240, 2014
-Garcia D, Erkan D: Diagnosis and management of the antiphospholipid syndrome. N Engl J Med
-378(21):2010, 2018
-García-Botella A, Asenjo S, De la Morena-Barrio ME, et al: First case with antithrombin deficiency,
-mesenteric vein thrombosis and pregnancy: multidisciplinary diagnosis and successful management.
-Thromb Res 144:72, 2016
+> **Table 55-6:** TABLE 55-6. Thromboprophylaxis Guidelines for Women Undergoing Cesarean Delivery
 
-Goldhaber SZ, Visani L, De Rosa M: Acute pulmonary embolism: Clinical outcomes in the International
-Cooperative Pulmonary Embolism Registry (ICOPER). Lancet 353:1386, 1999
-Goodacre S, Horspool K, Nelson-Piercy C, et al: The DiPEP study: an observational study of the
-diagnostic accuracy of clinical assessment, D-dimer and chest x-ray for suspected pulmonary
-embolism in pregnancy and postpartum. BJOG 126:383, 2019
-Govindappagari S, O’Shaughnessy FO, Huang Y, et al: Obstetric thromboembolism and risk for postthrombotic syndrome in months and years after delivery. Abstract No. 112, Am J Obstet Gynecol
-222:S89, 2020
-Greer IA: Clinical practice. Pregnancy complicated by venous thrombosis. N Engl J Med 373(6):540,
-2015
-Greer IA: Prevention and management of venous thromboembolism in pregnancy. Clin Chest Med
-24:123, 2003
-Greinacher A: Heparin induced thrombocytopenia. N Engl J Med 373(3):252, 2015
-Guyatt GH, Akl EA, Crowther M, et al: Executive summary: antithrombotic therapy and prevention of
-thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice
-guidelines. Chest 141:7S, 2012
-Guyton AC, Lindsey AW, Gilluly JJ: The limits of right ventricular compensation following acute
-increase in pulmonary circulatory resistance. Circ Res 2:326, 1954
-Hall WB, Truitt SG, Scheunemann LP, et al: The prevalence of clinically relevant incidental findings on
-chest computed tomographic angiograms ordered to diagnose pulmonary embolism. Arch Intern
-Med 169:1961, 2009
-Handal-Orefice RC, Moroz LA: Pulmonary embolism management in the critical care setting. Semin
-Perinatol 43(4):205, 2019
-Harris SA, Velineni R, Davies AH: Inferior vena cava filters in pregnancy: a systematic review. J Vasc
-Interv Radiol 27(3):354, 2016
-Hu W, Wang Y, Li J, et al: The predictive value of d-Dimer test for venous thromboembolism during
-puerperium: a prospective cohort study. Clin Appl Thromb Hemost 26:1076029620901786, 2020
-Huisman MV, Klok FA: Current challenges in diagnostic imaging of venous thromboembolism.
-Hematology Am Soc Hematol Educ Program 2015:202, 2015
-Hull RD, Raskob GF, Carter CJ: Serial IPG in pregnancy patients with clinically suspected DVT: clinical
-validity of negative findings. Ann Intern Med 112:663, 1990
-Ilonczai P, Oláh Z, Selmeczi A, et al: Management and outcomes of pregnancies in women with
-antithrombin deficiency: a single-center experience and review of literature. Blood Coagul
-Fibrinolysis 26(7):798, 2015
-Infante-Rivard C, Rivard G, Yotov W, et al: Absence of association of thrombophilia polymorphisms
-with intrauterine growth restriction. N Engl J Med 347(1):19, 2002
-Jacobsen AF, Qvigstad E, Sandset PM: Low molecular weight heparin (dalteparin) for the treatment of
-venous thromboembolism in pregnancy. BJOG 110:139, 2003
-Jamjute P, Reed N, Hinwood D: Use of inferior vena cava filters in thromboembolic disease during
-labor: case report with a literature review. J Matern Fetal Neonatal Med 19:741, 2006
-Jerjes-Sánchez C, Rodriguez D, Farjat E, et al: Pregnancy-associated venous thromboembolism: insights
-from GARFILED-VTE. TH Open 5(1):e24, 2021
-Johnson ED, Schell JC, Rodgers GM: The D-dimer assay. Am J Hematol 94(7):833, 2019
-Kamei H, Navi BB, Sriram N, et al: Risk of a thrombotic event after the 6-week postpartum period. N
-Engl J Med 370(14):1307, 2014
+Since 2011, the American College of Obstetricians and Gynecologists (2020b) recommends placement of pneumatic compression devices before cesarean delivery for all women not already receiving thromboprophylaxis. This recommendation was based primarily on consensus and expert opinion. For patients undergoing cesarean delivery with additional risk factors for thromboembolism, both pneumatic compression devices and UFH or LMWH may be recommended. The College stipulated that cesarean delivery in an emergency setting should not be delayed because of the time necessary to begin thromboprophylaxis. Implementation of this strategy by the Hospital Corporation of America, the largest for-profit obstetrical health care delivery system in the United States, was associated with a reduction in deaths from pulmonary embolism from 7 of 458,097 cesarean births to 1 of 465,880 cesarean births (Clark, 2011, 2014). In 2016, the National Partnership for Maternal Safety published several consensus recommendations for the prevention of maternal VTE (D’Alton, 2016). These recommendations included expanded use of antenatal thromboprophylaxis for women hospitalized 3 days or longer, expanded use
 
-Kearon C, Akl EA, Comerota AJ, et al: Antithrombotic therapy for VTE disease: antithrombotic therapy
-and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical
-practice guidelines. Chest 141:e419S, 2012
-Kearon C, Akl EA, Ornelas J, et al: Antithrombotic therapy for VTE disease: CHEST guidelines and
-expert panel report. Chest 149(2):315, 2016
-Kim YH, Pfaller B, Marson A, et al: The risk of venous thromboembolism in women with inflammatory
-bowel disease during pregnancy and the postpartum period: a systematic review and meta-analysis.
-Medicine (Baltimore) 98(38):e17309, 2019
-Kinane TB, Grabowski EF, Sharma A, et al: Case 7–2008: a 17-year-old girl with chest pain and
-hemoptysis. N Engl J Med 358:941, 2008
-Kjellberg U, van Rooijen M, Bremme K, et al: Factor V Leiden mutation and pregnancy-related
-complications. Am J Obstet Gynecol 203:469.e1, 2010
-Konstantinides S, Geibel A, Heusel G, et al: Heparin plus alteplase compared with heparin alone in
-patients with submassive pulmonary embolism. N Engl J Med 347:1143, 2002
-Konstantinides SV, Torbicki A, Agnelli G, et al: 2014 ESC guidelines on the diagnosis and management
-of acute pulmonary embolism. Eur Heart J 35(43):3033, 2014
-Kruger PC, Eikelboom JW, Douketis JD, et al: Deep vein thrombosis: update on diagnosis and
-management. Med J Aust 210(11):516, 2019
-Lameijer H, Aalberts J, van Veldhuisen D, et al: Efficacy and safety of direct oral anticoagulants during
-pregnancy; a systematic literature review. Thromb Res 169:123, 2018
-Le Gal G, Kercret G, Yahmed KB, et al: Diagnostic value of single complete compression
-ultrasonography in pregnant and postpartum women with suspected deep vein thrombosis:
-prospective study. BMJ 344:e2635, 2012
-Lebaudy C, Hulot J, Amoura Z, et al: Changes in enoxaparin pharmacokinetics during pregnancy and
-implications for antithrombotic therapeutic strategy. Clin Pharmacol Ther 84(3):370, 2008
-Leffert L, Butwick A, Carvalho B, et al: The Society for Obstetric Anesthesia and Perinatology
-consensus statement on the anesthetic management of pregnancy and postpartum women receiving
-thromboprophylaxis or higher dose anticoagulants. Anesth Analg 126(3):928, 2018
-Leonhardt G, Gaul C, Nietsch HH, et al: Thrombolytic therapy in pregnancy. J Thromb Thrombolysis
-21:271, 2006
-Leung AN, Bull TM, Jaeschke R, et al: An official American Thoracic Society/Society of Thoracic
-Radiology Clinical Practice Guideline: evaluation of suspected pulmonary embolism in pregnancy.
-Am J Respir Crit Care Med 184:1200, 2011
-Lim MY, Deal AM, Musty MD, et al: Thrombophilic risk of individuals with rare compound factor V
-Leiden and prothrombin G20210A polymorphisms: an international case series of 100 individuals.
-Eur J Haematol 97(4):353, 2016
-Linkins L-A, Dans AL, Moores LK, et al: Treatment and prevention of heparin-induced
-thrombocytopenia. Chest 141:e495S, 2012
-Linnemann B, Scholz U, Rott H, et al: Treatment of pregnancy-associated venous thromboembolismposition paper from the Working Group in Women’s Health of the Society of Thrombosis and
-Haemostasis (GTH). Vasa 45(2):103, 2016
-Liu L, Sun D: Pregnancy outcomes in patients with primary antiphospholipid syndrome: a systematic
-review and meta-analysis. Medicine (Baltimore) 98(20):e15733, 2019
-Liu Y, Sun Y, Zhang S, et al: Placement of a retrievable inferior vena cava filter for deep venous
-thrombosis in term pregnancy. J Vasc Surg 55:1042, 2012
+of prophylaxis during and after vaginal delivery, and expanded use of pharmacological prophylaxis to most women after cesarean delivery. In response, Sibai and Rouse (2016) expressed concern that these new recommendations derive from sparse data of questionable applicability to obstetrical patients. They called for better quality evidence to measure the benefits, harms, and costs of increased pharmacological thromboprophylaxis. As aptly expressed by Macones (2017), “an intervention, such as increased postcesarean pharmacologic thromboprophylaxis, where there are legitimate concerns about efficacy and safety, requires a much higher degree of evidence before a national guideline is implemented.” We agree with these sentiments.
 
-Lockwood C: Thrombosis, thrombophilia, and thromboembolism: clinical updates in women’s health
-care. American College of Obstetricians and Gynecologists Vol. VI, No. 4, October 2007,
-Reaffirmed 2012
-Lockwood CJ: Inherited thrombophilias in pregnant patients: detection and treatment paradigm. Obstet
-Gynecol 99:333, 2002
-Louis-Jacques AF, Maggio L, Romero ST: Prenatal screening for thrombophilias. Clin Lab Med
-36(2):421, 2016
-MacCallum P, Bowles L, Keeling D: Diagnosis and management of heritable thrombophilias. BMJ
-349:g4387, 2014
-Macones GA: Patient safety in obstetrics. More evidence, less emotion. Obstet Gynecol 103(2):257,
-2017
-Marik PE, Plante LA: Venous thromboembolic disease and pregnancy. N Engl J Med 359:2025, 2008
-McDonnell BP, Glennon K, McTiernan A, et al: Adjustment of therapeutic LMWH to achieve specific
-target anti-FXa activity does not affect outcomes in pregnant patients with venous
-thromboembolism. J Thromb Thrombolysis 43(1):105, 2017
-Middleton P, Shepherd E, Gomersall J: Venous thromboembolism prophylaxis for women at risk during
-pregnancy and the early postnatal period. Cochrane Database Syst Rev 3:CD001689, 2021
-Miyamoto K, Komatus H, Nagaya Y, et al: Changes in serum D-dimer level and effect of enoxaparin
-sodium after a cesarean section: a retrospective study. J Matern Fetal Neonatal Med 11:1, 2020
-Moriuchi K, Chigusa Y, Kondoh E, et al: Enoxaparin administration within 24 hours of caesarean
-section: a 6-year single-centre experience and patient outcomes. J Obstet Gynecol 39(4):451, 2019
-Nelson-Piercy C, Powrie R, Borg JY, et al: Tinzaparin use in pregnancy: an international, retrospective
-study of the safety and efficacy profile. Eur J Obstet Gynecol Reprod Biol 159:293, 2011
-Ormesher L, Simcox LE, Tower C, et al: To test or not to test, the arguments for and against
-thrombophilia testing in obstetrics. Obstet Med 10(2):61, 2017
-Paidas MJ, Triche EW, James AH, et al: Recombinant human antithrombin in pregnant patients with
-hereditary antithrombin deficiency: integrated analysis of clinical data. Am J Perinatol 33(4):343,
-2016
-Palmerola KL, D’Alton ME, Brock CO, et al: A comparison of recommendations for pharmacologic
-thromboembolism prophylaxis after caesarean delivery from three major guidelines. BJOG 123:2157,
-2016
-Pécourt M, Yelnik C, Ghesquiere L, et al: Is the presence of antiphospholipid antibodies a poor
-prognostic factor for patients with HELLP syndrome? Am J Obstet Gynecol April 1, 2021 [Epub
-ahead of print]
-Petersen EE, Davis NL, Goodman D, et al: Vital signs: pregnancy-related deaths, United States, 2011–
-2015, and strategies for prevention, 13 states, 2013–2017. MMWR 68:423, 2019
-Pierangeli SS, Leader B, Barilaro G, et al: Acquired and inherited thrombophilia disorders in pregnancy.
-Obstet Gynecol Clin North Am 38:271, 2011
-Pollack CV, Schreiber D, Goldhaber SZ, et al: Clinical characteristics, management, and outcomes of
-patients diagnosed with acute pulmonary embolism in the emergency department. JACC 57:700,
-2011
-Quinlan DJ, McQuillan A, Eikelboom JW: Low-molecular-weight heparin compared with intravenous
-unfractionated heparin for treatment of pulmonary embolism: a meta-analysis of randomized,
-controlled trials. Ann Intern Med 140:143, 2004
-Revel MP, Cohen S, Sanchez O, et al: Pulmonary embolism during pregnancy: diagnosis with lung
-scintigraphy or CT angiography? Radiology 258:590, 2011
+## References
 
-Rhéaume M, Weber F, Durand M, et al: Pregnancy-related venous thromboembolism risk in
-asymptomatic women with antithrombin deficiency: a systematic review. Obstet Gynecol 127(4):649,
-2016
-Righini M, Robert-Ebadi H, Elias A, et al: Diagnosis of pulmonary embolism during pregnancy: a
-multicenter prospective management outcome study. Ann Intern Med 169(11):766, 2018
-Rodger M: Evidence base for the management of venous thromboembolism in pregnancy. Hematology
-Am Soc Hematol Educ Program 2010:173, 2010
-Rosenbloom JI, Macones GA: Future research directions for prevention and treatment of obstetric
-venous thromboembolism. Semin Perinatol 43(4):213, 2019
-Rottenstreich A, Kalish Y, Elchalal U, et al: Retrievable inferior vena cava filter utilization in obstetric
-patients. J Matern Fetal Neonatal Med 32(18):3045, 2019
-Royal College of Obstetricians and Gynaecologists: Reducing the risk of venous thromboembolism
-during pregnancy and the puerperium (Green-top Guidelines no. 37a). April, 2015
-Sabadell J, Casellas M, Alijotas-Reig J, et al: Inherited antithrombin deficiency and pregnancy: maternal
-and fetal outcomes. Eur J Obstet Gynecol Reprod Biol 149:47, 2010
-Saccone G, Berghella V, Maruotti GM, et al: Antiphospholipid antibody profile based obstetric outcomes
-of primary antiphospholipid syndrome: the PREGNANTS study. Am J Obstet Gynecol
-216(5):525.e1, 2017
-Saeed G, Möller M, Neuzner J, et al: Emergent surgical pulmonary embolectomy in a pregnant woman:
-case report and literature review. Tex Heart Inst J 41(2):188, 2014
-Said JM, Ignjatovic V, Monagle PT, et al: Altered reference ranges for protein C and protein S during
-early pregnancy: implications for the diagnosis of protein C and protein S deficiency during
-pregnancy. Thromb Haemost 103:984, 2010
-Scheres LJJ, Lijfering WM, Groenwegan NF, et al: Hypertensive complications of pregnancy and risk of
-venous thromboembolism. Hypertension 75(3):781, 2020
-Sibai BM, Rouse DJ: Pharmacologic thromboprophylaxis in obstetrics: broader use demands better data.
-Obstet Gynecol 128(4):681, 2016
-Silver RM, Saade GR, Thorsten V, et al: Factor V Leiden, prothrombin G20210A, and methylene
-tetrahydrofolate reductase mutations and stillbirth: the Stillbirth Collaborative Research Network.
-Am J Obstet Gynecol 215(4):468.e1, 2016
-Silver RM, Zhao Y, Spong CY, et al: Prothrombin gene G20210A mutation and obstetric complications.
-Obstet Gynecol 115:14, 2010
-Singhal S, Henderson R, Horsfield K, et al: Morphometry of the human pulmonary arterial tree. Circ
-Res 33:190, 1973
-Smith MP, Norris LA, Steer PJ, et al: Tinzaparin sodium for thrombosis treatment and prevention during
-pregnancy. Am J Obstet Gynecol 190:495, 2004
-Society for Maternal-Fetal Medicine (SMFM); Pacheco LD, Saade G, et al: Thromboembolism
-prophylaxis for cesarean delivery. Consult Series #5. August, 2020
-Sousa-Gomes M, Guimarães M, Montenegro N: Thrombolysis in pregnancy: a literature review. J
-Matern Fetal Neonatal Med 32(14):2418, 2019
-Tapson VF: Acute pulmonary embolism. N Engl J Med 358:1037, 2008
-Tengborn L, Bergqvist D, Matzsch T, et al: Recurrent thromboembolism in pregnancy and puerperium: is
-there a need for thromboprophylaxis? Am J Obstet Gynecol 160:90, 1989
-Tromeur C, van der Pol LM, Klok FA, et al: Pitfalls in the diagnostic management of pulmonary
-embolism in pregnancy. Thromb Res 151 Suppl 1:S86, 2017
+Abbattista M, Gianiello F, Novembrino C, et al: Risk of pregnancy-related venous thromboembolism and obstetrical complications in women with inherited type I antithrombin deficiency: a retrospective, single-centre, cohort study. Lancet Haematol 7(4):e320, 2020 Abe K, Kuklina EV, Hooper WC, et al: Venous thromboembolism as a cause of severe maternal morbidity and mortality in the United States. Semin Perinatal 43(4):e320, 2019 Agnelli G, Becattini C, Kirschstein T: Thrombolysis vs heparin in the treatment of pulmonary embolism. Arch Intern Med 162: 2537, 2002 Ahearn GS, Hadjiliadis D, Govert JA, et al: Massive pulmonary embolism during pregnancy successfully treated with recombinant tissue plasminogen activator. Arch Intern Med 162:1221, 2002 Akazawa M, Nishida M: Thrombolysis with intravenous recombinant tissue plasminogen activator during early postpartum period: a review of the literature. Acta Obstet Gynecol Scand 96(5):529, 2017 Alfirevic Z, Roberts D, Martlew V: How strong is the association between maternal thrombophilia and adverse pregnancy outcome? A systematic review. Eur J Obstet Gynecol Reprod Biol 101:6, 2002 Almawi WY, Al-Shaikh FS, Melemedjian OK, et al: Protein Z, an anticoagulant protein with expanding role in reproductive biology. Reproduction 146(2):R73, 2013 American College of Obstetricians and Gynecologists: Inherited thrombophilias in pregnancy. Practice Bulletin No. 197, June 2018. Reaffirmed 2020a American College of Obstetricians and Gynecologists: Thromboembolism in pregnancy. Practice Bulletin No. 196, June 2018. Reaffirmed 2020b Anderson DR, Kahn SR, Rodger MA, et al: Computed tomographic pulmonary angiography vs ventilation-perfusion lung scanning in patients with suspected pulmonary embolism: a randomized controlled trial. JAMA 298:2743, 2007 Arachchillage DR, Makris M: Inherited thrombophilia and pregnancy complications: should we test? Semin Thromb Hemost 45(1):50, 2019 Bapat P, Kedar R, Lubetsky A, et al: Transfer of dabigatran and dabigatran etexilate mesylate across the dually perfused human placenta. Obstet Gynecol 123(6):1256, 2014 Barbour LA, Oja JL, Schultz LK: A prospective trial that demonstrates that dalteparin requirements increase in pregnancy to maintain therapeutic levels of anticoagulation. Am J Obstet Gynecol
 
-Van der Hulle T, Cheung W, Kooij S, et al: Simplified diagnostic management of suspected pulmonary
-embolism (the YEARS study): a prospective, multicentre, cohort study. Lancet 390(10091):289, 2017
-Van der Pol LM, Tromeur C, Bistervels IM, et al: Pregnancy-adapted YEARS algorithm for diagnosis
-of suspected pulmonary embolism. N Engl J Med 380(12):1139, 2019
-van Mens TE, Scheres LJ, de Jong PG, et al: Imaging for the exclusion of pulmonary embolism in
-pregnancy. Cochrane Database Syst Rev 1:CD011053, 2017
-Viau-Lapointe J, Pier-Arsenault M: New evidence in diagnosis of pulmonary embolism during
-pregnancy. Obstet Med 13(3):120, 2020
-Virchow R: Gesammelte Abhandlungen zur wissenschaftlichen Medizin. Frankfurt: Medinger Sohn &
-Co., 1856, p 219
-Waksmonski CA: Cardiac imaging and functional assessment I pregnancy. Semin Perinatol 38(5):240,
-2014
-Waldman M, Sheiner E, Vardi IS: Can we profile patients at risk for thrombo-embolic events after
-delivery: a decade of follow up. Am J Obstet Gynecol 208:S234, 2013
+191:1024, 2004 Bates SM: Pulmonary embolism in pregnancy. Semin Respir Crit Care Med 42(2):284, 2021 Bates SM, Greer IA, Middledorp S, et al: VTE, thrombophilia, antithrombotic therapy, and pregnancy. Chest 141:e691S, 2012 Bates SM, Rajasekhar A, Middeldorp S, et al: American Society of Hematology 2018 guidelines for management of venous thromboembolism: venous thromboembolism in the context of pregnancy. Blood Adv 2(22):3317, 2018 Bendapudi PK, Whalen MJ, Lahoud-Rahme M, et al: Case 7–2021: a 19-year-old man with shock, multiple organ failure, and rash. N Engl J Med 384(30):953, 2021 Berresheim M, Wilkie J, Nerenberg KA, et al: A case series of LMWH use in pregnancy: should trough anti-Xa levels guide dosing? Thromb Res 134(6):1234, 2014 Birdwell BG, Raskob GE, Whitsett TL, et al: The clinical validity of normal compression ultrasonography in outpatients suspected of having deep venous thrombosis. Ann Intern Med 128:1, 1998 Blanco-Molina A, Trujillo-Santos J, Criado J, et al: Venous thromboembolism during pregnancy or postpartum: findings from the RIETE Registry. Thromb Haemost 97:186, 2007 Bourjeily G, Khalil H, Raker C, et al: Outcomes of negative multidetector computed tomography with pulmonary angiography in pregnant women suspected of pulmonary embolism. Lung 190:105, 2012 Brandjes DP, Buller HR, Heijboer H, et al: Randomised trial of effect of compression stockings in patients with symptomatic proximal-vein thrombosis. Lancet 349:759, 1997 Breddin HK, Hach-Wunderle V, Nakov R, et al: Effects of a low-molecular-weight heparin on thrombus regression and recurrent thromboembolism in patients with DVT. N Engl J Med 344:626, 2001 Brill-Edwards P, Ginsberg JS, Gent M, et al: Safety of withholding heparin in pregnant women with a history of venous thromboembolism. N Engl J Med 343:1439, 2000 Brooks C, Rutherford JM, Gould J, et al: Warfarin dosage in postpartum women: a case-control study. Br J Obstet Gynaecol 109:187, 2002 Burneo JG, Elias SB, Barkley GL: Cerebral venous thrombosis due to protein S deficiency in pregnancy. Lancet 359:892, 2002 Carroll R, Rebarber A, Booker W, et al: Double versus single thrombophilias during pregnancy. J Matern Fetal Neonatal Med 31(19):2590, 2018 Chan WS, Ray JG, Murray S, et al: Suspected pulmonary embolism in pregnancy. Arch Intern Med 162:1170, 2002 Chan WS, Spencer FA, Ginsberg JS: Anatomic distribution of deep vein thrombosis in pregnancy. CMAJ 182:657, 2010 Chan WS, Spencer FA, Lee AY, et al: Safety of withholding anticoagulation in pregnant women with suspected deep vein thrombosis following negative serial compression ultrasound and iliac vein imaging. CMAJ 185(4):E194, 2013 Clark SL, Christmas JT, Frye DR, et al: Maternal mortality in the United States: predictability and the impact of protocols on fatal postcesarean pulmonary embolism and hypertension-related intracranial hemorrhage. Am J Obstet Gynecol 211:32, 2014 Clark SL, Meyers JA, Frye DK, et al: Patient safety in obstetrics—the Hospital Corporation of America experience. Am J Obstet Gynecol 204(4):283, 2011 Cleary-Goldman J, Bettes B, Robinson JN, et al: Thrombophilia and the obstetric patient. Obstet Gynecol 110:669, 2007 Cohen SL, Feizullayeva C, McCandish JA, et al: Comparison of international societal guidelines for the diagnosis of suspected pulmonary embolism during pregnancy. Lancet Haematol 7(3):e247, 2020
 
+Colombier S, Niclauss L: Successful surgical pulmonary embolectomy for massive perinatal embolism after emergency cesarean section. Ann Vasc Surg 29(7):1452.e1, 2015 Conard J, Horellou MH, Van Dreden P, et al: Thrombosis and pregnancy in congenital deficiencies in AT III, protein C or protein S: study of 78 women. Thromb Haemost 63:319, 1990 Connors JM: Thrombophilia testing and venous thrombosis. N Engl J Med 377(12):1177, 2017 Creanga AA, Syverson C, Seed K, et al: Pregnancy-related mortality in the United States, 2011–2013. Obstet Gynecol 130(2):366, 2017 Croles FN, Nasserinejad K, Duvekot JJ, et al: Pregnancy, thrombophilia, and the risk of a first venous thrombosis: systematic review and Bayesian meta-analysis. BMJ 359:j4452, 2017 Cunningham FG: Screening for osteoporosis. N Engl J Med 353:1975, 2005 Cunningham FG, Nelson DB: Disseminated intravascular coagulation syndromes in obstetrics. Obstet Gynecol 126(5):999, 2015 D’Alton ME, Friedman AM, Smiley RM, et al: National partnership for maternal safety: consensus bundle on venous thromboembolism. Obstet Gynecol 128(4):688, 2016 Daughety MM, Zilberman-Rudenko J, Shatzel JJ, et al: Management of anticoagulation in pregnant women with mechanical heart valves. Obstet Gynecol Surv 75(3):190, 2020 De Carolis S, di Pasquo E, Rossi E, et al: Fondaparinux in pregnancy: could it be a safe option? A review of the literature. Thromb Res. 135(6):1039, 2015 De Stefano V, Martinelli I, Rossi E, et al: The risk of recurrent venous thromboembolism in pregnancy and puerperium without antithrombotic prophylaxis. Br J Haematol 135:386, 2006 Decousus H, Leizorovicz A, Parent F, et al: A clinical trial of vena caval filters in the prevention of pulmonary embolism in patients with proximal deep-vein thrombosis. N Engl J Med 338:409, 1998 Den Heijer M, Lewington S, Clarke R: Homocysteine, MTHRF and risk of venous thrombosis: a metaanalysis of published epidemiological studies. Thromb Haemost 3:292, 2005 Di Minno MN, Ambrosino P, Ambrosini F, et al: Prevalence of deep vein thrombosis and pulmonary embolism in patients with superficial vein thrombosis: a systematic review and meta-analysis. J Thromb Haemost 14(5):964, 2016 Dizon-Townson D, Miller C, Sibai B, et al: The relationship of the factor V Leiden mutation and pregnancy outcomes for mother and fetus. Obstet Gynecol 106:517, 2005 Douketis JD, Kearon C, Bates S, et al: Risk of fatal pulmonary embolism in patients with treated venous thromboembolism. JAMA 279:458, 1998 Elsaigh E, Thachil J, Nash MJ, et al: The use of fondaparinux in pregnancy. Br J Haematol 168(5):762,
+
+## 2015
+
+Erdman WA, Jayson HT, Redman HC, et al: Deep venous thrombosis of extremities: role of MR imaging in the diagnosis. Radiology 174:425, 1990 Fausett MB, Vogtlander M, Lee RM, et al: Heparin-induced thrombocytopenia is rare in pregnancy. Am J Obstet Gynecol 185:148, 2001 Fernandez Arias M, Mazarico E, Gonzalex A, et al: Genetic risk assessment of thrombophilia in patients with adverse obstetric outcomes. PLoS One 14(2):e0211114, 2019 Galambosi PJ, Ulander VM, Kaaja RJ: The incidence and risk factors of recurrent venous thromboembolism during pregnancy. Thromb Res 134(2):240, 2014 Garcia D, Erkan D: Diagnosis and management of the antiphospholipid syndrome. N Engl J Med 378(21):2010, 2018 García-Botella A, Asenjo S, De la Morena-Barrio ME, et al: First case with antithrombin deficiency, mesenteric vein thrombosis and pregnancy: multidisciplinary diagnosis and successful management. Thromb Res 144:72, 2016
+
+Goldhaber SZ, Visani L, De Rosa M: Acute pulmonary embolism: Clinical outcomes in the International Cooperative Pulmonary Embolism Registry (ICOPER). Lancet 353:1386, 1999 Goodacre S, Horspool K, Nelson-Piercy C, et al: The DiPEP study: an observational study of the diagnostic accuracy of clinical assessment, D-dimer and chest x-ray for suspected pulmonary embolism in pregnancy and postpartum. BJOG 126:383, 2019 Govindappagari S, O’Shaughnessy FO, Huang Y, et al: Obstetric thromboembolism and risk for postthrombotic syndrome in months and years after delivery. Abstract No. 112, Am J Obstet Gynecol 222:S89, 2020 Greer IA: Clinical practice. Pregnancy complicated by venous thrombosis. N Engl J Med 373(6):540,
+
+## 2015
+
+Greer IA: Prevention and management of venous thromboembolism in pregnancy. Clin Chest Med 24:123, 2003 Greinacher A: Heparin induced thrombocytopenia. N Engl J Med 373(3):252, 2015 Guyatt GH, Akl EA, Crowther M, et al: Executive summary: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 141:7S, 2012 Guyton AC, Lindsey AW, Gilluly JJ: The limits of right ventricular compensation following acute increase in pulmonary circulatory resistance. Circ Res 2:326, 1954 Hall WB, Truitt SG, Scheunemann LP, et al: The prevalence of clinically relevant incidental findings on chest computed tomographic angiograms ordered to diagnose pulmonary embolism. Arch Intern Med 169:1961, 2009 Handal-Orefice RC, Moroz LA: Pulmonary embolism management in the critical care setting. Semin Perinatol 43(4):205, 2019 Harris SA, Velineni R, Davies AH: Inferior vena cava filters in pregnancy: a systematic review. J Vasc Interv Radiol 27(3):354, 2016 Hu W, Wang Y, Li J, et al: The predictive value of d-Dimer test for venous thromboembolism during puerperium: a prospective cohort study. Clin Appl Thromb Hemost 26:1076029620901786, 2020 Huisman MV, Klok FA: Current challenges in diagnostic imaging of venous thromboembolism. Hematology Am Soc Hematol Educ Program 2015:202, 2015 Hull RD, Raskob GF, Carter CJ: Serial IPG in pregnancy patients with clinically suspected DVT: clinical validity of negative findings. Ann Intern Med 112:663, 1990 Ilonczai P, Oláh Z, Selmeczi A, et al: Management and outcomes of pregnancies in women with antithrombin deficiency: a single-center experience and review of literature. Blood Coagul Fibrinolysis 26(7):798, 2015 Infante-Rivard C, Rivard G, Yotov W, et al: Absence of association of thrombophilia polymorphisms with intrauterine growth restriction. N Engl J Med 347(1):19, 2002 Jacobsen AF, Qvigstad E, Sandset PM: Low molecular weight heparin (dalteparin) for the treatment of venous thromboembolism in pregnancy. BJOG 110:139, 2003 Jamjute P, Reed N, Hinwood D: Use of inferior vena cava filters in thromboembolic disease during labor: case report with a literature review. J Matern Fetal Neonatal Med 19:741, 2006 Jerjes-Sánchez C, Rodriguez D, Farjat E, et al: Pregnancy-associated venous thromboembolism: insights from GARFILED-VTE. TH Open 5(1):e24, 2021 Johnson ED, Schell JC, Rodgers GM: The D-dimer assay. Am J Hematol 94(7):833, 2019 Kamei H, Navi BB, Sriram N, et al: Risk of a thrombotic event after the 6-week postpartum period. N Engl J Med 370(14):1307, 2014
+
+Kearon C, Akl EA, Comerota AJ, et al: Antithrombotic therapy for VTE disease: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 141:e419S, 2012 Kearon C, Akl EA, Ornelas J, et al: Antithrombotic therapy for VTE disease: CHEST guidelines and expert panel report. Chest 149(2):315, 2016 Kim YH, Pfaller B, Marson A, et al: The risk of venous thromboembolism in women with inflammatory bowel disease during pregnancy and the postpartum period: a systematic review and meta-analysis. Medicine (Baltimore) 98(38):e17309, 2019 Kinane TB, Grabowski EF, Sharma A, et al: Case 7–2008: a 17-year-old girl with chest pain and hemoptysis. N Engl J Med 358:941, 2008 Kjellberg U, van Rooijen M, Bremme K, et al: Factor V Leiden mutation and pregnancy-related complications. Am J Obstet Gynecol 203:469.e1, 2010 Konstantinides S, Geibel A, Heusel G, et al: Heparin plus alteplase compared with heparin alone in patients with submassive pulmonary embolism. N Engl J Med 347:1143, 2002 Konstantinides SV, Torbicki A, Agnelli G, et al: 2014 ESC guidelines on the diagnosis and management of acute pulmonary embolism. Eur Heart J 35(43):3033, 2014 Kruger PC, Eikelboom JW, Douketis JD, et al: Deep vein thrombosis: update on diagnosis and management. Med J Aust 210(11):516, 2019 Lameijer H, Aalberts J, van Veldhuisen D, et al: Efficacy and safety of direct oral anticoagulants during pregnancy; a systematic literature review. Thromb Res 169:123, 2018 Le Gal G, Kercret G, Yahmed KB, et al: Diagnostic value of single complete compression ultrasonography in pregnant and postpartum women with suspected deep vein thrombosis: prospective study. BMJ 344:e2635, 2012 Lebaudy C, Hulot J, Amoura Z, et al: Changes in enoxaparin pharmacokinetics during pregnancy and implications for antithrombotic therapeutic strategy. Clin Pharmacol Ther 84(3):370, 2008 Leffert L, Butwick A, Carvalho B, et al: The Society for Obstetric Anesthesia and Perinatology consensus statement on the anesthetic management of pregnancy and postpartum women receiving thromboprophylaxis or higher dose anticoagulants. Anesth Analg 126(3):928, 2018 Leonhardt G, Gaul C, Nietsch HH, et al: Thrombolytic therapy in pregnancy. J Thromb Thrombolysis 21:271, 2006 Leung AN, Bull TM, Jaeschke R, et al: An official American Thoracic Society/Society of Thoracic Radiology Clinical Practice Guideline: evaluation of suspected pulmonary embolism in pregnancy. Am J Respir Crit Care Med 184:1200, 2011 Lim MY, Deal AM, Musty MD, et al: Thrombophilic risk of individuals with rare compound factor V Leiden and prothrombin G20210A polymorphisms: an international case series of 100 individuals. Eur J Haematol 97(4):353, 2016 Linkins L-A, Dans AL, Moores LK, et al: Treatment and prevention of heparin-induced thrombocytopenia. Chest 141:e495S, 2012 Linnemann B, Scholz U, Rott H, et al: Treatment of pregnancy-associated venous thromboembolismposition paper from the Working Group in Women’s Health of the Society of Thrombosis and Haemostasis (GTH). Vasa 45(2):103, 2016 Liu L, Sun D: Pregnancy outcomes in patients with primary antiphospholipid syndrome: a systematic review and meta-analysis. Medicine (Baltimore) 98(20):e15733, 2019 Liu Y, Sun Y, Zhang S, et al: Placement of a retrievable inferior vena cava filter for deep venous thrombosis in term pregnancy. J Vasc Surg 55:1042, 2012
+
+Lockwood C: Thrombosis, thrombophilia, and thromboembolism: clinical updates in women’s health care. American College of Obstetricians and Gynecologists Vol. VI, No. 4, October 2007, Reaffirmed 2012 Lockwood CJ: Inherited thrombophilias in pregnant patients: detection and treatment paradigm. Obstet Gynecol 99:333, 2002 Louis-Jacques AF, Maggio L, Romero ST: Prenatal screening for thrombophilias. Clin Lab Med 36(2):421, 2016 MacCallum P, Bowles L, Keeling D: Diagnosis and management of heritable thrombophilias. BMJ 349:g4387, 2014 Macones GA: Patient safety in obstetrics. More evidence, less emotion. Obstet Gynecol 103(2):257,
+
+## 2017
+
+Marik PE, Plante LA: Venous thromboembolic disease and pregnancy. N Engl J Med 359:2025, 2008 McDonnell BP, Glennon K, McTiernan A, et al: Adjustment of therapeutic LMWH to achieve specific target anti-FXa activity does not affect outcomes in pregnant patients with venous thromboembolism. J Thromb Thrombolysis 43(1):105, 2017 Middleton P, Shepherd E, Gomersall J: Venous thromboembolism prophylaxis for women at risk during pregnancy and the early postnatal period. Cochrane Database Syst Rev 3:CD001689, 2021 Miyamoto K, Komatus H, Nagaya Y, et al: Changes in serum D-dimer level and effect of enoxaparin sodium after a cesarean section: a retrospective study. J Matern Fetal Neonatal Med 11:1, 2020 Moriuchi K, Chigusa Y, Kondoh E, et al: Enoxaparin administration within 24 hours of caesarean section: a 6-year single-centre experience and patient outcomes. J Obstet Gynecol 39(4):451, 2019 Nelson-Piercy C, Powrie R, Borg JY, et al: Tinzaparin use in pregnancy: an international, retrospective study of the safety and efficacy profile. Eur J Obstet Gynecol Reprod Biol 159:293, 2011 Ormesher L, Simcox LE, Tower C, et al: To test or not to test, the arguments for and against thrombophilia testing in obstetrics. Obstet Med 10(2):61, 2017 Paidas MJ, Triche EW, James AH, et al: Recombinant human antithrombin in pregnant patients with hereditary antithrombin deficiency: integrated analysis of clinical data. Am J Perinatol 33(4):343,
+
+## 2016
+
+Palmerola KL, D’Alton ME, Brock CO, et al: A comparison of recommendations for pharmacologic thromboembolism prophylaxis after caesarean delivery from three major guidelines. BJOG 123:2157,
+
+## 2016
+
+Pécourt M, Yelnik C, Ghesquiere L, et al: Is the presence of antiphospholipid antibodies a poor prognostic factor for patients with HELLP syndrome? Am J Obstet Gynecol April 1, 2021 [Epub ahead of print] Petersen EE, Davis NL, Goodman D, et al: Vital signs: pregnancy-related deaths, United States, 2011– 2015, and strategies for prevention, 13 states, 2013–2017. MMWR 68:423, 2019 Pierangeli SS, Leader B, Barilaro G, et al: Acquired and inherited thrombophilia disorders in pregnancy. Obstet Gynecol Clin North Am 38:271, 2011 Pollack CV, Schreiber D, Goldhaber SZ, et al: Clinical characteristics, management, and outcomes of patients diagnosed with acute pulmonary embolism in the emergency department. JACC 57:700,
+
+## 2011
+
+Quinlan DJ, McQuillan A, Eikelboom JW: Low-molecular-weight heparin compared with intravenous unfractionated heparin for treatment of pulmonary embolism: a meta-analysis of randomized, controlled trials. Ann Intern Med 140:143, 2004 Revel MP, Cohen S, Sanchez O, et al: Pulmonary embolism during pregnancy: diagnosis with lung scintigraphy or CT angiography? Radiology 258:590, 2011
+
+Rhéaume M, Weber F, Durand M, et al: Pregnancy-related venous thromboembolism risk in asymptomatic women with antithrombin deficiency: a systematic review. Obstet Gynecol 127(4):649,
+
+## 2016
+
+Righini M, Robert-Ebadi H, Elias A, et al: Diagnosis of pulmonary embolism during pregnancy: a multicenter prospective management outcome study. Ann Intern Med 169(11):766, 2018 Rodger M: Evidence base for the management of venous thromboembolism in pregnancy. Hematology Am Soc Hematol Educ Program 2010:173, 2010 Rosenbloom JI, Macones GA: Future research directions for prevention and treatment of obstetric venous thromboembolism. Semin Perinatol 43(4):213, 2019 Rottenstreich A, Kalish Y, Elchalal U, et al: Retrievable inferior vena cava filter utilization in obstetric patients. J Matern Fetal Neonatal Med 32(18):3045, 2019 Royal College of Obstetricians and Gynaecologists: Reducing the risk of venous thromboembolism during pregnancy and the puerperium (Green-top Guidelines no. 37a). April, 2015 Sabadell J, Casellas M, Alijotas-Reig J, et al: Inherited antithrombin deficiency and pregnancy: maternal and fetal outcomes. Eur J Obstet Gynecol Reprod Biol 149:47, 2010 Saccone G, Berghella V, Maruotti GM, et al: Antiphospholipid antibody profile based obstetric outcomes of primary antiphospholipid syndrome: the PREGNANTS study. Am J Obstet Gynecol 216(5):525.e1, 2017 Saeed G, Möller M, Neuzner J, et al: Emergent surgical pulmonary embolectomy in a pregnant woman: case report and literature review. Tex Heart Inst J 41(2):188, 2014 Said JM, Ignjatovic V, Monagle PT, et al: Altered reference ranges for protein C and protein S during early pregnancy: implications for the diagnosis of protein C and protein S deficiency during pregnancy. Thromb Haemost 103:984, 2010 Scheres LJJ, Lijfering WM, Groenwegan NF, et al: Hypertensive complications of pregnancy and risk of venous thromboembolism. Hypertension 75(3):781, 2020 Sibai BM, Rouse DJ: Pharmacologic thromboprophylaxis in obstetrics: broader use demands better data. Obstet Gynecol 128(4):681, 2016 Silver RM, Saade GR, Thorsten V, et al: Factor V Leiden, prothrombin G20210A, and methylene tetrahydrofolate reductase mutations and stillbirth: the Stillbirth Collaborative Research Network. Am J Obstet Gynecol 215(4):468.e1, 2016 Silver RM, Zhao Y, Spong CY, et al: Prothrombin gene G20210A mutation and obstetric complications. Obstet Gynecol 115:14, 2010 Singhal S, Henderson R, Horsfield K, et al: Morphometry of the human pulmonary arterial tree. Circ Res 33:190, 1973 Smith MP, Norris LA, Steer PJ, et al: Tinzaparin sodium for thrombosis treatment and prevention during pregnancy. Am J Obstet Gynecol 190:495, 2004 Society for Maternal-Fetal Medicine (SMFM); Pacheco LD, Saade G, et al: Thromboembolism prophylaxis for cesarean delivery. Consult Series #5. August, 2020 Sousa-Gomes M, Guimarães M, Montenegro N: Thrombolysis in pregnancy: a literature review. J Matern Fetal Neonatal Med 32(14):2418, 2019 Tapson VF: Acute pulmonary embolism. N Engl J Med 358:1037, 2008 Tengborn L, Bergqvist D, Matzsch T, et al: Recurrent thromboembolism in pregnancy and puerperium: is there a need for thromboprophylaxis? Am J Obstet Gynecol 160:90, 1989 Tromeur C, van der Pol LM, Klok FA, et al: Pitfalls in the diagnostic management of pulmonary embolism in pregnancy. Thromb Res 151 Suppl 1:S86, 2017
+
+Van der Hulle T, Cheung W, Kooij S, et al: Simplified diagnostic management of suspected pulmonary embolism (the YEARS study): a prospective, multicentre, cohort study. Lancet 390(10091):289, 2017 Van der Pol LM, Tromeur C, Bistervels IM, et al: Pregnancy-adapted YEARS algorithm for diagnosis of suspected pulmonary embolism. N Engl J Med 380(12):1139, 2019 van Mens TE, Scheres LJ, de Jong PG, et al: Imaging for the exclusion of pulmonary embolism in pregnancy. Cochrane Database Syst Rev 1:CD011053, 2017 Viau-Lapointe J, Pier-Arsenault M: New evidence in diagnosis of pulmonary embolism during pregnancy. Obstet Med 13(3):120, 2020 Virchow R: Gesammelte Abhandlungen zur wissenschaftlichen Medizin. Frankfurt: Medinger Sohn & Co., 1856, p 219 Waksmonski CA: Cardiac imaging and functional assessment I pregnancy. Semin Perinatol 38(5):240,
+
+## 2014
+
+Waldman M, Sheiner E, Vardi IS: Can we profile patients at risk for thrombo-embolic events after delivery: a decade of follow up. Am J Obstet Gynecol 208:S234, 2013

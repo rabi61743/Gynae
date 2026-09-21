@@ -1,1016 +1,175 @@
-CHAPTER 18
+# Chapter 18: Fetal Disorders
 
-Fetal Disorders
+- Fetal Anemia
+- Red Cell Alloimmunization
+- Fetomaternal Hemorrhage
+- Fetal Thrombocytopenia
+- Hydrops Fetalis
+- Mirror Syndrome
+- References
 
-FETAL ANEMIA
-RED CELL ALLOIMMUNIZATION
-FETOMATERNAL HEMORRHAGE
-FETAL THROMBOCYTOPENIA
-HYDROPS FETALIS
-MIRROR SYNDROME
-REFERENCES
-Fetal disorders may be acquired—such as alloimmunization; may be genetic
-—congenital adrenal hyperplasia; or may be sporadic—like many structural
-malformations. This chapter reviews fetal anemia and thrombocytopenia and
-immune and nonimmune fetal hydrops. Hydrops is perhaps the quintessential
-fetal disorder, as it can be a manifestation of severe illness from a wide
-variety of etiologies. Fetal structural malformations are reviewed in Chapter
-15, genetic abnormalities in Chapters 16 and 17, and conditions amenable to
-medical or surgical fetal therapy in Chapter 19. Because congenital
-infections arise as a result of maternal infection or colonization, they are
-discussed in Chapters 67 and 68.
+Fetal disorders may be acquired—such as alloimmunization; may be genetic —congenital adrenal hyperplasia; or may be sporadic—like many structural malformations. This chapter reviews fetal anemia and thrombocytopenia and immune and nonimmune fetal hydrops. Hydrops is perhaps the quintessential fetal disorder, as it can be a manifestation of severe illness from a wide variety of etiologies. Fetal structural malformations are reviewed in Chapter 15, genetic abnormalities in Chapters 16 and 17, and conditions amenable to medical or surgical fetal therapy in Chapter 19. Because congenital infections arise as a result of maternal infection or colonization, they are discussed in Chapters 67 and 68.
 
-FETAL ANEMIA
+## Fetal Anemia
 
-Anemia may result from alloimmunization, infection, genetic disorders, or
-fetomaternal hemorrhage. Red cell alloimmunization results from
-transplacental passage of maternal antibodies that destroy fetal red cells.
-Alloimmunization leads to overproduction of immature fetal and neonatal red
-cells—erythroblastosis fetalis—a condition now referred to as hemolytic
-disease of the fetus and newborn (HDFN). Congenital infections are also
-associated with fetal anemia, particularly parvovirus B19, discussed in
-Chapter 67 (p. 1191). In Southeast Asian populations, α0-thalassemia is a
-common cause of severe anemia and nonimmune hydrops. Rare genetic
-causes of anemia include red cell production disorders—such as DiamondBlackfan anemia and Fanconi anemia; red cell enzymopathies—glucose-6phosphate dehydrogenase deficiency and pyruvate kinase deficiency; red cell
-structural abnormalities—hereditary spherocytosis and elliptocytosis;
-lysosomal storage diseases—Gaucher disease, Niemann-Pick, and
-mucopolysaccharidosis VII; and myeloproliferative disorders—leukemias.
-Fetomaternal hemorrhage is discussed on page 357. Fetal anemia is typically
-identified through Doppler evaluation of the fetal middle cerebral artery
-(MCA) peak systolic velocity (p. 355).
-Progressive fetal anemia from any cause leads to heart failure, hydrops
-fetalis, and ultimately death. Treatment with intrauterine transfusions can be
-lifesaving. Severely anemic fetuses transfused in utero have survival rates
-exceeding 90 percent, and even in cases of hydrops fetalis, survival rates
-approach 80 percent (Lindenberg, 2013; Mizuuchi, 2021; Zwiers, 2017).
+Anemia may result from alloimmunization, infection, genetic disorders, or fetomaternal hemorrhage. Red cell alloimmunization results from transplacental passage of maternal antibodies that destroy fetal red cells. Alloimmunization leads to overproduction of immature fetal and neonatal red cells—erythroblastosis fetalis—a condition now referred to as hemolytic disease of the fetus and newborn (HDFN). Congenital infections are also associated with fetal anemia, particularly parvovirus B19, discussed in Chapter 67 (p. 1191). In Southeast Asian populations, α0-thalassemia is a common cause of severe anemia and nonimmune hydrops. Rare genetic causes of anemia include red cell production disorders—such as DiamondBlackfan anemia and Fanconi anemia; red cell enzymopathies—glucose-6phosphate dehydrogenase deficiency and pyruvate kinase deficiency; red cell structural abnormalities—hereditary spherocytosis and elliptocytosis; lysosomal storage diseases—Gaucher disease, Niemann-Pick, and mucopolysaccharidosis VII; and myeloproliferative disorders—leukemias. Fetomaternal hemorrhage is discussed on page 357. Fetal anemia is typically identified through Doppler evaluation of the fetal middle cerebral artery (MCA) peak systolic velocity (p. 355). Progressive fetal anemia from any cause leads to heart failure, hydrops fetalis, and ultimately death. Treatment with intrauterine transfusions can be lifesaving. Severely anemic fetuses transfused in utero have survival rates exceeding 90 percent, and even in cases of hydrops fetalis, survival rates approach 80 percent (Lindenberg, 2013; Mizuuchi, 2021; Zwiers, 2017).
 
-■ Red Cell Alloimmunization
-Currently, 36 different blood group systems and 360 erythrocyte antigens are
-recognized by the International Society of Blood Transfusion (Storry, 2019).
-Blood banks routinely screen for erythrocyte antigens. Some are
-immunologically and genetically important, but many are rare and of little
-clinical significance. An individual who lacks a specific erythrocyte antigen
-may produce antibodies against it when exposed to that antigen. Such
-antibodies can prove harmful if an individual receives an incompatible blood
-transfusion. During pregnancy, these antibodies may cross the placenta and
-lyse fetal red cells that contain the associated antigens, resulting in anemia.
-The fetus typically inherits at least one erythrocyte antigen from the father
-that is lacking in the mother. The pregnant woman may become sensitized if
+### Red Cell Alloimmunization
 
-enough fetal red cells reach her circulation to elicit an immune response.
-Importantly, alloimmunization is uncommon for the following reasons: (1)
-low prevalence of incompatible erythrocyte antigens; (2) insufficient
-transplacental passage of fetal antigens and maternal antibodies; (3)
-maternal-fetal ABO incompatibility, which leads to rapid clearance of fetal
-erythrocytes before they elicit an immune response; (4) variable antigenicity;
-and (5) variable maternal immune response to the antigen.
-The prevalence of red cell alloimmunization in pregnancy approximates
-1 percent (Bollason, 2017; Koelewijn, 2008). Most cases of severe fetal
-anemia requiring antenatal transfusion are attributable to anti-D, anti-Kell,
-anti-c, or anti-E alloimmunization (de Haas, 2015).
-Maternal blood type and antibody screen are routinely assessed at the
-first prenatal visit. Unbound antibodies in maternal serum are detected with
-an indirect Coombs test (Chap. 10, p. 178). If the result is positive, the
-specific antibodies are identified; their immunoglobulin subtype is
-determined as either immunoglobulin G (IgG) or M (IgM); and the titer is
-quantified. Only IgG antibodies are concerning, because IgM antibodies do
-not cross the placenta. Selected antibodies and their potential to cause fetal
-hemolytic anemia are listed in Table 18-1. The critical titer is the level at
-which significant fetal anemia may develop. It may vary according to
-antibody and laboratory but is usually between 1:8 and 1:32. If the
-laboratory’s critical titer threshold for anti-D antibodies is 1:16, a titer
-≥1:16 indicates the possibility of severe hemolytic disease. An important
-exception is Kell sensitization, which is discussed on page 354.
-TABLE 18-1. Selected Red Cell Antigens and Their Relationship to Fetal
-Hemolytic Disease
+Currently, 36 different blood group systems and 360 erythrocyte antigens are recognized by the International Society of Blood Transfusion (Storry, 2019). Blood banks routinely screen for erythrocyte antigens. Some are immunologically and genetically important, but many are rare and of little clinical significance. An individual who lacks a specific erythrocyte antigen may produce antibodies against it when exposed to that antigen. Such antibodies can prove harmful if an individual receives an incompatible blood transfusion. During pregnancy, these antibodies may cross the placenta and lyse fetal red cells that contain the associated antigens, resulting in anemia. The fetus typically inherits at least one erythrocyte antigen from the father that is lacking in the mother. The pregnant woman may become sensitized if
 
-CDE (Rh) Blood Group Incompatibility
-The CDE system includes five erythrocyte antigens: C, c, D, E, and e. There
-is no “d” antigen, and D-negativity is defined as the absence of the D antigen.
-Although most people are D positive or negative, more than 200 D antigen
-variants exist (Daniels, 2013). The CDE group was formerly termed Rh or
-rhesus, due to a misconception that red cells from rhesus monkeys expressed
-these human antigens. In transfusion medicine, “rhesus” is no longer used
-(Sandler, 2017).
-CDE antigens are clinically important. D-negative individuals may
-become sensitized after a single exposure to as little as 0.1 mL of fetal
+enough fetal red cells reach her circulation to elicit an immune response. Importantly, alloimmunization is uncommon for the following reasons: (1) low prevalence of incompatible erythrocyte antigens; (2) insufficient transplacental passage of fetal antigens and maternal antibodies; (3) maternal-fetal ABO incompatibility, which leads to rapid clearance of fetal erythrocytes before they elicit an immune response; (4) variable antigenicity; and (5) variable maternal immune response to the antigen. The prevalence of red cell alloimmunization in pregnancy approximates 1 percent (Bollason, 2017; Koelewijn, 2008). Most cases of severe fetal anemia requiring antenatal transfusion are attributable to anti-D, anti-Kell, anti-c, or anti-E alloimmunization (de Haas, 2015). Maternal blood type and antibody screen are routinely assessed at the first prenatal visit. Unbound antibodies in maternal serum are detected with an indirect Coombs test (Chap. 10, p. 178). If the result is positive, the specific antibodies are identified; their immunoglobulin subtype is determined as either immunoglobulin G (IgG) or M (IgM); and the titer is quantified. Only IgG antibodies are concerning, because IgM antibodies do not cross the placenta. Selected antibodies and their potential to cause fetal hemolytic anemia are listed in Table 18-1. The critical titer is the level at which significant fetal anemia may develop. It may vary according to antibody and laboratory but is usually between 1:8 and 1:32. If the laboratory’s critical titer threshold for anti-D antibodies is 1:16, a titer ≥1:16 indicates the possibility of severe hemolytic disease. An important exception is Kell sensitization, which is discussed on page 354.
 
-erythrocytes (Bowman, 1988). The two responsible genes—RHD and RHCE
-—are located on the short arm of chromosome 1 and are inherited together,
-independent of other blood group genes. Antigen positivity varies according
-to race and ethnicity. Nearly 85 percent of non-Hispanic white Americans
-are D-positive, as are approximately 90 percent of Native Americans, 93
-percent of African Americans and Hispanic Americans, and 99 percent of
-Asian Americans (Garratty, 2004).
-The prevalence of D alloimmunization complicating pregnancy ranges
-from 0.5 to 0.9 percent (Koelewijn, 2008; Martin, 2005). Without anti-D
-immune globulin prophylaxis, a D-negative woman delivered of a Dpositive, ABO-compatible newborn has a 16-percent likelihood of
-developing alloimmunization. Two percent will become sensitized by the
-time of delivery, 7 percent by 6 months postpartum, and the remaining 7
-percent will be “sensibilized”—producing detectable antibodies only in a
-subsequent pregnancy (Bowman, 1985). If there is ABO incompatibility, the
-D alloimmunization risk decreases to 2 percent because erythrocyte
-destruction of incompatible cells limits sensitization (Bowman, 2006). D
-sensitization may also occur following first-trimester pregnancy
-complications, prenatal diagnostic procedures, and maternal trauma (Table
-18-2).
-TABLE 18-2. Causes of Fetomaternal Hemorrhage Associated with Red
-Cell Antigen Alloimmunizationa
+> **Table 18-1:** Selected Red Cell Antigens and Their Relationship to Fetal Hemolytic Disease
 
-The C, c, E, and e antigens have lower immunogenicity than the D antigen
-but can cause hemolytic disease. Sensitization to E, c, and C antigens
-complicates approximately 0.3 percent of pregnancies in screening studies
-and accounts for about 30 percent of red cell alloimmunization cases
-(Howard, 1998; Koelewijn, 2008). Anti-E alloimmunization is the most
-common, but the need for fetal or neonatal transfusions is greater with anti-c
-alloimmunization than with anti-E or anti-C (de Haas, 2015; Hackney, 2004;
-Koelewijn, 2008).
-The Grandmother Effect. In virtually all pregnancies, small amounts of
-maternal blood enter the fetal circulation. Polymerase chain reaction (PCR)
-has identified maternal D-positive DNA in peripheral blood from preterm
-and full-term D-negative newborns (Lazar, 2006). Thus, a D-negative female
+CDE (Rh) Blood Group Incompatibility The CDE system includes five erythrocyte antigens: C, c, D, E, and e. There is no “d” antigen, and D-negativity is defined as the absence of the D antigen. Although most people are D positive or negative, more than 200 D antigen variants exist (Daniels, 2013). The CDE group was formerly termed Rh or rhesus, due to a misconception that red cells from rhesus monkeys expressed these human antigens. In transfusion medicine, “rhesus” is no longer used (Sandler, 2017).
 
-fetus exposed to maternal D-positive red cells might develop sensitization,
-and later might produce anti-D antibodies before or during pregnancy. This
-mechanism is called the grandmother effect because the fetus in the current
-pregnancy is jeopardized by maternal antibodies that were initially provoked
-by his or her grandmother’s erythrocytes.
+**CDE antigens are clinically important.** D-negative individuals may become sensitized after a single exposure to as little as 0.1 mL of fetal
 
-Alloimmunization to Minor Antigens
-Because routine administration of anti-D immune globulin prevents anti-D
-alloimmunization, proportionately more cases of hemolytic disease are
-caused by red cell antigens other than D (American College of Obstetricians
-and Gynecologists, 2019a; Koelewijn, 2008). These are also known as minor
-antigens. Kell antigens are among the most frequent. Other antigens with
-potential to cause severe alloimmunization include Duffy group A—Fya,
-MNS, and Kidd—Jka (de Hass, 2015; Moise, 2008). In most cases,
-sensitization to a minor antigen results from an incompatible blood
-transfusion. However, if an IgG red cell antibody is detected and there is any
-doubt as to its significance, the pregnancy should be evaluated for hemolytic
-disease.
-Only a few blood group antigens pose no fetal risk. Lewis antibodies—
-Lea and Leb—are cold agglutinins, as are I antibodies. They are
-predominantly IgM and are not expressed on fetal red cells (American
-College of Obstetricians and Gynecologists, 2019a). Another antibody that
-does not cause fetal hemolysis is Duffy group B—Fyb.
-Kell Alloimmunization. Approximately 90 percent of non-Hispanic white
-Americans and up to 98 percent of African Americans are Kell antigen
-negative. Kell type is not routinely determined. Transfusion history is
-important, as nearly 90 percent of Kell sensitization cases result from
-transfusion with Kell-positive blood.
-Kell sensitization may develop more rapidly and may be more severe
-than with sensitization to D and other blood group antigens. This is because
-Kell antibodies attach to erythrocyte precursors in the fetal bone marrow and
-thereby impair the normal hemopoietic response to anemia. With fewer
-erythrocytes produced, there is less hemolysis, and thus severe anemia may
-not be predicted by the maternal Kell antibody titer.
+erythrocytes (Bowman, 1988). The two responsible genes—RHD and RHCE —are located on the short arm of chromosome 1 and are inherited together, independent of other blood group genes. Antigen positivity varies according to race and ethnicity. Nearly 85 percent of non-Hispanic white Americans are D-positive, as are approximately 90 percent of Native Americans, 93 percent of African Americans and Hispanic Americans, and 99 percent of Asian Americans (Garratty, 2004). The prevalence of D alloimmunization complicating pregnancy ranges from 0.5 to 0.9 percent (Koelewijn, 2008; Martin, 2005). Without anti-D immune globulin prophylaxis, a D-negative woman delivered of a Dpositive, ABO-compatible newborn has a 16-percent likelihood of developing alloimmunization. Two percent will become sensitized by the time of delivery, 7 percent by 6 months postpartum, and the remaining 7 percent will be “sensibilized”—producing detectable antibodies only in a subsequent pregnancy (Bowman, 1985). If there is ABO incompatibility, the D alloimmunization risk decreases to 2 percent because erythrocyte destruction of incompatible cells limits sensitization (Bowman, 2006). D sensitization may also occur following first-trimester pregnancy complications, prenatal diagnostic procedures, and maternal trauma (Table 18-2).
 
-Slootweg and colleagues (2018) reviewed 93 pregnancies with Kell
-alloimmunization in which the fetus was confirmed to be Kell-positive. They
-found that a titer of 1:4 had 100 percent sensitivity, 27 percent specificity,
-and 60 percent positive predictive value for transfusion requirement in the
-fetal or neonatal period. More than 50 percent of Kell antigen–positive
-fetuses ultimately needed transfusions. Given the potential for severe anemia,
-the American College of Obstetricians and Gynecologists (2019a) has
-recommended that antibody titers not be used to monitor Kell-sensitized
-pregnancies.
+> **Table 18-2:** Causes of Fetomaternal Hemorrhage Associated with Red Cell Antigen Alloimmunizationa
 
-ABO Blood Group Incompatibility
-Incompatibility for the major blood group antigens A and B is the most
-common cause of hemolytic disease in newborns, but it does not cause
-appreciable hemolysis in the fetus. This is because most anti-A and anti-B
-antibodies are IgM types and do not cross the placenta. Also, fetal red cells
-have fewer A and B antigenic sites than adult cells and are thus less
-immunogenic. Approximately 20 percent of newborns have ABO blood
-group incompatibility, although only 5 percent are affected clinically. In such
-cases, the resulting anemia is typically mild.
-The condition differs from CDE incompatibility in several respects.
-First, ABO incompatibility is often seen in firstborn neonates, unlike
-sensitization to other blood group antigens. This is because most group O
-women have developed anti-A and anti-B isoagglutinins before pregnancy
-from exposure to bacteria displaying similar antigens. Additionally, ABO
-alloimmunization rarely becomes more severe in successive pregnancies.
-Fetal surveillance and early delivery are not indicated in pregnancies with
-prior ABO incompatibility. Postnatally however, neonates are evaluated for
-hyperbilirubinemia, which may require treatment with phototherapy or
-occasionally transfusion (Chap. 33, p. 606).
+The C, c, E, and e antigens have lower immunogenicity than the D antigen but can cause hemolytic disease. Sensitization to E, c, and C antigens complicates approximately 0.3 percent of pregnancies in screening studies and accounts for about 30 percent of red cell alloimmunization cases (Howard, 1998; Koelewijn, 2008). Anti-E alloimmunization is the most common, but the need for fetal or neonatal transfusions is greater with anti-c alloimmunization than with anti-E or anti-C (de Haas, 2015; Hackney, 2004; Koelewijn, 2008). The Grandmother Effect. In virtually all pregnancies, small amounts of maternal blood enter the fetal circulation. Polymerase chain reaction (PCR) has identified maternal D-positive DNA in peripheral blood from preterm and full-term D-negative newborns (Lazar, 2006). Thus, a D-negative female
 
-■ Management of the Alloimmunized Pregnancy
-Of fetuses from D-alloimmunized pregnancies, 25 to 30 percent will have
-mild to moderate hemolytic anemia, and up to 25 percent have anemia severe
-enough to cause hydrops (Tannirandorn, 1990). If alloimmunization is
-detected and the titer is below the critical value, the titer is generally
-repeated every 4 weeks for the duration of the pregnancy (American College
+fetus exposed to maternal D-positive red cells might develop sensitization, and later might produce anti-D antibodies before or during pregnancy. This mechanism is called the grandmother effect because the fetus in the current pregnancy is jeopardized by maternal antibodies that were initially provoked by his or her grandmother’s erythrocytes.
 
-of Obstetricians and Gynecologists, 2019a). In any pregnancy in which the
-antibody titer has reached a critical value, there is no benefit to repeating the
-titer. The pregnancy is at risk even if the titer drops, and further evaluation is
-required. Similarly, if a prior pregnancy was complicated by
-alloimmunization, the pregnancy is considered at risk regardless of titer.
+Alloimmunization to Minor Antigens Because routine administration of anti-D immune globulin prevents anti-D alloimmunization, proportionately more cases of hemolytic disease are caused by red cell antigens other than D (American College of Obstetricians and Gynecologists, 2019a; Koelewijn, 2008). These are also known as minor antigens. Kell antigens are among the most frequent. Other antigens with potential to cause severe alloimmunization include Duffy group A—Fya, MNS, and Kidd—Jka (de Hass, 2015; Moise, 2008). In most cases, sensitization to a minor antigen results from an incompatible blood transfusion. However, if an IgG red cell antibody is detected and there is any doubt as to its significance, the pregnancy should be evaluated for hemolytic disease. Only a few blood group antigens pose no fetal risk. Lewis antibodies— Lea and Leb—are cold agglutinins, as are I antibodies. They are predominantly IgM and are not expressed on fetal red cells (American College of Obstetricians and Gynecologists, 2019a). Another antibody that does not cause fetal hemolysis is Duffy group B—Fyb.
 
-Fetal Risk Assessment
-The presence of anti-D antibodies reflects maternal sensitization but does not
-indicate whether the fetus is D-positive or D-negative. Up to 40 percent of
-D-negative pregnant women carry a D-negative fetus. If a woman is
-sensitized from a prior pregnancy, her antibody titer may rise during the
-current pregnancy even if the current fetus is D-negative because of an
-amnestic response. In a non-Hispanic white couple in which the woman is
-D-negative, there is an 85-percent chance that the man is D-positive.
-However, there is a 60-percent likelihood that he is heterozygous at the Dlocus, and only half of his children will be at risk for hemolytic disease.
-Initial evaluation of alloimmunization begins with determining the
-paternal erythrocyte antigen status. Provided that paternity is certain, if the
-father is negative for the red cell antigen to which the mother is sensitized,
-the pregnancy is not at risk. A prior blood transfusion may be the cause of
-alloimmunization to a red cell antigen other than D. In a D-alloimmunized
-pregnancy in which the father is D-positive, it is helpful to determine
-paternal zygosity for the D antigen using DNA-based analysis. If the father is
-heterozygous—or if paternity is not known—the woman should be offered
-assessment of fetal genotype. Traditionally, this was done with amniocentesis
-and PCR testing of uncultured amniocytes, which has a positive predictive
-value of 100 percent and negative predictive value of approximately 97
-percent (Van den Veyver, 1996). Fetal testing for other antigens—such as E/e,
-C/c, Duffy, Kell, Kidd, and M/N—also is available with this method.
-Chorionic villus sampling is not recommended because of greater risk for
-fetomaternal hemorrhage and subsequent worsening of alloimmunization
-(American College of Obstetricians and Gynecologists, 2019a).
-Noninvasive fetal D genotyping has been performed using cell-free DNA
-(cfDNA) from maternal plasma (Chap. 17, p. 335). The reported sensitivity
-exceeds 99 percent, the specificity exceeds 95 percent, and positive or
-negative predictive values are similarly very high (Johnson, 2017; Moise,
-2016; Pazourkova, 2021). Fetal D genotyping with cfDNA is routinely used
+**Kell Alloimmunization.** Approximately 90 percent of non-Hispanic white Americans and up to 98 percent of African Americans are Kell antigen negative. Kell type is not routinely determined. Transfusion history is important, as nearly 90 percent of Kell sensitization cases result from transfusion with Kell-positive blood. Kell sensitization may develop more rapidly and may be more severe than with sensitization to D and other blood group antigens. This is because Kell antibodies attach to erythrocyte precursors in the fetal bone marrow and thereby impair the normal hemopoietic response to anemia. With fewer erythrocytes produced, there is less hemolysis, and thus severe anemia may not be predicted by the maternal Kell antibody titer.
 
-in parts of Europe but is not yet a widely used clinical tool in the United
-States (American College of Obstetricians and Gynecologists, 2019a). Two
-potential indications for cfDNA use in D-negative pregnant women are: (1)
-in the setting of D alloimmunization, testing can identify fetuses who are also
-D-negative and do not require anemia surveillance, and (2) in women
-without D alloimmunization, anti-D immune globulin might be withheld if the
-fetus is D negative. In the case of the latter, the American College of
-Obstetricians and Gynecologists (2019b) does not recommend routine
-cfDNA screening in D-negative pregnancies until it has been demonstrated to
-be cost-effective.
-Management of the alloimmunized pregnancy typically consists of
-maternal antibody titer surveillance followed by ultrasound monitoring of the
-fetal MCA peak systolic velocity if a critical antibody titer is reached. As
-noted earlier (p. 354), pregnancies with Kell alloimmunization often receive
-ultrasound surveillance regardless of titer. Fetal blood sampling is generally
-performed if the MCA peak systolic velocity exceeds the threshold for
-severe anemia, with plan for concurrent intrauterine transfusion as needed.
-Spectrophotometric analysis of amnionic fluid bilirubin, also known as the
-ΔOD450 test, is no longer recommended (Society for Maternal-Fetal
-Medicine, 2015a).
-Recent efforts have focused on use of maternal intravenous
-immunoglobulin (IVIG) therapy to postpone the initial intrauterine transfusion
-to beyond 20 weeks in severely affected pregnancies (Maisonneuve, 2021).
-Its mechanism of action is unclear, but IVIG therapy has been reported to
-delay need for transfusion by an average of 3 weeks and to lower the risk for
-hydrops (Zwiers, 2018).
-Middle Cerebral Artery Doppler Velocimetry. Serial measurement of the
-peak systolic velocity of the fetal MCA is the recommended test to detect
-fetal anemia (Society for Maternal–Fetal Medicine, 2015a). The anemic fetus
-shunts blood preferentially to the brain to maintain adequate oxygenation.
-The velocity rises because of increased cardiac output and decreased blood
-viscosity. Measurement technique is discussed in Chapter 14 (p. 262).
-In a landmark study, Mari and coworkers (2000) measured the MCA
-peak systolic velocity serially in 111 fetuses at risk for anemia and in 265
-normal control fetuses. The threshold value of 1.5 multiples of the median
-(MoM) for gestational age correctly identified all fetuses with moderate or
+Slootweg and colleagues (2018) reviewed 93 pregnancies with Kell alloimmunization in which the fetus was confirmed to be Kell-positive. They found that a titer of 1:4 had 100 percent sensitivity, 27 percent specificity, and 60 percent positive predictive value for transfusion requirement in the fetal or neonatal period. More than 50 percent of Kell antigen–positive fetuses ultimately needed transfusions. Given the potential for severe anemia, the American College of Obstetricians and Gynecologists (2019a) has recommended that antibody titers not be used to monitor Kell-sensitized pregnancies.
 
-severe anemia. This provided a sensitivity of 100 percent, with a falsepositive rate of 12 percent.
-MCA peak systolic velocity is followed serially, and values are plotted
-on a curve like the one shown in Figure 18-1. If the velocity is between 1.0
-and 1.5 MoM and the slope is rising—such that the value is approaching 1.5
-MoM—MCA Doppler surveillance is generally performed at least weekly.
-The false-positive rate of MCA peak systolic velocity increases significantly
-beyond 34 weeks’ gestation and stems from the normal rise in cardiac output
-that develops at this gestational age (Moise, 2008; Zimmerman, 2002). At
-Parkland Hospital, MCA peak systolic velocity is not measured beyond 35
-weeks, but ultrasound evaluation for hydrops is performed as needed.
+ABO Blood Group Incompatibility Incompatibility for the major blood group antigens A and B is the most common cause of hemolytic disease in newborns, but it does not cause appreciable hemolysis in the fetus. This is because most anti-A and anti-B antibodies are IgM types and do not cross the placenta. Also, fetal red cells have fewer A and B antigenic sites than adult cells and are thus less immunogenic. Approximately 20 percent of newborns have ABO blood group incompatibility, although only 5 percent are affected clinically. In such cases, the resulting anemia is typically mild. The condition differs from CDE incompatibility in several respects. First, ABO incompatibility is often seen in firstborn neonates, unlike sensitization to other blood group antigens. This is because most group O women have developed anti-A and anti-B isoagglutinins before pregnancy from exposure to bacteria displaying similar antigens. Additionally, ABO alloimmunization rarely becomes more severe in successive pregnancies. Fetal surveillance and early delivery are not indicated in pregnancies with prior ABO incompatibility. Postnatally however, neonates are evaluated for hyperbilirubinemia, which may require treatment with phototherapy or occasionally transfusion (Chap. 33, p. 606).
 
-FIGURE 18-1 Doppler measurements of the peak systolic velocity in the middle cerebral artery
-(MCA) in 165 fetuses at risk for severe anemia. The blue line indicates the median peak systolic
-velocity in normal pregnancies, and the red line shows 1.5 multiples of the median. (Reproduced with
-permission from Oepkes D, Seaward PG, Vandenbussche et al: Doppler ultrasonography versus
-amniocentesis to predict fetal anemia, N Engl J Med. 2006 Jul 13;355(2):156–164.)
+### Management of the Alloimmunized Pregnancy
 
-Fetal Blood Transfusion
-If the MCA peak systolic velocity exceeds 1.5 MoM or if hydrops develops
-and anemia is the leading etiology, fetal blood sampling and intrauterine
-transfusion should be considered. Fetal transfusion is typically performed
-prior to 34 to 35 weeks’ gestation (Society for Maternal-Fetal Medicine,
-2015a). Later in gestation, the benefits of transfusion may be outweighed by
+Of fetuses from D-alloimmunized pregnancies, 25 to 30 percent will have mild to moderate hemolytic anemia, and up to 25 percent have anemia severe enough to cause hydrops (Tannirandorn, 1990). If alloimmunization is detected and the titer is below the critical value, the titer is generally repeated every 4 weeks for the duration of the pregnancy (American College
 
-the risks of delaying delivery. Transfusion is most commonly intravascular.
-However, the umbilical vein may be too narrow in the early second trimester
-to readily permit needle entry, and severe hemolysis may necessitate
-intraperitoneal fetal transfusion. In the setting of hydrops, peritoneal
-absorption may be impaired, and some prefer to transfuse into both the fetal
-peritoneal cavity and umbilical vein.
-Transfusion is generally recommended only if the fetal hematocrit is <30
-percent (Society for Maternal-Fetal Medicine, 2015a). If hydrops has
-developed, the hematocrit is usually 15 percent or lower. The red cells
-transfused are type O, D-negative, cytomegalovirus-negative, packed to a
-hematocrit of approximately 80 percent to prevent volume overload,
-irradiated to prevent fetal graft-versus-host reaction, and leukocyte-poor. The
-fetal–placental volume allows rapid infusion of a relatively large quantity of
-blood. Before transfusion, a paralytic agent such as vecuronium may be given
-to the fetus to minimize movement. In a nonhydropic fetus, the target
-hematocrit is 40 to 50 percent. The volume transfused may be estimated by
-multiplying the estimated fetal weight in grams by 0.02 for each 10-percent
-rise in hematocrit needed (Giannina, 1998). In the severely anemic fetus at
-18 to 24 weeks’ gestation, a smaller volume is transfused initially, and
-another transfusion may be planned for approximately 2 days later.
-Subsequent transfusions take place every 2 to 4 weeks, depending on the
-hematocrit.
-The MCA peak systolic velocity threshold for severe anemia is higher
-following an initial transfusion—1.70 MoM rather than 1.50 MoM (Society
-for Maternal-Fetal Medicine, 2015a). It is hypothesized that the change in
-threshold compensates for the contribution of donor cells in the initial
-transfusion, because the donor cells are from adults and have a smaller mean
-corpuscular volume. Following transfusion, the fetal hematocrit drops by
-approximately 1 percent per day. The initial decline may be more rapid if
-hydrops has developed.
-Outcomes. The overall survival rate approximates 95 percent (Zwiers, 2017;
-Mizuuchi, 2021). Complications include fetal death in 2 percent, need for
-emergent cesarean delivery in 1 percent, and infection and preterm rupture of
-membranes in 0.3 percent each, respectively. The stillbirth rate exceeds 15
-percent if transfusion is required before 20 weeks (Lindenberg, 2013;
-Zwiers, 2017). For hydropic fetuses, the neonatal survival rate is about 80
+of Obstetricians and Gynecologists, 2019a). In any pregnancy in which the antibody titer has reached a critical value, there is no benefit to repeating the titer. The pregnancy is at risk even if the titer drops, and further evaluation is required. Similarly, if a prior pregnancy was complicated by alloimmunization, the pregnancy is considered at risk regardless of titer.
 
-percent (Emiroglu, 2020; Van Kamp, 2001). In one series, 95 percent of
-neonates survived if hydrops resolved following intrauterine transfusion
-compared with fewer than 40 percent if hydrops persisted (Van Kamp,
-2001).
-Lindenberg (2012) reviewed long-term outcomes following intrauterine
-transfusion in a cohort of more than 450 alloimmunized pregnancies.
-Alloimmunization was secondary to anti-D in 80 percent, anti-Kell in 12
-percent, and anti-c in 5 percent. Approximately a fourth of affected fetuses
-had hydrops, and more than half also required exchange transfusion in the
-neonatal period. Among nearly 300 children aged 2 to 17 years who
-participated in neurodevelopmental testing, fewer than 5 percent had severe
-impairments.
+Fetal Risk Assessment The presence of anti-D antibodies reflects maternal sensitization but does not indicate whether the fetus is D-positive or D-negative. Up to 40 percent of D-negative pregnant women carry a D-negative fetus. If a woman is sensitized from a prior pregnancy, her antibody titer may rise during the current pregnancy even if the current fetus is D-negative because of an amnestic response. In a non-Hispanic white couple in which the woman is D-negative, there is an 85-percent chance that the man is D-positive. However, there is a 60-percent likelihood that he is heterozygous at the Dlocus, and only half of his children will be at risk for hemolytic disease. Initial evaluation of alloimmunization begins with determining the paternal erythrocyte antigen status. Provided that paternity is certain, if the father is negative for the red cell antigen to which the mother is sensitized, the pregnancy is not at risk. A prior blood transfusion may be the cause of alloimmunization to a red cell antigen other than D. In a D-alloimmunized pregnancy in which the father is D-positive, it is helpful to determine paternal zygosity for the D antigen using DNA-based analysis. If the father is heterozygous—or if paternity is not known—the woman should be offered assessment of fetal genotype. Traditionally, this was done with amniocentesis and PCR testing of uncultured amniocytes, which has a positive predictive value of 100 percent and negative predictive value of approximately 97 percent (Van den Veyver, 1996). Fetal testing for other antigens—such as E/e, C/c, Duffy, Kell, Kidd, and M/N—also is available with this method. Chorionic villus sampling is not recommended because of greater risk for fetomaternal hemorrhage and subsequent worsening of alloimmunization (American College of Obstetricians and Gynecologists, 2019a). Noninvasive fetal D genotyping has been performed using cell-free DNA (cfDNA) from maternal plasma (Chap. 17, p. 335). The reported sensitivity exceeds 99 percent, the specificity exceeds 95 percent, and positive or negative predictive values are similarly very high (Johnson, 2017; Moise, 2016; Pazourkova, 2021). Fetal D genotyping with cfDNA is routinely used
 
-■ Prevention of Anti-D Alloimmunization
-Anti-D immune globulin has been used for more than five decades to prevent
-D alloimmunization. Unfortunately, 50 percent of women around the world
-who would benefit from anti-D immune globulin do not receive it (Pegoraro,
-2020). In countries without access, up to 10 percent of D-negative
-pregnancies are complicated by hemolytic disease of the fetus and newborn
-(Zipursky, 2015). With immunoprophylaxis, however, the alloimmunization
-risk may be reduced to <0.2 percent. Despite long-standing and widespread
-use, its mechanism of action is not completely understood.
-Fetomaternal hemorrhage at delivery accounts for as many as 90 percent
-of alloimmunization cases. Routine postpartum administration of anti-D
-immune globulin to at-risk pregnancies within 72 hours of delivery lowers
-the alloimmunization rate by 90 percent (Bowman, 1985). Additionally,
-provision of anti-D immune globulin at 28 weeks’ gestation reduces the
-third-trimester alloimmunization rate from approximately 2 percent to 0.1
-percent (Bowman, 1988). Whenever there is doubt whether to give anti-D
-immune globulin, it should be given. If not needed, it will not cause harm,
-but failure to provide it when needed may have severe consequences.
-Anti-D immune globulin is derived from human plasma donated by
-individuals with high-titer anti-D immunoglobulin D antibodies.
-Formulations prepared by cold ethanol fractionation and ultrafiltration must
-be administered intramuscularly because they contain plasma proteins that
-could result in anaphylaxis if given intravenously. Formulations prepared
+in parts of Europe but is not yet a widely used clinical tool in the United States (American College of Obstetricians and Gynecologists, 2019a). Two potential indications for cfDNA use in D-negative pregnant women are: (1) in the setting of D alloimmunization, testing can identify fetuses who are also D-negative and do not require anemia surveillance, and (2) in women without D alloimmunization, anti-D immune globulin might be withheld if the fetus is D negative. In the case of the latter, the American College of Obstetricians and Gynecologists (2019b) does not recommend routine cfDNA screening in D-negative pregnancies until it has been demonstrated to be cost-effective. Management of the alloimmunized pregnancy typically consists of maternal antibody titer surveillance followed by ultrasound monitoring of the fetal MCA peak systolic velocity if a critical antibody titer is reached. As noted earlier (p. 354), pregnancies with Kell alloimmunization often receive ultrasound surveillance regardless of titer. Fetal blood sampling is generally performed if the MCA peak systolic velocity exceeds the threshold for severe anemia, with plan for concurrent intrauterine transfusion as needed. Spectrophotometric analysis of amnionic fluid bilirubin, also known as the ΔOD450 test, is no longer recommended (Society for Maternal-Fetal Medicine, 2015a). Recent efforts have focused on use of maternal intravenous immunoglobulin (IVIG) therapy to postpone the initial intrauterine transfusion to beyond 20 weeks in severely affected pregnancies (Maisonneuve, 2021). Its mechanism of action is unclear, but IVIG therapy has been reported to delay need for transfusion by an average of 3 weeks and to lower the risk for hydrops (Zwiers, 2018).
 
-using ion exchange chromatography may be administered either
-intramuscularly or intravenously, which is relevant when treating significant
-fetomaternal hemorrhage. Both preparation methods effectively remove viral
-particles, including hepatitis and human immunodeficiency viruses.
-Depending on the preparation, the half-life of anti-D immune globulin ranges
-from 16 to 24 days, which is why it is given both in the third trimester and
-following delivery. The standard intramuscular dose of anti-D immune
-globulin—300 μg or 1500 IU—will protect the average-sized mother from a
-fetal hemorrhage of up to 30 mL of fetal whole blood or 15 mL of fetal red
-cells.
-In the United States, anti-D immune globulin is given prophylactically to
-all D-negative, unsensitized women at approximately 28 weeks’ gestation,
-and a second dose is given after delivery if the newborn is D-positive
-(American College of Obstetricians and Gynecologists, 2019b). Before the
-28-week dose of anti-D immune globulin, repeat antibody screening is
-recommended to identify individuals who have become alloimmunized
-(American Academy of Pediatrics, 2017). Following delivery, anti-D
-immune globulin should be given within 72 hours. Recognizing that 40
-percent of neonates born to D-negative women are also D negative,
-administration of immune globulin is recommended only after the newborn is
-confirmed to be D positive (American College of Obstetricians and
-Gynecologists, 2019b). If immune globulin is inadvertently not administered
-following delivery, it should be given as soon as the omission is recognized,
-because there may be some protection up to 28 days postpartum (Bowman,
-2006). Anti-D immune globulin is also administered after pregnancy-related
-events that could result in sensitization (see Table 18-2). In the first trimester,
-smaller doses of 50 or 120 µg may be suitable, as discussed in Chapters 11
-and 12 (p. 203 and 221).
-Anti-D immune globulin may produce a weakly positive—1:1 to 1:4—
-indirect Coombs titer in the mother. This is harmless and should not be
-confused with development of alloimmunization. Additionally, as the body
-mass index increases above 27 to 40 kg/m2, serum antibody levels decrease
-by 30 to 60 percent and may be less protective (MacKenzie, 2006; Woelfer,
-2004). D-negative women who receive other types of blood products—
-including platelet transfusions and plasmapheresis—also are at risk of
-becoming sensitized, and this can be prevented with anti-D immune globulin.
-Rarely, a small amount of antibody crosses the placenta and results in a
+**Middle Cerebral Artery Doppler Velocimetry.** Serial measurement of the peak systolic velocity of the fetal MCA is the recommended test to detect fetal anemia (Society for Maternal–Fetal Medicine, 2015a). The anemic fetus shunts blood preferentially to the brain to maintain adequate oxygenation. The velocity rises because of increased cardiac output and decreased blood viscosity. Measurement technique is discussed in Chapter 14 (p. 262). In a landmark study, Mari and coworkers (2000) measured the MCA peak systolic velocity serially in 111 fetuses at risk for anemia and in 265 normal control fetuses. The threshold value of 1.5 multiples of the median (MoM) for gestational age correctly identified all fetuses with moderate or
 
-weakly positive direct Coombs test in cord and infant blood. Despite this,
-passive immunization does not cause significant fetal or neonatal hemolysis.
-In 2 to 3 per 1000 pregnancies, the volume of fetomaternal hemorrhage
-may exceed 30 mL of whole blood (American College of Obstetricians and
-Gynecologists, 2019b). A single dose of anti-D immune globulin would be
-insufficient in such situations. If additional anti-D immune globulin is
-considered only for women with risk factors such as those shown in Table
-18-2, half of those who require additional immune globulin may be missed.
-For this reason, all D-negative women should be screened at delivery,
-typically with a rosette test, followed by quantitative testing if indicated
-(American College of Obstetricians and Gynecologists, 2019b).
-The rosette test is a qualitative test that identifies whether fetal Dpositive cells are present in the circulation of a D-negative woman. A
-sample of maternal blood is mixed with anti-D antibodies that coat any Dpositive fetal cells present in the sample. Indicator red cells bearing the Dantigen are then added, and rosettes form around the fetal cells as the
-indicator cells attach to them by the antibodies. Thus, if rosettes are
-visualized, there are fetal D-positive cells in that sample. In the setting of D
-incompatibility, or any time a large fetomaternal hemorrhage is suspected—
-regardless of antigen status, a Kleihauer-Betke test or flow cytometry test are
-used. These are discussed on page 358.
-The dosage of anti-D immune globulin is calculated from the estimated
-volume of the fetal-to-maternal hemorrhage, as described on page 358. One
-300-μg dose is given for each 15 mL of fetal red cells or 30 mL of fetal
-whole blood to be neutralized. If using an intramuscular preparation of antiD immune globulin, no more than five doses may be given in a 24-hour
-period. If using an intravenous preparation, two ampules—totaling 600 μg—
-may be given every 8 hours. A positive indirect Coombs test or the presence
-of circulating fetal cells on a rosette test demonstrate that the dose was
-sufficient.
+severe anemia. This provided a sensitivity of 100 percent, with a falsepositive rate of 12 percent. MCA peak systolic velocity is followed serially, and values are plotted on a curve like the one shown in Figure 18-1. If the velocity is between 1.0 and 1.5 MoM and the slope is rising—such that the value is approaching 1.5 MoM—MCA Doppler surveillance is generally performed at least weekly. The false-positive rate of MCA peak systolic velocity increases significantly beyond 34 weeks’ gestation and stems from the normal rise in cardiac output that develops at this gestational age (Moise, 2008; Zimmerman, 2002). At Parkland Hospital, MCA peak systolic velocity is not measured beyond 35 weeks, but ultrasound evaluation for hydrops is performed as needed.
 
-Serological Weak D Phenotypes
-Formerly called Du, these are the most common antigenic D variants in the
-United States and Europe (American College of Obstetricians and
-Gynecologists, 2019a). Serological weak D phenotypes have been further
-refined into two general categories using molecular analysis to complete
+> **Figure 18-1:** Doppler measurements of the peak systolic velocity in the middle cerebral artery (MCA) in 165 fetuses at risk for severe anemia. The blue line indicates the median peak systolic velocity in normal pregnancies, and the red line shows 1.5 multiples of the median. (Reproduced with permission from Oepkes D, Seaward PG, Vandenbussche et al: Doppler ultrasonography versus amniocentesis to predict fetal anemia, N Engl J Med. 2006 Jul 13;355(2):156–164.)
 
-RHD genotyping. Molecular weak D phenotypes carry reduced numbers of
-intact D antigens on the red cell surface. Partial D types have protein
-deletions associated with abnormal D antigens that lack epitopes (Sandler,
-2017).
-Many individuals who test positive for weak D have weak D phenotypes
-1, 2, or 3. These phenotypes may be managed as if D-positive. The
-pregnancy is not considered at risk for alloimmunization, and thus anti-D
-immune globulin is not needed (Sandler 2015, 2017). In contrast, individuals
-with partial D antigens may be at risk for D-sensitization and do require
-immune globulin. Molecular RHD genotyping has been suggested for
-pregnant women with weak D phenotype, but cost-benefit analysis of this
-strategy is presently lacking (American College of Obstetricians and
-Gynecologists, 2019b). If molecular genetic testing has not been performed
-in those with serologic weak D phenotype, D immunoprophylaxis should be
-administered.
+Fetal Blood Transfusion If the MCA peak systolic velocity exceeds 1.5 MoM or if hydrops develops and anemia is the leading etiology, fetal blood sampling and intrauterine transfusion should be considered. Fetal transfusion is typically performed prior to 34 to 35 weeks’ gestation (Society for Maternal-Fetal Medicine, 2015a). Later in gestation, the benefits of transfusion may be outweighed by
 
-FETOMATERNAL HEMORRHAGE
-A small amount of fetomaternal bleeding likely occurs in all pregnancies and
-may be sufficient to provoke an antigen-antibody reaction in two thirds. As
-shown in Figure 18-2, the incidence increases with advancing gestation and
-with the volume of fetal blood in the maternal circulation (Choavaratana,
-1997). The prevalence of fetomaternal bleeding of at least 30 mL is
-estimated to be 3 events per 1000 pregnancies (Wylie, 2010). Fortunately,
-frank hemorrhage is rare. In one series of more than 30,000 pregnancies,
-fetomaternal hemorrhage ≥150 mL complicated 1 in 2800 births (de
-Almeida, 1994).
+the risks of delaying delivery. Transfusion is most commonly intravascular. However, the umbilical vein may be too narrow in the early second trimester to readily permit needle entry, and severe hemolysis may necessitate intraperitoneal fetal transfusion. In the setting of hydrops, peritoneal absorption may be impaired, and some prefer to transfuse into both the fetal peritoneal cavity and umbilical vein. Transfusion is generally recommended only if the fetal hematocrit is <30 percent (Society for Maternal-Fetal Medicine, 2015a). If hydrops has developed, the hematocrit is usually 15 percent or lower. The red cells transfused are type O, D-negative, cytomegalovirus-negative, packed to a hematocrit of approximately 80 percent to prevent volume overload, irradiated to prevent fetal graft-versus-host reaction, and leukocyte-poor. The fetal–placental volume allows rapid infusion of a relatively large quantity of blood. Before transfusion, a paralytic agent such as vecuronium may be given to the fetus to minimize movement. In a nonhydropic fetus, the target hematocrit is 40 to 50 percent. The volume transfused may be estimated by multiplying the estimated fetal weight in grams by 0.02 for each 10-percent rise in hematocrit needed (Giannina, 1998). In the severely anemic fetus at 18 to 24 weeks’ gestation, a smaller volume is transfused initially, and another transfusion may be planned for approximately 2 days later. Subsequent transfusions take place every 2 to 4 weeks, depending on the hematocrit. The MCA peak systolic velocity threshold for severe anemia is higher following an initial transfusion—1.70 MoM rather than 1.50 MoM (Society for Maternal-Fetal Medicine, 2015a). It is hypothesized that the change in threshold compensates for the contribution of donor cells in the initial transfusion, because the donor cells are from adults and have a smaller mean corpuscular volume. Following transfusion, the fetal hematocrit drops by approximately 1 percent per day. The initial decline may be more rapid if hydrops has developed.
 
-FIGURE 18-2 Incidence of fetomaternal hemorrhage during pregnancy. The numbers at each data
-point represent total volume of fetal blood estimated to have been transferred into the maternal
-circulation.
+**Outcomes.** The overall survival rate approximates 95 percent (Zwiers, 2017; Mizuuchi, 2021). Complications include fetal death in 2 percent, need for emergent cesarean delivery in 1 percent, and infection and preterm rupture of membranes in 0.3 percent each, respectively. The stillbirth rate exceeds 15 percent if transfusion is required before 20 weeks (Lindenberg, 2013; Zwiers, 2017). For hydropic fetuses, the neonatal survival rate is about 80
 
-Selected causes of fetomaternal hemorrhage are shown in Table 18-2.
-With significant hemorrhage, the most common presenting complaint is
-decreased fetal movement (Bellussi, 2017; Wylie, 2010). A sinusoidal fetal
-heart rate pattern is infrequently seen but warrants immediate evaluation
-(Chap. 24, p. 451). Sonography may demonstrate elevated MCA peak
-systolic velocity, and indeed this is reported to be the most accurate
-predictor (Bellusi, 2017; Wylie, 2010). Hydrops is an ominous finding. If the
-MCA peak systolic velocity is elevated or hydrops is identified, urgent fetal
-transfusion or delivery should be considered. In more than 80 percent of
-cases, no etiology of the fetomaternal hemorrhage is identified.
-One limitation of quantitative tests for fetal cells in the maternal
-circulation is that they do not provide information regarding the timing or
-chronicity of hemorrhage (Wylie, 2010). Anemia that develops gradually, as
-with alloimmunization, is generally better tolerated by the fetus than acute
-anemia. Chronic anemia may not produce fetal heart rate abnormalities until
-the fetus is moribund. In contrast, significant acute hemorrhage may result in
+percent (Emiroglu, 2020; Van Kamp, 2001). In one series, 95 percent of neonates survived if hydrops resolved following intrauterine transfusion compared with fewer than 40 percent if hydrops persisted (Van Kamp, 2001). Lindenberg (2012) reviewed long-term outcomes following intrauterine transfusion in a cohort of more than 450 alloimmunized pregnancies. Alloimmunization was secondary to anti-D in 80 percent, anti-Kell in 12 percent, and anti-c in 5 percent. Approximately a fourth of affected fetuses had hydrops, and more than half also required exchange transfusion in the neonatal period. Among nearly 300 children aged 2 to 17 years who participated in neurodevelopmental testing, fewer than 5 percent had severe impairments.
 
-profound fetal neurological impairment from cerebral hypoperfusion,
-ischemia, and infarction. In some cases, fetomaternal hemorrhage is
-identified during stillbirth evaluation (Chap. 35, p. 325).
+### Prevention of Anti-D Alloimmunization
 
-■ Hemorrhage Quantification
-Estimating the volume of fetomaternal hemorrhage is needed to calculate the
-appropriate dose of anti-D immune globulin if the woman is D-negative, and
-it may also influence obstetrical management. The most commonly used
-quantitative test for fetal red cells in the maternal circulation is the acid
-elution or Kleihauer-Betke (KB) test (Kleihauer, 1957). Fetal erythrocytes
-contain hemoglobin F, which is more resistant to acid elution than
-hemoglobin A. Following exposure to acid, only fetal hemoglobin remains.
-Therefore, after staining, the fetal erythrocytes appear red and adult
-erythrocytes appear as “ghosts” (Fig. 18-3). The fetal cells are then counted
-and expressed as a percentage of adult cells. The fetal blood volume
-involved in the fetomaternal hemorrhage may be calculated using the
-following formula:
+Anti-D immune globulin has been used for more than five decades to prevent D alloimmunization. Unfortunately, 50 percent of women around the world who would benefit from anti-D immune globulin do not receive it (Pegoraro, 2020). In countries without access, up to 10 percent of D-negative pregnancies are complicated by hemolytic disease of the fetus and newborn (Zipursky, 2015). With immunoprophylaxis, however, the alloimmunization risk may be reduced to <0.2 percent. Despite long-standing and widespread use, its mechanism of action is not completely understood. Fetomaternal hemorrhage at delivery accounts for as many as 90 percent of alloimmunization cases. Routine postpartum administration of anti-D immune globulin to at-risk pregnancies within 72 hours of delivery lowers the alloimmunization rate by 90 percent (Bowman, 1985). Additionally, provision of anti-D immune globulin at 28 weeks’ gestation reduces the third-trimester alloimmunization rate from approximately 2 percent to 0.1 percent (Bowman, 1988). Whenever there is doubt whether to give anti-D immune globulin, it should be given. If not needed, it will not cause harm, but failure to provide it when needed may have severe consequences. Anti-D immune globulin is derived from human plasma donated by individuals with high-titer anti-D immunoglobulin D antibodies. Formulations prepared by cold ethanol fractionation and ultrafiltration must be administered intramuscularly because they contain plasma proteins that could result in anaphylaxis if given intravenously. Formulations prepared
 
-FIGURE 18-3 Kleihauer-Betke test demonstrating massive fetomaternal hemorrhage. After acidelution treatment, fetal red cells rich in hemoglobin F stain darkly, whereas maternal red cells with only
-very small amounts of hemoglobin F stain lightly.
+using ion exchange chromatography may be administered either intramuscularly or intravenously, which is relevant when treating significant fetomaternal hemorrhage. Both preparation methods effectively remove viral particles, including hepatitis and human immunodeficiency viruses. Depending on the preparation, the half-life of anti-D immune globulin ranges from 16 to 24 days, which is why it is given both in the third trimester and following delivery. The standard intramuscular dose of anti-D immune globulin—300 μg or 1500 IU—will protect the average-sized mother from a fetal hemorrhage of up to 30 mL of fetal whole blood or 15 mL of fetal red cells. In the United States, anti-D immune globulin is given prophylactically to all D-negative, unsensitized women at approximately 28 weeks’ gestation, and a second dose is given after delivery if the newborn is D-positive (American College of Obstetricians and Gynecologists, 2019b). Before the 28-week dose of anti-D immune globulin, repeat antibody screening is recommended to identify individuals who have become alloimmunized (American Academy of Pediatrics, 2017). Following delivery, anti-D immune globulin should be given within 72 hours. Recognizing that 40 percent of neonates born to D-negative women are also D negative, administration of immune globulin is recommended only after the newborn is confirmed to be D positive (American College of Obstetricians and Gynecologists, 2019b). If immune globulin is inadvertently not administered following delivery, it should be given as soon as the omission is recognized, because there may be some protection up to 28 days postpartum (Bowman, 2006). Anti-D immune globulin is also administered after pregnancy-related events that could result in sensitization (see Table 18-2). In the first trimester, smaller doses of 50 or 120 µg may be suitable, as discussed in Chapters 11 and 12 (p. 203 and 221). Anti-D immune globulin may produce a weakly positive—1:1 to 1:4— indirect Coombs titer in the mother. This is harmless and should not be confused with development of alloimmunization. Additionally, as the body mass index increases above 27 to 40 kg/m2, serum antibody levels decrease by 30 to 60 percent and may be less protective (MacKenzie, 2006; Woelfer, 2004). D-negative women who receive other types of blood products— including platelet transfusions and plasmapheresis—also are at risk of becoming sensitized, and this can be prevented with anti-D immune globulin. Rarely, a small amount of antibody crosses the placenta and results in a
 
-For a pregnant woman of normal size who is normotensive and has
-reached full-term, the maternal blood volume (MBV) may be estimated as
-5000 mL. Thus, in a woman with a hematocrit of 35 percent and whose fetus
-has a hematocrit of 50 percent, the calculation for a KB test demonstrating
-staining of 1.7 percent of sample cells is:
+weakly positive direct Coombs test in cord and infant blood. Despite this, passive immunization does not cause significant fetal or neonatal hemolysis. In 2 to 3 per 1000 pregnancies, the volume of fetomaternal hemorrhage may exceed 30 mL of whole blood (American College of Obstetricians and Gynecologists, 2019b). A single dose of anti-D immune globulin would be insufficient in such situations. If additional anti-D immune globulin is considered only for women with risk factors such as those shown in Table 18-2, half of those who require additional immune globulin may be missed. For this reason, all D-negative women should be screened at delivery, typically with a rosette test, followed by quantitative testing if indicated (American College of Obstetricians and Gynecologists, 2019b). The rosette test is a qualitative test that identifies whether fetal Dpositive cells are present in the circulation of a D-negative woman. A sample of maternal blood is mixed with anti-D antibodies that coat any Dpositive fetal cells present in the sample. Indicator red cells bearing the Dantigen are then added, and rosettes form around the fetal cells as the indicator cells attach to them by the antibodies. Thus, if rosettes are visualized, there are fetal D-positive cells in that sample. In the setting of D incompatibility, or any time a large fetomaternal hemorrhage is suspected— regardless of antigen status, a Kleihauer-Betke test or flow cytometry test are used. These are discussed on page 358. The dosage of anti-D immune globulin is calculated from the estimated volume of the fetal-to-maternal hemorrhage, as described on page 358. One 300-μg dose is given for each 15 mL of fetal red cells or 30 mL of fetal whole blood to be neutralized. If using an intramuscular preparation of antiD immune globulin, no more than five doses may be given in a 24-hour period. If using an intravenous preparation, two ampules—totaling 600 μg— may be given every 8 hours. A positive indirect Coombs test or the presence of circulating fetal cells on a rosette test demonstrate that the dose was sufficient.
 
-The fetal-placental blood volume at term approximates 125 mL/kg. For a
-3000-g fetus, that would equate to 375 mL. Thus, this fetus lost
-approximately 15 percent (60 ÷ 375 mL) of the fetal-placental volume.
-Assuming the hematocrit is 50 percent in a term fetus, this 60 mL of whole
-blood represents 30 mL of red cells lost into the maternal circulation. A loss
-of this magnitude should be well tolerated hemodynamically but would
-require two 300-μg doses of anti-D immune globulin to prevent
-alloimmunization. A more precise method to estimate the maternal blood
-volume includes a calculation based on the maternal height, weight, and
-anticipated physiological maternal blood volume accrual (Table 42-1, p.
-732).
-The KB test is labor intensive. There are also two scenarios in which the
-KB may be inaccurate: (1) maternal hemoglobinopathies in which the fetal
-hemoglobin level is elevated, such as β-thalassemia, and (2) at or near term,
-because the fetus may already be producing hemoglobin A.
-Another method of quantifying fetomaternal hemorrhage is with flow
-cytometry, which uses monoclonal antibodies to hemoglobin F or to the D
-antigen and then measures the degree of fluorescence (Chambers, 2012;
-Welsh, 2016). Flow cytometry is an automated test that can analyze a greater
-number of cells than the KB test. It is also unaffected by maternal levels of
-fetal hemoglobin and by fetal levels of hemoglobin A. Flow cytometry has
-been reported to be more sensitive and accurate than the KB test, however, it
-uses specialized technology not routinely available in many hospitals
-(Chambers, 2012; Corcoran, 2014; Fernandes, 2007).
+Serological Weak D Phenotypes Formerly called Du, these are the most common antigenic D variants in the United States and Europe (American College of Obstetricians and Gynecologists, 2019a). Serological weak D phenotypes have been further refined into two general categories using molecular analysis to complete
 
-FETAL THROMBOCYTOPENIA
-■ Alloimmune Thrombocytopenia
-This is also referred to as fetal and neonatal alloimmune thrombocytopenia
-(FNAIT). Alloimmune thrombocytopenia (AIT) is the most common cause of
-severe thrombocytopenia among term newborns, with a frequency of 1 to 2
-cases per 1000 births (Kamphuis, 2010; Pacheco, 2013; Risson, 2012).
-FNAIT is caused by maternal alloimmunization to paternally inherited fetal
-platelet antigens. Maternal antiplatelet antibodies cross the placenta in a
-manner similar to red cell alloimmunization (p. 352). Unlike immune
-thrombocytopenia, the maternal platelet count is normal with FNAIT. And,
-unlike anti-D alloimmunization, severe sequelae may affect the initial at-risk
-pregnancy.
-Maternal platelet alloimmunization against human platelet antigen-1a
-(HPA-1a) accounts for 80 to 90 percent of cases and is associated with the
-greatest severity (Bussel, 1997; Knight, 2011; Tiller, 2013). This is followed
-in order of frequency by alloimmunization against HPA-5b, HPA-1b, and
-HPA-3a. Alloimmunization to other antigens accounts for only 1 percent of
-reported cases.
-Approximately 85 percent of non-Hispanic white individuals are HPA-1a
-positive. Two percent are homozygous for HPA-1b and at risk for
-alloimmunization. However, only 10 percent of these women produce
-antiplatelet antibodies when carrying an HPA-1a fetus. Approximately a third
-of affected fetuses or neonates will develop severe thrombocytopenia, and
-10 to 20 percent with severe thrombocytopenia sustain an intracranial
-hemorrhage (ICH) (Kamphuis, 2010). As a result, population-based
-screening studies have identified one case of FNAIT-associated ICH per
-25,000 to 60,000 pregnancies (Kamphuis, 2010; Knight, 2011).
-FNAIT has a spectrum of presentation. Neonatal thrombocytopenia may
-be an incidental finding, the newborn may manifest petechiae, or the fetus or
-neonate may develop devastating ICH. Of 600 pregnancies with FNAIT
-identified through a large international registry, fetal or neonatal ICH
-complicated just 7 percent of cases (Tiller, 2013). Hemorrhage affected the
-first-born child in 60 percent and occurred before 28 weeks’ gestation in
-half. A third of affected children died soon after birth, and 50 percent of
-survivors had severe neurological disabilities.
+**RHD genotyping.** Molecular weak D phenotypes carry reduced numbers of intact D antigens on the red cell surface. Partial D types have protein deletions associated with abnormal D antigens that lack epitopes (Sandler, 2017). Many individuals who test positive for weak D have weak D phenotypes 1, 2, or 3. These phenotypes may be managed as if D-positive. The pregnancy is not considered at risk for alloimmunization, and thus anti-D immune globulin is not needed (Sandler 2015, 2017). In contrast, individuals with partial D antigens may be at risk for D-sensitization and do require immune globulin. Molecular RHD genotyping has been suggested for pregnant women with weak D phenotype, but cost-benefit analysis of this strategy is presently lacking (American College of Obstetricians and Gynecologists, 2019b). If molecular genetic testing has not been performed in those with serologic weak D phenotype, D immunoprophylaxis should be administered.
 
-Bussel and coworkers (1997) evaluated fetal platelet counts before
-therapy in 107 fetuses with FNAIT. Thrombocytopenia severity was
-predicted by a prior sibling with perinatal ICH. Fifty percent had an initial
-platelet count <20,000/μL. And, among those in whom the initial platelet
-count was >80,000/μL, it dropped by at least 10,000/μL per week in the
-absence of therapy.
+## Fetomaternal Hemorrhage
 
-Diagnosis and Management
-AIT is typically diagnosed following delivery of a neonate with severe and
-unexplained thrombocytopenia to a woman whose platelet count is normal.
-Rarely, the diagnosis is ascertained after identifying fetal ICH. The condition
-recurs in 70 to 90 percent of subsequent pregnancies, is often severe, and
-usually develops earlier with each successive pregnancy. Traditionally, fetal
-blood sampling was performed to detect fetal thrombocytopenia and to tailor
-therapy. Platelets were transfused if the fetal platelet count was <50,000/μL.
-The reported rate of procedure-related complications exceeds 10 percent
-(Winkelhorst, 2017). For this reason, most favor empirical treatment with
-IVIG instead (Berkowitz, 2006; Pacheco, 2011).
-Therapy may be stratified according to whether a prior affected
-pregnancy was complicated by perinatal ICH, and if so, at what gestational
-age (Table 18-3) (Pacheco, 2011). Pioneering work by Bussel (1996) and
-Berkowitz (2006) and their colleagues demonstrated the efficacy of such
-treatment. In one series of 50 pregnancies with fetal thrombocytopenia
-secondary to FNAIT, IVIG raised the platelet count by approximately
-50,000/μL, and no fetus developed ICH (Bussel, 1996). Among pregnancies
-at particularly high risk, which was based on a platelet count <20,000/μL or
-a sibling with FNAIT-associated ICH, the addition of corticosteroids to IVIG
-therapy was associated with a rise in platelet count in 80 percent of cases
-(Berkowitz, 2006). However, a systematic review identified no consistent
-benefit of corticosteroid treatment compared with IVIG therapy alone
-(Winkelhorst, 2017). Thus, corticosteroid therapy is somewhat controversial.
-Cesarean delivery is generally recommended at or near term.
-TABLE 18-3. Fetal-Neonatal Alloimmune Thrombocytopenia (FNAIT)
-Treatment Recommendations
+A small amount of fetomaternal bleeding likely occurs in all pregnancies and may be sufficient to provoke an antigen-antibody reaction in two thirds. As shown in Figure 18-2, the incidence increases with advancing gestation and with the volume of fetal blood in the maternal circulation (Choavaratana, 1997). The prevalence of fetomaternal bleeding of at least 30 mL is estimated to be 3 events per 1000 pregnancies (Wylie, 2010). Fortunately, frank hemorrhage is rare. In one series of more than 30,000 pregnancies, fetomaternal hemorrhage ≥150 mL complicated 1 in 2800 births (de Almeida, 1994).
 
-■ Immune Thrombocytopenia
-Also known as immune or idiopathic thrombocytopenic purpura (ITP), this
-autoimmune disorder is characterized by antiplatelet IgG antibodies that
-attack platelet glycoproteins. The antibodies may cross the placenta and
-cause fetal thrombocytopenia. Maternal ITP is discussed in Chapter 59 (p.
-1059).
-Fetal thrombocytopenia from maternal ITP is usually mild. However,
-neonatal platelet levels may fall rapidly after birth and nadir at 48 to 72
-hours of life. Neither the maternal platelet count, identification of antiplatelet
-antibodies, nor treatment with corticosteroids effectively predicts fetal or
-neonatal platelet counts (Hachisuga, 2014). Importantly, fetal platelet counts
-are usually adequate to allow vaginal delivery without an increased risk of
-ICH. In a review of more than 400 pregnancies with ITP, there was no case
-of fetal or neonatal ICH and no infant with any central nervous system
-abnormality (Wyszynski, 2016). Fetal blood sampling is not recommended
-(Neunert, 2011). Mode of delivery is based on standard obstetrical
-indications.
+> **Figure 18-2:** Incidence of fetomaternal hemorrhage during pregnancy. The numbers at each data point represent total volume of fetal blood estimated to have been transferred into the maternal circulation.
 
-HYDROPS FETALIS
-This phrase has its origins in Middle English, Latin, and Greek. The
-condition was described by Ballantyne in 1892 as general dropsy, that is,
+Selected causes of fetomaternal hemorrhage are shown in Table 18-2. With significant hemorrhage, the most common presenting complaint is decreased fetal movement (Bellussi, 2017; Wylie, 2010). A sinusoidal fetal heart rate pattern is infrequently seen but warrants immediate evaluation (Chap. 24, p. 451). Sonography may demonstrate elevated MCA peak systolic velocity, and indeed this is reported to be the most accurate predictor (Bellusi, 2017; Wylie, 2010). Hydrops is an ominous finding. If the MCA peak systolic velocity is elevated or hydrops is identified, urgent fetal transfusion or delivery should be considered. In more than 80 percent of cases, no etiology of the fetomaternal hemorrhage is identified. One limitation of quantitative tests for fetal cells in the maternal circulation is that they do not provide information regarding the timing or chronicity of hemorrhage (Wylie, 2010). Anemia that develops gradually, as with alloimmunization, is generally better tolerated by the fetus than acute anemia. Chronic anemia may not produce fetal heart rate abnormalities until the fetus is moribund. In contrast, significant acute hemorrhage may result in
 
-edema, of the fetus (Kaiser, 1971). Hydrops can be a manifestation of severe
-illness from a wide variety of etiologies (Table 18-4) (Bellini, 2015).
-TABLE 18-4. Categories and Etiologies of Nonimmune Hydrops Fetalis
+profound fetal neurological impairment from cerebral hypoperfusion, ischemia, and infarction. In some cases, fetomaternal hemorrhage is identified during stillbirth evaluation (Chap. 35, p. 325).
 
-Hydrops is diagnosed by identifying two or more fetal effusions—
-pleural, pericardial, or ascites—or one effusion plus anasarca (Fig. 18-4).
-Sonographically measured skin thickness of >5 mm constitutes edema or
-anasarca. Placentomegaly is defined as placental thickness ≥4 cm in the
-second trimester or ≥6 cm in the third trimester (Bellini, 2009; Society for
-Maternal–Fetal Medicine, 2015b). As hydrops progresses in severity,
-anasarca is an invariable feature and is usually accompanied by
-placentomegaly and hydramnios.
+### Hemorrhage Quantification
 
-FIGURE 18-4 Sonographic findings that define hydrops. A. This profile of a 23-week fetus with
-nonimmune hydrops secondary to B19 parvovirus infection depicts scalp edema (arrowheads) and
-ascites (*). B. This 34-week fetus had hydrops secondary to an arteriovenous malformation in the brain,
-known as a vein of Galen aneurysm. In this coronal image, prominent pleural effusions (*) outline the
-lungs (L). Fetal ascites is also present (arrows), as is anasarca. C. This axial (transverse) image depicts
-a pericardial effusion (arrows) in a 23-week fetus with hydrops from B19 parvovirus infection. The
-degree of cardiomegaly is impressive, and the ventricular hypertrophy raises concern for myocarditis,
-which can accompany parvovirus infection. D. This axial (transverse) image depicts fetal ascites (*) in
-a 15-week fetus with hydrops secondary to large cystic hygromas. Anasarca is also seen (bracket).
+Estimating the volume of fetomaternal hemorrhage is needed to calculate the appropriate dose of anti-D immune globulin if the woman is D-negative, and it may also influence obstetrical management. The most commonly used quantitative test for fetal red cells in the maternal circulation is the acid elution or Kleihauer-Betke (KB) test (Kleihauer, 1957). Fetal erythrocytes contain hemoglobin F, which is more resistant to acid elution than hemoglobin A. Following exposure to acid, only fetal hemoglobin remains. Therefore, after staining, the fetal erythrocytes appear red and adult erythrocytes appear as “ghosts” (Fig. 18-3). The fetal cells are then counted and expressed as a percentage of adult cells. The fetal blood volume involved in the fetomaternal hemorrhage may be calculated using the following formula:
 
-If found in association with red cell alloimmunization, hydrops is termed
-immune, otherwise, it is nonimmune. Immune and nonimmune hydrops are
-postulated to share several physiological abnormalities. The precise
-pathogenesis remains unknown but is likely multifactorial. As shown in
-Figure 18-5, these include decreased colloid oncotic pressure, increased
-hydrostatic or central venous pressure, and enhanced vascular permeability.
+> **Figure 18-3:** Kleihauer-Betke test demonstrating massive fetomaternal hemorrhage. After acidelution treatment, fetal red cells rich in hemoglobin F stain darkly, whereas maternal red cells with only very small amounts of hemoglobin F stain lightly.
 
-FIGURE 18-5 Proposed pathogenesis of immune and nonimmune hydrops fetalis. (Data from Bellini,
-2009; Lockwood, 2009.)
+For a pregnant woman of normal size who is normotensive and has reached full-term, the maternal blood volume (MBV) may be estimated as 5000 mL. Thus, in a woman with a hematocrit of 35 percent and whose fetus has a hematocrit of 50 percent, the calculation for a KB test demonstrating staining of 1.7 percent of sample cells is:
 
-■ Immune Hydrops
-This condition results from transplacental passage of maternal antibodies that
-destroy fetal red cells. The resultant anemia stimulates marrow erythroid
-hyperplasia and extramedullary hematopoiesis in the spleen and liver (see
-Fig. 18-5). The latter likely causes portal hypertension and impaired hepatic
-protein synthesis, which lowers plasma oncotic pressure (Nicolaides, 1985).
-Fetal anemia may also raise central venous pressure (Weiner, 1989). Tissue
-hypoxia from anemia may increase capillary permeability, such that fluid
-collects in the fetal thorax, abdominal cavity, and/or subcutaneous tissue.
-The incidence of immune hydrops has decreased dramatically with the
-advent of anti-D immune globulin and with use of MCA Doppler to aid
+The fetal-placental blood volume at term approximates 125 mL/kg. For a 3000-g fetus, that would equate to 375 mL. Thus, this fetus lost approximately 15 percent (60 ÷ 375 mL) of the fetal-placental volume. Assuming the hematocrit is 50 percent in a term fetus, this 60 mL of whole blood represents 30 mL of red cells lost into the maternal circulation. A loss of this magnitude should be well tolerated hemodynamically but would require two 300-μg doses of anti-D immune globulin to prevent alloimmunization. A more precise method to estimate the maternal blood volume includes a calculation based on the maternal height, weight, and anticipated physiological maternal blood volume accrual (Table 42-1, p. 732). The KB test is labor intensive. There are also two scenarios in which the KB may be inaccurate: (1) maternal hemoglobinopathies in which the fetal hemoglobin level is elevated, such as β-thalassemia, and (2) at or near term, because the fetus may already be producing hemoglobin A. Another method of quantifying fetomaternal hemorrhage is with flow cytometry, which uses monoclonal antibodies to hemoglobin F or to the D antigen and then measures the degree of fluorescence (Chambers, 2012; Welsh, 2016). Flow cytometry is an automated test that can analyze a greater number of cells than the KB test. It is also unaffected by maternal levels of fetal hemoglobin and by fetal levels of hemoglobin A. Flow cytometry has been reported to be more sensitive and accurate than the KB test, however, it uses specialized technology not routinely available in many hospitals (Chambers, 2012; Corcoran, 2014; Fernandes, 2007).
 
-anemia detection. Only severe anemia results in immune hydrops. Mari and
-colleagues (2000) reviewed 70 pregnancies with fetal anemia from red cell
-alloimmunization and found that all with immune hydrops had hemoglobin
-values <5 g/dL. As discussed on page 356, immediate fetal blood transfusion
-may be lifesaving.
+## Fetal Thrombocytopenia
 
-■ Nonimmune Hydrops
-At least 90 percent of cases of hydrops are nonimmune (Bellini, 2012). The
-prevalence approximates 1 case per 1500 second-trimester pregnancies
-(Heinonen, 2000). The number of specific disorders that can lead to
-nonimmune hydrops is extensive. Etiologies and the proportion of births
-within each hydrops category from a review of more than 6700 affected
-pregnancies are summarized in Table 18-4 (Bellini, 2015).
-A cause is identified in approximately 60 percent prenatally and in up to
-80 percent postnatally (Bellini, 2009, 2015; Santo, 2011). Of prenatally
-diagnosed cases, aneuploidy accounts for approximately 20 percent,
-cardiovascular abnormalities for 15 percent, and infections for 14 percent—
-the most common of which is parvovirus B19 (Santo, 2011; Sileo, 2020;
-Sparks, 2019). In multifetal gestations, twin-twin transfusion syndrome is the
-most frequent cause (Yeom, 2015). Fetal deaths and stillbirths are common
-with nonimmune hydrops. Overall, only 40 percent of affected pregnancies
-result in a liveborn neonate, and of these, the neonatal survival rate is just 50
-percent (Nassr, 2018; Yeom, 2015).
-Importantly, the etiology of nonimmune hydrops varies according to the
-gestational age at diagnosis. In a review of 63 pregnancies undergoing
-genetic testing for hydrops in the first trimester, aneuploidy was the cause in
-70 percent (Sileo, 2020). Of cases diagnosed from 14 through 24 weeks,
-aneuploidy and congenital infection each accounted for 20 percent. When
-nonimmune hydrops presents before 24 weeks’ gestation, the most frequent
-aneuploidy is 45,X—Turner syndrome, and in such cases, the survival rate is
-<5 percent (Sohan, 2001).
-Recent advances in genetic testing have improved the understanding of
-hydrops cases that were previously considered idiopathic. In a review from
-the University of California Fetal-Maternal Consortium, whole exome
-sequencing was studied in 127 cases of unexplained nonimmune hydrops in
-which traditional genetic testing was uninformative (Sparks, 2020). Nearly
+### Alloimmune Thrombocytopenia
 
-30 percent had a pathogenic genetic variant. The most common etiology was
-RASopathies, and many such cases resulted in Noonan syndrome. It is
-anticipated that as experience with whole exome sequencing accrues, the
-diagnostic yield will continue to increase.
-Although the prognosis of nonimmune hydrops is guarded, it depends
-heavily on etiology. In a large series from Thailand and Southern China, α0thalassemia is the main cause of nonimmune hydrops. It accounts for 30 to 50
-percent of cases and confers an extremely poor prognosis (Liao, 2007;
-Ratanasiri, 2009; Suwanrath-Kengpol, 2005). In contrast, treatable etiologies
-such as parvovirus infection, chylothorax, and tachyarrhythmias, which each
-constituting approximately 10 percent of cases, can result in survival in two
-thirds of cases with fetal therapy (Sohan, 2001).
+This is also referred to as fetal and neonatal alloimmune thrombocytopenia (FNAIT). Alloimmune thrombocytopenia (AIT) is the most common cause of severe thrombocytopenia among term newborns, with a frequency of 1 to 2 cases per 1000 births (Kamphuis, 2010; Pacheco, 2013; Risson, 2012). FNAIT is caused by maternal alloimmunization to paternally inherited fetal platelet antigens. Maternal antiplatelet antibodies cross the placenta in a manner similar to red cell alloimmunization (p. 352). Unlike immune thrombocytopenia, the maternal platelet count is normal with FNAIT. And, unlike anti-D alloimmunization, severe sequelae may affect the initial at-risk pregnancy. Maternal platelet alloimmunization against human platelet antigen-1a (HPA-1a) accounts for 80 to 90 percent of cases and is associated with the greatest severity (Bussel, 1997; Knight, 2011; Tiller, 2013). This is followed in order of frequency by alloimmunization against HPA-5b, HPA-1b, and HPA-3a. Alloimmunization to other antigens accounts for only 1 percent of reported cases. Approximately 85 percent of non-Hispanic white individuals are HPA-1a positive. Two percent are homozygous for HPA-1b and at risk for alloimmunization. However, only 10 percent of these women produce antiplatelet antibodies when carrying an HPA-1a fetus. Approximately a third of affected fetuses or neonates will develop severe thrombocytopenia, and 10 to 20 percent with severe thrombocytopenia sustain an intracranial hemorrhage (ICH) (Kamphuis, 2010). As a result, population-based screening studies have identified one case of FNAIT-associated ICH per 25,000 to 60,000 pregnancies (Kamphuis, 2010; Knight, 2011).
 
-Diagnostic Evaluation
-Hydrops is readily detected with prenatal sonography (see Fig. 18-5).
-Imaging and laboratory evaluation may identify fetal structural abnormalities,
-arrhythmias, anemia, aneuploidy, placental abnormalities, and complications
-of monochorionic twinning. Depending on the circumstances, initial
-evaluation includes the following:
-1. Indirect Coombs test to identify alloimmunization
-2. Detailed ultrasound examination of the fetus and placenta that includes:
-• A detailed anatomical survey to assess for the structural abnormalities
-listed in Table 18-4
-• Fetal echocardiography to further evaluate cardiac structure and function
-• MCA Doppler peak systolic velocity to assess for fetal anemia
-3. Amniocentesis to obtain samples for chromosomal microarray analysis or
-karyotyping and for parvovirus B19, cytomegalovirus, and toxoplasmosis
-testing, as discussed in Chapter 67
-4. Kleihauer-Betke test to detect fetomaternal hemorrhage if anemia is
-suspected, depending on findings and test results
-5. Consideration of testing for alpha-thalassemia and/or inborn errors of
-metabolism.
-Whole exome sequencing has significant potential to identify a genetic
-etiology if the aforementioned evaluation is not informative (Sparks, 2020).
-Counseling should include anticipated turnaround times, costs, and variants
+**FNAIT has a spectrum of presentation.** Neonatal thrombocytopenia may be an incidental finding, the newborn may manifest petechiae, or the fetus or neonate may develop devastating ICH. Of 600 pregnancies with FNAIT identified through a large international registry, fetal or neonatal ICH complicated just 7 percent of cases (Tiller, 2013). Hemorrhage affected the first-born child in 60 percent and occurred before 28 weeks’ gestation in half. A third of affected children died soon after birth, and 50 percent of survivors had severe neurological disabilities.
 
-of uncertain significance. It is not recommended for routine use (American
-College of Obstetricians and Gynecologists, 2020). In addition, because
-sequencing is generally performed on the fetus and parents, a parent may be
-identified or suspected to have an unrelated but medically actionable finding,
-such as a cancer predisposition.
-Isolated Effusion or Edema. The initial presentation of hydrops may be as a
-single effusion or anasarca. Although neither is diagnostic of hydrops, the
-above evaluation should be considered, and frequent surveillance may be
-prudent. A pericardial effusion may precede development of hydrops in fetal
-parvovirus B19 infection (Chap. 67, p. 1191). Similarly, isolated ascites may
-be the initial finding in fetal parvovirus B19 infection or may result from a
-gastrointestinal abnormality such as meconium peritonitis. An isolated
-pleural effusion may represent a chylothorax, which is amenable to prenatal
-diagnosis, and for which fetal therapy may be lifesaving if hydrops develops
-(Chap. 19, p. 376). Last, isolated edema, particularly involving the upper
-torso or the dorsum of the hands and feet, may be found in Turner or Noonan
-syndrome or may represent congenital lymphedema syndrome (Chap. 16, p.
-314).
+Bussel and coworkers (1997) evaluated fetal platelet counts before therapy in 107 fetuses with FNAIT. Thrombocytopenia severity was predicted by a prior sibling with perinatal ICH. Fifty percent had an initial platelet count <20,000/μL. And, among those in whom the initial platelet count was >80,000/μL, it dropped by at least 10,000/μL per week in the absence of therapy.
 
-■ Mirror Syndrome
-The association between fetal hydrops and the development of maternal
-edema, in which the mother mirrors the fetus, is attributed to Ballantyne. He
-called the condition triple edema because the fetus, mother, and placenta all
-became edematous. Mirror syndrome has been reported to complicate at
-least 20 percent of hydrops cases (Chen, 2021). The etiology of the hydrops
-is not related to development of mirror syndrome. It has been associated with
-hydrops from D alloimmunization, twin-twin transfusion syndrome, placental
-chorioangioma, fetal cystic hygroma, Ebstein anomaly, sacrococcygeal
-teratoma, chylothorax, bladder outlet obstruction, supraventricular
-tachycardia, vein of Galen aneurysm, and various congenital infections
-(Braun, 2010).
-In a review of more than 50 cases of mirror syndrome, Braun (2010)
-found that approximately 90 percent of women had edema, 60 percent had
-hypertension, 40 percent had proteinuria, 20 percent had liver enzyme
-elevation, and nearly 15 percent had headache and visual disturbances.
+Diagnosis and Management AIT is typically diagnosed following delivery of a neonate with severe and unexplained thrombocytopenia to a woman whose platelet count is normal. Rarely, the diagnosis is ascertained after identifying fetal ICH. The condition recurs in 70 to 90 percent of subsequent pregnancies, is often severe, and usually develops earlier with each successive pregnancy. Traditionally, fetal blood sampling was performed to detect fetal thrombocytopenia and to tailor therapy. Platelets were transfused if the fetal platelet count was <50,000/μL. The reported rate of procedure-related complications exceeds 10 percent (Winkelhorst, 2017). For this reason, most favor empirical treatment with IVIG instead (Berkowitz, 2006; Pacheco, 2011). Therapy may be stratified according to whether a prior affected pregnancy was complicated by perinatal ICH, and if so, at what gestational age (Table 18-3) (Pacheco, 2011). Pioneering work by Bussel (1996) and Berkowitz (2006) and their colleagues demonstrated the efficacy of such treatment. In one series of 50 pregnancies with fetal thrombocytopenia secondary to FNAIT, IVIG raised the platelet count by approximately 50,000/μL, and no fetus developed ICH (Bussel, 1996). Among pregnancies at particularly high risk, which was based on a platelet count <20,000/μL or a sibling with FNAIT-associated ICH, the addition of corticosteroids to IVIG therapy was associated with a rise in platelet count in 80 percent of cases (Berkowitz, 2006). However, a systematic review identified no consistent benefit of corticosteroid treatment compared with IVIG therapy alone (Winkelhorst, 2017). Thus, corticosteroid therapy is somewhat controversial. Cesarean delivery is generally recommended at or near term.
 
-Based on these findings, it is reasonable to consider mirror syndrome a form
-of severe preeclampsia (Espinoza, 2006; Midgley, 2000). Others, however,
-have suggested that it is a separate disease process with hemodilution rather
-than hemoconcentration (Carbillon, 1997; Livingston, 2007).
-Some reports describe the same imbalance of angiogenic and
-antiangiogenic factors that is observed with preeclampsia, and this suggests a
-common pathophysiology (Goa, 2013; Hobson, 2020; Llurba, 2012). These
-findings, which include elevated concentrations of soluble fms-like tyrosine
-kinase 1 (sFlt-1), decreased placental growth factor (PlGF) levels, and
-elevation of soluble vascular endothelial growth factor receptor 1 (sVEGFR1) concentrations, are discussed further in Chapter 40 (p. 694).
-In most cases with mirror syndrome, prompt delivery is indicated and
-followed by resolution of maternal edema and other findings (Braun, 2010).
-However, in isolated cases of fetal anemia, supraventricular tachycardia,
-hydrothorax, or bladder outlet obstruction, successful fetal treatment has
-resulted in resolution of both fetal hydrops and maternal mirror syndrome
-(Goa, 2013; Livingston, 2007; Llurba, 2012; Midgley, 2000). Normalization
-of the angiogenic imbalance has also been described following fetal
-transfusion for parvovirus B19 infection. Fetal therapy for these conditions is
-reviewed in Chapter 19. Given the parallels to severe preeclampsia,
-delaying delivery to effect fetal therapy should be considered only with
-caution. If the maternal condition deteriorates, delivery is recommended.
+> **Table 18-3:** Fetal-Neonatal Alloimmune Thrombocytopenia (FNAIT) Treatment Recommendations
 
-REFERENCES
-American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Guidelines for
-Perinatal Care. 8th ed. Elk Grove Village, AAP, 2017
-American College of Obstetricians and Gynecologists: Management of alloimmunization during
-pregnancy. Practice Bulletin No. 192, March 2018, Reaffirmed 2019a
-American College of Obstetricians and Gynecologists: Prevention of Rh-D alloimmunization. Practice
-Bulletin No. 181, August 2017, Reaffirmed 2019b
-American College of Obstetricians and Gynecologists: Microarrays and next-generation sequencing
-technology: the use of advanced genetic diagnostic tools in obstetrics and gynecology. Committee
-Opinion No. 682, December 2016, Reaffirmed 2020
-Bellini C, Donarini G, Paladini D, et al: Etiology of non-immune hydrops fetalis: an update. Am J Med
-Genet 167A:1082, 2015
-Bellini C, Hennekam RC: Non-immune hydrops fetalis: a short review of etiology and pathophysiology.
-Am J Med Genet 158A(3):597, 2012
+### Immune Thrombocytopenia
 
-Bellini C, Hennekam RC, Fulcheri E, et al: Etiology of nonimmune hydrops fetalis: a systematic review.
-Am J Med Genet A 149A(5):844, 2009
-Bellussi F, Perolo A, Ghi T, et al: Diagnosis of severe fetomaternal hemorrhage with fetal cerebral
-Doppler: case series and systematic review. Fetal Diagn Ther 41(1):1, 2017
-Berkowitz RL, Kolb EA, McFarland JG, et al: Parallel randomized trials of risk-based therapy for fetal
-alloimmune thrombocytopenia. Obstet Gynecol 107(1):91, 2006
-Bollason G, Hjartardottir H, Jonsson T, et al: Red blood cell alloimmunization in pregnancy during the
-years 1996–2015 in Iceland: a nation-wide population study. Transfusion 57(11):2578, 2017
-Bowman J: Rh-immunoglobulin: Rh prophylaxis. Best Pract Res Clin Haematol 19(1):27, 2006
-Bowman JM: Controversies in Rh prophylaxis: who needs Rh immune globulin and when should it be
-given? Am J Obstet Gynecol 151:289, 1985
-Bowman JM: The prevention of Rh immunization. Transfus Med Rev 2:129, 1988
-Braun T, Brauer M, Fuchs I, et al: Mirror syndrome: a systematic review of fetal associated conditions,
-maternal presentation, and perinatal outcome. Fetal Diagn Ther 27(4):191, 2010
-Bussel JB, Berkowitz RL, Lynch L, et al: Antenatal management of alloimmune thrombocytopenia with
-intravenous gamma-globulin: a randomized trial of the addition of low-dose steroid to intravenous
-gamma-globulin. Am J Obstet Gynecol 174(5):1414, 1996
-Bussel JB, Zabusky MR, Berkowitz RL, et al: Fetal alloimmune thrombocytopenia. N Engl J Med
-337:22, 1997
-Carbillon L, Oury JF, Guerin JM, et al: Clinical biological features of Ballantyne syndrome and the role
-of placental hydrops. Obstet Gynecol Surv 52(5):310, 1997
-Chambers E, Davies L, Evans S, et al: Comparison of haemoglobin F detection by the acid elution test,
-flow cytometry and high-performance liquid chromatography in maternal blood samples analysed for
-fetomaternal haemorrhage. Transfus Med 22(3):199, 2012
-Chen R, Liu M, Yan J, et al: Clinical characteristics of mirror syndrome: a retrospective study of 16
-cases. J Obstet Gynaecol 41(1):73, 2021
-Choavaratana R, Uer-Areewong S, Makanantakocol S: Fetomaternal transfusion in normal pregnancy
-and during delivery. J Med Assoc Thai 80:96, 1997
-Corcoran D, Murphy D, Donnelly J, et al: The prevalence of maternal F cells in a pregnant population
-and potential overestimation of foeto-maternal haemorrhage as a consequence. Blood Transfus
-12:570, 2014
-Daniels G: Variants of RhD—current testing and clinical consequences. Br J Haematol 161(4):461, 2013
-de Almeida V, Bowman JM: Massive fetomaternal hemorrhage: Manitoba experience. Obstet Gynecol
-83:323, 1994
-de Haas M, Thurik FF, Koelewijn JM et al: Haemolytic disease of the fetus and newborn. Vox Sang
-109(2):99, 2015
-Emiroğlu N, Yilmaz FH, Keçeci R, et al: Clinical characteristics and neonatal outcomes of liveborn
-newborns with hydrops fetalis treated in a tertiary level neonatal intensive care unit. Birth Defects
-Res 1:112(6):515, 2020
-Fernandes BJ, von Dadelszen P, Fazal I, et al: Flow cytometric assessment of feto-maternal
-hemorrhage; a comparison with Betke-Kleihauer. Prenat Diagn 27(7):641, 2007
-Garratty G, Glynn SA, McEntire R, et al: ABO and Rh(D) phenotype frequencies of different
-racial/ethnic groups in the United States. Transfusion 44(5):703, 2004
-Giannina G, Moise KJ Jr, Dorman K: A simple method to estimate the volume for fetal intravascular
-transfusion. Fetal Diagn Ther 13:94, 1998
+Also known as immune or idiopathic thrombocytopenic purpura (ITP), this autoimmune disorder is characterized by antiplatelet IgG antibodies that attack platelet glycoproteins. The antibodies may cross the placenta and cause fetal thrombocytopenia. Maternal ITP is discussed in Chapter 59 (p. 1059). Fetal thrombocytopenia from maternal ITP is usually mild. However, neonatal platelet levels may fall rapidly after birth and nadir at 48 to 72 hours of life. Neither the maternal platelet count, identification of antiplatelet antibodies, nor treatment with corticosteroids effectively predicts fetal or neonatal platelet counts (Hachisuga, 2014). Importantly, fetal platelet counts are usually adequate to allow vaginal delivery without an increased risk of ICH. In a review of more than 400 pregnancies with ITP, there was no case of fetal or neonatal ICH and no infant with any central nervous system abnormality (Wyszynski, 2016). Fetal blood sampling is not recommended (Neunert, 2011). Mode of delivery is based on standard obstetrical indications.
 
-Goa S, Mimura K, Kakigano A, et al: Normalisation of angiogenic imbalance after intra-uterine
-transfusion for mirror syndrome caused by parvovirus B19. Fetal Diagn Ther 34(3):176, 2013
-Hachisuga K, Hidaka N, Fujita Y, et al: Can we predict neonatal thrombocytopenia in offspring of
-women with idiopathic thrombocytopenic purpura? Blood 49(4):259, 2014
-Hackney DN, Knudtson EJ, Rossi KQ, et al: Management of pregnancies complicated by anti-c
-isoimmunization. Obstet Gynecol 103:24, 2004
-Heinonen S, Ruynamen M, Kirkinen P: Etiology and outcome of second trimester nonimmunological
-fetal hydrops. Scand J Obstet Gynecol 79:15, 2000
-Hobson SR, Wallace EM, Chan YF, et al: Mirroring preeclampsia: the molecular basis of Ballantyne
-syndrome. J Matern Fetal Neonatal Med 33(5):768, 2020
-Howard H, Martlew V, McFadyen I, et al: Consequences for fetus and neonate of maternal red cell
-allo-immunization. Arch Dis Child Fetal Neonat Ed 78:F62, 1998
-Johnson JA, MacDonald K, Clarke G, et al: No. 343—Routine non-invasive prenatal prediction of fetal
-RHD genotype in Canada: the time is here. J Obstet Gynaecol Can 39(5):366, 2017
-Kaiser IH: Ballantyne and triple edema. Am J Obstet Gynecol 110(1):115, 1971
-Kamphuis MM, Paridaans N, Porcelijn L, et al: Screening in pregnancy for fetal or neonatal alloimmune
-thrombocytopenia: systematic review. BJOG 117(11):1335, 2010
-Kleihauer B, Braun H, Betke K: Demonstration of fetal hemoglobin in erythrocytes of a blood smear.
-Klin Wochenschr 35(12):637, 1957
-Knight M, Pierce M, Allen D, et al: The incidence and outcomes of fetomaternal alloimmune
-thrombocytopenia: a UK national study using three data sources. Br J Haematol 152(4):460, 2011
-Koelewijn JM, Vrijkotte TG, van der Schoot CE, et al: Effect of screening for red cell antibodies, other
-than anti-D, to detect hemolytic disease of the fetus and newborn: a population study in the
-Netherlands. Transfusion 48:941, 2008
-Lazar L, Harmath AG, Ban Z, et al: Detection of maternal deoxyribonucleic acid in peripheral blood of
-premature and mature newborn infants. Prenat Diagn 26(2):168, 2006
-Liao C, Wei J, Li Q, et al: Nonimmune hydrops fetalis diagnosed during the second half of pregnancy in
-Southern China. Fetal Diagn Ther 22(4):302, 2007
-Lindenburg I, van Kamp I, van Zwet E, et al: Increased perinatal loss after intrauterine transfusion for
-alloimmune anaemia before 20 weeks of gestation. BJOG 120:847, 2013
-Lindenburg IT, Smits-Wintjens VE, van Klink JM, et al: Long-term neurodevelopmental outcome after
-intrauterine transfusion for hemolytic disease of the fetus/newborn: the LOTUS study. Am J Obstet
-Gynecol 206:141.e1, 2012
-Livingston JC, Malik KM, Crombleholme TM, et al: Mirror syndrome: a novel approach to therapy with
-fetal peritoneal-amniotic shunt. Obstet Gynecol 110(2 Pt 2):540, 2007
-Llurba E, Marsal G, Sanchez O, et al: Angiogenic and antiangiogenic factors before and after resolution
-of maternal mirror syndrome. Ultrasound Obstet Gynecol 40(3):367, 2012
-Lockwood CJ, Nadel AS, King ME, et al: A 32-year old pregnant woman with an abnormal fetal
-ultrasound study. Case 16–2009. N Engl J Med 360(21):2225, 2009
-MacKenzie IZ, Roseman F, Findlay J, et al: The kinetics of routine antenatal prophylactic intramuscular
-injections of polyclonal anti-D immunoglobulin. BJOG 113:97, 2006
-Maisonneuve E, Dugas A, Friszer S, et al: Effect of intravenous immunoglobulins to postpone the
-gestational age of first intrauterine transfusion in very severe red blood cell alloimmunization: a casecontrol study. J Gynecol Obstet Hum Reprod 50(7):102119, 2021
-Mari G, Deter RL, Carpenter RL, et al: Noninvasive diagnosis by Doppler ultrasonography of fetal
-anemia due to maternal red-cell alloimmunization. N Engl J Med 342:9, 2000
+## Hydrops Fetalis
 
-Martin JA, Hamilton BE, Sutton PD, et al: Births: final data for 2003. Natl Vital Stat Rep 54(2):1, 2005
-Midgley DY, Hardrug K: The mirror syndrome. Eur J Obstet Gynecol Reprod Biol 8:201, 2000
-Mizuuchi M, Murotsuki J, Ishii K, et al: Nationwide survey of intrauterine blood transfusion for fetal
-anemia in Japan. J Obstet Gynaecol Res 47(6):2076, 2021
-Moise KJ: Fetal anemia due to non-Rhesus-D red-cell alloimmunization. Semin Fetal Neonatal Med
-13(4):207, 2008
-Moise KJ, Gandhi M, Boring NH, et al: Circulating cell-free DNA to determine the fetal RHD status in
-all three trimesters of pregnancy. Obstet Gynecol 128(6):1340, 2016
-Nassr AA, Ness A, Hosseinzadeh P, et al: Outcome and treatment of antenatally diagnosed nonimmune
-hydrops fetalis. Fetal Diagn Ther 43(2):123, 2018
-Neunert C, Lim W, Crowther M, et al: The American Society of Hematology 2011 evidence-based
-practice guideline for immune thrombocytopenia. Blood 117(16):4190, 2011
-Nicolaides KH, Warenski JC, Rodeck CH: The relationship of fetal plasma protein concentration and
-hemoglobin level to the development of hydrops in rhesus isoimmunization. Am J Obstet Gynecol
-152:341, 1985
-Oepkes D, Seaward PG, Vandenbussche FP, et al: Doppler ultrasonography versus amniocentesis to
-predict fetal anemia. N Engl J Med 355:156, 2006
-Pacheco LD, Berkowitz RL, Moise KJ, et al: Fetal and neonatal alloimmune thrombocytopenia. A
-management algorithm based on risk stratification. Obstet Gynecol 118(5):1157, 2011
-Pazourkova E, Zednikova I, Korabecna M, et al: Optimization of diagnostic strategy for non-invasive
-cell-free foetal RHD determination from maternal plasma. Vox Sang March 24, 2021 [Epub ahead
-of print]
-Pegoraro V, Urbinati D, Visser GHA, et al: Hemolytic disease of the fetus and newborn due to Rh(D)
-incompatibility: a preventable disease that still produces significant morbidity and mortality in
-children. PLoS One 15(7):e0235807, 2020
-Ratanasiri T, Komwilaisak R, Sittivech A, et al: Incidence, causes, and pregnancy outcomes of hydrops
-fetalis at Srinagarind Hospital, 1996–2005: a 10-year review. J Med Assoc Thai 92(5):594, 2009
-Risson DC, Davies MW, Williams BA: Review of neonatal alloimmune thrombocytopenia. J Pediatr
-Child Health 48(9):816, 2012
-Sandler SG, Flegel WA, Westhoff CM, et al: It’s time to phase-in RHD genotyping for patients with a
-serological weak D phenotype. Transfusion 55(3):680, 2015
-Sandler SG, Queenan JT: A guide to terminology for Rh immunoprophylaxis. Obstet Gynecol 130(3):633,
-2017
-Santo S, Mansour S, Thilaganathan B, et al: Prenatal diagnosis of non-immune hydrops fetalis: what do
-we tell the parents? Prenat Diagn 31:186, 2011
-Sileo FG, Kulkarni A, Branescu I, et al: Non-immune fetal hydrops: etiology and outcome according to
-gestational age at diagnosis. Ultrasound Obstet Gynecol 56(3):416, 2020
-Slootweg YM, Lindenburg IT, Koelewijn JM, et al: Predicting anti-Kell-mediated hemolytic disease of
-the fetus and newborn: diagnostic accuracy of laboratory management. Am J Obstet Gynecol
-219(4):393.e1, 2018
-Society for Maternal-Fetal Medicine, Mari G, Norton ME, et al: Society for Maternal-Fetal Medicine
-(SMFM) Clinical Guideline #8: The fetus at risk for anemia—diagnosis and management. Am J
-Obstet Gynecol 212(6):697, 2015a
-Society for Maternal-Fetal Medicine, Norton ME, Chauhan SP, et al: Society for Maternal-Fetal
-Medicine (SMFM) Clinical Guideline #7: Nonimmune hydrops fetalis. Am J Obstet Gynecol
-212(2):127, 2015b
+This phrase has its origins in Middle English, Latin, and Greek. The condition was described by Ballantyne in 1892 as general dropsy, that is,
 
-Sohan K, Carroll SG, De La Fuente S, et al: Analysis of outcome in hydrops fetalis in relation to
-gestational age at diagnosis, cause, and treatment. Acta Obstet Gynecol Scand 80(8):726, 2001
-Sparks TN, Lianoglou BR, Adami RR, et al: Exome sequencing for prenatal diagnosis in nonimmune
-hydrops fetalis. N Engl J Med 383(18):1746, 2020
-Sparks TN, Thao K, Lianoglou BR, et al: Nonimmune hydrops fetalis: identifying the underlying genetic
-etiology. Genet Med 21(6):1339, 2019
-Storry JR, Clausen FB, Castilho L, et al: International Society of Blood Transfusion Working Party on
-red cell immunogenics and blood group terminology: report of the Dubai, Copenhagen, and Toronto
-meetings. Vox Sang 114(1):95, 2019
-Suwanrath-Kengpol C, Kor-anantakul O, Suntharasaj T, et al: Etiology and outcome of non-immune
-hydrops fetalis in southern Thailand. Gynecol Obstet Invest 59(3):134, 2005
-Tannirandorn Y, Rodeck CH: New approaches in the treatment of haemolytic disease of the fetus.
-Ballieres Clin Haematol 3(2):289, 1990
-Tiller H, Kamphuis MM, Flodmark O, et al: Fetal intracranial hemorrhages caused by fetal and neonatal
-alloimmune thrombocytopenia: an observational cohort study of 43 cases from an international
-multicentre registry. BMJ 3:e002490, 2013
-Van den Veyver IB, Moise KJ: Fetal RhD typing by polymerase chain reaction in pregnancies
-complicated by rhesus alloimmunization. Obstet Gynecol 88:1061, 1996
-Van Kamp IL, Klumper FJ, Bakkum RS, et al: The severity of immune fetal hydrops is predictive of
-fetal outcome after intrauterine treatment. Am J Obstet Gynecol 185:668, 2001
-Weiner CP, Pelzer GD, Heilskov J, et al: The effect of intravascular transfusion on umbilical venous
-pressure in anemic fetuses with and without hydrops. Am J Obstet Gynecol 161:1498, 1989
-Weinstein L: Irregular antibodies causing hemolytic disease of the newborn: a continuing problem. Clin
-Obstet Gynecol 25(2):321, 1982
-Welsh KJ, Bai Y, Education Committee of the Academy of Clinical Laboratory Physicians and
-Scientists: pathology consultation on patients with a large Rh immune globulin dose requirement. Am
-J Clin Pathol 145:744, 2016
-Winkelhorst D, Murphy MF, Greinacher A, et al: Antenatal management in fetal and neonatal
-alloimmune thrombocytopenia: a systematic review. Blood 129(11):1538, 2017
-Woelfer B, Schuchter K, Janisiw M, et al: Postdelivery levels of anti-D IgG prophylaxis in mothers
-depend on maternal body weight. Transfusion 44:512, 2004
-Wylie BJ, D’Alton ME: Fetomaternal hemorrhage. Obstet Gynecol 115(5): 1039, 2010
-Wyszynski DF, Carmen WJ, Cantor AB, et al: Pregnancy and birth outcomes among women with
-idiopathic thrombocytopenic purpura. J Pregnancy 2016:8297407, 2016
-Yeom W, Paik ES, An JJ, et al: Clinical characteristics and perinatal outcome of fetal hydrops. Obstet
-Gynecol Sci 58(2):90, 2015
-Zimmerman R, Carpenter RJ Jr, Durig P, et al: Longitudinal measurement of peak systolic velocity in the
-fetal middle cerebral artery for monitoring pregnancies complicated by red cell alloimmunization: a
-prospective multicenter trial with intention-to-treat. BJOG 109(7):746, 2002
-Zipursky A, Bhutani VK: Impact of Rhesus disease on the global problem of bilirubin-induced neurologic
-dysfunction. Semin Fetal Neonatal Med 20(1):2, 2015
-Zwiers C, Lindenburg IT, Klumper FJ, et al: Complications of intrauterine intravascular blood
-transfusion: lessons learned after 1678 procedures. Ultrasound Obstet Gynecol 50(2):180, 2017
-Zwiers C, van der Bom JG, van Kamp IL, et al: Postponing early intrauterine transfusion with
-intravenous immunoglobulin treatment; the PETIT study on severe hemolytic disease of the fetus
-and newborn. Am J Obstet Gynecol 219(3):291.e1, 2018
+edema, of the fetus (Kaiser, 1971). Hydrops can be a manifestation of severe illness from a wide variety of etiologies (Table 18-4) (Bellini, 2015).
 
+> **Table 18-4:** Categories and Etiologies of Nonimmune Hydrops Fetalis
+
+Hydrops is diagnosed by identifying two or more fetal effusions— pleural, pericardial, or ascites—or one effusion plus anasarca (Fig. 18-4). Sonographically measured skin thickness of >5 mm constitutes edema or anasarca. Placentomegaly is defined as placental thickness ≥4 cm in the second trimester or ≥6 cm in the third trimester (Bellini, 2009; Society for Maternal–Fetal Medicine, 2015b). As hydrops progresses in severity, anasarca is an invariable feature and is usually accompanied by placentomegaly and hydramnios.
+
+> **Figure 18-4:** Sonographic findings that define hydrops. A. This profile of a 23-week fetus with nonimmune hydrops secondary to B19 parvovirus infection depicts scalp edema (arrowheads) and ascites (*). B. This 34-week fetus had hydrops secondary to an arteriovenous malformation in the brain, known as a vein of Galen aneurysm. In this coronal image, prominent pleural effusions (*) outline the lungs (L). Fetal ascites is also present (arrows), as is anasarca. C. This axial (transverse) image depicts a pericardial effusion (arrows) in a 23-week fetus with hydrops from B19 parvovirus infection. The degree of cardiomegaly is impressive, and the ventricular hypertrophy raises concern for myocarditis, which can accompany parvovirus infection. D. This axial (transverse) image depicts fetal ascites (*) in a 15-week fetus with hydrops secondary to large cystic hygromas. Anasarca is also seen (bracket).
+
+If found in association with red cell alloimmunization, hydrops is termed immune, otherwise, it is nonimmune. Immune and nonimmune hydrops are postulated to share several physiological abnormalities. The precise pathogenesis remains unknown but is likely multifactorial. As shown in
+
+> **Figure 18-5:** , these include decreased colloid oncotic pressure, increased hydrostatic or central venous pressure, and enhanced vascular permeability.
+
+> **Figure 18-5:** Proposed pathogenesis of immune and nonimmune hydrops fetalis. (Data from Bellini, 2009; Lockwood, 2009.)
+
+### Immune Hydrops
+
+This condition results from transplacental passage of maternal antibodies that destroy fetal red cells. The resultant anemia stimulates marrow erythroid hyperplasia and extramedullary hematopoiesis in the spleen and liver (see Fig. 18-5). The latter likely causes portal hypertension and impaired hepatic protein synthesis, which lowers plasma oncotic pressure (Nicolaides, 1985). Fetal anemia may also raise central venous pressure (Weiner, 1989). Tissue hypoxia from anemia may increase capillary permeability, such that fluid collects in the fetal thorax, abdominal cavity, and/or subcutaneous tissue. The incidence of immune hydrops has decreased dramatically with the advent of anti-D immune globulin and with use of MCA Doppler to aid
+
+anemia detection. Only severe anemia results in immune hydrops. Mari and colleagues (2000) reviewed 70 pregnancies with fetal anemia from red cell alloimmunization and found that all with immune hydrops had hemoglobin values <5 g/dL. As discussed on page 356, immediate fetal blood transfusion may be lifesaving.
+
+### Nonimmune Hydrops
+
+At least 90 percent of cases of hydrops are nonimmune (Bellini, 2012). The prevalence approximates 1 case per 1500 second-trimester pregnancies (Heinonen, 2000). The number of specific disorders that can lead to nonimmune hydrops is extensive. Etiologies and the proportion of births within each hydrops category from a review of more than 6700 affected pregnancies are summarized in Table 18-4 (Bellini, 2015). A cause is identified in approximately 60 percent prenatally and in up to 80 percent postnatally (Bellini, 2009, 2015; Santo, 2011). Of prenatally diagnosed cases, aneuploidy accounts for approximately 20 percent, cardiovascular abnormalities for 15 percent, and infections for 14 percent— the most common of which is parvovirus B19 (Santo, 2011; Sileo, 2020; Sparks, 2019). In multifetal gestations, twin-twin transfusion syndrome is the most frequent cause (Yeom, 2015). Fetal deaths and stillbirths are common with nonimmune hydrops. Overall, only 40 percent of affected pregnancies result in a liveborn neonate, and of these, the neonatal survival rate is just 50 percent (Nassr, 2018; Yeom, 2015). Importantly, the etiology of nonimmune hydrops varies according to the gestational age at diagnosis. In a review of 63 pregnancies undergoing genetic testing for hydrops in the first trimester, aneuploidy was the cause in 70 percent (Sileo, 2020). Of cases diagnosed from 14 through 24 weeks, aneuploidy and congenital infection each accounted for 20 percent. When nonimmune hydrops presents before 24 weeks’ gestation, the most frequent aneuploidy is 45,X—Turner syndrome, and in such cases, the survival rate is <5 percent (Sohan, 2001). Recent advances in genetic testing have improved the understanding of hydrops cases that were previously considered idiopathic. In a review from the University of California Fetal-Maternal Consortium, whole exome sequencing was studied in 127 cases of unexplained nonimmune hydrops in which traditional genetic testing was uninformative (Sparks, 2020). Nearly
+
+30 percent had a pathogenic genetic variant. The most common etiology was RASopathies, and many such cases resulted in Noonan syndrome. It is anticipated that as experience with whole exome sequencing accrues, the diagnostic yield will continue to increase. Although the prognosis of nonimmune hydrops is guarded, it depends heavily on etiology. In a large series from Thailand and Southern China, α0thalassemia is the main cause of nonimmune hydrops. It accounts for 30 to 50 percent of cases and confers an extremely poor prognosis (Liao, 2007; Ratanasiri, 2009; Suwanrath-Kengpol, 2005). In contrast, treatable etiologies such as parvovirus infection, chylothorax, and tachyarrhythmias, which each constituting approximately 10 percent of cases, can result in survival in two thirds of cases with fetal therapy (Sohan, 2001).
+
+Diagnostic Evaluation Hydrops is readily detected with prenatal sonography (see Fig. 18-5). Imaging and laboratory evaluation may identify fetal structural abnormalities, arrhythmias, anemia, aneuploidy, placental abnormalities, and complications of monochorionic twinning. Depending on the circumstances, initial evaluation includes the following: 1. Indirect Coombs test to identify alloimmunization 2. Detailed ultrasound examination of the fetus and placenta that includes: • A detailed anatomical survey to assess for the structural abnormalities listed in Table 18-4 • Fetal echocardiography to further evaluate cardiac structure and function • MCA Doppler peak systolic velocity to assess for fetal anemia 3. Amniocentesis to obtain samples for chromosomal microarray analysis or karyotyping and for parvovirus B19, cytomegalovirus, and toxoplasmosis testing, as discussed in Chapter 67 4. Kleihauer-Betke test to detect fetomaternal hemorrhage if anemia is suspected, depending on findings and test results 5. Consideration of testing for alpha-thalassemia and/or inborn errors of metabolism. Whole exome sequencing has significant potential to identify a genetic etiology if the aforementioned evaluation is not informative (Sparks, 2020). Counseling should include anticipated turnaround times, costs, and variants
+
+of uncertain significance. It is not recommended for routine use (American College of Obstetricians and Gynecologists, 2020). In addition, because sequencing is generally performed on the fetus and parents, a parent may be identified or suspected to have an unrelated but medically actionable finding, such as a cancer predisposition.
+
+**Isolated Effusion or Edema.** The initial presentation of hydrops may be as a single effusion or anasarca. Although neither is diagnostic of hydrops, the above evaluation should be considered, and frequent surveillance may be prudent. A pericardial effusion may precede development of hydrops in fetal parvovirus B19 infection (Chap. 67, p. 1191). Similarly, isolated ascites may be the initial finding in fetal parvovirus B19 infection or may result from a gastrointestinal abnormality such as meconium peritonitis. An isolated pleural effusion may represent a chylothorax, which is amenable to prenatal diagnosis, and for which fetal therapy may be lifesaving if hydrops develops (Chap. 19, p. 376). Last, isolated edema, particularly involving the upper torso or the dorsum of the hands and feet, may be found in Turner or Noonan syndrome or may represent congenital lymphedema syndrome (Chap. 16, p. 314).
+
+### Mirror Syndrome
+
+The association between fetal hydrops and the development of maternal edema, in which the mother mirrors the fetus, is attributed to Ballantyne. He called the condition triple edema because the fetus, mother, and placenta all became edematous. Mirror syndrome has been reported to complicate at least 20 percent of hydrops cases (Chen, 2021). The etiology of the hydrops is not related to development of mirror syndrome. It has been associated with hydrops from D alloimmunization, twin-twin transfusion syndrome, placental chorioangioma, fetal cystic hygroma, Ebstein anomaly, sacrococcygeal teratoma, chylothorax, bladder outlet obstruction, supraventricular tachycardia, vein of Galen aneurysm, and various congenital infections (Braun, 2010). In a review of more than 50 cases of mirror syndrome, Braun (2010) found that approximately 90 percent of women had edema, 60 percent had hypertension, 40 percent had proteinuria, 20 percent had liver enzyme elevation, and nearly 15 percent had headache and visual disturbances.
+
+Based on these findings, it is reasonable to consider mirror syndrome a form of severe preeclampsia (Espinoza, 2006; Midgley, 2000). Others, however, have suggested that it is a separate disease process with hemodilution rather than hemoconcentration (Carbillon, 1997; Livingston, 2007). Some reports describe the same imbalance of angiogenic and antiangiogenic factors that is observed with preeclampsia, and this suggests a common pathophysiology (Goa, 2013; Hobson, 2020; Llurba, 2012). These findings, which include elevated concentrations of soluble fms-like tyrosine kinase 1 (sFlt-1), decreased placental growth factor (PlGF) levels, and elevation of soluble vascular endothelial growth factor receptor 1 (sVEGFR1) concentrations, are discussed further in Chapter 40 (p. 694). In most cases with mirror syndrome, prompt delivery is indicated and followed by resolution of maternal edema and other findings (Braun, 2010). However, in isolated cases of fetal anemia, supraventricular tachycardia, hydrothorax, or bladder outlet obstruction, successful fetal treatment has resulted in resolution of both fetal hydrops and maternal mirror syndrome (Goa, 2013; Livingston, 2007; Llurba, 2012; Midgley, 2000). Normalization of the angiogenic imbalance has also been described following fetal transfusion for parvovirus B19 infection. Fetal therapy for these conditions is reviewed in Chapter 19. Given the parallels to severe preeclampsia, delaying delivery to effect fetal therapy should be considered only with caution. If the maternal condition deteriorates, delivery is recommended.
+
+## References
+
+American Academy of Pediatrics, American College of Obstetricians and Gynecologists: Guidelines for Perinatal Care. 8th ed. Elk Grove Village, AAP, 2017 American College of Obstetricians and Gynecologists: Management of alloimmunization during pregnancy. Practice Bulletin No. 192, March 2018, Reaffirmed 2019a American College of Obstetricians and Gynecologists: Prevention of Rh-D alloimmunization. Practice Bulletin No. 181, August 2017, Reaffirmed 2019b American College of Obstetricians and Gynecologists: Microarrays and next-generation sequencing technology: the use of advanced genetic diagnostic tools in obstetrics and gynecology. Committee Opinion No. 682, December 2016, Reaffirmed 2020 Bellini C, Donarini G, Paladini D, et al: Etiology of non-immune hydrops fetalis: an update. Am J Med Genet 167A:1082, 2015 Bellini C, Hennekam RC: Non-immune hydrops fetalis: a short review of etiology and pathophysiology. Am J Med Genet 158A(3):597, 2012
+
+Bellini C, Hennekam RC, Fulcheri E, et al: Etiology of nonimmune hydrops fetalis: a systematic review. Am J Med Genet A 149A(5):844, 2009 Bellussi F, Perolo A, Ghi T, et al: Diagnosis of severe fetomaternal hemorrhage with fetal cerebral Doppler: case series and systematic review. Fetal Diagn Ther 41(1):1, 2017 Berkowitz RL, Kolb EA, McFarland JG, et al: Parallel randomized trials of risk-based therapy for fetal alloimmune thrombocytopenia. Obstet Gynecol 107(1):91, 2006 Bollason G, Hjartardottir H, Jonsson T, et al: Red blood cell alloimmunization in pregnancy during the years 1996–2015 in Iceland: a nation-wide population study. Transfusion 57(11):2578, 2017 Bowman J: Rh-immunoglobulin: Rh prophylaxis. Best Pract Res Clin Haematol 19(1):27, 2006 Bowman JM: Controversies in Rh prophylaxis: who needs Rh immune globulin and when should it be given? Am J Obstet Gynecol 151:289, 1985 Bowman JM: The prevention of Rh immunization. Transfus Med Rev 2:129, 1988 Braun T, Brauer M, Fuchs I, et al: Mirror syndrome: a systematic review of fetal associated conditions, maternal presentation, and perinatal outcome. Fetal Diagn Ther 27(4):191, 2010 Bussel JB, Berkowitz RL, Lynch L, et al: Antenatal management of alloimmune thrombocytopenia with intravenous gamma-globulin: a randomized trial of the addition of low-dose steroid to intravenous gamma-globulin. Am J Obstet Gynecol 174(5):1414, 1996 Bussel JB, Zabusky MR, Berkowitz RL, et al: Fetal alloimmune thrombocytopenia. N Engl J Med 337:22, 1997 Carbillon L, Oury JF, Guerin JM, et al: Clinical biological features of Ballantyne syndrome and the role of placental hydrops. Obstet Gynecol Surv 52(5):310, 1997 Chambers E, Davies L, Evans S, et al: Comparison of haemoglobin F detection by the acid elution test, flow cytometry and high-performance liquid chromatography in maternal blood samples analysed for fetomaternal haemorrhage. Transfus Med 22(3):199, 2012 Chen R, Liu M, Yan J, et al: Clinical characteristics of mirror syndrome: a retrospective study of 16 cases. J Obstet Gynaecol 41(1):73, 2021 Choavaratana R, Uer-Areewong S, Makanantakocol S: Fetomaternal transfusion in normal pregnancy and during delivery. J Med Assoc Thai 80:96, 1997 Corcoran D, Murphy D, Donnelly J, et al: The prevalence of maternal F cells in a pregnant population and potential overestimation of foeto-maternal haemorrhage as a consequence. Blood Transfus 12:570, 2014 Daniels G: Variants of RhD—current testing and clinical consequences. Br J Haematol 161(4):461, 2013 de Almeida V, Bowman JM: Massive fetomaternal hemorrhage: Manitoba experience. Obstet Gynecol 83:323, 1994 de Haas M, Thurik FF, Koelewijn JM et al: Haemolytic disease of the fetus and newborn. Vox Sang 109(2):99, 2015 Emiroğlu N, Yilmaz FH, Keçeci R, et al: Clinical characteristics and neonatal outcomes of liveborn newborns with hydrops fetalis treated in a tertiary level neonatal intensive care unit. Birth Defects Res 1:112(6):515, 2020 Fernandes BJ, von Dadelszen P, Fazal I, et al: Flow cytometric assessment of feto-maternal hemorrhage; a comparison with Betke-Kleihauer. Prenat Diagn 27(7):641, 2007 Garratty G, Glynn SA, McEntire R, et al: ABO and Rh(D) phenotype frequencies of different racial/ethnic groups in the United States. Transfusion 44(5):703, 2004 Giannina G, Moise KJ Jr, Dorman K: A simple method to estimate the volume for fetal intravascular transfusion. Fetal Diagn Ther 13:94, 1998
+
+Goa S, Mimura K, Kakigano A, et al: Normalisation of angiogenic imbalance after intra-uterine transfusion for mirror syndrome caused by parvovirus B19. Fetal Diagn Ther 34(3):176, 2013 Hachisuga K, Hidaka N, Fujita Y, et al: Can we predict neonatal thrombocytopenia in offspring of women with idiopathic thrombocytopenic purpura? Blood 49(4):259, 2014 Hackney DN, Knudtson EJ, Rossi KQ, et al: Management of pregnancies complicated by anti-c isoimmunization. Obstet Gynecol 103:24, 2004 Heinonen S, Ruynamen M, Kirkinen P: Etiology and outcome of second trimester nonimmunological fetal hydrops. Scand J Obstet Gynecol 79:15, 2000 Hobson SR, Wallace EM, Chan YF, et al: Mirroring preeclampsia: the molecular basis of Ballantyne syndrome. J Matern Fetal Neonatal Med 33(5):768, 2020 Howard H, Martlew V, McFadyen I, et al: Consequences for fetus and neonate of maternal red cell allo-immunization. Arch Dis Child Fetal Neonat Ed 78:F62, 1998 Johnson JA, MacDonald K, Clarke G, et al: No. 343—Routine non-invasive prenatal prediction of fetal RHD genotype in Canada: the time is here. J Obstet Gynaecol Can 39(5):366, 2017 Kaiser IH: Ballantyne and triple edema. Am J Obstet Gynecol 110(1):115, 1971 Kamphuis MM, Paridaans N, Porcelijn L, et al: Screening in pregnancy for fetal or neonatal alloimmune thrombocytopenia: systematic review. BJOG 117(11):1335, 2010 Kleihauer B, Braun H, Betke K: Demonstration of fetal hemoglobin in erythrocytes of a blood smear. Klin Wochenschr 35(12):637, 1957 Knight M, Pierce M, Allen D, et al: The incidence and outcomes of fetomaternal alloimmune thrombocytopenia: a UK national study using three data sources. Br J Haematol 152(4):460, 2011 Koelewijn JM, Vrijkotte TG, van der Schoot CE, et al: Effect of screening for red cell antibodies, other than anti-D, to detect hemolytic disease of the fetus and newborn: a population study in the Netherlands. Transfusion 48:941, 2008 Lazar L, Harmath AG, Ban Z, et al: Detection of maternal deoxyribonucleic acid in peripheral blood of premature and mature newborn infants. Prenat Diagn 26(2):168, 2006 Liao C, Wei J, Li Q, et al: Nonimmune hydrops fetalis diagnosed during the second half of pregnancy in Southern China. Fetal Diagn Ther 22(4):302, 2007 Lindenburg I, van Kamp I, van Zwet E, et al: Increased perinatal loss after intrauterine transfusion for alloimmune anaemia before 20 weeks of gestation. BJOG 120:847, 2013 Lindenburg IT, Smits-Wintjens VE, van Klink JM, et al: Long-term neurodevelopmental outcome after intrauterine transfusion for hemolytic disease of the fetus/newborn: the LOTUS study. Am J Obstet Gynecol 206:141.e1, 2012 Livingston JC, Malik KM, Crombleholme TM, et al: Mirror syndrome: a novel approach to therapy with fetal peritoneal-amniotic shunt. Obstet Gynecol 110(2 Pt 2):540, 2007 Llurba E, Marsal G, Sanchez O, et al: Angiogenic and antiangiogenic factors before and after resolution of maternal mirror syndrome. Ultrasound Obstet Gynecol 40(3):367, 2012 Lockwood CJ, Nadel AS, King ME, et al: A 32-year old pregnant woman with an abnormal fetal ultrasound study. Case 16–2009. N Engl J Med 360(21):2225, 2009 MacKenzie IZ, Roseman F, Findlay J, et al: The kinetics of routine antenatal prophylactic intramuscular injections of polyclonal anti-D immunoglobulin. BJOG 113:97, 2006 Maisonneuve E, Dugas A, Friszer S, et al: Effect of intravenous immunoglobulins to postpone the gestational age of first intrauterine transfusion in very severe red blood cell alloimmunization: a casecontrol study. J Gynecol Obstet Hum Reprod 50(7):102119, 2021 Mari G, Deter RL, Carpenter RL, et al: Noninvasive diagnosis by Doppler ultrasonography of fetal anemia due to maternal red-cell alloimmunization. N Engl J Med 342:9, 2000
+
+Martin JA, Hamilton BE, Sutton PD, et al: Births: final data for 2003. Natl Vital Stat Rep 54(2):1, 2005 Midgley DY, Hardrug K: The mirror syndrome. Eur J Obstet Gynecol Reprod Biol 8:201, 2000 Mizuuchi M, Murotsuki J, Ishii K, et al: Nationwide survey of intrauterine blood transfusion for fetal anemia in Japan. J Obstet Gynaecol Res 47(6):2076, 2021 Moise KJ: Fetal anemia due to non-Rhesus-D red-cell alloimmunization. Semin Fetal Neonatal Med 13(4):207, 2008 Moise KJ, Gandhi M, Boring NH, et al: Circulating cell-free DNA to determine the fetal RHD status in all three trimesters of pregnancy. Obstet Gynecol 128(6):1340, 2016 Nassr AA, Ness A, Hosseinzadeh P, et al: Outcome and treatment of antenatally diagnosed nonimmune hydrops fetalis. Fetal Diagn Ther 43(2):123, 2018 Neunert C, Lim W, Crowther M, et al: The American Society of Hematology 2011 evidence-based practice guideline for immune thrombocytopenia. Blood 117(16):4190, 2011 Nicolaides KH, Warenski JC, Rodeck CH: The relationship of fetal plasma protein concentration and hemoglobin level to the development of hydrops in rhesus isoimmunization. Am J Obstet Gynecol 152:341, 1985 Oepkes D, Seaward PG, Vandenbussche FP, et al: Doppler ultrasonography versus amniocentesis to predict fetal anemia. N Engl J Med 355:156, 2006 Pacheco LD, Berkowitz RL, Moise KJ, et al: Fetal and neonatal alloimmune thrombocytopenia. A management algorithm based on risk stratification. Obstet Gynecol 118(5):1157, 2011 Pazourkova E, Zednikova I, Korabecna M, et al: Optimization of diagnostic strategy for non-invasive cell-free foetal RHD determination from maternal plasma. Vox Sang March 24, 2021 [Epub ahead of print] Pegoraro V, Urbinati D, Visser GHA, et al: Hemolytic disease of the fetus and newborn due to Rh(D) incompatibility: a preventable disease that still produces significant morbidity and mortality in children. PLoS One 15(7):e0235807, 2020 Ratanasiri T, Komwilaisak R, Sittivech A, et al: Incidence, causes, and pregnancy outcomes of hydrops fetalis at Srinagarind Hospital, 1996–2005: a 10-year review. J Med Assoc Thai 92(5):594, 2009 Risson DC, Davies MW, Williams BA: Review of neonatal alloimmune thrombocytopenia. J Pediatr Child Health 48(9):816, 2012 Sandler SG, Flegel WA, Westhoff CM, et al: It’s time to phase-in RHD genotyping for patients with a serological weak D phenotype. Transfusion 55(3):680, 2015 Sandler SG, Queenan JT: A guide to terminology for Rh immunoprophylaxis. Obstet Gynecol 130(3):633,
+
+## 2017
+
+Santo S, Mansour S, Thilaganathan B, et al: Prenatal diagnosis of non-immune hydrops fetalis: what do we tell the parents? Prenat Diagn 31:186, 2011 Sileo FG, Kulkarni A, Branescu I, et al: Non-immune fetal hydrops: etiology and outcome according to gestational age at diagnosis. Ultrasound Obstet Gynecol 56(3):416, 2020 Slootweg YM, Lindenburg IT, Koelewijn JM, et al: Predicting anti-Kell-mediated hemolytic disease of the fetus and newborn: diagnostic accuracy of laboratory management. Am J Obstet Gynecol 219(4):393.e1, 2018 Society for Maternal-Fetal Medicine, Mari G, Norton ME, et al: Society for Maternal-Fetal Medicine (SMFM) Clinical Guideline #8: The fetus at risk for anemia—diagnosis and management. Am J Obstet Gynecol 212(6):697, 2015a Society for Maternal-Fetal Medicine, Norton ME, Chauhan SP, et al: Society for Maternal-Fetal Medicine (SMFM) Clinical Guideline #7: Nonimmune hydrops fetalis. Am J Obstet Gynecol 212(2):127, 2015b
+
+Sohan K, Carroll SG, De La Fuente S, et al: Analysis of outcome in hydrops fetalis in relation to gestational age at diagnosis, cause, and treatment. Acta Obstet Gynecol Scand 80(8):726, 2001 Sparks TN, Lianoglou BR, Adami RR, et al: Exome sequencing for prenatal diagnosis in nonimmune hydrops fetalis. N Engl J Med 383(18):1746, 2020 Sparks TN, Thao K, Lianoglou BR, et al: Nonimmune hydrops fetalis: identifying the underlying genetic etiology. Genet Med 21(6):1339, 2019 Storry JR, Clausen FB, Castilho L, et al: International Society of Blood Transfusion Working Party on red cell immunogenics and blood group terminology: report of the Dubai, Copenhagen, and Toronto meetings. Vox Sang 114(1):95, 2019 Suwanrath-Kengpol C, Kor-anantakul O, Suntharasaj T, et al: Etiology and outcome of non-immune hydrops fetalis in southern Thailand. Gynecol Obstet Invest 59(3):134, 2005 Tannirandorn Y, Rodeck CH: New approaches in the treatment of haemolytic disease of the fetus. Ballieres Clin Haematol 3(2):289, 1990 Tiller H, Kamphuis MM, Flodmark O, et al: Fetal intracranial hemorrhages caused by fetal and neonatal alloimmune thrombocytopenia: an observational cohort study of 43 cases from an international multicentre registry. BMJ 3:e002490, 2013 Van den Veyver IB, Moise KJ: Fetal RhD typing by polymerase chain reaction in pregnancies complicated by rhesus alloimmunization. Obstet Gynecol 88:1061, 1996 Van Kamp IL, Klumper FJ, Bakkum RS, et al: The severity of immune fetal hydrops is predictive of fetal outcome after intrauterine treatment. Am J Obstet Gynecol 185:668, 2001 Weiner CP, Pelzer GD, Heilskov J, et al: The effect of intravascular transfusion on umbilical venous pressure in anemic fetuses with and without hydrops. Am J Obstet Gynecol 161:1498, 1989 Weinstein L: Irregular antibodies causing hemolytic disease of the newborn: a continuing problem. Clin Obstet Gynecol 25(2):321, 1982 Welsh KJ, Bai Y, Education Committee of the Academy of Clinical Laboratory Physicians and Scientists: pathology consultation on patients with a large Rh immune globulin dose requirement. Am J Clin Pathol 145:744, 2016 Winkelhorst D, Murphy MF, Greinacher A, et al: Antenatal management in fetal and neonatal alloimmune thrombocytopenia: a systematic review. Blood 129(11):1538, 2017 Woelfer B, Schuchter K, Janisiw M, et al: Postdelivery levels of anti-D IgG prophylaxis in mothers depend on maternal body weight. Transfusion 44:512, 2004 Wylie BJ, D’Alton ME: Fetomaternal hemorrhage. Obstet Gynecol 115(5): 1039, 2010 Wyszynski DF, Carmen WJ, Cantor AB, et al: Pregnancy and birth outcomes among women with idiopathic thrombocytopenic purpura. J Pregnancy 2016:8297407, 2016 Yeom W, Paik ES, An JJ, et al: Clinical characteristics and perinatal outcome of fetal hydrops. Obstet Gynecol Sci 58(2):90, 2015 Zimmerman R, Carpenter RJ Jr, Durig P, et al: Longitudinal measurement of peak systolic velocity in the fetal middle cerebral artery for monitoring pregnancies complicated by red cell alloimmunization: a prospective multicenter trial with intention-to-treat. BJOG 109(7):746, 2002 Zipursky A, Bhutani VK: Impact of Rhesus disease on the global problem of bilirubin-induced neurologic dysfunction. Semin Fetal Neonatal Med 20(1):2, 2015 Zwiers C, Lindenburg IT, Klumper FJ, et al: Complications of intrauterine intravascular blood transfusion: lessons learned after 1678 procedures. Ultrasound Obstet Gynecol 50(2):180, 2017 Zwiers C, van der Bom JG, van Kamp IL, et al: Postponing early intrauterine transfusion with intravenous immunoglobulin treatment; the PETIT study on severe hemolytic disease of the fetus and newborn. Am J Obstet Gynecol 219(3):291.e1, 2018

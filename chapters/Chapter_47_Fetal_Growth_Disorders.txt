@@ -1,1260 +1,261 @@
-CHAPTER 47
+# Chapter 47: Fetal-Growth Disorders
 
-Fetal-Growth Disorders
+- Normal Fetal Growth
+- Fetal-Growth Restriction
+- Detection
+- Risk Factors
+- Management
+- Fetal Macrosomia
+- Risk Factors
+- Management
+- References
 
-NORMAL FETAL GROWTH
-FETAL-GROWTH RESTRICTION
-DETECTION
-RISK FACTORS
-MANAGEMENT
-FETAL MACROSOMIA
-RISK FACTORS
-MANAGEMENT
-REFERENCES
-Disorders of fetal growth occur at both ends of the spectrum, either fetalgrowth restriction or macrosomia. Each poses concern because of associated
-morbidities and potential mortality. However, in both categories most of
-these newborns are ultimately deemed normal and healthy but merely
-constitutionally small or large. The clinical challenge thus lies in the
-evaluation and management of suspected fetal-growth disorders.
+Disorders of fetal growth occur at both ends of the spectrum, either fetalgrowth restriction or macrosomia. Each poses concern because of associated morbidities and potential mortality. However, in both categories most of these newborns are ultimately deemed normal and healthy but merely constitutionally small or large. The clinical challenge thus lies in the evaluation and management of suspected fetal-growth disorders.
 
-NORMAL FETAL GROWTH
+## Normal Fetal Growth
 
-Fetal growth may be divided into three phases. The initial phase of
-hyperplasia occurs in the first 16 weeks and is characterized by a rapid rise
-in cell number. The second phase, which extends up to 32 weeks’ gestation,
-includes both cellular hyperplasia and hypertrophy. After 32 weeks, fetal
-mass accrues by cellular hypertrophy, and it is during this phase that most
-fetal fat and glycogen accumulate. The corresponding fetal-growth rates
-during these three phases approximate 5 g/d at 15 weeks’ gestation, 15 g/d at
-24 weeks’, and 30 g/d at 34 weeks’ (Grantz, 2018; Williams, 1982).
-In the National Institute of Child Health and Human Development Fetal
-Growth Studies, serial sonographic evaluations were performed in 1733
-nonobese, low-risk pregnancies at 12 sites across the United States (Grantz,
-2018). As shown in Figure 47-1, growth velocity peaked at 35 weeks’
-gestation (Grantz, 2018). The investigators demonstrated that fetal growth
-varies considerably and that it is not highly correlated with fetal birthweight
-percentile. Some fetuses with initial estimated weights below the 5th
-percentile maintained their growth velocity and ultimately weighed more at
-birth than other fetuses whose weight percentiles were initially higher but
-whose growth was slower. Such findings support our understanding that large
-and small fetal weight percentiles reflect constitutional size in some but
-indicate disordered growth in others. They further highlight the importance of
-serial sonography when abnormal growth is a concern.
+Fetal growth may be divided into three phases. The initial phase of hyperplasia occurs in the first 16 weeks and is characterized by a rapid rise in cell number. The second phase, which extends up to 32 weeks’ gestation, includes both cellular hyperplasia and hypertrophy. After 32 weeks, fetal mass accrues by cellular hypertrophy, and it is during this phase that most fetal fat and glycogen accumulate. The corresponding fetal-growth rates during these three phases approximate 5 g/d at 15 weeks’ gestation, 15 g/d at 24 weeks’, and 30 g/d at 34 weeks’ (Grantz, 2018; Williams, 1982). In the National Institute of Child Health and Human Development Fetal Growth Studies, serial sonographic evaluations were performed in 1733 nonobese, low-risk pregnancies at 12 sites across the United States (Grantz, 2018). As shown in Figure 47-1, growth velocity peaked at 35 weeks’ gestation (Grantz, 2018). The investigators demonstrated that fetal growth varies considerably and that it is not highly correlated with fetal birthweight percentile. Some fetuses with initial estimated weights below the 5th percentile maintained their growth velocity and ultimately weighed more at birth than other fetuses whose weight percentiles were initially higher but whose growth was slower. Such findings support our understanding that large and small fetal weight percentiles reflect constitutional size in some but indicate disordered growth in others. They further highlight the importance of serial sonography when abnormal growth is a concern.
 
-FIGURE 47-1 Fetal weight gain in grams per day by race/ethnicity throughout gestation.
+> **Figure 47-1:** Fetal weight gain in grams per day by race/ethnicity throughout gestation.
 
-■ Normal Birthweight
-Accurate gestational age assessment is critical for determining whether
-birthweight is normal. Current normative data are based on birthweights from
-pregnancies in which gestational age is established using an obstetrical
-estimate that includes sonography and discussed in Chapter 14 (p. 248)
-(American College of Obstetricians and Gynecologists, 2019b). The
-birthweight percentiles shown in Table 47-1 were derived using data from
-more than 3 million liveborn singletons delivered across the United States in
+### Normal Birthweight
 
-2011 (Duryea, 2014). As shown in Figure 47-2, use of a birthweight
-percentile curve in which gestational age is based on a last menstrual period
-alone yields significantly larger weights for a given gestational age,
-particularly in the preterm period. The accuracy of a birthweight reference
-thus has potential to affect the prevalence of neonates diagnosed as small or
-large for gestational age.
-TABLE 47-1. 2011 Gestational Age Birthweight (g) Percentiles for
-3,252,011 Singleton Live Births in the United States
+Accurate gestational age assessment is critical for determining whether birthweight is normal. Current normative data are based on birthweights from pregnancies in which gestational age is established using an obstetrical estimate that includes sonography and discussed in Chapter 14 (p. 248) (American College of Obstetricians and Gynecologists, 2019b). The birthweight percentiles shown in Table 47-1 were derived using data from more than 3 million liveborn singletons delivered across the United States in
 
-FIGURE 47-2 Fetal-growth curves for births in the United States in 2011. Curves vary depending on
-whether gestational age was calculated from the last menstrual period or from an improved obstetrical
-estimate, derived in part using sonography. (Modified with permission from Duryea EL, Hawkins JS,
-McIntire DD, et al: A revised birth weight reference for the United States. Obstet Gynecol. 2014
-Jul;124(1):16–22.)
+2011 (Duryea, 2014). As shown in Figure 47-2, use of a birthweight percentile curve in which gestational age is based on a last menstrual period alone yields significantly larger weights for a given gestational age, particularly in the preterm period. The accuracy of a birthweight reference thus has potential to affect the prevalence of neonates diagnosed as small or large for gestational age.
 
-The curve by Duryea and associates (2014) is most accurately termed a
-population reference, rather than a standard. A population reference
-incorporates pregnancies of varying risks, along with the resulting outcomes,
-both normal and abnormal. In contrast, a standard incorporates normal
-pregnancies with normal outcomes. Because population references include
-preterm births, which are more likely to be growth restricted, it has been
-argued that the associated birthweight data overestimate impaired fetal
-growth (Mayer, 2013; Zhang, 2010).
+> **Table 47-1:** 2011 Gestational Age Birthweight (g) Percentiles for 3,252,011 Singleton Live Births in the United States
 
-■ Physiology of Fetal Growth
-Fetal development is believed to be determined by maternal provision of
-substrate and its placental transfer, whereas fetal growth potential is
-governed by the genome. The precise cellular and molecular mechanisms
-leading to normal fetal growth are incompletely understood. Considerable
-evidence supports the role of insulin and insulin-like growth factors in fetal
-growth and weight gain regulation (Luo, 2012). These growth factors are
-produced by virtually all organs and are potent stimulators of cell division
+> **Figure 47-2:** Fetal-growth curves for births in the United States in 2011. Curves vary depending on whether gestational age was calculated from the last menstrual period or from an improved obstetrical estimate, derived in part using sonography. (Modified with permission from Duryea EL, Hawkins JS, McIntire DD, et al: A revised birth weight reference for the United States. Obstet Gynecol. 2014 Jul;124(1):16–22.)
 
-and differentiation. Other hormones implicated in fetal growth include leptin
-and other adipokines, which are derived from adipose tissue. Fetal leptin
-concentrations rise during gestation, and they correlate both with birthweight
-and with neonatal fat mass (Briffa, 2015; Ökdemir, 2018; Simpson, 2017).
-Both excessive and diminished maternal glucose availability also have
-the potential to affect fetal growth (Chap. 7, p. 135). That said, growthrestricted neonates do not typically show pathologically low glucose
-concentrations in cord blood (Pardi, 2006). Fetal-growth restriction in
-response to glucose deprivation generally results only after long-term severe
-maternal caloric deprivation (Lechtig, 1975). Conversely, hyperglycemia
-more consistently results in excessive growth. The Hyperglycemia and
-Adverse Pregnancy Outcomes (HAPO) Study Cooperative Research Group
-(2008) found that elevated cord C-peptide levels, which reflect fetal
-hyperinsulinemia, are associated with greater birthweight. This relationship
-was noted even in women with maternal glucose levels below the threshold
-for diabetes.
-Excessive transfer of lipids has similarly been implicated in fetal
-overgrowth (Delhaes, 2018). Free or nonesterified fatty acids in maternal
-plasma may be transferred to the fetus via facilitated diffusion or after
-liberation of fatty acids from triglycerides by trophoblastic lipases (GilSánchez, 2012). Independent of prepregnancy body mass index (BMI), higher
-maternal free fatty acid levels during the latter half of pregnancy correlate
-with birthweight (Crume, 2015). Greater intake of certain fatty acids,
-particularly omega-3, is associated with greater birthweight (CalabuigNavarro, 2016).
-Placental fatty acid metabolism and transfer may be dysregulated in fetalgrowth restriction and in maternal conditions associated with fetal
-overgrowth. For example, levels of endothelial lipase are reduced with
-deficient fetal growth, and this enzyme is overexpressed in placentas of
-women with diabetes (Gauster, 2007, 2011). Others have reported that
-diabetes and obesity are associated with altered placental lipid-transport
-gene expression (Segura, 2017). Obesity is also linked with greater
-expression of fatty acid binding/transport proteins within the trophoblast
-(Myatt, 2016). These alterations lead to an abnormal accumulation of lipids
-that can result in pathological placental inflammation and dysfunction
-(Calabuig-Navarro, 2016; Myatt, 2016; Yang, 2016).
+The curve by Duryea and associates (2014) is most accurately termed a population reference, rather than a standard. A population reference incorporates pregnancies of varying risks, along with the resulting outcomes, both normal and abnormal. In contrast, a standard incorporates normal pregnancies with normal outcomes. Because population references include preterm births, which are more likely to be growth restricted, it has been argued that the associated birthweight data overestimate impaired fetal growth (Mayer, 2013; Zhang, 2010).
 
-FETAL-GROWTH RESTRICTION
-Fundamental to understanding fetal-growth restriction (FGR) is an
-appreciation of the strengths and limitations of its defining criteria. A
-diagnosis based on estimated fetal weight alone does not indicate disease
-but rather a fetus that is in an at-risk category. Benefits of definitions such as
-the one used by the American College of Obstetricians and Gynecologists are
-ease of application and promotion of consistency across care settings.
-However, if applied to an otherwise low-risk population, a 10th-percentile
-threshold will label nearly 10 percent of fetuses as growth restricted,
-although most are merely constitutionally small rather than compromised.
-Moreover, a threshold will fail to identify at-risk fetuses with a weight above
-that threshold but who have not reached their growth potential. Thus, the
-definition is intended to strike a balance between false-positive and falsenegative diagnoses.
+### Physiology of Fetal Growth
 
-■ Definition
-Various criteria and thresholds have been used to define FGR. These have
-included estimated fetal weights (EFW) below the 3rd, 5th, or 10th
-percentiles; similar abdominal circumference (AC) percentiles; a specified
-decline in the EFW percentile or AC percentile over serial assessments; and
-various abnormal Doppler findings (Lees, 2020). All definitions are based
-solely on prenatal sonography and rely on accurate gestational age
-assessment.
-Currently, the American College of Obstetricians and Gynecologists
-(2021a) and the Society for Maternal-Fetal Medicine (2020) recommend
-defining FGR as either an EFW <10th percentile for gestational age or an AC
-<10th percentile for gestational age. Use of the AC threshold may correctly
-identify one additional small-for-gestational age (SGA) newborn for every
-14 sonograms performed in the last month of pregnancy (Blue, 2018).
-Importantly, management recommendations are further stratified based on
-lower percentile thresholds and findings such as oligohydramnios or
-abnormal umbilical artery Doppler velocimetry, as discussed subsequently
-(p. 829).
-To more precisely identify growth-restricted fetuses, investigators have
-derived customized growth charts that incorporate variables such as maternal
+Fetal development is believed to be determined by maternal provision of substrate and its placental transfer, whereas fetal growth potential is governed by the genome. The precise cellular and molecular mechanisms leading to normal fetal growth are incompletely understood. Considerable evidence supports the role of insulin and insulin-like growth factors in fetal growth and weight gain regulation (Luo, 2012). These growth factors are produced by virtually all organs and are potent stimulators of cell division
 
-height and weight, race or ethnicity, parity, and fetal sex. However,
-customized growth curves do not improve outcomes and thus are not
-recommended (American College of Obstetricians and Gynecologists,
-2021a; Chiossi, 2017; Costantine, 2013; Grobman, 2013; Zhang, 2011).
-FGR should be differentiated from SGA, which is a postnatal designation
-based on birthweight percentile. When considering FGR detection,
-investigators study the proportion of SGA neonates identified as FGR during
-prenatal sonography. However, FGR often does not equate to SGA because
-of the inherent error of sonographic measurement. One population-based
-study of routine third-trimester sonography found that 50 percent of those
-with suspected FGR had birthweights above the 10th percentile (Monier,
-2015). Those with false-positive diagnoses of FGR were delivered 2 weeks
-earlier in gestation, which raises concerns about potential iatrogenic
-sequelae of routine screening.
-Importantly, as many as 70 percent of SGA newborns are not
-pathologically growth restricted. Indeed, such children have normal
-outcomes and are thought to be appropriately grown when maternal ethnic
-group, parity, weight, and height are considered (Unterscheider, 2015). In a
-Swedish study of 130,000 term births, the maternal and paternal birthweights
-were estimated to account for 6 and 3 percent of variance in birthweight,
-respectively (Mattsson, 2013). Additionally, as shown in Figure 47-3, most
-adverse outcomes occur in newborns smaller than the 3rd percentile
-(Manning, 1995). In a review of more than 80,000 singleton term births from
-Parkland Hospital, McIntire and colleagues (1999) found that neonatal
-mortality and most neonatal morbidity rates rose only at birthweights at or
-below the 3rd percentile.
+and differentiation. Other hormones implicated in fetal growth include leptin and other adipokines, which are derived from adipose tissue. Fetal leptin concentrations rise during gestation, and they correlate both with birthweight and with neonatal fat mass (Briffa, 2015; Ökdemir, 2018; Simpson, 2017). Both excessive and diminished maternal glucose availability also have the potential to affect fetal growth (Chap. 7, p. 135). That said, growthrestricted neonates do not typically show pathologically low glucose concentrations in cord blood (Pardi, 2006). Fetal-growth restriction in response to glucose deprivation generally results only after long-term severe maternal caloric deprivation (Lechtig, 1975). Conversely, hyperglycemia more consistently results in excessive growth. The Hyperglycemia and Adverse Pregnancy Outcomes (HAPO) Study Cooperative Research Group (2008) found that elevated cord C-peptide levels, which reflect fetal hyperinsulinemia, are associated with greater birthweight. This relationship was noted even in women with maternal glucose levels below the threshold for diabetes. Excessive transfer of lipids has similarly been implicated in fetal overgrowth (Delhaes, 2018). Free or nonesterified fatty acids in maternal plasma may be transferred to the fetus via facilitated diffusion or after liberation of fatty acids from triglycerides by trophoblastic lipases (GilSánchez, 2012). Independent of prepregnancy body mass index (BMI), higher maternal free fatty acid levels during the latter half of pregnancy correlate with birthweight (Crume, 2015). Greater intake of certain fatty acids, particularly omega-3, is associated with greater birthweight (CalabuigNavarro, 2016). Placental fatty acid metabolism and transfer may be dysregulated in fetalgrowth restriction and in maternal conditions associated with fetal overgrowth. For example, levels of endothelial lipase are reduced with deficient fetal growth, and this enzyme is overexpressed in placentas of women with diabetes (Gauster, 2007, 2011). Others have reported that diabetes and obesity are associated with altered placental lipid-transport gene expression (Segura, 2017). Obesity is also linked with greater expression of fatty acid binding/transport proteins within the trophoblast (Myatt, 2016). These alterations lead to an abnormal accumulation of lipids that can result in pathological placental inflammation and dysfunction (Calabuig-Navarro, 2016; Myatt, 2016; Yang, 2016).
 
-FIGURE 47-3 Relationship between birthweight percentile and perinatal mortality and morbidity rates
-in 1560 small-for-gestational-age fetuses. A progressive increase in both mortality and morbidity rates is
-observed as birthweight percentile decreases.
+## Fetal-Growth Restriction
 
-Small-but-normal neonates do not show evidence of the postnatal
-metabolic derangements commonly associated with deficient fetal growth.
-Moreover, these intrinsically small newborns remain significantly smaller
-during surveillance to 2 years compared with appropriate-for-gestational-age
-sized neonates. However, they do not show differences in measures of
-metabolic risk that included glucose and insulin levels (Milovanovic, 2012).
-As discussed later, true SGA newborns carry short- and long-term metabolic
-risks.
+Fundamental to understanding fetal-growth restriction (FGR) is an appreciation of the strengths and limitations of its defining criteria. A diagnosis based on estimated fetal weight alone does not indicate disease but rather a fetus that is in an at-risk category. Benefits of definitions such as the one used by the American College of Obstetricians and Gynecologists are ease of application and promotion of consistency across care settings. However, if applied to an otherwise low-risk population, a 10th-percentile threshold will label nearly 10 percent of fetuses as growth restricted, although most are merely constitutionally small rather than compromised. Moreover, a threshold will fail to identify at-risk fetuses with a weight above that threshold but who have not reached their growth potential. Thus, the definition is intended to strike a balance between false-positive and falsenegative diagnoses.
 
-■ Detection
+### Definition
 
-Identification of truly impaired fetal growth remains a challenge. Ideally, it
-involves detecting fetuses who meet the aforementioned definition and also
-discerning those at risk for compromise. There are three main tenets:
-1. The diagnosis relies on accurate gestational age assessment, optimally
-confirmed with sonography in the first or early second trimester (Table 141, p. 248). If gestational age is uncertain and the diagnosis is suspected,
-serial sonography is considered.
-2. In low-risk pregnancies, the diagnosis is suspected based on clinical
-abdominal examination after 24 weeks’ gestation in which the fundal
-height lags by ≥3 cm. Sonography is then performed.
-3. If the pregnancy is at risk for FGR, based on factors reviewed in the next
-section, sonography is considered to assist with detection. This is
-performed at approximately 32 weeks’ gestation. Care is individualized,
-and in some cases sonography may be needed every 4 weeks to assess
-fetal growth. One example of the latter is twin gestations, because fundal
-height cannot evaluate individual twin growth (Chap. 48, p. 851).
+Various criteria and thresholds have been used to define FGR. These have included estimated fetal weights (EFW) below the 3rd, 5th, or 10th percentiles; similar abdominal circumference (AC) percentiles; a specified decline in the EFW percentile or AC percentile over serial assessments; and various abnormal Doppler findings (Lees, 2020). All definitions are based solely on prenatal sonography and rely on accurate gestational age assessment. Currently, the American College of Obstetricians and Gynecologists (2021a) and the Society for Maternal-Fetal Medicine (2020) recommend defining FGR as either an EFW <10th percentile for gestational age or an AC <10th percentile for gestational age. Use of the AC threshold may correctly identify one additional small-for-gestational age (SGA) newborn for every 14 sonograms performed in the last month of pregnancy (Blue, 2018). Importantly, management recommendations are further stratified based on lower percentile thresholds and findings such as oligohydramnios or abnormal umbilical artery Doppler velocimetry, as discussed subsequently (p. 829). To more precisely identify growth-restricted fetuses, investigators have derived customized growth charts that incorporate variables such as maternal
 
-Uterine Fundal Height
-At each prenatal visit after 20 weeks’ gestation, fundal height is assessed to
-screen for fetal-growth impairment (Chap. 10, p. 182). The measurement in
-centimeters approximates the gestational age in weeks. The uterine size-date
-discrepancy may be unrelated to fetal size. However, if the measurement
-differs by ≥3 cm in the absence of an obvious explanation, sonography is
-generally performed.
-Serial fundal height measurement is the only routine screening for FGR
-that is endorsed by the American College of Obstetricians and Gynecologists
-and Society for Maternal-Fetal Medicine (2021a). International consensus
-also indicates that carefully performed serial fundal height measurements are
-a simple, safe, inexpensive, and reasonably accurate method to screen for
-FGR (McCowan, 2018).
-Limitations of fundal height screening are well documented. The overall
-sensitivity of fundal height to detect FGR ranges from 11 to 25 percent
-(Goetzinger, 2012; Grantz, 2021; Roex, 2012; Sparks, 2011). Detection rates
-are lower in obese women than in those with normal BMI (Goetzinger,
-2012).
+height and weight, race or ethnicity, parity, and fetal sex. However, customized growth curves do not improve outcomes and thus are not recommended (American College of Obstetricians and Gynecologists, 2021a; Chiossi, 2017; Costantine, 2013; Grobman, 2013; Zhang, 2011). FGR should be differentiated from SGA, which is a postnatal designation based on birthweight percentile. When considering FGR detection, investigators study the proportion of SGA neonates identified as FGR during prenatal sonography. However, FGR often does not equate to SGA because of the inherent error of sonographic measurement. One population-based study of routine third-trimester sonography found that 50 percent of those with suspected FGR had birthweights above the 10th percentile (Monier, 2015). Those with false-positive diagnoses of FGR were delivered 2 weeks earlier in gestation, which raises concerns about potential iatrogenic sequelae of routine screening. Importantly, as many as 70 percent of SGA newborns are not pathologically growth restricted. Indeed, such children have normal outcomes and are thought to be appropriately grown when maternal ethnic group, parity, weight, and height are considered (Unterscheider, 2015). In a Swedish study of 130,000 term births, the maternal and paternal birthweights were estimated to account for 6 and 3 percent of variance in birthweight, respectively (Mattsson, 2013). Additionally, as shown in Figure 47-3, most adverse outcomes occur in newborns smaller than the 3rd percentile (Manning, 1995). In a review of more than 80,000 singleton term births from Parkland Hospital, McIntire and colleagues (1999) found that neonatal mortality and most neonatal morbidity rates rose only at birthweights at or below the 3rd percentile.
 
-Sonographic Assessment
-Studies of routine screening for FGR using third-trimester sonography have
-yielded variable results, and detection of SGA neonates ranges from <20
-percent to >60 percent (Hammad, 2016; Monier, 2015; Sovio, 2015;
-Wanyonyi, 2021). One reason for poor detection is that sonography
-performed at any point in gestation will fail to detect pregnancies in which
-FGR develops later. Also, it will miss those needing delivery for FGR
-before the sonographic examination was performed. Compounding this is that
-EFW is an imperfect metric. Given that most SGA neonates are
-constitutionally small, it is not unexpected that the recurrence risk for FGR
-approximates 20 percent. Many of these cases are merely smaller mothers
-having smaller healthy children in successive pregnancies.
-Routine third-trimester sonography to assess fetal growth is not
-recommended because it has not been demonstrated to improve outcomes
-(American College of Obstetricians and Gynecologists, 2021a). Indeed, a
-Cochrane database analysis of 13 trials with 34,980 women found that
-routine late-pregnancy ultrasound for a low-risk or an unselected population
-was not associated with maternal or fetal benefit (Bricker, 2015).
+> **Figure 47-3:** Relationship between birthweight percentile and perinatal mortality and morbidity rates in 1560 small-for-gestational-age fetuses. A progressive increase in both mortality and morbidity rates is observed as birthweight percentile decreases.
 
-■ Pathophysiology
-Fetal-growth restriction is one of the “major obstetrical syndromes”
-associated with defects in early placentation (Brosens, 2015). Mechanisms
-leading to abnormal trophoblastic invasion are likely multifactorial, and both
-vascular and immunological etiologies have been proposed. For example,
-atrial natriuretic peptide converting enzyme, also known as corin, plays a
-critical role in trophoblastic invasion and remodeling of the uterine spiral
-arteries (Cui, 2012). These processes are impaired in corin-deficient mice,
-which also develop evidence of preeclampsia. Moreover, mutations in the
-gene for corin are reported in women with preeclampsia (Chen, 2015).
-Several immunological abnormalities are associated with FGR. This
-raises the prospect of maternal rejection of the “paternal semiallograft.”
-Rudzinski and colleagues (2013) studied C4d, a component of complement
-that is associated with humoral rejection of transplanted tissues. They found
-this to be highly associated with chronic villitis—88 percent of cases versus
-only 5 percent of controls—and with reduced placental weight. In a study of
+Small-but-normal neonates do not show evidence of the postnatal metabolic derangements commonly associated with deficient fetal growth. Moreover, these intrinsically small newborns remain significantly smaller during surveillance to 2 years compared with appropriate-for-gestational-age sized neonates. However, they do not show differences in measures of metabolic risk that included glucose and insulin levels (Milovanovic, 2012). As discussed later, true SGA newborns carry short- and long-term metabolic risks.
 
-10,204 placentas, chronic villitis was associated with placental
-hypoperfusion, fetal acidemia, and FGR and its sequelae (Greer, 2012). Kim
-and coworkers (2015) extensively reviewed chronic inflammatory placental
-lesions and their association with fetal-growth restriction, preeclampsia, and
-preterm birth.
+### Detection
 
-■ Risk Factors
-Risk factors for impaired fetal growth may be divided into three overlapping
-categories or “compartments”: those in the mother, the fetus, or the placenta.
-Some of these are depicted in Figure 47-4. Many causes of FGR are
-prospectively considered risk factors, because impaired fetal growth is not
-consistent in all affected women.
+Identification of truly impaired fetal growth remains a challenge. Ideally, it involves detecting fetuses who meet the aforementioned definition and also discerning those at risk for compromise. There are three main tenets: 1. The diagnosis relies on accurate gestational age assessment, optimally confirmed with sonography in the first or early second trimester (Table 141, p. 248). If gestational age is uncertain and the diagnosis is suspected, serial sonography is considered.
 
-FIGURE 47-4 Risk factors and causes of impaired fetal growth centering on the mother, fetus, and
-placenta.
+2. In low-risk pregnancies, the diagnosis is suspected based on clinical abdominal examination after 24 weeks’ gestation in which the fundal height lags by ≥3 cm. Sonography is then performed.
+
+3. If the pregnancy is at risk for FGR, based on factors reviewed in the next section, sonography is considered to assist with detection. This is performed at approximately 32 weeks’ gestation. Care is individualized, and in some cases sonography may be needed every 4 weeks to assess fetal growth. One example of the latter is twin gestations, because fundal height cannot evaluate individual twin growth (Chap. 48, p. 851).
+
+Uterine Fundal Height At each prenatal visit after 20 weeks’ gestation, fundal height is assessed to screen for fetal-growth impairment (Chap. 10, p. 182). The measurement in centimeters approximates the gestational age in weeks. The uterine size-date discrepancy may be unrelated to fetal size. However, if the measurement differs by ≥3 cm in the absence of an obvious explanation, sonography is generally performed. Serial fundal height measurement is the only routine screening for FGR that is endorsed by the American College of Obstetricians and Gynecologists and Society for Maternal-Fetal Medicine (2021a). International consensus also indicates that carefully performed serial fundal height measurements are a simple, safe, inexpensive, and reasonably accurate method to screen for FGR (McCowan, 2018). Limitations of fundal height screening are well documented. The overall sensitivity of fundal height to detect FGR ranges from 11 to 25 percent (Goetzinger, 2012; Grantz, 2021; Roex, 2012; Sparks, 2011). Detection rates are lower in obese women than in those with normal BMI (Goetzinger, 2012).
+
+Sonographic Assessment Studies of routine screening for FGR using third-trimester sonography have yielded variable results, and detection of SGA neonates ranges from <20 percent to >60 percent (Hammad, 2016; Monier, 2015; Sovio, 2015; Wanyonyi, 2021). One reason for poor detection is that sonography performed at any point in gestation will fail to detect pregnancies in which FGR develops later. Also, it will miss those needing delivery for FGR before the sonographic examination was performed. Compounding this is that EFW is an imperfect metric. Given that most SGA neonates are constitutionally small, it is not unexpected that the recurrence risk for FGR approximates 20 percent. Many of these cases are merely smaller mothers having smaller healthy children in successive pregnancies. Routine third-trimester sonography to assess fetal growth is not recommended because it has not been demonstrated to improve outcomes (American College of Obstetricians and Gynecologists, 2021a). Indeed, a Cochrane database analysis of 13 trials with 34,980 women found that routine late-pregnancy ultrasound for a low-risk or an unselected population was not associated with maternal or fetal benefit (Bricker, 2015).
+
+### Pathophysiology
+
+Fetal-growth restriction is one of the “major obstetrical syndromes” associated with defects in early placentation (Brosens, 2015). Mechanisms leading to abnormal trophoblastic invasion are likely multifactorial, and both vascular and immunological etiologies have been proposed. For example, atrial natriuretic peptide converting enzyme, also known as corin, plays a critical role in trophoblastic invasion and remodeling of the uterine spiral arteries (Cui, 2012). These processes are impaired in corin-deficient mice, which also develop evidence of preeclampsia. Moreover, mutations in the gene for corin are reported in women with preeclampsia (Chen, 2015). Several immunological abnormalities are associated with FGR. This raises the prospect of maternal rejection of the “paternal semiallograft.” Rudzinski and colleagues (2013) studied C4d, a component of complement that is associated with humoral rejection of transplanted tissues. They found this to be highly associated with chronic villitis—88 percent of cases versus only 5 percent of controls—and with reduced placental weight. In a study of
+
+10,204 placentas, chronic villitis was associated with placental hypoperfusion, fetal acidemia, and FGR and its sequelae (Greer, 2012). Kim and coworkers (2015) extensively reviewed chronic inflammatory placental lesions and their association with fetal-growth restriction, preeclampsia, and preterm birth.
+
+### Risk Factors
+
+Risk factors for impaired fetal growth may be divided into three overlapping categories or “compartments”: those in the mother, the fetus, or the placenta. Some of these are depicted in Figure 47-4. Many causes of FGR are prospectively considered risk factors, because impaired fetal growth is not consistent in all affected women.
+
+> **Figure 47-4:** Risk factors and causes of impaired fetal growth centering on the mother, fetus, and placenta.
 
 Gestational Weight Gain and Nutrition
 
-Maternal weight gain during pregnancy is positively correlated with fetal
-size (Hutcheon, 2019). Among women with gestational diabetes, gestational
-weight gain is also associated with both neonatal birthweight and adiposity
-(Blackwell, 2016). In contrast, a gestational weight gain during the second
-and third trimesters that is less than that recommended by the Institute of
-Medicine is associated with increased risk of an SGA neonate in women of
-all weight categories except class II or III obesity (Durie, 2011) (Chap. 10,
-p. 183). The best-documented effect of famine on fetal growth was in the
-winter of 1944 in Holland. For 6 months, the German occupation army
-restricted dietary intake to 500 kcal/d for civilians, including pregnant
-women. As a result, the average birthweight declined by 250 g (Stein, 1975).
-Undernourished women may benefit from micronutrient supplementation.
-In one study, almost 32,000 Indonesian women were randomly assigned to
-receive micronutrient supplementation or only iron and folate tablets (Prado,
-2012). Offspring of those receiving the supplement had lower risks of early
-infant mortality and low birthweight and had improved childhood motor and
-cognitive abilities. A Cochrane review of 20 trials involving 141,849
-women concluded that supplementation of micronutrients may lower the risk
-of low birthweight (Keats, 2019). The importance of antenatal vitamins and
-trace metals is discussed in Chapter 10 (p. 185).
+Maternal weight gain during pregnancy is positively correlated with fetal size (Hutcheon, 2019). Among women with gestational diabetes, gestational weight gain is also associated with both neonatal birthweight and adiposity (Blackwell, 2016). In contrast, a gestational weight gain during the second and third trimesters that is less than that recommended by the Institute of Medicine is associated with increased risk of an SGA neonate in women of all weight categories except class II or III obesity (Durie, 2011) (Chap. 10, p. 183). The best-documented effect of famine on fetal growth was in the winter of 1944 in Holland. For 6 months, the German occupation army restricted dietary intake to 500 kcal/d for civilians, including pregnant women. As a result, the average birthweight declined by 250 g (Stein, 1975). Undernourished women may benefit from micronutrient supplementation. In one study, almost 32,000 Indonesian women were randomly assigned to receive micronutrient supplementation or only iron and folate tablets (Prado, 2012). Offspring of those receiving the supplement had lower risks of early infant mortality and low birthweight and had improved childhood motor and cognitive abilities. A Cochrane review of 20 trials involving 141,849 women concluded that supplementation of micronutrients may lower the risk of low birthweight (Keats, 2019). The importance of antenatal vitamins and trace metals is discussed in Chapter 10 (p. 185).
 
-Socioeconomic Factors
-The effect of social deprivation on birthweight is interconnected with
-lifestyle factors such as smoking, alcohol or other substance abuse, and poor
-nutrition. With appropriate modifying interventions, women with
-psychosocial factors were significantly less likely to deliver a lowbirthweight newborn and also had fewer preterm births and other pregnancy
-complications (Coker, 2012).
-Food insecurity, late entry into prenatal care, and limited access to
-healthcare are all contributors to fetal-growth restriction (Bryant, 2010).
-Hall (2020) found that in a military population with equal access to
-healthcare, racial differences in late entry to prenatal care and FGR persist.
-An Australian study showed that the proportion of pregnancies affected by
-fetal-growth restriction increased as levels of social disadvantage rose
-(Langridge, 2011).
+Socioeconomic Factors The effect of social deprivation on birthweight is interconnected with lifestyle factors such as smoking, alcohol or other substance abuse, and poor nutrition. With appropriate modifying interventions, women with psychosocial factors were significantly less likely to deliver a lowbirthweight newborn and also had fewer preterm births and other pregnancy complications (Coker, 2012). Food insecurity, late entry into prenatal care, and limited access to healthcare are all contributors to fetal-growth restriction (Bryant, 2010). Hall (2020) found that in a military population with equal access to healthcare, racial differences in late entry to prenatal care and FGR persist. An Australian study showed that the proportion of pregnancies affected by fetal-growth restriction increased as levels of social disadvantage rose (Langridge, 2011).
 
-Vascular and Renal Disease
-Especially when complicated by superimposed preeclampsia, chronic
-vascular disease commonly restricts fetal growth (Chap. 53, p. 948).
-Maternal vascular disease as evidenced by abnormal uterine artery Doppler
-velocimetry early in pregnancy is associated with higher rates of
-preeclampsia, SGA neonates, and delivery before 34 weeks (He, 2020;
-Poon, 2019). Using Washington state birth certificate data, Leary and
-colleagues (2012) found that maternal ischemic heart disease was associated
-with a 16-percent risk of having an SGA newborn.
-Chronic renal insufficiency is frequently associated with underlying
-hypertension and vascular disease. Nephropathies are commonly
-accompanied by restricted fetal growth (Cunningham, 1990; Feng, 2015;
-Saliem, 2016). These relationships are considered further in Chapter 56 (p.
-1004).
+Vascular and Renal Disease Especially when complicated by superimposed preeclampsia, chronic vascular disease commonly restricts fetal growth (Chap. 53, p. 948). Maternal vascular disease as evidenced by abnormal uterine artery Doppler velocimetry early in pregnancy is associated with higher rates of preeclampsia, SGA neonates, and delivery before 34 weeks (He, 2020; Poon, 2019). Using Washington state birth certificate data, Leary and colleagues (2012) found that maternal ischemic heart disease was associated with a 16-percent risk of having an SGA newborn. Chronic renal insufficiency is frequently associated with underlying hypertension and vascular disease. Nephropathies are commonly accompanied by restricted fetal growth (Cunningham, 1990; Feng, 2015; Saliem, 2016). These relationships are considered further in Chapter 56 (p. 1004).
 
-Pregestational Diabetes
-Fetal-growth restriction in newborns of women with diabetes may be related
-to congenital malformations or may follow substrate deprivation from
-advanced maternal vascular disease (Chap. 60, p. 1072). The likelihood of
-restricted growth increases with worsening White classification, particularly
-nephropathy (Klemetti, 2016). That said, the prevalence of serious vascular
-disease associated with diabetes in pregnancy is low.
+Pregestational Diabetes Fetal-growth restriction in newborns of women with diabetes may be related to congenital malformations or may follow substrate deprivation from advanced maternal vascular disease (Chap. 60, p. 1072). The likelihood of restricted growth increases with worsening White classification, particularly nephropathy (Klemetti, 2016). That said, the prevalence of serious vascular disease associated with diabetes in pregnancy is low.
 
-Chronic Hypoxia
-Conditions associated with chronic hypoxia include asthma, maternal
-cyanotic heart disease, other chronic pulmonary disease, cigarette smoking,
-and living at high altitude. When exposed to a chronically hypoxic
-environment, some fetuses have significantly reduced birthweight. Smoking
-causes a dose-dependent reduction in fetal growth, resulting in an average
-birthweight 200 g below that of newborns of nonsmokers (D’Souza, 1981).
-For each 1000-meter rise in altitude, the birthweight declined 150 g in a
-study of more than 1.8 million births in Austria (Waldhoer, 2015).
+Chronic Hypoxia Conditions associated with chronic hypoxia include asthma, maternal cyanotic heart disease, other chronic pulmonary disease, cigarette smoking, and living at high altitude. When exposed to a chronically hypoxic environment, some fetuses have significantly reduced birthweight. Smoking causes a dose-dependent reduction in fetal growth, resulting in an average birthweight 200 g below that of newborns of nonsmokers (D’Souza, 1981). For each 1000-meter rise in altitude, the birthweight declined 150 g in a study of more than 1.8 million births in Austria (Waldhoer, 2015).
 
-Anemia
-In most cases, maternal anemia does not impair fetal growth. Exceptions
-include sickle-cell disease and other inherited anemias (Desai, 2017; Thame,
+Anemia In most cases, maternal anemia does not impair fetal growth. Exceptions include sickle-cell disease and other inherited anemias (Desai, 2017; Thame,
 
-2016). Importantly, curtailed maternal blood-volume expansion is linked to
-FGR (de Haas, 2017; Stott, 2017). This is further discussed in Chapter 4 (p.
-59).
+2016). Importantly, curtailed maternal blood-volume expansion is linked to FGR (de Haas, 2017; Stott, 2017). This is further discussed in Chapter 4 (p. 59).
 
-Antiphospholipid Syndrome
-Adverse obstetrical outcomes including fetal-growth restriction have been
-associated with three types of antiphospholipid antibodies: anticardiolipin
-antibodies, lupus anticoagulant, and anti-β2 glycoprotein-I antibodies.
-Mechanistically, a “two-hit” hypothesis suggests that initial endothelial
-damage is then followed by intervillous placental thrombosis. More
-specifically, oxidative damage to certain membrane proteins is followed by
-antiphospholipid antibody binding, which leads to immune-complex
-formation and ultimately to thrombosis (Giannakopoulos, 2013). This
-syndrome is considered in detail in Chapters 55 (p. 979) and 62 (p. 1115).
-Women with more than one type of antiphospholipid antibody are at higher
-risk for FGR compared with those with only one antibody (Saccone, 2017).
-Also, anti-β2 glycoprotein-I antibodies may have a stronger association
-with FGR, particularly early-onset disease.
+Antiphospholipid Syndrome Adverse obstetrical outcomes including fetal-growth restriction have been associated with three types of antiphospholipid antibodies: anticardiolipin antibodies, lupus anticoagulant, and anti-β2 glycoprotein-I antibodies. Mechanistically, a “two-hit” hypothesis suggests that initial endothelial damage is then followed by intervillous placental thrombosis. More specifically, oxidative damage to certain membrane proteins is followed by antiphospholipid antibody binding, which leads to immune-complex formation and ultimately to thrombosis (Giannakopoulos, 2013). This syndrome is considered in detail in Chapters 55 (p. 979) and 62 (p. 1115). Women with more than one type of antiphospholipid antibody are at higher risk for FGR compared with those with only one antibody (Saccone, 2017). Also, anti-β2 glycoprotein-I antibodies may have a stronger association with FGR, particularly early-onset disease.
 
-Placental, Cord, and Uterine Abnormalities
-Several placental abnormalities are associated with poor fetal growth, which
-is presumed secondary to uteroplacental insufficiency. These are discussed
-further throughout Chapter 6 and include chronic placental abruption,
-extensive infarction, chorioangioma, velamentous cord insertion, and
-umbilical artery thrombosis. Abnormal placental implantation leading to
-endothelial dysfunction may also limit fetal growth (Brosens, 2015). This
-pathology is implicated in pregnancies complicated by preeclampsia (Chap.
-40, p. 694). Last, some uterine malformations are linked to impaired fetal
-growth (Chap. 3, p. 43).
+Placental, Cord, and Uterine Abnormalities Several placental abnormalities are associated with poor fetal growth, which is presumed secondary to uteroplacental insufficiency. These are discussed further throughout Chapter 6 and include chronic placental abruption, extensive infarction, chorioangioma, velamentous cord insertion, and umbilical artery thrombosis. Abnormal placental implantation leading to endothelial dysfunction may also limit fetal growth (Brosens, 2015). This pathology is implicated in pregnancies complicated by preeclampsia (Chap. 40, p. 694). Last, some uterine malformations are linked to impaired fetal growth (Chap. 3, p. 43).
 
-Multifetal Gestation
-Pregnancy with two or more fetuses is more likely to be complicated by
-diminished growth of one or more fetuses compared with that of singletons
-(Fig. 47-5). Serial sonography is recommended for this reason. With the
-understanding that normal twin growth may be less than that of singletons, we
-use a chorionicity-specific twin nomogram to diagnose FGR at Parkland
+Multifetal Gestation Pregnancy with two or more fetuses is more likely to be complicated by diminished growth of one or more fetuses compared with that of singletons (Fig. 47-5). Serial sonography is recommended for this reason. With the understanding that normal twin growth may be less than that of singletons, we use a chorionicity-specific twin nomogram to diagnose FGR at Parkland
 
-Hospital. Discordance in estimated fetal weight also is considered when
-evaluating twin growth (Chap. 48, p. 851).
+**Hospital.** Discordance in estimated fetal weight also is considered when evaluating twin growth (Chap. 48, p. 851).
 
-FIGURE 47-5 Birthweight and gestational age relationships in multifetal gestations without
-malformations delivered at Parkland Hospital.
+> **Figure 47-5:** Birthweight and gestational age relationships in multifetal gestations without malformations delivered at Parkland Hospital.
 
-Medications and Other Substances
-Fortunately, most medications do not affect fetal growth. Selected
-medications and other substances that have been associated with FGR due to
-fetotoxicity are discussed in Chapter 8. Examples include cyclophosphamide
-and other antineoplastic drugs, significant lead exposure, and drugs such as
-cocaine and methamphetamine. Alcohol and tobacco each have potent effects
-on fetal growth. FGR is included among the diagnostic criteria for fetal
-alcohol syndrome, and cigarette smoking is associated with a two- to
-threefold increased risk of FGR (Werler, 1997).
+Medications and Other Substances Fortunately, most medications do not affect fetal growth. Selected medications and other substances that have been associated with FGR due to fetotoxicity are discussed in Chapter 8. Examples include cyclophosphamide and other antineoplastic drugs, significant lead exposure, and drugs such as cocaine and methamphetamine. Alcohol and tobacco each have potent effects on fetal growth. FGR is included among the diagnostic criteria for fetal alcohol syndrome, and cigarette smoking is associated with a two- to threefold increased risk of FGR (Werler, 1997).
 
-Maternal and Fetal Infections
-Viral, bacterial, protozoan, and spirochetal infections have been implicated
-in up to 5 percent of FGR cases and are discussed in Chapters 67 and 68.
-The best known of these are rubella and cytomegalovirus infection. Both
-promote calcifications in the fetus that are associated with cell death, and
-infection earlier in pregnancy correlates with worse outcomes. Toda and
-colleagues (2015) described a Vietnamese epidemic in which 39 percent of
+Maternal and Fetal Infections Viral, bacterial, protozoan, and spirochetal infections have been implicated in up to 5 percent of FGR cases and are discussed in Chapters 67 and 68. The best known of these are rubella and cytomegalovirus infection. Both promote calcifications in the fetus that are associated with cell death, and infection earlier in pregnancy correlates with worse outcomes. Toda and colleagues (2015) described a Vietnamese epidemic in which 39 percent of
 
-292 term newborns with congenital rubella syndrome were low birthweight.
-In one study of 238 primary cytomegalovirus infections, no severe cases
-were observed when infection occurred after 14 weeks’ gestation (Picone,
-2013). These investigators later identified sonographic findings in 30 of 69
-cases of congenital infection, and growth restriction was noted in 30 percent
-of these 30 cases (Picone, 2014).
-Tuberculosis and syphilis also are associated with poor fetal growth.
-Both extrapulmonary and pulmonary tuberculosis are linked with low
-birthweight (Chap. 54, p. 965). Sobhy (2017) analyzed 13 studies that
-included a total of 3384 women with active tuberculosis. The odds ratio was
-1.7 for low birthweight. The etiology is uncertain, however, the adverse
-effects on maternal health, compounded by effects of poor nutrition and
-poverty, are important (Jana, 2012). Congenital syphilis is more common,
-and paradoxically, the placenta is almost always larger and heavier than
-normal due to edema and perivascular inflammation (Chap. 68, p. 1208).
-Congenital syphilis is strongly linked with preterm birth and thus lowbirthweight newborns (Sheffield, 2002).
-Congenital infection with toxoplasma gondii is associated with FGR.
-Capobiango (2014) described 31 Brazilian pregnancies complicated by
-congenital toxoplasmosis. Only 13 percent were treated antepartum for
-toxoplasmosis, and low birthweight complicated nearly 40 percent of all the
-pregnancies. Congenital malaria may similarly cause low birthweight and
-poor fetal growth. Briand and colleagues (2016) emphasize the importance
-of prophylaxis early in pregnancy for women at risk.
+292 term newborns with congenital rubella syndrome were low birthweight. In one study of 238 primary cytomegalovirus infections, no severe cases were observed when infection occurred after 14 weeks’ gestation (Picone, 2013). These investigators later identified sonographic findings in 30 of 69 cases of congenital infection, and growth restriction was noted in 30 percent of these 30 cases (Picone, 2014). Tuberculosis and syphilis also are associated with poor fetal growth. Both extrapulmonary and pulmonary tuberculosis are linked with low birthweight (Chap. 54, p. 965). Sobhy (2017) analyzed 13 studies that included a total of 3384 women with active tuberculosis. The odds ratio was 1.7 for low birthweight. The etiology is uncertain, however, the adverse effects on maternal health, compounded by effects of poor nutrition and poverty, are important (Jana, 2012). Congenital syphilis is more common, and paradoxically, the placenta is almost always larger and heavier than normal due to edema and perivascular inflammation (Chap. 68, p. 1208). Congenital syphilis is strongly linked with preterm birth and thus lowbirthweight newborns (Sheffield, 2002). Congenital infection with toxoplasma gondii is associated with FGR. Capobiango (2014) described 31 Brazilian pregnancies complicated by congenital toxoplasmosis. Only 13 percent were treated antepartum for toxoplasmosis, and low birthweight complicated nearly 40 percent of all the pregnancies. Congenital malaria may similarly cause low birthweight and poor fetal growth. Briand and colleagues (2016) emphasize the importance of prophylaxis early in pregnancy for women at risk.
 
-Congenital Malformations
-In a classic review of more than 13,000 fetuses with major malformations
-and chromosomal abnormalities, the rate of growth restriction was double
-the population prevalence (Khoury, 1988). The birth defect most strongly
-linked with FGR is gastroschisis. Nelson (2015) reviewed 111 fetuses with
-gastroschisis and found that a third had birthweights <10th percentile.
-Congenital cardiac abnormalities are also associated with a slight increase
-in FGR risk. In a recent review of 1789 singleton neonates with isolated
-congenital cardiac abnormalities, the prevalence of SGA was 13 percent,
-which was 3 percent higher than the general-population risk (Ghanchi, 2021).
-With few exceptions, the identification of growth restriction in the setting of a
-structural malformation further increases the risk for an underlying genetic
+Congenital Malformations In a classic review of more than 13,000 fetuses with major malformations and chromosomal abnormalities, the rate of growth restriction was double the population prevalence (Khoury, 1988). The birth defect most strongly linked with FGR is gastroschisis. Nelson (2015) reviewed 111 fetuses with gastroschisis and found that a third had birthweights <10th percentile. Congenital cardiac abnormalities are also associated with a slight increase in FGR risk. In a recent review of 1789 singleton neonates with isolated congenital cardiac abnormalities, the prevalence of SGA was 13 percent, which was 3 percent higher than the general-population risk (Ghanchi, 2021). With few exceptions, the identification of growth restriction in the setting of a structural malformation further increases the risk for an underlying genetic
 
-syndrome. If not already performed, amniocentesis with chromosomal
-microarray analysis should be offered.
+syndrome. If not already performed, amniocentesis with chromosomal microarray analysis should be offered.
 
-Genetic Abnormalities
-Many genetic syndromes are strongly linked with prenatal-growth
-impairment or postnatal failure to thrive. Among liveborn neonates with
-autosomal trisomies, trisomy 21 is associated with an SGA prevalence of 15
-to 30 percent (Herrera, 2020; Khoury, 1988). With trisomies 13 and 18, the
-risk of SGA is significantly greater, 50 percent and >80 percent, respectively
-(Khoury, 1988). In trisomy 18, the combination of fetal abnormalities plus
-FGR and hydramnios is particularly common. The crown-rump length in
-fetuses with trisomy 18 and 13, unlike that with trisomy 21, is also typically
-shorter than expected (Bahado-Singh, 1997; Schemmer, 1997). Poor fetal
-growth similarly complicates Turner syndrome, and the severity correlates
-with increasing haploinsufficiency of the short arm of the X chromosome
-(Fiot, 2016). In contrast, poor growth is not characteristic of an increased
-number of X chromosomes (Ottesen, 2010; Wigby, 2016). Discussed in
-Chapter 16 (p. 318), confined placental mosaicism is a recognized cause of
-FGR.
+Genetic Abnormalities Many genetic syndromes are strongly linked with prenatal-growth impairment or postnatal failure to thrive. Among liveborn neonates with autosomal trisomies, trisomy 21 is associated with an SGA prevalence of 15 to 30 percent (Herrera, 2020; Khoury, 1988). With trisomies 13 and 18, the risk of SGA is significantly greater, 50 percent and >80 percent, respectively (Khoury, 1988). In trisomy 18, the combination of fetal abnormalities plus FGR and hydramnios is particularly common. The crown-rump length in fetuses with trisomy 18 and 13, unlike that with trisomy 21, is also typically shorter than expected (Bahado-Singh, 1997; Schemmer, 1997). Poor fetal growth similarly complicates Turner syndrome, and the severity correlates with increasing haploinsufficiency of the short arm of the X chromosome (Fiot, 2016). In contrast, poor growth is not characteristic of an increased number of X chromosomes (Ottesen, 2010; Wigby, 2016). Discussed in Chapter 16 (p. 318), confined placental mosaicism is a recognized cause of FGR.
 
-■ Management
-If FGR is detected, efforts are made to assess the fetal condition and search
-for possible causes. The risk for stillbirth is increased, and early-onset
-growth restriction is especially problematic. General tenets of management
-include serial evaluation of fetal growth every 3 weeks and at least weekly
-evaluation of amnionic fluid and umbilical artery Doppler velocimetry. A
-fetus with slow but progressing EFW is more reassuring than one that has
-plateaued growth. This is supplemented with antepartum evaluation of fetal
-well-being, which is usually nonstress testing or biophysical profile
-(American College of Obstetricians and Gynecologists, 2021a) (Chap. 20, p.
-387). Consideration is also given to performing a detailed fetal anatomic
-survey and amniocentesis to assess for underlying genetic abnormalities or
-infection—particularly with early-onset FGR. A management algorithm is
-shown in Figure 47-6.
+### Management
 
-FIGURE 47-6 Algorithm for management of fetal-growth restriction. EFW = estimated fetal weight;
-FLM = fetal lung maturity; NST = nonstress test; TORCH = toxoplasmosis, other, rubella,
-cytomegalovirus, herpesvirus; UA = umbilical artery.
+If FGR is detected, efforts are made to assess the fetal condition and search for possible causes. The risk for stillbirth is increased, and early-onset growth restriction is especially problematic. General tenets of management include serial evaluation of fetal growth every 3 weeks and at least weekly evaluation of amnionic fluid and umbilical artery Doppler velocimetry. A fetus with slow but progressing EFW is more reassuring than one that has plateaued growth. This is supplemented with antepartum evaluation of fetal well-being, which is usually nonstress testing or biophysical profile (American College of Obstetricians and Gynecologists, 2021a) (Chap. 20, p. 387). Consideration is also given to performing a detailed fetal anatomic survey and amniocentesis to assess for underlying genetic abnormalities or infection—particularly with early-onset FGR. A management algorithm is shown in Figure 47-6.
 
-Delivery timing balances the risks of fetal death with the hazards of
-preterm birth. Several multicenter studies address these problems, but
-unfortunately, none has elucidated the optimal timing of delivery. For the
-preterm fetus, the only randomized trial of delivery timing is the Growth
-Restriction Intervention Trial (GRIT) (Thornton, 2004). This trial involved
-548 women between 24 and 36 weeks’ gestation. Women were randomly
-assigned to immediate delivery or to delayed delivery until the situation
+> **Figure 47-6:** Algorithm for management of fetal-growth restriction. EFW = estimated fetal weight; FLM = fetal lung maturity; NST = nonstress test; TORCH = toxoplasmosis, other, rubella, cytomegalovirus, herpesvirus; UA = umbilical artery.
 
-worsened. The primary outcome was perinatal death or disability after
-reaching age 2 years. Mortality rates did not differ through 2 years of age.
-Moreover, children aged 6 to 13 years did not show clinically significant
-differences between the two groups (Walker, 2011). The Disproportionate
-Intrauterine Growth Intervention Trial at Term (DIGITAT) study examined the
-delivery timing of growth-restricted fetuses who were 36 weeks’ gestation or
-older. The 321 enrolled women were randomly assigned to labor induction
-or to expectant management. Composite neonatal morbidity rates did not
-differ, except that neonatal admissions were lower after 38 weeks’ gestation
-in a secondary analysis (Boers, 2010, 2012). Secondary analyses of
-DIGITAT did not identify a clear subgroup that benefited from labor
-induction, and neurodevelopmental and behavioral outcomes at age 2 were
-similar in both groups (Tajik, 2014; Van Wyk, 2012).
+Delivery timing balances the risks of fetal death with the hazards of preterm birth. Several multicenter studies address these problems, but unfortunately, none has elucidated the optimal timing of delivery. For the preterm fetus, the only randomized trial of delivery timing is the Growth Restriction Intervention Trial (GRIT) (Thornton, 2004). This trial involved 548 women between 24 and 36 weeks’ gestation. Women were randomly assigned to immediate delivery or to delayed delivery until the situation
 
-Doppler Velocimetry
-Umbilical artery Doppler flow studies are central to the evaluation and
-management of the fetus with growth restriction (Chap. 14, p. 262).
-Abnormalities represent the negative progression from fetal adaptation to
-failure. Specifically, initially increased impedance to flow in the umbilical
-artery may progress to absent end-diastolic flow and then reversed enddiastolic flow (Fig. 47-7). This negative progression correlates with
-hypoxia, acidosis, and fetal death. In one prospective series of 1116 fetuses
-with EFW <10th percentile, only 1 percent of those with normal umbilical
-artery Doppler studies had adverse outcomes compared with 12 percent of
-fetuses with Doppler abnormalities (O’Dwyer, 2014). The stillbirth risk in
-the setting of absent and reversed end-diastolic flow is 7 percent and 19
-percent, respectively (Caradeux, 2018). Because of these findings, the
-American College of Obstetricians and Gynecologists (2021a,b) and Society
-for Maternal-Fetal Medicine (2020) recommend serial umbilical artery
-Doppler studies in the management of FGR.
+worsened. The primary outcome was perinatal death or disability after reaching age 2 years. Mortality rates did not differ through 2 years of age. Moreover, children aged 6 to 13 years did not show clinically significant differences between the two groups (Walker, 2011). The Disproportionate Intrauterine Growth Intervention Trial at Term (DIGITAT) study examined the delivery timing of growth-restricted fetuses who were 36 weeks’ gestation or older. The 321 enrolled women were randomly assigned to labor induction or to expectant management. Composite neonatal morbidity rates did not differ, except that neonatal admissions were lower after 38 weeks’ gestation in a secondary analysis (Boers, 2010, 2012). Secondary analyses of DIGITAT did not identify a clear subgroup that benefited from labor induction, and neurodevelopmental and behavioral outcomes at age 2 were similar in both groups (Tajik, 2014; Van Wyk, 2012).
 
-FIGURE 47-7 Doppler velocity waveforms. A. Normal waveform with normal S/D ratio. B.
-Increased impedance to flow with abnormally elevated S/D ratio. C. Absent end-diastolic flow. D.
-Reversed end-diastolic flow.
+Doppler Velocimetry Umbilical artery Doppler flow studies are central to the evaluation and management of the fetus with growth restriction (Chap. 14, p. 262). Abnormalities represent the negative progression from fetal adaptation to failure. Specifically, initially increased impedance to flow in the umbilical artery may progress to absent end-diastolic flow and then reversed enddiastolic flow (Fig. 47-7). This negative progression correlates with hypoxia, acidosis, and fetal death. In one prospective series of 1116 fetuses with EFW <10th percentile, only 1 percent of those with normal umbilical artery Doppler studies had adverse outcomes compared with 12 percent of fetuses with Doppler abnormalities (O’Dwyer, 2014). The stillbirth risk in the setting of absent and reversed end-diastolic flow is 7 percent and 19 percent, respectively (Caradeux, 2018). Because of these findings, the American College of Obstetricians and Gynecologists (2021a,b) and Society for Maternal-Fetal Medicine (2020) recommend serial umbilical artery Doppler studies in the management of FGR.
 
-Doppler abnormalities in other vessels may convey information
-regarding pathophysiology, but interrogation of these is not recommended for
-routine management of the pregnancy complicated by FGR (American
-college of Obstetricians and Gynecologists, 2021a; Society for MaternalFetal Medicine, 2020). Doppler abnormalities of the ductus venosus (Fig.
-14-12, p. 264) reflect increased central venous pressure from decreased
-cardiac compliance and higher right ventricular end-diastolic pressure.
-Fetuses with abnormal ductus venosus Doppler flow have a 20-percent risk
-for stillbirth, and this increases to 46 percent in cases with a reversed Awave (Caradeux, 2018). Second, pulsatile flow in the umbilical vein
-waveform (Fig. 14-12) indicates cardiac dysfunction. Last, cerebral
-vasodilation is the fetal adaptative response to hypoxemia in the setting of
-growth restriction. The cerebroplacental ratio (CPR)—defined as middle
-cerebral artery pulsatility index divided by umbilical artery pulsatility index
-—is a measure of this adaptation and may be abnormal in severe cases of
-FGR. An abnormal CPR <1 has been associated with greater risk for earlier
-delivery, lower birthweight, cesarean delivery, neonatal intensive care unit
-admission, and perinatal death (DeVore, 2015; Flood, 2014). However, a
-metaanalysis of 18,731 fetuses found the CPR was not predictive of adverse
-perinatal outcomes (Vollgraff, 2021).
+> **Figure 47-7:** Doppler velocity waveforms. A. Normal waveform with normal S/D ratio. B. Increased impedance to flow with abnormally elevated S/D ratio. C. Absent end-diastolic flow. D. Reversed end-diastolic flow.
 
-Management of the Near-term Fetus
-Delivery of a suspected growth-restricted fetus with normal umbilical artery
-Doppler velocimetry, normal amnionic fluid volume, and reassuring fetal
-testing can likely be deferred until 37 to 38 weeks’ gestation (see Fig. 47-6).
-Expectant management can be guided using antepartum evaluation of fetal
-well-being described in Chapter 20. If oligohydramnios is present, delivery
-between 360/7 and 376/7 weeks’ gestation is recommended (American
-College of Obstetricians and Gynecologists, 2021c; Society for MaternalFetal Medicine, 2020). With a normal fetal heart rate pattern, vaginal
-delivery is planned. Notably, some of these fetuses do not tolerate labor.
+Doppler abnormalities in other vessels may convey information regarding pathophysiology, but interrogation of these is not recommended for routine management of the pregnancy complicated by FGR (American college of Obstetricians and Gynecologists, 2021a; Society for MaternalFetal Medicine, 2020). Doppler abnormalities of the ductus venosus (Fig. 14-12, p. 264) reflect increased central venous pressure from decreased cardiac compliance and higher right ventricular end-diastolic pressure. Fetuses with abnormal ductus venosus Doppler flow have a 20-percent risk for stillbirth, and this increases to 46 percent in cases with a reversed Awave (Caradeux, 2018). Second, pulsatile flow in the umbilical vein waveform (Fig. 14-12) indicates cardiac dysfunction. Last, cerebral vasodilation is the fetal adaptative response to hypoxemia in the setting of growth restriction. The cerebroplacental ratio (CPR)—defined as middle cerebral artery pulsatility index divided by umbilical artery pulsatility index —is a measure of this adaptation and may be abnormal in severe cases of FGR. An abnormal CPR <1 has been associated with greater risk for earlier delivery, lower birthweight, cesarean delivery, neonatal intensive care unit admission, and perinatal death (DeVore, 2015; Flood, 2014). However, a metaanalysis of 18,731 fetuses found the CPR was not predictive of adverse perinatal outcomes (Vollgraff, 2021).
+
+Management of the Near-term Fetus Delivery of a suspected growth-restricted fetus with normal umbilical artery Doppler velocimetry, normal amnionic fluid volume, and reassuring fetal testing can likely be deferred until 37 to 38 weeks’ gestation (see Fig. 47-6). Expectant management can be guided using antepartum evaluation of fetal well-being described in Chapter 20. If oligohydramnios is present, delivery between 360/7 and 376/7 weeks’ gestation is recommended (American College of Obstetricians and Gynecologists, 2021c; Society for MaternalFetal Medicine, 2020). With a normal fetal heart rate pattern, vaginal delivery is planned. Notably, some of these fetuses do not tolerate labor.
 
 Management of the Fetus Remote from Term
 
-If growth restriction is identified in a fetus before 34 weeks, and amnionic
-fluid volume and fetal surveillance findings are normal, observation is
-recommended. As long as interval fetal growth and fetal surveillance test
-results are normal, pregnancy is allowed to continue (see Fig. 47-6).
-Reassessment of fetal growth is typically made no sooner than 3 weeks later.
-Weekly outpatient assessment of umbilical artery Doppler velocimetry and
-amnionic fluid volume is combined with fetal well-being testing. If umbilical
-artery Doppler studies indicate absent or reversed end-diastolic flow,
-inpatient surveillance is undertaken. During hospitalization, more frequent
-sonographic evaluations and antenatal testing of fetal well-being and close
-proximity to labor and delivery are advantages.
-With growth restriction remote from term, no specific treatment
-ameliorates the condition. Evidence does not support diminished activity or
-bed rest to accelerate growth or improve outcomes. Nutrient
-supplementation, attempts at plasma volume expansion, oxygen therapy,
-antihypertensive drugs, heparin, and aspirin are all ineffective (American
-College of Obstetricians and Gynecologists, 2021a).
-Management decisions hinge on assessment of the relative risks of fetal
-death during expectant management versus the risks from preterm delivery.
-Reassuring results from fetal well-being tests may allow observation with
-continued maturation. However, long-term neurological outcome, which
-theoretically may suffer from additional weeks in an inhospitable intrauterine
-environment, is a concern (Baschat, 2014; Lees, 2015; Thornton, 2004).
-Baschat and associates (2009) showed that neurodevelopmental outcome at 2
-years in growth-restricted fetuses was best predicted by birthweight and
-gestational age. Doppler abnormalities are generally not associated with
-poor childhood cognitive developmental scores among low-birthweight
-fetuses delivered in the third trimester (Llurba, 2013). These findings
-emphasize that adverse neurodevelopmental outcomes cannot always be
-predicted.
+If growth restriction is identified in a fetus before 34 weeks, and amnionic fluid volume and fetal surveillance findings are normal, observation is recommended. As long as interval fetal growth and fetal surveillance test results are normal, pregnancy is allowed to continue (see Fig. 47-6). Reassessment of fetal growth is typically made no sooner than 3 weeks later. Weekly outpatient assessment of umbilical artery Doppler velocimetry and amnionic fluid volume is combined with fetal well-being testing. If umbilical artery Doppler studies indicate absent or reversed end-diastolic flow, inpatient surveillance is undertaken. During hospitalization, more frequent sonographic evaluations and antenatal testing of fetal well-being and close proximity to labor and delivery are advantages. With growth restriction remote from term, no specific treatment ameliorates the condition. Evidence does not support diminished activity or bed rest to accelerate growth or improve outcomes. Nutrient supplementation, attempts at plasma volume expansion, oxygen therapy, antihypertensive drugs, heparin, and aspirin are all ineffective (American College of Obstetricians and Gynecologists, 2021a). Management decisions hinge on assessment of the relative risks of fetal death during expectant management versus the risks from preterm delivery. Reassuring results from fetal well-being tests may allow observation with continued maturation. However, long-term neurological outcome, which theoretically may suffer from additional weeks in an inhospitable intrauterine environment, is a concern (Baschat, 2014; Lees, 2015; Thornton, 2004). Baschat and associates (2009) showed that neurodevelopmental outcome at 2 years in growth-restricted fetuses was best predicted by birthweight and gestational age. Doppler abnormalities are generally not associated with poor childhood cognitive developmental scores among low-birthweight fetuses delivered in the third trimester (Llurba, 2013). These findings emphasize that adverse neurodevelopmental outcomes cannot always be predicted.
 
-■ Intrapartum Management
-When lagging fetal growth is the result of placental insufficiency due to poor
-maternal perfusion or reduction of functional placenta, the fetal condition
-may be aggravated by labor. Equally important, oligohydramnios raises the
+### Intrapartum Management
 
-likelihood of cord compression during labor. For these and other reasons, the
-frequency of cesarean delivery is increased.
-The risk of neonatal hypoxia or meconium aspiration is also greater.
-Thus, care for the newborn should be provided immediately by an attendant
-who can skillfully clear the airway and ventilate a neonate as needed (Chap.
-32, p. 586). The severely growth-restricted newborn is particularly
-susceptible to hypothermia and may also develop other metabolic
-derangements such as hypoglycemia, polycythemia, and hyperviscosity. Risk
-is greatest at the lowest extremes of birthweight (Baschat, 2009, 2014;
-Llurba, 2013).
+When lagging fetal growth is the result of placental insufficiency due to poor maternal perfusion or reduction of functional placenta, the fetal condition may be aggravated by labor. Equally important, oligohydramnios raises the
 
-■ Outcomes
-Lessons learned from SGA neonates inform concerns about FGR. More than
-50 years ago, Battaglia and Lubchenco (1967) classified SGA neonates as
-those whose weights were below the 10th percentile for their gestational age.
-The mortality rate of SGA neonates born at 38 weeks was 1 percent
-compared with 0.2 percent in those with larger birthweights. More recent
-data also indicate that the overall stillbirth rate among SGA neonates
-approximates 1 percent, which is twice as high as the population prevalence
-(Getahun, 2007).
-The risk for abnormal neurological development also is greater in SGA
-neonates. In an analysis of nearly 3000 newborns born before 27 weeks’
-gestation, those weighing <10th percentile had a nearly fourfold higher risk
-of neonatal death or neurodevelopmental impairment and a nearly threefold
-greater risk of cerebral palsy compared with non-SGA neonates (De Jesus,
-2013). In another analysis of more than 91,000 otherwise uncomplicated
-pregnancies, newborns with birthweights <5th percentile had a higher risk of
-low 5-minute Apgar score, respiratory distress, necrotizing enterocolitis, and
-neonatal sepsis than appropriate-weight neonates. The risks of stillbirth and
-neonatal death were sixfold and fourfold higher, respectively (MendezFigueroa, 2016).
-Newborns at the lowest birthweight percentiles are at greatest risk for
-adverse outcome. In one study of more than 44,561 neonates, only 14 percent
-of those weighing <1st percentile at birth survived to discharge (Griffin,
-2015). Poor motor, cognitive, language and attention, and behavioral
+likelihood of cord compression during labor. For these and other reasons, the frequency of cesarean delivery is increased. The risk of neonatal hypoxia or meconium aspiration is also greater. Thus, care for the newborn should be provided immediately by an attendant who can skillfully clear the airway and ventilate a neonate as needed (Chap. 32, p. 586). The severely growth-restricted newborn is particularly susceptible to hypothermia and may also develop other metabolic derangements such as hypoglycemia, polycythemia, and hyperviscosity. Risk is greatest at the lowest extremes of birthweight (Baschat, 2009, 2014; Llurba, 2013).
 
-outcomes in growth-restricted newborns unfortunately persist into early
-childhood and adolescence (Baschat, 2014; Levine, 2015; Rogne, 2015).
+### Outcomes
 
-Early-onset Growth Restriction
-Perinatal morbidities are further increased in the 30 percent of FGR
-pregnancies diagnosed prior to 32 weeks’ gestation (Savchev, 2014). Thus,
-this gestational age is used to demarcate early-onset from late-onset growth
-restriction (Society for Maternal-Fetal Medicine, 2020). Early-onset FGR is
-typically more severe and more commonly associated with placental
-dysfunction and maternal hypertension than late-onset growth restriction
-(Aviram, 2019; Dall’Asta, 2017). Pregnancies with early-onset FGR have
-greater rates of umbilical artery Doppler abnormalities compared with those
-with late onset. Similar to pregnancies complicated by preeclampsia,
-increased maternal serum levels of antiangiogenic factors that include
-soluble vascular endothelial growth factor receptor 1 (sVEGFR-1) and
-soluble fms-like tyrosine kinase 1 (sFlt-1) are reported in pregnancies
-complicated by early-onset growth restriction (Kingdom, 2018;
-Korzeniewski, 2016) (Chap. 40, p. 694).
+Lessons learned from SGA neonates inform concerns about FGR. More than 50 years ago, Battaglia and Lubchenco (1967) classified SGA neonates as those whose weights were below the 10th percentile for their gestational age. The mortality rate of SGA neonates born at 38 weeks was 1 percent compared with 0.2 percent in those with larger birthweights. More recent data also indicate that the overall stillbirth rate among SGA neonates approximates 1 percent, which is twice as high as the population prevalence (Getahun, 2007). The risk for abnormal neurological development also is greater in SGA neonates. In an analysis of nearly 3000 newborns born before 27 weeks’ gestation, those weighing <10th percentile had a nearly fourfold higher risk of neonatal death or neurodevelopmental impairment and a nearly threefold greater risk of cerebral palsy compared with non-SGA neonates (De Jesus, 2013). In another analysis of more than 91,000 otherwise uncomplicated pregnancies, newborns with birthweights <5th percentile had a higher risk of low 5-minute Apgar score, respiratory distress, necrotizing enterocolitis, and neonatal sepsis than appropriate-weight neonates. The risks of stillbirth and neonatal death were sixfold and fourfold higher, respectively (MendezFigueroa, 2016). Newborns at the lowest birthweight percentiles are at greatest risk for adverse outcome. In one study of more than 44,561 neonates, only 14 percent of those weighing <1st percentile at birth survived to discharge (Griffin, 2015). Poor motor, cognitive, language and attention, and behavioral
 
-Barker Hypothesis
-Thirty years ago, Barker (1992) hypothesized that adult mortality and
-morbidity are related to fetal and infant health. This includes both under- and
-overgrowth. In the context of FGR, numerous reports describe a relationship
-between suboptimal fetal nutrition and a higher risk of subsequent adult
-hypertension, atherosclerosis, type 2 diabetes, and metabolic derangement
-(Colella, 2018; Jornayvaz, 2016). The degree to which low birthweight
-mediates adult disease is controversial, as weight gain in early life also
-appears important (Breij, 2014; Kerkhof, 2012; McCloskey, 2016).
-Evidence suggests that FGR may affect organ development, particularly
-that of the heart. Individuals with low birthweight demonstrate cardiac
-structural changes and dysfunction that persist through childhood,
-adolescence, and adulthood (Crispi, 2018). In one study, 80 infants who
-were born SGA before 34 weeks’ gestation were compared at 6 months with
-80 normally grown infants (Cruz-Lemini, 2016). The ventricle in SGA
-infants was more globular, resulting in systolic and diastolic dysfunction. In
-another study, echocardiography in 418 adolescents showed that low
+outcomes in growth-restricted newborns unfortunately persist into early childhood and adolescence (Baschat, 2014; Levine, 2015; Rogne, 2015).
 
-birthweight was associated with a thicker left ventricular posterior wall
-(Hietalampi, 2012). However, these findings have unclear long-term
-significance (Cohen, 2016).
-Growth restriction is also associated with postnatal structural and
-functional renal changes. Luyckx and Brenner (2015) concluded that both low
-and high birthweight, maternal obesity, and gestational diabetes adversely
-affect in-utero development of the kidney and its health into adulthood.
-However, other variables that include childhood nutrition, acute kidney
-injury, excessive childhood weight gain, and obesity also worsen long-term
-renal function.
+Early-onset Growth Restriction Perinatal morbidities are further increased in the 30 percent of FGR pregnancies diagnosed prior to 32 weeks’ gestation (Savchev, 2014). Thus, this gestational age is used to demarcate early-onset from late-onset growth restriction (Society for Maternal-Fetal Medicine, 2020). Early-onset FGR is typically more severe and more commonly associated with placental dysfunction and maternal hypertension than late-onset growth restriction (Aviram, 2019; Dall’Asta, 2017). Pregnancies with early-onset FGR have greater rates of umbilical artery Doppler abnormalities compared with those with late onset. Similar to pregnancies complicated by preeclampsia, increased maternal serum levels of antiangiogenic factors that include soluble vascular endothelial growth factor receptor 1 (sVEGFR-1) and soluble fms-like tyrosine kinase 1 (sFlt-1) are reported in pregnancies complicated by early-onset growth restriction (Kingdom, 2018; Korzeniewski, 2016) (Chap. 40, p. 694).
 
-■ Prevention
-Ideally, prevention begins before conception. Maternal medical conditions
-are treated, and medications are modified to help lower FGR risks. Smoking
-cessation is critical. Other risk factors are tailored to the maternal condition,
-such as antimalarial prophylaxis for women living in endemic areas and
-correction of nutritional deficiencies. Treatment of mild to moderate
-hypertension does not reduce the incidence of SGA newborns (Chap. 53, p.
-950).
-Currently, no pharmacologic therapies prevent growth restriction.
-Considerable study of low-dose aspirin therapy has not demonstrated
-consistent benefit in low-risk pregnancies. Daily aspirin therapy did not
-reduce the risk for SGA neonates in a randomized trial of 1700 women
-(Rolnik, 2017). Two large metaanalyses involving more than 20,000 women
-did find that low-dose aspirin was associated with a significantly lower risk
-of FGR, whether initiated prior to or after 16 weeks’ gestation (Meher, 2017;
-Roberge, 2017). A Cochrane database analysis showed a small reduction in
-the risk of SGA neonates with maternal aspirin therapy (Duley, 2019).
-However, these studies included women at risk for preeclampsia, and the
-modest decrease in the risk for growth restriction was a secondary finding.
-Because evidence in women without risk factors for preeclampsia is lacking,
-aspirin therapy for the prevention of FGR is not recommended (American
-College of Obstetricians and Gynecologists, 2020a, 2021a; Society for
-Maternal-Fetal Medicine, 2020)
+Barker Hypothesis Thirty years ago, Barker (1992) hypothesized that adult mortality and morbidity are related to fetal and infant health. This includes both under- and overgrowth. In the context of FGR, numerous reports describe a relationship between suboptimal fetal nutrition and a higher risk of subsequent adult hypertension, atherosclerosis, type 2 diabetes, and metabolic derangement (Colella, 2018; Jornayvaz, 2016). The degree to which low birthweight mediates adult disease is controversial, as weight gain in early life also appears important (Breij, 2014; Kerkhof, 2012; McCloskey, 2016). Evidence suggests that FGR may affect organ development, particularly that of the heart. Individuals with low birthweight demonstrate cardiac structural changes and dysfunction that persist through childhood, adolescence, and adulthood (Crispi, 2018). In one study, 80 infants who were born SGA before 34 weeks’ gestation were compared at 6 months with 80 normally grown infants (Cruz-Lemini, 2016). The ventricle in SGA infants was more globular, resulting in systolic and diastolic dysfunction. In another study, echocardiography in 418 adolescents showed that low
 
-FETAL MACROSOMIA
-■ Definition
-The term macrosomia is used rather imprecisely to describe a fetus whose
-estimated weight exceeds a threshold—typically 4000 g, 4500 g, or even
-5000 g (American College of Obstetricians and Gynecologists, 2019a).
-Although obstetricians generally agree that neonates weighing <4000 g are
-not excessively large, a similar consensus has not been reached for the
-definition of macrosomia.
-Large for gestational age (LGA) denotes a fetus or newborn whose
-weight exceeds the 90th percentile for gestational age. Similar to SGA, the
-term LGA does not imply that growth is necessarily abnormal. Indeed, most
-such neonates are simply constitutionally larger than their peers. The 90th
-percentile for birthweight at 39 weeks’ gestation approximates 3900 g
-(Duryea, 2014). Thus, most LGA neonates would not meet any of the
-common definitions of macrosomia.
-In the United States in 2019, 6.4 percent of all newborns weighed 4000
-to 4499 g; 0.9 percent weighed 4500 to 4999 g; and 0.1 percent were born
-weighing ≥5000 g (Martin, 2021). Similarly, during a 30-year period at
-Parkland Hospital, during which more than 350,000 singletons were born,
-only 1.4 percent of neonates weighed ≥4500 g (Table 47-2). We are of the
-view that the upper limit of fetal growth, above which growth can be deemed
-abnormal, is likely to be two standard deviations above the mean. This
-represents perhaps 3 percent of births. At 40 weeks, such a threshold would
-correspond to approximately 4500 g.
-TABLE 47-2. Birthweight Distribution of 354,509 Liveborn Infants at
-Parkland Hospital between 1988 and 2012
+birthweight was associated with a thicker left ventricular posterior wall (Hietalampi, 2012). However, these findings have unclear long-term significance (Cohen, 2016). Growth restriction is also associated with postnatal structural and functional renal changes. Luyckx and Brenner (2015) concluded that both low and high birthweight, maternal obesity, and gestational diabetes adversely affect in-utero development of the kidney and its health into adulthood. However, other variables that include childhood nutrition, acute kidney injury, excessive childhood weight gain, and obesity also worsen long-term renal function.
 
-■ Detection
-Because current methods fail to accurately estimate excessive fetal size,
-macrosomia cannot be definitively diagnosed until delivery (American
-College of Obstetricians and Gynecologists, 2019a). Inaccuracy in estimates
-of fetal weight, by either fundal height measurement or sonography, are often
-attributable to maternal obesity. In one study of 502 patients with
-sonographic estimated fetal weights >4000 g within 2 weeks of delivery, the
-risk of birthweight overestimation was >50 percent (Zafman, 2020). Of those
-who underwent cesarean delivery for suspected LGA, almost 30 percent
-delivered a neonate weighing <4000 g.
+### Prevention
 
-■ Pathophysiology
-Particularly in women with diabetes and elevated cord blood levels of
-insulin-like growth factor 1, fetal macrosomia is associated with greater
-neonatal fat mass and morphological heart changes. Pedersen (1954) first
-proposed that hyperglycemia leads to fetal hyperinsulinemia and fetal
-overgrowth. This has been extended to organ dysmorphia, for example,
-increased interventricular septal thickness in neonates of mothers with
-gestational diabetes (Aman, 2011; Garcia-Flores, 2011). The
-cardiopulmonary vasculature also is adversely affected by diabetes in
-pregnancy. In 3277 cases of persistent pulmonary hypertension of the
+Ideally, prevention begins before conception. Maternal medical conditions are treated, and medications are modified to help lower FGR risks. Smoking cessation is critical. Other risk factors are tailored to the maternal condition, such as antimalarial prophylaxis for women living in endemic areas and correction of nutritional deficiencies. Treatment of mild to moderate hypertension does not reduce the incidence of SGA newborns (Chap. 53, p. 950). Currently, no pharmacologic therapies prevent growth restriction. Considerable study of low-dose aspirin therapy has not demonstrated consistent benefit in low-risk pregnancies. Daily aspirin therapy did not reduce the risk for SGA neonates in a randomized trial of 1700 women (Rolnik, 2017). Two large metaanalyses involving more than 20,000 women did find that low-dose aspirin was associated with a significantly lower risk of FGR, whether initiated prior to or after 16 weeks’ gestation (Meher, 2017; Roberge, 2017). A Cochrane database analysis showed a small reduction in the risk of SGA neonates with maternal aspirin therapy (Duley, 2019). However, these studies included women at risk for preeclampsia, and the modest decrease in the risk for growth restriction was a secondary finding. Because evidence in women without risk factors for preeclampsia is lacking, aspirin therapy for the prevention of FGR is not recommended (American College of Obstetricians and Gynecologists, 2020a, 2021a; Society for Maternal-Fetal Medicine, 2020)
 
-newborn, maternal obesity, diabetes, and both deficient and excessive fetal
-growth were independent risk factors (Steurer, 2017). Long-term metabolic
-consequences of fetal macrosomia in the setting of maternal obesity are
-discussed in Chapter 51 (p. 907).
+## Fetal Macrosomia
 
-■ Risk Factors
-Some factors associated with fetal macrosomia are listed in Table 47-3.
-Many are interrelated. Advancing age usually correlates with multiparity and
-risk for diabetes, and obesity is similarly associated with diabetes. In one
-study, the birth prevalence of macrosomia exceeded 24 percent among obese
-women in China, and macrosomia rates were approximately 2.5-fold higher
-for prolonged pregnancy and gestational diabetes (Wang, 2017). As shown in
-Table 47-2, maternal diabetes is strongly associated with neonates weighing
->4000 g. In a prospective study of 682 consecutive pregnancies complicated
-by diabetes, women with type 1 diabetes were significantly more likely than
-women with type 2 diabetes to have a neonate weighing above the 90th and
-97.7th percentiles (Murphy, 2011). Higher third-trimester glucose
-concentration correlates with fetal macrosomia, and hemoglobin A1c and
-fasting glucose values are independent predictors of macrosomia risk
-(Cyganek, 2017). Notably, maternal diabetes is associated with only a small
-percentage of the total number of LGA newborns.
-TABLE 47-3. Risk Factors for Fetal Macrosomia
+### Definition
 
-■ Management
+The term macrosomia is used rather imprecisely to describe a fetus whose estimated weight exceeds a threshold—typically 4000 g, 4500 g, or even 5000 g (American College of Obstetricians and Gynecologists, 2019a). Although obstetricians generally agree that neonates weighing <4000 g are not excessively large, a similar consensus has not been reached for the definition of macrosomia. Large for gestational age (LGA) denotes a fetus or newborn whose weight exceeds the 90th percentile for gestational age. Similar to SGA, the term LGA does not imply that growth is necessarily abnormal. Indeed, most such neonates are simply constitutionally larger than their peers. The 90th percentile for birthweight at 39 weeks’ gestation approximates 3900 g (Duryea, 2014). Thus, most LGA neonates would not meet any of the common definitions of macrosomia. In the United States in 2019, 6.4 percent of all newborns weighed 4000 to 4499 g; 0.9 percent weighed 4500 to 4999 g; and 0.1 percent were born weighing ≥5000 g (Martin, 2021). Similarly, during a 30-year period at Parkland Hospital, during which more than 350,000 singletons were born, only 1.4 percent of neonates weighed ≥4500 g (Table 47-2). We are of the view that the upper limit of fetal growth, above which growth can be deemed abnormal, is likely to be two standard deviations above the mean. This represents perhaps 3 percent of births. At 40 weeks, such a threshold would correspond to approximately 4500 g.
 
-Several interventions have been proposed to interdict suspected or
-“impending” fetal overgrowth. Exercise in pregnancy is beneficial to the
-mother, does not increase the risk for growth impairment, and decreases
-macrosomia risk. One metaanalysis of 28 studies involving 5322 women
-concluded that exercise reduces the risk of an LGA newborn or birthweight
->4000 g without raising the risk of an SGA neonate or birthweight <2500 g
-(Wiebe, 2015). Similarly, others have concluded that aerobic exercise
-increases the likelihood of a normal weight neonate (Di Mascio, 2016;
-Perales, 2016).
-For women with diabetes, insulin therapy and glycemic control may
-lower the prevalence of neonatal macrosomia but have not consistently
-translated into reduced cesarean delivery rates. Fetal macrosomia,
-irrespective of the diagnosis of diabetes mellitus, is strongly associated with
-maternal obesity and excessive gestational weight gain (Durie, 2011; Durst,
-2016; Harper, 2015). Currently recommended weight gains for pregnancy
-according to maternal BMI are described in Chapter 10 (p. 183).
+> **Table 47-2:** Birthweight Distribution of 354,509 Liveborn Infants at Parkland Hospital between 1988 and 2012
 
-“Prophylactic” Labor Induction
-Some clinicians have induced labor when fetal macrosomia was suspected in
-nondiabetic women. The rationale for this approach was to obviate further
-fetal growth and, in theory, reduce the risk of delivery complications or
-cesarean delivery. In a systematic review of 11 studies of expectant
-management compared with labor induction for suspected macrosomia, labor
-induction significantly increased cesarean delivery rates without improving
-perinatal outcomes (Sanchez-Ramos, 2002). In contrast, Magro-Malosso and
-colleagues (2017) performed a metaanalysis of four randomized trials
-involving 1190 women and concluded that labor induction at ≥38 weeks’
-gestation for suspected macrosomia significantly reduces the frequency of
-fetal overgrowth and fractures. In one of these studies, 822 women with
-suspected LGA fetuses were randomly assigned either to early-term delivery
-or to expectant management (Boulvain, 2015). There was a higher rate of
-vaginal delivery that was marginally significant and a lower composite
-measure of morbidity. The authors cautioned that any benefits should be
-balanced with the risks of early-term labor induction and delivery. Namely, a
-review of early-term births indicates that elective delivery before 39 weeks’
-gestation does not improve maternal outcomes and is associated with worse
-neonatal outcomes (Tita, 2016). We agree with the American College of
+### Detection
 
-Obstetricians and Gynecologists (2019a, 2020b) that current evidence does
-not support a policy for early labor induction or delivery before 39 weeks’
-gestation.
+Because current methods fail to accurately estimate excessive fetal size, macrosomia cannot be definitively diagnosed until delivery (American College of Obstetricians and Gynecologists, 2019a). Inaccuracy in estimates of fetal weight, by either fundal height measurement or sonography, are often attributable to maternal obesity. In one study of 502 patients with sonographic estimated fetal weights >4000 g within 2 weeks of delivery, the risk of birthweight overestimation was >50 percent (Zafman, 2020). Of those who underwent cesarean delivery for suspected LGA, almost 30 percent delivered a neonate weighing <4000 g.
 
-Elective Cesarean Delivery
-With the delivery of macrosomic neonates, shoulder dystocia and its
-attendant risks described in Chapter 27 (p. 501) are major concerns. That
-said, 9 percent of these injuries still follow cesarean delivery (Johnson,
-2020). Therefore, planned cesarean delivery on the basis of suspected
-macrosomia to prevent brachial plexopathy is an unreasonable strategy in the
-general population (Chauhan, 2005). Ecker and coworkers (1997) analyzed
-80 cases of brachial plexus injury in 77,616 consecutive newborns at
-Brigham and Women’s Hospital. They concluded that an excessive number of
-otherwise unnecessary cesarean deliveries would be needed to prevent a
-single brachial plexus injury in neonates born to women without diabetes.
-Others echoed these sentiments in their analysis of nondiabetic mothers
-(Rouse, 1996; Van der Looven, 2020).
-Conversely, planned cesarean delivery may be a reasonable strategy for
-diabetic women with an estimated fetal weight >4250 or >4500 g. Conway
-and Langer (1998) described a protocol of routine cesarean delivery for
-sonographic estimates of ≥4250 g in diabetic women. This management
-significantly lowered the shoulder dystocia rate from 2.4 to 1.1 percent.
-In summary, we agree with the American College of Obstetricians and
-Gynecologists that elective delivery for the fetus that is suspected to be
-overgrown is inadvisable, particularly before 39 weeks’ gestation. Last, we
-also conclude that elective cesarean delivery is not indicated when estimated
-fetal weight is <5000 g among women without diabetes and <4500 g among
-women with diabetes (American College of Obstetricians and Gynecologists,
-2019a, 2020b).
+### Pathophysiology
 
-■ Outcomes
-The adverse consequences of excessive fetal growth are considerable.
-Neonates with a birthweight of at least 4000 g have cesarean delivery rates
-exceeding 50 percent. This is particularly true with maternal obesity or
-diabetes or with birthweights >5000 g (Cordero, 2015; Crosby, 2017; Hehir,
+Particularly in women with diabetes and elevated cord blood levels of insulin-like growth factor 1, fetal macrosomia is associated with greater neonatal fat mass and morphological heart changes. Pedersen (1954) first proposed that hyperglycemia leads to fetal hyperinsulinemia and fetal overgrowth. This has been extended to organ dysmorphia, for example, increased interventricular septal thickness in neonates of mothers with gestational diabetes (Aman, 2011; Garcia-Flores, 2011). The cardiopulmonary vasculature also is adversely affected by diabetes in pregnancy. In 3277 cases of persistent pulmonary hypertension of the
 
-2015). Neonatal morbidity is higher in LGA neonates compared with those
-with lower birthweights. Macrosomic newborns have higher rates of
-shoulder dystocia, obstetrical brachial plexus injuries, and birth fractures
-(Beta, 2019; Chauhan, 2017). Rates of shoulder dystocia vary greatly and can
-reach nearly 30 percent for macrosomic neonates when maternal diabetes is
-comorbid (Cordero, 2015). In general obstetrical populations that include
-diabetic mothers, dystocia rates are at least 5 percent for neonates with
-birthweights ≥5000 g (Crosby, 2017; Hehir, 2015). The risk for stillbirth is
-greater with macrosomia, and this risk rises with increasing birth weight
-(Salihu, 2020). Rates of postpartum hemorrhage, perineal laceration, and
-maternal infection, which are related complications, also are higher in
-mothers delivering overgrown newborns. Table 47-4 shows maternal and
-neonatal outcomes by birthweight for neonates >4000 g delivered at Parkland
-Hospital.
-TABLE 47-4. Maternal and Fetal Outcomes for 208,090 Pregnancies
-Delivered at Parkland Hospital from 1998 through 2012
+newborn, maternal obesity, diabetes, and both deficient and excessive fetal growth were independent risk factors (Steurer, 2017). Long-term metabolic consequences of fetal macrosomia in the setting of maternal obesity are discussed in Chapter 51 (p. 907).
 
-REFERENCES
-Aman J, Hansson U, Ostlund I, et al: Increased fat mass and cardiac septal hypertrophy in newborn
-infants of mothers with well-controlled diabetes during pregnancy. Neonatology 100(2):147, 2011
-American College of Obstetricians and Gynecologists: Macrosomia. Practice Bulletin No. 216,
-December 2019a
-American College of Obstetricians and Gynecologists: Methods for estimating the due date. Committee
-Opinion No. 700, May 2017, Reaffirmed 2019b
-American College of Obstetricians and Gynecologists: Low-dose aspirin use during pregnancy.
-Committee Opinion No. 743, June 2018, Reaffirmed 2020a
-American College of Obstetricians and Gynecologists: Shoulder dystocia. Practice Bulletin No. 178,
-May 2017, Reaffirmed 2020b
-American College of Obstetricians and Gynecologists: Fetal growth restriction. Practice Bulletin No.
-227, January 2021a
-American College of Obstetricians and Gynecologists: Indications for outpatient antenatal fetal
-surveillance. Committee Opinion No. 828, May 2021b
-American College of Obstetricians and Gynecologists: Medically indicated late-preterm and early-term
-deliveries. Committee Opinion No. 831, January 2021c
-Aviram A, Sherman C, Kingdom J, et al: Defining early vs late fetal growth restriction by placental
-pathology. Acta Obstet Gynecol Scand 98(3):365, 2019
-Bahado-Singh RO, Lynch L, Deren O, et al: First-trimester growth restriction and fetal aneuploidy: the
-effect of type of aneuploidy and gestational age. Am J Obstet Gynecol 176(5):976, 1997
-Barker DJ (ed): Fetal and Infant Origins of Adult Disease. London, BMJ Publishing, 1992
-Baschat AA: Neurodevelopment after fetal growth restriction. Fetal Diagn Ther 36:136, 2014
-Baschat AA, Viscardi RM, Hussey-Gardner B, et al: Infant neurodevelopment following fetal growth
-restriction: relationship with antepartum surveillance parameters. Ultrasound Obstet Gynecol
-33(1):44, 2009
-Battaglia FC, Lubchenco LO: A practical classification of newborn infants by weight and gestational
-age. J Pediatr 71(2):159, 1967
-Beta J, Khan N, Khalil A, et al: Maternal and neonatal complications of fetal macrosomia: systematic
-review and meta-analysis. Ultrasound Obstet Gynecol 54(3):308-318, 2019
-Blackwell SC, Landon MB, Mele L, et al: Relationship between excessive gestational weight gain and
-neonatal adiposity in women with mild gestational diabetes mellitus. Obstet Gynecol 128:1325, 2016
-Blue NR, Beddow ME, Savabi M, et al: A comparison of methods for the diagnosis of fetal growth
-restriction between the Royal College of Obstetricians and Gynaecologists and the American
-College of Obstetricians and Gynecologists. Obstet Gynecol 131(5):835, 2018
-Boers KE, van Wyk L, van der Post JA, et al: Neonatal morbidity after induction vs expectant
-monitoring in intrauterine growth restriction at term: a subanalysis of the DIGITAT RCT. Am J
-Obstet Gynecol 206:344.e1, 2012
-Boers KE, Vijgen SM, Bijlenga D, et al: Induction versus expectant monitoring for intrauterine growth
-restriction at term: randomised equivalence trial (DIGITAT). BMJ 341:c7087, 2010
-Boulvain M, Senat MV, Perrotin F, et al: Induction of labour versus expectant management for largefor-date fetuses: a randomised controlled trial. Lancet 385:2600, 2015
-Breij LM, Kerkhof GF, Hokken-Koelega AC: Accelerated infant weight gain and risk for nonalcoholic
-fatty liver disease in early adulthood. J Clin Endocrinol Metab 99:1189, 2014
+### Risk Factors
 
-Briand V, Saal J, Ghafari C, et al: Fetal growth restriction is associated with malaria in pregnancy: a
-prospective longitudinal study in Benin. J Infect Dis 214:417, 2016
-Bricker L, Medley N, Pratt JJ: Routine ultrasound in late pregnancy (after 24 weeks’ gestation).
-Cochrane Database Syst Rev 6:CD001451, 2015
-Briffa JF, McAinch AJ, Romano T, et al: Leptin in pregnancy and development: a contributor to
-adulthood disease? Am J Physiol Endocrinol Metab 308:E335, 2015
-Brosens I, Benagiano G, Brosens JJ: The potential perinatal origin of placentation disorders in the young
-primigravida. Am J Obstet Gynecol 212:580, 2015
-Bryant AS, Worjoloh A, Caughey AB, et al: Racial/ethnic disparities in obstetric outcomes and care:
-prevalence and determinants. Am J Obstet Gynecol 202(4):335, 2010
-Calabuig-Navarro V, Puchowicz M, Glazebrook P, et al: Effect of ω-3 supplementation on placental lipid
-metabolism in overweight and obese women. Am J Clin Nutr 103:1064, 2016
-Capobiango JD, Breganó RM, Navarro IT, et al: Congenital toxoplasmosis in a reference center of
-Paraná, Southern Brazil. Braz J Infect Dis 18:364, 2014
-Caradeux J, Martinez-Portilla RJ, Basuki TR, et al: Risk of fetal death in growth-restricted fetuses with
-umbilical and/or ductus venosus absent or reversed end-diastolic velocities before 34 weeks of
-gestation: a systematic review and meta-analysis. Am J Obstet Gynecol 218(2S):S774, 2018
-Chauhan SP, Grobman WA, Gherman RA, et al: Suspicion and treatment of the macrosomic fetus: a
-review. Am J Obstet Gynecol 193(2):332, 2005
-Chauhan SP, Rice MM, Grobman WA, et al: Neonatal morbidity of small- and large-for-gestational-age
-neonates born at term in uncomplicated pregnancies. Obstet Gynecol 130(3):511, 2017
-Chen S, Cao P, Dong N, et al: PCSK6-mediated corin activation is essential for normal blood pressure.
-Nat Med 21:1048, 2015
-Chiossi G, Pedroza C, Costantine MM, et al: Customized versus population-based growth charts to
-identify neonates at risk of adverse outcomes: a systematic review and Bayesian meta-analysis of
-observational studies. Ultrasound Obstet Gynecol 50(2):156, 2017
-Cohen E, Wong FY, Horne RS, Yiallourou SR: Intrauterine growth restriction: impact on cardiovascular
-development and function throughout infancy. Pediatr Res 79:821, 2016
-Coker AL, Garcia LS, Williams CM, et al: Universal psychosocial screening and adverse pregnancy
-outcomes in an academic obstetric clinic. Obstet Gynecol 119(6):1180, 2012
-Colella M, Frérot A, Novais AR, et al: Neonatal and long-term consequences of fetal growth restriction.
-Curr Pediatr Rev 14(4):212, 2018
-Conway DL, Langer O: Elective delivery of infants with macrosomia in diabetic women: reduced
-shoulder dystocia versus increased cesarean deliveries. Am J Obstet Gynecol 178(5):922, 1998
-Cordero L, Paetow P, Landon MB, et al: Neonatal outcomes of macrosomic infants of diabetic and nondiabetic mothers. J Neonatal Perinatal Med 8:105, 2015
-Costantine MM, Mele L, Landon MB, et al: Customized versus population approach for evaluation of
-fetal overgrowth. Am J Perinatol 30:565, 2013
-Crispi F, Miranda J, Gratacós E: Long-term cardiovascular consequences of fetal growth restriction:
-biology, clinical implications, and opportunities for prevention of adult disease. Am J Obstet Gynecol
-218(2S):S869, 2018
-Crosby DA, Ahmed S, Razley A, et al: Obstetric and neonatal characteristics of pregnancy and delivery
-for infant birthweight ≥5.0 kg. J Matern Fetal Neonatal Med 30(24):2961, 2017
-Crume TL, Shapiro AL, Brinton JT, et al: Maternal fuels and metabolic measures during pregnancy and
-neonatal body composition: the healthy start study. J Clin Endocrinol Metab 100:1672, 2015
+Some factors associated with fetal macrosomia are listed in Table 47-3. Many are interrelated. Advancing age usually correlates with multiparity and risk for diabetes, and obesity is similarly associated with diabetes. In one study, the birth prevalence of macrosomia exceeded 24 percent among obese women in China, and macrosomia rates were approximately 2.5-fold higher for prolonged pregnancy and gestational diabetes (Wang, 2017). As shown in
 
-Cruz-Lemini M, Crispi F, Valenzuela-Alcaraz B, et al: Fetal cardiovascular remodeling persists at 6
-months in infants with intrauterine growth restriction. Ultrasound Obstet Gynecol 48:349, 2016
-Cui Y, Wang W, Dong N, et al: Role of corin in trophoblast invasion and uterine spiral artery remodelling
-in pregnancy. Nature 484(7393):246, 2012
-Cunningham FG, Cox SM, Harstad TW, et al: Chronic renal disease and pregnancy outcome. Am J
-Obstet Gynecol 163(2):453, 1990
-Cyganek K, Skupien J, Katra B, et al: Risk of macrosomia remains glucose-dependent in a cohort of
-women with pregestational type 1 diabetes and good glycemic control. Endocrine 55(2):447, 2017
-Dall’Asta A, Brunelli V, Prefumo F, et al: Early onset fetal growth restriction. Matern Health Neonatol
-Perinatol 3:2, 2017
-de Haas S, Ghossein-Doha C, van Kuijk SM, et al: Physiologic adaptation of maternal plasma volume
-during pregnancy: a systematic review and meta-analysis. Ultrasound Obstet Gynecol 49(2):177,
-2017
-De Jesus LC, Pappas A, Shankaran S, et al: Outcomes of small for gestational age infants born at <27
-weeks’ gestation. J Pediatr 163:55.e1, 2013
-Delhaes F, Giza SA, Koreman T, et al: Altered maternal and placental lipid metabolism and fetal fat
-development in obesity: current knowledge and advances in non-invasive assessment. Placenta.
-69:118, 2018
-Desai G, Anand A, Shah P, et al: Sickle cell disease and pregnancy outcomes: a study of the
-community-based hospital in a tribal block of Gujarat, India. J Health Popul Nutr 36:3, 2017
-DeVore GR: The importance of the cerebroplacental ratio in the evaluation of fetal well-being in SGA
-and AGA fetuses. Am J Obstet Gynecol 213(1):5, 2015
-Di Mascio D, Magro-Malosso R, Saccone G, et al: Exercise during pregnancy in normal-weight women
-and risk of preterm birth: a systematic review and meta-analysis of randomized controlled trials. Am
-J Obstet Gynecol 215(5):561, 2016
-D’Souza SW, Black P, Richards B: Smoking in pregnancy: associations with skinfold thickness, maternal
-weight gain, and fetal size at birth. Br Med J (Clin Res Ed) 282(6277):1661, 1981
-Duley L, Meher S, Hunter KE, et al: Antiplatelet agents for preventing pre-eclampsia and its
-complications. Cochrane Database Syst Rev 2019(10):CD004659, 2019
-Durie DE, Thornburg LL, Glantz JC: Effect of second-trimester and third-trimester rate of gestational
-weight gain on maternal and neonatal outcomes. Obstet Gynecol 118(3):569, 2011
-Durst JK, Sutton AL, Cliver SP, et al: Impact of gestational weight gain on perinatal outcomes in obese
-women. Am J Perinatol 33:849, 2016
-Duryea EL, Hawkins JS, McIntire DD, et al: A revised birth weight reference for the United States.
-Obstet Gynecol 124:16, 2014
-Ecker JL, Greenberg JA, Norwitz ER, et al: Birthweight as a predictor of brachial plexus injury. Obstet
-Gynecol 89(5 pt 1):643, 1997
-Feng Z, Minard C, Raghavan R: Pregnancy outcomes in advanced kidney disease. Clin Nephrol 83:272;
-2015
-Fiot E, Zenaty D, Boizeau P, et al: X-chromosome gene dosage as a determinant of impaired pre and
-postnatal growth and adult height in Turner syndrome. Eur J Endocrinol 174:281, 2016
-Flood K, Unterscheider J, Daly S, et al: The role of brain sparing in the prediction of adverse outcomes
-in intrauterine growth restriction: results of the multicenter PORTO Study. Am J Obstet Gynecol
-211(3):288, 2014
-Garcia-Flores J, Jañez M, Gonzalez MC, et al: Fetal myocardial morphological and functional changes
-associated with well-controlled gestational diabetes. Eur J Obstet Gynecol Reprod Biol 154(1):24,
+> **Table 47-2:** , maternal diabetes is strongly associated with neonates weighing >4000 g. In a prospective study of 682 consecutive pregnancies complicated by diabetes, women with type 1 diabetes were significantly more likely than women with type 2 diabetes to have a neonate weighing above the 90th and 97.7th percentiles (Murphy, 2011). Higher third-trimester glucose concentration correlates with fetal macrosomia, and hemoglobin A1c and fasting glucose values are independent predictors of macrosomia risk (Cyganek, 2017). Notably, maternal diabetes is associated with only a small percentage of the total number of LGA newborns. TABLE 47-3. Risk Factors for Fetal Macrosomia
 
-2011
-Gauster M, Hiden U, Blaschitz A, et al: Dysregulation of placental endothelial lipase and lipoprotein
-lipase in intrauterine growth-restricted pregnancies. J Clin Endocrinol Metab 92(6):2256, 2007
-Gauster M, Hiden U, van Poppel M, et al: Dysregulation of placental endothelial lipase in obese women
-with gestational diabetes mellitus. Diabetes 60(10):2457, 2011
-Getahun D, Ananth CV, Kinzler WL: Risk factors for antepartum and intrapartum stillbirth: a populationbased study. Am J Obstet Gynecol 196(6):499, 2007
-Ghanchi A, Rahshenas M, Bonnet D, et al: Prevalence of growth restriction at birth for newborns with
-congenital heart defects: a population-based prospective cohort study EPICARD. Front Pediatr
-9:676994, 2021
-Giannakopoulos B, Krilis SA: The pathogenesis of the antiphospholipid syndrome. N Engl J Med
-368(11):1033, 2013
-Gil-Sánchez A, Koletzko B, Larqué E: Current understanding of placental fatty acid transport. Curr
-Opin Clin Nutr Metab Care 15(3):265, 2012
-Goetzinger KR, Tuuli MG, Odibo AO, et al: Screening for fetal growth disorders by clinical exam in the
-era of obesity. J Perinatol 33(5):352, 2012
-Grantz KL, Kim S, Grobman WA, et al: Fetal growth velocity: the NICHD fetal growth studies. Am J
-Obstet Gynecol 219:285, 2018
-Grantz KL, Ortega-Villa AM, Pugh SJ, et al: Combination of fundal height and ultrasound to predict
-small for gestational age at birth. Am J Perinatol May 3, 2021 [Epub ahead of print]
-Greer LG, Ziadie MS, Casey BM, et al: An immunologic basis for placental insufficiency in fetal growth
-restriction. Am J Perinatol 29(7):533, 2012
-Griffin IJ, Lee HC, Profit J, et al: The smallest of the small: short-term outcomes of profoundly growth
-restricted and profoundly low birth weight preterm infants. J Perinatol 35:503, 2015
-Grobman WA, Lai Y, Rouse DJ, et al: The association of cerebral palsy and death with small-forgestational-age birthweight in preterm neonates by individualized and population-based percentiles.
-Am J Obstet Gynecol 209(4):340.e1, 2013
-Hall C, Bukowinski AT, McGill AL, et al: Racial disparities in prenatal care utilization and infant small
-for gestational age among active duty US military women. Matern Child Health J 24(7):885, 2020
-Hammad IA, Chauhan CP, Mlynarczyk M, et al: Uncomplicated pregnancies and ultrasounds for fetal
-growth restriction: a pilot randomized clinical trial. Am J Perinatol 6(1):e83, 2016
-HAPO Study Cooperative Research Group: Hyperglycemia and adverse pregnancy outcomes. N Engl J
-Med 358(19):1991, 2008
-Harper LM, Tita A, Biggio JR: The Institute of Medicine guidelines for gestational weight gain after a
-diagnosis of gestational diabetes and pregnancy outcomes. Am J Perinatol 32:239, 2015
-He B, Hu C, Zhou Y: First-trimester screening for fetal growth restriction using Doppler color flow
-analysis of the uterine artery and serum PAPP-A levels in unselected pregnancies. J Matern Fetal
-Neonatal Med 12:1, 2020
-Hehir MP, Mchugh AF, Maguire PJ, et al: Extreme macrosomia—obstetric outcomes and complications
-in birthweights >5000 g. Aust N Z J Obstet Gynaecol 55:42, 2015
-Herrera CL, Hussamy DJ, McIntire DD, et al: Femur length parameters in fetuses with Down
-syndrome. J Matern Fetal Neonatal Med 33(15):2516, 2020
-Hietalampi H, Pahkala K, Jokinen E, et al: Left ventricular mass and geometry in adolescence: early
-childhood determinants. Hypertension 60(5):1266, 2012
-Hutcheon JA, Stephansson O, Cnattingius S, et al: Is the association between pregnancy weight gain
-and fetal size casual?: a re-examination using a sibling comparison design. Epidemiology 30(2):234,
+### Management
 
-2019
-Jana N, Barik S, Arora N, et al: Tuberculosis in pregnancy: the challenges for South Asian countries. J
-Obstet Gynaecol Res 38(9):1125, 2012
-Johnson GJ, Denning S, Clark SL, et al: Pathophysiologic origins of brachial plexus injury. Obstet
-Gynecol 136(4):725, 2020
-Jornayvaz FR, Vollenweider P, Bochud M, et al: Low birth weight leads to obesity, diabetes and
-increased leptin levels in adults: the CoLaus study. Cardiovasc Diabetol 15:73, 2016
-Keats EC, Haider BA, Tam E, et al: Multiple-micronutrient supplementation for women during
-pregnancy. Cochrane Database Syst Rev 3(3):CD004905, 2019
-Kerkhof GF, Willemsen RH, Leunissen RW, et al: Health profile of young adults born preterm: negative
-effects of rapid weight gain in early life. J Clin Endocrinol Metab 97(12):4498, 2012
-Khoury MJ, Erickson JD, Cordero JF, et al: Congenital malformations and intrauterine growth
-retardation: a population study. Pediatrics 82(1):83, 1988
-Kim CJ, Romero R, Chaemsaithong P, et al: Chronic inflammation of the placenta: definition,
-classification, pathogenesis, and clinical significance. Am J Obstet Gynecol 2213:S53, 2015
-Kingdom JC, Audette MC, Hobson SR, et al: A placenta clinic approach to the diagnosis and
-management of fetal growth restriction. Am J Obstet Gynecol 218(2S):S803, 2018
-Klemetti MM, Laivuori H, Tikkanen M, et al: White’s classification and pregnancy outcome in women
-with type 1 diabetes: a population-based cohort study. Diabetologia 59(1):92, 2016
-Korzeniewski SJ, Romero R, Chaiworapongsa T, et al: Maternal plasma angiogenic index-1 (placental
-growth factor/soluble vascular endothelial growth factor receptor-1) is a biomarker for the burden of
-placental lesions consistent with uteroplacental underperfusion: a longitudinal case-cohort study. Am
-J Obstet Gynecol 214(5):629, 2016
-Langridge AT, Li J, Nassar N, et al: Community-level socioeconomic inequalities in infants with poor
-fetal growth in Western Australia, 1984 to 2006. Ann Epidemiol 21(7):473-80, 2011
-Leary PJ, Leary SE, Stout KK, et al: Maternal, perinatal, and post neonatal outcomes in women with
-chronic heart disease in Washington State. Obstet Gynecol 120:1283, 2012
-Lechtig A, Delgado H, Lasky RE, et al: Maternal nutrition and fetal growth in developing societies. Am
-J Dis Child 129(5):434, 1975
-Lees CC, Stampalija T, Baschat A, et al: ISUOG Practice Guildelines: diagnosis and management of
-small-for-gestational-age fetus and fetal growth restriction. Ultrasound Obstet Gynecol 56(2):298,
-2020
-Lees CC, Marlow N, van Wassenaer-Leemhuis A, et al: 2 year neurodevelopmental and intermediate
-perinatal outcomes in infants with very preterm fetal growth restriction (TRUFFLE): a randomised
-trial. Lancet 385:2162, 2015
-Levine TA, Grunau RE, McAuliffe FM, et al. Early childhood neurodevelopment after intrauterine
-growth restriction: a systematic review. Pediatrics 135:126, 2015
-Llurba E, Baschat AA, Turan OM, et al: Childhood cognitive development after fetal growth restriction.
-Ultrasound Obstet Gynecol 41(4):383, 2013
-Luo ZC, Nuyt AM, Delvin E, et al: Maternal and fetal IGF-I and IGF-II levels, fetal growth, and
-gestational diabetes. J Clin Endocrinol Metab 97(5):1720, 2012
-Luyckx VA, Brenner BM: Birth weight, malnutrition and kidney-associated outcomes-a global concern.
-Nat Rev Nephrol 11:135, 2015
-Magro-Malosso ER, Saccone G, Chen M, et al: Induction of labour for suspected macrosomia at term in
-non-diabetic women: a systematic review and meta-analysis of randomized controlled trials. BJOG
-124:414, 2017
+Several interventions have been proposed to interdict suspected or “impending” fetal overgrowth. Exercise in pregnancy is beneficial to the mother, does not increase the risk for growth impairment, and decreases macrosomia risk. One metaanalysis of 28 studies involving 5322 women concluded that exercise reduces the risk of an LGA newborn or birthweight >4000 g without raising the risk of an SGA neonate or birthweight <2500 g (Wiebe, 2015). Similarly, others have concluded that aerobic exercise increases the likelihood of a normal weight neonate (Di Mascio, 2016; Perales, 2016). For women with diabetes, insulin therapy and glycemic control may lower the prevalence of neonatal macrosomia but have not consistently translated into reduced cesarean delivery rates. Fetal macrosomia, irrespective of the diagnosis of diabetes mellitus, is strongly associated with maternal obesity and excessive gestational weight gain (Durie, 2011; Durst, 2016; Harper, 2015). Currently recommended weight gains for pregnancy according to maternal BMI are described in Chapter 10 (p. 183).
 
-Manning FA (ed): Intrauterine growth retardation. In Fetal Medicine Principles and Practice. Norwalk,
-Appleton & Lange, 1995
-Martin JA, Hamilton BE, Osterman MJ, et al: Births: final data for 2019. Natl Vital Stat Rep 70(2):1,
-2021
-Mattsson K, Rylander L: Influence of maternal and paternal birthweight on offspring birthweight—a
-population-based intergenerational study. Paediatr Perinat Epidemiol 27(2):138, 2013
-Mayer C, Joseph KS: Fetal growth: a review of terms, concepts and issues relevant to obstetrics.
-Ultrasound Obstet Gynecol 41(2):136, 2013
-McCloskey K, Burgner D, Carlin JB, et al: Infant adiposity at birth and early postnatal weight gain
-predict increased aortic intima-media thickness at 6 weeks of age: a population-derived cohort study.
-Clin Sci 130:443, 2016
-McCowan LM, Figueras F, Anderson NH: Evidence-based national guidelines for the management of
-suspected fetal growth restriction: comparison, consensus, and controversy. Am J Obstet Gynecol
-218(2S):S855, 2018
-McIntire DD, Bloom SL, Casey BM, et al: Birthweight in relation to morbidity and mortality among
-newborn infants. N Engl J Med 340(16):1234, 1999
-Meher S, Duley L, Hunter K, et al: Antiplatelet therapy before or after 16 weeks’ gestation for
-preventing preeclampsia: an individual participant data meta-analysis. Am J Obstet Gynecol
-216(2):121, 2017
-Mendez-Figueroa H, Truong VT, Pedroza C, et al: Small-for-gestational-age infants among
-uncomplicated pregnancies at term: a secondary analysis of 9 Maternal-Fetal Medicine Units
-Network studies. Am J Obstet Gynecol 215:628.e1, 2016
-Milovanovic I, Njuieyon F, Deghmoun S, et al: Innate small babies are metabolically healthy children. J
-Clin Endocrinol Metab 97(12):4407, 2012
-Monier I, Blondel B, Ego A, et al: Poor effectiveness of antenatal detection of fetal growth restriction
-and consequences for obstetric management and neonatal outcomes: a French national study. BJOG
-122(4):518, 2015
-Murphy HR, Steel SA, Roland JM, et al: East Anglia Study Group for Improving Pregnancy Outcomes
-in Women with Diabetes (EASIPOD). Obstetric and perinatal outcomes in pregnancies complicated
-by Type 1 and Type 2 diabetes: influences of glycaemic control, obesity and social disadvantage.
-Diabet Med 28(9):1060, 2011
-Myatt L, Maloyan A: Obesity and placental function. Semin Reprod Med 34:42, 2016
-Nelson DB, Martin R, Twickler DM, et al: Sonographic detection and clinical importance of growth
-restriction in pregnancies with gastroschisis. J Ultrasound Med 34:2217, 2015
-Ökdemir D, Hatipoğlu N, Kurtoğlu S, et al: The role of irisin, insulin and leptin in maternal and fetal
-interaction. J Clin Res Pediatr Endocrinol 10(4):307, 2018
-Ottesen AM, Aksglaede L, Garn I, et al: Increased number of sex chromosomes affects height in a
-nonlinear fashion: a study of 305 patients with sex chromosome aneuploidy. Am J Med Genet A
-152A:1206, 2010
-Pardi G, Cetin I: Human fetal growth and organ development: 50 years of discoveries. Am J Obstet
-Gynecol 194(4):1008, 2006
-Pedersen J: Weight and length at birth of infants of diabetic mothers. Acta Endocrinol (Copenh) 16:330,
-1954
-Perales M, Santos-Lozano A, Ruiz JR, et al: Benefits of aerobic or resistance training during pregnancy
-on maternal health and perinatal outcomes: a systematic review. Early Hum Dev 94:43, 2016
+“Prophylactic” Labor Induction Some clinicians have induced labor when fetal macrosomia was suspected in nondiabetic women. The rationale for this approach was to obviate further fetal growth and, in theory, reduce the risk of delivery complications or cesarean delivery. In a systematic review of 11 studies of expectant management compared with labor induction for suspected macrosomia, labor induction significantly increased cesarean delivery rates without improving perinatal outcomes (Sanchez-Ramos, 2002). In contrast, Magro-Malosso and colleagues (2017) performed a metaanalysis of four randomized trials involving 1190 women and concluded that labor induction at ≥38 weeks’ gestation for suspected macrosomia significantly reduces the frequency of fetal overgrowth and fractures. In one of these studies, 822 women with suspected LGA fetuses were randomly assigned either to early-term delivery or to expectant management (Boulvain, 2015). There was a higher rate of vaginal delivery that was marginally significant and a lower composite measure of morbidity. The authors cautioned that any benefits should be balanced with the risks of early-term labor induction and delivery. Namely, a review of early-term births indicates that elective delivery before 39 weeks’ gestation does not improve maternal outcomes and is associated with worse neonatal outcomes (Tita, 2016). We agree with the American College of
 
-Picone O, Teissier N, Cordier AG, et al: Detailed in utero ultrasound description of 30 cases of
-congenital cytomegalovirus infection. Prenat Diagn 34:518, 2014
-Picone O, Vauloup-Fellous C, Cordier AG, et al: A series of 238 cytomegalovirus primary infections
-during pregnancy: description and outcome. Prenat Diagn 2:1, 2013
-Poon LC, Shennan A, Hyett JA, et al: The International Federation of Gynecology and Obstetrics
-(FIGO) initiative on pre-eclampsia: a pragmatic guide for first-trimester screening and prevention.
-Int J Gynaecol Obstet 145 Suppl 1(Suppl 1):1, 2019
-Prado EL, Alcock KJ, Muadz H, et al: Maternal multiple micronutrient supplements and child cognition:
-a randomized trial in Indonesia. Pediatrics 130(3):e536, 2012
-Roberge S, Nicolaides K, Demers S, et al: The role of aspirin dose on the prevention of preeclampsia
-and fetal growth restriction: systematic review and meta-analysis. Am J Obstet Gynecol 216(2):110,
-2017
-Roex A, Nikpoor P, van Eerd E, et al: Serial plotting on customized fundal height charts results in
-doubling of the antenatal detection of small for gestational age fetuses in nulliparous women. Aust N
-Z J Obstet Gynaecol 52(1):78, 2012
-Rogne T, Engstrøm AA, Jacobsen GW, et al: Fetal growth, cognitive function, and brain volumes in
-childhood and adolescence. Obstet Gynecol 125:673, 2015
-Rolnik DL, Wright D, Poon LC, et al: Aspirin versus Placebo in Pregnancies at High Risk for Preterm
-Preeclampsia. N Engl J Med 377(7):613, 2017
-Rouse DJ, Owen J, Goldenberg RL, et al: The effectiveness and costs of elective cesarean delivery for
-fetal macrosomia diagnosed by ultrasound. JAMA 276(2):1480, 1996
-Rudzinski E, Gilroy M, Newbill C, et al: Positive C4d immunostaining of placental villous
-syncytiotrophoblasts supports host-versus-graft rejection in villitis of unknown etiology. Pediatr Dev
-Pathol 16(1):7, 2013
-Saccone G, Berghella V, Maruotti GM, et al: Antiphospholipid antibody profile based obstetric outcomes
-of primary antiphospholipid syndrome: the PREGNANTS study. Am J Obstet Gynecol 216(5):525,
-2017
-Saliem S, Patenaude V, Abenhaim HA: Pregnancy outcomes among renal transplant recipients and
-patients with end-stage renal disease on dialysis. J Perinat Med 44:321, 2016
-Salihu HM, Dongarwar D, King LM, et al: Phenotypes of fetal macrosomia and risk of stillbirth among
-term deliveries over the previous four decades. Birth 47(2):202, 2020
-Sanchez-Ramos L, Bernstein S, Kaunitz AM: Expectant management versus labor induction for
-suspected fetal macrosomia: a systematic review. Obstet Gynecol 100(5 pt 1):997, 2002
-Savchev S, Figueras F, Sanz-Cortes M, et al: Evaluation of an optimal gestational age cut-off for the
-definition of early- and late-onset fetal growth restriction. Fetal Diagn Ther 36(2):9, 2014
-Schemmer G, Wapner RJ, Johnson A, et al: First-trimester growth patterns of aneuploid fetuses. Prenat
-Diagn 17(2):155, 1997
-Segura MT, Demmelmair H, Krauss-Etschmann S, et al: Maternal BMI and gestational diabetes alter
-placental lipid transporters and fatty acid composition. Placenta 57:144, 2017
-Sheffield JS, Sánchez PJ, Morris G, et al: Congenital syphilis after maternal treatment for syphilis during
-pregnancy. Am J Obstet Gynecol 186(3):569, 2002
-Simpson J, Smith AD, Fraser A, et al: Programming of adiposity in childhood and adolescence:
-associations with birth weight and cord blood adipokines. J Clin Endocrinol Metab 102(2):499, 2017
-Sobhy S, Babiker Z, Zamora J, et al: Maternal and perinatal mortality and morbidity associated with
-tuberculosis during pregnancy and the postpartum period: a systematic review and meta-analysis.
-BJOG 124(5):727, 2017
+Obstetricians and Gynecologists (2019a, 2020b) that current evidence does not support a policy for early labor induction or delivery before 39 weeks’ gestation.
 
-Society for Maternal-Fetal Medicine, Martins JG, Biggio JR, et al: Society for Maternal-Fetal Medicine
-consult series #52: diagnosis and management of fetal growth restriction. Am J Obstet Gynecol
-223(4):B2, 2020
-Sovio U, White IR, Dacey A, et al: Screening for fetal growth restriction with universal third trimester
-ultrasonography in nulliparous women in the Pregnancy Outcome Prediction (POP) study: a
-prospective cohort study. Lancet 386:2089, 2015
-Sparks TN, Cheng YW, McLaughlin B, et al: Fundal height: a useful screening tool for fetal growth? J
-Matern Fetal Neonatal Med 24(5):708, 2011
-Stein Z, Susser M, Saenger G, et al: Famine and Human Development: The Dutch Hunger Winter of
-1944–1945. New York, Oxford University Press, 1975
-Steurer MA, Jelliffe-Pawlowski LL, Baer RJ, et al: Persistent Pulmonary Hypertension of the Newborn
-in Late Preterm and Term Infants in California. Pediatrics 139(1):e20161165, 2017
-Stott D, Papastefanou I, Paraschiv D, et al: Longitudinal maternal haemodynamics in fetal growth
-restriction in pregnancies at high risk for placental insufficiency. Ultrasound Obstet Gynecol
-49(6):761, 2017
-Tajik P, van Wyk L, Boers KE, et al: Which intrauterine growth restricted fetuses at term benefit from
-early labour induction? A secondary analysis of the DIGITAT randomised trial. Eur J Obstet
-Gynecol Reprod Biol 172:20, 2014
-Thame MM, Singh-Minott I, Osmond C, et al: Pregnancy in sickle cell-haemoglobin C (SC) disease. A
-retrospective study of birth size and maternal weight gain. Eur J Obstet Gynecol Reprod Biol 203:16,
-2016
-Thornton JG, Hornbuckle J, Vail A, et al: Infant well-being at 2 years of age in the Growth Restriction
-Intervention Trial (GRIT): multicenter randomized controlled trial. Lancet 364(9433):513, 2004
-Tita AT: What we have learned about scheduling elective repeat cesarean delivery at term. Semin
-Perinatol 40:287, 2016
-Toda K, Reef S, Tsuruoka M, et al: Congenital rubella syndrome (CRS) in Vietnam 2011–2012–CRS
-epidemic after rubella epidemic in 2010–2011. Vaccine 33:3673, 2015
-Unterscheider J, O’Donoghue K, Malone FD: Guidelines of fetal growth restriction: a comparison of
-recent national publications. Am J Perinatol 32:307, 2015
-Van der Looven R, Le Roy L, Tanghe E, et al: Risk factors for neonatal brachial plexus palsy: a
-systematic review and meta-analysis. Dev Med Child Neurol 62(6):673, 2020
-van Wyk L, Boers KE, van der Post JA, et al: Effects on (neuro)developmental and behavioral outcome
-at 2 years of age of induced labor compared with expectant management in intrauterine growthrestricted infants: long-term outcomes of the DIGITAT trial. Am J Obstet Gynecol 206(5):406.e1,
-2012
-Vollgraff CA, van Osch IR, Heymans MW, et al: Cerebroplacental ratio in predicting adverse perinatal
-outcome: a meta-analysis of individual participant data. 128(2):226, 2021
-Waldhoer T, Klebermass-Schrehof K: The impact of altitude on birth weight depends on further motherand infant-related factors: a population-based study in an altitude range up to 1600 m in Austria
-between 1984 and 2013. J Perinatol 35:689, 2015
-Walker DM, Marlow N, Upstone L, et al: The Growth Restriction Intervention Trial: long-term
-outcomes in a randomized trial of timing of delivery in fetal growth restriction. Am J Obstet Gynecol
-204(1):34.e1, 2011
-Wang D, Hong Y, Zhu L, et al: Risk factors and outcomes of macrosomia in China: a multicentric
-survey based on birth data. J Matern Fetal Neonatal Med 30:623, 2017
+Elective Cesarean Delivery With the delivery of macrosomic neonates, shoulder dystocia and its attendant risks described in Chapter 27 (p. 501) are major concerns. That said, 9 percent of these injuries still follow cesarean delivery (Johnson, 2020). Therefore, planned cesarean delivery on the basis of suspected macrosomia to prevent brachial plexopathy is an unreasonable strategy in the general population (Chauhan, 2005). Ecker and coworkers (1997) analyzed 80 cases of brachial plexus injury in 77,616 consecutive newborns at Brigham and Women’s Hospital. They concluded that an excessive number of otherwise unnecessary cesarean deliveries would be needed to prevent a single brachial plexus injury in neonates born to women without diabetes. Others echoed these sentiments in their analysis of nondiabetic mothers (Rouse, 1996; Van der Looven, 2020). Conversely, planned cesarean delivery may be a reasonable strategy for diabetic women with an estimated fetal weight >4250 or >4500 g. Conway and Langer (1998) described a protocol of routine cesarean delivery for sonographic estimates of ≥4250 g in diabetic women. This management significantly lowered the shoulder dystocia rate from 2.4 to 1.1 percent. In summary, we agree with the American College of Obstetricians and Gynecologists that elective delivery for the fetus that is suspected to be overgrown is inadvisable, particularly before 39 weeks’ gestation. Last, we also conclude that elective cesarean delivery is not indicated when estimated fetal weight is <5000 g among women without diabetes and <4500 g among women with diabetes (American College of Obstetricians and Gynecologists, 2019a, 2020b).
 
-Wanyyonyi SZ, Orwa J, Ozelle H, et al: Routine third-trimester ultrasound for the detection of small-forgestational age in low-risk pregnancies (ROTTUS study): randomized controlled trial. Ultrasound
-Obstet Gynecol 57(6):910, 2021
-Werler MM: Teratogen update: smoking and reproductive outcomes. Teratology 55(6):382, 1997
-Wiebe HW, Boulé NG, Chari R, et al: The effect of supervised prenatal exercise on fetal growth: a
-meta-analysis. Obstet Gynecol 125:1185, 2015
-Wigby K, D’Epagnier C, Howell S, et al: Expanding the phenotype of Triple X syndrome: a comparison
-of prenatal versus postnatal diagnosis. Am J Med Genet A 170:2870, 2016
-Williams RL, Creasy RK, Cunningham GC, et al: Fetal growth and perinatal viability in California.
-Obstet Gynecol 59:624, 1982
-Yang X, Li M, Haghiac M, Catalano PM, et al: Causal relationship between obesity-related traits and
-TLR4-driven responses at the maternal-fetal interface. Diabetologia 59:2459, 2016
-Zafman KB, Bergh E, Fox NS: Accuracy of sonographic estimated fetal weight in suspected
-macrosomia: the likelihood of overestimating and underestimating the true birthweight. J Matern
-Fetal Neonatal Med 33(6):967, 2020
-Zhang J, Merialdi M, Platt LD, et al: Defining normal and abnormal fetal growth: promises and
-challenges. Am J Obstet Gynecol 202(6):522, 2010
-Zhang J, Mikolajczyk R, Grewal J, et al: Prenatal application of the individualized fetal growth
-reference. Am J Epidemiol 173(5):539, 2011
+### Outcomes
 
+The adverse consequences of excessive fetal growth are considerable. Neonates with a birthweight of at least 4000 g have cesarean delivery rates exceeding 50 percent. This is particularly true with maternal obesity or diabetes or with birthweights >5000 g (Cordero, 2015; Crosby, 2017; Hehir,
+
+2015). Neonatal morbidity is higher in LGA neonates compared with those with lower birthweights. Macrosomic newborns have higher rates of shoulder dystocia, obstetrical brachial plexus injuries, and birth fractures (Beta, 2019; Chauhan, 2017). Rates of shoulder dystocia vary greatly and can reach nearly 30 percent for macrosomic neonates when maternal diabetes is comorbid (Cordero, 2015). In general obstetrical populations that include diabetic mothers, dystocia rates are at least 5 percent for neonates with birthweights ≥5000 g (Crosby, 2017; Hehir, 2015). The risk for stillbirth is greater with macrosomia, and this risk rises with increasing birth weight (Salihu, 2020). Rates of postpartum hemorrhage, perineal laceration, and maternal infection, which are related complications, also are higher in mothers delivering overgrown newborns. Table 47-4 shows maternal and neonatal outcomes by birthweight for neonates >4000 g delivered at Parkland Hospital.
+
+> **Table 47-4:** Maternal and Fetal Outcomes for 208,090 Pregnancies Delivered at Parkland Hospital from 1998 through 2012
+
+## References
+
+Aman J, Hansson U, Ostlund I, et al: Increased fat mass and cardiac septal hypertrophy in newborn infants of mothers with well-controlled diabetes during pregnancy. Neonatology 100(2):147, 2011 American College of Obstetricians and Gynecologists: Macrosomia. Practice Bulletin No. 216, December 2019a American College of Obstetricians and Gynecologists: Methods for estimating the due date. Committee Opinion No. 700, May 2017, Reaffirmed 2019b American College of Obstetricians and Gynecologists: Low-dose aspirin use during pregnancy.
+
+**Committee Opinion No.** 743, June 2018, Reaffirmed 2020a American College of Obstetricians and Gynecologists: Shoulder dystocia. Practice Bulletin No. 178, May 2017, Reaffirmed 2020b American College of Obstetricians and Gynecologists: Fetal growth restriction. Practice Bulletin No. 227, January 2021a American College of Obstetricians and Gynecologists: Indications for outpatient antenatal fetal surveillance. Committee Opinion No. 828, May 2021b American College of Obstetricians and Gynecologists: Medically indicated late-preterm and early-term deliveries. Committee Opinion No. 831, January 2021c Aviram A, Sherman C, Kingdom J, et al: Defining early vs late fetal growth restriction by placental pathology. Acta Obstet Gynecol Scand 98(3):365, 2019 Bahado-Singh RO, Lynch L, Deren O, et al: First-trimester growth restriction and fetal aneuploidy: the effect of type of aneuploidy and gestational age. Am J Obstet Gynecol 176(5):976, 1997 Barker DJ (ed): Fetal and Infant Origins of Adult Disease. London, BMJ Publishing, 1992 Baschat AA: Neurodevelopment after fetal growth restriction. Fetal Diagn Ther 36:136, 2014 Baschat AA, Viscardi RM, Hussey-Gardner B, et al: Infant neurodevelopment following fetal growth restriction: relationship with antepartum surveillance parameters. Ultrasound Obstet Gynecol 33(1):44, 2009 Battaglia FC, Lubchenco LO: A practical classification of newborn infants by weight and gestational age. J Pediatr 71(2):159, 1967 Beta J, Khan N, Khalil A, et al: Maternal and neonatal complications of fetal macrosomia: systematic review and meta-analysis. Ultrasound Obstet Gynecol 54(3):308-318, 2019 Blackwell SC, Landon MB, Mele L, et al: Relationship between excessive gestational weight gain and neonatal adiposity in women with mild gestational diabetes mellitus. Obstet Gynecol 128:1325, 2016 Blue NR, Beddow ME, Savabi M, et al: A comparison of methods for the diagnosis of fetal growth restriction between the Royal College of Obstetricians and Gynaecologists and the American College of Obstetricians and Gynecologists. Obstet Gynecol 131(5):835, 2018 Boers KE, van Wyk L, van der Post JA, et al: Neonatal morbidity after induction vs expectant monitoring in intrauterine growth restriction at term: a subanalysis of the DIGITAT RCT. Am J Obstet Gynecol 206:344.e1, 2012 Boers KE, Vijgen SM, Bijlenga D, et al: Induction versus expectant monitoring for intrauterine growth restriction at term: randomised equivalence trial (DIGITAT). BMJ 341:c7087, 2010 Boulvain M, Senat MV, Perrotin F, et al: Induction of labour versus expectant management for largefor-date fetuses: a randomised controlled trial. Lancet 385:2600, 2015 Breij LM, Kerkhof GF, Hokken-Koelega AC: Accelerated infant weight gain and risk for nonalcoholic fatty liver disease in early adulthood. J Clin Endocrinol Metab 99:1189, 2014
+
+Briand V, Saal J, Ghafari C, et al: Fetal growth restriction is associated with malaria in pregnancy: a prospective longitudinal study in Benin. J Infect Dis 214:417, 2016 Bricker L, Medley N, Pratt JJ: Routine ultrasound in late pregnancy (after 24 weeks’ gestation). Cochrane Database Syst Rev 6:CD001451, 2015 Briffa JF, McAinch AJ, Romano T, et al: Leptin in pregnancy and development: a contributor to adulthood disease? Am J Physiol Endocrinol Metab 308:E335, 2015 Brosens I, Benagiano G, Brosens JJ: The potential perinatal origin of placentation disorders in the young primigravida. Am J Obstet Gynecol 212:580, 2015 Bryant AS, Worjoloh A, Caughey AB, et al: Racial/ethnic disparities in obstetric outcomes and care: prevalence and determinants. Am J Obstet Gynecol 202(4):335, 2010 Calabuig-Navarro V, Puchowicz M, Glazebrook P, et al: Effect of ω-3 supplementation on placental lipid metabolism in overweight and obese women. Am J Clin Nutr 103:1064, 2016 Capobiango JD, Breganó RM, Navarro IT, et al: Congenital toxoplasmosis in a reference center of Paraná, Southern Brazil. Braz J Infect Dis 18:364, 2014 Caradeux J, Martinez-Portilla RJ, Basuki TR, et al: Risk of fetal death in growth-restricted fetuses with umbilical and/or ductus venosus absent or reversed end-diastolic velocities before 34 weeks of gestation: a systematic review and meta-analysis. Am J Obstet Gynecol 218(2S):S774, 2018 Chauhan SP, Grobman WA, Gherman RA, et al: Suspicion and treatment of the macrosomic fetus: a review. Am J Obstet Gynecol 193(2):332, 2005 Chauhan SP, Rice MM, Grobman WA, et al: Neonatal morbidity of small- and large-for-gestational-age neonates born at term in uncomplicated pregnancies. Obstet Gynecol 130(3):511, 2017 Chen S, Cao P, Dong N, et al: PCSK6-mediated corin activation is essential for normal blood pressure. Nat Med 21:1048, 2015 Chiossi G, Pedroza C, Costantine MM, et al: Customized versus population-based growth charts to identify neonates at risk of adverse outcomes: a systematic review and Bayesian meta-analysis of observational studies. Ultrasound Obstet Gynecol 50(2):156, 2017 Cohen E, Wong FY, Horne RS, Yiallourou SR: Intrauterine growth restriction: impact on cardiovascular development and function throughout infancy. Pediatr Res 79:821, 2016 Coker AL, Garcia LS, Williams CM, et al: Universal psychosocial screening and adverse pregnancy outcomes in an academic obstetric clinic. Obstet Gynecol 119(6):1180, 2012 Colella M, Frérot A, Novais AR, et al: Neonatal and long-term consequences of fetal growth restriction. Curr Pediatr Rev 14(4):212, 2018 Conway DL, Langer O: Elective delivery of infants with macrosomia in diabetic women: reduced shoulder dystocia versus increased cesarean deliveries. Am J Obstet Gynecol 178(5):922, 1998 Cordero L, Paetow P, Landon MB, et al: Neonatal outcomes of macrosomic infants of diabetic and nondiabetic mothers. J Neonatal Perinatal Med 8:105, 2015 Costantine MM, Mele L, Landon MB, et al: Customized versus population approach for evaluation of fetal overgrowth. Am J Perinatol 30:565, 2013 Crispi F, Miranda J, Gratacós E: Long-term cardiovascular consequences of fetal growth restriction: biology, clinical implications, and opportunities for prevention of adult disease. Am J Obstet Gynecol 218(2S):S869, 2018 Crosby DA, Ahmed S, Razley A, et al: Obstetric and neonatal characteristics of pregnancy and delivery for infant birthweight ≥5.0 kg. J Matern Fetal Neonatal Med 30(24):2961, 2017 Crume TL, Shapiro AL, Brinton JT, et al: Maternal fuels and metabolic measures during pregnancy and neonatal body composition: the healthy start study. J Clin Endocrinol Metab 100:1672, 2015
+
+Cruz-Lemini M, Crispi F, Valenzuela-Alcaraz B, et al: Fetal cardiovascular remodeling persists at 6 months in infants with intrauterine growth restriction. Ultrasound Obstet Gynecol 48:349, 2016 Cui Y, Wang W, Dong N, et al: Role of corin in trophoblast invasion and uterine spiral artery remodelling in pregnancy. Nature 484(7393):246, 2012 Cunningham FG, Cox SM, Harstad TW, et al: Chronic renal disease and pregnancy outcome. Am J Obstet Gynecol 163(2):453, 1990 Cyganek K, Skupien J, Katra B, et al: Risk of macrosomia remains glucose-dependent in a cohort of women with pregestational type 1 diabetes and good glycemic control. Endocrine 55(2):447, 2017 Dall’Asta A, Brunelli V, Prefumo F, et al: Early onset fetal growth restriction. Matern Health Neonatol Perinatol 3:2, 2017 de Haas S, Ghossein-Doha C, van Kuijk SM, et al: Physiologic adaptation of maternal plasma volume during pregnancy: a systematic review and meta-analysis. Ultrasound Obstet Gynecol 49(2):177,
+
+## 2017
+
+De Jesus LC, Pappas A, Shankaran S, et al: Outcomes of small for gestational age infants born at <27 weeks’ gestation. J Pediatr 163:55.e1, 2013 Delhaes F, Giza SA, Koreman T, et al: Altered maternal and placental lipid metabolism and fetal fat development in obesity: current knowledge and advances in non-invasive assessment. Placenta. 69:118, 2018 Desai G, Anand A, Shah P, et al: Sickle cell disease and pregnancy outcomes: a study of the community-based hospital in a tribal block of Gujarat, India. J Health Popul Nutr 36:3, 2017 DeVore GR: The importance of the cerebroplacental ratio in the evaluation of fetal well-being in SGA and AGA fetuses. Am J Obstet Gynecol 213(1):5, 2015 Di Mascio D, Magro-Malosso R, Saccone G, et al: Exercise during pregnancy in normal-weight women and risk of preterm birth: a systematic review and meta-analysis of randomized controlled trials. Am J Obstet Gynecol 215(5):561, 2016 D’Souza SW, Black P, Richards B: Smoking in pregnancy: associations with skinfold thickness, maternal weight gain, and fetal size at birth. Br Med J (Clin Res Ed) 282(6277):1661, 1981 Duley L, Meher S, Hunter KE, et al: Antiplatelet agents for preventing pre-eclampsia and its complications. Cochrane Database Syst Rev 2019(10):CD004659, 2019 Durie DE, Thornburg LL, Glantz JC: Effect of second-trimester and third-trimester rate of gestational weight gain on maternal and neonatal outcomes. Obstet Gynecol 118(3):569, 2011 Durst JK, Sutton AL, Cliver SP, et al: Impact of gestational weight gain on perinatal outcomes in obese women. Am J Perinatol 33:849, 2016 Duryea EL, Hawkins JS, McIntire DD, et al: A revised birth weight reference for the United States. Obstet Gynecol 124:16, 2014 Ecker JL, Greenberg JA, Norwitz ER, et al: Birthweight as a predictor of brachial plexus injury. Obstet Gynecol 89(5 pt 1):643, 1997 Feng Z, Minard C, Raghavan R: Pregnancy outcomes in advanced kidney disease. Clin Nephrol 83:272;
+
+## 2015
+
+Fiot E, Zenaty D, Boizeau P, et al: X-chromosome gene dosage as a determinant of impaired pre and postnatal growth and adult height in Turner syndrome. Eur J Endocrinol 174:281, 2016 Flood K, Unterscheider J, Daly S, et al: The role of brain sparing in the prediction of adverse outcomes in intrauterine growth restriction: results of the multicenter PORTO Study. Am J Obstet Gynecol 211(3):288, 2014 Garcia-Flores J, Jañez M, Gonzalez MC, et al: Fetal myocardial morphological and functional changes associated with well-controlled gestational diabetes. Eur J Obstet Gynecol Reprod Biol 154(1):24,
+
+## 2011
+
+Gauster M, Hiden U, Blaschitz A, et al: Dysregulation of placental endothelial lipase and lipoprotein lipase in intrauterine growth-restricted pregnancies. J Clin Endocrinol Metab 92(6):2256, 2007 Gauster M, Hiden U, van Poppel M, et al: Dysregulation of placental endothelial lipase in obese women with gestational diabetes mellitus. Diabetes 60(10):2457, 2011 Getahun D, Ananth CV, Kinzler WL: Risk factors for antepartum and intrapartum stillbirth: a populationbased study. Am J Obstet Gynecol 196(6):499, 2007 Ghanchi A, Rahshenas M, Bonnet D, et al: Prevalence of growth restriction at birth for newborns with congenital heart defects: a population-based prospective cohort study EPICARD. Front Pediatr 9:676994, 2021 Giannakopoulos B, Krilis SA: The pathogenesis of the antiphospholipid syndrome. N Engl J Med 368(11):1033, 2013 Gil-Sánchez A, Koletzko B, Larqué E: Current understanding of placental fatty acid transport. Curr Opin Clin Nutr Metab Care 15(3):265, 2012 Goetzinger KR, Tuuli MG, Odibo AO, et al: Screening for fetal growth disorders by clinical exam in the era of obesity. J Perinatol 33(5):352, 2012 Grantz KL, Kim S, Grobman WA, et al: Fetal growth velocity: the NICHD fetal growth studies. Am J Obstet Gynecol 219:285, 2018 Grantz KL, Ortega-Villa AM, Pugh SJ, et al: Combination of fundal height and ultrasound to predict small for gestational age at birth. Am J Perinatol May 3, 2021 [Epub ahead of print] Greer LG, Ziadie MS, Casey BM, et al: An immunologic basis for placental insufficiency in fetal growth restriction. Am J Perinatol 29(7):533, 2012 Griffin IJ, Lee HC, Profit J, et al: The smallest of the small: short-term outcomes of profoundly growth restricted and profoundly low birth weight preterm infants. J Perinatol 35:503, 2015 Grobman WA, Lai Y, Rouse DJ, et al: The association of cerebral palsy and death with small-forgestational-age birthweight in preterm neonates by individualized and population-based percentiles. Am J Obstet Gynecol 209(4):340.e1, 2013 Hall C, Bukowinski AT, McGill AL, et al: Racial disparities in prenatal care utilization and infant small for gestational age among active duty US military women. Matern Child Health J 24(7):885, 2020 Hammad IA, Chauhan CP, Mlynarczyk M, et al: Uncomplicated pregnancies and ultrasounds for fetal growth restriction: a pilot randomized clinical trial. Am J Perinatol 6(1):e83, 2016 HAPO Study Cooperative Research Group: Hyperglycemia and adverse pregnancy outcomes. N Engl J Med 358(19):1991, 2008 Harper LM, Tita A, Biggio JR: The Institute of Medicine guidelines for gestational weight gain after a diagnosis of gestational diabetes and pregnancy outcomes. Am J Perinatol 32:239, 2015 He B, Hu C, Zhou Y: First-trimester screening for fetal growth restriction using Doppler color flow analysis of the uterine artery and serum PAPP-A levels in unselected pregnancies. J Matern Fetal Neonatal Med 12:1, 2020 Hehir MP, Mchugh AF, Maguire PJ, et al: Extreme macrosomia—obstetric outcomes and complications in birthweights >5000 g. Aust N Z J Obstet Gynaecol 55:42, 2015 Herrera CL, Hussamy DJ, McIntire DD, et al: Femur length parameters in fetuses with Down syndrome. J Matern Fetal Neonatal Med 33(15):2516, 2020 Hietalampi H, Pahkala K, Jokinen E, et al: Left ventricular mass and geometry in adolescence: early childhood determinants. Hypertension 60(5):1266, 2012 Hutcheon JA, Stephansson O, Cnattingius S, et al: Is the association between pregnancy weight gain and fetal size casual?: a re-examination using a sibling comparison design. Epidemiology 30(2):234,
+
+## 2019
+
+Jana N, Barik S, Arora N, et al: Tuberculosis in pregnancy: the challenges for South Asian countries. J Obstet Gynaecol Res 38(9):1125, 2012 Johnson GJ, Denning S, Clark SL, et al: Pathophysiologic origins of brachial plexus injury. Obstet Gynecol 136(4):725, 2020 Jornayvaz FR, Vollenweider P, Bochud M, et al: Low birth weight leads to obesity, diabetes and increased leptin levels in adults: the CoLaus study. Cardiovasc Diabetol 15:73, 2016 Keats EC, Haider BA, Tam E, et al: Multiple-micronutrient supplementation for women during pregnancy. Cochrane Database Syst Rev 3(3):CD004905, 2019 Kerkhof GF, Willemsen RH, Leunissen RW, et al: Health profile of young adults born preterm: negative effects of rapid weight gain in early life. J Clin Endocrinol Metab 97(12):4498, 2012 Khoury MJ, Erickson JD, Cordero JF, et al: Congenital malformations and intrauterine growth retardation: a population study. Pediatrics 82(1):83, 1988 Kim CJ, Romero R, Chaemsaithong P, et al: Chronic inflammation of the placenta: definition, classification, pathogenesis, and clinical significance. Am J Obstet Gynecol 2213:S53, 2015 Kingdom JC, Audette MC, Hobson SR, et al: A placenta clinic approach to the diagnosis and management of fetal growth restriction. Am J Obstet Gynecol 218(2S):S803, 2018 Klemetti MM, Laivuori H, Tikkanen M, et al: White’s classification and pregnancy outcome in women with type 1 diabetes: a population-based cohort study. Diabetologia 59(1):92, 2016 Korzeniewski SJ, Romero R, Chaiworapongsa T, et al: Maternal plasma angiogenic index-1 (placental growth factor/soluble vascular endothelial growth factor receptor-1) is a biomarker for the burden of placental lesions consistent with uteroplacental underperfusion: a longitudinal case-cohort study. Am J Obstet Gynecol 214(5):629, 2016 Langridge AT, Li J, Nassar N, et al: Community-level socioeconomic inequalities in infants with poor fetal growth in Western Australia, 1984 to 2006. Ann Epidemiol 21(7):473-80, 2011 Leary PJ, Leary SE, Stout KK, et al: Maternal, perinatal, and post neonatal outcomes in women with chronic heart disease in Washington State. Obstet Gynecol 120:1283, 2012 Lechtig A, Delgado H, Lasky RE, et al: Maternal nutrition and fetal growth in developing societies. Am J Dis Child 129(5):434, 1975 Lees CC, Stampalija T, Baschat A, et al: ISUOG Practice Guildelines: diagnosis and management of small-for-gestational-age fetus and fetal growth restriction. Ultrasound Obstet Gynecol 56(2):298,
+
+## 2020
+
+Lees CC, Marlow N, van Wassenaer-Leemhuis A, et al: 2 year neurodevelopmental and intermediate perinatal outcomes in infants with very preterm fetal growth restriction (TRUFFLE): a randomised trial. Lancet 385:2162, 2015 Levine TA, Grunau RE, McAuliffe FM, et al. Early childhood neurodevelopment after intrauterine growth restriction: a systematic review. Pediatrics 135:126, 2015 Llurba E, Baschat AA, Turan OM, et al: Childhood cognitive development after fetal growth restriction. Ultrasound Obstet Gynecol 41(4):383, 2013 Luo ZC, Nuyt AM, Delvin E, et al: Maternal and fetal IGF-I and IGF-II levels, fetal growth, and gestational diabetes. J Clin Endocrinol Metab 97(5):1720, 2012 Luyckx VA, Brenner BM: Birth weight, malnutrition and kidney-associated outcomes-a global concern. Nat Rev Nephrol 11:135, 2015 Magro-Malosso ER, Saccone G, Chen M, et al: Induction of labour for suspected macrosomia at term in non-diabetic women: a systematic review and meta-analysis of randomized controlled trials. BJOG 124:414, 2017
+
+Manning FA (ed): Intrauterine growth retardation. In Fetal Medicine Principles and Practice. Norwalk, Appleton & Lange, 1995 Martin JA, Hamilton BE, Osterman MJ, et al: Births: final data for 2019. Natl Vital Stat Rep 70(2):1,
+
+## 2021
+
+Mattsson K, Rylander L: Influence of maternal and paternal birthweight on offspring birthweight—a population-based intergenerational study. Paediatr Perinat Epidemiol 27(2):138, 2013 Mayer C, Joseph KS: Fetal growth: a review of terms, concepts and issues relevant to obstetrics. Ultrasound Obstet Gynecol 41(2):136, 2013 McCloskey K, Burgner D, Carlin JB, et al: Infant adiposity at birth and early postnatal weight gain predict increased aortic intima-media thickness at 6 weeks of age: a population-derived cohort study. Clin Sci 130:443, 2016 McCowan LM, Figueras F, Anderson NH: Evidence-based national guidelines for the management of suspected fetal growth restriction: comparison, consensus, and controversy. Am J Obstet Gynecol 218(2S):S855, 2018 McIntire DD, Bloom SL, Casey BM, et al: Birthweight in relation to morbidity and mortality among newborn infants. N Engl J Med 340(16):1234, 1999 Meher S, Duley L, Hunter K, et al: Antiplatelet therapy before or after 16 weeks’ gestation for preventing preeclampsia: an individual participant data meta-analysis. Am J Obstet Gynecol 216(2):121, 2017 Mendez-Figueroa H, Truong VT, Pedroza C, et al: Small-for-gestational-age infants among uncomplicated pregnancies at term: a secondary analysis of 9 Maternal-Fetal Medicine Units Network studies. Am J Obstet Gynecol 215:628.e1, 2016 Milovanovic I, Njuieyon F, Deghmoun S, et al: Innate small babies are metabolically healthy children. J Clin Endocrinol Metab 97(12):4407, 2012 Monier I, Blondel B, Ego A, et al: Poor effectiveness of antenatal detection of fetal growth restriction and consequences for obstetric management and neonatal outcomes: a French national study. BJOG 122(4):518, 2015 Murphy HR, Steel SA, Roland JM, et al: East Anglia Study Group for Improving Pregnancy Outcomes in Women with Diabetes (EASIPOD). Obstetric and perinatal outcomes in pregnancies complicated by Type 1 and Type 2 diabetes: influences of glycaemic control, obesity and social disadvantage. Diabet Med 28(9):1060, 2011 Myatt L, Maloyan A: Obesity and placental function. Semin Reprod Med 34:42, 2016 Nelson DB, Martin R, Twickler DM, et al: Sonographic detection and clinical importance of growth restriction in pregnancies with gastroschisis. J Ultrasound Med 34:2217, 2015 Ökdemir D, Hatipoğlu N, Kurtoğlu S, et al: The role of irisin, insulin and leptin in maternal and fetal interaction. J Clin Res Pediatr Endocrinol 10(4):307, 2018 Ottesen AM, Aksglaede L, Garn I, et al: Increased number of sex chromosomes affects height in a nonlinear fashion: a study of 305 patients with sex chromosome aneuploidy. Am J Med Genet A 152A:1206, 2010 Pardi G, Cetin I: Human fetal growth and organ development: 50 years of discoveries. Am J Obstet Gynecol 194(4):1008, 2006 Pedersen J: Weight and length at birth of infants of diabetic mothers. Acta Endocrinol (Copenh) 16:330,
+
+## 1954
+
+Perales M, Santos-Lozano A, Ruiz JR, et al: Benefits of aerobic or resistance training during pregnancy on maternal health and perinatal outcomes: a systematic review. Early Hum Dev 94:43, 2016
+
+Picone O, Teissier N, Cordier AG, et al: Detailed in utero ultrasound description of 30 cases of congenital cytomegalovirus infection. Prenat Diagn 34:518, 2014 Picone O, Vauloup-Fellous C, Cordier AG, et al: A series of 238 cytomegalovirus primary infections during pregnancy: description and outcome. Prenat Diagn 2:1, 2013 Poon LC, Shennan A, Hyett JA, et al: The International Federation of Gynecology and Obstetrics (FIGO) initiative on pre-eclampsia: a pragmatic guide for first-trimester screening and prevention. Int J Gynaecol Obstet 145 Suppl 1(Suppl 1):1, 2019 Prado EL, Alcock KJ, Muadz H, et al: Maternal multiple micronutrient supplements and child cognition: a randomized trial in Indonesia. Pediatrics 130(3):e536, 2012 Roberge S, Nicolaides K, Demers S, et al: The role of aspirin dose on the prevention of preeclampsia and fetal growth restriction: systematic review and meta-analysis. Am J Obstet Gynecol 216(2):110,
+
+## 2017
+
+Roex A, Nikpoor P, van Eerd E, et al: Serial plotting on customized fundal height charts results in doubling of the antenatal detection of small for gestational age fetuses in nulliparous women. Aust N Z J Obstet Gynaecol 52(1):78, 2012 Rogne T, Engstrøm AA, Jacobsen GW, et al: Fetal growth, cognitive function, and brain volumes in childhood and adolescence. Obstet Gynecol 125:673, 2015 Rolnik DL, Wright D, Poon LC, et al: Aspirin versus Placebo in Pregnancies at High Risk for Preterm Preeclampsia. N Engl J Med 377(7):613, 2017 Rouse DJ, Owen J, Goldenberg RL, et al: The effectiveness and costs of elective cesarean delivery for fetal macrosomia diagnosed by ultrasound. JAMA 276(2):1480, 1996 Rudzinski E, Gilroy M, Newbill C, et al: Positive C4d immunostaining of placental villous syncytiotrophoblasts supports host-versus-graft rejection in villitis of unknown etiology. Pediatr Dev Pathol 16(1):7, 2013 Saccone G, Berghella V, Maruotti GM, et al: Antiphospholipid antibody profile based obstetric outcomes of primary antiphospholipid syndrome: the PREGNANTS study. Am J Obstet Gynecol 216(5):525,
+
+## 2017
+
+Saliem S, Patenaude V, Abenhaim HA: Pregnancy outcomes among renal transplant recipients and patients with end-stage renal disease on dialysis. J Perinat Med 44:321, 2016 Salihu HM, Dongarwar D, King LM, et al: Phenotypes of fetal macrosomia and risk of stillbirth among term deliveries over the previous four decades. Birth 47(2):202, 2020 Sanchez-Ramos L, Bernstein S, Kaunitz AM: Expectant management versus labor induction for suspected fetal macrosomia: a systematic review. Obstet Gynecol 100(5 pt 1):997, 2002 Savchev S, Figueras F, Sanz-Cortes M, et al: Evaluation of an optimal gestational age cut-off for the definition of early- and late-onset fetal growth restriction. Fetal Diagn Ther 36(2):9, 2014 Schemmer G, Wapner RJ, Johnson A, et al: First-trimester growth patterns of aneuploid fetuses. Prenat Diagn 17(2):155, 1997 Segura MT, Demmelmair H, Krauss-Etschmann S, et al: Maternal BMI and gestational diabetes alter placental lipid transporters and fatty acid composition. Placenta 57:144, 2017 Sheffield JS, Sánchez PJ, Morris G, et al: Congenital syphilis after maternal treatment for syphilis during pregnancy. Am J Obstet Gynecol 186(3):569, 2002 Simpson J, Smith AD, Fraser A, et al: Programming of adiposity in childhood and adolescence: associations with birth weight and cord blood adipokines. J Clin Endocrinol Metab 102(2):499, 2017 Sobhy S, Babiker Z, Zamora J, et al: Maternal and perinatal mortality and morbidity associated with tuberculosis during pregnancy and the postpartum period: a systematic review and meta-analysis. BJOG 124(5):727, 2017
+
+Society for Maternal-Fetal Medicine, Martins JG, Biggio JR, et al: Society for Maternal-Fetal Medicine consult series #52: diagnosis and management of fetal growth restriction. Am J Obstet Gynecol 223(4):B2, 2020 Sovio U, White IR, Dacey A, et al: Screening for fetal growth restriction with universal third trimester ultrasonography in nulliparous women in the Pregnancy Outcome Prediction (POP) study: a prospective cohort study. Lancet 386:2089, 2015 Sparks TN, Cheng YW, McLaughlin B, et al: Fundal height: a useful screening tool for fetal growth? J Matern Fetal Neonatal Med 24(5):708, 2011 Stein Z, Susser M, Saenger G, et al: Famine and Human Development: The Dutch Hunger Winter of 1944–1945. New York, Oxford University Press, 1975 Steurer MA, Jelliffe-Pawlowski LL, Baer RJ, et al: Persistent Pulmonary Hypertension of the Newborn in Late Preterm and Term Infants in California. Pediatrics 139(1):e20161165, 2017 Stott D, Papastefanou I, Paraschiv D, et al: Longitudinal maternal haemodynamics in fetal growth restriction in pregnancies at high risk for placental insufficiency. Ultrasound Obstet Gynecol 49(6):761, 2017 Tajik P, van Wyk L, Boers KE, et al: Which intrauterine growth restricted fetuses at term benefit from early labour induction? A secondary analysis of the DIGITAT randomised trial. Eur J Obstet Gynecol Reprod Biol 172:20, 2014 Thame MM, Singh-Minott I, Osmond C, et al: Pregnancy in sickle cell-haemoglobin C (SC) disease. A retrospective study of birth size and maternal weight gain. Eur J Obstet Gynecol Reprod Biol 203:16,
+
+## 2016
+
+Thornton JG, Hornbuckle J, Vail A, et al: Infant well-being at 2 years of age in the Growth Restriction Intervention Trial (GRIT): multicenter randomized controlled trial. Lancet 364(9433):513, 2004 Tita AT: What we have learned about scheduling elective repeat cesarean delivery at term. Semin Perinatol 40:287, 2016 Toda K, Reef S, Tsuruoka M, et al: Congenital rubella syndrome (CRS) in Vietnam 2011–2012–CRS epidemic after rubella epidemic in 2010–2011. Vaccine 33:3673, 2015 Unterscheider J, O’Donoghue K, Malone FD: Guidelines of fetal growth restriction: a comparison of recent national publications. Am J Perinatol 32:307, 2015 Van der Looven R, Le Roy L, Tanghe E, et al: Risk factors for neonatal brachial plexus palsy: a systematic review and meta-analysis. Dev Med Child Neurol 62(6):673, 2020 van Wyk L, Boers KE, van der Post JA, et al: Effects on (neuro)developmental and behavioral outcome at 2 years of age of induced labor compared with expectant management in intrauterine growthrestricted infants: long-term outcomes of the DIGITAT trial. Am J Obstet Gynecol 206(5):406.e1,
+
+## 2012
+
+Vollgraff CA, van Osch IR, Heymans MW, et al: Cerebroplacental ratio in predicting adverse perinatal outcome: a meta-analysis of individual participant data. 128(2):226, 2021 Waldhoer T, Klebermass-Schrehof K: The impact of altitude on birth weight depends on further motherand infant-related factors: a population-based study in an altitude range up to 1600 m in Austria between 1984 and 2013. J Perinatol 35:689, 2015 Walker DM, Marlow N, Upstone L, et al: The Growth Restriction Intervention Trial: long-term outcomes in a randomized trial of timing of delivery in fetal growth restriction. Am J Obstet Gynecol 204(1):34.e1, 2011 Wang D, Hong Y, Zhu L, et al: Risk factors and outcomes of macrosomia in China: a multicentric survey based on birth data. J Matern Fetal Neonatal Med 30:623, 2017
+
+Wanyyonyi SZ, Orwa J, Ozelle H, et al: Routine third-trimester ultrasound for the detection of small-forgestational age in low-risk pregnancies (ROTTUS study): randomized controlled trial. Ultrasound Obstet Gynecol 57(6):910, 2021 Werler MM: Teratogen update: smoking and reproductive outcomes. Teratology 55(6):382, 1997 Wiebe HW, Boulé NG, Chari R, et al: The effect of supervised prenatal exercise on fetal growth: a meta-analysis. Obstet Gynecol 125:1185, 2015 Wigby K, D’Epagnier C, Howell S, et al: Expanding the phenotype of Triple X syndrome: a comparison of prenatal versus postnatal diagnosis. Am J Med Genet A 170:2870, 2016 Williams RL, Creasy RK, Cunningham GC, et al: Fetal growth and perinatal viability in California. Obstet Gynecol 59:624, 1982 Yang X, Li M, Haghiac M, Catalano PM, et al: Causal relationship between obesity-related traits and TLR4-driven responses at the maternal-fetal interface. Diabetologia 59:2459, 2016 Zafman KB, Bergh E, Fox NS: Accuracy of sonographic estimated fetal weight in suspected macrosomia: the likelihood of overestimating and underestimating the true birthweight. J Matern Fetal Neonatal Med 33(6):967, 2020 Zhang J, Merialdi M, Platt LD, et al: Defining normal and abnormal fetal growth: promises and challenges. Am J Obstet Gynecol 202(6):522, 2010 Zhang J, Mikolajczyk R, Grewal J, et al: Prenatal application of the individualized fetal growth reference. Am J Epidemiol 173(5):539, 2011

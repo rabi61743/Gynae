@@ -1,565 +1,203 @@
-26 TH EDITION
+## 26 Th Edition
 
 Williams
 
-OBSTETRICS
+## Obstetrics
 
-CUNNINGHAM
-LEVENO
-DASHE
-HOFFMAN
-SPONG
+## Cunningham
 
-CASEY
+## Leveno
 
-Me
-Graw
-Hill
+## Dashe
 
-NOTICE
-Medicine is an ever-changing science. As new research and clinical
-experience broaden our knowledge, changes in treatment and drug therapy
-are required. The authors and the publisher of this work have checked
-with sources believed to be reliable in their efforts to provide information
-that is complete and generally in accord with the standards accepted at the
-time of publication. However, in view of the possibility of human error or
-changes in medical sciences, neither the authors nor the publisher nor any
-other party who has been involved in the preparation or publication of this
-work warrants that the information contained herein is in every respect
-accurate or complete, and they disclaim all responsibility for any errors
-or omissions or for the results obtained from use of the information
-contained in this work. Readers are encouraged to confirm the information
-contained herein with other sources. For example and in particular,
-readers are advised to check the product information sheet included in the
-package of each drug they plan to administer to be certain that the
-information contained in this work is accurate and that changes have not
-been made in the recommended dose or in the contraindications for
-administration. This recommendation is of particular importance in
-connection with new or infrequently used drugs.
+## Hoffman
 
-Williams
+## Spong
 
-OBSTETRICS
-26TH EDITION
-F. Gary Cunningham
-Kenneth J. Leveno
-Jodi S. Dashe
-Barbara L Hoffman
-Catherine Y, Spong
-Brian M. Casey
+## Casey
 
-Grow
-Hill
-New York *C ! icng4> San Fran<iseo Lisbon London Madrid Mexico City
-Milan New Ddhi San Juan Seoul Singapore Sydney Tbronro
+Me Graw Hill
+
+## Notice
+
+**Medicine is an ever-changing science.** As new research and clinical experience broaden our knowledge, changes in treatment and drug therapy are required. The authors and the publisher of this work have checked with sources believed to be reliable in their efforts to provide information that is complete and generally in accord with the standards accepted at the time of publication. However, in view of the possibility of human error or changes in medical sciences, neither the authors nor the publisher nor any other party who has been involved in the preparation or publication of this work warrants that the information contained herein is in every respect accurate or complete, and they disclaim all responsibility for any errors or omissions or for the results obtained from use of the information contained in this work. Readers are encouraged to confirm the information contained herein with other sources. For example and in particular, readers are advised to check the product information sheet included in the package of each drug they plan to administer to be certain that the information contained in this work is accurate and that changes have not been made in the recommended dose or in the contraindications for administration. This recommendation is of particular importance in connection with new or infrequently used drugs.
+
+Williams
+
+## Obstetrics
+
+## 26Th Edition
+
+F. Gary Cunningham Kenneth J. Leveno Jodi S. Dashe Barbara L Hoffman Catherine Y, Spong Brian M. Casey
+
+Grow Hill New York *C ! icng4> San Fran<iseo Lisbon London Madrid Mexico City Milan New Ddhi San Juan Seoul Singapore Sydney Tbronro
 
 ^
 
-Copyright © 2022 by McGraw Hill. All rights reserved. Except as permitted
-under the United States Copyright Act of 1976, no part of this publication
-may be reproduced or distributed in any form or by any means, or stored in a
-database or retrieval system, without the prior written permission of the
-publisher.
-ISBN: 978-1-26-046274-6
-MHID:
-1-26-046274-9
-The material in this eBook also appears in the print version of this title:
-ISBN: 978-1-26-046273-9, MHID: 1-26-046273-0.
-eBook conversion by codeMantra
-Version 1.0
-All trademarks are trademarks of their respective owners. Rather than put a
-trademark symbol after every occurrence of a trademarked name, we use
-names in an editorial fashion only, and to the benefit of the trademark owner,
-with no intention of infringement of the trademark. Where such designations
-appear in this book, they have been printed with initial caps.
-McGraw-Hill Education eBooks are available at special quantity discounts
-to use as premiums and sales promotions or for use in corporate training
-programs. To contact a representative, please visit the Contact Us page at
-www.mhprofessional.com.
-TERMS OF USE
-This is a copyrighted work and McGraw-Hill Education and its licensors
-reserve all rights in and to the work. Use of this work is subject to these
-terms. Except as permitted under the Copyright Act of 1976 and the right to
-store and retrieve one copy of the work, you may not decompile,
-disassemble, reverse engineer, reproduce, modify, create derivative works
-based upon, transmit, distribute, disseminate, sell, publish or sublicense the
-work or any part of it without McGraw-Hill Education’s prior consent. You
-may use the work for your own noncommercial and personal use; any other
+Copyright © 2022 by McGraw Hill. All rights reserved. Except as permitted under the United States Copyright Act of 1976, no part of this publication may be reproduced or distributed in any form or by any means, or stored in a database or retrieval system, without the prior written permission of the publisher. ISBN: 978-1-26-046274-6 MHID:
 
-use of the work is strictly prohibited. Your right to use the work may be
-terminated if you fail to comply with these terms.
-THE WORK IS PROVIDED “AS IS.” McGRAW-HILL EDUCATION AND
-ITS LICENSORS MAKE NO GUARANTEES OR WARRANTIES AS TO
-THE ACCURACY, ADEQUACY OR COMPLETENESS OF OR RESULTS
-TO BE OBTAINED FROM USING THE WORK, INCLUDING ANY
-INFORMATION THAT CAN BE ACCESSED THROUGH THE WORK
-VIA HYPERLINK OR OTHERWISE, AND EXPRESSLY DISCLAIM ANY
-WARRANTY, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS
-FOR A PARTICULAR PURPOSE. McGraw-Hill Education and its licensors
-do not warrant or guarantee that the functions contained in the work will meet
-your requirements or that its operation will be uninterrupted or error free.
-Neither McGraw-Hill Education nor its licensors shall be liable to you or
-anyone else for any inaccuracy, error or omission, regardless of cause, in the
-work or for any damages resulting therefrom. McGraw-Hill Education has no
-responsibility for the content of any information accessed through the work.
-Under no circumstances shall McGraw-Hill Education and/or its licensors
-be liable for any indirect, incidental, special, punitive, consequential or
-similar damages that result from the use of or inability to use the work, even
-if any of them has been advised of the possibility of such damages. This
-limitation of liability shall apply to any claim or cause whatsoever whether
-such claim or cause arises in contract, tort or otherwise.
+## 1-26-046274-9
 
-EDITORS
-F. Gary Cunningham, MD
-Professor, Department of Obstetrics and Gynecology
-University of Texas Southwestern Medical Center
-Parkland Health and Hospital System
-Dallas, Texas
-Kenneth J. Leveno, MD
-Professor, Department of Obstetrics and Gynecology
-University of Texas Southwestern Medical Center
-Parkland Health and Hospital System
-Dallas, Texas
-Jodi S. Dashe, MD
-Professor, Department of Obstetrics and Gynecology
-University of Texas Southwestern Medical Center
-Medical Director of Prenatal Diagnosis
-Parkland Health and Hospital System
-Dallas, Texas
-Barbara L. Hoffman, MD
-Distinguished Professor in Obstetrics and Gynecology, in Honor of F. Gary
-Cunningham, M.D.
-University of Texas Southwestern Medical Center
-Parkland Health and Hospital System
-Dallas, Texas
-Catherine Y. Spong, MD
-Paul C. MacDonald Distinguished Chair in Obstetrics and Gynecology
-Professor and Chair, Department of Obstetrics and Gynecology
+The material in this eBook also appears in the print version of this title: ISBN: 978-1-26-046273-9, MHID: 1-26-046273-0. eBook conversion by codeMantra Version 1.0 All trademarks are trademarks of their respective owners. Rather than put a trademark symbol after every occurrence of a trademarked name, we use names in an editorial fashion only, and to the benefit of the trademark owner, with no intention of infringement of the trademark. Where such designations appear in this book, they have been printed with initial caps. McGraw-Hill Education eBooks are available at special quantity discounts to use as premiums and sales promotions or for use in corporate training programs. To contact a representative, please visit the Contact Us page at www.mhprofessional.com.
 
-Chief, Division of Maternal-Fetal Medicine
-University of Texas Southwestern Medical Center
-Parkland Health and Hospital System
-Dallas, Texas
-Brian M. Casey, MD
-Professor, Department of Obstetrics and Gynecology
-Vice Chair, Obstetrics
-Director, Division of Maternal-Fetal Medicine
-University of Alabama at Birmingham
+## Terms Of Use
 
-DR. F. GARY CUNNINGHAM
+This is a copyrighted work and McGraw-Hill Education and its licensors reserve all rights in and to the work. Use of this work is subject to these terms. Except as permitted under the Copyright Act of 1976 and the right to store and retrieve one copy of the work, you may not decompile, disassemble, reverse engineer, reproduce, modify, create derivative works based upon, transmit, distribute, disseminate, sell, publish or sublicense the work or any part of it without McGraw-Hill Education’s prior consent. You may use the work for your own noncommercial and personal use; any other
 
-Editor of Williams Obstetrics
-18th through 26th Editions
-In the early 1970s, as I was finishing my residency at Charity Hospital of
-New Orleans, the 14th edition of Williams Obstetrics was published. The
-residents in our program were totally enamored with the textbook because it
-was a clinical manual derived from the editors’ personal experiences and
-from contemporary, evidence-based literature.
-During my last year, my chairman, Dr. Abe Mickal, invited me to attend a
-national meeting where I first met four obstetricians who would have an
-immeasurable impact on my life—Drs. Jack Pritchard, Paul MacDonald,
-Norman Gant, and Peggy Whalley. Following that, I was invited to Dallas to
-spend time at the University of Texas Southwestern and Parkland Hospital.
-As I followed Dr. Pritchard through Labor & Delivery and his clinical
-research laboratory, I became hooked on “Parkland Obstetrics” and later that
-year began a fellowship that was the nascent subspecialty of Maternal–Fetal
-Medicine. It also began a lifelong friendship with Jack Pritchard that I will
-always treasure.
-Beginning with the 15th edition of Williams Obstetrics, the authoreditors were Drs. Pritchard, MacDonald, and Gant. After publication of the
-17th edition, these mentors asked me to assume the senior editor role. I was
-immediately struck by the awesome responsibility of shepherding the book
-that many people called “the bible of obstetrics.”
+use of the work is strictly prohibited. Your right to use the work may be terminated if you fail to comply with these terms. THE WORK IS PROVIDED “AS IS.” McGRAW-HILL EDUCATION AND
 
-Over the years, and now as we publish this 26th edition, I reflect on the
-evolution of obstetrics, and hence the complexity of sustaining a textbook
-designed to cover the breadth of obstetrics. As essential fields such as
-sonography, genetics, and fetal medicine were developed, we enlisted the
-help of extremely talented leaders in their respective fields to ensure that the
-book adequately presented these innovations. As for my role in this and other
-editions, I can only promise the readers that the quality of the book has been
-foremost in my mind and led me to spend literally tens of thousands of hours
-to help prepare the past nine editions. To this end, the editors have always
-strived to put the best product forward because of the tremendous
-responsibility that we shoulder regarding the care of women and their unborn
-children. The textbook has been one of the great passions in my life, and I
-will miss the challenge.
+## Its Licensors Make No Guarantees Or Warranties As To
 
-DEDICATION
+## The Accuracy, Adequacy Or Completeness Of Or Results
 
-KENNETH LEVENO, MD
-1941–2020
-Dr. Kenneth Leveno was a vocal and stalwart defender of evidence-based
-obstetrics. Sadly, he passed away in May 2020. Ken joined the Department
-of Obstetrics & Gynecology at the University of Texas Southwestern after
-completing a Maternal–Fetal Medicine fellowship in 1978. In 1984, he was
-appointed Chief of Obstetrics at Parkland Memorial Hospital—a role in
-which he served for the next 20 years. During that time and afterwards, he
-worked tirelessly to achieve a level of excellence in obstetrical care for
-indigent women of Dallas County. His inspiring leadership and innovations
-raised the quality of care at the community obstetrics clinics, the high-risk
-prenatal clinics at Parkland, and the inpatient units, which include the
-Obstetrical Triage Unit, Labor & Delivery, postpartum wards, and the HighRisk Pregnancy Unit. Early on, he also designed a computerized database to
-measure quality indicators and provide an underpinning for clinical research.
-Indeed, his contributions to these programs were reverently referred to by us
-as Parkland Obstetrics.
-Ken Leveno’s leadership extended well beyond the hospital that he
-loved. He was a leader in American obstetrics by his defining of clinical
-research. Through his hundreds of peer-reviewed publications, his clinical
+## To Be Obtained From Using The Work, Including Any
 
-opinions, and his willingness to engage in national debates, he helped shape
-obstetrical practices worldwide. In 1993, Ken began serving as an editor for
-Williams Obstetrics—a task that he regarded as a privilege and a
-responsibility. He co-authored the 19th through the current 26th editions. Last
-and importantly, he mentored the careers of many Maternal–Fetal Medicine
-fellows and young faculty who have gone on to achieve national reputations
-in the care of women. Ken will be greatly missed.
-The Editors
+## Information That Can Be Accessed Through The Work
 
-ASSOCIATE EDITORS
-Mala S. Mahendroo, PhD
-Professor, Department of Obstetrics and Gynecology and Green Center for
-Reproductive Biological Sciences
-University of Texas Southwestern Medical Center
-Dallas, Texas
-David B. Nelson, MD
-Dedman Family Scholar in Clinical Care
-Associate Professor, Department of Obstetrics and Gynecology
-University of Texas Southwestern Medical Center
-Chief of Obstetrics
-Parkland Health and Hospital System
-Dallas, Texas
-Shivani Patel, MD
-Associate Professor, Department of Obstetrics and Gynecology
-University of Texas Southwestern Medical Center
-Assistant Quality Officer, Health Systems Affairs
-Medical Director of Obstetrics, William P. Clements Jr. University Hospital
-Parkland Health and Hospital System
-Dallas, Texas
-Diane M. Twickler, MD, FACR
-Dr. Fred Bonte Professorship in Radiology
-Professor, Department of Radiology and of Obstetrics and Gynecology
-Vice Chairman at Large for Radiology
-University of Texas Southwestern Medical Center
-Medical Director of Obstetrics and Gynecology Ultrasonography
-Parkland Health and Hospital System
+## Via Hyperlink Or Otherwise, And Expressly Disclaim Any
 
-Dallas, Texas
+## Warranty, Express Or Implied, Including But Not Limited
 
-CONTRIBUTING AUTHORS
-Emily H. Adhikari, MD
-Assistant Professor, Department of Obstetrics and Gynecology
-University of Texas Southwestern Medical Center
-Medical Director of Perinatal Infectious Diseases
-Parkland Hospital and Hospital System
-Dallas, Texas
-Donald D. McIntire, PhD
-Biostatistician
-Professor, Department of Obstetrics and Gynecology
-University of Texas Southwestern Medical Center
-Dallas, Texas
-Wilmer Moreno, MD
-Assistant Professor, Department of Obstetrics and Gynecology
-University of Texas Southwestern Medical Center
-Parkland Health and Hospital System
-Dallas, Texas
-David M. Owen, MD, PhD
-Assistant Professor, Department of Obstetrics and Gynecology
-University of Texas Southwestern Medical Center
-Parkland Health and Hospital System
-Dallas, Texas
-Weike Tao, MD
-Professor, Department of Anesthesiology and Pain Management
-University of Texas Southwestern Medical Center
-Parkland Health and Hospital System
+## To Implied Warranties Of Merchantability Or Fitness
 
-Dallas, Texas
-C. Edward Wells, MD
-Professor, Department of Obstetrics and Gynecology
-University of Texas Southwestern Medical Center
-Parkland Health and Hospital System
-Dallas, Texas
-Myra H. Wyckoff, MD
-Professor, Department of Pediatrics
-University of Texas Southwestern Medical Center
-Director, Newborn Resuscitation Services
-Parkland Health and Hospital System
+**FOR A PARTICULAR PURPOSE.** McGraw-Hill Education and its licensors do not warrant or guarantee that the functions contained in the work will meet your requirements or that its operation will be uninterrupted or error free. Neither McGraw-Hill Education nor its licensors shall be liable to you or anyone else for any inaccuracy, error or omission, regardless of cause, in the work or for any damages resulting therefrom. McGraw-Hill Education has no responsibility for the content of any information accessed through the work. Under no circumstances shall McGraw-Hill Education and/or its licensors be liable for any indirect, incidental, special, punitive, consequential or similar damages that result from the use of or inability to use the work, even if any of them has been advised of the possibility of such damages. This limitation of liability shall apply to any claim or cause whatsoever whether such claim or cause arises in contract, tort or otherwise.
+
+## Editors
+
+F. Gary Cunningham, MD Professor, Department of Obstetrics and Gynecology University of Texas Southwestern Medical Center Parkland Health and Hospital System Dallas, Texas Kenneth J. Leveno, MD Professor, Department of Obstetrics and Gynecology University of Texas Southwestern Medical Center Parkland Health and Hospital System Dallas, Texas Jodi S. Dashe, MD Professor, Department of Obstetrics and Gynecology University of Texas Southwestern Medical Center Medical Director of Prenatal Diagnosis Parkland Health and Hospital System Dallas, Texas Barbara L. Hoffman, MD Distinguished Professor in Obstetrics and Gynecology, in Honor of F. Gary Cunningham, M.D. University of Texas Southwestern Medical Center Parkland Health and Hospital System Dallas, Texas Catherine Y. Spong, MD Paul C. MacDonald Distinguished Chair in Obstetrics and Gynecology Professor and Chair, Department of Obstetrics and Gynecology
+
+Chief, Division of Maternal-Fetal Medicine University of Texas Southwestern Medical Center Parkland Health and Hospital System Dallas, Texas Brian M. Casey, MD Professor, Department of Obstetrics and Gynecology Vice Chair, Obstetrics Director, Division of Maternal-Fetal Medicine University of Alabama at Birmingham
+
+**DR.** F. GARY CUNNINGHAM
+
+Editor of Williams Obstetrics 18th through 26th Editions In the early 1970s, as I was finishing my residency at Charity Hospital of New Orleans, the 14th edition of Williams Obstetrics was published. The residents in our program were totally enamored with the textbook because it was a clinical manual derived from the editors’ personal experiences and from contemporary, evidence-based literature. During my last year, my chairman, Dr. Abe Mickal, invited me to attend a national meeting where I first met four obstetricians who would have an immeasurable impact on my life—Drs. Jack Pritchard, Paul MacDonald, Norman Gant, and Peggy Whalley. Following that, I was invited to Dallas to spend time at the University of Texas Southwestern and Parkland Hospital. As I followed Dr. Pritchard through Labor & Delivery and his clinical research laboratory, I became hooked on “Parkland Obstetrics” and later that year began a fellowship that was the nascent subspecialty of Maternal–Fetal Medicine. It also began a lifelong friendship with Jack Pritchard that I will always treasure. Beginning with the 15th edition of Williams Obstetrics, the authoreditors were Drs. Pritchard, MacDonald, and Gant. After publication of the 17th edition, these mentors asked me to assume the senior editor role. I was immediately struck by the awesome responsibility of shepherding the book that many people called “the bible of obstetrics.”
+
+Over the years, and now as we publish this 26th edition, I reflect on the evolution of obstetrics, and hence the complexity of sustaining a textbook designed to cover the breadth of obstetrics. As essential fields such as sonography, genetics, and fetal medicine were developed, we enlisted the help of extremely talented leaders in their respective fields to ensure that the book adequately presented these innovations. As for my role in this and other editions, I can only promise the readers that the quality of the book has been foremost in my mind and led me to spend literally tens of thousands of hours to help prepare the past nine editions. To this end, the editors have always strived to put the best product forward because of the tremendous responsibility that we shoulder regarding the care of women and their unborn children. The textbook has been one of the great passions in my life, and I will miss the challenge.
+
+## Dedication
+
+## Kenneth Leveno, Md
+
+## 1941–2020
+
+**Dr.** Kenneth Leveno was a vocal and stalwart defender of evidence-based obstetrics. Sadly, he passed away in May 2020. Ken joined the Department of Obstetrics & Gynecology at the University of Texas Southwestern after completing a Maternal–Fetal Medicine fellowship in 1978. In 1984, he was appointed Chief of Obstetrics at Parkland Memorial Hospital—a role in which he served for the next 20 years. During that time and afterwards, he worked tirelessly to achieve a level of excellence in obstetrical care for indigent women of Dallas County. His inspiring leadership and innovations raised the quality of care at the community obstetrics clinics, the high-risk prenatal clinics at Parkland, and the inpatient units, which include the Obstetrical Triage Unit, Labor & Delivery, postpartum wards, and the HighRisk Pregnancy Unit. Early on, he also designed a computerized database to measure quality indicators and provide an underpinning for clinical research. Indeed, his contributions to these programs were reverently referred to by us as Parkland Obstetrics. Ken Leveno’s leadership extended well beyond the hospital that he loved. He was a leader in American obstetrics by his defining of clinical research. Through his hundreds of peer-reviewed publications, his clinical
+
+opinions, and his willingness to engage in national debates, he helped shape obstetrical practices worldwide. In 1993, Ken began serving as an editor for Williams Obstetrics—a task that he regarded as a privilege and a responsibility. He co-authored the 19th through the current 26th editions. Last and importantly, he mentored the careers of many Maternal–Fetal Medicine fellows and young faculty who have gone on to achieve national reputations in the care of women. Ken will be greatly missed. The Editors
+
+## Associate Editors
+
+**Mala S.** Mahendroo, PhD Professor, Department of Obstetrics and Gynecology and Green Center for Reproductive Biological Sciences University of Texas Southwestern Medical Center Dallas, Texas David B. Nelson, MD Dedman Family Scholar in Clinical Care Associate Professor, Department of Obstetrics and Gynecology University of Texas Southwestern Medical Center Chief of Obstetrics Parkland Health and Hospital System Dallas, Texas Shivani Patel, MD Associate Professor, Department of Obstetrics and Gynecology University of Texas Southwestern Medical Center Assistant Quality Officer, Health Systems Affairs Medical Director of Obstetrics, William P. Clements Jr. University Hospital Parkland Health and Hospital System Dallas, Texas Diane M. Twickler, MD, FACR Dr. Fred Bonte Professorship in Radiology Professor, Department of Radiology and of Obstetrics and Gynecology Vice Chairman at Large for Radiology University of Texas Southwestern Medical Center Medical Director of Obstetrics and Gynecology Ultrasonography Parkland Health and Hospital System
+
 Dallas, Texas
 
-CONTENTS
-Preface
-Acknowledgments
+## Contributing Authors
+
+**Emily H.** Adhikari, MD Assistant Professor, Department of Obstetrics and Gynecology University of Texas Southwestern Medical Center Medical Director of Perinatal Infectious Diseases Parkland Hospital and Hospital System Dallas, Texas Donald D. McIntire, PhD Biostatistician Professor, Department of Obstetrics and Gynecology University of Texas Southwestern Medical Center Dallas, Texas Wilmer Moreno, MD Assistant Professor, Department of Obstetrics and Gynecology University of Texas Southwestern Medical Center Parkland Health and Hospital System Dallas, Texas David M. Owen, MD, PhD Assistant Professor, Department of Obstetrics and Gynecology University of Texas Southwestern Medical Center Parkland Health and Hospital System Dallas, Texas Weike Tao, MD Professor, Department of Anesthesiology and Pain Management University of Texas Southwestern Medical Center Parkland Health and Hospital System
+
+Dallas, Texas C. Edward Wells, MD Professor, Department of Obstetrics and Gynecology University of Texas Southwestern Medical Center Parkland Health and Hospital System Dallas, Texas Myra H. Wyckoff, MD Professor, Department of Pediatrics University of Texas Southwestern Medical Center Director, Newborn Resuscitation Services Parkland Health and Hospital System Dallas, Texas
+
+## Contents
+
+Preface Acknowledgments
 
 SECTION 1
-OVERVIEW
+
+## Overview
+
 1. Overview of Obstetrics
 
 SECTION 2
-MATERNAL ANATOMY AND PHYSIOLOGY
-2. Maternal Anatomy
-3. Congenital Genitourinary Abnormalities
-4. Maternal Physiology
+
+## Maternal Anatomy And Physiology
+
+2. Maternal Anatomy 3. Congenital Genitourinary Abnormalities 4. Maternal Physiology
 
 SECTION 3
-PLACENTATION, EMBRYOGENESIS, AND FETAL
-DEVELOPMENT
-5. Implantation and Placental Development
-6. Placental Abnormalities
-7. Embryogenesis and Fetal Development
 
-SECTION 4
-PRECONCEPTIONAL AND PRENATAL CARE
-8. Teratology, Teratogens, and Fetotoxic Agents
-9. Preconceptional Counseling
-10. Prenatal Care
+## Placentation, Embryogenesis, And Fetal
+
+## Development
+
+5. Implantation and Placental Development 6. Placental Abnormalities 7. Embryogenesis and Fetal Development
+
+SECTION 4
+
+## Preconceptional And Prenatal Care
+
+8. Teratology, Teratogens, and Fetotoxic Agents 9. Preconceptional Counseling 10. Prenatal Care
 
 SECTION 5
-FIRST- AND SECOND-TRIMESTER PREGNANCY LOSS
-11. First- and Second-Trimester Pregnancy Loss
-12. Ectopic Pregnancy
-13. Gestational Trophoblastic Disease
+
+## First- And Second-Trimester Pregnancy Loss
+
+11. First- and Second-Trimester Pregnancy Loss 12. Ectopic Pregnancy 13. Gestational Trophoblastic Disease
 
 SECTION 6
-THE FETAL PATIENT
-14. Obstetrical Imaging
-15. Normal and Abnormal Fetal Anatomy
-16. Genetics
-17. Prenatal Diagnosis
-18. Fetal Disorders
-19. Fetal Therapy
-20. Antepartum Fetal Assessment
+
+## The Fetal Patient
+
+14. Obstetrical Imaging 15. Normal and Abnormal Fetal Anatomy 16. Genetics 17. Prenatal Diagnosis 18. Fetal Disorders 19. Fetal Therapy 20. Antepartum Fetal Assessment
 
 SECTION 7
 
-LABOR
-21. Physiology of Labor
-22. Normal Labor
-23. Abnormal Labor
-24. Intrapartum Assessment
-25. Obstetrical Analgesia and Anesthesia
-26. Induction and Augmentation of Labor
+## Labor
+
+21. Physiology of Labor 22. Normal Labor 23. Abnormal Labor 24. Intrapartum Assessment 25. Obstetrical Analgesia and Anesthesia 26. Induction and Augmentation of Labor
 
 SECTION 8
-DELIVERY
-27. Vaginal Delivery
-28. Singleton Breech Delivery
-29. Operative Vaginal Delivery
-30. Cesarean Delivery and Peripartum Hysterectomy
-31. Prior Cesarean Delivery
+
+## Delivery
+
+27. Vaginal Delivery 28. Singleton Breech Delivery 29. Operative Vaginal Delivery 30. Cesarean Delivery and Peripartum Hysterectomy 31. Prior Cesarean Delivery
 
 SECTION 9
-THE NEWBORN
-32. The Newborn
-33. Complications of the Term Newborn
-34. The Preterm Newborn
-35. Stillbirth
 
-SECTION 10
+## The Newborn
 
-THE PUERPERIUM
-36. The Puerperium
-37. Puerperal Infection
-38. Contraception
-39. Sterilization
+32. The Newborn 33. Complications of the Term Newborn 34. The Preterm Newborn 35. Stillbirth
 
-SECTION 11
-OBSTETRICAL COMPLICATIONS
-40. Preeclampsia Syndrome
-41. Clinical Management of the Preeclampsia Syndrome
-42. Causes of Obstetrical Hemorrhage
-43. Hemorrhagic Placental Disorders
-44. Management of Obstetrical Hemorrhage
-45. Preterm Birth
-46. Postterm Pregnancy
-47. Fetal-Growth Disorders
-48. Multifetal Pregnancy
+## Section 10
 
-SECTION 12
-MEDICAL AND SURGICAL COMPLICATIONS
-49. General Considerations and Maternal Evaluation
-50. Critical Care and Trauma
-51. Obesity
-52. Cardiovascular Disorders
+## The Puerperium
 
-53. Chronic Hypertension
-54. Pulmonary Disorders
-55. Thromboembolic Disorders
-56. Renal and Urinary Tract Disorders
-57. Gastrointestinal Disorders
-58. Hepatic, Biliary, and Pancreatic Disorders
-59. Hematological Disorders
-60. Diabetes Mellitus
-61. Endocrine Disorders
-62. Connective Tissue Disorders
-63. Neurological Disorders
-64. Psychiatric Disorders
-65. Dermatological Disorders
-66. Neoplastic Disorders
-67. Infectious Diseases
-68. Sexually Transmitted Infections
+36. The Puerperium 37. Puerperal Infection 38. Contraception 39. Sterilization
 
-APPENDIX
-Serum and Blood Constituents
-Maternal Echocardiographic Measurements
-Sonographic Measurements of the Embryo and Fetus
-Index
+## Section 11
 
-PREFACE
-Over its 26 editions, Williams Obstetrics has aimed to serve practicing
-obstetricians and midwives in the bedside care of their patients. With its
-detailed explanations of disease pathophysiology and treatment fundamentals,
-it provides a bedrock text for residents who are training in Obstetrics or in
-Family Medicine specialties. Fellows in Maternal–Fetal Medicine will
-benefit from its additional discussions of complicated pathology and
-management. Last, Williams Obstetrics can aid specialists who act as
-consultants for gravidas with non-pregnancy-related disorders. Specifically,
-each chapter in Section 12 focuses on a specific organ system, the normal
-physiological changes and frequent disorders of that system in pregnancy, and
-suitable treatment options.
-For this 26th edition, we continue to present the detailed staples of basic
-obstetrics such as maternal anatomy and physiology, preconceptional and
-prenatal care, labor, delivery, and the puerperium. These accompany detailed
-discussions of obstetrical complications exemplified by preterm labor,
-hemorrhage, hypertension, and many more. To emphasize the “M” in
-Maternal–Fetal Medicine, we continue to instruct on the many medical and
-surgical disorders that can complicate pregnancy. And, our second patient—
-the fetus—has accrued especial attention with an entire section devoted to
-diagnosis and treatment of fetal disorders. For all of these, we once again
-emphasize the science-based practice of clinical obstetrics. Expert clinical
-pearls add depth to these discussions and are written for busy practitioners—
-those “in the trenches.” To integrate all our content, the reader of one chapter
-may be referred to a different chapter that contains complementary content.
-This offers a more global understanding of a given topic.
-To accomplish our teaching goals, the text has been updated with more
-than 3000 new literature citations through 2021. Many of the nearly 900
-figures are new, and these graphs, sonograms, magnetic resonance images,
-photographs, photomicrographs, and data graphs are all in vivid color. Much
-of the original artwork was rendered by our own medical illustrators.
+## Obstetrical Complications
 
-As before, we continue to incorporate contemporaneous guidelines from
-professional and academic organizations such as the American College of
-Obstetricians and Gynecologists, the Society for Maternal–Fetal Medicine,
-the Centers for Disease Control and Prevention, the National Institutes of
-Health, and other authoritative sources. Many of these data are distilled into
-nearly 100 tables, in which information has been arranged in an easy readand-use format. In addition, several diagnostic and management algorithms
-are available to quickly guide practitioners. Although we strive to cite
-numerous sources and provide multiple evidence-based options for such
-management schemes, we also include our own clinical experiences drawn
-from the large obstetrical service at Parkland Hospital. We are convinced
-that these are disciplined examples of evidence-based obstetrics but quickly
-acknowledge that they do not constitute the sole method of management.
-F. Gary Cunningham
-Kenneth J. Leveno
-Jodi S. Dashe
-Barbara L. Hoffman
-Catherine Y. Spong
-Brian M. Casey
+40. Preeclampsia Syndrome 41. Clinical Management of the Preeclampsia Syndrome 42. Causes of Obstetrical Hemorrhage 43. Hemorrhagic Placental Disorders 44. Management of Obstetrical Hemorrhage 45. Preterm Birth 46. Postterm Pregnancy 47. Fetal-Growth Disorders 48. Multifetal Pregnancy
 
-ACKNOWLEDGMENTS
-In the creation and production of this textbook, we were fortunate to have the
-assistance and support of countless talented professionals both within and
-outside the Department of Obstetrics and Gynecology. To begin, we
-acknowledge that an undertaking of this magnitude would not be possible
-without the unwavering support provided by our recent Chairman Dr. Steven
-Bloom and Vice-Chairman Dr. Barry Schwarz, whose financial and
-academic endorsement has been essential. Dr. Bloom has served as an editor
-for the 22nd through 25th editions but now has assumed the important role of
-Associate Dean of Clinical Sciences at the University of Texas Southwestern
-Medical Center.
-In constructing such an expansive academic compilation, the expertise of
-many colleagues was needed to add vital, evidence-based content. It was
-indeed fortuitous for us to have access to a trove of collaborators from our
-medical center. From our own Department of Obstetrics and Gynecology, Dr.
-Shivani Patel was essential to the production of our book and is an
-invaluable addition to our team. We benefitted from her obstetrical expertise,
-writing talent, and ability to translate difficult concepts into teaching pearls.
-Faculty with specific expertise included Dr. Claudia Werner, who lent
-valuable insight into the management of cervical dysplasia. Our nationally
-known pelvic anatomist, Dr. Marlene Corton, prepared graphic masterpieces
-for the anatomy chapter with artist Lew Calver. We also are grateful to the
-numerous faculty and residents who added seminal clinical photographs to
-our text.
-In addition to these contributors, we relied heavily on our colleagues in
-the Division of Maternal–Fetal Medicine. These professionals, in addition to
-providing expert consultation, graciously assisted us by covering clinical
-duties when writing and editing were especially time consuming. These
-include Drs. Scott Roberts, Oscar Andujo, Vanessa Rogers, Charles Brown,
-Julie Lo, Robyn Horsager, Patricia Santiago-Muñoz, Mark Peters, Elaine
-Duryea, Jamie Morgan, Morris Bryant, Shena Dillon, Anne Ambia, Robert
+## Section 12
 
-Martin, Robert Stewart, Stephan Shivvers, Ashley Zink, Sarah Happe, and
-Christina Herrera.
-We also emphasize that production of Williams Obstetrics would not be
-feasible without the help of our Maternal–Fetal Medicine fellows and our
-residents in Obstetrics and Gynecology. Their insatiable curiosity serves to
-energize us to find new and effective ways to convey age-old truths, new
-data, and cutting-edge concepts. Their logical and critical questions lead us
-to weaknesses in the text, and thereby always help us to improve our work. In
-addition, we sincerely thank them for their vigilance in capturing photographs
-of spectacular examples of both obstetrical pathology and normal findings.
-This edition is heavily populated with seminal examples of sonographic
-findings. We are grateful for the efforts of Mary Gibbs, RDMS; Rafael Levy,
-RDMS; Michael Davidson, RDMS; and the many talented sonographers at
-Parkland Hospital.
-Thanks to generous funding from the McGraw-Hill Companies, this 26th
-edition now contains more than 200 color illustrations. Most of these were
-crafted by several skilled medical illustrators who include Ms. Marie Sena,
-Ms. Erin Frederickson, and Ms. SangEun Cha. All of these talented artists
-trained here at UT Southwestern under the instruction of Mr. Lewis Calver.
-Additional artistic support came from Mr. Joseph Varghese, Ms. Shreya
-Tiwari, Dr. Sudhi Singh, and Mr. Manoj Kumar Choudhry. Their work at
-Thomson Digital provided the full-color graphs and line art used to enhance
-this edition. Their team tirelessly coordinated efforts between author and
-artist and graciously accommodated our numerous changes and tweaks.
-Production of the 5000-page manuscript would not have been possible
-without a dedicated team. Once again, we are deeply indebted to Ms. Dawn
-Wilson and Ms. Melinda Epstein for their untiring efforts with manuscript
-production. Ms. Regina Williams also provided excellent, cheerful,
-conscientious manuscript assistance. Mr. Charles Richards offered
-knowledgeable and responsive information technology support. For these and
-many more that go unnamed, we could not have done our job without their
-expertise.
-It again has been a privilege to work with the dedicated professionals
-from McGraw-Hill Education. We have had the pleasure to work with
-Executive Editor Mr. Jason Malley in production of our textbook and are
-grateful for his support of Williams Obstetrics. Senior Project Development
-Editor Ms. Christie Naglieri has again brought her considerable knowledge
+## Medical And Surgical Complications
 
-to this edition of our book. Her dedication to creating the best textbook
-supported our efforts, and we appreciate her productive, gracious style. We
-thank Ms. Leah Carton, who provided professional, timely, and ever-sunny
-aid. Mr. Richard Ruzycka served as production supervisor for this edition of
-the textbook, and our book benefits from his years of experience.
-Our text took its final shape under the watchful care of our compositors at
-Aptara, Inc. We thank Ms. Indu Jawwad for her talents in graciously and
-masterfully coordinating and overseeing composition. Her dedicated
-attention to detail and organization were vital to completion of our project.
-She has created many editions with us, and we consider her an essential team
-member. At Aptara, Mr. Mahender Singh carried out the crucial task of
-quality control. He also assisted, along with Mr. Rajesh Chander, Mr.
-Kamlesh Bhatt, and Mr. Anil Varghese, in creating beautiful chapter layouts
-to highlight our content aesthetically and informatively. This edition’s
-chapters were also posted and available online for use prior to print
-publication. We thank Mr. Braj Bhushan and Mr. Ashish Kumar Sharma for
-preparing this content so brilliantly. Special thanks go to Mr. Greg Feldman.
-As copyeditor, Greg added precision and clarity to our efforts. His
-endurance and pleasant professionalism through many challenging chapters
-has made our text better.
-Last, we acknowledge our significant debt to the women who have
-entrusted themselves and their unborn children to us for obstetrical care. The
-clinical expertise and many images provided in this text would not have been
-possible without their collaborative spirit to help us advance obstetrical
-knowledge. We also offer enthusiastic and heartfelt appreciation to our
-families and friends. Without their patience, generosity, love, and
-encouragement, this task would have been impossible.
-F. Gary Cunningham
-Kenneth J. Leveno
-Jodi S. Dashe
-Barbara L. Hoffman
-Catherine Y. Spong
-Brian M. Casey
+49. General Considerations and Maternal Evaluation 50. Critical Care and Trauma 51. Obesity 52. Cardiovascular Disorders
 
-SECTION 1
+53. Chronic Hypertension 54. Pulmonary Disorders 55. Thromboembolic Disorders 56. Renal and Urinary Tract Disorders 57. Gastrointestinal Disorders 58. Hepatic, Biliary, and Pancreatic Disorders 59. Hematological Disorders 60. Diabetes Mellitus 61. Endocrine Disorders 62. Connective Tissue Disorders 63. Neurological Disorders 64. Psychiatric Disorders 65. Dermatological Disorders 66. Neoplastic Disorders 67. Infectious Diseases 68. Sexually Transmitted Infections
 
-OVERVIEW
+## Appendix
 
+Serum and Blood Constituents Maternal Echocardiographic Measurements Sonographic Measurements of the Embryo and Fetus Index
+
+## Preface
+
+Over its 26 editions, Williams Obstetrics has aimed to serve practicing obstetricians and midwives in the bedside care of their patients. With its detailed explanations of disease pathophysiology and treatment fundamentals, it provides a bedrock text for residents who are training in Obstetrics or in Family Medicine specialties. Fellows in Maternal–Fetal Medicine will benefit from its additional discussions of complicated pathology and management. Last, Williams Obstetrics can aid specialists who act as consultants for gravidas with non-pregnancy-related disorders. Specifically, each chapter in Section 12 focuses on a specific organ system, the normal physiological changes and frequent disorders of that system in pregnancy, and suitable treatment options. For this 26th edition, we continue to present the detailed staples of basic obstetrics such as maternal anatomy and physiology, preconceptional and prenatal care, labor, delivery, and the puerperium. These accompany detailed discussions of obstetrical complications exemplified by preterm labor, hemorrhage, hypertension, and many more. To emphasize the “M” in Maternal–Fetal Medicine, we continue to instruct on the many medical and surgical disorders that can complicate pregnancy. And, our second patient— the fetus—has accrued especial attention with an entire section devoted to diagnosis and treatment of fetal disorders. For all of these, we once again emphasize the science-based practice of clinical obstetrics. Expert clinical pearls add depth to these discussions and are written for busy practitioners— those “in the trenches.” To integrate all our content, the reader of one chapter may be referred to a different chapter that contains complementary content. This offers a more global understanding of a given topic. To accomplish our teaching goals, the text has been updated with more than 3000 new literature citations through 2021. Many of the nearly 900 figures are new, and these graphs, sonograms, magnetic resonance images, photographs, photomicrographs, and data graphs are all in vivid color. Much of the original artwork was rendered by our own medical illustrators.
+
+As before, we continue to incorporate contemporaneous guidelines from professional and academic organizations such as the American College of Obstetricians and Gynecologists, the Society for Maternal–Fetal Medicine, the Centers for Disease Control and Prevention, the National Institutes of Health, and other authoritative sources. Many of these data are distilled into nearly 100 tables, in which information has been arranged in an easy readand-use format. In addition, several diagnostic and management algorithms are available to quickly guide practitioners. Although we strive to cite numerous sources and provide multiple evidence-based options for such management schemes, we also include our own clinical experiences drawn from the large obstetrical service at Parkland Hospital. We are convinced that these are disciplined examples of evidence-based obstetrics but quickly acknowledge that they do not constitute the sole method of management. F. Gary Cunningham Kenneth J. Leveno Jodi S. Dashe Barbara L. Hoffman Catherine Y. Spong Brian M. Casey
+
+## Acknowledgments
+
+In the creation and production of this textbook, we were fortunate to have the assistance and support of countless talented professionals both within and outside the Department of Obstetrics and Gynecology. To begin, we acknowledge that an undertaking of this magnitude would not be possible without the unwavering support provided by our recent Chairman Dr. Steven Bloom and Vice-Chairman Dr. Barry Schwarz, whose financial and academic endorsement has been essential. Dr. Bloom has served as an editor for the 22nd through 25th editions but now has assumed the important role of Associate Dean of Clinical Sciences at the University of Texas Southwestern Medical Center. In constructing such an expansive academic compilation, the expertise of many colleagues was needed to add vital, evidence-based content. It was indeed fortuitous for us to have access to a trove of collaborators from our medical center. From our own Department of Obstetrics and Gynecology, Dr. Shivani Patel was essential to the production of our book and is an invaluable addition to our team. We benefitted from her obstetrical expertise, writing talent, and ability to translate difficult concepts into teaching pearls.
+
+**Faculty with specific expertise included Dr.** Claudia Werner, who lent valuable insight into the management of cervical dysplasia. Our nationally known pelvic anatomist, Dr. Marlene Corton, prepared graphic masterpieces for the anatomy chapter with artist Lew Calver. We also are grateful to the numerous faculty and residents who added seminal clinical photographs to our text. In addition to these contributors, we relied heavily on our colleagues in the Division of Maternal–Fetal Medicine. These professionals, in addition to providing expert consultation, graciously assisted us by covering clinical duties when writing and editing were especially time consuming. These include Drs. Scott Roberts, Oscar Andujo, Vanessa Rogers, Charles Brown, Julie Lo, Robyn Horsager, Patricia Santiago-Muñoz, Mark Peters, Elaine Duryea, Jamie Morgan, Morris Bryant, Shena Dillon, Anne Ambia, Robert
+
+Martin, Robert Stewart, Stephan Shivvers, Ashley Zink, Sarah Happe, and Christina Herrera. We also emphasize that production of Williams Obstetrics would not be feasible without the help of our Maternal–Fetal Medicine fellows and our residents in Obstetrics and Gynecology. Their insatiable curiosity serves to energize us to find new and effective ways to convey age-old truths, new data, and cutting-edge concepts. Their logical and critical questions lead us to weaknesses in the text, and thereby always help us to improve our work. In addition, we sincerely thank them for their vigilance in capturing photographs of spectacular examples of both obstetrical pathology and normal findings. This edition is heavily populated with seminal examples of sonographic findings. We are grateful for the efforts of Mary Gibbs, RDMS; Rafael Levy, RDMS; Michael Davidson, RDMS; and the many talented sonographers at Parkland Hospital. Thanks to generous funding from the McGraw-Hill Companies, this 26th edition now contains more than 200 color illustrations. Most of these were crafted by several skilled medical illustrators who include Ms. Marie Sena, Ms. Erin Frederickson, and Ms. SangEun Cha. All of these talented artists trained here at UT Southwestern under the instruction of Mr. Lewis Calver.
+
+**Additional artistic support came from Mr.** Joseph Varghese, Ms. Shreya Tiwari, Dr. Sudhi Singh, and Mr. Manoj Kumar Choudhry. Their work at Thomson Digital provided the full-color graphs and line art used to enhance this edition. Their team tirelessly coordinated efforts between author and artist and graciously accommodated our numerous changes and tweaks. Production of the 5000-page manuscript would not have been possible without a dedicated team. Once again, we are deeply indebted to Ms. Dawn Wilson and Ms. Melinda Epstein for their untiring efforts with manuscript production. Ms. Regina Williams also provided excellent, cheerful, conscientious manuscript assistance. Mr. Charles Richards offered knowledgeable and responsive information technology support. For these and many more that go unnamed, we could not have done our job without their expertise. It again has been a privilege to work with the dedicated professionals from McGraw-Hill Education. We have had the pleasure to work with Executive Editor Mr. Jason Malley in production of our textbook and are grateful for his support of Williams Obstetrics. Senior Project Development Editor Ms. Christie Naglieri has again brought her considerable knowledge
+
+to this edition of our book. Her dedication to creating the best textbook supported our efforts, and we appreciate her productive, gracious style. We thank Ms. Leah Carton, who provided professional, timely, and ever-sunny aid. Mr. Richard Ruzycka served as production supervisor for this edition of the textbook, and our book benefits from his years of experience. Our text took its final shape under the watchful care of our compositors at Aptara, Inc. We thank Ms. Indu Jawwad for her talents in graciously and masterfully coordinating and overseeing composition. Her dedicated attention to detail and organization were vital to completion of our project. She has created many editions with us, and we consider her an essential team member. At Aptara, Mr. Mahender Singh carried out the crucial task of quality control. He also assisted, along with Mr. Rajesh Chander, Mr. Kamlesh Bhatt, and Mr. Anil Varghese, in creating beautiful chapter layouts to highlight our content aesthetically and informatively. This edition’s chapters were also posted and available online for use prior to print publication. We thank Mr. Braj Bhushan and Mr. Ashish Kumar Sharma for preparing this content so brilliantly. Special thanks go to Mr. Greg Feldman. As copyeditor, Greg added precision and clarity to our efforts. His endurance and pleasant professionalism through many challenging chapters has made our text better. Last, we acknowledge our significant debt to the women who have entrusted themselves and their unborn children to us for obstetrical care. The clinical expertise and many images provided in this text would not have been possible without their collaborative spirit to help us advance obstetrical knowledge. We also offer enthusiastic and heartfelt appreciation to our families and friends. Without their patience, generosity, love, and encouragement, this task would have been impossible. F. Gary Cunningham Kenneth J. Leveno Jodi S. Dashe Barbara L. Hoffman Catherine Y. Spong Brian M. Casey
+
+SECTION 1
+
+## Overview

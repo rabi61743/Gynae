@@ -1,1367 +1,283 @@
-CHAPTER 42
+# Chapter 42: Causes of Obstetrical Hemorrhage
 
-Causes of Obstetrical Hemorrhage
+- General Considerations
+- Uterine Atony
+- Uterine Inversion
+- Birth Canal Injuries
+- Uterine Rupture
+- Amnionic Fluid Embolism
+- References
 
-GENERAL CONSIDERATIONS
-UTERINE ATONY
-UTERINE INVERSION
-BIRTH CANAL INJURIES
-UTERINE RUPTURE
-AMNIONIC FLUID EMBOLISM
-REFERENCES
-In addition to hypertension and infection, obstetrical hemorrhage remains
-among the infamous triad of maternal death causes. Of more than 7000
-pregnancy-related maternal deaths in the United States from 2006 to 2015,
-hemorrhage was a direct cause in 11 percent (Creanga, 2015, 2017; Petersen,
-2019). Hemorrhage is also the single most important cause of maternal death
-worldwide (Goffman, 2016; Oladapo, 2016). Notably, perhaps a third of
-severe cases of hemorrhage are likely preventable (Lepine, 2020).
-These statistics have prompted several organizations to develop
-programs to prevent hemorrhage-related maternal morbidity. In the United
-States, one example is the Alliance for Innovation on Maternal Health (AIM)
-(2015), with its intent to standardize recognition, response, and reporting of
-obstetrical hemorrhage. The Joint Commission (2019) has also implemented
-standards under the Provision of Care, Treatment, and Services chapter for
+In addition to hypertension and infection, obstetrical hemorrhage remains among the infamous triad of maternal death causes. Of more than 7000 pregnancy-related maternal deaths in the United States from 2006 to 2015, hemorrhage was a direct cause in 11 percent (Creanga, 2015, 2017; Petersen, 2019). Hemorrhage is also the single most important cause of maternal death worldwide (Goffman, 2016; Oladapo, 2016). Notably, perhaps a third of severe cases of hemorrhage are likely preventable (Lepine, 2020). These statistics have prompted several organizations to develop programs to prevent hemorrhage-related maternal morbidity. In the United States, one example is the Alliance for Innovation on Maternal Health (AIM) (2015), with its intent to standardize recognition, response, and reporting of obstetrical hemorrhage. The Joint Commission (2019) has also implemented standards under the Provision of Care, Treatment, and Services chapter for
 
-obstetrical hemorrhage—the R3 Report. Our following three chapters align
-with these.
+obstetrical hemorrhage—the R3 Report. Our following three chapters align with these.
 
-GENERAL CONSIDERATIONS
-■ Mechanisms of Normal Hemostasis
-Near term, an incredible amount of blood—at least 600 mL/min—flows
-through the spiral arteries and into the intervillous space (Pates, 2010).
-Averaging 120 in number, the spiral arteries lack a muscular layer because of
-their remodeling by trophoblasts and thereby form a low-pressure system.
-With placental separation, vessels at the implantation site are avulsed.
-Hemostasis is achieved first by myometrial contraction, which directly
-compresses the arteries. Compression is followed by clotting and eventually
-by obliteration of vessel lumens.
-If, after delivery, the myometrium contracts vigorously, substantial
-hemorrhage from the placental implantation site is unlikely. Importantly, an
-intact coagulation system is not necessary for postpartum hemostasis
-unless there are lacerations in the uterus, birth canal, or perineum.
-However, fatal postpartum hemorrhage can result from uterine atony despite
-normal coagulation.
+## General Considerations
 
-■ Definition and Incidence
-Historically, postpartum hemorrhage has been defined as blood losses ≥500
-mL after the third stage of labor. This is problematic because almost half of
-all women delivered vaginally shed that amount of blood or more when
-losses are carefully measured. Moreover, approximately 5 percent of women
-delivering vaginally lose >1000 mL of blood (Fig. 42-1) (Pritchard, 1962).
-Almost a third of women undergoing cesarean delivery have blood loss
->1000 mL. The American College of Obstetricians and Gynecologists
-(2019a) now defines postpartum hemorrhage as cumulative blood loss >1000
-mL or blood loss accompanied by signs and symptoms of hypovolemia.
+### Mechanisms of Normal Hemostasis
 
-FIGURE 42-1 Measured blood loss with vaginal delivery, repeat cesarean delivery, and repeat
-cesarean delivery plus hysterectomy.
+Near term, an incredible amount of blood—at least 600 mL/min—flows through the spiral arteries and into the intervillous space (Pates, 2010). Averaging 120 in number, the spiral arteries lack a muscular layer because of their remodeling by trophoblasts and thereby form a low-pressure system. With placental separation, vessels at the implantation site are avulsed. Hemostasis is achieved first by myometrial contraction, which directly compresses the arteries. Compression is followed by clotting and eventually by obliteration of vessel lumens. If, after delivery, the myometrium contracts vigorously, substantial hemorrhage from the placental implantation site is unlikely. Importantly, an intact coagulation system is not necessary for postpartum hemostasis unless there are lacerations in the uterus, birth canal, or perineum. However, fatal postpartum hemorrhage can result from uterine atony despite normal coagulation.
 
-In a Maternal-Fetal Network Units study of more than 115,000 deliveries,
-the incidence of hemorrhage with vaginal delivery was 5.3 percent, and it
-was 10.5 percent for cesarean delivery (Yee, 2019). Importantly, hemorrhage
-is underreported. From the National Hospital Discharge Summary database,
-the reported postpartum hemorrhage incidence between 2001 and 2005 was
-only 2.6 percent (Berg, 2009).
+### Definition and Incidence
 
-■ Blood Loss Assessment
-At delivery, visual estimation is often used as a qualitative measure of blood
-loss. However, this method is more likely to under estimate the actual blood
-loss when volumes are high and to over estimate it when volumes are low
-(Al Kadri, 2011; Natrella, 2018). Thus, estimated blood loss that is
-considered greater than “average” should alert the provider.
-Instead, different methods can be used as quantitative measures. First,
-gravimetric measurement weighs blood-soaked items and subtracts pre-use
-dry weights. Another evolving tool uses a tablet-device camera and
-colorimetric analysis to calculate blood loss (Spies, 2020; Venkatesh, 2020).
-The American College of Obstetricians and Gynecologists (2019b)
-recognizes the use of quantitative methods to help identify severe
-hemorrhage.
+Historically, postpartum hemorrhage has been defined as blood losses ≥500 mL after the third stage of labor. This is problematic because almost half of all women delivered vaginally shed that amount of blood or more when losses are carefully measured. Moreover, approximately 5 percent of women delivering vaginally lose >1000 mL of blood (Fig. 42-1) (Pritchard, 1962). Almost a third of women undergoing cesarean delivery have blood loss >1000 mL. The American College of Obstetricians and Gynecologists (2019a) now defines postpartum hemorrhage as cumulative blood loss >1000 mL or blood loss accompanied by signs and symptoms of hypovolemia.
 
-Intrapartum, quantitative measurement is more accurate than visual
-estimation, but the effectiveness of these methods on clinical outcomes has
-not been demonstrated. A Cochrane Review of three trials found no
-differences between subjective and objective methods when comparing
-outcomes that included need for transfusion, plasma expanders, or
-uterotonics (Diaz, 2018).
-Postpartum, retrospective estimation also can be informative. The blood
-volume of a pregnant woman with normal pregnancy-induced hypervolemia
-usually rises by 50 percent. However, individual increases range from 30 to
-60 percent, that is, 1500 to 2000 mL for an average-sized woman (Pritchard,
-1965). The equation to calculate blood volume is shown in Table 42-1. It is
-axiomatic that a normal pregnant woman tolerates, without any decrease in
-postpartum hematocrit, blood loss at delivery that approaches the volume of
-blood that was added during pregnancy. Thus, if blood loss is less than the
-pregnancy-added volume, the hematocrit remains the same acutely and during
-the first several days postpartum. It then rises as nonpregnant plasma volume
-levels return during the next week or so. Whenever the postpartum
-hematocrit is lower than one obtained on admission for delivery, blood
-loss can be estimated as the sum of the calculated pregnancy-added
-volume plus 500 mL for each 3-volume-percent decline of the hematocrit.
-TABLE 42-1. Calculation of Maternal Total Blood Volume
+> **Figure 42-1:** Measured blood loss with vaginal delivery, repeat cesarean delivery, and repeat cesarean delivery plus hysterectomy.
 
-For research and clinical care initiatives, excessive blood loss has been
-estimated by several methods (Coviello, 2019; Saoud, 2019). Tita and
-colleagues (2012) used a 6-volume-percent drop in the postpartum
+In a Maternal-Fetal Network Units study of more than 115,000 deliveries, the incidence of hemorrhage with vaginal delivery was 5.3 percent, and it was 10.5 percent for cesarean delivery (Yee, 2019). Importantly, hemorrhage is underreported. From the National Hospital Discharge Summary database, the reported postpartum hemorrhage incidence between 2001 and 2005 was only 2.6 percent (Berg, 2009).
 
-hematocrit to define clinically significant blood loss with vaginal delivery.
-This decline easily signifies a >1000-mL blood loss in the average-sized
-woman. They documented this amount in a fourth of women.
-Another marker used to estimate hemorrhage incidence is the transfusion
-rate. In the study by Tita just cited, more than 6 percent of women who
-delivered vaginally underwent blood transfusion. In a study of more than
-66,000 women delivered at Parkland Hospital, 2.3 percent overall were
-given blood transfusions for hypovolemia (Hernandez, 2012). Half of these
-women had undergone cesarean delivery. Importantly, for those transfused,
-these investigators calculated blood loss to average approximately 3500 mL!
-The need for blood transfusion is now followed as a severe maternal
-morbidity (SMM) indicator. The heightened awareness of SMM is outlined
-in Chapter 1 (p. 5). Transfusions represent more than 80 percent of total
-SMM rates. The incidence of massive transfusion for postpartum
-hemorrhage has been reported to be from 25 to 65 per 100,000 births (Green,
-2016; Ramler, 2019). However, defining healthcare quality using transfusion
-as an SMM metric is problematic. First, this metric is solely derived from
-administrative billing codes. Second, transfusion rates may be skewed based
-on the hospital’s case-mix (Bailit, 2013). This can distort values for regional
-referral centers that care for women at high risk for hemorrhage, such as
-those with placenta accreta spectrum.
+### Blood Loss Assessment
 
-■ Risk Factors
-Hemorrhage can manifest at any time during pregnancy, delivery, or the
-puerperium. Contributions to maternal death from some of these causes of are
-shown in Figure 42-2. The Joint Commission (2019) requires accredited
-delivery services to employ tools that evaluate maternal hemorrhage risk on
-admission to labor and delivery and postpartum. Several methods are
-available, and the American College of Obstetricians and Gynecologists’
-(2019b) scoring tool stratifies risk using several obstetrical factors listed in
-Table 42-2. Unfortunately, these scoring systems only modestly predict
-hemorrhage (Chu, 2020). Kawakita and colleagues (2019) examined three
-commonly referenced tools and found moderate performance in identifying
-women at risk during cesarean delivery. In contrast, the Association of
-Women’s Health, Obstetric and Neonatal Nurses (AWHONN) risk
-assessment tool was predictive of those at high risk (Colalillo, 2021).
+At delivery, visual estimation is often used as a qualitative measure of blood loss. However, this method is more likely to under estimate the actual blood loss when volumes are high and to over estimate it when volumes are low (Al Kadri, 2011; Natrella, 2018). Thus, estimated blood loss that is considered greater than “average” should alert the provider. Instead, different methods can be used as quantitative measures. First, gravimetric measurement weighs blood-soaked items and subtracts pre-use dry weights. Another evolving tool uses a tablet-device camera and colorimetric analysis to calculate blood loss (Spies, 2020; Venkatesh, 2020). The American College of Obstetricians and Gynecologists (2019b) recognizes the use of quantitative methods to help identify severe hemorrhage.
 
-FIGURE 42-2 Contributions to maternal death from various causes of obstetrical hemorrhage.
-Percentages are approximations because of different classification schemata used. DIC = disseminated
-intravascular coagulopathy; PAS = placenta accreta spectrum. (Data from Al-Zirqi, 2008; Berg, 2010;
-Creanga, 2015; Zwart, 2008.)
+Intrapartum, quantitative measurement is more accurate than visual estimation, but the effectiveness of these methods on clinical outcomes has not been demonstrated. A Cochrane Review of three trials found no differences between subjective and objective methods when comparing outcomes that included need for transfusion, plasma expanders, or uterotonics (Diaz, 2018). Postpartum, retrospective estimation also can be informative. The blood volume of a pregnant woman with normal pregnancy-induced hypervolemia usually rises by 50 percent. However, individual increases range from 30 to 60 percent, that is, 1500 to 2000 mL for an average-sized woman (Pritchard, 1965). The equation to calculate blood volume is shown in Table 42-1. It is axiomatic that a normal pregnant woman tolerates, without any decrease in postpartum hematocrit, blood loss at delivery that approaches the volume of blood that was added during pregnancy. Thus, if blood loss is less than the pregnancy-added volume, the hematocrit remains the same acutely and during the first several days postpartum. It then rises as nonpregnant plasma volume levels return during the next week or so. Whenever the postpartum hematocrit is lower than one obtained on admission for delivery, blood loss can be estimated as the sum of the calculated pregnancy-added volume plus 500 mL for each 3-volume-percent decline of the hematocrit.
 
-TABLE 42-2. Obstetrical Hemorrhage: Causes, Predisposing Factors, and
-Vulnerable Patients
+> **Table 42-1:** Calculation of Maternal Total Blood Volume
 
-■ Timing of Hemorrhage
-Obstetrical hemorrhage is traditionally classified as antepartum—such as
-with placenta previa or placental abruption, or as postpartum—commonly
-caused by uterine atony or genital tract lacerations. In individual women,
-however, these terms are nonspecific, and it is reasonable to specify the
-cause and gestational age as descriptors.
-With antepartum hemorrhage, timing may give a clue to its cause. Many
-aspects of bleeding during the first half of pregnancy from abortion or
-ectopic pregnancy are covered in Chapters 11 and 12. Discussions that
-follow concern pregnancies with a viable-size fetus. In these cases, rapid
+For research and clinical care initiatives, excessive blood loss has been estimated by several methods (Coviello, 2019; Saoud, 2019). Tita and colleagues (2012) used a 6-volume-percent drop in the postpartum
 
-assessment should always consider the deleterious fetal effects of maternal
-hemorrhage.
-During active labor, slight vaginal bleeding is common. This “bloody
-show” is the consequence of cervical effacement and dilation and concurrent
-tearing of small vessels. However, with uterine bleeding above the cervix,
-placental abruption, placenta previa, and vasa previa must be considered.
-The first two are presented in Chapter 43 and vasa previa is discussed in
-Chapter 6 (p. 115). In some women, especially those with a placenta previa,
-cervical varicosities may bleed (O’Brien, 2013).
-Near term in many women, the source of uterine bleeding is not
-identified, bleeding ceases, and no apparent anatomical cause is found at
-delivery. In most of these cases, bleeding likely originated from a slight
-marginal placental separation. Despite this, any pregnancy with antepartum
-bleeding remains at higher risk for an adverse outcome even though
-bleeding has stopped and placenta previa has been excluded
-sonographically.
-Bleeding after midpregnancy is associated with several adverse
-outcomes. The Canadian Perinatal Network described 806 women with
-hemorrhage between 22 and 28 weeks’ gestation (Sabourin, 2012). Placental
-abruption (32 percent), previa (21 percent), and cervical bleeding (6.6
-percent) were the most frequent causes identified. In a third, no cause was
-found. Of all women, 44 percent were delivered before 29 weeks’ gestation.
-In more than 68,000 women in Scotland, the incidence of antepartum
-hemorrhage after the first trimester was 11 percent (Bhandari, 2014). These
-women were at significantly higher risk for preterm birth, labor induction,
-and postpartum hemorrhage.
-With postpartum hemorrhage, the source in most cases can and should be
-determined. Frequent causes are uterine atony with placental site bleeding,
-genital tract trauma, or both. Postpartum hemorrhage is usually obvious.
-Important exceptions are unrecognized intrauterine and intravaginal blood
-accumulation and uterine rupture with intraperitoneal or retroperitoneal
-bleeding. Another consideration is an expanding vulvar or vaginal hematoma
-(p. 740). Initial evaluation includes attempts to differentiate uterine atony
-from genital tract lacerations. For this, risk factors are sought, the lower
-genital tract is examined, and uterine tone is assessed. Atony is identified by
-a boggy, soft uterus during bimanual examination and by expression of clots
-and hemorrhage during uterine massage.
+hematocrit to define clinically significant blood loss with vaginal delivery. This decline easily signifies a >1000-mL blood loss in the average-sized woman. They documented this amount in a fourth of women. Another marker used to estimate hemorrhage incidence is the transfusion rate. In the study by Tita just cited, more than 6 percent of women who delivered vaginally underwent blood transfusion. In a study of more than 66,000 women delivered at Parkland Hospital, 2.3 percent overall were given blood transfusions for hypovolemia (Hernandez, 2012). Half of these women had undergone cesarean delivery. Importantly, for those transfused, these investigators calculated blood loss to average approximately 3500 mL! The need for blood transfusion is now followed as a severe maternal morbidity (SMM) indicator. The heightened awareness of SMM is outlined in Chapter 1 (p. 5). Transfusions represent more than 80 percent of total SMM rates. The incidence of massive transfusion for postpartum hemorrhage has been reported to be from 25 to 65 per 100,000 births (Green, 2016; Ramler, 2019). However, defining healthcare quality using transfusion as an SMM metric is problematic. First, this metric is solely derived from administrative billing codes. Second, transfusion rates may be skewed based on the hospital’s case-mix (Bailit, 2013). This can distort values for regional referral centers that care for women at high risk for hemorrhage, such as those with placenta accreta spectrum.
 
-Persistent bleeding despite a firm, well-contracted uterus suggests that
-hemorrhage most likely is from lacerations. Bright red blood further suggests
-arterial bleeding. To confirm that lacerations are a source of bleeding,
-careful inspection of the vagina, cervix, and uterus is essential.
-Examination is easier if regional analgesia is employed. Transfer from a
-labor and delivery room to an operative suite also may be prudent. If there
-are no lower genital tract lacerations and the uterus is contracted, yet
-supracervical bleeding persists, manual exploration of the uterus is done to
-exclude a uterine tear (Kaplanoglu, 2016). This also is completed routinely
-after internal podalic version or breech extraction. Some perform this after
-successful vaginal birth after cesarean, and this is our practice. Late
-postpartum hemorrhage describes bleeding after the first 24 hours. Found in
-up to 1 percent of women, one risk factor is postpartum hemorrhage at the
-time of delivery (Fein, 2021). Delayed hemorrhage may be serious and is
-discussed in Chapter 36 (p. 637).
+### Risk Factors
 
-■ Appreciation of Estimated Blood Loss
-As discussed, visual blood loss estimates are often inaccurate, especially
-with excessive bleeding. Instead of sudden and massive hemorrhage,
-postpartum bleeding is frequently steady. If bleeding from atony or laceration
-persists, it may appear to be only moderate at any given instant but may
-continue until serious hypovolemia develops. In some cases, after placental
-separation, blood may not escape vaginally but instead may collect within the
-uterine cavity, which can become distended by 1000 mL or more of blood.
-Moreover, postpartum uterine massage will be ineffective if applied to a roll
-of abdominal fat mistaken for the uterus. All of these factors can lead to an
-underappreciation of the magnitude of hemorrhage over time.
-The effects of hemorrhage depend mainly on the maternal nonpregnant
-blood volume and the corresponding degree of pregnancy-induced
-hypervolemia. Small women—even those with appropriate pregnancyinduced hypervolemia—do not tolerate more than seemingly average blood
-loss. Some gravidas may be particularly susceptible to hemorrhage because
-their blood volume expansion is less than expected. An example is women
-with severe preeclampsia or eclampsia, who are more vulnerable to
-hemorrhage because they frequently do not have a normal blood volume
-accrual. Specifically, Zeeman and associates (2009) documented a mean
+Hemorrhage can manifest at any time during pregnancy, delivery, or the puerperium. Contributions to maternal death from some of these causes of are shown in Figure 42-2. The Joint Commission (2019) requires accredited delivery services to employ tools that evaluate maternal hemorrhage risk on admission to labor and delivery and postpartum. Several methods are available, and the American College of Obstetricians and Gynecologists’ (2019b) scoring tool stratifies risk using several obstetrical factors listed in
 
-increase above nonpregnant volume of only 10 percent in eclamptic women
-(Chap. 40, p. 693). Another example is the moderate to severe curtailing of
-pregnancy-induced volume expansion in women with chronic renal
-insufficiency (Chap. 56, p. 1004). When excessive hemorrhage is suspected
-in these high-risk women, crystalloid and blood are promptly administered
-for suspected hypovolemia.
-A treacherous feature of postpartum hemorrhage is the failure of the
-pulse and blood pressure to undergo more than moderate alterations until
-large amounts of blood have been lost. The normotensive woman initially
-may actually become somewhat hypertensive from catecholamine release in
-response to hemorrhage. Importantly, women with preeclampsia may become
-“normotensive” despite remarkable hypovolemia. Accordingly, hypovolemia
-may not be recognized until very late.
+> **Table 42-2:** Unfortunately, these scoring systems only modestly predict hemorrhage (Chu, 2020). Kawakita and colleagues (2019) examined three commonly referenced tools and found moderate performance in identifying women at risk during cesarean delivery. In contrast, the Association of Women’s Health, Obstetric and Neonatal Nurses (AWHONN) risk assessment tool was predictive of those at high risk (Colalillo, 2021).
 
-UTERINE ATONY
-■ Third-stage Labor Management
-The most frequent cause of obstetrical hemorrhage is failure of the uterus
-after delivery to contract sufficiently and arrest bleeding from vessels at the
-placental implantation site (Yee, 2019). That said, some bleeding is
-inevitable during third-stage labor as the placenta begins to separate. Blood
-from the implantation site may escape into the vagina immediately—the
-Duncan mechanism of placental separation, or it remains concealed behind
-the placenta and membranes until the placenta is delivered—the Schultze
-mechanism. Placental descent is signified by a slack umbilical cord. After
-signs of placental separation, the uterus should be massaged if it is not
-contracted firmly. Importantly, separation and delivery of the placenta by
-cord traction, especially when the uterus is atonic, may cause uterine
-inversion.
-Following placental delivery, the fundus is always palpated to confirm
-that the uterus is well contracted. If it is not firm, vigorous fundal massage
-usually prevents postpartum hemorrhage from atony (Hofmeyr, 2013).
-Concurrent administration of a uterotonic agent, discussed in the next
-sections, is another recommended preventive measure.
+> **Figure 42-2:** Contributions to maternal death from various causes of obstetrical hemorrhage. Percentages are approximations because of different classification schemata used. DIC = disseminated intravascular coagulopathy; PAS = placenta accreta spectrum. (Data from Al-Zirqi, 2008; Berg, 2010; Creanga, 2015; Zwart, 2008.)
 
-■ Risk Factors
-In many women with known risks, uterine atony can at least be anticipated.
-However, as discussed earlier (p. 733), risk-based scoring systems have
-limited value. In one study, up to half of women with atony after cesarean
-delivery had no risk factors (Rouse, 2006). The magnitude of risk for atony
-imposed by each of the factors shown in Table 42-2 varies considerably
-between reports. Primiparity and high parity are two factors (Driessen,
-2011). In one study, the incidence of postpartum hemorrhage rose from 0.3
-percent in women of low parity to 1.9 percent with parity of four or greater.
-It was 2.7 percent with parity of seven or greater (Babinszki, 1999). The
-overdistended uterus is prone to hypotonia after delivery, and thus women
-with a large fetus, multiple fetuses, or hydramnios carry greater risk (Blitz,
-2019). Labor abnormalities predispose to atony and include hyper- or
-hypotonic labor. Similarly, labor induction or augmentation with either
-prostaglandins or oxytocin is more likely to be followed by atony (Driessen,
-2011). The frequency of hemorrhage increases with third-stage labor lasting
->20 minutes (Frolova, 2016). Last, the woman who has had a prior
-postpartum hemorrhage is at risk for recurrence.
+> **Table 42-2:** Obstetrical Hemorrhage: Causes, Predisposing Factors, and Vulnerable Patients
 
-■ Evaluation and Management
-To improve immediate postpartum care, clinical safety bundles provide a
-standardized response (Fig. 42-3). In principle, all of these programs suggest
-notifying unit personnel, activating resources, and standardizing management.
-With immediate postpartum hemorrhage, careful inspection aims to exclude
-birth canal laceration. In some cases, bleeding is caused by retained
-placental fragments, and placental inspection after delivery should be
-routine. If a defect is seen, the uterus should be manually explored and the
-fragment removed. Occasionally, retention of a succenturiate lobe may cause
-postpartum hemorrhage (Chap. 6, p. 108). During examination for lacerations
-and causes of atony, the uterus is massaged and uterotonic agents are
-administered.
+### Timing of Hemorrhage
 
-FIGURE 42-3 Parkland Hospital algorithm for management of postpartum hemorrhage. CBC =
-complete blood count; EBL = estimated blood loss; INR = international normalized ratio; IV =
-intravenous; PT = prothrombin time; PTT = partial thromboplastin time.
+Obstetrical hemorrhage is traditionally classified as antepartum—such as with placenta previa or placental abruption, or as postpartum—commonly caused by uterine atony or genital tract lacerations. In individual women, however, these terms are nonspecific, and it is reasonable to specify the cause and gestational age as descriptors. With antepartum hemorrhage, timing may give a clue to its cause. Many aspects of bleeding during the first half of pregnancy from abortion or ectopic pregnancy are covered in Chapters 11 and 12. Discussions that follow concern pregnancies with a viable-size fetus. In these cases, rapid
 
-Manual Removal of the Placenta
-If heavy bleeding persists after delivery of the newborn but while the
-placenta remains partially or totally attached, then manual placental removal
-is indicated (Cummings, 2016; Frolova, 2016). For this, adequate analgesia
-is mandatory, and aseptic surgical technique is used. As illustrated in Figure
-27-8 (p. 508), the fingertips of one hand, with fingers approximated, are
-insinuated between the uterine wall and placenta. A sweeping forward
-motion in this plane will peel the placenta off its uterine attachment. After its
-removal, trailing membranes are carefully teased free from the decidua using
-ring forceps as needed. Another method to clear membranes is to wipe out
-the uterine cavity with a gauze-wrapped hand. Bierer forceps guided by
-ultrasound to remove retained placenta also has been described (Siegel,
-2020).
-Some administer a single dose of intravenous antibiotics after manual
-uterine exploration, however, one systematic review of observational studies
-found no benefits (Chibueze, 2015). The American College of Obstetricians
+assessment should always consider the deleterious fetal effects of maternal hemorrhage. During active labor, slight vaginal bleeding is common. This “bloody show” is the consequence of cervical effacement and dilation and concurrent tearing of small vessels. However, with uterine bleeding above the cervix, placental abruption, placenta previa, and vasa previa must be considered. The first two are presented in Chapter 43 and vasa previa is discussed in Chapter 6 (p. 115). In some women, especially those with a placenta previa, cervical varicosities may bleed (O’Brien, 2013). Near term in many women, the source of uterine bleeding is not identified, bleeding ceases, and no apparent anatomical cause is found at delivery. In most of these cases, bleeding likely originated from a slight marginal placental separation. Despite this, any pregnancy with antepartum bleeding remains at higher risk for an adverse outcome even though bleeding has stopped and placenta previa has been excluded sonographically. Bleeding after midpregnancy is associated with several adverse outcomes. The Canadian Perinatal Network described 806 women with hemorrhage between 22 and 28 weeks’ gestation (Sabourin, 2012). Placental abruption (32 percent), previa (21 percent), and cervical bleeding (6.6 percent) were the most frequent causes identified. In a third, no cause was found. Of all women, 44 percent were delivered before 29 weeks’ gestation. In more than 68,000 women in Scotland, the incidence of antepartum hemorrhage after the first trimester was 11 percent (Bhandari, 2014). These women were at significantly higher risk for preterm birth, labor induction, and postpartum hemorrhage. With postpartum hemorrhage, the source in most cases can and should be determined. Frequent causes are uterine atony with placental site bleeding, genital tract trauma, or both. Postpartum hemorrhage is usually obvious. Important exceptions are unrecognized intrauterine and intravaginal blood accumulation and uterine rupture with intraperitoneal or retroperitoneal bleeding. Another consideration is an expanding vulvar or vaginal hematoma (p. 740). Initial evaluation includes attempts to differentiate uterine atony from genital tract lacerations. For this, risk factors are sought, the lower genital tract is examined, and uterine tone is assessed. Atony is identified by a boggy, soft uterus during bimanual examination and by expression of clots and hemorrhage during uterine massage.
 
-and Gynecologists (2020b) concluded that data neither support nor refute this
-practice. The World Health Organization (WHO) (2015) recommends
-ampicillin or cefazolin antimicrobial prophylaxis after manual placenta
-removal. At Parkland Hospital, we routinely provide a single dose of
-cefazolin after manual exploration.
+Persistent bleeding despite a firm, well-contracted uterus suggests that hemorrhage most likely is from lacerations. Bright red blood further suggests arterial bleeding. To confirm that lacerations are a source of bleeding, careful inspection of the vagina, cervix, and uterus is essential. Examination is easier if regional analgesia is employed. Transfer from a labor and delivery room to an operative suite also may be prudent. If there are no lower genital tract lacerations and the uterus is contracted, yet supracervical bleeding persists, manual exploration of the uterus is done to exclude a uterine tear (Kaplanoglu, 2016). This also is completed routinely after internal podalic version or breech extraction. Some perform this after successful vaginal birth after cesarean, and this is our practice. Late postpartum hemorrhage describes bleeding after the first 24 hours. Found in up to 1 percent of women, one risk factor is postpartum hemorrhage at the time of delivery (Fein, 2021). Delayed hemorrhage may be serious and is discussed in Chapter 36 (p. 637).
 
-Uterotonic Agents
-Several compounds can be used to prompt the postpartum uterus to contract.
-One of these is routinely selected and given to prevent postpartum bleeding.
-Choices for prophylaxis include oxytocin (Pitocin); the ergots, namely
-ergonovine (Ergotrate) and methylergonovine (Methergine); or misoprostol
-(Cytotec) (Chap. 27, p. 507). The WHO (2018) recommends oxytocin for
-first-line use for prophylaxis. For administration, 20 units of oxytocin in
-1000 mL of crystalloid solution is effective and given intravenously (IV) at
-10 mL/min for a dose of 200 mU/min. Higher concentrations are minimally
-more efficient (Tita, 2012). A summary of oxytocin administration regimens
-is found in the Practice Brief of the Association of Women’s Health
-Objective and Neonatal Nurses—AWHONN (2014). In those without IV
-access, oxytocin may be given intramuscularly (IM). Adnan and colleagues
-(2018) found the IV route to more effectively prevent severe hemorrhage
-compared with IM administration. Oxytocin is never given as an undiluted
-bolus dose because serious hypotension or cardiac arrhythmias can
-develop.
-Most agents for prevention of atony are also used to treat it. For atony, IV
-oxytocin is continued or may be initiated if not selected initially. It is
-considered first-line treatment by the WHO (2012). If bleeding and atony are
-refractory, an agent from a different group can be added (American College
-of Obstetricians and Gynecologists, 2019a).
-Ergot alkaloids have been used for centuries to treat uterine atony. If
-atony persists despite oxytocin and other preventive measures, ergot
-derivatives can be used for second-line treatment. Given parenterally, these
-drugs rapidly stimulate tetanic uterine contractions and act for approximately
-45 minutes (Schimmer, 2011). A common regimen is 0.2 mg of either drug
-given IM. Methergine can be repeated at 2- to 4-hour intervals as needed. A
-caveat is that ergot agents, especially given IV, may cause dangerous
-hypertension, especially in women with preeclampsia. Severe hypertension
-is also seen with concomitant use of protease inhibitors given for human
+### Appreciation of Estimated Blood Loss
 
-immunodeficiency viral (HIV) infection. These adverse effects
-notwithstanding, it is speculative whether ergot derivatives offer superior
-therapeutic effects compared with oxytocin.
-Other second-line agents for atony have included the E- and F-series
-prostaglandins. Carboprost tromethamine (Hemabate) is the 15-methyl
-derivative of prostaglandin F2α. It is approved for uterine atony treatment in a
-dose of 250 μg (0.25 mg) given IM. This dose can be repeated if necessary,
-at 15- to 90-minute intervals up to a maximum of eight doses. Observational
-data indicate an 88-percent success rate (Oleen, 1990).
-Carboprost causes side effects in approximately 20 percent of women.
-These include, in descending order of frequency, diarrhea, hypertension,
-vomiting, fever, flushing, and tachycardia. Another pharmacological effect is
-pulmonary airway and vascular constriction. Thus, carboprost should not be
-used for asthmatic women or those with pulmonary hypertension, including
-women those with suspected amnionic fluid embolism (p. 745). It has also
-been reported to cause arterial oxygen desaturation that averaged 10 percent
-(Hankins, 1988). We have occasionally encountered severe hypertension
-with carboprost given to women with preeclampsia. Other relative
-contraindications to carboprost include renal, liver, and cardiac disease
-(American College of Obstetricians and Gynecologists, 2019a).
-Misoprostol is a synthetic prostaglandin E1 analogue. In a Cochrane
-review, Mousa and associates (2014) reported no added benefits for
-misoprostol use for treatment compared with oxytocin or ergonovine. If
-misoprostol is used to treat atony, the American College of Obstetricians and
-Gynecologists (2019a) recommends a dose of 600 to 1000 µg rectally,
-orally, or sublingually.
-Dinoprostone (Cervidil, Prepidil) is prostaglandin E2. It may also be
-used off label for atony treatment and is given as a 20-mg suppository per
-rectum or per vagina every 2 hours. It typically causes diarrhea, which is
-problematic for the rectal route, whereas vigorous vaginal bleeding may
-preclude its use per vagina. Hypotension, which is commonly encountered
-with hemorrhage, is considered a contraindication by some. For this reason,
-this agent is not deployed for hemorrhage management at Parkland Hospital.
-IV prostaglandin E2—sulprostone—is used in Europe, but it is not available
-in the United States.
+As discussed, visual blood loss estimates are often inaccurate, especially with excessive bleeding. Instead of sudden and massive hemorrhage, postpartum bleeding is frequently steady. If bleeding from atony or laceration persists, it may appear to be only moderate at any given instant but may continue until serious hypovolemia develops. In some cases, after placental separation, blood may not escape vaginally but instead may collect within the uterine cavity, which can become distended by 1000 mL or more of blood. Moreover, postpartum uterine massage will be ineffective if applied to a roll of abdominal fat mistaken for the uterus. All of these factors can lead to an underappreciation of the magnitude of hemorrhage over time. The effects of hemorrhage depend mainly on the maternal nonpregnant blood volume and the corresponding degree of pregnancy-induced hypervolemia. Small women—even those with appropriate pregnancyinduced hypervolemia—do not tolerate more than seemingly average blood loss. Some gravidas may be particularly susceptible to hemorrhage because their blood volume expansion is less than expected. An example is women with severe preeclampsia or eclampsia, who are more vulnerable to hemorrhage because they frequently do not have a normal blood volume accrual. Specifically, Zeeman and associates (2009) documented a mean
 
-Tranexamic Acid
-This antifibrinolytic agent has been evaluated to treat postpartum
-hemorrhage. In the randomized WOMAN trial of gravidas with hemorrhage
-following vaginal birth or during cesarean delivery, mortality rates from
-obstetrical hemorrhage were 1.2 percent in those given a 1-g IV tranexamic
-acid dose plus traditional care for bleeding. This rate was significantly
-lower than the 1.7-percent death rate in women given traditional care alone
-(WOMAN Trial Collaborators, 2017). Another study of women with
-hemorrhage following vaginal birth found that rates of progression to severe
-PPH, of transfusion, and of peripartum hysterectomy were lower in the TXA
-group compared with the traditional-care group (Ducloy-Bouthors, 2011).
-Use of tranexamic acid in hemorrhage is discussed further in Chapter 44 (p.
-773).
+increase above nonpregnant volume of only 10 percent in eclamptic women (Chap. 40, p. 693). Another example is the moderate to severe curtailing of pregnancy-induced volume expansion in women with chronic renal insufficiency (Chap. 56, p. 1004). When excessive hemorrhage is suspected in these high-risk women, crystalloid and blood are promptly administered for suspected hypovolemia. A treacherous feature of postpartum hemorrhage is the failure of the pulse and blood pressure to undergo more than moderate alterations until large amounts of blood have been lost. The normotensive woman initially may actually become somewhat hypertensive from catecholamine release in response to hemorrhage. Importantly, women with preeclampsia may become “normotensive” despite remarkable hypovolemia. Accordingly, hypovolemia may not be recognized until very late.
 
-Bleeding Unresponsive to Uterotonic Agents
-If bleeding persists after initial measures for atony, the following
-management steps are performed immediately and simultaneously:
-1. Begin bimanual uterine compression, which is easily done and controls
-most cases of continuing hemorrhage (Fig. 42-4). This technique is not
-simply fundal massage. The posterior uterine wall is massaged by one
-hand on the abdomen, while the other hand is made into a fist and placed
-into the vagina. This fist kneads the anterior uterine wall through the
-anterior vaginal wall, and the uterus is compressed between the two hands.
+## Uterine Atony
 
-FIGURE 42-4 Bimanual compression for uterine atony. The uterus is positioned with the fist of one
-hand in the anterior fornix pushing against the anterior wall, which is held in place by the other hand on
-the abdomen. The abdominal hand is also used for uterine massage.
+### Third-stage Labor Management
 
-2. Mobilize the emergent-care obstetrical team and call for whole blood or
-packed red cells.
+The most frequent cause of obstetrical hemorrhage is failure of the uterus after delivery to contract sufficiently and arrest bleeding from vessels at the placental implantation site (Yee, 2019). That said, some bleeding is inevitable during third-stage labor as the placenta begins to separate. Blood from the implantation site may escape into the vagina immediately—the Duncan mechanism of placental separation, or it remains concealed behind the placenta and membranes until the placenta is delivered—the Schultze mechanism. Placental descent is signified by a slack umbilical cord. After signs of placental separation, the uterus should be massaged if it is not contracted firmly. Importantly, separation and delivery of the placenta by cord traction, especially when the uterus is atonic, may cause uterine inversion. Following placental delivery, the fundus is always palpated to confirm that the uterus is well contracted. If it is not firm, vigorous fundal massage usually prevents postpartum hemorrhage from atony (Hofmeyr, 2013). Concurrent administration of a uterotonic agent, discussed in the next sections, is another recommended preventive measure.
+
+### Risk Factors
+
+In many women with known risks, uterine atony can at least be anticipated. However, as discussed earlier (p. 733), risk-based scoring systems have limited value. In one study, up to half of women with atony after cesarean delivery had no risk factors (Rouse, 2006). The magnitude of risk for atony imposed by each of the factors shown in Table 42-2 varies considerably between reports. Primiparity and high parity are two factors (Driessen, 2011). In one study, the incidence of postpartum hemorrhage rose from 0.3 percent in women of low parity to 1.9 percent with parity of four or greater. It was 2.7 percent with parity of seven or greater (Babinszki, 1999). The overdistended uterus is prone to hypotonia after delivery, and thus women with a large fetus, multiple fetuses, or hydramnios carry greater risk (Blitz, 2019). Labor abnormalities predispose to atony and include hyper- or hypotonic labor. Similarly, labor induction or augmentation with either prostaglandins or oxytocin is more likely to be followed by atony (Driessen, 2011). The frequency of hemorrhage increases with third-stage labor lasting >20 minutes (Frolova, 2016). Last, the woman who has had a prior postpartum hemorrhage is at risk for recurrence.
+
+### Evaluation and Management
+
+To improve immediate postpartum care, clinical safety bundles provide a standardized response (Fig. 42-3). In principle, all of these programs suggest notifying unit personnel, activating resources, and standardizing management. With immediate postpartum hemorrhage, careful inspection aims to exclude birth canal laceration. In some cases, bleeding is caused by retained placental fragments, and placental inspection after delivery should be routine. If a defect is seen, the uterus should be manually explored and the fragment removed. Occasionally, retention of a succenturiate lobe may cause postpartum hemorrhage (Chap. 6, p. 108). During examination for lacerations and causes of atony, the uterus is massaged and uterotonic agents are administered.
+
+> **Figure 42-3:** Parkland Hospital algorithm for management of postpartum hemorrhage. CBC = complete blood count; EBL = estimated blood loss; INR = international normalized ratio; IV = intravenous; PT = prothrombin time; PTT = partial thromboplastin time.
+
+Manual Removal of the Placenta If heavy bleeding persists after delivery of the newborn but while the placenta remains partially or totally attached, then manual placental removal is indicated (Cummings, 2016; Frolova, 2016). For this, adequate analgesia is mandatory, and aseptic surgical technique is used. As illustrated in Figure 27-8 (p. 508), the fingertips of one hand, with fingers approximated, are insinuated between the uterine wall and placenta. A sweeping forward motion in this plane will peel the placenta off its uterine attachment. After its removal, trailing membranes are carefully teased free from the decidua using ring forceps as needed. Another method to clear membranes is to wipe out the uterine cavity with a gauze-wrapped hand. Bierer forceps guided by ultrasound to remove retained placenta also has been described (Siegel, 2020). Some administer a single dose of intravenous antibiotics after manual uterine exploration, however, one systematic review of observational studies found no benefits (Chibueze, 2015). The American College of Obstetricians
+
+and Gynecologists (2020b) concluded that data neither support nor refute this practice. The World Health Organization (WHO) (2015) recommends ampicillin or cefazolin antimicrobial prophylaxis after manual placenta removal. At Parkland Hospital, we routinely provide a single dose of cefazolin after manual exploration.
+
+Uterotonic Agents Several compounds can be used to prompt the postpartum uterus to contract. One of these is routinely selected and given to prevent postpartum bleeding. Choices for prophylaxis include oxytocin (Pitocin); the ergots, namely ergonovine (Ergotrate) and methylergonovine (Methergine); or misoprostol (Cytotec) (Chap. 27, p. 507). The WHO (2018) recommends oxytocin for first-line use for prophylaxis. For administration, 20 units of oxytocin in 1000 mL of crystalloid solution is effective and given intravenously (IV) at 10 mL/min for a dose of 200 mU/min. Higher concentrations are minimally more efficient (Tita, 2012). A summary of oxytocin administration regimens is found in the Practice Brief of the Association of Women’s Health Objective and Neonatal Nurses—AWHONN (2014). In those without IV access, oxytocin may be given intramuscularly (IM). Adnan and colleagues (2018) found the IV route to more effectively prevent severe hemorrhage compared with IM administration. Oxytocin is never given as an undiluted bolus dose because serious hypotension or cardiac arrhythmias can develop. Most agents for prevention of atony are also used to treat it. For atony, IV oxytocin is continued or may be initiated if not selected initially. It is considered first-line treatment by the WHO (2012). If bleeding and atony are refractory, an agent from a different group can be added (American College of Obstetricians and Gynecologists, 2019a). Ergot alkaloids have been used for centuries to treat uterine atony. If atony persists despite oxytocin and other preventive measures, ergot derivatives can be used for second-line treatment. Given parenterally, these drugs rapidly stimulate tetanic uterine contractions and act for approximately 45 minutes (Schimmer, 2011). A common regimen is 0.2 mg of either drug given IM. Methergine can be repeated at 2- to 4-hour intervals as needed. A caveat is that ergot agents, especially given IV, may cause dangerous hypertension, especially in women with preeclampsia. Severe hypertension is also seen with concomitant use of protease inhibitors given for human
+
+immunodeficiency viral (HIV) infection. These adverse effects notwithstanding, it is speculative whether ergot derivatives offer superior therapeutic effects compared with oxytocin. Other second-line agents for atony have included the E- and F-series prostaglandins. Carboprost tromethamine (Hemabate) is the 15-methyl derivative of prostaglandin F2α. It is approved for uterine atony treatment in a dose of 250 μg (0.25 mg) given IM. This dose can be repeated if necessary, at 15- to 90-minute intervals up to a maximum of eight doses. Observational data indicate an 88-percent success rate (Oleen, 1990). Carboprost causes side effects in approximately 20 percent of women. These include, in descending order of frequency, diarrhea, hypertension, vomiting, fever, flushing, and tachycardia. Another pharmacological effect is pulmonary airway and vascular constriction. Thus, carboprost should not be used for asthmatic women or those with pulmonary hypertension, including women those with suspected amnionic fluid embolism (p. 745). It has also been reported to cause arterial oxygen desaturation that averaged 10 percent (Hankins, 1988). We have occasionally encountered severe hypertension with carboprost given to women with preeclampsia. Other relative contraindications to carboprost include renal, liver, and cardiac disease (American College of Obstetricians and Gynecologists, 2019a). Misoprostol is a synthetic prostaglandin E1 analogue. In a Cochrane review, Mousa and associates (2014) reported no added benefits for misoprostol use for treatment compared with oxytocin or ergonovine. If misoprostol is used to treat atony, the American College of Obstetricians and Gynecologists (2019a) recommends a dose of 600 to 1000 µg rectally, orally, or sublingually. Dinoprostone (Cervidil, Prepidil) is prostaglandin E2. It may also be used off label for atony treatment and is given as a 20-mg suppository per rectum or per vagina every 2 hours. It typically causes diarrhea, which is problematic for the rectal route, whereas vigorous vaginal bleeding may preclude its use per vagina. Hypotension, which is commonly encountered with hemorrhage, is considered a contraindication by some. For this reason, this agent is not deployed for hemorrhage management at Parkland Hospital. IV prostaglandin E2—sulprostone—is used in Europe, but it is not available in the United States.
+
+Tranexamic Acid This antifibrinolytic agent has been evaluated to treat postpartum hemorrhage. In the randomized WOMAN trial of gravidas with hemorrhage following vaginal birth or during cesarean delivery, mortality rates from obstetrical hemorrhage were 1.2 percent in those given a 1-g IV tranexamic acid dose plus traditional care for bleeding. This rate was significantly lower than the 1.7-percent death rate in women given traditional care alone (WOMAN Trial Collaborators, 2017). Another study of women with hemorrhage following vaginal birth found that rates of progression to severe PPH, of transfusion, and of peripartum hysterectomy were lower in the TXA group compared with the traditional-care group (Ducloy-Bouthors, 2011). Use of tranexamic acid in hemorrhage is discussed further in Chapter 44 (p. 773).
+
+Bleeding Unresponsive to Uterotonic Agents If bleeding persists after initial measures for atony, the following management steps are performed immediately and simultaneously: 1. Begin bimanual uterine compression, which is easily done and controls most cases of continuing hemorrhage (Fig. 42-4). This technique is not simply fundal massage. The posterior uterine wall is massaged by one hand on the abdomen, while the other hand is made into a fist and placed into the vagina. This fist kneads the anterior uterine wall through the anterior vaginal wall, and the uterus is compressed between the two hands.
+
+> **Figure 42-4:** Bimanual compression for uterine atony. The uterus is positioned with the fist of one hand in the anterior fornix pushing against the anterior wall, which is held in place by the other hand on the abdomen. The abdominal hand is also used for uterine massage.
+
+2. Mobilize the emergent-care obstetrical team and call for whole blood or packed red cells.
+
 3. Request urgent help from the anesthesia team.
-4. Secure at least two large-bore IV catheters so that crystalloid with
-oxytocin can be continued simultaneously with blood products. Insert a
-Foley catheter for continuous urine output monitoring.
+
+4. Secure at least two large-bore IV catheters so that crystalloid with oxytocin can be continued simultaneously with blood products. Insert a Foley catheter for continuous urine output monitoring.
+
 5. Begin volume resuscitation with rapid IV crystalloid infusion (p. 734).
-6. With sedation, analgesia, or anesthesia established and now with optimal
-exposure, once again manually explore the uterine cavity for retained
-placental fragments and for uterine abnormalities, including lacerations or
-rupture.
-7. Thoroughly inspect the cervix and vagina again for lacerations that may
-have escaped attention.
-8. Administer blood transfusions if the woman is still unstable or if bleeding
-persists (Chap. 44, p. 771).
 
-At this juncture, after causes other than atony have been excluded and
-after hypovolemia is reversed, several other measures are considered if
-bleeding continues (Merriam, 2020). Their use depends on several factors
-such as parity, desire for sterilization, and experience with each method.
-Balloon Tamponade and Surgical Procedures. For this, the tip of a 24F to
-30F Foley catheter with a 30-mL balloon is guided into the uterine cavity and
-filled with 60 to 80 mL of saline. The open tip permits continuous drainage
-of blood from the uterus. We have experienced balloon rupture when more
-than 50 mL was instilled into the balloon, thus a 34F Foley with a 60-ml
-balloon can be used. If bleeding subsides, the catheter is typically removed
-after 12 to 24 hours. Similar devices for tamponade include SengstakenBlakemore, Rusch, and ebb balloons and condom catheters (Antony, 2017;
-Kondoh, 2019). Antibiotic prophylaxis using cefazolin, 1 gram every 8 hours
-until removal, has recently been suggested to reduce risk of postpartum
-endometritis (Martingano, 2020).
-Instead, specially constructed intrauterine balloons are available to treat
-hemorrhage from uterine atony and other causes. A Bakri Postpartum
-Balloon or BT-Cath may be inserted and inflated to tamponade the
-endometrial cavity and stop bleeding (Fig. 42-5). Insertion requires two or
-three team members. The first performs abdominal sonography during the
-procedure. The second places the deflated balloon into the uterus and
-stabilizes it. The third member instills fluid to inflate the balloon, rapidly
-infusing at least 150 mL followed by further instillation over a few minutes
-for a total of 300 to 500 mL to arrest hemorrhage. It is reasonable to remove
-the balloon after approximately 12 hours (Einerson, 2017).
+6. With sedation, analgesia, or anesthesia established and now with optimal exposure, once again manually explore the uterine cavity for retained placental fragments and for uterine abnormalities, including lacerations or rupture.
 
-FIGURE 42-5 Intrauterine Bakri balloon for postpartum hemorrhage.
+7. Thoroughly inspect the cervix and vagina again for lacerations that may have escaped attention.
 
-In small studies evaluating uterine balloons for all causes, the success
-rate approximated 85 percent (Kaya, 2016; Said Ali, 2021; Vintejoux, 2015).
-From their review, Suarez and associates (2020) used balloon tamponade in
-4729 women and reported a similar success rate. At least one case of uterine
-rupture with a balloon has been reported (Ngyuen, 2018). Combinations of
-balloon tamponade and uterine compression sutures also have been
-described (Diemert, 2012; Yoong, 2012).
-Failure of uterotonic agents and tamponade requires more invasive
-methods. These include uterine compression sutures, major pelvic vessel
-ligation, angiographic embolization, and hysterectomy. These are discussed
-in detail in Chapters 44 (p. 778). Peripartum hysterectomy is illustrated in
-Chapter 30 (p. 560).
+8. Administer blood transfusions if the woman is still unstable or if bleeding persists (Chap. 44, p. 771).
 
-UTERINE INVERSION
-Puerperal inversion of the uterus is one of the classic hemorrhagic disasters
-encountered in obstetrics. Unless promptly recognized and managed
-appropriately, associated bleeding often is massive. Risk factors include
+At this juncture, after causes other than atony have been excluded and after hypovolemia is reversed, several other measures are considered if bleeding continues (Merriam, 2020). Their use depends on several factors such as parity, desire for sterilization, and experience with each method.
 
-alone or in combination: (1) placental implantation at the fundus, (2) uterine
-atony, (3) cord traction applied before placental separation, and (4)
-abnormally adherent placentation seen with placenta accreta spectrum
-disorders (Chap. 43, p. 759). Other risk factors are a short cord, uterine wall
-weakening at the implantation site, uterine tumors, and excessive fundal
-pressure (Wendel, 2018).
-Depending on which of these factors are contributory, the incidence and
-severity of uterine inversion varies and can be progressive (Fig. 42-6). The
-worst scenario is complete inversion with the uterus protruding from the
-birth canal (Fig. 42-7).
+**Balloon Tamponade and Surgical Procedures.** For this, the tip of a 24F to 30F Foley catheter with a 30-mL balloon is guided into the uterine cavity and filled with 60 to 80 mL of saline. The open tip permits continuous drainage of blood from the uterus. We have experienced balloon rupture when more than 50 mL was instilled into the balloon, thus a 34F Foley with a 60-ml balloon can be used. If bleeding subsides, the catheter is typically removed after 12 to 24 hours. Similar devices for tamponade include SengstakenBlakemore, Rusch, and ebb balloons and condom catheters (Antony, 2017; Kondoh, 2019). Antibiotic prophylaxis using cefazolin, 1 gram every 8 hours until removal, has recently been suggested to reduce risk of postpartum endometritis (Martingano, 2020). Instead, specially constructed intrauterine balloons are available to treat hemorrhage from uterine atony and other causes. A Bakri Postpartum Balloon or BT-Cath may be inserted and inflated to tamponade the endometrial cavity and stop bleeding (Fig. 42-5). Insertion requires two or three team members. The first performs abdominal sonography during the procedure. The second places the deflated balloon into the uterus and stabilizes it. The third member instills fluid to inflate the balloon, rapidly infusing at least 150 mL followed by further instillation over a few minutes for a total of 300 to 500 mL to arrest hemorrhage. It is reasonable to remove the balloon after approximately 12 hours (Einerson, 2017).
 
-FIGURE 42-6 Progressive degrees of uterine inversion.
+> **Figure 42-5:** Intrauterine Bakri balloon for postpartum hemorrhage.
 
-FIGURE 42-7 Maternal death during home delivery caused by exsanguination from uterine inversion,
-which stemmed from a fundally implanted placenta increta.
+In small studies evaluating uterine balloons for all causes, the success rate approximated 85 percent (Kaya, 2016; Said Ali, 2021; Vintejoux, 2015). From their review, Suarez and associates (2020) used balloon tamponade in 4729 women and reported a similar success rate. At least one case of uterine rupture with a balloon has been reported (Ngyuen, 2018). Combinations of balloon tamponade and uterine compression sutures also have been described (Diemert, 2012; Yoong, 2012). Failure of uterotonic agents and tamponade requires more invasive methods. These include uterine compression sutures, major pelvic vessel ligation, angiographic embolization, and hysterectomy. These are discussed in detail in Chapters 44 (p. 778). Peripartum hysterectomy is illustrated in Chapter 30 (p. 560).
 
-The incidence of uterine inversion ranges from 1 case in 2000 to 1 in
-20,000 vaginal deliveries (Coad, 2017; Witteveen, 2013). Our experiences
-at Parkland Hospital correspond with the higher 1:2000 incidence. This is
-despite our policy of discouraging placental delivery by cord traction alone,
-and before certainty of its separation. It is unknown if active management of
-third-stage labor with cord traction applied ostensibly after signs of
-placental separation raises the likelihood of uterine inversion (DeneuxTharaux, 2013; Prick, 2013).
+## Uterine Inversion
 
-■ Recognition and Management
-Immediate recognition of uterine inversion improves the chances of a quick
-resolution and good outcome. If initially unrecognized, continued hemorrhage
-likely will prompt closer examination of the birth canal. Although complete
-inversion is usually evident, the partially inverted uterus can be mistaken for
+Puerperal inversion of the uterus is one of the classic hemorrhagic disasters encountered in obstetrics. Unless promptly recognized and managed appropriately, associated bleeding often is massive. Risk factors include
 
-a uterine myoma, and sonography can aid differentiation (Pan, 2015;
-Smulian, 2013). Many cases are associated with immediate life-threatening
-hemorrhage, and a fourth require blood replacement (Coad, 2017).
-Once any degree of uterine inversion is recognized, several steps must be
-implemented urgently and simultaneously:
-1. Immediate assistance is summoned, including obstetrical and anesthesia
-personnel.
+alone or in combination: (1) placental implantation at the fundus, (2) uterine atony, (3) cord traction applied before placental separation, and (4) abnormally adherent placentation seen with placenta accreta spectrum disorders (Chap. 43, p. 759). Other risk factors are a short cord, uterine wall weakening at the implantation site, uterine tumors, and excessive fundal pressure (Wendel, 2018). Depending on which of these factors are contributory, the incidence and severity of uterine inversion varies and can be progressive (Fig. 42-6). The worst scenario is complete inversion with the uterus protruding from the birth canal (Fig. 42-7).
+
+> **Figure 42-6:** Progressive degrees of uterine inversion.
+
+> **Figure 42-7:** Maternal death during home delivery caused by exsanguination from uterine inversion, which stemmed from a fundally implanted placenta increta.
+
+The incidence of uterine inversion ranges from 1 case in 2000 to 1 in 20,000 vaginal deliveries (Coad, 2017; Witteveen, 2013). Our experiences at Parkland Hospital correspond with the higher 1:2000 incidence. This is despite our policy of discouraging placental delivery by cord traction alone, and before certainty of its separation. It is unknown if active management of third-stage labor with cord traction applied ostensibly after signs of placental separation raises the likelihood of uterine inversion (DeneuxTharaux, 2013; Prick, 2013).
+
+### Recognition and Management
+
+Immediate recognition of uterine inversion improves the chances of a quick resolution and good outcome. If initially unrecognized, continued hemorrhage likely will prompt closer examination of the birth canal. Although complete inversion is usually evident, the partially inverted uterus can be mistaken for
+
+a uterine myoma, and sonography can aid differentiation (Pan, 2015; Smulian, 2013). Many cases are associated with immediate life-threatening hemorrhage, and a fourth require blood replacement (Coad, 2017). Once any degree of uterine inversion is recognized, several steps must be implemented urgently and simultaneously: 1. Immediate assistance is summoned, including obstetrical and anesthesia personnel.
+
 2. Blood is brought to the delivery suite for potential use.
-3. Two large-bore IV infusion systems are secured to begin rapid crystalloid
-infusion to treat hypovolemia while awaiting arrival of blood products.
+
+3. Two large-bore IV infusion systems are secured to begin rapid crystalloid infusion to treat hypovolemia while awaiting arrival of blood products.
+
 4. The woman is evaluated for emergency general anesthesia.
-5. If the recently inverted uterus has not contracted and retracted completely
-and if the placenta has already separated, the uterus may often be replaced
-simply by pushing up on the inverted fundus with the palm of the hand and
-fingers in the direction of the long axis of the vagina (Fig. 42-8). Some use
-two fingers rigidly extended to push the center of the fundus upward. Care
-is taken not to apply so much pressure as to perforate the uterus with the
-fingertips.
 
-FIGURE 42-8 Incomplete uterine inversion can be repositioned by using the abdominal hand for
-palpation of the crater-like depression while simultaneously gently pushing the inverted fundus upward.
+5. If the recently inverted uterus has not contracted and retracted completely and if the placenta has already separated, the uterus may often be replaced simply by pushing up on the inverted fundus with the palm of the hand and fingers in the direction of the long axis of the vagina (Fig. 42-8). Some use two fingers rigidly extended to push the center of the fundus upward. Care is taken not to apply so much pressure as to perforate the uterus with the fingertips.
 
-6. If the placenta is still attached, attempts are made to reposition the uterus
-with the placenta in situ. In theory, the uterus contracts to a lesser degree
-and placenta-site blood loss is less with an attached placenta. At this time
-a trial of an intravenously administered tocolytic drug may aid uterine
-relaxation and repositioning. Of options, a 250-µg subcutaneous dose of
-terbutaline, a 50- to 100-µg IV dose of nitroglycerin, or a 4-g IV dose of
-magnesium sulfate are suitable (Catanzarite, 1986; Dufour, 1997). If these
-fail to provide sufficient relaxation, then a rapid-acting halogenated
-inhalational agent is administered by anesthesia staff. After the uterus is
-replaced, the placenta is carefully manually removed.
-7. If uterine repositioning fails with the placenta attached, it is peeled off,
-and uterine repositioning is attempted again.
+> **Figure 42-8:** Incomplete uterine inversion can be repositioned by using the abdominal hand for palpation of the crater-like depression while simultaneously gently pushing the inverted fundus upward.
 
-8. Once the uterus is restored to its normal configuration, tocolysis is
-stopped, oxytocin is then infused, and other uterotonic agents may be given
-as described for atony (p. 735). Meanwhile, the operator maintains the
-fundus in its normal anatomical position while applying bimanual
-compression to control further hemorrhage until the uterus is well
-contracted (see Fig. 42-4). The operator continues to monitor the uterus
-transvaginally for evidence of subsequent inversion. A Bakri balloon has
-been used by some to maintain the repositioned uterus (Haeri, 2015; Ida,
-2015).
+6. If the placenta is still attached, attempts are made to reposition the uterus with the placenta in situ. In theory, the uterus contracts to a lesser degree and placenta-site blood loss is less with an attached placenta. At this time a trial of an intravenously administered tocolytic drug may aid uterine relaxation and repositioning. Of options, a 250-µg subcutaneous dose of terbutaline, a 50- to 100-µg IV dose of nitroglycerin, or a 4-g IV dose of magnesium sulfate are suitable (Catanzarite, 1986; Dufour, 1997). If these fail to provide sufficient relaxation, then a rapid-acting halogenated inhalational agent is administered by anesthesia staff. After the uterus is replaced, the placenta is carefully manually removed.
 
-■ Surgical Intervention
-In most cases, the inverted uterus can be restored to its normal position by
-the just-described techniques. Occasionally, manual replacement fails. One
-cause is a dense myometrial constriction ring. At this point, laparotomy is
-imperative. The anatomical configuration found at surgery can be confusing
-as shown in Figure 42-9. During laparotomy and after tocolysis is given, a
-combined effort is made to reposition the uterus by concurrently pushing
-upward from below and pulling upward from above. Application of
-atraumatic clamps to each round ligament and upward traction may be helpful
-—the Huntington procedure. In some cases, placing a deep traction suture in
-the inverted fundus or grasping it with tissue forceps may help but can be
-technically difficult. If a constriction ring still prohibits repositioning, a
-sagittal surgical cut—Haultain incision—is made posteriorly through the
-muscular ring to release it. The exposed fundus can then be reinverted
-(Sangwan, 2009).
+7. If uterine repositioning fails with the placenta attached, it is peeled off, and uterine repositioning is attempted again.
 
-FIGURE 42-9 Surgical anatomy of a completely inverted uterus viewed from above at laparotomy.
+8. Once the uterus is restored to its normal configuration, tocolysis is stopped, oxytocin is then infused, and other uterotonic agents may be given as described for atony (p. 735). Meanwhile, the operator maintains the fundus in its normal anatomical position while applying bimanual compression to control further hemorrhage until the uterus is well contracted (see Fig. 42-4). The operator continues to monitor the uterus transvaginally for evidence of subsequent inversion. A Bakri balloon has been used by some to maintain the repositioned uterus (Haeri, 2015; Ida, 2015).
 
-After uterine replacement, tocolytics are stopped, and oxytocin and other
-uterotonic agents are given. If the Haultain method is used, the uterine
-incision is repaired. Risks of separation of this posterior hysterotomy
-incision during subsequent pregnancy, labor, and delivery are unknown
-(Wendel, 2018). Further illustration and discussion are found in Cunningham
-and Gilstrap’s Operative Obstetrics, 3rd edition (Timofeev, 2017).
-In some cases, the uterus will again invert almost immediately after
-repositioning. With this problem, uterine compression sutures can be used to
-prevent another inversion (Matsubara, 2009; Mondal, 2012). Occasionally,
-chronic puerperal uterine inversion may become apparent weeks after
-delivery.
+### Surgical Intervention
 
-BIRTH CANAL INJURIES
-■ Vulvovaginal Lacerations
+In most cases, the inverted uterus can be restored to its normal position by the just-described techniques. Occasionally, manual replacement fails. One cause is a dense myometrial constriction ring. At this point, laparotomy is imperative. The anatomical configuration found at surgery can be confusing as shown in Figure 42-9. During laparotomy and after tocolysis is given, a combined effort is made to reposition the uterus by concurrently pushing upward from below and pulling upward from above. Application of atraumatic clamps to each round ligament and upward traction may be helpful —the Huntington procedure. In some cases, placing a deep traction suture in the inverted fundus or grasping it with tissue forceps may help but can be technically difficult. If a constriction ring still prohibits repositioning, a sagittal surgical cut—Haultain incision—is made posteriorly through the muscular ring to release it. The exposed fundus can then be reinverted (Sangwan, 2009).
 
-Childbirth is invariably associated with trauma to the uterus and cervix,
-vagina, and perineum. Injuries range from minor mucosal tears to lacerations
-that create life-threatening hemorrhage or hematomas. According to the
-American College of Obstetricians and Gynecologists (2020a), up to 80
-percent of women sustain some type of laceration at vaginal birth. These may
-lie proximally or distally along the lower genital tract.
-Small tears of the vaginal wall near the urethra are relatively common.
-They are often superficial with little to no bleeding but occasionally require
-fine-gauge absorbable sutures for hemostasis. Those large enough to require
-extensive repair are typically associated with short-term voiding difficulty,
-and an indwelling bladder catheter will obviate this.
-Deeper perineal lacerations are usually accompanied by varying degrees
-of injury to the outer third of the vagina. Some extend to involve the anal
-sphincter or varying depths of the vaginal walls. Repair of these perineal
-lacerations is detailed in Chapter 27 (p. 510).
-Lacerations involving the middle or upper third of the vagina usually are
-comorbid with injuries of the perineum or cervix. These sometimes are
-missed unless inspection is thorough. Those that extend upward usually are
-longitudinal. They may follow spontaneous delivery but frequently result
-from injuries sustained during operative vaginal delivery. Most involve
-deeper underlying tissues and thus usually cause significant hemorrhage,
-which is controlled by suture repair. For this, effective analgesia or
-anesthesia, clear visualization, capable assistance, and sufficient
-resuscitation of hypovolemia are mandatory.
-Extensive vaginal or cervical tears should prompt a careful search for
-evidence of retroperitoneal hemorrhage or of peritoneal perforation with
-hemorrhage. Intrauterine exploration is also considered to exclude uterine
-tears or rupture (Conrad, 2015). If peritoneal perforation or uterine rupture is
-strongly suspected, laparotomy is reasonable (Rafi, 2010). As discussed
-later (p. 742), imaging and potential embolization may be suitable for large
-retroperitoneal hematomas.
+> **Figure 42-9:** Surgical anatomy of a completely inverted uterus viewed from above at laparotomy.
 
-■ Cervical Lacerations
-Superficial lacerations of the cervix can be seen on close inspection in more
-than half of all vaginal deliveries. Most of these measure <0.5 cm and
-seldom require repair. Deeper lacerations are less frequent, but even these
+After uterine replacement, tocolytics are stopped, and oxytocin and other uterotonic agents are given. If the Haultain method is used, the uterine incision is repaired. Risks of separation of this posterior hysterotomy incision during subsequent pregnancy, labor, and delivery are unknown (Wendel, 2018). Further illustration and discussion are found in Cunningham and Gilstrap’s Operative Obstetrics, 3rd edition (Timofeev, 2017). In some cases, the uterus will again invert almost immediately after repositioning. With this problem, uterine compression sutures can be used to prevent another inversion (Matsubara, 2009; Mondal, 2012). Occasionally, chronic puerperal uterine inversion may become apparent weeks after delivery.
 
-may be unnoticed. Such lacerations are more likely to be associated with
-vacuum- or forceps-assisted vaginal delivery (Fong, 2014). Due to
-ascertainment bias, variable incidences are described. For example, with
-close inspection, the incidence of cervical lacerations in the Consortium on
-Safe Labor database was 1 percent in nulliparas and 0.5 percent in
-multiparas (Landy, 2011). But, the overall incidence in a study of more than
-81,000 Israeli women was only 0.16 percent (Melamed, 2009).
-Cervical lacerations are not usually problematic unless they cause
-hemorrhage or extend to the vagina. Rarely, the cervix may be entirely or
-partially avulsed from the vagina in the anterior, posterior, or lateral
-fornices, an injury termed colporrhexis. Another rare injury is avulsion of
-the entire vaginal portion of the cervix—annular or circular detachment.
-These injuries sometimes follow forceps deliveries performed through an
-incompletely dilated cervix and with the blades applied against the cervix. In
-some women, cervical tears reach into the lower uterine segment and involve
-the uterine artery and its major branches. They occasionally extend into the
-peritoneal cavity. More severe lacerations usually manifest as external
-hemorrhage or as a hematoma, however, they may occasionally be
-unsuspected. In the Israeli study just cited, almost 11 percent of women with
-a cervical laceration required blood transfusions (Melamed, 2009).
-At times, the edematous anterior cervical lip is compressed between the
-fetal head and maternal symphysis pubis. This usually is of little consequence
-and resolves spontaneously. Rarely, this causes severe ischemia, and the
-anterior lip may undergo necrosis and later separate from the rest of the
-cervix.
-As with vulvovaginal lacerations, cervical tears can be more fully
-appreciated with adequate exposure, which may be best attained with
-transfer to an operating room. An assistant applies firm downward pressure
-on the uterus, while the operator exerts gentle traction on the lips of the
-cervix with ring forceps. A second assistant can provide even better
-exposure with right-angle vaginal wall retractors or Breisky vaginal
-retractors. Yankauer or other suction tips also can aid viewing.
-In general, cervical lacerations of 1 to 2 cm are not repaired unless they
-are bleeding. Such tears heal rapidly and ultimately form an irregular,
-sometimes stellate-appearing, external cervical os (Fig. 36-1, p. 635).
-Deep cervical tears usually require surgical repair. When the laceration
-is limited to the cervix or even when it extends somewhat into the vaginal
+## Birth Canal Injuries
 
-fornix, satisfactory results are obtained by suturing the cervix after bringing it
-into view as depicted in Figure 42-10. While cervical lacerations are
-repaired, any associated vaginal lacerations or an episiotomy may be
-tamponaded with gauze packs to arrest their bleeding. Because hemorrhage
-usually comes from the upper angle of the wound, the first suture using 2–0
-chromic or polyglactin is placed in tissue above the angle. Subsequently,
-either interrupted or continuous locking sutures are serially placed outward
-toward the operator. If the uterus is involved and hemorrhage persists, some
-of the surgical and angiographic methods described in Chapter 44 (p. 777)
-may be necessary to obtain hemostasis. Following cervical lacerations,
-subsequent pregnancy outcomes include excessive recurrent lacerations,
-cervical incompetence, preterm labor, cesarean delivery, and severe perineal
-lacerations (Hamou, 2020).
+### Vulvovaginal Lacerations
 
-FIGURE 42-10 Repair of cervical laceration with appropriate surgical exposure. Continuous
-absorbable sutures are placed beginning at the upper angle of the laceration.
+Childbirth is invariably associated with trauma to the uterus and cervix, vagina, and perineum. Injuries range from minor mucosal tears to lacerations that create life-threatening hemorrhage or hematomas. According to the American College of Obstetricians and Gynecologists (2020a), up to 80 percent of women sustain some type of laceration at vaginal birth. These may lie proximally or distally along the lower genital tract. Small tears of the vaginal wall near the urethra are relatively common. They are often superficial with little to no bleeding but occasionally require fine-gauge absorbable sutures for hemostasis. Those large enough to require extensive repair are typically associated with short-term voiding difficulty, and an indwelling bladder catheter will obviate this. Deeper perineal lacerations are usually accompanied by varying degrees of injury to the outer third of the vagina. Some extend to involve the anal sphincter or varying depths of the vaginal walls. Repair of these perineal lacerations is detailed in Chapter 27 (p. 510). Lacerations involving the middle or upper third of the vagina usually are comorbid with injuries of the perineum or cervix. These sometimes are missed unless inspection is thorough. Those that extend upward usually are longitudinal. They may follow spontaneous delivery but frequently result from injuries sustained during operative vaginal delivery. Most involve deeper underlying tissues and thus usually cause significant hemorrhage, which is controlled by suture repair. For this, effective analgesia or anesthesia, clear visualization, capable assistance, and sufficient resuscitation of hypovolemia are mandatory. Extensive vaginal or cervical tears should prompt a careful search for evidence of retroperitoneal hemorrhage or of peritoneal perforation with hemorrhage. Intrauterine exploration is also considered to exclude uterine tears or rupture (Conrad, 2015). If peritoneal perforation or uterine rupture is strongly suspected, laparotomy is reasonable (Rafi, 2010). As discussed later (p. 742), imaging and potential embolization may be suitable for large retroperitoneal hematomas.
 
-■ Puerperal Hematomas
-Pelvic hematomas can have several anatomical manifestations following
-childbirth. One classification is anatomical and describes vulvar,
-vulvovaginal, paravaginal, and retroperitoneal hematomas. Vulvar
-hematomas may involve the vestibular bulb or branches of the pudendal
-artery, which are the inferior rectal, perineal, and clitoral arteries (Fig. 4211). Paravaginal hematomas may involve the descending branch of the
-uterine artery. In some cases, a torn vessel lies above the pelvic fascia, and a
+### Cervical Lacerations
 
-supralevator hematoma develops. These can extend into the upper portion of
-the vaginal canal and may almost occlude its lumen. Continued bleeding may
-dissect retroperitoneally to form a mass palpable above the inguinal
-ligament. In some cases, it may even dissect up behind the ascending colon to
-the hepatic flexure (Rafi, 2010).
+Superficial lacerations of the cervix can be seen on close inspection in more than half of all vaginal deliveries. Most of these measure <0.5 cm and seldom require repair. Deeper lacerations are less frequent, but even these
 
-FIGURE 42-11 Schematic drawing showing types of puerperal hematomas. A. Coronal view showing
-a supralevator hematoma. B. Coronal view showing a hematoma in the urogenital triangle. C. Perineal
-view showing anal triangle anatomy and an ischioanal fossa hematoma. (Reproduced with permission
-from Cunningham FG: Genital tract lacerations and hematomas. In Yeomans ER, Hoffman BL, Gilstrap
-LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw
-Hill; 2017a.)
+may be unnoticed. Such lacerations are more likely to be associated with vacuum- or forceps-assisted vaginal delivery (Fong, 2014). Due to ascertainment bias, variable incidences are described. For example, with close inspection, the incidence of cervical lacerations in the Consortium on Safe Labor database was 1 percent in nulliparas and 0.5 percent in multiparas (Landy, 2011). But, the overall incidence in a study of more than 81,000 Israeli women was only 0.16 percent (Melamed, 2009). Cervical lacerations are not usually problematic unless they cause hemorrhage or extend to the vagina. Rarely, the cervix may be entirely or partially avulsed from the vagina in the anterior, posterior, or lateral fornices, an injury termed colporrhexis. Another rare injury is avulsion of the entire vaginal portion of the cervix—annular or circular detachment. These injuries sometimes follow forceps deliveries performed through an incompletely dilated cervix and with the blades applied against the cervix. In some women, cervical tears reach into the lower uterine segment and involve the uterine artery and its major branches. They occasionally extend into the peritoneal cavity. More severe lacerations usually manifest as external hemorrhage or as a hematoma, however, they may occasionally be unsuspected. In the Israeli study just cited, almost 11 percent of women with a cervical laceration required blood transfusions (Melamed, 2009). At times, the edematous anterior cervical lip is compressed between the fetal head and maternal symphysis pubis. This usually is of little consequence and resolves spontaneously. Rarely, this causes severe ischemia, and the anterior lip may undergo necrosis and later separate from the rest of the cervix. As with vulvovaginal lacerations, cervical tears can be more fully appreciated with adequate exposure, which may be best attained with transfer to an operating room. An assistant applies firm downward pressure on the uterus, while the operator exerts gentle traction on the lips of the cervix with ring forceps. A second assistant can provide even better exposure with right-angle vaginal wall retractors or Breisky vaginal retractors. Yankauer or other suction tips also can aid viewing. In general, cervical lacerations of 1 to 2 cm are not repaired unless they are bleeding. Such tears heal rapidly and ultimately form an irregular, sometimes stellate-appearing, external cervical os (Fig. 36-1, p. 635). Deep cervical tears usually require surgical repair. When the laceration is limited to the cervix or even when it extends somewhat into the vaginal
 
-Risks for puerperal hematomas include vaginal or perineal laceration,
-episiotomy, or operative vaginal delivery (Iskender, 2016). Any hematoma
-can also develop following stretch and rupture of a blood vessel without an
-associated laceration (Alturki, 2018; Lee, 2020). This may be especially true
+fornix, satisfactory results are obtained by suturing the cervix after bringing it into view as depicted in Figure 42-10. While cervical lacerations are repaired, any associated vaginal lacerations or an episiotomy may be tamponaded with gauze packs to arrest their bleeding. Because hemorrhage usually comes from the upper angle of the wound, the first suture using 2–0 chromic or polyglactin is placed in tissue above the angle. Subsequently, either interrupted or continuous locking sutures are serially placed outward toward the operator. If the uterus is involved and hemorrhage persists, some of the surgical and angiographic methods described in Chapter 44 (p. 777) may be necessary to obtain hemostasis. Following cervical lacerations, subsequent pregnancy outcomes include excessive recurrent lacerations, cervical incompetence, preterm labor, cesarean delivery, and severe perineal lacerations (Hamou, 2020).
 
-with forceps delivery. Occasionally, they are associated with an underlying
-coagulopathy (Chap. 44, p. 775).
+> **Figure 42-10:** Repair of cervical laceration with appropriate surgical exposure. Continuous absorbable sutures are placed beginning at the upper angle of the laceration.
 
-Diagnosis
-Perineal, vulvar, and paravaginal hematomas can develop rapidly and
-frequently cause excruciating pain (Fig. 42-12). A tense, tender swelling of
-varying size rapidly develops, encroaches on the vaginal lumen, and causes
-overlying skin or epithelium to become ecchymotic. A paravaginal hematoma
-may escape detection initially. However, symptoms of pelvic pressure, pain,
-or inability to void should prompt evaluation. Others may go undetected until
-other measures of hypovolemia become evident. With a supralevator
-extension, the hematoma extends upward in the paravaginal space and
-between the leaves of the broad ligament. The hematoma may escape
-detection until it can be felt on abdominal palpation or until hypovolemia
-develops. Imaging with sonography or computed tomographic scanning may
-be useful (Cichowski, 2017; Kawamura, 2014).
+### Puerperal Hematomas
 
-FIGURE 42-12 Right vulvar hematoma that required evacuation. A Foley catheter was placed for
-bladder drainage. (Reproduced with permission from Dr. Emily H. Adhikari.)
+Pelvic hematomas can have several anatomical manifestations following childbirth. One classification is anatomical and describes vulvar, vulvovaginal, paravaginal, and retroperitoneal hematomas. Vulvar hematomas may involve the vestibular bulb or branches of the pudendal artery, which are the inferior rectal, perineal, and clitoral arteries (Fig. 4211). Paravaginal hematomas may involve the descending branch of the uterine artery. In some cases, a torn vessel lies above the pelvic fascia, and a
 
-Management
-Small hematomas often remain contained and show minimal expansion. In
-others, the tissues overlying an expanding hematoma may rupture from
-pressure necrosis. In some, profuse hemorrhage may follow, but in other
-cases, the hematoma drains in the form of large clots and old blood. In those
-that involve the paravaginal space and extend above the levator sling,
-retroperitoneal bleeding may be massive and occasionally fatal. In rare
-instances, we encountered hematomas that rebled up to 2 weeks postpartum
-(Cunningham, 2017).
-Vulvovaginal hematomas are managed according to their size, location,
-duration since delivery, and expansion. If bleeding ceases, then small- to
-moderate-sized hematomas may be treated expectantly until absorbed. Cool
-packs and analgesics are supportive care, and an inability to void merits
-catheter drainage. But, if pain is severe or if the hematoma continues to
-enlarge, surgical exploration is preferable. Blood loss with large puerperal
-hematomas is nearly always considerably more than the clinical estimate.
-Hypovolemia is common, and transfusions are frequently required when
-surgical repair is necessary.
-For repair, an incision is made at the point of maximal distention, blood
-and clots are evacuated, and bleeding points ligated. Often, no distinct
-bleeding vessels are identified. The cavity may then be obliterated in layers
-with absorbable sutures. With this, layered tissue closure acts to tamponade
-low-pressure bleeding. With vaginal hematomas, the vagina is packed with 1
-to 2 gauze roll(s) for 12 to 24 hours, and the number of rolls is recorded.
-Supralevator hematomas are more difficult to treat. Although some can be
-evacuated by vulvar or vaginal incisions, laparotomy or angiographic
-embolization are considerations if bleeding continues.
-Embolization has become popular for management of some puerperal
-hematomas. This is especially true for supralevator or retroperitoneal
-hematomas. Embolization can be used primarily, or more likely secondarily,
-if surgical attempts at hemostasis have failed or if the hematoma is difficult
-to access surgically (Distefano, 2013; Lee, 2012; Poujade, 2012). The use of
-a Bakri balloon for a paracervical hematoma also has been described
-(Gizzo, 2013; Grönvall, 2014). Last, ultrasound-guided drainage of a
-recurrent supralevator hematoma has been reported (Mukhopadhyay, 2015).
+supralevator hematoma develops. These can extend into the upper portion of the vaginal canal and may almost occlude its lumen. Continued bleeding may dissect retroperitoneally to form a mass palpable above the inguinal ligament. In some cases, it may even dissect up behind the ascending colon to the hepatic flexure (Rafi, 2010).
 
-UTERINE RUPTURE
-■ Predisposing Factors
-Uterine rupture is another event that may lead to potentially catastrophic
-hemorrhage. Rupture may be primary, defined as occurring in a previously
-intact or unscarred uterus. More often, rupture is secondary and associated
-with a preexisting incision, anomaly, or injury of the myometrium (Table 423).
-TABLE 42-3. Some Causes of Uterine Rupture
+> **Figure 42-11:** Schematic drawing showing types of puerperal hematomas. A. Coronal view showing a supralevator hematoma. B. Coronal view showing a hematoma in the urogenital triangle. C. Perineal view showing anal triangle anatomy and an ischioanal fossa hematoma. (Reproduced with permission from Cunningham FG: Genital tract lacerations and hematomas. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, NY: McGraw Hill; 2017a.)
 
-The contribution of each of these underlying causes has evolved during
-the past 50 years. Before 1960, when cesarean delivery was infrequent and
-women of great parity were numerous, primary uterine rupture predominated.
-As the incidence of cesarean delivery rose, and especially as a subsequent
-trial of labor in these women became prevalent through the 1990s, uterine
-rupture through the cesarean hysterotomy scar became the preeminent cause
-(Chang, 2020; Gibbins, 2015; Mone, 2016).
-Concurrent with the diminished enthusiasm for a trial of labor after
-cesarean delivery (TOLAC), incidence trends for the two types of rupture
-have again changed. In a study of 3942 cases of uterine rupture in more than
-15 million women, only approximately half were in women with a prior
+Risks for puerperal hematomas include vaginal or perineal laceration, episiotomy, or operative vaginal delivery (Iskender, 2016). Any hematoma can also develop following stretch and rupture of a blood vessel without an associated laceration (Alturki, 2018; Lee, 2020). This may be especially true
 
-cesarean delivery (Yao, 2017). The International Network of Obstetric
-Survey Systems (INOSS) identified 864 complete uterine ruptures in more
-than 2.6 million deliveries (Vanderberghe, 2019). The overall prevalence
-was 3 cases per 10,000 births. In women without a prior cesarean delivery,
-the prevalence was 0.6 per 10,000 births, and it was 22 per 10,000 in those
-with a prior cesarean delivery. This is similar to the recent overall rate of 5
-cases per 10,000 births at Parkland Hospital. During this time, there were 40
-cases of uterine rupture, and despite a very conservative TOLAC policy, 25
-of the 40 events were in women with a prior hysterotomy.
-The current lower incidence of women of great parity also has lowered
-the primary-rupture rate. In this regard, advancing maternal age may be a
-greater risk factor (Hochler, 2020). Another risk is excessive or
-inappropriate uterine stimulation with oxytocin. This previously frequent
-cause has mostly disappeared. In an analysis of three trials comparing
-contemporaneous high- and low-dose oxytocin regimens for labor induction
-in those with an unscarred uterus, the rate of uterine rupture did not differ
-between groups (Budden, 2014). The rate of rupture, however, is increased
-with sequential induction of labor with prostaglandins and oxytocin in those
-both with and without prior cesarean delivery (Al-Zirqi, 2017).
-Other operations that traumatize the myometrium include uterine curettage
-or perforation, endometrial ablation, myomectomy, operative hysteroscopy,
-or prior uterine rupture (Frank, 2018; Zhao, 2019). Uterine rupture is also
-linked with disorders associated with connective tissue weakness
-(Cauldwell, 2019a,b; Noh, 2013). Another report described rupture in a
-woman with prior childhood pelvic radiotherapy (Huarte Cignada, 2020).
-Blunt abdominal trauma also can rupture a substantially gravid uterus
-(Miller, 1996). Thus, pregnant women in the later second- and third
-trimesters who sustain such trauma are ideally monitored for signs of uterine
-rupture. Specific monitoring protocols are outlined in Chapter 50 (p. 896).
-Uncommon causes today are those due to internal podalic version and
-extraction, difficult forceps delivery, breech extraction, and unusual fetal
-enlargement such as with hydrocephalus. In one unusual case, fundal rupture
-followed spontaneous labor in a woman with an abdominal cerclage
-(Dandapani, 2019). Rupture associated with multifetal pregnancy or uterine
-anomalies also is rare (Bankada, 2015; Tarney, 2013; Tola, 2014). Although
-rare, rudimentary uterine horns are especially susceptible and described in
+with forceps delivery. Occasionally, they are associated with an underlying coagulopathy (Chap. 44, p. 775).
 
-Chapter 3 (p. 43). Discussed in Chapter 43 (p. 760), placenta percreta may
-cause focal myometrial weakness and rupture (Sun, 2016).
+Diagnosis Perineal, vulvar, and paravaginal hematomas can develop rapidly and frequently cause excruciating pain (Fig. 42-12). A tense, tender swelling of varying size rapidly develops, encroaches on the vaginal lumen, and causes overlying skin or epithelium to become ecchymotic. A paravaginal hematoma may escape detection initially. However, symptoms of pelvic pressure, pain, or inability to void should prompt evaluation. Others may go undetected until other measures of hypovolemia become evident. With a supralevator extension, the hematoma extends upward in the paravaginal space and between the leaves of the broad ligament. The hematoma may escape detection until it can be felt on abdominal palpation or until hypovolemia develops. Imaging with sonography or computed tomographic scanning may be useful (Cichowski, 2017; Kawamura, 2014).
 
-■ Pathogenesis
-Rupture of the previously intact uterus during labor most often involves the
-thinned-out lower uterine segment. When the rent is in the immediate vicinity
-of the cervix, it frequently extends transversely or obliquely. When the rent
-forms in the portion of the uterus adjacent to the broad ligament, the tear is
-usually longitudinal (Fig. 42-13). Although these tears develop primarily in
-the lower uterine segment, they can extend upward into the active segment or
-downward through the cervix and into the vagina. In some cases, the bladder
-also may be lacerated.
+> **Figure 42-12:** Right vulvar hematoma that required evacuation. A Foley catheter was placed for bladder drainage. (Reproduced with permission from Dr. Emily H. Adhikari.)
 
-FIGURE 42-13 Peripartum hysterectomy specimen. A right broad ligament hematoma is seen lateral
-to the closed hysterotomy incision and medial to the ovary. (Reproduced with permission from Dr. Emily
-H. Adhikari.)
+Management Small hematomas often remain contained and show minimal expansion. In others, the tissues overlying an expanding hematoma may rupture from pressure necrosis. In some, profuse hemorrhage may follow, but in other cases, the hematoma drains in the form of large clots and old blood. In those that involve the paravaginal space and extend above the levator sling, retroperitoneal bleeding may be massive and occasionally fatal. In rare instances, we encountered hematomas that rebled up to 2 weeks postpartum (Cunningham, 2017). Vulvovaginal hematomas are managed according to their size, location, duration since delivery, and expansion. If bleeding ceases, then small- to moderate-sized hematomas may be treated expectantly until absorbed. Cool packs and analgesics are supportive care, and an inability to void merits catheter drainage. But, if pain is severe or if the hematoma continues to enlarge, surgical exploration is preferable. Blood loss with large puerperal hematomas is nearly always considerably more than the clinical estimate. Hypovolemia is common, and transfusions are frequently required when surgical repair is necessary. For repair, an incision is made at the point of maximal distention, blood and clots are evacuated, and bleeding points ligated. Often, no distinct bleeding vessels are identified. The cavity may then be obliterated in layers with absorbable sutures. With this, layered tissue closure acts to tamponade low-pressure bleeding. With vaginal hematomas, the vagina is packed with 1 to 2 gauze roll(s) for 12 to 24 hours, and the number of rolls is recorded. Supralevator hematomas are more difficult to treat. Although some can be evacuated by vulvar or vaginal incisions, laparotomy or angiographic embolization are considerations if bleeding continues. Embolization has become popular for management of some puerperal hematomas. This is especially true for supralevator or retroperitoneal hematomas. Embolization can be used primarily, or more likely secondarily, if surgical attempts at hemostasis have failed or if the hematoma is difficult to access surgically (Distefano, 2013; Lee, 2012; Poujade, 2012). The use of a Bakri balloon for a paracervical hematoma also has been described (Gizzo, 2013; Grönvall, 2014). Last, ultrasound-guided drainage of a recurrent supralevator hematoma has been reported (Mukhopadhyay, 2015).
 
-If the rupture is of sufficient size, the uterine contents will usually escape
-into the peritoneal cavity. If the presenting fetal part is firmly engaged,
-however, then only a portion of the fetus may be extruded from the uterus.
+## Uterine Rupture
 
-Fetal prognosis is largely dependent on the size of the rent, the degree of
-placental separation, the magnitude of maternal hypovolemia, and the
-rapidity of diagnosis and response (Al-Zirqi, 2018; Rottenstreich, 2021). In
-some cases, the overlying peritoneum remains intact, and this usually is
-accompanied by hemorrhage that extends into the broad ligament to cause a
-large retroperitoneal hematoma.
-Following vaginal delivery in an unscarred uterus, we and others have
-occasionally encountered cases of an incomplete tear on the inside of the
-uterus that extends vertically into the active segment to cause profuse
-hemorrhage (Conrad, 2015). These tears are usually not visible from below
-but are found at the time of hysterectomy for intractable bleeding despite a
-contracted uterus. Hemorrhage with this type of tear can be torrential, and
-bleeding is usually not slowed until the uterine artery pedicles are clamped
-bilaterally.
+### Predisposing Factors
 
-■ Management and Outcomes
-The varied clinical presentations of uterine rupture and its management are
-discussed in detail in Chapter 31 (p. 579). In the most recent national
-maternal mortality statistics, uterine rupture accounted for nearly 10 percent
-of hemorrhage-associated deaths (Creanga, 2015, 2017). Maternal morbidity
-includes hysterectomy that may be necessary to control hemorrhage. Rates of
-perinatal mortality and morbidity, which may include severe neurological
-impairment, also are high (Al-Zirqi, 2018; Rottenstreich, 2021). Table 42-4
-lists some perinatal outcomes in 72 women with uterine rupture. Last,
-maternal obesity comorbid with uterine rupture is associated with increased
-rates of adverse neonatal outcomes (Yao, 2017). With prior rupture and a
-subsequent pregnancy, Fox (2020) recommends cesarean delivery prior to
-labor or at the onset of preterm labor.
-TABLE 42-4. Some Maternal and Perinatal Outcomes in 72 Women with
-Uterine Rupture
+Uterine rupture is another event that may lead to potentially catastrophic hemorrhage. Rupture may be primary, defined as occurring in a previously intact or unscarred uterus. More often, rupture is secondary and associated with a preexisting incision, anomaly, or injury of the myometrium (Table 423).
 
-AMNIONIC FLUID EMBOLISM
-■ Pathophysiology
-This syndrome usually is caused by intravenous embolization of meconiumladen amnionic fluid. It results in rapid cardiorespiratory collapse and
-profound consumptive coagulopathy. The understanding of the mechanism of
-injury for amnionic fluid embolism (AFE) has evolved. Early theories
-proposed that amnionic fluid and debris entered the maternal circulation and
-obstructed pulmonary artery flow, which led to hypoxia, right heart failure,
-and death. However, during normal delivery, amnionic fluid commonly enters
+> **Table 42-3:** Some Causes of Uterine Rupture
 
-maternal circulation through venous channels at the placental implantation
-site or small lacerations. Accordingly, squames, fetal cells, and trophoblasts
-can often be identified in maternal peripheral blood at delivery (Clark, 1986;
-Lee, 1986). And, at least in experimental animals, infused clear amnionic
-fluid is generally innocuous, even in large amounts (Adamsons, 1971; Stolte,
-1967).
-Instead, meconium-laden amnionic fluid is likely a potent cause of
-symptomatic AFE (Hankins, 1993). Disruption of the maternal-fetal interface
-allows material from the fetal compartment to enter maternal circulation.
-This dyad leads to abnormal activation of proinflammatory mediator systems,
-similar to the systemic inflammatory response syndrome (SIRS), and causes
-initial, transient pulmonary vasoconstriction and hypertension (Bernstein,
-2019). Pulmonary hypertension causes acute right ventricular failure, which
-is followed by hemodynamic collapse from right ventricular infarction,
-interventricular septum displacement, and decreased left-sided cardiac
-output (Pacheco, 2020). This right and then left ventricular dysfunction leads
-to cardiogenic pulmonary edema and systemic hypotension. Acute respiratory
-failure with severe hypoxemia from shunting develops. Notably, the resulting
-multiorgan dysfunction is an interrelated process, with both the cardiac and
-pulmonary systems affecting each other.
-Women who survive beyond these first phases invariably develop the
-third component of the classic triad—a consumptive coagulopathy. Material
-from the fetal compartment that contains tissue factor then activates factor
-VII. This leads to the development of disseminated intravascular coagulation.
-The rapidity of the coagulopathy is amazing (Fig. 42-14).
+The contribution of each of these underlying causes has evolved during the past 50 years. Before 1960, when cesarean delivery was infrequent and women of great parity were numerous, primary uterine rupture predominated. As the incidence of cesarean delivery rose, and especially as a subsequent trial of labor in these women became prevalent through the 1990s, uterine rupture through the cesarean hysterotomy scar became the preeminent cause (Chang, 2020; Gibbins, 2015; Mone, 2016). Concurrent with the diminished enthusiasm for a trial of labor after cesarean delivery (TOLAC), incidence trends for the two types of rupture have again changed. In a study of 3942 cases of uterine rupture in more than 15 million women, only approximately half were in women with a prior
 
-FIGURE 42-14 Fatal amnionic fluid embolism. Results of some coagulation studies show an abrupt
-drop in plasma fibrinogen levels and platelet count but an extremely elevated serum fibrin split product
-level.
+cesarean delivery (Yao, 2017). The International Network of Obstetric Survey Systems (INOSS) identified 864 complete uterine ruptures in more than 2.6 million deliveries (Vanderberghe, 2019). The overall prevalence was 3 cases per 10,000 births. In women without a prior cesarean delivery, the prevalence was 0.6 per 10,000 births, and it was 22 per 10,000 in those with a prior cesarean delivery. This is similar to the recent overall rate of 5 cases per 10,000 births at Parkland Hospital. During this time, there were 40 cases of uterine rupture, and despite a very conservative TOLAC policy, 25 of the 40 events were in women with a prior hysterotomy. The current lower incidence of women of great parity also has lowered the primary-rupture rate. In this regard, advancing maternal age may be a greater risk factor (Hochler, 2020). Another risk is excessive or inappropriate uterine stimulation with oxytocin. This previously frequent cause has mostly disappeared. In an analysis of three trials comparing contemporaneous high- and low-dose oxytocin regimens for labor induction in those with an unscarred uterus, the rate of uterine rupture did not differ between groups (Budden, 2014). The rate of rupture, however, is increased with sequential induction of labor with prostaglandins and oxytocin in those both with and without prior cesarean delivery (Al-Zirqi, 2017). Other operations that traumatize the myometrium include uterine curettage or perforation, endometrial ablation, myomectomy, operative hysteroscopy, or prior uterine rupture (Frank, 2018; Zhao, 2019). Uterine rupture is also linked with disorders associated with connective tissue weakness (Cauldwell, 2019a,b; Noh, 2013). Another report described rupture in a woman with prior childhood pelvic radiotherapy (Huarte Cignada, 2020). Blunt abdominal trauma also can rupture a substantially gravid uterus (Miller, 1996). Thus, pregnant women in the later second- and third trimesters who sustain such trauma are ideally monitored for signs of uterine rupture. Specific monitoring protocols are outlined in Chapter 50 (p. 896). Uncommon causes today are those due to internal podalic version and extraction, difficult forceps delivery, breech extraction, and unusual fetal enlargement such as with hydrocephalus. In one unusual case, fundal rupture followed spontaneous labor in a woman with an abdominal cerclage (Dandapani, 2019). Rupture associated with multifetal pregnancy or uterine anomalies also is rare (Bankada, 2015; Tarney, 2013; Tola, 2014). Although rare, rudimentary uterine horns are especially susceptible and described in
 
-To those who succumb, postmortem histopathological findings may be
-obvious. However, detection of squames and keratin may require special
-stains, and even then, debris may not be seen. In one study, fetal elements
-were detected in 75 percent of autopsies and in 50 percent of specimens
-prepared from concentrated buffy coat aspirates taken antepartum from a
-pulmonary artery catheter (Clark, 1995).
+Chapter 3 (p. 43). Discussed in Chapter 43 (p. 760), placenta percreta may cause focal myometrial weakness and rupture (Sun, 2016).
 
-■ Incidence and Risk Factors
-Most reports describe an AFE frequency of 1 to 2 cases per 100,000 births
-(Clark, 2014; Fitzpatrick, 2019; Knight, 2010). The case-fatality rate in all of
-these studies ranges from 11 to 43 percent. From another perspective, AFE
-caused 5 to 15 percent of all pregnancy-related deaths in the United States,
-Canada, and France (Bonnet, 2018; Kramer, 2012; Petersen, 2019).
-Predisposing conditions are rapid labor, meconium-stained amnionic
-fluid, and tears into uterine and other large pelvic veins that permit an
+### Pathogenesis
 
-exchange of fluids between the maternal and fetal compartment (Society of
-Maternal-Fetal Medicine, 2016). Other commonly cited risks include older
-maternal age; postterm pregnancy; labor induction or augmentation;
-eclampsia; cesarean, forceps, or vacuum delivery; placental abruption or
-previa; and hydramnios (Indraccolo, 2018; Knight, 2012; Kramer, 2012). The
-associations of uterine hypertonus appears to be the effect rather than the
-cause because uterine blood flow ceases when intrauterine pressures exceed
-35 to 40 mm Hg. Thus, a hypertonic contraction would be the least likely
-circumstance for amnionic fluid and other debris to enter uterine veins
-(Clark, 1985). For this reason, hypertonus from oxytocin does not seem
-implicated.
+Rupture of the previously intact uterus during labor most often involves the thinned-out lower uterine segment. When the rent is in the immediate vicinity of the cervix, it frequently extends transversely or obliquely. When the rent forms in the portion of the uterus adjacent to the broad ligament, the tear is usually longitudinal (Fig. 42-13). Although these tears develop primarily in the lower uterine segment, they can extend upward into the active segment or downward through the cervix and into the vagina. In some cases, the bladder also may be lacerated.
 
-■ Diagnosis
-The classic triad of abrupt hemodynamic and respiratory compromise along
-with consumptive coagulopathy underpins its diagnosis (Pacheco, 2020).
-Proposed criteria for AFE diagnosis are shown in Table 42-5. In a French
-study, only 60 percent of women with autopsy-confirmed AFE had all four
-criteria (Bonnet, 2018). The classic example is dramatic, and a woman in the
-late stages of labor or immediately postpartum begins gasping for air.
-Seizures or cardiorespiratory arrest rapidly follow and are accompanied by
-massive hemorrhage from consumptive coagulopathy (Bernstein, 2019;
-Tanaka, 2017). Clinical manifestations vary, and we and others have
-managed several women in whom otherwise uncomplicated vaginal or
-cesarean delivery was followed by severe acute consumptive coagulopathy
-without overt cardiorespiratory difficulties. In these women, consumptive
-coagulopathy appears to be the forme fruste of AFE (Kramer, 2012; Porter,
-1996).
-TABLE 42-5. Diagnostic Criteria for Amnionic Fluid Embolism
+> **Figure 42-13:** Peripartum hysterectomy specimen. A right broad ligament hematoma is seen lateral to the closed hysterotomy incision and medial to the ovary. (Reproduced with permission from Dr. Emily H. Adhikari.)
 
-In such cases, other sources of acute cardiac or respiratory failure should
-be considered. These include myocardial infarction, pulmonary or air
-embolism, high spinal blockage, eclampsia, and anaphylactic shock
-(Bernstein, 2019). In some cases, the temporal relationship of events aids
-diagnosis. Unfortunately, no specific diagnostic laboratory test confirms
-or refutes the diagnosis of AFE, and it remains a clinical diagnosis.
-Importantly, women suffering from excessive blood loss and resulting
-coagulopathy may be misdiagnosed with AFE, when the true culprit is
-unrecognized or underappreciated hemorrhage (Clark, 2016). In either event,
-a woman with cardiopulmonary compromise should receive immediate
-resuscitation (Society for Maternal-Fetal Medicine, 2016).
+If the rupture is of sufficient size, the uterine contents will usually escape into the peritoneal cavity. If the presenting fetal part is firmly engaged, however, then only a portion of the fetus may be extruded from the uterus.
 
-■ Management
-The initial period of systemic and pulmonary hypertension with AFE is
-transient. Thus, immediate high-quality cardiopulmonary resuscitation and
-advanced cardiac life support must be initiated without delay (Pacheco,
-2020; Society for Maternal-Fetal Medicine, 2016). These are discussed in
-detail in Chapter 50 (p. 897). Coagulopathy is managed as described in
-Chapter 44 (p. 777).
-If resuscitation is successful, hemodynamic instability is common in
-survivors. Both fever and hyperoxia will worsen ischemia-reperfusion injury
-to the brain. A suitable goal for temperature is 36°C and for mean arterial
-pressure is 65 mm Hg (Society for Maternal-Fetal Medicine, 2016).
-Additional supportive care measures such as intubation are usually
-necessary. During the phase of right ventricular failure, inotropic agents such
-as dobutamine may improve right heart output, and later systemic hypotension
+Fetal prognosis is largely dependent on the size of the rent, the degree of placental separation, the magnitude of maternal hypovolemia, and the rapidity of diagnosis and response (Al-Zirqi, 2018; Rottenstreich, 2021). In some cases, the overlying peritoneum remains intact, and this usually is accompanied by hemorrhage that extends into the broad ligament to cause a large retroperitoneal hematoma. Following vaginal delivery in an unscarred uterus, we and others have occasionally encountered cases of an incomplete tear on the inside of the uterus that extends vertically into the active segment to cause profuse hemorrhage (Conrad, 2015). These tears are usually not visible from below but are found at the time of hysterectomy for intractable bleeding despite a contracted uterus. Hemorrhage with this type of tear can be torrential, and bleeding is usually not slowed until the uterine artery pedicles are clamped bilaterally.
 
-should be treated with vasopressors such as norepinephrine. Excess fluid
-administration is discouraged because it can worsen dilation of an already
-engorged right ventricle, which may cause right-sided myocardial infarction
-and interventricular septum displacement.
-Extracorporeal membrane oxygenation (ECMO) has been described in
-the treatment of AFE (Bernstein, 2019; Webster, 2020). Further discussed in
-Chapter 50 (p. 886), venovenous ECMO is used for severe hypoxemic
-respiratory failure, without right or left ventricular failure. Venoarterial
-ECMO is less readily available and used for impending cardiac arrest and
-ventricular failure. One recent review of outcomes in 20 women with AFE
-managed with ECMO reported a maternal mortality rate of only 15 percent.
-The authors concluded that publication biases may have overestimated the
-favorable outcomes (Viau-Lapointe, 2019).
-Either immediately after cardiopulmonary collapse or during the ensuing
-phases of injury, a coagulopathy develops in most cases from activation of
-factor VII and X. This may be exacerbated by ongoing hemorrhage, and a
-common source is uterine atony. Thus, immediate evaluation of coagulation
-parameters is indicated with concurrent management of bleeding.
+### Management and Outcomes
 
-■ Clinical Outcomes
-Most reports describe significant maternal and perinatal mortality with AFE.
-This is likely influenced by underdiagnosis and reporting biases that favor
-the most severe cases with the highest mortality rates. From a California
-database of 1.1 million deliveries, the mortality rate with AFE was 60
-percent (Gilbert, 1999). In the INOSS database, maternal mortality rates
-ranged from 30 to 41 percent (Fitzpatrick, 2019). Death can be rapid, and in
-one study, 12 of the 34 women died within 30 minutes (Weiwen, 2000). The
-mortality rate is highest in women who present with cardiac arrest—89
-percent (Fitzpatrick, 2019).
-Survivors commonly have profound neurological impairment. Clark
-(1995) observed that only 8 percent of women who lived despite cardiac
-arrest survived without neurological injury. In a report of 20 cases, the
-maternal mortality rate was 15 percent, and 40 percent of survivors had
-neurological disability (Skolnik, 2019). Overall, the prognosis appears to be
-more associated with disease severity and the attendant cardiac arrest than
-with any specific treatment modality (Clark, 2014; Fitzpatrick, 2019).
+The varied clinical presentations of uterine rupture and its management are discussed in detail in Chapter 31 (p. 579). In the most recent national maternal mortality statistics, uterine rupture accounted for nearly 10 percent of hemorrhage-associated deaths (Creanga, 2015, 2017). Maternal morbidity includes hysterectomy that may be necessary to control hemorrhage. Rates of perinatal mortality and morbidity, which may include severe neurological impairment, also are high (Al-Zirqi, 2018; Rottenstreich, 2021). Table 42-4 lists some perinatal outcomes in 72 women with uterine rupture. Last, maternal obesity comorbid with uterine rupture is associated with increased rates of adverse neonatal outcomes (Yao, 2017). With prior rupture and a subsequent pregnancy, Fox (2020) recommends cesarean delivery prior to labor or at the onset of preterm labor.
 
-As perhaps expected, perinatal outcomes also are poor and are inversely
-related to the maternal cardiac arrest-to-delivery interval. Even so, the
-neonatal survival rate is 70 percent, but unfortunately, up to half of survivors
-suffer residual neurological impairment. In a Canadian study, 28 percent of
-neonates were considered to be asphyxiated at birth (Kramer, 2012).
+> **Table 42-4:** Some Maternal and Perinatal Outcomes in 72 Women with Uterine Rupture
 
-REFERENCES
-Adamsons K, Mueller-Heubach E, Myers RE: The innocuousness of amniotic fluid infusion in the
-pregnant rhesus monkey. Am J Obstet Gynecol 109:977, 1971
-Adnan N, Conian-Trant R, McCormick C, et al: Intramuscular versus intravenous oxytocin to prevent
-postpartum haemorrhage at vaginal delivery: randomised controlled trial. BMJ 362:k3546, 2018
-Al-Kadri HM, Al Anazi BK, Tamin HM: Visual estimation versus gravimetric measurement of
-postpartum blood loss: a prospective cohort study. Arch Gynecol Obstet 283(6):1207, 2011
-Alliance for Innovation on Maternal Health: Obstetric hemorrhage patient safety bundle. 2015. Available
-at: https://safehealthcareforeverywoman.org/aim/patient-safety-bundles/maternal-safetybundles/obstetric-hemorrahage-patient-safety-bundle-2/. Accessed February 27, 2021
-Al-Zirqi I, Daltveit AK, Forsén L, et al: Risk factors for complete uterine rupture. Am J Obstet Gynecol
-216(2):165.el, 2017
-Al-Zirqi I, Daltveit AK, Vangen S: Infant outcome after complete uterine rupture. Am J Obstet Gynecol
-219:109.el, 2018
-Al-Zirqi I, Vangen S, Forsen L, et al: Prevalence and risk factors of severe obstetric haemorrhage.
-BJOG 115:1265, 2008
-Alturki F, Ponette V, Boucher LM: Spontaneous retroperitoneal hematomas following uncomplicated
-vaginal deliveries: a case report and literature review. J Obstet Gynaecol Can 40(6):712, 2018
-American College of Obstetricians and Gynecologists: Postpartum hemorrhage. Practice Bulletin No.
-183, October 2017, Reaffirmed 2019a
-American College of Obstetricians and Gynecologists: Quantitative blood loss in obstetric hemorrhage.
-Committee Opinion No. 794, November, 2019b
-American College of Obstetricians and Gynecologists: Prevention and management of obstetric
-lacerations at vaginal delivery. Practice Bulletin No. 198, August 2018, Reaffirmed 2020a
-American College of Obstetricians and Gynecologists: Use of prophylactic antibiotics in labor and
-delivery. Practice Bulletin No. 199, August 2018, Reaffirmed 2020b
-Antony KM, Racusin DA, Belfort MA, et al: Under pressure: intraluminal filling pressures of
-postpartum hemorrhage tamponade balloons. AJP Rep 7(2):e86, 2017
-Association of Women’s Health, Obstetric and Neonatal Nurses: Guidelines for oxytocin administration
-after birth. AWHONN PB No. 2 JOGNN 44:161, 2014
-Babinszki A, Kerenyi T, Torok O, et al: Perinatal outcome in grand and great-grand multi parity: effects
-of parity on obstetric risk factors. Am J Obstet Gynecol 181:669, 1999
-Bailit JL, Grobman WA, Rice MM, et al: Risk-adjusted models for adverse obstetric outcomes and
-variation in risk-adjusted outcomes across hospitals. Am J Obstet Gynecol 209(5):446.e1, 2013
-Bankada V, Purra P, Ningappa AM, et al: A rare case of bilateral broad ligament haematoma in twin
-pregnancy. J Clin Diagn Res 9(10):QD03, 2015
+## Amnionic Fluid Embolism
 
-Berg CJ, Callaghan WM, Syverson C, et al: Pregnancy-related mortality in the United States, 1998–
-2005. Obstet Gynecol 116(6):1302, 2010
-Berg CJ, MacKay AP, Qin C, et al: Overview of maternal morbidity during hospitalizations for labor and
-delivery in the United States. 1993–1997 and 2001–2005. Obstet Gynecol 113(5):1075, 2009
-Bernstein SN, Cudemus-Deseda GA, Ortiz V E, et al: Case 33–2019: a 35-year old woman with
-cardiopulmonary arrest during cesarean section. N Engl J Med 381(17):1664, 2019
-Bhandari S, Raja EA, Shetty A, et al: Maternal and perinatal consequences of antepartum haemorrhage
-of unknown origin. BJOG 121(1):44, 2014
-Blitz MJ, Yukhayev A, Pachtman SL, et al: Twin pregnancy and risk of postpartum hemorrhage. J
-Matern Fetal Neonatal Med 5:1, 2019
-Bonnet MP, Zlotnik D, Saucedo M, et al: Maternal death due to amniotic fluid embolism: a national study
-in France. Anesth Analg 126(1):175, 2018
-Budden A, Chen LJ, Henry A: High-dose versus low-dose oxytocin infusion regimens for induction of
-labour at term. Cochrane Database Syst Rev 10:CD009701, 2014
-Catanzarite VA, Moffitt KD, Baker ML: New approaches to the management of acute puerperal
-uterine inversion. Obstet Gynecol 68(3 Suppl):7S, 1986
-Cauldwell M, Steer PJ, Curtis SL: Maternal and fetal outcomes in pregnancies complicated by Marfan
-syndrome. Heart 105(22):1725, 2019a
-Cauldwell M, Steer PJ, Curtis S, et al: Maternal and fetal outcomes in pregnancies complicated by the
-inherited aortopathy Loeys-Dietz syndrome. BJOG 126(8):1025, 2019b
-Chang YH: Uterine rupture over 11 years: a retrospective descriptive study. Aust N Z J Obstet
-Gynaecol 60(5):709, 2020
-Chibueze EC, Parsons AJ, Ota E, et al: Prophylactic antibiotics for manual removal of retained placenta
-during vaginal birth: a systematic review of observational studies and meta-analysis. BMC
-Pregnancy Childbirth 15:313, 2015
-Chu T, Rodriguez AN, Kleinmann W, et al: Correlation of postpartum hemorrhage risk stratification with
-calculated blood loss greater than 1000 milliliters. Abstract No. 1092, Am J Obstet Gynecol
-222(1):S673, 2020
-Cichowski S, Rogers RG: Managing complications of perineal lacerations. Contemp Ob/Gyn 62:22, 2017
-Clark SL: Amniotic fluid embolism. Obstet Gynecol 123:337, 2014
-Clark SL, Hankins GD, Dudley DA, et al: Amniotic fluid embolism: analysis of the National Registry.
-Am J Obstet Gynecol 172:1158, 1995
-Clark SL, Pavlova Z, Greenspoon J, et al: Squamous cells in the maternal pulmonary circulation. Am J
-Obstet Gynecol 154:104, 1986
-Clark SL, Phelan JP, Yeh SY: Hypogastric artery ligation for obstetric hemorrhage. Obstet Gynecol
-66:353, 1985
-Clark SL, Romero R, Dildy GA, et al: Proposed diagnostic criteria for the case definition of amniotic
-fluid embolism in research studies. Am J Obstet Gynecol October, 2016
-Coad S, Dahlgren L, Hutcheson JA: Risk and consequences of puerperal uterine inversion in the United
-States, 2004–2013. Am J Obstet Gynecol 217:377, 2017
-Colalillo E, Sparks A, Phillips J, et al: Obstetric hemorrhage risk assessment tool predicts composite
-maternal morbidity. Sci Rep 11(1):14709, 2021
-Conrad LB, Groome KJ, Black DR: Management of persistent postpartum hemorrhage caused by inner
-myometrial lacerations. Obstet Gynecol 126(2):266, 2015
-Coviello E, Igbal S, Kawakita T, et al: Effect of implementing quantitative blood loss assessment at the
-time of delivery. Am J Perinatol 36(13):1332, 2019
+### Pathophysiology
 
-Creanga AA, Berg CJ, Syverson C, et al: Pregnancy-related mortality in the United States, 2006–2010.
-Obstet Gynecol 125(1):5, 2015
-Creanga AA, Berg CJ, Syverson C, et al: Pregnancy-related mortality in the United States, 2011–2013.
-Obstet Gynecol 130:366, 2017
-Cummings K, Doherty DA, Magann EF, et al: Timing of manual placenta removal to prevent postpartum
-hemorrhage: is it time to act? J Matern Fetal Neonatal Med 29(24):3930, 2016
-Cunningham FG: Genital tract lacerations and hematomas. In Yeomans ER, Hoffman BL, Gilstrap LC
-III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw Hill
-Education, 2017
-Dandapani M, Pflugner LP, Fanning NS: Uterine rupture at term in a patient with abdominal cerclage.
-Obstet Gynecol 133(5):940, 2019
-Deneux-Tharaux C, Sentilhes L, Maillard F, et al: Effect of routine controlled cord traction as part of the
-active management of the third stage of labour on postpartum hemorrhage: multicentre randomized
-controlled trial (TRACOR). BMJ 346:f1541, 2013
-Diaz V, Abalos E, Carroli G: Methods for blood loss estimation after vaginal birth. Cochrane Database
-Syst Rev. 9:CD010980, 2018
-Diemert A, Ortmeyer G, Hollwitz B, et al: The combination of intrauterine balloon tamponade and the
-B-Lynch procedure for the treatment of severe postpartum hemorrhage. Am J Obstet Gynecol
-206(1):65.e1, 2012
-Distefano M, Casarella L, Amoroso S, et al: Selective arterial embolization as a first-line treatment for
-postpartum hematomas. Obstet Gynecol 121(2 Pt 2 Supp I):443, 2013
-Driessen M, Bouvier-Colle MH, Dupont C, et al: Postpartum hemorrhage resulting from uterine atony
-after vaginal delivery. Factors associated with severity. Obstet Gynecol 117(1):21, 2011
-Ducloy-Bouthors AS, Jude B, Duhamel A: High-dose tranexamic acid reduces blood loss in postpartum
-haemorrhage. Crit Care 15(2):R117, 2011
-Dufour P, Vinatier D, Puech F: The use of intravenous nitroglycerin for cervico-uterine relaxation: a
-review of the literature. Arch Gynecol Obstet 261(1):1, 1997
-Einerson BD, Son M, Schneider P, et al: The association between intrauterine balloon tamponade
-duration and postpartum hemorrhage outcomes. Am J Obstet Gynecol 216:300.e1, 2017
-Fein A, Wen T, Wright JD, et al: Postpartum hemorrhage and risk for postpartum readmission. J Matern
-Fetal Neonatal 34(2):187, 2021
-Fitzpatrick KE, van den Akker T, Bloemenkamp KW, et al: Risk factors, management, and outcomes of
-amniotic fluid embolism: a multicountry, population-based cohort and nested case-control study.
-PLoS Med 16(11):e1002962, 2019
-Fong A, Wu E, Pan D, et al: Temporal trends and morbidities of vacuum, forceps, and combined use of
-both. J Matern Fetal Neonatal Med 27(8):1886, 2014
-Fox NS: Pregnancy outcomes in patients with prior uterine rupture or dehiscence: a 5-year update.
-Obstet Gynecol 135(1):211, 2020
-Frank ZC, Caughey AB: Pregnancy in women with a history of uterine rupture. Obstet Gynecol Surv
-73(12):703, 2018
-Frolova Al, Stout MJ, Tuuli MG, et al: Duration of the third stage of labor and risk of postpartum
-hemorrhage. Obstet Gynecol 127(5):951, 2016
-Gibbins KJ, Weber T, Holmgren CM, et al: Maternal and fetal morbidity associated with uterine rupture
-of the unscarred uterus. Am J Obstet Gynecol 213(3):382.e1, 2015
-Gilbert WM, Danielsen B: Amniotic fluid embolism: decreased mortality in a population-based study.
-Obstet Gynecol 93:973, 1999
+This syndrome usually is caused by intravenous embolization of meconiumladen amnionic fluid. It results in rapid cardiorespiratory collapse and profound consumptive coagulopathy. The understanding of the mechanism of injury for amnionic fluid embolism (AFE) has evolved. Early theories proposed that amnionic fluid and debris entered the maternal circulation and obstructed pulmonary artery flow, which led to hypoxia, right heart failure, and death. However, during normal delivery, amnionic fluid commonly enters
 
-Gizzo S, Saccardi C, Patrelli TS, et al: Bakri balloon in vaginal-perineal hematomas complicating vaginal
-delivery: a new therapeutic approach. J Low Genit Tract Dis 17:125, 2013
-Goffman D, Nathan L, Chazotte C: Obstetric hemorrhage: a global review. Semin Perinatol 40(2):96,
-2016
-Green L, Knight M, Seeney FM, et al: The epidemiology and outcomes of women with postpartum
-haemorrhage requiring massive transfusion with eight or more units of red cells: a national crosssectional study. BJOG 123(13):2164, 2016
-Grönvall M, Tikkanen M, Metsätähti M, et al: Pelvic arterial embolization in severe obstetric
-hemorrhage. Acta Obstet Gynecol Scand 93(7):716, 2014
-Haeri S, Rais S, Monks B: Intrauterine tamponade balloon use in the treatment of uterine inversion.
-BMJ Case Rep January 6, 2015
-Hamou B, Sheiner E, Coreanu T, et al: Intrapartum cervical lacerations and their impact on future
-pregnancy outcome. J Matern Fetal Neonatal Med 33(5):883, 2020
-Hankins GD, Berryman GK, Scott RT Jr, et al: Maternal arterial desaturation with 15-methyl
-prostaglandin F2 alpha for uterine atony. Obstet Gynecol 72: 367, 1988
-Hankins GD, Snyder RR, Clark SL, et al: Acute hemodynamic and respiratory effects of amniotic fluid
-embolism in the pregnant goat model. Am J Obstet Gynecol 168(4):1113, 1993
-Hernandez JS, Alexander JM, Sarode R, et al: Calculated blood loss in severe obstetric hemorrhage and
-its relation to body mass index. Am J Perinatol 29(7):557, 2012
-Hochler H, Wainstock T, Lipschuetz M, et al: Grandmultiparity, maternal age, and the risk for uterine
-rupture–a multicenter cohort study. Acta Obstet Gynecol Scand 99(2):267, 2020
-Hofmeyr GJ, Abdel-Aleem H, Abde1-A1eem MA: Uterine massage for preventing postpartum
-haemorrhage. Cochrane Database Syst Rev 7:CD006431, 2013
-Huarte Cignada M, Estaun Echavarren C, Garcia Jimenez A, et al: Spontaneous uterine rupture in the
-second trimester in a patient with previous pelvic radiotherapy in childhood: a case report. J Obstet
-Gynaecol Can 42(1):84, 2020
-Ida A, Ito K, Kubota Y, et al: Successful reduction of acute puerperal uterine inversion with the use of a
-Bakri postpartum balloon. Case Rep Obstet Gynecol 2015:424891, 2015
-Indraccolo U, Battistoni C, Mastrantonio I, et al: Risk factors for fatality in amniotic fluid embolism: a
-systematic review and analysis of a data pool. J Matern Fetal Neonatal Med 31(5):661, 2018
-Iskender C, Topcu HO, Timur H, et al: Evaluation of risk factors in women with puerperal genital
-hematomas. J Matern Fetal Neonatal Med 29(9):1435, 2016
-Kaplanoglu M, Kaplanoglu D, Bulbul M, et al: Inner myometrial laceration—an unusual presentation of
-antepartum and postpartum hemorrhage: case reports and review of the literature. J Matern Fetal
-Neonatal Med 29(16):2621, 2016
-Kawakita T, Mokhtari N, Huang JC, et al: Evaluation of risk assessment tools for severe postpartum
-hemorrhage in women undergoing cesarean delivery. Obstet Gynecol 134(6):1308, 2019
-Kawamura Y, Kondoh E, Hamanishi J, et al: Treatment decision- making for postpartum hemorrhage
-using dynamic contrast-enhanced computed tomography. J Obstet Gynaecol Res 40(1):67, 2014
-Kaya B, Guralp O, Tuten A, et al: Which uterine sparing technique should be used for uterine atony
-during cesarean section? The Bakri balloon or the B-Lynch suture? Arch Gynecol Obstet
-294(3):511, 2016
-Knight M, Berg C, Brocklehurst P, et al: Amniotic fluid embolism incidence, risk factors and outcomes: a
-review and recommendations. BMC Pregnancy Childbirth 12:7, 2012
-Knight M, Tuffnell D, Brocklehurst P, et al: Incidence and risk factors for amniotic-fluid embolism.
-Obstet Gynecol 115(5):910, 2010
+maternal circulation through venous channels at the placental implantation site or small lacerations. Accordingly, squames, fetal cells, and trophoblasts can often be identified in maternal peripheral blood at delivery (Clark, 1986; Lee, 1986). And, at least in experimental animals, infused clear amnionic fluid is generally innocuous, even in large amounts (Adamsons, 1971; Stolte, 1967). Instead, meconium-laden amnionic fluid is likely a potent cause of symptomatic AFE (Hankins, 1993). Disruption of the maternal-fetal interface allows material from the fetal compartment to enter maternal circulation. This dyad leads to abnormal activation of proinflammatory mediator systems, similar to the systemic inflammatory response syndrome (SIRS), and causes initial, transient pulmonary vasoconstriction and hypertension (Bernstein, 2019). Pulmonary hypertension causes acute right ventricular failure, which is followed by hemodynamic collapse from right ventricular infarction, interventricular septum displacement, and decreased left-sided cardiac output (Pacheco, 2020). This right and then left ventricular dysfunction leads to cardiogenic pulmonary edema and systemic hypotension. Acute respiratory failure with severe hypoxemia from shunting develops. Notably, the resulting multiorgan dysfunction is an interrelated process, with both the cardiac and pulmonary systems affecting each other. Women who survive beyond these first phases invariably develop the third component of the classic triad—a consumptive coagulopathy. Material from the fetal compartment that contains tissue factor then activates factor VII. This leads to the development of disseminated intravascular coagulation. The rapidity of the coagulopathy is amazing (Fig. 42-14).
 
-Kondoh E, Chigusa Y, Ueda A, et al: Novel intrauterine balloon tamponade systems for postpartum
-hemorrhage. Gynecol Scand 98(12):1612, 2019
-Kramer MS, Rouleau J, Liu S, et al: Amniotic fluid embolism: incidence, risk factors, and impact on
-perinatal outcomes. BJOG 119(7):1144, 2012
-Landy HJ, Laughon K, Bailit JL, et al: Characteristics associated with severe perineal and cervical
-lacerations during vaginal delivery. Obstet Gynecol 117(3):627, 2011
-Lee HJ, Na ED, Kim HC, et al: Massive broad ligament hematoma caused by spontaneous uterine
-artery rupture after uncomplicated vaginal delivery. J Minim Invasive Gynecol 27(2):250, 2020
-Lee HY, Shin JH, Kim J, et al: Primary postpartum hemorrhage: outcome of pelvic arterial embolization
-in 251 patients at a single institution. Radiology 264(3):903, 2012
-Lee W, Ginsburg KA, Cotton DB, et al: Squamous and trophoblastic cells in the maternal pulmonary
-circulation identified by invasive hemodynamic monitoring during the peripartum period. Am J Obstet
-Gynecol 155:999, 1986
-Lepine SJ, Geller SE, Pledger M, et al: Severe maternal morbidity due to obstetric haemorrhage:
-potential preventability. Aust N Z J Obstet Gynaecol 60(2):212, 2020
-Martingano D, Mitrofanova A, Kin AF, et al: Antibiotic prophylaxis during intrauterine balloon
-tamponade following vaginal deliveries with postpartum hemorrhage. Abstract No. 381, Am J
-Obstet Gynecol 222(1):S253, 2020
-Matsubara S, Yano H, Taneichi A, et al: Uterine compression suture against impending recurrence of
-uterine inversion immediately after laparotomy positioning. J Obstet Gynaecol Res 35(4):819, 2009
-Melamed N, Ben-Haroush A, Chen R, Kaplan B, et al: Intrapartum cervical lacerations: characteristics,
-risk factors, and effects on subsequent pregnancies. Am J Obstet Gynecol 200(4):388.e1, 2009
-Merriam AA, Huang Y, Wright JD, et al: Use of uterine tamponade and interventional radiology
-procedures during delivery hospitalizations. Obstet Gynecol 135(3):674, 2020
-Miller DA, Paul RH: Rupture of the unscarred uterus. Am J Obstet Gynecol 174:345, 1996
-Mondal PC, Ghosh D, Santra D, et al: Role of Hayman technique and its modification in recurrent
-puerperal uterine inversion. Obstet Gynaecol Res 38(2):438, 2012
-Mone F, Elsayed S, McAuliffe FM, et al: Uterine rupture—when, why and emerging trends in an Irish
-population. Abstract No. 433, Am J Obstet Gynecol 214(1):S238, 2016
-Mousa HA, Blum J, Abou El Senoun G, et al: Treatment for primary postpartum haemorrhage.
-Cochrane Database Syst Rev 2:CD003249, 2014
-Mukhopadhyay D, Jennings PE, Banerjee M, et al: Ultrasound—guided drainage of supralevator
-hematoma in a hemodynamically stable patient. Obstet Gynecol 126(6):1188, 2015
-Natrella M, Di Naro E, Loverro M, et al: The more you lose the more you miss: accuracy of postpartum
-blood loss visual estimation. A systematic review of the literature. J Matern Fetal Neonatal Med
-31(1):106, 2018
-Nguyen KT, Lozada MJ, Gorrindo P, et al: Massive hemorrhage from suspected iatrogenic uterine
-rupture. Obstet Gynecol 132(6):149, 2018
-Noh JJ, Park CH, Jo MH, et al: Rupture of an unscarred uterus in a woman with long-term steroid
-treatment for systemic lupus erythematosus. Obstet Gynecol 122(2 Pt 2):472, 2013
-O’Brien B, Smoleneic J: Cervical varicosities and placenta praevia. Aust N Z J Obstet Gynaecol
-53(5):451, 2013
-Oladapo OT, Adetoro OO, Ekele BA, et al: When getting there is not enough: a nationwide crosssectional study of 998 maternal deaths and 1451 near-misses in public tertiary hospitals in a lowincome country. BJOG 123(6):928, 2016
+> **Figure 42-14:** Fatal amnionic fluid embolism. Results of some coagulation studies show an abrupt drop in plasma fibrinogen levels and platelet count but an extremely elevated serum fibrin split product level.
 
-Oleen MA, Mariano J P: Controlling refractory atonic postpartum hemorrhage with Hemabate sterile
-solution. Am J Obstet Gynecol 162:205, 1990
-Pan J, Zhou L, Huang A, et al: Sonographic diagnosis of complete uterine inversion: an unusual case.
-Clin Exp Obstet Gynecol 42(2):240, 2015
-Pates JA, Hatab MR, McIntire DD, et al: Determining uterine blood flow in pregnancy with magnetic
-resonance imaging. Magn Reson Imaging 28(4):507, 2010
-Pacheco LD, Clark SL, Klassen M, et al: Amniotic fluid embolism: principles of early clinical
-management. Am J Obstet Gynecol 222(1):48, 2020
-Petersen EE, Davis NL, Goodman D, et al: Vital signs: pregnancy related deaths, United States, 2011–
-2015, and strategies for prevention, 13 states, 2013–2017. MMWR 68(35):423, 2019
-Porter TF, Clark SL, Dildy GA, et al: Isolated disseminated intravascular coagulation and amniotic fluid
-embolism. Am J Obstet Gynecol 174:486, 1996
-Poujade O, Zappa M, Letendre I, et al: Predictive factors for failure of pelvic arterial embolization for
-postpartum hemorrhage. Int J Gynaecol Obstet 117(2):119, 2012
-Prick BW, Vos AA, Hop WC, et al: The current state of active third stage management to prevent
-postpartum hemorrhage: a cross-sectional study. Acta Obstet Gynecol Scand 92(11):1277, 2013
-Pritchard JA: Changes in the blood volume during pregnancy and delivery. Anesthesiology 26:393, 1965
-Pritchard JA, Baldwin RM, Dickey JC, et al: Blood volume changes in pregnancy and the puerperium,
-2. Red blood cell loss and changes in apparent blood volume during and following vaginal delivery,
-cesarean section, and cesarean section plus total hysterectomy. Am J Obstet Gynecol 84:1271, 1962
-Rafi J, Muppala H: Retroperitoneal haematomas in obstetrics: literature review. Arch Gynecol Obstet
-281(3):435, 2010
-Ramler PI, van den Akker T, Henriquez D, et al: Women receiving massive transfusion due to
-postpartum hemorrhage: a comparison over time between two nationwide cohort studies. Acta
-Obstet Gynecol Scand 98(6):795, 2019
-Rottenstreich M, Rotem R, Hirsch A, et al: Delayed diagnosis of intrapartum uterine rupture-maternal
-and neonatal consequences. J Matern Fetal Neonatal Med 34(5):708, 2021
-Rouse DJ, MacPherson C, Landon M, et al: Blood transfusion and cesarean delivery. Obstet Gynecol
-108:891, 2006
-Sabourin JN, Lee T, Magee LA, et al: Indications for, timing of, and modes of delivery in a national
-cohort of women admitted with antepartum hemorrhage at 22+0 to 28+6 weeks’ gestation. J Obstet
-Gynaecol Can 34(11):1043, 2012
-Said Ali A, Faraag E, Mohammed M, et al: The safety and effectiveness of Bakri balloon in the
-management of postpartum hemorrhage: a systematic review. J Matern Fetal Neonatal Med
-34(2):300, 2021
-Sangwan N, Nanda S, Singhal S, et al: Puerperal uterine inversion associated with unicornuate uterus.
-Arch Gynecol Obstet 280(4):625, 2009
-Saoud F, Stone A, Nutter A, et al: The validation of a new method to assess estimated blood loss in the
-obstetric population undergoing cesarean delivery. Am J Obstet Gynecol 221(3):267.e1, 2019
-Schimmer BP, Parker KL: Contraception and pharmacotherapy of obstetrical and gynecological
-disorders. In Brunton LL, Chabner BA, Knollmann BC (eds): Goodman and Gilman’s The
-Pharmacological Basis of Therapeutics, 12th ed. New York, McGraw Hill, 2011
-Siegel MR, Drey E, Rosenstein MG: The use of bierer forceps to treat retained placenta after vaginal
-delivery. Abstract No. 830, Am J Obstet Gynecol 222:S521, 2020
-Skolnik S, Ioscovich A, Eidelman LA, et al: Anesthetic management of amniotic fluid embolism a multicenter, retrospective, cohort study. J Matern Fetal Neonatal Med 32(8):1262, 2019
+To those who succumb, postmortem histopathological findings may be obvious. However, detection of squames and keratin may require special stains, and even then, debris may not be seen. In one study, fetal elements were detected in 75 percent of autopsies and in 50 percent of specimens prepared from concentrated buffy coat aspirates taken antepartum from a pulmonary artery catheter (Clark, 1995).
 
-Smulian JC, DeFu1vio JD, Diven L, et al: Sonographic findings in acute uterine inversion. J Clin
-Ultrasound 41(7):453, 2013
-Society for Maternal-Fetal Medicine, Pacheco LK, Saade G, et al: Amniotic fluid embolism; diagnosis
-and management. Am J Obstet Gynecol 215(2):B16, 2016
-Spies N, Woolfolk C, Macones GA, et al: Can machine-learning predict the need for postpartum
-transfusion with clinical knowledge at the time of delivery? Abstract No. 57, Am J Obstet Gynecol
-222(1):S49, 2020
-Stolte L, van Kessel H, Seelen J, et al: Failure to produce the syndrome of amniotic fluid embolism by
-infusion of amniotic fluid and meconium into monkeys. Am J Obstet Gynecol 98:694, 1967
-Suarez S, Conde-Agudelo A, Borovac-Pinheiro A, et al: Uterine balloon tamponade for the treatment of
-postpartum hemorrhage: a systematic review and meta-analysis. Am J Obstet Gynecol
-222(4):293.e1, 2020
-Sun JN, Zhang BL, Yu HY, et al: Spontaneous uterine rupture due to placenta percreta during
-pregnancy. Am J Emerg Med 34(9):1918.e1, 2016
-Tanaka H, Katsuragi S, Osato K, et al: Value of fibrinogen in cases of maternal death related to
-amniotic fluid embolism. J Matern Fetal Neonatal Med 30(24):2940, 2017
-Tarney CM, Whitecar P, Sewell M, et al: Rupture of an unscarred uterus in a quadruplet pregnancy.
-Obstet Gynecol 121(2 Pt 2 Suppl 1):483, 2013
-The Joint Commission: R3 Report: requirement, rationale, reference. Issue 24, 2019
-Tita AT, Szychowski JM, Rouse DJ, et al: Higher-dose oxytocin and hemorrhage after vaginal delivery.
-Obstet Gynecol 119(2 Pt 1):293, 2012
-Tola EN: First trimester spontaneous uterine rupture in a young woman with uterine anomaly. Case Rep
-Obstet Gynecol 2014:967386, 2014
-Vandenberghe G, Bioemenkamp K, Beriage S, et al: The International Network of Obstetric Survey
-Systems study of uterine rupture: a descriptive multi-country population-based study. BJOG
-126(3):370, 2019
-Venkatesh KK, Strauss R, Grotegut C, et al: Machine learning- based prediction models for postpartum
-hemorrhage. Obstet Gynecol 135(4):935, 2020
-Viau-Lapointe J, Filewod N: Extracorporeal therapies for amniotic fluid embolism. Obstet Gynecol
-134(5):989, 2019
-Vintejoux E, Ulrich D, Mousty E, et al: Success factors for Bakri balloon usage secondary to uterine
-atony: a retrospective, multicenter study. Aust N Z J Obstet Gynaecol 55(6):572, 2015
-Webster CM, Smith KA, Manuck TA: Extracorporeal membrane oxygenation in pregnant and
-postpartum women: a ten-year case series. Am J Obstet Gynecol MFM 2(2):100108, 2020
-Weiwen Y: Study of the diagnosis and management of amniotic fluid embolism: 38 cases of analysis.
-Obstet Gynecol 95:385, 2000
-Wendel MP, Shnaekel KL, Magann EF: Uterine inversion: a review of a life-threatening obstetrical
-emergency. Obstet Gynecol Surv 73(7):411, 2018
-Witteveen T, van Stralen G, Zwart J, et al: Puerperal uterine inversion in the Netherlands: a nationwide
-cohort study. Acta Obstet Gynecol Scand 92(3):334, 2013
-WOMAN Trial Collaborators: Effect of early tranexamic acid administration on mortality, hysterectomy,
-and other morbidities in women with post-partum haemorrhage (WOMAN): an international,
-randomised, double-blind, placebo-controlled trial. Lancet 389(10084):2105, 2017
-World Health Organization: WHO recommendations for prevention and treatment of maternal
-peripartum infections. Geneva, WHO, 2015
+### Incidence and Risk Factors
 
-World Health Organization: WHO recommendations for the prevention and treatment of postpartum
-haemorrhage. Geneva, WHO, 2012
-World Health Organization: WHO recommendations: uterotonics for the prevention of postpartum
-haemorrhage. Geneva, WHO, 2018
-Yao R, Goetziner KR, Crimmins SD, et al: Association of maternal obesity with maternal and neonatal
-outcomes in cases of uterine rupture. Obstet Gynecol 129:683, 2017
-Yee LM, McGee P, Bailit JL, et al: Daytime compared with nighttime differences in management and
-outcomes of postpartum hemorrhage Obstet Gynecol 133(1):155, 2019
-Yoong W, Ridout A, Memtsa M, et al: Application of uterine compression suture in association with
-intrauterine balloon tamponade (“uterine sandwich”) for postpartum hemorrhage. Acta Obstet
-Gynecol Scand 91(1):147, 2012
-Yule CS, Happe KK, McIntire DD, et al: The impact of uterine rupture on perinatal outcomes.
-Presented at the American College of Obstetricians and Gynecologists Annual Meeting, Nashville
-TN, May 2019
-Timofeev J, Zahn CM: Uterine inversion. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds):
-Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw Hill Education, 2017
-Zeeman GG, Cunningham FG, Pritchard JA: The magnitude of hemoconcentration with eclampsia.
-Hypertens Pregnancy 28(2):127, 2009
-Zhao B, Wang Y, Zhang Y: Uterine rupture in patients with a history of laparoscopy or hysteroscopy
-procedures: three case reports. Medicine (Baltimore) 98(20):e15491, 2019
-Zwart JJ, Richters JM, Öry F, et al: Severe maternal morbidity during pregnancy, delivery and
-puerperium in the Netherlands: a nationwide population-based study of 371,000 pregnancies. BJOG
-115:842, 2008
+Most reports describe an AFE frequency of 1 to 2 cases per 100,000 births (Clark, 2014; Fitzpatrick, 2019; Knight, 2010). The case-fatality rate in all of these studies ranges from 11 to 43 percent. From another perspective, AFE caused 5 to 15 percent of all pregnancy-related deaths in the United States, Canada, and France (Bonnet, 2018; Kramer, 2012; Petersen, 2019). Predisposing conditions are rapid labor, meconium-stained amnionic fluid, and tears into uterine and other large pelvic veins that permit an
 
+exchange of fluids between the maternal and fetal compartment (Society of Maternal-Fetal Medicine, 2016). Other commonly cited risks include older maternal age; postterm pregnancy; labor induction or augmentation; eclampsia; cesarean, forceps, or vacuum delivery; placental abruption or previa; and hydramnios (Indraccolo, 2018; Knight, 2012; Kramer, 2012). The associations of uterine hypertonus appears to be the effect rather than the cause because uterine blood flow ceases when intrauterine pressures exceed 35 to 40 mm Hg. Thus, a hypertonic contraction would be the least likely circumstance for amnionic fluid and other debris to enter uterine veins (Clark, 1985). For this reason, hypertonus from oxytocin does not seem implicated.
+
+### Diagnosis
+
+The classic triad of abrupt hemodynamic and respiratory compromise along with consumptive coagulopathy underpins its diagnosis (Pacheco, 2020). Proposed criteria for AFE diagnosis are shown in Table 42-5. In a French study, only 60 percent of women with autopsy-confirmed AFE had all four criteria (Bonnet, 2018). The classic example is dramatic, and a woman in the late stages of labor or immediately postpartum begins gasping for air. Seizures or cardiorespiratory arrest rapidly follow and are accompanied by massive hemorrhage from consumptive coagulopathy (Bernstein, 2019; Tanaka, 2017). Clinical manifestations vary, and we and others have managed several women in whom otherwise uncomplicated vaginal or cesarean delivery was followed by severe acute consumptive coagulopathy without overt cardiorespiratory difficulties. In these women, consumptive coagulopathy appears to be the forme fruste of AFE (Kramer, 2012; Porter, 1996).
+
+> **Table 42-5:** Diagnostic Criteria for Amnionic Fluid Embolism
+
+In such cases, other sources of acute cardiac or respiratory failure should be considered. These include myocardial infarction, pulmonary or air embolism, high spinal blockage, eclampsia, and anaphylactic shock (Bernstein, 2019). In some cases, the temporal relationship of events aids diagnosis. Unfortunately, no specific diagnostic laboratory test confirms or refutes the diagnosis of AFE, and it remains a clinical diagnosis. Importantly, women suffering from excessive blood loss and resulting coagulopathy may be misdiagnosed with AFE, when the true culprit is unrecognized or underappreciated hemorrhage (Clark, 2016). In either event, a woman with cardiopulmonary compromise should receive immediate resuscitation (Society for Maternal-Fetal Medicine, 2016).
+
+### Management
+
+The initial period of systemic and pulmonary hypertension with AFE is transient. Thus, immediate high-quality cardiopulmonary resuscitation and advanced cardiac life support must be initiated without delay (Pacheco, 2020; Society for Maternal-Fetal Medicine, 2016). These are discussed in detail in Chapter 50 (p. 897). Coagulopathy is managed as described in Chapter 44 (p. 777). If resuscitation is successful, hemodynamic instability is common in survivors. Both fever and hyperoxia will worsen ischemia-reperfusion injury to the brain. A suitable goal for temperature is 36°C and for mean arterial pressure is 65 mm Hg (Society for Maternal-Fetal Medicine, 2016). Additional supportive care measures such as intubation are usually necessary. During the phase of right ventricular failure, inotropic agents such as dobutamine may improve right heart output, and later systemic hypotension
+
+should be treated with vasopressors such as norepinephrine. Excess fluid administration is discouraged because it can worsen dilation of an already engorged right ventricle, which may cause right-sided myocardial infarction and interventricular septum displacement. Extracorporeal membrane oxygenation (ECMO) has been described in the treatment of AFE (Bernstein, 2019; Webster, 2020). Further discussed in Chapter 50 (p. 886), venovenous ECMO is used for severe hypoxemic respiratory failure, without right or left ventricular failure. Venoarterial ECMO is less readily available and used for impending cardiac arrest and ventricular failure. One recent review of outcomes in 20 women with AFE managed with ECMO reported a maternal mortality rate of only 15 percent. The authors concluded that publication biases may have overestimated the favorable outcomes (Viau-Lapointe, 2019). Either immediately after cardiopulmonary collapse or during the ensuing phases of injury, a coagulopathy develops in most cases from activation of factor VII and X. This may be exacerbated by ongoing hemorrhage, and a common source is uterine atony. Thus, immediate evaluation of coagulation parameters is indicated with concurrent management of bleeding.
+
+### Clinical Outcomes
+
+Most reports describe significant maternal and perinatal mortality with AFE. This is likely influenced by underdiagnosis and reporting biases that favor the most severe cases with the highest mortality rates. From a California database of 1.1 million deliveries, the mortality rate with AFE was 60 percent (Gilbert, 1999). In the INOSS database, maternal mortality rates ranged from 30 to 41 percent (Fitzpatrick, 2019). Death can be rapid, and in one study, 12 of the 34 women died within 30 minutes (Weiwen, 2000). The mortality rate is highest in women who present with cardiac arrest—89 percent (Fitzpatrick, 2019). Survivors commonly have profound neurological impairment. Clark (1995) observed that only 8 percent of women who lived despite cardiac arrest survived without neurological injury. In a report of 20 cases, the maternal mortality rate was 15 percent, and 40 percent of survivors had neurological disability (Skolnik, 2019). Overall, the prognosis appears to be more associated with disease severity and the attendant cardiac arrest than with any specific treatment modality (Clark, 2014; Fitzpatrick, 2019).
+
+As perhaps expected, perinatal outcomes also are poor and are inversely related to the maternal cardiac arrest-to-delivery interval. Even so, the neonatal survival rate is 70 percent, but unfortunately, up to half of survivors suffer residual neurological impairment. In a Canadian study, 28 percent of neonates were considered to be asphyxiated at birth (Kramer, 2012).
+
+## References
+
+Adamsons K, Mueller-Heubach E, Myers RE: The innocuousness of amniotic fluid infusion in the pregnant rhesus monkey. Am J Obstet Gynecol 109:977, 1971 Adnan N, Conian-Trant R, McCormick C, et al: Intramuscular versus intravenous oxytocin to prevent postpartum haemorrhage at vaginal delivery: randomised controlled trial. BMJ 362:k3546, 2018 Al-Kadri HM, Al Anazi BK, Tamin HM: Visual estimation versus gravimetric measurement of postpartum blood loss: a prospective cohort study. Arch Gynecol Obstet 283(6):1207, 2011 Alliance for Innovation on Maternal Health: Obstetric hemorrhage patient safety bundle. 2015. Available at: https://safehealthcareforeverywoman.org/aim/patient-safety-bundles/maternal-safetybundles/obstetric-hemorrahage-patient-safety-bundle-2/. Accessed February 27, 2021 Al-Zirqi I, Daltveit AK, Forsén L, et al: Risk factors for complete uterine rupture. Am J Obstet Gynecol 216(2):165.el, 2017 Al-Zirqi I, Daltveit AK, Vangen S: Infant outcome after complete uterine rupture. Am J Obstet Gynecol 219:109.el, 2018 Al-Zirqi I, Vangen S, Forsen L, et al: Prevalence and risk factors of severe obstetric haemorrhage. BJOG 115:1265, 2008 Alturki F, Ponette V, Boucher LM: Spontaneous retroperitoneal hematomas following uncomplicated vaginal deliveries: a case report and literature review. J Obstet Gynaecol Can 40(6):712, 2018 American College of Obstetricians and Gynecologists: Postpartum hemorrhage. Practice Bulletin No. 183, October 2017, Reaffirmed 2019a American College of Obstetricians and Gynecologists: Quantitative blood loss in obstetric hemorrhage.
+
+**Committee Opinion No.** 794, November, 2019b American College of Obstetricians and Gynecologists: Prevention and management of obstetric lacerations at vaginal delivery. Practice Bulletin No. 198, August 2018, Reaffirmed 2020a American College of Obstetricians and Gynecologists: Use of prophylactic antibiotics in labor and delivery. Practice Bulletin No. 199, August 2018, Reaffirmed 2020b Antony KM, Racusin DA, Belfort MA, et al: Under pressure: intraluminal filling pressures of postpartum hemorrhage tamponade balloons. AJP Rep 7(2):e86, 2017 Association of Women’s Health, Obstetric and Neonatal Nurses: Guidelines for oxytocin administration after birth. AWHONN PB No. 2 JOGNN 44:161, 2014 Babinszki A, Kerenyi T, Torok O, et al: Perinatal outcome in grand and great-grand multi parity: effects of parity on obstetric risk factors. Am J Obstet Gynecol 181:669, 1999 Bailit JL, Grobman WA, Rice MM, et al: Risk-adjusted models for adverse obstetric outcomes and variation in risk-adjusted outcomes across hospitals. Am J Obstet Gynecol 209(5):446.e1, 2013 Bankada V, Purra P, Ningappa AM, et al: A rare case of bilateral broad ligament haematoma in twin pregnancy. J Clin Diagn Res 9(10):QD03, 2015
+
+Berg CJ, Callaghan WM, Syverson C, et al: Pregnancy-related mortality in the United States, 1998– 2005. Obstet Gynecol 116(6):1302, 2010 Berg CJ, MacKay AP, Qin C, et al: Overview of maternal morbidity during hospitalizations for labor and delivery in the United States. 1993–1997 and 2001–2005. Obstet Gynecol 113(5):1075, 2009 Bernstein SN, Cudemus-Deseda GA, Ortiz V E, et al: Case 33–2019: a 35-year old woman with cardiopulmonary arrest during cesarean section. N Engl J Med 381(17):1664, 2019 Bhandari S, Raja EA, Shetty A, et al: Maternal and perinatal consequences of antepartum haemorrhage of unknown origin. BJOG 121(1):44, 2014 Blitz MJ, Yukhayev A, Pachtman SL, et al: Twin pregnancy and risk of postpartum hemorrhage. J Matern Fetal Neonatal Med 5:1, 2019 Bonnet MP, Zlotnik D, Saucedo M, et al: Maternal death due to amniotic fluid embolism: a national study in France. Anesth Analg 126(1):175, 2018 Budden A, Chen LJ, Henry A: High-dose versus low-dose oxytocin infusion regimens for induction of labour at term. Cochrane Database Syst Rev 10:CD009701, 2014 Catanzarite VA, Moffitt KD, Baker ML: New approaches to the management of acute puerperal uterine inversion. Obstet Gynecol 68(3 Suppl):7S, 1986 Cauldwell M, Steer PJ, Curtis SL: Maternal and fetal outcomes in pregnancies complicated by Marfan syndrome. Heart 105(22):1725, 2019a Cauldwell M, Steer PJ, Curtis S, et al: Maternal and fetal outcomes in pregnancies complicated by the inherited aortopathy Loeys-Dietz syndrome. BJOG 126(8):1025, 2019b Chang YH: Uterine rupture over 11 years: a retrospective descriptive study. Aust N Z J Obstet Gynaecol 60(5):709, 2020 Chibueze EC, Parsons AJ, Ota E, et al: Prophylactic antibiotics for manual removal of retained placenta during vaginal birth: a systematic review of observational studies and meta-analysis. BMC Pregnancy Childbirth 15:313, 2015 Chu T, Rodriguez AN, Kleinmann W, et al: Correlation of postpartum hemorrhage risk stratification with calculated blood loss greater than 1000 milliliters. Abstract No. 1092, Am J Obstet Gynecol 222(1):S673, 2020 Cichowski S, Rogers RG: Managing complications of perineal lacerations. Contemp Ob/Gyn 62:22, 2017 Clark SL: Amniotic fluid embolism. Obstet Gynecol 123:337, 2014 Clark SL, Hankins GD, Dudley DA, et al: Amniotic fluid embolism: analysis of the National Registry. Am J Obstet Gynecol 172:1158, 1995 Clark SL, Pavlova Z, Greenspoon J, et al: Squamous cells in the maternal pulmonary circulation. Am J Obstet Gynecol 154:104, 1986 Clark SL, Phelan JP, Yeh SY: Hypogastric artery ligation for obstetric hemorrhage. Obstet Gynecol 66:353, 1985 Clark SL, Romero R, Dildy GA, et al: Proposed diagnostic criteria for the case definition of amniotic fluid embolism in research studies. Am J Obstet Gynecol October, 2016 Coad S, Dahlgren L, Hutcheson JA: Risk and consequences of puerperal uterine inversion in the United States, 2004–2013. Am J Obstet Gynecol 217:377, 2017 Colalillo E, Sparks A, Phillips J, et al: Obstetric hemorrhage risk assessment tool predicts composite maternal morbidity. Sci Rep 11(1):14709, 2021 Conrad LB, Groome KJ, Black DR: Management of persistent postpartum hemorrhage caused by inner myometrial lacerations. Obstet Gynecol 126(2):266, 2015 Coviello E, Igbal S, Kawakita T, et al: Effect of implementing quantitative blood loss assessment at the time of delivery. Am J Perinatol 36(13):1332, 2019
+
+Creanga AA, Berg CJ, Syverson C, et al: Pregnancy-related mortality in the United States, 2006–2010. Obstet Gynecol 125(1):5, 2015 Creanga AA, Berg CJ, Syverson C, et al: Pregnancy-related mortality in the United States, 2011–2013. Obstet Gynecol 130:366, 2017 Cummings K, Doherty DA, Magann EF, et al: Timing of manual placenta removal to prevent postpartum hemorrhage: is it time to act? J Matern Fetal Neonatal Med 29(24):3930, 2016 Cunningham FG: Genital tract lacerations and hematomas. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw Hill Education, 2017 Dandapani M, Pflugner LP, Fanning NS: Uterine rupture at term in a patient with abdominal cerclage. Obstet Gynecol 133(5):940, 2019 Deneux-Tharaux C, Sentilhes L, Maillard F, et al: Effect of routine controlled cord traction as part of the active management of the third stage of labour on postpartum hemorrhage: multicentre randomized controlled trial (TRACOR). BMJ 346:f1541, 2013 Diaz V, Abalos E, Carroli G: Methods for blood loss estimation after vaginal birth. Cochrane Database Syst Rev. 9:CD010980, 2018 Diemert A, Ortmeyer G, Hollwitz B, et al: The combination of intrauterine balloon tamponade and the B-Lynch procedure for the treatment of severe postpartum hemorrhage. Am J Obstet Gynecol 206(1):65.e1, 2012 Distefano M, Casarella L, Amoroso S, et al: Selective arterial embolization as a first-line treatment for postpartum hematomas. Obstet Gynecol 121(2 Pt 2 Supp I):443, 2013 Driessen M, Bouvier-Colle MH, Dupont C, et al: Postpartum hemorrhage resulting from uterine atony after vaginal delivery. Factors associated with severity. Obstet Gynecol 117(1):21, 2011 Ducloy-Bouthors AS, Jude B, Duhamel A: High-dose tranexamic acid reduces blood loss in postpartum haemorrhage. Crit Care 15(2):R117, 2011 Dufour P, Vinatier D, Puech F: The use of intravenous nitroglycerin for cervico-uterine relaxation: a review of the literature. Arch Gynecol Obstet 261(1):1, 1997 Einerson BD, Son M, Schneider P, et al: The association between intrauterine balloon tamponade duration and postpartum hemorrhage outcomes. Am J Obstet Gynecol 216:300.e1, 2017 Fein A, Wen T, Wright JD, et al: Postpartum hemorrhage and risk for postpartum readmission. J Matern Fetal Neonatal 34(2):187, 2021 Fitzpatrick KE, van den Akker T, Bloemenkamp KW, et al: Risk factors, management, and outcomes of amniotic fluid embolism: a multicountry, population-based cohort and nested case-control study. PLoS Med 16(11):e1002962, 2019 Fong A, Wu E, Pan D, et al: Temporal trends and morbidities of vacuum, forceps, and combined use of both. J Matern Fetal Neonatal Med 27(8):1886, 2014 Fox NS: Pregnancy outcomes in patients with prior uterine rupture or dehiscence: a 5-year update. Obstet Gynecol 135(1):211, 2020 Frank ZC, Caughey AB: Pregnancy in women with a history of uterine rupture. Obstet Gynecol Surv 73(12):703, 2018 Frolova Al, Stout MJ, Tuuli MG, et al: Duration of the third stage of labor and risk of postpartum hemorrhage. Obstet Gynecol 127(5):951, 2016 Gibbins KJ, Weber T, Holmgren CM, et al: Maternal and fetal morbidity associated with uterine rupture of the unscarred uterus. Am J Obstet Gynecol 213(3):382.e1, 2015 Gilbert WM, Danielsen B: Amniotic fluid embolism: decreased mortality in a population-based study. Obstet Gynecol 93:973, 1999
+
+Gizzo S, Saccardi C, Patrelli TS, et al: Bakri balloon in vaginal-perineal hematomas complicating vaginal delivery: a new therapeutic approach. J Low Genit Tract Dis 17:125, 2013 Goffman D, Nathan L, Chazotte C: Obstetric hemorrhage: a global review. Semin Perinatol 40(2):96,
+
+## 2016
+
+Green L, Knight M, Seeney FM, et al: The epidemiology and outcomes of women with postpartum haemorrhage requiring massive transfusion with eight or more units of red cells: a national crosssectional study. BJOG 123(13):2164, 2016 Grönvall M, Tikkanen M, Metsätähti M, et al: Pelvic arterial embolization in severe obstetric hemorrhage. Acta Obstet Gynecol Scand 93(7):716, 2014 Haeri S, Rais S, Monks B: Intrauterine tamponade balloon use in the treatment of uterine inversion. BMJ Case Rep January 6, 2015 Hamou B, Sheiner E, Coreanu T, et al: Intrapartum cervical lacerations and their impact on future pregnancy outcome. J Matern Fetal Neonatal Med 33(5):883, 2020 Hankins GD, Berryman GK, Scott RT Jr, et al: Maternal arterial desaturation with 15-methyl prostaglandin F2 alpha for uterine atony. Obstet Gynecol 72: 367, 1988 Hankins GD, Snyder RR, Clark SL, et al: Acute hemodynamic and respiratory effects of amniotic fluid embolism in the pregnant goat model. Am J Obstet Gynecol 168(4):1113, 1993 Hernandez JS, Alexander JM, Sarode R, et al: Calculated blood loss in severe obstetric hemorrhage and its relation to body mass index. Am J Perinatol 29(7):557, 2012 Hochler H, Wainstock T, Lipschuetz M, et al: Grandmultiparity, maternal age, and the risk for uterine rupture–a multicenter cohort study. Acta Obstet Gynecol Scand 99(2):267, 2020 Hofmeyr GJ, Abdel-Aleem H, Abde1-A1eem MA: Uterine massage for preventing postpartum haemorrhage. Cochrane Database Syst Rev 7:CD006431, 2013 Huarte Cignada M, Estaun Echavarren C, Garcia Jimenez A, et al: Spontaneous uterine rupture in the second trimester in a patient with previous pelvic radiotherapy in childhood: a case report. J Obstet Gynaecol Can 42(1):84, 2020 Ida A, Ito K, Kubota Y, et al: Successful reduction of acute puerperal uterine inversion with the use of a Bakri postpartum balloon. Case Rep Obstet Gynecol 2015:424891, 2015 Indraccolo U, Battistoni C, Mastrantonio I, et al: Risk factors for fatality in amniotic fluid embolism: a systematic review and analysis of a data pool. J Matern Fetal Neonatal Med 31(5):661, 2018 Iskender C, Topcu HO, Timur H, et al: Evaluation of risk factors in women with puerperal genital hematomas. J Matern Fetal Neonatal Med 29(9):1435, 2016 Kaplanoglu M, Kaplanoglu D, Bulbul M, et al: Inner myometrial laceration—an unusual presentation of antepartum and postpartum hemorrhage: case reports and review of the literature. J Matern Fetal Neonatal Med 29(16):2621, 2016 Kawakita T, Mokhtari N, Huang JC, et al: Evaluation of risk assessment tools for severe postpartum hemorrhage in women undergoing cesarean delivery. Obstet Gynecol 134(6):1308, 2019 Kawamura Y, Kondoh E, Hamanishi J, et al: Treatment decision- making for postpartum hemorrhage using dynamic contrast-enhanced computed tomography. J Obstet Gynaecol Res 40(1):67, 2014 Kaya B, Guralp O, Tuten A, et al: Which uterine sparing technique should be used for uterine atony during cesarean section? The Bakri balloon or the B-Lynch suture? Arch Gynecol Obstet 294(3):511, 2016 Knight M, Berg C, Brocklehurst P, et al: Amniotic fluid embolism incidence, risk factors and outcomes: a review and recommendations. BMC Pregnancy Childbirth 12:7, 2012 Knight M, Tuffnell D, Brocklehurst P, et al: Incidence and risk factors for amniotic-fluid embolism. Obstet Gynecol 115(5):910, 2010
+
+Kondoh E, Chigusa Y, Ueda A, et al: Novel intrauterine balloon tamponade systems for postpartum hemorrhage. Gynecol Scand 98(12):1612, 2019 Kramer MS, Rouleau J, Liu S, et al: Amniotic fluid embolism: incidence, risk factors, and impact on perinatal outcomes. BJOG 119(7):1144, 2012 Landy HJ, Laughon K, Bailit JL, et al: Characteristics associated with severe perineal and cervical lacerations during vaginal delivery. Obstet Gynecol 117(3):627, 2011 Lee HJ, Na ED, Kim HC, et al: Massive broad ligament hematoma caused by spontaneous uterine artery rupture after uncomplicated vaginal delivery. J Minim Invasive Gynecol 27(2):250, 2020 Lee HY, Shin JH, Kim J, et al: Primary postpartum hemorrhage: outcome of pelvic arterial embolization in 251 patients at a single institution. Radiology 264(3):903, 2012 Lee W, Ginsburg KA, Cotton DB, et al: Squamous and trophoblastic cells in the maternal pulmonary circulation identified by invasive hemodynamic monitoring during the peripartum period. Am J Obstet Gynecol 155:999, 1986 Lepine SJ, Geller SE, Pledger M, et al: Severe maternal morbidity due to obstetric haemorrhage: potential preventability. Aust N Z J Obstet Gynaecol 60(2):212, 2020 Martingano D, Mitrofanova A, Kin AF, et al: Antibiotic prophylaxis during intrauterine balloon tamponade following vaginal deliveries with postpartum hemorrhage. Abstract No. 381, Am J Obstet Gynecol 222(1):S253, 2020 Matsubara S, Yano H, Taneichi A, et al: Uterine compression suture against impending recurrence of uterine inversion immediately after laparotomy positioning. J Obstet Gynaecol Res 35(4):819, 2009 Melamed N, Ben-Haroush A, Chen R, Kaplan B, et al: Intrapartum cervical lacerations: characteristics, risk factors, and effects on subsequent pregnancies. Am J Obstet Gynecol 200(4):388.e1, 2009 Merriam AA, Huang Y, Wright JD, et al: Use of uterine tamponade and interventional radiology procedures during delivery hospitalizations. Obstet Gynecol 135(3):674, 2020 Miller DA, Paul RH: Rupture of the unscarred uterus. Am J Obstet Gynecol 174:345, 1996 Mondal PC, Ghosh D, Santra D, et al: Role of Hayman technique and its modification in recurrent puerperal uterine inversion. Obstet Gynaecol Res 38(2):438, 2012 Mone F, Elsayed S, McAuliffe FM, et al: Uterine rupture—when, why and emerging trends in an Irish population. Abstract No. 433, Am J Obstet Gynecol 214(1):S238, 2016 Mousa HA, Blum J, Abou El Senoun G, et al: Treatment for primary postpartum haemorrhage. Cochrane Database Syst Rev 2:CD003249, 2014 Mukhopadhyay D, Jennings PE, Banerjee M, et al: Ultrasound—guided drainage of supralevator hematoma in a hemodynamically stable patient. Obstet Gynecol 126(6):1188, 2015 Natrella M, Di Naro E, Loverro M, et al: The more you lose the more you miss: accuracy of postpartum blood loss visual estimation. A systematic review of the literature. J Matern Fetal Neonatal Med 31(1):106, 2018 Nguyen KT, Lozada MJ, Gorrindo P, et al: Massive hemorrhage from suspected iatrogenic uterine rupture. Obstet Gynecol 132(6):149, 2018 Noh JJ, Park CH, Jo MH, et al: Rupture of an unscarred uterus in a woman with long-term steroid treatment for systemic lupus erythematosus. Obstet Gynecol 122(2 Pt 2):472, 2013 O’Brien B, Smoleneic J: Cervical varicosities and placenta praevia. Aust N Z J Obstet Gynaecol 53(5):451, 2013 Oladapo OT, Adetoro OO, Ekele BA, et al: When getting there is not enough: a nationwide crosssectional study of 998 maternal deaths and 1451 near-misses in public tertiary hospitals in a lowincome country. BJOG 123(6):928, 2016
+
+Oleen MA, Mariano J P: Controlling refractory atonic postpartum hemorrhage with Hemabate sterile solution. Am J Obstet Gynecol 162:205, 1990 Pan J, Zhou L, Huang A, et al: Sonographic diagnosis of complete uterine inversion: an unusual case. Clin Exp Obstet Gynecol 42(2):240, 2015 Pates JA, Hatab MR, McIntire DD, et al: Determining uterine blood flow in pregnancy with magnetic resonance imaging. Magn Reson Imaging 28(4):507, 2010 Pacheco LD, Clark SL, Klassen M, et al: Amniotic fluid embolism: principles of early clinical management. Am J Obstet Gynecol 222(1):48, 2020 Petersen EE, Davis NL, Goodman D, et al: Vital signs: pregnancy related deaths, United States, 2011– 2015, and strategies for prevention, 13 states, 2013–2017. MMWR 68(35):423, 2019 Porter TF, Clark SL, Dildy GA, et al: Isolated disseminated intravascular coagulation and amniotic fluid embolism. Am J Obstet Gynecol 174:486, 1996 Poujade O, Zappa M, Letendre I, et al: Predictive factors for failure of pelvic arterial embolization for postpartum hemorrhage. Int J Gynaecol Obstet 117(2):119, 2012 Prick BW, Vos AA, Hop WC, et al: The current state of active third stage management to prevent postpartum hemorrhage: a cross-sectional study. Acta Obstet Gynecol Scand 92(11):1277, 2013 Pritchard JA: Changes in the blood volume during pregnancy and delivery. Anesthesiology 26:393, 1965 Pritchard JA, Baldwin RM, Dickey JC, et al: Blood volume changes in pregnancy and the puerperium, 2. Red blood cell loss and changes in apparent blood volume during and following vaginal delivery, cesarean section, and cesarean section plus total hysterectomy. Am J Obstet Gynecol 84:1271, 1962 Rafi J, Muppala H: Retroperitoneal haematomas in obstetrics: literature review. Arch Gynecol Obstet 281(3):435, 2010 Ramler PI, van den Akker T, Henriquez D, et al: Women receiving massive transfusion due to postpartum hemorrhage: a comparison over time between two nationwide cohort studies. Acta Obstet Gynecol Scand 98(6):795, 2019 Rottenstreich M, Rotem R, Hirsch A, et al: Delayed diagnosis of intrapartum uterine rupture-maternal and neonatal consequences. J Matern Fetal Neonatal Med 34(5):708, 2021 Rouse DJ, MacPherson C, Landon M, et al: Blood transfusion and cesarean delivery. Obstet Gynecol 108:891, 2006 Sabourin JN, Lee T, Magee LA, et al: Indications for, timing of, and modes of delivery in a national cohort of women admitted with antepartum hemorrhage at 22+0 to 28+6 weeks’ gestation. J Obstet Gynaecol Can 34(11):1043, 2012 Said Ali A, Faraag E, Mohammed M, et al: The safety and effectiveness of Bakri balloon in the management of postpartum hemorrhage: a systematic review. J Matern Fetal Neonatal Med 34(2):300, 2021 Sangwan N, Nanda S, Singhal S, et al: Puerperal uterine inversion associated with unicornuate uterus. Arch Gynecol Obstet 280(4):625, 2009 Saoud F, Stone A, Nutter A, et al: The validation of a new method to assess estimated blood loss in the obstetric population undergoing cesarean delivery. Am J Obstet Gynecol 221(3):267.e1, 2019 Schimmer BP, Parker KL: Contraception and pharmacotherapy of obstetrical and gynecological disorders. In Brunton LL, Chabner BA, Knollmann BC (eds): Goodman and Gilman’s The Pharmacological Basis of Therapeutics, 12th ed. New York, McGraw Hill, 2011 Siegel MR, Drey E, Rosenstein MG: The use of bierer forceps to treat retained placenta after vaginal delivery. Abstract No. 830, Am J Obstet Gynecol 222:S521, 2020 Skolnik S, Ioscovich A, Eidelman LA, et al: Anesthetic management of amniotic fluid embolism a multicenter, retrospective, cohort study. J Matern Fetal Neonatal Med 32(8):1262, 2019
+
+Smulian JC, DeFu1vio JD, Diven L, et al: Sonographic findings in acute uterine inversion. J Clin Ultrasound 41(7):453, 2013 Society for Maternal-Fetal Medicine, Pacheco LK, Saade G, et al: Amniotic fluid embolism; diagnosis and management. Am J Obstet Gynecol 215(2):B16, 2016 Spies N, Woolfolk C, Macones GA, et al: Can machine-learning predict the need for postpartum transfusion with clinical knowledge at the time of delivery? Abstract No. 57, Am J Obstet Gynecol 222(1):S49, 2020 Stolte L, van Kessel H, Seelen J, et al: Failure to produce the syndrome of amniotic fluid embolism by infusion of amniotic fluid and meconium into monkeys. Am J Obstet Gynecol 98:694, 1967 Suarez S, Conde-Agudelo A, Borovac-Pinheiro A, et al: Uterine balloon tamponade for the treatment of postpartum hemorrhage: a systematic review and meta-analysis. Am J Obstet Gynecol 222(4):293.e1, 2020 Sun JN, Zhang BL, Yu HY, et al: Spontaneous uterine rupture due to placenta percreta during pregnancy. Am J Emerg Med 34(9):1918.e1, 2016 Tanaka H, Katsuragi S, Osato K, et al: Value of fibrinogen in cases of maternal death related to amniotic fluid embolism. J Matern Fetal Neonatal Med 30(24):2940, 2017 Tarney CM, Whitecar P, Sewell M, et al: Rupture of an unscarred uterus in a quadruplet pregnancy. Obstet Gynecol 121(2 Pt 2 Suppl 1):483, 2013 The Joint Commission: R3 Report: requirement, rationale, reference. Issue 24, 2019 Tita AT, Szychowski JM, Rouse DJ, et al: Higher-dose oxytocin and hemorrhage after vaginal delivery. Obstet Gynecol 119(2 Pt 1):293, 2012 Tola EN: First trimester spontaneous uterine rupture in a young woman with uterine anomaly. Case Rep Obstet Gynecol 2014:967386, 2014 Vandenberghe G, Bioemenkamp K, Beriage S, et al: The International Network of Obstetric Survey Systems study of uterine rupture: a descriptive multi-country population-based study. BJOG 126(3):370, 2019 Venkatesh KK, Strauss R, Grotegut C, et al: Machine learning- based prediction models for postpartum hemorrhage. Obstet Gynecol 135(4):935, 2020 Viau-Lapointe J, Filewod N: Extracorporeal therapies for amniotic fluid embolism. Obstet Gynecol 134(5):989, 2019 Vintejoux E, Ulrich D, Mousty E, et al: Success factors for Bakri balloon usage secondary to uterine atony: a retrospective, multicenter study. Aust N Z J Obstet Gynaecol 55(6):572, 2015 Webster CM, Smith KA, Manuck TA: Extracorporeal membrane oxygenation in pregnant and postpartum women: a ten-year case series. Am J Obstet Gynecol MFM 2(2):100108, 2020 Weiwen Y: Study of the diagnosis and management of amniotic fluid embolism: 38 cases of analysis. Obstet Gynecol 95:385, 2000 Wendel MP, Shnaekel KL, Magann EF: Uterine inversion: a review of a life-threatening obstetrical emergency. Obstet Gynecol Surv 73(7):411, 2018 Witteveen T, van Stralen G, Zwart J, et al: Puerperal uterine inversion in the Netherlands: a nationwide cohort study. Acta Obstet Gynecol Scand 92(3):334, 2013 WOMAN Trial Collaborators: Effect of early tranexamic acid administration on mortality, hysterectomy, and other morbidities in women with post-partum haemorrhage (WOMAN): an international, randomised, double-blind, placebo-controlled trial. Lancet 389(10084):2105, 2017 World Health Organization: WHO recommendations for prevention and treatment of maternal peripartum infections. Geneva, WHO, 2015
+
+World Health Organization: WHO recommendations for the prevention and treatment of postpartum haemorrhage. Geneva, WHO, 2012 World Health Organization: WHO recommendations: uterotonics for the prevention of postpartum haemorrhage. Geneva, WHO, 2018 Yao R, Goetziner KR, Crimmins SD, et al: Association of maternal obesity with maternal and neonatal outcomes in cases of uterine rupture. Obstet Gynecol 129:683, 2017 Yee LM, McGee P, Bailit JL, et al: Daytime compared with nighttime differences in management and outcomes of postpartum hemorrhage Obstet Gynecol 133(1):155, 2019 Yoong W, Ridout A, Memtsa M, et al: Application of uterine compression suture in association with intrauterine balloon tamponade (“uterine sandwich”) for postpartum hemorrhage. Acta Obstet Gynecol Scand 91(1):147, 2012 Yule CS, Happe KK, McIntire DD, et al: The impact of uterine rupture on perinatal outcomes. Presented at the American College of Obstetricians and Gynecologists Annual Meeting, Nashville TN, May 2019 Timofeev J, Zahn CM: Uterine inversion. In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed. New York, McGraw Hill Education, 2017 Zeeman GG, Cunningham FG, Pritchard JA: The magnitude of hemoconcentration with eclampsia. Hypertens Pregnancy 28(2):127, 2009 Zhao B, Wang Y, Zhang Y: Uterine rupture in patients with a history of laparoscopy or hysteroscopy procedures: three case reports. Medicine (Baltimore) 98(20):e15491, 2019 Zwart JJ, Richters JM, Öry F, et al: Severe maternal morbidity during pregnancy, delivery and puerperium in the Netherlands: a nationwide population-based study of 371,000 pregnancies. BJOG 115:842, 2008
