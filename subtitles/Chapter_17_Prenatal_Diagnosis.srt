@@ -1,0 +1,2444 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,837
+Chapter 17: Prenatal Diagnosis.
+
+3
+00:00:05,837 --> 00:00:26,337
+Historical Perspective Cell-Free Dna Screening Analyte-Based Aneuploidy Screening Ultrasound Screening Carrier Screening For Genetic Disorders Amniocentesis Chorionic Villus Sampling Preimplantation Genetic Tests References Prenatal diagnosis is the science of identifying congenital abnormalities and genetic conditions in the fetus.
+
+4
+00:00:26,337 --> 00:00:41,062
+It encompasses the diagnosis of structural malformations with specialized ultrasound, screening tests for aneuploidy, carrier screening for genetic diseases, and diagnostic tests performed on chorionic villi and amnionic fluid.
+
+5
+00:00:41,062 --> 00:00:52,162
+Based on population-based registry data including births, fetal deaths, and pregnancy terminations, 4 per 1000 pregnancies have a chromosomal abnormality .
+
+6
+00:00:52,162 --> 00:01:07,337
+If chromosomal microarray analysis (CMA) is performed on chorionic villi or amnionic fluid, an additional 4 per 1000 are found to have a pathogenic copy number variant, such as a microdeletion or microduplication .
+
+7
+00:01:07,337 --> 00:01:13,037
+It is important for all pregnant women to be offered both screening and diagnostic tests.
+
+8
+00:01:13,037 --> 00:01:22,200
+The goal of prenatal diagnosis is to provide accurate information about short- and long-term prognosis, recurrence risk, and potential therapy.
+
+9
+00:01:22,200 --> 00:01:27,175
+Nondirective counseling and provision of unbiased knowledge are paramount.
+
+10
+00:01:27,175 --> 00:01:42,162
+Management of an affected pregnancy that includes diagnostic testing, discussion of potential fetal therapy options and postnatal care, and decisions related to expectant management or pregnancy termination are all incorporated into counseling .
+
+11
+00:01:42,162 --> 00:01:52,150
+Fetal imaging of congenital anomalies is discussed in Chapter 15, fetal therapy in Chapter 19, and pregnancy termination in Chapter 11.
+
+12
+00:01:52,150 --> 00:01:54,525
+Historical Perspective.
+
+13
+00:01:54,525 --> 00:02:09,425
+Nearly 50 years ago, Brock (1972, 1973) observed that pregnancies complicated by neural-tube defects had higher levels of alpha-fetoprotein (AFP) in maternal serum and amnionic fluid.
+
+14
+00:02:09,425 --> 00:02:23,950
+Widespread serum screening began in 1977, after a collaborative trial from the United Kingdom established the association between elevated maternal serum AFP levels (MSAFP) and fetal open neural-tube defects .
+
+15
+00:02:23,950 --> 00:02:35,737
+Screening at 16 to 18 weeks’ gestation detected 90 percent of fetuses with anencephaly and 80 percent of those with open spina bifida, similar to current screening performance .
+
+16
+00:02:35,737 --> 00:02:40,625
+The terms level I and level II ultrasound were coined in this context.
+
+17
+00:02:40,625 --> 00:02:52,487
+In the California MSAFP Screening Program of the 1980s and early 1990s, the first step in evaluation of an abnormally elevated MSAFP was a level I ultrasound examination.
+
+18
+00:02:52,487 --> 00:03:04,300
+This screening examination demonstrated that one third of pregnancies with MSAFP elevation had incorrect gestational age, multifetal gestation, or fetal demise as the etiology .
+
+19
+00:03:04,300 --> 00:03:08,487
+Amniocentesis was then offered to the remaining two thirds.
+
+20
+00:03:08,487 --> 00:03:18,862
+If the amnionic fluid AFP concentration was elevated, a level II ultrasound examination was performed to detect and characterize a fetal abnormality.
+
+21
+00:03:18,862 --> 00:03:27,625
+Additionally, an elevated amnionic fluid AFP level prompted a concurrent assay for amnionic fluid acetylcholinesterase.
+
+22
+00:03:27,625 --> 00:03:37,525
+Because acetylcholinesterase leaks from the exposed neural tissue into the amnionic fluid, presence of both analytes was used to confirm the diagnosis.
+
+23
+00:03:37,525 --> 00:03:47,325
+However, other fetal abnormalities are associated with elevated amnionic fluid AFP and positive assay results for acetylcholinesterase.
+
+24
+00:03:47,325 --> 00:03:57,900
+These include ventral wall defects, esophageal atresia, fetal teratoma, cloacal exstrophy, and skin abnormalities such as epidermolysis bullosa.
+
+25
+00:03:57,900 --> 00:04:14,775
+Most neural-tube defects are now detected with a standard ultrasound examination, and the detailed ultrasound examination is the preferred diagnostic test (American College of Obstetricians and Gynecologists, 2019c; Dashe, 2006).
+
+26
+00:04:14,775 --> 00:04:26,037
+Level II ultrasound is no longer an appropriate synonym for detailed ultrasound examination, because the study now includes a much more comprehensive evaluation of fetal anatomy .
+
+27
+00:04:26,037 --> 00:04:33,325
+As MSAFP screening was being adopted, the designation “advanced maternal age” (AMA) became popular.
+
+28
+00:04:33,325 --> 00:04:41,800
+A 1979 National Institutes of Health Consensus Development Conference recommended advising pregnant women who were 35
+
+29
+00:04:41,956 --> 00:04:47,343
+years and older about the possibility of amniocentesis for fetal karyotyping.
+
+30
+00:04:47,293 --> 00:04:54,606
+The threshold was based on the greater risk for selected fetal chromosomal abnormalities with increasing maternal age .
+
+31
+00:04:54,606 --> 00:05:03,656
+There was also an assumption that the loss rate attributable to amniocentesis was equivalent to the fetal Down syndrome risk at maternal age 35.
+
+32
+00:05:03,656 --> 00:05:06,081
+This is no longer the case.
+
+33
+00:05:06,081 --> 00:05:08,556
+Table 17-1.
+
+34
+00:05:08,556 --> 00:05:26,193
+Estimated Risks for Fetal Trisomy 21 and Any Aneuploidy According to Maternal Age and Timing of Diagnosis In 1984, Merkatz and colleagues reported that midtrimester MSAFP levels were lower in pregnancies with trisomies 21 and 18 than in unaffected pregnancies.
+
+35
+00:05:26,193 --> 00:05:37,831
+Maternal age was incorporated into the calculation, which enabled assignment of a specific risk (DiMaio, 1987; New England Regional Genetics Group, 1989).
+
+36
+00:05:37,831 --> 00:05:52,181
+The MSAFP screen detected approximately 25 percent of cases of fetal trisomy 21 when the threshold ratio for a positive result was set at 1:270—the approximate second-trimester risk at maternal age 35.
+
+37
+00:05:52,181 --> 00:06:01,268
+This trisomy 21 risk threshold and the associated 5-percent falsepositive rate became standards that remain in use in some laboratories.
+
+38
+00:06:01,268 --> 00:06:03,418
+Aneuploidy Screening.
+
+39
+00:06:03,418 --> 00:06:12,006
+Aneuploidy is the presence of one or more extra chromosomes, usually resulting in trisomy, or loss of a chromosome—monosomy .
+
+40
+00:06:12,006 --> 00:06:36,568
+Of recognized pregnancies with chromosomal abnormalities, trisomy 21 accounts for approximately half of cases; trisomy 18 accounts for 15 percent; trisomy 13, for 5 percent; and the sex chromosomal abnormalities— 45,X, 47,XXX, 47,XXY, and 47,XYY—for approximately 12 percent.
+
+41
+00:06:36,568 --> 00:06:41,156
+Screening tests are available for some or all of these aneuploidies.
+
+42
+00:06:41,156 --> 00:06:50,531
+The risk for fetal trisomy increases with maternal age, particularly after age 35 (Fig. 16-2, p. 310).
+
+43
+00:06:50,531 --> 00:06:57,931
+The positive predictive value of all aneuploidy screening tests is higher for women aged 35 years and older.
+
+44
+00:06:57,931 --> 00:07:02,718
+Such women account for 18 percent of deliveries in the United States .
+
+45
+00:07:02,718 --> 00:07:08,293
+At Parkland Hospital, the majority of Down syndrome births occur in this age group .
+
+46
+00:07:08,293 --> 00:07:23,681
+Other important aneuploidy risk factors include a numerical chromosomal abnormality or structural chromosomal rearrangement in the woman or her partner—such as a balanced translocation —or a prior pregnancy with autosomal trisomy or triploidy.
+
+47
+00:07:23,681 --> 00:07:26,168
+Figure 17-1.
+
+48
+00:07:26,168 --> 00:07:31,443
+Trends in the percentage of births to women aged 35 to 44 years.
+
+49
+00:07:31,443 --> 00:07:38,006
+Data from the Centers for Disease Control and Prevention, 2015, 2019).
+
+50
+00:07:38,006 --> 00:07:46,331
+Broadly speaking, there are two types of aneuploidy screening tests, those that are analyte-based and those that are cell-free DNA-based.
+
+51
+00:07:46,331 --> 00:07:56,406
+Cellfree DNA (cfDNA) screening is more sensitive and specific than analytebased screening, and it has a much higher positive predictive value.
+
+52
+00:07:56,406 --> 00:08:09,518
+One prospective screening study for trisomy 21 in 15,000 pregnancies found that the average positive predictive value was 80 percent for cfDNA but only 3 percent for first-trimester screening .
+
+53
+00:08:09,518 --> 00:08:21,706
+However, analyte-based screening has the unusual benefit that an abnormal result may indicate a genetic abnormality for which screening was not specifically performed (p. 337).
+
+54
+00:08:21,706 --> 00:08:31,793
+The position of the American College of Obstetricians and Gynecologists (2020e) is that no one screening test is superior in all circumstances.
+
+55
+00:08:31,793 --> 00:08:39,943
+No aneuploidy screening test is diagnostic, and prenatal diagnosis is strongly recommended before acting upon a result.
+
+56
+00:08:39,943 --> 00:08:45,306
+There are selected circumstances in which aneuploidy screening is not recommended.
+
+57
+00:08:45,306 --> 00:08:54,493
+Following diagnosis of a major fetal abnormality, prenatal diagnosis with amniocentesis or chorionic villus sampling is advised.
+
+58
+00:08:54,493 --> 00:08:59,843
+The fetal risk cannot be normalized with a negative aneuploidy screening result.
+
+59
+00:08:59,843 --> 00:09:08,956
+Screening results can be falsely negative, and major abnormalities confer risk for genetic syndromes not identified through screening tests.
+
+60
+00:09:08,956 --> 00:09:18,918
+Analytebased screening tests are not valid in the setting of an abnormality that affects the AFP component, such as a neural-tube defect or ventral-wall defect.
+
+61
+00:09:18,918 --> 00:09:28,393
+Additionally, all aneuploidy screening methods are less accurate in twin gestations and are invalid in triplet gestations and higher-order multiples.
+
+62
+00:09:28,393 --> 00:09:30,906
+Aneuploidy screening should
+
+63
+00:09:31,060 --> 00:09:38,872
+be an informed patient choice that incorporates the patient’s clinical circumstances, values, interests, and goals.
+
+64
+00:09:38,822 --> 00:09:49,622
+Counseling should be individualized, with the understanding that at least 20 percent of women prefer not to receive aneuploidy screening, even when financial barriers are removed .
+
+65
+00:09:49,622 --> 00:09:55,660
+Elements of counseling prior to aneuploidy screening are listed in Table 17-2.
+
+66
+00:09:55,660 --> 00:10:06,035
+The screening test(s) offered and elected may depend on factors such as gestational age, provider location or practice setting, and the patient’s out-of-pocket costs.
+
+67
+00:10:06,035 --> 00:10:08,560
+Table 17-2.
+
+68
+00:10:08,560 --> 00:10:13,485
+Aneuploidy Screening Counseling Elements # Test Characteristics.
+
+69
+00:10:13,485 --> 00:10:22,310
+Validity characteristics convey information about how well an aneuploidy screening test differentiates affected from unaffected pregnancies.
+
+70
+00:10:22,310 --> 00:10:31,297
+The sensitivity, also known as the detection rate, is the proportion of fetuses with a particular aneuploidy who are detected by the screening test.
+
+71
+00:10:31,297 --> 00:10:34,247
+The converse is the false-negative rate.
+
+72
+00:10:34,247 --> 00:10:47,997
+If a woman elects a first-trimester aneuploidy screen with a sensitivity of 80 percent for trisomy 21, the false-negative rate is 20 percent, so the test is anticipated to miss 1 in 5 affected pregnancies.
+
+73
+00:10:47,997 --> 00:10:53,722
+Specificity is the proportion of unaffected pregnancies with a negative screening result.
+
+74
+00:10:53,722 --> 00:11:00,860
+The converse of specificity is the false-positive rate, those without aneuploidy who nonetheless screen positive.
+
+75
+00:11:00,860 --> 00:11:12,035
+Because aneuploidies are individually uncommon, the screen-positive rate, which is the overall proportion of tests with a positive result, is usually similar to the falsepositive rate.
+
+76
+00:11:12,035 --> 00:11:17,985
+Aneuploidy screening tests generally have screen-positive rates no higher than 5 percent.
+
+77
+00:11:17,985 --> 00:11:24,097
+Sensitivity and specificity do not convey any information regarding individual risk.
+
+78
+00:11:24,097 --> 00:11:31,860
+The positive predictive value (PPV) is the proportion with a positive screening result who have an aneuploid fetus.
+
+79
+00:11:31,860 --> 00:11:35,110
+PPV may be viewed as the test result.
+
+80
+00:11:35,110 --> 00:11:39,872
+It is usually expressed as a 1:X ratio or as a percentage.
+
+81
+00:11:39,872 --> 00:11:48,635
+Because PPV is directly affected by disease prevalence, it is higher in women aged 35 years and older than in younger women .
+
+82
+00:11:48,635 --> 00:11:56,810
+Negative predictive value is the proportion of those with a negative screening test result who have unaffected (euploid) fetuses.
+
+83
+00:11:56,810 --> 00:12:09,872
+Because the prevalence of aneuploidy is low, the negative predictive value of all aneuploidy screening tests generally exceeds 99 percent (Gil, 2017; Norton, 2015).
+
+84
+00:12:09,872 --> 00:12:12,347
+Table 17-3.
+
+85
+00:12:12,347 --> 00:12:23,972
+Positive Predictive Value of Cell-Free DNA Screening for Autosomal Trisomies and Sex Chromosome Abnormalities, According to Maternal Age at Term # Cell-free DNA Screening.
+
+86
+00:12:23,972 --> 00:12:33,910
+This screening test identifies DNA fragments derived primarily from apoptotic trophoblasts, which are placental cells undergoing programmed cell death.
+
+87
+00:12:33,910 --> 00:12:37,997
+Thus, the term cell-free fetal DNA is a misnomer.
+
+88
+00:12:37,997 --> 00:12:44,422
+Differences between placental and fetal DNA may cause false-positive and falsenegative results.
+
+89
+00:12:44,422 --> 00:12:54,172
+There are three types of assays: whole-genome sequencing, chromosome selective or targeted sequencing, and single nucleotide polymorphism analysis.
+
+90
+00:12:54,172 --> 00:13:00,022
+CfDNA screening can be performed at any time after 9 to 10 weeks’ gestation.
+
+91
+00:13:00,022 --> 00:13:10,147
+When it was first introduced, cfDNA screening was offered primarily to pregnancies with increased aneuploidy risk, but it has since become widely available .
+
+92
+00:13:10,147 --> 00:13:19,922
+CfDNA screening is most commonly used to screen for autosomal trisomies—trisomy 21, trisomy 18, and trisomy 13.
+
+93
+00:13:19,922 --> 00:13:30,185
+It may also be used to screen for 45,X (Turner syndrome), 47,XXX, 47,XXY, and 47,XYY.
+
+94
+00:13:30,185 --> 00:13:39,035
+A recent metaanalysis concluded that the number of reported sex aneuploidy cases is too small for accurate assessment of screening performance .
+
+95
+00:13:39,035 --> 00:13:46,197
+The prognosis for these sex chromosomal aneuploidies differs considerably from that of the autosomal trisomies .
+
+96
+00:13:46,197 --> 00:13:52,872
+If screening for sex chromosomal abnormalities is elected, counseling should include this information.
+
+97
+00:13:52,872 --> 00:13:59,247
+CfDNA has the highest sensitivity and specificity of any aneuploidy screening test.
+
+98
+00:13:59,247 --> 00:14:15,597
+In a metaanalysis of 35 studies of largely high-risk pregnancies, the pooled sensitivity to detect trisomy 21 was 99.7 percent, and for trisomies 18 and 13, 98 percent and 99 percent, respectively .
+
+99
+00:14:15,597 --> 00:14:17,535
+For each of these
+
+100
+00:14:17,692 --> 00:14:27,129
+autosomal trisomies, the specificity is 99.9 percent, and the combined false-positive rate is less than 0.2 percent.
+
+101
+00:14:27,079 --> 00:14:35,617
+If the screening platform includes other genetic conditions, each additional condition increases the overall false-positive rate for the test.
+
+102
+00:14:35,617 --> 00:14:44,504
+The PPV of a positive cfDNA result is provided in the report or may be estimated from an online calculator or reference table .
+
+103
+00:14:44,504 --> 00:14:53,092
+Because the risk estimate for each aneuploidy depends on maternal age, such information may be included as part of pretest counseling.
+
+104
+00:14:53,092 --> 00:14:59,567
+This can help to avoid the misconception that a positive screen indicates aneuploidy—it does not.
+
+105
+00:14:59,567 --> 00:15:10,417
+Because cfDNA screening has a PPV far higher than analyte screening, it may be offered as a secondary screening test for women who wish to avoid amniocentesis.
+
+106
+00:15:10,417 --> 00:15:13,554
+Such an approach has important caveats.
+
+107
+00:15:13,554 --> 00:15:24,054
+If cfDNA is used as a secondary screening test and yields a negative result, the residual risk for a chromosomal abnormality may be as high as 2 percent .
+
+108
+00:15:24,054 --> 00:15:31,692
+And, if the cfDNA result is positive, the delay in definitive diagnosis may affect management options.
+
+109
+00:15:31,692 --> 00:15:38,829
+In addition to the aforementioned aneuploidies, cfDNA screening is available for other genetic conditions.
+
+110
+00:15:38,829 --> 00:15:48,854
+These include aneuploidies such as trisomies 16 and 22, specific microdeletion syndromes, and large copy number changes throughout the genome.
+
+111
+00:15:48,854 --> 00:15:58,992
+Currently, the American College of Obstetricians and Gynecologists (2020e) does not recommend cfDNA screening for these other conditions.
+
+112
+00:15:58,992 --> 00:16:08,067
+Sensitivity and specificity of cfDNA screening have not been established for them, and screening accuracy has not been validated clinically.
+
+113
+00:16:08,067 --> 00:16:16,179
+Limitations of cfDNA Screening In 2 to 4 percent of pregnancies screened with cfDNA, no result is obtained.
+
+114
+00:16:16,179 --> 00:16:20,117
+These cases are termed “no-call,” or indeterminate.
+
+115
+00:16:20,117 --> 00:16:25,442
+With a no-call result, the fetal aneuploidy risk is as high as 4 percent .
+
+116
+00:16:25,442 --> 00:16:28,654
+As shown in Table 17-4.
+
+117
+00:16:28,654 --> 00:16:34,929
+this result is similar to the average risk conferred by a positive analyte screening test result.
+
+118
+00:16:34,929 --> 00:16:37,479
+TABLE 17-4.
+
+119
+00:16:37,479 --> 00:16:45,742
+Characteristics of Screening Tests for Trisomy 21 in Singletons Low fetal fraction is a common reason for no-call results.
+
+120
+00:16:45,742 --> 00:16:53,679
+The fetal fraction is the proportion of cfDNA in the maternal circulation that is placental rather than maternal in origin.
+
+121
+00:16:53,679 --> 00:17:04,204
+The fetal fraction approximates 10 percent in the late first trimester, increasing slightly thereafter (Ashoor, 2013; Scott, 2018).
+
+122
+00:17:04,204 --> 00:17:19,279
+Low fetal fraction is usually defined as <4 percent of the total, and it is more prevalent before 10 weeks’ gestation and in the setting of maternal obesity (Ashoor, 2013; Juul, 2020; Scott, 2018).
+
+123
+00:17:19,279 --> 00:17:27,379
+The no-call rate may exceed 10 to 20 percent in women whose body mass index is 40 kg/m2 or greater .
+
+124
+00:17:27,379 --> 00:17:38,679
+Low fetal fraction is also more common in the setting of aneuploidy, particularly trisomies 18 and 13 (Norton, 2015; Pergament, 2014).
+
+125
+00:17:38,679 --> 00:17:49,267
+The American College of Medical Genetics and Genomics recommends that the fetal fraction be included in cfDNA reports because it assists with interpretation of results .
+
+126
+00:17:49,267 --> 00:17:57,342
+Pretest counseling should include the possibility of a no-call result and its clinical significance (see Table 17-2.
+
+127
+00:17:57,342 --> 00:18:07,354
+If the cfDNA screening test is positive or yields a no-call result, additional genetic counseling is indicated, and amniocentesis should be offered.
+
+128
+00:18:07,354 --> 00:18:20,092
+If cfDNA screening is repeated, the risk for repeat screen failure approximates 40 percent (Dar, 2014; Quezada, 2015; Rolnik, 2018).
+
+129
+00:18:20,092 --> 00:18:32,467
+Detailed ultrasound examination may be offered, but it is not a substitute for amniocentesis, and the residual aneuploidy risk following normal detailed ultrasound examination is unknown.
+
+130
+00:18:32,467 --> 00:18:38,754
+It is important to remember that cfDNA results may not reflect the fetal DNA complement.
+
+131
+00:18:38,754 --> 00:18:46,592
+Rather, a positive result may be caused by confined placental mosaicism or early demise of an aneuploid co-twin.
+
+132
+00:18:46,592 --> 00:19:01,417
+Alternately, it may indicate maternal aneuploidy, mosaicism, or even occult maternal malignancy (Bianchi, 2015; Curnow, 2015; Grati, 2014; Wang, 2014).
+
+133
+00:19:01,417 --> 00:19:08,479
+If ultrasound identifies an empty second gestational sac, cfDNA screening is not recommended.
+
+134
+00:19:08,479 --> 00:19:13,017
+The patient should be informed of such limitations prior to screening.
+
+135
+00:19:13,017 --> 00:19:14,717
+#
+
+136
+00:19:14,884 --> 00:19:17,771
+Analyte-based Aneuploidy Screening.
+
+137
+00:19:17,721 --> 00:19:28,209
+The three categories of multiple marker-serum analyte screening are firsttrimester screens, second-trimester screens, and combined first- and secondtrimester screens.
+
+138
+00:19:28,209 --> 00:19:39,896
+The serum concentration of each analyte is converted to a multiple of the median (MoM) of the unaffected population by adjusting for maternal age, maternal weight, and gestational age.
+
+139
+00:19:39,896 --> 00:19:53,284
+The serum AFP concentration is further adjusted for maternal race and for presence of diabetes, which affect calculation of neural-tube defect risk (Greene, 1988; Huttly, 2004).
+
+140
+00:19:53,284 --> 00:20:02,134
+The analyte-based screening result is based on a composite likelihood ratio, and the maternal age-related risk is multiplied by this ratio.
+
+141
+00:20:02,134 --> 00:20:10,546
+Adjustment normalizes the distribution of analyte levels and permits comparison of results from different laboratories and populations.
+
+142
+00:20:10,546 --> 00:20:21,509
+Each woman is provided with a specific risk for trisomy 21 and for trisomy 18—or in the first trimester, for trisomy 18 or 13 in some cases.
+
+143
+00:20:21,509 --> 00:20:27,846
+Each screening test has a predetermined value at or above which it is deemed “positive” or abnormal.
+
+144
+00:20:27,846 --> 00:20:40,484
+For second-trimester tests, this threshold has traditionally been set at the risk for fetal Down syndrome at a maternal age of 35 years—approximately 1 in 270 in the second trimester.
+
+145
+00:20:40,484 --> 00:20:47,934
+The trisomy 21 risk may be further modified based on selected ultrasound markers (p. 340).
+
+146
+00:20:47,934 --> 00:20:56,984
+A benefit of analyte screening is that pregnancies with abnormal results may have genetic abnormalities other than those for which screening was performed.
+
+147
+00:20:56,984 --> 00:21:13,159
+For example, in a review of more than 2500 pregnancies with genetic abnormalities from the California Prenatal Screening Program, combined first- and second-trimester screening results were abnormal in 93 percent with trisomies 21 and 18 .
+
+148
+00:21:13,159 --> 00:21:29,046
+However, results were also abnormal in 80 percent with trisomy 13, in 80 percent with 45,X, in nearly 60 percent with other sex chromosomal abnormalities, and in more than 50 percent with other genetic abnormalities.
+
+149
+00:21:29,046 --> 00:21:47,259
+Alamillo and associates (2013) similarly identified an abnormal karyotype other than trisomies 21, 18, or 13 in 2 percent of pregnancies with abnormal first-trimester screening results, accounting for 30 percent of abnormal karyotypes in the series.
+
+150
+00:21:47,259 --> 00:21:55,784
+Women younger than 35 are at lower risk for the specific autosomal trisomies for which cfDNA screening is typically performed.
+
+151
+00:21:55,784 --> 00:22:15,159
+Thus, if the goal is to select a screening test that will identify the highest proportion of fetuses with any chromosomal abnormality, the yield may be comparable or even slightly higher with integrated or sequential screening than with current cfDNA screening (Baer, 2015; Norton, 2014).
+
+152
+00:22:15,159 --> 00:22:29,634
+First-trimester Aneuploidy Screening This test includes human chorionic gonadotropin (hCG), pregnancyassociated plasma protein A (PAPP-A), and ultrasound measurement of the nuchal translucency (NT).
+
+153
+00:22:29,634 --> 00:22:33,834
+It is performed between 11 and 14 weeks’ gestation.
+
+154
+00:22:33,834 --> 00:22:41,109
+Pregnancies with fetal trisomy 21 are characterized by higher levels of hCG and lower PAPP-A.
+
+155
+00:22:41,109 --> 00:22:50,384
+With trisomy 18 and trisomy 13, levels of both analytes are lower (Cuckle, 2000; Malone, 2005b).
+
+156
+00:22:50,384 --> 00:22:52,759
+Nuchal Translucency.
+
+157
+00:22:52,759 --> 00:23:01,734
+This is the maximum thickness of the subcutaneous translucent area between the skin and soft tissue overlying the fetal spine at the back of the neck .
+
+158
+00:23:01,734 --> 00:23:15,309
+It is measured in the sagittal plane and is valid when the crown-rump length (CRL) measurement is between 38 to 45 mm and 84 mm, with the lower limit varying according to the laboratory.
+
+159
+00:23:15,309 --> 00:23:20,971
+Measurement criteria are listed in Table 14–4 (p. 250).
+
+160
+00:23:20,971 --> 00:23:27,459
+The NT should be imaged and measured with a high degree of precision for aneuploidy detection to be accurate.
+
+161
+00:23:27,459 --> 00:23:33,796
+This has led to standardized training, certification, and ongoing quality review programs.
+
+162
+00:23:33,796 --> 00:23:36,246
+Figure 17-2.
+
+163
+00:23:36,246 --> 00:23:44,484
+Sagittal image of a normal, 12-week fetus shows correct caliper placement (+) for nuchal translucency measurement.
+
+164
+00:23:44,484 --> 00:23:48,546
+The fetal nasal bone and overlying skin are indicated.
+
+165
+00:23:48,546 --> 00:23:57,346
+The nasal tip and the 3rd and 4th ventricles (asterisk), which are other landmarks that should be visible in the nasal bone image, also are shown.
+
+166
+00:23:57,346 --> 00:24:01,309
+Reproduced with permission from Dr. Michael Zaretsky.
+
+167
+00:24:01,468 --> 00:24:07,818
+An increased NT is not a fetal abnormality but rather a marker that confers increased risk.
+
+168
+00:24:07,768 --> 00:24:20,468
+It is helpful to differentiate from cystic hygroma, which appears sonographically as a septated hypoechoic space behind the neck that extends down the back (Fig. 15-30, p. 286).
+
+169
+00:24:20,468 --> 00:24:27,468
+The fetal aneuploidy risk is five times greater with first-trimester cystic hygroma than with increased NT .
+
+170
+00:24:27,468 --> 00:24:40,005
+An increased NT measurement is associated with other genetic syndromes and various birth defects, especially fetal cardiac abnormalities (Clur 2008; Simpson, 2007).
+
+171
+00:24:40,005 --> 00:24:49,880
+If the NT measurement is at least 3 mm or reaches the 99th percentile for CRL, a detailed ultrasound examination should be offered.
+
+172
+00:24:49,880 --> 00:25:10,180
+Similarly, fetal echocardiography may be considered if the NT measurement is at least 3 mm and is recommended if the NT measurement is 3.5 mm or greater (American College of Obstetricians and Gynecologists, 2020e; American Institute of Ultrasound in Medicine, 2019).
+
+173
+00:25:10,180 --> 00:25:24,318
+As an isolated marker, NT detects only 70 percent of trisomy 21 fetuses, and for this reason it is not used to screen singleton pregnancies (Alldred, 2017; Malone, 2005b).
+
+174
+00:25:24,318 --> 00:25:40,543
+If cfDNA screening has already been performed, the NT measurement does not improve fetal aneuploidy detection and is not recommended for this purpose (American College of Obstetricians and Gynecologists, 2020e; Reiff, 2016).
+
+175
+00:25:40,543 --> 00:25:52,080
+NT evaluation may be helpful in multifetal gestations because serum screening is less accurate, may not be available, and cannot provide information specific to each fetus.
+
+176
+00:25:52,080 --> 00:25:56,418
+The NT distribution is similar in twins and singletons .
+
+177
+00:25:56,418 --> 00:25:59,443
+Efficacy of First-trimester Screening.
+
+178
+00:25:59,443 --> 00:26:09,493
+Before first-trimester screening became widely adopted, four large prospective trials were conducted, together including more than 100,000 pregnancies .
+
+179
+00:26:09,493 --> 00:26:16,168
+When the screen-positive rate was set at 5 percent, trisomy 21 detection was 84 percent.
+
+180
+00:26:16,168 --> 00:26:23,030
+A recent metaanalysis also reported detection of 87 percent of trisomy 21 fetuses .
+
+181
+00:26:23,030 --> 00:26:32,030
+First-trimester screening similarly detects approximately 80 percent of fetuses with trisomy 18 and 50 percent with trisomy 13 .
+
+182
+00:26:32,030 --> 00:26:37,130
+Maternal age affects the performance of first-trimester aneuploidy screening.
+
+183
+00:26:37,130 --> 00:26:49,768
+In women younger than age 35 at delivery, fetal trisomy 21 detection ranges from 67 to 75 percent (Malone, 2005b; Wapner, 2003).
+
+184
+00:26:49,768 --> 00:27:00,380
+Among women older than 35 at delivery, detection is as high as 90 to 95 percent, albeit at a higher false-positive rate of 15 to 22 percent.
+
+185
+00:27:00,380 --> 00:27:07,993
+In twin pregnancies, serum free β-hCG and PAPP-A levels are approximately double the singleton values .
+
+186
+00:27:07,993 --> 00:27:14,518
+Even with specific curves, a normal dichorionic co-twin will tend to normalize screening results.
+
+187
+00:27:14,518 --> 00:27:19,168
+Thus the aneuploidy detection rate is at least 15-percent lower .
+
+188
+00:27:19,168 --> 00:27:25,568
+Analyte abnormalities are termed unexplained if prenatal diagnostic testing results are normal.
+
+189
+00:27:25,568 --> 00:27:43,055
+There is a significant association between serum PAPP-A levels below the 5th percentile and preterm birth, growth restriction, preeclampsia, and fetal demise (Cignini, 2016; Dugoff, 2004; Jelliffe-Pawlowski, 2015).
+
+190
+00:27:43,055 --> 00:27:49,043
+Similarly, low levels of free β-hCG have been associated with fetal demise .
+
+191
+00:27:49,043 --> 00:27:55,830
+The sensitivity and PPVs of these markers are too low to make them clinically useful as screening tests .
+
+192
+00:27:55,830 --> 00:28:06,705
+Second-trimester Aneuploidy Screening The quadruple marker or “quad” screening test is performed from 15 through 20 or 21 weeks’ gestation depending on the laboratory.
+
+193
+00:28:06,705 --> 00:28:17,905
+Pregnancies with fetal trisomy 21 are characterized by lower MSAFP, higher hCG, lower unconjugated estriol, and higher dimeric inhibin levels.
+
+194
+00:28:17,905 --> 00:28:31,430
+In large prospective trials, trisomy 21 detection was 81 to 83 percent at a 5-percent screenpositive rate (Malone, 2005b; Wald, 1996, 2003).
+
+195
+00:28:31,430 --> 00:28:41,993
+In cases of trisomy 18, levels of MSAFP, hCG, and unconjugated estriol are all decreased, and inhibin is not part of the calculation.
+
+196
+00:28:41,993 --> 00:28:50,230
+Trisomy 18 detection is similar to that for trisomy 21, but the false-positive rate is just 0.5 percent .
+
+197
+00:28:50,230 --> 00:28:59,430
+As with first-trimester screening, aneuploidy detection rates are lower in younger women and higher in women older than 35 years at delivery.
+
+198
+00:28:59,430 --> 00:29:04,930
+If second-trimester serum screening is used in twin pregnancies, aneuploidy
+
+199
+00:29:05,092 --> 00:29:08,204
+detection rates are significantly lower .
+
+200
+00:29:08,154 --> 00:29:17,329
+Quadruple-marker screening offers no benefit over first-trimester screening from the standpoint of trisomy 21 or trisomy 18 detection.
+
+201
+00:29:17,329 --> 00:29:28,217
+As a stand-alone test, it is generally used if women do not begin care until the second trimester or if first-trimester screening and cfDNA screening are not available.
+
+202
+00:29:28,217 --> 00:29:37,592
+In 2019, women who initiated prenatal care beyond the first trimester made up more than 20 percent of pregnancies in the United States .
+
+203
+00:29:37,592 --> 00:29:44,767
+As subsequently discussed, combining first- and secondtrimester screening yields greater aneuploidy detection.
+
+204
+00:29:44,767 --> 00:29:49,629
+Maternal Serum AFP Elevation: Neural-tube Defect Screening.
+
+205
+00:29:49,629 --> 00:29:55,929
+AFP is the major protein in fetal serum, analogous to albumin in a child or adult.
+
+206
+00:29:55,929 --> 00:30:07,579
+Defects in fetal integument, such as neural-tube and ventral-wall defects, permit AFP to leak into the amnionic fluid and result in dramatically increased maternal serum levels.
+
+207
+00:30:07,579 --> 00:30:16,804
+Accurate gestational age assessment is imperative because the AFP value rises by approximately 15 percent per week during the screening window .
+
+208
+00:30:16,804 --> 00:30:38,804
+Using an MSAFP level of 2.5 MoM as the upper limit of normal, the neural-tube defect detection rate approximates 95 percent for anencephaly and 80 percent for spina bifida, with a screen-positive rate of 1 to 3 percent (American College of Obstetricians and Gynecologists, 2019c; Palomaki, 2019).
+
+209
+00:30:38,804 --> 00:30:42,767
+The overall PPV approximates just 2 percent.
+
+210
+00:30:42,767 --> 00:30:50,054
+Higher screening threshold values are used in twin pregnancies, which have twice the AFP level of singletons .
+
+211
+00:30:50,054 --> 00:31:10,829
+Importantly, because nearly all cases of anencephaly and most with spina bifida are detected during the standard second-trimester ultrasound examination, MSAFP screening is considered optional (American College of Obstetricians and Gynecologists, 2019c; Dashe, 2006; Norem, 2005).
+
+212
+00:31:10,829 --> 00:31:20,567
+If the serum AFP is elevated, a detailed ultrasound examination is recommended, and characteristic sonographic findings are diagnostic .
+
+213
+00:31:20,567 --> 00:31:25,554
+Other abnormalities and conditions also may result in MSAFP elevation .
+
+214
+00:31:25,554 --> 00:31:38,979
+Amniocentesis for measurement of amnionic fluid AFP and acetylcholinesterase levels can help to diagnose whether a myelomeningocele is open or closed, which is relevant when considering fetal surgical repair .
+
+215
+00:31:38,979 --> 00:31:41,617
+Table 17-5.
+
+216
+00:31:41,617 --> 00:31:49,254
+Conditions Associated with MSAFP Level Elevation Most pregnancies with MSAFP elevation have no fetal abnormality.
+
+217
+00:31:49,254 --> 00:32:00,117
+The patient should receive counseling about the benefits and limitations of detailed ultrasound examination for the diagnosis of neural-tube defects and other potential etiologies.
+
+218
+00:32:00,117 --> 00:32:07,792
+These include other fetal abnormalities, placental abnormalities, and selected adverse pregnancy outcomes .
+
+219
+00:32:07,792 --> 00:32:14,367
+The likelihood of any abnormality or adverse outcome increases in proportion to the AFP level.
+
+220
+00:32:14,367 --> 00:32:24,992
+There are similarly significant associations between second-trimester elevation of either hCG or dimeric inhibin alpha levels and adverse pregnancy outcomes.
+
+221
+00:32:24,992 --> 00:32:30,042
+The likelihood of adverse outcome is greater if multiple analytes are elevated .
+
+222
+00:32:30,042 --> 00:32:37,754
+The sensitivity and positive predictive values of these markers are considered too low to be useful for screening or management.
+
+223
+00:32:37,754 --> 00:32:44,892
+No specific program of maternal or fetal surveillance has been found to favorably affect pregnancy outcomes .
+
+224
+00:32:44,892 --> 00:32:47,817
+Low Maternal Serum Estriol Level.
+
+225
+00:32:47,817 --> 00:32:55,992
+A maternal serum estriol level less than 0.25 MoM has been associated with two uncommon but important conditions.
+
+226
+00:32:55,992 --> 00:33:04,592
+Smith-Lemli-Opitz syndrome is an autosomal recessive condition resulting from mutations in the 7-dehydrocholesterol reductase gene.
+
+227
+00:33:04,592 --> 00:33:15,042
+It is characterized by abnormalities of the central nervous system, heart, kidney, and extremities; with ambiguous genitalia; and with fetal-growth restriction.
+
+228
+00:33:15,042 --> 00:33:28,304
+Detailed sonography should be offered if an unconjugated estriol level is <0.25 MoM (American Institute of Ultrasound in Medicine, 2019; Dugoff, 2010).
+
+229
+00:33:28,304 --> 00:33:34,504
+An elevated amnionic fluid 7-dehydrocholesterol level can confirm the diagnosis.
+
+230
+00:33:34,504 --> 00:33:40,567
+The second condition is steroid sulfatase deficiency, also known as Xlinked ichthyosis.
+
+231
+00:33:40,567 --> 00:33:47,592
+It is typically an isolated condition, but it may also occur in the setting of a contiguous gene deletion syndrome .
+
+232
+00:33:47,592 --> 00:33:49,229
+In such
+
+233
+00:33:49,396 --> 00:33:56,821
+cases, it may be associated with Kallmann syndrome, chondrodysplasia punctata, and/or mental retardation .
+
+234
+00:33:56,771 --> 00:34:11,496
+If the estriol level is <0.25 MoM and the fetus appears to be male, chromosomal microarray analysis or fluorescence in situ hybridization to assess the steroid sulfatase locus on the X-chromosome may be considered.
+
+235
+00:34:11,496 --> 00:34:20,921
+Integrated and Sequential Screening If first-trimester screening is combined with second-trimester screening, aneuploidy detection is significantly improved.
+
+236
+00:34:20,921 --> 00:34:28,771
+Combined screening test options require that specimens are obtained at the correct gestational age and sent to the same laboratory.
+
+237
+00:34:28,771 --> 00:34:39,471
+The first- and second-trimester components cannot be performed independently, because the false-positive rate would be higher and providing accurate risk assessment would be problematic.
+
+238
+00:34:39,471 --> 00:34:47,796
+Three types of screening strategies are available: 1. Integrated screening combines results of first- and second-trimester tests.
+
+239
+00:34:47,796 --> 00:34:59,208
+This includes a combined measurement of fetal NT and serum analyte levels at 11 to 14 weeks’ gestation plus quadruple markers at approximately 15 to 21 weeks.
+
+240
+00:34:59,208 --> 00:35:03,908
+Trisomy 21 detection is 94 to 96 percent .
+
+241
+00:35:03,908 --> 00:35:16,946
+2. Sequential screening involves informing the patient of the results after first-trimester screening, with plan to offer prenatal diagnostic testing if the calculated risk value lies above a specified threshold.
+
+242
+00:35:16,946 --> 00:35:28,121
+There are two testing strategies in this category: • With stepwise sequential screening, women whose first-trimester risk is at or below the threshold receive second-trimester screening.
+
+243
+00:35:28,121 --> 00:35:46,358
+Using data from the First- and Second-Trimester Evaluation of Risk trial, when the first-trimester threshold is set at approximately 1:30, and the overall threshold is set at 1:270, stepwise sequential screening resulted in a 92percent trisomy 21 detection rate .
+
+244
+00:35:46,358 --> 00:35:49,633
+The false-positive rate remained 5 percent .
+
+245
+00:35:49,633 --> 00:35:56,833
+With contingent sequential screening, women are divided into high-, moderate-, and low-risk groups.
+
+246
+00:35:56,833 --> 00:36:05,571
+Those at highest risk for trisomy 21— for example, risk >1:30, are counseled and offered diagnostic testing.
+
+247
+00:36:05,571 --> 00:36:19,971
+Women at moderate risk, between 1:30 and 1:1500, undergo secondtrimester screening, whereas those at lowest risk of <1:1500 receive negative screening test results and have no further testing .
+
+248
+00:36:19,971 --> 00:36:27,658
+Using this strategy, more than 75 percent of those screened are provided with reassuring results almost immediately.
+
+249
+00:36:27,658 --> 00:36:35,771
+Assuming that women accept diagnostic testing when informed that the risk is elevated, detection approaches 91 percent.
+
+250
+00:36:35,771 --> 00:36:38,433
+# Ultrasound Screening.
+
+251
+00:36:38,433 --> 00:36:52,071
+Ultrasound can improve aneuploidy screening by providing accurate gestational age assessment, by detecting multifetal gestations, and by identifying major structural abnormalities and minor aneuploidy markers.
+
+252
+00:36:52,071 --> 00:37:02,971
+With rare exception, the aneuploidy risk associated with any major abnormality is high enough to recommend prenatal diagnosis with chromosomal microarray analysis.
+
+253
+00:37:02,971 --> 00:37:12,696
+We do not recommend aneuploidy screening after detection of a major abnormality, because of the many genetic conditions are not detectable with screening tests.
+
+254
+00:37:12,696 --> 00:37:17,833
+Counseling should include the association of the abnormality with aneuploidy .
+
+255
+00:37:17,833 --> 00:37:27,721
+A caveat is that fetal abnormalities are frequently not isolated, and associated-butundetectable abnormalities may greatly affect prognosis.
+
+256
+00:37:27,721 --> 00:37:30,371
+Table 17-6.
+
+257
+00:37:30,371 --> 00:37:42,321
+Aneuploidy Risk Associated with Selected Major Fetal Anomalies Importantly, fetuses with trisomy 21 and other genetic syndromes may not have obvious ultrasound abnormalities.
+
+258
+00:37:42,321 --> 00:37:57,283
+Just one third of trisomy 21 fetuses have a major abnormality identified with second-trimester ultrasound evaluations (Bromley, 2002; Hussamy, 2019; Vintileos, 1995).
+
+259
+00:37:57,283 --> 00:38:08,471
+If major anomalies and minor aneuploidy markers are considered, 50 to 75 percent of pregnancies affected by Down syndrome are found to have a sonographic abnormality.
+
+260
+00:38:08,471 --> 00:38:19,258
+This is not unexpected, because nearly 40 percent of infants with trisomy 21 do not have major organ system abnormalities identified in the newborn period .
+
+261
+00:38:19,258 --> 00:38:28,683
+In contrast, the vast majority of fetuses with trisomies 18 and 13 and with triploidy do have ultrasound abnormalities detectable in the
+
+262
+00:38:28,852 --> 00:38:30,939
+second trimester.
+
+263
+00:38:30,889 --> 00:38:45,352
+Aneuploidy Markers For more than three decades, investigators have recognized that ultrasound detection of aneuploidy, particularly trisomy 21, may be improved by minor markers that are collectively referred to as “soft signs.
+
+264
+00:38:45,352 --> 00:38:56,764
+Minor markers are normal variants rather than fetal abnormalities, and in the absence of aneuploidy or an associated abnormality, they do not significantly affect prognosis.
+
+265
+00:38:56,764 --> 00:39:05,077
+One or more markers are present in at least 10 percent of pregnancies (Bromley, 2002; Nyberg, 2003).
+
+266
+00:39:05,077 --> 00:39:11,189
+Examples are listed in Table 17-7 and depicted in Figure 17-3.
+
+267
+00:39:11,189 --> 00:39:17,964
+A minor marker is an indication for a detailed survey of fetal anatomy to determine if it is isolated .
+
+268
+00:39:17,964 --> 00:39:20,602
+Table 17-7.
+
+269
+00:39:20,602 --> 00:39:28,114
+First- and Second-Trimester Ultrasound Markers Associated with Fetal Trisomy 21 Figure 17-3.
+
+270
+00:39:28,114 --> 00:39:34,052
+Minor sonographic markers that are associated with increased risk for fetal Down syndrome.
+
+271
+00:39:34,052 --> 00:39:37,452
+A. Nuchal skinfold thickening (bracket).
+
+272
+00:39:37,452 --> 00:39:41,327
+B. Echogenic intracardiac focus (arrow).
+
+273
+00:39:41,327 --> 00:39:46,314
+C. Mild renal pelvis dilatation (pyelectasis) (arrows).
+
+274
+00:39:46,314 --> 00:39:49,339
+D. Echogenic bowel (arrow).
+
+275
+00:39:49,339 --> 00:39:56,364
+E. Clinodactyly—hypoplasia of the 5th finger middle phalanx creates an inward curvature (arrow).
+
+276
+00:39:56,364 --> 00:39:59,064
+F. “Sandal-gap” (arrow).
+
+277
+00:39:59,064 --> 00:40:06,052
+If an isolated marker is identified and aneuploidy screening has not yet been performed, it should be offered.
+
+278
+00:40:06,052 --> 00:40:18,414
+A benefit of cfDNA screening is that isolated aneuploidy markers no longer factor into the aneuploidy risk, because the negative predictive value of a normal cfDNA test is so high.
+
+279
+00:40:18,414 --> 00:40:25,764
+Conversely, if a cfDNA result is abnormal, the absence of minor markers is not considered reassuring.
+
+280
+00:40:25,764 --> 00:40:28,227
+First-trimester Markers.
+
+281
+00:40:28,227 --> 00:40:34,764
+Detection of first-trimester findings associated with aneuploidy requires specialized imaging.
+
+282
+00:40:34,764 --> 00:40:39,652
+NT evaluation is discussed earlier (p. 337).
+
+283
+00:40:39,652 --> 00:40:47,064
+Other first-trimester markers are not routinely used in the United States but may be available at specialized centers.
+
+284
+00:40:47,064 --> 00:40:56,302
+The Perinatal Quality Foundation’s Nuchal Translucency Quality Review Program offers an education program in first-trimester nasal bone assessment.
+
+285
+00:40:56,302 --> 00:41:07,264
+The Fetal Medicine Foundation also provides online instruction and certification in first-trimester assessment of nasal bone, ductus venosus flow, and tricuspid flow.
+
+286
+00:41:07,264 --> 00:41:21,239
+There are additional benefits of first-trimester ultrasound evaluation in women who elect aneuploidy screening, including accurate assessment of gestational age and early detection of multifetal gestation or fetal demise.
+
+287
+00:41:21,239 --> 00:41:33,664
+As discussed in Chapter 14 (p. 249), standard first-trimester sonography may identify selected major anomalies associated with aneuploidy, such as cystic hygroma.
+
+288
+00:41:33,664 --> 00:41:36,152
+Second-trimester Markers.
+
+289
+00:41:36,152 --> 00:41:44,664
+If analyte-based aneuploidy screening has been performed, minor markers may be used to modify the risk using likelihood ratios .
+
+290
+00:41:44,664 --> 00:41:48,627
+The risk increases with the number of markers identified.
+
+291
+00:41:48,627 --> 00:41:54,339
+Risk modification should follow a protocol that specifies criteria for each marker .
+
+292
+00:41:54,339 --> 00:41:56,802
+Table 17-8.
+
+293
+00:41:56,802 --> 00:42:15,127
+Likelihood Ratios and False-Positive Rates for Isolated Second-Trimester Markers Used in Trisomy 21 Screening Protocols The nuchal skinfold is imaged in the transcerebellar view of the head and is measured from the outer edge of the skull to the outer border of the skin (see Fig. 17-3A).
+
+294
+00:42:15,127 --> 00:42:22,327
+The skinfold is considered thickened if it measures ≥6 mm at 15 to 20 weeks .
+
+295
+00:42:22,327 --> 00:42:36,227
+This finding is seen in approximately 1 per 200 pregnancies and confers more than tenfold risk for trisomy 21 (Bromley, 2002; Nyberg, 2001; Smith-Bindman, 2001).
+
+296
+00:42:36,227 --> 00:42:47,577
+An echogenic intracardiac focus is a focal papillary muscle calcification that is neither a structural nor functional cardiac abnormality (see Fig. 17-3B).
+
+297
+00:42:47,577 --> 00:42:51,639
+It is present in 4 to 7 percent of normal fetuses.
+
+298
+00:42:51,639 --> 00:42:55,877
+The fetal trisomy 21 risk is approximately doubled.
+
+299
+00:42:55,877 --> 00:43:00,389
+The finding is more commonly identified in Asian individuals .
+
+300
+00:43:00,389 --> 00:43:05,489
+Fetuses with trisomy 13 may have bilateral echogenic foci .
+
+301
+00:43:05,489 --> 00:43:10,602
+Mild renal pelvis dilatation is usually transient or physiologic .
+
+302
+00:43:10,602 --> 00:43:22,239
+The renal pelves are measured anterior-to-posterior in a transverse image of the kidneys, with calipers placed at the inner borders of the fluid collection (see Fig. 17-3C).
+
+303
+00:43:22,239 --> 00:43:28,452
+A measurement ≥4 mm is found in about 2 percent of fetuses and
+
+304
+00:43:28,612 --> 00:43:32,624
+approximately doubles the risk for trisomy 21.
+
+305
+00:43:32,574 --> 00:43:44,887
+The degree of pelvic dilatation beyond 4 mm correlates with the likelihood of an underlying renal abnormality, and third-trimester sonography is recommended at approximately 32 weeks.
+
+306
+00:43:44,887 --> 00:43:52,949
+Echogenic fetal bowel is defined as bowel that is sonographically as bright as fetal bone (see Fig. 17-3D).
+
+307
+00:43:52,949 --> 00:44:03,899
+It is identified in approximately 0.5 percent of pregnancies and often represents a small amount of swallowed blood, not infrequently in the setting of MSAFP elevation.
+
+308
+00:44:03,899 --> 00:44:08,812
+The fetal trisomy 21 risk is increased approximately sixfold.
+
+309
+00:44:08,812 --> 00:44:18,574
+Echogenic bowel is also associated with fetal cytomegalovirus infection and cystic fibrosis— representing inspissated meconium in the latter.
+
+310
+00:44:18,574 --> 00:44:25,562
+Follow-up ultrasound evaluation is suggested at 32 weeks’ gestation to evaluate fetal growth .
+
+311
+00:44:25,562 --> 00:44:35,137
+For the purpose of Down syndrome screening, the fetal femur and humerus are considered short if below the 2.5th percentile for gestational age .
+
+312
+00:44:35,137 --> 00:44:40,512
+Thirdtrimester ultrasound evaluation is suggested to assess fetal growth.
+
+313
+00:44:40,512 --> 00:44:47,224
+Fetuses with trisomy 21 and short femur are not more likely to be growth restricted, however .
+
+314
+00:44:47,224 --> 00:44:56,274
+The fetal nasal bone is absent in 30 percent of second-trimester fetuses with trisomy 21 and hypoplastic in more than 50 percent .
+
+315
+00:44:56,274 --> 00:45:08,199
+Absent nasal bone occurs in approximately 1 in 200 euploid fetuses (American College of Obstetricians and Gynecologists, 2020e; Viora, 2005).
+
+316
+00:45:08,199 --> 00:45:13,037
+The finding represents delayed ossification rather than true absence.
+
+317
+00:45:13,037 --> 00:45:17,912
+The nasal bone is measured between 15 and 22 weeks’ gestation.
+
+318
+00:45:17,912 --> 00:45:28,374
+Hypoplasia may be defined as shorter than 2.5 mm, as >2 standard deviations below the mean, or based on a ratio to the biparietal diameter .
+
+319
+00:45:28,374 --> 00:45:39,387
+The fetal profile and nasal bone are components of the detailed fetal anatomic survey, but they are not assessed as part of the standard examination and thus not used for routine screening .
+
+320
+00:45:39,387 --> 00:45:48,037
+One or more choroid plexus cysts are seen in 1 to 2 percent of euploid pregnancies (Fig. 16-5, p. 312).
+
+321
+00:45:48,037 --> 00:45:52,787
+The cyst is a benign, normal variant of no clinical consequence.
+
+322
+00:45:52,787 --> 00:45:59,124
+If associated with structural abnormalities however, the trisomy 18 risk is increased .
+
+323
+00:45:59,124 --> 00:46:02,312
+Carrier Screening For Genetic Disorders.
+
+324
+00:46:02,312 --> 00:46:11,424
+The goal of genetic carrier screening is to provide individuals with meaningful information to guide pregnancy planning according to their personal values .
+
+325
+00:46:11,424 --> 00:46:27,787
+There are three approaches, each of which is an acceptable strategy: ethnicity-based carrier screening, panethnic screening (performed regardless of ethnicity), and expanded carrier screening—which is a type of panethnic screening performed for a large number of conditions.
+
+326
+00:46:27,787 --> 00:46:32,099
+All carrier screening is optional and should be an informed choice.
+
+327
+00:46:32,099 --> 00:46:46,174
+Carrier screening is ideally performed prior to conception so that both partners can have the opportunity to consider the results and pursue options such as preimplantation genetic testing (p. 348) or donor gametes.
+
+328
+00:46:46,174 --> 00:46:51,249
+If the screen detects a genetic condition, partner screening should be offered.
+
+329
+00:46:51,249 --> 00:46:55,574
+No screening test will identify all carriers of a condition.
+
+330
+00:46:55,574 --> 00:47:04,262
+Genetic counseling should include the residual risk for the condition if the partner’s screen is negative, as well as prenatal diagnosis options .
+
+331
+00:47:04,262 --> 00:47:10,762
+Prenatal diagnosis is increasingly available if disease-causing mutation or mutations are known.
+
+332
+00:47:10,762 --> 00:47:28,099
+The Genetic Testing Registry of the National Institutes of Health contains detailed information regarding more than 18,000 genetic conditions and 78,000 genetic tests (www.ncbi.nlm.nih.gov/gtr/).
+
+333
+00:47:28,099 --> 00:47:33,362
+In the setting of consanguinity, additional genetic counseling is indicated.
+
+334
+00:47:33,362 --> 00:47:43,062
+Ethnicity-based carrier screening is offered for selected autosomal recessive conditions that are found in greater frequency in specific racial or ethnic groups.
+
+335
+00:47:43,062 --> 00:47:54,062
+The founder effect occurs when an otherwise rare gene is found with greater frequency in a certain population and can be traced back to a single family member or small group of ancestors.
+
+336
+00:47:54,062 --> 00:48:03,749
+It may develop when generations of individuals procreate only within their own groups because of religious or ethnic prohibitions or geographical isolation.
+
+337
+00:48:03,749 --> 00:48:07,112
+Because assignment of a single ethnicity is
+
+338
+00:48:07,276 --> 00:48:11,851
+often difficult, panethnic screening is increasingly preferred.
+
+339
+00:48:11,801 --> 00:48:20,663
+Expanded carrier screening has the advantage of screening for many conditions simultaneously, ranging from a few dozen to more than 1000 .
+
+340
+00:48:20,663 --> 00:48:30,188
+An unfortunate result is that much of the population— more than 50 percent of those screened–may be identified to be carriers for at least 1 condition.
+
+341
+00:48:30,188 --> 00:48:36,138
+Some conditions are so rare that information about detection and residual risk are limited.
+
+342
+00:48:36,138 --> 00:48:45,901
+Counseling regarding phenotypic expression of different mutations and determination of whether variants have clinical significance has become increasingly complex.
+
+343
+00:48:45,901 --> 00:48:55,001
+Thus, expanded carrier screening can cause anxiety for families and may pose challenges to already-strained genetic counseling resources.
+
+344
+00:48:55,001 --> 00:49:13,951
+The American College of Obstetricians and Gynecologists (2020b) has the following guidelines for conditions included in expanded panels: 1. The carrier frequency should be at least 1:100, which corresponds to a population prevalence of 1:40,000.
+
+345
+00:49:13,951 --> 00:49:26,013
+2. The condition should have a well-defined phenotype, lead to a detrimental effect on quality of life, cause cognitive or physical impairment, or require surgical or medical intervention.
+
+346
+00:49:26,013 --> 00:49:30,851
+3. Conditions with adult onset are not recommended for inclusion.
+
+347
+00:49:30,851 --> 00:49:38,576
+There is a long-held principle that genetic carrier screening for a particular condition not be repeated in a subsequent pregnancy.
+
+348
+00:49:38,576 --> 00:49:47,363
+The number of mutations for which testing is available has greatly increased in recent years, but the additional yield of rescreening is usually low.
+
+349
+00:49:47,363 --> 00:49:53,538
+Consultation with a provider with genetic expertise should be considered before screening is repeated .
+
+350
+00:49:53,538 --> 00:49:56,301
+# Cystic Fibrosis.
+
+351
+00:49:56,301 --> 00:50:09,501
+This disorder is caused by a mutation in the cystic fibrosis conductance transmembrane regulator (CFTR) gene, which is located on the long arm of chromosome 7 and encodes a chloride-channel protein.
+
+352
+00:50:09,501 --> 00:50:22,001
+Although the most common CFTR mutation associated with classic cystic fibrosis (CF) is the ΔF508 mutation, more than 2100 mutations have been identified .
+
+353
+00:50:22,001 --> 00:50:29,476
+CF may develop from either homozygosity or compound heterozygosity for mutations in the CFTR gene.
+
+354
+00:50:29,476 --> 00:50:35,626
+One mutation must be present in each copy of the gene, but they need not be the same mutation.
+
+355
+00:50:35,626 --> 00:50:39,201
+There is a wide range of clinical disease severity.
+
+356
+00:50:39,201 --> 00:50:47,913
+Median survival length is 42 years, but approximately 15 percent have milder disease and can survive for decades longer.
+
+357
+00:50:47,913 --> 00:50:54,201
+Care of the pregnant woman with CF is discussed in Chapter 54 (p. 968).
+
+358
+00:50:54,201 --> 00:51:07,163
+For more than two decades, the American College of Obstetricians and Gynecologists (2020a) has recommended that all women who are pregnant or considering pregnancy be offered CF carrier screening.
+
+359
+00:51:07,163 --> 00:51:18,776
+Such screening should include, at minimum, a panel of 23 panethnic gene mutations, selected because they are present in at least 0.1 percent of patients with classic CF.
+
+360
+00:51:18,776 --> 00:51:35,401
+The CF-mutation carrier frequency approximates 1:25 in Ashkenazi Jews and those of non-Hispanic white ethnicity, 1:60 in African Americans and those of Hispanic white ethnicity, and 1:95 Asian Americans.
+
+361
+00:51:35,401 --> 00:51:49,401
+Using the 23mutation panel, the residual carrier risk after a negative test result was roughly 1:380 for Ashkenazi Jews and 1:170 to 1:200 for other ethnicities .
+
+362
+00:51:49,401 --> 00:52:00,438
+More recently however, expanded panels that use gene sequencing have been reported to improve detection of at-risk couples by 30 percent compared with the 23-mutation panel .
+
+363
+00:52:00,438 --> 00:52:14,976
+The American College of Medical Genetics now recommends either a targeted approach to carrier screening, in which the standard mutation panel may be used, or a more comprehensive approach in which specific variant classifications may be reported .
+
+364
+00:52:14,976 --> 00:52:23,913
+CF is included in all newborn screening panels but is not a substitute for carrier screening because it only identifies affected individuals.
+
+365
+00:52:23,913 --> 00:52:28,813
+If the patient carries a mutation, her partner should be offered screening.
+
+366
+00:52:28,813 --> 00:52:36,326
+If both parents are carriers, genetic counseling is indicated, and prenatal diagnostic testing should be offered.
+
+367
+00:52:36,326 --> 00:52:39,413
+# Spinal Muscular Atrophy.
+
+368
+00:52:39,413 --> 00:52:47,601
+This autosomal recessive disorder results in spinal cord motor neuron degeneration that leads to skeletal muscle atrophy and
+
+369
+00:52:47,764 --> 00:52:49,964
+generalized weakness.
+
+370
+00:52:49,914 --> 00:52:52,926
+There is currently no effective treatment.
+
+371
+00:52:52,926 --> 00:53:00,289
+The prevalence of spinal muscular atrophy (SMA) is 1 in 6000 to 10,000 live births.
+
+372
+00:53:00,289 --> 00:53:15,501
+Types I, II, III, and IV are caused by mutations in the survival motor neuron (SMN1) gene, which is located on the long arm of chromosome 5 (5q13.2) and encodes the SMN protein.
+
+373
+00:53:15,501 --> 00:53:20,351
+Types I and II account for 80 percent of cases and are both lethal .
+
+374
+00:53:20,351 --> 00:53:25,514
+SMA type I, known as Werdnig-Hoffmann disease, is the most severe.
+
+375
+00:53:25,514 --> 00:53:33,076
+Disease onset is within the first 6 months, and affected children die of respiratory failure by age 2 years.
+
+376
+00:53:33,076 --> 00:53:41,014
+Type II generally has onset before age 2 years, and the age at death can range from 2 years to the third decade of life.
+
+377
+00:53:41,014 --> 00:53:47,926
+Type III also presents before age 2 years, with disease severity that is milder and more variable.
+
+378
+00:53:47,926 --> 00:53:51,226
+Type IV does not present until adulthood.
+
+379
+00:53:51,226 --> 00:54:03,839
+The American College of Obstetricians and Gynecologists (2020a) recommends that carrier screening for SMA be offered to all women who are considering pregnancy or are currently pregnant.
+
+380
+00:54:03,839 --> 00:54:11,176
+Prior to screening, the potential spectrum of severity, carrier frequency, and detection rate should be provided.
+
+381
+00:54:11,176 --> 00:54:21,664
+Posttest counseling should include the residual risk after a negative result, which differs according to ethnicity and also according to the number of SMN1 copies detected.
+
+382
+00:54:21,664 --> 00:54:40,151
+The SMA carrier frequency approximates 1:35 in those of non-Hispanic white ethnicity, 1:41 in Ashkenazi Jews, 1:53 in Asians, 1:66 in African Americans, and 1:117 in those of Hispanic white ethnicity .
+
+383
+00:54:40,151 --> 00:54:49,501
+Carrier detection rates range from 90 to 95 percent for each ethnicity except African Americans, in whom it approximates 70 percent .
+
+384
+00:54:49,501 --> 00:55:01,526
+Although there is usually one copy of the SMN1 gene on each chromosome, approximately 3 to 4 percent of carriers have no copies of this gene on one chromosome and two copies on the other.
+
+385
+00:55:01,526 --> 00:55:09,701
+Because such individuals have two copies in total, they are not detected if a quantitative polymerase chain reaction test is used.
+
+386
+00:55:09,701 --> 00:55:17,776
+Carrier screening is less sensitive in African American individuals, because they are more likely to have this genetic variation.
+
+387
+00:55:17,776 --> 00:55:23,589
+Additionally, some individuals have three copies of the gene and are at even lower risk.
+
+388
+00:55:23,589 --> 00:55:32,226
+If the patient or her partner has a family history of SMA, or if carrier screening is positive, genetic counseling is indicated.
+
+389
+00:55:32,226 --> 00:55:35,076
+# Hemoglobinopathies.
+
+390
+00:55:35,076 --> 00:55:45,439
+These include the sickle hemoglobinopathies—sickle cell anemia and sickle cell hemoglobin C disease, thalassemias, and sickle cell–β-thalassemia.
+
+391
+00:55:45,439 --> 00:55:52,051
+Their pathophysiology and management are discussed in Chapter 59 (p. 1053).
+
+392
+00:55:52,051 --> 00:56:00,714
+The risk is increased in women who are of African or AfricanAmerican, Mediterranean, Middle Eastern, or Southeast Asian ethnicity.
+
+393
+00:56:00,714 --> 00:56:07,626
+In such individuals, hemoglobin electrophoresis should be offered prenatally or prior to conception .
+
+394
+00:56:07,626 --> 00:56:19,601
+Sickle Hemoglobinopathies Approximately 1 in 12 African Americans has sickle-cell trait, 1 in 40 carries hemoglobin C, and 1 in 40 carries the trait for β-thalassemia.
+
+395
+00:56:19,601 --> 00:56:27,239
+Hemoglobin S is also more common among individuals of Mediterranean, Middle Eastern, and Asian Indian descent .
+
+396
+00:56:27,239 --> 00:56:34,026
+If a couple is at risk to have a child with a sickle hemoglobinopathy, genetic counseling should be offered.
+
+397
+00:56:34,026 --> 00:56:40,389
+Prenatal diagnosis can be performed with either chorionic villus sampling or amniocentesis.
+
+398
+00:56:40,389 --> 00:56:45,214
+Thalassemias These are the most common single-gene disorders worldwide.
+
+399
+00:56:45,214 --> 00:56:54,464
+Thalassemias are characterized as alpha (α) or beta (β) depending on whether α- or βhemoglobin chains are affected.
+
+400
+00:56:54,464 --> 00:57:05,764
+In general, α-thalassemia is more likely to be caused by deletions of α-globin chains, whereas β-thalassemia more often stems from mutations in β-globin chains.
+
+401
+00:57:05,764 --> 00:57:12,551
+In α-thalassemia, the number of α-globin genes that are deleted may range from one to all four.
+
+402
+00:57:12,551 --> 00:57:26,226
+If two α-globin genes are deleted, both may be deleted from the same chromosome—cis configuration (αα/––), or one may be deleted from each chromosome—trans configuration (α–/α–).
+
+403
+00:57:26,226 --> 00:57:35,626
+The cis configuration is more prevalent among Southeast Asians, whereas those of African descent are more likely to inherit the trans configuration.
+
+404
+00:57:35,626 --> 00:57:37,676
+Alphathalassemia
+
+405
+00:57:37,828 --> 00:57:40,503
+trait results in mild anemia.
+
+406
+00:57:40,453 --> 00:57:50,015
+However, if the patient and her partner both carry cis deletions, offspring are at risk for an absence of αhemoglobin, called Hb Barts disease.
+
+407
+00:57:50,015 --> 00:57:53,315
+This can lead to hydrops and fetal loss .
+
+408
+00:57:53,315 --> 00:57:59,453
+Hemoglobin electrophoresis cannot detect α-thalassemia or α-thalassemia trait.
+
+409
+00:57:59,453 --> 00:58:12,590
+Molecular genetic testing should be considered if there is microcytic anemia in the absence of iron deficiency and if the hemoglobin electrophoresis is normal, particularly among individuals of Southeast Asian descent .
+
+410
+00:58:12,590 --> 00:58:19,678
+In β-thalassemia, β-globin genes may cause reduced or absent production of β-globin chains.
+
+411
+00:58:19,678 --> 00:58:24,890
+If the mutation affects one gene, it results in β-thalassemia minor.
+
+412
+00:58:24,890 --> 00:58:33,603
+If both copies are affected, the result is either β-thalassemia major— termed Cooley anemia—or β-thalassemia intermedia.
+
+413
+00:58:33,603 --> 00:58:42,728
+Hemoglobin electrophoresis demonstrates elevated levels of hemoglobins that do not contain β-chains, which are hemoglobins F and A2.
+
+414
+00:58:42,728 --> 00:58:53,053
+β-Thalassemia minor should be considered if an individual of one or more of the aforementioned ethnicities is found to have microcytic anemia in the absence of iron deficiency.
+
+415
+00:58:53,053 --> 00:58:58,915
+A hemoglobin A2 level exceeding 3.5 percent confirms the diagnosis.
+
+416
+00:58:58,915 --> 00:59:03,615
+# Recessive Diseases in Ashkenazi Jewish Individuals.
+
+417
+00:59:03,615 --> 00:59:20,390
+Among Jewish individuals of Eastern and Central European (Ashkenazi) descent, there are three severe diseases for which the carrier frequency and detection rate are high enough that screening should be offered: Tay-Sachs disease, Canavan disease, and familial dysautonomia .
+
+418
+00:59:20,390 --> 00:59:30,140
+The carrier rate approximates 1 in 30 for Tay-Sachs disease, 1 in 40 for Canavan disease, and 1 in 32 for familial dysautonomia.
+
+419
+00:59:30,140 --> 00:59:34,328
+For each, the detection rate is at least 98 percent.
+
+420
+00:59:34,328 --> 00:59:41,578
+As for other genetic conditions, screening is ideally performed prior to conception or during early pregnancy.
+
+421
+00:59:41,578 --> 00:59:48,653
+There are several other autosomal recessive conditions for which the College also recommends that screening be considered.
+
+422
+00:59:48,653 --> 01:00:06,565
+These include Bloom syndrome, familial hyperinsulinism, Fanconi anemia, Gaucher disease, glycogen storage disease type I (von Gierke disease), Joubert syndrome, maple syrup urine disease, mucolipidosis type IV, Niemann-Pick disease, and Usher syndrome.
+
+423
+01:00:06,565 --> 01:00:17,403
+Gaucher disease differs from the other conditions listed because it has a wide range in phenotype and because treatment is available in the form of enzyme repletion and substrate reduction therapy.
+
+424
+01:00:17,403 --> 01:00:24,878
+Tay-Sachs Disease This lysosomal-storage disease causes progressive neurodegeneration and death in early childhood.
+
+425
+01:00:24,878 --> 01:00:34,790
+It is characterized by deficiency of the enzyme hexosaminidase A, which results in accumulation of GM2 gangliosides in the central nervous system.
+
+426
+01:00:34,790 --> 01:00:45,078
+Affected individuals have almost complete absence of the enzyme, whereas carriers are asymptomatic but have less than 55percent hexosaminidase A activity.
+
+427
+01:00:45,078 --> 01:00:55,265
+An international Tay-Sachs carrier screening campaign was initiated in the 1970s and met with unprecedented success in the Ashkenazi Jewish population.
+
+428
+01:00:55,265 --> 01:01:00,328
+The incidence of Tay-Sachs disease subsequently declined more than 90 percent .
+
+429
+01:01:00,328 --> 01:01:06,678
+Other groups at increased risk for Tay-Sachs disease include those of FrenchCanadian and Cajun descent.
+
+430
+01:01:06,678 --> 01:01:14,715
+Carrier screening for Tay-Sachs disease is performed with DNA-based mutation analysis or hexosaminidase activity testing.
+
+431
+01:01:14,715 --> 01:01:25,103
+DNA-based mutation analysis is the preferred test in Ashkenazi Jewish individuals and other highrisk groups but has a lower detection rate in the general population.
+
+432
+01:01:25,103 --> 01:01:32,953
+Therefore, hexosaminidase activity testing is recommended for screening in individuals from lower-risk ethnicities.
+
+433
+01:01:32,953 --> 01:01:42,715
+If a woman is pregnant or taking oral contraceptives, a hexosaminidase activity test should be performed on leukocytes to avoid a high false-positive rate .
+
+434
+01:01:42,715 --> 01:01:48,603
+If both partners are found to be carriers, prenatal diagnostic testing should be offered.
+
+435
+01:01:48,603 --> 01:01:54,390
+Hexosaminidase activity may be measured from chorionic villi or amnionic fluid.
+
+436
+01:01:54,390 --> 01:01:57,915
+Prenatal And Preimplantation Diagnostic.
+
+437
+01:01:57,915 --> 01:01:59,440
+Tests.
+
+438
+01:01:59,440 --> 01:02:07,615
+Diagnostic procedures used in prenatal diagnosis include amniocentesis and chorionic villus sampling (CVS).
+
+439
+01:02:07,615 --> 01:02:11,978
+Fetal blood sampling is rarely performed solely for genetic
+
+440
+01:02:12,148 --> 01:02:17,123
+diagnosis but may be used in conjunction with intrauterine transfusion.
+
+441
+01:02:17,073 --> 01:02:28,835
+Preimplantation genetic tests for aneuploidies, structural chromosomal rearrangements, and monogenic disorders are available for couples undergoing in vitro fertilization (IVF).
+
+442
+01:02:28,835 --> 01:02:36,560
+In the setting of a fetal structural abnormality, chromosomal microarray analysis (CMA) is recommended.
+
+443
+01:02:36,560 --> 01:02:55,785
+CMA is preferred to cytogenetic analysis (karyotyping) because it can detect clinically significant chromosomal abnormalities in approximately 6.5 percent of fetuses with normal karyotype (Callaway, 2013; de Wit, 2014, Wapner, 2012).
+
+444
+01:02:55,785 --> 01:03:09,085
+And, in the absence of a fetal structural abnormality, CMA has detected additional chromosomal abnormalities (pathogenic copy number variants) in up to 1 percent of those with normal karyotype.
+
+445
+01:03:09,085 --> 01:03:21,723
+CMA is therefore made available whenever a prenatal diagnostic procedure is performed (American College of Obstetricians and Gynecologists, 2018; Callaway, 2013).
+
+446
+01:03:21,723 --> 01:03:29,698
+Types of CMA platforms and their benefits and limitations are reviewed in Chapter 16 (p. 326).
+
+447
+01:03:29,698 --> 01:03:33,823
+Karyotyping identifies aneuploidy and polyploidy.
+
+448
+01:03:33,823 --> 01:03:40,960
+Additionally, it can identify balanced chromosomal rearrangements that are currently undetectable with CMA.
+
+449
+01:03:40,960 --> 01:03:51,360
+For example, karyotyping performed when a couple has experienced recurrent pregnancy loss may reveal that one parent carries a balanced robertsonian translocation .
+
+450
+01:03:51,360 --> 01:04:05,110
+An additional indication is the fetus with a structural abnormality that strongly suggests a particular aneuploidy—such as endocardial cushion defect in trisomy 21 or holoprosencephaly in trisomy 13.
+
+451
+01:04:05,110 --> 01:04:20,523
+If rapid identification of a specific chromosomal abnormality, such as trisomy 21, 18, or 13, is needed, fluorescence in situ hybridization (FISH) may be used in conjunction with CMA or karyotyping.
+
+452
+01:04:20,523 --> 01:04:30,223
+Decision-making based on FISH should incorporate clinical information consistent with the suspected diagnosis, such as a screening result or ultrasound finding .
+
+453
+01:04:30,223 --> 01:04:38,423
+Because of improvements in aneuploidy screening tests, there has been a dramatic drop in the number of prenatal diagnostic procedures.
+
+454
+01:04:38,423 --> 01:04:52,123
+Larion and coworkers (2014) reported a 70-percent decline in CVS and a nearly 50percent drop in amniocentesis procedures since the introduction of cfDNA screening in 2012.
+
+455
+01:04:52,123 --> 01:04:59,523
+This further amplified the decrease in amniocentesis procedures that occurred with the advent of first-trimester screening .
+
+456
+01:04:59,523 --> 01:05:06,773
+Unfortunately, fewer than 40 percent of women with a positive screening result elect prenatal diagnosis .
+
+457
+01:05:06,773 --> 01:05:14,048
+If prenatal diagnosis is elected, however, the percent with an abnormal result has increased significantly .
+
+458
+01:05:14,048 --> 01:05:16,735
+# Amniocentesis.
+
+459
+01:05:16,735 --> 01:05:23,223
+Because of its established safety and efficacy, amniocentesis is offered to all pregnant women .
+
+460
+01:05:23,223 --> 01:05:28,798
+Amnionic fluid is withdrawn transabdominally under direct ultrasound guidance.
+
+461
+01:05:28,798 --> 01:05:37,310
+Although typically performed between 15 and 20 weeks’ gestation, amniocentesis may be done at any point later in gestation.
+
+462
+01:05:37,310 --> 01:05:43,598
+Tests include those for genetic conditions, congenital infections, and alloimmunization.
+
+463
+01:05:43,598 --> 01:05:51,648
+Fetal lung maturity is no longer routinely assessed, based on recommendations against using it to assist with delivery timing .
+
+464
+01:05:51,648 --> 01:05:58,410
+Technique Amniocentesis is performed with a 20- or 22-gauge needle using aseptic technique .
+
+465
+01:05:58,410 --> 01:06:02,235
+A standard spinal needle is 9 cm long.
+
+466
+01:06:02,235 --> 01:06:06,010
+A longer needle may be required for obese patients.
+
+467
+01:06:06,010 --> 01:06:14,523
+To aid in needle selection, we find it helpful to measure the distance from skin to amnionic fluid with ultrasound prior to the procedure.
+
+468
+01:06:14,523 --> 01:06:21,110
+After the patient empties her bladder, the skin is prepared with an antiseptic such as povidone-iodine.
+
+469
+01:06:21,110 --> 01:06:26,560
+Shellfish allergy is not a contraindication to the povidone-iodine antiseptic .
+
+470
+01:06:26,560 --> 01:06:29,098
+Figure 17-4.
+
+471
+01:06:29,098 --> 01:06:31,573
+A. Amniocentesis.
+
+472
+01:06:31,573 --> 01:06:37,148
+B. The amniocentesis needle is seen in the upper right portion of this sonogram.
+
+473
+01:06:37,148 --> 01:06:49,373
+Figures 17-4, 17-5, and 17-7 are reproduced with permission from Mastrobattista JM, Espinoza J: Invasive prenatal diagnostic procedures.
+
+474
+01:06:49,373 --> 01:06:58,685
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+475
+01:06:58,685 --> 01:07:03,173
+New York, NY: McGraw Hill; 2017.
+
+476
+01:07:03,173 --> 01:07:08,335
+All aspects of the procedure are performed under direct ultrasound guidance.
+
+477
+01:07:08,335 --> 01:07:09,635
+A
+
+478
+01:07:09,796 --> 01:07:17,946
+pocket of amnionic fluid close to the midline is selected, avoiding fetal parts and being cognizant of uterine size and shape.
+
+479
+01:07:17,896 --> 01:07:26,671
+The needle is inserted perpendicular to the skin, gently puncturing the chorioamnion rather than pushing or “tenting” it away from the uterine wall.
+
+480
+01:07:26,671 --> 01:07:36,621
+The amnion usually fuses with the underlying chorion by 16 weeks’ gestation, and the procedure is generally deferred until after chorioamnion fusion.
+
+481
+01:07:36,621 --> 01:07:44,858
+Discomfort from the procedure is considered minor and is related more to focal myometrial contraction than needle discomfort at the skin.
+
+482
+01:07:44,858 --> 01:07:48,708
+Local anesthetic has not been found to be beneficial .
+
+483
+01:07:48,708 --> 01:07:53,208
+The amnionic fluid should be clear and colorless or pale yellow.
+
+484
+01:07:53,208 --> 01:08:00,683
+Bloodtinged fluid is more frequent with transplacental passage of the needle and generally clears with continued aspiration.
+
+485
+01:08:00,683 --> 01:08:14,296
+Needle passage through the placenta occurs in approximately 60 percent of cases with anterior placentation and is not associated with pregnancy loss (Bombard, 1995, Marthin, 1997).
+
+486
+01:08:14,296 --> 01:08:19,971
+Dark brown or greenish fluid may represent a past episode of intraamnionic bleeding.
+
+487
+01:08:19,971 --> 01:08:26,696
+The volume of fluid generally needed for commonly performed analyses is shown in Table 17-9.
+
+488
+01:08:26,696 --> 01:08:34,646
+Because the initial 1 to 2 mL of fluid aspirate may be contaminated with maternal cells, it is often discarded.
+
+489
+01:08:34,646 --> 01:08:43,021
+Approximately 20 to 30 mL of fluid is then collected for either fetal CMA or karyotyping before the needle is withdrawn.
+
+490
+01:08:43,021 --> 01:08:50,271
+The uterine puncture site is observed for bleeding, and fetal cardiac motion is documented following the procedure.
+
+491
+01:08:50,271 --> 01:08:58,071
+If the patient is Rh D-negative and unsensitized, anti-D immune globulin is administered after the procedure .
+
+492
+01:08:58,071 --> 01:09:00,621
+Table 17-9.
+
+493
+01:09:00,621 --> 01:09:07,308
+Selected Tests Performed on Amnionic Fluid and Volume of Fluid Required Multifetal Pregnancy.
+
+494
+01:09:07,308 --> 01:09:18,033
+When performing the procedure in a dichorionic or monochorionic diamnionic twin gestation, careful attention is paid to the location of each sac and the dividing membrane.
+
+495
+01:09:18,033 --> 01:09:32,171
+Until recently, a small quantity of dilute indigo carmine dye was often injected before removing the needle from the first sac, with return of clear amnionic fluid anticipated following needle placement into the second sac.
+
+496
+01:09:32,171 --> 01:09:41,083
+Because of widespread shortages of indigo carmine dye, experienced providers typically offer amniocentesis without dye injection.
+
+497
+01:09:41,083 --> 01:09:51,383
+Methylene blue dye is contraindicated because it has been associated with jejunal atresia and neonatal methemoglobinemia (van der Pol, 1992).
+
+498
+01:09:51,383 --> 01:09:59,171
+Complications Midtrimester losses attributable to amniocentesis have decreased with improvements in imaging technology.
+
+499
+01:09:59,171 --> 01:10:19,033
+When performed by an experienced provider, the procedure-related loss rate is estimated to be 0.1 to 0.3 percent, or about 1 per 500 procedures (American College of Obstetricians and Gynecologists, 2018; Odibo, 2008, Salomon, 2019).
+
+500
+01:10:19,033 --> 01:10:25,508
+The loss rate may be doubled in women whose body mass index exceeds 40 kg/m2 .
+
+501
+01:10:25,508 --> 01:10:34,871
+In twin pregnancies, Cahill and coworkers (2009) reported a loss rate of 1.8 percent attributable to amniocentesis.
+
+502
+01:10:34,871 --> 01:10:44,283
+When counseling regarding fetal loss following a procedure, it can be helpful to explain the difference between overall losses and procedurerelated losses.
+
+503
+01:10:44,283 --> 01:11:00,796
+In a recent metaanalysis that included more than 60,000 amniocentesis procedures and 300,000 control pregnancies, the loss rate in the absence of a procedure was 0.6 percent, approximately twice the rate of losses attributable to procedures .
+
+504
+01:11:00,796 --> 01:11:11,258
+The indication for the procedure is also relevant, because severe fetal abnormalities and hydrops can significantly increase the loss rate, regardless of a procedure.
+
+505
+01:11:11,258 --> 01:11:19,346
+Other complications of amniocentesis include amnionic fluid leakage or transient vaginal spotting in 1 to 2 percent.
+
+506
+01:11:19,346 --> 01:11:24,896
+Leakage of amnionic fluid generally occurs within 48 hours of the procedure.
+
+507
+01:11:24,896 --> 01:11:31,608
+Leakage of fluid typically resolves after a few days, and fetal survival exceeds 90 percent .
+
+508
+01:11:31,608 --> 01:11:37,246
+Management recommendations include pelvic rest and avoidance of strenuous activity.
+
+509
+01:11:37,246 --> 01:11:40,296
+Needle injuries to the fetus are rare.
+
+510
+01:11:40,296 --> 01:11:50,596
+If karyotyping is performed, amnionic fluid culture is successful in more than 99 percent of cases, although cells are less likely to grow if the fetus is
+
+511
+01:11:50,764 --> 01:11:52,401
+abnormal .
+
+512
+01:11:52,351 --> 01:11:59,301
+Early Amniocentesis Amniocentesis was formerly offered between 11 and 14 weeks’ gestation.
+
+513
+01:11:59,301 --> 01:12:08,614
+The technique is the same as for traditional amniocentesis, but the procedure may be more challenging because of lack of membrane fusion to the uterine wall.
+
+514
+01:12:08,614 --> 01:12:13,314
+Approximately 1 mL is withdrawn for each week of gestation.
+
+515
+01:12:13,314 --> 01:12:22,426
+Early amniocentesis is associated with significantly higher rates of fetal loss and other procedure-related complications than other procedures.
+
+516
+01:12:22,426 --> 01:12:36,026
+Complications include development of talipes equinovarus (clubfoot) and amnionic fluid leakage (Canadian Early and Mid-Trimester Amniocentesis Trial, 1998; Philip, 2004).
+
+517
+01:12:36,026 --> 01:12:40,551
+For these reasons, early amniocentesis is not recommended .
+
+518
+01:12:40,551 --> 01:12:43,639
+# Chorionic Villus Sampling.
+
+519
+01:12:43,639 --> 01:12:49,839
+Biopsy of chorionic villi is typically performed between 10 and 13 weeks’ gestation.
+
+520
+01:12:49,839 --> 01:12:56,601
+As with amniocentesis, the specimen is usually sent for CMA or karyotype analysis.
+
+521
+01:12:56,601 --> 01:13:07,126
+The primary advantage of CVS is that results are available earlier in pregnancy, permitting more time for decision-making and safer pregnancy termination, if desired.
+
+522
+01:13:07,126 --> 01:13:11,939
+Technique CVS is performed transcervically or transabdominally.
+
+523
+01:13:11,939 --> 01:13:15,389
+Both approaches are equally safe and effective .
+
+524
+01:13:15,389 --> 01:13:22,726
+The transcervical approach uses a flexible polyethylene catheter that contains a blunt-tipped, malleable stylet.
+
+525
+01:13:22,726 --> 01:13:28,351
+Transabdominal sampling is performed with an 18- or 20-gauge spinal needle.
+
+526
+01:13:28,351 --> 01:13:34,314
+Both use aseptic technique and are performed under direct transabdominal ultrasound guidance.
+
+527
+01:13:34,314 --> 01:13:44,189
+The catheter or needle is inserted into the early placenta—chorion frondosum, and villi are aspirated into a syringe that contains tissue culture media .
+
+528
+01:13:44,189 --> 01:13:46,801
+Figure 17-5.
+
+529
+01:13:46,801 --> 01:13:50,314
+A. Transcervical chorionic villus sampling.
+
+530
+01:13:50,314 --> 01:13:54,314
+B. Catheter entering the placenta is marked and labeled.
+
+531
+01:13:54,314 --> 01:14:06,651
+Relative contraindications include vaginal bleeding or spotting, active genital tract infection, extreme uterine ante- or retroflexion, or body habitus precluding adequate visualization.
+
+532
+01:14:06,651 --> 01:14:14,451
+If the patient is Rh D-negative and unsensitized, anti-D immune globulin is administered after the procedure.
+
+533
+01:14:14,451 --> 01:14:21,939
+Complications The overall fetal loss rate following CVS is higher than that with midtrimester amniocentesis.
+
+534
+01:14:21,939 --> 01:14:28,501
+This is because of losses that would have occurred between the first and second trimester in the absence of a procedure.
+
+535
+01:14:28,501 --> 01:14:36,964
+The procedure-related loss rate is comparable to that with amniocentesis, approximately 0.1 to 0.3 percent .
+
+536
+01:14:36,964 --> 01:14:45,714
+In fact, a recent metaanalysis identified no significant losses from CVS when controls with similar risk profiles were selected .
+
+537
+01:14:45,714 --> 01:14:50,814
+As with amniocentesis, CVS indication will affect the loss rate.
+
+538
+01:14:50,814 --> 01:14:56,814
+For example, fetuses with increased NT thickness have a greater likelihood of demise.
+
+539
+01:14:56,814 --> 01:15:05,426
+There is also a learning curve associated with safe performance of CVS (Silver, 1990; Wijnberger, 2003).
+
+540
+01:15:05,426 --> 01:15:20,489
+An early problem with CVS was its association with limb-reduction defects and oromandibular limb hypogenesis, shown in Figure 17-6 (Firth, 1991, 1994; Hsieh, 1995).
+
+541
+01:15:20,489 --> 01:15:26,789
+These were subsequently found to be associated with procedures performed at 7 weeks’ gestation .
+
+542
+01:15:26,789 --> 01:15:41,051
+When performed at or after 10 weeks’ gestation, the incidence of limb defects does not exceed the background population rate of approximately 1 case per 1000 (Evans, 2005; Kuliev, 1996).
+
+543
+01:15:41,051 --> 01:15:43,651
+Figure 17-6.
+
+544
+01:15:43,651 --> 01:15:52,314
+Oromandibular limb hypogenesis is characterized by transverse limb deficiency and absence or hypoplasia of the tongue or mandible.
+
+545
+01:15:52,314 --> 01:15:57,901
+This is hypothesized to result from vascular disruption with subsequent loss of tissue.
+
+546
+01:15:57,901 --> 01:16:05,501
+A. Sonogram obtained at 25 weeks’ gestation demonstrates a fetal limb reduction defect involving the right hand.
+
+547
+01:16:05,501 --> 01:16:09,564
+B. Photograph of the right extremity of the same newborn.
+
+548
+01:16:09,564 --> 01:16:13,889
+Chorionic villus sampling was not performed in this pregnancy.
+
+549
+01:16:13,889 --> 01:16:17,626
+Reproduced with permission from Dr. Jamie Morgan.
+
+550
+01:16:17,626 --> 01:16:26,101
+Vaginal spotting is not uncommon following transcervical sampling, but it is self-limited and not associated with pregnancy loss.
+
+551
+01:16:26,101 --> 01:16:32,264
+The incidence of infection or leakage of amnionic fluid is less than 0.5 percent .
+
+552
+01:16:32,264 --> 01:16:39,076
+A limitation of CVS is that chromosomal mosaicism is identified in up to 2 percent of specimens .
+
+553
+01:16:39,076 --> 01:16:43,776
+In most cases, the mosaicism reflects confined placental
+
+554
+01:16:43,948 --> 01:16:48,360
+mosaicism rather than a true second cell line within the fetus.
+
+555
+01:16:48,310 --> 01:16:52,710
+This is discussed in Chapter 16 (p. 318).
+
+556
+01:16:52,710 --> 01:17:00,848
+Amniocentesis should be offered, and if the result is normal, the mosaicism is usually presumed to be confined to the placenta.
+
+557
+01:17:00,848 --> 01:17:09,935
+Confined placental mosaicism is associated with fetal-growth restriction (Baffero, 2012; Toutain, 2018).
+
+558
+01:17:09,935 --> 01:17:12,723
+# Fetal Blood Sampling.
+
+559
+01:17:12,723 --> 01:17:18,710
+This procedure is also called cordocentesis or percutaneous umbilical blood sampling .
+
+560
+01:17:18,710 --> 01:17:29,698
+It was initially described for fetal transfusion of red blood cells in the setting of anemia from alloimmunization, and fetal anemia assessment remains the most common indication .
+
+561
+01:17:29,698 --> 01:17:42,785
+Other indications include assessment and treatment of platelet alloimmunization and for fetal karyotype determination, particularly in cases of mosaicism identified following amniocentesis or CVS.
+
+562
+01:17:42,785 --> 01:17:50,660
+Improvements in testing using an amniocentesis specimen have eliminated the need for fetal blood sampling in most cases .
+
+563
+01:17:50,660 --> 01:17:53,235
+Figure 17-7.
+
+564
+01:17:53,235 --> 01:17:55,460
+Fetal blood sampling.
+
+565
+01:17:55,460 --> 01:18:01,510
+A. Access to the umbilical vein varies depending on placental location and cord position.
+
+566
+01:18:01,510 --> 01:18:06,160
+With an anterior placenta, the needle may traverse the placenta.
+
+567
+01:18:06,160 --> 01:18:13,998
+Inset: With posterior placentation, the needle passes through amnionic fluid before penetrating the umbilical vein.
+
+568
+01:18:13,998 --> 01:18:18,010
+Alternatively, a free loop of cord may be accessed.
+
+569
+01:18:18,010 --> 01:18:25,723
+B. Sonogram shows an anterior placenta with transplacental needle passage into the umbilical vein (UV).
+
+570
+01:18:25,723 --> 01:18:38,885
+Technique Using aseptic technique, a 22- or 23-gauge spinal needle is introduced into the umbilical vein under direct ultrasound guidance, and blood is slowly withdrawn into a heparinized syringe.
+
+571
+01:18:38,885 --> 01:18:42,323
+Precise visualization of the needle is essential.
+
+572
+01:18:42,323 --> 01:18:47,823
+As with amniocentesis, a longer needle may be required for obese patients.
+
+573
+01:18:47,823 --> 01:18:57,173
+Fetal blood sampling is often performed near the placental cord insertion site, where it may be easier to enter the cord if the placenta lies anteriorly.
+
+574
+01:18:57,173 --> 01:19:01,135
+Alternatively, a free loop of cord may be punctured.
+
+575
+01:19:01,135 --> 01:19:08,798
+Because fetal blood sampling requires more time than other fetal procedures, a local anesthetic may be administered.
+
+576
+01:19:08,798 --> 01:19:15,273
+Prophylactic antibiotics are used at some centers, although no trials support this policy.
+
+577
+01:19:15,273 --> 01:19:21,485
+Arterial puncture is avoided, because it may result in vasospasm and fetal bradycardia.
+
+578
+01:19:21,485 --> 01:19:28,260
+After the needle is removed, fetal cardiac motion is documented, and the site is observed for bleeding.
+
+579
+01:19:28,260 --> 01:19:39,235
+Complications The procedure-related fetal loss rate following fetal blood sampling approximates 1 percent (Tongsong, 2001, Tanvisut, 2020).
+
+580
+01:19:39,235 --> 01:19:44,885
+The actual loss rate varies according to the procedure indication and the fetal status.
+
+581
+01:19:44,885 --> 01:20:06,923
+Other complications may include cord vessel bleeding in 20 to 30 percent of cases, fetal-maternal bleeding in approximately 40 percent of cases in which the placenta is traversed, and fetal bradycardia in 5 to 10 percent (Boupaijit, 2012; Society for Maternal-Fetal Medicine, 2013; Tanvisut, 2020).
+
+582
+01:20:06,923 --> 01:20:13,248
+Most complications are transitory, with complete recovery, but some result in fetal loss.
+
+583
+01:20:13,248 --> 01:20:29,160
+In one series of more than 2000 procedures comparing fetal blood sampling near the placental cord insertion site with puncture of a free loop, rates of procedure success, pregnancy loss, visible bleeding from the cord, and fetal bradycardia did not differ.
+
+584
+01:20:29,160 --> 01:20:38,723
+Time to complete the procedure was significantly shorter if the cord was sampled at the placental insertion site rather than in a free loop—5 versus 7 minutes.
+
+585
+01:20:38,723 --> 01:20:44,610
+However, sampling at the insertion site had a higher rate of maternal blood contamination .
+
+586
+01:20:44,610 --> 01:20:48,085
+# Preimplantation Genetic Tests.
+
+587
+01:20:48,085 --> 01:20:58,123
+For couples undergoing IVF, several types of genetic tests may be performed on oocytes (polar bodies) or embryos prior to uterine transfer.
+
+588
+01:20:58,123 --> 01:21:13,685
+These include preimplantation genetic testing for aneuploidy, abbreviated PGT-A, prenatal genetic testing for structural rearrangements (PGT-SR), and prenatal genetic testing for monogenic disorders (PGT-M).
+
+589
+01:21:13,685 --> 01:21:25,023
+Testing is typically performed via trophectoderm biopsy at the blastocyst stage but may be performed on polar bodies of oocytes or via blastomere biopsy of a cleavage-stage embryo .
+
+590
+01:21:25,023 --> 01:21:29,135
+False-positive and false-negative results are possible with
+
+591
+01:21:29,284 --> 01:21:31,759
+each type of PGT.
+
+592
+01:21:31,709 --> 01:21:37,621
+Therefore, prenatal diagnosis with CVS or amniocentesis should be offered .
+
+593
+01:21:37,621 --> 01:21:43,646
+Comprehensive genetic counseling is required before consideration of each of these procedures .
+
+594
+01:21:43,646 --> 01:21:46,109
+Figure 17-8.
+
+595
+01:21:46,109 --> 01:21:48,646
+A. Blastomere biopsy.
+
+596
+01:21:48,646 --> 01:21:53,284
+After a blastomere is selected, it is then drawn into the pipette.
+
+597
+01:21:53,284 --> 01:21:56,009
+B. Trophectoderm biopsy.
+
+598
+01:21:56,009 --> 01:22:01,196
+Reproduced with permission from Doody KJ: Treatment of the infertile couple.
+
+599
+01:22:01,196 --> 01:22:08,646
+Hoffman BL, Schorge JO, Halvorson LM, et al (eds): Williams Gynecology, 4th ed.
+
+600
+01:22:08,646 --> 01:22:12,571
+New York, NY: McGraw Hill; 2020.
+
+601
+01:22:12,571 --> 01:22:18,784
+PGT-A is a type of aneuploidy screening test that evaluates the number of each chromosome.
+
+602
+01:22:18,784 --> 01:22:26,721
+Although clearly an appealing prospect, available data are limited, and an optimal testing platform is not yet established.
+
+603
+01:22:26,721 --> 01:22:36,171
+Importantly, if PGT-A is performed with next-generation sequencing following trophectoderm biopsy, mosaicism is frequently identified .
+
+604
+01:22:36,171 --> 01:22:43,096
+Despite an increased risk for poor outcome, many such cases have resulted in healthy, normal children .
+
+605
+01:22:43,096 --> 01:22:54,771
+The American Society for Reproductive Medicine (2018) has concluded that the utility of routine performance of PGT-A for all IVF pregnancies has yet to be determined.
+
+606
+01:22:54,771 --> 01:23:02,671
+PGT-M may be performed when there is increased risk for a particular single-gene disorder or a hereditary cancer syndrome .
+
+607
+01:23:02,671 --> 01:23:06,596
+It is a test for a specific condition rather than a panel.
+
+608
+01:23:06,596 --> 01:23:15,509
+In selected cases, this technique may also be used identify a suitable future donor of umbilical cord blood for an affected family member.
+
+609
+01:23:15,509 --> 01:23:26,134
+PGT-SR is offered if one of the parents is a carrier of such a rearrangement, such as a duplication, deletion, translocation, insertion, or inversion.
+
+610
+01:23:26,134 --> 01:23:32,746
+The test will identify an unbalanced chromosomal rearrangement but will not detect a balanced carrier.
+
+611
+01:23:32,746 --> 01:23:36,321
+Counseling should therefore include this limitation.
+

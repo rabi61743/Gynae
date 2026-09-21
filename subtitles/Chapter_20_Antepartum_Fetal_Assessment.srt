@@ -1,0 +1,1544 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,937
+Chapter 20: Antepartum Fetal Assessment.
+
+3
+00:00:05,937 --> 00:00:26,400
+Fetal Movements Fetal Breathing Contraction Stress Testing Nonstress Tests Biophysical Profile Amnionic Fluid Volume Doppler Velocimetry Antenatal Testing Summary References Techniques employed to evaluate fetal health focus on fetal biophysical findings that include heart rate, movement, breathing, and amnionic fluid production.
+
+4
+00:00:26,400 --> 00:00:36,025
+Antepartum fetal surveillance aims to prevent fetal death in pregnancies with complex maternal and fetal conditions yet avoid unnecessary interventions .
+
+5
+00:00:36,025 --> 00:00:42,112
+Most fetuses will be healthy, and a normal antepartum test result is highly reassuring.
+
+6
+00:00:42,112 --> 00:00:46,362
+Fetal death within 1 week of a normal test result is rare.
+
+7
+00:00:46,362 --> 00:00:56,562
+Indeed, negative predictive values—true negative test results for fetal jeopardy—for most of the tests described are 99.8 percent or higher.
+
+8
+00:00:56,562 --> 00:01:06,300
+In contrast, estimates of positive predictive values—true positive test results for fetal jeopardy— are low and range between 10 and 40 percent.
+
+9
+00:01:06,300 --> 00:01:11,625
+The benefit of fetal surveillance is primarily based on circumstantial evidence.
+
+10
+00:01:11,625 --> 00:01:17,537
+No definitive randomized clinical trials have been conducted for obvious ethical reasons .
+
+11
+00:01:17,537 --> 00:01:19,462
+Fetal Movements.
+
+12
+00:01:19,462 --> 00:01:22,437
+# Fetal Behavioral States.
+
+13
+00:01:22,437 --> 00:01:31,125
+Fetal activity commences as early as 7 weeks’ gestation (Sajapala, 2017; Vindla, 1995).
+
+14
+00:01:31,125 --> 00:01:39,612
+Between 20 and 30 weeks’ gestation, general body movements become organized, and the fetus starts to show rest-activity cycles .
+
+15
+00:01:39,612 --> 00:01:44,537
+These cycles reflect central nervous system development and maturation.
+
+16
+00:01:44,537 --> 00:01:52,637
+By approximately 36 weeks’ gestation, restactivity cycles give way to behavioral states in most normal fetuses .
+
+17
+00:01:52,637 --> 00:02:04,975
+Four fetal behavioral states are described by Nijhuis and coworkers (1982): • State 1F is a quiescent state—quiet sleep—with a narrow oscillatory bandwidth of the fetal heart rate.
+
+18
+00:02:04,975 --> 00:02:12,962
+State 2F includes frequent gross body movements, continuous eye movements, and wider oscillation of the fetal heart rate.
+
+19
+00:02:12,962 --> 00:02:18,587
+This state is analogous to rapid eye movement (REM) or active sleep in the neonate.
+
+20
+00:02:18,587 --> 00:02:25,787
+State 3F includes continuous eye movements in the absence of body movements and no heart rate accelerations.
+
+21
+00:02:25,787 --> 00:02:29,550
+This state is rare, and its existence is disputed .
+
+22
+00:02:29,550 --> 00:02:36,225
+State 4F is one of vigorous body movement with continuous eye movements and heart rate accelerations.
+
+23
+00:02:36,225 --> 00:02:40,087
+This state corresponds to the awake state in newborns.
+
+24
+00:02:40,087 --> 00:02:54,100
+At 28 to 30 weeks’ gestation, fetuses transition to spend most of their time in states 1F and 2F, namely, in quiet or active sleep (Peirano 2003; Suwanrath, 2010).
+
+25
+00:02:54,100 --> 00:03:00,212
+For example, at 38 weeks, 75 percent of time is spent in these two states.
+
+26
+00:03:00,212 --> 00:03:07,062
+These behavioral states have been used to develop an increasingly sophisticated understanding of fetal behavior.
+
+27
+00:03:07,062 --> 00:03:20,075
+In a study of fetal urine production, bladder volumes rose during state 1F quiet sleep and significantly declined during state 2F active sleep due to diminished urine production and infrequent fetal voiding .
+
+28
+00:03:20,075 --> 00:03:25,475
+These phenomena were thought to represent reduced renal blood flow during active sleep.
+
+29
+00:03:25,475 --> 00:03:27,775
+Figure 20-1.
+
+30
+00:03:27,775 --> 00:03:34,975
+The change in fetal sleep patterns (blue columns) and corresponding number of accelerations (graph lines).
+
+31
+00:03:34,975 --> 00:03:43,150
+As the third trimester advances, fetuses spend more time in active sleep and the number of accelerations per hour increases.
+
+32
+00:03:43,150 --> 00:03:46,412
+# Determinants of Fetal Activity.
+
+33
+00:03:46,412 --> 00:03:53,875
+One determinant of fetal activity is the just-described sleep-awake cycles, which are independent of maternal ones.
+
+34
+00:03:53,875 --> 00:04:02,987
+In one study of 16 near-term fetuses, the mean duration of a complete cycle, which included quiet and active states, was 60 minutes.
+
+35
+00:04:02,987 --> 00:04:09,137
+The mean duration was 23 minutes for the quiet states and 40 minutes for the active states .
+
+36
+00:04:09,137 --> 00:04:23,862
+Patrick and associates (1982) measured gross fetal body movements with real-time sonography for 24-hour periods in 31 normal near-term pregnancies and found the longest period of inactivity to be 75 minutes.
+
+37
+00:04:23,862 --> 00:04:28,662
+Amnionic fluid volume is another factor affecting fetal activity.
+
+38
+00:04:28,662 --> 00:04:41,225
+Sherer and colleagues (1996) assessed the number of fetal movements in relation to amnionic fluid volume in 465 preterm pregnancies during biophysical profile testing.
+
+39
+00:04:41,225 --> 00:04:44,225
+Fetal activity declined in those with
+
+40
+00:04:44,380 --> 00:04:52,392
+diminished amnionic volumes, and the authors suggested that a restricted uterine space might physically limit fetal movements.
+
+41
+00:04:52,342 --> 00:04:56,192
+Patient habits and medications alter fetal movement.
+
+42
+00:04:56,192 --> 00:05:04,105
+For example, maternal smoking decreases fetal activity (Coppens, 2001; Thaler, 1980).
+
+43
+00:05:04,105 --> 00:05:14,330
+Treatment of substance abuse disorders with methadone and buprenorphine also reduces fetal movement (Jansson, 2017; Wouldes, 2004).
+
+44
+00:05:14,330 --> 00:05:27,092
+Betamethasone administration is associated with decreased fetal movement for 24 to 72 hours, and the diurnal pattern is lost (Koenen, 2005; Mulder, 2009).
+
+45
+00:05:27,092 --> 00:05:30,442
+The effect is less clear with dexamethasone.
+
+46
+00:05:30,442 --> 00:05:41,380
+Maternal acetaminophen ingestion does not alter fetal movement, but a glucose load does promote activity (Aladjem, 1979; Nitsche, 2015).
+
+47
+00:05:41,380 --> 00:05:44,030
+# Maternal Perception.
+
+48
+00:05:44,030 --> 00:05:56,855
+Sadovsky and coworkers (1979b) classified fetal movements as weak, strong, and rolling according to maternal perceptions and independent recordings using piezoelectric sensors.
+
+49
+00:05:56,855 --> 00:06:03,692
+As pregnancy advances, the rate of weak movements drops, and more vigorous ones rise in frequency.
+
+50
+00:06:03,692 --> 00:06:06,330
+The latter then subside at term.
+
+51
+00:06:06,330 --> 00:06:12,780
+Presumably, declining amnionic fluid volume and space account for diminished activity at term.
+
+52
+00:06:12,780 --> 00:06:21,192
+Figure 20-2 shows fetal movements during the last half of gestation in 127 pregnancies with normal outcomes.
+
+53
+00:06:21,192 --> 00:06:33,892
+The mean number of weekly movements calculated from 12-hour daily recording periods rose from approximately 200 at 20 weeks’ gestation to a maximum of 575 movements at 32 weeks.
+
+54
+00:06:33,892 --> 00:06:39,855
+Weekly fetal movement counts then declined to an average of 282 at 40 weeks.
+
+55
+00:06:39,855 --> 00:06:46,405
+Another study of nearly 300 gravidas found a similar movement pattern across gestational ages .
+
+56
+00:06:46,405 --> 00:06:52,192
+More than 90 percent of these women reported stronger movements during the evening and nighttime.
+
+57
+00:06:52,192 --> 00:06:54,367
+Figure 20-2.
+
+58
+00:06:54,367 --> 00:07:01,255
+Graph depicts averages of fetal movements counted during 12-hour periods (mean ± SEM).
+
+59
+00:07:01,255 --> 00:07:05,105
+Data from Sadovsky, 1979a.
+
+60
+00:07:05,105 --> 00:07:10,880
+Women perceive 16 to 45 percent of fetal movements detected by sonography .
+
+61
+00:07:10,880 --> 00:07:20,417
+A higher body mass index does not decrease maternal perception of fetal movement (Bradford, 2019a; Sasson, 2016).
+
+62
+00:07:20,417 --> 00:07:32,030
+It remains unclear if nulliparity or anterior placental location affect maternal impression of fetal activity (Brown, 2016; Sasson, 2016).
+
+63
+00:07:32,030 --> 00:07:34,830
+# Clinical Application.
+
+64
+00:07:34,830 --> 00:07:48,842
+Because women may perceive a decline in fetal movement in the days to weeks preceding stillbirth, maternal perception of fetal movement has been evaluated as a preventive aid (Heazell, 2008; Stacey, 2011).
+
+65
+00:07:48,842 --> 00:07:53,592
+However, the optimal fetal-movement protocol remains undefined .
+
+66
+00:07:53,592 --> 00:08:02,230
+Some methods rely on quantitative counts, such as 10 movements in 2 hours, whereas others rely on a mother’s subjective impression.
+
+67
+00:08:02,230 --> 00:08:12,430
+In one study, more than 68,000 pregnancies were randomly assigned between 28 and 32 weeks’ gestation to an objective or subjective assessment group .
+
+68
+00:08:12,430 --> 00:08:18,380
+Women in the objective arm were instructed to record the time needed to feel 10 movements each day.
+
+69
+00:08:18,380 --> 00:08:22,417
+This required an average of 2.7 hours daily.
+
+70
+00:08:22,417 --> 00:08:27,967
+Women in the subjective group were informally asked about movements during prenatal visits.
+
+71
+00:08:27,967 --> 00:08:33,480
+Reports of decreased fetal motion were then evaluated with tests of fetal well-being.
+
+72
+00:08:33,480 --> 00:08:44,242
+Antepartum death rates for normal singleton fetuses were similar in the two study groups, and most stillborn fetuses were dead by the time the mothers reported for medical attention.
+
+73
+00:08:44,242 --> 00:08:54,567
+Rather than concluding that maternal perceptions were meaningless, the authors concluded that informal maternal impressions were as valid as formally recorded fetal movement counts.
+
+74
+00:08:54,567 --> 00:08:58,092
+Women’s knowledge of these protocols also vary.
+
+75
+00:08:58,092 --> 00:09:06,955
+In one survey of more than 400 gravidas, 85 percent noted receiving instruction from their provider regarding normal fetal movement .
+
+76
+00:09:06,955 --> 00:09:14,342
+However, 60 percent described it as a subjective assessment, and 40 percent reported a quantitative method.
+
+77
+00:09:14,342 --> 00:09:20,680
+In another study, more than two thirds of women could not explain fetal movement monitoring techniques .
+
+78
+00:09:20,680 --> 00:09:27,580
+Although a long-standing pillar of maternal care, fetal movement surveillance may not be as predictive as thought.
+
+79
+00:09:27,580 --> 00:09:35,917
+Nearly 6 to 7 percent of pregnancies are complicated by decreased fetal movement, but stillbirth rates are not increased in these
+
+80
+00:09:36,076 --> 00:09:41,563
+cases (Harrington, 1998; Scala, 2015).
+
+81
+00:09:41,513 --> 00:09:54,438
+In one study of more than 400,000 pregnancies complicated by decreased fetal movement, directed patient and staff education coupled with a prescriptive management plan did not reduce the stillbirth incidence .
+
+82
+00:09:54,438 --> 00:10:06,463
+Aside from stillbirth, some data show that decreased fetal movement may help identify growth-restricted fetuses before birth (Saastad, 2011; Scala, 2015).
+
+83
+00:10:06,463 --> 00:10:14,813
+In one of these studies, nearly 1100 pregnancies were assigned to subjective or objective assessment of fetal activity.
+
+84
+00:10:14,813 --> 00:10:24,726
+The rate of 1-minute Apgar scores ≤3 was significantly reduced (0.4 versus 2.3 percent) when counting was used .
+
+85
+00:10:24,726 --> 00:10:35,788
+Thus, although most pregnancies complicated by decreased fetal movement will result in normal outcomes, maternal perception of reduced fetal activity warrants further evaluation.
+
+86
+00:10:35,788 --> 00:10:39,251
+No consensus guides a provider’s response.
+
+87
+00:10:39,251 --> 00:10:45,276
+Care is individualized and influenced by gestational age and pregnancy comorbidities.
+
+88
+00:10:45,276 --> 00:10:52,826
+In low-risk pregnancies, documenting fetal heart tones and adequate amnionic fluid volume may be sufficient.
+
+89
+00:10:52,826 --> 00:10:58,513
+For older fetuses, tests described in the upcoming sections are typically added.
+
+90
+00:10:58,513 --> 00:11:04,376
+Our practice is a nonstress test and sonographic measurement of amnionic fluid volume.
+
+91
+00:11:04,376 --> 00:11:08,938
+Many women report excessive fetal movement in the third trimester.
+
+92
+00:11:08,938 --> 00:11:12,463
+Its risk, if any, is poorly understood.
+
+93
+00:11:12,463 --> 00:11:21,713
+Stacey and colleagues (2011) reported that a single episode of vigorous fetal activity is associated with a greater risk for fetal death.
+
+94
+00:11:21,713 --> 00:11:34,663
+Similarly, others have described maternal perception of a single episode of excessive of fetal movement in the weeks prior to a stillbirth diagnosis (Heazell, 2017; Whitehead, 2020).
+
+95
+00:11:34,663 --> 00:11:38,713
+More research is needed prior to recommending intervention.
+
+96
+00:11:38,713 --> 00:11:40,538
+Fetal Breathing.
+
+97
+00:11:40,538 --> 00:11:48,513
+Small inward and outward flow of tracheal fluid, indicating thoracic movement, was first identified in fetal sheep .
+
+98
+00:11:48,513 --> 00:11:53,963
+These chest wall movements differ from those following birth in that they are discontinuous.
+
+99
+00:11:53,963 --> 00:12:00,801
+Another feature of fetal respiration is paradoxical chest wall movement ( Johnson, 1988).
+
+100
+00:12:00,801 --> 00:12:04,263
+In the newborn or adult, the opposite occurs.
+
+101
+00:12:04,263 --> 00:12:10,976
+One interpretation of paradoxical respiratory motion might be coughing to clear amnionic fluid debris.
+
+102
+00:12:10,976 --> 00:12:21,313
+Although the physiological basis for the breathing reflex is not completely understood, such exchange of amnionic fluid appears to be essential for normal lung development .
+
+103
+00:12:21,313 --> 00:12:26,951
+Dawes (1974) identified two types of respiratory movements.
+
+104
+00:12:26,951 --> 00:12:32,438
+The first are gasps or sighs, which occurred at a frequency of 1 to 4 per minute.
+
+105
+00:12:32,438 --> 00:12:38,851
+The second, irregular bursts of breathing, occurred at rates up to 240 cycles per minute.
+
+106
+00:12:38,851 --> 00:12:44,151
+These latter rapid respiratory movements were associated with rapid eye movement.
+
+107
+00:12:44,151 --> 00:12:56,288
+Badalian and associates (1993) studied the maturation of normal fetal breathing using color flow and spectral Doppler analysis of nasal fluid flow as an index of lung function.
+
+108
+00:12:56,288 --> 00:13:07,113
+They suggested that fetal respiratory rate declined in conjunction with increasing respiratory volume at 33 to 36 weeks’ gestation and coincided with lung maturation.
+
+109
+00:13:07,113 --> 00:13:09,426
+Figure 20-3.
+
+110
+00:13:09,426 --> 00:13:13,226
+Paradoxical chest movement with fetal respiration.
+
+111
+00:13:13,226 --> 00:13:23,501
+During inspiration (A), the chest wall paradoxically collapses and the abdomen protrudes, whereas during expiration (B), the chest wall expands.
+
+112
+00:13:23,501 --> 00:13:30,176
+Many investigators have used sonography to determine whether chest wall movements might reflect fetal health.
+
+113
+00:13:30,176 --> 00:13:34,726
+Several variables in addition to hypoxia affect these movements.
+
+114
+00:13:34,726 --> 00:13:49,476
+These include maternal hypoglycemia, sound stimuli, cigarette smoking, amniocentesis, impending preterm labor, gestational age, fetal heart rate, and labor—during which it is normal for fetal respiration to cease.
+
+115
+00:13:49,476 --> 00:13:57,126
+Because fetal breathing movements are episodic, interpretation of fetal health when respirations are absent may be difficult.
+
+116
+00:13:57,126 --> 00:14:08,601
+Patrick and coworkers (1980) performed continuous 24-hour observation using sonography to characterize fetal breathing patterns during the last 10 weeks of pregnancy.
+
+117
+00:14:08,601 --> 00:14:15,738
+A total of 1224 hours of fetal observation in 51 pregnancies were collected.
+
+118
+00:14:15,738 --> 00:14:17,963
+Figure 20-4.
+
+119
+00:14:17,963 --> 00:14:22,051
+displays the percentages of time spent breathing near term.
+
+120
+00:14:22,051 --> 00:14:24,888
+Substantively diminished breathing
+
+121
+00:14:25,060 --> 00:14:28,360
+during the night suggests a diurnal pattern.
+
+122
+00:14:28,310 --> 00:14:33,585
+In addition, breathing activity is enhanced somewhat following maternal meals.
+
+123
+00:14:33,585 --> 00:14:47,085
+Total absence of breathing was observed in some of these normal fetuses for up to 122 minutes, indicating that fetal evaluation to diagnose absent respiratory motion may require long periods of observation.
+
+124
+00:14:47,085 --> 00:14:49,310
+Figure 20-4.
+
+125
+00:14:49,310 --> 00:14:55,785
+The percentage of time spent breathing by 11 fetuses at 38 to 39 weeks’ gestation.
+
+126
+00:14:55,785 --> 00:15:00,360
+Fetal breathing activity significantly increases after breakfast.
+
+127
+00:15:00,360 --> 00:15:08,260
+Breathing activity diminished during the day and reached its minimum between 20:00 and 24:00 hours.
+
+128
+00:15:08,260 --> 00:15:16,047
+The percentage of time spent breathing rose significantly between 04:00 and 07:00 hours, when mothers were asleep.
+
+129
+00:15:16,047 --> 00:15:31,072
+Adapted with permission from Patrick J, Campbell K, Carmichael L, et al: Patterns of human fetal breathing during the last 10 weeks of pregnancy, Obstet Gynecol. 1980 Jul;56(1):24–30.
+
+130
+00:15:31,072 --> 00:15:39,535
+The potential for breathing activity to be an important sole marker of fetal health is unfulfilled because of the multiple factors that affect breathing.
+
+131
+00:15:39,535 --> 00:15:45,147
+Most clinical applications couple fetal breathing with other biophysical indices.
+
+132
+00:15:45,147 --> 00:15:52,060
+For example, fetal breathing is one component of the biophysical profile (p. 389).
+
+133
+00:15:52,060 --> 00:15:54,472
+Contraction Stress Test.
+
+134
+00:15:54,472 --> 00:16:02,535
+During a uterine contraction, pressures generated by the myometrium exceed the collapsing pressure of the vessels coursing through it.
+
+135
+00:16:02,535 --> 00:16:07,297
+This ultimately lowers blood flow to the placenta’s intervillous space.
+
+136
+00:16:07,297 --> 00:16:11,085
+Brief periods of impaired oxygen exchange result.
+
+137
+00:16:11,085 --> 00:16:20,285
+If uteroplacental pathology is present, oxygen exchange to the fetus is further diminished, and late fetal heart rate decelerations appear .
+
+138
+00:16:20,285 --> 00:16:27,872
+These downward-sloping heartrate waveforms begin with the onset of the uterine contraction waveform or just beyond its acme.
+
+139
+00:16:27,872 --> 00:16:34,197
+Instead, contractions may produce variable decelerations as a result of cord compression.
+
+140
+00:16:34,197 --> 00:16:40,547
+This suggests oligohydramnios, which is often comorbid with placental insufficiency.
+
+141
+00:16:40,547 --> 00:16:53,272
+Ray and associates (1972) used this concept in 66 complicated pregnancies and developed the oxytocin challenge test, which was later called the contraction stress test (CST).
+
+142
+00:16:53,272 --> 00:17:01,047
+A positive test result, that is, an abnormal result, is uniform repetitive late fetal heart rate decelerations.
+
+143
+00:17:01,047 --> 00:17:10,985
+In their study, the tests were repeated weekly, and the authors concluded that negative CST results, that is, normal results, forecasted fetal health.
+
+144
+00:17:10,985 --> 00:17:17,985
+To perform the test, contractions are induced with either intravenous oxytocin or nipple stimulation.
+
+145
+00:17:17,985 --> 00:17:27,047
+If at least three spontaneous contractions of 40 seconds or longer are present in a 10-minute span, no uterine stimulation is necessary .
+
+146
+00:17:27,047 --> 00:17:33,435
+The fetal heart rate and uterine contractions are recorded simultaneously by external monitors.
+
+147
+00:17:33,435 --> 00:17:40,510
+With oxytocin, a dilute intravenous infusion is used to establish a satisfactory contraction pattern .
+
+148
+00:17:40,510 --> 00:17:49,547
+At Parkland Hospital, 20 units of oxytocin are mixed in 1 liter of Ringer solution and initiated at a rate of 6 mU/min.
+
+149
+00:17:49,547 --> 00:17:56,460
+The rate is increased by 6 mU/min every 40 minutes to achieve the just-discussed contraction pattern.
+
+150
+00:17:56,460 --> 00:18:02,410
+Nipple stimulation to induce uterine contractions for a CST is usually successful .
+
+151
+00:18:02,410 --> 00:18:09,122
+One method involves a woman rubbing one nipple through her clothing for 2 minutes or until a contraction begins.
+
+152
+00:18:09,122 --> 00:18:15,447
+This 2-minute nipple stimulation ideally will induce a pattern of three contractions per 10 minutes.
+
+153
+00:18:15,447 --> 00:18:23,335
+If not, after a 5-minute rest interval, she is instructed to retry nipple stimulation to achieve the desired pattern.
+
+154
+00:18:23,335 --> 00:18:27,860
+If this is unsuccessful, dilute oxytocin may be used.
+
+155
+00:18:27,860 --> 00:18:33,472
+CST results are interpreted according to the criteria shown in Table 201.
+
+156
+00:18:33,472 --> 00:18:39,035
+Disadvantageously, the average CST requires 90 minutes to complete.
+
+157
+00:18:39,035 --> 00:18:44,772
+Compared with oxytocin, nipple stimulation shortens testing time and costs less.
+
+158
+00:18:44,772 --> 00:18:59,272
+During a CST, some have reported unpredictable uterine hyperstimulation and fetal distress, whereas others did not find excessive activity to be harmful (Frager, 1987; Schellpfeffer, 1985).
+
+159
+00:18:59,272 --> 00:19:06,085
+Relative contraindications to a CST include those conditions that contraindicate vaginal delivery.
+
+160
+00:19:06,085 --> 00:19:08,360
+Table 20-1.
+
+161
+00:19:08,360 --> 00:19:12,622
+Criteria for Interpretation of the Contraction Stress Test
+
+162
+00:19:12,772 --> 00:19:14,859
+Nonstress Test.
+
+163
+00:19:14,809 --> 00:19:29,247
+The nonstress test (NST) also is used to assess fetal well-being and employs the phenomenon of fetal heart rate acceleration in response to fetal movement (Freeman, 1975; Lee, 1975).
+
+164
+00:19:29,247 --> 00:19:35,722
+During an NST, these accelerations are correlated with fetal movements perceived by the mother.
+
+165
+00:19:35,722 --> 00:19:44,772
+Compared with a CST, an NST is easier to perform, and normal results can be used to further define false-positive CST results.
+
+166
+00:19:44,772 --> 00:19:54,559
+Simplistically, the NST is primarily a test of fetal condition, and it differs from the CST, which is considered a test of uteroplacental function.
+
+167
+00:19:54,559 --> 00:20:01,259
+Currently, NST is the most widely used primary testing method for assessment of fetal well-being.
+
+168
+00:20:01,259 --> 00:20:08,184
+It has also been incorporated into the biophysical profile, discussed later (p. 389).
+
+169
+00:20:08,184 --> 00:20:11,334
+# Fetal Heart Rate Acceleration.
+
+170
+00:20:11,334 --> 00:20:20,647
+Autonomic influences are mediated by sympathetic or parasympathetic impulses from brainstem centers to normally raise or slow the fetal heart rate.
+
+171
+00:20:20,647 --> 00:20:39,159
+The NST is based on the hypothesis that the heart rate of a fetus that is not acidemic as a result of hypoxia or neurological depression will temporarily accelerate in response to fetal movement (American College of Obstetricians and Gynecologists, 2019; Lee, 1975).
+
+172
+00:20:39,159 --> 00:20:44,822
+Fetal movements during testing are identified by maternal perception and self-recorded.
+
+173
+00:20:44,822 --> 00:20:49,572
+As hypoxia develops, fetal heart rate accelerations diminish .
+
+174
+00:20:49,572 --> 00:20:54,197
+Gestational age influences acceleration of the fetal heart rate.
+
+175
+00:20:54,197 --> 00:21:01,797
+Pillai and James (1990b) studied patterns of fetal heart rate acceleration during normal pregnancy.
+
+176
+00:21:01,797 --> 00:21:09,909
+The percentage of body movements accompanied by accelerations and the amplitude of these waveforms both increase with gestational age .
+
+177
+00:21:09,909 --> 00:21:12,259
+Figure 20-5.
+
+178
+00:21:12,259 --> 00:21:20,209
+Percentage of fetuses with at least one acceleration of 15 bpm sustained for 15 seconds concurrent with fetal movement.
+
+179
+00:21:20,209 --> 00:21:33,784
+Redrawn from Pillai M, James D: The development of fetal heart rate patterns during normal pregnancy, Obstet Gynecol. 1990 Nov;76(5 Pt 1):812–816.
+
+180
+00:21:33,784 --> 00:21:43,509
+Accordingly, the National Institute of Child Health and Human Development Fetal Monitoring Workshop defined acceleration waveforms based on gestational age .
+
+181
+00:21:43,509 --> 00:21:59,122
+In fetuses at or beyond 32 weeks’ gestation, the acceleration acme is ≥15 beats per minute (bpm) above the baseline rate, and the acceleration lasts ≥15 seconds but <2 minutes.
+
+182
+00:21:59,122 --> 00:22:09,459
+Before 32 weeks, accelerations are defined as having a rise ≥10 bpm above baseline for ≥10 seconds.
+
+183
+00:22:09,459 --> 00:22:22,984
+In one study of 188 normal fetuses at 25 and 28 weeks’ gestation, only 70 percent demonstrated the required ≥15 bpm during heart rate accelerations.
+
+184
+00:22:22,984 --> 00:22:27,109
+Accelerations of 10 bpm occurred in 90 percent .
+
+185
+00:22:27,109 --> 00:22:41,209
+Cousins and associates (2012) compared the Workshop criteria recommended before 32 weeks with the standard 15 bpm/15 second criteria in a randomized trial of 143 women.
+
+186
+00:22:41,209 --> 00:22:44,847
+They found no differences in perinatal outcomes.
+
+187
+00:22:44,847 --> 00:22:48,747
+# Reactive (Normal) Nonstress Tests.
+
+188
+00:22:48,747 --> 00:22:56,359
+A normal NST is termed reactive and requires two or more accelerations within 20 minutes of beginning the test .
+
+189
+00:22:56,359 --> 00:23:00,597
+Accelerations are accepted irrespective of fetal movement.
+
+190
+00:23:00,597 --> 00:23:07,197
+Before concluding that a test is nonreactive, a 40-minute or longer tracing should be performed.
+
+191
+00:23:07,197 --> 00:23:10,722
+This threshold accounts for fetal sleep cycles .
+
+192
+00:23:10,722 --> 00:23:21,684
+Miller and coworkers (1996b) reviewed outcomes in fetuses with NST results that were considered nonreactive because only one acceleration was recorded.
+
+193
+00:23:21,684 --> 00:23:27,834
+They concluded that one acceleration was as reliable as two in predicting healthy fetal status.
+
+194
+00:23:27,834 --> 00:23:38,872
+NSTs are more likely to be reactive and have a shorter testing time in the evening compared with the morning (Babazadeh, 2005; Petrikovsky, 1996).
+
+195
+00:23:38,872 --> 00:23:41,234
+Figure 20-6.
+
+196
+00:23:41,234 --> 00:23:43,859
+Reactive nonstress test.
+
+197
+00:23:43,859 --> 00:23:52,597
+Notice there are at least two fetal heart rate accelerations (arrows) of more than 15 beats/min for longer than 15 seconds.
+
+198
+00:23:52,597 --> 00:23:58,234
+The black line reflects fetal heart rate, whereas the purple line reflects the mother’s.
+
+199
+00:23:58,234 --> 00:24:04,409
+Loud external sounds have been used to startle the fetus and thereby provoke heart rate acceleration.
+
+200
+00:24:04,409 --> 00:24:12,622
+A commercially available acoustic stimulator is positioned on the maternal abdomen, and a stimulus of 1 to 2 seconds is applied .
+
+201
+00:24:12,622 --> 00:24:16,484
+This may be repeated up to three times for up to 3
+
+202
+00:24:16,636 --> 00:24:18,323
+seconds .
+
+203
+00:24:18,273 --> 00:24:33,523
+In a randomized trial of 113 women undergoing NST, vibroacoustic stimulation lowered the average testing time and incidence of nonreactive test results (Perez-Delboy, 2002; Turitz, 2012).
+
+204
+00:24:33,523 --> 00:24:43,111
+One case report described a fetal tachyarrhythmia that was provoked with vibroacoustic stimulation in a fetus with known premature atrial contractions .
+
+205
+00:24:43,111 --> 00:24:52,323
+Although a normal number and amplitude of accelerations seems to reflect fetal well-being, their absence does not invariably predict fetal compromise.
+
+206
+00:24:52,323 --> 00:24:59,011
+Indeed, some investigators have reported false-positive rates ≥90 percent .
+
+207
+00:24:59,011 --> 00:25:09,698
+Because healthy fetuses may not move for up to 75 minutes, some have considered that a longer NST duration might increase the positive predictive value of the NST .
+
+208
+00:25:09,698 --> 00:25:20,636
+In this scheme, either the test became reactive during a period up to 80 minutes or the test remained nonreactive for 120 minutes, which indicated a very ill fetus.
+
+209
+00:25:20,636 --> 00:25:28,586
+Therefore, prolonged fetal heart rate monitoring is undertaken if an NST remains nonreactive after 40 minutes.
+
+210
+00:25:28,586 --> 00:25:32,761
+# Nonreactive (Abnormal) Nonstress Tests.
+
+211
+00:25:32,761 --> 00:25:39,923
+Based on the foregoing, a nonreactive NST is not always ominous and can be seen with a sleeping fetus.
+
+212
+00:25:39,923 --> 00:25:45,111
+An NST result can also revert to normal as the fetal condition changes.
+
+213
+00:25:45,111 --> 00:25:48,711
+An example is shown in Figure 20-7.
+
+214
+00:25:48,711 --> 00:25:55,136
+Instead, a reactive NST result can become abnormal if the fetal condition deteriorates.
+
+215
+00:25:55,136 --> 00:25:57,511
+Figure 20-7.
+
+216
+00:25:57,511 --> 00:26:05,711
+Two antepartum fetal heart rate (FHR) tracings in a 28-week pregnant woman with diabetic ketoacidosis.
+
+217
+00:26:05,711 --> 00:26:12,011
+A. FHR tracing (upper panel) and accompanying contraction tracing (second panel).
+
+218
+00:26:12,011 --> 00:26:23,448
+Tracing, obtained during maternal and fetal acidemia, shows absence of accelerations, diminished variability, and late decelerations with weak spontaneous contractions.
+
+219
+00:26:23,448 --> 00:26:32,661
+B. Fetal heart rate tracing shows return of normal accelerations and variability of the fetal heart rate following correction of maternal acidemia.
+
+220
+00:26:32,661 --> 00:26:37,536
+Some abnormal patterns reliably forecast severe fetal jeopardy .
+
+221
+00:26:37,536 --> 00:26:50,848
+For example, Devoe and colleagues (1985) concluded that >90 percent of NST results that were nonreactive for 90 minutes or more were associated with significant perinatal pathology.
+
+222
+00:26:50,848 --> 00:27:08,123
+Specifically, Visser and associates (1980) described a terminal cardiotocogram, which included: (1) baseline variability <5 bpm, (2) absent accelerations, and (3) late decelerations with spontaneous uterine contractions.
+
+223
+00:27:08,123 --> 00:27:20,961
+These mirrored experiences from Parkland Hospital in which absence of accelerations during an 80-minute recording period in 27 fetuses was associated consistently with evidence of uteroplacental pathology .
+
+224
+00:27:20,961 --> 00:27:34,936
+The latter included fetal-growth restriction in 75 percent, oligohydramnios in 80 percent, fetal acidemia in 40 percent, meconium in 30 percent, and placental infarction in 93 percent.
+
+225
+00:27:34,936 --> 00:27:37,086
+Figure 20-8.
+
+226
+00:27:37,086 --> 00:27:46,761
+Nonreactive nonstress test (left side of tracing) followed by contraction stress test showing mild, late decelerations (right side of tracing).
+
+227
+00:27:46,761 --> 00:27:53,011
+Cesarean delivery was performed, and the severely acidemic fetus could not be resuscitated.
+
+228
+00:27:53,011 --> 00:27:55,836
+# Interval Between Testing.
+
+229
+00:27:55,836 --> 00:28:03,111
+Set originally and arbitrarily at 7 days, the interval between NSTs varies based on indication .
+
+230
+00:28:03,111 --> 00:28:18,161
+According to the American College of Obstetricians and Gynecologists (2021a), weekly testing is undertaken in the setting of stable maternal medical conditions such as pregestational diabetes, chronic hypertension, or lupus.
+
+231
+00:28:18,161 --> 00:28:24,661
+For high-risk conditions such as preeclampsia remote from term, some perform NSTs daily.
+
+232
+00:28:24,661 --> 00:28:30,873
+Fetal conditions require individualized periodic testing based on the fetal complication.
+
+233
+00:28:30,873 --> 00:28:39,686
+Fetal-growth restriction is a common indication for which testing intervals vary (Fig. 47-6, p. 829).
+
+234
+00:28:39,686 --> 00:28:43,436
+# Decelerations During Nonstress Testing.
+
+235
+00:28:43,436 --> 00:28:47,586
+Fetal movements commonly produce heart rate decelerations.
+
+236
+00:28:47,586 --> 00:28:57,323
+In one study of 16 near-term fetuses, one half to two thirds of NST tracings had decelerations, depending on the vigor of the fetal motion .
+
+237
+00:28:57,323 --> 00:29:03,986
+This high incidence of decelerations inevitably makes interpretation of their significance problematic.
+
+238
+00:29:03,986 --> 00:29:13,211
+Indeed, Meis and coworkers (1986) reported that variable fetal heart rate decelerations during NSTs were not a sign of fetal
+
+239
+00:29:13,372 --> 00:29:15,159
+compromise.
+
+240
+00:29:15,109 --> 00:29:31,434
+The American College of Obstetricians and Gynecologists (2021a) has concluded that variable decelerations, if nonrepetitive and brief—less than 30 seconds—do not indicate fetal compromise or the need for obstetrical intervention.
+
+241
+00:29:31,434 --> 00:29:41,122
+Repetitive variable decelerations—at least three in 20 minutes—have been associated with a greater risk of cesarean delivery for fetal distress.
+
+242
+00:29:41,122 --> 00:29:54,022
+Decelerations lasting ≥1 minute are reported to have an even worse fetal prognosis (Bourgeois, 1984; Druzin, 1981; Pazos, 1982).
+
+243
+00:29:54,022 --> 00:30:06,034
+Hoskins and associates (1991) attempted to refine interpretation of tests that showed variable decelerations by adding sonographic estimation of amnionic fluid volume.
+
+244
+00:30:06,034 --> 00:30:14,884
+The incidence of cesarean delivery for intrapartum fetal distress progressively rose concurrently with the decline of amnionic fluid volume.
+
+245
+00:30:14,884 --> 00:30:23,322
+Variable decelerations during an NST plus oligohydramnios resulted in a 75-percent cesarean delivery rate.
+
+246
+00:30:23,322 --> 00:30:32,897
+Fetal distress in labor, however, also frequently developed in those pregnancies with variable decelerations but with normal amounts of amnionic fluid.
+
+247
+00:30:32,897 --> 00:30:35,659
+Others report similar results .
+
+248
+00:30:35,659 --> 00:30:39,097
+# False-reactive Nonstress Tests.
+
+249
+00:30:39,097 --> 00:30:47,709
+In one review of fetal death within 7 days of a reactive NST, the most frequent indication for testing was postterm pregnancy .
+
+250
+00:30:47,709 --> 00:30:53,822
+The mean interval between testing and death was 4 days, with a range of 1 to 7 days.
+
+251
+00:30:53,822 --> 00:31:02,447
+The single most common autopsy finding was meconium aspiration, often associated with some type of umbilical cord abnormality.
+
+252
+00:31:02,447 --> 00:31:07,297
+The authors concluded that acute asphyxia had provoked fetal gasping.
+
+253
+00:31:07,297 --> 00:31:15,947
+They considered an NST inadequate to preclude an acute asphyxial event, but viewed amnionic fluid volume assessment as valuable.
+
+254
+00:31:15,947 --> 00:31:27,834
+Other ascribed frequent causes of fetal death despite a false-reactive NST included intrauterine infection, abnormal cord position, fetal malformations, and placental abruption.
+
+255
+00:31:27,834 --> 00:31:30,147
+Biophysical Profile.
+
+256
+00:31:30,147 --> 00:31:36,309
+Assessing five specific fetal biophysical variables more accurately predicts fetal health .
+
+257
+00:31:36,309 --> 00:31:42,947
+These include heart rate acceleration, breathing, movement, tone, and amnionic fluid volume .
+
+258
+00:31:42,947 --> 00:31:52,997
+In the commonly used biophysical profile (BPP), each normal variable is assigned a score of 2, and abnormal variables are given a score of 0.
+
+259
+00:31:52,997 --> 00:31:57,509
+Thus, the highest score possible for a normal fetus is 10.
+
+260
+00:31:57,509 --> 00:32:06,722
+Because fetal breathing and movement are episodic, 30 minutes are allotted to perform a BPP before a score of 0 is assigned to any component.
+
+261
+00:32:06,722 --> 00:32:13,934
+Figure 20-9 shows color Doppler evidence of amnionic fluid flowing through the nares with fetal breathing.
+
+262
+00:32:13,934 --> 00:32:20,572
+In one study, BPP scores were higher if a test was performed in late evening compared with the morning .
+
+263
+00:32:20,572 --> 00:32:24,684
+Narcotics and sedatives can significantly lower the score .
+
+264
+00:32:24,684 --> 00:32:26,934
+Table 20-2.
+
+265
+00:32:26,934 --> 00:32:31,909
+Components and Scores for the Biophysical Profile Figure 20-9.
+
+266
+00:32:31,909 --> 00:32:38,722
+A sagittal color Doppler image displays the movement of amnionic fluid through the nares during fetal breathing.
+
+267
+00:32:38,722 --> 00:32:50,397
+Using the BPP interpretation and management strategy shown in Table 20-3, Manning and colleagues (1987) evaluated more than 19,000 pregnancies.
+
+268
+00:32:50,397 --> 00:32:55,422
+Greater than 97 percent of the tested pregnancies had normal results.
+
+269
+00:32:55,422 --> 00:33:04,609
+They reported a false-normal test rate—defined by an antepartum death of a structurally normal fetus—that approximated 1 per 1000.
+
+270
+00:33:04,609 --> 00:33:15,022
+The most common identifiable causes of fetal death after a normal BPP score include fetomaternal hemorrhage, umbilical cord accident, and placental abruption .
+
+271
+00:33:15,022 --> 00:33:17,322
+Table 20-3.
+
+272
+00:33:17,322 --> 00:33:32,934
+Interpretation of Biophysical Profile Score Subsequently, Manning and associates (1993) published a remarkable description of 493 fetuses in which BPP scores were correlated with umbilical venous blood pH values.
+
+273
+00:33:32,934 --> 00:33:39,559
+This blood was being obtained via antepartum cordocentesis for other specific fetal indications.
+
+274
+00:33:39,559 --> 00:33:50,359
+Namely, karyotyping of fetal-growth restricted fetuses constituted 20 percent, and the remainder had alloimmune hemolytic anemia requiring hemoglobin measurement.
+
+275
+00:33:50,359 --> 00:34:02,922
+As shown in Figure 20-10, a BPP score of 0 was almost invariably associated with significant fetal acidemia, whereas a normal score of 8 or 10 was associated with normal pH.
+
+276
+00:34:02,922 --> 00:34:06,209
+An equivocal test result—a score of
+
+277
+00:34:06,364 --> 00:34:10,376
+6—was a poor predictor of an abnormal outcome.
+
+278
+00:34:10,326 --> 00:34:17,351
+A drop in the BPP score from 2 or 4 down to 0 more accurately predicted an abnormal fetal outcome.
+
+279
+00:34:17,351 --> 00:34:23,489
+Overall, BPP scores provided poor sensitivity to predict cord blood pH.
+
+280
+00:34:23,489 --> 00:34:30,601
+Similar studies have concluded the same (Salvesan, 1993; Weiner, 1996).
+
+281
+00:34:30,601 --> 00:34:41,939
+Kaur and colleagues (2008) performed daily BPPs to ascertain the optimal delivery time in 48 growth-restricted preterm fetuses that weighed <1000 g.
+
+282
+00:34:41,939 --> 00:34:49,789
+Despite scores of 8 in 27 fetuses and 6 in 13 others, 6 died and 21 were acidemic.
+
+283
+00:34:49,789 --> 00:34:52,089
+Figure 20-10.
+
+284
+00:34:52,089 --> 00:35:01,714
+Mean umbilical vein pH (±2 SD) obtained by cordocentesis in relation to fetal biophysical profile score category.
+
+285
+00:35:01,714 --> 00:35:04,926
+Data from Manning, 1993.
+
+286
+00:35:04,926 --> 00:35:08,401
+# Modified Biophysical Profile.
+
+287
+00:35:08,401 --> 00:35:13,514
+BPP performance is labor intensive and requires a trained sonographer.
+
+288
+00:35:13,514 --> 00:35:24,201
+In response, Clark and coworkers (1989) created an abbreviated BPP, in which an NST was coupled with amnionic fluid volume assessment.
+
+289
+00:35:24,201 --> 00:35:30,239
+In 2628 singleton pregnancies, the NST was performed twice weekly.
+
+290
+00:35:30,239 --> 00:35:42,051
+Described in the next section, amnionic fluid volume was measured by the amnionic fluid index (AFI), and values ≤5 cm were considered abnormal.
+
+291
+00:35:42,051 --> 00:35:47,226
+This abbreviated BPP required approximately 10 minutes to perform.
+
+292
+00:35:47,226 --> 00:35:54,039
+The authors considered it a superb antepartum surveillance method because no fetuses died unexpectedly.
+
+293
+00:35:54,039 --> 00:36:06,339
+From another study of 17,429 modified BPPs in 2774 women, investigators concluded that such testing was an excellent fetal surveillance tool .
+
+294
+00:36:06,339 --> 00:36:17,526
+Miller and associates (1996a) reported results of more than 54,000 modified BPPs performed in 15,400 high-risk pregnancies.
+
+295
+00:36:17,526 --> 00:36:25,039
+They described a false-negative rate of 0.8 per 1000 and a false-positive rate of 1.5 percent.
+
+296
+00:36:25,039 --> 00:36:39,476
+The American College of Obstetricians and Gynecologists (2021a) has concluded that the BPP and modified BPP are comparable to other biophysical fetal surveillance approaches in predicting fetal wellbeing.
+
+297
+00:36:39,476 --> 00:36:42,026
+Amnionic Fluid Volume.
+
+298
+00:36:42,026 --> 00:36:52,251
+The importance of amnionic fluid volume estimation is indicated by its inclusion into virtually all schemes of fetal health assessment (Frøen, 2008).
+
+299
+00:36:52,251 --> 00:37:03,039
+Physiologically, diminished uteroplacental perfusion may lead to lower fetal renal blood flow, decreased urine production, and ultimately, oligohydramnios .
+
+300
+00:37:03,039 --> 00:37:10,164
+Amnionic fluid volume is measured either by the AFI or by the single deepest vertical pocket (DVP).
+
+301
+00:37:10,164 --> 00:37:20,514
+In one study of more than 1000 women in which both methods were compared, AFI led to a higher rate of oligohydramnios diagnoses and induction of labor.
+
+302
+00:37:20,514 --> 00:37:24,489
+Despite this, perinatal outcomes were not improved .
+
+303
+00:37:24,489 --> 00:37:43,089
+The American College of Obstetricians and Gynecologists (2021a) concludes that DVP measurement, as opposed to AFI, is associated with fewer unnecessary interventions but comparable perinatal outcomes (Nabhan, 2008; Reddy, 2014).
+
+304
+00:37:43,089 --> 00:37:51,251
+An AFI ≤5 cm and a DVP ≤2 cm is considered abnormal.
+
+305
+00:37:51,251 --> 00:37:53,439
+Doppler Velocimetry.
+
+306
+00:37:53,439 --> 00:37:59,001
+Blood flow velocity measured by Doppler ultrasound reflects downstream impedance .
+
+307
+00:37:59,001 --> 00:38:07,776
+This Doppler velocimetry has been used to interrogate the umbilical artery, middle cerebral artery (MCA), and ductus venosus.
+
+308
+00:38:07,776 --> 00:38:14,676
+With umbilical artery studies, abnormal waveforms correlated with placental villous hypovascularity.
+
+309
+00:38:14,676 --> 00:38:25,201
+Specifically, of the small placental arterial channels, 60 to 70 percent must be obliterated before the umbilical artery Doppler waveform becomes abnormal.
+
+310
+00:38:25,201 --> 00:38:31,351
+Such extensive placental vascular pathology has a major effect on fetal circulation.
+
+311
+00:38:31,351 --> 00:38:45,964
+According to Trudinger (2007), because more than 40 percent of the combined fetal ventricular output is directed to the placenta, obliteration of placental vascular channel increases afterload and leads to fetal hypoxemia.
+
+312
+00:38:45,964 --> 00:38:51,826
+This in turn leads to ventricular dilation and redistribution of MCA blood flow.
+
+313
+00:38:51,826 --> 00:38:58,476
+Ultimately, pressure rises in the ductus venosus due to afterload in the right side of the fetal heart .
+
+314
+00:38:58,476 --> 00:39:07,826
+Clinically, abnormal Doppler waveforms in the ductus venosus are a late finding in the progression of fetal deterioration due to chronic hypoxemia.
+
+315
+00:39:07,826 --> 00:39:18,101
+To predict placental dysfunction, maternal uterine artery Doppler velocimetry also has been assessed, with the goal to balance stillbirth against the risks of preterm
+
+316
+00:39:18,268 --> 00:39:19,855
+delivery .
+
+317
+00:39:19,805 --> 00:39:22,380
+# Umbilical Artery.
+
+318
+00:39:22,380 --> 00:39:35,368
+The umbilical artery systolic-diastolic (S/D) ratio is considered abnormal if it is above the 95th percentile for gestational age or if diastolic flow is either absent or reversed .
+
+319
+00:39:35,368 --> 00:39:45,393
+Absent or reversed end-diastolic flow signifies greater impedance to umbilical artery blood flow (Fig. 47-7, p. 830).
+
+320
+00:39:45,393 --> 00:39:53,130
+It is reported to result from poorly vascularized placental villi and is seen in extreme cases of fetal-growth restriction .
+
+321
+00:39:53,130 --> 00:39:59,493
+The perinatal mortality rate is increased when absent or reversed end-diastolic flow is present .
+
+322
+00:39:59,493 --> 00:40:07,168
+Umbilical artery Doppler velocimetry to evaluate fetal health has been extensively assessed in randomized trials.
+
+323
+00:40:07,168 --> 00:40:17,530
+In one, 1360 women with a high risk for stillbirth underwent either an NST or Doppler velocimetry, and abnormal results prompted labor induction.
+
+324
+00:40:17,530 --> 00:40:26,593
+More patients in the Doppler group required induction, yet the cesarean delivery rate for intrapartum fetal distress was 4.6 percent.
+
+325
+00:40:26,593 --> 00:40:33,405
+This rate was significantly lower than the 8.7percent cesarean rate for those receiving an NST .
+
+326
+00:40:33,405 --> 00:40:42,655
+The authors believed that Doppler assessment, compared with an NST, identified a higher proportion of patients with early placental compromise.
+
+327
+00:40:42,655 --> 00:40:49,955
+Identified early, these fetuses experienced less distress, which yielded a lower cesarean delivery rate.
+
+328
+00:40:49,955 --> 00:41:00,655
+Similarly, Yoon and coworkers (1992) found that the BPP and umbilical artery Doppler measurements are comparable indicators of fetal acidosis.
+
+329
+00:41:00,655 --> 00:41:09,980
+Introduction of Doppler velocimetry as a primary screening test must balance any advantages against its necessary training and associated costs.
+
+330
+00:41:09,980 --> 00:41:21,755
+In addition, umbilical artery Doppler velocimetry does not effectively predict fetal health in normal pregnancies (Alfirevic, 2015; Page, 2017).
+
+331
+00:41:21,755 --> 00:41:33,480
+Gonzalez and associates (2007) found that abnormal umbilical artery Doppler findings in a cohort of growth-restricted fetuses were the best predictors of perinatal outcomes.
+
+332
+00:41:33,480 --> 00:41:47,780
+The American College of Obstetricians and Gynecologists (2021a) has concluded that umbilical artery Doppler velocimetry has not proved valuable as a screening test, except in cases of fetal-growth restriction .
+
+333
+00:41:47,780 --> 00:41:50,405
+# Ductus Venosus.
+
+334
+00:41:50,405 --> 00:42:01,430
+Doppler ultrasound can also assess the fetal venous circulation, and as discussed earlier, an abnormal ductus venosus Doppler waveform indicates cardiac dysfunction.
+
+335
+00:42:01,430 --> 00:42:07,255
+However, its routine use in surveillance of fetal-growth restriction is not recommended .
+
+336
+00:42:07,255 --> 00:42:12,968
+Ductus venosus Doppler is also used in the staging of twin-twin transfusion syndrome .
+
+337
+00:42:12,968 --> 00:42:19,030
+Abnormal Doppler indices reflect myocardial dysfunction and predict a poorer outcome .
+
+338
+00:42:19,030 --> 00:42:27,805
+Additionally, this Doppler method can help monitor fetuses with congenital heart defects and supraventricular tachycardia (SVT) .
+
+339
+00:42:27,805 --> 00:42:33,880
+Namely, SVT can induce a reversible cardiomyopathy that may lead to hydrops.
+
+340
+00:42:33,880 --> 00:42:39,905
+Ductus venosus Doppler patterns may aid prediction and monitor improvement following treatment.
+
+341
+00:42:39,905 --> 00:42:48,243
+Thus, ductus venosus Doppler may have a role in monitoring pregnancies at increased risk for fetal cardiovascular decline .
+
+342
+00:42:48,243 --> 00:42:51,068
+# Middle Cerebral Artery.
+
+343
+00:42:51,068 --> 00:42:56,905
+Doppler velocimetry of the MCA is the primary method of detecting fetal anemia .
+
+344
+00:42:56,905 --> 00:43:04,780
+With fetal anemia, the peak systolic velocity is enhanced due to greater cardiac output and decreased blood viscosity.
+
+345
+00:43:04,780 --> 00:43:11,468
+However, to detect fetal compromise, Doppler velocimetry of the MCA is not recommended .
+
+346
+00:43:11,468 --> 00:43:25,080
+In one randomized study of 665 women assigned to modified BPP alone or to modified BPP plus MCA and umbilical artery Doppler velocimetry, pregnancy outcomes did not differ .
+
+347
+00:43:25,080 --> 00:43:27,530
+# Uterine Artery.
+
+348
+00:43:27,530 --> 00:43:33,843
+Vascular resistance in the uterine circulation normally declines in the first half of pregnancy.
+
+349
+00:43:33,843 --> 00:43:39,218
+This stems from trophoblast invasion and remodeling of maternal uterine vessels .
+
+350
+00:43:39,218 --> 00:43:47,368
+Uterine artery Doppler velocimetry may be most helpful in assessing pregnancies at high risk of uteroplacental insufficiency .
+
+351
+00:43:47,368 --> 00:43:57,780
+Persistence or development of highresistance patterns has been linked to various pregnancy complications (Sciscione, 2009; Velathur, 2014).
+
+352
+00:43:57,780 --> 00:44:07,905
+In a study of 30,519 unselected British women, uterine artery velocimetry was assessed at 22 to 24 weeks’ gestation .
+
+353
+00:44:07,905 --> 00:44:11,105
+The risk of fetal death before 32
+
+354
+00:44:11,260 --> 00:44:19,897
+weeks, when associated with abruption, preeclampsia, or fetal-growth restriction, was significantly linked to high-resistance flow.
+
+355
+00:44:19,847 --> 00:44:25,847
+However, technique standards and criteria to define an abnormal test are lacking.
+
+356
+00:44:25,847 --> 00:44:33,472
+Thus, uterine artery Doppler studies are not considered standard practice in either low- or high-risk populations .
+
+357
+00:44:33,472 --> 00:44:35,972
+Antenatal Testing Summary.
+
+358
+00:44:35,972 --> 00:44:41,897
+Despite a continuous evolution of options, the precision of any given method is limited.
+
+359
+00:44:41,897 --> 00:44:49,522
+Moreover, the wide range of normal biological fetal variation makes interpretation of test results challenging.
+
+360
+00:44:49,522 --> 00:44:56,147
+This prompts many clinicians to use antenatal testing to forecast fetal wellness rather than illness.
+
+361
+00:44:56,147 --> 00:45:03,835
+Antenatal testing efficacy was reviewed between 1971 and 1985 at Los Angeles County Hospital .
+
+362
+00:45:03,835 --> 00:45:09,385
+Nearly 17,000 women underwent antepartum testing of various types.
+
+363
+00:45:09,385 --> 00:45:17,697
+Fetal surveillance rose from <1 percent of pregnancies in the early 1970s to 15 percent in the mid-1980s.
+
+364
+00:45:17,697 --> 00:45:28,635
+These authors concluded that such testing was clearly beneficial because the fetal death rate was significantly less in the tested high-risk pregnancies compared with the rate in those not tested.
+
+365
+00:45:28,635 --> 00:45:35,397
+The study, however, did not consider other innovations incorporated into practice during those years.
+
+366
+00:45:35,397 --> 00:45:41,122
+Results from Ghana suggest that NSTs may be beneficial in low-resource countries .
+
+367
+00:45:41,122 --> 00:45:58,572
+Namely, in an observational study of 316 pregnancies complicated by gestational hypertension, women undergoing an NST had a nonsignificant decreased risk for stillbirth compared with those not tested— 3.6 versus 9.2 percent, respectively.
+
+368
+00:45:58,572 --> 00:46:06,072
+However, the benefits of antenatal fetal testing have not been sufficiently evaluated in randomized trials.
+
+369
+00:46:06,072 --> 00:46:15,247
+Another important and unanswered question is whether antepartum fetal surveillance identifies fetal asphyxia early enough to prevent brain damage.
+
+370
+00:46:15,247 --> 00:46:26,822
+Manning and associates (1998) studied the incidence of cerebral palsy in 26,290 high-risk pregnancies managed with serial BPP testing.
+
+371
+00:46:26,822 --> 00:46:35,835
+These outcomes were compared with those of 58,657 low-risk pregnancies in which antepartum testing was not performed.
+
+372
+00:46:35,835 --> 00:46:45,035
+The rate of cerebral palsy was 1.3 per 1000 in tested pregnancies compared with 4.7 per 1000 in untested women.
+
+373
+00:46:45,035 --> 00:46:57,160
+Todd and colleagues (1992) attempted to correlate cognitive development in infants up to age 2 years following abnormal umbilical artery Doppler velocimetry or NST results.
+
+374
+00:46:57,160 --> 00:47:03,247
+Only abnormal NST results were associated with marginally poorer cognitive outcomes.
+
+375
+00:47:03,247 --> 00:47:12,347
+These investigators concluded that by the time fetal compromise is diagnosed with antenatal testing, fetal damage has already been sustained.
+
+376
+00:47:12,347 --> 00:47:17,210
+Low and coworkers (2003) reached a similar conclusion.
+
+377
+00:47:17,210 --> 00:47:24,160
+Indications for antepartum testing include fetal and maternal conditions that increase the risk for stillbirth .
+
+378
+00:47:24,160 --> 00:47:36,622
+According to the American College of Obstetricians and Gynecologists (2021a), a normal antepartum fetal test result is highly reassuring that a stillbirth will not occur within 1 week.
+
+379
+00:47:36,622 --> 00:47:44,997
+This conclusion was reached after an analysis of reports of stillbirth rates associated with the various antepartum fetal heart rate tests .
+
+380
+00:47:44,997 --> 00:47:47,185
+Table 20-4.
+
+381
+00:47:47,185 --> 00:47:51,622
+Indications for Antepartum Testing Table 20-5.
+
+382
+00:47:51,622 --> 00:48:03,735
+Stillbirth Rates within 1 Week of a Normal Antepartum Fetal Surveillance Test The most important consideration in deciding when to begin antepartum testing is the prognosis for neonatal survival.
+
+383
+00:48:03,735 --> 00:48:06,910
+The severity of maternal disease is another.
+
+384
+00:48:06,910 --> 00:48:14,035
+In general, with most high-risk pregnancies, testing begins by 32 to 34 weeks’ gestation.
+
+385
+00:48:14,035 --> 00:48:22,822
+Pregnancies with severe complications, such as fetal-growth restriction, might require testing as early as 26 to 28 weeks.
+
+386
+00:48:22,822 --> 00:48:30,122
+The frequency for repeating tests is arbitrarily set at 7 days, but more frequent testing is often done.
+

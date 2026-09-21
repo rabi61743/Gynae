@@ -1,0 +1,1880 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,387
+Chapter 19: Fetal Therapy.
+
+3
+00:00:05,387 --> 00:00:22,125
+Medical Therapy Surgical Therapy Open Fetal Surgery Fetoscopic Surgery Percutaneous Procedures Ex-Utero Intrapartum Treatment References Innovative treatments developed during the past three decades have dramatically altered the course of selected fetal anomalies and conditions.
+
+4
+00:00:22,125 --> 00:00:29,100
+Over time, fetal interventions have become less invasive, and the number of fetal centers has expanded.
+
+5
+00:00:29,100 --> 00:00:36,337
+The North American Fetal Therapy Network now includes 36 medical centers in the United States and Canada.
+
+6
+00:00:36,337 --> 00:00:43,387
+Some of the fetal abnormalities and conditions amenable to either medical or surgical treatment are presented here.
+
+7
+00:00:43,387 --> 00:00:54,175
+The management of fetal anemia and thrombocytopenia is reviewed in Chapter 18, and treatment of some fetal infections is discussed in Chapters 67 and 68.
+
+8
+00:00:54,175 --> 00:00:56,175
+Medical Therapy.
+
+9
+00:00:56,175 --> 00:01:05,137
+Selected medications administered to the pregnant woman are transported across the placenta in concentrations high enough to treat fetal conditions.
+
+10
+00:01:05,137 --> 00:01:12,550
+Pregnancy physiology affects drug concentration, and transfer depends on maternal and placental metabolism .
+
+11
+00:01:12,550 --> 00:01:14,837
+# Arrhythmias.
+
+12
+00:01:14,837 --> 00:01:32,037
+Abnormal fetal cardiac rhythms are grouped into three categories: tachyarrhythmias, heart rates >180 beats per minute (bpm); bradyarrhythmias, heart rates <110 bpm; and ectopy, typically premature atrial contractions.
+
+13
+00:01:32,037 --> 00:01:49,525
+If a fetal arrhythmia is suspected, M-mode ultrasound, described in Chapter 15 (p. 294), is used to measure the atrial and ventricular rates and to clarify the relationship between atrial and ventricular beats, thereby diagnosing the type of rhythm disturbance.
+
+14
+00:01:49,525 --> 00:01:59,937
+Premature Atrial Contractions If the fetal heart rate is normal but the rhythm is irregular, the most common etiology is premature atrial contractions (PACs).
+
+15
+00:01:59,937 --> 00:02:10,037
+These atrial ectopic beats are found in 1 to 2 percent of uncomplicated pregnancies (Hahurij, 2011; Strasburger, 2010).
+
+16
+00:02:10,037 --> 00:02:14,300
+PACs represent immaturity of the cardiac conduction system.
+
+17
+00:02:14,300 --> 00:02:18,937
+They typically resolve later in gestation or in the neonatal period.
+
+18
+00:02:18,937 --> 00:02:28,600
+PACs are usually an isolated finding but may be associated with redundancy of the foramen ovale flap—formerly termed a foramen ovale aneurysm.
+
+19
+00:02:28,600 --> 00:02:33,412
+When a PAC is conducted, an extra beat is heard with handheld Doppler.
+
+20
+00:02:33,412 --> 00:02:40,987
+However, the premature contraction more commonly arrives at the atrioventricular node during the refractory period.
+
+21
+00:02:40,987 --> 00:02:45,837
+This results in a compensatory pause, which sounds like a dropped beat.
+
+22
+00:02:45,837 --> 00:02:53,012
+M-mode evaluation confirms the diagnosis (Fig. 15-46, p. 295).
+
+23
+00:02:53,012 --> 00:03:01,862
+PACs may occur as frequently as every other beat, which means that the auscultated fetal heart rate may be as low as 60 to 80 bpm.
+
+24
+00:03:01,862 --> 00:03:07,887
+Known as blocked atrial bigeminy, this condition is benign and does not require treatment .
+
+25
+00:03:07,887 --> 00:03:14,187
+However, monitoring the fetus in labor may be challenging and necessitate cesarean delivery.
+
+26
+00:03:14,187 --> 00:03:22,825
+M-mode ultrasound will differentiate atrial bigeminy from other causes of bradycardia, such as thirddegree atrioventricular block.
+
+27
+00:03:22,825 --> 00:03:32,350
+Up to 2 percent of fetuses with PACs are later found to have supraventricular tachycardia (Copel, 2000; Srinivasan, 2008).
+
+28
+00:03:32,350 --> 00:03:45,150
+Given the importance of prompt identification and treatment of supraventricular tachyarrhythmias, pregnancies with PACs are often monitored with fetal heart rate assessment every 1 to 2 weeks until the ectopy resolves.
+
+29
+00:03:45,150 --> 00:03:51,787
+At Parkland Hospital, we find that auscultation with handheld Doppler is sufficient for surveillance.
+
+30
+00:03:51,787 --> 00:03:59,762
+Tachyarrhythmias The two most common tachyarrhythmias are supraventricular tachycardia (SVT) and atrial flutter.
+
+31
+00:03:59,762 --> 00:04:09,825
+SVT is characterized by an abrupt increase in the fetal heart rate to 180 to 300 bpm with 1:1 atrioventricular concordance .
+
+32
+00:04:09,825 --> 00:04:14,050
+The typical range is 200 to 240 bpm.
+
+33
+00:04:14,050 --> 00:04:22,912
+SVT may develop secondary to an ectopic focus or to an accessory atrioventricular pathway leading to a reentrant tachycardia.
+
+34
+00:04:22,912 --> 00:04:32,962
+Atrial flutter is characterized by a much higher atrial rate, generally 300 to 500 bpm, with varying degrees of atrioventricular block.
+
+35
+00:04:32,962 --> 00:04:41,700
+As a result, the ventricular rate in a fetus with atrial flutter may range from below normal to approximately 250 bpm .
+
+36
+00:04:41,700 --> 00:04:48,037
+In contrast, fetal sinus tachycardia typically presents with a gradual heart rate rise
+
+37
+00:04:48,196 --> 00:04:51,471
+to a rate that is only slightly above normal.
+
+38
+00:04:51,421 --> 00:04:59,933
+With this, readily discernible causes may be maternal fever or hyperthyroidism, or rarely, fetal anemia or infection.
+
+39
+00:04:59,933 --> 00:05:02,346
+Figure 19-1.
+
+40
+00:05:02,346 --> 00:05:05,996
+Supraventricular tachycardia (SVT).
+
+41
+00:05:05,996 --> 00:05:13,746
+This M-mode image at 20 weeks’ gestation demonstrates an initially normal fetal heartrate of 150 bpm.
+
+42
+00:05:13,746 --> 00:05:20,396
+Midway through the image (arrow), the fetal heart rate suddenly increases to 240 bpm.
+
+43
+00:05:20,396 --> 00:05:26,408
+With SVT, there is one atrial beat (A) for each ventricular beat (V).
+
+44
+00:05:26,408 --> 00:05:28,833
+Figure 19-2.
+
+45
+00:05:28,833 --> 00:05:30,671
+Atrial flutter.
+
+46
+00:05:30,671 --> 00:05:39,421
+In this M-mode image at 32 weeks’ gestation, calipers mark the ventricular rate, which is approximately 220 bpm.
+
+47
+00:05:39,421 --> 00:05:50,971
+There are two atrial beats (A) for each ventricular beat (V), such that the atrial rate is approximately 440 bpm with 2:1 atrioventricular block.
+
+48
+00:05:50,971 --> 00:06:00,158
+If a fetal tachyarrhythmia is identified, it is important to determine whether it is sustained—defined as present for at least 50 percent of the time.
+
+49
+00:06:00,158 --> 00:06:09,208
+It may be necessary to monitor the fetal heart rate for 12 to 24 hours upon initial detection, and then periodically to reassess .
+
+50
+00:06:09,208 --> 00:06:14,421
+Unsustained or intermittent tachyarrhythmias may become sustained over time.
+
+51
+00:06:14,421 --> 00:06:21,433
+Although intermittent tachyarrhythmias do not generally require treatment, close fetal surveillance is warranted.
+
+52
+00:06:21,433 --> 00:06:33,221
+Sustained fetal tachyarrhythmias with ventricular rates exceeding 200 bpm impair ventricular filling to a degree that the risks for developing cardiomyopathy and hydrops are significant.
+
+53
+00:06:33,221 --> 00:06:40,183
+With atrial flutter, lack of coordinated atrioventricular contractions may further compound this risk.
+
+54
+00:06:40,183 --> 00:06:50,033
+Maternal administration of antiarrhythmic agents that cross the placenta may convert the rhythm to normal or may lower the baseline heart rate to forestall heart failure.
+
+55
+00:06:50,033 --> 00:06:55,358
+Therapy can require dosages at the upper end of the therapeutic adult range.
+
+56
+00:06:55,358 --> 00:07:00,808
+Therefore, a maternal electrocardiogram is obtained before and during therapy.
+
+57
+00:07:00,808 --> 00:07:07,921
+Monitoring of the maternal serum level may be necessary, particularly if the dosage requires titration.
+
+58
+00:07:07,921 --> 00:07:13,858
+If medical therapy is successful, the medication is generally continued until delivery.
+
+59
+00:07:13,858 --> 00:07:20,408
+Antiarrhythmic medications most commonly used include digoxin, flecainide, and sotalol.
+
+60
+00:07:20,408 --> 00:07:26,171
+Their selection depends on the type of tachyarrhythmia and provider experience with the drug.
+
+61
+00:07:26,171 --> 00:07:34,033
+Traditionally, digoxin was the initial preferred treatment, but its placental transfer may be poor in the setting of hydrops.
+
+62
+00:07:34,033 --> 00:07:43,458
+Many centers now use flecainide or sotalol as first-line therapy (Ekiz, 2018; van der Heijden, 2013).
+
+63
+00:07:43,458 --> 00:07:52,771
+A second agent is needed in more than 50 percent of cases (Jaeggi, 2011; O’Leary, 2020; Shah, 2012).
+
+64
+00:07:52,771 --> 00:08:06,708
+With treatment, conversion to a normal rhythm or reduction in heart rate to a normal range occurs in 90 percent, including 80 percent of those with hydrops (Miyoshi, 2019; Ueda, 2018).
+
+65
+00:08:06,708 --> 00:08:11,646
+SVT is more likely than atrial flutter to convert to a normal rhythm.
+
+66
+00:08:11,646 --> 00:08:23,883
+The neonatal survival rate exceeds 90 percent (Ekman-Joelsson, 2015; Miyoshi, 2019; O’Leary, 2020; van der Heijden, 2013).
+
+67
+00:08:23,883 --> 00:08:29,871
+Bradyarrhythmia The most common etiology of fetal bradycardia is congenital heart block.
+
+68
+00:08:29,871 --> 00:08:37,708
+Approximately 50 percent of cases occur in the setting of a structural cardiac abnormality involving the conduction system.
+
+69
+00:08:37,708 --> 00:08:48,258
+These include heterotaxy, in particular left-atrial isomerism; endocardial cushion defect; and less commonly corrected transposition of the great vessels .
+
+70
+00:08:48,258 --> 00:08:59,958
+The prognosis of heart block from a structural cardiac anomaly is extremely poor, and fetal loss rates exceed 80 percent (Glatz, 2008; Strasburger, 2010).
+
+71
+00:08:59,958 --> 00:09:12,808
+In a structurally normal heart, 85 percent of atrioventricular block cases are caused by transplacental passage of maternal anti-SSA/Ro or antiSSB/La antibodies .
+
+72
+00:09:12,808 --> 00:09:20,321
+Many of these women have, or subsequently develop, systemic lupus erythematosus or other autoimmune disease .
+
+73
+00:09:20,321 --> 00:09:26,521
+The risk of third-degree heart block with Ro antibodies is small—only approximately 2 percent.
+
+74
+00:09:26,521 --> 00:09:32,021
+However, the risk may reach 20 percent if a prior infant has been affected.
+
+75
+00:09:32,021 --> 00:09:43,396
+Immune-mediated congenital heart block confers a mortality rate of nearly 20 percent, requires permanent pacing in two thirds of surviving children, and also poses a risk for
+
+76
+00:09:43,564 --> 00:09:49,789
+cardiomyopathy (Brito-Zeron, 2015; Izmirly, 2011).
+
+77
+00:09:49,739 --> 00:09:59,326
+If associated with effusions, bradyarrhythmias, or endocardial fibroelastosis, neonatal status may progressively worsen after birth.
+
+78
+00:09:59,326 --> 00:10:06,551
+Research has focused on maternal corticosteroid therapy to potentially reverse fetal heart block or to forestall it.
+
+79
+00:10:06,551 --> 00:10:23,951
+In the PR Interval and Dexamethasone (PRIDE) study, a multicenter trial of pregnancies with antiSSA/Ro antibodies, Friedman and colleagues (2008, 2009) performed weekly fetal echocardiography to assess for development of heart block.
+
+80
+00:10:23,951 --> 00:10:29,651
+Fetal heart block was treated with maternal oral dexamethasone, 4 mg daily.
+
+81
+00:10:29,651 --> 00:10:38,464
+Unfortunately, therapy did not prevent progression from second- to thirddegree block, and third-degree atrioventricular block was irreversible.
+
+82
+00:10:38,464 --> 00:10:44,839
+In rare cases, there was a potential benefit in reversing first-degree atrioventricular block.
+
+83
+00:10:44,839 --> 00:10:50,164
+However, first-degree block did not generally progress even without treatment.
+
+84
+00:10:50,164 --> 00:11:04,714
+Similarly, a subsequent review of pregnancies with isolated second- or third-degree fetal heart block found that dexamethasone therapy did not affect disease progression, need for pacemaker in the neonatal period, or overall survival rates .
+
+85
+00:11:04,714 --> 00:11:18,664
+Despite considerable enthusiasm for corticosteroid treatment, a systematic review of more than 700 pregnancies with treated fetal heart block demonstrated no improvement in fetal or neonatal morbidity or mortality rates .
+
+86
+00:11:18,664 --> 00:11:23,401
+Thus, we do not recommend dexamethasone use for this indication.
+
+87
+00:11:23,401 --> 00:11:33,039
+More recent efforts have turned to potential therapy with hydroxychloroquine (Plaquenil), a mainstay of treatment for systemic lupus erythematosus .
+
+88
+00:11:33,039 --> 00:11:44,714
+In a review of more than 250 women with prior affected children, early treatment with hydroxychloroquine was associated with a significant decrease in recurrence of congenital heart block .
+
+89
+00:11:44,714 --> 00:11:54,101
+A subsequent clinical trial found that treatment with hydroxychloroquine was associated with a greater than 50-percent reduction in the rate of fetal heart block .
+
+90
+00:11:54,101 --> 00:12:02,139
+In each of these series, fewer than 8 percent of children from pregnancies treated with hydroxychloroquine experienced heart block.
+
+91
+00:12:02,139 --> 00:12:05,039
+Research in this area is ongoing.
+
+92
+00:12:05,039 --> 00:12:16,576
+Maternal terbutaline has also been given in small cohorts with either alloimmune- or heterotaxy-mediated fetal heart block in which the fetal heart rate is persistently below 56 bpm.
+
+93
+00:12:16,576 --> 00:12:23,464
+The terbutaline dosage is titrated to a maternal heart rate of 95 to 115 bpm.
+
+94
+00:12:23,464 --> 00:12:35,264
+Fetal heart rate increases of 5 to 10 bpm have been reported, but resolution of hydrops has not been consistently demonstrated (Cuneo, 2007, 2010).
+
+95
+00:12:35,264 --> 00:12:38,726
+# Congenital Adrenal Hyperplasia.
+
+96
+00:12:38,726 --> 00:12:50,464
+Several autosomal recessive enzyme deficiencies impair fetal synthesis of cortisol from cholesterol by the adrenal cortex, leading to congenital adrenal hyperplasia (CAH).
+
+97
+00:12:50,464 --> 00:12:58,339
+CAH is the most common etiology of androgen excess in those with 46,XX disorders of sex development .
+
+98
+00:12:58,339 --> 00:13:12,289
+Lack of cortisol stimulates adrenocorticotrophic hormone (ACTH) secretion by the anterior pituitary, overproduction of androstenedione and testosterone, and subsequent virilization of female fetuses.
+
+99
+00:13:12,289 --> 00:13:25,964
+Sequelae may include formation of labioscrotal folds, persistence of a urogenital sinus, or even creation of a penile urethra and scrotal sac (Fig. 15-55, p. 299).
+
+100
+00:13:25,964 --> 00:13:32,214
+More than 90 percent of CAH cases are caused by 21-hydroxylase deficiency.
+
+101
+00:13:32,214 --> 00:13:35,801
+There are two types: classic and nonclassic.
+
+102
+00:13:35,801 --> 00:13:44,114
+The incidence of classic CAH approximates 1 in 15,000 births worldwide but is higher in selected populations.
+
+103
+00:13:44,114 --> 00:13:49,239
+Among Yupik Eskimos, the reported incidence is 1 in 300 births .
+
+104
+00:13:49,239 --> 00:14:07,014
+Of those with classic CAH, 75 percent require postnatal treatment with mineralocorticoids and glucocorticoids to prevent a salt-wasting adrenal crisis, which is characterized by hyponatremia, dehydration, hypotension, and even cardiovascular collapse.
+
+105
+00:14:07,014 --> 00:14:15,476
+The remaining 25 percent with classic CAH have the simple virilizing type and also require glucocorticoid supplementation.
+
+106
+00:14:15,476 --> 00:14:21,889
+Nonclassic CAH may present with precocious pubarche, hirsutism, or infertility.
+
+107
+00:14:21,889 --> 00:14:26,451
+However, affected individuals also may be asymptomatic.
+
+108
+00:14:26,451 --> 00:14:32,776
+The prevalence of nonclassic CAH approximates 1 case per 200 Caucasians and
+
+109
+00:14:32,932 --> 00:14:36,132
+Ashkenazi Jews in the United States .
+
+110
+00:14:36,082 --> 00:14:43,757
+As discussed in Chapter 32 (p.594), all states mandate newborn screening for CAH.
+
+111
+00:14:43,757 --> 00:14:58,944
+For more than three decades, dexamethasone has been administered to the pregnant woman to suppress fetal androgen overproduction and either obviate or ameliorate virilization of female fetuses (David, 1984; New, 2012).
+
+112
+00:14:58,944 --> 00:15:06,007
+Prenatal corticosteroid therapy is successful in most cases if initiated early and taken consistently.
+
+113
+00:15:06,007 --> 00:15:12,144
+One metaanalysis found that dexamethasone treatment was associated with reduced virilization.
+
+114
+00:15:12,144 --> 00:15:20,694
+Specifically, the Prader score, which grades genital masculinization on a scale 1 to 5, improved by 2.3 grades .
+
+115
+00:15:20,694 --> 00:15:31,569
+The alternative is consideration of postnatal genitoplasty, which may include clitoroplasty, urogenital sinus surgery, and additional vaginoplasty procedures.
+
+116
+00:15:31,569 --> 00:15:42,132
+In a recent review, 18 percent of children treated with feminizing genitoplasty experienced postoperative complications, and 12 percent required further surgery .
+
+117
+00:15:42,132 --> 00:15:54,369
+The typical preventive regimen is oral dexamethasone given to the mother at a dosage of 20 μg/kg/d—up to 1.5 mg per day, divided in three doses.
+
+118
+00:15:54,369 --> 00:16:07,019
+The critical period for external genitalia development is 7 to 12 weeks’ gestation, and treatment to prevent virilization should be initiated by 9 weeks—before it is known whether the fetus is affected.
+
+119
+00:16:07,019 --> 00:16:14,432
+Because this is an autosomal recessive condition, affected females make up only 1 in 8 atrisk conceptions.
+
+120
+00:16:14,432 --> 00:16:19,557
+Carrier parents are typically identified after the birth of an affected child.
+
+121
+00:16:19,557 --> 00:16:31,982
+Molecular genetic testing is clinically available in such cases and initially uses sequence analysis of the CYP21A2 gene, which encodes the 21hydroxylase enzyme .
+
+122
+00:16:31,982 --> 00:16:42,294
+If this is uninformative, gene-targeted deletion/duplication analysis is performed, and additional testing such as whole exome sequencing may be considered .
+
+123
+00:16:42,294 --> 00:16:49,194
+A goal of prenatal diagnosis is to limit dexamethasone exposure in males and in unaffected females.
+
+124
+00:16:49,194 --> 00:17:01,832
+If both parents are determined to be carriers, prenatal molecular genetic testing may be performed on chorionic villi—at 10 to 12 weeks’ gestation—or on amniocytes after 15 weeks.
+
+125
+00:17:01,832 --> 00:17:09,982
+Determination of fetal gender using cell-free DNA (cfDNA) may aid in avoiding dexamethasone treatment.
+
+126
+00:17:09,982 --> 00:17:22,357
+CfDNA sensitivity to detect Y-chromosome sequences is at least 95 percent when performed at or beyond 7 weeks (Devaney, 2011; Hill, 2011).
+
+127
+00:17:22,357 --> 00:17:34,344
+In the research setting, effective cfDNA testing using hybridization probes flanking the CYP21A2 gene has been reported as early as 56/7 weeks’ gestation .
+
+128
+00:17:34,344 --> 00:17:38,719
+Maternal treatment with dexamethasone has become controversial.
+
+129
+00:17:38,719 --> 00:17:45,144
+The Endocrine Society recommends that treatment be given only in the context of research protocols .
+
+130
+00:17:45,144 --> 00:17:53,582
+It further recommends that such protocols incorporate cfDNA screening for the Y-chromosome to avoid treatment of male fetuses.
+
+131
+00:17:53,582 --> 00:18:07,632
+Of note, if therapy is initiated shortly before 9 weeks’ gestation, the dose of dexamethasone used is not considered to have significant teratogenic potential because organogenesis of major organs has already taken place .
+
+132
+00:18:07,632 --> 00:18:16,932
+Ongoing concerns focus on the potential effects of either excess endogenous androgens or excess exogenous dexamethasone on the developing brain.
+
+133
+00:18:16,932 --> 00:18:27,282
+Although maternal dexamethasone has been used for many years to prevent virilization of female fetuses with CAH, long-term safety data are relatively limited.
+
+134
+00:18:27,282 --> 00:18:31,507
+# Congenital Cystic Adenomatoid Malformation.
+
+135
+00:18:31,507 --> 00:18:42,632
+This well-circumscribed lung mass may appear solid and echogenic or may have one or multiple variably sized cysts (Fig. 15-33, p. 288).
+
+136
+00:18:42,632 --> 00:18:52,882
+Lesions with one or more cysts ≥5 mm are termed macrocystic, whereas solid lesions and those with smaller cysts are microcystic .
+
+137
+00:18:52,882 --> 00:19:04,557
+A small subset of microcystic congenital cystic adenomatoid malformations (CCAMs) may demonstrate rapid growth, generally between 18 and 26 weeks’ gestation.
+
+138
+00:19:04,557 --> 00:19:13,744
+The mass may become so large that it causes mediastinal shift, which may compromise cardiac output and venous return, leading to hydrops .
+
+139
+00:19:13,744 --> 00:19:21,882
+A CCAM-volume ratio (CVR) has been used to quantify size and risk for hydrops in these severe cases .
+
+140
+00:19:21,882 --> 00:19:25,344
+This ratio is an estimate of the CCAM
+
+141
+00:19:25,516 --> 00:19:34,528
+volume using the formula for a prolate ellipse (length × width × height × π/6) divided by the head circumference.
+
+142
+00:19:34,478 --> 00:19:48,141
+In a series of 40 pregnancies with microcystic CCAM, the mean CVR was 0.5 at 20 weeks’ gestation, peaked at 1.0 by 26 weeks, and then declined sharply before delivery .
+
+143
+00:19:48,141 --> 00:19:54,416
+With a CVR exceeding 1.6, the risk for hydrops is as high as 60 percent.
+
+144
+00:19:54,416 --> 00:20:08,491
+However, if the initial CVR is below 1.6, CCAM growth resulting in hydrops develops in fewer than 2 percent of cases (Ehrenberg-Buchner, 2013; Peranteau, 2016).
+
+145
+00:20:08,491 --> 00:20:13,316
+A CVR threshold of 1.0 also may assist counseling.
+
+146
+00:20:13,316 --> 00:20:25,291
+In a series of 62 pregnancies with fetal lung masses, a maximal CVR >1.0 was associated with a 75-percent likelihood that the neonate would be symptomatic .
+
+147
+00:20:25,291 --> 00:20:33,578
+However, no fetus with a CVR ≤1.0 subsequently required surgery in the newborn period.
+
+148
+00:20:33,578 --> 00:20:41,141
+If the CVR exceeds 1.6 or if signs of hydrops develop, corticosteroid treatment may be beneficial.
+
+149
+00:20:41,141 --> 00:20:54,778
+Regimens include dexamethasone—6.25 mg every 12 hours for four doses, or betamethasone—12.5 mg intramuscularly every 24 hours for two doses.
+
+150
+00:20:54,778 --> 00:21:09,341
+A single course of corticosteroids has been associated with resolution of hydrops in approximately 80 percent of cases, and 90 percent of treated fetuses survived (Loh, 2012; Peranteau, 2016).
+
+151
+00:21:09,341 --> 00:21:26,678
+Multiple courses of corticosteroids—generally two—have been advocated for fetuses with large CCAM lesions and with persistent or worsening hydrops or ascites despite a single course of medication (Derderian, 2015; Peranteau, 2016).
+
+152
+00:21:26,678 --> 00:21:30,866
+Therapy for macrocystic CCAM is discussed later.
+
+153
+00:21:30,866 --> 00:21:33,391
+# Thyroid Disease.
+
+154
+00:21:33,391 --> 00:21:40,778
+Identification of fetal thyroid disease is rare and is usually prompted by sonographic detection of a fetal goiter.
+
+155
+00:21:40,778 --> 00:21:51,778
+If a goiter is identified, determination of fetal hyper- or hypothyroidism is essential, and thyroid hormone levels should be measured in amnionic fluid or fetal blood.
+
+156
+00:21:51,778 --> 00:22:03,191
+Traditionally, fetal blood sampling was preferred to amniocentesis for guiding treatment, but data are limited (Abuhamad, 1995; Ribault, 2009).
+
+157
+00:22:03,191 --> 00:22:09,228
+Performance of these procedures is discussed in Chapter 17 (p. 347).
+
+158
+00:22:09,228 --> 00:22:15,491
+Goals of therapy are correction of the physiological abnormality and diminished goiter size.
+
+159
+00:22:15,491 --> 00:22:21,928
+The goiter may compress the trachea and esophagus, leading to hydramnios from impaired swallowing.
+
+160
+00:22:21,928 --> 00:22:32,228
+Despite this, case reports attest to lack of airway compromise and favorable outcomes (Blumenfeld, 2013; Machado, 2019).
+
+161
+00:22:32,228 --> 00:22:42,553
+Thyrotoxicosis Maternal Graves disease may result in transplacental passage of immunoglobulin G (IgG) thyroid-stimulating antibodies.
+
+162
+00:22:42,553 --> 00:23:02,053
+Untreated fetal thyrotoxicosis can present with goiter, tachycardia, growth restriction, hydramnios, accelerated bone maturation, and even heart failure and hydrops (Huel, 2009; Kiefer, 2017; Peleg, 2002; van Dijk, 2018).
+
+163
+00:23:02,053 --> 00:23:10,378
+Fetal blood sampling may be considered to confirm the diagnosis (Duncombe, 2001; Srisupundit, 2008).
+
+164
+00:23:10,378 --> 00:23:20,241
+Maternal administration of antithyroid medication may be needed, even if the woman has had prior surgery or ablation and no longer has hyperthyroidism.
+
+165
+00:23:20,241 --> 00:23:26,553
+If the pregnant women develops hypothyroidism, she is treated with supplemental levothyroxine .
+
+166
+00:23:26,553 --> 00:23:37,103
+Hypothyroidism In a woman receiving medication for Graves disease, transplacental passage of methimazole or propylthiouracil may cause fetal hypothyroidism .
+
+167
+00:23:37,103 --> 00:23:57,053
+Other potential causes of fetal hypothyroidism resulting in goiter include transplacental passage of thyroid peroxidase antibodies, fetal thyroid dyshormonogenesis, and maternal consumption of iodine supplements (Agrawal, 2002; Hardley, 2018; Overcash, 2016).
+
+168
+00:23:57,053 --> 00:24:04,166
+Goitrous hypothyroidism may lead to hydramnios, neck hyperextension, and delayed bone maturation.
+
+169
+00:24:04,166 --> 00:24:08,428
+Treatment with intraamnionic levothyroxine should be considered.
+
+170
+00:24:08,428 --> 00:24:23,003
+Optimal dosage and frequency have not been established but have typically ranged from 150 to 500 μg every 1 to 4 weeks (Machado, 2019; Nemescu, 2020; Ribault, 2009).
+
+171
+00:24:23,003 --> 00:24:28,941
+If the pregnant woman is receiving antithyroid medication, it is generally discontinued.
+
+172
+00:24:28,941 --> 00:24:31,078
+Surgical Therapy.
+
+173
+00:24:31,078 --> 00:24:41,328
+Fetal surgery, also called maternal-fetal surgery, is offered for selected congenital abnormalities in which the likelihood of deterioration during gestation
+
+174
+00:24:41,500 --> 00:24:49,137
+is so great that delaying treatment until after delivery would risk fetal death or substantially greater postnatal morbidity.
+
+175
+00:24:49,087 --> 00:24:57,837
+Fetal surgical procedures are highly specialized interventions performed at relatively few centers to treat a small number of fetal conditions.
+
+176
+00:24:57,837 --> 00:25:03,012
+They require extensive preoperative counseling and multidisciplinary care.
+
+177
+00:25:03,012 --> 00:25:07,925
+Principles for guiding case selection are listed in Table 19-1.
+
+178
+00:25:07,925 --> 00:25:14,025
+When considering fetal surgery, the overriding concern is the safety of the mother and fetus.
+
+179
+00:25:14,025 --> 00:25:18,037
+Accomplishing the fetal goals of the procedure is secondary .
+
+180
+00:25:18,037 --> 00:25:20,387
+Table 19-1.
+
+181
+00:25:20,387 --> 00:25:29,575
+Guiding Principles for Fetal Surgical Procedures Selected abnormalities amenable to fetal surgical treatment are shown in Table 19-2.
+
+182
+00:25:29,575 --> 00:25:39,362
+An overview of some of these procedures, their indications, and complications is provided here to assist with initial patient evaluation and counseling.
+
+183
+00:25:39,362 --> 00:25:45,712
+Additional content is also found in Cunningham and Gilstrap’s Operative Obstetrics, 3rd edition.
+
+184
+00:25:45,712 --> 00:25:48,162
+TABLE 19-2.
+
+185
+00:25:48,162 --> 00:25:55,462
+Selected Fetal and Placental Abnormalities Amenable to InUtero Procedures # Open Fetal Surgery.
+
+186
+00:25:55,462 --> 00:26:02,725
+Fetal procedures are considered open if they are accomplished though a hysterotomy that is not performed for the purpose of delivery.
+
+187
+00:26:02,725 --> 00:26:10,687
+Open procedures are performed under general endotracheal anesthesia to suppress uterine contractions and fetal responses.
+
+188
+00:26:10,687 --> 00:26:19,787
+The hysterotomy is made with a stapling device, and intraoperative ultrasound is used to avoid the placental edge and to verify fetal position.
+
+189
+00:26:19,787 --> 00:26:27,475
+The stapler seals the edges of the myometrium and membranes to achieve hemostasis and avoid chorioamnion separation.
+
+190
+00:26:27,475 --> 00:26:34,737
+Warmed fluid is continuously infused into the uterus thorough a rapid infusion device to limit cord compression.
+
+191
+00:26:34,737 --> 00:26:45,850
+The fetus is gently manipulated to facilitate exposure, to permit pulse oximetry monitoring, and to establish venous access in case fluids or blood are emergently needed.
+
+192
+00:26:45,850 --> 00:26:50,900
+The surgical procedure is then performed, and the hysterotomy is closed.
+
+193
+00:26:50,900 --> 00:26:56,100
+Prophylactic antibiotics are generally administered for 24 hours.
+
+194
+00:26:56,100 --> 00:27:04,425
+Tocolysis typically includes intravenous magnesium sulfate for 24 hours and oral indomethacin for 48 hours.
+
+195
+00:27:04,425 --> 00:27:09,787
+Cesarean delivery is needed later in gestation and for all future deliveries.
+
+196
+00:27:09,787 --> 00:27:15,075
+Risks Open fetal surgery entails significant maternal and fetal risks.
+
+197
+00:27:15,075 --> 00:27:22,512
+The most recent data are from studies of fetal myelomeningocele repair, which is the most commonly performed procedure.
+
+198
+00:27:22,512 --> 00:27:30,087
+Morbidities identified in the Management of Myelomeningocele Study (MOMS) are shown in Table 19-3 .
+
+199
+00:27:30,087 --> 00:27:41,975
+In a review of 26 open fetal myelomeningocele cases, 15 percent experienced preterm rupture of membranes, and the mean gestational age at delivery was 35 weeks .
+
+200
+00:27:41,975 --> 00:27:50,537
+Other potential risks include maternal sepsis and fetal death during or following the procedure, particularly if hydrops is present.
+
+201
+00:27:50,537 --> 00:28:04,125
+Wilson and associates (2010) reviewed subsequent pregnancy outcomes following open fetal surgery and reported that 14 percent of women experienced uterine rupture and 14 percent had uterine dehiscence.
+
+202
+00:28:04,125 --> 00:28:06,587
+Table 19-3.
+
+203
+00:28:06,587 --> 00:28:19,650
+Benefits and Risks of Fetal Myelomeningocele Surgery versus Postnatal Repair Myelomeningocele Surgery Fetal myelomeningocele is the first nonlethal birth defect for which in-utero repair has been offered .
+
+204
+00:28:19,650 --> 00:28:34,537
+Following standard postnatal myelomeningocele repair, affected children experience varying degrees of paralysis, bladder and bowel dysfunction, developmental delays, and brainstem dysfunction from the Arnold-Chiari II malformation .
+
+205
+00:28:34,537 --> 00:28:49,162
+Damage is postulated to result from abnormal embryonic neurulation followed by exposure of neural elements to amnionic fluid throughout pregnancy (Adzick, 2010; Meuli, 1995, 1997).
+
+206
+00:28:49,162 --> 00:28:51,575
+Figure 19-3.
+
+207
+00:28:51,575 --> 00:28:54,475
+Fetal myelomeningocele surgery.
+
+208
+00:28:54,475 --> 00:29:02,262
+A. With the edges of both the laparotomy and hysterotomy incisions retracted, the skin around the defect is incised.
+
+209
+00:29:02,262 --> 00:29:07,875
+Subsequently, the neural placode is sharply dissected from the arachnoid membrane.
+
+210
+00:29:07,875 --> 00:29:15,262
+B. The dural membrane is reflected to the midline to cover the neural placode and is reapproximated using suture.
+
+211
+00:29:15,262 --> 00:29:18,887
+In some cases a patch is needed (not shown).
+
+212
+00:29:18,887 --> 00:29:22,425
+The fetal skin incision is subsequently sutured.
+
+213
+00:29:22,425 --> 00:29:25,075
+Last, hysterotomy and
+
+214
+00:29:25,228 --> 00:29:27,840
+laparotomy are then closed.
+
+215
+00:29:27,790 --> 00:29:40,178
+Figures 19-3, 19-4, 19-6, and 19-8: Reproduced with permission from Shamshirsaz AA, Ramin, SM, Belfort MA: Fetal therapy.
+
+216
+00:29:40,178 --> 00:29:49,003
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al: Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+217
+00:29:49,003 --> 00:29:53,440
+New York, McGraw Hill Education, 2017.
+
+218
+00:29:53,440 --> 00:30:05,878
+In the landmark MOMS trial, Adzick and colleagues (2011) randomized 183 pregnancies to prenatal or standard postnatal myelomeningocele repair at three centers.
+
+219
+00:30:05,878 --> 00:30:30,615
+Criteria for trial participation included: (1) a singleton fetus at 19.0 to 25.9 weeks’ gestation; (2) an upper myelomeningocele boundary between T1 and S1 confirmed by magnetic resonance imaging; (3) evidence of hindbrain herniation; and (4) a normal karyotype and no evidence of a fetal anomaly unrelated to the myelomeningocele.
+
+220
+00:30:30,615 --> 00:30:44,140
+Women at risk for preterm birth or placental abruption, those with a contraindication to fetal surgery, and women with body mass index (BMI) >35 kg/m2 were excluded.
+
+221
+00:30:44,140 --> 00:30:50,490
+The MOMS trial demonstrated improved early childhood outcomes in the prenatal surgery cohort .
+
+222
+00:30:50,490 --> 00:30:56,815
+Children who had undergone fetal surgery were twice as likely to walk independently by 30 months.
+
+223
+00:30:56,815 --> 00:31:05,240
+They had significantly less hindbrain herniation and were only half as likely to undergo ventriculoperitoneal shunting by age 1 year.
+
+224
+00:31:05,240 --> 00:31:15,953
+A primary outcome was a composite score that was derived from the Bayley Mental Development Index and from the difference between the functional and anatomical level of the lesion at 30 months.
+
+225
+00:31:15,953 --> 00:31:21,390
+This primary outcome was also significantly better in the prenatal surgery group.
+
+226
+00:31:21,390 --> 00:31:31,715
+Despite these benefits, most children who received fetal surgery were not able to ambulate independently, and nearly 30 percent were not able to ambulate at all.
+
+227
+00:31:31,715 --> 00:31:40,690
+Prenatal surgery did not confer improvements in fetal or neonatal death rates or in the Bayley Mental Development Index score at age 30 months.
+
+228
+00:31:40,690 --> 00:31:47,840
+Prenatal surgery was also associated with a small risk for placental abruption and maternal pulmonary edema.
+
+229
+00:31:47,840 --> 00:31:56,040
+Moreover, nearly half were delivered before 34 weeks, which significantly increased the risk for respiratory distress syndrome .
+
+230
+00:31:56,040 --> 00:32:09,315
+It is the position of the American College of Obstetricians and Gynecologists (2017) that nondirective counseling include the option of fetal surgery for all pregnancies that meet MOMS trial criteria.
+
+231
+00:32:09,315 --> 00:32:24,165
+Study of fetal myelomeningocele repair in women with BMI up to 40 kg/m2 has demonstrated outcomes similar to those in women of lower BMI (Hilton, 2019; Moldenhauer, 2020).
+
+232
+00:32:24,165 --> 00:32:28,615
+Otherwise, MOMS trial criteria are strictly followed.
+
+233
+00:32:28,615 --> 00:32:35,553
+Outcomes of children aged 6 to 10 years who previously participated in the MOMs trial are now available .
+
+234
+00:32:35,553 --> 00:32:41,353
+Fetal surgery conferred a sustained benefit in the likelihood of independent ambulation.
+
+235
+00:32:41,353 --> 00:32:50,790
+Nearly 30 percent of children were able to ambulate independently, and approximately 50 percent required ventriculoperitoneal shunt placement.
+
+236
+00:32:50,790 --> 00:32:54,853
+Overall cognitive function was similar between cohorts .
+
+237
+00:32:54,853 --> 00:33:00,528
+Thoracic Masses Open fetal surgery is rarely performed for thoracic masses.
+
+238
+00:33:00,528 --> 00:33:04,203
+Most are small, and these have a good prognosis.
+
+239
+00:33:04,203 --> 00:33:10,540
+Large CCAMs are often treated medically with a course of corticosteroids (p. 370).
+
+240
+00:33:10,540 --> 00:33:17,778
+A dominant cyst in a CCAM may be amenable to drainage or shunt placement (p. 376).
+
+241
+00:33:17,778 --> 00:33:26,165
+Similarly, an isolated pleural effusion surrounding a pulmonary sequestration may be amenable to drainage or shunt placement.
+
+242
+00:33:26,165 --> 00:33:37,165
+Fetal surgery is generally reserved for pregnancies prior to 32 weeks’ gestation in which there is a large, solid-appearing or microcystic mass and hydrops is developing.
+
+243
+00:33:37,165 --> 00:33:44,115
+In carefully selected cases, the survival rate following open lobectomy approximates 60 percent .
+
+244
+00:33:44,115 --> 00:33:51,503
+Use of the ex-utero intrapartum treatment procedure in the treatment of fetal lung masses at delivery is discussed later.
+
+245
+00:33:51,503 --> 00:34:07,028
+Sacrococcygeal Teratoma The perinatal mortality rate for cases of sacrococcygeal teratoma diagnosed prenatally is 20 to 40 percent (Hedrick, 2004; Shue, 2013, Simonini, 2021).
+
+246
+00:34:07,028 --> 00:34:18,465
+Poor prognostic factors include a solid component constituting more than 50 percent of the tumor mass and a tumor volume-to-fetal weight ratio exceeding 12 percent prior to 24
+
+247
+00:34:18,628 --> 00:34:20,665
+weeks’ gestation .
+
+248
+00:34:20,615 --> 00:34:32,503
+Hydramnios is common, and hydrops may develop from high-output cardiac failure, either as a consequence of tumor vascularity or secondary to bleeding within the tumor and resulting anemia.
+
+249
+00:34:32,503 --> 00:34:36,828
+Fetal loss rates approach 100 percent in such cases.
+
+250
+00:34:36,828 --> 00:34:43,815
+Mirror syndrome—maternal preeclampsia developing along with fetal hydrops—may occur in this setting .
+
+251
+00:34:43,815 --> 00:34:53,415
+Open fetal surgery is considered only if the tumor is completely external and high cardiac output with early hydrops has developed in the second trimester .
+
+252
+00:34:53,415 --> 00:35:03,753
+However, given the poor prognosis, rapid growth beyond 27 weeks often prompts early delivery and postnatal resection rather than open fetal surgery .
+
+253
+00:35:03,753 --> 00:35:06,590
+# Fetoscopic Surgery.
+
+254
+00:35:06,590 --> 00:35:12,778
+As with open fetal surgeries, these procedures are performed at highly specialized centers.
+
+255
+00:35:12,778 --> 00:35:19,190
+Fetoscopy is performed with fiberoptic endoscopes that measure 1 to 2 mm in diameter.
+
+256
+00:35:19,190 --> 00:35:25,753
+Instruments such as lasers fit through a 3- to 5-mm cannula that surrounds the endoscope.
+
+257
+00:35:25,753 --> 00:35:32,490
+Not all fetoscopic procedures involve placing the instruments through the maternal anterior abdominal wall.
+
+258
+00:35:32,490 --> 00:35:40,178
+In some cases, laparotomy facilitates optimal placement and maneuvering of the instruments or positioning of the fetus.
+
+259
+00:35:40,178 --> 00:35:45,840
+Examples of conditions treated by fetoscopy are listed in Table 19-2.
+
+260
+00:35:45,840 --> 00:36:00,278
+Twin-Twin Transfusion Syndrome As discussed in Chapter 48 (p. 849), fetoscopic laser ablation of placental anastomoses is the preferred management for severe twin-twin transfusion syndrome (TTTS).
+
+261
+00:36:00,278 --> 00:36:16,715
+It is generally performed between 16 and 26 weeks’ gestation for monochorionic-diamnionic twin pregnancies with stage II to stage IV TTTS (Quintero, 1999; Society for Maternal-Fetal Medicine, 2013).
+
+262
+00:36:16,715 --> 00:36:22,915
+A fetoscope inserted into the sac of the recipient twin is used to image the vascular equator.
+
+263
+00:36:22,915 --> 00:36:28,290
+The vascular equator separates the placental cotyledons that supply each twin .
+
+264
+00:36:28,290 --> 00:36:35,765
+Selective laser photocoagulation involves individually coagulating anastomoses that cross between the twins .
+
+265
+00:36:35,765 --> 00:36:53,228
+Arteriovenous anastomoses along the placental surface of the equator are visualized with the fetoscope and then photocoagulated using a 600-μm diameter diode laser or a 400-μm neodymium:yttrium-aluminum-garnet (Nd:YAG) laser .
+
+266
+00:36:53,228 --> 00:36:57,778
+The procedure is typically performed under epidural analgesia.
+
+267
+00:36:57,778 --> 00:37:09,228
+At the end, amnioreduction is performed to decrease the single deepest pocket of amnionic fluid to below 5 cm, and antibiotics are injected into the amnionic cavity.
+
+268
+00:37:09,228 --> 00:37:11,690
+Figure 19-4.
+
+269
+00:37:11,690 --> 00:37:16,690
+Selective laser photocoagulation for twin-twin transfusion syndrome.
+
+270
+00:37:16,690 --> 00:37:26,140
+The fetoscope is inserted into the recipient-twin sac and positioned over the vascular equator, which lies in between the two placental cord insertion sites.
+
+271
+00:37:26,140 --> 00:37:33,303
+Arteriovenous anastomoses along the placental surface are individually photocoagulated using the laser.
+
+272
+00:37:33,303 --> 00:37:40,528
+Reproduced with permission from Shamshirsaz AA, Ramin, SM, Belfort MA: Fetal therapy.
+
+273
+00:37:40,528 --> 00:37:49,353
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al: Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+274
+00:37:49,353 --> 00:37:53,840
+New York, NY: McGraw Hill; 2017.
+
+275
+00:37:53,840 --> 00:37:56,403
+Figure 19-5.
+
+276
+00:37:56,403 --> 00:38:02,303
+Fetoscopic photograph of laser photocoagulation for twin-twin transfusion syndrome.
+
+277
+00:38:02,303 --> 00:38:08,815
+A. Vascular anastomoses (arrows) are shown before photocoagulation is performed.
+
+278
+00:38:08,815 --> 00:38:13,928
+B. The ablation sites appear as blanched yellow-white areas (arrows).
+
+279
+00:38:13,928 --> 00:38:18,403
+Reproduced with permission from Dr. Timothy M. Crombleholme.
+
+280
+00:38:18,403 --> 00:38:29,990
+Unfortunately, residual anastomoses remain in up to a third of cases and may lead to TTTS recurrence or to the development of twin anemiapolycythemia sequence (TAPS).
+
+281
+00:38:29,990 --> 00:38:39,053
+The latter is a feto-fetal transfusion characterized by large differences in hemoglobin concentrations between a pair of monochorionic twins.
+
+282
+00:38:39,053 --> 00:38:50,103
+With the Solomon technique, immediately after selective photocoagulation, the laser is used to coagulate the entire vascular equator from one edge of the placenta to the other .
+
+283
+00:38:50,103 --> 00:39:02,240
+Placental dye-injection studies confirm a significant reduction in the number of residual anastomoses following this procedure (Ruano, 2013; Slaghekke, 2014b).
+
+284
+00:39:02,240 --> 00:39:08,715
+Families should have reasonable expectations of procedural success and potential complications.
+
+285
+00:39:08,715 --> 00:39:12,915
+Without treatment, the perinatal mortality rate for severe
+
+286
+00:39:13,084 --> 00:39:16,584
+TTTS is 70 to 100 percent.
+
+287
+00:39:16,534 --> 00:39:27,271
+Following laser therapy, the perinatal mortality rate approximates 30 to 50 percent, and the risk for long-term neurological handicap is 5 to 20 percent .
+
+288
+00:39:27,271 --> 00:39:36,134
+One series reported a double-twin survival rate of nearly 70 percent and survival of at least one twin in more than 90 percent of cases .
+
+289
+00:39:36,134 --> 00:39:47,384
+Ischemic fetal brain lesions have been identified in 2 percent of those treated by laser and include cystic periventricular leukomalacia and grade III or IV interventricular hemorrhage .
+
+290
+00:39:47,384 --> 00:39:52,346
+Cerebral palsy has been reported in 5 percent of surviving children .
+
+291
+00:39:52,346 --> 00:40:09,334
+Procedure-related complications include preterm prelabor ruptured membranes in up to 25 percent, placental abruption in 8 percent, vascular laceration in 3 percent, and amnionic band syndrome resulting from laser laceration of the membranes in 3 percent.
+
+292
+00:40:09,334 --> 00:40:24,934
+Additionally, TAPS complicates 16 percent of pregnancies treated with selective laser photocoagulation and 3 percent treated with the Solomon technique (Habli, 2009; Robyr, 2006; Slaghekke, 2014b).
+
+293
+00:40:24,934 --> 00:40:31,234
+The majority of laser-treated TTTS pregnancies deliver before 34 weeks’ gestation .
+
+294
+00:40:31,234 --> 00:40:42,259
+Congenital Diaphragmatic Hernia Early attempts to treat congenital diaphragmatic hernia (CDH) used open fetal surgery to reposition the liver into the abdomen.
+
+295
+00:40:42,259 --> 00:40:47,071
+This unfortunately kinked the umbilical vein and led to fetal demise .
+
+296
+00:40:47,071 --> 00:40:57,084
+Knowledge that lungs normally produce fluid and that fetuses with upper airway obstruction develop pulmonary hyperplasia formed the rationale for tracheal occlusion.
+
+297
+00:40:57,084 --> 00:41:00,584
+The idea was to “plug the lung until it grows” .
+
+298
+00:41:00,584 --> 00:41:05,221
+Initial efforts focused on occluding the trachea with an external clip .
+
+299
+00:41:05,221 --> 00:41:13,871
+Subsequently, a detachable silicone or latex balloon was placed within the trachea endoscopically and inflated with normal saline .
+
+300
+00:41:13,871 --> 00:41:26,684
+This procedure, fetoscopic tracheal occlusion (FETO), is offered to selected pregnancies with isolated CDH in which the prognosis is otherwise poor based on the degree of fetal liver herniation.
+
+301
+00:41:26,684 --> 00:41:29,209
+Figure 19-6.
+
+302
+00:41:29,209 --> 00:41:32,509
+Fetoscopic tracheal occlusion (FETO).
+
+303
+00:41:32,509 --> 00:41:37,509
+The endoscope enters the fetal oropharynx and advances down the trachea.
+
+304
+00:41:37,509 --> 00:41:43,421
+Inset: The balloon is inflated to occlude the trachea, and then the endoscope is removed.
+
+305
+00:41:43,421 --> 00:41:50,646
+Reproduced with permission from Shamshirsaz AA, Ramin, SM, Belfort MA: Fetal therapy.
+
+306
+00:41:50,646 --> 00:41:59,471
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al: Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+307
+00:41:59,471 --> 00:42:03,959
+New York, NY: McGraw Hill; 2017.
+
+308
+00:42:03,959 --> 00:42:09,984
+FETO uses a 3-mm operating sheath and fetoscopes as small as 1 mm .
+
+309
+00:42:09,984 --> 00:42:15,459
+The procedure is generally performed between 26 and 30 weeks’ gestation.
+
+310
+00:42:15,459 --> 00:42:24,884
+The balloon is removed after 6 weeks or at approximately 34 weeks, either through a second fetoscopic procedure or by ultrasound-guided puncture .
+
+311
+00:42:24,884 --> 00:42:35,984
+Fetal lamb research demonstrated that without balloon removal, the number of type II pneumocytes was markedly reduced, but that balloon removal normalized type II pneumocyte density .
+
+312
+00:42:35,984 --> 00:42:42,334
+Because the procedure is performed fetoscopically, vaginal delivery is not contraindicated.
+
+313
+00:42:42,334 --> 00:42:55,959
+In 2003, a randomized trial of the FETO procedure in pregnancies with isolated CDH, liver herniation, and lung-to-head ratio <1.4 did not identify a benefit from fetal therapy .
+
+314
+00:42:55,959 --> 00:43:02,971
+Survival rates 90 days after birth were unexpectedly high—75 percent—in both groups.
+
+315
+00:43:02,971 --> 00:43:10,234
+Therefore, the lung-tohead threshold was lowered and adjusted for gestational age in an effort to improve prediction.
+
+316
+00:43:10,234 --> 00:43:18,959
+In a metaanalysis of more than 200 pregnancies, treatment with FETO was associated with a 13-fold improvement in survival rates .
+
+317
+00:43:18,959 --> 00:43:24,721
+FETO has also been associated with improved survival rates in right-sided CDH .
+
+318
+00:43:24,721 --> 00:43:32,584
+Although study outcomes are promising, this procedure is currently available in the United States only through a research protocol.
+
+319
+00:43:32,584 --> 00:43:34,771
+Lung-to-Head Ratio.
+
+320
+00:43:34,771 --> 00:43:44,721
+This imaging index was developed to improve prediction of survival in fetuses with isolated left-sided CDH diagnosed before 25 weeks’ gestation .
+
+321
+00:43:44,721 --> 00:43:52,734
+The lung-to-head ratio (LHR) is a semi-quantitative estimate of the right lung area divided by the head circumference.
+
+322
+00:43:52,734 --> 00:44:01,071
+Investigators found that the neonatal survival rate was 100 percent if the LHR was >1.35 and that
+
+323
+00:44:01,228 --> 00:44:06,103
+there were no survivors if the LHR was <0.6 .
+
+324
+00:44:06,053 --> 00:44:18,253
+Nearly three fourths of pregnancies had values between 0.6 and 1.35, and prediction was difficult in this group because the overall survival rate approximated 60 percent.
+
+325
+00:44:18,253 --> 00:44:23,665
+Modifications to the LHR have been developed in an effort to improve prediction.
+
+326
+00:44:23,665 --> 00:44:34,940
+Jani and colleagues (2007) derived an observed-to-expected (O/E) LHR nomogram to account for differential growth of the head and torso across gestation.
+
+327
+00:44:34,940 --> 00:44:55,403
+Lung area has been measured in 3 different ways: (1) by tracing the lung circumference, (2) by multiplying the longest diameter of the lung with its longest perpendicular diameter, and (3) by multiplying the anterior-posterior diameter of the lung at the mid-clavicular line by the perpendicular diameter at its midpoint .
+
+328
+00:44:55,403 --> 00:45:07,890
+The North American Fetal Therapy Network found that reproducibility of the O/E LHR was highest when the lung circumference was traced, but that overall interrater agreement was lower than anticipated .
+
+329
+00:45:07,890 --> 00:45:23,665
+Fetoscopic Myelomeningocele Repair After publication of the MOMS trial findings, research efforts focused on whether maternal morbidities associated with open fetal myelomeningocele repair might be mitigated if the procedure were accomplished fetoscopically.
+
+330
+00:45:23,665 --> 00:45:34,753
+Araujo Junior and associates (2016) conducted a systematic review that included 456 open cases and 84 fetoscopic surgeries.
+
+331
+00:45:34,753 --> 00:45:46,340
+The endoscopic procedures were generally performed by inserting instruments through the maternal abdominal wall and then through the uterine wall, with partial carbon dioxide insufflation of the uterus.
+
+332
+00:45:46,340 --> 00:45:56,390
+The rate of maternal myometrial dehiscence or attenuation was only 1 percent following endoscopy compared with 26 percent following open procedures.
+
+333
+00:45:56,390 --> 00:46:09,540
+However, fetoscopy was associated with significantly higher rates of preterm delivery before 34 weeks—80 versus 45 percent, and of perinatal mortality—14 versus 5 percent.
+
+334
+00:46:09,540 --> 00:46:18,903
+More recently, investigators have performed fetoscopic myelomeningocele repair but used laparotomy and exteriorization of the uterus .
+
+335
+00:46:18,903 --> 00:46:34,178
+The proportion of infants requiring ventriculoperitoneal shunts before age 1 year—approximately 40 percent— was similar to that with open fetal surgery in the MOMS trial (Adzick, 2011; Belfort, 2017).
+
+336
+00:46:34,178 --> 00:46:46,178
+In one series of 34 pregnancies treated with open fetoscopic myelomeningocele repair, the median gestational age at delivery was 38 weeks, and 50 percent delivered vaginally .
+
+337
+00:46:46,178 --> 00:46:49,065
+Research is ongoing in this area.
+
+338
+00:46:49,065 --> 00:46:52,140
+# Percutaneous Procedures.
+
+339
+00:46:52,140 --> 00:47:00,403
+These procedures are performed using a shunt, angioplasty catheter, radiofrequency ablation needle, or bipolar cautery.
+
+340
+00:47:00,403 --> 00:47:10,365
+Under ultrasound guidance, instruments are inserted through the maternal abdominal wall, uterine wall, and membranes to reach the amnionic cavity and fetus.
+
+341
+00:47:10,365 --> 00:47:20,128
+Risks may include preterm labor, preterm prelabor ruptured membranes, placental abruption, maternal infection, and fetal injury or loss.
+
+342
+00:47:20,128 --> 00:47:25,615
+Thoracic Shunts These shunts drain fetal pleural fluid into the amnionic cavity .
+
+343
+00:47:25,615 --> 00:47:33,790
+A large effusion may result in pulmonary hypoplasia or may cause mediastinal shift that is severe enough to result in hydrops.
+
+344
+00:47:33,790 --> 00:47:40,990
+The most common etiology of a primary effusion is chylothorax, which is caused by lymphatic obstruction.
+
+345
+00:47:40,990 --> 00:47:51,465
+Chylothorax is diagnosed if a cell count performed on the pleural fluid demonstrates that more than 80 percent of the cells are lymphocytes, and there is no evidence of infection.
+
+346
+00:47:51,465 --> 00:48:02,190
+Pleural effusions may also form secondary to congenital viral infection or aneuploidy, or they may be associated with a malformation such as a pulmonary sequestration.
+
+347
+00:48:02,190 --> 00:48:11,590
+Yinon and associates (2010) reported aneuploidy in approximately 5 percent and associated anomalies in 10 percent of cases.
+
+348
+00:48:11,590 --> 00:48:14,065
+Figure 19-7.
+
+349
+00:48:14,065 --> 00:48:16,978
+Thoracoamnionic shunt placement.
+
+350
+00:48:16,978 --> 00:48:25,153
+A. A large, right-sided fetal pleural effusion (asterisks) and ascites were identified at 18 weeks’ gestation.
+
+351
+00:48:25,153 --> 00:48:29,015
+The effusion was drained but rapidly reaccumulated.
+
+352
+00:48:29,015 --> 00:48:35,615
+The xanthochromic fluid contained 95-percent lymphocytes, consistent with chylothorax.
+
+353
+00:48:35,615 --> 00:48:41,078
+B. A double-pigtail shunt (arrow) was inserted under ultrasound guidance.
+
+354
+00:48:41,078 --> 00:48:45,090
+Following shunt placement, the effusion and ascites
+
+355
+00:48:45,244 --> 00:48:46,869
+resolved.
+
+356
+00:48:46,819 --> 00:48:51,619
+Typically, the effusion is first drained using a 22-gauge needle.
+
+357
+00:48:51,619 --> 00:48:58,381
+The fluid may be sent for chromosomal microarray analysis, infection studies, and a cell count.
+
+358
+00:48:58,381 --> 00:49:05,631
+If the effusion recurs, a double-pigtail shunt is placed through the fetal chest wall using a trocar and cannula.
+
+359
+00:49:05,631 --> 00:49:13,031
+For a right-sided effusion, the shunt is placed in the lower third of the chest to permit maximum expansion of the lung.
+
+360
+00:49:13,031 --> 00:49:20,331
+If left-sided, the shunt is placed along the upper axillary line to allow the heart to return to normal position.
+
+361
+00:49:20,331 --> 00:49:30,769
+The overall survival rate is 70 percent, and that for hydropic fetuses approximates 50 percent (Mann, 2010; Yinon, 2010).
+
+362
+00:49:30,769 --> 00:49:37,894
+We recommend weekly surveillance following shunt placement because displacement into the amnionic cavity is common.
+
+363
+00:49:37,894 --> 00:49:44,094
+At time of delivery, the shunt must be clamped immediately to avoid neonatal pneumothorax.
+
+364
+00:49:44,094 --> 00:49:53,581
+A shunt may also be used drain a dominant cyst in a fetus with macrocystic CCAM (Fig. 15-33, p. 288).
+
+365
+00:49:53,581 --> 00:49:59,956
+Only rarely are such cysts large enough to confer risk for hydrops or pulmonary hypoplasia.
+
+366
+00:49:59,956 --> 00:50:08,869
+Shunt placement may improve the survival rate to 90 percent in those without hydrops and to at least 75 percent if hydrops has developed .
+
+367
+00:50:08,869 --> 00:50:19,006
+Urinary Shunts Vesicoamnionic shunts are offered in selected cases of fetal bladder-outlet obstruction in which the amnionic fluid volume is severely diminished.
+
+368
+00:50:19,006 --> 00:50:24,794
+Lower urinary tract obstruction (LUTO) occurs more often in male fetuses.
+
+369
+00:50:24,794 --> 00:50:37,806
+It is most commonly caused by posterior urethral valves but may be due to anterior urethral valves, urethral atresia or stenosis, or prune belly syndrome, which is also called Eagle-Barrett syndrome.
+
+370
+00:50:37,806 --> 00:50:45,244
+Cases in females may be associated with complex cloacal abnormalities or the megacystismicrocolon syndrome.
+
+371
+00:50:45,244 --> 00:50:57,231
+Ultrasound findings include dilation of the bladder and proximal urethra, termed the “keyhole” sign, along with bladder wall thickening (Fig. 15-61, p. 301).
+
+372
+00:50:57,231 --> 00:51:03,319
+Associated oligohydramnios before midpregnancy leads to pulmonary hypoplasia.
+
+373
+00:51:03,319 --> 00:51:10,006
+Unfortunately, postnatal renal function may be poor even when amnionic fluid volume is normal.
+
+374
+00:51:10,006 --> 00:51:26,656
+Evaluation includes a careful search for associated anomalies, which may occur in 40 percent of cases, and for aneuploidy, which has been reported in 5 to 8 percent (Hayden, 1988; Hobbins, 1984; Mann, 2010).
+
+375
+00:51:26,656 --> 00:51:33,081
+Potential candidates for therapy are fetuses without other severe anomalies or genetic syndromes.
+
+376
+00:51:33,081 --> 00:51:41,056
+Therapy is generally offered only if the fetus is male because the underlying anomaly tends to be even more severe in females.
+
+377
+00:51:41,056 --> 00:51:52,919
+Serial bladder drainage—vesicocentesis—performed under ultrasound guidance at approximately 48-hour intervals is used to evaluate fetal urine electrolyte and protein content.
+
+378
+00:51:52,919 --> 00:52:03,681
+Fetal urine is normally hypotonic due to tubular resorption of sodium and chloride, whereas isotonic urine in the setting of obstruction suggests renal tubular damage.
+
+379
+00:52:03,681 --> 00:52:08,481
+Serial assessment has been used to guide candidate selection for therapy .
+
+380
+00:52:08,481 --> 00:52:13,556
+Chromosomal microarray analysis also may be performed on fetal urine.
+
+381
+00:52:13,556 --> 00:52:16,031
+Table 19-4.
+
+382
+00:52:16,031 --> 00:52:25,844
+Fetal Urinary Analyte Values with Bladder Outlet Obstruction Vesicoamnionic shunt placement allows urine to drain from the bladder into the amnionic cavity .
+
+383
+00:52:25,844 --> 00:52:35,444
+While this may prevent pulmonary hypoplasia, it does not reliably preserve renal function, particularly if cortical cysts are visible sonographically .
+
+384
+00:52:35,444 --> 00:52:40,644
+Warmed lactated Ringer solution is first infused into the amniotic cavity.
+
+385
+00:52:40,644 --> 00:52:48,969
+Amnioinfusion improves ultrasound visualization, thereby facilitating evaluation of fetal anatomy and shunt placement.
+
+386
+00:52:48,969 --> 00:52:53,606
+A small trocar and cannula are then inserted into the fetal bladder.
+
+387
+00:52:53,606 --> 00:53:02,794
+A double-pigtail catheter is used, and the shunt is placed as caudal as possible within the bladder to avoid dislodgement after bladder decompression.
+
+388
+00:53:02,794 --> 00:53:05,156
+Figure 19-8.
+
+389
+00:53:05,156 --> 00:53:08,094
+Vesicoamnionic shunt placement.
+
+390
+00:53:08,094 --> 00:53:16,344
+A. After amnioinfusion is performed, a trocar is inserted into the distended fetal bladder under sonographic guidance.
+
+391
+00:53:16,344 --> 00:53:19,919
+The pigtail catheter is threaded into the trocar.
+
+392
+00:53:19,919 --> 00:53:26,019
+B. The double-pigtail shunt has been deployed down the trocar, and the trocar has been removed.
+
+393
+00:53:26,019 --> 00:53:29,494
+The distal end of the shunt is coiled within the fetal
+
+394
+00:53:29,644 --> 00:53:34,319
+bladder, and the proximal end is draining into the amnionic cavity.
+
+395
+00:53:34,269 --> 00:53:41,494
+Reproduced with permission from Shamshirsaz AA, Ramin, SM, Belfort MA: Fetal therapy.
+
+396
+00:53:41,494 --> 00:53:50,319
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al: Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+397
+00:53:50,319 --> 00:53:54,806
+New York, NY: McGraw Hill; 2017.
+
+398
+00:53:54,806 --> 00:54:14,231
+Complications include displacement of the shunt out of the fetal bladder in up to 40 percent of cases, urinary ascites in approximately 20 percent, and even development of bowel herniation through the abdominal wall defect— gastroschisis—in up to 10 percent (Freedman, 2000; Mann, 2010).
+
+399
+00:54:14,231 --> 00:54:24,769
+Preterm delivery is common, and reported neonatal survival rates range from 50 to 90 percent (Biard, 2005; Walsh, 2011).
+
+400
+00:54:24,769 --> 00:54:33,006
+A third of surviving children have required dialysis or renal transplantation, and almost half have respiratory problems .
+
+401
+00:54:33,006 --> 00:54:42,856
+In a randomized trial comparing vesicoamnionic shunt with conservative management in 31 cases, those receiving shunts had higher survival rates.
+
+402
+00:54:42,856 --> 00:54:48,044
+However, only two children had normal renal function at age 2 years .
+
+403
+00:54:48,044 --> 00:55:02,669
+Similarly, a metaanalysis of LUTO studies performed between 1990 and 2015 found that vesicoamnionic shunt conferred perinatal survival benefit but no improvement in renal function or survival at age 2 years .
+
+404
+00:55:02,669 --> 00:55:10,569
+Radiofrequency Ablation With this procedure, high-frequency alternating current is used to coagulate and desiccate tissue.
+
+405
+00:55:10,569 --> 00:55:21,669
+Radiofrequency ablation (RFA) is the favored modality for treatment of twin reversed arterial perfusion (TRAP) sequence, also known as acardiac twin .
+
+406
+00:55:21,669 --> 00:55:28,781
+Without treatment, the mortality rate for the normal or pump twin in severe TRAP sequence exceeds 50 percent.
+
+407
+00:55:28,781 --> 00:55:35,244
+The procedure is also used for selective termination with other monochorionic twin complications.
+
+408
+00:55:35,244 --> 00:55:48,769
+Under ultrasound guidance, a 17- to 19-gauge RFA needle is directed into the base of the umbilical cord within the abdomen of the acardiac twin, and a 2-cm area of coagulation is achieved.
+
+409
+00:55:48,769 --> 00:55:53,356
+Color Doppler is used to verify absent flow into the acardius.
+
+410
+00:55:53,356 --> 00:55:57,581
+The procedure is generally performed at 20 weeks’ gestation.
+
+411
+00:55:57,581 --> 00:56:09,556
+The neonatal survival rate of the normal or pump twin approximates 85 percent (Cabassa, 2013; Lee, 2013; Wagata, 2016).
+
+412
+00:56:09,556 --> 00:56:16,956
+Risks are higher for monoamnionic twin pregnancies, in whom the survival rate is only 67 percent .
+
+413
+00:56:16,956 --> 00:56:23,131
+The most common complications are preterm prelabor ruptured membranes and preterm birth.
+
+414
+00:56:23,131 --> 00:56:29,419
+RFA has generally been offered for TRAP sequence when the volume of the acardiac twin is large.
+
+415
+00:56:29,419 --> 00:56:37,781
+In a series from the North American Fetal Therapy Network, the median size of the acardius relative to the pump twin was 90 percent .
+
+416
+00:56:37,781 --> 00:56:49,881
+Considering procedure-related risks, expectant management with close fetal surveillance is often considered if the estimated weight of the acardius is below 50 percent of the estimated weight of the pump twin .
+
+417
+00:56:49,881 --> 00:57:00,544
+Intracardiac Catheter Procedures Selected fetal cardiac lesions may worsen during gestation, further complicating and even limiting options for postnatal repair.
+
+418
+00:57:00,544 --> 00:57:12,581
+Severe narrowing of a cardiac outflow tract may result in progressive myocardial damage in utero, and a goal of fetal intervention is to permit muscle growth and preserve ventricular function.
+
+419
+00:57:12,581 --> 00:57:29,669
+These innovative procedures include aortic valvuloplasty for critical aortic stenosis; atrial septoplasty for hypoplastic left heart syndrome with intact interatrial septum; and pulmonary valvuloplasty for pulmonary atresia with intact interventricular septum.
+
+420
+00:57:29,669 --> 00:57:41,444
+Fetal aortic valvuloplasty is the most commonly performed cardiac procedure, accounting for 75 percent of cases reported by the International Fetal Cardiac Intervention Registry .
+
+421
+00:57:41,444 --> 00:57:49,244
+It is offered for selected cases of critical aortic stenosis in which the left ventricle is either normal sized or dilated.
+
+422
+00:57:49,244 --> 00:57:55,956
+The goal is to prevent progression to hypoplastic left heart and to permit postnatal biventricular repair.
+
+423
+00:57:55,956 --> 00:58:04,119
+Under sonographic guidance, an 18-gauge cannula is inserted through uterus and fetal chest wall and into the left ventricle.
+
+424
+00:58:04,119 --> 00:58:12,556
+Although the procedure is ideally performed percutaneously—through the maternal abdominal wall—laparotomy may be needed if the fetal
+
+425
+00:58:12,724 --> 00:58:15,161
+position is unfavorable.
+
+426
+00:58:15,111 --> 00:58:26,449
+The cannula tip is positioned in front of the stenotic aortic valve, and a 2.5- to 4.5-mm balloon catheter is guided into the aortic annulus and then inflated.
+
+427
+00:58:26,449 --> 00:58:36,099
+Fetal bradycardia requiring treatment may complicate a third of cases, and hemopericardium requiring drainage affects approximately 20 percent .
+
+428
+00:58:36,099 --> 00:58:49,411
+In a review of 108 fetuses treated with aortic valvuloplasty from 15 international centers, 75 percent survived until delivery, and biventricular repair was achieved in 32 percent .
+
+429
+00:58:49,411 --> 00:58:58,486
+Friedman and coworkers (2018) from Boston Children’s Hospital have reported improved outcomes with the procedure in recent years.
+
+430
+00:58:58,486 --> 00:59:11,511
+Of 52 aortic valvuloplasty procedures performed between 2009 and 2015, nearly 90 percent resulted in a live birth, and more than 50 percent achieved biventricular repair.
+
+431
+00:59:11,511 --> 00:59:20,486
+Guseh and colleagues (2020) emphasize that most children with biventricular function still require postnatal cardiac procedures.
+
+432
+00:59:20,486 --> 00:59:31,736
+The risk for neurodevelopmental impairment in childhood appears similar to cases treated with postnatal repair (Laraja, 2017; Moon-Grady, 2015).
+
+433
+00:59:31,736 --> 00:59:46,661
+The subset of fetuses with hypoplastic left heart syndrome who also have an intact or restrictive interatrial septum have postnatal mortality rates of nearly 80 percent (Glantz, 2007; Jantzen, 2017).
+
+434
+00:59:46,661 --> 00:59:54,074
+To help improve survival, fetal atrial septoplasty using a percutaneous balloon catheter has been offered.
+
+435
+00:59:54,074 --> 01:00:00,411
+Atrial septal stent placement is often attempted at the time of septoplasty to ensure patency.
+
+436
+01:00:00,411 --> 01:00:10,524
+Of 47 such procedures reported by the International Fetal Cardiac Intervention Registry, 35 percent of infants survived to hospital discharge .
+
+437
+01:00:10,524 --> 01:00:19,824
+However, the 1-year survival rate was higher in those that had successful fetal cardiac intervention compared with those that had not undergone intervention.
+
+438
+01:00:19,824 --> 01:00:32,874
+Fetal pulmonary valvuloplasty has been offered in cases of pulmonary atresia with intact interventricular septum to prevent development of hypoplastic right heart syndrome and subsequent single ventricle palliation.
+
+439
+01:00:32,874 --> 01:00:44,274
+The International Fetal Cardiac Intervention Registry reported that of 58 cases of attempted pulmonary valvuloplasty, the procedure was technically successful in 70 percent .
+
+440
+01:00:44,274 --> 01:00:50,374
+Those with successful in-utero procedures were twice as likely to achieve biventricular repair.
+
+441
+01:00:50,374 --> 01:01:01,699
+However, when procedure-related losses were considered, survival to hospital discharge was similar to those who had not received fetal intervention, approximating 75 percent.
+
+442
+01:01:01,699 --> 01:01:06,024
+Long-term benefits of the procedure have yet to be demonstrated.
+
+443
+01:01:06,024 --> 01:01:09,361
+# Ex-Utero Intrapartum Treatment.
+
+444
+01:01:09,361 --> 01:01:19,736
+This procedure allows the fetus to remain perfused by the placenta after being partially delivered, so that lifesaving treatment can be performed before completing the delivery.
+
+445
+01:01:19,736 --> 01:01:36,361
+The technique was first developed to obtain an airway with fetal tumors involving the oropharynx and neck and is still used for this indication (Catalano, 1992; Kelly, 1990; Langer, 1992; Shamshirsaz, 2021).
+
+446
+01:01:36,361 --> 01:01:59,049
+An ex-utero intrapartum treatment (EXIT) procedure is performed by a multidisciplinary team, which may include an obstetrician, maternal-fetal medicine specialist, pediatric surgeon(s), pediatric otolaryngologist, pediatric cardiologist, anesthesiologists for the mother and fetus, neonatologists, and specially trained nursing personnel.
+
+447
+01:01:59,049 --> 01:02:03,561
+Components of the procedure are shown in Table 19-5 .
+
+448
+01:02:03,561 --> 01:02:06,136
+Table 19-5.
+
+449
+01:02:06,136 --> 01:02:14,499
+Components of the Ex-Utero Intrapartum Treatment (EXIT) Procedure Selected indications are listed in Table 19-2.
+
+450
+01:02:14,499 --> 01:02:24,036
+EXIT is the preferred procedure for intrapartum management of large venolymphatic malformations of the neck such as the one shown in Figure 19-9.
+
+451
+01:02:24,036 --> 01:02:35,436
+Criteria for EXIT with a cervical venolymphatic malformation include compression, deviation, or obstruction of the airway by the mass, and also involvement of the floor of the mouth .
+
+452
+01:02:35,436 --> 01:02:45,086
+However, a review of 112 pregnancies with fetal cervical venolymphatic malformations found that only about 10 percent met these criteria.
+
+453
+01:02:45,086 --> 01:02:57,511
+Other indications for EXIT include severe micrognathia and congenital high airway obstruction sequence (CHAOS), which are discussed in Chapter 15 (Figs. 15-27 and
+
+454
+01:02:57,676 --> 01:03:01,451
+15-35, p. 285).
+
+455
+01:03:01,401 --> 01:03:15,201
+Criteria for an EXIT procedure for micrognathia include a fetal jaw measurement below the 5th percentile along with indirect evidence of obstruction, such as hydramnios, an absent stomach bubble, or glossoptosis .
+
+456
+01:03:15,201 --> 01:03:21,776
+Case selection for EXIT procedures is generally based on fetal magnetic resonance imaging findings.
+
+457
+01:03:21,776 --> 01:03:24,251
+Figure 19-9.
+
+458
+01:03:24,251 --> 01:03:30,526
+Ex-utero intrapartum treatment (EXIT) procedure for a venolymphatic malformation.
+
+459
+01:03:30,526 --> 01:03:45,301
+A. Upon delivery of the head, placental circulation was maintained, and an airway was established over the course of 20 minutes by a team of pediatric subspecialists that included a surgeon, anesthesiologist, and otolaryngologist.
+
+460
+01:03:45,301 --> 01:03:53,401
+B. Following a controlled intubation, the fetus was ready for delivery and transfer to the neonatal intensive care unit team.
+
+461
+01:03:53,401 --> 01:03:59,226
+Reproduced with permission from Drs. Stacey Thomas and Patricia Santiago-Muñoz.
+
+462
+01:03:59,226 --> 01:04:04,938
+In some cases, an EXIT procedure has been used as a bridge to other procedures.
+
+463
+01:04:04,938 --> 01:04:13,988
+For example, resection of large thoracic masses may be accomplished by fetal thoracotomy performed with intact placental circulation.
+
+464
+01:04:13,988 --> 01:04:30,001
+In a series of 16 fetuses with CCAM volume ratios >1.6 or hydrops, all of whom had mediastinal compression, Cass and colleagues (2013) reported that nine infants undergoing EXIT-to-resection survived.
+
+465
+01:04:30,001 --> 01:04:35,288
+In contrast, there were no survivors with urgent postnatal surgery alone.
+
+466
+01:04:35,288 --> 01:04:44,588
+Similarly, Moldenhauer (2013) reported that 20 of 22 newborns treated with EXIT-to-resection for lung masses survived.
+
+467
+01:04:44,588 --> 01:04:55,751
+The EXIT procedure has also been used as a bridge to extracorporeal membrane oxygenation—EXIT-toECMO—in pregnancies with severe congenital diaphragmatic hernia.
+
+468
+01:04:55,751 --> 01:05:07,301
+However, it has not been found to clearly confer survival benefit in such cases (Morris, 2009a; Shieh, 2017; Stoffan, 2012).
+
+469
+01:05:07,301 --> 01:05:27,188
+Counseling prior to an EXIT procedure includes procedure-related risks such as hemorrhage from placental abruption or uterine atony, need for cesarean delivery in future pregnancies, higher risk for subsequent uterine rupture or dehiscence, possible need for hysterectomy, and fetal death or permanent neonatal disability.
+
+470
+01:05:27,188 --> 01:05:41,576
+Compared with cesarean delivery, the EXIT procedure is associated with greater blood loss, a higher incidence of wound complications, and a longer operating time (Noah, 2002; Shamshirsaz, 2019).
+

@@ -8,7 +8,7 @@ Playable directly on GitHub Web & Mobile with synchronized subtitle rendering an
 
 - 🎬 **[Chapter 01 Overview of Obstetrics](videos/Chapter_01_Overview_of_Obstetrics.mp4)** (36.3 MB)
 
-## 🎧 Audiobooks (MP3) — [13/68 Completed]
+## 🎧 Audiobooks (MP3) — [20/68 Completed]
 
 Playable directly on GitHub Web & Mobile with built-in audio player:
 
@@ -25,6 +25,13 @@ Playable directly on GitHub Web & Mobile with built-in audio player:
 - 🔊 **[Chapter 11 First  and Second Trimester Pregnancy Loss](audiobooks/Chapter_11_First__and_Second_Trimester_Pregnancy_Loss.mp3)** (32.3 MB)
 - 🔊 **[Chapter 12 Ectopic Pregnancy](audiobooks/Chapter_12_Ectopic_Pregnancy.mp3)** (23.6 MB)
 - 🔊 **[Chapter 13 Gestational Trophoblastic Disease](audiobooks/Chapter_13_Gestational_Trophoblastic_Disease.mp3)** (12.8 MB)
+- 🔊 **[Chapter 14 Obstetrical Imaging](audiobooks/Chapter_14_Obstetrical_Imaging.mp3)** (33.0 MB)
+- 🔊 **[Chapter 15 Normal and Abnormal Fetal Anatomy](audiobooks/Chapter_15_Normal_and_Abnormal_Fetal_Anatomy.mp3)** (42.8 MB)
+- 🔊 **[Chapter 16 Genetics](audiobooks/Chapter_16_Genetics.mp3)** (36.0 MB)
+- 🔊 **[Chapter 17 Prenatal Diagnosis](audiobooks/Chapter_17_Prenatal_Diagnosis.mp3)** (28.7 MB)
+- 🔊 **[Chapter 18 Fetal Disorders](audiobooks/Chapter_18_Fetal_Disorders.mp3)** (20.9 MB)
+- 🔊 **[Chapter 19 Fetal Therapy](audiobooks/Chapter_19_Fetal_Therapy.mp3)** (22.6 MB)
+- 🔊 **[Chapter 20 Antepartum Fetal Assessment](audiobooks/Chapter_20_Antepartum_Fetal_Assessment.mp3)** (16.7 MB)
 
 ## 📖 Table of Contents (Chapters)
 

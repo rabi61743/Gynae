@@ -1,0 +1,2764 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,612
+Chapter 14: Obstetrical Imaging.
+
+3
+00:00:05,612 --> 00:00:22,287
+Technology And Safety Gestational Age Assessment First-Trimester Ultrasound Second- And Third-Trimester Ultrasound Placenta And Cervix Hydramnios Oligohydramnios Doppler Magnetic Resonance Imaging References Obstetrical ultrasound is fundamental to prenatal care.
+
+4
+00:00:22,287 --> 00:00:35,112
+It is used to confirm gestational age and viability; to detect and characterize abnormalities of the fetus, amnionic fluid, and placenta; and to assist with diagnostic and therapeutic procedures.
+
+5
+00:00:35,112 --> 00:00:38,387
+Ultrasound practice continues to evolve.
+
+6
+00:00:38,387 --> 00:00:45,775
+The number of components included in the second-trimester standard and detailed fetal anatomical surveys has expanded.
+
+7
+00:00:45,775 --> 00:00:53,087
+With improved image resolution, fetal abnormalities are increasingly identified in the late first trimester.
+
+8
+00:00:53,087 --> 00:01:04,475
+This has prompted the requirement for a limited anatomical survey during the standard first- trimester examination and has led to the development of a new detailed firsttrimester examination.
+
+9
+00:01:04,475 --> 00:01:13,100
+Detailed placental evaluation is a new specialized examination to aid detection and characterization of placenta accreta spectrum.
+
+10
+00:01:13,100 --> 00:01:26,162
+Across the United States, pregnant women receive ultrasound examinations in various practice settings staffed by obstetrician– gynecologists, maternal–fetal medicine specialists, and radiologists.
+
+11
+00:01:26,162 --> 00:01:43,050
+Ideally, examinations are performed by registered diagnostic medical sonographers or physicians with certification in their area(s) of practice and in units accredited by the American Institute of Ultrasound in Medicine (AIUM) or American College of Radiology.
+
+12
+00:01:43,050 --> 00:01:56,075
+Components of accreditation include evidence of physician training, sonographer credentialing, continuing medical education, and protocols and procedures to ensure proper and safe ultrasound practice.
+
+13
+00:01:56,075 --> 00:02:00,725
+One important component is independent review of submitted images.
+
+14
+00:02:00,725 --> 00:02:22,062
+To standardize ultrasound education for residents in obstetrics and gynecology and fellows in maternal-fetal medicine, the American College of Obstetricians and Gynecologists, the Society for Maternal-Fetal Medicine, and the AIUM have developed consensus documents (Abuhamad, 2018; Benacerraf, 2018).
+
+15
+00:02:22,062 --> 00:02:32,325
+A focus of training—and of ultrasound practice—is standardization of an ultrasound curriculum and provision of competency assessment tools for image acquisition.
+
+16
+00:02:32,325 --> 00:02:34,650
+Technology And Safety.
+
+17
+00:02:34,650 --> 00:02:44,675
+The image on the ultrasound screen is produced by sound waves that are reflected back from fluid and tissue interfaces of the fetus, amnionic fluid, and placenta.
+
+18
+00:02:44,675 --> 00:02:55,350
+Ultrasound transducers contain groups of piezoelectric crystals that convert electrical energy into sound waves and convert returning sound waves back into electrical energy.
+
+19
+00:02:55,350 --> 00:02:59,012
+The sound waves are emitted in synchronized pulses.
+
+20
+00:02:59,012 --> 00:03:06,050
+As these pulses pass through tissue layers, dense tissue such as bone produces high-velocity reflected waves.
+
+21
+00:03:06,050 --> 00:03:14,900
+With routine grayscale imaging, which is also known as brightness-mode (B-mode), these reflected waves are displayed as bright echoes on the screen.
+
+22
+00:03:14,900 --> 00:03:19,862
+Conversely, fluid generates few reflected waves and appears dark.
+
+23
+00:03:19,862 --> 00:03:28,800
+Digital images generated at 50 to more than 100 frames per second undergo postprocessing that yields the appearance of real-time imaging.
+
+24
+00:03:28,800 --> 00:03:36,287
+Ultrasound refers to sound waves traveling at a frequency above 20,000 hertz (Hz [cycles per second]).
+
+25
+00:03:36,287 --> 00:03:42,000
+Transducers use wide-bandwidth technology to perform within a range of frequencies.
+
+26
+00:03:42,000 --> 00:03:49,875
+Higher-frequency transducers yield better image resolution, whereas lower frequencies penetrate tissue more effectively.
+
+27
+00:03:49,875 --> 00:04:02,062
+In early pregnancy, a 5- to 12-megahertz (MHz) transvaginal transducer usually provides excellent resolution, because the early fetus lies close to the transducer.
+
+28
+00:04:02,062 --> 00:04:12,162
+In the first and second trimesters, a 4- to 6-MHz transabdominal transducer is similarly sufficiently close to the fetus to yield precise images.
+
+29
+00:04:12,162 --> 00:04:25,587
+By the third trimester, however, a lower-frequency 2- to 5MHz transducer may be needed for tissue penetration—particularly in obese patients—and this can lead to compromised image resolution.
+
+30
+00:04:25,587 --> 00:04:28,637
+# Embryo and Fetal Safety.
+
+31
+00:04:28,637 --> 00:04:33,812
+Sonography should be performed only for a valid medical indication and use
+
+32
+00:04:33,964 --> 00:04:38,751
+the lowest possible exposure setting to gain necessary information.
+
+33
+00:04:38,701 --> 00:04:43,064
+This is the ALARA principle—as low as reasonably achievable.
+
+34
+00:04:43,064 --> 00:05:04,251
+Examinations are performed only by those trained to recognize fetal abnormalities and artifacts that may mimic pathology and with techniques to avoid ultrasound exposure beyond what is considered safe for the fetus (American College of Obstetricians and Gynecologists, 2020; American Institute of Ultrasound in Medicine, 2018a).
+
+35
+00:05:04,251 --> 00:05:12,601
+No causal relationship has been demonstrated between diagnostic ultrasound and any recognized adverse effect in human pregnancy.
+
+36
+00:05:12,601 --> 00:05:29,064
+The International Society of Ultrasound in Obstetrics and Gynecology (2016) further concludes that there is no scientifically proven association between ultrasound exposure in the first or second trimesters and autism spectrum disorder or its severity.
+
+37
+00:05:29,064 --> 00:05:36,201
+All ultrasound machines are required to display two indices: the thermal index and the mechanical index.
+
+38
+00:05:36,201 --> 00:05:43,614
+The thermal index measures the relative probability that the examination may raise the temperature enough to induce injury.
+
+39
+00:05:43,614 --> 00:05:51,726
+However, fetal damage resulting from commercially available ultrasound equipment in routine practice is extremely unlikely.
+
+40
+00:05:51,726 --> 00:05:59,214
+The potential for temperature elevation is higher with longer examination time and is greater near bone than in soft tissue.
+
+41
+00:05:59,214 --> 00:06:04,239
+Theoretical risks are higher during organogenesis than later in gestation.
+
+42
+00:06:04,239 --> 00:06:13,364
+The thermal index for soft tissue, Tis, should be used before 10 weeks’ gestation, and that for bone, Tib, at or beyond 10 weeks .
+
+43
+00:06:13,364 --> 00:06:19,301
+The thermal index is higher with pulsed Doppler applications than with routine B-mode scanning.
+
+44
+00:06:19,301 --> 00:06:30,601
+In the first trimester, if pulsed Doppler is clinically indicated, the thermal index should be ≤0.7, and the exposure time should be as brief as possible .
+
+45
+00:06:30,601 --> 00:06:41,576
+This is an important consideration when pulsed Doppler is applied to assist with identification or characterization of suspected abnormalities at 11 to 14 weeks’ gestation.
+
+46
+00:06:41,576 --> 00:06:49,651
+To document the embryonic or fetal heart rate, motionmode (M-mode) scanning is used instead of pulsed Doppler imaging.
+
+47
+00:06:49,651 --> 00:07:00,389
+The mechanical index is a measure of the likelihood of adverse effects related to rarefactional pressure, such as cavitation, which is relevant only in tissues that contain air.
+
+48
+00:07:00,389 --> 00:07:06,001
+Microbubble ultrasound contrast agents are not used in pregnancy for this reason.
+
+49
+00:07:06,001 --> 00:07:14,714
+In mammalian tissues that do not contain gas bodies, no adverse effects have been reported over the range of diagnostically relevant exposures.
+
+50
+00:07:14,714 --> 00:07:19,576
+Fetuses cannot contain gas bodies and thus are not considered at risk.
+
+51
+00:07:19,576 --> 00:07:42,889
+The use of ultrasound for any nonmedical purpose, such as “keepsake fetal imaging,” is considered contrary to responsible medical practice and is not condoned by the Food and Drug Administration (FDA) (2019), the American Institute of Ultrasound in Medicine (2020b), or the American College of Obstetricians and Gynecologists (2020b).
+
+52
+00:07:42,889 --> 00:07:50,289
+However, images or video clips from medically indicated ultrasound examinations may be shared with patients.
+
+53
+00:07:50,289 --> 00:07:52,876
+# Operator Safety.
+
+54
+00:07:52,876 --> 00:08:04,714
+The reported prevalence of work-related musculoskeletal discomfort or injury among sonographers approximates 70 percent (Janga, 2012; Roll, 2012).
+
+55
+00:08:04,714 --> 00:08:15,076
+The most common injuries are capsulitis and tendonitis of the shoulder, epicondylitis of the elbow, carpal and cubital tunnel syndrome, and neck or back strain .
+
+56
+00:08:15,076 --> 00:08:26,676
+The main risk factors for injury during transabdominal ultrasound examinations are awkward posture, sustained static forces, and various pinch grips used to maneuver the transducer .
+
+57
+00:08:26,676 --> 00:08:32,926
+Excessive flexion, extension, or abduction while scanning places stress on joints and muscles.
+
+58
+00:08:32,926 --> 00:08:37,889
+Task repetition without adequate recovery time may compound risks.
+
+59
+00:08:37,889 --> 00:08:44,339
+Maternal habitus can be contributory because more force is often needed when imaging obese patients.
+
+60
+00:08:44,339 --> 00:08:51,564
+The following guidelines may help avert injury: 1. Position the patient close to you on the examination table.
+
+61
+00:08:51,564 --> 00:08:59,339
+As a result, your elbow is close to your body, shoulder abduction is <30 degrees, and your thumb is facing up.
+
+62
+00:08:59,339 --> 00:09:04,751
+2. Adjust the table or chair height so that your forearm is parallel to the floor.
+
+63
+00:09:04,751 --> 00:09:06,901
+3. Use a
+
+64
+00:09:07,060 --> 00:09:09,960
+chair with back support, if seated.
+
+65
+00:09:09,910 --> 00:09:13,072
+Avoid leaning toward the patient or monitor.
+
+66
+00:09:13,072 --> 00:09:17,047
+Support your feet, and keep ankles in neutral position.
+
+67
+00:09:17,047 --> 00:09:25,560
+4. Face the monitor squarely and position it so that it is viewed at a neutral angle from the horizon, such as 15 degrees downward.
+
+68
+00:09:25,560 --> 00:09:30,097
+5. Avoid reaching, bending, or twisting while scanning.
+
+69
+00:09:30,097 --> 00:09:34,347
+6. Take frequent breaks to help prevent muscle strain.
+
+70
+00:09:34,347 --> 00:09:38,135
+Stretching and strengthening exercises can be helpful.
+
+71
+00:09:38,135 --> 00:09:40,660
+Gestational Age Assessment.
+
+72
+00:09:40,660 --> 00:09:52,135
+Gestational age is based on two things: the certainty of the woman’s last menstrual period (LMP) date and measurements of the embryo or fetus at the initial ultrasound examination.
+
+73
+00:09:52,135 --> 00:09:57,210
+Gestational sac measurement is not suitable for gestational age assignment.
+
+74
+00:09:57,210 --> 00:10:13,447
+If the LMP is certain, the estimated due date (EDD) is based on LMP unless the date–measurement discrepancy exceeds thresholds listed in Table 14-1 (American College of Obstetricians and Gynecologists, 2019b,c).
+
+75
+00:10:13,447 --> 00:10:22,322
+If the discrepancy exceeds these thresholds, or if the LMP is uncertain or unknown, ultrasound measurements establish the EDD.
+
+76
+00:10:22,322 --> 00:10:24,772
+Table 14-1.
+
+77
+00:10:24,772 --> 00:10:37,247
+Assessment of Gestational Age Ultrasound measurement of the crown-rump length (CRL) is the most accurate method to establish or confirm gestational age (Appendix, p. 1234).
+
+78
+00:10:37,247 --> 00:10:41,435
+Transvaginal imaging yields higher resolution images.
+
+79
+00:10:41,435 --> 00:10:48,397
+The CRL is measured in the midsagittal plane with the embryo or fetus in a neutral, nonflexed position.
+
+80
+00:10:48,397 --> 00:10:52,122
+This allows its length to be measured in a straight line .
+
+81
+00:10:52,122 --> 00:10:55,435
+The mean of three discrete measurements is used.
+
+82
+00:10:55,435 --> 00:11:01,672
+Before 14 weeks’ gestation, the CRL is accurate to within 5 to 7 days .
+
+83
+00:11:01,672 --> 00:11:04,147
+Figure 14-1.
+
+84
+00:11:04,147 --> 00:11:10,322
+A. The measured crown-rump length is approximately 7 mm in this 6-week embryo.
+
+85
+00:11:10,322 --> 00:11:17,572
+B. M-mode demonstrates embryonic cardiac activity and a heart rate of 124 beats per minute.
+
+86
+00:11:17,572 --> 00:11:27,510
+Starting at 140/7 weeks’ gestation, the biparietal diameter, head circumference, abdominal circumference, and femur length should be measured.
+
+87
+00:11:27,510 --> 00:11:35,310
+Equipment software formulas calculate estimated gestational age and fetal weight from these four biometric parameters.
+
+88
+00:11:35,310 --> 00:11:41,497
+The accuracy of the fetal weight estimate is assumed to be within 15 percent of the actual weight .
+
+89
+00:11:41,497 --> 00:11:47,222
+Measurement criteria are discussed in Chapter 15 (p. 272).
+
+90
+00:11:47,222 --> 00:11:55,822
+Before 22 weeks, gestational age assessment using these four biometric parameters is accurate to within 7 to 10 days .
+
+91
+00:11:55,822 --> 00:12:09,397
+Various nomograms are available for other structural measurements, including the transverse cerebellar diameter, orbital distances, thoracic circumference, and length of the ear, kidney, long bones, and feet.
+
+92
+00:12:09,397 --> 00:12:19,460
+These may be used to address specific questions regarding organ system abnormalities or syndromes (Appendix, pp. 1238– 1241).
+
+93
+00:12:19,460 --> 00:12:27,885
+If the initial ultrasound examination is performed at or beyond 22 weeks’ gestation, the pregnancy is suboptimally dated .
+
+94
+00:12:27,885 --> 00:12:34,335
+In such cases, subsequent ultrasound evaluation in 3 to 4 weeks may be considered.
+
+95
+00:12:34,335 --> 00:12:43,922
+This is especially true if the ultrasound measurements are smaller than expected for gestational age based on LMP and thus poor fetal growth is a possibility.
+
+96
+00:12:43,922 --> 00:12:49,097
+Fertilization is presumed to occur 2 weeks after a confident LMP.
+
+97
+00:12:49,097 --> 00:13:00,960
+Therefore, for pregnancies achieved with in vitro fertilization and fresh transfer, 266 days are added to the egg-retrieval/fertilization date to calculate the EDD.
+
+98
+00:13:00,960 --> 00:13:08,910
+Similarly, if using a day-3 frozen embryo, adding 263 days accounts for the days of embryo culture.
+
+99
+00:13:08,910 --> 00:13:14,422
+For pregnancies conceived with intrauterine insemination, LMP is used.
+
+100
+00:13:14,422 --> 00:13:17,135
+First-Trimester Ultrasound.
+
+101
+00:13:17,135 --> 00:13:33,135
+The three types of first-trimester examinations include standard ultrasound; nuchal translucency evaluation—between 11 and 14 weeks’ gestation; and detailed first-trimester anatomy evaluation between 12 and 14 weeks’ gestation.
+
+102
+00:13:33,135 --> 00:13:47,835
+Indications for the standard first-trimester examination are listed in Table 14-2 (American College of Obstetricians and Gynecologists, 2020; American Institute of Ultrasound in Medicine, 2018a).
+
+103
+00:13:47,835 --> 00:13:54,285
+Early pregnancy can be evaluated with transabdominal or transvaginal sonography, or both.
+
+104
+00:13:54,285 --> 00:14:03,922
+The components listed in Table 14-3 should be assessed (American College of Obstetricians and Gynecologists, 2020; American
+
+105
+00:14:04,084 --> 00:14:08,246
+Institute of Ultrasound in Medicine, 2018a).
+
+106
+00:14:08,196 --> 00:14:14,509
+The first trimester is the ideal time to evaluate the uterus, adnexa, and cul-de-sac.
+
+107
+00:14:14,509 --> 00:14:25,359
+Ultrasound interrogation at this time can reliably diagnose anembryonic gestation, embryonic demise, ectopic pregnancy, and gestational trophoblastic disease.
+
+108
+00:14:25,359 --> 00:14:32,096
+In a multifetal gestation, determination of chorionicity is most accurate in the first trimester .
+
+109
+00:14:32,096 --> 00:14:39,584
+Gestational sac implantation in a prior cesarean scar is increasingly detected in the first trimester as well.
+
+110
+00:14:39,584 --> 00:14:42,059
+Table 14-2.
+
+111
+00:14:42,059 --> 00:14:47,896
+Indications for First-Trimester Ultrasound Examination Table 14-3.
+
+112
+00:14:47,896 --> 00:15:02,534
+Components of Standard Ultrasound Examination by Trimester An intrauterine gestational sac may be consistently visualized with transvaginal sonography by 5 weeks’ gestation, and an embryo with cardiac activity by 6 weeks.
+
+113
+00:15:02,534 --> 00:15:12,009
+The embryo should be visible transvaginally once the mean sac diameter has reached 25 mm—otherwise the gestation is anembryonic.
+
+114
+00:15:12,009 --> 00:15:23,484
+Whenever an embryo or fetus is identified, it should be measured, and cardiac motion should be documented with either video clip or M-mode scanning (see Fig. 14-1B).
+
+115
+00:15:23,484 --> 00:15:33,196
+Cardiac motion may be visible with transvaginal imaging when the length of the embryo is 2 mm and should be visible at 7 mm in a live embryo .
+
+116
+00:15:33,196 --> 00:15:42,321
+If an embryo measures <7 mm and has no visible cardiac activity, subsequent examination is recommended in 1 week .
+
+117
+00:15:42,321 --> 00:15:54,984
+At Parkland Hospital, first-trimester demise is diagnosed with transvaginal ultrasound if the embryo has reached 10 mm and lacks cardiac motion, taking measurement error into consideration.
+
+118
+00:15:54,984 --> 00:16:02,021
+Criteria to diagnose first-trimester demise are found in Table 11-2 (p. 202).
+
+119
+00:16:02,021 --> 00:16:10,771
+A recent addition to the standard first-trimester examination is an assessment of selected anatomical components when fetal size permits.
+
+120
+00:16:10,771 --> 00:16:17,871
+These include the calvarium, umbilical cord insertion into the ventral wall, and presence of extremities .
+
+121
+00:16:17,871 --> 00:16:20,771
+# Nuchal Translucency.
+
+122
+00:16:20,771 --> 00:16:30,271
+This represents the maximum thickness of the subcutaneous translucent area between the skin and soft tissue overlying the fetal spine at the back of the neck.
+
+123
+00:16:30,271 --> 00:16:48,646
+The nuchal translucency (NT) is measured in the sagittal plane between 11 and 14 weeks’ gestation using precise criteria (American Institute of Ultrasound in Medicine, 2018a; International Society of Ultrasound in Obstetrics and Gynecology, 2016).
+
+124
+00:16:48,646 --> 00:16:58,771
+When the NT measurement is increased, the risk for fetal aneuploidy and various structural anomalies— in particular heart defects—is significantly elevated.
+
+125
+00:16:58,771 --> 00:17:06,734
+It is a component of first-trimester aneuploidy screening, which is discussed in Chapter 17 (p. 337).
+
+126
+00:17:06,734 --> 00:17:11,334
+The aneuploidy risk calculation depends on the crown-rump length.
+
+127
+00:17:11,334 --> 00:17:24,521
+However, an NT measurement ≥3 mm is associated with increased risk for fetal structural or genetic abnormalities and is an indication for a detailed fetal anatomical survey.
+
+128
+00:17:24,521 --> 00:17:27,009
+Table 14-4.
+
+129
+00:17:27,009 --> 00:17:34,734
+Guidelines for Nuchal Translucency (NT) Measurement # Detailed First-Trimester Ultrasound Examination.
+
+130
+00:17:34,734 --> 00:17:44,234
+Assessment for fetal abnormalities in an at-risk pregnancy may include a detailed survey of fetal anatomy at 12 to 14 weeks’ gestation.
+
+131
+00:17:44,234 --> 00:17:53,621
+Such examinations are a recent addition and limited to specialized centers with advanced imaging skills, although use may be expected to expand.
+
+132
+00:17:53,621 --> 00:18:04,721
+Despite improvements in imaging technology, it is not realistic to expect that all major abnormalities detectable in the second trimester may be visualized in the first trimester.
+
+133
+00:18:04,721 --> 00:18:11,159
+Abnormalities may change in appearance as the fetus develops, and new findings may become evident.
+
+134
+00:18:11,159 --> 00:18:22,971
+If an abnormality is identified in the first trimester, detailed second-trimester sonography will be important to further characterize the findings or identify associated abnormalities.
+
+135
+00:18:22,971 --> 00:18:33,234
+In an at-risk pregnancy, a normal first-trimester examination does not obviate the recommendation for a detailed second-trimester fetal anatomical survey.
+
+136
+00:18:33,234 --> 00:18:45,996
+In a systematic review of more than 118,000 pregnancies undergoing fetal NT assessment, 46 percent of major abnormalities were detected in low-risk or unselected pregnancies .
+
+137
+00:18:45,996 --> 00:18:51,046
+In high-risk pregnancies, anomaly detection exceeded 60 percent.
+
+138
+00:18:51,046 --> 00:18:53,334
+Detection rates are high
+
+139
+00:18:53,500 --> 00:18:59,375
+for fetal anencephaly, alobar holoprosencephaly, and ventral wall defects.
+
+140
+00:18:59,325 --> 00:19:10,825
+However, in one series of 40,000 pregnancies with fetal anatomical evaluation at the time of NT assessment, only a third of major cardiac anomalies were identified.
+
+141
+00:19:10,825 --> 00:19:22,387
+No cases of microcephaly, agenesis of the corpus callosum, cerebellar abnormalities, congenital pulmonary airway malformations, or bowel obstruction were detected .
+
+142
+00:19:22,387 --> 00:19:30,437
+Some of these abnormalities had not yet developed by the end of the first trimester, and this is an important caveat for counseling.
+
+143
+00:19:30,437 --> 00:19:33,637
+Second- And Third-Trimester Ultrasound.
+
+144
+00:19:33,637 --> 00:19:40,237
+Ultrasound should be routinely offered to all pregnant women between 18 and 22 weeks’ gestation .
+
+145
+00:19:40,237 --> 00:19:51,950
+Recognizing that the gestational age at which an abnormality is identified may affect pregnancy management options, providers often opt to perform the examination before 20 weeks.
+
+146
+00:19:51,950 --> 00:20:06,712
+Indications for second- and third-trimester sonograms are listed in Table 14-5 (American College of Obstetricians and Gynecologists, 2020; American Institute of Ultrasound in Medicine, 2018a).
+
+147
+00:20:06,712 --> 00:20:16,875
+Based on data from large insurance providers, pregnant women typically receive at least 4 to 5 sonograms per pregnancy (O’Keeffe, 2013).
+
+148
+00:20:16,875 --> 00:20:21,925
+Examinations are classified as standard, specialized, or limited.
+
+149
+00:20:21,925 --> 00:20:38,937
+Specialized examination types include the detailed fetal anatomy examination, detailed evaluation for placenta accreta spectrum (p. 253), fetal echocardiography, Doppler velocimetry (p. 262), and the biophysical profile .
+
+150
+00:20:38,937 --> 00:20:41,512
+Table 14-5.
+
+151
+00:20:41,512 --> 00:20:50,200
+Indications for Standard Second- and Third-trimester Ultrasound Examinations # Standard Second- and Third-Trimester Ultrasound.
+
+152
+00:20:50,200 --> 00:21:05,437
+Examinations The standard examination includes evaluation of fetal number and presentation, cardiac activity, fetal biometry, amnionic fluid volume, placental location, cervical length, and a survey of fetal anatomy .
+
+153
+00:21:05,437 --> 00:21:11,462
+Anatomical components are listed in Table 15-1 (p. 273).
+
+154
+00:21:11,462 --> 00:21:25,537
+With twins or other multiples, documentation should also include the number of chorions and amnions, comparison of fetal sizes, estimation of amnionic fluid volume within each sac, and fetal phenotypic gender.
+
+155
+00:21:25,537 --> 00:21:37,437
+The American Institute of Ultrasound in Medicine (2018a) revised its prior 2013 standard ultrasound practice parameter to include the following updates: 1.
+
+156
+00:21:37,437 --> 00:21:51,075
+Components added to the standard fetal anatomical survey are presence of the hands and feet, and when feasible, the three-vessel view and threevessel trachea views of the heart (Fig. 15-37, p. 290).
+
+157
+00:21:51,075 --> 00:22:00,037
+2. If the relationship between placenta and cervix cannot be assessed transabdominally, transvaginal evaluation should be performed.
+
+158
+00:22:00,037 --> 00:22:05,762
+Transperineal evaluation remains an option but in our experience is rarely used.
+
+159
+00:22:05,762 --> 00:22:16,137
+3. If the cervix appears abnormal or is not adequately visualized transabdominally, transvaginal (or transperineal) examination is recommended.
+
+160
+00:22:16,137 --> 00:22:22,325
+If cervical length assessment is requested, measurement should be based on a transvaginal image.
+
+161
+00:22:22,325 --> 00:22:34,912
+4. In the setting of velamentous cord insertion, color and pulsed Doppler ultrasound should be used to evaluate for vasa previa (Figs. 6-6 and 6-7, p. 115).
+
+162
+00:22:34,912 --> 00:22:39,100
+# Detailed Second- and Third-Trimester Ultrasound.
+
+163
+00:22:39,100 --> 00:22:47,987
+Examinations The detailed fetal anatomy examination is also known as a targeted or 76811 examination.
+
+164
+00:22:47,987 --> 00:22:59,312
+It is performed when the risk for a fetal structural or genetic abnormality is elevated because of history, screening test result, or abnormal finding during standard examination .
+
+165
+00:22:59,312 --> 00:23:08,937
+The detailed ultrasound examination is intended to be indication-driven and is not repeated without an extenuating circumstance, such as a new risk factor .
+
+166
+00:23:08,937 --> 00:23:18,462
+Physicians who perform or interpret these ultrasound examinations should have gained expertise in fetal imaging through both training and ongoing experience .
+
+167
+00:23:18,462 --> 00:23:21,000
+Table 14-6.
+
+168
+00:23:21,000 --> 00:23:34,225
+American Institute for Ultrasound in Medicine Indications for Detailed Second- and Third-trimester Ultrasound Examinations Components of the detailed examination are intended to be determined on a case-by-case basis.
+
+169
+00:23:34,225 --> 00:23:42,100
+Table 15-1 (p. 273) lists nearly 70 anatomical components that may be included.
+
+170
+00:23:42,100 --> 00:23:46,725
+When practices apply for adjunct accreditation in performance of
+
+171
+00:23:46,876 --> 00:23:57,788
+the detailed fetal anatomic survey, the American Institute of Ultrasound in Medicine specifies 50 components that must be included when submitting normal cases for review.
+
+172
+00:23:57,738 --> 00:24:04,376
+At Parkland Hospital, we attempt to image these components in all detailed anatomic surveys.
+
+173
+00:24:04,376 --> 00:24:14,063
+When performing a given detailed examination, one challenge is determining which components are needed for a given indication, as these have not been codified.
+
+174
+00:24:14,063 --> 00:24:24,688
+The most prevalent risk factors and thus indications for detailed ultrasound examinations are maternal obesity and maternal age ≥35 years.
+
+175
+00:24:24,688 --> 00:24:48,988
+In a systematic review of more than 16,000 pregnancies affected by anomalies, obesity conferred modestly increased odds of a neural-tube defect (1.9), ventriculomegaly (1.7), cardiovascular anomaly (1.3), cleft lip/palate (1.2), anorectal atresia (1.5), and limb reduction defect (1.7) .
+
+176
+00:24:48,988 --> 00:24:58,713
+Subsequently, Biggio and colleagues (2010) reported that obesity was associated with a higher anomaly prevalence only in the setting of diabetes.
+
+177
+00:24:58,713 --> 00:25:06,751
+Maternal age ≥35 years is considered another indication for detailed sonographic examination.
+
+178
+00:25:06,751 --> 00:25:13,051
+However, the fetal anomaly risk may be related to the associated increase in aneuploidy.
+
+179
+00:25:13,051 --> 00:25:21,726
+Goetzinger and colleagues (2017) found that the anomaly rate among euploid fetuses born to older mothers was not increased.
+
+180
+00:25:21,726 --> 00:25:24,801
+# Fetal Echocardiography.
+
+181
+00:25:24,801 --> 00:25:33,138
+This specialized examination of fetal cardiac structure and function is designed to identify and characterize abnormalities.
+
+182
+00:25:33,138 --> 00:26:07,776
+Echocardiography indications include suspected fetal cardiac structural or functional abnormality; heart rate abnormality or arrhythmia; extracardiac anomaly or hydrops; chromosomal abnormality; nuchal translucency ≥3.5 mm; in vitro fertilization; monochorionic twin gestation; first-degree relative to the fetus with a congenital cardiac defect; first- or second-degree relative to the fetus with a Mendelian syndrome and childhood cardiac manifestation; prior fetus with heart block in the setting
+
+183
+00:26:07,776 --> 00:26:17,438
+of maternal anti-Ro or La antibodies; retinoid exposure; and metabolic risk factor such as pregestational diabetes or phenylketonuria .
+
+184
+00:26:17,438 --> 00:26:23,376
+Selected cardiac anomalies are reviewed in Chap. 15 (p. 291).
+
+185
+00:26:23,376 --> 00:26:26,826
+# Limited Ultrasound Examination.
+
+186
+00:26:26,826 --> 00:26:33,388
+A limited second- or third-trimester examination is performed to address a specific clinical question.
+
+187
+00:26:33,388 --> 00:26:45,026
+Evaluation of fetal number, presentation, and cardiac activity; amnionic fluid volume; and placental location with respect to the internal os are common indications .
+
+188
+00:26:45,026 --> 00:26:50,763
+The examination may include fetal biometry but not a complete anatomical survey.
+
+189
+00:26:50,763 --> 00:26:59,238
+In the absence of an emergency, a limited examination is performed only if a standard ultrasound survey has already been completed.
+
+190
+00:26:59,238 --> 00:27:07,376
+Otherwise, provided that the gestational age is at least 18 weeks, a standard ultrasound examination is recommended.
+
+191
+00:27:07,376 --> 00:27:10,351
+# Fetal Anomaly Detection.
+
+192
+00:27:10,351 --> 00:27:24,688
+With current advances in imaging technology, approximately 60 percent of major fetal abnormalities may be detected during standard ultrasound examinations (Byrne, 2020; Rydberg, 2017).
+
+193
+00:27:24,688 --> 00:27:37,163
+For detailed ultrasound surveys performed in pregnancies at increased risk for anomalies, detection rates may exceed 90 percent (Dashe, 2009; Levi, 1998).
+
+194
+00:27:37,163 --> 00:27:50,751
+The sensitivity of the examination varies according to factors such as gestational age, maternal habitus, fetal position, equipment features, examination type, operator skill, and the specific abnormality.
+
+195
+00:27:50,751 --> 00:27:56,651
+For example, maternal obesity lowers the anomaly detection rate by 20 percent .
+
+196
+00:27:56,651 --> 00:28:01,051
+Detection rates vary considerably according to the abnormality.
+
+197
+00:28:01,051 --> 00:28:10,063
+In the EUROCAT network of 28 population-based registries, 40 percent of major fetal abnormalities are detected prenatally .
+
+198
+00:28:10,063 --> 00:28:45,988
+Detection rates of selected abnormalities are as follows: anencephaly, 98 percent; spina bifida, 89 percent; hydrocephaly, 82 percent; cleft lip/palate, 70 percent; hypoplastic left heart, 88 percent; transposition of the great vessels, 69 percent; diaphragmatic hernia, 73 percent; gastroschisis, 92 percent; omphalocele, 90 percent; bilateral renal agenesis, 94 percent; posterior urethral valves, 80 percent; limb reduction defects, 60 percent; and
+
+199
+00:28:46,156 --> 00:28:48,793
+clubfoot, 60 percent.
+
+200
+00:28:48,743 --> 00:29:02,368
+In contrast, anomalies with poor sonographic detection rates in the second trimester include microcephaly, choanal atresia, cleft palate, Hirschsprung disease, anal atresia, and congenital skin disorders.
+
+201
+00:29:02,368 --> 00:29:11,893
+Although clinicians tend to focus on abnormalities amenable to sonographic detection, those that are undetectable can be no less devastating to families.
+
+202
+00:29:11,893 --> 00:29:18,093
+Every sonographic examination should include a frank discussion of examination limitations.
+
+203
+00:29:18,093 --> 00:29:21,868
+# Three-Dimensional Ultrasound Examination.
+
+204
+00:29:21,868 --> 00:29:30,318
+Over the past three decades, three-dimensional (3-D) ultrasound has gone from a novelty to a feature of all modern equipment.
+
+205
+00:29:30,318 --> 00:29:36,656
+After a region of interest is identified, a volume is acquired using a 3-D transducer.
+
+206
+00:29:36,656 --> 00:29:42,968
+This volume can be rendered to display axial, sagittal, coronal, or oblique images.
+
+207
+00:29:42,968 --> 00:29:49,468
+Sequential slices may be generated, similar to computed tomographic (CT) images.
+
+208
+00:29:49,468 --> 00:30:00,818
+Unlike two-dimensional (2-D) scanning, which appears to be happening in real time on the screen, 3-D imaging is static and obtained by processing a volume of stored images.
+
+209
+00:30:00,818 --> 00:30:08,906
+With four-dimensional ultrasound, rapid reconstruction of the rendered images conveys the impression that the scanning is in real time.
+
+210
+00:30:08,906 --> 00:30:26,468
+For selected anomalies, such as those of the face and skeleton, for tumors, and for some cases of neural-tube defects, 3-D sonography can add useful information (American College of Obstetricians and Gynecologists, 2020; Goncalves, 2005).
+
+211
+00:30:26,468 --> 00:30:41,206
+That said, comparisons of 3-D and conventional 2D sonography for the diagnosis of most congenital anomalies have not demonstrated better overall detection rates (Goncalves, 2006; Reddy, 2008).
+
+212
+00:30:41,206 --> 00:30:53,231
+The American College of Obstetricians and Gynecologists (2020b) has concluded that proof of a clinical advantage of 3-D ultrasound for prenatal diagnosis is generally lacking.
+
+213
+00:30:53,231 --> 00:30:55,506
+Placenta And Cervix.
+
+214
+00:30:55,506 --> 00:31:08,581
+The standard examination includes evaluation of the anatomical relationship between the placenta and the internal cervical os, the umbilical cord insertion into the placenta, and cervical length assessment.
+
+215
+00:31:08,581 --> 00:31:13,956
+Evaluation for placenta accreta spectrum is a detailed examination type .
+
+216
+00:31:13,956 --> 00:31:17,793
+# Placenta Previa and Low-lying Placenta.
+
+217
+00:31:17,793 --> 00:31:25,456
+The location of the placenta with respect to the cervix may be accurately assessed by approximately 16 weeks’ gestation.
+
+218
+00:31:25,456 --> 00:31:31,443
+If transabdominal visualization is limited, transvaginal ultrasound is recommended.
+
+219
+00:31:31,443 --> 00:31:41,193
+Placenta previa is diagnosed if the placenta overlies the internal cervical os to any degree or reaches its margin (Fig. 14-2A).
+
+220
+00:31:41,193 --> 00:31:52,406
+If the inferior placental edge is within 2 cm of the internal os but does not reach the cervix, the diagnosis is low-lying placenta (see Fig. 14-2B).
+
+221
+00:31:52,406 --> 00:32:08,606
+Whenever placenta previa or low-lying placenta are diagnosed, a follow-up ultrasound examination is recommended at approximately 32 weeks’ gestation, with transvaginal evaluation if needed to verify the relationship between the placenta and cervix.
+
+222
+00:32:08,606 --> 00:32:14,656
+If findings persist, a 36-week ultrasound examination also is recommended.
+
+223
+00:32:14,656 --> 00:32:20,968
+Management of these placenta types are discussed in Chapter 43 (p. 757).
+
+224
+00:32:20,968 --> 00:32:23,456
+Figure 14-2.
+
+225
+00:32:23,456 --> 00:32:25,718
+A. Placenta previa.
+
+226
+00:32:25,718 --> 00:32:35,456
+In this transvaginal image, the inferior edge (arrow) of the posterior placenta (P) overlies the internal cervical os (arrowhead).
+
+227
+00:32:35,456 --> 00:32:37,468
+H = head.
+
+228
+00:32:37,468 --> 00:32:39,993
+B. Low-lying placenta.
+
+229
+00:32:39,993 --> 00:32:49,093
+The inferior placental edge (arrow) is within 2 cm of the internal cervical os (arrowhead) in this transvaginal image.
+
+230
+00:32:49,093 --> 00:32:53,156
+The bladder (B) is seen anterior to the cervix.
+
+231
+00:32:53,156 --> 00:32:57,818
+The umbilical cord insertion into the placenta should be interrogated.
+
+232
+00:32:57,818 --> 00:33:09,268
+Marginal cord insertion, also known as battledore placenta, is diagnosed if the umbilical cord inserts into the edge of the placenta or within 2 cm of the placental margin.
+
+233
+00:33:09,268 --> 00:33:20,856
+If the umbilical cord does not insert into the placenta—but rather into the membranes—the diagnosis is velamentous cord insertion (Fig. 6-6, p. 115).
+
+234
+00:33:20,856 --> 00:33:30,443
+With the latter, the umbilical arteries and vein traverse the membranes along the uterine wall unprotected by Wharton jelly before entering the placental margin.
+
+235
+00:33:30,443 --> 00:33:39,106
+If umbilical vessels course within the portion of membrane overlying the cervix or within 2 cm of the cervix, the diagnosis is
+
+236
+00:33:39,268 --> 00:33:44,105
+vasa previa (Fig. 6-7, p. 116).
+
+237
+00:33:44,055 --> 00:33:57,518
+Vasa previa may also occur if there are two or more placental lobes—as with a succenturiate lobe—and the interconnecting vessels traverse the intervening membranes over or in proximity to the internal cervical os.
+
+238
+00:33:57,518 --> 00:34:08,955
+Transvaginal ultrasound with color Doppler highlights the vessels, and pulsed-wave Doppler of the spanning arterial vessel demonstrates a fetal heart rate, which confirms the diagnosis.
+
+239
+00:34:08,955 --> 00:34:15,155
+A subsequent detailed ultrasound examination is recommended at 32 weeks’ gestation .
+
+240
+00:34:15,155 --> 00:34:21,230
+Chapter 6 (p. 114) contains content on management of these entities.
+
+241
+00:34:21,230 --> 00:34:24,255
+# Placenta Accreta Spectrum.
+
+242
+00:34:24,255 --> 00:34:30,818
+Placenta accreta, increta, and percreta comprise the placenta accreta spectrum (PAS).
+
+243
+00:34:30,818 --> 00:34:38,268
+They are characterized by abnormal placental invasion onto, into, or through the myometrium, respectively .
+
+244
+00:34:38,268 --> 00:34:47,793
+Evaluation includes transabdominal and transvaginal imaging, with and without color or power Doppler and with the patient’s bladder partially filled.
+
+245
+00:34:47,793 --> 00:35:02,680
+In one metaanalysis that included more than 3200 pregnancies, the sensitivity of ultrasound to identify placenta accreta, increta, and percreta was 91, 93, and 89 percent, respectively.
+
+246
+00:35:02,680 --> 00:35:09,330
+Corresponding specificities were 97, 98, and 99 percent, respectively .
+
+247
+00:35:09,330 --> 00:35:16,618
+Five ultrasound criteria assist with detection and characterization of PAS : Figure 14-3.
+
+248
+00:35:16,618 --> 00:35:23,043
+These third-trimester sonograms demonstrate findings that characterize placenta accreta spectrum.
+
+249
+00:35:23,043 --> 00:35:33,280
+A. Transabdominal color mapping depicts bridging vessels between the bladder and the uterine serosa (arrowheads) and shows large intraplacental lacunae (arrow).
+
+250
+00:35:33,280 --> 00:35:46,230
+B. Transvaginal transverse image showing a large bulge (suggesting placenta percreta) along the bladder-uterine serosal interface (arrowheads) and multiple large, irregular lacunae (arrows).
+
+251
+00:35:46,230 --> 00:35:49,980
+C. Disruption of the bladderserosal interface.
+
+252
+00:35:49,980 --> 00:35:55,893
+The echogenic interface between bladder and serosa appears irregular (arrowheads).
+
+253
+00:35:55,893 --> 00:36:03,455
+The smallest myometrial thickness measures <1 mm, and bridging vessels are highlighted by color Doppler.
+
+254
+00:36:03,455 --> 00:36:06,855
+Large lacunae also are shown (arrows).
+
+255
+00:36:06,855 --> 00:36:13,855
+1. Placental lacunae, which are vascular spaces that may contain prominent color Doppler flow 2.
+
+256
+00:36:13,855 --> 00:36:22,655
+Attenuation or thinning of the retroplacental myometrium, such that the smallest myometrial thickness measurement is <1 mm.
+
+257
+00:36:22,655 --> 00:36:27,480
+This is also referred to as loss of the retroplacental clear space 3.
+
+258
+00:36:27,480 --> 00:36:38,055
+Disruption of the bladder-uterine serosal interface, which appears as an irregular, echogenic boundary between the bladder and uterine serosa with gray-scale imaging 4.
+
+259
+00:36:38,055 --> 00:36:45,543
+Bridging vessels, which are demonstrated with color Doppler to course from the placenta to the bladder-serosal interface 5.
+
+260
+00:36:45,543 --> 00:36:51,605
+A placental “bulge” that pushes outward and distorts the contour of the uterus or other organs.
+
+261
+00:36:51,605 --> 00:36:57,193
+In some cases of placenta percreta, a focal exophytic mass also is seen.
+
+262
+00:36:57,193 --> 00:37:14,593
+The accuracy of these criteria varies in published series and is affected by the number and predictive value of given findings and by associated risk factors such as placenta previa and number of prior cesarean deliveries (Jauniaux, 2016; Rac, 2015).
+
+263
+00:37:14,593 --> 00:37:19,905
+Serial evaluation may be helpful, particularly in the third trimester.
+
+264
+00:37:19,905 --> 00:37:28,880
+With concurrent placenta previa and history of cesarean delivery, any of these ultrasound findings prompts a detailed ultrasound evaluation.
+
+265
+00:37:28,880 --> 00:37:38,043
+The role of magnetic resonance (MR) imaging as an adjunct in pregnancies with suspected PAS is reviewed later (p. 268).
+
+266
+00:37:38,043 --> 00:37:41,168
+# Cesarean Scar Pregnancy.
+
+267
+00:37:41,168 --> 00:37:57,393
+Placental implantation within a prior hysterotomy scar—termed cesarean scar pregnancy (CSP)—is often a precursor to second- or third-trimester PAS (Happe, 2020; Rac, 2016; Timor-Trisch, 2014).
+
+268
+00:37:57,393 --> 00:38:03,143
+Sonographically, the gestational sac lies low and anteriorly in the uterus.
+
+269
+00:38:03,143 --> 00:38:12,118
+CSPs may appear to rest on the prior scar or may fill the niche, which is a myometrial pocket defect in the thinned hysterotomy scar .
+
+270
+00:38:12,118 --> 00:38:17,430
+Placental sonolucencies, a precursor to PAS lacunae, may be seen.
+
+271
+00:38:17,430 --> 00:38:33,905
+The retroplacental myometrium may be attenuated to a degree that the distance from the anterior trophoblastic border to the uterine serosa measures <3 mm (D’Antonio, 2018; Moschos, 2014; Happe, 2020).
+
+272
+00:38:34,060 --> 00:38:40,422
+Color Doppler may demonstrate prominent vascularity in the region of the prior hysterotomy scar .
+
+273
+00:38:40,372 --> 00:38:45,047
+In some cases, the gestational sac may bulge toward the bladder.
+
+274
+00:38:45,047 --> 00:38:51,272
+CSP evaluation and management are discussed in Chapter 12 (p. 229).
+
+275
+00:38:51,272 --> 00:38:53,835
+Figure 14-4.
+
+276
+00:38:53,835 --> 00:38:58,072
+Cesarean scar pregnancy, transvaginal images.
+
+277
+00:38:58,072 --> 00:39:02,497
+A. The trophoblast appears to fill the scar “niche” (arrows).
+
+278
+00:39:02,497 --> 00:39:07,510
+B. Outward bulging of the gestational sac toward the bladder (arrowheads).
+
+279
+00:39:07,510 --> 00:39:11,222
+C. Placental sonolucencies (arrows).
+
+280
+00:39:11,222 --> 00:39:15,260
+D. Attenuation of the retroplacental myometrium.
+
+281
+00:39:15,260 --> 00:39:22,385
+The distance from the anterior trophoblastic border to the uterine serosa is <1 mm (arrows).
+
+282
+00:39:22,385 --> 00:39:28,110
+Color Doppler demonstrates vascularity in the region of the prior hysterotomy scar.
+
+283
+00:39:28,110 --> 00:39:30,560
+# Cervical Length.
+
+284
+00:39:30,560 --> 00:39:43,322
+Although the cervix may be imaged transabdominally (Fig. 14-5A), visualization is often limited by maternal habitus, cervical position, or shadowing by the fetal presenting part.
+
+285
+00:39:43,322 --> 00:39:50,597
+In addition, the maternal bladder or pressure from the transducer may artificially elongate the cervix’s appearance.
+
+286
+00:39:50,597 --> 00:39:57,922
+As a result, values from transabdominal or transvaginal measurement of the cervix can differ significantly.
+
+287
+00:39:57,922 --> 00:40:00,535
+Figure 14-5.
+
+288
+00:40:00,535 --> 00:40:06,310
+A. Transabdominal image of the cervix depicting the internal os and external os.
+
+289
+00:40:06,310 --> 00:40:14,110
+B. Transvaginal imaging provides a more accurate evaluation of the cervix and should be used for medical decision-making.
+
+290
+00:40:14,110 --> 00:40:18,285
+In this image, arrowheads mark the endocervical canal.
+
+291
+00:40:18,285 --> 00:40:22,335
+Reproduced with permission from Dr. Emily Adhikari.
+
+292
+00:40:22,335 --> 00:40:31,047
+If the cervix appears short or is inadequately visualized during transabdominal evaluation, transvaginal assessment should be considered .
+
+293
+00:40:31,047 --> 00:40:38,885
+Clinical decisionmaking should use only cervical length measurements obtained transvaginally (Fig. 14-5B).
+
+294
+00:40:38,885 --> 00:40:43,635
+Measurement should be performed at or beyond 16 weeks’ gestation.
+
+295
+00:40:43,635 --> 00:40:51,610
+A short cervix is associated with an elevated risk for preterm birth, particularly in those with prior preterm birth.
+
+296
+00:40:51,610 --> 00:40:55,872
+Risk rises proportionally with the degree of cervical shortening .
+
+297
+00:40:55,872 --> 00:41:03,097
+To measure the cervix transvaginally, the imaging criteria shown in Table 14-7 are followed.
+
+298
+00:41:03,097 --> 00:41:11,897
+The endocervical canal should be visible in its entirety, and images ideally are obtained over several minutes to capture dynamic change.
+
+299
+00:41:11,897 --> 00:41:18,722
+Funneling is a protrusion of amnionic membranes into a portion of the endocervical canal that has dilated .
+
+300
+00:41:18,722 --> 00:41:24,947
+Funneling is not an independent predictor of preterm birth but is associated with cervical shortening.
+
+301
+00:41:24,947 --> 00:41:30,410
+Transvaginal assessment is recommended if a funnel is suspected transabdominally.
+
+302
+00:41:30,410 --> 00:41:37,360
+The cervical length is measured distal to the funnel, because the funnel’s base becomes the functional internal os.
+
+303
+00:41:37,360 --> 00:41:47,922
+If the cervix is dilated, as with cervical insufficiency, the membranes may prolapse through the endocervical canal and into the vagina to produce an hourglass appearance.
+
+304
+00:41:47,922 --> 00:41:55,772
+Sludge represents an aggregate of particulate matter (debris) within the amnionic sac and close to the internal os.
+
+305
+00:41:55,772 --> 00:42:01,047
+In pregnancies at risk for preterm birth, sludge further raises the risk.
+
+306
+00:42:01,047 --> 00:42:03,560
+Table 14-7.
+
+307
+00:42:03,560 --> 00:42:09,397
+Criteria for Transvaginal Evaluation of the Cervix Figure 14-6.
+
+308
+00:42:09,397 --> 00:42:13,947
+Transvaginal image depicting a foreshortened cervix with funneling.
+
+309
+00:42:13,947 --> 00:42:20,772
+Funneling is a protrusion of amnionic membranes into a portion of the endocervical canal that has dilated.
+
+310
+00:42:20,772 --> 00:42:26,610
+The distal protruding edge of the funnel becomes the functional internal os (left arrow).
+
+311
+00:42:26,610 --> 00:42:32,722
+Thus, the measured cervical length, which lies between the arrows, should not include the funnel.
+
+312
+00:42:32,722 --> 00:42:36,772
+Reproduced with permission from Dr. Emily Adhikari.
+
+313
+00:42:36,772 --> 00:42:38,810
+Amnionic Fluid.
+
+314
+00:42:38,810 --> 00:42:41,222
+# Physiology.
+
+315
+00:42:41,222 --> 00:42:44,410
+Amnionic fluid serves several roles.
+
+316
+00:42:44,410 --> 00:42:52,660
+Fetal breathing is essential for normal lung growth, and fetal swallowing permits gastrointestinal (GI) tract development.
+
+317
+00:42:52,660 --> 00:43:00,372
+The fluid also creates a physical space for fetal movement, which is necessary for neuromusculoskeletal maturation.
+
+318
+00:43:00,372 --> 00:43:06,947
+Amnionic fluid further guards against umbilical cord compression and protects the fetus from trauma.
+
+319
+00:43:06,947 --> 00:43:10,360
+It also has bacteriostatic properties.
+
+320
+00:43:10,360 --> 00:43:16,522
+Early in pregnancy, amnionic fluid is similar in composition to extracellular fluid.
+
+321
+00:43:16,522 --> 00:43:24,085
+Amnionic fluid arises as a transudate of plasma either from the fetus through its nonkeratinized skin or from the mother
+
+322
+00:43:24,244 --> 00:43:27,981
+across the uterine decidua and placenta surface .
+
+323
+00:43:27,931 --> 00:43:44,606
+Specifically, early transfer of water and other small molecules occurs via three mechanisms: across the amnion—transmembranous flow; across fetal vessels on the placental surface—intramembranous flow; and across fetal skin— transcutaneous flow.
+
+324
+00:43:44,606 --> 00:44:00,406
+Fetal urine production does not become a major component of amnionic fluid until the second trimester, which explains why fetuses with lethal renal abnormalities may not manifest severe amnionic volume declines until after 18 weeks’ gestation.
+
+325
+00:44:00,406 --> 00:44:07,694
+Water transport across the fetal skin continues until keratinization occurs at 22 to 25 weeks.
+
+326
+00:44:07,694 --> 00:44:14,019
+In the second half of pregnancy, fetal urination is the primary source of amnionic fluid.
+
+327
+00:44:14,019 --> 00:44:22,431
+In late gestation, the fetal respiratory tract also produces approximately 350 mL of lung fluid per day.
+
+328
+00:44:22,431 --> 00:44:30,894
+Fetal swallowing is the primary mechanism for amnionic fluid resorption and averages 500 to 1000 mL per day .
+
+329
+00:44:30,894 --> 00:44:36,819
+By term, the entire amnionic fluid volume is recirculated on a daily basis .
+
+330
+00:44:36,819 --> 00:44:49,381
+However, impaired swallowing, secondary to either a central nervous system (CNS) abnormality or GI tract obstruction, can result in impressive amnionic fluid volume expansion.
+
+331
+00:44:49,381 --> 00:44:51,794
+Table 14-8.
+
+332
+00:44:51,794 --> 00:45:02,794
+Amnionic Fluid Volume Regulation in Late Pregnancy The osmolality of amnionic fluid is similar to that of fetal urine and hypotonic to that of maternal and fetal plasma.
+
+333
+00:45:02,794 --> 00:45:14,744
+Specifically, the osmolality of maternal and fetal plasma approximates 280 mOsm/mL, whereas that of amnionic fluid is about 260 mOsm/L.
+
+334
+00:45:14,744 --> 00:45:25,369
+The hypotonicity of amnionic fluid accounts for up to 400 mL per day of intramembranous fluid transfer across and into fetal vessels on the placental surface .
+
+335
+00:45:25,369 --> 00:45:36,069
+Maternal dehydration can lead to higher maternal osmolality, which favors fluid transfer from the fetus to mother and then from the amnionic fluid compartment into the fetus .
+
+336
+00:45:36,069 --> 00:45:52,369
+Amnionic fluid volume expands from approximately 30 mL at 10 weeks’ gestation to 200 mL by 16 weeks and reaches 800 mL by the mid-third trimester (Brace, 1989; Magann, 1997).
+
+337
+00:45:52,369 --> 00:46:11,181
+Using dye dilution, Magann and associates (1997) reported that the average amnionic fluid volume was approximately 400 mL between 22 and 30 weeks’ gestation, then rose to 800 mL until 40 weeks, and subsequently declined by 8 percent per week.
+
+338
+00:46:11,181 --> 00:46:15,856
+There was a wide normal range, particularly in the third trimester.
+
+339
+00:46:15,856 --> 00:46:25,994
+Abnormally decreased fluid volume is termed oligohydramnios, whereas abnormally increased fluid volume is termed hydramnios or polyhydramnios.
+
+340
+00:46:25,994 --> 00:46:29,119
+# Semi-quantitative Assessment.
+
+341
+00:46:29,119 --> 00:46:36,644
+Evaluation of amnionic fluid volume is a component of every second- or third-trimester ultrasound examination.
+
+342
+00:46:36,644 --> 00:46:44,606
+Volume is measured semiquantitatively using the single deepest pocket of fluid or the amnionic fluid index (AFI).
+
+343
+00:46:44,606 --> 00:46:55,344
+Both measurements are reproducible and, in the setting of a fluid abnormality, can be followed serially over time to assess trends and aid communication among providers.
+
+344
+00:46:55,344 --> 00:46:59,894
+For this reason, subjective assessment alone is not recommended.
+
+345
+00:46:59,894 --> 00:47:09,769
+The single deepest pocket of fluid is measured in a sagittal plane with the ultrasound transducer held perpendicular to the floor and parallel to the long axis of the woman.
+
+346
+00:47:09,769 --> 00:47:18,844
+A pocket should be at least 1 cm wide to be considered adequate, and the measurement should not include fetal parts or loops of umbilical cord.
+
+347
+00:47:18,844 --> 00:47:24,656
+Color Doppler is generally used to verify that umbilical cord is not within the measurement.
+
+348
+00:47:24,656 --> 00:47:36,894
+The measurement is considered normal if it is >2 cm and <8 cm. Values below and above this range indicating oligohydramnios and hydramnios, respectively.
+
+349
+00:47:36,894 --> 00:47:41,719
+These thresholds correspond to the 3rd and 97th percentiles .
+
+350
+00:47:41,719 --> 00:47:57,169
+When evaluating twins and other multifetal gestations, a single deepest pocket is assessed in each gestational sac, using the same normal range (Hernandez, 2012; Society for Maternal-Fetal Medicine, 2013).
+
+351
+00:47:57,169 --> 00:48:07,206
+The fetal biophysical profile similarly uses a single deepest vertical pocket threshold of >2 cm to indicate normal amnionic fluid volume .
+
+352
+00:48:07,206 --> 00:48:16,019
+To measure the AFI, the uterus is divided into four equal quadrants—the right and left upper and lower quadrants, respectively.
+
+353
+00:48:16,019 --> 00:48:17,344
+The
+
+354
+00:48:17,500 --> 00:48:21,962
+AFI is the sum of the single deepest pocket from each quadrant.
+
+355
+00:48:21,912 --> 00:48:33,287
+In a study of 1400 measurements obtained from the INTERGROWTH-21st trial, the mean intraand interobserver variability of AFI measurements were each below 1 cm .
+
+356
+00:48:33,287 --> 00:48:39,900
+Two standard deviations from the mean, however, reached 5 and 7 cm, respectively.
+
+357
+00:48:39,900 --> 00:48:47,025
+As useful rule of thumb, the AFI is generally three times higher than the single deepest pocket of fluid.
+
+358
+00:48:47,025 --> 00:48:54,425
+The AFI is considered normal if >5 cm and <24 or 25 cm.
+
+359
+00:48:54,425 --> 00:49:08,375
+Using an AFI nomogram based on cross-sectional evaluation of nearly 800 uncomplicated pregnancies, the mean AFI ranged between 12 and 15 cm from 16 weeks until 40 weeks’ gestation .
+
+360
+00:49:08,375 --> 00:49:16,987
+Other investigators have published nomograms with similar mean values (Hinh, 2005; Machado, 2007).
+
+361
+00:49:16,987 --> 00:49:19,525
+Figure 14-7.
+
+362
+00:49:19,525 --> 00:49:26,462
+Amnionic fluid index (AFI) according to gestational age–specific and threshold values.
+
+363
+00:49:26,462 --> 00:49:37,937
+The blue curves represent the 2.5th, 50th, and 97.5th AFI percentile values, based on the nomogram by Moore (1990).
+
+364
+00:49:37,937 --> 00:49:48,925
+Red and tan curves represent 50th percentile values for AFI from Machado (2007) and from Hinh and Ladinsky (2005), respectively.
+
+365
+00:49:48,925 --> 00:49:57,375
+The light blue and yellow shaded bars indicate threshold values used to define hydramnios and oligohydramnios, respectively.
+
+366
+00:49:57,375 --> 00:49:59,812
+# Hydramnios.
+
+367
+00:49:59,812 --> 00:50:12,025
+Abnormally increased amnionic fluid volume complicates 1 to 2 percent of singleton pregnancies (Dashe, 2002; Khan, 2017; Pri-Paz, 2012).
+
+368
+00:50:12,025 --> 00:50:30,637
+Hydramnios may be categorized as mild if the AFI is 25 to 29.9 cm; moderate, if 30 to 34.9 cm; and severe, if ≥35 cm (Luo, 2017; Odibo, 2016).
+
+369
+00:50:30,637 --> 00:50:48,612
+Using a single deepest pocket of amnionic fluid, as is done in multifetal gestations, mild hydramnios is defined as 8 to 9.9 cm, moderate as 10 to 11.9 cm, and severe hydramnios as ≥12 cm .
+
+370
+00:50:48,612 --> 00:50:55,512
+Mild hydramnios accounts for approximately two thirds of cases and is frequently idiopathic and benign.
+
+371
+00:50:55,512 --> 00:51:04,037
+By comparison, severe hydramnios is far more likely to have an underlying etiology and to have consequences for the pregnancy.
+
+372
+00:51:04,037 --> 00:51:06,450
+Figure 14-8.
+
+373
+00:51:06,450 --> 00:51:08,812
+Severe hydramnios.
+
+374
+00:51:08,812 --> 00:51:17,775
+This pocket of amnionic fluid measured >15 cm, and the amnionic fluid index measured nearly 50 cm.
+
+375
+00:51:17,775 --> 00:51:28,612
+Underlying causes of hydramnios include fetal structural abnormalities or genetic syndromes in approximately 15 percent and diabetes in 15 to 20 percent .
+
+376
+00:51:28,612 --> 00:51:35,775
+Selected anomalies and the likely mechanism by which they cause hydramnios are shown in Table 14-10.
+
+377
+00:51:35,775 --> 00:51:43,912
+Congenital infection, red blood cell alloimmunization, and placental chorioangioma are less frequent etiologies.
+
+378
+00:51:43,912 --> 00:51:52,687
+Hydramnios may also complicate syphilis and cytomegalovirus, toxoplasmosis, and parvovirus infections (Chaps.
+
+379
+00:51:52,687 --> 00:51:58,262
+67 and 68, pp. 1183 and 1206).
+
+380
+00:51:58,262 --> 00:52:02,187
+Hydramnios is often seen with hydrops fetalis .
+
+381
+00:52:02,187 --> 00:52:11,900
+The underlying pathophysiology in such cases is frequently related to a highcardiac-output state, and severe fetal anemia a classic example.
+
+382
+00:52:11,900 --> 00:52:17,812
+A detailed ultrasound examination is indicated whenever hydramnios is identified.
+
+383
+00:52:17,812 --> 00:52:24,725
+If a fetal abnormality is identified at that time, the aneuploidy risk is significantly elevated.
+
+384
+00:52:24,725 --> 00:52:27,200
+Table 14-9.
+
+385
+00:52:27,200 --> 00:52:34,362
+Hydramnios: Prevalence and Associated Etiologies—Values in Percent Table 14-10.
+
+386
+00:52:34,362 --> 00:52:42,875
+Selected Anomalies and Mechanism for Hydramnios The degree of hydramnios positively correlates with the likelihood of an anomalous fetus.
+
+387
+00:52:42,875 --> 00:52:55,550
+At Parkland Hospital, the prevalence of an anomalous neonate approximated 8 percent with mild hydramnios, 12 percent with moderate hydramnios, and more than 30 percent with severe hydramnios .
+
+388
+00:52:55,550 --> 00:53:10,000
+Even if no abnormality was detected during targeted sonographic evaluation, the likelihood of a major anomaly identified at birth was 1 to 2 percent if hydramnios was mild or moderate and 10 percent if hydramnios was severe.
+
+389
+00:53:10,000 --> 00:53:25,587
+The overall reported risk that an underlying anomaly will be discovered after delivery ranges from 9 percent in the neonatal period to 28 percent among infants followed to 1 year of age (Abele, 2012; Dorleijn, 2009).
+
+390
+00:53:25,587 --> 00:53:43,550
+The amnionic fluid glucose concentration is higher in diabetic women than in those without diabetes, and the AFI may correlate positively with the amnionic fluid glucose concentration (Dashe, 2000; Spellacy, 1973; Weiss, 1985).
+
+391
+00:53:43,550 --> 00:53:46,712
+Such findings support the hypothesis
+
+392
+00:53:46,876 --> 00:53:56,163
+that maternal hyperglycemia causes fetal hyperglycemia, which leads to fetal osmotic diuresis into the amnionic fluid compartment.
+
+393
+00:53:56,113 --> 00:54:06,226
+Repeat screening for gestational diabetes in pregnancies with hydramnios does not appear to be beneficial if the secondtrimester glucose tolerance test result was normal .
+
+394
+00:54:06,226 --> 00:54:12,063
+Hydramnios is more frequently noted in multifetal gestations than in singleton ones.
+
+395
+00:54:12,063 --> 00:54:24,863
+In a review of nearly 2000 twin gestations, Hernandez and coworkers (2012) identified hydramnios in 18 percent of both monochorionic and dichorionic pregnancies.
+
+396
+00:54:24,863 --> 00:54:36,088
+In monochorionic gestations, hydramnios in one sac and oligohydramnios in the other are diagnostic criteria for twin-twin transfusion syndrome (TTTS) .
+
+397
+00:54:36,088 --> 00:54:41,888
+Isolated hydramnios solely in one sac also may precede this syndrome’s development .
+
+398
+00:54:41,888 --> 00:54:48,763
+In the absence of a fetal abnormality or TTTS, complication risks are not generally higher .
+
+399
+00:54:48,763 --> 00:54:52,876
+Idiopathic hydramnios is a diagnosis of exclusion.
+
+400
+00:54:52,876 --> 00:55:07,951
+It accounts for up to 70 percent of all hydramnios cases, is mild in approximately 80 percent of idiopathic cases, and subsequently resolves in more than one third (Odibo, 2016; Wiegand, 2016).
+
+401
+00:55:07,951 --> 00:55:15,313
+Management Severe hydramnios occasionally results in early preterm labor or maternal respiratory compromise.
+
+402
+00:55:15,313 --> 00:55:21,701
+In such cases, large-volume amniocentesis—termed amnioreduction—may be needed.
+
+403
+00:55:21,701 --> 00:55:29,163
+The technique is similar to that for genetic amniocentesis but is generally done with an 18- or 20-gauge needle.
+
+404
+00:55:29,163 --> 00:55:34,276
+Fluid is collected in either a vacuum container bottle or a larger syringe .
+
+405
+00:55:34,276 --> 00:55:44,926
+Approximately 1000 to 2000 mL of fluid is slowly withdrawn over 20 to 30 minutes, depending on the severity of hydramnios and gestational age.
+
+406
+00:55:44,926 --> 00:55:49,926
+The goal is to restore amnionic fluid volume to the upper normal range.
+
+407
+00:55:49,926 --> 00:55:55,863
+Subsequent amnioreduction procedures may be required as often as weekly or semiweekly.
+
+408
+00:55:55,863 --> 00:56:14,001
+In a review of 138 singleton pregnancies requiring amnioreduction for hydramnios, a fetal GI malformation was identified in 20 percent, a chromosomal abnormality or genetic condition in almost 30 percent, and a neurological abnormality in 8 percent .
+
+409
+00:56:14,001 --> 00:56:18,788
+In only 20 percent of cases was the hydramnios idiopathic.
+
+410
+00:56:18,788 --> 00:56:28,038
+The initial amnioreduction procedure was performed at 31 weeks’ gestation, and the median gestational age at delivery was 36 weeks.
+
+411
+00:56:28,038 --> 00:56:37,301
+Outcomes Hydramnios can be associated with preterm birth, placental abruption, uterine dysfunction during labor, and postpartum hemorrhage.
+
+412
+00:56:37,301 --> 00:56:49,038
+When an underlying cause is identified, the severity of hydramnios positively correlates with risk for preterm delivery, small-for-gestational age newborn, and perinatal mortality .
+
+413
+00:56:49,038 --> 00:57:00,801
+However, idiopathic hydramnios is generally not associated with preterm birth (Magann, 2010; Many, 1995; Panting-Kemp, 1999).
+
+414
+00:57:00,801 --> 00:57:11,963
+Placental abruption may result from rapid decompression of an overdistended uterus following rupture of membranes or therapeutic amnioreduction, occasionally days or weeks later.
+
+415
+00:57:11,963 --> 00:57:18,801
+Uterine dysfunction from overdistention may lead to postpartum atony and associated postpartum hemorrhage.
+
+416
+00:57:18,801 --> 00:57:36,038
+With idiopathic hydramnios, birthweight exceeds 4000 g in nearly 25 percent of cases, and the likelihood is greater if the hydramnios is moderate or severe (Luo, 2017; Odibo, 2016; Wiegand, 2016).
+
+417
+00:57:36,038 --> 00:57:48,913
+A rationale for this association is that larger fetuses have higher urine output, by virtue of their increased volume of distribution, and fetal urine is the largest contributor to amnionic fluid volume.
+
+418
+00:57:48,913 --> 00:58:04,513
+Cesarean delivery rates are also higher in pregnancies with idiopathic hydramnios, and reported rates range from 35 to 55 percent (Dorleijn, 2009; Khan, 2017; Odibo, 2016).
+
+419
+00:58:04,513 --> 00:58:16,626
+An unresolved question is whether hydramnios alone raises the risk for perinatal mortality (Khan, 2017; Pilliod, 2015; Wiegand, 2016).
+
+420
+00:58:16,626 --> 00:58:29,751
+Using birth certificate data from California, Pilliod and colleagues (2015) reported that at 37 weeks’ gestation, the stillbirth risk was sevenfold higher in pregnancies with hydramnios.
+
+421
+00:58:29,751 --> 00:58:35,551
+Risks appear to be compounded when fetal-growth restriction is comorbid with hydramnios .
+
+422
+00:58:35,551 --> 00:58:38,338
+# Oligohydramnios.
+
+423
+00:58:38,338 --> 00:58:45,976
+Abnormally decreased amnionic fluid volume complicates 1 to 2 percent of pregnancies (Casey, 2000;
+
+424
+00:58:46,132 --> 00:58:49,082
+Petrozella, 2011).
+
+425
+00:58:49,032 --> 00:58:57,894
+Oligohydramnios is diagnosed if the AFI measures <5 cm or the single deepest pocket is <2 cm .
+
+426
+00:58:57,894 --> 00:59:07,894
+An AFI threshold of 5 cm is below the 2.5th percentile throughout the second and third trimesters (see Fig. 14-7).
+
+427
+00:59:07,894 --> 00:59:22,669
+Importantly, use of AFI rather than single deepest pocket will identify more pregnancies as having oligohydramnios but without evidence of improved pregnancy outcomes (Kehl, 2016; Nabhan, 2010).
+
+428
+00:59:22,669 --> 00:59:32,257
+When evaluating multifetal pregnancies for TTTS, a single deepest pocket <2 cm is used to define oligohydramnios .
+
+429
+00:59:32,257 --> 00:59:38,744
+When no measurable pocket of amnionic fluid is identified, the term anhydramnios is used.
+
+430
+00:59:38,744 --> 00:59:45,382
+By 18 weeks’ gestation, the fetal kidneys are the main contributor to amnionic fluid volume.
+
+431
+00:59:45,382 --> 01:00:04,844
+Selected renal abnormalities that lead to absent fetal urine production include bilateral renal agenesis, bilateral multicystic dysplastic kidney, unilateral renal agenesis with contralateral multicystic dysplastic kidney, and the infantile form of autosomal recessive polycystic kidney disease.
+
+432
+01:00:04,844 --> 01:00:17,094
+Lower urinary abnormalities may also cause oligohydramnios because of fetal bladder outlet obstruction (Figs. 15-58 through 15-61, p. 300).
+
+433
+01:00:17,094 --> 01:00:26,257
+Complex fetal genitourinary abnormalities such as persistent cloaca and sirenomelia similarly may result in a lack of amnionic fluid.
+
+434
+01:00:26,257 --> 01:00:36,282
+With oligohydramnios before the mid-second trimester, particularly before 20 to 22 weeks, pulmonary hypoplasia is a significant concern.
+
+435
+01:00:36,282 --> 01:00:40,994
+The prognosis is extremely poor unless fetal therapy is an option .
+
+436
+01:00:40,994 --> 01:00:47,869
+Oligohydramnios is also associated with exposure to drugs that block the renin-angiotensin system.
+
+437
+01:00:47,869 --> 01:00:58,769
+These include angiotensin-converting enzyme (ACE) inhibitors, angiotensin-receptor blockers, and nonsteroidal antiinflammatory drugs (NSAIDs).
+
+438
+01:00:58,769 --> 01:01:16,794
+When taken in the second or third trimester, ACE inhibitors and angiotensin-receptor blockers may result in fetal hypotension, renal hypoperfusion, and renal ischemia, leading to subsequent anuric renal failure (Bullo, 2012; Guron, 2000).
+
+439
+01:01:16,794 --> 01:01:21,944
+Fetal skull bone hypoplasia and limb contractures also have been described .
+
+440
+01:01:21,944 --> 01:01:29,669
+Additionally, NSAIDs can be associated with fetal ductus arteriosus constriction and impaired fetal urine production .
+
+441
+01:01:29,669 --> 01:01:37,944
+Oligohydramnios in the late second trimester or in the third trimester is often associated with uteroplacental insufficiency.
+
+442
+01:01:37,944 --> 01:01:45,319
+A placental abnormality or a maternal complication such as preeclampsia or vascular disease are examples.
+
+443
+01:01:45,319 --> 01:01:49,007
+Initially, ruptured membranes should be excluded.
+
+444
+01:01:49,007 --> 01:01:58,619
+Then, particularly in the second trimester, a detailed ultrasound examination should be performed to search for fetal and placental abnormalities.
+
+445
+01:01:58,619 --> 01:02:12,132
+If a placental hematoma or chronic abruption is sufficiently severe to result in oligohydramnios—the chronic abruption-oligohydramnios sequence (CAOS) —then it commonly also causes growth restriction .
+
+446
+01:02:12,132 --> 01:02:23,619
+Management Oligohydramnios detected before 36 weeks’ gestation in the presence of normal fetal anatomy and growth is generally managed expectantly and coupled with fetal surveillance .
+
+447
+01:02:23,619 --> 01:02:31,819
+For late-preterm and early-term pregnancies, risks of fetal compromise outweigh potential complications of preterm delivery.
+
+448
+01:02:31,819 --> 01:02:42,882
+The American College of Obstetricians and Gynecologists (2021b) recommends delivery between 360/7 and 376/7 weeks.
+
+449
+01:02:42,882 --> 01:02:54,007
+In a review of 16 trials of pregnancies with apparent isolated oligohydramnios, oral or intravenous hydration was associated with a significantly improved AFI.
+
+450
+01:02:54,007 --> 01:02:59,394
+However, it was unclear whether this translated into better pregnancy outcomes .
+
+451
+01:02:59,394 --> 01:03:18,782
+Outcomes In a review of pregnancies with oligohydramnios at Parkland Hospital, Petrozella and associates (2011) found that an AFI <5 cm identified between 24 and 34 weeks’ gestation was associated with increased risks for perinatal morbidity and mortality .
+
+452
+01:03:18,782 --> 01:03:37,032
+Similarly, a metaanalysis comprising more than 10,000 pregnancies found that oligohydramnios conferred a twofold risk for cesarean delivery due to nonreassuring fetal status and a fivefold risk for an Apgar score <7 at 5 minutes compared with pregnancies with a normal AFI .
+
+453
+01:03:37,032 --> 01:03:39,607
+Table 14-11.
+
+454
+01:03:39,607 --> 01:03:43,044
+Pregnancy Outcomes in Women Diagnosed with
+
+455
+01:03:43,204 --> 01:04:00,416
+Oligohydramnios between 24 and 34 Weeks’ Gestation at Parkland Hospital As discussed, if oligohydramnios is defined as an AFI <5 cm rather than a single deepest pocket <2 cm, more pregnancies will be classified as such.
+
+456
+01:04:00,416 --> 01:04:17,241
+Kehl and coworkers (2016) performed a prospective trial with more than 1000 term pregnancies in which women with an AFI <5 cm or a single deepest pocket <2 cm were randomly assigned to labor induction or expectant care.
+
+457
+01:04:17,241 --> 01:04:28,591
+Significantly more pregnancies were diagnosed with oligohydramnios using the AFI criterion—10 percent compared with just 2 percent—when single deepest pocket was used.
+
+458
+01:04:28,591 --> 01:04:35,479
+This led to a higher rate of labor induction in the AFI group but not to a difference in neonatal outcomes.
+
+459
+01:04:35,479 --> 01:04:40,566
+Borderline Oligohydramnios This diagnosis is somewhat controversial.
+
+460
+01:04:40,566 --> 01:04:43,504
+Also called borderline AFI.
+
+461
+01:04:43,504 --> 01:04:52,354
+It usually refers to an AFI between 5 and 8 cm (Magann, 2011; Petrozella, 2011).
+
+462
+01:04:52,354 --> 01:05:02,154
+During the mid-third trimester, an AFI value of 8 cm is below the 5th percentile on the Moore nomogram (see Fig. 14-7).
+
+463
+01:05:02,154 --> 01:05:21,779
+Petrozella (2011) found that pregnancies between 24 and 34 weeks’ gestation with an AFI between 5 and 8 cm were not more likely than those with an AFI >8 cm to have maternal hypertensive complications or an increased risk for stillbirth and neonatal death.
+
+464
+01:05:21,779 --> 01:05:34,754
+Wood and colleagues (2014) reported a higher rate of fetalgrowth restriction in pregnancies with borderline AFI but not an increase in rates of preterm delivery or need for neonatal intensive care.
+
+465
+01:05:34,754 --> 01:05:50,066
+In a study of late-preterm pregnancies that were otherwise uncomplicated, borderline AFI conferred no increased risk for preterm delivery, nonreassuring fetal heart rate tracing, low Apgar score, or neonatal respiratory compromise .
+
+466
+01:05:50,066 --> 01:05:55,316
+Evidence is insufficient to support fetal surveillance or delivery in this setting .
+
+467
+01:05:55,316 --> 01:05:56,866
+Doppler.
+
+468
+01:05:56,866 --> 01:06:08,691
+When sound waves strike a moving target, the frequency of the waves reflected back is shifted in proportion to the velocity and direction of that moving target—a phenomenon known as the Doppler shift.
+
+469
+01:06:08,691 --> 01:06:17,691
+Because magnitude and direction of the frequency shift depend on the motion of a moving target, Doppler can help evaluate flow within blood vessels.
+
+470
+01:06:17,691 --> 01:06:24,679
+An important component of the Doppler equation is the angle of insonation, abbreviated as theta (θ) .
+
+471
+01:06:24,679 --> 01:06:29,966
+This is the angle between the sound waves from the transducer and flow within the vessel.
+
+472
+01:06:29,966 --> 01:06:39,641
+Measurement error becomes large when θ is not close to zero, in other words, when blood flow is not coming directly toward or away from the transducer.
+
+473
+01:06:39,641 --> 01:06:48,104
+For this reason, ratios are often used to compare different waveform components and allow cosine θ to cancel out of the equation.
+
+474
+01:06:48,104 --> 01:06:55,241
+Figure 14-10 is a schematic of the Doppler waveform and describes the three ratios commonly used.
+
+475
+01:06:55,241 --> 01:07:07,854
+The simplest is the systolic-diastolic ratio (S/D ratio), which compares the maximal (or peak) systolic flow with end-diastolic flow to evaluate downstream impedance to flow.
+
+476
+01:07:07,854 --> 01:07:13,104
+Currently, two types of Doppler modalities are available for clinical use.
+
+477
+01:07:13,104 --> 01:07:15,666
+Figure 14-9.
+
+478
+01:07:15,666 --> 01:07:17,666
+Doppler equation.
+
+479
+01:07:17,666 --> 01:07:29,829
+Ultrasound emanating from the transducer with initial frequency f o strikes blood moving at velocity v. Reflected frequency f d is dependent on angle θ between beam of sound and vessel.
+
+480
+01:07:29,829 --> 01:07:32,304
+Figure 14-10.
+
+481
+01:07:32,304 --> 01:07:37,529
+Doppler systolic–diastolic waveform indices of blood flow velocity.
+
+482
+01:07:37,529 --> 01:07:45,216
+S represents the peak systolic flow or velocity, and D indicates the end-diastolic flow or velocity.
+
+483
+01:07:45,216 --> 01:07:51,916
+The mean, which is the time-average mean velocity, is calculated from computer-digitized waveforms.
+
+484
+01:07:51,916 --> 01:08:01,804
+Continuous-wave Doppler equipment contains two types of crystals, one to transmit high-frequency sound waves and another to continuously capture signals.
+
+485
+01:08:01,804 --> 01:08:10,691
+In M-mode imaging, continuous-wave Doppler is used to evaluate motion through time, however, it cannot image individual vessels.
+
+486
+01:08:10,691 --> 01:08:20,404
+Pulsed-wave Doppler uses only one crystal, which transmits the signal and then waits until the returning signal is received before transmitting another one.
+
+487
+01:08:20,404 --> 01:08:25,741
+It allows precise visualization and color-flow mapping of the vessel of interest.
+
+488
+01:08:25,741 --> 01:08:30,704
+By convention, blood flowing toward the transducer is displayed in red
+
+489
+01:08:30,868 --> 01:08:34,830
+and that flowing away from the transducer appears in blue.
+
+490
+01:08:34,780 --> 01:08:37,355
+# Umbilical Artery.
+
+491
+01:08:37,355 --> 01:08:44,668
+The umbilical artery differs from other vessels in that it normally has forward flow throughout the entire cardiac cycle.
+
+492
+01:08:44,668 --> 01:08:52,018
+With advancing gestation, the amount of flow during diastole increases because of decreasing placental impedance.
+
+493
+01:08:52,018 --> 01:09:04,055
+The S/D ratio approximates ≤4.0 after 20 weeks’ gestation, <3.0 after 30 weeks’, and close to 2.0 at term.
+
+494
+01:09:04,055 --> 01:09:13,130
+More end-diastolic flow is observed at the placental cord insertion than at the fetal ventral wall, a reflection of downstream impedance to flow.
+
+495
+01:09:13,130 --> 01:09:21,568
+Thus, abnormalities such as absent or reversed end-diastolic flow will appear first at the cord insertion site into the fetus.
+
+496
+01:09:21,568 --> 01:09:31,130
+The International Society of Ultrasound in Obstetrics and Gynecology recommends that umbilical artery Doppler measurements be made in a free loop of cord .
+
+497
+01:09:31,130 --> 01:09:39,693
+However, assessment close to the ventral wall insertion may optimize measurement reproducibility in cases in which flow is diminished .
+
+498
+01:09:39,693 --> 01:09:47,280
+The waveform is considered abnormal if the S/D ratio is >95th percentile for gestational age.
+
+499
+01:09:47,280 --> 01:09:52,068
+Threshold values are listed in the Appendix (p. 1242).
+
+500
+01:09:52,068 --> 01:10:01,105
+In extreme cases of growth restriction, end-diastolic flow can become absent or even reversed (Fig. 47, p. 830).
+
+501
+01:10:01,105 --> 01:10:15,368
+Such reversal of enddiastolic flow has been associated with greater than 70-percent obliteration of the small muscular arteries in placental tertiary stem villi (Kingdom, 1997; Morrow, 1989).
+
+502
+01:10:15,368 --> 01:10:21,080
+Umbilical artery Doppler has been rigorously investigated to test of fetal well-being.
+
+503
+01:10:21,080 --> 01:10:31,180
+As described in Chapter 47 (p. 830), this tool aids management of fetal-growth restriction and is associated with improved outcome in these cases .
+
+504
+01:10:31,180 --> 01:10:34,580
+It is not recommended for other indications.
+
+505
+01:10:34,580 --> 01:10:39,868
+Similarly, its use as a screening tool for growth-restriction is not advised .
+
+506
+01:10:39,868 --> 01:10:52,493
+Abnormal umbilical artery Doppler findings should prompt a detailed fetal evaluation, if not already done, because abnormal measurements are often associated with major fetal anomalies and aneuploidy .
+
+507
+01:10:52,493 --> 01:10:55,393
+# Ductus Arteriosus.
+
+508
+01:10:55,393 --> 01:11:04,118
+Doppler evaluation of the ductus arteriosus is used primarily to monitor fetuses exposed to indomethacin and other NSAIDs.
+
+509
+01:11:04,118 --> 01:11:10,868
+Indomethacin may cause ductal constriction or closure, particularly when used in the third trimester .
+
+510
+01:11:10,868 --> 01:11:20,618
+The resulting increased pulmonary flow can cause reactive hypertrophy of the pulmonary arterioles and eventual development of fetal pulmonary hypertension.
+
+511
+01:11:20,618 --> 01:11:33,530
+In a review of 12 randomized trials involving more than 200 exposed pregnancies, Koren and coworkers (2006) reported that NSAIDs raised the odds of ductal constriction 15-fold.
+
+512
+01:11:33,530 --> 01:11:38,968
+The risk is typically limited to drug use greater than 72 hours’ duration.
+
+513
+01:11:38,968 --> 01:11:47,918
+Monitoring for ductal constriction should be considered in such cases, so that the NSAID can be discontinued if ductal constriction is identified.
+
+514
+01:11:47,918 --> 01:11:53,343
+Fortunately, effects are often reversible after NSAID discontinuation.
+
+515
+01:11:53,343 --> 01:11:55,793
+# Uterine Artery.
+
+516
+01:11:55,793 --> 01:12:05,518
+Uterine blood flow is estimated to rise from 50 mL/min early in gestation to 500 to 750 mL/min by term.
+
+517
+01:12:05,518 --> 01:12:12,718
+The uterine artery Doppler waveform is characterized by high diastolic flow velocities and turbulent flow.
+
+518
+01:12:12,718 --> 01:12:23,618
+Greater resistance to flow and development of a diastolic notch are associated with later development of gestational hypertension, preeclampsia, and fetalgrowth restriction.
+
+519
+01:12:23,618 --> 01:12:37,643
+Zeeman and associates (2003) also found that women with chronic hypertension who had elevated uterine artery impedance at 16 to 20 weeks’ gestation were at greater risk to develop superimposed preeclampsia.
+
+520
+01:12:37,643 --> 01:12:45,268
+However, the technique, best testing interval, and defining criteria for this indication have not been standardized.
+
+521
+01:12:45,268 --> 01:13:05,418
+As the predictive value of uterine artery Doppler testing is considered to be low, its use for screening for hypertensive complications of pregnancy or for fetal-growth restriction is not recommended in either high-risk or low-risk pregnancies (American College of Obstetricians and Gynecologists, 2019a, 2020b).
+
+522
+01:13:05,418 --> 01:13:08,243
+# Middle Cerebral Artery.
+
+523
+01:13:08,243 --> 01:13:17,355
+Doppler velocimetry of the middle cerebral artery (MCA) has become the primary method of detecting fetal anemia and is central to
+
+524
+01:13:17,524 --> 01:13:20,836
+surveillance of alloimmunized pregnancies.
+
+525
+01:13:20,786 --> 01:13:30,511
+Anatomically, the path of the MCA is such that flow often approaches the transducer “head-on,” which allows accurate determination of flow velocity .
+
+526
+01:13:30,511 --> 01:13:39,636
+The MCA is imaged in an axial view of the head at the base of the skull and ideally within 2 mm of the internal carotid artery origin.
+
+527
+01:13:39,636 --> 01:13:48,661
+Velocity measurement is optimal when the insonating angle θ is close to zero, and no more than 30 degrees of angle correction should be used.
+
+528
+01:13:48,661 --> 01:13:58,399
+In general, other fetal vessels are not suitable for velocity assessment, because a larger insonating angle is needed and confers significant measurement error.
+
+529
+01:13:58,399 --> 01:14:00,986
+Figure 14-11.
+
+530
+01:14:00,986 --> 01:14:04,824
+Middle cerebral artery (MCA) Doppler.
+
+531
+01:14:04,824 --> 01:14:11,036
+A. Color Doppler of the circle of Willis demonstrates the correct location to sample the MCA.
+
+532
+01:14:11,036 --> 01:14:22,461
+B. The waveform shows a peak systolic velocity exceeding 70 cm/sec in a 32-week fetus with severe fetal anemia secondary to Rh alloimmunization.
+
+533
+01:14:22,461 --> 01:14:30,336
+With fetal anemia, the peak systolic velocity is enhanced due to greater cardiac output and decreased blood viscosity .
+
+534
+01:14:30,336 --> 01:14:37,624
+This permits the reliable, noninvasive detection of fetal anemia in cases of blood-group alloimmunization.
+
+535
+01:14:37,624 --> 01:14:51,261
+Mari and colleagues (2000) demonstrated that an MCA peak systolic velocity threshold of 1.50 multiple of the median (MoM) could reliably identify fetuses with moderate or severe anemia.
+
+536
+01:14:51,261 --> 01:15:03,599
+As discussed in Chapter 18 (p. 355), MCA peak systolic velocity has replaced invasive testing with amniocentesis as the preferred test for fetal anemia detection .
+
+537
+01:15:03,599 --> 01:15:09,899
+MCA Doppler has also been studied as an adjunct in evaluation of fetalgrowth restriction .
+
+538
+01:15:09,899 --> 01:15:20,224
+Fetal hypoxemia is associated with increased blood flow to the brain, heart, and adrenal glands, which leads to greater end-diastolic flow in the MCA.
+
+539
+01:15:20,224 --> 01:15:35,011
+This phenomenon, called “brainsparing,” is actually a misnomer, as it does not protect the fetus but rather is associated with perinatal morbidity and mortality (Bahado-Singh, 1999; Cruz-Martinez, 2011).
+
+540
+01:15:35,011 --> 01:15:47,999
+To evaluate redistribution of blood flow, investigators have studied a ratio of the MCA pulsatility index (PI) to the umbilical artery PI–termed the cerebroplacental ratio.
+
+541
+01:15:47,999 --> 01:15:53,624
+Like the S/D ratio, the PI estimates downstream impedance to flow .
+
+542
+01:15:53,624 --> 01:16:11,961
+In the PORTO (Prospective Observational Trial to Optimize Paediatric Health in IUGR) study of ultrasound-dated pregnancies with estimated fetal weights <10th percentile, fetuses with a cerebroplacental PI ratio <1 had an 11-fold greater risk for adverse perinatal outcomes .
+
+543
+01:16:11,961 --> 01:16:16,974
+Such findings can further our understanding of fetal pathophysiology.
+
+544
+01:16:16,974 --> 01:16:33,749
+However, the utility of MCA Doppler to aid the timing of delivery is uncertain, and it has not been adopted as standard practice in the management of growth restriction (American College of Obstetricians and Gynecologists, 2021a; Martins, 2020).
+
+545
+01:16:33,749 --> 01:16:36,374
+# Ductus Venosus.
+
+546
+01:16:36,374 --> 01:16:49,849
+The fetal ductus venosus shunts oxygenated blood from the intrahepatic portion of the umbilical vein directly to the inferior vena cava, thus bypassing the liver (Fig. 7-9, p. 127).
+
+547
+01:16:49,849 --> 01:16:56,624
+The ductus venosus is imaged as it branches from the umbilical vein at approximately the level of the diaphragm.
+
+548
+01:16:56,624 --> 01:17:02,574
+The waveform is biphasic and normally has forward flow throughout the entire cardiac cycle .
+
+549
+01:17:02,574 --> 01:17:09,061
+The first peak reflects ventricular systole, and the second is ventricular diastolic filling.
+
+550
+01:17:09,061 --> 01:17:14,349
+These are followed by a nadir during atrial contraction—termed the a-wave.
+
+551
+01:17:14,349 --> 01:17:16,961
+Figure 14-12.
+
+552
+01:17:16,961 --> 01:17:19,824
+Venous Doppler abnormalities.
+
+553
+01:17:19,824 --> 01:17:23,849
+A. Reversal of a-wave flow in the ductus venosus.
+
+554
+01:17:23,849 --> 01:17:27,211
+Arrows depict a-waves below the baseline.
+
+555
+01:17:27,211 --> 01:17:33,724
+This finding may be identified with cardiac dysfunction in the setting of severe fetal-growth restriction.
+
+556
+01:17:33,724 --> 01:17:36,936
+B. Pulsatile flow in the umbilical vein.
+
+557
+01:17:36,936 --> 01:17:43,499
+The undulating umbilical venous waveform below the baseline indicates tricuspid regurgitation.
+
+558
+01:17:43,499 --> 01:17:50,236
+Above the baseline is the umbilical artery waveform, in which there is no visible end-diastolic flow.
+
+559
+01:17:50,236 --> 01:17:59,799
+Because the venous waveform is below the baseline in this image, it is not possible to determine whether the umbilical artery end-diastolic flow is reversed.
+
+560
+01:17:59,799 --> 01:18:05,261
+It is believed that Doppler findings in preterm fetuses with growth restriction show
+
+561
+01:18:05,428 --> 01:18:13,565
+a progression in which umbilical artery Doppler abnormalities are followed by ones in the MCA and then in the ductus venosus.
+
+562
+01:18:13,515 --> 01:18:26,803
+With severe fetal-growth restriction, cardiac dysfunction may lead to flow in the a-wave that is decreased, absent, and eventually reversed and to pulsatile flow in the umbilical vein (see Fig. 14-12).
+
+563
+01:18:26,803 --> 01:18:44,365
+However, ductus venosus Doppler assessment has not improved perinatal outcomes, and neither the American College of Obstetricians and Gynecologists (2021a) nor the Society for Maternal-Fetal Medicine recommend its use in the routine management of fetal growth-restriction.
+
+564
+01:18:44,365 --> 01:18:46,940
+Magnetic Resonance Imaging.
+
+565
+01:18:46,940 --> 01:18:57,390
+MR imaging is based on the excitation of hydrogen ions in the body by pulsing radiofrequencies with high field-strength magnets (1.5 to 3 Tesla).
+
+566
+01:18:57,390 --> 01:19:05,290
+High-resolution fetal imaging is now possible, in part due to faster acquisition times of less than one second per slice.
+
+567
+01:19:05,290 --> 01:19:13,003
+The relaxing hydrogen ions can be manipulated through various pulse sequences to produce different representations on images.
+
+568
+01:19:13,003 --> 01:19:23,790
+The classic example is simple fluid, such as amnionic fluid or urine in the bladder, which appears bright on T2-weighted and dark on T1-weighted image acquisitions.
+
+569
+01:19:23,790 --> 01:19:35,803
+Image resolution with MR is often superior to that with sonography because MR is less hindered by bony interfaces, maternal obesity, oligohydramnios, or an engaged fetal head.
+
+570
+01:19:35,803 --> 01:19:41,803
+Thus, it can complement sonography in evaluating suspected fetal abnormalities.
+
+571
+01:19:41,803 --> 01:19:51,690
+Examples include complex abnormalities of the fetal thorax and of the central nervous, GI, genitourinary, and musculoskeletal systems.
+
+572
+01:19:51,690 --> 01:19:57,828
+MR imaging is also used to evaluate maternal pelvic masses and placental invasion.
+
+573
+01:19:57,828 --> 01:20:07,040
+This modality, however, is not portable, is time-consuming, and is generally limited to referral centers with expertise in fetal imaging.
+
+574
+01:20:07,040 --> 01:20:18,765
+To guide clinical use, the American College of Radiology and Society for Pediatric Radiology (2020b) have developed a practice guideline for fetal MR imaging.
+
+575
+01:20:18,765 --> 01:20:24,440
+This document acknowledges the primacy of sonography as the preferred screening modality.
+
+576
+01:20:24,440 --> 01:20:34,715
+Moreover, it recommends that fetal MR imaging be used for problem solving to contribute to prenatal diagnosis, counseling, treatment, and delivery planning.
+
+577
+01:20:34,715 --> 01:20:42,215
+At Parkland Hospital, MR imaging is performed in 15 percent of pregnancies with major fetal abnormalities .
+
+578
+01:20:42,215 --> 01:20:48,190
+Specific indications are listed in Table 14-12 and are discussed subsequently .
+
+579
+01:20:48,190 --> 01:20:50,715
+Table 14-12.
+
+580
+01:20:50,715 --> 01:20:56,590
+Fetal Conditions for Which Magnetic Resonance Imaging May Be Indicateda # Safety.
+
+581
+01:20:56,590 --> 01:21:04,103
+MR imaging is not associated with known adverse fetal effects if performed without administration of contrast media .
+
+582
+01:21:04,103 --> 01:21:16,928
+It uses no ionizing radiation, and human and tissue studies support its safety (Clements, 2000; Reeves, 2010; Vadeyar, 2000; Wiskirchen, 1999).
+
+583
+01:21:16,928 --> 01:21:21,178
+The strength of the magnetic field is measured in tesla (T).
+
+584
+01:21:21,178 --> 01:21:31,715
+Both 1.5T and 3T fetal MR imaging can be done safely and successfully, assuming expertise of the imagers with the physical principles of MR .
+
+585
+01:21:31,715 --> 01:21:40,953
+All clinical examinations must adhere to the specific absorption rate, which is regulated by the FDA, and the ALARA principle should be followed.
+
+586
+01:21:40,953 --> 01:21:48,565
+Specifically, the amount of heat generated in the MR is reflected in the specific absorption rate and must be monitored.
+
+587
+01:21:48,565 --> 01:21:58,490
+The Society for Pediatric Radiology recommends 3T MR imaging because of its improved signal-to-noise ratio, which results in better resolution .
+
+588
+01:21:58,490 --> 01:22:04,503
+We prefer 1.5T for diagnostic imaging given its better field homogeneity.
+
+589
+01:22:04,503 --> 01:22:10,003
+We reserve 3T for functional imaging, which requires higher field strength.
+
+590
+01:22:10,003 --> 01:22:16,240
+Gadolinium-based MR contrast agents are gadolinium (Gd3+) chelates.
+
+591
+01:22:16,240 --> 01:22:23,665
+These contrast agents enter the fetal circulation and are excreted via fetal urination into amnionic fluid.
+
+592
+01:22:23,665 --> 01:22:29,615
+Here, they may remain for an indeterminate period before being ingested and reabsorbed.
+
+593
+01:22:29,615 --> 01:22:41,090
+The longer time the gadolinium-chelate molecule remains in a protected space such as the amnionic sac, the greater the potential for dissociation of the toxic Gd3+ ion.
+
+594
+01:22:41,090 --> 01:22:50,478
+In a population-based review from Ontario, children exposed to gadoliniumenhanced MR imaging in utero were at slightly increased risk for a broad
+
+595
+01:22:50,644 --> 01:22:55,969
+set of rheumatological, inflammatory, or infiltrative skin conditions .
+
+596
+01:22:55,919 --> 01:23:05,931
+In adults with renal disease, this contrast agent is associated with development of nephrogenic systemic fibrosis, a potentially severe complication.
+
+597
+01:23:05,931 --> 01:23:12,056
+MR imaging with gadolinium is not recommended in pregnancy without a life-threatening indication.
+
+598
+01:23:12,056 --> 01:23:14,219
+# Technique.
+
+599
+01:23:14,219 --> 01:23:25,456
+Before MR imaging, all women complete a written safety questionnaire that includes information about metallic implants, pacemakers, or other metal- or iron-containing devices.
+
+600
+01:23:25,456 --> 01:23:33,169
+High-level magnetization may cause dangerous movement in these devices, causing adjacent tissue damage and malfunction.
+
+601
+01:23:33,169 --> 01:23:40,606
+Iron supplementation may cause image artifact in the colon but does not usually affect the resolution of fetal images.
+
+602
+01:23:40,606 --> 01:23:53,544
+In more than 4500 MR procedures performed at Parkland Hospital in pregnancy during the past 18 years, <1 percent of our patients suffered maternal anxiety secondary to claustrophobia.
+
+603
+01:23:53,544 --> 01:24:03,981
+To reduce anxiety in this small group, a single oral dose of diazepam, 5 to 10 mg, or lorazepam, 1 to 2 mg, may be given.
+
+604
+01:24:03,981 --> 01:24:10,769
+To begin an MR examination, women are placed in a supine or left lateral decubitus position.
+
+605
+01:24:10,769 --> 01:24:21,206
+A torso coil is used in most circumstances to send and receive the radiofrequency pulses, but a body coil can be used alone to accommodate large maternal habitus.
+
+606
+01:24:21,206 --> 01:24:29,981
+A series of three-plane localizers, or scout views, are obtained relative to the maternal coronal, sagittal, and axial planes.
+
+607
+01:24:29,981 --> 01:24:39,256
+The gravid uterus is imaged in the maternal axial plane (7-mm slices, 0 gap) with a T2-weighted fast acquisition.
+
+608
+01:24:39,256 --> 01:24:54,506
+Typically, these may be a singleshot fast spin echo sequence (SSFSE), half-Fourier acquisition single-shot turbo spin echo (HASTE), or rapid acquisition with relaxation enhancement (RARE), depending on the machine.
+
+609
+01:24:54,506 --> 01:25:04,281
+Next, a fast T1-weighted acquisition such as spoiled gradient echo (SPGR) is performed (7-mm thickness, 0 gap).
+
+610
+01:25:04,281 --> 01:25:12,969
+These large-field-of-view acquisitions through the maternal abdomen and pelvis are particularly good for identifying fetal and maternal anatomy.
+
+611
+01:25:12,969 --> 01:25:18,169
+Orthogonal images of targeted fetal or maternal structures are then obtained.
+
+612
+01:25:18,169 --> 01:25:28,806
+In these cases, 3- to 5-mm slice thickness, 0 gap T2-weighted acquisitions are performed in the coronal, sagittal, and axial planes.
+
+613
+01:25:28,806 --> 01:25:48,881
+Depending on the anatomy and underlying suspected abnormality, T1weighted images can be performed to evaluate for subacute hemorrhage, fat, or location of normal structures that appear bright on these sequences, such as liver and meconium in the colon (Brugger, 2006; Zaretsky, 2003b).
+
+614
+01:25:48,881 --> 01:26:02,594
+Short T1 inversion recovery (STIR) and frequency-selective fat-saturated T2-weighted images may help differentiation in cases in which the water content of the abnormality is similar to that of the normal structure.
+
+615
+01:26:02,594 --> 01:26:06,694
+An example is a thoracic mass compared with normal lung.
+
+616
+01:26:06,694 --> 01:26:20,019
+Diffusion-weighted imaging may be employed to evaluate for restricted diffusion, which can be seen in ischemia, cellular tumors, or clotted blood (Brugger, 2006; Zaretsky, 2003b).
+
+617
+01:26:20,019 --> 01:26:23,256
+# Fetal Anatomy Evaluation.
+
+618
+01:26:23,256 --> 01:26:30,806
+A fetal anatomical survey is generally completed during the MR examination, regardless of the fetal indication.
+
+619
+01:26:30,806 --> 01:26:41,706
+Nearly 95 percent of anatomical components recommended by the International Society of Ultrasound in Obstetrics and Gynecology were visible at 30 weeks’ gestation .
+
+620
+01:26:41,706 --> 01:26:46,406
+The aorta and pulmonary artery were the most difficult to evaluate.
+
+621
+01:26:46,406 --> 01:26:58,594
+Zaretsky and coworkers (2003a) similarly found that with the exclusion of cardiac structures, fetal anatomical evaluation was possible in 99 percent of cases.
+
+622
+01:26:58,594 --> 01:27:01,319
+# Central Nervous System.
+
+623
+01:27:01,319 --> 01:27:07,769
+For intracranial anomalies, fast T2-weighted images produce excellent tissue contrast.
+
+624
+01:27:07,769 --> 01:27:18,219
+Cerebrospinal fluid–containing structures appear bright, which allows exquisite detail of the posterior fossa, midline structures, and cerebral cortex.
+
+625
+01:27:18,219 --> 01:27:22,281
+T1-weighted images are used to identify hemorrhage.
+
+626
+01:27:22,281 --> 01:27:40,544
+CNS biometry obtained with MR imaging is comparable with that obtained using sonography, and nomograms are available for the corpus callosum and cerebellar vermis (Harreld, 2011; Katorza, 2016; Twickler, 2002; Xi, 2016).
+
+627
+01:27:40,544 --> 01:27:44,006
+MR imaging may provide valuable added
+
+628
+01:27:44,164 --> 01:27:53,976
+information when cerebral abnormalities are identified or suspected sonographically (Benacerraf, 2007; Li, 2012).
+
+629
+01:27:53,926 --> 01:28:01,251
+Additional information is more likely to be gained when the examination is performed beyond 24 weeks’ gestation.
+
+630
+01:28:01,251 --> 01:28:17,376
+In studies, MR imaging has identified additional CNS findings or led to a changed diagnosis in nearly 50 percent of cases and affected prognosis or management in 20 percent (Griffiths, 2017, Twickler, 2003).
+
+631
+01:28:17,376 --> 01:28:22,951
+MR imaging accurately portrays cerebral gyration and sulcation patterns .
+
+632
+01:28:22,951 --> 01:28:37,001
+It may assist with identifying agenesis or dysgenesis of the corpus callosum and characterizing migrational abnormalities (Benacerraf, 2007; Li, 2012; Twickler, 2003).
+
+633
+01:28:37,001 --> 01:28:45,951
+In cases of septo-optic dysplasia, MR imaging may confirm absence of the septum pellucidum and display hypoplastic optic tracts .
+
+634
+01:28:45,951 --> 01:28:55,614
+When fetal intracranial hemorrhage (ICH) is suspected, MR imaging can help to characterize the extent of bleeding and to estimate when bleeding occurred.
+
+635
+01:28:55,614 --> 01:29:08,664
+Risk factors for fetal ICH include atypical-appearing ventriculomegaly, concern for neonatal alloimmune thrombocytopenia, and severe TTTS or demise of one monochorionic twin .
+
+636
+01:29:08,664 --> 01:29:18,014
+With congenital fetal infections, MR imaging can delineate the variable degrees of neural parenchymal abnormality and subsequent maldevelopment .
+
+637
+01:29:18,014 --> 01:29:20,801
+Figure 14-13.
+
+638
+01:29:20,801 --> 01:29:28,076
+Axial images of the fetal brain demonstrate the normal gyration and sulcation progression during fetal development.
+
+639
+01:29:28,076 --> 01:29:30,901
+A. 23 weeks’ gestation.
+
+640
+01:29:30,901 --> 01:29:33,739
+B. 33 weeks’ gestation.
+
+641
+01:29:33,739 --> 01:29:43,526
+These images were obtained using a Half Fourier Acquisition Single Shot Turbo Spin Echo (HASTE) sequence because it is relatively motion insensitive.
+
+642
+01:29:43,526 --> 01:29:46,289
+Figure 14-14.
+
+643
+01:29:46,289 --> 01:29:48,739
+Septo-optic dysplasia.
+
+644
+01:29:48,739 --> 01:29:50,689
+A. Axial.
+
+645
+01:29:50,689 --> 01:29:52,664
+B. Coronal.
+
+646
+01:29:52,664 --> 01:29:59,664
+Images at 30 weeks’ gestation confirm absence of the cavum septum pellucidum (arrowheads) in both.
+
+647
+01:29:59,664 --> 01:30:04,051
+There is also associated mild ventriculomegaly (arrow).
+
+648
+01:30:04,051 --> 01:30:06,264
+# Thorax.
+
+649
+01:30:06,264 --> 01:30:14,401
+MR imaging can delineate the location and size of space-occupying thoracic lesions and quantify the volume of lung tissue.
+
+650
+01:30:14,401 --> 01:30:23,676
+If needed, it can characterize blood flow to a thoracic mass to differentiate cystic adenomatoid malformation from pulmonary sequestration .
+
+651
+01:30:23,676 --> 01:30:37,626
+With congenital diaphragmatic hernia, MR imaging can help verify and quantify the abdominal organs within the thorax (Debus, 2013; Lee, 2011; MehollinRay, 2012).
+
+652
+01:30:37,626 --> 01:30:42,414
+This includes the volume of herniated liver and of compressed lung tissue .
+
+653
+01:30:42,414 --> 01:30:56,451
+MR imaging can also measure lung volumes in pregnancies with prolonged oligohydramnios secondary to renal abnormalities or ruptured membranes (Messerschmidt, 2011; Zaretsky, 2005).
+
+654
+01:30:56,451 --> 01:30:59,176
+Figure 14-15.
+
+655
+01:30:59,176 --> 01:31:05,039
+A. Coronal image of normal lungs on a balanced sequence at 29 weeks’ gestation.
+
+656
+01:31:05,039 --> 01:31:09,701
+The liver (L) and stomach (S) lie below the diaphragm.
+
+657
+01:31:09,701 --> 01:31:18,139
+B. Left-sided congenital diaphragmatic hernia (CDH) (dotted ellipse) seen on balanced sequence at 33 weeks.
+
+658
+01:31:18,139 --> 01:31:31,351
+C. The T1-weighted sequence confirms the subdiaphragmatic position of the liver and better delineates the small bowel (arrow) and meconium-containing colon (arrowhead) that have herniated into the chest.
+
+659
+01:31:31,351 --> 01:31:43,026
+D. Another image of a leftsided CDH at 22 weeks demonstrates no normal lung, the heart (H) displaced into the right chest, and an elevated liver (dotted ellipse).
+
+660
+01:31:43,026 --> 01:31:45,114
+# Abdomen.
+
+661
+01:31:45,114 --> 01:31:53,601
+Meconium accumulation within the GI tract gives a predictable pattern and has high signal intensity on T1-weighted sequences.
+
+662
+01:31:53,601 --> 01:32:01,639
+Thus, MR imaging is a complementary tool in diagnosing GI abnormalities and complex cloacal malformations .
+
+663
+01:32:01,639 --> 01:32:11,639
+With cystic abdominal abnormalities, differences in signal characteristics may also help distinguish between meconium in the fetal colon and urine in the bladder .
+
+664
+01:32:11,639 --> 01:32:25,014
+Peritoneal calcifications related to meconium peritonitis are more readily apparent sonographically, whereas pseudocysts and resultant abnormalities of meconium migration are better delineated with MR imaging.
+
+665
+01:32:25,014 --> 01:32:28,126
+# Adjunct to Fetal Therapy.
+
+666
+01:32:28,126 --> 01:32:32,414
+Prior to fetal surgery, MR imaging is often used.
+
+667
+01:32:32,414 --> 01:32:38,226
+In cases of myelomeningocele, it precisely displays brain and spine anatomy.
+
+668
+01:32:38,226 --> 01:32:52,764
+For sacrococcygeal teratomas, if fetal surgery is considered, MR imaging may identify tumor extension into the fetal pelvis (Avni, 2002; Neubert, 2004; Perrone, 2018).
+
+669
+01:32:52,924 --> 01:33:02,624
+When a fetal neck mass is identified with ultrasound, MR imaging may help delineate a lesion’s extent and its mass effect on the oral cavity and trachea.
+
+670
+01:33:02,574 --> 01:33:17,086
+This can help identify cases that are at risk for adverse outcome and that may benefit from an ex utero intrapartum treatment (EXIT) procedure (Lazar, 2012; Ogamo, 2005; Ng, 2019).
+
+671
+01:33:17,086 --> 01:33:28,011
+MR imaging can also calculate a jaw index when an EXIT procedure may be needed for severe micrognathia (Kooiman, 2018; Morris, 2009).
+
+672
+01:33:28,011 --> 01:33:43,286
+At some centers, before laser ablation of placental anastomoses for TTTS, MR imaging is performed to identify fetal ICH or periventricular leukomalacia (Hu, 2006; Kline-Fath, 2007).
+
+673
+01:33:43,286 --> 01:33:48,549
+Fetal therapy is discussed in Chapter 19 (p. 367).
+
+674
+01:33:48,549 --> 01:33:50,674
+# Placenta.
+
+675
+01:33:50,674 --> 01:34:00,961
+Despite improvements in ultrasound detection of PAS, particularly when the placenta is anterior, characterization of the extent of invasion remains a challenge.
+
+676
+01:34:00,961 --> 01:34:06,774
+MR findings concerning for invasion are depicted in Figure 14-16.
+
+677
+01:34:06,774 --> 01:34:22,349
+They include dark intraplacental bands on T2-weighted images, a focal bulge, placental heterogeneity, involvement of the bladder-uterine serosal interface, and fibrin deposition (Clark, 2020; Leyendecker, 2012).
+
+678
+01:34:22,349 --> 01:34:28,611
+When used to complement ultrasound, MR imaging’s sensitivity to detect invasion is high.
+
+679
+01:34:28,611 --> 01:34:40,161
+Clark and associates (2020) reported that MR imaging findings positively correlated with need for cesarean hysterectomy and with histological and surgical impressions of invasion.
+
+680
+01:34:40,161 --> 01:34:48,936
+Clinical risk factors and ultrasound findings (p. 253) should be incorporated when interpreting MR placental images .
+
+681
+01:34:48,936 --> 01:34:51,636
+Figure 14-16.
+
+682
+01:34:51,636 --> 01:35:00,336
+A. Sagittal T2-weighted image of the placenta demonstrates placenta accreta spectrum (PAS), in this case placenta percreta.
+
+683
+01:35:00,336 --> 01:35:12,199
+There are intraplacental, dark, linear bands (arrows), a large bulge along the bladder-serosal interface (arrowheads), and a central area of marked inhomogeneity (asterisk).
+
+684
+01:35:12,199 --> 01:35:22,299
+B. A coronal image from the same study demonstrates the bulge with right lateral extension (arrowheads) and multiple, dark, linear bands (arrows).
+
+685
+01:35:22,299 --> 01:35:34,774
+C. A sagittal, balanced, steady state free precession (SSFE) image shows a bulge, retroplacental vessels, and irregularity of the bladder-serosal interface (arrowheads).
+
+686
+01:35:34,774 --> 01:35:39,061
+These contrast with the large maternal varices (arrows).
+
+687
+01:35:39,061 --> 01:35:41,224
+F = fetus.
+
+688
+01:35:41,224 --> 01:35:48,111
+Two emerging technologies also are being employed to investigate placental insufficiency and PAS.
+
+689
+01:35:48,111 --> 01:35:57,611
+Arterial spin labelling is a technique for functional assessment of perfusion and excites maternal red blood cells to serve as endogenous contrast agents .
+
+690
+01:35:57,611 --> 01:36:03,936
+Second, radiomics textural analysis characterizes placental morphology in vivo.
+
+691
+01:36:03,936 --> 01:36:09,774
+MR textural features may help select pregnancies requiring cesarean hysterectomy .
+

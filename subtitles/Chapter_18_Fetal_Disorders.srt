@@ -1,0 +1,1708 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,537
+Chapter 18: Fetal Disorders.
+
+3
+00:00:05,537 --> 00:00:24,562
+Fetal Anemia Red Cell Alloimmunization Fetomaternal Hemorrhage Fetal Thrombocytopenia Hydrops Fetalis Mirror Syndrome References Fetal disorders may be acquired—such as alloimmunization; may be genetic —congenital adrenal hyperplasia; or may be sporadic—like many structural malformations.
+
+4
+00:00:24,562 --> 00:00:31,212
+This chapter reviews fetal anemia and thrombocytopenia and immune and nonimmune fetal hydrops.
+
+5
+00:00:31,212 --> 00:00:39,975
+Hydrops is perhaps the quintessential fetal disorder, as it can be a manifestation of severe illness from a wide variety of etiologies.
+
+6
+00:00:39,975 --> 00:00:52,800
+Fetal structural malformations are reviewed in Chapter 15, genetic abnormalities in Chapters 16 and 17, and conditions amenable to medical or surgical fetal therapy in Chapter 19.
+
+7
+00:00:52,800 --> 00:01:02,125
+Because congenital infections arise as a result of maternal infection or colonization, they are discussed in Chapters 67 and 68.
+
+8
+00:01:02,125 --> 00:01:04,025
+Fetal Anemia.
+
+9
+00:01:04,025 --> 00:01:11,075
+Anemia may result from alloimmunization, infection, genetic disorders, or fetomaternal hemorrhage.
+
+10
+00:01:11,075 --> 00:01:18,712
+Red cell alloimmunization results from transplacental passage of maternal antibodies that destroy fetal red cells.
+
+11
+00:01:18,712 --> 00:01:31,662
+Alloimmunization leads to overproduction of immature fetal and neonatal red cells—erythroblastosis fetalis—a condition now referred to as hemolytic disease of the fetus and newborn (HDFN).
+
+12
+00:01:31,662 --> 00:01:42,400
+Congenital infections are also associated with fetal anemia, particularly parvovirus B19, discussed in Chapter 67 (p. 1191).
+
+13
+00:01:42,400 --> 00:01:50,562
+In Southeast Asian populations, α0-thalassemia is a common cause of severe anemia and nonimmune hydrops.
+
+14
+00:01:50,562 --> 00:02:20,612
+Rare genetic causes of anemia include red cell production disorders—such as DiamondBlackfan anemia and Fanconi anemia; red cell enzymopathies—glucose-6phosphate dehydrogenase deficiency and pyruvate kinase deficiency; red cell structural abnormalities—hereditary spherocytosis and elliptocytosis; lysosomal storage diseases—Gaucher disease, Niemann-Pick, and mucopolysaccharidosis VII; and myeloproliferative disorders—leukemias.
+
+15
+00:02:20,612 --> 00:02:25,312
+Fetomaternal hemorrhage is discussed on page 357.
+
+16
+00:02:25,312 --> 00:02:36,187
+Fetal anemia is typically identified through Doppler evaluation of the fetal middle cerebral artery (MCA) peak systolic velocity (p. 355).
+
+17
+00:02:36,187 --> 00:02:43,137
+Progressive fetal anemia from any cause leads to heart failure, hydrops fetalis, and ultimately death.
+
+18
+00:02:43,137 --> 00:02:47,300
+Treatment with intrauterine transfusions can be lifesaving.
+
+19
+00:02:47,300 --> 00:03:04,925
+Severely anemic fetuses transfused in utero have survival rates exceeding 90 percent, and even in cases of hydrops fetalis, survival rates approach 80 percent (Lindenberg, 2013; Mizuuchi, 2021; Zwiers, 2017).
+
+20
+00:03:04,925 --> 00:03:08,125
+# Red Cell Alloimmunization.
+
+21
+00:03:08,125 --> 00:03:18,250
+Currently, 36 different blood group systems and 360 erythrocyte antigens are recognized by the International Society of Blood Transfusion .
+
+22
+00:03:18,250 --> 00:03:22,350
+Blood banks routinely screen for erythrocyte antigens.
+
+23
+00:03:22,350 --> 00:03:29,012
+Some are immunologically and genetically important, but many are rare and of little clinical significance.
+
+24
+00:03:29,012 --> 00:03:36,500
+An individual who lacks a specific erythrocyte antigen may produce antibodies against it when exposed to that antigen.
+
+25
+00:03:36,500 --> 00:03:42,762
+Such antibodies can prove harmful if an individual receives an incompatible blood transfusion.
+
+26
+00:03:42,762 --> 00:03:52,262
+During pregnancy, these antibodies may cross the placenta and lyse fetal red cells that contain the associated antigens, resulting in anemia.
+
+27
+00:03:52,262 --> 00:03:58,550
+The fetus typically inherits at least one erythrocyte antigen from the father that is lacking in the mother.
+
+28
+00:03:58,550 --> 00:04:06,025
+The pregnant woman may become sensitized if enough fetal red cells reach her circulation to elicit an immune response.
+
+29
+00:04:06,025 --> 00:04:34,700
+Importantly, alloimmunization is uncommon for the following reasons: (1) low prevalence of incompatible erythrocyte antigens; (2) insufficient transplacental passage of fetal antigens and maternal antibodies; (3) maternal-fetal ABO incompatibility, which leads to rapid clearance of fetal erythrocytes before they elicit an immune response; (4) variable antigenicity; and (5) variable maternal immune response to the antigen.
+
+30
+00:04:34,700 --> 00:04:44,425
+The prevalence of red cell alloimmunization in pregnancy approximates 1 percent (Bollason, 2017; Koelewijn, 2008).
+
+31
+00:04:44,425 --> 00:04:51,237
+Most cases of severe fetal anemia requiring antenatal transfusion are attributable to anti-D,
+
+32
+00:04:51,388 --> 00:04:58,025
+anti-Kell, anti-c, or anti-E alloimmunization (de Haas, 2015).
+
+33
+00:04:57,975 --> 00:05:03,888
+Maternal blood type and antibody screen are routinely assessed at the first prenatal visit.
+
+34
+00:05:03,888 --> 00:05:09,350
+Unbound antibodies in maternal serum are detected with an indirect Coombs test .
+
+35
+00:05:09,350 --> 00:05:22,600
+If the result is positive, the specific antibodies are identified; their immunoglobulin subtype is determined as either immunoglobulin G (IgG) or M (IgM); and the titer is quantified.
+
+36
+00:05:22,600 --> 00:05:29,275
+Only IgG antibodies are concerning, because IgM antibodies do not cross the placenta.
+
+37
+00:05:29,275 --> 00:05:36,400
+Selected antibodies and their potential to cause fetal hemolytic anemia are listed in Table 18-1.
+
+38
+00:05:36,400 --> 00:05:41,513
+The critical titer is the level at which significant fetal anemia may develop.
+
+39
+00:05:41,513 --> 00:05:48,288
+It may vary according to antibody and laboratory but is usually between 1:8 and 1:32.
+
+40
+00:05:48,288 --> 00:06:00,225
+If the laboratory’s critical titer threshold for anti-D antibodies is 1:16, a titer ≥1:16 indicates the possibility of severe hemolytic disease.
+
+41
+00:06:00,225 --> 00:06:06,650
+An important exception is Kell sensitization, which is discussed on page 354.
+
+42
+00:06:06,650 --> 00:06:09,113
+Table 18-1.
+
+43
+00:06:09,113 --> 00:06:28,938
+Selected Red Cell Antigens and Their Relationship to Fetal Hemolytic Disease CDE (Rh) Blood Group Incompatibility The CDE system includes five erythrocyte antigens: C, c, D, E, and e. There is no “d” antigen, and D-negativity is defined as the absence of the D antigen.
+
+44
+00:06:28,938 --> 00:06:35,213
+Although most people are D positive or negative, more than 200 D antigen variants exist .
+
+45
+00:06:35,213 --> 00:06:44,463
+The CDE group was formerly termed Rh or rhesus, due to a misconception that red cells from rhesus monkeys expressed these human antigens.
+
+46
+00:06:44,463 --> 00:06:48,638
+In transfusion medicine, “rhesus” is no longer used .
+
+47
+00:06:48,638 --> 00:06:52,050
+CDE antigens are clinically important.
+
+48
+00:06:52,050 --> 00:07:00,850
+D-negative individuals may become sensitized after a single exposure to as little as 0.1 mL of fetal erythrocytes .
+
+49
+00:07:00,850 --> 00:07:11,913
+The two responsible genes—RHD and RHCE —are located on the short arm of chromosome 1 and are inherited together, independent of other blood group genes.
+
+50
+00:07:11,913 --> 00:07:16,388
+Antigen positivity varies according to race and ethnicity.
+
+51
+00:07:16,388 --> 00:07:31,450
+Nearly 85 percent of non-Hispanic white Americans are D-positive, as are approximately 90 percent of Native Americans, 93 percent of African Americans and Hispanic Americans, and 99 percent of Asian Americans .
+
+52
+00:07:31,450 --> 00:07:42,625
+The prevalence of D alloimmunization complicating pregnancy ranges from 0.5 to 0.9 percent (Koelewijn, 2008; Martin, 2005).
+
+53
+00:07:42,625 --> 00:07:54,338
+Without anti-D immune globulin prophylaxis, a D-negative woman delivered of a Dpositive, ABO-compatible newborn has a 16-percent likelihood of developing alloimmunization.
+
+54
+00:07:54,338 --> 00:08:07,975
+Two percent will become sensitized by the time of delivery, 7 percent by 6 months postpartum, and the remaining 7 percent will be “sensibilized”—producing detectable antibodies only in a subsequent pregnancy .
+
+55
+00:08:07,975 --> 00:08:18,625
+If there is ABO incompatibility, the D alloimmunization risk decreases to 2 percent because erythrocyte destruction of incompatible cells limits sensitization .
+
+56
+00:08:18,625 --> 00:08:27,925
+D sensitization may also occur following first-trimester pregnancy complications, prenatal diagnostic procedures, and maternal trauma .
+
+57
+00:08:27,925 --> 00:08:30,400
+Table 18-2.
+
+58
+00:08:30,400 --> 00:08:43,113
+Causes of Fetomaternal Hemorrhage Associated with Red Cell Antigen Alloimmunizationa The C, c, E, and e antigens have lower immunogenicity than the D antigen but can cause hemolytic disease.
+
+59
+00:08:43,113 --> 00:08:59,900
+Sensitization to E, c, and C antigens complicates approximately 0.3 percent of pregnancies in screening studies and accounts for about 30 percent of red cell alloimmunization cases (Howard, 1998; Koelewijn, 2008).
+
+60
+00:08:59,900 --> 00:09:16,700
+Anti-E alloimmunization is the most common, but the need for fetal or neonatal transfusions is greater with anti-c alloimmunization than with anti-E or anti-C (de Haas, 2015; Hackney, 2004; Koelewijn, 2008).
+
+61
+00:09:16,700 --> 00:09:18,838
+The Grandmother Effect.
+
+62
+00:09:18,838 --> 00:09:24,675
+In virtually all pregnancies, small amounts of maternal blood enter the fetal circulation.
+
+63
+00:09:24,675 --> 00:09:34,713
+Polymerase chain reaction (PCR) has identified maternal D-positive DNA in peripheral blood from preterm and full-term D-negative newborns .
+
+64
+00:09:34,713 --> 00:09:46,338
+Thus, a D-negative female fetus exposed to maternal D-positive red cells might develop sensitization, and later might produce anti-D antibodies before or during pregnancy.
+
+65
+00:09:46,338 --> 00:09:51,113
+This mechanism is called the grandmother effect because the fetus in the current
+
+66
+00:09:51,268 --> 00:09:58,643
+pregnancy is jeopardized by maternal antibodies that were initially provoked by his or her grandmother’s erythrocytes.
+
+67
+00:09:58,593 --> 00:10:19,418
+Alloimmunization to Minor Antigens Because routine administration of anti-D immune globulin prevents anti-D alloimmunization, proportionately more cases of hemolytic disease are caused by red cell antigens other than D (American College of Obstetricians and Gynecologists, 2019a; Koelewijn, 2008).
+
+68
+00:10:19,418 --> 00:10:22,593
+These are also known as minor antigens.
+
+69
+00:10:22,593 --> 00:10:25,730
+Kell antigens are among the most frequent.
+
+70
+00:10:25,730 --> 00:10:38,193
+Other antigens with potential to cause severe alloimmunization include Duffy group A—Fya, MNS, and Kidd—Jka (de Hass, 2015; Moise, 2008).
+
+71
+00:10:38,193 --> 00:10:44,980
+In most cases, sensitization to a minor antigen results from an incompatible blood transfusion.
+
+72
+00:10:44,980 --> 00:10:55,130
+However, if an IgG red cell antibody is detected and there is any doubt as to its significance, the pregnancy should be evaluated for hemolytic disease.
+
+73
+00:10:55,130 --> 00:10:59,080
+Only a few blood group antigens pose no fetal risk.
+
+74
+00:10:59,080 --> 00:11:04,818
+Lewis antibodies— Lea and Leb—are cold agglutinins, as are I antibodies.
+
+75
+00:11:04,818 --> 00:11:09,730
+They are predominantly IgM and are not expressed on fetal red cells .
+
+76
+00:11:09,730 --> 00:11:15,668
+Another antibody that does not cause fetal hemolysis is Duffy group B—Fyb.
+
+77
+00:11:15,668 --> 00:11:18,030
+Kell Alloimmunization.
+
+78
+00:11:18,030 --> 00:11:26,730
+Approximately 90 percent of non-Hispanic white Americans and up to 98 percent of African Americans are Kell antigen negative.
+
+79
+00:11:26,730 --> 00:11:29,718
+Kell type is not routinely determined.
+
+80
+00:11:29,718 --> 00:11:38,543
+Transfusion history is important, as nearly 90 percent of Kell sensitization cases result from transfusion with Kell-positive blood.
+
+81
+00:11:38,543 --> 00:11:46,555
+Kell sensitization may develop more rapidly and may be more severe than with sensitization to D and other blood group antigens.
+
+82
+00:11:46,555 --> 00:11:56,080
+This is because Kell antibodies attach to erythrocyte precursors in the fetal bone marrow and thereby impair the normal hemopoietic response to anemia.
+
+83
+00:11:56,080 --> 00:12:05,093
+With fewer erythrocytes produced, there is less hemolysis, and thus severe anemia may not be predicted by the maternal Kell antibody titer.
+
+84
+00:12:05,093 --> 00:12:14,655
+Slootweg and colleagues (2018) reviewed 93 pregnancies with Kell alloimmunization in which the fetus was confirmed to be Kell-positive.
+
+85
+00:12:14,655 --> 00:12:28,268
+They found that a titer of 1:4 had 100 percent sensitivity, 27 percent specificity, and 60 percent positive predictive value for transfusion requirement in the fetal or neonatal period.
+
+86
+00:12:28,268 --> 00:12:34,580
+More than 50 percent of Kell antigen–positive fetuses ultimately needed transfusions.
+
+87
+00:12:34,580 --> 00:12:48,043
+Given the potential for severe anemia, the American College of Obstetricians and Gynecologists (2019a) has recommended that antibody titers not be used to monitor Kell-sensitized pregnancies.
+
+88
+00:12:48,043 --> 00:13:00,980
+ABO Blood Group Incompatibility Incompatibility for the major blood group antigens A and B is the most common cause of hemolytic disease in newborns, but it does not cause appreciable hemolysis in the fetus.
+
+89
+00:13:00,980 --> 00:13:08,043
+This is because most anti-A and anti-B antibodies are IgM types and do not cross the placenta.
+
+90
+00:13:08,043 --> 00:13:15,580
+Also, fetal red cells have fewer A and B antigenic sites than adult cells and are thus less immunogenic.
+
+91
+00:13:15,580 --> 00:13:23,880
+Approximately 20 percent of newborns have ABO blood group incompatibility, although only 5 percent are affected clinically.
+
+92
+00:13:23,880 --> 00:13:28,418
+In such cases, the resulting anemia is typically mild.
+
+93
+00:13:28,418 --> 00:13:33,568
+The condition differs from CDE incompatibility in several respects.
+
+94
+00:13:33,568 --> 00:13:41,893
+First, ABO incompatibility is often seen in firstborn neonates, unlike sensitization to other blood group antigens.
+
+95
+00:13:41,893 --> 00:13:52,230
+This is because most group O women have developed anti-A and anti-B isoagglutinins before pregnancy from exposure to bacteria displaying similar antigens.
+
+96
+00:13:52,230 --> 00:13:58,768
+Additionally, ABO alloimmunization rarely becomes more severe in successive pregnancies.
+
+97
+00:13:58,768 --> 00:14:05,693
+Fetal surveillance and early delivery are not indicated in pregnancies with prior ABO incompatibility.
+
+98
+00:14:05,693 --> 00:14:15,043
+Postnatally however, neonates are evaluated for hyperbilirubinemia, which may require treatment with phototherapy or occasionally transfusion .
+
+99
+00:14:15,043 --> 00:14:18,918
+# Management of the Alloimmunized Pregnancy.
+
+100
+00:14:18,918 --> 00:14:31,018
+Of fetuses from D-alloimmunized pregnancies, 25 to 30 percent will have mild to moderate hemolytic anemia, and up to 25 percent have anemia severe enough to cause hydrops .
+
+101
+00:14:31,018 --> 00:14:37,430
+If alloimmunization is detected and the titer is below the critical value, the titer is generally
+
+102
+00:14:37,588 --> 00:14:41,638
+repeated every 4 weeks for the duration of the pregnancy .
+
+103
+00:14:41,588 --> 00:14:49,075
+In any pregnancy in which the antibody titer has reached a critical value, there is no benefit to repeating the titer.
+
+104
+00:14:49,075 --> 00:14:55,038
+The pregnancy is at risk even if the titer drops, and further evaluation is required.
+
+105
+00:14:55,038 --> 00:15:03,313
+Similarly, if a prior pregnancy was complicated by alloimmunization, the pregnancy is considered at risk regardless of titer.
+
+106
+00:15:03,313 --> 00:15:13,050
+Fetal Risk Assessment The presence of anti-D antibodies reflects maternal sensitization but does not indicate whether the fetus is D-positive or D-negative.
+
+107
+00:15:13,050 --> 00:15:18,300
+Up to 40 percent of D-negative pregnant women carry a D-negative fetus.
+
+108
+00:15:18,300 --> 00:15:29,238
+If a woman is sensitized from a prior pregnancy, her antibody titer may rise during the current pregnancy even if the current fetus is D-negative because of an amnestic response.
+
+109
+00:15:29,238 --> 00:15:36,850
+In a non-Hispanic white couple in which the woman is D-negative, there is an 85-percent chance that the man is D-positive.
+
+110
+00:15:36,850 --> 00:15:46,025
+However, there is a 60-percent likelihood that he is heterozygous at the Dlocus, and only half of his children will be at risk for hemolytic disease.
+
+111
+00:15:46,025 --> 00:15:53,088
+Initial evaluation of alloimmunization begins with determining the paternal erythrocyte antigen status.
+
+112
+00:15:53,088 --> 00:16:02,175
+Provided that paternity is certain, if the father is negative for the red cell antigen to which the mother is sensitized, the pregnancy is not at risk.
+
+113
+00:16:02,175 --> 00:16:08,713
+A prior blood transfusion may be the cause of alloimmunization to a red cell antigen other than D.
+
+114
+00:16:08,713 --> 00:16:18,825
+In a D-alloimmunized pregnancy in which the father is D-positive, it is helpful to determine paternal zygosity for the D antigen using DNA-based analysis.
+
+115
+00:16:18,825 --> 00:16:26,375
+If the father is heterozygous—or if paternity is not known—the woman should be offered assessment of fetal genotype.
+
+116
+00:16:26,375 --> 00:16:40,075
+Traditionally, this was done with amniocentesis and PCR testing of uncultured amniocytes, which has a positive predictive value of 100 percent and negative predictive value of approximately 97 percent .
+
+117
+00:16:40,075 --> 00:16:50,288
+Fetal testing for other antigens—such as E/e, C/c, Duffy, Kell, Kidd, and M/N—also is available with this method.
+
+118
+00:16:50,288 --> 00:16:58,850
+Chorionic villus sampling is not recommended because of greater risk for fetomaternal hemorrhage and subsequent worsening of alloimmunization .
+
+119
+00:16:58,850 --> 00:17:07,038
+Noninvasive fetal D genotyping has been performed using cell-free DNA (cfDNA) from maternal plasma .
+
+120
+00:17:07,038 --> 00:17:23,950
+The reported sensitivity exceeds 99 percent, the specificity exceeds 95 percent, and positive or negative predictive values are similarly very high (Johnson, 2017; Moise, 2016; Pazourkova, 2021).
+
+121
+00:17:23,950 --> 00:17:32,763
+Fetal D genotyping with cfDNA is routinely used in parts of Europe but is not yet a widely used clinical tool in the United States .
+
+122
+00:17:32,763 --> 00:17:54,225
+Two potential indications for cfDNA use in D-negative pregnant women are: (1) in the setting of D alloimmunization, testing can identify fetuses who are also D-negative and do not require anemia surveillance, and (2) in women without D alloimmunization, anti-D immune globulin might be withheld if the fetus is D negative.
+
+123
+00:17:54,225 --> 00:18:08,250
+In the case of the latter, the American College of Obstetricians and Gynecologists (2019b) does not recommend routine cfDNA screening in D-negative pregnancies until it has been demonstrated to be cost-effective.
+
+124
+00:18:08,250 --> 00:18:21,613
+Management of the alloimmunized pregnancy typically consists of maternal antibody titer surveillance followed by ultrasound monitoring of the fetal MCA peak systolic velocity if a critical antibody titer is reached.
+
+125
+00:18:21,613 --> 00:18:30,913
+As noted earlier (p. 354), pregnancies with Kell alloimmunization often receive ultrasound surveillance regardless of titer.
+
+126
+00:18:30,913 --> 00:18:42,488
+Fetal blood sampling is generally performed if the MCA peak systolic velocity exceeds the threshold for severe anemia, with plan for concurrent intrauterine transfusion as needed.
+
+127
+00:18:42,488 --> 00:18:51,675
+Spectrophotometric analysis of amnionic fluid bilirubin, also known as the ΔOD450 test, is no longer recommended .
+
+128
+00:18:51,675 --> 00:19:04,400
+Recent efforts have focused on use of maternal intravenous immunoglobulin (IVIG) therapy to postpone the initial intrauterine transfusion to beyond 20 weeks in severely affected pregnancies .
+
+129
+00:19:04,400 --> 00:19:13,725
+Its mechanism of action is unclear, but IVIG therapy has been reported to delay need for transfusion by an average of 3 weeks and to
+
+130
+00:19:13,876 --> 00:19:16,463
+lower the risk for hydrops .
+
+131
+00:19:16,413 --> 00:19:19,888
+Middle Cerebral Artery Doppler Velocimetry.
+
+132
+00:19:19,888 --> 00:19:27,526
+Serial measurement of the peak systolic velocity of the fetal MCA is the recommended test to detect fetal anemia .
+
+133
+00:19:27,526 --> 00:19:33,526
+The anemic fetus shunts blood preferentially to the brain to maintain adequate oxygenation.
+
+134
+00:19:33,526 --> 00:19:39,438
+The velocity rises because of increased cardiac output and decreased blood viscosity.
+
+135
+00:19:39,438 --> 00:19:44,738
+Measurement technique is discussed in Chapter 14 (p. 262).
+
+136
+00:19:44,738 --> 00:19:58,638
+In a landmark study, Mari and coworkers (2000) measured the MCA peak systolic velocity serially in 111 fetuses at risk for anemia and in 265 normal control fetuses.
+
+137
+00:19:58,638 --> 00:20:08,613
+The threshold value of 1.5 multiples of the median (MoM) for gestational age correctly identified all fetuses with moderate or severe anemia.
+
+138
+00:20:08,613 --> 00:20:14,838
+This provided a sensitivity of 100 percent, with a falsepositive rate of 12 percent.
+
+139
+00:20:14,838 --> 00:20:23,463
+MCA peak systolic velocity is followed serially, and values are plotted on a curve like the one shown in Figure 18-1.
+
+140
+00:20:23,463 --> 00:20:36,288
+If the velocity is between 1.0 and 1.5 MoM and the slope is rising—such that the value is approaching 1.5 MoM—MCA Doppler surveillance is generally performed at least weekly.
+
+141
+00:20:36,288 --> 00:20:52,538
+The false-positive rate of MCA peak systolic velocity increases significantly beyond 34 weeks’ gestation and stems from the normal rise in cardiac output that develops at this gestational age (Moise, 2008; Zimmerman, 2002).
+
+142
+00:20:52,538 --> 00:21:03,038
+At Parkland Hospital, MCA peak systolic velocity is not measured beyond 35 weeks, but ultrasound evaluation for hydrops is performed as needed.
+
+143
+00:21:03,038 --> 00:21:05,513
+Figure 18-1.
+
+144
+00:21:05,513 --> 00:21:15,538
+Doppler measurements of the peak systolic velocity in the middle cerebral artery (MCA) in 165 fetuses at risk for severe anemia.
+
+145
+00:21:15,538 --> 00:21:24,626
+The blue line indicates the median peak systolic velocity in normal pregnancies, and the red line shows 1.5 multiples of the median.
+
+146
+00:21:24,626 --> 00:21:42,688
+Reproduced with permission from Oepkes D, Seaward PG, Vandenbussche et al: Doppler ultrasonography versus amniocentesis to predict fetal anemia, N Engl J Med. 2006 Jul 13;355(2):156–164.
+
+147
+00:21:42,688 --> 00:21:56,613
+Fetal Blood Transfusion If the MCA peak systolic velocity exceeds 1.5 MoM or if hydrops develops and anemia is the leading etiology, fetal blood sampling and intrauterine transfusion should be considered.
+
+148
+00:21:56,613 --> 00:22:02,726
+Fetal transfusion is typically performed prior to 34 to 35 weeks’ gestation .
+
+149
+00:22:02,726 --> 00:22:09,426
+Later in gestation, the benefits of transfusion may be outweighed by the risks of delaying delivery.
+
+150
+00:22:09,426 --> 00:22:12,963
+Transfusion is most commonly intravascular.
+
+151
+00:22:12,963 --> 00:22:24,713
+However, the umbilical vein may be too narrow in the early second trimester to readily permit needle entry, and severe hemolysis may necessitate intraperitoneal fetal transfusion.
+
+152
+00:22:24,713 --> 00:22:34,763
+In the setting of hydrops, peritoneal absorption may be impaired, and some prefer to transfuse into both the fetal peritoneal cavity and umbilical vein.
+
+153
+00:22:34,763 --> 00:22:40,851
+Transfusion is generally recommended only if the fetal hematocrit is <30 percent .
+
+154
+00:22:40,851 --> 00:22:46,288
+If hydrops has developed, the hematocrit is usually 15 percent or lower.
+
+155
+00:22:46,288 --> 00:23:01,538
+The red cells transfused are type O, D-negative, cytomegalovirus-negative, packed to a hematocrit of approximately 80 percent to prevent volume overload, irradiated to prevent fetal graft-versus-host reaction, and leukocyte-poor.
+
+156
+00:23:01,538 --> 00:23:07,726
+The fetal–placental volume allows rapid infusion of a relatively large quantity of blood.
+
+157
+00:23:07,726 --> 00:23:14,626
+Before transfusion, a paralytic agent such as vecuronium may be given to the fetus to minimize movement.
+
+158
+00:23:14,626 --> 00:23:19,976
+In a nonhydropic fetus, the target hematocrit is 40 to 50 percent.
+
+159
+00:23:19,976 --> 00:23:30,226
+The volume transfused may be estimated by multiplying the estimated fetal weight in grams by 0.02 for each 10-percent rise in hematocrit needed .
+
+160
+00:23:30,226 --> 00:23:41,913
+In the severely anemic fetus at 18 to 24 weeks’ gestation, a smaller volume is transfused initially, and another transfusion may be planned for approximately 2 days later.
+
+161
+00:23:41,913 --> 00:23:47,888
+Subsequent transfusions take place every 2 to 4 weeks, depending on the hematocrit.
+
+162
+00:23:47,888 --> 00:23:59,163
+The MCA peak systolic velocity threshold for severe anemia is higher following an initial transfusion—1.70 MoM rather than 1.50 MoM .
+
+163
+00:23:59,163 --> 00:24:09,976
+It is hypothesized that the change in threshold compensates for the contribution of donor cells in the initial transfusion, because the donor cells are from adults and have a smaller mean
+
+164
+00:24:10,132 --> 00:24:12,319
+corpuscular volume.
+
+165
+00:24:12,269 --> 00:24:18,544
+Following transfusion, the fetal hematocrit drops by approximately 1 percent per day.
+
+166
+00:24:18,544 --> 00:24:22,919
+The initial decline may be more rapid if hydrops has developed.
+
+167
+00:24:22,919 --> 00:24:24,607
+Outcomes.
+
+168
+00:24:24,607 --> 00:24:32,894
+The overall survival rate approximates 95 percent (Zwiers, 2017; Mizuuchi, 2021).
+
+169
+00:24:32,894 --> 00:24:45,557
+Complications include fetal death in 2 percent, need for emergent cesarean delivery in 1 percent, and infection and preterm rupture of membranes in 0.3 percent each, respectively.
+
+170
+00:24:45,557 --> 00:24:55,694
+The stillbirth rate exceeds 15 percent if transfusion is required before 20 weeks (Lindenberg, 2013; Zwiers, 2017).
+
+171
+00:24:55,694 --> 00:25:04,669
+For hydropic fetuses, the neonatal survival rate is about 80 percent (Emiroglu, 2020; Van Kamp, 2001).
+
+172
+00:25:04,669 --> 00:25:15,432
+In one series, 95 percent of neonates survived if hydrops resolved following intrauterine transfusion compared with fewer than 40 percent if hydrops persisted .
+
+173
+00:25:15,432 --> 00:25:25,832
+Lindenberg (2012) reviewed long-term outcomes following intrauterine transfusion in a cohort of more than 450 alloimmunized pregnancies.
+
+174
+00:25:25,832 --> 00:25:33,944
+Alloimmunization was secondary to anti-D in 80 percent, anti-Kell in 12 percent, and anti-c in 5 percent.
+
+175
+00:25:33,944 --> 00:25:42,857
+Approximately a fourth of affected fetuses had hydrops, and more than half also required exchange transfusion in the neonatal period.
+
+176
+00:25:42,857 --> 00:25:52,607
+Among nearly 300 children aged 2 to 17 years who participated in neurodevelopmental testing, fewer than 5 percent had severe impairments.
+
+177
+00:25:52,607 --> 00:25:56,419
+# Prevention of Anti-D Alloimmunization.
+
+178
+00:25:56,419 --> 00:26:03,032
+Anti-D immune globulin has been used for more than five decades to prevent D alloimmunization.
+
+179
+00:26:03,032 --> 00:26:10,607
+Unfortunately, 50 percent of women around the world who would benefit from anti-D immune globulin do not receive it .
+
+180
+00:26:10,607 --> 00:26:19,119
+In countries without access, up to 10 percent of D-negative pregnancies are complicated by hemolytic disease of the fetus and newborn .
+
+181
+00:26:19,119 --> 00:26:26,694
+With immunoprophylaxis, however, the alloimmunization risk may be reduced to <0.2 percent.
+
+182
+00:26:26,694 --> 00:26:33,082
+Despite long-standing and widespread use, its mechanism of action is not completely understood.
+
+183
+00:26:33,082 --> 00:26:39,732
+Fetomaternal hemorrhage at delivery accounts for as many as 90 percent of alloimmunization cases.
+
+184
+00:26:39,732 --> 00:26:50,557
+Routine postpartum administration of anti-D immune globulin to at-risk pregnancies within 72 hours of delivery lowers the alloimmunization rate by 90 percent .
+
+185
+00:26:50,557 --> 00:27:02,244
+Additionally, provision of anti-D immune globulin at 28 weeks’ gestation reduces the third-trimester alloimmunization rate from approximately 2 percent to 0.1 percent .
+
+186
+00:27:02,244 --> 00:27:07,432
+Whenever there is doubt whether to give anti-D immune globulin, it should be given.
+
+187
+00:27:07,432 --> 00:27:14,294
+If not needed, it will not cause harm, but failure to provide it when needed may have severe consequences.
+
+188
+00:27:14,294 --> 00:27:23,319
+Anti-D immune globulin is derived from human plasma donated by individuals with high-titer anti-D immunoglobulin D antibodies.
+
+189
+00:27:23,319 --> 00:27:35,794
+Formulations prepared by cold ethanol fractionation and ultrafiltration must be administered intramuscularly because they contain plasma proteins that could result in anaphylaxis if given intravenously.
+
+190
+00:27:35,794 --> 00:27:47,282
+Formulations prepared using ion exchange chromatography may be administered either intramuscularly or intravenously, which is relevant when treating significant fetomaternal hemorrhage.
+
+191
+00:27:47,282 --> 00:27:55,557
+Both preparation methods effectively remove viral particles, including hepatitis and human immunodeficiency viruses.
+
+192
+00:27:55,557 --> 00:28:06,982
+Depending on the preparation, the half-life of anti-D immune globulin ranges from 16 to 24 days, which is why it is given both in the third trimester and following delivery.
+
+193
+00:28:06,982 --> 00:28:22,782
+The standard intramuscular dose of anti-D immune globulin—300 μg or 1500 IU—will protect the average-sized mother from a fetal hemorrhage of up to 30 mL of fetal whole blood or 15 mL of fetal red cells.
+
+194
+00:28:22,782 --> 00:28:37,194
+In the United States, anti-D immune globulin is given prophylactically to all D-negative, unsensitized women at approximately 28 weeks’ gestation, and a second dose is given after delivery if the newborn is D-positive .
+
+195
+00:28:37,194 --> 00:28:47,057
+Before the 28-week dose of anti-D immune globulin, repeat antibody screening is recommended to identify individuals who have become alloimmunized .
+
+196
+00:28:47,057 --> 00:28:52,969
+Following delivery, anti-D immune globulin should be given within 72 hours.
+
+197
+00:28:52,969 --> 00:28:58,982
+Recognizing that 40 percent of neonates born to D-negative women are also D negative,
+
+198
+00:28:59,140 --> 00:29:05,840
+administration of immune globulin is recommended only after the newborn is confirmed to be D positive .
+
+199
+00:29:05,790 --> 00:29:17,452
+If immune globulin is inadvertently not administered following delivery, it should be given as soon as the omission is recognized, because there may be some protection up to 28 days postpartum .
+
+200
+00:29:17,452 --> 00:29:24,765
+Anti-D immune globulin is also administered after pregnancy-related events that could result in sensitization .
+
+201
+00:29:24,765 --> 00:29:36,015
+In the first trimester, smaller doses of 50 or 120 µg may be suitable, as discussed in Chapters 11 and 12 (p. 203 and 221).
+
+202
+00:29:36,015 --> 00:29:44,527
+Anti-D immune globulin may produce a weakly positive—1:1 to 1:4— indirect Coombs titer in the mother.
+
+203
+00:29:44,527 --> 00:29:49,652
+This is harmless and should not be confused with development of alloimmunization.
+
+204
+00:29:49,652 --> 00:30:05,640
+Additionally, as the body mass index increases above 27 to 40 kg/m2, serum antibody levels decrease by 30 to 60 percent and may be less protective (MacKenzie, 2006; Woelfer, 2004).
+
+205
+00:30:05,640 --> 00:30:18,815
+D-negative women who receive other types of blood products— including platelet transfusions and plasmapheresis—also are at risk of becoming sensitized, and this can be prevented with anti-D immune globulin.
+
+206
+00:30:18,815 --> 00:30:27,565
+Rarely, a small amount of antibody crosses the placenta and results in a weakly positive direct Coombs test in cord and infant blood.
+
+207
+00:30:27,565 --> 00:30:34,165
+Despite this, passive immunization does not cause significant fetal or neonatal hemolysis.
+
+208
+00:30:34,165 --> 00:30:42,102
+In 2 to 3 per 1000 pregnancies, the volume of fetomaternal hemorrhage may exceed 30 mL of whole blood .
+
+209
+00:30:42,102 --> 00:30:47,840
+A single dose of anti-D immune globulin would be insufficient in such situations.
+
+210
+00:30:47,840 --> 00:30:59,640
+If additional anti-D immune globulin is considered only for women with risk factors such as those shown in Table 18-2, half of those who require additional immune globulin may be missed.
+
+211
+00:30:59,640 --> 00:31:08,740
+For this reason, all D-negative women should be screened at delivery, typically with a rosette test, followed by quantitative testing if indicated .
+
+212
+00:31:08,740 --> 00:31:17,077
+The rosette test is a qualitative test that identifies whether fetal Dpositive cells are present in the circulation of a D-negative woman.
+
+213
+00:31:17,077 --> 00:31:24,402
+A sample of maternal blood is mixed with anti-D antibodies that coat any Dpositive fetal cells present in the sample.
+
+214
+00:31:24,402 --> 00:31:33,727
+Indicator red cells bearing the Dantigen are then added, and rosettes form around the fetal cells as the indicator cells attach to them by the antibodies.
+
+215
+00:31:33,727 --> 00:31:39,315
+Thus, if rosettes are visualized, there are fetal D-positive cells in that sample.
+
+216
+00:31:39,315 --> 00:31:51,552
+In the setting of D incompatibility, or any time a large fetomaternal hemorrhage is suspected— regardless of antigen status, a Kleihauer-Betke test or flow cytometry test are used.
+
+217
+00:31:51,552 --> 00:31:55,152
+These are discussed on page 358.
+
+218
+00:31:55,152 --> 00:32:05,077
+The dosage of anti-D immune globulin is calculated from the estimated volume of the fetal-to-maternal hemorrhage, as described on page 358.
+
+219
+00:32:05,077 --> 00:32:14,165
+One 300-μg dose is given for each 15 mL of fetal red cells or 30 mL of fetal whole blood to be neutralized.
+
+220
+00:32:14,165 --> 00:32:22,915
+If using an intramuscular preparation of antiD immune globulin, no more than five doses may be given in a 24-hour period.
+
+221
+00:32:22,915 --> 00:32:31,102
+If using an intravenous preparation, two ampules—totaling 600 μg— may be given every 8 hours.
+
+222
+00:32:31,102 --> 00:32:39,165
+A positive indirect Coombs test or the presence of circulating fetal cells on a rosette test demonstrate that the dose was sufficient.
+
+223
+00:32:39,165 --> 00:32:47,727
+Serological Weak D Phenotypes Formerly called Du, these are the most common antigenic D variants in the United States and Europe .
+
+224
+00:32:47,727 --> 00:32:57,002
+Serological weak D phenotypes have been further refined into two general categories using molecular analysis to complete RHD genotyping.
+
+225
+00:32:57,002 --> 00:33:03,677
+Molecular weak D phenotypes carry reduced numbers of intact D antigens on the red cell surface.
+
+226
+00:33:03,677 --> 00:33:10,027
+Partial D types have protein deletions associated with abnormal D antigens that lack epitopes .
+
+227
+00:33:10,027 --> 00:33:16,577
+Many individuals who test positive for weak D have weak D phenotypes 1, 2, or 3.
+
+228
+00:33:16,577 --> 00:33:20,377
+These phenotypes may be managed as if D-positive.
+
+229
+00:33:20,377 --> 00:33:31,052
+The pregnancy is not considered at risk for alloimmunization, and thus anti-D immune globulin is not needed (Sandler 2015, 2017).
+
+230
+00:33:31,052 --> 00:33:39,115
+In contrast, individuals with partial D antigens may be at risk for D-sensitization and do require immune globulin.
+
+231
+00:33:39,115 --> 00:33:44,890
+Molecular RHD genotyping has been suggested for pregnant women with weak D
+
+232
+00:33:45,052 --> 00:33:50,452
+phenotype, but cost-benefit analysis of this strategy is presently lacking .
+
+233
+00:33:50,402 --> 00:33:59,314
+If molecular genetic testing has not been performed in those with serologic weak D phenotype, D immunoprophylaxis should be administered.
+
+234
+00:33:59,314 --> 00:34:01,677
+Fetomaternal Hemorrhage.
+
+235
+00:34:01,677 --> 00:34:10,864
+A small amount of fetomaternal bleeding likely occurs in all pregnancies and may be sufficient to provoke an antigen-antibody reaction in two thirds.
+
+236
+00:34:10,864 --> 00:34:20,064
+As shown in Figure 18-2, the incidence increases with advancing gestation and with the volume of fetal blood in the maternal circulation .
+
+237
+00:34:20,064 --> 00:34:27,914
+The prevalence of fetomaternal bleeding of at least 30 mL is estimated to be 3 events per 1000 pregnancies .
+
+238
+00:34:27,914 --> 00:34:31,102
+Fortunately, frank hemorrhage is rare.
+
+239
+00:34:31,102 --> 00:34:44,252
+In one series of more than 30,000 pregnancies, fetomaternal hemorrhage ≥150 mL complicated 1 in 2800 births (de Almeida, 1994).
+
+240
+00:34:44,252 --> 00:34:46,664
+Figure 18-2.
+
+241
+00:34:46,664 --> 00:34:50,527
+Incidence of fetomaternal hemorrhage during pregnancy.
+
+242
+00:34:50,527 --> 00:34:58,339
+The numbers at each data point represent total volume of fetal blood estimated to have been transferred into the maternal circulation.
+
+243
+00:34:58,339 --> 00:35:03,702
+Selected causes of fetomaternal hemorrhage are shown in Table 18-2.
+
+244
+00:35:03,702 --> 00:35:13,152
+With significant hemorrhage, the most common presenting complaint is decreased fetal movement (Bellussi, 2017; Wylie, 2010).
+
+245
+00:35:13,152 --> 00:35:19,327
+A sinusoidal fetal heart rate pattern is infrequently seen but warrants immediate evaluation .
+
+246
+00:35:19,327 --> 00:35:31,877
+Sonography may demonstrate elevated MCA peak systolic velocity, and indeed this is reported to be the most accurate predictor (Bellusi, 2017; Wylie, 2010).
+
+247
+00:35:31,877 --> 00:35:34,602
+Hydrops is an ominous finding.
+
+248
+00:35:34,602 --> 00:35:43,764
+If the MCA peak systolic velocity is elevated or hydrops is identified, urgent fetal transfusion or delivery should be considered.
+
+249
+00:35:43,764 --> 00:35:50,239
+In more than 80 percent of cases, no etiology of the fetomaternal hemorrhage is identified.
+
+250
+00:35:50,239 --> 00:36:00,302
+One limitation of quantitative tests for fetal cells in the maternal circulation is that they do not provide information regarding the timing or chronicity of hemorrhage .
+
+251
+00:36:00,302 --> 00:36:08,289
+Anemia that develops gradually, as with alloimmunization, is generally better tolerated by the fetus than acute anemia.
+
+252
+00:36:08,289 --> 00:36:14,252
+Chronic anemia may not produce fetal heart rate abnormalities until the fetus is moribund.
+
+253
+00:36:14,252 --> 00:36:24,339
+In contrast, significant acute hemorrhage may result in profound fetal neurological impairment from cerebral hypoperfusion, ischemia, and infarction.
+
+254
+00:36:24,339 --> 00:36:30,252
+In some cases, fetomaternal hemorrhage is identified during stillbirth evaluation .
+
+255
+00:36:30,252 --> 00:36:33,114
+# Hemorrhage Quantification.
+
+256
+00:36:33,114 --> 00:36:44,964
+Estimating the volume of fetomaternal hemorrhage is needed to calculate the appropriate dose of anti-D immune globulin if the woman is D-negative, and it may also influence obstetrical management.
+
+257
+00:36:44,964 --> 00:36:54,602
+The most commonly used quantitative test for fetal red cells in the maternal circulation is the acid elution or Kleihauer-Betke (KB) test .
+
+258
+00:36:54,602 --> 00:37:01,664
+Fetal erythrocytes contain hemoglobin F, which is more resistant to acid elution than hemoglobin A.
+
+259
+00:37:01,664 --> 00:37:06,339
+Following exposure to acid, only fetal hemoglobin remains.
+
+260
+00:37:06,339 --> 00:37:13,327
+Therefore, after staining, the fetal erythrocytes appear red and adult erythrocytes appear as “ghosts” .
+
+261
+00:37:13,327 --> 00:37:18,377
+The fetal cells are then counted and expressed as a percentage of adult cells.
+
+262
+00:37:18,377 --> 00:37:26,739
+The fetal blood volume involved in the fetomaternal hemorrhage may be calculated using the following formula: Figure 18-3.
+
+263
+00:37:26,739 --> 00:37:31,389
+Kleihauer-Betke test demonstrating massive fetomaternal hemorrhage.
+
+264
+00:37:31,389 --> 00:37:42,464
+After acidelution treatment, fetal red cells rich in hemoglobin F stain darkly, whereas maternal red cells with only very small amounts of hemoglobin F stain lightly.
+
+265
+00:37:42,464 --> 00:37:52,927
+For a pregnant woman of normal size who is normotensive and has reached full-term, the maternal blood volume (MBV) may be estimated as 5000 mL.
+
+266
+00:37:52,927 --> 00:38:11,552
+Thus, in a woman with a hematocrit of 35 percent and whose fetus has a hematocrit of 50 percent, the calculation for a KB test demonstrating staining of 1.7 percent of sample cells is: The fetal-placental blood volume at term approximates 125 mL/kg.
+
+267
+00:38:11,552 --> 00:38:17,352
+For a 3000-g fetus, that would equate to 375 mL.
+
+268
+00:38:17,352 --> 00:38:26,902
+Thus, this fetus lost approximately 15 percent (60 ÷ 375 mL) of the fetal-placental volume.
+
+269
+00:38:26,902 --> 00:38:37,664
+Assuming the hematocrit is 50 percent in a term fetus, this 60 mL of whole blood represents 30 mL of red cells lost into the maternal circulation.
+
+270
+00:38:37,664 --> 00:38:39,502
+A loss of this
+
+271
+00:38:39,652 --> 00:38:49,552
+magnitude should be well tolerated hemodynamically but would require two 300-μg doses of anti-D immune globulin to prevent alloimmunization.
+
+272
+00:38:49,502 --> 00:39:03,752
+A more precise method to estimate the maternal blood volume includes a calculation based on the maternal height, weight, and anticipated physiological maternal blood volume accrual (Table 42-1, p. 732).
+
+273
+00:39:03,752 --> 00:39:06,777
+The KB test is labor intensive.
+
+274
+00:39:06,777 --> 00:39:23,889
+There are also two scenarios in which the KB may be inaccurate: (1) maternal hemoglobinopathies in which the fetal hemoglobin level is elevated, such as β-thalassemia, and (2) at or near term, because the fetus may already be producing hemoglobin A.
+
+275
+00:39:23,889 --> 00:39:39,714
+Another method of quantifying fetomaternal hemorrhage is with flow cytometry, which uses monoclonal antibodies to hemoglobin F or to the D antigen and then measures the degree of fluorescence (Chambers, 2012; Welsh, 2016).
+
+276
+00:39:39,714 --> 00:39:46,264
+Flow cytometry is an automated test that can analyze a greater number of cells than the KB test.
+
+277
+00:39:46,264 --> 00:40:09,077
+It is also unaffected by maternal levels of fetal hemoglobin and by fetal levels of hemoglobin A. Flow cytometry has been reported to be more sensitive and accurate than the KB test, however, it uses specialized technology not routinely available in many hospitals (Chambers, 2012; Corcoran, 2014; Fernandes, 2007).
+
+278
+00:40:09,077 --> 00:40:11,552
+Fetal Thrombocytopenia.
+
+279
+00:40:11,552 --> 00:40:14,839
+# Alloimmune Thrombocytopenia.
+
+280
+00:40:14,839 --> 00:40:21,414
+This is also referred to as fetal and neonatal alloimmune thrombocytopenia (FNAIT).
+
+281
+00:40:21,414 --> 00:40:39,127
+Alloimmune thrombocytopenia (AIT) is the most common cause of severe thrombocytopenia among term newborns, with a frequency of 1 to 2 cases per 1000 births (Kamphuis, 2010; Pacheco, 2013; Risson, 2012).
+
+282
+00:40:39,127 --> 00:40:45,989
+FNAIT is caused by maternal alloimmunization to paternally inherited fetal platelet antigens.
+
+283
+00:40:45,989 --> 00:40:54,577
+Maternal antiplatelet antibodies cross the placenta in a manner similar to red cell alloimmunization (p. 352).
+
+284
+00:40:54,577 --> 00:41:00,877
+Unlike immune thrombocytopenia, the maternal platelet count is normal with FNAIT.
+
+285
+00:41:00,877 --> 00:41:08,002
+And, unlike anti-D alloimmunization, severe sequelae may affect the initial at-risk pregnancy.
+
+286
+00:41:08,002 --> 00:41:25,414
+Maternal platelet alloimmunization against human platelet antigen-1a (HPA-1a) accounts for 80 to 90 percent of cases and is associated with the greatest severity (Bussel, 1997; Knight, 2011; Tiller, 2013).
+
+287
+00:41:25,414 --> 00:41:34,264
+This is followed in order of frequency by alloimmunization against HPA-5b, HPA-1b, and HPA-3a.
+
+288
+00:41:34,264 --> 00:41:40,189
+Alloimmunization to other antigens accounts for only 1 percent of reported cases.
+
+289
+00:41:40,189 --> 00:41:46,764
+Approximately 85 percent of non-Hispanic white individuals are HPA-1a positive.
+
+290
+00:41:46,764 --> 00:41:52,539
+Two percent are homozygous for HPA-1b and at risk for alloimmunization.
+
+291
+00:41:52,539 --> 00:42:00,139
+However, only 10 percent of these women produce antiplatelet antibodies when carrying an HPA-1a fetus.
+
+292
+00:42:00,139 --> 00:42:12,202
+Approximately a third of affected fetuses or neonates will develop severe thrombocytopenia, and 10 to 20 percent with severe thrombocytopenia sustain an intracranial hemorrhage (ICH) .
+
+293
+00:42:12,202 --> 00:42:25,564
+As a result, population-based screening studies have identified one case of FNAIT-associated ICH per 25,000 to 60,000 pregnancies (Kamphuis, 2010; Knight, 2011).
+
+294
+00:42:25,564 --> 00:42:29,227
+FNAIT has a spectrum of presentation.
+
+295
+00:42:29,227 --> 00:42:39,552
+Neonatal thrombocytopenia may be an incidental finding, the newborn may manifest petechiae, or the fetus or neonate may develop devastating ICH.
+
+296
+00:42:39,552 --> 00:42:50,364
+Of 600 pregnancies with FNAIT identified through a large international registry, fetal or neonatal ICH complicated just 7 percent of cases .
+
+297
+00:42:50,364 --> 00:42:57,077
+Hemorrhage affected the first-born child in 60 percent and occurred before 28 weeks’ gestation in half.
+
+298
+00:42:57,077 --> 00:43:04,927
+A third of affected children died soon after birth, and 50 percent of survivors had severe neurological disabilities.
+
+299
+00:43:04,927 --> 00:43:14,514
+Bussel and coworkers (1997) evaluated fetal platelet counts before therapy in 107 fetuses with FNAIT.
+
+300
+00:43:14,514 --> 00:43:20,377
+Thrombocytopenia severity was predicted by a prior sibling with perinatal ICH.
+
+301
+00:43:20,377 --> 00:43:26,027
+Fifty percent had an initial platelet count <20,000/μL.
+
+302
+00:43:26,027 --> 00:43:37,489
+And, among those in whom the initial platelet count was >80,000/μL, it dropped by at least 10,000/μL per week in the absence of therapy.
+
+303
+00:43:37,489 --> 00:43:48,014
+Diagnosis and Management AIT is typically diagnosed following delivery of a neonate with severe and unexplained thrombocytopenia to a woman whose platelet count is normal.
+
+304
+00:43:48,014 --> 00:43:49,889
+Rarely, the
+
+305
+00:43:50,044 --> 00:43:54,656
+diagnosis is ascertained after identifying fetal ICH.
+
+306
+00:43:54,606 --> 00:44:04,494
+The condition recurs in 70 to 90 percent of subsequent pregnancies, is often severe, and usually develops earlier with each successive pregnancy.
+
+307
+00:44:04,494 --> 00:44:11,494
+Traditionally, fetal blood sampling was performed to detect fetal thrombocytopenia and to tailor therapy.
+
+308
+00:44:11,494 --> 00:44:17,669
+Platelets were transfused if the fetal platelet count was <50,000/μL.
+
+309
+00:44:17,669 --> 00:44:22,694
+The reported rate of procedure-related complications exceeds 10 percent .
+
+310
+00:44:22,694 --> 00:44:31,731
+For this reason, most favor empirical treatment with IVIG instead (Berkowitz, 2006; Pacheco, 2011).
+
+311
+00:44:31,731 --> 00:44:41,494
+Therapy may be stratified according to whether a prior affected pregnancy was complicated by perinatal ICH, and if so, at what gestational age .
+
+312
+00:44:41,494 --> 00:44:50,781
+Pioneering work by Bussel (1996) and Berkowitz (2006) and their colleagues demonstrated the efficacy of such treatment.
+
+313
+00:44:50,781 --> 00:45:04,569
+In one series of 50 pregnancies with fetal thrombocytopenia secondary to FNAIT, IVIG raised the platelet count by approximately 50,000/μL, and no fetus developed ICH .
+
+314
+00:45:04,569 --> 00:45:22,319
+Among pregnancies at particularly high risk, which was based on a platelet count <20,000/μL or a sibling with FNAIT-associated ICH, the addition of corticosteroids to IVIG therapy was associated with a rise in platelet count in 80 percent of cases .
+
+315
+00:45:22,319 --> 00:45:30,944
+However, a systematic review identified no consistent benefit of corticosteroid treatment compared with IVIG therapy alone .
+
+316
+00:45:30,944 --> 00:45:35,206
+Thus, corticosteroid therapy is somewhat controversial.
+
+317
+00:45:35,206 --> 00:45:39,794
+Cesarean delivery is generally recommended at or near term.
+
+318
+00:45:39,794 --> 00:45:42,281
+Table 18-3.
+
+319
+00:45:42,281 --> 00:45:50,731
+Fetal-Neonatal Alloimmune Thrombocytopenia (FNAIT) Treatment Recommendations # Immune Thrombocytopenia.
+
+320
+00:45:50,731 --> 00:46:03,319
+Also known as immune or idiopathic thrombocytopenic purpura (ITP), this autoimmune disorder is characterized by antiplatelet IgG antibodies that attack platelet glycoproteins.
+
+321
+00:46:03,319 --> 00:46:08,281
+The antibodies may cross the placenta and cause fetal thrombocytopenia.
+
+322
+00:46:08,281 --> 00:46:13,856
+Maternal ITP is discussed in Chapter 59 (p. 1059).
+
+323
+00:46:13,856 --> 00:46:18,631
+Fetal thrombocytopenia from maternal ITP is usually mild.
+
+324
+00:46:18,631 --> 00:46:26,444
+However, neonatal platelet levels may fall rapidly after birth and nadir at 48 to 72 hours of life.
+
+325
+00:46:26,444 --> 00:46:37,144
+Neither the maternal platelet count, identification of antiplatelet antibodies, nor treatment with corticosteroids effectively predicts fetal or neonatal platelet counts .
+
+326
+00:46:37,144 --> 00:46:44,981
+Importantly, fetal platelet counts are usually adequate to allow vaginal delivery without an increased risk of ICH.
+
+327
+00:46:44,981 --> 00:46:55,469
+In a review of more than 400 pregnancies with ITP, there was no case of fetal or neonatal ICH and no infant with any central nervous system abnormality .
+
+328
+00:46:55,469 --> 00:46:58,706
+Fetal blood sampling is not recommended .
+
+329
+00:46:58,706 --> 00:47:03,244
+Mode of delivery is based on standard obstetrical indications.
+
+330
+00:47:03,244 --> 00:47:05,431
+Hydrops Fetalis.
+
+331
+00:47:05,431 --> 00:47:10,144
+This phrase has its origins in Middle English, Latin, and Greek.
+
+332
+00:47:10,144 --> 00:47:17,744
+The condition was described by Ballantyne in 1892 as general dropsy, that is, edema, of the fetus .
+
+333
+00:47:17,744 --> 00:47:23,656
+Hydrops can be a manifestation of severe illness from a wide variety of etiologies .
+
+334
+00:47:23,656 --> 00:47:26,206
+Table 18-4.
+
+335
+00:47:26,206 --> 00:47:39,594
+Categories and Etiologies of Nonimmune Hydrops Fetalis Hydrops is diagnosed by identifying two or more fetal effusions— pleural, pericardial, or ascites—or one effusion plus anasarca .
+
+336
+00:47:39,594 --> 00:47:46,494
+Sonographically measured skin thickness of >5 mm constitutes edema or anasarca.
+
+337
+00:47:46,494 --> 00:48:03,219
+Placentomegaly is defined as placental thickness ≥4 cm in the second trimester or ≥6 cm in the third trimester (Bellini, 2009; Society for Maternal–Fetal Medicine, 2015b).
+
+338
+00:48:03,219 --> 00:48:12,269
+As hydrops progresses in severity, anasarca is an invariable feature and is usually accompanied by placentomegaly and hydramnios.
+
+339
+00:48:12,269 --> 00:48:14,844
+Figure 18-4.
+
+340
+00:48:14,844 --> 00:48:18,331
+Sonographic findings that define hydrops.
+
+341
+00:48:18,331 --> 00:48:29,169
+A. This profile of a 23-week fetus with nonimmune hydrops secondary to B19 parvovirus infection depicts scalp edema (arrowheads) and ascites ().
+
+342
+00:48:29,169 --> 00:48:38,244
+B. This 34-week fetus had hydrops secondary to an arteriovenous malformation in the brain, known as a vein of Galen aneurysm.
+
+343
+00:48:38,244 --> 00:48:43,869
+In this coronal image, prominent pleural effusions () outline the lungs (L).
+
+344
+00:48:43,869 --> 00:48:48,681
+Fetal ascites is also present (arrows), as is anasarca.
+
+345
+00:48:48,681 --> 00:48:59,594
+C. This axial (transverse) image depicts a pericardial effusion (arrows) in a 23-week fetus with hydrops from B19 parvovirus infection.
+
+346
+00:48:59,594 --> 00:49:02,394
+The degree of cardiomegaly is
+
+347
+00:49:02,548 --> 00:49:10,610
+impressive, and the ventricular hypertrophy raises concern for myocarditis, which can accompany parvovirus infection.
+
+348
+00:49:10,560 --> 00:49:20,223
+D. This axial (transverse) image depicts fetal ascites () in a 15-week fetus with hydrops secondary to large cystic hygromas.
+
+349
+00:49:20,223 --> 00:49:23,448
+Anasarca is also seen (bracket).
+
+350
+00:49:23,448 --> 00:49:31,098
+If found in association with red cell alloimmunization, hydrops is termed immune, otherwise, it is nonimmune.
+
+351
+00:49:31,098 --> 00:49:37,235
+Immune and nonimmune hydrops are postulated to share several physiological abnormalities.
+
+352
+00:49:37,235 --> 00:49:42,348
+The precise pathogenesis remains unknown but is likely multifactorial.
+
+353
+00:49:42,348 --> 00:49:45,548
+As shown in Figure 18-5.
+
+354
+00:49:45,548 --> 00:49:54,548
+these include decreased colloid oncotic pressure, increased hydrostatic or central venous pressure, and enhanced vascular permeability.
+
+355
+00:49:54,548 --> 00:49:57,185
+Figure 18-5.
+
+356
+00:49:57,185 --> 00:50:01,835
+Proposed pathogenesis of immune and nonimmune hydrops fetalis.
+
+357
+00:50:01,835 --> 00:50:06,798
+Data from Bellini, 2009; Lockwood, 2009.
+
+358
+00:50:06,798 --> 00:50:09,360
+# Immune Hydrops.
+
+359
+00:50:09,360 --> 00:50:16,048
+This condition results from transplacental passage of maternal antibodies that destroy fetal red cells.
+
+360
+00:50:16,048 --> 00:50:25,948
+The resultant anemia stimulates marrow erythroid hyperplasia and extramedullary hematopoiesis in the spleen and liver (see Fig. 18-5).
+
+361
+00:50:25,948 --> 00:50:33,985
+The latter likely causes portal hypertension and impaired hepatic protein synthesis, which lowers plasma oncotic pressure .
+
+362
+00:50:33,985 --> 00:50:37,848
+Fetal anemia may also raise central venous pressure .
+
+363
+00:50:37,848 --> 00:50:48,510
+Tissue hypoxia from anemia may increase capillary permeability, such that fluid collects in the fetal thorax, abdominal cavity, and/or subcutaneous tissue.
+
+364
+00:50:48,510 --> 00:50:58,098
+The incidence of immune hydrops has decreased dramatically with the advent of anti-D immune globulin and with use of MCA Doppler to aid anemia detection.
+
+365
+00:50:58,098 --> 00:51:01,873
+Only severe anemia results in immune hydrops.
+
+366
+00:51:01,873 --> 00:51:14,123
+Mari and colleagues (2000) reviewed 70 pregnancies with fetal anemia from red cell alloimmunization and found that all with immune hydrops had hemoglobin values <5 g/dL.
+
+367
+00:51:14,123 --> 00:51:20,823
+As discussed on page 356, immediate fetal blood transfusion may be lifesaving.
+
+368
+00:51:20,823 --> 00:51:23,548
+# Nonimmune Hydrops.
+
+369
+00:51:23,548 --> 00:51:27,723
+At least 90 percent of cases of hydrops are nonimmune .
+
+370
+00:51:27,723 --> 00:51:33,935
+The prevalence approximates 1 case per 1500 second-trimester pregnancies .
+
+371
+00:51:33,935 --> 00:51:39,260
+The number of specific disorders that can lead to nonimmune hydrops is extensive.
+
+372
+00:51:39,260 --> 00:51:50,560
+Etiologies and the proportion of births within each hydrops category from a review of more than 6700 affected pregnancies are summarized in Table 18-4 .
+
+373
+00:51:50,560 --> 00:52:02,673
+A cause is identified in approximately 60 percent prenatally and in up to 80 percent postnatally (Bellini, 2009, 2015; Santo, 2011).
+
+374
+00:52:02,673 --> 00:52:23,110
+Of prenatally diagnosed cases, aneuploidy accounts for approximately 20 percent, cardiovascular abnormalities for 15 percent, and infections for 14 percent— the most common of which is parvovirus B19 (Santo, 2011; Sileo, 2020; Sparks, 2019).
+
+375
+00:52:23,110 --> 00:52:29,098
+In multifetal gestations, twin-twin transfusion syndrome is the most frequent cause .
+
+376
+00:52:29,098 --> 00:52:33,473
+Fetal deaths and stillbirths are common with nonimmune hydrops.
+
+377
+00:52:33,473 --> 00:52:46,723
+Overall, only 40 percent of affected pregnancies result in a liveborn neonate, and of these, the neonatal survival rate is just 50 percent (Nassr, 2018; Yeom, 2015).
+
+378
+00:52:46,723 --> 00:52:53,810
+Importantly, the etiology of nonimmune hydrops varies according to the gestational age at diagnosis.
+
+379
+00:52:53,810 --> 00:53:02,973
+In a review of 63 pregnancies undergoing genetic testing for hydrops in the first trimester, aneuploidy was the cause in 70 percent .
+
+380
+00:53:02,973 --> 00:53:11,348
+Of cases diagnosed from 14 through 24 weeks, aneuploidy and congenital infection each accounted for 20 percent.
+
+381
+00:53:11,348 --> 00:53:23,760
+When nonimmune hydrops presents before 24 weeks’ gestation, the most frequent aneuploidy is 45,X—Turner syndrome, and in such cases, the survival rate is <5 percent .
+
+382
+00:53:23,760 --> 00:53:31,860
+Recent advances in genetic testing have improved the understanding of hydrops cases that were previously considered idiopathic.
+
+383
+00:53:31,860 --> 00:53:45,548
+In a review from the University of California Fetal-Maternal Consortium, whole exome sequencing was studied in 127 cases of unexplained nonimmune hydrops in which traditional genetic testing was uninformative .
+
+384
+00:53:45,548 --> 00:53:49,648
+Nearly 30 percent had a pathogenic genetic variant.
+
+385
+00:53:49,648 --> 00:53:56,160
+The most common etiology was RASopathies, and many such cases resulted in Noonan syndrome.
+
+386
+00:53:56,160 --> 00:54:03,810
+It is anticipated that as experience with whole exome sequencing accrues, the diagnostic yield will continue to increase.
+
+387
+00:54:03,810 --> 00:54:05,410
+Although the
+
+388
+00:54:05,572 --> 00:54:11,197
+prognosis of nonimmune hydrops is guarded, it depends heavily on etiology.
+
+389
+00:54:11,147 --> 00:54:18,709
+In a large series from Thailand and Southern China, α0thalassemia is the main cause of nonimmune hydrops.
+
+390
+00:54:18,709 --> 00:54:31,422
+It accounts for 30 to 50 percent of cases and confers an extremely poor prognosis (Liao, 2007; Ratanasiri, 2009; Suwanrath-Kengpol, 2005).
+
+391
+00:54:31,422 --> 00:54:46,184
+In contrast, treatable etiologies such as parvovirus infection, chylothorax, and tachyarrhythmias, which each constituting approximately 10 percent of cases, can result in survival in two thirds of cases with fetal therapy .
+
+392
+00:54:46,184 --> 00:54:53,734
+Diagnostic Evaluation Hydrops is readily detected with prenatal sonography (see Fig. 18-5).
+
+393
+00:54:53,734 --> 00:55:06,697
+Imaging and laboratory evaluation may identify fetal structural abnormalities, arrhythmias, anemia, aneuploidy, placental abnormalities, and complications of monochorionic twinning.
+
+394
+00:55:06,697 --> 00:55:16,197
+Depending on the circumstances, initial evaluation includes the following: 1. Indirect Coombs test to identify alloimmunization 2.
+
+395
+00:55:16,197 --> 00:55:36,459
+Detailed ultrasound examination of the fetus and placenta that includes: • A detailed anatomical survey to assess for the structural abnormalities listed in Table 18-4 • Fetal echocardiography to further evaluate cardiac structure and function • MCA Doppler peak systolic velocity to assess for fetal anemia 3.
+
+396
+00:55:36,459 --> 00:55:50,797
+Amniocentesis to obtain samples for chromosomal microarray analysis or karyotyping and for parvovirus B19, cytomegalovirus, and toxoplasmosis testing, as discussed in Chapter 67 4.
+
+397
+00:55:50,797 --> 00:55:59,022
+Kleihauer-Betke test to detect fetomaternal hemorrhage if anemia is suspected, depending on findings and test results 5.
+
+398
+00:55:59,022 --> 00:56:04,797
+Consideration of testing for alpha-thalassemia and/or inborn errors of metabolism.
+
+399
+00:56:04,797 --> 00:56:13,434
+Whole exome sequencing has significant potential to identify a genetic etiology if the aforementioned evaluation is not informative .
+
+400
+00:56:13,434 --> 00:56:20,547
+Counseling should include anticipated turnaround times, costs, and variants of uncertain significance.
+
+401
+00:56:20,547 --> 00:56:23,597
+It is not recommended for routine use .
+
+402
+00:56:23,597 --> 00:56:36,372
+In addition, because sequencing is generally performed on the fetus and parents, a parent may be identified or suspected to have an unrelated but medically actionable finding, such as a cancer predisposition.
+
+403
+00:56:36,372 --> 00:56:39,159
+Isolated Effusion or Edema.
+
+404
+00:56:39,159 --> 00:56:44,472
+The initial presentation of hydrops may be as a single effusion or anasarca.
+
+405
+00:56:44,472 --> 00:56:52,547
+Although neither is diagnostic of hydrops, the above evaluation should be considered, and frequent surveillance may be prudent.
+
+406
+00:56:52,547 --> 00:56:59,459
+A pericardial effusion may precede development of hydrops in fetal parvovirus B19 infection .
+
+407
+00:56:59,459 --> 00:57:11,197
+Similarly, isolated ascites may be the initial finding in fetal parvovirus B19 infection or may result from a gastrointestinal abnormality such as meconium peritonitis.
+
+408
+00:57:11,197 --> 00:57:22,209
+An isolated pleural effusion may represent a chylothorax, which is amenable to prenatal diagnosis, and for which fetal therapy may be lifesaving if hydrops develops .
+
+409
+00:57:22,209 --> 00:57:34,359
+Last, isolated edema, particularly involving the upper torso or the dorsum of the hands and feet, may be found in Turner or Noonan syndrome or may represent congenital lymphedema syndrome .
+
+410
+00:57:34,359 --> 00:57:36,747
+# Mirror Syndrome.
+
+411
+00:57:36,747 --> 00:57:45,897
+The association between fetal hydrops and the development of maternal edema, in which the mother mirrors the fetus, is attributed to Ballantyne.
+
+412
+00:57:45,897 --> 00:57:52,197
+He called the condition triple edema because the fetus, mother, and placenta all became edematous.
+
+413
+00:57:52,197 --> 00:57:57,984
+Mirror syndrome has been reported to complicate at least 20 percent of hydrops cases .
+
+414
+00:57:57,984 --> 00:58:03,134
+The etiology of the hydrops is not related to development of mirror syndrome.
+
+415
+00:58:03,134 --> 00:58:25,184
+It has been associated with hydrops from D alloimmunization, twin-twin transfusion syndrome, placental chorioangioma, fetal cystic hygroma, Ebstein anomaly, sacrococcygeal teratoma, chylothorax, bladder outlet obstruction, supraventricular tachycardia, vein of Galen aneurysm, and various congenital infections .
+
+416
+00:58:25,184 --> 00:58:45,059
+In a review of more than 50 cases of mirror syndrome, Braun (2010) found that approximately 90 percent of women had edema, 60 percent had hypertension, 40 percent had proteinuria, 20 percent had liver enzyme elevation, and nearly 15 percent had headache and visual disturbances.
+
+417
+00:58:45,059 --> 00:58:50,334
+Based on these findings, it is reasonable to consider mirror syndrome a form of
+
+418
+00:58:50,500 --> 00:58:56,575
+severe preeclampsia (Espinoza, 2006; Midgley, 2000).
+
+419
+00:58:56,525 --> 00:59:08,200
+Others, however, have suggested that it is a separate disease process with hemodilution rather than hemoconcentration (Carbillon, 1997; Livingston, 2007).
+
+420
+00:59:08,200 --> 00:59:24,162
+Some reports describe the same imbalance of angiogenic and antiangiogenic factors that is observed with preeclampsia, and this suggests a common pathophysiology (Goa, 2013; Hobson, 2020; Llurba, 2012).
+
+421
+00:59:24,162 --> 00:59:47,825
+These findings, which include elevated concentrations of soluble fms-like tyrosine kinase 1 (sFlt-1), decreased placental growth factor (PlGF) levels, and elevation of soluble vascular endothelial growth factor receptor 1 (sVEGFR1) concentrations, are discussed further in Chapter 40 (p. 694).
+
+422
+00:59:47,825 --> 00:59:56,212
+In most cases with mirror syndrome, prompt delivery is indicated and followed by resolution of maternal edema and other findings .
+
+423
+00:59:56,212 --> 01:00:18,687
+However, in isolated cases of fetal anemia, supraventricular tachycardia, hydrothorax, or bladder outlet obstruction, successful fetal treatment has resulted in resolution of both fetal hydrops and maternal mirror syndrome (Goa, 2013; Livingston, 2007; Llurba, 2012; Midgley, 2000).
+
+424
+01:00:18,687 --> 01:00:27,237
+Normalization of the angiogenic imbalance has also been described following fetal transfusion for parvovirus B19 infection.
+
+425
+01:00:27,237 --> 01:00:31,587
+Fetal therapy for these conditions is reviewed in Chapter 19.
+
+426
+01:00:31,587 --> 01:00:39,537
+Given the parallels to severe preeclampsia, delaying delivery to effect fetal therapy should be considered only with caution.
+
+427
+01:00:39,537 --> 01:00:44,000
+If the maternal condition deteriorates, delivery is recommended.
+

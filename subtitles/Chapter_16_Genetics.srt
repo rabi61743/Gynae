@@ -1,0 +1,3108 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,100
+Chapter 16: Genetics.
+
+3
+00:00:05,100 --> 00:00:27,450
+Genomics In Obstetrics Abnormalities Of Chromosome Number Abnormalities Of Chromosome Structure Mosaicism Modes Of Inheritance Cytogenetic Analysis Chromosomal Microarray Analysis Whole Genome And Whole Exome Sequencing Fetal Dna In The Maternal Circulation References Genetics is the study of genes, heredity, and the variation of inherited characteristics.
+
+4
+00:00:27,450 --> 00:00:37,412
+Medical genetics addresses the etiology and pathogenesis of human diseases that are at least partially genetic in origin, as well as their prediction and prevention.
+
+5
+00:00:37,412 --> 00:00:50,200
+Whereas a gene is a specific sequence of deoxyribonucleic acid (DNA) on a single chromosome that codes for a particular protein, a genome is the entirety of all genes that make up an organism.
+
+6
+00:00:50,200 --> 00:00:55,037
+Genomics is the study of how genes function and interact with one other.
+
+7
+00:00:55,037 --> 00:01:01,175
+Chromosomal, mendelian, and nonmendelian genetic conditions are reviewed in this chapter.
+
+8
+00:01:01,175 --> 00:01:09,787
+Prenatal and preimplantation genetic testing and newborn genetic screening are discussed in Chapters 17 and 32, respectively.
+
+9
+00:01:09,787 --> 00:01:12,212
+Genetic disease is common.
+
+10
+00:01:12,212 --> 00:01:28,700
+Two to 3 percent of newborns have a recognized structural abnormality, another 3 percent are diagnosed with an abnormality by age 5 years, and yet another 8 to 10 percent are found to have a functional or developmental abnormality before reaching adulthood.
+
+11
+00:01:28,700 --> 00:01:31,150
+Genomics In Obstetrics.
+
+12
+00:01:31,150 --> 00:01:40,987
+The Human Genome Project was an international research program that sequenced the 3 billion base pairs and more than 20,000 genes that make up the human genome.
+
+13
+00:01:40,987 --> 00:01:48,600
+It paved the way for research into gene organization and function in an effort to understand the molecular basis of disease.
+
+14
+00:01:48,600 --> 00:01:52,737
+More than 99 percent of our DNA is identical.
+
+15
+00:01:52,737 --> 00:01:59,300
+The coding regions of DNA—exons— constitute only 1.5 percent of the genome.
+
+16
+00:01:59,300 --> 00:02:04,262
+An exome is the entirety of all the exons that an organism contains.
+
+17
+00:02:04,262 --> 00:02:11,012
+Introns are DNA sequences involved in coding regulation and make up 24 percent of the genome.
+
+18
+00:02:11,012 --> 00:02:14,437
+Intergenic DNA composes the remainder.
+
+19
+00:02:14,437 --> 00:02:22,987
+Our genetic code varies once every 200 to 500 base pairs, usually as a single-nucleotide polymorphism (SNP).
+
+20
+00:02:22,987 --> 00:02:34,362
+Thus, whole genome sequencing and whole exome sequencing, described later (p. 327), hold tremendous potential to further elucidate genetic variants in disease.
+
+21
+00:02:34,362 --> 00:02:43,175
+Toward this goal, genetic and genomic databases are maintained by the National Center for Biotechnology Information (2021).
+
+22
+00:02:43,175 --> 00:02:50,712
+These are freely accessible and can be indispensable to providers who offer counseling and testing for genetic conditions.
+
+23
+00:02:50,712 --> 00:03:01,200
+The GeneReviews database has in-depth clinical information for more than 800 genetic conditions, including diagnostic criteria and management considerations.
+
+24
+00:03:01,200 --> 00:03:14,325
+The Genetic Testing Registry (GTR) database contains information for nearly 80,000 genetic tests and instructions for specimen collection and transport to individual laboratories throughout the world .
+
+25
+00:03:14,325 --> 00:03:25,437
+The National Library of Medicine (2021) has also established a genetic information database, the MedlinePlus Genetics, which is intended for the lay population.
+
+26
+00:03:25,437 --> 00:03:35,850
+It provides explanations of more than 1300 genetic conditions, a glossary of genetic concepts, and links to more comprehensive medical resources.
+
+27
+00:03:35,850 --> 00:03:38,512
+Chromosomal Abnormalities.
+
+28
+00:03:38,512 --> 00:03:43,175
+Chromosomal abnormalities figure prominently in genetic disease.
+
+29
+00:03:43,175 --> 00:04:01,150
+They account for >50 percent of first-trimester miscarriages, approximately 20 percent of second-trimester losses, and 6 to 8 percent of stillbirths and earlychildhood deaths (Reddy, 2012; Stevenson, 2004; Wou, 2016).
+
+30
+00:04:01,150 --> 00:04:10,625
+Based on data from population-based registries, chromosomal abnormalities are identified in 0.4 percent of recognized pregnancies .
+
+31
+00:04:10,625 --> 00:04:13,237
+Most of these are aneuploidies.
+
+32
+00:04:13,237 --> 00:04:23,200
+Trisomy 21 accounts for >50 percent, trisomy 18 for nearly 15 percent, and trisomy 13 for 5 percent of cases .
+
+33
+00:04:23,200 --> 00:04:40,987
+If no karyotypic abnormality is identified in a fetus with a structural anomaly, additional testing with chromosomal microarray analysis is anticipated to detect a chromosomal deletion or duplication—a copy number variant—in approximately 6.5 percent of cases .
+
+34
+00:04:40,987 --> 00:04:43,412
+Figure 16-1.
+
+35
+00:04:43,412 --> 00:04:47,500
+Prevalence and relative proportion of selected chromosomal
+
+36
+00:04:47,668 --> 00:05:03,255
+abnormalities from EUROCAT (European Surveillance of Congenital Anomalies) population-based registries that included >10,000 aneuploid live births, fetal deaths, and pregnancy terminations, 2000–2006.
+
+37
+00:05:03,205 --> 00:05:06,018
+# Standard Nomenclature.
+
+38
+00:05:06,018 --> 00:05:13,168
+Chromosomal abnormalities are described using the International System for Human Cytogenomic Nomenclature .
+
+39
+00:05:13,168 --> 00:05:24,893
+Abnormalities fall into two broad categories: abnormal chromosome number, such as trisomy, and abnormal chromosome structure, such as a DNA segment deletion or duplication.
+
+40
+00:05:24,893 --> 00:05:34,830
+Each chromosome has a short arm, termed the “p” or petit arm, and a long arm, known as the “q” arm, selected because it is the next letter in the alphabet.
+
+41
+00:05:34,830 --> 00:05:38,193
+The two arms are separated by the centromere.
+
+42
+00:05:38,193 --> 00:05:45,905
+When reporting a karyotype, the total number of chromosomes is listed first, corresponding to the number of centromeres.
+
+43
+00:05:45,905 --> 00:05:53,568
+This is followed by the sex chromosomes, XX or XY, and then by a description of any structural variation.
+
+44
+00:05:53,568 --> 00:06:04,230
+Specific chromosomal abnormalities are indicated by standard abbreviations, such as del (deletion), inv (inversion), and t (translocation).
+
+45
+00:06:04,230 --> 00:06:10,918
+The affected region or bands of the arms are then reported, so that the reader will know the exact location.
+
+46
+00:06:10,918 --> 00:06:14,493
+Examples are shown in Table 16-1.
+
+47
+00:06:14,493 --> 00:06:16,880
+Table 16-1.
+
+48
+00:06:16,880 --> 00:06:35,205
+Examples of Karyotype Designations Using the 2020 International System for Human Cytogenomic Nomenclature Nomenclature is similar for fluorescence in situ hybridization (FISH), a technique used to rapidly identify a specific chromosome abnormality (p. 325).
+
+49
+00:06:35,205 --> 00:06:43,580
+The abbreviation ish applies when in situ hybridization is performed on metaphase cells and nuc ish when performed on interphase nuclei.
+
+50
+00:06:43,580 --> 00:06:57,080
+If the result is normal, ish is followed by the probe’s specific chromosomal region, such as 22q11.2, and then the name of the probe and the number of signals visualized—for example, HIRAx2.
+
+51
+00:06:57,080 --> 00:07:08,130
+If a deletion is identified, del is included before the chromosomal region, and the name of the probe is followed by a minus sign (HIRA–), as shown in Table 16-1.
+
+52
+00:07:08,130 --> 00:07:14,330
+The 22q11.2 deletion syndrome is discussed later (p. 315).
+
+53
+00:07:14,330 --> 00:07:23,355
+For chromosomal microarray analysis (CMA), the designation begins with the abbreviation arr (p. 348).
+
+54
+00:07:23,355 --> 00:07:34,268
+This is followed by the version of the genome build to which the nucleotide designations are aligned, such as GRCh38 for Genome Reference Consortium human build 38.
+
+55
+00:07:34,268 --> 00:07:43,580
+Next, the number of the chromosome containing the abnormality is listed, followed by the p or q arm, and then the specific bands in question.
+
+56
+00:07:43,580 --> 00:07:52,993
+CMA reports also include the affected base pair coordinates and thus convey the exact size and location for every abnormality identified .
+
+57
+00:07:52,993 --> 00:08:00,568
+The information is reported in the same way whether the alteration is pathogenic or is of uncertain clinical significance.
+
+58
+00:08:00,568 --> 00:08:03,955
+# Abnormalities of Chromosome Number.
+
+59
+00:08:03,955 --> 00:08:08,905
+The most easily recognized chromosomal abnormalities are numerical.
+
+60
+00:08:08,905 --> 00:08:16,918
+Aneuploidy is the inheritance of either an extra chromosome—resulting in trisomy, or loss of a chromosome—monosomy.
+
+61
+00:08:16,918 --> 00:08:23,093
+This differs from polyploidy, which is an abnormal number of whole haploid chromosome sets.
+
+62
+00:08:23,093 --> 00:08:27,380
+For example, triploidy has 69 chromosomes.
+
+63
+00:08:27,380 --> 00:08:34,630
+The estimated incidence of various numerical chromosomal abnormalities is shown in Figure 16-1 .
+
+64
+00:08:34,630 --> 00:08:44,118
+Autosomal Trisomies Trisomy usually results from nondisjunction, which is the failure of normal chromosomal pairing and separation during meiosis.
+
+65
+00:08:44,118 --> 00:08:54,555
+Nondisjunction may occur if the chromosomes: (1) fail to pair up, (2) pair up properly but separate prematurely, or (3) fail to separate.
+
+66
+00:08:54,555 --> 00:09:05,080
+Although each chromosome pair is equally likely to have a segregation error, trisomies other than 21, 18, or 13 rarely result in term pregnancies.
+
+67
+00:09:05,080 --> 00:09:10,105
+Each of these autosomal trisomies has a spectrum of phenotypic severity.
+
+68
+00:09:10,105 --> 00:09:19,455
+Some fetuses come to attention earlier in a pregnancy due to multiple major organ abnormalities or hydrops fetalis (p. 328).
+
+69
+00:09:19,455 --> 00:09:24,980
+Others have more subtle findings or are detected only through prenatal screening tests .
+
+70
+00:09:24,980 --> 00:09:31,155
+Survival data are based on cases with better prognosis, and this factors into counseling.
+
+71
+00:09:31,155 --> 00:09:37,355
+The likelihood that a pregnancy will be complicated by an autosomal trisomy rises steeply with
+
+72
+00:09:37,516 --> 00:09:41,578
+maternal age and particularly after age 35 .
+
+73
+00:09:41,528 --> 00:09:47,416
+From birth until ovulation, oocytes are suspended in midprophase of meiosis I.
+
+74
+00:09:47,416 --> 00:09:57,291
+If nondisjunction occurs after completion of meiosis, one gamete will have two copies of the affected chromosome, which leads to trisomy if fertilized.
+
+75
+00:09:57,291 --> 00:10:04,903
+The other gamete, receiving no copy of the affected chromosome, is nullisomic and will be monosomic if fertilized.
+
+76
+00:10:04,903 --> 00:10:13,378
+It is estimated that 10 to 20 percent of oocytes are aneuploid secondary to meiotic errors compared with 3 to 4 percent of sperm.
+
+77
+00:10:13,378 --> 00:10:24,591
+After a pregnancy with an autosomal trisomy, the risk for any autosomal trisomy in a future pregnancy approximates 1 percent until the woman’s age-related risk exceeds this.
+
+78
+00:10:24,591 --> 00:10:32,503
+Screening and prenatal diagnosis of autosomal trisomies are discussed in Chapter 17 (p. 333).
+
+79
+00:10:32,503 --> 00:10:43,203
+Parental chromosomal studies are not indicated unless the abnormality was caused by an unbalanced translocation or other structural rearrangement (p. 315).
+
+80
+00:10:43,203 --> 00:10:45,653
+Figure 16-2.
+
+81
+00:10:45,653 --> 00:10:56,728
+Prevalence of autosomal trisomies according to maternal age found in population-based birth defect surveillance programs in the United States, 2006–2010.
+
+82
+00:10:56,728 --> 00:10:59,866
+Trisomy 21—Down Syndrome.
+
+83
+00:10:59,866 --> 00:11:08,603
+In 1866, J. L. H. Down described a group of intellectually disabled children with distinctive physical features.
+
+84
+00:11:08,603 --> 00:11:17,141
+Nearly 100 years later, Lejeune (1959) demonstrated that Down syndrome stems from an autosomal trisomy .
+
+85
+00:11:17,141 --> 00:11:22,241
+Trisomy 21 causes 95 percent of Down syndrome cases.
+
+86
+00:11:22,241 --> 00:11:30,666
+The nondisjunction event occurs during meiosis I in approximately 75 percent of cases and in meiosis II in the remainder.
+
+87
+00:11:30,666 --> 00:11:41,866
+Because chromosome 21 is acrocentric, a robertsonian translocation (p. 315) may occur, and this accounts for 3 to 4 percent of Down syndrome births.
+
+88
+00:11:41,866 --> 00:11:50,803
+The remaining 1 to 2 percent are caused by isochromosome 21 or mosaicism for chromosome 21 (p. 317).
+
+89
+00:11:50,803 --> 00:11:53,266
+Figure 16-3.
+
+90
+00:11:53,266 --> 00:12:01,253
+Male karyotype with trisomy 21 (47,XY,+21), consistent with Down syndrome.
+
+91
+00:12:01,253 --> 00:12:05,216
+Reproduced with permission from Dr. Prasad Koduru.
+
+92
+00:12:05,216 --> 00:12:09,103
+Down syndrome is the most common nonlethal trisomy.
+
+93
+00:12:09,103 --> 00:12:14,041
+It is identified in approximately 1 in 450 pregnancies .
+
+94
+00:12:14,041 --> 00:12:26,766
+In the United States, fetal losses and pregnancy terminations yield an estimated prevalence of 1 case per 740 live births (Mai, 2013; Parker, 2010).
+
+95
+00:12:26,766 --> 00:12:31,941
+The fetal death rate beyond 20 weeks’ gestation approximates 5 percent.
+
+96
+00:12:31,941 --> 00:12:51,016
+Coinciding with the rise in overall number of pregnancies in women aged 35 years and older, the proportion of pregnancies with Down syndrome has increased approximately 33 percent during the past four decades (Loane, 2013; Parker, 2010; Shin, 2009).
+
+97
+00:12:51,016 --> 00:12:56,503
+Most Down syndrome births at Parkland Hospital now occur in women in this age group .
+
+98
+00:12:56,503 --> 00:13:14,453
+If major anomalies and minor aneuploidy markers are considered, 50 to 75 percent of pregnancies affected by Down syndrome are found to have a sonographic abnormality (American College of Obstetricians and Gynecologists, 2020d; Hussamy, 2019).
+
+99
+00:13:14,453 --> 00:13:21,266
+A major structural malformation is detected in the second trimester in approximately one third of cases.
+
+100
+00:13:21,266 --> 00:13:26,753
+The most prevalent anomalies in affected children are cardiac and gastrointestinal.
+
+101
+00:13:26,753 --> 00:13:47,703
+Cardiac abnormalities occur in approximately 50 percent, particularly endocardial cushion defects and ventricular septal defects (Figs. 15-39A and 15-39B, p. 291) (Bergstrom, 2016; Freeman, 2008; Stoll, 2015).
+
+102
+00:13:47,703 --> 00:14:04,616
+Gastrointestinal abnormalities are identified in 6 to 12 percent and include esophageal atresia, duodenal atresia, and Hirschsprung disease (Fig. 15-48, p. 296) (Bull, 2011; Stoll, 2015).
+
+103
+00:14:04,616 --> 00:14:08,428
+Other health problems are also common with Down syndrome.
+
+104
+00:14:08,428 --> 00:14:35,053
+These include hearing loss in 75 percent, optical refractive errors in 50 percent, cataracts in 15 percent, obstructive sleep apnea in 60 percent, thyroid disease in 15 percent, transient myeloproliferative disorder in 10 percent of newborns, early-onset Alzheimer’s disease in 70 percent of adults, and a higher incidence of leukemia (Bull, 2011; Hartley, 2015).
+
+105
+00:14:35,053 --> 00:14:41,128
+Women with Down syndrome are fertile, and nearly one third of their offspring will have Down syndrome.
+
+106
+00:14:41,128 --> 00:14:47,353
+Males with Down syndrome have markedly reduced spermatogenesis and are almost always sterile.
+
+107
+00:14:47,353 --> 00:14:51,566
+The average intelligence quotient (IQ) score is
+
+108
+00:14:51,724 --> 00:14:54,036
+35 to 70.
+
+109
+00:14:53,986 --> 00:14:59,799
+Social skills in affected children are usually higher than predicted by their IQ scores.
+
+110
+00:14:59,799 --> 00:15:05,086
+Characteristic features of Down syndrome are shown in Figure 16-4.
+
+111
+00:15:05,086 --> 00:15:18,124
+Typical findings include brachycephaly; epicanthal folds and up-slanting palpebral fissures; Brushfield spots, which are whitish spots on the periphery of the iris; a flat nasal bridge; and hypotonia.
+
+112
+00:15:18,124 --> 00:15:33,986
+Infants often have loose skin at the nape of the neck, a prominent space or “sandal-gap” between the first and second toes, short fingers, a single palmar crease, and clinodactyly of the fifth digit, in which hypoplasia of the middle phalanx causes inward curvature.
+
+113
+00:15:33,986 --> 00:15:40,736
+Discussed in Chapter 17, some of these findings are seen during prenatal ultrasound examination.
+
+114
+00:15:40,736 --> 00:15:43,236
+Figure 16-4.
+
+115
+00:15:43,236 --> 00:15:50,399
+Newborn with Down syndrome, karyotype 47,XX,+21 (trisomy 21).
+
+116
+00:15:50,399 --> 00:15:56,311
+A. Characteristic facial features include epicanthal folds and a flattened nasal bridge.
+
+117
+00:15:56,311 --> 00:16:04,361
+B. The hand has a single palmar crease (arrow) and hypoplasia of the middle phalanx of the fifth digit (arrowhead).
+
+118
+00:16:04,361 --> 00:16:10,086
+C. The “sandal gap” between the first and second toes is also known as hallux varus.
+
+119
+00:16:10,086 --> 00:16:14,711
+Reproduced with permission from Dr. Aldeboran N. Rodriguez.
+
+120
+00:16:14,711 --> 00:16:21,736
+Data suggest that approximately 95 percent of liveborn infants with Down syndrome survive the first year.
+
+121
+00:16:21,736 --> 00:16:33,186
+The 10-year survival rate is at least 90 percent overall and is 99 percent if major malformations are absent (Rankin, 2012; Vendola, 2010).
+
+122
+00:16:33,186 --> 00:16:37,411
+Average life expectancy is 55 to 60 years.
+
+123
+00:16:37,411 --> 00:16:45,399
+Several organizations offer education and support for prospective parents faced with prenatal diagnosis of Down syndrome.
+
+124
+00:16:45,399 --> 00:16:59,186
+These include the March of Dimes, National Down Syndrome Congress (www.ndsccenter.org), and National Down Syndrome Society (www.ndss.org).
+
+125
+00:16:59,186 --> 00:17:02,336
+Trisomy 18—Edwards Syndrome.
+
+126
+00:17:02,336 --> 00:17:11,149
+The association between this constellation of abnormalities and an autosomal trisomy was first described by Edwards (1960).
+
+127
+00:17:11,149 --> 00:17:26,474
+In population-based series of abortuses, stillbirths, and live births, trisomy 18 approximates 1 per 2000 recognized pregnancies (Goel, 2019; Loane, 2013; Parker, 2010).
+
+128
+00:17:26,474 --> 00:17:36,386
+High in-utero lethality and termination of many affected pregnancies explains a live birth prevalence of just 1 per 6600 to 10,000.
+
+129
+00:17:36,386 --> 00:17:48,886
+Unlike Down syndrome and Patau syndrome, which may result from a robertsonian translocation because they involve acrocentric chromosomes, Edwards syndrome uncommonly stems from a chromosomal rearrangement.
+
+130
+00:17:48,886 --> 00:17:53,211
+Virtually every organ can be affected by trisomy 18.
+
+131
+00:17:53,211 --> 00:18:00,774
+Common major anomalies include heart defects in more than 90 percent, particularly ventricular septal defects.
+
+132
+00:18:00,774 --> 00:18:17,849
+Cerebellar vermian agenesis, myelomeningocele, diaphragmatic hernia, omphalocele, imperforate anus, and renal anomalies such as horseshoe kidney are others (Rosa, 2011; Springett, 2015; Watson, 2008).
+
+133
+00:18:17,849 --> 00:18:22,874
+Sonographic images of these abnormalities are shown in Chapter 15.
+
+134
+00:18:22,874 --> 00:18:41,824
+Frequent cranial and extremity abnormalities in affected fetuses include a “strawberry-shaped” cranium, abnormally wide cavum septum pellucidum, choroid plexus cysts, micrognathia, clenched hands with overlapping digits, radial aplasia with hyperflexed wrists, and rockerbottom or clubbed feet .
+
+135
+00:18:41,824 --> 00:18:54,449
+Importantly, choroid plexus cysts only raise the risk for trisomy 18 in the setting of other risk factors, such as fetal structural abnormalities or an abnormal aneuploidy screening test result .
+
+136
+00:18:54,449 --> 00:18:57,024
+Figure 16-5.
+
+137
+00:18:57,024 --> 00:19:00,174
+Trisomy 18—Edwards Syndrome.
+
+138
+00:19:00,174 --> 00:19:08,236
+A. This transventricular sonographic view shows fetal choroid plexus cysts and an angulated “strawberry-shaped” skull.
+
+139
+00:19:08,236 --> 00:19:18,311
+B. Radial clubhand is manifested as a single forearm bone (radius), with the hands in a fixed, hyperflexed position at right angles to the forearms.
+
+140
+00:19:18,311 --> 00:19:27,261
+C. This three-dimensional (3-D) sonographic image shows the characteristic hand position of clenched fist with overlapping digits.
+
+141
+00:19:27,261 --> 00:19:32,986
+D. 3-D sonographic image displays a rockerbottom foot (vertical talus).
+
+142
+00:19:32,986 --> 00:19:46,736
+Pregnancies with trisomy 18 that reach the third trimester often develop fetal-growth restriction, and the mean birthweight is <2500 g (Lin, 2006; Rosa, 2011).
+
+143
+00:19:46,736 --> 00:19:54,386
+When undiagnosed, trisomy 18 has resulted in emergency cesarean for “fetal distress” in nearly 50
+
+144
+00:19:54,556 --> 00:20:00,518
+percent of cases (Schneider, 1981; Houlihan, 2013).
+
+145
+00:20:00,468 --> 00:20:06,043
+Mode of delivery and management of heart rate abnormalities should be discussed in advance.
+
+146
+00:20:06,043 --> 00:20:13,581
+Discussed in Chapter 35 (p. 628), perinatal palliative care consultation should be offered .
+
+147
+00:20:13,581 --> 00:20:23,806
+In the National Birth Defects Prevention Study, median neonatal survival with trisomy 18 was 8 days, and the 5-year survival rate was 12 percent .
+
+148
+00:20:23,806 --> 00:20:28,418
+Not unexpectedly, major anomalies lower survival rates.
+
+149
+00:20:28,418 --> 00:20:40,393
+Data from the Society of Thoracic Surgeons indicate that infants with trisomy 18 who undergo cardiac surgery have mortality rates 3 to 5 times higher than those without trisomy 18 .
+
+150
+00:20:40,393 --> 00:20:47,668
+Thus, among the minority with trisomy 18 who survive until birth, the condition is severely life limiting.
+
+151
+00:20:47,668 --> 00:20:50,806
+Trisomy 13—Patau Syndrome.
+
+152
+00:20:50,806 --> 00:21:00,281
+This constellation of fetal abnormalities and their association with an autosomal trisomy was first described by Patau and colleagues (1960).
+
+153
+00:21:00,281 --> 00:21:09,218
+The incidence of trisomy 13 approximates 1 case in 5000 recognized pregnancies, which includes abortuses and stillbirths.
+
+154
+00:21:09,218 --> 00:21:12,893
+Most affected fetuses are lost or terminated.
+
+155
+00:21:12,893 --> 00:21:23,268
+The live birth prevalence is 1 per 12,000 to 18,000 (Goel, 2019; Loane, 2013; Parker, 2010).
+
+156
+00:21:23,268 --> 00:21:28,956
+At least 80 percent of pregnancies with Patau syndrome result from trisomy 13.
+
+157
+00:21:28,956 --> 00:21:36,218
+With rare exception, the remainder are caused by a robertsonian translocation involving chromosome 13.
+
+158
+00:21:36,218 --> 00:21:50,568
+The most common translocation involves chromosomes 13 and 14, der(13;14)(q10;q10), which is carried by approximately 1 in 1300 phenotypically normal individuals.
+
+159
+00:21:50,568 --> 00:21:57,343
+Among translocation carriers, fewer than 2 percent give birth to a live infant with Patau syndrome.
+
+160
+00:21:57,343 --> 00:22:02,856
+Trisomy 13 may be associated with abnormalities of any organ system.
+
+161
+00:22:02,856 --> 00:22:08,656
+Abnormalities of the brain, heart, kidneys, and extremities are the most frequent.
+
+162
+00:22:08,656 --> 00:22:21,243
+Holoprosencephaly, usually the alobar type, is present in two thirds of cases and often is accompanied by severe facial abnormalities (Fig. 1513, p. 279).
+
+163
+00:22:21,243 --> 00:22:30,406
+These may include hypotelorism or cyclopia, microphthalmia, and nasal abnormalities that range from a single nostril to a proboscis.
+
+164
+00:22:30,406 --> 00:22:34,156
+Cardiac defects are found in up to 90 percent .
+
+165
+00:22:34,156 --> 00:22:52,843
+Other abnormalities that suggest trisomy 13 include cephalocele, microcephaly, omphalocele, cystic renal dysplasia, polydactyly, rockerbottom feet, aplasia cutis, and cleft lip-palate, which may be median (Lin, 2007; Springett, 2015).
+
+166
+00:22:52,843 --> 00:22:57,481
+Sonographic images of several of these are shown in Chapter 15.
+
+167
+00:22:57,481 --> 00:23:03,293
+Affected fetuses often also have bilateral echogenic intracardiac foci.
+
+168
+00:23:03,293 --> 00:23:15,043
+For the fetus or newborn with a cephalocele, cystic kidneys, and polydactyly, the differential diagnosis includes trisomy 13 and the autosomal-recessive Meckel–Gruber syndrome.
+
+169
+00:23:15,043 --> 00:23:20,231
+Trisomy 13 is life limiting, even more so than trisomy 18 .
+
+170
+00:23:20,231 --> 00:23:30,768
+In the National Birth Defects Prevention Study, median survival of neonates with trisomy 13 was 5 days, and the 5-year survival rate was below 10 percent .
+
+171
+00:23:30,768 --> 00:23:37,043
+Occasionally children with trisomy 13 have been candidates for palliative surgical procedures.
+
+172
+00:23:37,043 --> 00:23:45,531
+Most of these have a milder phenotype that lacks brain, cardiac, gastrointestinal, or genitourinary abnormalities .
+
+173
+00:23:45,531 --> 00:23:52,756
+Counseling regarding prenatal diagnosis and management options is similar to that described for trisomy 18.
+
+174
+00:23:52,756 --> 00:23:58,743
+Unlike other aneuploidies, fetal trisomy 13 confers risk to the pregnant woman.
+
+175
+00:23:58,743 --> 00:24:08,943
+Continuing pregnancies have at least a 25-percent risk for hypertensive complications (Dotters-Katz, 2018; Tuohy, 1992).
+
+176
+00:24:08,943 --> 00:24:17,218
+The risk for preeclampsia with severe features is increased more than tenfold and often develops prior to 32 weeks’ gestation.
+
+177
+00:24:17,218 --> 00:24:28,868
+Chromosome 13 contains the gene for soluble fms-like tyrosine kinase-1 (sFlt-1), which is an antiangiogenic protein associated with preeclampsia .
+
+178
+00:24:28,868 --> 00:24:42,443
+Investigators have documented overexpression of the sFlt-1 protein by trisomic 13 placentas and in serum of women with preeclampsia (Bdolah, 2006; Silasi, 2011).
+
+179
+00:24:42,443 --> 00:24:44,443
+Other Trisomies.
+
+180
+00:24:44,443 --> 00:24:49,231
+Live births are extremely rare with any other autosomal trisomy.
+
+181
+00:24:49,231 --> 00:24:57,806
+Trisomy 22 has been described in case reports and series (Heinrich, 2013; Kehinde, 2014).
+
+182
+00:24:57,806 --> 00:25:05,156
+Affected fetuses have severe growth restriction, microcephaly with an abnormal-shaped cranium, midface
+
+183
+00:25:05,308 --> 00:25:10,133
+hypoplasia, and cardiac and genitourinary abnormalities.
+
+184
+00:25:10,083 --> 00:25:17,383
+Trisomy 16 is the most prevalent trisomy among first-trimester losses, accounting for 16 percent.
+
+185
+00:25:17,383 --> 00:25:23,045
+Trisomies 21 and 22 are also common among first trimester losses.
+
+186
+00:25:23,045 --> 00:25:26,045
+Trisomy 1 has never been reported.
+
+187
+00:25:26,045 --> 00:25:32,070
+Monosomy Nondisjunction creates an equal number of nullisomic and disomic gametes.
+
+188
+00:25:32,070 --> 00:25:42,645
+As a rule, missing chromosomal material is more devastating than extra chromosomal material, and almost all monosomic conceptuses are lost before implantation.
+
+189
+00:25:42,645 --> 00:25:50,533
+The one exception is monosomy for the X chromosome (45,X), Turner syndrome, which is discussed subsequently.
+
+190
+00:25:50,533 --> 00:25:59,095
+Unlike autosomal trisomies, which increase in incidence with maternal age, monosomy and maternal age lack an association.
+
+191
+00:25:59,095 --> 00:26:04,383
+Polyploidy This is defined as more than two complete haploid chromosomal sets.
+
+192
+00:26:04,383 --> 00:26:11,833
+Polyploidy accounts for approximately 20 percent of spontaneous abortions but is rarely found later in gestation.
+
+193
+00:26:11,833 --> 00:26:17,045
+Triploid pregnancies have three haploid sets, 69 chromosomes.
+
+194
+00:26:17,045 --> 00:26:27,920
+If extra set of chromosomes is paternal, the result is diandric triploidy, and if maternal, digynic triploidy, relevant because the phenotype reflects the parent of origin.
+
+195
+00:26:27,920 --> 00:26:32,020
+This is an example of imprinting (p. 322).
+
+196
+00:26:32,020 --> 00:26:40,008
+Diandric or type I triploidy occurs after fertilization of one egg by two sperm or by one abnormal diploid sperm.
+
+197
+00:26:40,008 --> 00:26:47,370
+Diandric triploidy produces a partial molar pregnancy, discussed in Chapter 13 (p. 237).
+
+198
+00:26:47,370 --> 00:26:57,695
+With digynic or type II triploidy, the extra chromosomal set is maternal, and the egg fails to undergo the first or second meiotic division before fertilization.
+
+199
+00:26:57,695 --> 00:27:02,020
+Digynic triploid placentas do not develop molar changes.
+
+200
+00:27:02,020 --> 00:27:06,945
+However, the fetus usually develops asymmetrical growth restriction.
+
+201
+00:27:06,945 --> 00:27:21,208
+Although diandric triploidy accounts for the majority of triploid conceptions, the early loss rate is so high that two thirds of triploid pregnancies identified beyond the first trimester are digynic ( Jauniaux, 1999).
+
+202
+00:27:21,208 --> 00:27:25,645
+Triploidy is recognized in 1 per 5000 pregnancies .
+
+203
+00:27:25,645 --> 00:27:33,533
+It is considered lethal, and fetuses with either the diandric or digynic form typically have multiple structural anomalies.
+
+204
+00:27:33,533 --> 00:27:42,620
+The brain, heart, kidneys, and extremities are commonly affected (Massalska, 2017; Zalel, 2016).
+
+205
+00:27:42,620 --> 00:27:50,120
+Counseling, prenatal diagnosis, and delivery management are similar to those for trisomies 18 and 13.
+
+206
+00:27:50,120 --> 00:28:01,483
+The recurrence risk for a woman whose triploid fetus survived past the first trimester is 1 to 1.5 percent, and thus prenatal diagnosis is offered in future pregnancies.
+
+207
+00:28:01,483 --> 00:28:10,608
+Tetraploid pregnancies have four haploid sets of chromosomes, resulting in either 92,XXXX or 92,XXYY.
+
+208
+00:28:10,608 --> 00:28:15,795
+This suggests a postzygotic failure to complete an early cleavage division.
+
+209
+00:28:15,795 --> 00:28:20,695
+The conceptus invariably succumbs, and the recurrence risk is minimal.
+
+210
+00:28:20,695 --> 00:28:25,520
+Sex Chromosome Abnormalities 45,X—Turner Syndrome.
+
+211
+00:28:25,520 --> 00:28:32,795
+First described by Turner (1938), this syndrome later was found to be caused by monosomy X .
+
+212
+00:28:32,795 --> 00:28:41,870
+The birth prevalence of Turner syndrome is approximately 1 in 2500 girls (Cragan, 2009; Dolk, 2010).
+
+213
+00:28:41,870 --> 00:28:50,783
+The missing X chromosome is paternally derived in 80 percent of cases (Cockwell, 1991; Hassold, 1990).
+
+214
+00:28:50,783 --> 00:29:00,758
+Turner syndrome is the only monosomy compatible with life, but it is also the most common aneuploidy in first-trimester losses, accounting for 20 percent.
+
+215
+00:29:00,758 --> 00:29:04,520
+This is explained by its wide range in phenotype.
+
+216
+00:29:04,520 --> 00:29:11,920
+Approximately 98 percent of affected conceptuses are so abnormal that they abort early in the first trimester.
+
+217
+00:29:11,920 --> 00:29:23,308
+Of the remainder, many manifest large, septated cystic hygromas in the late first or early second trimester, often in the setting of edema that progresses to hydrops fetalis.
+
+218
+00:29:23,308 --> 00:29:29,170
+When cystic hygromas are accompanied by hydrops, the prognosis is extremely poor .
+
+219
+00:29:29,170 --> 00:29:34,645
+Fewer than 1 percent of pregnancies with Turner syndrome result in a liveborn neonate.
+
+220
+00:29:34,645 --> 00:29:51,420
+Of these, only half are actually monosomy X— approximately a fourth have mosaicism for monosomy X, such as 45,X/46,XX or 45,X/46,XY, and another 15 percent have isochromosome X.
+
+221
+00:29:51,420 --> 00:30:03,283
+It is thought that surviving individuals with 45,X may have had the benefit of “rescue” by an additional cell line containing 46,XX during critical phases of development that was subsequently
+
+222
+00:30:03,436 --> 00:30:04,973
+lost .
+
+223
+00:30:04,923 --> 00:30:23,411
+Abnormalities associated with Turner syndrome include left-sided cardiac defects—such as coarctation of the aorta, hypoplastic left heart syndrome, or bicuspid aortic valve—in 30 to 50 percent; renal anomalies, particularly horseshoe kidney; and hypothyroidism.
+
+224
+00:30:23,411 --> 00:30:36,298
+Other features are short stature, broad chest with widely spaced nipples, congenital lymphedema— puffiness over the dorsum of hands and feet, and a “webbed” posterior neck resulting from cystic hygromas.
+
+225
+00:30:36,298 --> 00:30:47,248
+Intelligence scores are generally in the normal range, but there may be impairments in visual-spatial organization, nonverbal problem solving, and interpretation of social cues.
+
+226
+00:30:47,248 --> 00:30:54,961
+A consensus guideline is available that addresses screening and treatment for the range of health problems affected individuals face .
+
+227
+00:30:54,961 --> 00:31:00,173
+Growth hormone is typically administered in childhood to ameliorate short stature.
+
+228
+00:31:00,173 --> 00:31:06,436
+More than 90 percent have ovarian dysgenesis and require estrogen repletion at puberty.
+
+229
+00:31:06,436 --> 00:31:17,411
+An exception is mosaicism involving the Y chromosome, as this confers risk for germ cell neoplasm—regardless of whether the child is phenotypically male or female.
+
+230
+00:31:17,411 --> 00:31:26,186
+Accordingly, eventual prophylactic bilateral gonadectomy is indicated (Cools, 2011; Schorge, 2020).
+
+231
+00:31:26,186 --> 00:31:28,748
+47,XXX.
+
+232
+00:31:28,748 --> 00:31:36,036
+Approximately 1 in 1000 female newborns has an additional X chromosome—47,XXX .
+
+233
+00:31:36,036 --> 00:31:41,036
+The extra X is maternally derived in more than 90 percent of cases.
+
+234
+00:31:41,036 --> 00:31:50,536
+The prevalence of 47,XXX is weakly associated with maternal age, and cell-free DNA screening has resulted in increased diagnoses.
+
+235
+00:31:50,536 --> 00:31:58,661
+No specific pattern of malformations has been described, but genitourinary problems and seizure disorders are more common .
+
+236
+00:31:58,661 --> 00:32:02,636
+Affected infants do not have a characteristic appearance.
+
+237
+00:32:02,636 --> 00:32:17,336
+When children do come to attention, features may include tall stature, hypertelorism, epicanthal folds, kyphoscoliosis, clinodactyly, and hypotonia (Tartaglia, 2010; Wigby, 2016).
+
+238
+00:32:17,336 --> 00:32:26,986
+More than one third are diagnosed with a learning disability, half have attention deficit disorder, and overall cognitive scores are in the low-average range.
+
+239
+00:32:26,986 --> 00:32:29,811
+Pubertal development is unaffected.
+
+240
+00:32:29,811 --> 00:32:33,648
+Primary ovarian insufficiency has been reported.
+
+241
+00:32:33,648 --> 00:32:42,511
+In the absence of prenatal diagnosis, it is estimated that 47,XXX is ascertained in only 10 percent of affected children .
+
+242
+00:32:42,511 --> 00:32:53,773
+Females with two or more extra X chromosomes—48,XXXX or 49,XXXXX—are likely to have physical abnormalities apparent at birth.
+
+243
+00:32:53,773 --> 00:32:59,023
+These abnormal X complements are associated with intellectual disability.
+
+244
+00:32:59,023 --> 00:33:05,123
+For both males and females, the IQ score is lower with each additional X chromosome.
+
+245
+00:33:05,123 --> 00:33:09,061
+47,XXY—Klinefelter Syndrome.
+
+246
+00:33:09,061 --> 00:33:12,898
+This is the most common sex chromosome abnormality.
+
+247
+00:33:12,898 --> 00:33:17,286
+It occurs in approximately 1 in 700 male infants .
+
+248
+00:33:17,286 --> 00:33:26,823
+The additional X chromosome is maternally or paternally derived with equal propensity (Jacobs, 1995; Lowe, 2001).
+
+249
+00:33:26,823 --> 00:33:31,423
+There is a weak association with advanced maternal and paternal age.
+
+250
+00:33:31,423 --> 00:33:41,223
+Like 47,XXX, newborns with 47,XXY usually appear phenotypically normal and do not have a higher incidence of anomalies.
+
+251
+00:33:41,223 --> 00:33:47,123
+As children, boys are typically taller than average and have normal prepubertal development.
+
+252
+00:33:47,123 --> 00:33:55,298
+However, they have gonadal dysgenesis, do not undergo normal virilization, and require testosterone supplementation.
+
+253
+00:33:55,298 --> 00:33:57,998
+They may develop gynecomastia.
+
+254
+00:33:57,998 --> 00:34:09,111
+IQ scores usually lie in the average to low-average range, with increased rates of delayed language development (Boada, 2009; Girardin, 2011).
+
+255
+00:34:09,111 --> 00:34:14,923
+Initiation of hormone replacement was previously recommended to begin in adolescence.
+
+256
+00:34:14,923 --> 00:34:29,861
+However, more recent research suggests that therapy earlier in childhood results in improved working memory and executive functioning and a decrease in anxiety disorders (Samango-Sprouse 2019; Tran, 2019).
+
+257
+00:34:29,861 --> 00:34:32,523
+47,XYY.
+
+258
+00:34:32,523 --> 00:34:37,748
+This aneuploidy occurs in approximately 1 in 1000 male newborns .
+
+259
+00:34:37,748 --> 00:34:44,123
+As with 47,XXX and XXY individuals, affected boys tend to be tall.
+
+260
+00:34:44,123 --> 00:34:50,536
+A third have macrocephaly, nearly two thirds demonstrate hypotonia, and tremors are common .
+
+261
+00:34:50,536 --> 00:34:58,486
+Rates of major anomalies are not elevated, although hypertelorism and clinodactyly may be identified in more than half.
+
+262
+00:34:58,486 --> 00:35:02,836
+Pubertal development is normal, and fertility is unimpaired.
+
+263
+00:35:02,836 --> 00:35:05,373
+Affected individuals do
+
+264
+00:35:05,524 --> 00:35:18,499
+have increased rates of oral and written language impairments, attention deficit disorder, developmental delays, and autism spectrum disorder (Bardsley, 2013; Joseph, 2018).
+
+265
+00:35:18,449 --> 00:35:36,724
+Males with more than two Y chromosomes—48,XYYY—or with both additional X and Y chromosomes—48,XXYY or 49,XXXYY—are more likely to have congenital abnormalities, medical problems, and intellectual disability .
+
+266
+00:35:36,724 --> 00:35:40,324
+# Abnormalities of Chromosome Structure.
+
+267
+00:35:40,324 --> 00:35:51,599
+Structural chromosomal abnormalities include deletions, duplications, translocations, isochromosomes, inversions, ring chromosomes, and mosaicism .
+
+268
+00:35:51,599 --> 00:35:58,449
+Identification of a structural chromosomal abnormality in offspring raises two primary questions.
+
+269
+00:35:58,449 --> 00:36:04,736
+First, what phenotypic or later developmental abnormalities are associated with the finding?
+
+270
+00:36:04,736 --> 00:36:09,136
+Second, is parental karyotype evaluation indicated?
+
+271
+00:36:09,136 --> 00:36:18,049
+In other words, are the parents at increased risk of carrying this abnormality, and if so, what is their risk of having future affected offspring?
+
+272
+00:36:18,049 --> 00:36:27,786
+Deletions and Duplications A chromosome with a deletion has a stretch of DNA that is missing, whereas one with a duplication has a region that is included twice.
+
+273
+00:36:27,786 --> 00:36:36,499
+Most deletions and duplications occur during meiosis and result from malalignment or mismatching during the pairing of homologous chromosomes.
+
+274
+00:36:36,499 --> 00:36:47,461
+The misaligned segment may then be deleted, or if the mismatch remains when the two chromosomes recombine, it may result in a deletion in one chromosome and duplication in the other .
+
+275
+00:36:47,461 --> 00:37:01,836
+When a deletion or duplication is identified in a fetus or infant, parental karyotyping should be offered, because if either parent carries a balanced translocation, the recurrence risk in subsequent pregnancies is significantly increased.
+
+276
+00:37:01,836 --> 00:37:11,799
+Deletions involving DNA segments large enough to be seen with standard cytogenetic karyotyping are identified in approximately 1 in 7000 births.
+
+277
+00:37:11,799 --> 00:37:19,524
+Common deletions may be referred to by eponyms—for example, del 5p is called cri du chat syndrome.
+
+278
+00:37:19,524 --> 00:37:22,036
+Figure 16-6.
+
+279
+00:37:22,036 --> 00:37:29,499
+A mismatch during pairing of homologous chromosomes may lead to a deletion in one chromosome and a duplication in the other.
+
+280
+00:37:29,499 --> 00:37:33,424
+Del = deletion; Dupl = duplication.
+
+281
+00:37:33,424 --> 00:37:36,799
+Microdeletions and Microduplications.
+
+282
+00:37:36,799 --> 00:37:46,024
+When a deletion or duplication is smaller than 3 to 5 million base pairs, it is too small to be detected with a standard karyotype analysis.
+
+283
+00:37:46,024 --> 00:37:53,249
+CMA permits identification of these microdeletions and microduplications (p. 325).
+
+284
+00:37:53,249 --> 00:38:00,711
+When CMA is used, the region of DNA that is missing or duplicated is termed a genomic copy number variant.
+
+285
+00:38:00,711 --> 00:38:06,811
+A microdeletion or duplication may involve a stretch of DNA that contains multiple genes.
+
+286
+00:38:06,811 --> 00:38:14,061
+This causes a contiguous gene syndrome, which can encompass serious but unrelated phenotypic abnormalities .
+
+287
+00:38:14,061 --> 00:38:22,111
+In some cases, a microduplication may involve the exact DNA region that causes a recognized microdeletion syndrome .
+
+288
+00:38:22,111 --> 00:38:29,411
+When a specific microdeletion syndrome is suspected clinically, it is confirmed using either CMA or FISH.
+
+289
+00:38:29,411 --> 00:38:31,961
+Table 16-2.
+
+290
+00:38:31,961 --> 00:38:38,161
+Selected Microdeletion Syndromes 22q11.2 Microdeletion Syndrome.
+
+291
+00:38:38,161 --> 00:38:44,961
+This syndrome is also known as DiGeorge syndrome, Shprintzen syndrome, and velocardiofacial syndrome.
+
+292
+00:38:44,961 --> 00:38:51,674
+It is the most common microdeletion, with a prevalence of 1 case in 3000 to 6000 births.
+
+293
+00:38:51,674 --> 00:38:59,461
+Inheritance is autosomal dominant—offspring of affected individuals have a 50-percent chance of inheriting the syndrome.
+
+294
+00:38:59,461 --> 00:39:04,724
+However, more than 90 percent of cases arise from a de-novo mutation.
+
+295
+00:39:04,724 --> 00:39:13,111
+The full deletion contains 3 million base pairs, encompasses 40 genes, and includes 180 different features .
+
+296
+00:39:13,111 --> 00:39:21,936
+This is emblematic of a contiguous gene syndrome and poses counseling challenges because features can vary widely, even among family members.
+
+297
+00:39:21,936 --> 00:39:29,061
+With prenatal diagnosis of an affected fetus, genetic testing is offered to the pregnant patient and her partner.
+
+298
+00:39:29,061 --> 00:39:43,361
+Approximately 75 percent of affected individuals have an associated conotruncal cardiac anomaly, such as tetralogy of Fallot, truncus arteriosus, interrupted aortic arch, or ventricular septal defect .
+
+299
+00:39:43,361 --> 00:39:49,711
+Immune deficiency, such as T-cell lymphopenia, also develops in 75 percent.
+
+300
+00:39:49,711 --> 00:39:55,011
+More than 70 percent have velopharyngeal insufficiency or cleft palate.
+
+301
+00:39:55,180 --> 00:40:05,780
+Characteristic facial features include short palpebral fissures, bulbous nasal tip, micrognathia, short philtrum, and small or posteriorly rotated ears.
+
+302
+00:40:05,730 --> 00:40:12,280
+Learning disabilities, autism spectrum disorder, and intellectual disability also are common.
+
+303
+00:40:12,280 --> 00:40:24,355
+Other manifestations include hypocalcemia, renal anomalies, esophageal dysmotility, hearing loss, behavioral disorders, and psychiatric illness, particularly schizophrenia.
+
+304
+00:40:24,355 --> 00:40:33,117
+Chromosomal Translocations These are DNA rearrangements in which a DNA segment breaks away from one chromosome and attaches to another.
+
+305
+00:40:33,117 --> 00:40:38,142
+The rearranged chromosomes are called derivative (der) chromosomes.
+
+306
+00:40:38,142 --> 00:40:42,580
+The two types are reciprocal and robertsonian translocations.
+
+307
+00:40:42,580 --> 00:40:45,255
+Reciprocal Translocations.
+
+308
+00:40:45,255 --> 00:40:53,530
+A double-segment or reciprocal translocation results when breaks occur in two different chromosomes and the broken fragments are exchanged.
+
+309
+00:40:53,530 --> 00:40:57,367
+Each affected chromosome receives a fragment of the other.
+
+310
+00:40:57,367 --> 00:41:03,530
+If no chromosomal material is gained or lost, the translocation is considered balanced.
+
+311
+00:41:03,530 --> 00:41:09,030
+The prevalence of reciprocal translocations approximates 1 in 600 births.
+
+312
+00:41:09,030 --> 00:41:14,155
+The carrier of a balanced translocation will usually have a normal phenotype.
+
+313
+00:41:14,155 --> 00:41:27,117
+However, repositioning of specific genes within chromosomal segments may cause major structural or developmental abnormalities in approximately 6 percent of apparently balanced translocation carriers.
+
+314
+00:41:27,117 --> 00:41:37,880
+Using CMA technology, up to 20 percent of individuals who appear to have a balanced translocation are found instead to have missing or redundant DNA segments .
+
+315
+00:41:37,880 --> 00:41:45,255
+Balanced translocation carriers are at risk to produce unbalanced gametes, resulting in abnormal offspring.
+
+316
+00:41:45,255 --> 00:42:00,167
+As shown in Figure 16-7, if an oocyte or sperm contains a translocated chromosome, fertilization results in an unbalanced translocation—monosomy for part of one affected chromosome and trisomy for part of the other.
+
+317
+00:42:00,167 --> 00:42:12,005
+In general, translocation carriers identified after the birth of an abnormal child have a 5- to 30-percent risk of producing liveborn offspring with an unbalanced translocation.
+
+318
+00:42:12,005 --> 00:42:20,342
+Carriers identified for other reasons, for example, during an infertility evaluation, have only a 5-percent risk.
+
+319
+00:42:20,342 --> 00:42:25,980
+This risk is lower because gametes are so abnormal that conceptions are nonviable.
+
+320
+00:42:25,980 --> 00:42:28,480
+Figure 16-7.
+
+321
+00:42:28,480 --> 00:42:43,117
+A carrier of a balanced translocation may produce offspring who are also carriers of the balanced rearrangement (B), offspring with unbalanced translocations (C, D), or offspring with normal chromosomal complements (A).
+
+322
+00:42:43,117 --> 00:42:45,942
+Robertsonian Translocations.
+
+323
+00:42:45,942 --> 00:42:53,780
+These involve only the acrocentric chromosomes—13, 14, 15, 21, and 22.
+
+324
+00:42:53,780 --> 00:43:02,680
+Acrocentric chromosomes have extremely short p arms, and the p arms contain redundant copies of genes coding for ribosomal RNA.
+
+325
+00:43:02,680 --> 00:43:14,505
+In a robertsonian translocation, the q arms of two acrocentric chromosomes fuse at one centromere to form a derivative chromosome, and the other centromere and both p arms are lost.
+
+326
+00:43:14,505 --> 00:43:24,155
+The lost DNA is present in multiple copies on other acrocentric chromosomes, and thus the translocation carrier is usually phenotypically normal.
+
+327
+00:43:24,155 --> 00:43:32,955
+Because the number of centromeres determines the chromosome count, a robertsonian translocation carrier has only 45 chromosomes.
+
+328
+00:43:32,955 --> 00:43:37,342
+Balanced robertsonian carriers have reproductive difficulties.
+
+329
+00:43:37,342 --> 00:43:45,805
+During fertilization, if the derivative chromosome pairs with a normal haploid chromosome, the resulting offspring will have trisomy.
+
+330
+00:43:45,805 --> 00:43:54,280
+If the fused chromosomes are homologous, that is, from the same chromosome pair, the carrier can produce only unbalanced gametes.
+
+331
+00:43:54,280 --> 00:44:04,680
+Each egg or sperm contains either both copies of the translocated chromosome, which would result in trisomy if fertilized, or no copy, which would result in monosomy.
+
+332
+00:44:04,680 --> 00:44:11,042
+If the fused chromosomes are nonhomologous, four of the six possible gametes would be abnormal.
+
+333
+00:44:11,042 --> 00:44:16,230
+Robertsonian translocations are found in 1 in 1000 individuals.
+
+334
+00:44:16,230 --> 00:44:25,967
+The risk to have an abnormal offspring approximates 15 percent if a robertsonian translocation is carried by the mother and 2 percent if carried by the father.
+
+335
+00:44:25,967 --> 00:44:35,455
+However, robertsonian translocations are not a major cause of miscarriage and are identified in fewer than 5 percent of couples evaluated for
+
+336
+00:44:35,620 --> 00:44:38,045
+recurrent pregnancy loss.
+
+337
+00:44:37,995 --> 00:44:45,620
+If a fetus or child is found to have a translocation trisomy, both parents should be offered karyotype analysis.
+
+338
+00:44:45,620 --> 00:44:50,545
+If neither parent is a carrier, the recurrence risk is extremely low.
+
+339
+00:44:50,545 --> 00:45:03,057
+The most common robertsonian translocation is der(13;14)(q10;q10), which accounts for up to 20 percent of cases of Patau syndrome (p. 313).
+
+340
+00:45:03,057 --> 00:45:11,157
+Isochromosomes When either two p arms or two q arms from the same chromosome fuse together, an isochromosome results.
+
+341
+00:45:11,157 --> 00:45:18,195
+This may occur if the centromere breaks transversely instead of longitudinally during meiosis II or mitosis.
+
+342
+00:45:18,195 --> 00:45:25,545
+Alternately, an isochromosome can result from a meiotic error in a chromosome with a robertsonian translocation.
+
+343
+00:45:25,545 --> 00:45:34,107
+If the isochromosome is acrocentric, it is composed of two q arms and will behave like a homologous robertsonian translocation.
+
+344
+00:45:34,107 --> 00:45:40,407
+Such a carrier is phenotypically normal but can produce only abnormal, unbalanced gametes.
+
+345
+00:45:40,407 --> 00:45:47,370
+If the isochromosome is nonacrocentric, it may be composed of either two p arms or two q arms.
+
+346
+00:45:47,370 --> 00:45:54,907
+Functionally this results in trisomy of the genes on the arms that are present and monosomy of the genes on the arms that are lost.
+
+347
+00:45:54,907 --> 00:46:01,245
+Thus, the carrier is usually phenotypically abnormal and produces abnormal gametes.
+
+348
+00:46:01,245 --> 00:46:11,232
+The most common isochromosome involves the long arm of the X chromosome, i(Xq), which is the etiology of 15 percent of cases of Turner syndrome.
+
+349
+00:46:11,232 --> 00:46:20,032
+Chromosomal Inversions When the same chromosome breaks in two places, the intervening genetic material may invert before the breaks are repaired.
+
+350
+00:46:20,032 --> 00:46:26,145
+Although no genetic material is lost or duplicated, an inversion may alter gene function.
+
+351
+00:46:26,145 --> 00:46:30,595
+There are two types—pericentric and paracentric inversions.
+
+352
+00:46:30,595 --> 00:46:32,895
+Pericentric Inversion.
+
+353
+00:46:32,895 --> 00:46:40,557
+This results from breaks in both the p and q arms of a chromosome, such that the inverted material spans the centromere .
+
+354
+00:46:40,557 --> 00:46:51,670
+A pericentric inversion causes problems in chromosomal alignment during meiosis and confers significant risk for the carrier to produce abnormal gametes and abnormal offspring.
+
+355
+00:46:51,670 --> 00:46:59,520
+The observed risk of abnormal offspring is 5 to 10 percent if ascertainment is made after the birth of an abnormal child.
+
+356
+00:46:59,520 --> 00:47:04,332
+The risk is only 1 to 3 percent if prompted by another indication.
+
+357
+00:47:04,332 --> 00:47:16,520
+An important exception is inv(9)(p11q12), a pericentric inversion on chromosome 9 that is a normal variant and present in approximately 1 percent of the population.
+
+358
+00:47:16,520 --> 00:47:18,932
+Figure 16-8.
+
+359
+00:47:18,932 --> 00:47:24,907
+Pericentric inversion involves the centromere, whereas paracentric inversion does not.
+
+360
+00:47:24,907 --> 00:47:31,607
+Individuals with pericentric inversions are at risk to have offspring with a duplication/deletion.
+
+361
+00:47:31,607 --> 00:47:37,120
+Those with paracentric inversions are at increased risk for early pregnancy loss.
+
+362
+00:47:37,120 --> 00:47:39,445
+Paracentric Inversion.
+
+363
+00:47:39,445 --> 00:47:50,020
+If one arm of a chromosome suffers the two breaks, the inverted material does not include the centromere, and the inversion is paracentric (see Fig. 16-8).
+
+364
+00:47:50,020 --> 00:47:56,920
+The carrier makes either normal balanced gametes or gametes that are so abnormal as to preclude fertilization.
+
+365
+00:47:56,920 --> 00:48:03,920
+Thus, although infertility may be a problem, the risk of having an abnormal offspring is extremely low.
+
+366
+00:48:03,920 --> 00:48:11,520
+Ring Chromosome If a deletion occurs at each end of the same chromosome, the ends may come together to form a ring chromosome.
+
+367
+00:48:11,520 --> 00:48:19,232
+The telomere regions at the ends of each chromosome contain redundant nucleoprotein complexes that stabilize the chromosome.
+
+368
+00:48:19,232 --> 00:48:26,245
+If only the telomeres are lost, all necessary genetic material is retained, and the carrier is balanced.
+
+369
+00:48:26,245 --> 00:48:33,170
+If a deletion extends more proximally than the telomere, the carrier is likely to be phenotypically abnormal.
+
+370
+00:48:33,170 --> 00:48:38,620
+An example of this is the ring X chromosome, which may result in Turner syndrome.
+
+371
+00:48:38,620 --> 00:48:40,982
+# Mosaicism.
+
+372
+00:48:40,982 --> 00:48:47,970
+A mosaic individual has two or more cytogenetically distinct cell lines that are derived from a single zygote.
+
+373
+00:48:47,970 --> 00:49:00,695
+Phenotypic expression of mosaicism depends on several factors, including whether the cytogenetically abnormal cells involve the fetus, part of the fetus, just the placenta, or some combination.
+
+374
+00:49:00,695 --> 00:49:06,995
+Mosaicism is found in approximately 0.3 percent of amnionic fluid cultures .
+
+375
+00:49:06,995 --> 00:49:15,957
+When abnormal cells are present in only a single flask of amnionic fluid, the finding is likely pseudomosaicism, caused by cell-culture
+
+376
+00:49:16,108 --> 00:49:21,033
+artifact (Bui, 1984; Hsu, 1984).
+
+377
+00:49:20,983 --> 00:49:27,295
+When abnormal cells involve multiple cultures, however, true mosaicism is more likely.
+
+378
+00:49:27,295 --> 00:49:37,045
+Further testing verifies a second cell line in 60 to 70 percent of these fetuses (Hsu, 1984; Worton, 1984).
+
+379
+00:49:37,045 --> 00:49:46,620
+Confined Placental Mosaicism Mosaicism involving a gene abnormality is detected in 1 to 2 percent of chorionic villus sampling specimens.
+
+380
+00:49:46,620 --> 00:49:49,445
+Amniocentesis should be offered.
+
+381
+00:49:49,445 --> 00:50:00,845
+In a series of more than 1000 pregnancies with mosaicism at chorionic villus sampling, subsequent amniocentesis identified true fetal mosaicism in 13 percent.
+
+382
+00:50:00,845 --> 00:50:11,645
+Confined placental mosaicism accounted for 85 percent of cases, and uniparental disomy, discussed later (p. 322), was found in 2 percent .
+
+383
+00:50:11,645 --> 00:50:26,820
+If mosaicism is detected for a chromosome known to contain imprinted genes—such as chromosomes 6, 7, 11, 14, or 15—testing for uniparental disomy should be considered, as there may be fetal consequences .
+
+384
+00:50:26,820 --> 00:50:34,895
+Although outcomes with confined placental mosaicism are generally good, risks of fetal-growth restriction and stillbirth are higher .
+
+385
+00:50:34,895 --> 00:50:40,645
+Fetal-growth restriction may stem from impaired functioning of the aneuploid placental cells .
+
+386
+00:50:40,645 --> 00:50:56,708
+In a recent series of 5500 pregnancies undergoing chorionic villus sampling, the preterm birth rate in pregnancies with confined placental mosaicism was 45 percent, and 50 percent of affected newborns were small for gestational age .
+
+387
+00:50:56,708 --> 00:51:06,645
+Placental mosaicism for trisomy 16 confers a particularly poor prognosis, with as few as 1 in 3 pregnancies resulting in normal outcome .
+
+388
+00:51:06,645 --> 00:51:15,608
+Gonadal Mosaicism Also called germline mosaicism, this refers to having one cell line in gametes and another in somatic cells.
+
+389
+00:51:15,608 --> 00:51:21,658
+A genetic abnormality that is confined to gamete cells will affect all cells in the offspring.
+
+390
+00:51:21,658 --> 00:51:28,708
+Thus, gonadal mosaicism can account for apparently de-novo diseases in the offspring of normal parents.
+
+391
+00:51:28,708 --> 00:51:40,570
+Because spermatogonia and oogonia divide throughout fetal life, and spermatogonia continue to divide throughout adulthood, a meiotic error can occur in germ cells that were previously normal.
+
+392
+00:51:40,570 --> 00:51:50,033
+New mutations identified in an offspring whose father is older than 40 may arise through this mechanism, as discussed later (p. 319) .
+
+393
+00:51:50,033 --> 00:51:58,333
+Gonadal mosaicism also explains the 6-percent recurrence risk after the birth of a child with a disease caused by a “new” mutation.
+
+394
+00:51:58,333 --> 00:52:00,533
+Modes Of Inheritance.
+
+395
+00:52:00,533 --> 00:52:09,645
+A monogenic or mendelian disorder is caused by a mutation or alteration in a single locus or gene in one or both members of a gene pair.
+
+396
+00:52:09,645 --> 00:52:16,933
+Types of mendelian inheritance include autosomal dominant, autosomal recessive, Xlinked, and Y-linked .
+
+397
+00:52:16,933 --> 00:52:26,533
+Other monogenic inheritance patterns include mitochondrial inheritance, uniparental disomy, imprinting, and trinucleotide repeat expansion.
+
+398
+00:52:26,533 --> 00:52:29,020
+Table 16-3.
+
+399
+00:52:29,020 --> 00:52:36,008
+Selected Monogenic (Mendelian) Disorders # Relationship between Phenotype and Genotype.
+
+400
+00:52:36,008 --> 00:52:42,470
+When considering inheritance, it is the phenotype that is dominant or recessive, not the genotype.
+
+401
+00:52:42,470 --> 00:52:52,370
+If a disease is dominant, a normal gene directs the production of normal protein, but the phenotype will be abnormal because of protein produced by the abnormal gene.
+
+402
+00:52:52,370 --> 00:53:04,833
+A heterozygous carrier of a recessive disease may produce detectable levels of an abnormal gene product but have no features of the condition, because the phenotype is directed by the product of the normal co-gene.
+
+403
+00:53:04,833 --> 00:53:18,495
+For example, erythrocytes from carriers of sickle-cell anemia contain approximately 30 percent hemoglobin S, but because the other 70 percent is hemoglobin A, these cells do not usually sickle in vivo.
+
+404
+00:53:18,495 --> 00:53:25,858
+Heterogeneity Genetic heterogeneity explains how different genetic mechanisms may result in the same phenotype.
+
+405
+00:53:25,858 --> 00:53:33,595
+Locus heterogeneity indicates that a specific disease phenotype can be caused by mutations in different genetic loci.
+
+406
+00:53:33,595 --> 00:53:39,133
+It also explains why some diseases appear to follow more than one type of inheritance.
+
+407
+00:53:39,133 --> 00:53:52,145
+For example, retinitis pigmentosa may develop following mutations in at least 35 different genes or loci and may result in autosomal dominant, autosomal recessive, or X-linked forms.
+
+408
+00:53:52,145 --> 00:53:59,295
+Allelic heterogeneity describes how different mutations of the same gene may affect presentation of a particular
+
+409
+00:53:59,452 --> 00:54:01,052
+disease.
+
+410
+00:54:01,002 --> 00:54:16,877
+For example, although only one gene has been associated with cystic fibrosis—the cystic fibrosis conductance transmembrane regulator gene—more than 2000 mutations in this gene have been described and result in variable disease severity (Chaps.
+
+411
+00:54:16,877 --> 00:54:22,777
+17, p. 342 and 54, p. 968).
+
+412
+00:54:22,777 --> 00:54:29,902
+Phenotypic heterogeneity explains how different disease states can arise from different mutations in the same gene.
+
+413
+00:54:29,902 --> 00:54:47,264
+As an example, mutations in the fibroblast growth factor receptor 3 (FGFR3) gene may result in several different skeletal disorders, including achondroplasia and thanatophoric dysplasia, both of which are discussed in Chapter 15 (p. 302).
+
+414
+00:54:47,264 --> 00:54:50,627
+# Autosomal Dominant Inheritance.
+
+415
+00:54:50,627 --> 00:54:56,939
+If only one copy of a gene pair determines the phenotype, that gene is considered to be dominant.
+
+416
+00:54:56,939 --> 00:55:02,602
+Carriers have a 50-percent chance of passing on the affected gene with each conception.
+
+417
+00:55:02,602 --> 00:55:08,827
+A gene with a dominant mutation generally specifies the phenotype in preference to the normal gene.
+
+418
+00:55:08,827 --> 00:55:15,914
+That said, not all individuals will necessarily manifest an autosomal dominant condition the same way.
+
+419
+00:55:15,914 --> 00:55:24,589
+Factors that affect the phenotype of an autosomal dominant condition include penetrance, expressivity, and presence of codominant genes.
+
+420
+00:55:24,589 --> 00:55:29,739
+Penetrance This characteristic describes whether a dominant gene is expressed.
+
+421
+00:55:29,739 --> 00:55:35,889
+A gene with recognizable phenotypic expression in all individuals has complete penetrance.
+
+422
+00:55:35,889 --> 00:55:41,102
+Penetrance is incomplete if some carriers express the gene but others do not.
+
+423
+00:55:41,102 --> 00:55:46,414
+A gene that is expressed in 80 percent of individuals is 80percent penetrant.
+
+424
+00:55:46,414 --> 00:55:53,164
+Incomplete penetrance explains why some autosomal dominant diseases may appear to “skip” generations.
+
+425
+00:55:53,164 --> 00:56:01,539
+Expressivity Individuals with the same autosomal dominant trait may manifest the condition differently, even within the same family.
+
+426
+00:56:01,539 --> 00:56:08,064
+Genes with variable expressivity can produce disease manifestations that range from mild to severe.
+
+427
+00:56:08,064 --> 00:56:15,214
+Examples include neurofibromatosis, tuberous sclerosis, and adult polycystic kidney disease.
+
+428
+00:56:15,214 --> 00:56:23,027
+Codominant Genes If two different alleles in a gene pair are both expressed in the phenotype, they are considered to be codominant.
+
+429
+00:56:23,027 --> 00:56:31,627
+Blood type, for example, is determined by expression of dominant A and B red-cell antigens that can be expressed simultaneously.
+
+430
+00:56:31,627 --> 00:56:37,439
+Another example of codominance is the group of genes responsible for hemoglobin production.
+
+431
+00:56:37,439 --> 00:56:47,452
+If one gene directs production of hemoglobin S and the other directs production of hemoglobin C, that individual will produce both S and C hemoglobin .
+
+432
+00:56:47,452 --> 00:56:55,277
+Advanced Paternal Age Paternal age older than 40 is associated with increased risk for spontaneous genetic mutations.
+
+433
+00:56:55,277 --> 00:57:04,102
+Spermatogonia undergo mitotic division every 16 days, and the many replications raise the risk for single base-pair mutations.
+
+434
+00:57:04,102 --> 00:57:12,002
+As a result, offspring of older fathers are at risk for new autosomal dominant disorders and X-linked carrier states.
+
+435
+00:57:12,002 --> 00:57:16,652
+Several in particular have been termed paternal age effect disorders .
+
+436
+00:57:16,652 --> 00:57:41,689
+These include mutations in the fibroblast growth factor receptor 2 (FGFR2) gene, which may cause craniosynostosis syndromes such as Apert, Crouzon, and Pfeiffer syndromes; mutations in the FGFR3 gene, which may result in achondroplasia and thanatophoric dysplasia; and mutations in the RET proto-oncogene, which may cause multiple endocrine neoplasia syndromes .
+
+437
+00:57:41,689 --> 00:57:55,314
+Using whole genome sequencing to study SNPs among offspring of older fathers, Kong and associates (2012) found an increase of approximately two mutations for each year of paternal age past 40.
+
+438
+00:57:55,314 --> 00:58:03,039
+The absolute risk for any specific condition is low, because individual autosomal dominant disorders are uncommon.
+
+439
+00:58:03,039 --> 00:58:07,402
+Thus, no screening or testing is specifically recommended.
+
+440
+00:58:07,402 --> 00:58:10,814
+# Autosomal Recessive Inheritance.
+
+441
+00:58:10,814 --> 00:58:15,589
+Recessive diseases develop only when both gene copies are abnormal.
+
+442
+00:58:15,589 --> 00:58:25,814
+Unless carriers are screened for a specific disease, they usually are recognized only after the birth of an affected child or the diagnosis of an affected family member.
+
+443
+00:58:25,814 --> 00:58:34,127
+If a couple has a child with an autosomal recessive disease, the recurrence risk is 25 percent for each subsequent pregnancy.
+
+444
+00:58:34,127 --> 00:58:39,602
+Thus, 1/4 of offspring will be homozygous normal, 2/4 will be
+
+445
+00:58:39,772 --> 00:58:44,772
+heterozygous carriers, and 1/4 will be homozygous abnormal.
+
+446
+00:58:44,722 --> 00:58:53,309
+In other words, three of four children will be phenotypically normal, and 2/3 of phenotypically normal siblings are actually carriers.
+
+447
+00:58:53,309 --> 00:59:02,784
+A heterozygous carrier of a recessive condition is only at risk to have affected children if her or his partner is heterozygous or homozygous for the disease.
+
+448
+00:59:02,784 --> 00:59:08,834
+Genes for rare autosomal recessive conditions have low prevalence in the general population.
+
+449
+00:59:08,834 --> 00:59:17,597
+Thus, the likelihood that a partner will be a gene carrier is small, unless there is consanguinity or the partner is a member of an at-risk group.
+
+450
+00:59:17,597 --> 00:59:22,784
+Carrier screening is discussed in Chapter 17 (p. 342).
+
+451
+00:59:22,784 --> 00:59:35,759
+Preimplantation genetic testing allows a blastocyst to be genetically evaluated prior to intrauterine transfer during in vitro fertilization and is described also in Chapter 17 (p. 348).
+
+452
+00:59:35,759 --> 00:59:47,934
+Inborn Errors of Metabolism Most of these autosomal recessive diseases result from absence of a crucial enzyme, leading to incomplete metabolism of proteins, lipids, or carbohydrates.
+
+453
+00:59:47,934 --> 00:59:56,759
+The metabolic intermediates that build up are toxic to various tissues and may result in intellectual disability or other abnormalities.
+
+454
+00:59:56,759 --> 00:59:58,847
+Phenylketonuria.
+
+455
+00:59:58,847 --> 01:00:08,584
+Also known as phenylalanine hydroxylase (PAH) deficiency, this autosomal recessive disease is caused by mutations in the PAH gene.
+
+456
+01:00:08,584 --> 01:00:16,197
+PAH metabolizes phenylalanine to tyrosine, and homozygotes have diminished or absent enzyme activity.
+
+457
+01:00:16,197 --> 01:00:28,184
+This leads to abnormally high levels of phenylalanine, which results in progressive intellectual impairment, autism, seizures, motor deficits, and neuropsychological abnormalities .
+
+458
+01:00:28,184 --> 01:00:40,234
+Because phenylalanine competitively inhibits tyrosine hydroxylase, which is essential for melanin production, affected individuals also have hair, eye, and skin hypopigmentation.
+
+459
+01:00:40,234 --> 01:00:47,859
+More than 600 PAH gene mutations have been characterized, and the carrier frequency varies by ethnicity.
+
+460
+01:00:47,859 --> 01:00:56,822
+For those of Northern European origin, carrier frequency is 1 in 50, such that the disease affects up to 1 in 10,000 newborns .
+
+461
+01:00:56,822 --> 01:01:05,184
+Prompt diagnosis and restriction of dietary phenylalanine beginning early in infancy are essential to prevent neurological damage.
+
+462
+01:01:05,184 --> 01:01:10,272
+All states mandate newborn screening for phenylketonuria (PKU).
+
+463
+01:01:10,272 --> 01:01:19,809
+Phenylalanine restriction alone would result in inadequate protein consumption, and phenylalanine-free amino acid–based supplementation is required.
+
+464
+01:01:19,809 --> 01:01:34,297
+Maintenance of phenylalanine concentrations in the range of 2 to 6 mg/dL (120 to 360 μmol/L) is recommended from at least 3 months prior to pregnancy and continuing throughout pregnancy .
+
+465
+01:01:34,297 --> 01:01:39,297
+Unfortunately, phenylalanine is actively transported to the fetus.
+
+466
+01:01:39,297 --> 01:01:55,584
+Women with PKU whose phenylalanine levels remain above the recommended range during pregnancy are at risk to have otherwise normal (heterozygous) offspring who sustain significant in utero damage as a result of being exposed to toxic phenylalanine concentrations.
+
+467
+01:01:55,584 --> 01:02:08,984
+Hyperphenylalaninemia raises the risk for miscarriage and for PKU embryopathy, which is characterized by intellectual disability, microcephaly, seizures, growth impairment, and cardiac anomalies.
+
+468
+01:02:08,984 --> 01:02:23,159
+Among women on unrestricted diets, the risk to have a child with intellectual disability exceeds 90 percent, microcephaly develops in more than 70 percent, and as many as 1 in 6 children have cardiac defects.
+
+469
+01:02:23,159 --> 01:02:44,647
+The Maternal Phenylketonuria Collaborative Study, which included 572 pregnancies followed more than 18 years, reported that maintenance of serum phenylalanine levels in the recommended range significantly reduced the fetal abnormality risk and resulted in normal childhood IQ scores (Koch, 2003; Platt, 2000).
+
+470
+01:02:44,647 --> 01:02:57,647
+Approximately 25 to 50 percent of individuals with PKU experience a significant decline in phenylalanine levels when treated with the synthetic PAH cofactor tetrahydrobiopterin (sapropterin) .
+
+471
+01:02:57,647 --> 01:03:07,009
+Based on registry data, sapropterin is considered a treatment option for those in whom phenylalanine levels remain elevated despite dietary therapy .
+
+472
+01:03:07,009 --> 01:03:14,047
+Preconceptional counseling and consultation with providers from experienced PKU centers is recommended.
+
+473
+01:03:14,047 --> 01:03:19,247
+Consanguinity In medical genetics, a union is consanguineous if
+
+474
+01:03:19,396 --> 01:03:22,946
+between second cousins or closer relatives.
+
+475
+01:03:22,896 --> 01:03:31,258
+Although uncommon in Western countries, the global estimate of consanguineous parentage approximates 10 percent of the population .
+
+476
+01:03:31,258 --> 01:03:38,958
+More than 1 billion people are estimated to live in countries in which 20 to 50 percent of marriages are consanguineous .
+
+477
+01:03:38,958 --> 01:03:48,283
+First-degree relatives share half of their genes, seconddegree relatives share a fourth, and third-degree relatives—first cousins— share one eighth.
+
+478
+01:03:48,283 --> 01:04:00,408
+Because of the potential for shared deleterious genes, consanguinity confers an increased risk to have offspring with otherwise rare autosomal recessive diseases or multifactorial disorders.
+
+479
+01:04:00,408 --> 01:04:11,946
+In populationbased series, first cousins have twice the risk for offspring with congenital abnormalities (Sheridan, 2013; Stoltenberg, 1997).
+
+480
+01:04:11,946 --> 01:04:16,596
+Consanguinity is also associated with a greater rate of stillbirth .
+
+481
+01:04:16,596 --> 01:04:26,408
+Because CMA performed using a SNP platform may identify consanguinity, it is important that preprocedural counseling include this possibility.
+
+482
+01:04:26,408 --> 01:04:35,071
+Incest is defined as a sexual relationship between first-degree relatives such as parent-child or brother-sister and is universally illegal.
+
+483
+01:04:35,071 --> 01:04:39,996
+Progeny of such unions carry the highest risk of abnormal outcomes.
+
+484
+01:04:39,996 --> 01:04:52,071
+Older studies reported that up to 40 percent of offspring were abnormal as a result of recessive and multifactorial disorders (Baird, 1982; Freire-Maia, 1984).
+
+485
+01:04:52,071 --> 01:04:55,596
+# X-Linked and Y-Linked Inheritance.
+
+486
+01:04:55,596 --> 01:04:58,783
+Most X-linked diseases are recessive.
+
+487
+01:04:58,783 --> 01:05:06,346
+Common examples include color blindness, hemophilia A and B, and Duchenne and Becker muscular dystrophy.
+
+488
+01:05:06,346 --> 01:05:16,346
+A male with an X-linked recessive gene is usually affected by the disease it causes, because he lacks a second X chromosome to express the normal dominant gene.
+
+489
+01:05:16,346 --> 01:05:23,508
+However, a male with an X-linked disease cannot have affected sons because they do not receive his X chromosome.
+
+490
+01:05:23,508 --> 01:05:34,696
+When a woman carries a gene causing an X-linked recessive condition, each son has a 50-percent risk of being affected, and each daughter has a 50-percent chance of being a carrier.
+
+491
+01:05:34,696 --> 01:05:40,508
+Women with an X-linked recessive gene are generally unaffected by the disease it causes.
+
+492
+01:05:40,508 --> 01:05:51,958
+In some cases, however, the random inactivation of one X chromosome in each cell—termed lyonization—is skewed, and female carriers may have features of the condition.
+
+493
+01:05:51,958 --> 01:06:06,796
+For example, approximately 10 percent of female carriers of hemophilia A will have factor VIII levels less than 30 percent of normal, and a similar proportion of female hemophilia B carriers have factor IX levels less than 30 percent.
+
+494
+01:06:06,796 --> 01:06:13,258
+Levels below these thresholds confer a greater risk for abnormal bleeding when affected women give birth .
+
+495
+01:06:13,258 --> 01:06:20,158
+Indeed, even with higher levels, carriers are reported to be at increased risk for bleeding complications .
+
+496
+01:06:20,158 --> 01:06:32,883
+Female carriers of Duchenne or Becker muscular dystrophy carry an elevated risk for cardiomyopathy, and periodic evaluation for cardiac dysfunction and neuromuscular disorders is recommended .
+
+497
+01:06:32,883 --> 01:06:39,108
+X-linked dominant disorders mainly affect females, because they tend to be lethal in males.
+
+498
+01:06:39,108 --> 01:06:44,408
+Two examples are vitamin D–resistant rickets and incontinentia pigmenti.
+
+499
+01:06:44,408 --> 01:06:49,408
+An important exception is fragile X syndrome, discussed subsequently.
+
+500
+01:06:49,408 --> 01:06:52,733
+The prevalence of Y-linked disorders is low.
+
+501
+01:06:52,733 --> 01:07:01,671
+The Y-chromosome carries genes important for sex determination and various cellular functions related to spermatogenesis and bone development.
+
+502
+01:07:01,671 --> 01:07:13,671
+Deletion of genes on the long arm of Y results in severe spermatogenic defects, whereas genes at the tip of the short arm are critical for chromosomal pairing during meiosis and for fertility.
+
+503
+01:07:13,671 --> 01:07:16,771
+# Mitochondrial Inheritance.
+
+504
+01:07:16,771 --> 01:07:23,821
+Human cells contain hundreds of mitochondria, each with its own genome and associated replication system.
+
+505
+01:07:23,821 --> 01:07:28,171
+Oocytes have approximately 100,000 mitochondria.
+
+506
+01:07:28,171 --> 01:07:33,621
+Sperm have only about 100, and the latter are destroyed after fertilization.
+
+507
+01:07:33,621 --> 01:07:42,083
+Each mitochondrion has multiple copies of a 16.5-kb circular DNA molecule that contains 37 genes.
+
+508
+01:07:42,083 --> 01:07:50,858
+Mitochondrial DNA encodes peptides required for oxidative phosphorylation and encodes ribosomal and transfer RNAs.
+
+509
+01:07:50,858 --> 01:07:54,871
+Mitochondria are inherited exclusively from the mother.
+
+510
+01:07:54,871 --> 01:07:58,471
+Thus, although males and females both can
+
+511
+01:07:58,636 --> 01:08:04,923
+be affected by a mitochondrial disorder, a male cannot transmit the condition to his offspring.
+
+512
+01:08:04,873 --> 01:08:13,848
+When a cell replicates, mitochondrial DNA sorts randomly into each of the resulting cells, a process termed replicative segregation.
+
+513
+01:08:13,848 --> 01:08:22,348
+As a consequence of replicative segregation, any mitochondrial mutation will be propagated randomly into the newly formed cells.
+
+514
+01:08:22,348 --> 01:08:32,873
+Because each cell holds multiple copies of mitochondrial DNA, the mitochondrion may contain only normal or only abnormal DNA, termed homoplasmy.
+
+515
+01:08:32,873 --> 01:08:39,173
+Alternatively, it may contain both normal and mutated DNA, namely heteroplasmy.
+
+516
+01:08:39,173 --> 01:08:49,411
+If a heteroplasmic oocyte is fertilized, the relative proportion of mutated DNA may affect whether the individual manifests a given mitochondrial disease.
+
+517
+01:08:49,411 --> 01:08:57,561
+It is not possible to predict the potential degree of heteroplasmy among offspring, and this poses challenges for genetic counseling.
+
+518
+01:08:57,561 --> 01:09:03,298
+There are 33 mitochondrial diseases or conditions with known molecular bases .
+
+519
+01:09:03,298 --> 01:09:17,211
+Examples include myoclonic epilepsy with ragged red fibers (MERRF), Leber optic atrophy, KearnsSayre syndrome, Leigh syndrome, and several forms of mitochondrial myopathy and cardiomyopathy.
+
+520
+01:09:17,211 --> 01:09:20,686
+# DNA Triplet Repeat Expansion.
+
+521
+01:09:20,686 --> 01:09:28,798
+Mendel’s first law is that genes are passed unchanged from parent to progeny, and barring new mutations, this is often true.
+
+522
+01:09:28,798 --> 01:09:37,248
+Certain genes, however, contain a region of DNA trinucleotide repeats that can expand during parent-to-child transmission.
+
+523
+01:09:37,248 --> 01:09:45,948
+The expansion can occur during male meiosis, as in Huntington disease, or during female meiosis, as in fragile X syndrome.
+
+524
+01:09:45,948 --> 01:09:58,373
+Clinically, DNA triplet repeat expansion is manifested by anticipation—a phenomenon in which a disease may manifest at an earlier age or become more severe with each successive generation.
+
+525
+01:09:58,373 --> 01:10:03,973
+Examples of DNA triplet repeat diseases are shown in Table 16-4.
+
+526
+01:10:03,973 --> 01:10:06,448
+Table 16-4.
+
+527
+01:10:06,448 --> 01:10:15,048
+Some Disorders Caused by DNA Triplet Repeat Expansion Fragile X Syndrome This is the most common inherited intellectual disability.
+
+528
+01:10:15,048 --> 01:10:22,811
+Fragile X syndrome affects approximately 1 in 3600 males and 1 in 4000 to 6000 females .
+
+529
+01:10:22,811 --> 01:10:33,298
+It is caused by expansion of a repeated trinucleotide DNA segment—cytosine-guanineguanine (CGG)—at chromosome Xq27.3.
+
+530
+01:10:33,298 --> 01:10:44,886
+When the CGG repeat number reaches a critical size—the full mutation—the fragile X mental retardation 1 (FMR1) gene becomes methylated and inactivated.
+
+531
+01:10:44,886 --> 01:10:53,636
+Inactivation halts expression of the FMR1 protein, which is abundant in nerve cells and necessary for normal cognitive development.
+
+532
+01:10:53,636 --> 01:11:04,198
+Individuals with fragile X syndrome may have speech and language problems, attention-deficit/hyperactivity disorder, and autism or autistic-like behaviors.
+
+533
+01:11:04,198 --> 01:11:12,086
+Intellectual disability is generally more severe in males, in whom average IQ scores are 35 to 45 .
+
+534
+01:11:12,086 --> 01:11:24,023
+The syndrome has characteristic phenotypic features—a narrow face with large jaw, prominent ears, connective tissue abnormalities, and macroorchidism in postpubertal males.
+
+535
+01:11:24,023 --> 01:11:31,348
+Both the sex of the affected individual and the number of CGG repeats determine the degree of clinical impairment.
+
+536
+01:11:31,348 --> 01:11:45,473
+Clinically, four groups have been described : • Full mutation—more than 200 repeats • Premutation—55 to 200 repeats • Intermediate—45 to 54 repeats • Unaffected—fewer than 45 repeats.
+
+537
+01:11:45,473 --> 01:11:50,023
+Full mutations are expressed in all males and many females.
+
+538
+01:11:50,023 --> 01:11:57,748
+Males with full mutations typically have significant cognitive and behavioral abnormalities and phenotypic features.
+
+539
+01:11:57,748 --> 01:12:06,211
+In females, random X chromosome inactivation results in variable expression, and the disability may be much less severe.
+
+540
+01:12:06,211 --> 01:12:12,898
+With rare exception, the parent of origin of repeat expansion that leads to a full mutation is female .
+
+541
+01:12:12,898 --> 01:12:16,586
+Counseling for a premutation is more complex.
+
+542
+01:12:16,586 --> 01:12:31,898
+The woman with a fragile X premutation may have offspring with the full mutation, and the risk ranges from ≤5 percent with fewer than 70 CGG repeats to >95 percent with 100 to 200 CGG repeats .
+
+543
+01:12:31,898 --> 01:12:39,536
+Expansion is extremely unlikely in a male premutation carrier, but all of his daughters will carry the premutation.
+
+544
+01:12:39,536 --> 01:12:49,173
+Among women with no risk factors, approximately 1 in 250 carries a fragile X premutation, and in those with a family history of
+
+545
+01:12:49,324 --> 01:12:53,961
+intellectual disability, the risk approximates 1 in 90 .
+
+546
+01:12:53,911 --> 01:13:00,186
+Fragile X premutation carriers may themselves experience significant health consequences.
+
+547
+01:13:00,186 --> 01:13:12,774
+Males with a premutation are at risk for the fragile X tremor ataxia syndrome (FXTAS), which is characterized by memory loss, executive function deficits, anxiety, and dementia .
+
+548
+01:13:12,774 --> 01:13:22,711
+Females are at decreased risk for FXTAS, but they have a 20-percent risk for fragile X-associated primary ovarian insufficiency (POI).
+
+549
+01:13:22,711 --> 01:13:35,049
+Carrier screening is recommended for women with a family history of fragile X syndrome, for those with unexplained intellectual disability, developmental delay, or autism, and for women with POI .
+
+550
+01:13:35,049 --> 01:13:41,174
+Prenatal diagnosis can be accomplished by amniocentesis or chorionic villus sampling.
+
+551
+01:13:41,174 --> 01:13:52,161
+Either type of specimen can be used to evaluate the CGG repeat number, but chorionic villus sampling may not accurately determine FMR1 gene methylation status.
+
+552
+01:13:52,161 --> 01:13:54,299
+# Imprinting.
+
+553
+01:13:54,299 --> 01:14:00,749
+Usually, one copy of each gene is inherited from each parent, and both copies are expressed.
+
+554
+01:14:00,749 --> 01:14:06,986
+Imprinting refers to the situation in which gene expression varies according to the parent of origin.
+
+555
+01:14:06,986 --> 01:14:14,911
+With maternal imprinting, a gene inherited from the mother is transcriptionally silent and the gene inherited from the father is active.
+
+556
+01:14:14,911 --> 01:14:17,686
+Paternal imprinting is the opposite.
+
+557
+01:14:17,686 --> 01:14:28,774
+This phenomenon explains the phenotypic differences that occur in triploid pregnancies according to whether the extra chromosomal set is maternal or paternal (p. 313).
+
+558
+01:14:28,774 --> 01:14:38,899
+Imprinting affects gene expression by epigenetic control, that is, it modifies the phenotype without altering the underlying genetic structure or genotype.
+
+559
+01:14:38,899 --> 01:14:52,374
+Importantly, the effect may be reversed in a subsequent generation, because a female who inherits an imprinted gene from her father will pass it in her oocytes with a maternal—rather than paternal—imprint, and vice versa.
+
+560
+01:14:52,374 --> 01:14:59,249
+An example of imprinting can be found in two very different diseases associated with the same region of DNA.
+
+561
+01:14:59,249 --> 01:15:09,386
+Prader-Willi syndrome is characterized by pronounced hyperphagia with obesity, along with short stature, small hands and feet, and mild mental retardation.
+
+562
+01:15:09,386 --> 01:15:21,849
+In more than 70 percent of cases, Prader-Willi is caused by microdeletion or disruption of a DNA segment on the paternal chromosome 15, 15q11.2-q13.
+
+563
+01:15:21,849 --> 01:15:29,811
+The remaining cases are due to maternal uniparental disomy or due to maternal gene imprinting with the paternal gene inactivated.
+
+564
+01:15:29,811 --> 01:15:43,974
+In contrast, individuals with Angelman syndrome have normal stature and weight but severe intellectual disability, absent speech, seizures, ataxia, jerky arm movements, and paroxysms of inappropriate laughter.
+
+565
+01:15:43,974 --> 01:15:55,749
+In approximately 70 percent of cases, Angelman syndrome is caused by microdeletion for the 15q11.2-q13 DNA segment on the mother’s chromosome 15.
+
+566
+01:15:55,749 --> 01:16:03,111
+This segment contains a gene that codes for ubiquitin protein ligase E3A, an important neural protein.
+
+567
+01:16:03,111 --> 01:16:13,336
+Paternal gene imprinting defects—with maternal genes inactivated—account for 2 to 3 percent, and 2 percent result from paternal uniparental disomy.
+
+568
+01:16:13,336 --> 01:16:18,549
+Table 16-5 lists selected diseases that can involve imprinting.
+
+569
+01:16:18,549 --> 01:16:21,124
+Table 16-5.
+
+570
+01:16:21,124 --> 01:16:25,961
+Some Disorders That Can Involve Imprinting # Uniparental Disomy.
+
+571
+01:16:25,961 --> 01:16:31,336
+This occurs when both members of a chromosome pair are inherited from the same parent.
+
+572
+01:16:31,336 --> 01:16:43,949
+Uniparental disomy usually has no clinical consequences, because gene expression is not generally affected by the parent of origin and because both copies of a chromosome pair are not usually identical.
+
+573
+01:16:43,949 --> 01:16:57,974
+However, if chromosomes 6, 7, 11, 14, or 15 are involved, offspring are at increased risk for an abnormality because of parent-of-origin differences in gene expression, that is, because of imprinting .
+
+574
+01:16:57,974 --> 01:17:06,949
+Several genetic mechanisms may cause uniparental disomy, the most common of which is trisomic rescue, shown in Figure 16-9.
+
+575
+01:17:06,949 --> 01:17:19,111
+After a nondisjunction event produces a trisomic conceptus, one of the three homologues may be lost, resulting in uniparental disomy for that chromosome in approximately one third of cases.
+
+576
+01:17:19,111 --> 01:17:21,624
+Figure 16-9.
+
+577
+01:17:21,624 --> 01:17:26,386
+Mechanism of uniparental disomy arising from trisomic “rescue.
+
+578
+01:17:26,386 --> 01:17:31,774
+A. In normal meiosis, one member of each pair of homologous chromosomes
+
+579
+01:17:31,924 --> 01:17:34,549
+is inherited from each parent.
+
+580
+01:17:34,499 --> 01:17:40,974
+B. If nondisjunction results in a trisomic conceptus, one homologue is sometimes lost.
+
+581
+01:17:40,974 --> 01:17:46,174
+In a third of cases, loss of one homologue leads to uniparental disomy.
+
+582
+01:17:46,174 --> 01:17:53,849
+Uniparental isodisomy occurs when an individual receives two identical copies of one chromosome from the same parent.
+
+583
+01:17:53,849 --> 01:18:07,499
+This mechanism has explained cases of cystic fibrosis in which only one parent is a carrier but the fetus inherits two copies of the same gene mutation (Spence, 1988; Spotila, 1992).
+
+584
+01:18:07,499 --> 01:18:10,836
+# Multifactorial Inheritance.
+
+585
+01:18:10,836 --> 01:18:20,011
+Traits or diseases that are determined by the combination of multiple genes and environmental factors are considered to have multifactorial inheritance .
+
+586
+01:18:20,011 --> 01:18:25,049
+Polygenic traits are determined by the combined effects of more than one gene.
+
+587
+01:18:25,049 --> 01:18:31,449
+Many congenital and acquired conditions and common traits display multifactorial inheritance.
+
+588
+01:18:31,449 --> 01:18:44,124
+Examples include malformations such as neural-tube defects, cardiac defects, and facial clefts; diseases such as diabetes and atherosclerosis; and traits such as head size or height.
+
+589
+01:18:44,124 --> 01:18:50,886
+Multifactorial abnormalities tend to recur in families, but not according to a mendelian pattern.
+
+590
+01:18:50,886 --> 01:18:59,899
+If a couple has had 1 child with a multifactorial birth defect, the risk that another child will be affected is empirically 3 to 5 percent.
+
+591
+01:18:59,899 --> 01:19:05,674
+This risk declines exponentially with successively more distant family relationships.
+
+592
+01:19:05,674 --> 01:19:08,211
+Table 16-6.
+
+593
+01:19:08,211 --> 01:19:17,399
+Characteristics of Multifactorial Diseases Multifactorial traits that have a normal distribution in the population are termed continuously variable.
+
+594
+01:19:17,399 --> 01:19:24,486
+A measurement that is more than two standard deviations above or below the population mean may be considered abnormal.
+
+595
+01:19:24,486 --> 01:19:33,999
+Continuously variable traits tend to be less extreme in the offspring of affected individuals, because of the statistical principle of regression to the mean.
+
+596
+01:19:33,999 --> 01:19:39,599
+Threshold Traits Some multifactorial traits do not appear until a threshold is exceeded.
+
+597
+01:19:39,599 --> 01:19:52,874
+Genetic and environmental factors that create propensity or liability for the trait are themselves normally distributed, and only individuals at extremes of the distribution exceed the threshold and exhibit the trait or defect.
+
+598
+01:19:52,874 --> 01:19:57,349
+The phenotypic abnormality is thus an all-or-none phenomenon.
+
+599
+01:19:57,349 --> 01:20:01,924
+Certain threshold traits have a clear male or female predominance.
+
+600
+01:20:01,924 --> 01:20:09,849
+If an individual of the less affected gender has the characteristic or defect, the risk is greater in his or her offspring .
+
+601
+01:20:09,849 --> 01:20:16,011
+An example is pyloric stenosis, which is approximately four times more common in males .
+
+602
+01:20:16,011 --> 01:20:30,274
+A female with pyloric stenosis has likely inherited more predisposing genetic factors than are necessary to produce the defect in a male, and the recurrence risk for her children or siblings is thus higher than the expected 3 to 5 percent.
+
+603
+01:20:30,274 --> 01:20:40,299
+Her brothers and sons would have the highest liability because they not only will inherit more than the usual number of predisposing genes but also are the more susceptible gender.
+
+604
+01:20:40,299 --> 01:20:42,786
+Figure 16-10.
+
+605
+01:20:42,786 --> 01:20:49,886
+Schematic example of a threshold trait, such as pyloric stenosis, which has a predilection for males.
+
+606
+01:20:49,886 --> 01:20:57,199
+Each gender is normally distributed, but at the same threshold, more males than females will develop the condition.
+
+607
+01:20:57,199 --> 01:21:02,274
+The recurrence risk for threshold traits is also greater if the defect is severe.
+
+608
+01:21:02,274 --> 01:21:14,736
+For example, the recurrence risk after the birth of a child with bilateral cleft lip and palate approximates 8 percent, but it is only about 4 percent following a child with unilateral cleft lip alone.
+
+609
+01:21:14,736 --> 01:21:23,424
+Cardiac Defects Structural cardiac anomalies are the most common birth defects, with a birth prevalence of 8 cases per 1000.
+
+610
+01:21:23,424 --> 01:21:32,911
+The risk of having a child with a cardiac anomaly approximates 5 to 6 percent if the mother has the defect and 2 to 3 percent if the father is affected .
+
+611
+01:21:32,911 --> 01:21:50,474
+Selected left-sided lesions, including hypoplastic left heart syndrome, coarctation of the aorta, and bicuspid aortic valve, may have recurrence risks four- to sixfold higher (Lin, 1988; Lupton, 2002; Nora, 1988).
+
+612
+01:21:50,474 --> 01:21:58,636
+Observed recurrence risks for specific cardiac malformations are listed in Table 52-4 (p. 920).
+
+613
+01:21:58,636 --> 01:22:07,049
+Neural-tube Defects Risk for developing a neural-tube defect (NTD) is influenced by family history, hyperthermia,
+
+614
+01:22:07,204 --> 01:22:13,391
+hyperglycemia, teratogen exposure, obesity, ethnicity, and fetal gender.
+
+615
+01:22:13,341 --> 01:22:23,416
+More than 50 years ago, Hibbard and Smithells (1965) postulated that abnormal folate metabolism was responsible for many NTDs.
+
+616
+01:22:23,416 --> 01:22:36,329
+However, most NTD cases do not occur in the setting of maternal folic acid deficiency, and it has become clear that the gene-nutrient interactions underlying folate-responsive NTDs are complex.
+
+617
+01:22:36,329 --> 01:22:54,441
+For a woman with a prior affected child, the 3- to 5-percent recurrence risk declines by at least 70 percent with 4 mg/d of periconceptional oral folic acid supplementation (Grosse, 2007; MRC Vitamin Study Research Group, 1991).
+
+618
+01:22:54,441 --> 01:23:13,666
+Periconceptional folic acid supplementation also appears to ameliorate the fetal NTD risk in women with pregestational diabetes and in those with exposure to antiepileptic medications, fever during embryogenesis, and obesity (Kerr, 2017; Petersen, 2019).
+
+619
+01:23:13,666 --> 01:23:31,316
+Sonographic features of NTDs are described in Chapter 15 (p. 276), their prevention with folic acid is discussed in Chapter 9 (p. 168), and fetal therapy for myelomeningocele is reviewed in Chapter 19 (p. 372).
+
+620
+01:23:31,316 --> 01:23:33,304
+Genetic Tests.
+
+621
+01:23:33,304 --> 01:23:40,191
+All pregnant women should have the option of prenatal aneuploidy screening and prenatal genetic diagnosis .
+
+622
+01:23:40,191 --> 01:23:46,354
+Screening for fetal aneuploidy may be either serum analyte-based or cell-free DNA-based.
+
+623
+01:23:46,354 --> 01:23:55,129
+Prenatal genetic carrier screening tests for cystic fibrosis and spinal muscular atrophy carrier status also are routinely offered.
+
+624
+01:23:55,129 --> 01:24:00,029
+Additional carrier screening tests are offered to at-risk individuals.
+
+625
+01:24:00,029 --> 01:24:04,529
+Expanded genetic carrier screening panels also are available.
+
+626
+01:24:04,529 --> 01:24:14,566
+The American College of Obstetricians and Gynecologists considers ethnicspecific, panethnic, and expanded carrier screening acceptable strategies .
+
+627
+01:24:14,566 --> 01:24:19,991
+These screening tests are discussed in Chapter 17 (p. 342).
+
+628
+01:24:19,991 --> 01:24:33,666
+For prenatal genetic diagnosis, the most commonly used tests are chromosomal microarray analysis (CMA), cytogenetic analysis (karyotyping), and fluorescence in situ hybridization (FISH).
+
+629
+01:24:33,666 --> 01:24:38,479
+Testing may be performed on amnionic fluid or chorionic villi.
+
+630
+01:24:38,479 --> 01:24:46,904
+In selected circumstances, whole genome or whole exome sequencing may be considered, but these are not recommended for routine use.
+
+631
+01:24:46,904 --> 01:25:00,341
+To diagnose a specific disease whose genetic basis is known, DNA-based tests are often employed, typically using polymerase chain reaction (PCR) for rapid amplification of DNA sequences.
+
+632
+01:25:00,341 --> 01:25:03,366
+# Cytogenetic Analysis.
+
+633
+01:25:03,366 --> 01:25:12,291
+Also known as karyotyping, cytogenetic analysis tests for numerical chromosomal abnormalities—aneuploidy or polyploidy.
+
+634
+01:25:12,291 --> 01:25:19,929
+It can also identify balanced or unbalanced structural rearrangements of at least 5 to 10 megabases in size.
+
+635
+01:25:19,929 --> 01:25:24,879
+Karyotyping has diagnostic accuracy exceeding 99 percent.
+
+636
+01:25:24,879 --> 01:25:32,566
+Any tissue containing dividing cells or cells that can be stimulated to divide is suitable for cytogenetic analysis.
+
+637
+01:25:32,566 --> 01:25:39,579
+The dividing cells are arrested in metaphase, and their chromosomes are stained to reveal light and dark bands.
+
+638
+01:25:39,579 --> 01:25:46,491
+The most commonly used technique is Giemsa staining, which yields the Gbands shown in Figure 16-3.
+
+639
+01:25:46,491 --> 01:25:55,379
+Each chromosome has a unique banding pattern that permits its identification and detection of deleted, duplicated, or rearranged segments.
+
+640
+01:25:55,379 --> 01:26:00,791
+The accuracy of cytogenetic analysis rises with the number of bands produced.
+
+641
+01:26:00,791 --> 01:26:12,191
+Metaphase banding routinely yields 450 to 550 visible bands per haploid chromosome set, whereas prophase banding generally yields 850 bands.
+
+642
+01:26:12,191 --> 01:26:19,941
+Only dividing cells can be evaluated, so the growth of cultured cells affects the rapidity with which results are obtained.
+
+643
+01:26:19,941 --> 01:26:30,404
+Amnionic fluid, which contains amniocytes, epithelial cells, and gastrointestinal mucosal cells, will usually yield results in 7 to 10 days .
+
+644
+01:26:30,404 --> 01:26:36,491
+Fetal blood cells may provide results in 36 to 48 hours but are rarely needed.
+
+645
+01:26:36,491 --> 01:26:43,604
+If fetal skin fibroblasts are evaluated postmortem, stimulation of cell growth can be more difficult.
+
+646
+01:26:43,604 --> 01:26:50,679
+Cytogenetic analysis may take 2 to 3 weeks in such cases and has largely been replaced by CMA .
+
+647
+01:26:50,679 --> 01:26:54,291
+# Fluorescence In Situ Hybridization.
+
+648
+01:26:54,291 --> 01:27:04,654
+This technique is most commonly used for rapid identification of a specific chromosomal abnormality, such as trisomy 21, 18, or 13.
+
+649
+01:27:04,654 --> 01:27:07,966
+Because of its 1- to 2-day turnaround
+
+650
+01:27:08,116 --> 01:27:14,391
+time, FISH is typically selected for cases in which findings may alter pregnancy management.
+
+651
+01:27:14,341 --> 01:27:25,591
+It may also be used to verify a suspected deletion syndrome, such as the 22q11.2 microdeletion (p. 315), although CMA is preferred.
+
+652
+01:27:25,591 --> 01:27:37,941
+The American College of Obstetricians and Gynecologists (2018) recommends that decision-making based on FISH should incorporate clinical information consistent with the suspected diagnosis.
+
+653
+01:27:37,941 --> 01:27:48,828
+Supportive data may be an abnormal aneuploidy screening test result, a sonographic finding, or a confirmatory diagnostic test such as karyotyping or CMA.
+
+654
+01:27:48,828 --> 01:27:57,053
+To perform FISH, cells are fixed onto a glass slide, and fluorescentlabeled probes are hybridized to the fixed chromosomes .
+
+655
+01:27:57,053 --> 01:28:03,703
+Each probe is a DNA sequence that is complementary to a chromosome region or gene being investigated.
+
+656
+01:28:03,703 --> 01:28:10,728
+If the DNA sequence is present, hybridization is detected as a bright signal visible by microscopy.
+
+657
+01:28:10,728 --> 01:28:16,316
+The number of signals indicates the number of chromosomes or genes of that type in the cell.
+
+658
+01:28:16,316 --> 01:28:24,028
+FISH does not provide information on the entire chromosomal complement but merely the chromosomal or gene region of interest.
+
+659
+01:28:24,028 --> 01:28:34,391
+Figure 16-12 shows an example of interphase FISH using α-satellite probes for chromosomes 18, X, and Y to confirm trisomy 18.
+
+660
+01:28:34,391 --> 01:28:36,953
+Figure 16-11.
+
+661
+01:28:36,953 --> 01:28:41,166
+Steps in fluorescence in situ hybridization (FISH).
+
+662
+01:28:41,166 --> 01:28:43,716
+Figure 16-12.
+
+663
+01:28:43,716 --> 01:28:52,303
+Interphase fluorescence in situ hybridization (FISH) using α-satellite probes for chromosomes 18, X, and Y.
+
+664
+01:28:52,303 --> 01:29:01,816
+In this case, the three light blue signals, two green signals, and absence of red signals indicate that this is a female fetus with trisomy 18.
+
+665
+01:29:01,816 --> 01:29:05,553
+Reproduced with permission from Dr. Frederick Elder.
+
+666
+01:29:05,553 --> 01:29:09,103
+# Chromosomal Microarray Analysis.
+
+667
+01:29:09,103 --> 01:29:19,153
+This test is 100 times more sensitive than karyotyping and detects microduplications and microdeletions as small as 50 to 100 kilobases.
+
+668
+01:29:19,153 --> 01:29:25,941
+Direct CMA, which is performed on uncultured cells, can yield results in 3 to 7 days.
+
+669
+01:29:25,941 --> 01:29:30,928
+If cultured cells are required, results may take 10 to 14 days .
+
+670
+01:29:30,928 --> 01:29:40,078
+Microarrays use either a comparative genomic hybridization (CGH) platform, a SNP platform, or a combination of the two.
+
+671
+01:29:40,078 --> 01:29:46,178
+The CGH microarray platform compares specimen DNA with a normal control sample.
+
+672
+01:29:46,178 --> 01:29:49,428
+Shown in Figure 16-13.
+
+673
+01:29:49,428 --> 01:29:56,028
+the CGH chip contains reference DNA fragments of known sequence—oligonucleotides.
+
+674
+01:29:56,028 --> 01:30:05,628
+Fetal DNA from the amniocentesis or chorionic villus sampling specimen is labeled with a fluorescent dye and then hybridized to the DNA on the chip.
+
+675
+01:30:05,628 --> 01:30:11,578
+Normal control DNA is labeled with a different probe and also hybridized to the same chip.
+
+676
+01:30:11,578 --> 01:30:16,228
+The intensity of the fluorescent signals from the two samples is compared.
+
+677
+01:30:16,228 --> 01:30:24,353
+With a SNP array, the chip contains known DNA sequence variants, that is, single-nucleotide polymorphisms.
+
+678
+01:30:24,353 --> 01:30:32,291
+When fetal DNA is labeled and hybridized to the chip, the fluorescent signal intensity indicates copy number variation.
+
+679
+01:30:32,291 --> 01:30:35,028
+Figure 16-13.
+
+680
+01:30:35,028 --> 01:30:38,053
+Chromosomal microarray analysis.
+
+681
+01:30:38,053 --> 01:30:41,241
+A. Actual microarray chip size.
+
+682
+01:30:41,241 --> 01:30:45,366
+B. Each chip contains thousands of cells (squares).
+
+683
+01:30:45,366 --> 01:30:47,253
+C & D.
+
+684
+01:30:47,253 --> 01:30:54,803
+Each cell contains thousands of identical oligonucleotides on its surface and is unique in its nucleotide content.
+
+685
+01:30:54,803 --> 01:31:01,441
+E. During genetic analysis, a mixture containing tagged fetal DNA is presented to the chip.
+
+686
+01:31:01,441 --> 01:31:04,703
+Complementary DNA sequences bind.
+
+687
+01:31:04,703 --> 01:31:12,253
+F. If a laser is shined on the chip, DNA sequences that have bound will glow thus identifying a matching sequence.
+
+688
+01:31:12,253 --> 01:31:17,353
+Modified with permission from Doody KJ: Treatment of the infertile couple.
+
+689
+01:31:17,353 --> 01:31:25,153
+In Hoffman BL, Schorge JO, Schaffer JI, et al (eds): Williams Gynecology, 2nd ed.
+
+690
+01:31:25,153 --> 01:31:29,391
+New York, NY: McGraw Hill; 2012.
+
+691
+01:31:29,391 --> 01:31:37,603
+Both types of platforms detect aneuploidy, unbalanced translocations, and microdeletions and microduplications.
+
+692
+01:31:37,603 --> 01:31:44,703
+In addition, SNP arrays are able to identify triploidy and can detect absence of heterozygosity.
+
+693
+01:31:44,703 --> 01:31:51,653
+The latter can occur with uniparental disomy, in which both copies of a chromosome are inherited from one parent.
+
+694
+01:31:51,653 --> 01:32:02,866
+Absence of heterozygosity may also occur with consanguinity, and counseling prior to performance of an SNP array should include this possibility (p. 321).
+
+695
+01:32:02,866 --> 01:32:09,491
+Importantly, neither type of array platform currently detects balanced chromosomal rearrangements.
+
+696
+01:32:09,491 --> 01:32:11,328
+For this reason,
+
+697
+01:32:11,500 --> 01:32:17,262
+couples with recurrent pregnancy loss should be offered karyotyping as the first-line test .
+
+698
+01:32:17,212 --> 01:32:30,112
+In addition to identifying pathogenic copy number variants, CMA may detect variants that are unable to be classified as benign or pathologic and thus are considered to be of uncertain clinical significance.
+
+699
+01:32:30,112 --> 01:32:44,037
+In recent series, these variants of uncertain significance are identified in approximately 1 percent of prenatal specimens (Brady, 2014; Chong, 2019; Wang, 2018).
+
+700
+01:32:44,037 --> 01:32:53,000
+Not unexpectedly, variants of uncertain significance may be a source of distress to families, even with comprehensive pretest counseling.
+
+701
+01:32:53,000 --> 01:33:06,512
+Clinical Applications In pregnancies at increased risk for autosomal trisomy based on aneuploidy screening results, karyotyping or FISH plus karyotyping should be offered, and CMA should be made available .
+
+702
+01:33:06,512 --> 01:33:10,600
+Clinicians are increasingly offering CMA in this setting.
+
+703
+01:33:10,600 --> 01:33:29,800
+If the karyotype is normal, CMA has identified clinically relevant copy number variants in approximately 6.5 percent of pregnancies with fetal abnormalities and in 1 to 2 percent of those without obvious fetal abnormality (Callaway, 2013; Chong, 2019).
+
+704
+01:33:29,800 --> 01:33:44,675
+The American College of Obstetricians and Gynecologists (2018) and the Society for Maternal-Fetal Medicine (2016) recommend CMA as the first-tier test when fetal structural abnormalities are identified.
+
+705
+01:33:44,675 --> 01:34:01,750
+If a particular anomaly that strongly suggests a specific aneuploidy is identified, such as an endocardial cushion defect (trisomy 21) or alobar holoprosencephaly (trisomy 13), then karyotyping or FISH may be offered as the initial test.
+
+706
+01:34:01,750 --> 01:34:09,400
+Genetic counseling should include information regarding the benefits and limitations of both CMA and karyotyping.
+
+707
+01:34:09,400 --> 01:34:14,050
+Each should be made available to women who elect prenatal diagnosis .
+
+708
+01:34:14,050 --> 01:34:25,475
+CMA may identify instances of autosomal dominant genetic disorders that have not yet manifested in an affected parent, and it may also identify instances of nonpaternity.
+
+709
+01:34:25,475 --> 01:34:36,862
+For stillbirth evaluation, CMA is significantly more likely than standard karyotyping to provide a genetic diagnosis, in part because it does not require dividing cells.
+
+710
+01:34:36,862 --> 01:34:49,912
+The Stillbirth Collaborative Research Network found that when karyotyping was uninformative, approximately 6 percent of cases had either aneuploidy or a pathogenic copy number variant identified with CMA .
+
+711
+01:34:49,912 --> 01:35:04,450
+In a recent metaanalysis of more than 900 stillbirths with normal karyotype, CMA identified pathogenic copy number variants in 6 percent with structural abnormalities and 3 percent with no abnormalities evident .
+
+712
+01:35:04,450 --> 01:35:10,612
+Overall, CMA yielded results 15 percent more often than karyotyping alone.
+
+713
+01:35:10,612 --> 01:35:14,200
+# Whole Genome and Whole Exome Sequencing.
+
+714
+01:35:14,200 --> 01:35:20,687
+Most fetuses with structural abnormalities have a normal karyotype and a normal CMA result.
+
+715
+01:35:20,687 --> 01:35:26,937
+Whole genome sequencing (WGS) is a technique for analyzing the entire genome.
+
+716
+01:35:26,937 --> 01:35:36,087
+Whole exome sequencing (WES) analyzes only the DNA coding regions, which account for approximately 1.5 percent of the genome.
+
+717
+01:35:36,087 --> 01:35:45,275
+These next-generation sequencing tools are increasingly used postnatally to evaluate suspected genetic syndromes and intellectual disability.
+
+718
+01:35:45,275 --> 01:35:57,412
+Several prospective, multicenter series have evaluated WES for pregnancies in which fetuses have structural abnormalities, no karyotypic evidence of aneuploidy, and normal CMA.
+
+719
+01:35:57,412 --> 01:36:07,612
+WES identified genetic abnormalities in approximately 10 percent of such cases (Lord, 2019; Petrovski, 2019).
+
+720
+01:36:07,612 --> 01:36:14,025
+Utility was higher in cases with cardiac, skeletal, or multiorgan system anomalies.
+
+721
+01:36:14,025 --> 01:36:19,862
+Importantly, WGS and WES have significant limitations in their current form.
+
+722
+01:36:19,862 --> 01:36:35,837
+These include prohibitively long turnaround times, high costs, and increased rates of false-positive and false-negative results and variants of uncertain significance (American College of Medical Genetics, 2012; Atwal, 2014).
+
+723
+01:36:35,837 --> 01:36:49,712
+In addition, because sequencing is generally performed on the fetus and parents simultaneously, one parent may be identified or suspected to have an unrelated but medically actionable finding, which further complicates counseling .
+
+724
+01:36:49,712 --> 01:36:57,662
+As a result, the clinical utility of this promising technology for prenatal cases is currently limited, and it is not
+
+725
+01:36:57,820 --> 01:37:00,895
+recommended for routine clinical use.
+
+726
+01:37:00,845 --> 01:37:04,670
+# Fetal DNA in the Maternal Circulation.
+
+727
+01:37:04,670 --> 01:37:11,820
+Fetal cells are present in maternal blood at a very low concentration, only 2 to 6 cells per milliliter .
+
+728
+01:37:11,820 --> 01:37:18,120
+Intact fetal cells sometimes persist in the maternal circulation for decades following delivery.
+
+729
+01:37:18,120 --> 01:37:23,232
+Persistent fetal cells may engraft in the mother, causing microchimerism .
+
+730
+01:37:23,232 --> 01:37:32,570
+This has been implicated in maternal autoimmune diseases such as scleroderma, systemic lupus erythematosus, and Hashimoto thyroiditis .
+
+731
+01:37:32,570 --> 01:37:47,145
+From the standpoint of prenatal diagnosis, use of intact fetal cells from maternal blood is limited by low cell concentration, cell persistence into successive pregnancies, and difficulties in distinguishing fetal and maternal cells.
+
+732
+01:37:47,145 --> 01:37:50,895
+Cell-free DNA overcomes these limitations.
+
+733
+01:37:50,895 --> 01:38:04,682
+Cell-free DNA Also known as cell-free fetal DNA or noninvasive prenatal screening (NIPS), this screening test uses DNA fragments derived from maternal cells and from apoptotic placental trophoblast cells.
+
+734
+01:38:04,682 --> 01:38:07,007
+Fetal” is thus a misnomer.
+
+735
+01:38:07,007 --> 01:38:13,295
+Cell-free DNA is reliably detected in maternal blood after 9 to 10 weeks’ gestation .
+
+736
+01:38:13,295 --> 01:38:24,920
+The proportion of total cell-free DNA that is placental is called the fetal fraction, and it accounts for approximately 10 percent of the total circulating cell-free DNA in maternal plasma.
+
+737
+01:38:24,920 --> 01:38:30,870
+Unlike intact fetal cells, cell-free DNA is cleared within minutes from maternal blood.
+
+738
+01:38:30,870 --> 01:38:37,820
+Current clinical applications of cell-free DNA are aneuploidy screening and Rh D genotyping .
+
+739
+01:38:37,820 --> 01:38:54,270
+Commercial laboratories have also offered two other applications of cell-free DNA: (1) screening for selected microdeletion and microduplication syndromes and (2) genome-wide screening for deletions and duplications larger than 7 megabase pairs.
+
+740
+01:38:54,270 --> 01:39:01,932
+Currently, prospective data on these promising applications are limited, and neither is recommended for routine screening .
+
+741
+01:39:01,932 --> 01:39:04,607
+Figure 16-14.
+
+742
+01:39:04,607 --> 01:39:07,132
+Cell-free DNA screening.
+
+743
+01:39:07,132 --> 01:39:12,245
+These DNA fragments are derived from apoptotic trophoblast cells.
+
+744
+01:39:12,245 --> 01:39:26,695
+Screening for autosomal trisomies and sex chromosomal aneuploidies may be performed using whole-genome sequencing, chromosome-selective or -targeted sequencing, and analysis of single-nucleotide polymorphisms (SNPs).
+
+745
+01:39:26,695 --> 01:39:37,957
+Real-time quantitative polymerase chain reaction (PCR) also may be used to target specific regions or sequences, a technique used for Rh D genotyping.
+
+746
+01:39:37,957 --> 01:39:42,582
+Additional applications for cell-free DNA are on the horizon.
+
+747
+01:39:42,582 --> 01:40:05,820
+In research settings, numerous single-gene disorders have been detected and include skeletal dysplasias, hemoglobinopathies, cystic fibrosis, congenital adrenal hyperplasia, hemophilia, muscular dystrophy, myotonic dystrophy, and spinal muscular atrophy (Camunas-Soler, 2018; Jenkins, 2018; Zhang, 2019).
+
+748
+01:40:05,820 --> 01:40:07,970
+Aneuploidy Screening.
+
+749
+01:40:07,970 --> 01:40:15,557
+Several different assay platforms are used to screen for fetal autosomal trisomies and sex chromosomal aneuploidies.
+
+750
+01:40:15,557 --> 01:40:31,357
+These include massively parallel sequencing, which is a WGS technique; chromosome-selective or targeted sequencing; and analysis of SNPs (American College of Obstetricians and Gynecologists, 2018, 2020c).
+
+751
+01:40:31,357 --> 01:40:43,495
+By simultaneously sequencing millions of chromosome-specific DNA fragments, investigators can identify whether the proportion or ratio of fragments from one chromosome is higher than expected.
+
+752
+01:40:43,495 --> 01:40:51,457
+Thus, samples from women with a Down syndrome fetus will have a larger proportion of DNA sequences from chromosome 21.
+
+753
+01:40:51,457 --> 01:40:55,645
+The screening performance of cell-free DNA is excellent.
+
+754
+01:40:55,645 --> 01:41:11,920
+In a metaanalysis of 35 studies of largely high-risk pregnancies, the pooled sensitivity to detect Down syndrome was 99.7 percent, and to identify trisomies 18 and 13, 98 and 99 percent, respectively .
+
+755
+01:41:11,920 --> 01:41:20,720
+For each, the specificity was at least 99.9 percent, such that the cumulative falsepositive rate was below 1 percent.
+
+756
+01:41:20,720 --> 01:41:32,832
+Aneuploidy screening reports commonly include information about fetal sex, which may be clinically useful if the fetus is at risk for an X-linked disorder or for congenital adrenal hyperplasia .
+
+757
+01:41:32,832 --> 01:41:45,820
+In a metaanalysis, the sensitivity of cell-free DNA testing for fetal sex determination was reported to be 95 percent between 7 and 12 weeks’ gestation and 99 percent after 20 weeks .
+
+758
+01:41:45,988 --> 01:41:52,400
+Causes of false-positive and false-negative screening results are listed in Table 16-7.
+
+759
+01:41:52,350 --> 01:41:59,950
+As with any other screening test, diagnostic confirmation should be performed before irreversible medical intervention.
+
+760
+01:41:59,950 --> 01:42:05,375
+Cell-free DNA screens do not yield a result in 2 to 4 percent of cases.
+
+761
+01:42:05,375 --> 01:42:16,775
+This may be due to assay failure, high assay variance, or low fetal fraction (Norton, 2012; Pergament, 2014; Quezada, 2015).
+
+762
+01:42:16,775 --> 01:42:22,138
+Importantly, such pregnancies carry a greater risk for fetal aneuploidy.
+
+763
+01:42:22,138 --> 01:42:44,450
+In addition, results may not reflect the fetal DNA complement but rather may indicate confined placental mosaicism, early demise of an aneuploid co-twin, maternal mosaicism, or rarely, occult maternal malignancy (Bianchi, 2015; Curnow, 2015; Grati, 2014b; Wang, 2014).
+
+764
+01:42:44,450 --> 01:42:50,588
+Recommendations for counseling are discussed in Chapter 17 (p. 336).
+
+765
+01:42:50,588 --> 01:42:53,125
+Table 16-7.
+
+766
+01:42:53,125 --> 01:43:00,288
+Selected Etiologies Creating Inaccurate Cell-free DNA Results Rh D Genotype Evaluation.
+
+767
+01:43:00,288 --> 01:43:05,613
+Many fetuses of Rh D-negative women are also Rh D-negative.
+
+768
+01:43:05,613 --> 01:43:10,913
+In a predominantly white population, this prevalence approaches 40 percent.
+
+769
+01:43:10,913 --> 01:43:22,188
+Fetal Rh D genotype assessment from maternal blood can eliminate administration of anti-D immune globulin in such cases, thereby reducing costs and potential risk.
+
+770
+01:43:22,188 --> 01:43:34,275
+When Rh D alloimmunization is suspected, early identification of an Rh D-negative fetus might avoid unnecessary middle cerebral artery Doppler assessment or amniocentesis.
+
+771
+01:43:34,275 --> 01:43:46,125
+Evaluation using cell-free DNA is done using real-time PCR to target several exons of the RHD gene, typically exons 4, 5, 7, and 10.
+
+772
+01:43:46,125 --> 01:43:59,500
+Rh D-genotyping is performed routinely with cell-free DNA in Denmark, Finland, and the Netherlands (Clausen, 2012; de Haas, 2016; Haimila, 2017).
+
+773
+01:43:59,500 --> 01:44:15,000
+In population-based studies of more than 35,000 Rh D-negative women screened at 24 to 27 weeks’ gestation, the false-negative rate—in which Rh D-negative status was missed—was only 0.03 percent.
+
+774
+01:44:15,000 --> 01:44:26,450
+The falsepositive rate—in which Rh immune globulin would be given unnecessarily— was less than 1 percent (de Haas, 2016; Haimila, 2017).
+
+775
+01:44:26,450 --> 01:44:33,625
+Similar results were reported from the United Kingdom, although the false-negative rate was higher in the first trimester.
+
+776
+01:44:33,625 --> 01:44:42,513
+Investigators concluded that false-negative screening results might increase the alloimmunization risk but by less than 1 case per million births .
+
+777
+01:44:42,513 --> 01:44:48,538
+Rh D alloimmunization is discussed in Chapter 18 (p. 353).
+
