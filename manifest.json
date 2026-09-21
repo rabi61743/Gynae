@@ -6,12 +6,15 @@
   },
   "3": {
     "audio": true,
-    "words": 24,
-    "audio_size_mb": 0.1
+    "words": 9767,
+    "audio_size_mb": 28.22
   },
   "4": {
     "audio": true,
     "words": 16524,
     "audio_size_mb": 46.05
+  },
+  "1": {
+    "audio": true
   }
 }

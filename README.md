@@ -8,13 +8,13 @@ Playable directly on GitHub Web & Mobile with synchronized subtitle rendering an
 
 - 🎬 **[Chapter 01 Overview of Obstetrics](videos/Chapter_01_Overview_of_Obstetrics.mp4)** (36.3 MB)
 
-## 🎧 Audiobooks (MP3)
+## 🎧 Audiobooks (MP3) — [4/68 Completed]
 
 Playable directly on GitHub Web & Mobile with built-in audio player:
 
 - 🔊 **[Chapter 01 Overview of Obstetrics](audiobooks/Chapter_01_Overview_of_Obstetrics.mp3)** (10.9 MB)
 - 🔊 **[Chapter 02 Maternal Anatomy](audiobooks/Chapter_02_Maternal_Anatomy.mp3)** (25.7 MB)
-- 🔊 **[Chapter 03 Congenital Genitourinary Abnormalities](audiobooks/Chapter_03_Congenital_Genitourinary_Abnormalities.mp3)** (0.1 MB)
+- 🔊 **[Chapter 03 Congenital Genitourinary Abnormalities](audiobooks/Chapter_03_Congenital_Genitourinary_Abnormalities.mp3)** (28.2 MB)
 - 🔊 **[Chapter 04 Maternal Physiology](audiobooks/Chapter_04_Maternal_Physiology.mp3)** (46.0 MB)
 
 ## 📖 Table of Contents (Chapters)
