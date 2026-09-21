@@ -1,0 +1,3568 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:06,587
+Chapter 5: Implantation and Placental Development.
+
+3
+00:00:06,587 --> 00:00:25,912
+Ovarian–Endometrial Cycle Decidua Implantation And Early Trophoblast Formation Placenta And Chorion Amnion Umbilical Cord Placental Hormones Fetal Adrenal Gland–Placental Interactions References All obstetricians should understand the basic biological steps required for women to achieve pregnancy.
+
+4
+00:00:25,912 --> 00:00:32,150
+Moreover, abnormalities affecting these steps can lead to infertility or pregnancy loss.
+
+5
+00:00:32,150 --> 00:00:41,050
+The biological and molecular changes involved in human zygote implantation and subsequent fetal and placental development are intricate.
+
+6
+00:00:41,050 --> 00:00:47,937
+In the past 50 years, researchers have delineated many of these molecular and physiological events.
+
+7
+00:00:47,937 --> 00:00:53,487
+Yet, much work remains in the continual challenge to improve clinical outcomes.
+
+8
+00:00:53,487 --> 00:00:56,137
+Ovarian-Endometrial Cycle.
+
+9
+00:00:56,137 --> 00:01:03,325
+In most women, cyclical ovulation continues during the almost 40 years between menarche and menopause.
+
+10
+00:01:03,325 --> 00:01:15,762
+Thus, without contraception, approximately 400 opportunities for pregnancy exist, and these are tightly regulated by complex interactions of the hypothalamic-pituitary-ovarian axis.
+
+11
+00:01:15,762 --> 00:01:22,612
+Concurrently, endometrium undergoes faithfully reproduced cyclical changes to prepare for pregnancy .
+
+12
+00:01:22,612 --> 00:01:39,287
+Essential contributors in this process include gonadotropin-releasing hormone (GnRH), the gonadotropin hormones follicle-stimulating hormone (FSH) and luteinizing hormone (LH), and the ovarian sex steroid hormones estrogen and progesterone.
+
+13
+00:01:39,287 --> 00:01:48,312
+For a detailed description of menstrual cycle physiology, the reader is referred to Chapter 16 in Williams Gynecology, 4th edition .
+
+14
+00:01:48,312 --> 00:01:50,587
+Figure 5-1.
+
+15
+00:01:50,587 --> 00:01:55,175
+Gonadotropin control of the ovarian and endometrial cycles.
+
+16
+00:01:55,175 --> 00:01:59,975
+The ovarian-endometrial cycle is structured as a 28-day cycle.
+
+17
+00:01:59,975 --> 00:02:10,787
+The follicular phase (days 1 to 14) is characterized by rising estrogen levels, endometrial thickening, and selection of the dominant “ovulatory” follicle.
+
+18
+00:02:10,787 --> 00:02:22,075
+During the luteal phase (days 14 to 21), the corpus luteum (CL) produces estrogen and progesterone, which prepare the endometrium for implantation.
+
+19
+00:02:22,075 --> 00:02:34,337
+If implantation occurs, the developing blastocyst begins to produce human chorionic gonadotropin (hCG) and rescues the corpus luteum, thus maintaining progesterone production.
+
+20
+00:02:34,337 --> 00:02:40,250
+FSH = follicle-stimulating hormone; LH = luteinizing hormone.
+
+21
+00:02:40,250 --> 00:02:42,525
+# Ovulation.
+
+22
+00:02:42,525 --> 00:02:48,125
+This defining event separates the follicular and luteal phases of the menstrual cycle.
+
+23
+00:02:48,125 --> 00:02:56,437
+Following ovulation, the corpus luteum develops from the remains of the graafian follicle in a process referred to as luteinization.
+
+24
+00:02:56,437 --> 00:03:08,562
+The basement membrane separating the granulosa-lutein and theca-lutein cells breaks down, and by day 2 postovulation, blood vessels and capillaries invade the granulosa cell layer.
+
+25
+00:03:08,562 --> 00:03:15,525
+During luteinization, these cells undergo hypertrophy and increase their capacity to synthesize hormones.
+
+26
+00:03:15,525 --> 00:03:21,262
+LH is the primary luteotropic factor responsible for corpus luteum maintenance .
+
+27
+00:03:21,262 --> 00:03:26,362
+The hormone secretion pattern of the corpus luteum differs from that of the follicle.
+
+28
+00:03:26,362 --> 00:03:40,275
+First, the greater capacity of granulosa-lutein cells to produce progesterone results from enhanced access to blood-borne, low-density lipoprotein (LDL)-derived cholesterol, which is a steroidogenic precursor .
+
+29
+00:03:40,275 --> 00:03:47,350
+Ovarian progesterone production peaks at 25 to 50 mg/d during the midluteal phase.
+
+30
+00:03:47,350 --> 00:03:56,425
+With pregnancy, the corpus luteum continues progesterone production in response to placental human chorionic gonadotropin (hCG).
+
+31
+00:03:56,425 --> 00:04:01,525
+LH and hCG both act via the same LH-hCG receptor.
+
+32
+00:04:01,525 --> 00:04:05,550
+The human corpus luteum is a transient endocrine organ.
+
+33
+00:04:05,550 --> 00:04:12,637
+In the absence of pregnancy, it rapidly undergoes apoptosis 9 to 11 days after ovulation .
+
+34
+00:04:12,637 --> 00:04:20,375
+The dramatic drop in circulating estradiol and progesterone levels initiate molecular events that lead to menstruation.
+
+35
+00:04:20,375 --> 00:04:33,062
+Between days 22 and 25 after ovulation, the secretory-phase endometrium undergoes striking changes associated with predecidual transformation of the upper two thirds of the functionalis layer.
+
+36
+00:04:33,062 --> 00:04:38,437
+The glands exhibit extensive coiling, and luminal secretions become visible.
+
+37
+00:04:38,437 --> 00:04:45,400
+Changes within the endometrium can also mark the window of implantation seen on days 20 to 24.
+
+38
+00:04:45,400 --> 00:04:49,437
+Epithelial surface cells show fewer microvilli and
+
+39
+00:04:49,588 --> 00:04:54,538
+cilia, but luminal protrusions appear on the apical cell surface .
+
+40
+00:04:54,488 --> 00:04:58,888
+These pinopodes help prepare for blastocyst implantation.
+
+41
+00:04:58,888 --> 00:05:05,200
+They also coincide with changes in the surface glycocalyx that allow acceptance of a blastocyst .
+
+42
+00:05:05,200 --> 00:05:11,538
+Another highlight of the secretory phase is the continuing growth and development of the spiral arteries.
+
+43
+00:05:11,538 --> 00:05:19,838
+These vessels arise from the radial arteries, which are myometrial branches of the arcuate and, ultimately, uterine vessels.
+
+44
+00:05:19,838 --> 00:05:29,163
+The morphological and functional properties of the spiral arteries are unique and essential to blood flow changes seen during menstruation or implantation.
+
+45
+00:05:29,163 --> 00:05:37,200
+During endometrial growth, spiral arteries lengthen at a rate appreciably greater than the rate of endometrial tissue thickening.
+
+46
+00:05:37,200 --> 00:05:41,088
+This growth discordance obliges even greater coiling.
+
+47
+00:05:41,088 --> 00:05:49,575
+Spiral artery development reflects a marked induction of angiogenesis, reflected by widespread vessel sprouting and extension.
+
+48
+00:05:49,575 --> 00:05:54,038
+At this juncture with hormonal withdrawal, menstruation follows.
+
+49
+00:05:54,038 --> 00:06:00,163
+With blastocyst implantation, however, the endometrium is converted to the decidua.
+
+50
+00:06:00,163 --> 00:06:01,838
+Decidua.
+
+51
+00:06:01,838 --> 00:06:06,688
+This is a specialized, highly modified endometrium of pregnancy.
+
+52
+00:06:06,688 --> 00:06:13,800
+It is essential for hemochorial placentation, that is, one in which maternal blood contacts trophoblast.
+
+53
+00:06:13,800 --> 00:06:23,863
+This relationship requires trophoblast invasion, and considerable research has focused on the interaction between decidual cells and invading trophoblasts.
+
+54
+00:06:23,863 --> 00:06:31,000
+Decidualization transforms proliferating endometrial stromal cells into specialized secretory cells.
+
+55
+00:06:31,000 --> 00:06:38,913
+This process depends on estrogen, progesterone, androgens, and factors secreted by the implanting blastocyst .
+
+56
+00:06:38,913 --> 00:06:49,338
+The decidua produces factors that regulate endometrial receptivity and that modulate immune and vascular cell functions within the maternal–fetal microenvironment.
+
+57
+00:06:49,338 --> 00:07:02,538
+The special immunomodulatory relationship between the decidua and invading trophoblasts is largely mediated by decidual natural killer (NK) cells and ensures success of the pregnancy semiallograft.
+
+58
+00:07:02,538 --> 00:07:05,163
+# Decidual Structure.
+
+59
+00:07:05,163 --> 00:07:10,525
+The decidua is classified into three parts based on anatomical location.
+
+60
+00:07:10,525 --> 00:07:18,488
+Decidua directly beneath the implanted blastocyst is modified by trophoblast invasion and becomes the decidua basalis.
+
+61
+00:07:18,488 --> 00:07:26,825
+The decidua capsularis overlies the enlarging blastocyst and initially separates the conceptus from the rest of the uterine cavity .
+
+62
+00:07:26,825 --> 00:07:36,463
+This portion is most prominent during the second month of pregnancy and consists of stromal decidual cells covered by a single layer of flattened epithelial cells.
+
+63
+00:07:36,463 --> 00:07:43,875
+The other side of the capsularis contacts the avascular, extraembryonic fetal membrane—the chorion laeve.
+
+64
+00:07:43,875 --> 00:07:48,288
+The remainder of the uterus is lined by decidua parietalis.
+
+65
+00:07:48,288 --> 00:07:58,288
+During early pregnancy, a space lies between the decidua capsularis and parietalis because the gestational sac does not fill the entire uterine cavity.
+
+66
+00:07:58,288 --> 00:08:04,025
+The gestational sac is the extraembryonic coelom and also called the chorionic cavity.
+
+67
+00:08:04,025 --> 00:08:11,263
+By 14 to 16 weeks’ gestation, the expanding sac has enlarged to completely fill the uterine cavity.
+
+68
+00:08:11,263 --> 00:08:20,788
+The resulting apposition of the decidua capsularis and parietalis creates the decidua vera, and the uterine cavity is functionally obliterated.
+
+69
+00:08:20,788 --> 00:08:23,063
+Figure 5-2.
+
+70
+00:08:23,063 --> 00:08:29,850
+Three portions of the decidua—the basalis, capsularis, and parietalis—are illustrated.
+
+71
+00:08:29,850 --> 00:08:37,025
+In early pregnancy, the decidua begins to thicken, eventually attaining a depth of 5 to 10 mm.
+
+72
+00:08:37,025 --> 00:08:44,688
+With magnification, furrows and numerous small openings, representing the mouths of uterine glands, can be detected.
+
+73
+00:08:44,688 --> 00:08:52,788
+Later in pregnancy, the decidua becomes thinner, presumably because of pressure exerted by the expanding uterine contents.
+
+74
+00:08:52,788 --> 00:08:57,625
+The decidua parietalis and basalis are composed of three layers.
+
+75
+00:08:57,625 --> 00:09:10,725
+There is a surface or compact zone—zona compacta; a middle portion or spongy zone —zona spongiosa—that has remnants of glands and numerous small blood vessels; and a basal zone—zona basalis.
+
+76
+00:09:10,725 --> 00:09:15,700
+The zona compacta and spongiosa together form the zona functionalis.
+
+77
+00:09:15,700 --> 00:09:20,825
+The basal zone remains after delivery and gives rise to new endometrium.
+
+78
+00:09:20,825 --> 00:09:25,850
+The decidual reaction is completed only with blastocyst implantation.
+
+79
+00:09:25,850 --> 00:09:28,725
+Predecidual changes, however,
+
+80
+00:09:28,876 --> 00:09:36,363
+commence first during the midluteal phase in endometrial stromal cells adjacent to the spiral arteries and arterioles.
+
+81
+00:09:36,313 --> 00:09:41,876
+Thereafter, these alterations spread in waves throughout the uterine endometrium.
+
+82
+00:09:41,876 --> 00:09:47,638
+The endometrial stromal cells enlarge to form polygonal or round decidual cells.
+
+83
+00:09:47,638 --> 00:09:56,076
+The nuclei become vesicular, and the cytoplasm becomes clear, slightly basophilic, and surrounded by a translucent membrane.
+
+84
+00:09:56,076 --> 00:10:01,901
+As the embryo–fetus grows, the blood supply to the decidua capsularis is lost.
+
+85
+00:10:01,901 --> 00:10:07,201
+However, spiral arteries persist to supply the decidua parietalis.
+
+86
+00:10:07,201 --> 00:10:14,238
+These arteries retain smooth muscle and endothelium and thereby remain responsive to vasoactive agents.
+
+87
+00:10:14,238 --> 00:10:23,038
+In contrast, the spiral arteries that supply the decidua basalis and ultimately the placental intervillous space are altered remarkably.
+
+88
+00:10:23,038 --> 00:10:29,601
+Trophoblastic cells invade the spiral arterioles and arteries and replace their endothelial cells.
+
+89
+00:10:29,601 --> 00:10:37,788
+The vessel wall smooth muscle is destroyed, and the resulting uteroplacental vessels become unresponsive to vasoactive agents.
+
+90
+00:10:37,788 --> 00:10:44,726
+Defective trophoblastic invasion of spiral arteries is thought to be one underlying cause of preeclampsia .
+
+91
+00:10:44,726 --> 00:10:55,138
+Conversely, the fetal chorionic vessels, which transport blood between the placenta and the fetus, contain smooth muscle and thus do respond to vasoactive agents.
+
+92
+00:10:55,138 --> 00:10:57,938
+# Decidual Histology.
+
+93
+00:10:57,938 --> 00:11:08,326
+Early in pregnancy, the decidual zona spongiosa consists of large distended glands, often exhibiting marked hyperplasia and separated by minimal stroma.
+
+94
+00:11:08,326 --> 00:11:17,438
+At first, the glands are lined by typical cylindrical uterine epithelium with abundant secretory activity that contributes to blastocyst nourishment.
+
+95
+00:11:17,438 --> 00:11:28,401
+With advanced pregnancy, the glandular elements largely disappear, and the spongy zone of the decidua basalis consists mainly of arteries and widely dilated veins.
+
+96
+00:11:28,401 --> 00:11:33,526
+The decidua basalis contributes to formation of the placental basal plate .
+
+97
+00:11:33,526 --> 00:11:38,113
+As such, it is invaded by many interstitial trophoblasts.
+
+98
+00:11:38,113 --> 00:11:45,338
+The Nitabuch layer is a zone of fibrinoid degeneration in which invading trophoblasts meet the decidua basalis.
+
+99
+00:11:45,338 --> 00:11:51,826
+If the decidua is defective, as in placenta accreta, the Nitabuch layer is usually absent .
+
+100
+00:11:51,826 --> 00:12:02,663
+Normally, there is also a more superficial, but inconsistent, deposition of fibrin—Rohr stria—at the bottom of the intervillous space and surrounding the anchoring villi.
+
+101
+00:12:02,663 --> 00:12:08,363
+Decidual necrosis is a common phenomenon in the first and probably second trimesters .
+
+102
+00:12:08,363 --> 00:12:18,926
+Thus, necrotic decidua obtained through curettage after spontaneous abortion should not necessarily be interpreted as either a cause or an effect of the pregnancy loss.
+
+103
+00:12:18,926 --> 00:12:21,338
+Figure 5-3.
+
+104
+00:12:21,338 --> 00:12:28,201
+Section through a junction of chorion, villi, and decidua basalis in early first-trimester pregnancy.
+
+105
+00:12:28,201 --> 00:12:31,926
+Reproduced with permission from Dr. Kurt Benirschke.
+
+106
+00:12:31,926 --> 00:12:38,201
+Both decidual layers contain numerous cell groups whose composition varies with gestational stage .
+
+107
+00:12:38,201 --> 00:12:48,913
+The primary cellular components are the true decidual cells, which differentiated from the endometrial stromal cells, and numerous maternal bone marrow-derived cells.
+
+108
+00:12:48,913 --> 00:12:59,013
+Of the latter, lymphocytes with unique properties accumulate at the maternal–fetal interface and are essential to evoke immune tolerance between mother and fetus.
+
+109
+00:12:59,013 --> 00:13:05,638
+These include regulatory T cells, decidual macrophages, and decidual NK cells.
+
+110
+00:13:05,638 --> 00:13:14,438
+Collectively, these cells not only provide immunotolerance but also play an important role in trophoblast invasion and vasculogenesis .
+
+111
+00:13:14,438 --> 00:13:17,176
+# Decidual Prolactin.
+
+112
+00:13:17,176 --> 00:13:27,438
+The decidua produces prolactin, which is present in enormous amounts in amnionic fluid (Golander, 1978; Riddick, 1979).
+
+113
+00:13:27,438 --> 00:13:38,038
+Decidual prolactin is a product of the same gene that encodes for anterior pituitary prolactin, but the exact physiological role of decidual prolactin is unknown.
+
+114
+00:13:38,038 --> 00:13:43,313
+Signaling by prolactin can lead to the production of proangiogenic factors.
+
+115
+00:13:43,313 --> 00:13:52,438
+Prolactin can also be cleaved by proteases to form vasoinhibins (Nakajima, 2015; Triebel, 2015).
+
+116
+00:13:52,438 --> 00:14:04,901
+These compounds have antiangiogenic properties and may contribute to peripartum cardiomyopathy, whose pathogenesis and treatment are discussed in Chapter 52 (p. 933).
+
+117
+00:14:04,901 --> 00:14:10,213
+Decidual prolactin preferentially enters amnionic fluid and may reach
+
+118
+00:14:10,372 --> 00:14:17,584
+extraordinarily high levels of 10,000 ng/mL at 20 to 24 weeks’ gestation .
+
+119
+00:14:17,534 --> 00:14:25,309
+In contrast, maternal serum levels are relatively low at 150 to 200 ng/mL.
+
+120
+00:14:25,309 --> 00:14:35,259
+As discussed in Chapter 4 (p. 57), prolactin inhibits maternal insulin action and results in increased glucose levels for fetal growth.
+
+121
+00:14:35,259 --> 00:14:38,397
+Implantation And Early Trophoblast.
+
+122
+00:14:38,397 --> 00:14:40,059
+Formation.
+
+123
+00:14:40,059 --> 00:14:42,497
+# Fertilization.
+
+124
+00:14:42,497 --> 00:14:50,222
+With ovulation, the ovary releases the secondary oocyte and surrounding cells of the cumulus–oocyte complex.
+
+125
+00:14:50,222 --> 00:14:55,247
+The oocyte complex is quickly engulfed by the fallopian tube infundibulum.
+
+126
+00:14:55,247 --> 00:15:01,147
+Directional movement of cilia and tubal peristalsis moves the ovum within the tubal lumen.
+
+127
+00:15:01,147 --> 00:15:07,597
+Fertilization takes place in the lumen within a few hours, and no more than a day after ovulation.
+
+128
+00:15:07,597 --> 00:15:14,709
+Because of this narrow window, spermatozoa must be present in the fallopian tube at the time of oocyte arrival.
+
+129
+00:15:14,709 --> 00:15:21,572
+Almost all pregnancies result when intercourse occurs during the 2 days preceding or on the day of ovulation.
+
+130
+00:15:21,572 --> 00:15:24,534
+Fertilization is highly complex.
+
+131
+00:15:24,534 --> 00:15:37,709
+Molecular mechanisms allow spermatozoa to pass between cumulus cells; through the zona pellucida, which is a thick glycoprotein layer surrounding the oocyte cell membrane; and into the oocyte cytoplasm.
+
+132
+00:15:37,709 --> 00:15:44,122
+Fusion of the two nuclei and intermingling of maternal and paternal chromosomes creates the zygote.
+
+133
+00:15:44,122 --> 00:15:50,984
+Early human development is described by days or weeks postfertilization, that is, postconceptional .
+
+134
+00:15:50,984 --> 00:16:00,272
+By contrast, in most chapters of this book, clinical pregnancy dating is calculated from the first day of the last menstrual period (LMP).
+
+135
+00:16:00,272 --> 00:16:09,197
+Thus, 1 week postfertilization corresponds to approximately 3 weeks from the LMP in women with regular 28-day cycles.
+
+136
+00:16:09,197 --> 00:16:20,997
+This convention is clinically important for dating pregnancies conceived by in vitro fertilization (IVF), in which the gestational age is 14 days greater than the day of fertilization.
+
+137
+00:16:20,997 --> 00:16:30,059
+As an example, 8 weeks’ gestation refers to 8 completed weeks following the LMP but corresponds to 6 weeks postfertilization.
+
+138
+00:16:30,059 --> 00:16:40,359
+After fertilization, the zygote—a diploid cell with 46 chromosomes— undergoes cleavage, and zygote cells produced by this division are blastomeres .
+
+139
+00:16:40,359 --> 00:16:47,322
+In the two-cell zygote, the blastomeres and polar body continue to be surrounded by the zona pellucida.
+
+140
+00:16:47,322 --> 00:16:52,572
+The zygote undergoes slow cleavage for 3 days while still in the fallopian tube.
+
+141
+00:16:52,572 --> 00:16:59,647
+As the blastomeres continue to divide, a solid mulberry-like ball of cells—the morula—is produced.
+
+142
+00:16:59,647 --> 00:17:05,234
+The morula enters the uterine cavity approximately 3 days after fertilization.
+
+143
+00:17:05,234 --> 00:17:11,659
+Gradual accumulation of fluid between the morula cells leads to formation of the early blastocyst.
+
+144
+00:17:11,659 --> 00:17:14,072
+Figure 5-4.
+
+145
+00:17:14,072 --> 00:17:17,459
+Zygote cleavage and blastocyst formation.
+
+146
+00:17:17,459 --> 00:17:27,234
+The morula period begins at the 12- to 16-cell stage and ends when the blastocyst forms, which occurs when there are 50 to 60 blastomeres present.
+
+147
+00:17:27,234 --> 00:17:33,447
+The polar bodies, shown in the 2-cell stage, are small nonfunctional cells that degenerate.
+
+148
+00:17:33,447 --> 00:17:45,872
+Blastocyst As early as 4 to 5 days after fertilization, the 58-cell blastocyst differentiates into five embryo-producing cells—the inner cell mass (see Fig. 5-4).
+
+149
+00:17:45,872 --> 00:17:52,259
+The remaining 53 outer cells, called the trophectoderm, are destined to form trophoblasts .
+
+150
+00:17:52,259 --> 00:18:00,847
+In the 107-cell blastocyst, the eight formative, embryo-producing cells are surrounded by 99 trophoblastic cells.
+
+151
+00:18:00,847 --> 00:18:12,022
+The blastocyst is released from the zona pellucida secondary to secretion of specific proteases from the secretory-phase endometrial glands (O’Sullivan, 2002).
+
+152
+00:18:12,022 --> 00:18:20,759
+Release from the zona pellucida allows blastocyst-produced cytokines and hormones to directly influence endometrial receptivity .
+
+153
+00:18:20,759 --> 00:18:31,184
+The blastocyst secretes interleukin-1α (IL-1α) and IL-1β, which are cytokines that likely directly influence the endometrium.
+
+154
+00:18:31,184 --> 00:18:40,547
+Embryos also secrete hCG, which may influence endometrial receptivity (Licht, 2001; Lobo, 2001).
+
+155
+00:18:40,547 --> 00:18:51,409
+The receptive endometrium is thought to respond by producing leukemia inhibitory factor (LIF), follistatin, and colony-stimulating factor-1 (CSF-1).
+
+156
+00:18:51,409 --> 00:19:03,197
+LIF and follistatin activate signaling pathways that collectively inhibit proliferation and promote differentiation of the endometrial epithelia and stroma to enable uterine receptivity .
+
+157
+00:19:03,364 --> 00:19:12,714
+At the maternal–fetal interface, CSF-1 has proposed immunomodulatory and proangiogenic actions that are required for implantation .
+
+158
+00:19:12,664 --> 00:19:15,089
+# Implantation.
+
+159
+00:19:15,089 --> 00:19:20,889
+The blastocyst implants into the uterine wall 6 or 7 days after fertilization.
+
+160
+00:19:20,889 --> 00:19:44,614
+This process can be divided into three phases: (1) apposition—initial contact of the blastocyst to the uterine wall; (2) adhesion—increased physical contact between the blastocyst and decidua; and (3) invasion— penetration and invasion of syncytiotrophoblast and cytotrophoblasts into the decidua, inner third of the myometrium, and uterine vasculature.
+
+161
+00:19:44,614 --> 00:19:53,014
+Successful implantation requires a receptive endometrium appropriately primed with estrogen and progesterone by the corpus luteum.
+
+162
+00:19:53,014 --> 00:19:59,126
+Such uterine receptivity is limited to days 20 to 24 of the endometrial cycle.
+
+163
+00:19:59,126 --> 00:20:10,189
+Adherence is mediated by cell-surface receptors at the implantation site that interact with blastocyst receptors (Carson, 2002; Lessey, 2002).
+
+164
+00:20:10,189 --> 00:20:22,076
+If the blastocyst approaches the endometrium after cycle day 24, the potential for adhesion declines because antiadhesive glycoprotein synthesis prevents receptor interactions .
+
+165
+00:20:22,076 --> 00:20:30,951
+A mismatch between uterine receptivity and timing of embryo transfer can lead to repeated implantation failure in some IVF patients.
+
+166
+00:20:30,951 --> 00:20:38,276
+This has stimulated efforts to define receptivity by gene expression profiles to improve clinical outcomes .
+
+167
+00:20:38,276 --> 00:20:45,676
+At the time of its interaction with the endometrium, the blastocyst is composed of 100 to 250 cells.
+
+168
+00:20:45,676 --> 00:20:50,676
+The blastocyst trophectoderm loosely adheres to the decidua by apposition.
+
+169
+00:20:50,676 --> 00:20:59,939
+This appears to be closely regulated by paracrine interactions between these two tissues and most commonly occurs on the upper posterior uterine wall.
+
+170
+00:20:59,939 --> 00:21:07,826
+Successful endometrial blastocyst adhesion involves modified expression of cellular adhesion molecules (CAMs).
+
+171
+00:21:07,826 --> 00:21:16,814
+The integrins—one of four families of CAMs—are cell-surface receptors that mediate cell adhesion to extracellular matrix proteins .
+
+172
+00:21:16,814 --> 00:21:24,301
+Endometrial integrins are hormonally regulated, and a specific set of integrins is expressed at implantation .
+
+173
+00:21:24,301 --> 00:21:30,439
+Recognition-site blockade of the integrins needed for binding will prevent blastocyst attachment .
+
+174
+00:21:30,439 --> 00:21:33,314
+# Trophoblast Development.
+
+175
+00:21:33,314 --> 00:21:38,901
+The fetus depends on the placenta for pulmonary, hepatic, and renal functions.
+
+176
+00:21:38,901 --> 00:21:45,014
+These are accomplished through the anatomical relationship of the placenta and its uterine interface.
+
+177
+00:21:45,014 --> 00:21:55,026
+In overview, maternal blood flows from uteroplacental vessels into the placental intervillous space and bathes the syncytiotrophoblast, which surround villi.
+
+178
+00:21:55,026 --> 00:22:03,514
+Here, gases, nutrients, and other substances are exchanged with fetal capillary blood within the core of each placental villus.
+
+179
+00:22:03,514 --> 00:22:09,076
+Thus, fetal and maternal blood do not normally mix in this hemochorial placenta.
+
+180
+00:22:09,076 --> 00:22:17,239
+Human placental formation begins with the trophectoderm, which gives rise to a trophoblast cell layer encircling the blastocyst.
+
+181
+00:22:17,239 --> 00:22:24,689
+Trophoblast exhibits the most variable structure, function, and developmental pattern of all placental components.
+
+182
+00:22:24,689 --> 00:22:37,551
+Its invasiveness promotes implantation, its nutritional role for the conceptus is reflected in their name, and its endocrine function is essential to maternal physiological adaptations and to pregnancy maintenance.
+
+183
+00:22:37,551 --> 00:22:53,676
+By the eighth day postfertilization, after initial implantation, the trophoblast has differentiated into an outer multinucleated syncytium—the primitive syncytiotrophoblast, and an inner layer of primitive mononuclear cells—cytotrophoblasts.
+
+184
+00:22:53,676 --> 00:22:57,514
+The latter are solely germinal cells for the syncytium.
+
+185
+00:22:57,514 --> 00:23:08,864
+As cytotrophoblasts differentiate, they express an endogenous envelope protein called syncytin, which aids their cell fusion with the expanding outer layer of syncytiotrophoblast.
+
+186
+00:23:08,864 --> 00:23:17,726
+Each cytotrophoblast has a well-demarcated cell border, a single nucleus, and ability to undergo DNA synthesis and mitosis .
+
+187
+00:23:17,726 --> 00:23:24,014
+These are lacking in the syncytiotrophoblast, which provides transport functions of the placenta.
+
+188
+00:23:24,014 --> 00:23:35,901
+It is so named because instead of individual cells, it has an amorphous cytoplasm without cell borders, nuclei that are multiple and diverse in size and shape, and a continuous syncytial lining.
+
+189
+00:23:35,901 --> 00:23:37,489
+Following
+
+190
+00:23:37,660 --> 00:23:46,072
+implantation, trophoblasts differentiate along two main pathways that give rise to either villous or extravillous trophoblasts.
+
+191
+00:23:46,022 --> 00:23:50,822
+As shown in Figure 5-5, both have distinct functions .
+
+192
+00:23:50,822 --> 00:24:00,235
+Villous trophoblasts generate chorionic villi, which primarily transport oxygen, nutrients, and other compounds between the fetus and mother.
+
+193
+00:24:00,235 --> 00:24:05,135
+Extravillous trophoblasts migrate into the decidua and myometrium .
+
+194
+00:24:05,135 --> 00:24:11,672
+They also penetrate maternal vasculature and thus directly contact various maternal cell types .
+
+195
+00:24:11,672 --> 00:24:18,985
+Extravillous trophoblasts are further classified as interstitial trophoblasts and endovascular trophoblasts.
+
+196
+00:24:18,985 --> 00:24:27,072
+The interstitial trophoblasts invade the decidua and eventually penetrate the myometrium to form placental-bed giant cells.
+
+197
+00:24:27,072 --> 00:24:31,022
+These trophoblasts also surround spiral arteries.
+
+198
+00:24:31,022 --> 00:24:35,960
+The endovascular trophoblasts penetrate the spiral artery lumens .
+
+199
+00:24:35,960 --> 00:24:38,485
+Figure 5-5.
+
+200
+00:24:38,485 --> 00:24:44,297
+Endovascular and interstitial extravillous trophoblasts are found outside the villus.
+
+201
+00:24:44,297 --> 00:24:53,910
+Endovascular trophoblasts invade and transform spiral arteries during pregnancy to create lowresistance blood flow that is characteristic of the placenta.
+
+202
+00:24:53,910 --> 00:24:59,122
+Interstitial trophoblasts invade the decidua and surround spiral arteries.
+
+203
+00:24:59,122 --> 00:25:01,597
+Figure 5-6.
+
+204
+00:25:01,597 --> 00:25:07,097
+Photomicrograph of extravillous trophoblast invasion of the decidua basalis.
+
+205
+00:25:07,097 --> 00:25:18,897
+Recently, single-cell RNA sequencing technology has enabled inference of trophoblast differentiation lineages (Liu, 2018; Tsang, 2017).
+
+206
+00:25:18,897 --> 00:25:26,885
+This has also yielded insights into the communication between trophoblasts and maternal decidual and immune cell populations .
+
+207
+00:25:26,885 --> 00:25:35,097
+Furthermore, human trophoblast stem cells, long hypothesized to exist, have been isolated from early gestations .
+
+208
+00:25:35,097 --> 00:25:45,897
+Culture of these cells will likely aid greater understanding of early trophoblast differentiation and invasion (Haider, 2018; Turco, 2018).
+
+209
+00:25:45,897 --> 00:25:48,372
+# Early Invasion.
+
+210
+00:25:48,372 --> 00:25:55,735
+After gentle erosion between epithelial cells of the surface endometrium, invading trophoblasts burrow deeper.
+
+211
+00:25:55,735 --> 00:26:02,772
+At 9 days of development, the blastocyst wall facing the uterine lumen is a single layer of flattened cells.
+
+212
+00:26:02,772 --> 00:26:08,322
+By the 10th day, the blastocyst becomes totally encased within the endometrium .
+
+213
+00:26:08,322 --> 00:26:17,147
+The blastocyst wall opposite the uterine lumen is thicker and comprises two zones—the trophoblasts and the embryo-forming inner cell mass.
+
+214
+00:26:17,147 --> 00:26:28,647
+As early as 7.5 days postfertilization, the inner cell mass or embryonic disc differentiates into a thick plate of primitive ectoderm and an underlying layer of endoderm.
+
+215
+00:26:28,647 --> 00:26:36,460
+Some small cells appear between the embryonic disc and the trophoblasts and enclose a space that will become the amnionic cavity.
+
+216
+00:26:36,460 --> 00:26:38,910
+Figure 5-7.
+
+217
+00:26:38,910 --> 00:26:42,572
+Drawing of sections through implanted blastocysts.
+
+218
+00:26:42,572 --> 00:26:44,947
+A. At 10 days.
+
+219
+00:26:44,947 --> 00:26:48,297
+B. At 12 days after fertilization.
+
+220
+00:26:48,297 --> 00:26:54,210
+This stage is characterized by the intercommunication of the lacunae filled with maternal blood.
+
+221
+00:26:54,210 --> 00:27:02,572
+Note in (B) that large cavities have appeared in the extraembryonic mesoderm, forming the beginning of the extraembryonic coelom.
+
+222
+00:27:02,572 --> 00:27:09,210
+Also, extraembryonic endodermal cells have begun to form on the inside of the primitive yolk sac.
+
+223
+00:27:09,210 --> 00:27:16,360
+Redrawn from Moore KL, Persaud, TV, Torchia, MG (eds): The Developing Human.
+
+224
+00:27:16,360 --> 00:27:23,797
+Clinically Oriented Embryology, 9th ed. Philadelphia, PA: Saunders; 2013.
+
+225
+00:27:23,797 --> 00:27:33,597
+Extraembryonic mesenchyme first appears as groups of isolated cells within the blastocyst cavity, and later this mesoderm completely lines the cavity.
+
+226
+00:27:33,597 --> 00:27:41,572
+Within this mesoderm, spaces form and then fuse to form the chorionic cavity, that is, the extraembryonic coelom.
+
+227
+00:27:41,572 --> 00:27:45,547
+The chorion is composed of trophoblasts and mesenchyme.
+
+228
+00:27:45,547 --> 00:27:50,247
+Some mesenchymal cells eventually will condense to form the body stalk.
+
+229
+00:27:50,247 --> 00:27:56,422
+This stalk joins the embryo to the nutrient chorion and later develops into the umbilical cord.
+
+230
+00:27:56,422 --> 00:28:05,347
+The body stalk can be recognized at an early stage at the caudal end of the embryonic disc (Fig. 7-3, p. 123).
+
+231
+00:28:05,347 --> 00:28:12,022
+As the embryo enlarges, more maternal decidua basalis is invaded by syncytiotrophoblast.
+
+232
+00:28:12,022 --> 00:28:22,235
+Beginning approximately 12 days after conception, the syncytiotrophoblast is permeated by a system of intercommunicating channels called trophoblastic lacunae.
+
+233
+00:28:22,235 --> 00:28:28,947
+After invasion of superficial decidual capillary walls, lacunae become filled with maternal blood.
+
+234
+00:28:28,947 --> 00:28:30,810
+At the same time,
+
+235
+00:28:30,964 --> 00:28:39,889
+the decidual reaction, characterized by decidual stromal cell enlargement and glycogen storage, intensifies (p. 84).
+
+236
+00:28:39,839 --> 00:28:42,489
+# Chorionic Villi.
+
+237
+00:28:42,489 --> 00:28:53,589
+With deeper invasion into the decidua, solid primary villi arise from buds of cytotrophoblasts that protrude into the primitive syncytium before 12 days postfertilization.
+
+238
+00:28:53,589 --> 00:28:59,664
+Primary villi are composed of a cytotrophoblast core covered by syncytiotrophoblast.
+
+239
+00:28:59,664 --> 00:29:07,251
+As the lacunae merge, a complicated labyrinth is formed that is partitioned by these solid cytotrophoblastic columns.
+
+240
+00:29:07,251 --> 00:29:15,064
+The trophoblast-lined channels form the intervillous space, and the solid cellular columns form the primary villous stalks.
+
+241
+00:29:15,064 --> 00:29:24,076
+Beginning on the 12th day after fertilization, mesenchymal cords derived from extraembryonic mesoderm invade the solid trophoblast columns.
+
+242
+00:29:24,076 --> 00:29:27,039
+These then form secondary villi.
+
+243
+00:29:27,039 --> 00:29:32,876
+Once angiogenesis begins in the mesenchymal cords, tertiary villi are created.
+
+244
+00:29:32,876 --> 00:29:42,414
+Although maternal venous sinuses are tapped early in implantation, maternal arterial blood does not enter the intervillous space until around day 15.
+
+245
+00:29:42,414 --> 00:29:49,739
+By the 17th day, however, fetal blood vessels are functional, and a placental circulation is established.
+
+246
+00:29:49,739 --> 00:29:56,914
+The fetal– placental circulation is completed when the blood vessels of the embryo are connected with chorionic vessels.
+
+247
+00:29:56,914 --> 00:30:01,564
+In some villi, angiogenesis fails from lack of circulation.
+
+248
+00:30:01,564 --> 00:30:09,389
+The most striking exaggeration of this is seen with hydatidiform mole (Fig. 13-1, p. 236).
+
+249
+00:30:09,389 --> 00:30:15,939
+Villi are covered by an outer layer of syncytiotrophoblast and an inner layer of cytotrophoblasts.
+
+250
+00:30:15,939 --> 00:30:23,601
+Proliferation of cytotrophoblast at the villous tips produces the trophoblastic cell columns that form anchoring villi.
+
+251
+00:30:23,601 --> 00:30:32,226
+They are not invaded by fetal mesenchyme, and they are anchored to the decidua at the basal plate, which is the maternal side of the intervillous space.
+
+252
+00:30:32,226 --> 00:30:36,376
+The chorionic plate forms the roof of the intervillous space.
+
+253
+00:30:36,376 --> 00:30:44,164
+It consists of the two layers of trophoblasts, which line the intervillous space, and fibrous mesoderm on the opposite side.
+
+254
+00:30:44,164 --> 00:30:52,264
+The final chorionic plate is formed by 8 to 10 weeks as the amnionic and primary chorionic plate mesenchyme fuse together.
+
+255
+00:30:52,264 --> 00:30:56,989
+This formation is accomplished by expansion of the amnionic sac.
+
+256
+00:30:56,989 --> 00:31:03,264
+Early electron microscopic studies demonstrate prominent microvilli on the syncytial surface .
+
+257
+00:31:03,264 --> 00:31:10,714
+Associated pinocytotic vacuoles and vesicles are involved in both absorptive and secretory placental functions.
+
+258
+00:31:10,714 --> 00:31:19,939
+Microvilli increase trophoblast surface area in direct contact with maternal blood, the defining characteristic of a hemochorial placenta.
+
+259
+00:31:19,939 --> 00:31:22,126
+Figure 5-8.
+
+260
+00:31:22,126 --> 00:31:26,051
+Electron micrograph of term human placenta villus.
+
+261
+00:31:26,051 --> 00:31:33,939
+A villus capillary filled with fetal red blood cells (asterisks) is seen in close proximity to the microvilli border.
+
+262
+00:31:33,939 --> 00:31:40,089
+Reproduced with permission from Boyd JD, Hamilton WJ: The Human Placenta.
+
+263
+00:31:40,089 --> 00:31:43,426
+Cambridge, Heffer, 1970.
+
+264
+00:31:43,426 --> 00:31:45,701
+Placenta And Chorion.
+
+265
+00:31:45,701 --> 00:31:48,364
+# Chorion Development.
+
+266
+00:31:48,364 --> 00:31:54,876
+In early pregnancy, the villi are distributed over the entire periphery of the chorionic membrane .
+
+267
+00:31:54,876 --> 00:32:03,189
+As the blastocyst with its surrounding trophoblasts grows and expands into the decidua, one pole faces the endometrial cavity.
+
+268
+00:32:03,189 --> 00:32:06,276
+The opposite pole will form the placenta.
+
+269
+00:32:06,276 --> 00:32:14,401
+Here, chorionic villi in contact with the decidua basalis proliferate to form the chorion frondosum—or leafy chorion.
+
+270
+00:32:14,401 --> 00:32:23,264
+As growth of embryonic and extraembryonic tissues continues, the blood supply to the chorion facing the endometrial cavity is restricted.
+
+271
+00:32:23,264 --> 00:32:29,651
+Because of this, villi in contact with the decidua capsularis cease to grow and then degenerate.
+
+272
+00:32:29,651 --> 00:32:38,951
+This portion of the chorion becomes the avascular fetal membrane that abuts the decidua parietalis and is called the chorion laeve—or smooth chorion.
+
+273
+00:32:38,951 --> 00:32:44,751
+This smooth chorion is composed of cytotrophoblasts and fetal mesodermal mesenchyme.
+
+274
+00:32:44,751 --> 00:32:50,126
+A paracrine system between the decidua and chorion also links mother and fetus.
+
+275
+00:32:50,126 --> 00:32:58,751
+This is an extraordinarily important arrangement for maternal–fetal communication and for maternal immunological acceptance of the conceptus .
+
+276
+00:32:58,751 --> 00:33:01,151
+Figure 5-9.
+
+277
+00:33:01,151 --> 00:33:03,751
+Complete abortion specimens.
+
+278
+00:33:03,751 --> 00:33:12,326
+A. Initially, the entire chorionic sac is covered with villi, and the embryo within is not visible B. Stretch and pressure from
+
+279
+00:33:12,484 --> 00:33:16,096
+further growth prompt partial regression of the villi.
+
+280
+00:33:16,046 --> 00:33:21,721
+The remaining villi form the future placenta, whereas the smooth portion is the chorion.
+
+281
+00:33:21,721 --> 00:33:28,696
+Until near the end of the third month, the chorion laeve is separated from the amnion by the exocoelomic cavity.
+
+282
+00:33:28,696 --> 00:33:34,271
+Thereafter, they are in intimate contact to form the avascular amniochorion.
+
+283
+00:33:34,271 --> 00:33:40,009
+These two structures are important sites of molecular transfer and metabolic activity.
+
+284
+00:33:40,009 --> 00:33:46,596
+Moreover, they constitute an important paracrine arm of the fetal–maternal communication system.
+
+285
+00:33:46,596 --> 00:33:50,246
+# Regulators of Trophoblast Invasion.
+
+286
+00:33:50,246 --> 00:34:06,096
+Implantation and endometrial decidualization activate a unique population of maternal immune cells that play critical functions in trophoblast invasion, angiogenesis, spiral artery remodeling, and maternal tolerance to fetal alloantigens.
+
+287
+00:34:06,096 --> 00:34:15,971
+Decidual natural killer cells (dNK) make up 70 percent of decidual leukocytes in the first trimester and directly contact trophoblasts.
+
+288
+00:34:15,971 --> 00:34:22,646
+In contrast to NK cells in peripheral blood, dNK cells lack cytotoxic functions.
+
+289
+00:34:22,646 --> 00:34:30,771
+They produce specific cytokines and angiogenic factors to regulate trophoblast invasion and spiral artery remodeling .
+
+290
+00:34:30,771 --> 00:34:34,871
+dNK cells promote phagocytosis of cell debris .
+
+291
+00:34:34,871 --> 00:34:47,759
+These and other unique properties distinguish dNK cells from circulating NK cells and from NK cells in the endometrium before pregnancy (Fu, 2013; Winger, 2013).
+
+292
+00:34:47,759 --> 00:34:59,946
+dNK cells express both IL-8 and interferon-inducible protein 10, which bind to receptors on invasive trophoblastic cells to promote their decidual invasion toward the spiral arteries.
+
+293
+00:34:59,946 --> 00:35:11,046
+dNK cells also produce proangiogenic factors, including VEGF and placental growth factor (PlGF), which both promote vascular growth in the decidua.
+
+294
+00:35:11,046 --> 00:35:18,271
+Trophoblasts also secrete specific chemokines that attract the dNK cells to the maternal–fetal interface.
+
+295
+00:35:18,271 --> 00:35:22,484
+Thus, both cell types simultaneously attract each other.
+
+296
+00:35:22,484 --> 00:35:32,221
+Decidual macrophages account for approximately 20 percent of leukocytes in the first trimester and elicit an M2-immunomodulatory phenotype .
+
+297
+00:35:32,221 --> 00:35:41,371
+Recall that while M1 macrophages are proinflammatory, M2 macrophages counter proinflammatory responses and promote tissue repair.
+
+298
+00:35:41,371 --> 00:35:46,659
+Concurrently, T cell subsets aid tolerance toward the allogenic fetus.
+
+299
+00:35:46,659 --> 00:35:52,271
+Regulatory T cells (Tregs) are essential for promoting immune tolerance.
+
+300
+00:35:52,271 --> 00:36:01,371
+Other T cell subsets are present, such as Th1, Th2, and Th17, although their functions are tightly regulated .
+
+301
+00:36:01,371 --> 00:36:07,996
+Endometrial Invasion Extravillous trophoblasts of the first-trimester placenta are highly invasive.
+
+302
+00:36:07,996 --> 00:36:16,734
+This process occurs under low-oxygen conditions, and regulatory factors that are induced under hypoxic conditions are contributory .
+
+303
+00:36:16,734 --> 00:36:26,559
+Invasive trophoblasts secrete numerous proteolytic enzymes that digest extracellular matrix and activate proteinases already present in the decidua.
+
+304
+00:36:26,559 --> 00:36:35,971
+Trophoblasts produce urokinase-type plasminogen activator, which converts plasminogen into the broadly acting serine protease, plasmin.
+
+305
+00:36:35,971 --> 00:36:41,171
+This in turn both degrades matrix proteins and activates MMPs.
+
+306
+00:36:41,171 --> 00:36:46,446
+One member of the MMP family, MMP-9, appears to be critical.
+
+307
+00:36:46,446 --> 00:36:54,434
+The timing and extent of trophoblast invasion is regulated by a balanced interplay between pro- and anti-invasive factors.
+
+308
+00:36:54,434 --> 00:37:01,884
+Low estradiol levels in the first trimester are critical for trophoblast invasion and spiral artery remodeling.
+
+309
+00:37:01,884 --> 00:37:13,509
+Animal studies suggest that the rise in second-trimester estradiol levels suppresses and limits vessel remodeling by reducing trophoblast expression of VEGF and specific integrin receptors .
+
+310
+00:37:13,509 --> 00:37:23,946
+Namely, extravillous trophoblasts express integrin receptors that recognize the extracellular matrix proteins collagen IV, laminin, and fibronectin.
+
+311
+00:37:23,946 --> 00:37:32,484
+Binding of these matrix proteins and integrin receptors initiates signals to promote trophoblast cell migration and differentiation.
+
+312
+00:37:32,484 --> 00:37:40,259
+However, as pregnancy advances, rising estradiol levels downregulate VEGF and integrin receptor expression.
+
+313
+00:37:40,259 --> 00:37:45,096
+This represses and controls the extent of uterine vessel transformation.
+
+314
+00:37:45,096 --> 00:37:48,071
+# Spiral Artery Invasion.
+
+315
+00:37:48,071 --> 00:37:57,996
+One of the most remarkable features of human placental development is the extensive modification of maternal vasculature by trophoblasts, which are fetal in origin.
+
+316
+00:37:57,996 --> 00:37:59,546
+These
+
+317
+00:37:59,716 --> 00:38:05,491
+events occur in the first half of pregnancy and are essential to uteroplacental blood flow.
+
+318
+00:38:05,441 --> 00:38:12,278
+They are also integral to conditions such as preeclampsia, fetal-growth restriction, and preterm birth.
+
+319
+00:38:12,278 --> 00:38:28,203
+Spiral artery modifications are carried out by two populations of extravillous trophoblasts—endovascular trophoblasts, which penetrate the spiral-artery lumen, and interstitial trophoblasts, which surround the arteries (see Fig. 55).
+
+320
+00:38:28,203 --> 00:38:33,228
+Interstitial trophoblasts constitute a major portion of the placental bed.
+
+321
+00:38:33,228 --> 00:38:42,453
+They penetrate the decidua and adjacent myometrium and aggregate around spiral arteries, where they may aid endovascular trophoblast invasion.
+
+322
+00:38:42,453 --> 00:38:49,278
+Endovascular trophoblasts first enter the spiral artery lumens and initially form cellular plugs.
+
+323
+00:38:49,278 --> 00:38:56,203
+They then promote apoptosis of the native endothelium and replace the vessel lumen with cells of fetal origin.
+
+324
+00:38:56,203 --> 00:39:01,878
+Fibrinoid material replaces smooth muscle and connective tissue of the vessel media.
+
+325
+00:39:01,878 --> 00:39:06,391
+This decreases resistance of blood flow into the intervillous space.
+
+326
+00:39:06,391 --> 00:39:15,228
+Invading endovascular trophoblasts can extend several centimeters along the vessel lumen, and they must migrate against arterial flow.
+
+327
+00:39:15,228 --> 00:39:22,516
+Of note, invasion by trophoblasts involves only the decidual spiral arteries and not decidual veins.
+
+328
+00:39:22,516 --> 00:39:27,403
+Uteroplacental vessel development proceeds in two waves or stages .
+
+329
+00:39:27,403 --> 00:39:36,528
+First, before 12 weeks’ postfertilization, spiral arteries are invaded and modified up to the border between the decidua and myometrium.
+
+330
+00:39:36,528 --> 00:39:45,066
+The second wave, between 12 and 16 weeks, involves some invasion of the intramyometrial segments of spiral arteries.
+
+331
+00:39:45,066 --> 00:39:52,816
+Remodeling converts narrowlumen, muscular spiral arteries into dilated, low-resistance uteroplacental vessels.
+
+332
+00:39:52,816 --> 00:40:05,316
+Molecular mechanisms of these crucial events and their significance for preeclampsia and fetal-growth restriction have been reviewed (Pereira de Sousa, 2017; Xie, 2016).
+
+333
+00:40:05,316 --> 00:40:20,891
+Although early placenta development occurs in a low-oxygen-tension environment (2 to 3 percent O2), this vascular remodeling increases blood flow and oxygenation such that the oxygen concentration more than doubles around the end of the first trimester .
+
+334
+00:40:20,891 --> 00:40:23,353
+# Villus Branching.
+
+335
+00:40:23,353 --> 00:40:34,641
+Although certain villi of the chorion frondosum extend from the chorionic plate to the decidua to serve as anchoring villi, most villi arborize and end freely within the intervillous space.
+
+336
+00:40:34,641 --> 00:40:44,741
+As gestation proceeds, the short, thick, early stem villi branch to form progressively finer subdivisions and greater numbers of increasingly smaller villi .
+
+337
+00:40:44,741 --> 00:40:50,766
+This increasing villous surface area correlates with gestational age and aids fetal growth.
+
+338
+00:40:50,766 --> 00:40:58,878
+In cases of restricted blood flow, more highly branched villi than expected for gestational age is a compensatory mechanism.
+
+339
+00:40:58,878 --> 00:41:01,191
+Figure 5-10.
+
+340
+00:41:01,191 --> 00:41:13,178
+Illustration (A, B), histology (C, D), and electron microscopy (E, F) of early (top panel) and late (bottom panel) human placenta villi.
+
+341
+00:41:13,178 --> 00:41:17,116
+Limited branching of villi is seen in the early placenta.
+
+342
+00:41:17,116 --> 00:41:25,266
+With maturation, increasing villous arborization is seen, and villous capillaries lie closer to the surface of each villus.
+
+343
+00:41:25,266 --> 00:41:35,978
+Electron micrographs reproduced with permission from King BF, Menton DN: Scanning electron microscopy of human placental villi from early and late in gestation.
+
+344
+00:41:35,978 --> 00:41:42,153
+Am J Obstet Gynecol 122:824, 1975.
+
+345
+00:41:42,153 --> 00:41:48,866
+Each truncal or main stem villus and its ramifications constitutes a placental lobule or cotyledon.
+
+346
+00:41:48,866 --> 00:41:57,078
+Each lobule has a single chorionic artery and vein, such that lobules constitute the functional units of placental architecture.
+
+347
+00:41:57,078 --> 00:42:00,391
+# Placental Growth and Maturation.
+
+348
+00:42:00,391 --> 00:42:05,666
+In the first trimester, placental growth is more rapid than that of the fetus.
+
+349
+00:42:05,666 --> 00:42:11,578
+However, by 17 weeks’ gestation, placental and fetal weights are nearly equal.
+
+350
+00:42:11,578 --> 00:42:16,316
+By term, placental weight approximates one sixth of fetal weight.
+
+351
+00:42:16,316 --> 00:42:23,041
+The mature placenta and its variant forms are discussed in detail in Chapter 6 (p. 108).
+
+352
+00:42:23,041 --> 00:42:33,741
+Briefly, viewed from the maternal surface, which attaches to the uterine wall, the number of slightly elevated convex areas, called lobes, varies from 10 to 38.
+
+353
+00:42:33,741 --> 00:42:38,103
+Lobes are incompletely separated by grooves of variable depth.
+
+354
+00:42:38,103 --> 00:42:42,753
+These tissue grooves form in response to placental septa, which
+
+355
+00:42:42,916 --> 00:42:46,028
+rise up as projections of decidua.
+
+356
+00:42:45,978 --> 00:42:55,791
+The total number of placental lobes remains the same throughout gestation, and individual lobes continue to grow—although less actively in late pregnancy .
+
+357
+00:42:55,791 --> 00:43:01,653
+Although grossly visible lobes are commonly referred to as cotyledons, this is inaccurate.
+
+358
+00:43:01,653 --> 00:43:08,503
+Correctly used, lobules or cotyledons are the functional units supplied by each main stem villus.
+
+359
+00:43:08,503 --> 00:43:16,916
+As villi continue to branch and the terminal ramifications become more numerous and smaller, the volume of cytotrophoblasts decline.
+
+360
+00:43:16,916 --> 00:43:24,616
+This layer attenuates, and by 16 weeks’ gestation, the apparent continuity of the cytotrophoblasts is lost.
+
+361
+00:43:24,616 --> 00:43:34,253
+As the syncytium also thins, the fetal vessels become more prominent within the villus and lie closer to the intervillous space (see Fig. 5-8).
+
+362
+00:43:34,253 --> 00:43:45,491
+At term, villi may be focally reduced to a thin layer of syncytium covering minimal villous connective tissue in which thin-walled fetal capillaries abut the trophoblast and dominate the villi.
+
+363
+00:43:45,491 --> 00:43:50,216
+The villous stroma also exhibits changes as gestation progresses.
+
+364
+00:43:50,216 --> 00:43:57,591
+In early pregnancy, the branching connective-tissue cells are separated by an abundant loose intercellular matrix.
+
+365
+00:43:57,591 --> 00:44:03,641
+Later, the villous stroma becomes denser, and the cells are more spindly and closely packed.
+
+366
+00:44:03,641 --> 00:44:10,016
+Another stromal change involves infiltration of Hofbauer cells, which are fetal macrophages.
+
+367
+00:44:10,016 --> 00:44:17,266
+These are round with vesicular, often eccentric nuclei and with very granular or vacuolated cytoplasm.
+
+368
+00:44:17,266 --> 00:44:25,953
+They grow in number and maturational state throughout pregnancy and appear to be important mediators of protection at the maternal–fetal interface .
+
+369
+00:44:25,953 --> 00:44:40,778
+These macrophages are phagocytic, have an immunosuppressive phenotype, produce various cytokines, and provide paracrine regulation of trophoblastic functions (Cervar, 1999; Reyes, 2017).
+
+370
+00:44:40,778 --> 00:44:46,953
+Some architectural changes, if substantive, can lower placental exchange efficiency.
+
+371
+00:44:46,953 --> 00:44:58,503
+These include thickening of the basal lamina of trophoblast or capillaries, obliteration of certain fetal vessels, greater villous stroma, and fibrin deposition on the villous surface .
+
+372
+00:44:58,503 --> 00:45:01,341
+# Placental Circulation.
+
+373
+00:45:01,341 --> 00:45:08,428
+The gross anatomy of the placenta reflects the intimate approximation of the fetal capillary bed to maternal blood.
+
+374
+00:45:08,428 --> 00:45:14,753
+The fetal surface is covered by the transparent amnion, beneath which chorionic vessels course.
+
+375
+00:45:14,753 --> 00:45:27,453
+A section through the placenta includes amnion, chorion, chorionic villi and intervillous space, decidual (basal) plate, and myometrium (Figs. 5-11 and 5-12).
+
+376
+00:45:27,453 --> 00:45:29,828
+Figure 5-11.
+
+377
+00:45:29,828 --> 00:45:34,203
+Uterus showing a normal placenta and its membranes in situ.
+
+378
+00:45:34,203 --> 00:45:36,603
+Figure 5-12.
+
+379
+00:45:36,603 --> 00:45:42,016
+Photomicrograph of implantation site with partial section of an early embryo.
+
+380
+00:45:42,016 --> 00:45:47,816
+Anchoring villi are seen with extravillous trophoblasts invading the decidua basalis.
+
+381
+00:45:47,816 --> 00:45:51,016
+CNS = central nervous system.
+
+382
+00:45:51,016 --> 00:45:54,741
+Reproduced with permission from Dr. Kurt Benirschke.
+
+383
+00:45:54,741 --> 00:46:02,003
+Fetal Circulation Deoxygenated venous-like fetal blood flows to the placenta through the two umbilical arteries.
+
+384
+00:46:02,003 --> 00:46:10,241
+As the cord joins the placenta, these umbilical vessels branch repeatedly beneath the amnion as they run across the chorionic plate.
+
+385
+00:46:10,241 --> 00:46:16,991
+Branching continues within the villi to ultimately form capillary networks in the terminal villous branches.
+
+386
+00:46:16,991 --> 00:46:24,428
+Blood with significantly higher oxygen content returns from the placenta via a single umbilical vein to the fetus.
+
+387
+00:46:24,428 --> 00:46:32,666
+The branches of the umbilical vessels that traverse along the chorionic plate are called placental surface vessels or chorionic vessels.
+
+388
+00:46:32,666 --> 00:46:41,028
+They respond to vasoactive substances, but anatomically, morphologically, histologically, and functionally, they are unique.
+
+389
+00:46:41,028 --> 00:46:45,328
+Chorionic arteries always cross over chorionic veins.
+
+390
+00:46:45,328 --> 00:46:53,803
+Vessels are most readily recognized by this anatomical relationship, but they are difficult to distinguish by histological criteria.
+
+391
+00:46:53,803 --> 00:46:59,916
+Truncal arteries are perforating branches of the surface arteries and pass through the chorionic plate.
+
+392
+00:46:59,916 --> 00:47:05,203
+Each truncal artery supplies one main stem villus and thus one cotyledon.
+
+393
+00:47:05,203 --> 00:47:12,191
+As the artery penetrates the chorionic plate, its wall loses smooth muscle, and its caliber increases.
+
+394
+00:47:12,191 --> 00:47:18,028
+The loss of muscle continues as the truncal arteries and veins branch into their smaller rami.
+
+395
+00:47:18,028 --> 00:47:20,091
+Before 10 weeks’
+
+396
+00:47:20,260 --> 00:47:31,385
+gestation, end-diastolic flow is not detected within the umbilical artery at the end of the fetal cardiac cycle (Fisk, 1988; Loquet, 1988).
+
+397
+00:47:31,335 --> 00:47:38,210
+After 10 weeks, however, end-diastolic flow appears and is maintained throughout normal pregnancy.
+
+398
+00:47:38,210 --> 00:47:44,260
+Clinically, these flow patterns are studied with Doppler sonography to assess fetal well-being .
+
+399
+00:47:44,260 --> 00:48:02,947
+Maternal Circulation Mechanisms of placental blood flow must allow blood to leave maternal circulation; flow into an amorphous space lined by syncytiotrophoblast; and return through maternal veins without producing arteriovenous-like shunts that would prevent adequate exchange between maternal blood and fetal villi.
+
+400
+00:48:02,947 --> 00:48:12,085
+For this, maternal blood enters through the basal plate and is driven high up toward the chorionic plate by arterial pressure before laterally dispersing .
+
+401
+00:48:12,085 --> 00:48:20,935
+After bathing the external microvillous surface, maternal blood drains back through venous orifices in the basal plate and enters uterine veins.
+
+402
+00:48:20,935 --> 00:48:26,472
+Thus, maternal blood traverses the placenta randomly without preformed channels.
+
+403
+00:48:26,472 --> 00:48:35,510
+Trophoblast invasion of the spiral arteries creates low-resistance vessels that can accommodate massive increase in uterine perfusion during gestation.
+
+404
+00:48:35,510 --> 00:48:41,985
+Generally, spiral arteries are perpendicular to, but veins are parallel to, the uterine wall.
+
+405
+00:48:41,985 --> 00:48:50,072
+This arrangement aids closure of veins during a uterine contraction and prevents the exit of maternal blood from the intervillous space.
+
+406
+00:48:50,072 --> 00:49:00,210
+The number of arterial openings into the intervillous space is gradually reduced by cytotrophoblastic invasion to approximately 120 entry sites at term .
+
+407
+00:49:00,210 --> 00:49:04,422
+These discharge blood in spurts to bath the adjacent villi .
+
+408
+00:49:04,422 --> 00:49:15,385
+After the 30th week, a prominent venous plexus lies between the decidua basalis and myometrium and helps develop the cleavage plane needed for placental separation after delivery.
+
+409
+00:49:15,385 --> 00:49:18,085
+Figure 5-13.
+
+410
+00:49:18,085 --> 00:49:22,135
+Schematic drawing of a section through a full-term placenta.
+
+411
+00:49:22,135 --> 00:49:31,472
+Maternal blood flows into the intervillous spaces in funnel-shaped spurts, and umbilical arteries carry deoxygenated fetal blood to the placenta.
+
+412
+00:49:31,472 --> 00:49:37,622
+Exchanges between the maternal and fetal systems occur as maternal blood flows around the villi.
+
+413
+00:49:37,622 --> 00:49:42,210
+The umbilical vein carries oxygenated blood back to the fetus.
+
+414
+00:49:42,210 --> 00:49:51,885
+Inflowing arterial blood pushes maternal venous blood into the endometrial veins, which are scattered over the entire surface of the decidua basalis.
+
+415
+00:49:51,885 --> 00:49:57,360
+Placental lobes are separated from each other by placental (decidual) septa.
+
+416
+00:49:57,360 --> 00:50:01,972
+Both inflow and outflow are curtailed during uterine contractions.
+
+417
+00:50:01,972 --> 00:50:13,172
+Bleker and associates (1975) used serial sonography during normal labor and found that placental length, thickness, and surface area grew during contractions.
+
+418
+00:50:13,172 --> 00:50:20,485
+They attributed this to distention of the intervillous space by impairment of venous outflow compared with arterial inflow.
+
+419
+00:50:20,485 --> 00:50:28,610
+During contractions, therefore, a somewhat larger volume of blood is available for exchange even though the rate of flow is decreased.
+
+420
+00:50:28,610 --> 00:50:37,522
+Similarly, Doppler velocimetry has shown that diastolic flow velocity in spiral arteries is diminished during uterine contractions.
+
+421
+00:50:37,522 --> 00:50:50,335
+Thus, principal factors regulating intervillous space blood flow are arterial blood pressure, intrauterine pressure, uterine contraction pattern, and factors that act specifically on arterial walls.
+
+422
+00:50:50,335 --> 00:50:53,360
+# Breaks in the Placental “Barrier”.
+
+423
+00:50:53,360 --> 00:51:02,947
+The placenta does not maintain absolute integrity of the fetal and maternal circulations, and cells traffic between mother and fetus in both directions.
+
+424
+00:51:02,947 --> 00:51:09,172
+This situation is best exemplified clinically by erythrocyte D-antigen alloimmunization .
+
+425
+00:51:09,172 --> 00:51:16,710
+Fetal cell transfer is small in most cases, although rarely the fetus exsanguinates into the maternal circulation.
+
+426
+00:51:16,710 --> 00:51:22,847
+Fetal cells can also engraft in the mother during pregnancy and still be detected decades later.
+
+427
+00:51:22,847 --> 00:51:38,960
+Fetal lymphocytes, mesenchymal stem cells, and endothelial colony-forming cells all reside in maternal blood, bone marrow, or uterine vasculature (Huu, 2006; Piper, 2007; Sipos, 2013).
+
+428
+00:51:38,960 --> 00:51:51,172
+This frequent phenomenon, termed microchimerism, is implicated in the disparate female: male ratio of autoimmune disorders (Greer, 2011; Stevens, 2006).
+
+429
+00:51:51,172 --> 00:51:53,460
+As discussed in Chapter
+
+430
+00:51:53,620 --> 00:52:05,720
+62 (p. 1109), fetal cell engraftment has been associated with the pathogenesis of lymphocytic thyroiditis, scleroderma, and systemic lupus erythematosus.
+
+431
+00:52:05,670 --> 00:52:08,870
+# Maternal–Fetal Interface.
+
+432
+00:52:08,870 --> 00:52:19,645
+This maternal–fetal interface is an active hub of immunological interactions that allows implantation, appropriate placental development, and immunotolerance of the fetus.
+
+433
+00:52:19,645 --> 00:52:25,007
+At the same time, a functional immune system must be maintained to protect the mother.
+
+434
+00:52:25,007 --> 00:52:33,882
+Immunogenicity of the Trophoblasts Trophoblastic cells are the only fetus-derived cells in direct contact with maternal tissues and blood.
+
+435
+00:52:33,882 --> 00:52:44,482
+Fetal syncytiotrophoblast synthesizes and secretes numerous factors that regulate the immune responses of maternal cells both at the implantation site and systemically.
+
+436
+00:52:44,482 --> 00:52:52,432
+Human leukocyte antigens (HLAs) are the human analogue of the major histocompatibility complex (MHC) .
+
+437
+00:52:52,432 --> 00:53:04,695
+There are 17 HLA class I genes and include three classic genes, HLA-A, -B, and -C, that encode the major class I (class Ia) transplantation antigens.
+
+438
+00:53:04,695 --> 00:53:12,782
+Three other class I genes, designated HLA-E, -F, and -G, encode class Ib HLA antigens.
+
+439
+00:53:12,782 --> 00:53:21,845
+MHC class I and II antigens are absent from villous trophoblasts, which appear to be immunologically inert at all gestational stages .
+
+440
+00:53:21,845 --> 00:53:29,907
+Invasive extravillous trophoblasts do express MHC class I molecules but avoid rejection by the maternal immune system.
+
+441
+00:53:29,907 --> 00:53:39,745
+Moffett-King (2002) reasoned that normal implantation depends on controlled trophoblastic invasion of maternal decidua and spiral arteries.
+
+442
+00:53:39,745 --> 00:53:49,645
+Such invasion must proceed far enough to provide for normal fetal growth and development but avoid the pathogenic invasion seen in placenta accreta spectrum disorders .
+
+443
+00:53:49,645 --> 00:54:02,070
+She suggests that dNK cells combined with extravillous trophoblasts’ unique expression of three specific HLA class I genes act in concert to permit and subsequently limit trophoblast invasion.
+
+444
+00:54:02,070 --> 00:54:11,620
+Extravillous trophoblasts express the class Ia antigen HLA-C and nonclassic class Ib molecules HLA-E and HLA-G.
+
+445
+00:54:11,620 --> 00:54:20,020
+HLA-G antigen is expressed only in humans and is restricted to extravillous trophoblasts in contact with maternal tissues.
+
+446
+00:54:20,020 --> 00:54:39,707
+Expressed in both membrane-bound and soluble isoforms detectable in maternal circulation, HLA-G is thought to protect extravillous trophoblasts from immune rejection by modulating the function of both decidual and circulating NK populations (Apps, 2011; Rajagopalan, 2012).
+
+447
+00:54:39,707 --> 00:54:49,332
+The importance of this molecule is highlighted by the observation that IVF embryos fail to implant if they do not express a soluble HLA-G isoform .
+
+448
+00:54:49,332 --> 00:54:56,595
+Thus, HLA-G may act through multiple mechanisms to aid tolerance of the maternal–fetal antigen mismatch .
+
+449
+00:54:56,595 --> 00:55:05,657
+Abnormal HLA-G expression in extravillous trophoblasts from women with preeclampsia suggests immune dysregulation as one etiology .
+
+450
+00:55:05,657 --> 00:55:15,895
+Decidual Immune Cells Of leukocytes, NK cells predominate in midluteal phase endometrium and in first-trimester decidua, but numbers decline by term .
+
+451
+00:55:15,895 --> 00:55:23,995
+In firsttrimester decidua, dNK cells lie close to extravillous trophoblasts and purportedly regulate invasion.
+
+452
+00:55:23,995 --> 00:55:34,857
+Their infiltration is increased by progesterone and by stromal cell production of IL-15 and decidual prolactin (Dunn, 2002; Gubbay, 2002).
+
+453
+00:55:34,857 --> 00:55:42,495
+Although dNK cells have the capacity for cytotoxicity, they are not cytotoxic toward fetal trophoblasts.
+
+454
+00:55:42,495 --> 00:55:48,382
+Their cytotoxic potential is prevented by molecular cues from decidual macrophages.
+
+455
+00:55:48,382 --> 00:55:55,607
+As noted, specific HLA molecule expression protects against dNK cells’ damaging actions.
+
+456
+00:55:55,607 --> 00:56:05,270
+Decidual macrophages are another decidual immune cell type and are distinct from proinflammatory M1 or antiinflammatory M2 macrophages.
+
+457
+00:56:05,270 --> 00:56:17,695
+These cells regulate adaptive T cell responses; control dNK differentiation, activation, and cytotoxicity; and produce antiinflammatory cytokines such as IL-10.
+
+458
+00:56:17,695 --> 00:56:22,820
+Dendritic cells are antigen-presenting cells that educate maternal T cells.
+
+459
+00:56:22,820 --> 00:56:27,495
+They affect development of a receptive endometrium for implantation.
+
+460
+00:56:27,495 --> 00:56:36,007
+Maternal T cells, as part of the adaptive immune response, increase in number and function after encounter with a specific antigen.
+
+461
+00:56:36,007 --> 00:56:41,945
+These cells subsequently retain the ability to respond rapidly in a subsequent encounter
+
+462
+00:56:42,100 --> 00:56:44,237
+with the same antigen.
+
+463
+00:56:44,187 --> 00:56:51,325
+In contrast, Tregs are immunosuppressive, and during pregnancy systemic maternal populations expand.
+
+464
+00:56:51,325 --> 00:56:57,350
+Specific Treg cell populations persist and protect against aberrant immune responses.
+
+465
+00:56:57,350 --> 00:56:58,962
+Amnion.
+
+466
+00:56:58,962 --> 00:57:03,700
+At term, the amnion is a tough and tenacious but pliable membrane.
+
+467
+00:57:03,700 --> 00:57:12,762
+This innermost avascular fetal membrane is contiguous with amnionic fluid and provides almost all of the tensile strength of the fetal membranes.
+
+468
+00:57:12,762 --> 00:57:17,612
+Its resilience to rupture is vital to successful pregnancy outcomes.
+
+469
+00:57:17,612 --> 00:57:23,375
+Indeed, preterm rupture of fetal membranes is a major cause of preterm delivery .
+
+470
+00:57:23,375 --> 00:57:28,412
+Bourne (1962) described five separate amnion layers.
+
+471
+00:57:28,412 --> 00:57:33,912
+Here, progression of discussed layers moves from amnionic fluid to the chorion.
+
+472
+00:57:33,912 --> 00:57:40,475
+The innermost layer, which is bathed by amnionic fluid, is a single-layer cuboidal epithelium .
+
+473
+00:57:40,475 --> 00:57:45,075
+This epithelium attaches firmly to a distinct basement membrane.
+
+474
+00:57:45,075 --> 00:57:53,937
+Next, an acellular compact layer composed primarily of interstitial collagens is followed by the fibroblast-like mesenchymal cell layer.
+
+475
+00:57:53,937 --> 00:58:01,062
+The outermost layer is the relatively acellular zona spongiosa, which is contiguous with the chorion laeve.
+
+476
+00:58:01,062 --> 00:58:07,600
+The amnion also contains a few fetal macrophages, which predominate in the outer two layers.
+
+477
+00:58:07,600 --> 00:58:14,125
+The amnion lacks smooth muscle cells, nerves, lymphatics, and importantly, blood vessels.
+
+478
+00:58:14,125 --> 00:58:16,700
+Figure 5-14.
+
+479
+00:58:16,700 --> 00:58:19,775
+Photomicrograph of fetal membranes.
+
+480
+00:58:19,775 --> 00:58:34,062
+From left to right: AE = amnion epithelium; AM = amnion mesenchyme; S = zona spongiosa; CM = chorionic mesenchyme; TR = trophoblast; D = decidua.
+
+481
+00:58:34,062 --> 00:58:39,912
+Reproduced with permission from Dr. Judith R. Head.) # Amnion Development.
+
+482
+00:58:39,912 --> 00:58:49,137
+Early during implantation, a space develops between the embryonic cell mass and adjacent trophoblastic cells (see Fig. 5-7).
+
+483
+00:58:49,137 --> 00:59:00,662
+Small cells that line this inner surface of trophoblasts are precursors of amnionic epithelium, and the amnion is first identifiable on the 7th or 8th day of embryo development.
+
+484
+00:59:00,662 --> 00:59:07,687
+It is initially a minute vesicle, which then develops into a small sac that covers the dorsal embryo surface.
+
+485
+00:59:07,687 --> 00:59:14,525
+As the amnion enlarges, it gradually engulfs the growing embryo, which prolapses into its cavity .
+
+486
+00:59:14,525 --> 00:59:21,575
+Distention of the amnionic sac eventually brings it into contact with the interior surface of the chorion laeve.
+
+487
+00:59:21,575 --> 00:59:28,537
+Apposition of the chorion laeve and amnion near the end of the first trimester obliterates the extraembryonic coelom.
+
+488
+00:59:28,537 --> 00:59:36,000
+The amnion and chorion laeve, although slightly adhered, are never intimately connected and can be separated easily.
+
+489
+00:59:36,000 --> 00:59:42,537
+Placental amnion covers the placental surface and thereby is in contact with the chorionic vessels.
+
+490
+00:59:42,537 --> 00:59:46,125
+Umbilical amnion covers the umbilical cord.
+
+491
+00:59:46,125 --> 00:59:56,025
+As discussed in Chapter 48 (p. 842), with monochorionic-diamnionic placentas, no tissue intervenes between the fused amnions.
+
+492
+00:59:56,025 --> 01:00:02,675
+With dichorionic-diamnionic twin placentas, amnions are separated by fused chorion laeves.
+
+493
+01:00:02,675 --> 01:00:06,200
+Amnionic fluid fills the amnionic sac.
+
+494
+01:00:06,200 --> 01:00:13,987
+As pregnancy progresses, this normally clear fluid increases in volume until approximately 34 weeks’ gestation.
+
+495
+01:00:13,987 --> 01:00:17,025
+After this, the volume declines.
+
+496
+01:00:17,025 --> 01:00:25,112
+At term, it averages 1000 mL, although this may vary widely in normal and especially abnormal conditions.
+
+497
+01:00:25,112 --> 01:00:34,250
+Amnionic fluid origin, composition, circulation, and function of are discussed further in Chapter 14 (p. 256).
+
+498
+01:00:34,250 --> 01:00:37,550
+# Amnion Cell Histogenesis.
+
+499
+01:00:37,550 --> 01:00:44,087
+Amnionic epithelium derives from fetal ectoderm of the embryonic disc and not from trophoblasts.
+
+500
+01:00:44,087 --> 01:00:49,000
+This is an important consideration both embryologically and functionally.
+
+501
+01:00:49,000 --> 01:00:57,462
+For example, HLA class I gene expression in amnion is more akin to that in embryonic cells than to that in trophoblasts.
+
+502
+01:00:57,462 --> 01:01:03,087
+The fibroblast-like mesenchymal cell layer likely originates from embryonic mesoderm.
+
+503
+01:01:03,087 --> 01:01:11,875
+Early in human embryogenesis, the amnionic mesenchymal cells lie immediately adjacent to the basal surface of the amnion epithelium.
+
+504
+01:01:11,875 --> 01:01:19,512
+At this time, the amnion has two-cell layers and approximately equal numbers of epithelial and mesenchymal cells.
+
+505
+01:01:19,512 --> 01:01:26,700
+Simultaneously with growth and development, interstitial collagens are deposited between these two cell layers.
+
+506
+01:01:26,700 --> 01:01:32,812
+This marks formation of the amnion compact layer, which separates the two early layers.
+
+507
+01:01:32,812 --> 01:01:36,225
+Amnionic epithelium early in pregnancy
+
+508
+01:01:36,388 --> 01:01:40,775
+replicates at a rate appreciably faster than mesenchymal cells.
+
+509
+01:01:40,725 --> 01:01:47,925
+Thus, as the amnionic sac expands, its epithelial cells form a continuous, uninterrupted layer.
+
+510
+01:01:47,925 --> 01:01:52,500
+Instead, mesenchymal cells become more sparsely distributed.
+
+511
+01:01:52,500 --> 01:01:59,100
+Connected by a lattice network of extracellular matrix, they appear as long, slender fibrils.
+
+512
+01:01:59,100 --> 01:02:06,525
+Amnion Epithelial Cells The apical surface of the amnionic epithelium is replete with highly developed microvilli.
+
+513
+01:02:06,525 --> 01:02:13,700
+This structure reflects its function as a major site of transfer between amnionic fluid and amnion layers.
+
+514
+01:02:13,700 --> 01:02:25,725
+This epithelium is metabolically active, and its cells synthesize tissue inhibitor of MMP-1, prostaglandin E2 (PGE2), and fetal fibronectin (fFN) .
+
+515
+01:02:25,725 --> 01:02:33,163
+Although epithelia produce fFN, studies suggest that fFN acts in the underlying mesenchymal cells.
+
+516
+01:02:33,163 --> 01:02:39,238
+Here, fFN promotes synthesis of MMPs that break down strength-bearing collagens.
+
+517
+01:02:39,238 --> 01:02:44,563
+It also enhances prostaglandin synthesis to prompt uterine contractions .
+
+518
+01:02:44,563 --> 01:02:57,038
+This pathway is upregulated with premature rupture of membranes induced by thrombin or infectioninduced release of fFN (Chigusa, 2016; Mogami, 2014).
+
+519
+01:02:57,038 --> 01:03:06,325
+Epithelial cells may respond to signals derived from the fetus or the mother, and they are responsive to various endocrine or paracrine modulators.
+
+520
+01:03:06,325 --> 01:03:13,450
+Examples include oxytocin and vasopressin, both of which increase PGE2 production in vitro .
+
+521
+01:03:13,450 --> 01:03:19,038
+These cells may also produce cytokines such as IL-8 during labor initiation .
+
+522
+01:03:19,038 --> 01:03:29,013
+Amnionic epithelium also synthesizes vasoactive peptides, which function in both maternal and fetal tissues in diverse physiological processes.
+
+523
+01:03:29,013 --> 01:03:38,388
+These peptides include endothelin and parathyroid hormone-related protein (Economos, 1992; Germain, 1992).
+
+524
+01:03:38,388 --> 01:03:51,738
+Others are brain natriuretic peptide (BNP) and corticotropin-releasing hormone, which are peptides that invoke smooth-muscle relaxation (Riley, 1991; Warren, 1995).
+
+525
+01:03:51,738 --> 01:04:00,225
+BNP production is positively regulated by mechanical stretch in fetal membranes and is proposed to function in uterine quiescence.
+
+526
+01:04:00,225 --> 01:04:10,750
+Epidermal growth factor, a negative regulator of BNP, is upregulated in the membranes at term and leads to a decline in BNP-regulated uterine quiescence .
+
+527
+01:04:10,750 --> 01:04:16,050
+Amnion Mesenchymal Cells These cells are responsible for other major functions.
+
+528
+01:04:16,050 --> 01:04:24,713
+Mesenchymal cells synthesize the interstitial collagens that compose the amnionic compact layer —the major source of its tensile strength .
+
+529
+01:04:24,713 --> 01:04:34,438
+At term, the generation of cortisol by 11β-hydroxysteroid dehydrogenase may contribute to membrane rupture by reducing collagen abundance .
+
+530
+01:04:34,438 --> 01:04:41,813
+Mesenchymal cells also synthesize cytokines that include IL-6, IL-8, and MCP-1.
+
+531
+01:04:41,813 --> 01:04:47,538
+Cytokine synthesis rises in response to bacterial toxins and IL-1.
+
+532
+01:04:47,538 --> 01:05:00,025
+This ability of amnion mesenchymal cells to synthesize chemokines is an important consideration in interpreting studies of labor-associated accumulation of inflammatory mediators in amnionic fluid .
+
+533
+01:05:00,025 --> 01:05:12,900
+Last, mesenchymal cells may be a greater source of PGE2 than epithelial cells, especially in the case of premature membrane rupture (Mogami, 2013; Whittle, 2000).
+
+534
+01:05:12,900 --> 01:05:15,300
+# Tensile Strength.
+
+535
+01:05:15,300 --> 01:05:22,613
+During tests of tensile strength, the decidua and then the chorion laeve give way long before the amnion ruptures.
+
+536
+01:05:22,613 --> 01:05:28,650
+Indeed, the membranes are elastic and can expand to twice normal size during pregnancy .
+
+537
+01:05:28,650 --> 01:05:40,538
+The amnion tensile strength resides almost exclusively in the compact layer, which is composed of cross-linked interstitial collagens I and III, and lesser amounts of collagens V and VI.
+
+538
+01:05:40,538 --> 01:05:45,863
+Amnion tensile strength is regulated in part by fibrillar collagen assembly.
+
+539
+01:05:45,863 --> 01:05:52,925
+This process is influenced by the interaction between fibrils and proteoglycans such as decorin and biglycan .
+
+540
+01:05:52,925 --> 01:06:01,850
+Reduction of these proteoglycans is reported to perturb fetal membrane function (Horgan, 2014; Wu, 2014).
+
+541
+01:06:01,850 --> 01:06:10,913
+Fetal membranes overlying the cervix have a regional shift in gene expression and lymphocyte activation that set in motion an inflammatory cascade .
+
+542
+01:06:10,913 --> 01:06:16,638
+This change may contribute to tissue remodeling and loss of tensile strength in the amnion .
+
+543
+01:06:16,638 --> 01:06:19,425
+# Metabolic Functions.
+
+544
+01:06:19,425 --> 01:06:29,225
+The amnion is metabolically active, is involved in solute and water transport for amnionic fluid homeostasis, and produces an impressive array
+
+545
+01:06:29,380 --> 01:06:32,030
+of bioactive compounds.
+
+546
+01:06:31,980 --> 01:06:43,030
+The amnion is responsive both acutely and chronically to mechanical stretch, which alters amnionic gene expression (Carvajal, 2013; Nemeth, 2000).
+
+547
+01:06:43,030 --> 01:06:56,067
+This in turn may trigger both autocrine and paracrine responses that include production of MMPs, IL-8, and collagenase (BryantGreenwood, 1998; Mogami, 2013).
+
+548
+01:06:56,067 --> 01:07:00,905
+Such factors may modulate changes in membrane properties during labor.
+
+549
+01:07:00,905 --> 01:07:02,867
+Umbilical Cord.
+
+550
+01:07:02,867 --> 01:07:08,767
+The yolk sac and the umbilical vesicle into which it develops are prominent early in pregnancy.
+
+551
+01:07:08,767 --> 01:07:16,617
+Initially, the embryo is a flattened disc interposed between amnion and yolk sac (see Fig. 5-7).
+
+552
+01:07:16,617 --> 01:07:24,792
+The embryonic dorsal surface, in association with the elongation of its neural tube, grows faster than the ventral surface.
+
+553
+01:07:24,792 --> 01:07:33,392
+As a result, the embryo bulges into the amnionic sac, and the embryo body incorporates the adjacent yolk sac to form the gut.
+
+554
+01:07:33,392 --> 01:07:37,317
+The body stalk connects the caudal embryo to the chorion.
+
+555
+01:07:37,317 --> 01:07:44,955
+The fetal allantois forms as a diverticulum from the caudal wall of the yolk sac and projects into the base of the body stalk.
+
+556
+01:07:44,955 --> 01:07:51,167
+As pregnancy advances, the yolk sac becomes smaller and its pedicle relatively longer.
+
+557
+01:07:51,167 --> 01:07:58,680
+By the middle of the third month, the expanding amnion fuses with the chorion laeve to obliterate the extraembryonic coelom.
+
+558
+01:07:58,680 --> 01:08:05,580
+In its expansion, the amnion covers the bulging placental disc and the lateral surface of the body stalk.
+
+559
+01:08:05,580 --> 01:08:09,480
+The latter is then called the umbilical cord or funis.
+
+560
+01:08:09,480 --> 01:08:16,942
+A more detailed description of this cord and potential abnormalities is found in Chapter 6 (p. 113).
+
+561
+01:08:16,942 --> 01:08:21,180
+The cord at term normally has two arteries and one vein.
+
+562
+01:08:21,180 --> 01:08:28,555
+The right umbilical vein usually disappears early during fetal development, leaving only the original left vein.
+
+563
+01:08:28,555 --> 01:08:36,230
+The umbilical cord extends from the fetal umbilicus to the fetal surface of the placenta, that is, the chorionic plate.
+
+564
+01:08:36,230 --> 01:08:44,167
+As discussed in detail in Chapter 7 (p. 126), blood flows from the umbilical vein toward the fetus.
+
+565
+01:08:44,167 --> 01:08:49,192
+Blood then takes a path of least resistance via two routes within the fetus.
+
+566
+01:08:49,192 --> 01:08:54,830
+One is the ductus venosus, which empties directly into the inferior vena cava.
+
+567
+01:08:54,830 --> 01:09:00,317
+The other route consists of numerous smaller openings into the hepatic circulation.
+
+568
+01:09:00,317 --> 01:09:05,530
+Blood from the liver flows into the hepatic vein and then the inferior vena cava.
+
+569
+01:09:05,530 --> 01:09:15,280
+Resistance in the ductus venosus is controlled by a sphincter situated at the origin of the ductus at the umbilical recess and is innervated by a vagus nerve branch.
+
+570
+01:09:15,280 --> 01:09:19,255
+Blood exits the fetus via the two umbilical arteries.
+
+571
+01:09:19,255 --> 01:09:27,542
+These are anterior branches of the internal iliac artery and become obliterated after birth to form the medial umbilical ligaments.
+
+572
+01:09:27,542 --> 01:09:29,730
+Placental Hormones.
+
+573
+01:09:29,730 --> 01:09:40,242
+The production of steroid and protein hormones by human trophoblasts is greater in amount and diversity than that of any single endocrine tissue in all of mammalian physiology.
+
+574
+01:09:40,242 --> 01:09:48,830
+Table 5-1 is a compendium of average production rates for various steroid hormones in nonpregnant and in near-term pregnant women.
+
+575
+01:09:48,830 --> 01:09:54,530
+It demonstrates the remarkable increase in steroid hormone production during pregnancy.
+
+576
+01:09:54,530 --> 01:10:02,667
+The human placenta also synthesizes an enormous amount of protein and peptide hormones, summarized in Table 5-2.
+
+577
+01:10:02,667 --> 01:10:10,580
+The successful physiological adaptations of pregnant women to this unique endocrine milieu is discussed throughout Chapter 4.
+
+578
+01:10:10,580 --> 01:10:12,805
+Table 5-1.
+
+579
+01:10:12,805 --> 01:10:18,755
+Steroid Production Rates in Nonpregnant and Near-Term Pregnant Women Table 5-2.
+
+580
+01:10:18,755 --> 01:10:24,767
+Protein Hormones Produced by the Human Placenta # Human Chorionic Gonadotropin.
+
+581
+01:10:24,767 --> 01:10:35,192
+Biosynthesis Chorionic gonadotropin is a glycoprotein with biological activity similar to that of LH, and both act via the LH-hCG receptor.
+
+582
+01:10:35,192 --> 01:10:46,505
+hCG varies in molecular weight from 36,000 to 40,000 Da and is highly glycosylated with the most carbohydrate content of any human hormone—30 percent.
+
+583
+01:10:46,505 --> 01:10:57,067
+This glycosylation protects the molecule from catabolism and results in a 36-hour plasma halflife for intact hCG compared with 2 hours for LH.
+
+584
+01:10:57,067 --> 01:11:02,855
+The hCG molecule is composed of two dissimilar subunits, α and β.
+
+585
+01:11:02,855 --> 01:11:08,867
+These are noncovalently linked but held together by electrostatic and hydrophobic forces.
+
+586
+01:11:08,867 --> 01:11:16,055
+Isolated subunits are unable to bind the LH-hCG receptor and thus lack biological activity.
+
+587
+01:11:16,204 --> 01:11:26,341
+The hCG hormone is structurally related to three other glycoprotein hormones—LH, FSH, and thyroid-stimulating hormone (TSH).
+
+588
+01:11:26,291 --> 01:11:30,266
+All four glycoproteins share a common α-subunit.
+
+589
+01:11:30,266 --> 01:11:37,566
+However, each of their β-subunits is characterized by a distinct (although related) amino acid sequence.
+
+590
+01:11:37,566 --> 01:11:45,179
+Synthesis of the α- and β-chains of hCG is regulated separately from gene loci on different chromosomes.
+
+591
+01:11:45,179 --> 01:11:49,616
+A single gene on chromosome 6 encodes the α-subunit.
+
+592
+01:11:49,616 --> 01:11:58,804
+Chromosome 19 encodes the β-hCG–β-LH family of subunits with six genes for β-hCG and one for β-LH .
+
+593
+01:11:58,804 --> 01:12:05,854
+Both subunits are synthesized as larger precursors and then cleaved by endopeptidases to their mature form.
+
+594
+01:12:05,854 --> 01:12:11,616
+Intact hCG is assembled and released by secretory granule exocytosis .
+
+595
+01:12:11,616 --> 01:12:24,266
+Modifications during synthesis and subsequent enzymatic degradation give rise to multiple forms of hCG in maternal plasma and urine that vary enormously in bioactivity and immunoreactivity.
+
+596
+01:12:24,266 --> 01:12:31,091
+Before 5 weeks, hCG is expressed both in the syncytiotrophoblast and cytotrophoblasts .
+
+597
+01:12:31,091 --> 01:12:46,729
+Later in the first trimester, hCG is produced almost solely in the syncytiotrophoblast, peaks around 9 weeks’ gestation, and then declines to a plateau for the remainder of gestation (Beck, 1986; Kurman, 1984).
+
+598
+01:12:46,729 --> 01:12:58,991
+Dynamic changes in hCG concentration in the first trimester highlight the importance of accurate gestational age estimation when interpreting aneuploidy screening strategies that include hCG.
+
+599
+01:12:58,991 --> 01:13:09,941
+Circulating levels of free β-subunit are low to undetectable throughout pregnancy, and their concentration is the limiting factor for secretion of complete hCG molecules.
+
+600
+01:13:09,941 --> 01:13:19,566
+Levels of the α-subunit rise gradually and roughly correspond to placental mass, until they plateau at approximately 36 weeks’ gestation .
+
+601
+01:13:19,566 --> 01:13:30,979
+Concentrations in Serum and Urine The combined hCG molecule is detectable in plasma of pregnant women 7 to 9 days after the midcycle LH surge preceding ovulation.
+
+602
+01:13:30,979 --> 01:13:37,041
+Thus, hCG likely enters maternal blood at the time of blastocyst implantation.
+
+603
+01:13:37,041 --> 01:13:43,329
+Plasma levels rise rapidly, doubling approximately every 2 days in the first trimester .
+
+604
+01:13:43,329 --> 01:13:48,916
+Appreciable fluctuations in levels for a given patient are observed on the same day.
+
+605
+01:13:48,916 --> 01:13:51,466
+Figure 5-15.
+
+606
+01:13:51,466 --> 01:14:06,191
+Distinct profiles for the concentrations of human chorionic gonadotropin (hCG), human placental lactogen (hPL), and corticotropin-releasing hormone (CRH) in serum of women throughout normal pregnancy.
+
+607
+01:14:06,191 --> 01:14:14,879
+Intact hCG circulates as multiple, highly related isoforms that have variable cross-reactivity between commercial assays.
+
+608
+01:14:14,879 --> 01:14:27,616
+This emphasizes the need to use the same assay type when measuring serial hCG levels for clinical indications such as evaluating pregnancy of unknown location or medical management of ectopic pregnancy.
+
+609
+01:14:27,616 --> 01:14:37,166
+Peak maternal plasma levels reach approximately 50,000 to 100,000 mIU/mL between the 60th and 80th days after menses.
+
+610
+01:14:37,166 --> 01:14:43,704
+Plasma levels then decline, and a nadir is reached by approximately 16 weeks’ gestation.
+
+611
+01:14:43,704 --> 01:14:48,166
+Plasma levels remain at this lower level for the rest of pregnancy.
+
+612
+01:14:48,166 --> 01:15:00,966
+Although maternal urine, like plasma, contains various hCG degradation products, the principal urinary form is the terminal product of hCG degradation, namely, the β-core fragment.
+
+613
+01:15:00,966 --> 01:15:09,554
+Concentrations of this fragment follow the same general pattern as that in maternal plasma, peaking at approximately 10 weeks’ gestation.
+
+614
+01:15:09,554 --> 01:15:22,841
+Importantly, the β-subunit antibody used in most pregnancy tests reacts with both intact hCG (the major form in the plasma) and with fragments of hCG (the major form found in urine).
+
+615
+01:15:22,841 --> 01:15:29,841
+hCG Regulation Placental GnRH is likely involved in the regulation of hCG formation.
+
+616
+01:15:29,841 --> 01:15:36,441
+Both GnRH and its receptor are expressed by cytotrophoblasts and syncytiotrophoblast .
+
+617
+01:15:36,441 --> 01:15:51,579
+GnRH administration elevates circulating hCG levels, and cultured trophoblasts respond to GnRH treatment with increased hCG secretion (Iwashita, 1993; Siler-Khodr, 1981).
+
+618
+01:15:51,579 --> 01:15:56,741
+Pituitary GnRH production is regulated by inhibin and activin.
+
+619
+01:15:56,741 --> 01:16:09,104
+Likewise, in cultured placental cells, activin stimulates and inhibin inhibits GnRH and hCG production (Petraglia, 1989; Steele, 1993).
+
+620
+01:16:09,104 --> 01:16:15,354
+hCG is cleared by the kidney (about 30 percent), and the remainder is likely cleared by
+
+621
+01:16:15,508 --> 01:16:17,608
+liver metabolism .
+
+622
+01:16:17,558 --> 01:16:22,808
+Thus, levels can be markedly altered in gravidas with chronic renal disease.
+
+623
+01:16:22,808 --> 01:16:31,383
+Biological Functions Noted earlier, hCG maintains corpus luteum function—that is, continued progesterone production.
+
+624
+01:16:31,383 --> 01:16:38,208
+Both hCG subunits are required for binding to the LH-hCG receptor in the corpus luteum.
+
+625
+01:16:38,208 --> 01:16:48,095
+However, maximum plasma hCG concentrations are attained well after hCG-stimulated corpus luteum secretion of progesterone has ceased.
+
+626
+01:16:48,095 --> 01:16:58,145
+Specifically, luteal progesterone synthesis begins to decline at approximately 6 weeks’ gestation despite continued and increasing hCG production.
+
+627
+01:16:58,145 --> 01:17:04,808
+Therefore, this incompletely explains the physiological function of hCG in pregnancy.
+
+628
+01:17:04,808 --> 01:17:11,720
+LH-hCG receptors are present in various other tissues, and roles are discussed subsequently.
+
+629
+01:17:11,720 --> 01:17:18,733
+In pregnancies with male fetuses, hCG stimulates fetal testicular testosterone secretion.
+
+630
+01:17:18,733 --> 01:17:22,633
+This reaches a maximum when hCG levels peak.
+
+631
+01:17:22,633 --> 01:17:30,945
+Thus, at a critical time in male sexual differentiation, hCG enters fetal plasma from the syncytiotrophoblast.
+
+632
+01:17:30,945 --> 01:17:40,570
+In the fetus, it acts as an LH surrogate to stimulate Leydig cell replication and testosterone synthesis to promote male sexual differentiation .
+
+633
+01:17:40,570 --> 01:17:51,020
+Before approximately 110 days, the fetal anterior pituitary lacks vascularization from the hypothalamus and produces minimal LH secretion.
+
+634
+01:17:51,020 --> 01:17:58,458
+Thereafter, as hCG levels fall, pituitary LH maintains modest testicular stimulation.
+
+635
+01:17:58,458 --> 01:18:04,045
+The maternal thyroid gland also is stimulated by large quantities of hCG.
+
+636
+01:18:04,045 --> 01:18:12,320
+In women with gestational trophoblastic disease, biochemical and clinical evidence of hyperthyroidism sometimes develops .
+
+637
+01:18:12,320 --> 01:18:17,395
+Some forms of hCG bind to TSH receptors on thyrocytes .
+
+638
+01:18:17,395 --> 01:18:25,083
+The thyroid-stimulatory activity in plasma of first-trimester pregnant women varies appreciably from sample to sample.
+
+639
+01:18:25,083 --> 01:18:33,445
+Modifications of hCG oligosaccharides likely are important in the capacity of hCG to stimulate thyroid function.
+
+640
+01:18:33,445 --> 01:18:45,045
+Acidic isoforms stimulate thyroid activity, and some more basic isoforms stimulate iodine uptake (Kraiem, 1994; Tsuruta, 1995).
+
+641
+01:18:45,045 --> 01:18:56,670
+Last, the LH-hCG receptor is also expressed by thyrocytes, which suggests that hCG stimulates thyroid activity via the LH-hCG receptor as well .
+
+642
+01:18:56,670 --> 01:19:02,333
+LH-hCG receptors are found in myometrium and in uterine vascular tissue.
+
+643
+01:19:02,333 --> 01:19:10,683
+It has been hypothesized that hCG may promote uterine vascular vasodilation and myometrial smooth muscle relaxation .
+
+644
+01:19:10,683 --> 01:19:21,970
+hCG also modulates maternal immune cell functions in the decidua during early stages of placentation (Schumacher, 2019; Silasi, 2020).
+
+645
+01:19:21,970 --> 01:19:30,208
+Abnormally High or Low Levels Several clinical circumstances display substantively higher maternal plasma hCG levels.
+
+646
+01:19:30,208 --> 01:19:40,470
+Some examples include multifetal pregnancy, erythroblastosis fetalis associated with fetal hemolytic anemia, and gestational trophoblastic disease.
+
+647
+01:19:40,470 --> 01:19:53,145
+Relatively higher hCG levels may be found in women carrying a fetus with Down syndrome, and this has been incorporated into screening strategies (Table 17-4, p. 336).
+
+648
+01:19:53,145 --> 01:20:01,345
+Various malignant tumors also produce hCG, sometimes in large amounts—especially trophoblastic neoplasms .
+
+649
+01:20:01,345 --> 01:20:08,795
+Relatively lower hCG plasma levels are found in women with failing early pregnancies and ectopic pregnancy .
+
+650
+01:20:08,795 --> 01:20:18,220
+hCG is produced in very small amounts in normal tissues of men and nonpregnant women, perhaps primarily in the anterior pituitary gland.
+
+651
+01:20:18,220 --> 01:20:24,833
+Nonetheless, the detection of hCG in blood or urine almost always indicates pregnancy .
+
+652
+01:20:24,833 --> 01:20:27,883
+# Human Placental Lactogen.
+
+653
+01:20:27,883 --> 01:20:42,870
+Biosynthesis This single, nonglycosylated polypeptide chain shares a 96-percent aminoacid-sequence homology with human growth hormone (hGH) and a 67percent homology with human prolactin (hPRL).
+
+654
+01:20:42,870 --> 01:20:49,295
+Because of these similarities, it was called chorionic growth hormone or human placental lactogen.
+
+655
+01:20:49,295 --> 01:20:52,783
+Currently, the latter term is used by most.
+
+656
+01:20:52,783 --> 01:21:05,908
+Five genes in the growth hormone–placental lactogen gene cluster are linked and located on chromosome 17: GH1, GH2, CSHL1, CSH1, and CSH2.
+
+657
+01:21:05,908 --> 01:21:11,383
+Human placental lactogen (hPL) is encoded by the last two genes.
+
+658
+01:21:11,383 --> 01:21:25,133
+hPL is concentrated in syncytiotrophoblast, but similar to hCG, hPL is demonstrated in cytotrophoblasts before 6 weeks (Grumbach, 1964; Maruo, 1992).
+
+659
+01:21:25,133 --> 01:21:27,920
+Within 5 to 10 days after
+
+660
+01:21:28,084 --> 01:21:35,521
+conception, hPL is demonstrable in the placenta and can be detected in maternal serum as early as 3 weeks.
+
+661
+01:21:35,471 --> 01:21:42,646
+Levels of mRNA for hPL in syncytiotrophoblast remain relatively constant throughout pregnancy.
+
+662
+01:21:42,646 --> 01:21:49,034
+This finding supports the idea that the hPL secretion rate is proportional to placental mass.
+
+663
+01:21:49,034 --> 01:21:53,896
+Levels rise steadily until 34 to 36 weeks’ gestation.
+
+664
+01:21:53,896 --> 01:22:02,271
+The hPL production rate near term—approximately 1 g/d— is by far the greatest of any known hormone in humans.
+
+665
+01:22:02,271 --> 01:22:07,046
+It is rapidly cleared and has a half-life between 10 and 30 minutes .
+
+666
+01:22:07,046 --> 01:22:16,171
+In late pregnancy, maternal serum concentrations reach levels of 5 to 15 μg/mL (see Fig. 5-15).
+
+667
+01:22:16,171 --> 01:22:24,321
+Very little hPL is detected in fetal blood, and amnionic fluid levels are somewhat lower than that in maternal plasma.
+
+668
+01:22:24,321 --> 01:22:38,396
+Thus, although hPL may have a direct effect on fetal tissues, such as modulating fetal vasculature formation, its primary role is to act on maternal physiology to ensure adequate nutrient delivery to the placenta .
+
+669
+01:22:38,396 --> 01:22:45,259
+Metabolic Actions hPL has putative actions in several important maternal metabolic processes.
+
+670
+01:22:45,259 --> 01:22:51,246
+First, hPL promotes lipolysis to raise circulating free fatty acid levels.
+
+671
+01:22:51,246 --> 01:22:56,296
+This provides an energy source for maternal metabolism and fetal nutrition.
+
+672
+01:22:56,296 --> 01:23:03,034
+In vitro studies suggest that hPL inhibits secretion by term syncytiotrophoblast of leptin .
+
+673
+01:23:03,034 --> 01:23:09,959
+Prolonged maternal starvation in the first half of pregnancy leads to higher hPL plasma concentrations.
+
+674
+01:23:09,959 --> 01:23:15,634
+Second, hPL aids maternal adaptation to fetal energy requirements .
+
+675
+01:23:15,634 --> 01:23:21,821
+For example, increased maternal insulin resistance ensures nutrient flow to the fetus.
+
+676
+01:23:21,821 --> 01:23:28,434
+It also favors protein synthesis and provides a readily available amino acid source to the fetus.
+
+677
+01:23:28,434 --> 01:23:36,096
+To counterbalance the greater insulin resistance and prevent maternal hyperglycemia, maternal insulin levels rise.
+
+678
+01:23:36,096 --> 01:23:45,459
+Both hPL and prolactin signal through the prolactin receptor to increase maternal beta cell proliferation, which augments insulin secretion .
+
+679
+01:23:45,459 --> 01:23:53,309
+In animals, prolactin and hPL upregulate serotonin synthesis, which increases beta cell proliferation .
+
+680
+01:23:53,309 --> 01:24:01,471
+Short-term changes in plasma glucose or insulin, however, have relatively little effect on plasma hPL levels.
+
+681
+01:24:01,471 --> 01:24:18,259
+In vitro studies of syncytiotrophoblast suggest that hPL synthesis is stimulated by insulin and insulin-like growth factor-1 and inhibited by PGE2 and PGF2α (Bhaumick, 1987; Genbacev, 1977).
+
+682
+01:24:18,259 --> 01:24:21,634
+# Other Placental Protein Hormones.
+
+683
+01:24:21,634 --> 01:24:32,509
+The placenta has a remarkable capacity to synthesize numerous peptide hormones, including some that are analogous or related to hypothalamic and pituitary hormones.
+
+684
+01:24:32,509 --> 01:24:40,696
+In contrast to their counterparts, some of these placental peptide/protein hormones are not subject to feedback inhibition.
+
+685
+01:24:40,696 --> 01:24:58,496
+Hypothalamic-Like Releasing Hormones The known hypothalamic-releasing or -inhibiting hormones include GnRH, corticotropin-releasing hormone (CRH), thyrotropin-releasing hormone (TRH), growth hormone–releasing hormone (GHRH), and somatostatin.
+
+686
+01:24:58,496 --> 01:25:07,571
+For each of these, the human placenta produces an analogous hormone (Petraglia, 1992; Siler-Khodr, 1988).
+
+687
+01:25:07,571 --> 01:25:16,209
+GnRH in the placenta shows its highest expression in the first trimester (Siler-Khodr, 1978, 1988).
+
+688
+01:25:16,209 --> 01:25:21,846
+Interestingly, it is found in cytotrophoblasts but not syncytiotrophoblast.
+
+689
+01:25:21,846 --> 01:25:33,146
+Placenta-derived GnRH functions to regulate trophoblast hCG production and extravillous trophoblast invasion via regulation of MMP-2 and MMP-9 .
+
+690
+01:25:33,146 --> 01:25:40,159
+Placenta-derived GnRH is also the likely source of elevated maternal GnRH levels in pregnancy .
+
+691
+01:25:40,159 --> 01:25:47,509
+CRH is a member of a larger family of CRH-related peptides that includes CRH and urocortins .
+
+692
+01:25:47,509 --> 01:26:04,871
+Maternal serum CRH levels rise from 5 to 10 pmol/L in the nonpregnant woman to approximately 100 pmol/L in the early third trimester and then to almost 500 pmol/L abruptly during the last 5 to 6 weeks (see Fig. 5-15).
+
+693
+01:26:04,871 --> 01:26:13,696
+After labor begins, maternal plasma CRH levels rise even further (Petraglia, 1989, 1990).
+
+694
+01:26:13,696 --> 01:26:24,659
+Urocortin, involved in the stress response, is also produced by the placenta and secreted into the maternal circulation, but at much lower levels than that seen for CRH .
+
+695
+01:26:24,659 --> 01:26:31,634
+The function of CRH synthesized in the placenta, membranes, and decidua has been somewhat defined.
+
+696
+01:26:31,634 --> 01:26:33,146
+For
+
+697
+01:26:33,316 --> 01:26:43,503
+example, trophoblast, amniochorion, and decidua express both CRH-R1 and CRH-R2 receptors and several variant receptors .
+
+698
+01:26:43,453 --> 01:26:53,641
+Both CRH and urocortin enhance trophoblast secretion of adrenocorticotropic hormone (ACTH), and this suggests an autocrine–paracrine role .
+
+699
+01:26:53,641 --> 01:26:57,941
+Large amounts of trophoblast CRH enter maternal blood.
+
+700
+01:26:57,941 --> 01:27:03,216
+CRH receptors are also present in many tissues outside the placenta.
+
+701
+01:27:03,216 --> 01:27:11,916
+Proposed biological roles include induction of smooth-muscle relaxation in vascular and myometrial tissue and immunosuppression.
+
+702
+01:27:11,916 --> 01:27:21,541
+The physiological reverse, however, induction of myometrial contractions, has been proposed for the rising CRH levels seen near term.
+
+703
+01:27:21,541 --> 01:27:27,128
+Some hypothesize that CRH may be involved with parturition initiation .
+
+704
+01:27:27,128 --> 01:27:32,216
+Glucocorticoids act in the hypothalamus to inhibit CRH release.
+
+705
+01:27:32,216 --> 01:27:42,141
+But, in the trophoblast, glucocorticoids stimulate CRH gene expression (Jones, 1989a; Robinson, 1988).
+
+706
+01:27:42,141 --> 01:28:01,553
+Thus, a novel positive feedback loop in the placenta may allow placental CRH to stimulate placental ACTH and thereby prompt fetal and maternal adrenal glucocorticoid production, with subsequent stimulation of placental CRH expression (Nicholson, 2001; Riley, 1991).
+
+707
+01:28:01,553 --> 01:28:06,578
+GHRH is expressed in placenta, but its function is unclear .
+
+708
+01:28:06,578 --> 01:28:13,028
+GHRH may play an autocrine role in trophoblast survival via the GHRH receptor .
+
+709
+01:28:13,028 --> 01:28:18,753
+Ghrelin is another regulator of hGH secretion and is produced by placental tissue .
+
+710
+01:28:18,753 --> 01:28:34,678
+Trophoblast ghrelin expression peaks at midpregnancy and is a paracrine regulator of differentiation or is a potential regulator of human growth hormone variant production, described next (Fuglsang, 2005; Gualillo, 2001).
+
+711
+01:28:34,678 --> 01:28:43,666
+Pituitary-Like Hormones A human growth hormone variant (hGH-V) that is not expressed in the pituitary is expressed in the placenta.
+
+712
+01:28:43,666 --> 01:28:50,991
+The gene encoding hGH-V is located in the hGH–hPL gene cluster on chromosome 17.
+
+713
+01:28:50,991 --> 01:29:02,778
+Sometimes referred to as placental growth hormone, hGH-V is a 191-amino-acid protein that differs in 15 amino acid positions from the sequence for hGH.
+
+714
+01:29:02,778 --> 01:29:14,903
+Although hGH-V retains growth-promoting and antilipogenic functions that are similar to those of hGH, it has reduced diabetogenic and lactogenic functions relative to hGH .
+
+715
+01:29:14,903 --> 01:29:20,428
+Placental hGH-V presumably is synthesized in the syncytiotrophoblast.
+
+716
+01:29:20,428 --> 01:29:33,803
+It is believed that hGH-V is present in maternal plasma by 21 to 26 weeks’ gestation, rises in concentration until approximately 36 weeks, and remains relatively constant thereafter.
+
+717
+01:29:33,803 --> 01:29:40,616
+hGH-V levels in maternal plasma and those of insulin-like growth factor 1 positively correlate.
+
+718
+01:29:40,616 --> 01:29:48,191
+Moreover, hGH-V secretion by trophoblast in vitro is inhibited by glucose in a dose-dependent manner .
+
+719
+01:29:48,191 --> 01:29:57,928
+Overexpression of hGH-V in mice causes severe insulin resistance, making it a likely candidate to mediate insulin resistance of pregnancy .
+
+720
+01:29:57,928 --> 01:30:06,166
+Pro-opiomelanocortin (POMC) is a polypeptide produced in the pituitary and other tissues including the placenta.
+
+721
+01:30:06,166 --> 01:30:19,966
+It is proteolytically cleaved into numerous active hormones including ACTH, β-lipotropic hormone, melanocyte-stimulating hormone (α-, β-, and γ-MSH), and β–endorphin .
+
+722
+01:30:19,966 --> 01:30:24,053
+These hormones play a role in maintaining energy balance.
+
+723
+01:30:24,053 --> 01:30:37,141
+As discussed, placental CRH stimulates synthesis and release of placental ACTH, demonstrating the autocrine and paracrine functions of the placenta in addition to its systemic endocrine activity.
+
+724
+01:30:37,141 --> 01:30:43,191
+Relaxin The peptide is expressed in human corpus luteum, decidua, and placenta .
+
+725
+01:30:43,191 --> 01:30:54,553
+Two of the three relaxin genes—H2 and H3—are transcribed in the corpus luteum (Bathgate, 2002; Hudson, 1983, 1984).
+
+726
+01:30:54,553 --> 01:30:59,678
+Decidua, placenta, and membranes express H1 and H2 .
+
+727
+01:30:59,678 --> 01:31:08,428
+Relaxin is synthesized as a single, 105-amino-acid preprorelaxin molecule that is cleaved to A and B molecules.
+
+728
+01:31:08,428 --> 01:31:13,541
+Relaxin is structurally similar to insulin and insulin-like growth factor.
+
+729
+01:31:13,541 --> 01:31:23,153
+The rise in maternal circulating relaxin levels in early pregnancy is attributed to corpus luteum secretion, and levels parallel those of hCG.
+
+730
+01:31:23,153 --> 01:31:32,141
+Relaxin, along with rising progesterone levels, may act on myometrium to promote relaxation and the quiescence of early pregnancy .
+
+731
+01:31:32,141 --> 01:31:38,366
+In addition, the production of relaxin and relaxin-like factors within the placenta and fetal
+
+732
+01:31:38,524 --> 01:31:48,124
+membranes may play an autocrine-paracrine role in postpartum regulation of extracellular matrix remodeling (Qin, 1997a,b).
+
+733
+01:31:48,074 --> 01:31:55,774
+One important relaxin function is enhancement of the maternal glomerular filtration rate that is apparent early in gestation .
+
+734
+01:31:55,774 --> 01:32:07,361
+Parathyroid Hormone-Related Protein Levels of this peptide are elevated within maternal but not fetal circulation (Bertelloni, 1994; Saxe, 1997).
+
+735
+01:32:07,361 --> 01:32:22,386
+Parathyroid hormone-related protein (PTHrP) synthesis is found in several normal adult tissues, especially in reproductive organs that include myometrium, endometrium, corpus luteum, and lactating mammary tissue.
+
+736
+01:32:22,386 --> 01:32:27,499
+PTH-rP is not produced in the parathyroid glands of normal adults.
+
+737
+01:32:27,499 --> 01:32:36,211
+Although yet undefined, placenta-derived PTH-rP may regulate genes involved in transfer of calcium and other solutes.
+
+738
+01:32:36,211 --> 01:32:43,299
+It also contributes to mineral homeostasis in fetal bone, amnionic fluid, and the fetal circulation .
+
+739
+01:32:43,299 --> 01:32:52,149
+Leptin This hormone is normally secreted by adipocytes, but cytotrophoblasts and syncytiotrophoblast also synthesize leptin .
+
+740
+01:32:52,149 --> 01:32:58,986
+Relative contributions of leptin from maternal adipose tissue versus placenta are currently undefined.
+
+741
+01:32:58,986 --> 01:33:05,774
+Leptin functions as an antiobesity hormone that decreases food intake through its hypothalamic receptor.
+
+742
+01:33:05,774 --> 01:33:12,974
+It also regulates bone growth and immune function (Cock, 2003; La Cava, 2004).
+
+743
+01:33:12,974 --> 01:33:26,611
+Placental leptin promotes placental cell proliferation, protein synthesis, and activation of immune tolerance and antiapoptotic responses (Rosario, 2016a; Schanton, 2018).
+
+744
+01:33:26,611 --> 01:33:31,674
+Maternal serum levels are significantly higher than those in nonpregnant women.
+
+745
+01:33:31,674 --> 01:33:38,386
+Fetal leptin levels correlate positively with birthweight and likely function in fetal development and growth.
+
+746
+01:33:38,386 --> 01:33:51,774
+Studies suggest that reductions in leptin availability contribute to adverse fetal metabolic programing in intrauterine growth-restricted offspring (Nusken, 2016, PerezPerez, 2018).
+
+747
+01:33:51,774 --> 01:33:57,674
+Neuropeptide Y This 36-amino-acid peptide is widely distributed in brain.
+
+748
+01:33:57,674 --> 01:34:06,811
+It also is found in sympathetic neurons innervating the cardiovascular, respiratory, gastrointestinal, and genitourinary systems.
+
+749
+01:34:06,811 --> 01:34:12,899
+Neuropeptide Y has been isolated from the placenta and localized in cytotrophoblasts .
+
+750
+01:34:12,899 --> 01:34:20,886
+Trophoblasts possess neuropeptide Y receptors, and treatment of these with neuropeptide Y causes CRH release .
+
+751
+01:34:20,886 --> 01:34:33,636
+Transforming Growth Factor Beta Superfamily This family of cytokines regulates various cellular functions that include placental development, trophoblast differentiation, and invasion into the decidua .
+
+752
+01:34:33,636 --> 01:34:45,274
+This process is finely tuned, and extreme invasion results in placenta accreta spectrum disorders, whereas shallow implantation can lead to early pregnancy loss or preeclampsia.
+
+753
+01:34:45,274 --> 01:35:00,161
+Members of the family include transforming growth factor beta (TGF-β), activin, inhibin, nodal, bone morphogenic proteins (BMPs), antimüllerian hormone, and growth differentiation factors (GDFs).
+
+754
+01:35:00,161 --> 01:35:09,499
+These cytokines bind to a suite of receptors composed of a type 1 subunit and a type 2 receptor subunit to ultimately direct gene expression.
+
+755
+01:35:09,499 --> 01:35:15,486
+This combinatorial diversity leads to divergent functions in the placenta and decidua.
+
+756
+01:35:15,486 --> 01:35:21,736
+Activin A promotes syncytialization, extravillous trophoblast formation, and invasion.
+
+757
+01:35:21,736 --> 01:35:32,736
+BMP2 enhances invasion, and BMP4 may direct embryonic stem cells toward a trophoblast lineage (Zhang 2018, Xu 2002).
+
+758
+01:35:32,736 --> 01:35:40,536
+Inhibin A promotes syncytialization but inhibits invasion (Debiève, 2000; Jones, 2006).
+
+759
+01:35:40,536 --> 01:35:46,349
+Nodal inhibits proliferation, extravillous trophoblast formation, and invasion.
+
+760
+01:35:46,349 --> 01:35:52,986
+The complete role this superfamily in normal and abnormal placental development is yet to be fully defined.
+
+761
+01:35:52,986 --> 01:35:56,311
+# Placental Progesterone Production.
+
+762
+01:35:56,311 --> 01:36:01,849
+After 6 to 7 weeks’ gestation, little progesterone is produced in the ovary .
+
+763
+01:36:01,849 --> 01:36:14,886
+Surgical removal of the corpus luteum or even bilateral oophorectomy during the 7th to 10th week does not decrease excretion rates of urinary pregnanediol, the principal urinary metabolite of progesterone.
+
+764
+01:36:14,886 --> 01:36:27,586
+Before this time, however, corpus luteum removal will lead to spontaneous abortion unless an exogenous progestin is given, and Chapter 66 (p. 1170) lists suitable dosing.
+
+765
+01:36:27,586 --> 01:36:31,724
+After approximately 8 weeks, the placenta assumes
+
+766
+01:36:31,876 --> 01:36:37,713
+progesterone secretion, and maternal serum levels throughout pregnancy gradually rise .
+
+767
+01:36:37,663 --> 01:36:45,626
+By term, these levels are 10 to 5000 times of those in nonpregnant women, depending on the ovarian cycle stage.
+
+768
+01:36:45,626 --> 01:36:48,176
+Figure 5-16.
+
+769
+01:36:48,176 --> 01:36:56,188
+Plasma levels of progesterone, estradiol, estrone, estetrol, and estriol in women during the course of gestation.
+
+770
+01:36:56,188 --> 01:37:05,288
+Modified and redrawn with permission from Mesiano S: The endocrinology of human pregnancy and fetoplacental neuroendocrine development.
+
+771
+01:37:05,288 --> 01:37:20,113
+In Strauss JF, Barbieri RL (eds) Yen and Jaffe’s Reproductive Endocrinology: Physiology, Pathophysiology, and Clinical Management, 6th ed. Philadephia, PA: Saunders; 2009.
+
+772
+01:37:20,113 --> 01:37:27,913
+The daily production rate of progesterone in late, normal, singleton pregnancies approximates 250 mg.
+
+773
+01:37:27,913 --> 01:37:38,563
+In multifetal pregnancies, the daily production rate may exceed 600 mg. Progesterone is synthesized from cholesterol in a two-step enzymatic reaction.
+
+774
+01:37:38,563 --> 01:37:49,188
+First, cholesterol is converted to pregnenolone within the mitochondria in a reaction catalyzed by cytochrome P450 cholesterol side-chain cleavage enzyme.
+
+775
+01:37:49,188 --> 01:37:58,363
+Pregnenolone leaves the mitochondria and is converted to progesterone in the endoplasmic reticulum by 3β-hydroxysteroid dehydrogenase.
+
+776
+01:37:58,363 --> 01:38:02,013
+Progesterone is released immediately by diffusion.
+
+777
+01:38:02,013 --> 01:38:11,313
+Although the placenta produces a prodigious amount of progesterone, the syncytiotrophoblast has a limited capacity for cholesterol biosynthesis.
+
+778
+01:38:11,313 --> 01:38:19,988
+The rate-limiting enzyme in its biosynthesis is 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase.
+
+779
+01:38:19,988 --> 01:38:28,151
+Because of this, the placenta must rely on an exogenous source, that is, maternal cholesterol, for progesterone formation.
+
+780
+01:38:28,151 --> 01:38:37,276
+The trophoblast preferentially uses LDL cholesterol for progesterone biosynthesis (Simpson, 1979, 1980).
+
+781
+01:38:37,276 --> 01:38:44,938
+This mechanism differs from placental production of estrogens, which relies principally on fetal adrenal precursors.
+
+782
+01:38:44,938 --> 01:38:52,801
+Although fetal well-being and placental estrogen production show a relationship, this is not the case for placental progesterone.
+
+783
+01:38:52,801 --> 01:39:04,151
+Thus, placental endocrine function, including progesterone biosynthesis and formation of protein hormones such as hCG, may persist for weeks after fetal demise.
+
+784
+01:39:04,151 --> 01:39:11,138
+The metabolic clearance rate of progesterone in pregnant women is similar to that found in men and nonpregnant women.
+
+785
+01:39:11,138 --> 01:39:24,913
+One metabolite is 5αdihydroprogesterone (5α-DHP), and levels disproportionately rise due to synthesis in syncytiotrophoblast from both placenta-produced progesterone and fetus-derived precursor .
+
+786
+01:39:24,913 --> 01:39:34,838
+Thus, the concentration ratio of 5α-DHP to progesterone is elevated in pregnancy, although the mechanisms for this are incompletely defined.
+
+787
+01:39:34,838 --> 01:39:42,576
+Progesterone also is converted to the potent mineralocorticoid deoxycorticosterone in pregnant women and in the fetus.
+
+788
+01:39:42,576 --> 01:39:49,426
+The concentration of deoxycorticosterone is strikingly higher in both maternal and fetal compartments .
+
+789
+01:39:49,426 --> 01:40:00,076
+The extraadrenal formation of deoxycorticosterone from circulating progesterone accounts for most of its production in pregnancy (Casey, 1982a,b).
+
+790
+01:40:00,076 --> 01:40:03,276
+# Placental Estrogen Production.
+
+791
+01:40:03,276 --> 01:40:11,538
+During the first 2 to 4 weeks or pregnancy, rising hCG levels maintain production of estradiol in the corpus luteum.
+
+792
+01:40:11,538 --> 01:40:18,438
+Ovarian production of both progesterone and estrogens drops significantly by the 7th week of pregnancy.
+
+793
+01:40:18,438 --> 01:40:22,488
+At this time, there is a luteal–placental transition.
+
+794
+01:40:22,488 --> 01:40:38,863
+Subsequently, more than half of estrogen entering maternal circulation is produced in the placenta, and it produces a continually increasing magnitude of estrogen (MacDonald, 1965a; Siiteri, 1963, 1966).
+
+795
+01:40:38,863 --> 01:40:52,813
+Near term, normal human pregnancy is a hyperestrogenic state, and syncytiotrophoblast is producing estrogen in amounts equivalent to that produced in one day by the ovaries of no fewer than 1000 ovulatory women.
+
+796
+01:40:52,813 --> 01:40:58,038
+This hyperestrogenic state terminates abruptly after delivery of the placenta.
+
+797
+01:40:58,038 --> 01:41:07,176
+Biosynthesis In human trophoblast, neither cholesterol nor in turn progesterone can serve as precursor for estrogen biosynthesis.
+
+798
+01:41:07,176 --> 01:41:16,838
+This is because steroid 17αhydroxylase/17,20-lyase (CYP17A1) is not expressed in the human placenta.
+
+799
+01:41:16,838 --> 01:41:26,001
+This essential enzyme converts 17-OH progesterone (a C21 steroid) to androstenedione, which is a C19
+
+800
+01:41:26,164 --> 01:41:29,289
+steroid and an estrogen precursor.
+
+801
+01:41:29,239 --> 01:41:35,689
+Consequently, conversion of C21 steroids to C19 steroids is not possible.
+
+802
+01:41:35,689 --> 01:41:46,851
+However, dehydroepiandrosterone (DHEA) and its sulfate (DHEA-S) are also C19 steroids and are produced by maternal and fetal adrenal glands.
+
+803
+01:41:46,851 --> 01:41:51,651
+These two steroids can serve as estrogen precursors in the placenta .
+
+804
+01:41:51,651 --> 01:42:02,114
+Ryan (1959a) found that the placenta had an exceptionally high capacity to convert appropriate C19 steroids to estrone and estradiol.
+
+805
+01:42:02,114 --> 01:42:15,314
+The conversion of DHEA-S to estradiol requires placental expression of four key enzymes that are located principally in syncytiotrophoblast (Bonenfant, 2000; Salido, 1990).
+
+806
+01:42:15,314 --> 01:42:24,564
+First, the placenta expresses high levels of steroid sulfatase (STS), which converts the conjugated DHEA-S to DHEA.
+
+807
+01:42:24,564 --> 01:42:34,226
+DHEA is then acted upon by 3β-hydroxysteroid dehydrogenase type 1 (3βHSD) to produce androstenedione.
+
+808
+01:42:34,226 --> 01:42:49,064
+Cytochrome P450 aromatase (CYP19) then converts androstenedione to estrone, which is then converted to estradiol by 17βhydroxysteroid dehydrogenase type 1 (17βHSD1).
+
+809
+01:42:49,064 --> 01:42:51,714
+Figure 5-17.
+
+810
+01:42:51,714 --> 01:42:56,776
+Schematic presentation of estrogen biosynthesis in the human placenta.
+
+811
+01:42:56,776 --> 01:43:13,326
+Dehydroepiandrosterone sulfate (DHEA-S) is secreted in prodigious amounts by the fetal adrenal glands, and a portion is converted to 16α-hydroxydehydroepiandrosterone sulfate (16OH-DHEA-S) in the fetal liver.
+
+812
+01:43:13,326 --> 01:43:23,414
+DHEA-S and 16OH-DHEA-S are converted in the placenta to the estrogens 17βestradiol (E2) and estriol (E3).
+
+813
+01:43:23,414 --> 01:43:27,264
+These estrogens then enter the maternal circulation.
+
+814
+01:43:27,264 --> 01:43:34,539
+Near term, half of E2 is derived from fetal adrenal DHEA-S and half from maternal DHEA-S.
+
+815
+01:43:34,539 --> 01:43:44,214
+On the other hand, 90 percent of E3 in the placenta arises from fetal 16OH-DHEA-S and only 10 percent from all other sources.
+
+816
+01:43:44,214 --> 01:44:12,551
+3βHSD1 = 3β-hydroxysteroid dehydrogenase type 1; 17βHSD1 = 17β-hydroxysteroid dehydrogenase type 1; CYP17 = steroid 17α-hydroxylase/17,20-lyase; LDL = low-density lipoprotein; SCC = cholesterol side-chain cleavage enzyme; StAR = steroidogenic acute regulatory protein.
+
+817
+01:44:12,551 --> 01:44:21,264
+DHEA-S is the major precursor of estrogens in pregnancy (Baulieu, 1963; Siiteri, 1963).
+
+818
+01:44:21,264 --> 01:44:31,326
+However, maternal adrenal glands do not produce sufficient amounts of DHEA-S to account for more than a fraction of total placental estrogen biosynthesis.
+
+819
+01:44:31,326 --> 01:44:38,989
+The fetal adrenal glands are quantitatively the most important source of placental estrogen precursors in human pregnancy.
+
+820
+01:44:38,989 --> 01:44:49,351
+Thus, estrogen production during pregnancy reflects the unique interactions among fetal adrenal glands, fetal liver, placenta, and maternal adrenal glands.
+
+821
+01:44:49,351 --> 01:44:57,939
+Directional Secretion Of estradiol and estriol formed in syncytiotrophoblast, >90 percent enters maternal plasma .
+
+822
+01:44:57,939 --> 01:45:08,876
+Of placental progesterone production, ≥85 percent enters maternal plasma, and little maternal progesterone crosses the placenta to the fetus .
+
+823
+01:45:08,876 --> 01:45:15,114
+This directional secretion stems from the architecture of hemochorioendothelial placentation.
+
+824
+01:45:15,114 --> 01:45:20,976
+Steroids produced in the syncytiotrophoblast are secreted directly into maternal blood.
+
+825
+01:45:20,976 --> 01:45:29,726
+To reach the fetus, they must first traverse the cytotrophoblast layer and then enter the stroma of the villous core and then fetal capillaries.
+
+826
+01:45:29,726 --> 01:45:34,351
+From either of these spaces, steroids can reenter the syncytium.
+
+827
+01:45:34,351 --> 01:45:43,289
+The net result of this hemochorial arrangement is that entry of steroids into the maternal circulation is substantially greater than that into fetal blood.
+
+828
+01:45:43,289 --> 01:45:46,064
+Fetal Adrenal Gland–Placental.
+
+829
+01:45:46,064 --> 01:45:47,989
+Interactions.
+
+830
+01:45:47,989 --> 01:45:55,339
+As noted, the fetal adrenal gland is a vital source of steroid precursors for placental estrogen synthesis.
+
+831
+01:45:55,339 --> 01:46:00,114
+This fetal gland is remarkable both morphologically and functionally.
+
+832
+01:46:00,114 --> 01:46:03,564
+At term, its mass exceeds that in adults .
+
+833
+01:46:03,564 --> 01:46:12,039
+More than 85 percent of the fetal gland is composed of a unique fetal zone, which has a great capacity for steroid biosynthesis.
+
+834
+01:46:12,039 --> 01:46:22,026
+Its daily steroid production near term is 100 to 200 mg/d, which exceeds the adult steroid secretion of 30 to 40 mg/d.
+
+835
+01:46:22,026 --> 01:46:26,701
+The unique fetal zone subsequently regresses in the first year of life.
+
+836
+01:46:26,701 --> 01:46:35,601
+In addition to responding to ACTH from the fetal brain, fetal adrenal gland growth is influenced by factors secreted by the placenta.
+
+837
+01:46:35,601 --> 01:46:40,801
+This is exemplified by the continued adrenal gland growth throughout gestation
+
+838
+01:46:40,972 --> 01:46:46,084
+and by its rapid involution immediately after birth and placenta delivery.
+
+839
+01:46:46,034 --> 01:46:49,322
+# Placental Estriol Synthesis.
+
+840
+01:46:49,322 --> 01:46:53,897
+Estradiol is the primary placental estrogen product at term.
+
+841
+01:46:53,897 --> 01:47:04,434
+In addition, significant levels of estriol and estetrol are found in the maternal circulation, particularly late in gestation (see Fig. 5-16).
+
+842
+01:47:04,434 --> 01:47:16,634
+These hydroxylated forms of estrogen derive from the placenta using substrates formed by the combined efforts of the fetal adrenal gland and fetal liver enzymes (see Fig. 5-17).
+
+843
+01:47:16,634 --> 01:47:27,897
+For this, high levels of hepatic 16α-hydroxylase act on adrenal-derived steroids (MacDonald, 1965b; Ryan, 1959b).
+
+844
+01:47:27,897 --> 01:47:45,322
+Thus, the disproportionate rise in estriol formation during pregnancy is accounted for by placental synthesis from plasma-borne 16-OH-DHEA-S. Near term, the fetus produces 90 percent of placental estriol and estetrol precursors in normal human pregnancy.
+
+845
+01:47:45,322 --> 01:47:51,397
+Thus, in the past, levels of these steroids were used as an indicator of fetal wellbeing.
+
+846
+01:47:51,397 --> 01:47:54,859
+# Fetal Adrenal Steroid Precursor.
+
+847
+01:47:54,859 --> 01:47:59,572
+Cholesterol is the precursor for fetal adrenal steroidogenesis.
+
+848
+01:47:59,572 --> 01:48:10,097
+Here, the steroid biosynthesis rate is so great that its steroidogenesis alone is equivalent to a fourth of the total daily LDL cholesterol turnover in adults.
+
+849
+01:48:10,097 --> 01:48:20,572
+Fetal adrenal glands synthesize cholesterol from acetate, and all enzymes involved in this biosynthesis are elevated compared with those of the adult adrenal gland .
+
+850
+01:48:20,572 --> 01:48:26,809
+Thus, the de novo cholesterol synthesis rate by fetal adrenal tissue is extremely high.
+
+851
+01:48:26,809 --> 01:48:33,047
+Even so, it is insufficient to account for the steroids produced by fetal adrenal glands.
+
+852
+01:48:33,047 --> 01:48:45,747
+Therefore, cholesterol must be assimilated from the fetal circulation and mainly from LDL produced in the fetal liver (Carr, 1980, 1984; Simpson, 1979).
+
+853
+01:48:45,747 --> 01:48:49,797
+# Fetal Conditions Affecting Estrogen Production.
+
+854
+01:48:49,797 --> 01:48:59,984
+Several fetal disorders alter the availability of substrate for placental steroid synthesis and thus highlight the interdependence of fetal development and placental function.
+
+855
+01:48:59,984 --> 01:49:05,747
+Fetal demise is followed by a striking reduction in maternal urinary estrogen levels.
+
+856
+01:49:05,747 --> 01:49:14,934
+Similarly, after ligation of the umbilical cord with the fetus and placenta left in situ, placental estrogen production declines markedly .
+
+857
+01:49:14,934 --> 01:49:20,722
+However, as previously discussed, placental progesterone production is maintained.
+
+858
+01:49:20,722 --> 01:49:30,547
+These observations indicate that an important source of precursors for placental estrogen—but not for progesterone—biosynthesis derive from the fetus.
+
+859
+01:49:30,547 --> 01:49:41,684
+Anencephalic fetuses have markedly atrophic adrenal glands due to absent hypothalamic and pituitary structures that would otherwise release ACTH for adrenal stimulation.
+
+860
+01:49:41,684 --> 01:49:52,997
+In the absence of the adrenal cortical fetal zone development, placental formation of estrogen is severely limited because of diminished availability of C19 steroid precursors.
+
+861
+01:49:52,997 --> 01:50:02,159
+Indeed, urinary estrogen levels in women pregnant with an anencephalic fetus approximate only 10 percent of those found in normal pregnancy .
+
+862
+01:50:02,159 --> 01:50:15,647
+With an anencephalic fetus, almost all estrogens produced arise from placental use of maternal plasma DHEA-S. Fetal adrenal cortical hypoplasia occurs in perhaps 1 in 12,500 births .
+
+863
+01:50:15,647 --> 01:50:22,859
+Estrogen production in these pregnancies is also limited, which suggests the absence of C19 precursors.
+
+864
+01:50:22,859 --> 01:50:30,484
+Fetal–placental sulfatase deficiency is associated with very low estrogen levels in otherwise normal pregnancies .
+
+865
+01:50:30,484 --> 01:50:43,122
+Namely, sulfatase deficiency precludes the hydrolysis of C19 steroid sulfates, the first enzymatic step in the placental use of these circulating prehormones for estrogen biosynthesis.
+
+866
+01:50:43,122 --> 01:50:48,922
+This deficiency is an X-linked disorder, and thus all affected fetuses are male.
+
+867
+01:50:48,922 --> 01:50:56,422
+Its estimated frequency is 1 case in 2000 to 5000 births and is associated with delayed labor onset.
+
+868
+01:50:56,422 --> 01:51:02,009
+It also is associated with development of ichthyosis in affected males later in life .
+
+869
+01:51:02,009 --> 01:51:14,859
+Fetal–placental aromatase deficiency is a rare autosomal recessive disorder in which individuals cannot synthesize endogenous estrogens (Grumbach, 2011; Simpson, 2000).
+
+870
+01:51:14,859 --> 01:51:26,397
+Fetal adrenal DHEA-S is converted in the placenta to androstenedione, but in cases of placental aromatase deficiency, androstenedione cannot be converted to estradiol.
+
+871
+01:51:26,397 --> 01:51:27,884
+Rather,
+
+872
+01:51:28,036 --> 01:51:39,461
+androgen metabolites of DHEA produced in the placenta, including androstenedione and some testosterone, are secreted into the maternal or fetal circulation, or both.
+
+873
+01:51:39,411 --> 01:51:47,248
+This can virilize the mother and the female fetus (Belgorosky, 2009; Harada, 1992).
+
+874
+01:51:47,248 --> 01:51:56,286
+Trisomy 21—Down syndrome—screening searches for abnormal levels of hCG, alpha-fetoprotein, and other analytes .
+
+875
+01:51:56,286 --> 01:52:02,798
+Of these, serum unconjugated estriol levels can be low in women with Down syndrome fetuses .
+
+876
+01:52:02,798 --> 01:52:10,273
+This likely stems from inadequate formation of C19 steroids in the adrenal glands of these trisomic fetuses.
+
+877
+01:52:10,273 --> 01:52:19,398
+Fetal erythroblastosis in some cases of severe fetal D-antigen alloimmunization can lead to elevated maternal plasma estrogen levels.
+
+878
+01:52:19,398 --> 01:52:26,886
+A suspected cause is the greater placental mass from hypertrophy, which can be seen with such fetal hemolytic anemia .
+
+879
+01:52:26,886 --> 01:52:39,036
+Complete hydatidiform mole and gestational trophoblastic neoplasias lack a fetus and also a fetal adrenal source of C19 steroid precursors for trophoblast estrogen biosynthesis.
+
+880
+01:52:39,036 --> 01:52:52,511
+Placental estrogen formation is consequently limited to the use of C19 steroids from the maternal plasma, and thus estradiol is principally produced (MacDonald, 1964, 1966).
+
+881
+01:52:52,511 --> 01:52:56,661
+# Maternal Conditions Affecting Estrogen Production.
+
+882
+01:52:56,661 --> 01:53:01,486
+Maternal conditions can likewise affect placental estrogen production.
+
+883
+01:53:01,486 --> 01:53:08,411
+Glucocorticoid treatment can inhibit ACTH secretion from the maternal and fetal pituitary glands.
+
+884
+01:53:08,411 --> 01:53:18,673
+This diminishes maternal and fetal adrenal secretion of the placental estrogen precursor DHEA-S and leads to a striking reduction in placental estrogen formation.
+
+885
+01:53:18,673 --> 01:53:26,298
+With Addison disease, pregnant women show lower estrogen levels, principally estrone and estradiol levels .
+
+886
+01:53:26,298 --> 01:53:37,673
+However, the fetal adrenal gland contribution to estriol synthesis, particularly in later pregnancy, is quantitatively much more important than that of the maternal adrenal gland.
+
+887
+01:53:37,673 --> 01:53:43,611
+Maternal androgen-producing tumors can present the placenta with elevated androgen levels.
+
+888
+01:53:43,611 --> 01:53:50,298
+Fortunately, placenta is extraordinarily efficient in the aromatization of C19 steroids.
+
+889
+01:53:50,298 --> 01:53:59,486
+For example, virtually all androstenedione entering the intervillous space is taken up by syncytiotrophoblast and converted to estradiol .
+
+890
+01:53:59,486 --> 01:54:07,836
+None of the C19 steroid enters the fetus, and a female fetus is rarely virilized by a maternal androgen-secreting tumor.
+
+891
+01:54:07,836 --> 01:54:21,973
+Indeed, virilized female fetuses of women with an androgenproducing tumor may be cases in which a nonaromatizable C19 steroid androgen is produced by the tumor—for example, 5α-dihydrotestosterone.
+
+892
+01:54:21,973 --> 01:54:31,673
+Alternatively, tumor-derived testosterone could be produced very early in pregnancy in amounts that exceed the placental aromatase capacity at that time.
+

@@ -16,5 +16,20 @@
   },
   "1": {
     "audio": true
+  },
+  "5": {
+    "audio": true,
+    "words": 13838,
+    "audio_size_mb": 39.32
+  },
+  "6": {
+    "audio": true,
+    "words": 6088,
+    "audio_size_mb": 17.04
+  },
+  "7": {
+    "audio": true,
+    "words": 11738,
+    "audio_size_mb": 31.33
   }
 }

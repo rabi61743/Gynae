@@ -1,0 +1,1592 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,800
+Chapter 6: Placental Abnormalities.
+
+3
+00:00:05,800 --> 00:00:22,500
+Normal Placenta Shape And Size Variants Extrachorial Placentation Circulatory Disturbances Placental Calcification Placental Tumors Amniochorion Umbilical Cord References During pregnancy, the placenta provides the indispensable interface between mother and fetus .
+
+4
+00:00:22,500 --> 00:00:35,275
+However, in part due to inaccessibility throughout gestation, the placenta’s anatomy, physiology, and molecular structure still remain some of the most understudied and intriguing topics in obstetrics.
+
+5
+00:00:35,275 --> 00:00:48,425
+Furthermore, the parallels between placental formation and cancer afford opportunities to understand tumor biology and pathogenesis (Costanzo, 2018; Guttmacher, 2014).
+
+6
+00:00:48,425 --> 00:00:56,612
+Visual placental inspection by the obstetrician is recommended, but routine pathological examination is not mandatory.
+
+7
+00:00:56,612 --> 00:01:02,812
+Indeed, specific conditions that merit submission for detailed inspection are still debated.
+
+8
+00:01:02,812 --> 00:01:17,287
+For example, the College of American Pathologists recommends placental examination for an extensive list of indications, however many providers are not aware (Langston, 1997; Odibo, 2016).
+
+9
+00:01:17,287 --> 00:01:21,437
+Moreover, data are insufficient to support all of these.
+
+10
+00:01:21,437 --> 00:01:26,300
+At minimum, the placenta and cord should be inspected in the delivery room.
+
+11
+00:01:26,300 --> 00:01:36,462
+The decision to request pathological examination should be based on clinical and placental findings (Redline, 2008; Roberts, 2008).
+
+12
+00:01:36,462 --> 00:01:38,762
+Table 6-1.
+
+13
+00:01:38,762 --> 00:01:44,112
+Some Indications for Placental Pathological Examinationa Normal Placenta.
+
+14
+00:01:44,112 --> 00:01:55,100
+At term, the typical placenta weighs 470 g, is round to oval with a 22-cm diameter, and has a central thickness of 2.5 cm .
+
+15
+00:01:55,100 --> 00:02:01,600
+It is composed of a placental disc, extraplacental membranes, and three-vessel umbilical cord.
+
+16
+00:02:01,600 --> 00:02:09,825
+The disc surface that lies against the uterine wall is the basal plate, which is divided by clefts into portions—termed cotyledons.
+
+17
+00:02:09,825 --> 00:02:12,975
+The fetal surface is the chorionic plate.
+
+18
+00:02:12,975 --> 00:02:17,325
+Here, the umbilical cord inserts, typically in the center.
+
+19
+00:02:17,325 --> 00:02:26,500
+Large fetal vessels that originate from the cord vessels then spread and branch across the chorionic plate before entering stem villi of the placenta parenchyma.
+
+20
+00:02:26,500 --> 00:02:31,750
+In tracing these, fetal arteries almost invariably cross over veins.
+
+21
+00:02:31,750 --> 00:02:39,637
+The chorionic plate and its vessels are covered by thin amnion, which can be easily peeled away from a postdelivery specimen.
+
+22
+00:02:39,637 --> 00:02:55,700
+During prenatal sonographic examinations, multiple societies, including the American Institute of Ultrasound in Medicine (2018), recommend identifying and recording placental location and its relationship to the internal cervical os.
+
+23
+00:02:55,700 --> 00:03:06,237
+As seen sonographically, the normal placenta is homogenous and 2 to 4 cm thick, lies against the myometrium, and indents into the amnionic sac.
+
+24
+00:03:06,237 --> 00:03:14,937
+The retroplacental space is a hypoechoic area that separates the myometrium from the basal plate and measures less than 1 to 2 cm.
+
+25
+00:03:14,937 --> 00:03:22,312
+The umbilical cord is also imaged, its fetal and placental insertion sites examined, and its vessels counted.
+
+26
+00:03:22,312 --> 00:03:32,475
+Many placental lesions can be identified grossly or sonographically, but other abnormalities require histopathological examination for clarification.
+
+27
+00:03:32,475 --> 00:03:46,862
+A detailed description of these is beyond the scope of this chapter, and interested readers are referred to textbooks by Benirschke (2012), Fox (2007), and Faye-Petersen (2006) and their colleagues.
+
+28
+00:03:46,862 --> 00:03:57,750
+Moreover, the placenta accreta spectrum, placenta previa, and gestational trophoblastic disease are presented in detail in Chapters 41 and 20, respectively.
+
+29
+00:03:57,750 --> 00:04:00,237
+Shape And Size Variants.
+
+30
+00:04:00,237 --> 00:04:06,550
+Of variants, placentas may infrequently form as separate, nearly equally sized discs.
+
+31
+00:04:06,550 --> 00:04:12,537
+This bilobate placenta may also be called bipartite placenta or placenta duplex.
+
+32
+00:04:12,537 --> 00:04:21,000
+In these, the cord inserts between the two placental lobes— either into a connecting chorionic bridge or into intervening membranes.
+
+33
+00:04:21,000 --> 00:04:27,100
+A placenta containing three or more equivalently sized lobes is rare and termed multilobate.
+
+34
+00:04:27,100 --> 00:04:37,700
+Unlike this equal distribution, one or more disparately smaller accessory lobes—succenturiate lobes—may develop in the membranes at a distance from the main placenta .
+
+35
+00:04:37,700 --> 00:04:41,387
+These lobes have vessels that course through the membranes.
+
+36
+00:04:41,387 --> 00:04:45,887
+Of clinical importance, if these vessels overlie the cervix
+
+37
+00:04:46,036 --> 00:04:53,073
+to create a vasa previa, dangerous fetal hemorrhage can follow vessel laceration (p. 115).
+
+38
+00:04:53,023 --> 00:05:01,698
+An accessory lobe can also be retained in the uterus after delivery to cause postpartum uterine atony and hemorrhage or later endometritis.
+
+39
+00:05:01,698 --> 00:05:03,973
+Figure 6-1.
+
+40
+00:05:03,973 --> 00:05:06,136
+Succenturiate lobe.
+
+41
+00:05:06,136 --> 00:05:13,386
+A. Vessels extend from the main placental disc to supply the small round succenturiate lobe located to the left.
+
+42
+00:05:13,386 --> 00:05:17,123
+Reproduced with permission from Dr. Rachel Gardner.
+
+43
+00:05:17,123 --> 00:05:24,336
+B. Sonographic imaging with color Doppler shows the main placental disc implanted posteriorly (asterisk).
+
+44
+00:05:24,336 --> 00:05:30,436
+The succenturiate lobe is located on the anterior uterine wall across the amnionic cavity.
+
+45
+00:05:30,436 --> 00:05:39,173
+Vessels are identified as the long red and blue crossing tubular structures that travel within the membranes to connect these two portions of placenta.
+
+46
+00:05:39,173 --> 00:05:43,373
+Rarely, the placental surface area varies from the norm.
+
+47
+00:05:43,373 --> 00:05:48,836
+With placenta membranacea, villi cover all or nearly all the uterine cavity.
+
+48
+00:05:48,836 --> 00:05:55,386
+This may occasionally give rise to serious hemorrhage because of associated placenta previa or accreta .
+
+49
+00:05:55,386 --> 00:05:59,811
+A ring-shaped placenta may be a variant of placenta membranacea.
+
+50
+00:05:59,811 --> 00:06:05,836
+This placenta is annular, and a partial or complete ring of placental tissue is present.
+
+51
+00:06:05,836 --> 00:06:18,586
+These abnormalities appear to be associated with a greater likelihood of antepartum and postpartum bleeding and fetal-growth restriction (Faye-Petersen, 2006; Steemers, 1995).
+
+52
+00:06:18,586 --> 00:06:23,811
+With placenta fenestrata, the central portion of a placental disc is missing.
+
+53
+00:06:23,811 --> 00:06:27,948
+In some cases, there is an actual hole in the placenta.
+
+54
+00:06:27,948 --> 00:06:33,686
+More often, only villous tissue is missing, and the chorionic plate remains intact.
+
+55
+00:06:33,686 --> 00:06:40,898
+During pregnancy, the normal placenta increases its thickness at a rate that approximates 1 mm per week.
+
+56
+00:06:40,898 --> 00:06:49,023
+Although not measured as a component of routine sonographic evaluation, this thickness typically does not exceed 40 mm .
+
+57
+00:06:49,023 --> 00:06:56,336
+Placentomegaly defines those thicker than 40 mm and commonly results from striking villous enlargement.
+
+58
+00:06:56,336 --> 00:07:10,973
+Underlying maternal etiologies are diabetes mellitus or severe anemia, whereas fetal sources include hydrops, anemia, syphilis, toxoplasmosis, or infection caused by parvovirus or cytomegalovirus.
+
+59
+00:07:10,973 --> 00:07:15,361
+In these conditions, the placenta is homogeneously thickened.
+
+60
+00:07:15,361 --> 00:07:19,511
+In other cases placentas are thick but inhomogeneous.
+
+61
+00:07:19,511 --> 00:07:22,411
+Partial mole is a classic example.
+
+62
+00:07:22,411 --> 00:07:29,711
+The thickened placenta contains edematous villi, which appear as multiple, small, anechoic placental cysts .
+
+63
+00:07:29,711 --> 00:07:34,486
+Cystic vesicles also are seen with placental mesenchymal dysplasia.
+
+64
+00:07:34,486 --> 00:07:39,611
+In this rare condition, vesicles correspond to enlarged stem villi.
+
+65
+00:07:39,611 --> 00:07:47,661
+However, unlike molar pregnancy, trophoblast proliferation is not excessive, and chromosomal complements are diploid .
+
+66
+00:07:47,661 --> 00:07:57,836
+Rather than villous enlargement, inhomogeneous placentomegaly often may result from collections of blood or fibrin, which impart heterogeneity to the placenta.
+
+67
+00:07:57,836 --> 00:08:10,123
+Examples of this are discussed later and include massive perivillous fibrin deposition, intervillous or subchorionic thromboses, and large retroplacental hematomas (p. 110).
+
+68
+00:08:10,123 --> 00:08:12,748
+Extrachorial Placentation.
+
+69
+00:08:12,748 --> 00:08:20,561
+The chorionic plate normally extends to the periphery of the placental disc and has a diameter similar to that of the basal plate.
+
+70
+00:08:20,561 --> 00:08:30,611
+With extrachorial placentation, however, the chorionic plate fails to extend to this periphery and leads to a chorionic plate that is smaller than the basal plate .
+
+71
+00:08:30,611 --> 00:08:34,923
+Circummarginate and circumvallate placentas are the two types.
+
+72
+00:08:34,923 --> 00:08:43,048
+In a circummarginate placenta, fibrin and old hemorrhage lie between the placental disc and the overlying sheer amniochorion.
+
+73
+00:08:43,048 --> 00:08:54,036
+In contrast, with a circumvallate placenta, the chorionic plate periphery is a thickened, opaque, gray-white circular ridge composed of a double fold of chorion and amnion.
+
+74
+00:08:54,036 --> 00:08:56,286
+Figure 6-2.
+
+75
+00:08:56,286 --> 00:09:04,986
+A. In this illustration, circummarginate (left) and circumvallate (right) varieties of extrachorial placentation are shown.
+
+76
+00:09:04,986 --> 00:09:10,111
+A circummarginate placenta is covered by a single layer of amniochorion.
+
+77
+00:09:10,111 --> 00:09:16,086
+B. This transabdominal grayscale sonographic image shows a circumvallate placenta.
+
+78
+00:09:16,086 --> 00:09:22,898
+The double fold of amnion and chorion creates a broad, opaque white ring and ridge on the fetal surface.
+
+79
+00:09:22,898 --> 00:09:27,973
+Sonographically, the circumvallate fold can be seen as a thick, linear
+
+80
+00:09:28,132 --> 00:09:32,407
+band of echoes extending from one placental edge to the other.
+
+81
+00:09:32,357 --> 00:09:41,107
+On cross section, however, it appears as two “shelves,” with each lying above an opposing placental margin (see Fig. 6-2).
+
+82
+00:09:41,107 --> 00:09:45,494
+This anatomy can help differentiate this shelf from other bands .
+
+83
+00:09:45,494 --> 00:09:47,782
+Table 6-2.
+
+84
+00:09:47,782 --> 00:10:06,457
+Sonographic Bands During Pregnancy In small observational studies of circumvallate placenta diagnosed postpartum, it was associated with increased risk for antepartum bleeding, abruption, fetal demise, and preterm birth (Suzuki, 2008; Taniguchi, 2014).
+
+85
+00:10:06,457 --> 00:10:17,657
+In a prospective sonographic investigation of 17 cases, however, Shen and associates (2007a) found most circumvallate placentas to be transient.
+
+86
+00:10:17,657 --> 00:10:20,282
+Persistent cases were benign.
+
+87
+00:10:20,282 --> 00:10:31,157
+In general, most otherwise uncomplicated pregnancies with either type of extrachorial placentation have normal outcomes, and no increased surveillance is usually required.
+
+88
+00:10:31,157 --> 00:10:33,844
+Circulatory Disturbances.
+
+89
+00:10:33,844 --> 00:10:47,219
+Functionally, placental perfusion disorders can be grouped into: (1) those in which maternal blood flow to or within the intervillous space is disrupted, and (2) those with disturbed fetal blood flow through the villi.
+
+90
+00:10:47,219 --> 00:10:52,169
+These lesions are frequently identified in the normal, mature placenta.
+
+91
+00:10:52,169 --> 00:10:59,719
+Although they can limit maximal placental blood flow, functional reserve within the placental prevents harm in most cases.
+
+92
+00:10:59,719 --> 00:11:06,707
+Indeed, some estimate that up to 30 percent of placental villi can be lost without untoward fetal effects .
+
+93
+00:11:06,707 --> 00:11:11,932
+If extensive, however, these lesions can profoundly limit fetal growth.
+
+94
+00:11:11,932 --> 00:11:20,494
+Lesions that disrupt perfusion are frequently seen grossly or sonographically, whereas smaller lesions are seen only histologically.
+
+95
+00:11:20,494 --> 00:11:32,619
+With sonography, many of these, such as subchorionic fibrin deposition, perivillous fibrin deposition, and intervillous thrombosis, appear as focal sonolucencies within the placenta.
+
+96
+00:11:32,619 --> 00:11:44,782
+Greater magnetic resonance (MR) imaging use in pregnancy has permitted detection and further characterization of these lesions (Bockoven, 2020; Capuani, 2017).
+
+97
+00:11:44,782 --> 00:11:54,107
+Importantly, in the absence of maternal or fetal complications, small isolated placental sonolucencies are considered incidental findings.
+
+98
+00:11:54,107 --> 00:11:57,294
+# Maternal Blood Flow Disruption.
+
+99
+00:11:57,294 --> 00:12:04,857
+Subchorionic Fibrin Deposition These collections are caused by slowing of maternal blood flow within the intervillous space.
+
+100
+00:12:04,857 --> 00:12:12,832
+In the upper portion of this space near the chorionic plate, blood stasis is prominent and leads to subsequent fibrin deposition.
+
+101
+00:12:12,832 --> 00:12:22,832
+In viewing the placental fetal surface, subchorionic lesions are seen as white or yellow, firm, round, elevated plaques just beneath the chorionic plate.
+
+102
+00:12:22,832 --> 00:12:35,582
+Perivillous Fibrin Deposition Stasis of maternal blood flow around an individual villus also results in fibrin deposition and can lead to diminished villous oxygenation and necrosis of syncytiotrophoblast .
+
+103
+00:12:35,582 --> 00:12:42,182
+These small yellow-white placental nodules are grossly visible within the parenchyma of a sectioned placenta.
+
+104
+00:12:42,182 --> 00:12:46,207
+Within limits, these reflect normal placental aging.
+
+105
+00:12:46,207 --> 00:12:59,057
+Deposition that affects >25 percent of villi is associated with fetal-growth restriction and adverse neonatal outcomes (Devisme, 2017; Spinillo, 2019).
+
+106
+00:12:59,057 --> 00:13:01,332
+Figure 6-3.
+
+107
+00:13:01,332 --> 00:13:07,132
+Potential sites of maternally and fetally related placental circulatory disturbances.
+
+108
+00:13:07,132 --> 00:13:09,544
+Maternal Floor Infarction.
+
+109
+00:13:09,544 --> 00:13:18,882
+This extreme variant of perivillous fibrin deposition is a dense fibrinoid layer within the placental basal plate and is erroneously termed an infarction.
+
+110
+00:13:18,882 --> 00:13:28,319
+Maternal floor infarction has a thick, yellow or white, firm corrugated surface that impedes normal maternal blood flow into the intervillous space.
+
+111
+00:13:28,319 --> 00:13:38,782
+In specific cases that extend up and beyond the basal plate to entrap villi and obliterate the intervillous space, the term massive perivillous fibrin deposition is used.
+
+112
+00:13:38,782 --> 00:13:49,894
+The etiopathogenesis is unclear, but maternal auto- or alloimmunity appears contributory (FayePeterson, 2018; Romero, 2013).
+
+113
+00:13:49,894 --> 00:14:01,344
+Antiphospholipid antibody syndrome and angiogenic factors involved with preeclampsia also have been implicated (Sebire, 2002; Whitten, 2013).
+
+114
+00:14:01,344 --> 00:14:08,119
+These lesions are not reliably imaged with prenatal sonography, but they may create a thicker basal plate.
+
+115
+00:14:08,119 --> 00:14:11,394
+Affected pregnancies are associated with
+
+116
+00:14:11,548 --> 00:14:20,910
+miscarriage, fetal-growth restriction, preterm delivery, and stillbirth (Andres, 1990; Mandsager, 1994).
+
+117
+00:14:20,860 --> 00:14:26,010
+Importantly, these adverse outcomes can recur in subsequent pregnancies.
+
+118
+00:14:26,010 --> 00:14:35,248
+Intervillous Thrombus This is a collection of coagulated maternal blood normally found in the intervillous space mixed with fetal blood from a break in a villus.
+
+119
+00:14:35,248 --> 00:14:40,960
+Grossly, these round or oval collections vary in size up to several centimeters.
+
+120
+00:14:40,960 --> 00:14:46,873
+They appear red if recent or white-yellow if older, and they develop at any placental depth.
+
+121
+00:14:46,873 --> 00:14:52,635
+Intervillous thrombi are common and typically not associated with adverse fetal sequelae.
+
+122
+00:14:52,635 --> 00:15:07,485
+These reflect potential communication between maternal and fetal circulations, and thus large lesions are one cause of elevated maternal serum alpha-fetoprotein (MSAFP) levels (Table 17-5, p. 338).
+
+123
+00:15:07,485 --> 00:15:16,698
+Infarction Chorionic villi themselves receive oxygen solely from maternal circulation and specifically from blood supplied into the intervillous space.
+
+124
+00:15:16,698 --> 00:15:24,185
+Any uteroplacental disease that diminishes or obstructs this supply can result in infarction of an individual villus.
+
+125
+00:15:24,185 --> 00:15:29,448
+These are common lesions in mature placentas and are benign in limited numbers.
+
+126
+00:15:29,448 --> 00:15:34,085
+If numerous, however, placental insufficiency can develop.
+
+127
+00:15:34,085 --> 00:15:42,823
+When they are thick, centrally located, and randomly distributed, they may be associated with preeclampsia or lupus anticoagulant.
+
+128
+00:15:42,823 --> 00:15:48,623
+Hematoma The maternal–placental–fetal unit can develop several hematoma types.
+
+129
+00:15:48,623 --> 00:16:19,723
+As depicted in Figure 6-3, these include: (1) retroplacental hematoma—formed between the placenta and its adjacent decidua; (2) marginal hematoma— formed between the chorion and decidua at the placental periphery—known clinically as subchorionic hemorrhage; (3) subamnionic hematoma— derived of fetal vessel origin and found beneath the amnion but above the chorionic plate, and (4) subchorial thrombus along the roof of the intervillous space and beneath the chorionic plate.
+
+130
+00:16:19,723 --> 00:16:25,798
+With this last type, massive subchorionic hematomas are also known as Breus moles.
+
+131
+00:16:25,798 --> 00:16:38,198
+Sonographically, hematomas evolve with time and appear hyperechoic to isoechoic in the first week after hemorrhage, hypoechoic at 1 to 2 weeks, and finally, anechoic after 2 weeks.
+
+132
+00:16:38,198 --> 00:16:45,160
+Most subchorionic hematomas visible sonographically are fairly small and of no clinical consequence .
+
+133
+00:16:45,160 --> 00:16:56,623
+However, extensive retroplacental, marginal, and subchorial collections are associated with higher rates of miscarriage, stillbirth, placental abruption, and preterm delivery .
+
+134
+00:16:56,623 --> 00:17:03,185
+In essence, placental abruption is a large, clinically significant retroplacental hematoma.
+
+135
+00:17:03,185 --> 00:17:06,273
+# Fetal Blood Flow Disruption.
+
+136
+00:17:06,273 --> 00:17:15,048
+Fetal Vascular Malperfusion Placental lesions that arise from fetal circulatory disturbances are also depicted in Figure 6-3.
+
+137
+00:17:15,048 --> 00:17:22,685
+Normally, deoxygenated fetal blood flows from the two umbilical arteries into arteries within the chorionic plate.
+
+138
+00:17:22,685 --> 00:17:28,060
+These surface arteries divide and send branches out across the placental surface.
+
+139
+00:17:28,060 --> 00:17:31,660
+These eventually supply individual stem villi.
+
+140
+00:17:31,660 --> 00:17:40,423
+Remember that fetal blood is oxygenated within each villus by passive diffusion of oxygen from maternal blood contained within the intervillous space.
+
+141
+00:17:40,423 --> 00:17:47,323
+Thus, with fetal vessel thrombosis, portions of the villus distal to the obstruction become nonfunctional.
+
+142
+00:17:47,323 --> 00:17:52,248
+Normally, thrombi in limited numbers are found in mature placentas.
+
+143
+00:17:52,248 --> 00:18:08,623
+If many villi are affected, which can be seen with preeclampsia, the fetus may suffer growth restriction, stillbirth, or nonreassuring fetal heart rate patterns (Chisholm, 2015; Lepais, 2014; Saleemuddin, 2010).
+
+144
+00:18:08,623 --> 00:18:14,398
+Villous Vascular Lesions Villous capillaries show a spectrum of histological lesions.
+
+145
+00:18:14,398 --> 00:18:19,898
+Chorangiosis describes an increased number of capillaries within terminal villi.
+
+146
+00:18:19,898 --> 00:18:31,348
+Its definition requires ≥10 capillaries to be present in ≥10 villi in ≥10 fields viewed through a 10× lens .
+
+147
+00:18:31,348 --> 00:18:36,810
+Clinically, long-standing hypoperfusion or hypoxia is thought to be causative .
+
+148
+00:18:36,810 --> 00:18:44,360
+Focal chorangiosis is increased capillary vascularity in a significant portion of the placenta but not diffusely.
+
+149
+00:18:44,360 --> 00:18:51,573
+In one small study, lower Apgar scores and fetal vascular malperfusion were associated outcomes .
+
+150
+00:18:51,573 --> 00:18:53,848
+Prenatal detection of
+
+151
+00:18:54,004 --> 00:18:56,741
+chorangiosis has been reported .
+
+152
+00:18:56,691 --> 00:19:03,704
+Chorangiomatosis describes increased capillary number in stem villi, but terminal villi are spared.
+
+153
+00:19:03,704 --> 00:19:08,366
+This finding has been linked with fetal-growth restriction and anomalies .
+
+154
+00:19:08,366 --> 00:19:15,079
+Despite these associations, the clinical significance of both vascular conditions remains unclear.
+
+155
+00:19:15,079 --> 00:19:18,554
+Chorioangiomas are described subsequently.
+
+156
+00:19:18,554 --> 00:19:25,641
+Subamnionic Hematoma As noted earlier, these hematomas lie between the chorionic plate and amnion.
+
+157
+00:19:25,641 --> 00:19:35,254
+They most often are acute iatrogenic events of no clinical consequence during third-stage labor when cord traction ruptures a vessel near the cord insertion.
+
+158
+00:19:35,254 --> 00:19:41,729
+Large, chronic antepartum lesions may cause fetomaternal hemorrhage or fetal-growth restriction .
+
+159
+00:19:41,729 --> 00:19:46,929
+They also may be confused with other placental masses such as chorioangioma.
+
+160
+00:19:46,929 --> 00:19:55,429
+In most cases, color Doppler interrogation will show absent internal blood flow within a hematoma and permit differentiation .
+
+161
+00:19:55,429 --> 00:19:57,866
+Placental Calcification.
+
+162
+00:19:57,866 --> 00:20:03,741
+Calcium salts can be deposited throughout the placenta but are most common on the basal plate.
+
+163
+00:20:03,741 --> 00:20:12,491
+Calcification accrues with advancing gestation, and greater degrees are associated with smoking and higher maternal serum calcium levels .
+
+164
+00:20:12,491 --> 00:20:23,116
+These hyperechoic deposits can easily be seen sonographically, and a grading scale from 0 to 3 reflects increasing calcification with increasing numerical grade .
+
+165
+00:20:23,116 --> 00:20:31,979
+Following this scheme, a grade 0 placenta is homogeneous, lacks calcification, and displays a smooth, flat chorionic plate.
+
+166
+00:20:31,979 --> 00:20:38,166
+A grade 1 placenta has scattered echogenicities and subtle chorionic plate undulations.
+
+167
+00:20:38,166 --> 00:20:42,204
+Grade 2 shows echogenic stippling at the basal plate.
+
+168
+00:20:42,204 --> 00:20:49,829
+Large, echogenic comma shapes originate from an indented chorionic plate, but their curve falls short of the basal plate.
+
+169
+00:20:49,829 --> 00:21:00,454
+Last, a grade 3 placenta has echogenic indentations extending from the chorionic plate to the basal plate, which create discrete components that resemble cotyledons.
+
+170
+00:21:00,454 --> 00:21:03,654
+Basal plate densities also increase.
+
+171
+00:21:03,654 --> 00:21:12,066
+This grading scale poorly predicts neonatal outcome near term (McKenna, 2005; Mirza, 2018).
+
+172
+00:21:12,066 --> 00:21:26,141
+However, data from two small studies link grade 3 placenta prior to 32 weeks with stillbirth and some other adverse pregnancy outcomes (Chen, 2011, 2015; Mirza, 2018).
+
+173
+00:21:26,141 --> 00:21:28,166
+Placental Tumors.
+
+174
+00:21:28,166 --> 00:21:30,754
+# Chorioangioma.
+
+175
+00:21:30,754 --> 00:21:36,979
+These benign tumors have components similar to the blood vessels and stroma of the chorionic villus.
+
+176
+00:21:36,979 --> 00:21:43,554
+Also called chorangiomas, these placental tumors have an incidence that approximates 1 percent .
+
+177
+00:21:43,554 --> 00:21:50,579
+In some cases, fetal-to-maternal hemorrhage across tumor capillaries leads to elevated levels of MSAFP.
+
+178
+00:21:50,579 --> 00:21:58,366
+This typically prompts sonographic evaluation to exclude a neural-tube defect, which also shows high MSAFP levels.
+
+179
+00:21:58,366 --> 00:22:09,654
+Sonographically, chorangiomas appear as a well-circumscribed, rounded, predominantly hypoechoic lesion lying near the chorionic plate and protruding into the amnionic cavity .
+
+180
+00:22:09,654 --> 00:22:22,766
+Documenting increased blood flow by color Doppler helps to distinguish these lesions from other placental masses such as hematoma, partial hydatidiform mole, teratoma, metastases, and leiomyoma .
+
+181
+00:22:22,766 --> 00:22:28,504
+Although rare, chorangiocarcinoma tumors mirror chorioangiomas clinically .
+
+182
+00:22:28,504 --> 00:22:30,841
+Figure 6-4.
+
+183
+00:22:30,841 --> 00:22:33,429
+Placental chorioangioma.
+
+184
+00:22:33,429 --> 00:22:40,854
+A. Color Doppler imaging displays blood flow through a large chorioangioma with its border outlined by white arrows.
+
+185
+00:22:40,854 --> 00:22:47,966
+B. Grossly, the chorioangioma is a round, wellcircumcised mass protruding from the fetal surface.
+
+186
+00:22:47,966 --> 00:22:51,991
+Small chorioangiomas are usually asymptomatic.
+
+187
+00:22:51,991 --> 00:23:04,479
+Large tumors, typically those measuring >4 cm, can create significant arteriovenous shunting within the placenta to cause high-output heart failure, hydrops, and fetal death .
+
+188
+00:23:04,479 --> 00:23:12,304
+Compression or shearing of fetal erythrocytes within tumor vessels can lead to hemolysis and microangiopathic anemia .
+
+189
+00:23:12,304 --> 00:23:18,016
+Hydramnios, preterm delivery, and fetal-growth restriction are other sequelae .
+
+190
+00:23:18,016 --> 00:23:25,591
+Large tumor size and fetal hydrops are the primary determinants and signal a potential adverse perinatal outcome .
+
+191
+00:23:25,591 --> 00:23:33,454
+Grayscale and color Doppler interrogation of the placenta and amnionic fluid volume are used to identify these tumors.
+
+192
+00:23:33,454 --> 00:23:39,729
+Diagnostic tools that can affirm associated fetomaternal hemorrhage include MSAFP level and
+
+193
+00:23:39,892 --> 00:23:42,054
+Kleihauer-Betke stain .
+
+194
+00:23:42,004 --> 00:23:52,017
+With fetal concern, echocardiography assesses cardiac function, whereas middle cerebral artery interrogation is used to identify fetal anemia.
+
+195
+00:23:52,017 --> 00:23:58,579
+Several fetal therapies interfere with the vascular supply to the tumor and reverse fetal heart failure.
+
+196
+00:23:58,579 --> 00:24:08,992
+At specialized perinatal centers, endoscopic laser ablation of feeder vessels to the tumor is most frequently used and is associated with favorable fetal outcomes .
+
+197
+00:24:08,992 --> 00:24:20,629
+Discussed in Chapter 16, fetal transfusion can treat serious anemia, amnioreduction can temporize hydramnios, and digoxin therapy can assist fetal heart failure.
+
+198
+00:24:20,629 --> 00:24:23,429
+# Metastatic Tumors.
+
+199
+00:24:23,429 --> 00:24:27,967
+Maternal malignant tumors rarely metastasize to the placenta.
+
+200
+00:24:27,967 --> 00:24:34,592
+Of those that do, melanomas, leukemias and lymphomas, and breast cancer are the most common .
+
+201
+00:24:34,592 --> 00:24:38,842
+Tumor cells usually are confined within the intervillous space.
+
+202
+00:24:38,842 --> 00:24:45,092
+As a result, metastasis to the fetus is uncommon but is most often seen with melanoma .
+
+203
+00:24:45,092 --> 00:24:50,992
+Similarly, cases in which fetal malignancy metastasizes to the placenta are rare .
+
+204
+00:24:50,992 --> 00:25:00,404
+These are predominantly fetal neuroectodermal tumors, and only one case in the literature describes transplantation of tumor to the maternal uterus .
+
+205
+00:25:00,404 --> 00:25:02,442
+Amniochorion.
+
+206
+00:25:02,442 --> 00:25:05,229
+# Chorioamnionitis.
+
+207
+00:25:05,229 --> 00:25:12,729
+Normal genital-tract flora can colonize and infect the membranes, umbilical cord, and eventually the fetus.
+
+208
+00:25:12,729 --> 00:25:19,192
+Bacteria most commonly ascend after prolonged membrane rupture and during labor to cause infection.
+
+209
+00:25:19,192 --> 00:25:25,917
+Organisms initially infect the chorion and adjacent decidua in the area overlying the internal os.
+
+210
+00:25:25,917 --> 00:25:32,654
+Subsequently, progression leads to full-thickness involvement of the membranes—chorioamnionitis.
+
+211
+00:25:32,654 --> 00:25:40,067
+Organisms often then spread along the chorioamnionic surface to colonize and replicate in amnionic fluid.
+
+212
+00:25:40,067 --> 00:25:50,067
+Inflammation of the chorionic plate and of the umbilical cord—funisitis— may follow (Kim, 2015; Redline, 2012).
+
+213
+00:25:50,067 --> 00:25:57,754
+Most commonly, chorioamnionitis is microscopic or occult and caused by a wide variety of microorganisms.
+
+214
+00:25:57,754 --> 00:26:07,092
+This is frequently cited as a possible explanation for many otherwise unexplained cases of ruptured membranes, preterm labor, or both .
+
+215
+00:26:07,092 --> 00:26:17,017
+In some cases, gross infection is characterized by visible membrane clouding and is sometimes accompanied by a foul odor that depends on bacterial species.
+
+216
+00:26:17,017 --> 00:26:20,254
+# Other Membrane Abnormalities.
+
+217
+00:26:20,254 --> 00:26:29,217
+Amnion nodosum is a condition characterized by numerous small, light-tan nodules affixed to the amnion that overlies the chorionic plate.
+
+218
+00:26:29,217 --> 00:26:38,204
+These may be scraped off the fetal surface and contain deposits of fetal squames and fibrin that reflect prolonged and severe oligohydramnios .
+
+219
+00:26:38,204 --> 00:26:42,267
+Two notable bands can be formed by the fetal membranes.
+
+220
+00:26:42,267 --> 00:26:51,579
+First, amnionic band sequence is an anatomical disruption sequence in which amnion bands tether, constrict, or amputate fetal parts.
+
+221
+00:26:51,579 --> 00:26:56,567
+Bands may form spontaneously or follow fetal surgery procedures .
+
+222
+00:26:56,567 --> 00:27:07,629
+Amnionic bands commonly cause limb-reduction defects, facial clefts, or encephalocele (Barzilay, 2015; Guzmán-Huerta, 2013).
+
+223
+00:27:07,629 --> 00:27:11,267
+Umbilical cord compromise is another sequela .
+
+224
+00:27:11,267 --> 00:27:21,904
+Severe defects of the spine or ventral wall that accompany amnionic bands suggest a limb-body wall complex, described in Chapter 15 (p. 297).
+
+225
+00:27:21,904 --> 00:27:28,092
+Sonography often first identifies the sequelae of this sequence rather than the bands themselves.
+
+226
+00:27:28,092 --> 00:27:32,842
+As with any fetal anomaly, targeted sonography is indicated.
+
+227
+00:27:32,842 --> 00:27:45,329
+Identification of a limb-reduction defect, an encephalocele in an atypical location, or an extremity with edema or positional deformity should prompt careful evaluation for amnionic bands.
+
+228
+00:27:45,329 --> 00:27:49,304
+Management depends on the degree of anatomic deformity .
+
+229
+00:27:49,304 --> 00:27:59,842
+Fetoscopic laser interruption of the band may be suitable in highly selected antepartum cases (Gueneuc, 2019; Javadian, 2013).
+
+230
+00:27:59,842 --> 00:28:08,029
+Second, an amnionic sheet in contrast is formed by normal amniochorion draped over a preexisting uterine synechia.
+
+231
+00:28:08,029 --> 00:28:20,854
+Generally, these sheets pose little fetal risk, although slightly higher rates of preterm membrane rupture and placental abruption have been described (Nelson, 2010; Tuuli, 2012).
+
+232
+00:28:20,854 --> 00:28:22,817
+Umbilical Cord.
+
+233
+00:28:22,817 --> 00:28:24,792
+# Length.
+
+234
+00:28:24,792 --> 00:28:36,979
+Most umbilical cords at delivery measure 40 to 70 cm long, and very few measure <30 cm or >100 cm. Cord length is influenced
+
+235
+00:28:37,132 --> 00:28:41,469
+positively by both maternal parity and body mass index .
+
+236
+00:28:41,419 --> 00:28:54,819
+In retrospective studies, short cords have been linked with congenital malformations and intrapartum distress (Krakowiak, 2004; Linde, 2018; Yamamoto, 2016).
+
+237
+00:28:54,819 --> 00:29:04,957
+Excessively long cords are linked with cord entanglement or prolapse and with fetal anomalies (Olaya-C, 2015; Rayburn, 1981).
+
+238
+00:29:04,957 --> 00:29:14,544
+Because antenatal determination of cord length is technically limited, cord diameter has been evaluated as a predictive marker for fetal outcomes.
+
+239
+00:29:14,544 --> 00:29:20,569
+Some have linked lean cords with poor fetal growth and large-diameter cords with macrosomia .
+
+240
+00:29:20,569 --> 00:29:29,007
+However, the clinical utility of this parameter is still unclear (Cromi, 2007; Raio, 2003).
+
+241
+00:29:29,007 --> 00:29:31,082
+# Coiling.
+
+242
+00:29:31,082 --> 00:29:36,982
+Cord coiling characteristics are not currently part of standard sonographic evaluation.
+
+243
+00:29:36,982 --> 00:29:47,482
+Usually the umbilical vessels spiral through the cord in a sinistral, that is, left-twisting direction (Fletcher, 1993; Lacro, 1987).
+
+244
+00:29:47,482 --> 00:29:54,444
+The number of complete coils per centimeter of cord length is termed the umbilical coiling index—UCI .
+
+245
+00:29:54,444 --> 00:30:05,857
+A normal, antepartum, sonographically derived UCI is 0.4, and this contrasts with a normal, postpartum, physically measured value of 0.2 .
+
+246
+00:30:05,857 --> 00:30:12,982
+UCIs <10th percentile are considered hypocoiled, and those >90th percentile are hypercoiled.
+
+247
+00:30:12,982 --> 00:30:17,557
+Clinically, the significance of coiling extremes is controversial.
+
+248
+00:30:17,557 --> 00:30:30,194
+Some studies evaluating large, unselected cohorts find no associations between UCI values and poor neonatal outcome (Jessop, 2014; Pathak, 2010).
+
+249
+00:30:30,194 --> 00:30:47,669
+In others, extremes are linked with various adverse outcomes but most consistently with intrapartum fetal heart rate abnormalities, preterm labor, or fetal-growth restriction (Chitra, 2012; de Laat, 2006; Pergialiotis, 2019).
+
+250
+00:30:47,669 --> 00:30:49,932
+# Vessel Number.
+
+251
+00:30:49,932 --> 00:30:59,182
+Counting cord vessel number is a standard component of anatomical evaluation during fetal sonographic examination and immediately after delivery .
+
+252
+00:30:59,182 --> 00:31:02,857
+Embryos initially have two umbilical veins.
+
+253
+00:31:02,857 --> 00:31:11,644
+In the first trimester, the right vein typically atrophies to leave one large vein to accompany the two, thick-walled umbilical arteries.
+
+254
+00:31:11,644 --> 00:31:16,744
+Four-vessel cords are rare and often associated with congenital anomalies .
+
+255
+00:31:16,744 --> 00:31:21,607
+If it is an isolated finding, however, prognosis can be good .
+
+256
+00:31:21,607 --> 00:31:23,994
+Figure 6-5.
+
+257
+00:31:23,994 --> 00:31:29,919
+Two umbilical arteries are typically documented sonographically in the second trimester.
+
+258
+00:31:29,919 --> 00:31:36,069
+They encircle the fetal bladder (asterisk) as extensions of the superior vesical arteries.
+
+259
+00:31:36,069 --> 00:31:47,282
+A. In this color Doppler sonographic image, a single umbilical artery, shown in red, runs along the bladder wall before joining the umbilical vein (blue) in the cord.
+
+260
+00:31:47,282 --> 00:31:53,832
+Remember with color Doppler that color signifies only blood flow direction relative to the transducer.
+
+261
+00:31:53,832 --> 00:31:58,944
+B. A cross section of a floating cord segment shows the two vessels of the cord.
+
+262
+00:31:58,944 --> 00:32:05,032
+The smaller circle is the single umbilical artery and the larger circle, the umbilical vein.
+
+263
+00:32:05,032 --> 00:32:10,469
+The most common aberration is that of a single umbilical artery (SUA).
+
+264
+00:32:10,469 --> 00:32:20,344
+Its cited incidence is 0.63 percent in liveborn neonates, 1.92 percent in perinatal deaths, and 3 percent in twins .
+
+265
+00:32:20,344 --> 00:32:24,882
+Fetuses with major malformations frequently have an SUA.
+
+266
+00:32:24,882 --> 00:32:32,832
+Thus, its identification often prompts consideration for targeted sonography and possibly fetal echocardiography.
+
+267
+00:32:32,832 --> 00:32:41,532
+The most frequent anomalies are cardiovascular and genitourinary (Hua, 2010; Murphy-Kaulbeck, 2010).
+
+268
+00:32:41,532 --> 00:32:50,857
+In an anomalous fetus, an SUA greatly increases the aneuploidy risk, and amniocentesis is recommended for karyotype assessment .
+
+269
+00:32:50,857 --> 00:33:01,882
+If targeted sonography finds otherwise normal anatomy, an isolated SUA in an otherwise low-risk pregnancy does not significantly raise the fetal aneuploidy risk.
+
+270
+00:33:01,882 --> 00:33:16,319
+However, as an isolated finding, it has been associated with fetal-growth restriction and perinatal death in some but not all studies (Chetty-John, 2010; Ebbing, 2019; Voskamp, 2013).
+
+271
+00:33:16,319 --> 00:33:23,194
+Thus, clinical monitoring of growth is reasonable, but the value of sonographic surveillance is unclear.
+
+272
+00:33:23,194 --> 00:33:28,194
+In contrast, a fused umbilical artery with a shared lumen is rare.
+
+273
+00:33:28,194 --> 00:33:33,807
+It arises from failure of the two arteries to split during embryological development.
+
+274
+00:33:33,807 --> 00:33:40,032
+The common lumen may extend through the entire cord, but, if partial, it is typically found
+
+275
+00:33:40,180 --> 00:33:42,967
+near the placental insertion site .
+
+276
+00:33:42,917 --> 00:33:52,567
+In one report, these malformations were associated with a higher incidence of marginal or velamentous cord insertion but not of congenital fetal anomalies .
+
+277
+00:33:52,567 --> 00:34:02,830
+Found in most placentas, the Hyrtl anastomosis is a connection between the two umbilical arteries, and it lies near the cord’s insertion into the placenta.
+
+278
+00:34:02,830 --> 00:34:08,492
+This anastomosis acts physiologically to equalize pressures between the arteries .
+
+279
+00:34:08,492 --> 00:34:19,430
+The resulting redistribution of pressure gradients and blood flow improves placental perfusion, especially during uterine contractions or during compression of one umbilical artery.
+
+280
+00:34:19,430 --> 00:34:26,167
+Fetuses with an SUA lack this safety valve (Raio, 1999, 2001).
+
+281
+00:34:26,167 --> 00:34:28,892
+# Remnants and Cysts.
+
+282
+00:34:28,892 --> 00:34:37,992
+Several structures are housed in the umbilical cord during fetal development, and their remnants may be seen when the mature cord is inspected transversely.
+
+283
+00:34:37,992 --> 00:34:51,755
+Indeed, in grossly sectioned cords, remnants of the allantoic duct, vitelline duct, and embryonic vessels are found in 25 to 50 percent (Grottling, 2019; Jauniaux, 1989).
+
+284
+00:34:51,755 --> 00:34:57,455
+These are not associated with congenital malformations or perinatal complications.
+
+285
+00:34:57,455 --> 00:35:01,305
+Cysts occasionally are found along the course of the cord.
+
+286
+00:35:01,305 --> 00:35:04,505
+They are designated according to their origin.
+
+287
+00:35:04,505 --> 00:35:12,955
+True cysts are epithelium-lined remnants of the allantoic or vitelline ducts and tend to be located closer to the fetal insertion site.
+
+288
+00:35:12,955 --> 00:35:20,842
+In contrast, the more common pseudocysts form from local degeneration of Wharton jelly and occur anywhere along the cord.
+
+289
+00:35:20,842 --> 00:35:24,155
+Both have a similar sonographic appearance.
+
+290
+00:35:24,155 --> 00:35:38,167
+Single umbilical cord cysts identified in the first trimester tend to resolve completely, however, multiple cysts may portend miscarriage or aneuploidy (Ghezzi, 2003; Hannaford, 2013).
+
+291
+00:35:38,167 --> 00:35:49,080
+Cysts persisting beyond this time are associated with a risk for structural defects and chromosomal anomalies (Bonilla, 2010; Zangen, 2010).
+
+292
+00:35:49,080 --> 00:35:51,255
+# Insertion.
+
+293
+00:35:51,255 --> 00:35:59,592
+The cord normally inserts centrally into the placental disc, but eccentric, marginal, or velamentous insertions are variants.
+
+294
+00:35:59,592 --> 00:36:05,117
+Of these, eccentric insertions in general pose no identifiable fetal risk.
+
+295
+00:36:05,117 --> 00:36:13,780
+Marginal insertion is a common variant—sometimes referred to as a battledore placenta—in which the cord anchors at the placental margin.
+
+296
+00:36:13,780 --> 00:36:21,317
+In one population-based study, the rate was 6 percent in singleton gestations and 11 percent in twins .
+
+297
+00:36:21,317 --> 00:36:35,230
+This common insertion variant rarely causes problems, but it and velamentous insertion occasionally result in the cord being pulled off during delivery of the placenta (Ebbing, 2015; Luo, 2013).
+
+298
+00:36:35,230 --> 00:36:41,192
+In monochorionic twins, marginal insertion may be associated with weight discordance .
+
+299
+00:36:41,192 --> 00:36:49,192
+With velamentous insertion, the umbilical vessels characteristically travel within the membranes before reaching the placental margin .
+
+300
+00:36:49,192 --> 00:36:55,192
+The incidence of velamentous insertion approximates 1 percent but is 6 percent with twins .
+
+301
+00:36:55,192 --> 00:37:02,630
+It is more commonly seen with placenta previa (Papinniemi, 2007; Räisänen, 2012).
+
+302
+00:37:02,630 --> 00:37:11,667
+Antenatal diagnosis is possible sonographically, and cord vessels are seen traveling along the uterine wall before entering the placental disc.
+
+303
+00:37:11,667 --> 00:37:18,442
+Clinically, vessels are vulnerable to compression, which may lead to fetal hypoperfusion and acidemia.
+
+304
+00:37:18,442 --> 00:37:35,105
+Higher associated rates of low Apgar scores, stillbirth, preterm delivery, and small for gestational age have been noted (de Los Reyes, 2018; Ebbing, 2017; Esakoff, 2015; Vahanian, 2015).
+
+305
+00:37:35,105 --> 00:37:41,117
+Accordingly, monitoring of fetal growth is reasonable either clinically or sonographically .
+
+306
+00:37:41,117 --> 00:37:43,530
+Figure 6-6.
+
+307
+00:37:43,530 --> 00:37:46,080
+Velamentous cord insertion.
+
+308
+00:37:46,080 --> 00:37:50,655
+A. The umbilical cord inserts into the membranes (arrow).
+
+309
+00:37:50,655 --> 00:37:57,330
+From here, the cord vessels branch and are supported only by membrane until they reach the placental disc.
+
+310
+00:37:57,330 --> 00:38:08,517
+B. When viewed sonographically and using color Doppler, the cord vessels appear to lie against the myometrium as they travel to insert into the margin of the placental disc (P).
+
+311
+00:38:08,517 --> 00:38:16,217
+Last, with the rare furcate insertion, umbilical vessels lose their protective Wharton jelly shortly before they insert.
+
+312
+00:38:16,217 --> 00:38:23,467
+As a result, they are covered only by an amnion sheath and prone to compression, twisting, and thrombosis.
+
+313
+00:38:23,467 --> 00:38:27,617
+Vasa Previa With this condition, vessels travel within
+
+314
+00:38:27,772 --> 00:38:31,334
+the membranes and overlie the cervical os.
+
+315
+00:38:31,284 --> 00:38:39,597
+There, they can be torn with cervical dilation or membrane rupture, and laceration can lead to rapid fetal exsanguination.
+
+316
+00:38:39,597 --> 00:38:44,922
+Over the cervix, vessels can also be compressed by a presenting fetal part .
+
+317
+00:38:44,922 --> 00:38:58,384
+Vasa previa may be more common than previously estimated, and rates are 1 case in 338 to 365 pregnancies (Hasegawa, 2012; Klahr, 2019).
+
+318
+00:38:58,384 --> 00:39:11,272
+Vasa previa is classified as type 1, in which vessels are part of a velamentous cord insertion, and type 2, in which involved vessels span between portions of a bilobate or a succenturiate placenta .
+
+319
+00:39:11,272 --> 00:39:23,309
+Two other risks are conception with in vitro fertilization and secondtrimester placenta previa, with or without later migration (Baulies, 2007; Schachter, 2003).
+
+320
+00:39:23,309 --> 00:39:39,159
+Compared with intrapartum diagnosis, antepartum diagnosis greatly improves the perinatal survival rate, which ranges from 97 to 100 percent (Oyelese, 2004; Swank, 2016; Zhang, 2021).
+
+321
+00:39:39,159 --> 00:39:45,309
+Thus, vasa previa is ideally identified early, although this is not always possible.
+
+322
+00:39:45,309 --> 00:39:51,972
+Effective screening for vasa previa begins during scheduled midtrimester sonographic examination.
+
+323
+00:39:51,972 --> 00:40:02,072
+In suspicious cases, transvaginal sonography is added and shows cord vessels inserting into the membranes and vessels running above the cervical internal os .
+
+324
+00:40:02,072 --> 00:40:12,647
+Routine color Doppler interrogation of the placental cord insertion site, particularly in cases of placenta previa or low-lying placenta, may aid its detection.
+
+325
+00:40:12,647 --> 00:40:16,959
+With this, the vessel waveform reflects the fetal heart rate.
+
+326
+00:40:16,959 --> 00:40:22,797
+In one systematic review, the median prenatal detection rate was 93 percent .
+
+327
+00:40:22,797 --> 00:40:25,134
+Figure 6-7.
+
+328
+00:40:25,134 --> 00:40:27,034
+Vasa previa.
+
+329
+00:40:27,034 --> 00:40:36,222
+A. Using color Doppler, an umbilical vessel (red linear structure) is seen overlying the internal os and cervical canal (arrows).
+
+330
+00:40:36,222 --> 00:40:43,159
+At the bottom, the Doppler waveform seen with this vasa previa has the typical appearance of an umbilical artery.
+
+331
+00:40:43,159 --> 00:40:58,309
+B. The amniotomy site (held open by hemostat), which was created at the time of cesarean hysterotomy, illustrates how fetal vessels may be lacerated and why fetal delivery should be prompt (Reproduced with permission from Dr. Julie Lo.
+
+332
+00:40:58,309 --> 00:41:10,697
+Once vasa previa is identified, subsequent imaging is reasonable because up to 39 percent of cases ultimately resolve (Erfani, 2019; Klahr, 2019).
+
+333
+00:41:10,697 --> 00:41:14,297
+Bed rest apparently has no added advantage.
+
+334
+00:41:14,297 --> 00:41:24,884
+Antenatal corticosteroids can be provided as indicated or given prophylactically at 28 to 32 weeks’ gestation to cover possible urgent preterm delivery.
+
+335
+00:41:24,884 --> 00:41:35,322
+Antenatal hospitalization may be considered at 30 to 34 weeks to permit surveillance and expedited delivery for labor, bleeding, or rupture of membranes.
+
+336
+00:41:35,322 --> 00:41:42,609
+Data supporting this are limited, and admission may best serve women with risk factors that portend early delivery .
+
+337
+00:41:42,609 --> 00:41:53,209
+A few cases of antepartum fetoscopic surgery with vessel laser ablation are described (Hosseinzadeh, 2015; Johnston, 2014).
+
+338
+00:41:53,209 --> 00:41:57,822
+However, current practice is early scheduled cesarean delivery.
+
+339
+00:41:57,822 --> 00:42:07,847
+The American College of Obstetricians and Gynecologists (2021) recommends cesarean delivery at 34 to 36 weeks’ gestation.
+
+340
+00:42:07,847 --> 00:42:16,309
+At delivery, the fetus is expeditiously delivered after the hysterotomy incision in case a vessel is lacerated during uterine entry.
+
+341
+00:42:16,309 --> 00:42:19,559
+Delayed cord clamping is not encouraged.
+
+342
+00:42:19,559 --> 00:42:29,897
+In all pregnancies, otherwise unexplained vaginal bleeding either antepartum or intrapartum should prompt consideration of vasa previa and a lacerated fetal vessel.
+
+343
+00:42:29,897 --> 00:42:35,834
+In many cases, bleeding is rapidly fatal, and neonatal salvage is not possible.
+
+344
+00:42:35,834 --> 00:42:41,947
+With less hemorrhage, however, it may be possible to distinguish fetal versus maternal bleeding.
+
+345
+00:42:41,947 --> 00:42:51,109
+Various tests can be used, and each relies on the increased resistance of fetal hemoglobin to denaturing by alkaline or acid reagents .
+
+346
+00:42:51,109 --> 00:43:00,134
+# Knots, Strictures, and Loops. Various mechanical abnormalities in the cord can impede blood flow and sometimes cause fetal harm.
+
+347
+00:43:00,134 --> 00:43:04,797
+Of these, true knots are found in approximately 1 percent of births.
+
+348
+00:43:04,797 --> 00:43:15,697
+These form from fetal movement, and associated risks include hydramnios and diabetes mellitus (Hershkovitz, 2001; Räisänen, 2013).
+
+349
+00:43:15,697 --> 00:43:23,059
+Knots are especially common and dangerous in monoamnionic twins, which are discussed in Chapter 48 (p.
+
+350
+00:43:23,212 --> 00:43:34,462
+845). In singleton fetuses, the stillbirth risk is increased four- to tenfold compared with those without knots (Airas, 2002; Sørnes, 2000).
+
+351
+00:43:34,412 --> 00:43:41,124
+Knots can be found incidentally during antepartum sonography, and a “hanging noose” sign is suggestive .
+
+352
+00:43:41,124 --> 00:43:45,462
+Threedimensional and color Doppler aid diagnostic accuracy .
+
+353
+00:43:45,462 --> 00:43:56,249
+With these knots, optimal fetal surveillance is unclear but may include umbilical artery Doppler velocimetry, nonstress testing, or subjective fetal movement monitoring .
+
+354
+00:43:56,249 --> 00:44:04,299
+Allowing vaginal delivery is suitable, and intrapartum fetal heart rate tracings do not differ from unaffected pregnancies .
+
+355
+00:44:04,299 --> 00:44:15,274
+In these cases, cesarean delivery rates are not increased and cord blood acid-base values are usually normal (Airas, 2002; Maher, 1996).
+
+356
+00:44:15,274 --> 00:44:22,737
+In contrast, false knots form from focal redundancy and folding of an umbilical cord vessel rather than knotting.
+
+357
+00:44:22,737 --> 00:44:25,562
+These lack clinical significance.
+
+358
+00:44:25,562 --> 00:44:32,512
+A cord stricture is a focal narrowing of the diameter that usually develops near the fetal cord insertion site .
+
+359
+00:44:32,512 --> 00:44:39,812
+Pathological features typically include absent Wharton jelly at the narrowed segment and obliteration of cord vessels .
+
+360
+00:44:39,812 --> 00:44:43,349
+In most instances, the fetus is stillborn .
+
+361
+00:44:43,349 --> 00:44:48,087
+Even less common is a cord stricture caused by an amnionic band.
+
+362
+00:44:48,087 --> 00:44:54,549
+Cord loops are frequently encountered and are caused by coiling around various fetal parts during movement.
+
+363
+00:44:54,549 --> 00:45:00,399
+A cord around the neck—a nuchal cord —is common, and vaginal delivery is suitable.
+
+364
+00:45:00,399 --> 00:45:17,849
+One loop is reported in 20 to 34 percent of deliveries; two loops in 2.5 to 5 percent; and three loops in 0.2 to 0.5 percent (Kan, 1957; Sørnes, 1995; Spellacy, 1966).
+
+365
+00:45:17,849 --> 00:45:29,449
+During labor, up to 20 percent of fetuses with a nuchal cord have moderate to severe variable heart rate decelerations, and these are associated with a lower umbilical artery pH .
+
+366
+00:45:29,449 --> 00:45:33,299
+Decelerations are not relieved by amnioinfusion .
+
+367
+00:45:33,299 --> 00:45:37,174
+Cords wrapped around the body can have similar effects .
+
+368
+00:45:37,174 --> 00:45:47,924
+Despite their frequency, nuchal cords are not associated with greater rates of adverse perinatal outcome (Henry, 2013; Masad, 2019).
+
+369
+00:45:47,924 --> 00:45:53,237
+Last, in a funic presentation, the umbilical cord is the presenting part.
+
+370
+00:45:53,237 --> 00:45:58,374
+These are uncommon and most often are associated with fetal malpresentation .
+
+371
+00:45:58,374 --> 00:46:04,999
+A funic presentation in some cases is identified with placental sonography and color flow Doppler .
+
+372
+00:46:04,999 --> 00:46:08,974
+Overt or occult cord prolapse can complicate labor.
+
+373
+00:46:08,974 --> 00:46:14,649
+Thus, once identified at term, cesarean delivery is typically recommended.
+
+374
+00:46:14,649 --> 00:46:16,824
+# Vascular.
+
+375
+00:46:16,824 --> 00:46:25,249
+Cord hematomas are rare and generally follow rupture of an umbilical vessel, usually the vein, and hemorrhage into the Wharton jelly.
+
+376
+00:46:25,249 --> 00:46:35,637
+Hematomas have been associated with abnormal cord length, umbilical vessel aneurysm, trauma, entanglement, umbilical vessel venipuncture, and funisitis .
+
+377
+00:46:35,637 --> 00:46:43,699
+Most are identified postpartum, but hematomas are recognized sonographically as hypoechoic masses that lack blood flow .
+
+378
+00:46:43,699 --> 00:46:56,937
+Sequelae include stillbirth or intrapartum abnormal fetal heart rate pattern (Abraham, 2015; Barbati, 2009; Sepulveda, 2005; Towers, 2009).
+
+379
+00:46:56,937 --> 00:47:01,087
+However, case reports have described normal outcomes .
+
+380
+00:47:01,087 --> 00:47:07,562
+Umbilical cord vessel thromboses are rare in utero events and seldom diagnosed antepartum.
+
+381
+00:47:07,562 --> 00:47:15,999
+Approximately 70 percent are venous, 20 percent are venous and arterial, and 10 percent are arterial thromboses .
+
+382
+00:47:15,999 --> 00:47:29,024
+These all have high associated rates of stillbirth, fetal-growth restriction, and intrapartum fetal distress (Minakami, 2001; Sato, 2006; Shilling, 2014).
+
+383
+00:47:29,024 --> 00:47:39,812
+If these are identified antepartum as hypoechoic masses without blood flow, data from case reports support consideration of prompt delivery of viableaged fetuses .
+
+384
+00:47:39,812 --> 00:47:47,512
+An umbilical vein varix can complicate either the intraamnionic or fetal intraabdominal portion of the umbilical vein.
+
+385
+00:47:47,512 --> 00:47:58,287
+Sonographically and complemented by color Doppler, rare intraamnionic varices show cystic dilation of the umbilical vein that is contiguous with a normal-caliber portion.
+
+386
+00:47:58,287 --> 00:48:06,137
+Of complications, an intraamnionic varix may compress an adjacent umbilical artery or can rupture or thrombose.
+
+387
+00:48:06,137 --> 00:48:13,562
+A systematic review of 250 cases found that approximately one fifth is associated with other anomalies.
+
+388
+00:48:13,562 --> 00:48:17,399
+Isolated cases had reassuring outcomes but
+
+389
+00:48:17,548 --> 00:48:23,073
+typically required antenatal surveillance (di Pasquo, 2018).
+
+390
+00:48:23,023 --> 00:48:30,735
+The rare umbilical artery aneurysm is caused by congenital thinning of the vessel wall with diminished support from Wharton jelly.
+
+391
+00:48:30,735 --> 00:48:37,198
+Indeed, most form at or near the cord’s placental insertion site, where this support is absent.
+
+392
+00:48:37,198 --> 00:48:49,810
+These are associated with SUA, trisomy 18, amnionic fluid volume extremes, fetal-growth restriction, and stillbirth (Hill, 2010; Vyas, 2016).
+
+393
+00:48:49,810 --> 00:48:57,210
+At least theoretically, these aneurysms could cause fetal compromise and death by compression of the umbilical vein.
+
+394
+00:48:57,210 --> 00:49:05,935
+With aneurysms measuring >5 cm, the blood reservoir within the aneurysm may pose a risk for high-output heart failure .
+
+395
+00:49:05,935 --> 00:49:11,285
+These aneurysms may appear sonographically as a cyst with a hyperechoic rim.
+
+396
+00:49:11,285 --> 00:49:24,010
+Within the aneurysm, color flow and spectral Doppler interrogation demonstrate either low-velocity or turbulent nonpulsatile flow (Olog, 2011; Shen, 2007b).
+
+397
+00:49:24,010 --> 00:49:33,135
+Although not codified, management may include fetal karyotyping, antenatal fetal surveillance, and early delivery to prevent stillbirth .
+
+398
+00:49:33,135 --> 00:49:37,810
+Some recommend delivery by cesarean to avoid aneurysm rupture.
+
