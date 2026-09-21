@@ -8,7 +8,7 @@ Playable directly on GitHub Web & Mobile with synchronized subtitle rendering an
 
 - 🎬 **[Chapter 01 Overview of Obstetrics](videos/Chapter_01_Overview_of_Obstetrics.mp4)** (36.3 MB)
 
-## 🎧 Audiobooks (MP3) — [31/68 Completed]
+## 🎧 Audiobooks (MP3) — [35/68 Completed]
 
 Playable directly on GitHub Web & Mobile with built-in audio player:
 
@@ -43,6 +43,10 @@ Playable directly on GitHub Web & Mobile with built-in audio player:
 - 🔊 **[Chapter 29 Operative Vaginal Delivery](audiobooks/Chapter_29_Operative_Vaginal_Delivery.mp3)** (18.0 MB)
 - 🔊 **[Chapter 30 Cesarean Delivery and Peripartum Hysterectomy](audiobooks/Chapter_30_Cesarean_Delivery_and_Peripartum_Hysterectomy.mp3)** (34.8 MB)
 - 🔊 **[Chapter 31 Prior Cesarean Delivery](audiobooks/Chapter_31_Prior_Cesarean_Delivery.mp3)** (17.7 MB)
+- 🔊 **[Chapter 32 The Newborn](audiobooks/Chapter_32_The_Newborn.mp3)** (19.0 MB)
+- 🔊 **[Chapter 33 Complications of the Term Newborn](audiobooks/Chapter_33_Complications_of_the_Term_Newborn.mp3)** (24.3 MB)
+- 🔊 **[Chapter 34 The Preterm Newborn](audiobooks/Chapter_34_The_Preterm_Newborn.mp3)** (13.4 MB)
+- 🔊 **[Chapter 35 Stillbirth](audiobooks/Chapter_35_Stillbirth.mp3)** (9.1 MB)
 
 ## 📖 Table of Contents (Chapters)
 

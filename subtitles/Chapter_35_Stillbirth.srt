@@ -1,0 +1,800 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,212
+Chapter 35: Stillbirth.
+
+3
+00:00:05,212 --> 00:00:22,262
+Definitions Etiologies Risk Factors Evaluation Of The Stillborn Fetus Perinatal Care Prior Stillbirth Changes In Stillbirth Rates References Perinatal mortality combines fetal and neonatal deaths and is one measure of healthcare quality before, during, and after delivery.
+
+4
+00:00:22,262 --> 00:00:30,387
+Fetal mortality data from the National Vital Statistics system are usually presented for fetal deaths after the 20-week threshold.
+
+5
+00:00:30,387 --> 00:00:41,637
+Using this threshold, the numbers of fetal deaths in the United States in 2013 slightly surpassed numbers of neonatal deaths when considering fetal deaths beyond 20 weeks .
+
+6
+00:00:41,637 --> 00:00:44,212
+Figure 35-1.
+
+7
+00:00:44,212 --> 00:00:50,062
+Distribution of fetal and neonatal deaths in the United States, 2013.
+
+8
+00:00:50,062 --> 00:00:53,450
+Data from MacDorman, 2015a.
+
+9
+00:00:53,450 --> 00:00:55,300
+Definitions.
+
+10
+00:00:55,300 --> 00:01:07,912
+As discussed in Chapter 1 (p. 3), the current definition of fetal death adopted in the United States by the National Center for Health Statistics is based on one recommended by the World Health Organization .
+
+11
+00:01:07,912 --> 00:01:20,550
+It states that “Fetal death means death prior to complete expulsion or extraction from the mother of a product of human conception irrespective of the duration of pregnancy and which is not an induced termination of pregnancy.
+
+12
+00:01:20,550 --> 00:01:35,112
+The death is indicated by the fact that after such expulsion or extraction, the fetus does not breathe or show any other evidence of life such as beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles.
+
+13
+00:01:35,112 --> 00:01:44,537
+Heartbeats are to be distinguished from transient cardiac contractions; respirations are to be distinguished from fleeting respiratory efforts or gasps.
+
+14
+00:01:44,537 --> 00:01:51,937
+Reporting requirements for fetal deaths in the United States are determined by each state, and thus criteria differ.
+
+15
+00:01:51,937 --> 00:02:04,850
+Most states mandate reporting of deaths of fetuses that are 20 weeks’ gestation or older or have a minimum birthweight of 350 g, which roughly equates to that at 20 weeks— or a combination of both.
+
+16
+00:02:04,850 --> 00:02:12,450
+However, evidence shows that not all required fetal deaths are reported, especially at earlier gestational ages .
+
+17
+00:02:12,450 --> 00:02:18,637
+Similarly, comparisons of rates among countries are limited by incomplete fetal death data.
+
+18
+00:02:18,637 --> 00:02:24,862
+Internationally, less than 5 percent of neonatal deaths have formalized documentation .
+
+19
+00:02:24,862 --> 00:02:32,300
+Further, comparative analyses using birthweight versus gestational age among countries yield discordant results.
+
+20
+00:02:32,300 --> 00:02:44,437
+In the United States, if stillbirth were defined by a birthweight ≥500 g, the stillbirth rate would be reduced by 40 percent compared with a 20-week-age defined cohort .
+
+21
+00:02:44,437 --> 00:02:48,500
+Three fetal mortality epochs are generally recognized.
+
+22
+00:02:48,500 --> 00:02:59,525
+Early describes deaths before 20 completed weeks’ gestation; intermediate for those between 20 and 27 weeks; and late for those ≥28 weeks.
+
+23
+00:02:59,525 --> 00:03:04,850
+The fetal mortality rate in each epoch has changed little since 2006.
+
+24
+00:03:04,850 --> 00:03:14,700
+As shown in Figure 35-2, fetal death rates are highest at the earliest and latest gestational ages, which suggests etiological differences.
+
+25
+00:03:14,700 --> 00:03:17,225
+Figure 35-2.
+
+26
+00:03:17,225 --> 00:03:24,112
+National Vital Statistics Report: fetal mortality rate per 1000 births by weeks’ gestation.
+
+27
+00:03:24,112 --> 00:03:27,500
+Data from MacDorman, 2015a.
+
+28
+00:03:27,500 --> 00:03:29,437
+Etiologies.
+
+29
+00:03:29,437 --> 00:03:46,587
+To ascertain stillbirth causes in racially and geographically diverse populations in the United States, the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) organized the Stillbirth Collaborative Research Network Writing Group (2011b).
+
+30
+00:03:46,587 --> 00:03:57,700
+The group examined reasons for death at 20 weeks’ gestation or later between 2006 and 2008 in 59 tertiary care and community hospitals in five states.
+
+31
+00:03:57,700 --> 00:04:08,350
+Standardized evaluations included autopsy, placental histology, and testing of maternal or fetal blood/tissues, including fetal karyotyping.
+
+32
+00:04:08,350 --> 00:04:13,862
+Evaluations were performed in 500 women with 512 stillbirths.
+
+33
+00:04:13,862 --> 00:04:17,775
+Of these losses, 83 percent were before labor.
+
+34
+00:04:17,775 --> 00:04:21,112
+Causes were divided into eight categories .
+
+35
+00:04:21,112 --> 00:04:26,975
+These categories were then classified as probable, possible, or unknown causes.
+
+36
+00:04:26,975 --> 00:04:37,612
+As an example, diabetes was considered a probable cause if the fetus had diabetic embryopathy with lethal anomalies or if the mother had diabetic ketoacidosis.
+
+37
+00:04:37,612 --> 00:04:43,400
+It was a possible cause if the mother had poor glycemic control and the fetus had abnormal
+
+38
+00:04:43,564 --> 00:04:45,026
+growth.
+
+39
+00:04:44,976 --> 00:04:50,501
+A probable or possible source was identified in 76 percent of cases.
+
+40
+00:04:50,501 --> 00:04:56,126
+This proportion is similar to that from Australia using a comparable national audit tool .
+
+41
+00:04:56,126 --> 00:04:58,689
+Table 35-1.
+
+42
+00:04:58,689 --> 00:05:08,764
+Causes of 512 Stillbirths in the Stillbirth Collaborative Research Network Study This Network study is unprecedented in the United States for several reasons.
+
+43
+00:05:08,764 --> 00:05:15,814
+It was a population-based cohort of stillbirths, in which all underwent systematic and thorough evaluation.
+
+44
+00:05:15,814 --> 00:05:23,276
+Each assigned cause of fetal death is reasonably straightforward and comprehensible except for “placental abnormalities.
+
+45
+00:05:23,276 --> 00:05:30,564
+This category contains uteroplacental insufficiency and a few other less clearly defined placental entities.
+
+46
+00:05:30,564 --> 00:05:43,289
+This aside, the leading reasons for fetal death were obstetrical and primarily included abruption, multifetal gestation complications, and spontaneous labor or ruptured membranes before viability.
+
+47
+00:05:43,289 --> 00:05:45,926
+Structural anomaly was another .
+
+48
+00:05:45,926 --> 00:05:54,401
+This study also illustrated that systematic evaluation may identify a likely cause in approximately three fourths of stillbirths.
+
+49
+00:05:54,401 --> 00:05:59,301
+This high rate emphasizes the importance of standardized evaluation.
+
+50
+00:05:59,301 --> 00:06:09,351
+However, a Cochrane database study concluded that evidence specifically from randomized trials to support specific tests for stillbirth evaluation was lacking .
+
+51
+00:06:09,351 --> 00:06:11,314
+Risk Factors.
+
+52
+00:06:11,314 --> 00:06:15,826
+Many factors are associated with an increased stillbirth risk .
+
+53
+00:06:15,826 --> 00:06:29,864
+Major associations include sociodemographic factors such as non-Hispanic black women, who have higher incidences of hypertension, diabetes, placental abruption, and preterm premature rupture of membranes .
+
+54
+00:06:29,864 --> 00:06:46,551
+Other common associations are maternal age at either end of the spectrum, obesity, preeclampsia, diabetes, substance use, and late-term pregnancy (American College of Obstetricians and Gynecologists, 2020; Page, 2018).
+
+55
+00:06:46,551 --> 00:06:52,301
+Multifetal pregnancies, especially monochorionic gestations, are high risk .
+
+56
+00:06:52,301 --> 00:07:04,751
+Women with prior adverse pregnancy outcomes—such as stillbirth, preterm birth, or growth restriction—also carry an increased risk (Reddy, 2010; Varner, 2014).
+
+57
+00:07:04,751 --> 00:07:21,639
+Pregnancies complicated by current fetal-growth restriction are particularly vulnerable because of their associations with hypertension, diabetes, fetal infection, autoimmune disorders, and chronic renal disease (Brackett, 2020; Silver, 2018).
+
+58
+00:07:21,639 --> 00:07:29,714
+Recently, the SARS-CoV-2 pandemic has posed both direct and indirect risks for adverse perinatal outcomes.
+
+59
+00:07:29,714 --> 00:07:42,526
+Data are mixed as to whether rates of stillbirth have been higher during the pandemic (Khalil, 2020; Srivastava, 2021; Simon, 2021; Son, 2021b).
+
+60
+00:07:42,526 --> 00:07:46,264
+Some suggest greater risks in low-source countries .
+
+61
+00:07:46,264 --> 00:07:57,676
+Although with recognized limitations, these findings merit further investigation regarding perinatal care during this pandemic (Hu, 2021; Rasmussen, 2020).
+
+62
+00:07:57,676 --> 00:08:09,364
+In 245 gravidas with SARS-CoV-2 infection at Parkland Hospital, the stillbirth rate was not increased compared with that in gravidas with negative test results during the same period.
+
+63
+00:08:09,364 --> 00:08:11,914
+Table 35-2.
+
+64
+00:08:11,914 --> 00:08:24,126
+Maternal Risk Factors and Estimated Stillbirth Rate To help lower stillbirth rates, two major studies assessed whether risk factors could be identified either before or shortly after pregnancy confirmation.
+
+65
+00:08:24,126 --> 00:08:31,326
+In the first, Reddy and colleagues (2010) analyzed data from the NICHD Consortium on Safe Labor.
+
+66
+00:08:31,326 --> 00:08:43,114
+Briefly, the pregnancy outcomes of 206,969 women delivered between 2002 and 2008 at 19 hospitals in the United States were analyzed.
+
+67
+00:08:43,114 --> 00:08:49,401
+When stillbirths were apportioned according to gestational age, most occurred primarily at term.
+
+68
+00:08:49,401 --> 00:08:57,576
+These investigators concluded that their results did not support routine antenatal surveillance for any demographic risk factors.
+
+69
+00:08:57,576 --> 00:09:06,176
+The second analysis of risk factors was included in the Stillbirth Collaborative Research Network study described earlier (2011a).
+
+70
+00:09:06,176 --> 00:09:12,339
+The validity of stillbirth prediction was assessed based on risks identified in early pregnancy.
+
+71
+00:09:12,339 --> 00:09:19,526
+They found that pregnancy factors known at the start of pregnancy accounted for only a small proportion of stillbirth risk.
+
+72
+00:09:19,526 --> 00:09:29,364
+Indeed, except for prior stillbirth or pregnancy loss from causes such as preterm birth or fetal-growth restriction, other risks had limited predictive value.
+
+73
+00:09:29,524 --> 00:09:38,261
+Prior stillbirth as a risk for recurrence has been emphasized by others (Lamont, 2015; Sharma, 2006).
+
+74
+00:09:38,211 --> 00:09:43,961
+Specifically, the stillbirth risk was fivefold higher in women with a prior stillbirth.
+
+75
+00:09:43,961 --> 00:09:54,286
+From another report, prior preterm birth, fetalgrowth restriction, preeclampsia, and placental abruption were strongly associated with subsequent stillbirth .
+
+76
+00:09:54,286 --> 00:09:57,336
+Evaluation Of The Stillborn Fetus.
+
+77
+00:09:57,336 --> 00:10:00,199
+# Clinical Examination.
+
+78
+00:10:00,199 --> 00:10:12,849
+Determining the cause of fetal death aids maternal coping, helps assuage perceived guilt, permits more accurate counseling regarding recurrence risk, and may prompt intervention to prevent a recurrent outcome.
+
+79
+00:10:12,849 --> 00:10:17,911
+Identification of inherited syndromes also assists other family members.
+
+80
+00:10:17,911 --> 00:10:27,961
+Important tests include autopsy, chromosomal analysis, and pathological examination of the placenta, cord, and chorioamnionic membranes .
+
+81
+00:10:27,961 --> 00:10:35,611
+Page and coworkers (2017) found placental pathology and fetal autopsy to be the most useful.
+
+82
+00:10:35,611 --> 00:10:41,474
+Clinically, the fetal weight, head circumference, and length and the placental weight are measured .
+
+83
+00:10:41,474 --> 00:10:45,211
+Photographs are taken of the extremities and palms.
+
+84
+00:10:45,211 --> 00:10:50,249
+Frontal plus profile views of the whole fetus and face also are obtained.
+
+85
+00:10:50,249 --> 00:10:54,986
+A full radiograph of the fetus—a fetogram—may be performed .
+
+86
+00:10:54,986 --> 00:11:08,511
+Postnatal magnetic resonance (MR) imaging, radiographs, or sonography may be especially important if parents decline a full autopsy (McPherson, 2017; Shruthi, 2018).
+
+87
+00:11:08,511 --> 00:11:15,261
+Findings are documented in the medical record, and relevant ante- and intrapartum events are delineated.
+
+88
+00:11:15,261 --> 00:11:17,886
+Figure 35-3.
+
+89
+00:11:17,886 --> 00:11:20,974
+Flow chart for stillbirth evaluation.
+
+90
+00:11:20,974 --> 00:11:32,536
+APAS = antiphospholipid antibody syndrome; KB = Kleihauer-Betke; MR = magnetic resonance; SLE = systemic lupus erythematosus.
+
+91
+00:11:32,536 --> 00:11:40,986
+From American College of Obstetricians and Gynecologists, 2020; Page, 2017, 2018.
+
+92
+00:11:40,986 --> 00:11:44,624
+The reported incidence of fetal anomalies varies.
+
+93
+00:11:44,624 --> 00:11:58,499
+For example, FayePetersen and colleagues (1999) reported that if autopsy and chromosomal studies are performed, up to 35 percent of stillborn fetuses were discovered to have major structural anomalies.
+
+94
+00:11:58,499 --> 00:12:10,749
+Approximately 20 percent had dysmorphic features or skeletal anomalies, and 8 percent had chromosomal abnormalities (Pauli, 1994; Saller, 1995).
+
+95
+00:12:10,749 --> 00:12:22,224
+As shown in Table 35-1, however, the incidence of structural anomalies in the Stillbirth Collaborative Research Network (2011b) was only 14 percent.
+
+96
+00:12:22,224 --> 00:12:25,286
+# Laboratory Evaluation.
+
+97
+00:12:25,286 --> 00:12:33,424
+In the absence of anatomical dysmorphology, up to 5 percent of stillborn fetuses will have a chromosomal abnormality .
+
+98
+00:12:33,424 --> 00:12:54,686
+Previously, karyotyping all stillborn fetuses was standard practice, but whole-genome sequencing—such as with chromosomal microarray analysis (CMA)—is now recommended for stillborns (American College of Obstetricians and Gynecologists, 2020; Holmes, 2018; Martinez-Portilla, 2019).
+
+99
+00:12:54,686 --> 00:13:02,136
+Described further in Chapter 16 (p. 325), this technique does not require dividing cells.
+
+100
+00:13:02,136 --> 00:13:08,411
+This is especially helpful because culturing of macerated fetal tissue is frequently unsuccessful .
+
+101
+00:13:08,411 --> 00:13:21,386
+Looking to the future, Stanley and associates (2020) evaluated exome sequencing in 246 unexplained stillbirths to search for disease-causing variants in the coding region of the genome.
+
+102
+00:13:21,386 --> 00:13:33,574
+These investigators found that 8.5 percent of stillbirths with a normal chromosomal microarray and without probable maternal or obstetrical causes were probably attributable to mendelian disorders.
+
+103
+00:13:33,574 --> 00:13:43,111
+These findings suggest that a portion of stillbirth cases is caused by pathological variants in genes known to underlie disorders in infants and adults.
+
+104
+00:13:43,111 --> 00:13:53,886
+In addition, a similar number of cases are caused by lossof-function variants in genes that are critical to in-utero survival but not currently known to be associated with stillbirth.
+
+105
+00:13:53,886 --> 00:14:03,074
+Thus, the full phenotypic spectrum of many known mendelian disorders is not fully understood without the inclusion of cases resulting in stillbirth .
+
+106
+00:14:03,074 --> 00:14:08,399
+To take fetal samples, a provider must obtain appropriate parental consent.
+
+107
+00:14:08,399 --> 00:14:15,649
+Any type of fetal or placental tissue or amnionic fluid can be submitted for genetic testing using CMA .
+
+108
+00:14:15,649 --> 00:14:20,099
+Contamination with maternal tissue or blood is ideally avoided.
+
+109
+00:14:20,099 --> 00:14:24,311
+Specimens are collected by sterile technique and kept at room
+
+110
+00:14:24,460 --> 00:14:26,085
+temperature.
+
+111
+00:14:26,035 --> 00:14:51,285
+If fetal blood cannot be withdrawn from the umbilical cord or heart, at least one of the following can be sent for testing: (1) placental block measuring 1 × 1 cm taken below the cord insertion site in a specimen not fixed in formalin; (2) 1.5-cm-long umbilical cord segment; or (3) internal fetal tissue sample from the costochondral junction, fascia lata, or patella.
+
+112
+00:14:51,285 --> 00:14:58,097
+Tissue is washed with sterile saline and suspended in Ringer solution, or sterile cytogenetic medium.
+
+113
+00:14:58,097 --> 00:15:01,585
+Formalin or alcohol kills viable cells.
+
+114
+00:15:01,585 --> 00:15:10,297
+If conventional karyotyping is the only test available and the death is recent, amnionic fluid can be obtained by amniocentesis.
+
+115
+00:15:10,297 --> 00:15:15,160
+This is particularly valuable if delivery is not expected imminently.
+
+116
+00:15:15,160 --> 00:15:23,410
+As such, these cells provide a greater likelihood of cell growth and eventual results compared with tissue harvested after delivery.
+
+117
+00:15:23,410 --> 00:15:36,185
+Maternal blood is obtained for Kleihauer-Betke staining; for antiphospholipid antibody and lupus anticoagulant testing if indicated; and for serum glucose measurement to exclude overt diabetes .
+
+118
+00:15:36,185 --> 00:15:51,110
+Testing for syphilis is reasonable if no prior screen has been performed, if the patient has exposure risk factors, or if patient, fetus, or placenta show suggestive findings, described in Chapter 68 (p. 1208) .
+
+119
+00:15:51,110 --> 00:16:01,347
+Although some have recommended routine evaluation of heritable thrombophilias, no evidence supports the clinical efficiency of screening in an unselected population.
+
+120
+00:16:01,347 --> 00:16:11,510
+Silver and colleagues (2016) found that most maternal and fetal thrombophilias were not associated with stillbirth and recommended against routine testing.
+
+121
+00:16:11,510 --> 00:16:20,060
+This is echoed by the American College of Obstetricians and Gynecologists and the Society for MaternalFetal Medicine (2020).
+
+122
+00:16:20,060 --> 00:16:22,972
+# Placental Examination.
+
+123
+00:16:22,972 --> 00:16:30,772
+Gross and microscopical examination of the placenta, membranes, and cord by a perinatal pathologist is ideal.
+
+124
+00:16:30,772 --> 00:16:34,885
+Numerous maternal and fetal disorders can be identified.
+
+125
+00:16:34,885 --> 00:16:42,997
+Cord knotting and placental microvascular abnormalities are examples and discussed in Chapter 6 (p. 107).
+
+126
+00:16:42,997 --> 00:16:48,247
+Implicated infections are described in Chapters 67 and 68.
+
+127
+00:16:48,247 --> 00:16:50,510
+# Autopsy.
+
+128
+00:16:50,510 --> 00:16:56,710
+Parents are encouraged to allow a full autopsy, which is more likely to yield valuable data.
+
+129
+00:16:56,710 --> 00:17:04,897
+Pinar and coworkers (2012) provide the autopsy protocol used by the Stillbirth Collaborative Research Network.
+
+130
+00:17:04,897 --> 00:17:16,297
+An analysis of 400 consecutive fetal deaths in Wales showed that autopsy altered the presumed cause of death in 13 percent and provided new data in another 26 percent .
+
+131
+00:17:16,297 --> 00:17:30,135
+Other investigators have found that autopsy results changed the recurrence risk estimates and parental counseling in 25 to 50 percent of cases (Faye-Petersen, 1999; Silver, 2007).
+
+132
+00:17:30,135 --> 00:17:40,322
+Miller and associates (2016) reported that placental examination with autopsy altered future medical management in 45 percent of cases.
+
+133
+00:17:40,322 --> 00:17:45,147
+Limited autopsy protocols can also yield valuable information.
+
+134
+00:17:45,147 --> 00:17:58,597
+Of components, external examination combined with photography, radiography, MR imaging, bacterial cultures, and selective use of chromosomal and histopathological studies often aids determination.
+
+135
+00:17:58,597 --> 00:18:03,460
+According to one survey, most hospitals do not audit stillbirths .
+
+136
+00:18:03,460 --> 00:18:18,985
+In other centers, including ours, maternal records and autopsy findings are reviewed monthly by a stillbirth committee composed of obstetricians, maternal-fetal medicine specialists, neonatologists, geneticists, and perinatal pathologists.
+
+137
+00:18:18,985 --> 00:18:23,585
+If possible, the cause of death is assigned from available evidence.
+
+138
+00:18:23,585 --> 00:18:34,335
+Most importantly, parents are then contacted and offered counseling regarding the cause of death, the potential recurrence risk, and possible strategies to avoid recurrence .
+
+139
+00:18:34,335 --> 00:18:36,285
+Perinatal Care.
+
+140
+00:18:36,285 --> 00:18:40,810
+Fetal death is psychologically traumatic for a woman and her family.
+
+141
+00:18:40,810 --> 00:19:00,047
+Further stressors include an interval of more than 24 hours between the diagnosis of fetal death and labor induction; not seeing her neonate for as long as she desires; having no tokens of remembrance; and poor communication with caregivers (Heazell, 2016; Siassakos, 2018).
+
+142
+00:19:00,047 --> 00:19:05,247
+Seeing and holding a stillborn neonate assists parental psychological well-being .
+
+143
+00:19:05,247 --> 00:19:10,197
+Unfortunately, few obstetrical providers receive formal training in
+
+144
+00:19:10,348 --> 00:19:12,785
+perinatal bereavement care .
+
+145
+00:19:12,735 --> 00:19:19,823
+At Parkland Hospital, care is coordinated through a dedicated nursing team affiliated with labor and delivery.
+
+146
+00:19:19,823 --> 00:19:28,673
+Intervention includes time with the neonate, keepsake items, photographs, chaplaincy consultation, and bereavement support information.
+
+147
+00:19:28,673 --> 00:19:34,673
+These principles dovetail with the recent global consensus recommendations for bereavement care .
+
+148
+00:19:34,673 --> 00:19:43,948
+A woman experiencing a stillbirth or early miscarriage is at increased risk for depression and posttraumatic stress disorder and should be closely monitored .
+
+149
+00:19:43,948 --> 00:19:51,435
+Distinct from stillbirth, fetuses with life-limiting conditions and short survival also merit special consideration.
+
+150
+00:19:51,435 --> 00:20:00,623
+Conceptually, perinatal palliative care provides obstetrical and neonatal care to maximize the comfort and quality of life for these newborns .
+
+151
+00:20:00,623 --> 00:20:10,360
+Components of this care include review of the diagnosis, creation of a birth plan, bereavement counseling, and consultation with neonatal services.
+
+152
+00:20:10,360 --> 00:20:17,710
+This care is typically provided by a team that is able to offer medical, psychological, and spiritual support.
+
+153
+00:20:17,710 --> 00:20:22,748
+During planning, parents’ values, goals, and fears are a focus.
+
+154
+00:20:22,748 --> 00:20:24,760
+Prior Stillbirth.
+
+155
+00:20:24,760 --> 00:20:31,410
+The woman with a prior stillbirth has a substantial risk for a recurrence (see Table 35-2.
+
+156
+00:20:31,410 --> 00:20:36,235
+Preterm or growth-restricted stillborn fetuses magnify this risk .
+
+157
+00:20:36,235 --> 00:20:43,885
+In one cohort of 43 women with a recurrent stillbirth, most fetuses died before 28 weeks’ gestation .
+
+158
+00:20:43,885 --> 00:20:46,548
+Figure 35-4.
+
+159
+00:20:46,548 --> 00:20:53,023
+Stillbirth Collaborative Research Network: gestational age distribution of recurrent stillbirths.
+
+160
+00:20:53,023 --> 00:20:58,998
+An outlined approach for women with a prior stillbirth is shown in Table 35-3.
+
+161
+00:20:58,998 --> 00:21:07,485
+Importantly, these recommendations are based primarily on limited or inconsistent scientific evidence or on expert opinions.
+
+162
+00:21:07,485 --> 00:21:11,010
+Few studies address management of affected women .
+
+163
+00:21:11,010 --> 00:21:13,673
+Table 35-3.
+
+164
+00:21:13,673 --> 00:21:20,473
+Management of Subsequent Pregnancy after Stillbirth Very few risk factors for stillbirth are modifiable .
+
+165
+00:21:20,473 --> 00:21:26,898
+Intuitively some such as hypertension or diabetes warrant disease-specific prevention strategies.
+
+166
+00:21:26,898 --> 00:21:35,223
+Women with a prior fetal death due to placental insufficiency also are at increased risk for subsequent adverse perinatal outcomes .
+
+167
+00:21:35,223 --> 00:21:46,948
+According to Reddy (2007), almost half of fetal deaths are associated with growth restriction, and thus sonographic anatomical assessment beginning at midpregnancy is recommended.
+
+168
+00:21:46,948 --> 00:21:51,673
+This is followed by serial growth studies beginning at 28 weeks.
+
+169
+00:21:51,673 --> 00:22:01,348
+Detection of growth restriction may lead to iatrogenic prematurity and its associated longterm childhood consequences but to fewer intrauterine deaths .
+
+170
+00:22:01,348 --> 00:22:10,998
+Weeks and associates (1995) evaluated fetal biophysical testing in 300 women whose only indication was prior stillbirth.
+
+171
+00:22:10,998 --> 00:22:18,348
+There was one subsequent stillbirth, and only three fetuses had abnormal testing results before 32 weeks.
+
+172
+00:22:18,348 --> 00:22:28,885
+Notably, the gestational age of the prior stillborn fetus did not relate to the incidence or timing of abnormal test results or fetal jeopardy in the subsequent pregnancy.
+
+173
+00:22:28,885 --> 00:22:38,885
+These investigators concluded that antepartum surveillance should begin at 32 weeks’ gestation or later in the otherwise healthy woman with a history of stillbirth.
+
+174
+00:22:38,885 --> 00:22:51,848
+The American College of Obstetricians and Gynecologists and the Society for Maternal-Fetal Medicine (2020) support this, with the caveat that it increases the iatrogenic preterm delivery rate.
+
+175
+00:22:51,848 --> 00:23:03,798
+Although fetal movement counting strategies are routinely employed and described in Chapter 20 (p. 384), few data guide its use in clinical practice for those with a prior stillbirth .
+
+176
+00:23:03,798 --> 00:23:10,098
+Unless other indications intervene, delivery at 39 weeks’ gestation is recommended.
+
+177
+00:23:10,098 --> 00:23:17,373
+This timing minimizes fetal mortality rates, although the degree of risk reduction may be greater for older women .
+
+178
+00:23:17,373 --> 00:23:24,360
+Labor induction is suitable, and cesarean delivery is reserved for those with a contraindication to induction.
+
+179
+00:23:24,360 --> 00:23:26,973
+Changes In Stillbirth Rates.
+
+180
+00:23:26,973 --> 00:23:34,273
+As noted, following declines through 2011, the United States fetal mortality rate has changed little .
+
+181
+00:23:34,273 --> 00:23:40,398
+Interpretation of these rates in the context of changing healthcare strategies has spawned debate.
+
+182
+00:23:40,398 --> 00:23:46,348
+One example is the trend against nonmedically indicated deliveries before 39 weeks’
+
+183
+00:23:46,516 --> 00:23:50,878
+gestation and its subsequent effect on term stillbirth rates .
+
+184
+00:23:50,828 --> 00:23:57,791
+This practice’s value for neonatal outcome is described in Chapter 26 (p. 486).
+
+185
+00:23:57,791 --> 00:24:08,053
+To analyze whether implementation of this 39-week rule has altered the term stillbirth rate, data from 45 states and the District of Columbia were examined .
+
+186
+00:24:08,053 --> 00:24:17,503
+The proportion of births before 39 weeks progressively declined from 2007 and 2013, but the term stillbirth rate increased.
+
+187
+00:24:17,503 --> 00:24:22,316
+This suggests that the 39-week rule may cause unintended harm.
+
+188
+00:24:22,316 --> 00:24:36,141
+One review of studies with 15 million pregnancies showed that the prospective risk of stillbirth rose from 0.11 per 1000 births at 37 weeks to 3.18 per 1000 births at 42 weeks .
+
+189
+00:24:36,141 --> 00:24:47,466
+MacDorman and associates (2015b) also evaluated trends in stillbirth rates by gestational ages in the United States between 2006 and 2012.
+
+190
+00:24:47,466 --> 00:24:57,453
+They used a “traditional stillbirth rate,” which was calculated using a denominator composed of the live-birth number plus the stillbirth number at a given gestational age.
+
+191
+00:24:57,453 --> 00:25:04,878
+They found increased rates at 24 to 27, 34 to 36, and 38 weeks’ gestation.
+
+192
+00:25:04,878 --> 00:25:09,903
+Alternatively, no differences were found in “prospective stillbirth rates.
+
+193
+00:25:09,903 --> 00:25:19,216
+These rates were calculated using a denominator composed of the number of women who are pregnant at a given gestational age for weeks 21 through 42.
+
+194
+00:25:19,216 --> 00:25:28,028
+The discrepancies in stillbirth rates appear to primarily derive from the decline in the birth numbers in the preterm and early-term gestational ages.
+
+195
+00:25:28,028 --> 00:25:43,341
+In sum, implementation of the 39-week rule has reduced the number of elective births before 39 weeks’ gestation, although an unintended consequence may be an increase in term stillbirths—especially among women with medical complications.
+
+196
+00:25:43,341 --> 00:25:53,366
+The importance of induction before 39 weeks in pregnant women with complications to prevent stillbirth is underscored by Little and colleagues (2015).
+
+197
+00:25:53,366 --> 00:26:05,491
+These authors performed a retrospective multistate analysis of early-term deliveries—370/7 to 386/7 weeks—from 2005 to 2011.
+
+198
+00:26:05,491 --> 00:26:13,078
+They noted a decline in the number of early-term deliveries during this time but not a significant change in the term stillbirth rates.
+
+199
+00:26:13,078 --> 00:26:26,403
+There was, however, a 25-percent rise in the rate of term, singleton stillbirths among women with diabetes, and this was attributed to clinicians misapplying early-term delivery policies to high-risk women.
+
+200
+00:26:26,403 --> 00:26:34,603
+Undoubtedly, continued surveillance of stillbirth rates is warranted for both high- and lowrisk pregnancies at the state and national level.
+
