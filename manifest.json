@@ -171,5 +171,25 @@
     "audio": true,
     "words": 3328,
     "audio_size_mb": 9.12
+  },
+  "36": {
+    "audio": true,
+    "words": 8715,
+    "audio_size_mb": 23.35
+  },
+  "37": {
+    "audio": true,
+    "words": 7640,
+    "audio_size_mb": 22.16
+  },
+  "38": {
+    "audio": true,
+    "words": 8678,
+    "audio_size_mb": 23.42
+  },
+  "39": {
+    "audio": true,
+    "words": 2799,
+    "audio_size_mb": 7.79
   }
 }

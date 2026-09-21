@@ -1,0 +1,2216 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,312
+Chapter 38: Contraception.
+
+3
+00:00:05,312 --> 00:00:21,887
+Intrauterine Devices Progestin-Only Contraceptives Combination Hormonal Contraceptives Barrier Methods Fertility Awareness-Based Methods Spermicides Emergency Contraception References The puerperium offers an excellent opportunity to provide effective contraception.
+
+4
+00:00:21,887 --> 00:00:28,850
+For mothers who are nursing exclusively, ovulation during the first 10 weeks after delivery is unlikely.
+
+5
+00:00:28,850 --> 00:00:36,525
+Nursing, however, is not a reliable method of family planning for women whose infants breastfeed only during the day.
+
+6
+00:00:36,525 --> 00:00:44,625
+Moreover, waiting for first menses involves a risk of pregnancy, because ovulation usually antedates menstruation.
+
+7
+00:00:44,625 --> 00:00:51,325
+Certainly, after the first menses, contraception is essential unless the woman desires pregnancy.
+
+8
+00:00:51,325 --> 00:00:56,325
+Nearly half of all pregnancies each year in the United States are unintended .
+
+9
+00:00:56,325 --> 00:01:01,962
+These may follow contraceptive method failure or stem from lack of contraceptive use.
+
+10
+00:01:01,962 --> 00:01:06,450
+For those seeking contraception, effective options are available .
+
+11
+00:01:06,450 --> 00:01:12,987
+Among these, estimated failure rates of perfect and typical use during the first year differ widely .
+
+12
+00:01:12,987 --> 00:01:21,487
+Efficacy tiers reflect these failure rates, and implants and intrauterine devices (IUDs) are found in the top tier .
+
+13
+00:01:21,487 --> 00:01:28,725
+They effectively drop unintended pregnancy rates and are considered long-acting reversible contraception (LARC).
+
+14
+00:01:28,725 --> 00:01:34,700
+Clinicians provide counseling on all options and encourage LARC for appropriate candidates .
+
+15
+00:01:34,700 --> 00:01:37,175
+Table 38-1.
+
+16
+00:01:37,175 --> 00:01:49,687
+Contraceptive Failure Rates of Reversible Methods During the First Year and Use Ratesa No contraceptive method is completely without side effects, but contraception usually poses less risk than pregnancy.
+
+17
+00:01:49,687 --> 00:01:55,675
+However, some disorders or medications can raise the risks of certain contraceptives.
+
+18
+00:01:55,675 --> 00:02:06,175
+The World Health Organization (2015) has provided guidelines for the use of effective reversible contraceptive methods by women with various health conditions.
+
+19
+00:02:06,175 --> 00:02:10,625
+Individual countries have subsequently modified these guidelines.
+
+20
+00:02:10,625 --> 00:02:21,875
+The United States Medical Eligibility Criteria (US MEC) was updated in 2016 by the Centers for Disease Control and Prevention and is available at their website .
+
+21
+00:02:21,875 --> 00:02:45,087
+In the US MEC, reversible contraceptive methods are organized into six groups: levonorgestrel-releasing intrauterine system (LNG-IUS), copper intrauterine devices (Cu-IUDs), implants, depot medroxyprogesterone acetate (DMPA), progestin-only pills (POPs), and combination hormonal contraceptives (CHCs).
+
+22
+00:02:45,087 --> 00:02:51,887
+This last group includes combination oral contraceptives (COCs), rings, and patches.
+
+23
+00:02:51,887 --> 00:02:56,862
+For a given health condition, each method is categorized 1 through 4.
+
+24
+00:02:56,862 --> 00:03:13,137
+The score describes the safety profile for a typical woman with that condition: (1) no restriction of method use, (2) method advantages outweigh risks, (3) method risks outweigh advantages, and (4) method poses an unacceptable health risk.
+
+25
+00:03:13,137 --> 00:03:24,012
+Alternatively, depending on the underlying disorder or patient desire, male or female sterilization may be a preferred or recommended permanent contraceptive method.
+
+26
+00:03:24,012 --> 00:03:27,575
+These options are discussed in Chapter 39.
+
+27
+00:03:27,575 --> 00:03:29,962
+Intrauterine Devices.
+
+28
+00:03:29,962 --> 00:03:38,562
+The five IUDs currently approved for use in the United States are chemically active and continually elute either copper or a progestin.
+
+29
+00:03:38,562 --> 00:03:45,437
+All have a flexible, T-shaped, polyethylene frame compounded with barium to render them radiopaque.
+
+30
+00:03:45,437 --> 00:03:57,000
+The progestin-eluting devices are similarly shaped, but each differs by size, string color, longevity, and presence or absence of a silver band at the junction of the stem and arms .
+
+31
+00:03:57,000 --> 00:04:02,437
+Among these, smaller-sized devices are thought to better fit a nulliparous uterus .
+
+32
+00:04:02,437 --> 00:04:13,337
+In contrast, the copper device, the T380A IUD named ParaGard, contains a thin copper strand wound around its stem and a copper bracelet on each arm.
+
+33
+00:04:13,337 --> 00:04:15,800
+Table 38-2.
+
+34
+00:04:15,800 --> 00:04:20,525
+Properties of Intrauterine Devices # Contraceptive Action.
+
+35
+00:04:20,525 --> 00:04:28,087
+The contraceptive mechanism of IUDs is not precisely defined, but prevention of fertilization is now favored.
+
+36
+00:04:28,087 --> 00:04:36,112
+Within the uterus, an intense local endometrial inflammatory response is induced, especially by the Cu-IUD.
+
+37
+00:04:36,112 --> 00:04:42,837
+Inflammatory fluid fills the uterine cavity and fallopian tubes to decrease sperm and egg viability .
+
+38
+00:04:42,837 --> 00:04:45,287
+Also, in the unlikely
+
+39
+00:04:45,436 --> 00:04:52,298
+event that fertilization does occur, the same inflammatory actions are directed against the blastocyst.
+
+40
+00:04:52,248 --> 00:05:07,161
+With the LNG-IUS, progestin release atrophies the endometrium to hinder normal implantation and creates scant viscous cervical mucus to obstruct sperm motility (Apter, 2014; Silverberg, 1986).
+
+41
+00:05:07,161 --> 00:05:16,261
+The above effects are considered primary because ovulation inhibition is inconsistent with the LNG-IUS and lacking with the Cu-IUD .
+
+42
+00:05:16,261 --> 00:05:19,611
+# Method-specific Adverse Effects.
+
+43
+00:05:19,611 --> 00:05:28,186
+Ectopic Pregnancy In the past, IUDs were perceived to increase the risk of ectopic pregnancy, but this has since been clarified.
+
+44
+00:05:28,186 --> 00:05:38,411
+Specifically, IUDs provide effective contraception and lower the absolute number of ectopic pregnancies by half compared with the rate in noncontracepting women .
+
+45
+00:05:38,411 --> 00:05:45,161
+But, the IUD mechanisms of action are more effective in preventing intrauterine implantation.
+
+46
+00:05:45,161 --> 00:05:55,073
+Thus, if an IUD fails, a higher proportion of pregnancies are likely to be ectopic (Furlong, 2002; Teal, 2019).
+
+47
+00:05:55,073 --> 00:06:00,848
+Lost Device Expulsion of an IUD from the uterus is most common during the first month.
+
+48
+00:06:00,848 --> 00:06:11,348
+Thus, women are examined approximately 4 to 6 weeks following IUD insertion, usually after menses, to identify the tails trailing from the cervix.
+
+49
+00:06:11,348 --> 00:06:16,923
+Following this, a woman is instructed to palpate the strings each month after menses.
+
+50
+00:06:16,923 --> 00:06:29,548
+Regardless of IUD type, the cumulative 3-year expulsion rate approximates 10 percent following nonpuerperal insertion (Madden, 2014; Simonatto, 2016).
+
+51
+00:06:29,548 --> 00:06:38,323
+If the tail of an IUD cannot be visualized, the device may have been expelled, may have perforated the uterus, or may be malpositioned.
+
+52
+00:06:38,323 --> 00:06:46,223
+Alternatively, the device may be normally positioned with its tail folded within the endocervical canal or uterine cavity.
+
+53
+00:06:46,223 --> 00:06:56,911
+To investigate, after excluding pregnancy, a cytological brush can be twirled within the endocervical canal to entangle the strings and bring them gently into the vagina.
+
+54
+00:06:56,911 --> 00:07:06,236
+If unsuccessful, the uterine cavity is probed gently with a Randall stone clamp or with a specialized rod with a terminal hook to retrieve the strings.
+
+55
+00:07:06,236 --> 00:07:10,648
+One should not assume that a device has been expelled unless it was seen.
+
+56
+00:07:10,648 --> 00:07:23,086
+Thus, if tails are not visible and the device is not felt by gentle probing of the uterine cavity, transvaginal sonography (TVS) can be used to ascertain if the device lies within the uterus.
+
+57
+00:07:23,086 --> 00:07:31,786
+Although traditional TVS will document IUD position adequately in most cases, three-dimensional TVS offers improved views .
+
+58
+00:07:31,786 --> 00:07:39,136
+If sonography is inconclusive or if no device is seen, a plain radiograph of the abdominopelvis is taken.
+
+59
+00:07:39,136 --> 00:07:49,148
+Computed tomography (CT) scanning or magnetic resonance (MR) imaging is an alternative depending on coexisting pregnancy and study access.
+
+60
+00:07:49,148 --> 00:07:54,623
+MR imaging at 1.5 or 3 Tesla with an IUD in place is safe .
+
+61
+00:07:54,623 --> 00:08:06,723
+Perforation During sounding or IUD insertion, the uterus may be perforated, which is identified by the tool traveling farther than expected based on initial bimanual uterine examination.
+
+62
+00:08:06,723 --> 00:08:18,236
+Rates approximate 1 case per 1000 insertions, and risks include puerperal insertion and breastfeeding (Barnett, 2017; Kaislasuo, 2012).
+
+63
+00:08:18,236 --> 00:08:27,286
+With acute perforation, the fundus is the more common site, and bleeding is often minimal due to myometrial contraction around the puncture site.
+
+64
+00:08:27,286 --> 00:08:34,936
+If no brisk bleeding is noted from the os following removal of the wounding tool, patient observation alone is reasonable.
+
+65
+00:08:34,936 --> 00:08:44,398
+Rarely, lateral perforations may lacerate the uterine artery, and subsequent heavy bleeding prompts laparoscopy or laparotomy for control.
+
+66
+00:08:44,398 --> 00:08:50,123
+With occult perforation, a device can penetrate the myometrium to varying degrees.
+
+67
+00:08:50,123 --> 00:08:58,436
+Abdominal pain, uterine bleeding, or missing strings are clues, and imaging described in the last section is a primary step .
+
+68
+00:08:58,436 --> 00:09:04,848
+A device with an arm partially embedded can sometimes be removed transcervically with steady traction.
+
+69
+00:09:04,848 --> 00:09:11,548
+Otherwise, IUDs with a mainly intrauterine location are usually removed hysteroscopically.
+
+70
+00:09:11,548 --> 00:09:18,473
+Devices that have nearly or completely perforated through the uterine wall are more easily extracted laparoscopically.
+
+71
+00:09:18,473 --> 00:09:26,911
+Devices often embed on posterior cul-de-sac structures and omentum, but bowel and bladder perforations are possible (Şengül,
+
+72
+00:09:27,076 --> 00:09:31,076
+2014; Zeino, 2011).
+
+73
+00:09:31,026 --> 00:09:36,913
+Menstrual Changes Dysmenorrhea and irregular bleeding can complicate IUD use.
+
+74
+00:09:36,913 --> 00:09:47,063
+These can be treated with some degree of success by nonsteroidal antiinflammatory drugs (NSAIDs) or tranexamic acid, which is an antifibrinolytic .
+
+75
+00:09:47,063 --> 00:09:57,076
+Of IUD types, heavy bleeding more often complicates Cu-IUD use and may cause iron-deficiency anemia, for which oral iron salts are given.
+
+76
+00:09:57,076 --> 00:10:11,138
+With the LNG-IUS, irregular spotting for up to 6 months after placement often gives way to progressive amenorrhea, which is reported by approximately 10 percent of women after year 1 and 35 percent after 3 years .
+
+77
+00:10:11,138 --> 00:10:15,263
+This is frequently associated with improved dysmenorrhea.
+
+78
+00:10:15,263 --> 00:10:27,638
+Infection The risk of upper genital tract device-related infection is greatest during the first 3 weeks following IUD insertion (Farley, 1992; Turok, 2016).
+
+79
+00:10:27,638 --> 00:10:33,638
+Pathogens include Neisseria gonorrhoeae, Chlamydia trachomatis, and vaginal flora.
+
+80
+00:10:33,638 --> 00:10:42,051
+Women at risk for sexually transmitted diseases (STDs) should be screened either before or at the time of IUD insertion .
+
+81
+00:10:42,051 --> 00:10:49,788
+That said, device insertion need not be delayed while awaiting STD or Pap test results in asymptomatic women .
+
+82
+00:10:49,788 --> 00:10:56,413
+If these bacteria are subsequently found, the IUD may remain and treatment may be prescribed.
+
+83
+00:10:56,413 --> 00:11:01,713
+Routine antimicrobial prophylaxis before insertion is not recommended .
+
+84
+00:11:01,713 --> 00:11:06,576
+Bacterial endocarditis prophylaxis is not needed with insertion .
+
+85
+00:11:06,576 --> 00:11:21,076
+After the first month, infection risk is not elevated in IUD users who would otherwise be at low risk of STDs. Correspondingly, IUDs cause little, if any, increase in infertility rates in these low-risk patients .
+
+86
+00:11:21,076 --> 00:11:33,776
+The American College of Obstetricians and Gynecologists (2020a) recommends that women at low risk for STDs, including adolescents, be considered good candidates for IUDs.
+
+87
+00:11:33,776 --> 00:11:43,101
+The IUD is also safe and effective in women with immunosuppression, including human immunodeficiency virus (HIV) infection .
+
+88
+00:11:43,101 --> 00:11:48,576
+Moreover, IUD use does not appear to raise HIV acquisition rates .
+
+89
+00:11:48,576 --> 00:11:55,776
+If infection does develop, it may take several forms and typically requires broad-spectrum antibiotics.
+
+90
+00:11:55,776 --> 00:12:02,013
+Pelvic inflammatory disease (PID) without abscess is treated with antibiotics.
+
+91
+00:12:02,013 --> 00:12:08,751
+There are theoretical concerns that a coexistent IUD may worsen the infection or delay resolution.
+
+92
+00:12:08,751 --> 00:12:23,013
+A provider may choose to remove an IUD in this setting, although growing evidence supports allowing device retention during treatment in those with mild or moderate PID (Curtis, 2016a; Tepper, 2013).
+
+93
+00:12:23,013 --> 00:12:29,738
+If infection fails to improve during 48 to 72 hours of treatment, the device is removed.
+
+94
+00:12:29,738 --> 00:12:38,613
+Tuboovarian abscess can complicate PID and is treated aggressively with intravenous broad-spectrum antibiotics and IUD removal.
+
+95
+00:12:38,613 --> 00:12:44,538
+Last, septic abortion mandates immediate uterine evacuation and antibiotics.
+
+96
+00:12:44,538 --> 00:12:51,851
+Actinomyces israelii is a gram-positive, slow-growing, anaerobic, indigenous vaginal bacterium.
+
+97
+00:12:51,851 --> 00:13:01,676
+It is frequently identified in the vaginal flora or on the Pap smears of IUD users (Curtis, 1981; Kim, 2014).
+
+98
+00:13:01,676 --> 00:13:12,376
+If found, an asymptomatic woman may retain her IUD and does not require antibiotics (Lippes, 1999; Westhoff, 2007a).
+
+99
+00:13:12,376 --> 00:13:21,851
+However, with infection in a woman who harbors Actinomyces species, the device is removed and antibiotics with gram-positive coverage are given.
+
+100
+00:13:21,851 --> 00:13:29,826
+Early findings with infection include fever, weight loss, abdominal pain, and abnormal uterine bleeding or discharge.
+
+101
+00:13:29,826 --> 00:13:38,963
+Pregnancy with an IUD For women who become pregnant despite an IUD, ectopic pregnancy and pelvic infection each must be excluded.
+
+102
+00:13:38,963 --> 00:13:47,038
+Pregnant women with a retained IUD and infection are treated with broad-spectrum antibiotics and prompt uterine evacuation.
+
+103
+00:13:47,038 --> 00:13:56,276
+For those with intrauterine pregnancy without infection, the IUD tail can be grasped, and the IUD removed by gentle outward traction.
+
+104
+00:13:56,276 --> 00:14:02,676
+This action reduces rates of subsequent abortion, chorioamnionitis, and preterm birth .
+
+105
+00:14:02,676 --> 00:14:12,151
+Specifically, in one cohort, a 54-percent abortion rate and 17-percent preterm delivery rate was noted if the device remained in situ.
+
+106
+00:14:12,151 --> 00:14:20,113
+More favorably, rates of 25 percent and 4 percent, respectively, resulted from prompt Cu-IUD removal .
+
+107
+00:14:20,113 --> 00:14:26,301
+Few data guide management with the LNG-IUS, and most practice extrapolates from
+
+108
+00:14:26,452 --> 00:14:28,439
+copper devices.
+
+109
+00:14:28,389 --> 00:14:34,314
+If the tail is not visible, attempts to locate and remove the device may result in abortion.
+
+110
+00:14:34,314 --> 00:14:47,527
+Some case reports and small series describe sonography or hysteroscopy to assist difficult device removals, but this is not our practice (Pérez-Medina, 2014; Schiesser, 2004).
+
+111
+00:14:47,527 --> 00:14:55,727
+In women who give birth with a device in place, appropriate steps should be taken at delivery to identify and remove the IUD.
+
+112
+00:14:55,727 --> 00:14:58,989
+# Intrauterine Device Insertion.
+
+113
+00:14:58,989 --> 00:15:03,677
+Timing Before insertion, IUD contraindications are sought .
+
+114
+00:15:03,677 --> 00:15:07,477
+Candidates are counseled, and written consent obtained.
+
+115
+00:15:07,477 --> 00:15:09,977
+Table 38-3.
+
+116
+00:15:09,977 --> 00:15:20,464
+Contraindications to IUD Use To reduce expulsion rates, IUD insertion traditionally has followed complete uterine involution and is termed interval placement.
+
+117
+00:15:20,464 --> 00:15:33,577
+Instead, immediately following miscarriage, surgical abortion, or delivery, an IUD may be inserted in the absence of overt infection (Roe, 2019; Whitaker, 2018).
+
+118
+00:15:33,577 --> 00:15:44,164
+Also, early insertion 1 week after mifepristone and completed medical abortion has been described (Sääv, 2012; Shimoni, 2011).
+
+119
+00:15:44,164 --> 00:15:53,889
+Compared with interval insertion, the IUD expulsion rate is slightly higher with immediate placement, defined as the first 10 minutes after placenta delivery.
+
+120
+00:15:53,889 --> 00:16:00,814
+The highest rates are with early placement, defined as later than 10 minutes but within the first month postpartum .
+
+121
+00:16:00,814 --> 00:16:07,677
+The higher US MEC scores seen in Table 38-4 reflect these early-placement expulsion risks.
+
+122
+00:16:07,677 --> 00:16:23,502
+However, the number of women in immediate-placement groups who ultimately receive and retain an IUD is greater than in groups scheduled for interval placement, because some fail to return for insertion (Bednarek, 2011; Chen, 2010).
+
+123
+00:16:23,502 --> 00:16:26,077
+Table 38-4.
+
+124
+00:16:26,077 --> 00:16:39,477
+U.S. Medical Eligibility Criteria Category of Contraceptive Methods Related to Breastfeeding and Time After Delivery Postpregnancy Insertion Techniques With immediate insertion, techniques depend on uterine size.
+
+125
+00:16:39,477 --> 00:16:46,902
+After firsttrimester evacuation, the IUD can be placed using the manufacturer’s standard instructions.
+
+126
+00:16:46,902 --> 00:16:53,939
+If the uterine cavity is larger, the IUD can be placed using ring forceps with sonographic guidance .
+
+127
+00:16:53,939 --> 00:17:03,227
+Immediately following vaginal or cesarean delivery, an IUD can be placed by a hand, by its inserter tube, or by ring forceps .
+
+128
+00:17:03,227 --> 00:17:08,789
+The arms of the IUD need not be folded into the inserter tube prior to insertion.
+
+129
+00:17:08,789 --> 00:17:17,839
+During cesarean delivery placement, the hand or inserter travels through the unsutured hysterotomy opening to deposit the device at the fundus .
+
+130
+00:17:17,839 --> 00:17:24,602
+A second hand cupping the outer fundus can provide back pressure and stabilize the uterus during insertion.
+
+131
+00:17:24,602 --> 00:17:28,727
+Strings are gently directed but not pulled toward the cervix.
+
+132
+00:17:28,727 --> 00:17:31,252
+Figure 38-1.
+
+133
+00:17:31,252 --> 00:17:36,564
+A. Intrauterine device (IUD) insertion at cesarean delivery.
+
+134
+00:17:36,564 --> 00:17:40,689
+The device inserter guides the device to the uterine fundus.
+
+135
+00:17:40,689 --> 00:17:46,302
+A hand at the fundus can provide back pressure to stabilize the uterus during insertion.
+
+136
+00:17:46,302 --> 00:17:49,989
+B. IUD insertion after vaginal delivery.
+
+137
+00:17:49,989 --> 00:17:53,927
+Ring forceps direct the device to the uterine fundus.
+
+138
+00:17:53,927 --> 00:17:59,102
+Back pressure against the fundus by an abdominal hand can help guide positioning.
+
+139
+00:17:59,102 --> 00:18:05,277
+Reproduced with permission from Stuart GS, Hoffman BL: Puerperal sterilization.
+
+140
+00:18:05,277 --> 00:18:14,589
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+141
+00:18:14,589 --> 00:18:18,514
+New York, McGraw Hill; 2017.
+
+142
+00:18:18,514 --> 00:18:29,202
+For instrumented insertion following vaginal delivery, the clinician resterilizes the vulva and changes gloves after placental delivery but before perineal repairs.
+
+143
+00:18:29,202 --> 00:18:33,789
+The anterior lip of the floppy cervix is held with ring forceps.
+
+144
+00:18:33,789 --> 00:18:41,977
+A second ring forceps gently grasps the IUD stem, guides it up into the uterine cavity, and deposits it at the fundus.
+
+145
+00:18:41,977 --> 00:18:47,614
+During forceps removal, the jaws remain open to avoid ensnaring the strings.
+
+146
+00:18:47,614 --> 00:18:55,514
+For manual insertion following vaginal delivery, the provider holds the IUD between fingers to deposit the device.
+
+147
+00:18:55,514 --> 00:19:01,802
+In either case, back pressure against the fundus by an abdominal hand can guide fundal positioning .
+
+148
+00:19:01,802 --> 00:19:16,039
+Interval Insertion Technique For placement not related to pregnancy, insertion near the end of normal menstruation, when the cervix is usually softer and somewhat more dilated, may be easier and also helps exclude early pregnancy.
+
+149
+00:19:16,039 --> 00:19:18,127
+However, for the
+
+150
+00:19:18,292 --> 00:19:24,729
+woman who is sure she is not pregnant and does not want to be pregnant, insertion is done at any time.
+
+151
+00:19:24,679 --> 00:19:36,342
+To ease insertional pain, applying lidocaine-prilocaine cream locally or placing paracervical blockade can be helpful (Akers, 2017; Samy, 2019).
+
+152
+00:19:36,342 --> 00:19:41,379
+Bimanual pelvic examination delineates uterine position and size.
+
+153
+00:19:41,379 --> 00:19:46,354
+Abnormalities are evaluated, as they may contraindicate insertion.
+
+154
+00:19:46,354 --> 00:19:54,054
+Mucopurulent cervicitis or significant vaginitis is appropriately treated and resolved before IUD insertion.
+
+155
+00:19:54,054 --> 00:20:00,092
+The ectocervix is cleansed with an antiseptic solution, and sterile instruments are used.
+
+156
+00:20:00,092 --> 00:20:08,854
+A tenaculum is placed on the cervical lip, and the endocervical canal and uterine cavity are straightened by applying gentle outward traction.
+
+157
+00:20:08,854 --> 00:20:14,167
+A uterine sound is guided into the cavity to identify its direction and depth.
+
+158
+00:20:14,167 --> 00:20:21,779
+Specific steps of Cu-IUD and LNG-IUS insertions are outlined in their respective package inserts.
+
+159
+00:20:21,779 --> 00:20:26,954
+Following insertion, only the threads should be visible trailing from the cervix.
+
+160
+00:20:26,954 --> 00:20:33,554
+These are trimmed to allow 3 to 4 cm to protrude into the vagina, and their length is recorded.
+
+161
+00:20:33,554 --> 00:20:37,604
+An oral NSAID can be used for cramping after insertion .
+
+162
+00:20:37,604 --> 00:20:44,717
+If improper device positioning is suspected, placement should be confirmed, using sonography if necessary.
+
+163
+00:20:44,717 --> 00:20:51,554
+If the IUD is not positioned completely within the uterus, it is removed and replaced with a new device.
+
+164
+00:20:51,554 --> 00:20:56,029
+An expelled or partially expelled device should not be reinserted.
+
+165
+00:20:56,029 --> 00:20:58,842
+Progestin-Only Contraceptives.
+
+166
+00:20:58,842 --> 00:21:01,842
+# Actions and Side Effects.
+
+167
+00:21:01,842 --> 00:21:07,329
+Progestin-only contraceptives include implants, injectables, and pills.
+
+168
+00:21:07,329 --> 00:21:19,792
+These suppress luteinizing hormone (LH) to block ovulation, cervical mucus thickens to retard sperm passage, and atrophy renders the endometrium unfavorable for implantation.
+
+169
+00:21:19,792 --> 00:21:26,017
+Fertility is restored rapidly following cessation except for DMPA, described later .
+
+170
+00:21:26,017 --> 00:21:35,954
+After placenta delivery, progesterone withdrawal may contribute to lactogenesis, and early progestin use theoretically could hinder breastmilk establishment.
+
+171
+00:21:35,954 --> 00:21:49,054
+Although studies support the safety of early puerperal use of progestins, this theoretical risk is still reflected in their higher US MEC score (Carmo, 2017; Phillips, 2016).
+
+172
+00:21:49,054 --> 00:21:56,917
+For all progestin-only methods, irregular uterine bleeding is the most frequent adverse event prompting discontinuation.
+
+173
+00:21:56,917 --> 00:22:00,579
+Often, counseling and reassurance is sufficient.
+
+174
+00:22:00,579 --> 00:22:09,504
+In others, troublesome bleeding may be improved by combining the progestin method with a 2-week course of estrogen or with a short course of NSAIDs .
+
+175
+00:22:09,504 --> 00:22:15,117
+A few cycles of COCs combined with DMPA or an implant is another option.
+
+176
+00:22:15,117 --> 00:22:22,679
+Fortunately, with prolonged use, progestins induce endometrial atrophy, which can lead to sustained amenorrhea.
+
+177
+00:22:22,679 --> 00:22:26,617
+For the informed patient, this is often an advantage.
+
+178
+00:22:26,617 --> 00:22:30,379
+Iron-deficiency anemia is also less likely.
+
+179
+00:22:30,379 --> 00:22:42,242
+Most progestin-only contraceptive methods do not significantly affect lipid metabolism, glucose levels, hemostatic factors, liver function, thyroid function, or blood pressure .
+
+180
+00:22:42,242 --> 00:22:57,129
+However, the increased lowdensity lipoprotein (LDL) cholesterol and decreased high-density lipoprotein (HDL) cholesterol levels seen with DMPA are less desirable for women with cardiovascular disease risks .
+
+181
+00:22:57,129 --> 00:23:12,542
+Risks for genital tract, liver, or breast neoplasia are not increased with progestin-only methods (Samson, 2016; Wilailak, 2012; World Health Organization, 1991a,b, 1992).
+
+182
+00:23:12,542 --> 00:23:23,754
+Weight gain and bone fracture are not prominent side effects of this contraceptive group, except for DMPA, discussed later (Lopez, 2012, 2013).
+
+183
+00:23:23,754 --> 00:23:32,354
+Functional ovarian cysts are seen more often in women using progestin-only agents, although intervention is not usually required .
+
+184
+00:23:32,354 --> 00:23:41,542
+Last, concern for a higher depression rate is not supported by recent studies (Skovlund, 2016; Worly, 2018).
+
+185
+00:23:41,542 --> 00:23:44,879
+# Progestin Contraindications.
+
+186
+00:23:44,879 --> 00:23:54,629
+Current pregnancy, breast cancer, acute liver disease, liver tumors, and undiagnosed abnormal genital bleeding are absolute contraindications.
+
+187
+00:23:54,629 --> 00:24:06,504
+For Nexplanon and DMPA, their manufacturers also add current or past history of thromboembolic disorders (Merck, 2019; Pfizer, 2017).
+
+188
+00:24:06,504 --> 00:24:13,742
+However, for women with these disorders, the US MEC considers progestin-containing methods category 2 .
+
+189
+00:24:13,900 --> 00:24:16,712
+# Progestin Implants.
+
+190
+00:24:16,662 --> 00:24:25,625
+These thin, pliable, progestin-containing cylinders can be implanted in the upper arm to release contraceptive hormone over several years.
+
+191
+00:24:25,625 --> 00:24:34,575
+Implants are an effective, top-tier method (Mommers, 2012; Sivin, 1998; Steiner, 2010).
+
+192
+00:24:34,575 --> 00:24:40,850
+These systems are placed subdermally on the inner arm approximately 8 cm from the elbow.
+
+193
+00:24:40,850 --> 00:24:46,900
+Implants vary in their insertion technique, and manufacturer instructions should be consulted.
+
+194
+00:24:46,900 --> 00:24:54,125
+After their expiration date, implants are removed, and may be replaced at the same site or in the opposite arm.
+
+195
+00:24:54,125 --> 00:25:02,500
+Nexplanon is a single-rod etonogestrel implant that releases at least 30 µg of hormone daily and may be used for 3 years.
+
+196
+00:25:02,500 --> 00:25:07,900
+The inserter design assists with subdermal positioning and averting deeper placement.
+
+197
+00:25:07,900 --> 00:25:17,187
+Nexplanon replaced Implanon, which is still approved by the Food and Drug Administration (FDA) but no longer distributed by the manufacturer.
+
+198
+00:25:17,187 --> 00:25:29,375
+Levonorgestrel implants are two-rod systems available outside the United States and contain a total LNG dose of 150 mg. Jadelle provides contraception for 5 years.
+
+199
+00:25:29,375 --> 00:25:33,900
+It is approved by the FDA but not marketed in the United States.
+
+200
+00:25:33,900 --> 00:25:38,000
+Sino-implant II provides 3 years of contraception .
+
+201
+00:25:38,000 --> 00:25:46,562
+Method-specific Adverse Effects In addition to the hormonal side effects listed earlier, the implants themselves can cause adverse events.
+
+202
+00:25:46,562 --> 00:25:56,725
+These complicate approximately 1 percent of implant insertions and 5 percent of removals (Creinin, 2017; Reed, 2019).
+
+203
+00:25:56,725 --> 00:26:08,537
+Of serious events, branches of the medial antebrachial cutaneous nerve and median nerve can be injured during an implant insertion that is too deep or during exploration for implant removal .
+
+204
+00:26:08,537 --> 00:26:17,762
+Thus, implants found deep in muscle or near neurovascular structures are best removed by surgeons with a clear understanding of upper arm anatomy .
+
+205
+00:26:17,762 --> 00:26:24,737
+Nonpalpable devices are not uncommon and require imaging for localization prior to attempted removal.
+
+206
+00:26:24,737 --> 00:26:29,950
+Nexplanon is radiopaque and can be imaged by two-dimensional x-ray views.
+
+207
+00:26:29,950 --> 00:26:42,825
+Implanon is not radiopaque, and sonography using a 10- to 15-MHz linear array transducer or MR imaging is needed (Correia, 2012; Shulman, 2006).
+
+208
+00:26:42,825 --> 00:26:47,425
+Rarely, an implant can migrate to distant sites such as the lung .
+
+209
+00:26:47,425 --> 00:26:55,362
+If imaging fails to locate an implant, etonogestrel blood levels can help verify that the implant is indeed in situ.
+
+210
+00:26:55,362 --> 00:27:02,912
+This assay must be coordinated with the manufacturer (877-8884231).
+
+211
+00:27:02,912 --> 00:27:09,637
+Implant Insertion The etonogestrel implant is ideally inserted within 5 days of menses onset.
+
+212
+00:27:09,637 --> 00:27:18,725
+With LNG-releasing implants, contraception is established within 24 hours if inserted within the first 7 days of the menstrual cycle.
+
+213
+00:27:18,725 --> 00:27:30,650
+For transitioning methods, an implant is placed on the day of the first placebo COC pill; on the day that the next DMPA injection would be due; or within 24 hours of the last POP .
+
+214
+00:27:30,650 --> 00:27:40,112
+In women certain that they are not pregnant, insertion at other times of the cycle is followed by an additional method that serves as a back-up method for 7 days.
+
+215
+00:27:40,112 --> 00:27:49,837
+Postabortion or postpartum, an implant may be inserted before discharge home (Madden, 2012; Sothornwit, 2017).
+
+216
+00:27:49,837 --> 00:27:58,062
+For insertion, the supine patient positions her nondominant arm against the bed so that the arm is abducted and the elbow is flexed.
+
+217
+00:27:58,062 --> 00:28:10,337
+With a sterile pen, the insertion site is marked 8 to 10 cm proximal to the humerus’ medial condyle and 3 to 5 cm posterior to the groove between biceps and triceps muscles .
+
+218
+00:28:10,337 --> 00:28:18,575
+A second mark is placed 4 cm proximal to the first and serves as a guide for the insertion path along the arm’s long axis.
+
+219
+00:28:18,575 --> 00:28:22,362
+The Nexplanon is inserted using sterile technique.
+
+220
+00:28:22,362 --> 00:28:31,200
+The area is cleansed aseptically, and a 1-percent lidocaine anesthetic track is injected beneath the skin along the planned insertion path.
+
+221
+00:28:31,200 --> 00:28:35,487
+The implant is then placed as shown in Figure 38-2.
+
+222
+00:28:35,487 --> 00:28:42,912
+After placement, both patient and provider should palpate and identify both ends of the 4-cm implant.
+
+223
+00:28:42,912 --> 00:28:49,687
+To minimize bruising at the site, a pressure bandage is created around the arm and is removed the following day.
+
+224
+00:28:49,687 --> 00:28:52,162
+Figure 38-2.
+
+225
+00:28:52,162 --> 00:28:54,525
+Nexplanon insertion.
+
+226
+00:28:54,525 --> 00:29:01,875
+A sterile pen marks the insertion site, which is 8 to 10 cm proximal to the medial humeral condyle.
+
+227
+00:29:01,875 --> 00:29:05,125
+A second mark is placed 4 cm
+
+228
+00:29:05,284 --> 00:29:08,609
+proximally along the arm’s long axis.
+
+229
+00:29:08,559 --> 00:29:16,584
+The area is cleaned aseptically, and a 1-percent lidocaine anesthetic track is injected along the planned insertion path.
+
+230
+00:29:16,584 --> 00:29:24,084
+A. The insertion device is grasped at its gripper bubbles found on either side, and the needle cap is removed outward.
+
+231
+00:29:24,084 --> 00:29:27,259
+The device can be seen within the needle bore.
+
+232
+00:29:27,259 --> 00:29:31,396
+The needle bevel then pierces the skin at a 30-degree angle.
+
+233
+00:29:31,396 --> 00:29:38,359
+B. Once the complete bevel is subcutaneous, the needle is quickly angled downward to lie horizontally.
+
+234
+00:29:38,359 --> 00:29:46,346
+C. Importantly, the skin is tented upward by the needle as the needle is slowly advanced horizontally and subdermally.
+
+235
+00:29:46,346 --> 00:29:53,684
+D. Once the needle is completely inserted, the lever on the top of the device is pulled backward toward the operator.
+
+236
+00:29:53,684 --> 00:29:57,821
+This retracts the needle and thereby deposits the implant.
+
+237
+00:29:57,821 --> 00:30:01,034
+The device is then lifted away from the skin.
+
+238
+00:30:01,034 --> 00:30:06,959
+After placement, both patient and operator should palpate the 4-cm implant.
+
+239
+00:30:06,959 --> 00:30:12,271
+With implant extraction, the removal site is first cleansed with antiseptic.
+
+240
+00:30:12,271 --> 00:30:18,896
+The proximal end of the implant is depressed with a finger to allow the distal end to lift up toward the skin.
+
+241
+00:30:18,896 --> 00:30:27,284
+After anesthetizing the skin over this bulge, the skin is incised 2 mm toward the elbow along the arm’s long axis.
+
+242
+00:30:27,284 --> 00:30:31,496
+The implant’s proximal butt is then pushed toward this incision.
+
+243
+00:30:31,496 --> 00:30:36,946
+Once visible, the implant’s distal end is grasped with a hemostat and removed.
+
+244
+00:30:36,946 --> 00:30:43,321
+Superficial adhesions surrounding an implant are common and are dissected away with hemostat tips.
+
+245
+00:30:43,321 --> 00:30:47,059
+# Injectable Progestin Contraceptives.
+
+246
+00:30:47,059 --> 00:31:00,646
+DMPA, 150 mg every 3 months, and norethisterone enanthate, 200 mg every 2 months, are two intramuscular injectable progestin-only contraceptives used worldwide.
+
+247
+00:31:00,646 --> 00:31:06,559
+Of the two, DMPA is available in the United States and marketed as Depo-Provera.
+
+248
+00:31:06,559 --> 00:31:14,521
+DMPA is injected into the deltoid or gluteus muscle, but massage is avoided to ensure that the drug is released slowly.
+
+249
+00:31:14,521 --> 00:31:25,021
+A subcutaneous version, depo-subQ provera 104, is injected into the subcutaneous tissue of the anterior thigh or abdomen every 3 months.
+
+250
+00:31:25,021 --> 00:31:27,884
+This form may be self-administered .
+
+251
+00:31:27,884 --> 00:31:33,046
+Initial injection is given within the first 5 days following menses onset.
+
+252
+00:31:33,046 --> 00:31:38,171
+Serum levels sufficient for contraception are present by 24 hours.
+
+253
+00:31:38,171 --> 00:31:44,146
+Thus, no additional contraceptive method is required for initiation within this window.
+
+254
+00:31:44,146 --> 00:31:50,396
+Limited data support a quick start, or initiation of DMPA regardless of cycle day.
+
+255
+00:31:50,396 --> 00:32:06,821
+If so implemented, investigators recommend an initial negative pregnancy test result before injection, a supplemental contraceptive method during the 7 days following injection, and a second pregnancy test after 3 to 6 weeks to identify an early pregnancy .
+
+256
+00:32:06,821 --> 00:32:11,821
+Conceptions during DMPA use do not have higher fetal anomaly rates .
+
+257
+00:32:11,821 --> 00:32:21,496
+Method-specific Adverse Effects Unique to DMPA, prolonged anovulation can follow discontinuation and results in delayed fertility resumption .
+
+258
+00:32:21,496 --> 00:32:28,159
+After injections are stopped, a fourth of patients do not resume regular menses for up to 1 year .
+
+259
+00:32:28,159 --> 00:32:35,646
+Thus, DMPA may be less ideal for women who plan to use birth control only briefly before attempting conception.
+
+260
+00:32:35,646 --> 00:32:43,559
+As with other progestins, DMPA is not associated with cardiovascular events or stroke in otherwise healthy women.
+
+261
+00:32:43,559 --> 00:32:50,384
+However, in those with severe hypertension, a higher risk of stroke has been found in DMPA users .
+
+262
+00:32:50,384 --> 00:33:02,146
+The US MEC authors express concerns regarding DMPA’s hypoestrogenic effects and reduced HDL levels for women with vascular disease or multiple cardiovascular disease risks .
+
+263
+00:33:02,146 --> 00:33:08,959
+Weight gain is generally attributed to DMPA, and ranges from 1 to 3 kg in the first year .
+
+264
+00:33:08,959 --> 00:33:17,796
+In long-term users, bone density loss is also greater than in nonusers (Petitti, 2000; Scholes, 1999).
+
+265
+00:33:17,796 --> 00:33:26,671
+It is somewhat reassuring that bone loss appears to slowly reverse after cessation (Clark, 2006; Scholes, 2002).
+
+266
+00:33:26,671 --> 00:33:43,034
+In 2004, the FDA added a black box warning to DMPA labeling, which notes that this concern is probably most relevant for adolescents, who are building bone mass, and perimenopausal women, who will soon have increased bone loss during menopause.
+
+267
+00:33:43,034 --> 00:33:47,921
+Despite this, DMPA should not be restricted in those high-risk groups .
+
+268
+00:33:47,921 --> 00:33:50,821
+# Progestin-only Pills.
+
+269
+00:33:50,821 --> 00:33:53,121
+Also called mini-pills,
+
+270
+00:33:53,284 --> 00:33:59,521
+this group contains norethindrone-only, desogestrelonly, and drospirenone-only pills.
+
+271
+00:33:59,471 --> 00:34:07,809
+Of these, each norethindrone-only pill provides 0.35 mg of hormone and is taken daily and continuously.
+
+272
+00:34:07,809 --> 00:34:12,009
+This specific drug does not reliably inhibit ovulation.
+
+273
+00:34:12,009 --> 00:34:17,059
+Efficacy stems from cervical mucus thickening and endometrial atrophy.
+
+274
+00:34:17,059 --> 00:34:23,196
+Because mucus changes are not sustained, these pills are best taken at the same time each day.
+
+275
+00:34:23,196 --> 00:34:31,646
+If the pill is taken even 3 hours late (missed-pill window), a back-up form of contraception is used for the next 48 hours.
+
+276
+00:34:31,646 --> 00:34:42,684
+In contrast, the drospirenone-only pill marketed as Slynd delivers 4 mg of hormone and is taken for 24 consecutive days out of a 28-day cycle.
+
+277
+00:34:42,684 --> 00:34:48,121
+Progestin withdrawal during the last 4 days aims to minimize irregular bleeding .
+
+278
+00:34:48,121 --> 00:34:55,421
+Both drospirenone and desogestrel pills alter mucus and endometrium plus reliably inhibit ovulation.
+
+279
+00:34:55,421 --> 00:35:01,871
+Slynd offers a 24hour missed-pill window, which mirrors that of COC pills .
+
+280
+00:35:01,871 --> 00:35:05,884
+Drospirenone is structurally similar to spironolactone.
+
+281
+00:35:05,884 --> 00:35:20,159
+It displays antiandrogenic activity, provides an antialdosterone action to minimize water retention, and has antimineralocorticoid properties that may, in theory, cause potassium retention and hyperkalemia .
+
+282
+00:35:20,159 --> 00:35:30,684
+Thus, contraindications are renal or adrenal insufficiency in addition to traditional progestin contraindications, listed earlier (p. 669).
+
+283
+00:35:30,684 --> 00:35:39,584
+Serum potassium level monitoring is recommended in the first month for patients chronically treated with any drug associated with potassium retention.
+
+284
+00:35:39,584 --> 00:35:52,571
+These include NSAIDs, angiotensin-converting enzyme (ACE) inhibitors, angiotensin II antagonists, heparin, aldosterone antagonists, and potassium-sparing diuretics.
+
+285
+00:35:52,571 --> 00:36:01,209
+Last, desogestrel-only pills contain 0.075 mg of hormone and are used daily and continuously.
+
+286
+00:36:01,209 --> 00:36:04,284
+Its missed-pill window is 12 hours.
+
+287
+00:36:04,284 --> 00:36:07,496
+These are not available in the United States.
+
+288
+00:36:07,496 --> 00:36:10,634
+Combination Hormonal Contraceptives.
+
+289
+00:36:10,634 --> 00:36:13,334
+# Mechanism of Action.
+
+290
+00:36:13,334 --> 00:36:24,496
+The most important contraceptive effect of both the estrogen and progestin components of CHCs is suppression of hypothalamic gonadotropin-releasing factors to inhibit ovulation.
+
+291
+00:36:24,496 --> 00:36:32,796
+The progestin also thickens cervical mucus to retard sperm passage and renders the endometrium unfavorable for implantation.
+
+292
+00:36:32,796 --> 00:36:40,021
+Estrogen stabilizes the endometrium, which prevents intermenstrual bleeding—also known as breakthrough bleeding.
+
+293
+00:36:40,021 --> 00:36:43,146
+This benefit is termed cycle control.
+
+294
+00:36:43,146 --> 00:36:48,459
+The net effect is an extremely effective yet highly reversible contraceptive method.
+
+295
+00:36:48,459 --> 00:36:52,284
+# Combination Oral Contraceptive Pills.
+
+296
+00:36:52,284 --> 00:36:58,196
+Composition COCs are marketed in various estrogen and progestin combinations .
+
+297
+00:36:58,196 --> 00:37:04,521
+Ethinyl estradiol is the most common estrogen present in formulations in the United States.
+
+298
+00:37:04,521 --> 00:37:10,184
+Less frequently, mestranol, estetrol, or estradiol valerate is used.
+
+299
+00:37:10,184 --> 00:37:18,096
+Unwanted effects most often attributed to the estrogen component are breast tenderness, weight gain, nausea, and headache.
+
+300
+00:37:18,096 --> 00:37:20,709
+Table 38-5.
+
+301
+00:37:20,709 --> 00:37:34,046
+Estrogen and Progestins Used in FDA-Approved Combination Oral Contraceptive Pills COCs contain one of several progestins that are structurally related to progesterone, testosterone, or spironolactone.
+
+302
+00:37:34,046 --> 00:37:42,446
+Thus, these progestins bind variably to progesterone, androgen, glucocorticoid, and mineralocorticoid receptors.
+
+303
+00:37:42,446 --> 00:37:49,446
+These affinities explain many pill-related side effects and are often used to compare one progestin with another.
+
+304
+00:37:49,446 --> 00:37:58,534
+However, the advantage of one progestin over another is less apparent clinically (Lawrie, 2011; Moreau, 2007).
+
+305
+00:37:58,534 --> 00:38:05,309
+To minimize adverse effects, estrogen and progestin content in COCs has dropped remarkably.
+
+306
+00:38:05,309 --> 00:38:12,659
+Currently, the lowest acceptable dose is limited by the ability to prevent pregnancy yet maintain cycle control.
+
+307
+00:38:12,659 --> 00:38:22,971
+Thus, the daily estrogen content varies from 10 to 50 μg of ethinyl estradiol, and most contain ≤35 μg.
+
+308
+00:38:22,971 --> 00:38:28,921
+In a few COCs, inert placebo pills have been replaced by tablets containing iron.
+
+309
+00:38:28,921 --> 00:38:32,221
+These have the suffix Fe added to their name.
+
+310
+00:38:32,221 --> 00:38:40,346
+Instead, Beyaz and Sayfral have a form of folate—levomefolate calcium—within both its active and placebo pills.
+
+311
+00:38:40,346 --> 00:38:45,709
+With COCs termed monophasic, the progestin dose remains constant.
+
+312
+00:38:45,709 --> 00:38:51,621
+In others, the dose frequently is varied, and term biphasic, triphasic, or
+
+313
+00:38:51,772 --> 00:38:56,859
+quadriphasic is used depending on the number of dose changes within one cycle.
+
+314
+00:38:56,809 --> 00:39:01,209
+In some formulations, the estrogen dose also varies.
+
+315
+00:39:01,209 --> 00:39:11,984
+In general, phasic pills aim to reduce the total progestin content and associated side effects per cycle without sacrificing contraceptive efficacy or cycle control.
+
+316
+00:39:11,984 --> 00:39:17,534
+The theoretical advantage of this approach, however, has not been borne out clinically .
+
+317
+00:39:17,534 --> 00:39:26,634
+Cycle control also appears similar among mono-, bi-, and triphasic pills (van Vliet, 2011a,b,c).
+
+318
+00:39:26,634 --> 00:39:39,584
+Administration Hormones are taken daily for a specified time (21 to 81 days) and then replaced by placebo for a specified time (4 to 7 days), which is called the pill-free interval.
+
+319
+00:39:39,584 --> 00:39:45,034
+During these pill-free days, bleeding prompted by hormonal withdrawal is expected.
+
+320
+00:39:45,034 --> 00:39:51,209
+With the trend toward lower estrogen doses, follicular growth and ovulation may occur.
+
+321
+00:39:51,209 --> 00:39:57,659
+To counter this, the active-pill duration in some formulations is extended to 24 days.
+
+322
+00:39:57,659 --> 00:40:08,009
+In comparison, these 24/4 regimens perform similarly to 21/7 regimens (Anttila, 2011; Marr, 2012).
+
+323
+00:40:08,009 --> 00:40:14,447
+Longer durations of active hormone are designed to minimize the number of withdrawal bleeding episodes.
+
+324
+00:40:14,447 --> 00:40:20,584
+This practice has similar efficacy and safety profiles compared with traditional administration .
+
+325
+00:40:20,584 --> 00:40:29,709
+These extended-cycle products produce a 13-week cycle, that is, 12 weeks of hormone use, followed by a week for withdrawal menses.
+
+326
+00:40:29,709 --> 00:40:37,309
+Instead, the product Amethyst provides continuous active hormone pills for 365 days each year.
+
+327
+00:40:37,309 --> 00:40:44,747
+These extended-cycle and continuous regimens may be especially suited for women with significant menstrual symptoms .
+
+328
+00:40:44,747 --> 00:40:49,684
+Women ideally begin COCs on the first day of a menstrual cycle.
+
+329
+00:40:49,684 --> 00:40:53,609
+In such cases, a back-up method is unnecessary.
+
+330
+00:40:53,609 --> 00:41:02,797
+With the more traditional “Sunday start,” women begin pills on the first Sunday that follows menses onset, and a back-up method is added for 1 week.
+
+331
+00:41:02,797 --> 00:41:08,859
+If menses begin on a Sunday, pills are begun that day and no back-up method is required.
+
+332
+00:41:08,859 --> 00:41:15,684
+Alternatively, with a quick start, COCs are started on any day, commonly the day prescribed.
+
+333
+00:41:15,684 --> 00:41:18,772
+A back-up method is added for 1 week .
+
+334
+00:41:18,772 --> 00:41:28,247
+If the woman is unknowingly already pregnant, COCs are not teratogenic (Rothman, 1978; Savolainen, 1981).
+
+335
+00:41:28,247 --> 00:41:33,309
+A missed menses after COC initiation should prompt pregnancy testing.
+
+336
+00:41:33,309 --> 00:41:38,934
+Similar initiation methods are used for contraceptive vaginal rings or patches.
+
+337
+00:41:38,934 --> 00:41:44,009
+For maximum efficiency, pills are best taken at the same time each day.
+
+338
+00:41:44,009 --> 00:41:52,834
+If one dose is missed, the missed pill is taken immediately; the scheduled dose for that day is taken on time; and then daily pills are continued.
+
+339
+00:41:52,834 --> 00:42:05,084
+If two or more doses are missed, the most recent missed pill is taken immediately; the scheduled dose for that day is taken on time; and a back-up method is used for 7 days while daily pills are then continued .
+
+340
+00:42:05,084 --> 00:42:12,647
+If withdrawal bleeding fails to occur during the pill-free interval, a woman should continue her pills but exclude pregnancy.
+
+341
+00:42:12,647 --> 00:42:16,922
+With COC initiation, spotting or bleeding is common.
+
+342
+00:42:16,922 --> 00:42:22,784
+It does not reflect contraceptive failure and typically resolves within one to three cycles.
+
+343
+00:42:22,784 --> 00:42:36,147
+If unscheduled bleeding persists, those with bleeding during the first part of a pill pack may benefit from an increase in the estrogen dose, whereas those with bleeding during the second part may improve with a higher progestin dose .
+
+344
+00:42:36,147 --> 00:42:39,147
+# Method-specific Effects.
+
+345
+00:42:39,147 --> 00:42:46,859
+Altered Drug Efficacy Some drugs decrease COC effectiveness, and choosing another contraceptive method is preferable.
+
+346
+00:42:46,859 --> 00:42:53,084
+Most notable are rifampin/rifabutin, but other antibiotics are not implicated .
+
+347
+00:42:53,084 --> 00:43:06,734
+Cytochrome P450–inducing anticonvulsants are another group and include phenytoin, phenobarbital, primidone, carbamazepine, oxcarbazepine, topiramate, rufinamide, and felbamate .
+
+348
+00:43:06,734 --> 00:43:13,922
+Some antiretroviral drugs, mainly among the protease inhibitor group, can interact with COCs.
+
+349
+00:43:13,922 --> 00:43:21,022
+A rapidly evolving list is provided by the U.S. Department of Health and Human Services (2019).
+
+350
+00:43:21,022 --> 00:43:24,447
+In obese women, COCs are effective .
+
+351
+00:43:24,447 --> 00:43:33,609
+With the Ortho Evra transdermal patch, however, obesity may alter pharmacokinetics and lower efficacy (p. 674).
+
+352
+00:43:33,609 --> 00:43:38,584
+On the other hand, some COCs lower the actions of certain drugs.
+
+353
+00:43:38,584 --> 00:43:41,872
+Notably, lamotrigine efficacy is
+
+354
+00:43:42,028 --> 00:43:44,403
+lowered by COCs .
+
+355
+00:43:44,353 --> 00:43:53,990
+Metabolic Changes, Risks, and Benefits The hormones in COCs can induce metabolic changes that may aggravate underlying medical conditions.
+
+356
+00:43:53,990 --> 00:43:59,565
+Most of the contraindications to COCs reflect these metabolic alterations .
+
+357
+00:43:59,565 --> 00:44:02,228
+Table 38-6.
+
+358
+00:44:02,228 --> 00:44:11,040
+Contraindications to the Use of Combination Oral Contraceptive Pills Hepatic angiotensinogen synthesis is augmented by COCs.
+
+359
+00:44:11,040 --> 00:44:17,290
+Its conversion by renin to angiotensin I may be associated with pill-induced hypertension.
+
+360
+00:44:17,290 --> 00:44:25,428
+Thus, patients return 8 to 12 weeks after COC initiation for evaluation of blood pressure and other symptoms.
+
+361
+00:44:25,428 --> 00:44:32,540
+However, women using low-dose COC formulations rarely develop clinically significant hypertension .
+
+362
+00:44:32,540 --> 00:44:48,403
+In women with well-controlled hypertension, COC use is linked to greater risks than in nonusers for stroke, acute myocardial infarction, and peripheral arterial disease, and in these women, COCs are considered US MEC category 3 .
+
+363
+00:44:48,403 --> 00:44:55,215
+Severe forms of hypertension, especially those with end-organ involvement, preclude COC use.
+
+364
+00:44:55,215 --> 00:45:02,190
+The estrogen component of COCs boosts hepatic production of fibrinogen and many of the clotting factors.
+
+365
+00:45:02,190 --> 00:45:08,378
+Deep-vein thrombosis and pulmonary embolism rates are increased in women who use COCs .
+
+366
+00:45:08,378 --> 00:45:19,015
+These events are estrogen-dose related, and rates have substantively declined with lower-dose formulations containing 10 to 35 μg of ethinyl estradiol.
+
+367
+00:45:19,015 --> 00:45:27,340
+The general-population risk of venous thromboembolism (VTE) is 4 to 5 events per 100,000 woman-years.
+
+368
+00:45:27,340 --> 00:45:38,378
+The incidence of VTE with COC use increases three- to fivefold compared with nonusers (Shaw, 2013; van Hylckama Vlieg, 2009).
+
+369
+00:45:38,378 --> 00:45:47,840
+Obesity raises the general VTE risk, which is compounded by COCs (Horton, 2016; Suchon, 2016).
+
+370
+00:45:47,840 --> 00:45:53,778
+Accordingly, in an obese woman, COCs are considered a US MEC category 2.
+
+371
+00:45:53,778 --> 00:46:02,315
+VTE rates are also significantly increased in women smokers older than 35 years, and COCs are not recommended.
+
+372
+00:46:02,315 --> 00:46:06,965
+Those most at risk for VTE include women with thrombophilias .
+
+373
+00:46:06,965 --> 00:46:15,240
+Moreover, COC use during the month before a major operative procedure appears to double the risk for postoperative VTE .
+
+374
+00:46:15,240 --> 00:46:33,565
+Thus, the American College of Obstetricians and Gynecologists (2021) recommends balancing the risks of VTE and the degree of postoperative immobility with the risk of unintended pregnancy during the 4 to 6 weeks required to reverse the thrombogenic effects of COCs before surgery.
+
+375
+00:46:33,565 --> 00:46:40,565
+In the early puerperium, VTE risks are also increased, and COCs are not recommended early .
+
+376
+00:46:40,565 --> 00:46:46,003
+Certain progestins within COC are also linked with greater VTE rates.
+
+377
+00:46:46,003 --> 00:46:52,478
+A slightly higher VTE risk with drospirenone-containing COCs has been shown in two studies.
+
+378
+00:46:52,478 --> 00:47:05,978
+In response, an assessment of benefits and VTE risks in users of these pills has been emphasized (Food and Drug Administration, 2012; Jick, 2011; Parkin, 2011).
+
+379
+00:47:05,978 --> 00:47:16,565
+Desogestrel and gestodene are also implicated and carry similarly elevated risks (Stegeman, 2013; Vinogradova, 2015).
+
+380
+00:47:16,565 --> 00:47:22,165
+For women with prior myocardial infarction, COCs should not be considered.
+
+381
+00:47:22,165 --> 00:47:36,428
+Also, for women with multiple cardiovascular risk factors, which include smoking, hypertension, older age, dyslipidemias, and diabetes, the risk for myocardial infarction outweighs the benefits of this method.
+
+382
+00:47:36,428 --> 00:47:50,603
+For women with no cardiovascular risks, low-dose oral contraceptives are not associated with an increased risk of myocardial infarction (Margolis, 2007; World Health Organization, 1997).
+
+383
+00:47:50,603 --> 00:47:55,153
+For nonsmoking women younger than 35, stroke is rare .
+
+384
+00:47:55,153 --> 00:48:04,053
+COCs are associated with a small increased risk for ischemic stroke (Chan, 2004; Lidegaard, 2012).
+
+385
+00:48:04,053 --> 00:48:19,153
+Rates rise significantly for women who have hypertension, who smoke, or who have migraine headaches with visual aura or other focal neurological changes and use COCs (MacClellan, 2007; Tepper, 2016b).
+
+386
+00:48:19,153 --> 00:48:27,803
+The evidence for stroke risk in migraineurs without aura is less clear (Etminan, 2005; Schürks, 2009).
+
+387
+00:48:27,803 --> 00:48:37,740
+COC initiation may be considered for women with preexisting migraines without aura if they are otherwise healthy, younger, normotensive nonsmokers.
+
+388
+00:48:37,740 --> 00:48:43,653
+For women with prior stroke, COCs should not be considered to avoid repeat events.
+
+389
+00:48:43,653 --> 00:48:49,753
+Regarding carbohydrate metabolism, the risk of developing diabetes is not increased
+
+390
+00:48:49,924 --> 00:48:52,061
+with COC use .
+
+391
+00:48:52,011 --> 00:49:04,186
+For diabetic women, COCs may be used in nonsmokers with disease duration <20 years and without associated vascular disease, nephropathy, retinopathy, or neuropathy .
+
+392
+00:49:04,186 --> 00:49:13,499
+In general, COCs raise serum triglycerides and total and HDL cholesterol levels but lower LDL cholesterol concentrations.
+
+393
+00:49:13,499 --> 00:49:18,849
+Last, studies do not support a connection between COCs and weight gain .
+
+394
+00:49:18,849 --> 00:49:33,061
+Regarding neoplasia, COCs offer a protective effect against ovarian and endometrial cancers (Collaborative Group on Epidemiological Studies of Ovarian Cancer, 2008; Tsilidis, 2011).
+
+395
+00:49:33,061 --> 00:49:43,411
+As an exception, the relative risk of cervical dysplasia and cervical cancer is higher in current COC users, but this declines after use is discontinued.
+
+396
+00:49:43,411 --> 00:49:48,224
+Following 10 or more years, risk returns to that of never users .
+
+397
+00:49:48,224 --> 00:49:53,149
+It is unclear whether COCs contribute to breast cancer development.
+
+398
+00:49:53,149 --> 00:50:08,886
+Major studies show no risk or a small risk among current users, which drops with time following cessation (Collaborative Group on Hormonal Factors in Breast Cancer, 1996; Hannaford, 2007; Marchbanks, 2002).
+
+399
+00:50:08,886 --> 00:50:16,186
+COCs are not a risk for liver tumors (Heinemann, 1998; Maheshwari, 2007).
+
+400
+00:50:16,186 --> 00:50:27,299
+For women with known tumors, COCs may be used in those with focal nodular hyperplasia, but avoided in those with benign hepatic adenoma and hepatocellular carcinoma .
+
+401
+00:50:27,299 --> 00:50:35,886
+Rates of colorectal cancer appear to be reduced in ever users (Bosetti, 2009; Luan, 2015).
+
+402
+00:50:35,886 --> 00:50:44,186
+Of other potential effects, cholestasis and cholestatic jaundice are uncommon and resolve when COCs are discontinued.
+
+403
+00:50:44,186 --> 00:50:55,361
+In women who have active hepatitis, COCs should not be initiated, but these may be continued in women who experience a flare of their liver disease while already taking COCs.
+
+404
+00:50:55,361 --> 00:50:59,986
+Use of progestin-only contraception in these women is not restricted.
+
+405
+00:50:59,986 --> 00:51:04,411
+Moreover, COCs are suitable for women who have recovered.
+
+406
+00:51:04,411 --> 00:51:10,661
+Mild compensated cirrhosis does not limit the use of COCs or progestin-only methods.
+
+407
+00:51:10,661 --> 00:51:15,724
+With severe decompensated disease, all hormonal methods are avoided .
+
+408
+00:51:15,724 --> 00:51:24,211
+Chloasma, which is hyperpigmentation of the face and forehead, is more likely in women who demonstrated such a change during pregnancy.
+
+409
+00:51:24,211 --> 00:51:28,299
+This is less common with low-dose estrogen formulations.
+
+410
+00:51:28,299 --> 00:51:33,324
+Previously, COCs were used to treat functional ovarian cysts.
+
+411
+00:51:33,324 --> 00:51:47,199
+However, data do not support use of current low-dose COC formulations to resolve or prevent these (European Society of Human Reproduction and Embryology, 2001; Grimes, 2014).
+
+412
+00:51:47,199 --> 00:51:52,686
+Last, many noncontraceptive benefits are associated with COC use .
+
+413
+00:51:52,686 --> 00:51:58,861
+COCs are often selected for these effects, even in those without contraceptive needs.
+
+414
+00:51:58,861 --> 00:52:03,261
+First, dysmenorrhea and heavy menstrual bleeding declines.
+
+415
+00:52:03,261 --> 00:52:08,774
+COCs also elevate hepatic production of sex hormone–binding globulin.
+
+416
+00:52:08,774 --> 00:52:14,136
+This binds bioavailable testosterone to diminish the action of androgens.
+
+417
+00:52:14,136 --> 00:52:18,561
+Thus, conditions such as acne and hirsutism can improve.
+
+418
+00:52:18,561 --> 00:52:29,524
+For women with premenstrual dysphoric disorder, drospirenone-containing COCs can lessen symptoms (Pearlstein, 2005; Yonkers, 2005).
+
+419
+00:52:29,524 --> 00:52:32,261
+# Intravaginal Rings.
+
+420
+00:52:32,261 --> 00:52:40,811
+NuvaRing is a flexible clear intravaginal ring that measures 54 mm in diameter and 4 mm in cross section.
+
+421
+00:52:40,811 --> 00:52:48,049
+Its core releases ethinyl estradiol and etonogestrel, which are absorbed across the vaginal epithelium.
+
+422
+00:52:48,049 --> 00:52:53,836
+Annovera is a new ring that releases ethinyl estradiol and segesterone acetate.
+
+423
+00:52:53,836 --> 00:53:01,149
+Colored white, it measures 56 mm in diameter and 8.4 mm in cross section.
+
+424
+00:53:01,149 --> 00:53:10,724
+For both, the ring is inserted within 5 days of menses onset and, after 3 weeks of use, is removed for 1 week to allow withdrawal bleeding.
+
+425
+00:53:10,724 --> 00:53:15,649
+Nuvaring is single use, and after menses, a new ring is placed.
+
+426
+00:53:15,649 --> 00:53:22,749
+In contrast, after removal and washing, the same Annovera ring is reinserted for another 3 weeks.
+
+427
+00:53:22,749 --> 00:53:26,486
+One ring can function for 13 such cycles .
+
+428
+00:53:26,486 --> 00:53:35,199
+With insertion, the ring is compressed and advanced into the vagina, but no specific final orientation within the vagina is required.
+
+429
+00:53:35,199 --> 00:53:48,886
+Patient satisfaction is high with this method, although vaginitis, ring-related events, and leukorrhea are more common than with COCs (Gemzell-Danielsson, 2019; Oddsson, 2005).
+
+430
+00:53:48,886 --> 00:53:56,561
+A ring may be used concurrently with vaginal medications or with a tampon (Verhoeven, 2004a,b).
+
+431
+00:53:56,561 --> 00:53:58,586
+However, with
+
+432
+00:53:58,756 --> 00:54:03,318
+Annovera, miconazole suppositories raised hormone levels.
+
+433
+00:54:03,268 --> 00:54:09,506
+These were not altered with miconazole cream, and thus cream or oral antifungals are preferable .
+
+434
+00:54:09,506 --> 00:54:12,831
+Partners may feel the ring during intercourse .
+
+435
+00:54:12,831 --> 00:54:23,106
+If this is bothersome, the ring may be removed for intercourse but should be replaced within 3 hours for Nuvaring and within 2 hours for Annovera to maintain efficacy.
+
+436
+00:54:23,106 --> 00:54:25,918
+# Transdermal Patches.
+
+437
+00:54:25,918 --> 00:54:32,431
+The Ortho Evra patch and its generic Xulane each contain ethinyl estradiol and norelgestromin.
+
+438
+00:54:32,431 --> 00:54:37,868
+A newer patch, Twirla, releases ethinyl estradiol and levonorgestrel.
+
+439
+00:54:37,868 --> 00:54:45,581
+Either patch may be applied to the buttocks, upper outer arm, lower abdomen, or upper torso, but the breasts are avoided.
+
+440
+00:54:45,581 --> 00:54:53,206
+Rates of application-site skin reaction are low (Kaunitz, 2015; Smallwood, 2001).
+
+441
+00:54:53,206 --> 00:54:59,343
+If a patch is so poorly adhered that it requires reinforcement with tape, it should be replaced.
+
+442
+00:54:59,343 --> 00:55:08,018
+Women can wear the patch in saunas and whirlpools without decreased efficacy (Abrams, 2001; Archer, 2013).
+
+443
+00:55:08,018 --> 00:55:12,331
+However, with Twirla, swimming is limited to 30 minutes.
+
+444
+00:55:12,331 --> 00:55:22,293
+Initiation of the patch is the same as for COCs, and a new patch is applied weekly for 3 weeks, followed by a patch-free week to allow withdrawal bleeding.
+
+445
+00:55:22,293 --> 00:55:32,518
+In general, the transdermal patches and vaginal rings produce metabolic changes, side effects, and efficacy rates comparable to those with COC pills.
+
+446
+00:55:32,518 --> 00:55:45,081
+However, the Ortho Evra patch has been associated with a higher VTE risk in some but not all studies (Cole, 2007; Jick, 2010; Lidegaard, 2011).
+
+447
+00:55:45,081 --> 00:55:55,268
+Labeling for the patch states that the risk for VTE may be increased compared with COCs, and relative risk estimates range from 1.2 to 2.2.
+
+448
+00:55:55,268 --> 00:56:03,368
+In addition, obesity—90 kg or greater—may be associated with a higher risk for patch contraceptive failure .
+
+449
+00:56:03,368 --> 00:56:11,606
+In contrast, the LNG-containing patch showed comparable VTE rates compared with COCs in one randomized trial .
+
+450
+00:56:11,606 --> 00:56:16,656
+Moreover, efficacy was similar between obese and normal-weight users.
+
+451
+00:56:16,656 --> 00:56:18,631
+Barrier Methods.
+
+452
+00:56:18,631 --> 00:56:20,956
+# Male Condom.
+
+453
+00:56:20,956 --> 00:56:30,543
+For many years, male and female condoms, vaginal diaphragms, and periodic abstinence have been used for contraception with variable success.
+
+454
+00:56:30,543 --> 00:56:39,506
+When used properly, condoms provide considerable but not absolute protection against a broad range of STDs, including HIV .
+
+455
+00:56:39,506 --> 00:56:46,318
+Contraceptive efficacy of the male condom is enhanced by a reservoir tip and by the addition of a spermicide.
+
+456
+00:56:46,318 --> 00:56:52,706
+Adjunct lubricant and spermicides should be water-based because oil-based products degrade latex.
+
+457
+00:56:52,706 --> 00:57:01,156
+For individuals sensitive to latex, condoms made from lamb intestines are effective, but they do not provide infection protection.
+
+458
+00:57:01,156 --> 00:57:07,781
+Instead, nonallergenic condoms made of polyurethane or of synthetic elastomers are available.
+
+459
+00:57:07,781 --> 00:57:15,656
+Polyurethane condoms are effective against STDs but have a higher breakage and slippage rate compared with latex condoms .
+
+460
+00:57:15,656 --> 00:57:18,143
+# Female Condom.
+
+461
+00:57:18,143 --> 00:57:24,656
+The only female condom available in the United States is marketed as the FC2 Female Condom.
+
+462
+00:57:24,656 --> 00:57:30,231
+It contains a nitrile sheath and outer ring and a flexible polyurethane inner ring.
+
+463
+00:57:30,231 --> 00:57:38,131
+Its open ring remains outside the vagina, whereas its closed internal ring is fitted under the symphysis like a diaphragm .
+
+464
+00:57:38,131 --> 00:57:44,656
+The inner and outer sheath are covered with siliconebased lubricant, and other-based lubricants can be added.
+
+465
+00:57:44,656 --> 00:57:53,781
+Male condoms should not be used concurrently because simultaneous use creates friction that leads to condom slipping, tearing, and displacement.
+
+466
+00:57:53,781 --> 00:58:00,581
+Following use, the female condom outer ring should be twisted to seal the condom so that no semen spills.
+
+467
+00:58:00,581 --> 00:58:06,368
+As an added value, the female condom may offer some protection against STDs .
+
+468
+00:58:06,368 --> 00:58:08,893
+Figure 38-3.
+
+469
+00:58:08,893 --> 00:58:12,731
+FC2 Female Condom insertion and positioning.
+
+470
+00:58:12,731 --> 00:58:16,331
+A. The inner ring is squeezed for insertion.
+
+471
+00:58:16,331 --> 00:58:19,856
+The sheath is inserted similarly to a diaphragm.
+
+472
+00:58:19,856 --> 00:58:24,068
+B. The inner ring is pushed inward with an index finger.
+
+473
+00:58:24,068 --> 00:58:27,218
+# Diaphragm plus Spermicide.
+
+474
+00:58:27,218 --> 00:58:34,681
+The diaphragm consists of a latex dome of various diameters supported by a circular latex-covered metal spring.
+
+475
+00:58:34,681 --> 00:58:43,443
+It is effective when used in combination with water-based spermicidal jelly or cream, which is applied into the dome cup and along the device rim.
+
+476
+00:58:43,443 --> 00:58:48,218
+The diaphragm is then positioned so that the cup faces the cervix and the
+
+477
+00:58:48,388 --> 00:58:53,513
+cervix is partitioned effectively from the remainder of the vagina and the penis.
+
+478
+00:58:53,463 --> 00:58:58,688
+In this fashion, the centrally placed spermicide is held against the cervix.
+
+479
+00:58:58,688 --> 00:59:10,213
+When appropriately positioned, one rim is lodged deep in the posterior vaginal fornix, and the opposite rim fits behind the inner surface of the symphysis and immediately below the urethra.
+
+480
+00:59:10,213 --> 00:59:14,325
+If a diaphragm is too small, it will not remain in place.
+
+481
+00:59:14,325 --> 00:59:18,813
+If it is too large, it is uncomfortable when forced into position.
+
+482
+00:59:18,813 --> 00:59:24,375
+Coexistent pelvic organ prolapse typically leads to instability and expulsion.
+
+483
+00:59:24,375 --> 00:59:32,888
+Because size and spring flexibility must be individualized, the diaphragm is fitted by providers and available only by prescription.
+
+484
+00:59:32,888 --> 00:59:37,663
+The diaphragm and spermicide can be inserted hours before intercourse.
+
+485
+00:59:37,663 --> 00:59:45,838
+If more than 6 hours elapse, the diaphragm can remain but additional spermicide is placed in the vagina for maximum protection.
+
+486
+00:59:45,838 --> 00:59:49,888
+Spermicide is reapplied before each coital episode.
+
+487
+00:59:49,888 --> 00:59:54,713
+The diaphragm is not removed for at least 6 hours after intercourse.
+
+488
+00:59:54,713 --> 01:00:06,075
+Because toxic shock syndrome has been described following its use, it may be worthwhile to remove the diaphragm at 6 hours, or at least the next morning, to minimize this rare event.
+
+489
+01:00:06,075 --> 01:00:15,513
+Diaphragm use is associated with a slightly greater rate of urinary infections, presumably from urethral irritation by the ring under the symphysis.
+
+490
+01:00:15,513 --> 01:00:22,000
+# Cervical Cap. FemCap is the only cervical cap currently available in the United States.
+
+491
+01:00:22,000 --> 01:00:32,938
+Made of silicone rubber, it has a sailor-cap shape with a dome that covers the cervix and a flared brim, which allows the cap to be held in place by the upper vagina’s muscular walls.
+
+492
+01:00:32,938 --> 01:00:43,788
+Available in 22-, 26-, and 30-mm sizes, it is used with a spermicide applied once at insertion to both sides of the dome cup.
+
+493
+01:00:43,788 --> 01:00:51,388
+For contraception, it should remain in place for 6 hours following coitus and may remain for up to 48 hours.
+
+494
+01:00:51,388 --> 01:00:58,300
+Even with proper fitting and correct use, pregnancy rates with this method are higher than those with the diaphragm .
+
+495
+01:00:58,300 --> 01:01:01,313
+Fertility Awareness–Based Methods.
+
+496
+01:01:01,313 --> 01:01:07,813
+These attempt to identify the fertile days each cycle and advise sexual abstinence during these days.
+
+497
+01:01:07,813 --> 01:01:15,275
+Fertility awareness–based methods (FABMs) as a group have a 15-percent pregnancy rate with typical use .
+
+498
+01:01:15,275 --> 01:01:24,425
+Some smartphone applications aim to assist these practices (Berglund Scherwitzl, 2017; Jennings, 2019).
+
+499
+01:01:24,425 --> 01:01:31,450
+The Standard Days Method counsels women to avoid unprotected intercourse during cycle days 8 through 19.
+
+500
+01:01:31,450 --> 01:01:37,850
+For successful use, women must have regular monthly cycles of 26 to 32 days.
+
+501
+01:01:37,850 --> 01:01:45,925
+Those who use this method can mark a calendar or can use Cycle-Beads, which is a ring of counting beads, to keep track of their days.
+
+502
+01:01:45,925 --> 01:01:55,800
+The TwoDay Method relies on awareness of vaginal wetness, which reflects changes in the amount and quality of cervical mucus at different times in the menstrual cycle.
+
+503
+01:01:55,800 --> 01:02:02,475
+Intercourse is considered safe if a woman did not note mucus on the day of planned intercourse or the day prior.
+
+504
+01:02:02,475 --> 01:02:14,600
+The Symptothermal Method combines changes in cervical mucus—onset of the fertile period; changes in basal body temperature—end of the fertile period; and calculations to estimate ovulation.
+
+505
+01:02:14,600 --> 01:02:21,675
+A sustained 0.4°F rise in the basal body temperature usually precedes ovulation.
+
+506
+01:02:21,675 --> 01:02:30,100
+For maximum efficacy, the woman must abstain from intercourse from the first day of menses through the third day after the temperature increase.
+
+507
+01:02:30,100 --> 01:02:37,100
+Overall, this method is more complex to learn and apply, and it does not appreciably improve efficacy.
+
+508
+01:02:37,100 --> 01:02:39,013
+Spermicides.
+
+509
+01:02:39,013 --> 01:02:48,025
+Most spermicides contain nonoxynol-9 and are sold over-the-counter as creams, jellies, suppositories, films, and foams.
+
+510
+01:02:48,025 --> 01:02:55,288
+They are a less effective method but provide a chemical spermicidal action and a physical barrier to sperm penetration.
+
+511
+01:02:55,288 --> 01:03:02,838
+Their duration of maximal effectiveness is usually no more than 1 hour, and these do not offer STD protection.
+
+512
+01:03:02,838 --> 01:03:07,713
+If pregnancy does occur, nonoxynol-9 is not teratogenic .
+
+513
+01:03:07,713 --> 01:03:17,588
+In 2020, a vaginal contraceptive gel containing lactic acid, citric acid, and potassium bitartrate was FDA approved as Phexxi.
+
+514
+01:03:17,588 --> 01:03:24,688
+As an acidifying agent, it resists the buffering effect of semen and thereby allows the vagina’s normally
+
+515
+01:03:24,844 --> 01:03:31,644
+acidic pH to work as a spermicide (Garg, 2001; Nelson, 2018).
+
+516
+01:03:31,594 --> 01:03:37,706
+This pH effect also has potential as a microbicide, which warrants additional study.
+
+517
+01:03:37,706 --> 01:03:43,594
+Ideally, either agent is deposited high in the vagina up to 1 hour before coitus.
+
+518
+01:03:43,594 --> 01:03:48,344
+Thereafter, each must be reinserted before repeat intercourse.
+
+519
+01:03:48,344 --> 01:03:51,194
+# Contraceptive Sponge.
+
+520
+01:03:51,194 --> 01:03:56,731
+The Today contraceptive sponge is an over-the-counter, one-size-fits-all device.
+
+521
+01:03:56,731 --> 01:04:04,994
+The nonoxynol-9–impregnated polyurethane disc is 2.5 cm thick and 5.5 cm wide.
+
+522
+01:04:04,994 --> 01:04:10,956
+One side has a dimple that faces the cervix, and the other has a satin loop for removal.
+
+523
+01:04:10,956 --> 01:04:20,469
+The sponge can be inserted up to 24 hours prior to intercourse, and while in place, it provides contraception regardless of coital frequency.
+
+524
+01:04:20,469 --> 01:04:24,506
+It should remain in place for 6 hours after intercourse.
+
+525
+01:04:24,506 --> 01:04:32,044
+Pregnancy is prevented primarily by the spermicide and to a lesser extent by covering the cervix and absorbing semen.
+
+526
+01:04:32,044 --> 01:04:38,581
+Although the sponge is possibly more convenient than the diaphragm or condom, it is less effective than either .
+
+527
+01:04:38,581 --> 01:04:44,906
+Most common causes for method discontinuance are pregnancy, discomfort, or vaginitis .
+
+528
+01:04:44,906 --> 01:04:57,094
+Although toxic shock syndrome has been reported with the contraceptive sponge, it is rare, and evidence suggests that the sponge may actually limit production of the responsible staphylococcal exotoxin .
+
+529
+01:04:57,094 --> 01:05:02,931
+Still, it is recommended that the sponge not be used during menses or the puerperium.
+
+530
+01:05:02,931 --> 01:05:05,481
+Emergency Contraception.
+
+531
+01:05:05,481 --> 01:05:15,556
+Following unprotected sexual intercourse, several emergency contraception (EC) regimens substantially lower the likelihood of an unwanted pregnancy.
+
+532
+01:05:15,556 --> 01:05:24,419
+Current methods include COCs, a progestin, a selective progesteronereceptor modulator (SPRM), and the Cu-IUD .
+
+533
+01:05:24,419 --> 01:05:32,669
+Notably, the single-dose LNG pill is available over-the-counter without a prescription to all reproductive-aged individuals.
+
+534
+01:05:32,669 --> 01:05:45,881
+Patients can obtain information regarding EC by calling 888-NOT-2-LATE or accessing The Emergency Contraception Website: http://not-2-late.com.
+
+535
+01:05:45,881 --> 01:05:54,531
+Although not yet adopted as EC, early efficacy data find the LNG-IUS not inferior to the Cu-IUD for EC .
+
+536
+01:05:54,531 --> 01:05:57,144
+Table 38-7.
+
+537
+01:05:57,144 --> 01:06:04,044
+Emergency Contraception Methods and Some Brand-Name Examples # Hormonal Emergency Contraception.
+
+538
+01:06:04,044 --> 01:06:11,656
+Except for allergy to a particular component, no conditions in the US MEC contraindicate hormonal EC methods.
+
+539
+01:06:11,656 --> 01:06:18,269
+Moreover, clinical examination or pregnancy testing is not required before EC provision .
+
+540
+01:06:18,269 --> 01:06:25,881
+With all methods, dosing begins as early as possible and ideally within 72 hours of unprotected coitus.
+
+541
+01:06:25,881 --> 01:06:35,606
+It may be given up to 120 hours after coitus (Fine, 2010; Rodrigues, 2001; von Hertzen, 2002).
+
+542
+01:06:35,606 --> 01:06:41,319
+The major mechanism with all hormonal regimens is inhibition or delay of ovulation.
+
+543
+01:06:41,319 --> 01:06:50,344
+Of oral methods, failure rates are lowest with ulipristal (1 to 2 percent) and greatest with the Yuzpe method (2 to 3.5 percent) .
+
+544
+01:06:50,344 --> 01:07:05,206
+If EC fails to prevent pregnancy or is mistimed, no associations with major congenital malformation or pregnancy complications have been noted with these hormonal methods (Jatlaoui, 2016; Levy, 2014).
+
+545
+01:07:05,206 --> 01:07:10,544
+With EC administration, nausea and vomiting can be an important side effect.
+
+546
+01:07:10,544 --> 01:07:16,619
+Accordingly, an oral antiemetic may be prescribed at least 1 hour before each dose .
+
+547
+01:07:16,619 --> 01:07:21,406
+If a woman vomits within 2 hours of a dose, the dose is repeated.
+
+548
+01:07:21,406 --> 01:07:27,769
+For subsequent coitus, a barrier method is recommended until long-term contraception is begun.
+
+549
+01:07:27,769 --> 01:07:32,444
+If not, EC can be repeated within a given menstrual cycle.
+
+550
+01:07:32,444 --> 01:07:39,169
+Quick start initiation of contraceptive methods is suitable and is discussed in the respective method sections.
+
+551
+01:07:39,169 --> 01:07:48,794
+Notably, because ulipristal competes at the progesterone receptor, a 5-day delay is recommended before starting progestin-containing contraceptives.
+
+552
+01:07:48,794 --> 01:07:52,581
+# Copper-containing Intrauterine Devices.
+
+553
+01:07:52,581 --> 01:08:01,631
+For women who are candidates, Cu-IUD insertion is the most effective EC method and provides an effective 10-year form of contraception.
+
+554
+01:08:01,631 --> 01:08:13,619
+If an IUD is placed up to 5 days after unprotected coitus, the pregnancy rate approximates only 0.1 percent (Cleland, 2012; Wu, 2010).
+
