@@ -1,0 +1,3400 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,850
+Chapter 67: Infectious Diseases.
+
+3
+00:00:05,850 --> 00:00:18,950
+Maternal And Fetal Immunology Viral Infections Bacterial Infections Protozoal Infections Bioterrorism References Infections remain a major cause of maternal and fetal morbidity and mortality worldwide.
+
+4
+00:00:18,950 --> 00:00:29,725
+The unique maternal–fetal vascular interface in some cases serves to protect the fetus from infectious agents, but in other instances it provides a conduit for transmission.
+
+5
+00:00:29,725 --> 00:00:40,800
+Maternal serological status, acquisition mode, gestational age at the time of infection, and immunological status of mother and fetus all influence disease outcome.
+
+6
+00:00:40,800 --> 00:00:49,862
+The TORCH acronym reflects the infections toxoplasmosis, others, rubella, and cytomegalovirus and herpesvirus infections.
+
+7
+00:00:49,862 --> 00:00:55,737
+These can cross the placenta to cause fetal infection and substantial neonatal sequelae.
+
+8
+00:00:55,737 --> 00:01:01,712
+Of members in the “others” category, parvovirus B19 infection is discussed here.
+
+9
+00:01:01,712 --> 00:01:06,837
+Herpesvirus and syphilis infections are described in Chapter 68.
+
+10
+00:01:06,837 --> 00:01:09,625
+Maternal And Fetal Immunology.
+
+11
+00:01:09,625 --> 00:01:13,075
+# Maternal Immunological Changes.
+
+12
+00:01:13,075 --> 00:01:20,525
+Despite significant advances, many of the maternal immunological adaptations to pregnancy remain unclear.
+
+13
+00:01:20,525 --> 00:01:28,562
+Successful pregnancy results from a complex interplay between the innate and adaptive immune systems to establish fetal tolerance .
+
+14
+00:01:28,562 --> 00:01:43,700
+Within the innate system, decidual natural killer (dNK) cells interact with and aid invasion of fetal extravillous trophoblasts via human leukocyte antigen (HLA)-G (Fig. 21-8, p. 404).
+
+15
+00:01:43,700 --> 00:01:51,462
+Also, cytokines produced during viral infection activate dNK cells to induce protective cytotoxicity .
+
+16
+00:01:51,462 --> 00:02:03,062
+Within the adaptive immune system, a CD4+ subset of T helper cells called regulatory T cells (Tregs) express forkhead box P3 (FOXP3).
+
+17
+00:02:03,062 --> 00:02:10,600
+This is an immune-suppressive transcription factor that plays a critical role in inducing maternal immune tolerance to the fetus .
+
+18
+00:02:10,600 --> 00:02:16,750
+However, this same mechanism compromises maternal defense against bacterial pathogens.
+
+19
+00:02:16,750 --> 00:02:26,412
+Noncoding microRNAs, whose roles are incompletely defined, regulate activation and proliferation of both innate and adaptive immune cells .
+
+20
+00:02:26,412 --> 00:02:33,950
+In describing infections, horizontal transmission is the spread of an infectious agent from one individual to another.
+
+21
+00:02:33,950 --> 00:02:43,075
+Vertical transmission is passage of an infectious agent from the mother to her fetus through the placenta, during labor or delivery, or by breastfeeding.
+
+22
+00:02:43,075 --> 00:02:50,137
+Thus, preterm rupture of membranes or prolonged labor may enhance the risk of some neonatal infections .
+
+23
+00:02:50,137 --> 00:02:52,737
+Table 67-1.
+
+24
+00:02:52,737 --> 00:02:56,937
+shows specific infections by mode and acquisition timing.
+
+25
+00:02:56,937 --> 00:03:06,925
+A final term, the secondary attack rate, is the probability that infection develops in a susceptible individual following known contact with an infectious person.
+
+26
+00:03:06,925 --> 00:03:09,525
+TABLE 67-1.
+
+27
+00:03:09,525 --> 00:03:15,987
+Specific Causes of Some Fetal and Neonatal Infections # Fetal and Newborn Immunology.
+
+28
+00:03:15,987 --> 00:03:23,412
+The active immunological capacity of the fetus and neonate is compromised compared with that of older children and adults.
+
+29
+00:03:23,412 --> 00:03:29,975
+That said, fetal innate and adaptive immunity begin to develop by 9 to 15 weeks’ gestation .
+
+30
+00:03:29,975 --> 00:03:41,450
+The primary fetal response to infection is mediated by innate immunity—macrophages and dendritic cells—and to a lesser extent, by adaptive immunity—B and T cells .
+
+31
+00:03:41,450 --> 00:03:48,650
+Passive immunity is provided by maternal immunoglobulin G (IgG) transferred across the placenta.
+
+32
+00:03:48,650 --> 00:03:58,375
+By 16 weeks’ gestation, this transfer begins to rise rapidly, and by 26 weeks, fetal concentrations are equivalent to those of the mother.
+
+33
+00:03:58,375 --> 00:04:06,425
+Evidence suggests maternal vaccination also primes the fetal cell-mediated immune response independent of passive immunity .
+
+34
+00:04:06,425 --> 00:04:16,462
+Neonatal infection, especially in its early stages, may be difficult to diagnose because these newborns often fail to express classic clinical signs.
+
+35
+00:04:16,462 --> 00:04:23,300
+If the fetus was infected in utero, it may be depressed and acidotic at birth for no apparent reason.
+
+36
+00:04:23,300 --> 00:04:28,137
+The neonate may suck poorly, vomit, or show abdominal distention.
+
+37
+00:04:28,137 --> 00:04:35,525
+Respiratory insufficiency can develop, which may present similarly to idiopathic respiratory distress syndrome.
+
+38
+00:04:35,525 --> 00:04:38,675
+The neonate may be lethargic or jittery.
+
+39
+00:04:38,675 --> 00:04:46,425
+The response to sepsis may be hypothermia rather than hyperthermia, and the total leukocyte and neutrophil counts can be
+
+40
+00:04:46,588 --> 00:04:48,213
+depressed.
+
+41
+00:04:48,163 --> 00:04:50,325
+Viral Infections.
+
+42
+00:04:50,325 --> 00:04:52,975
+# Cytomegalovirus.
+
+43
+00:04:52,975 --> 00:04:59,538
+The most common perinatal infection in the developed world is caused by cytomegalovirus (CMV).
+
+44
+00:04:59,538 --> 00:05:10,950
+It is a ubiquitous DNA herpesvirus that eventually infects most humans, and some evidence of fetal infection is found in 0.2 to 2.2 percent of all neonates .
+
+45
+00:05:10,950 --> 00:05:23,500
+The virus is secreted into all body fluids, and person-to-person contact with viral-laden saliva, semen, urine, blood, and nasopharyngeal and cervical secretions can transmit infection.
+
+46
+00:05:23,500 --> 00:05:32,063
+The fetus may become infected by transplacental viremia, but amniocentesis does not result in iatrogenic fetal transmission .
+
+47
+00:05:32,063 --> 00:05:38,100
+The neonate is infected at delivery or during breastfeeding and acquisition continues to accrue.
+
+48
+00:05:38,100 --> 00:05:42,225
+Daycare centers, for example, are a frequent source.
+
+49
+00:05:42,225 --> 00:05:55,188
+Up to 85 percent of women from lower socioeconomic backgrounds are seropositive by the time of pregnancy, whereas only half of women in higher income groups have detectable IgG antibodies to CMV.
+
+50
+00:05:55,188 --> 00:06:07,575
+Following primary CMV infection, and behaving similarly to other herpesvirus infections, the virus becomes latent but undergoes periodic reactivation characterized by viral shedding.
+
+51
+00:06:07,575 --> 00:06:13,188
+This occurs despite high serum levels of anti-CMV IgG antibody.
+
+52
+00:06:13,188 --> 00:06:22,838
+These antibodies do not prevent maternal recurrence, reactivation, or reinfection, nor do they totally mitigate fetal or neonatal infection.
+
+53
+00:06:22,838 --> 00:06:29,288
+Maternal Infection Pregnancy does not increase the risk or severity of maternal CMV infection.
+
+54
+00:06:29,288 --> 00:06:42,663
+Most primary infections are asymptomatic, but 10 to 15 percent of infected adults have a mononucleosis-like syndrome characterized by fever, pharyngitis, lymphadenopathy, and polyarthritis.
+
+55
+00:06:42,663 --> 00:06:52,463
+Immunocompromised women may develop myocarditis, pneumonitis, hepatitis, retinitis, gastroenteritis, or meningoencephalitis.
+
+56
+00:06:52,463 --> 00:06:59,538
+Most women with primary infection have elevated serum aminotransferase levels or lymphocytosis.
+
+57
+00:06:59,538 --> 00:07:05,138
+Reactivated disease usually is asymptomatic, although viral shedding is common.
+
+58
+00:07:05,138 --> 00:07:12,588
+Because most primary maternal infections are clinically silent, they are detected by IgG seroconversion.
+
+59
+00:07:12,588 --> 00:07:17,238
+The rate of seroconversion during pregnancy may reach 20 percent.
+
+60
+00:07:17,238 --> 00:07:21,100
+Rates are higher in regions with greater seroprevalence .
+
+61
+00:07:21,100 --> 00:07:31,238
+Women who are seronegative before pregnancy and then acquire primary CMV infection during pregnancy are at highest risk of having a congenitally infected fetus.
+
+62
+00:07:31,238 --> 00:07:49,463
+Vertical transmission rates for primary infection are 30 to 36 percent in the first trimester, 34 to 40 percent in the second, and 40 to 72 percent in the third (American College of Obstetricians and Gynecologists, 2020a; Picone, 2017).
+
+63
+00:07:49,463 --> 00:07:57,463
+Approximately 23 percent of congenital CMV infections in the United States are from primary maternal infection .
+
+64
+00:07:57,463 --> 00:08:06,613
+In contrast, recurrent or reactivated maternal infection infects the fetus in only 0.15 to 2 percent of pregnancies.
+
+65
+00:08:06,613 --> 00:08:14,925
+However, up to 90 percent of congenitally infected neonates in high-prevalence areas are born to women with recurrent infection .
+
+66
+00:08:14,925 --> 00:08:21,013
+The diagnosis of recurrent or reactivated maternal CMV infection remains a challenge .
+
+67
+00:08:21,013 --> 00:08:30,600
+Congenital Infection Newborns with apparent sequelae of intrauterine-acquired CMV infection are described as having symptomatic CMV infection.
+
+68
+00:08:30,600 --> 00:08:48,975
+Congenital CMV infection is a syndrome that may include growth restriction, microcephaly, intracranial calcifications, chorioretinitis, mental and motor delays, sensorineural deficits, hepatosplenomegaly, jaundice, hemolytic anemia, and thrombocytopenic purpura.
+
+69
+00:08:48,975 --> 00:08:54,888
+An example of periventricular calcifications is shown in Figure 67-1.
+
+70
+00:08:54,888 --> 00:09:03,000
+Of the estimated 40,000 CMV-infected neonates born each year, only 5 to 10 percent demonstrate this syndrome .
+
+71
+00:09:03,000 --> 00:09:09,663
+Thus, most infected newborns are asymptomatic at birth, but some develop late-onset sequelae.
+
+72
+00:09:09,663 --> 00:09:18,025
+These may include hearing loss, neurological deficits, chorioretinitis, psychomotor delay, and learning disabilities.
+
+73
+00:09:18,025 --> 00:09:25,300
+Infections in dichorionic twins most likely are nonconcordant (Egaña-Ugrinovic, 2016).
+
+74
+00:09:25,300 --> 00:09:27,900
+Figure 67-1.
+
+75
+00:09:27,900 --> 00:09:31,175
+Congenital cytomegalovirus infection.
+
+76
+00:09:31,175 --> 00:09:39,138
+A. Transverse view of the fetal head demonstrates ventriculomegaly (LV) and periventricular calcifications.
+
+77
+00:09:39,138 --> 00:09:42,425
+B. Transverse image of the fetal abdomen
+
+78
+00:09:42,580 --> 00:09:46,492
+with ascites (asterisk) and echogenic bowel.
+
+79
+00:09:46,442 --> 00:09:52,580
+Prenatal Diagnosis Routine prenatal CMV serological screening is not recommended.
+
+80
+00:09:52,580 --> 00:10:12,592
+Pregnant women undergo serological testing for CMV if they present with a mononucleosis-like illness or if congenital infection is suspected based on abnormal sonographic findings (American College of Obstetricians and Gynecologists, 2020a; Society for Maternal-Fetal Medicine, 2016).
+
+81
+00:10:12,592 --> 00:10:19,942
+If either ultrasound or serological results indicate infection, diagnostic amniocentesis is pursued.
+
+82
+00:10:19,942 --> 00:10:22,605
+Figure 67-2.
+
+83
+00:10:22,605 --> 00:10:29,730
+Diagnostic algorithm for evaluation of cytomegalovirus (CMV) infection in pregnancy.
+
+84
+00:10:29,730 --> 00:10:38,767
+IgG = immunoglobulin G; IgM = immunoglobulin M; PCR = polymerase chain reaction.
+
+85
+00:10:38,767 --> 00:10:52,167
+Serum levels of CMV IgM alone do not accurately diagnose primary infection because antibodies may persist for more than a year after infection and may rise again following reactivation or reinfection.
+
+86
+00:10:52,167 --> 00:11:04,642
+To help clarify a primary infection from a past one, serological CMV-specific IgG avidity assays measure the “avidity” or binding strength between IgG antibodies and virus.
+
+87
+00:11:04,642 --> 00:11:13,280
+Following primary infection, IgG antibodies have low avidity, which during the next 2 to 4 months matures to high avidity.
+
+88
+00:11:13,280 --> 00:11:25,292
+Low IgG avidity indicates primary CMV infection within the preceding 3 to 4 months, and high IgG avidity excludes primary infection within the previous 3 months.
+
+89
+00:11:25,292 --> 00:11:34,555
+Thus, primary infection during the first trimester may not be excluded if maternal avidity testing is performed in the second or third trimesters .
+
+90
+00:11:34,555 --> 00:11:42,317
+In this case, diagnostic amniocentesis is still recommended if ultrasound findings suggest congenital infection.
+
+91
+00:11:42,317 --> 00:11:48,942
+In other cases, early primary infection may be so recent that IgM is not yet detectable.
+
+92
+00:11:48,942 --> 00:11:54,392
+If suspicion is high, serological assays are repeated in 2 to 4 weeks.
+
+93
+00:11:54,392 --> 00:12:00,155
+More commonly, numerous sonographic fetal findings may prompt CMV testing.
+
+94
+00:12:00,155 --> 00:12:17,605
+Fetal abnormalities associated with CMV infection include microcephaly, ventriculomegaly, and cerebral calcifications; ascites, hepatomegaly, splenomegaly, and hyperechoic bowel; hydrops; early growth restriction; and oligohydramnios.
+
+95
+00:12:17,605 --> 00:12:25,942
+Findings will prompt maternal serological CMV testing and diagnostic amniocentesis (see Fig. 67-2).
+
+96
+00:12:25,942 --> 00:12:35,467
+CMV polymerase chain reaction (PCR) testing of amnionic fluid is considered the gold standard for the diagnosis of fetal infection.
+
+97
+00:12:35,467 --> 00:12:41,755
+Sensitivities range from 70 to 99 percent and depend on amniocentesis timing.
+
+98
+00:12:41,755 --> 00:12:50,505
+Sensitivity is highest when amniocentesis is performed at least 6 weeks after maternal infection and after 21 weeks’ gestation .
+
+99
+00:12:50,505 --> 00:13:02,330
+Abnormal sonographic findings seen in combination with positive findings in amnionic fluid samples are predictive of an approximate 75-percent risk of symptomatic congenital infection .
+
+100
+00:13:02,330 --> 00:13:12,005
+A negative result from amnionic fluid PCR testing does not exclude fetal infection and may need to be repeated if suspicion for fetal infection is high.
+
+101
+00:13:12,005 --> 00:13:18,692
+Diagnostic viral culture of amnionic fluid is also suitable although sensitivity is somewhat lower.
+
+102
+00:13:18,692 --> 00:13:29,305
+Isolation of virus from cell culture allows detection of actively replicating virus, and rapid shell vial culture methods enable detection within 24 hours .
+
+103
+00:13:29,305 --> 00:13:39,580
+Management and Prevention The management of the immunocompetent pregnant woman with primary, reactivated, or recurrent CMV is limited to symptomatic treatment.
+
+104
+00:13:39,580 --> 00:13:52,767
+If primary CMV infection is diagnosed serologically or if fetal sonographic abnormalities suggest congenital infection, amnionic fluid analysis should be offered (see Fig. 67-2).
+
+105
+00:13:52,767 --> 00:13:59,855
+Counseling regarding fetal outcome depends on the gestational age during which primary infection is documented.
+
+106
+00:13:59,855 --> 00:14:15,705
+Lipitz and associates (2013) reported hearing loss or neurodevelopmental delay in 15 to 25 percent of infants following primary maternal infection in the first trimester compared with 2 to 16 percent after second-trimester infection.
+
+107
+00:14:15,705 --> 00:14:23,105
+Despite the high infection rate with primary infection in the first half of pregnancy, most fetuses develop normally.
+
+108
+00:14:23,105 --> 00:14:27,505
+That said, pregnancy termination may be an option for some.
+
+109
+00:14:27,505 --> 00:14:32,530
+Currently, no curative treatments are available for CMV infection.
+
+110
+00:14:32,530 --> 00:14:35,605
+One study group reported that treating
+
+111
+00:14:35,764 --> 00:14:47,964
+pregnant women with high-dose oral valacyclovir, 8 g daily, apparently mitigated adverse outcomes for 80 percent of moderately asymptomatic fetuses compared with a historical cohort .
+
+112
+00:14:47,914 --> 00:15:03,676
+Kimberlin and colleagues (2015) previously showed that oral valganciclovir administered for 6 weeks to neonates with symptomatic central nervous system (CNS) disease prevented hearing deterioration at 6 months and possibly later.
+
+113
+00:15:03,676 --> 00:15:15,114
+In a recent randomized trial, CMV-specific hyperimmune globulin given to pregnant women with primary infection was ineffective in lowering perinatal CMV infection rates .
+
+114
+00:15:15,114 --> 00:15:21,914
+For the CMV-affected fetus, a detailed anatomical sonographic evaluation is performed.
+
+115
+00:15:21,914 --> 00:15:35,276
+Referral to a maternal–fetal medicine specialist is warranted, and serial sonography is indicated to identify poor growth, oligohydramnios, or fetal hydrops, which confers a worse prognosis.
+
+116
+00:15:35,276 --> 00:15:43,951
+Antenatal surveillance is typically implemented after a shared discussion about the goals of surveillance in a fetus with known congenital infection.
+
+117
+00:15:43,951 --> 00:15:54,526
+Delivery at term is the goal, although consultation with maternal–fetal medicine and neonatology experts is warranted to determine whether earlier delivery is indicated.
+
+118
+00:15:54,526 --> 00:16:02,026
+Prevention of congenital infection relies on avoiding maternal primary infection, especially in early pregnancy.
+
+119
+00:16:02,026 --> 00:16:11,064
+Basic hygiene measures such as hand washing and not sharing food or utensils have been promoted, particularly in women with toddlers in day care .
+
+120
+00:16:11,064 --> 00:16:19,151
+CMV may be sexually transmitted among infected partners, but no data address the efficacy of preventive strategies.
+
+121
+00:16:19,151 --> 00:16:23,664
+Several clinical trials of a CMV vaccine are underway .
+
+122
+00:16:23,664 --> 00:16:26,701
+# Varicella-Zoster Virus.
+
+123
+00:16:26,701 --> 00:16:39,664
+Maternal Infection Varicella-zoster virus (VZV) is a double-stranded DNA herpesvirus acquired predominantly during childhood, and 90 percent of adults have serological evidence of immunity.
+
+124
+00:16:39,664 --> 00:16:47,839
+The incidence of varicella infection declined by approximately 95 percent after the introduction of varicella vaccination.
+
+125
+00:16:47,839 --> 00:16:51,801
+Maternal and fetal varicella rates subsequently dropped .
+
+126
+00:16:51,801 --> 00:17:04,064
+In the United States between 2003 and 2010, the incidence of maternal varicella among 7.7 million pregnancy admissions was 1.21 cases in 10,000 .
+
+127
+00:17:04,064 --> 00:17:13,439
+Primary infection—varicella or chickenpox—is transmitted by respiratory droplets or through direct contact with an infected individual.
+
+128
+00:17:13,439 --> 00:17:22,976
+The incubation period is 10 to 21 days, and a nonimmune woman has a 70- to 90-percent risk of becoming infected after exposure .
+
+129
+00:17:22,976 --> 00:17:32,301
+Primary varicella has a 1- to 2-day flu-like prodrome, which is followed by pruritic vesicular lesions that crust after 3 to 7 days.
+
+130
+00:17:32,301 --> 00:17:38,939
+Affected patients are contagious from 1 day before the rash onset until all lesions become crusted.
+
+131
+00:17:38,939 --> 00:17:46,614
+In adults, mortality risk rises with age and is predominantly due to secondary infection or VZV pneumonia .
+
+132
+00:17:46,614 --> 00:17:53,151
+Risk factors for severe pneumonitis include immunosuppression and early bacterial coinfection .
+
+133
+00:17:53,151 --> 00:18:00,576
+Although the incidence was once thought to be higher in gravidas, only 2.5 percent develops VZV pneumonia .
+
+134
+00:18:00,576 --> 00:18:06,326
+Symptoms of VZV pneumonia usually appear 3 to 5 days into the illness course.
+
+135
+00:18:06,326 --> 00:18:12,589
+Fever, tachypnea, dry cough, dyspnea, and pleuritic pain are characteristic.
+
+136
+00:18:12,589 --> 00:18:16,889
+Nodular infiltrates are similar to other viral pneumonias.
+
+137
+00:18:16,889 --> 00:18:25,339
+Although resolution of pneumonitis parallels that of skin lesions, fever and compromised pulmonary function may persist for weeks.
+
+138
+00:18:25,339 --> 00:18:31,826
+If primary varicella is reactivated years later, it causes herpes zoster or shingles.
+
+139
+00:18:31,826 --> 00:18:37,889
+The associated unilateral dermatomal vesicular eruption often produces severe pain.
+
+140
+00:18:37,889 --> 00:18:42,364
+Zoster does not appear to be more frequent or severe in gravidas.
+
+141
+00:18:42,364 --> 00:18:48,014
+Congenital varicella syndrome rarely develops in cases of maternal herpes zoster .
+
+142
+00:18:48,014 --> 00:18:52,901
+Zoster is contagious if there is direct contact with broken blisters.
+
+143
+00:18:52,901 --> 00:19:02,289
+Fetal and Neonatal Infection In women with primary varicella during the first half of pregnancy, the fetus may develop congenital varicella syndrome.
+
+144
+00:19:02,289 --> 00:19:17,439
+Some features include chorioretinitis, microphthalmia, cerebral cortical atrophy, growth restriction, hydronephrosis, limb hypoplasia, and cicatricial skin lesions (Ahn, 2016; Auriti, 2009).
+
+145
+00:19:17,439 --> 00:19:21,539
+Among 1373 pregnant women with primary
+
+146
+00:19:21,700 --> 00:19:31,712
+varicella infection in one study, only 0.4 percent with a rash before 13 weeks’ gestation had neonates with congenital varicella syndrome .
+
+147
+00:19:31,662 --> 00:19:41,375
+The highest risk period for vertical transmission was between 13 and 20 weeks, during which 2 percent of exposed fetuses had evidence of infection.
+
+148
+00:19:41,375 --> 00:19:48,000
+After 20 weeks’ gestation, the researchers found no clinical evidence of congenital varicella.
+
+149
+00:19:48,000 --> 00:19:50,900
+Others described similar findings .
+
+150
+00:19:50,900 --> 00:19:59,450
+That said, fetuses that do develop congenital varicella in the third trimester may have CNS abnormalities and skin lesions .
+
+151
+00:19:59,450 --> 00:20:10,337
+If the fetus or neonate is exposed to active infection just before or during delivery, and therefore before maternal antibody has formed, the newborn faces a serious threat.
+
+152
+00:20:10,337 --> 00:20:16,787
+Attack rates range from 25 to 50 percent, and mortality rates approach 30 percent.
+
+153
+00:20:16,787 --> 00:20:23,800
+In some instances, neonates develop disseminated visceral and CNS disease, which is commonly fatal.
+
+154
+00:20:23,800 --> 00:20:36,662
+For this reason, varicella-zoster immune globulin (VariZIG) should be administered to neonates born to mothers who have clinical evidence of varicella 5 days before and up to 2 days after delivery .
+
+155
+00:20:36,662 --> 00:20:44,837
+Diagnosis Prior maternal varicella is usually confirmed clinically based on reported history of prior illness or vaccination.
+
+156
+00:20:44,837 --> 00:20:52,012
+Infection is confirmed by PCR-based testing of vesicular fluid or of a crust that is lifted from the skin.
+
+157
+00:20:52,012 --> 00:21:02,987
+Congenital varicella may be diagnosed using PCR-based testing of amnionic fluid, although a positive result does not correlate well with the development of congenital infection .
+
+158
+00:21:02,987 --> 00:21:13,512
+A detailed anatomical sonographic evaluation performed at least 5 weeks after maternal infection may disclose abnormalities, but the sensitivity is low .
+
+159
+00:21:13,512 --> 00:21:17,250
+Management and Prevention Maternal Viral Exposure.
+
+160
+00:21:17,250 --> 00:21:24,587
+Any patient diagnosed with primary varicella infection or herpes zoster should be isolated from pregnant women.
+
+161
+00:21:24,587 --> 00:21:30,800
+Several aspects of maternal VZV exposure and infection in pregnancy affect management.
+
+162
+00:21:30,800 --> 00:21:39,500
+Exposed gravidas with a negative clinical history for prior chickenpox or vaccination should undergo VZV serological testing.
+
+163
+00:21:39,500 --> 00:21:44,437
+At least 70 percent of these women will be seropositive and thus immune.
+
+164
+00:21:44,437 --> 00:21:57,325
+Seronegative women should be given intramuscular VariZIG, 125 units per 10 kg body weight, up to a maximum dose of 625 units (5 vials).
+
+165
+00:21:57,325 --> 00:22:06,337
+Although best given within 96 hours of exposure, its use is approved for up to 10 days to prevent or attenuate varicella infection .
+
+166
+00:22:06,337 --> 00:22:10,350
+This passive immunization appears to be highly effective .
+
+167
+00:22:10,350 --> 00:22:17,587
+In women with a reported history of chickenpox or varicella vaccination, VariZIG is not indicated.
+
+168
+00:22:17,587 --> 00:22:20,237
+Maternal and Fetal Infection.
+
+169
+00:22:20,237 --> 00:22:29,200
+For women with primary varicella, a chest radiograph is recommended by many because VZV pneumonia often presents with few symptoms.
+
+170
+00:22:29,200 --> 00:22:37,850
+Most women require only supportive care, but those who require intravenous fluids and especially those with pneumonia are hospitalized.
+
+171
+00:22:37,850 --> 00:22:47,700
+Acyclovir therapy is given to women requiring hospitalization —10 to 15 mg/kg intravenously every 8 hours until afebrile.
+
+172
+00:22:47,700 --> 00:22:56,225
+This is followed by oral acyclovir, 800 mg five times daily to complete 7 days and until lesions have crusted.
+
+173
+00:22:56,225 --> 00:23:07,750
+For uncomplicated primary varicella without hospitalization or for herpes zoster, treatment is oral acyclovir, 800 mg five times daily for 7 days.
+
+174
+00:23:07,750 --> 00:23:13,737
+For the VZV-affected fetus, greater antenatal surveillance is typically implemented.
+
+175
+00:23:13,737 --> 00:23:17,762
+Serial sonography may help identify poor growth.
+
+176
+00:23:17,762 --> 00:23:22,725
+Delivery at term is the norm unless fetal findings prompt earlier timing.
+
+177
+00:23:22,725 --> 00:23:24,575
+Vaccination.
+
+178
+00:23:24,575 --> 00:23:32,250
+An attenuated live-virus vaccine is recommended for nonpregnant adolescents and adults with no history of varicella.
+
+179
+00:23:32,250 --> 00:23:36,512
+Two doses are needed and are separated by 4 to 8 weeks.
+
+180
+00:23:36,512 --> 00:23:44,112
+The vaccine is not recommended for gravidas or for those who may become pregnant within one month following each vaccine dose.
+
+181
+00:23:44,112 --> 00:23:55,225
+However, a registry of more than 1000 vaccine-exposed pregnancies reports no cases of congenital varicella syndrome or other associated congenital malformations .
+
+182
+00:23:55,225 --> 00:23:59,600
+The attenuated vaccine virus is not secreted in breast milk.
+
+183
+00:23:59,600 --> 00:24:04,650
+Thus, postpartum vaccination should not be delayed because of breastfeeding .
+
+184
+00:24:04,650 --> 00:24:07,387
+# Influenza Virus.
+
+185
+00:24:07,387 --> 00:24:10,150
+Influenza A and B belong
+
+186
+00:24:10,300 --> 00:24:16,787
+to the Orthomyxoviridae family of RNA viruses, and both cause epidemic human disease .
+
+187
+00:24:16,737 --> 00:24:25,187
+Influenza A viruses are subclassified further by hemagglutinin (H) and neuraminidase (N) surface antigens.
+
+188
+00:24:25,187 --> 00:24:34,050
+Influenza outbreaks occur annually, and severity is determined by the number of outpatient visits, hospitalizations, and deaths .
+
+189
+00:24:34,050 --> 00:24:43,900
+Maternal Infection Fever, dry cough, and systemic symptoms characterize this infection, which usually is not life-threatening in otherwise healthy adults.
+
+190
+00:24:43,900 --> 00:24:55,787
+However, pregnant women in general are more susceptible to serious complications, particularly pulmonary involvement (Mertz, 2017; Rasmussen, 2012).
+
+191
+00:24:55,787 --> 00:25:05,925
+Severe infection during the 2009 to 2010 pandemic had a maternal mortality rate of 1 percent and caused 12 percent of pregnancy-related deaths .
+
+192
+00:25:05,925 --> 00:25:11,437
+No firm evidence links influenza A virus and congenital malformations.
+
+193
+00:25:11,437 --> 00:25:19,875
+Rather, the increased rates of neural-tube defects seen in neonates born to women with influenza may be associated with hyperthermia.
+
+194
+00:25:19,875 --> 00:25:24,450
+Viremia is infrequent, and transplacental passage is rare .
+
+195
+00:25:24,450 --> 00:25:39,462
+Stillbirth, preterm delivery, and first-trimester abortion have all been reported, but these usually correlate with maternal infection severity (Fell, 2017; Meijer, 2015; Wang, 2021).
+
+196
+00:25:39,462 --> 00:25:51,400
+Influenza may be detected by nasopharyngeal swab of symptomatic patients using rapid molecular or viral antigen detection assays known as rapid influenza diagnostic tests (RIDTs).
+
+197
+00:25:51,400 --> 00:26:06,037
+Recently, commercially available multiplex molecular assays have allowed nucleic acid detection and differentiation of both influenza and severe acute respiratory syndrome (SARS)-CoV-2 respiratory viruses.
+
+198
+00:26:06,037 --> 00:26:13,237
+Molecular tests are more sensitive and specific than RIDTs, which have sensitivities of 50 to 70 percent.
+
+199
+00:26:13,237 --> 00:26:23,650
+Decisions to administer antiviral medications for influenza treatment or chemoprophylaxis should be based on clinical symptoms and epidemiological factors.
+
+200
+00:26:23,650 --> 00:26:28,762
+Namely, the start of therapy should not be delayed pending testing results.
+
+201
+00:26:28,762 --> 00:26:36,750
+Management Of available agents, neuraminidase inhibitors are highly effective for the treatment of early influenza A and B.
+
+202
+00:26:36,750 --> 00:26:50,612
+These include oseltamivir (Tamiflu), which is taken orally for treatment and for chemoprophylaxis; zanamivir (Relenza), which is inhaled for treatment; and peramivir (Rapivab), which is administered intravenously.
+
+203
+00:26:50,612 --> 00:27:03,600
+A newer agent, baloxavir marboxil (Xofluza), was approved by the U.S. Food and Drug Administration in 2018 for acute uncomplicated influenza, although data in pregnancy are limited.
+
+204
+00:27:03,600 --> 00:27:08,062
+In pregnancy, experience is most robust with oseltamivir.
+
+205
+00:27:08,062 --> 00:27:28,137
+The American College of Obstetricians and Gynecologists (2019a) and the Infectious Diseases Society of America recommend oral oseltamivir—75 mg twice daily for 5 days—for pregnant women with suspected or confirmed influenza, ideally within 48 hours of symptom onset .
+
+206
+00:27:28,137 --> 00:27:32,250
+Early administration may reduce length of hospital stays .
+
+207
+00:27:32,250 --> 00:27:43,250
+For prophylaxis following exposure to a contact with confirmed infection, oseltamivir, 75 mg orally once daily for 7 days, is recommended.
+
+208
+00:27:43,250 --> 00:27:49,275
+Antibacterial medications are added when a secondary bacterial pneumonia is suspected .
+
+209
+00:27:49,275 --> 00:28:00,925
+Vaccination Effective vaccines against influenza are formulated annually and encouraged for all women who will be pregnant during the influenza season, which extends from October through March.
+
+210
+00:28:00,925 --> 00:28:13,975
+Vaccination throughout the influenza season, but optimally before the end of October, is recommended (American College of Obstetricians and Gynecologists, 2019c; Grohskopf, 2020).
+
+211
+00:28:13,975 --> 00:28:25,562
+This is especially important for those affected by chronic medical disorders such as diabetes, heart disease, asthma, or human immunodeficiency virus (HIV) infection.
+
+212
+00:28:25,562 --> 00:28:34,000
+Influenza vaccination was associated with a 40-percent reduction in influenza-associated hospitalizations in pregnant women .
+
+213
+00:28:34,000 --> 00:28:45,950
+Importantly, no evidence shows teratogenicity or developmental problems in children exposed to maternal vaccination (Conlin, 2018; Ludvigsson, 2016).
+
+214
+00:28:45,950 --> 00:28:55,325
+Moreover, for mothers vaccinated during pregnancy, their infants are protected from lower respiratory tract infections for the first 3 months of life .
+
+215
+00:28:55,325 --> 00:28:59,000
+All inactivated or recombinant influenza
+
+216
+00:28:59,164 --> 00:29:02,214
+vaccines may be used in gravidas .
+
+217
+00:29:02,164 --> 00:29:10,089
+However, a live attenuated influenza virus vaccine available for intranasal use is not recommended for pregnant women.
+
+218
+00:29:10,089 --> 00:29:26,026
+Inactivated or recombinant influenza vaccines may be administered concomitantly or sequentially with other vaccines including COVID-19 and tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) vaccines.
+
+219
+00:29:26,026 --> 00:29:28,539
+# Coronavirus.
+
+220
+00:29:28,539 --> 00:29:35,101
+These single-stranded RNA viruses are named for the “crown” of surface proteins covering the particles.
+
+221
+00:29:35,101 --> 00:29:44,451
+Seven coronaviruses infect humans, four of which cause upper respiratory disease characterized by rhinorrhea, sneezing, and congestion .
+
+222
+00:29:44,451 --> 00:29:54,001
+Three newer coronaviruses of zoonotic origin have emerged in the past two decades and may cause serious lower respiratory tract illness in humans.
+
+223
+00:29:54,001 --> 00:30:03,501
+These are SARS-CoV, Middle East respiratory syndrome (MERS-CoV), and the novel coronavirus of 2019 (SARS-CoV-2).
+
+224
+00:30:03,501 --> 00:30:09,964
+The first SARS-CoV emerged from China in 2003 and infected more than 8000 people.
+
+225
+00:30:09,964 --> 00:30:17,751
+In a cohort of 12 pregnant women with confirmed infection, the predominant symptoms were myalgia, chills, and cough .
+
+226
+00:30:17,751 --> 00:30:30,626
+All women had radiographic evidence of atypical pneumonia, 33 percent required mechanical ventilation, and 80 percent of women diagnosed after 24 weeks’ gestation delivered preterm.
+
+227
+00:30:30,626 --> 00:30:36,739
+Although no vertical transmission occurred, the maternal fatality rate was 25 percent.
+
+228
+00:30:36,739 --> 00:30:46,051
+MERS-CoV emerged in the Middle East in 2012 and can cause respiratory illness, acute kidney injury, and gastrointestinal illness .
+
+229
+00:30:46,051 --> 00:30:53,314
+Although experience with MERS-CoV in pregnancy is limited, the mortality rate in a small series was 40 percent .
+
+230
+00:30:53,314 --> 00:30:56,101
+# SARS-CoV-2.
+
+231
+00:30:56,101 --> 00:31:03,276
+This virus causes the clinical illness known as coronavirus disease 2019 (COVID-19).
+
+232
+00:31:03,276 --> 00:31:16,614
+The SARS-CoV-2 pandemic began in China in late 2019, and by mid-2021 it had caused respiratory illness in more than 151 million people and 3 million deaths globally .
+
+233
+00:31:16,614 --> 00:31:22,839
+The mortality rate is between 1 and 2 percent in adults, and it increases sharply with age .
+
+234
+00:31:22,839 --> 00:31:29,664
+Compared with MERS-CoV and SARS-CoV, SARSCoV-2 is more infectious but less deadly.
+
+235
+00:31:29,664 --> 00:31:39,464
+Variants with increased transmissibility are emerging, and the Delta (B.1.617.2) variant has recently predominated .
+
+236
+00:31:39,464 --> 00:31:44,989
+Evidence suggests increased disease severity in gravidas who acquire this variant .
+
+237
+00:31:44,989 --> 00:31:50,289
+SARS-CoV-2 is predominantly transmitted via respiratory droplets.
+
+238
+00:31:50,289 --> 00:31:59,614
+Asymptomatic or presymptomatic individuals account for 40 to 50 percent of transmissions (He, 2020; Kimball, 2020).
+
+239
+00:31:59,614 --> 00:32:06,226
+The immune response to natural infection appears to require both humoral and cell-mediated immunity .
+
+240
+00:32:06,226 --> 00:32:14,051
+Because of the potential for asymptomatic transmission, interventions such as masking and social distancing are recommended .
+
+241
+00:32:14,051 --> 00:32:21,101
+Maternal Infection COVID-19 symptoms in gravidas do not differ from those in nonpregnant individuals.
+
+242
+00:32:21,101 --> 00:32:28,176
+An incubation period of approximately 5 to 14 days is followed by fever, cough, and myalgia.
+
+243
+00:32:28,176 --> 00:32:34,789
+Loss of smell (anosmia) and taste (ageusia) are reported in more than half of patients .
+
+244
+00:32:34,789 --> 00:32:39,201
+Diarrhea, nausea, and vomiting are somewhat less common.
+
+245
+00:32:39,201 --> 00:32:46,139
+Lower respiratory involvement develops in some individuals approximately 8 days after symptom onset .
+
+246
+00:32:46,139 --> 00:32:55,651
+Signs of worsening of disease include dyspnea, tachypnea, decreased oxygen saturation, and rarely, acute respiratory distress syndrome.
+
+247
+00:32:55,651 --> 00:33:06,989
+Imaging indicative of moderate to severe viral pneumonia reveals multifocal opacities in a predominantly peripheral distribution and ground glass opacities on computed tomography .
+
+248
+00:33:06,989 --> 00:33:13,964
+Pregnant women may be at higher risk for intensive care unit admission, invasive ventilation, and death .
+
+249
+00:33:13,964 --> 00:33:23,989
+A study from Parkland Hospital demonstrated that 5 percent of infected gravidas developed severe or critical illness, and diabetes may be a risk factor .
+
+250
+00:33:23,989 --> 00:33:33,101
+Although COVID-19 was not associated with adverse pregnancy outcomes, women with severe illness experienced a higher rate of preterm birth.
+
+251
+00:33:33,101 --> 00:33:43,614
+In a surveillance program of COVID-19 in pregnant women, the rate of preterm birth was higher than the general population—13 percent compared with 10 percent .
+
+252
+00:33:43,614 --> 00:33:46,301
+Figure 67-3.
+
+253
+00:33:46,301 --> 00:33:52,726
+A. Chest radiograph of a critically ill pregnant woman at 26 weeks’ gestation demonstrating
+
+254
+00:33:52,876 --> 00:33:57,863
+diffuse bilateral pulmonary opacities with peripheral predominance.
+
+255
+00:33:57,813 --> 00:34:09,276
+B. Axial image of the chest from a computed tomographic scan demonstrates advanced COVID-19 disease with multiple peripheral lobular consolidations and ground glass opacities.
+
+256
+00:34:09,276 --> 00:34:17,288
+Fetal Infection Infection of the placenta by SARS-CoV-2 has been demonstrated, but transmission to the fetus is rare .
+
+257
+00:34:17,288 --> 00:34:24,663
+Microscopic examination of the placenta may demonstrate inflammation and syncytiotrophoblast necrosis .
+
+258
+00:34:24,663 --> 00:34:33,751
+Standardized criteria have been proposed for determining definite, probable, or possible placental infection by SARSCoV-2 .
+
+259
+00:34:33,751 --> 00:34:44,938
+When vertical transmission does occur, infected neonates may have asymptomatic, mild, or severe illness (Raschetti, 2020; Sisman, 2020).
+
+260
+00:34:44,938 --> 00:34:54,413
+Adhikari and associates (2020) demonstrated infection in 3 percent of neonates tested at 24 and 48 hours after birth.
+
+261
+00:34:54,413 --> 00:34:58,576
+Mechanisms of vertical transmission are poorly understood.
+
+262
+00:34:58,576 --> 00:35:03,776
+No evidence suggests transmission of SARS-CoV-2 through breastmilk .
+
+263
+00:35:03,776 --> 00:35:12,263
+Newborns with SARS-CoV-2 do not need to be separated from their mothers but are isolated from the general newborn nursery population.
+
+264
+00:35:12,263 --> 00:35:15,038
+Figure 67-4.
+
+265
+00:35:15,038 --> 00:35:18,338
+Placental SARS-CoV-2 infection.
+
+266
+00:35:18,338 --> 00:35:24,026
+A. Histologic slide of a placenta with known maternal SARS-CoV-2 infection.
+
+267
+00:35:24,026 --> 00:35:35,451
+Large, discrete areas of the placenta showed increased perivillous fibrin (solid arrow), focal trophoblast necrosis (open arrow), and marked histiocytic inflammation.
+
+268
+00:35:35,451 --> 00:35:45,826
+B. Anti-SARSCoV-2 viral nucleocapsid antibody is positive in villous trophoblast (brown immunostaining), confirming placental infection.
+
+269
+00:35:45,826 --> 00:35:49,738
+Reproduced with permission from Dr. Rebecca Collins.
+
+270
+00:35:49,738 --> 00:35:57,001
+Diagnosis Active maternal infection can be diagnosed from nasopharyngeal, nasal, or saliva specimens.
+
+271
+00:35:57,001 --> 00:36:07,976
+Reverse transcriptase–polymerase chain reaction (RTPCR) testing identifies viral RNA, whereas rapid antigen testing detects viral antigen.
+
+272
+00:36:07,976 --> 00:36:17,338
+Several commercial tests are available and listed on the Centers for Disease Control and Prevention (CDC) (2021a) website.
+
+273
+00:36:17,338 --> 00:36:23,401
+Rapid antigen tests are inexpensive but less sensitive in asymptomatic individuals.
+
+274
+00:36:23,401 --> 00:36:35,976
+Thus, test result interpretation depends on pretest probability, epidemiological risk factors, and intended use for diagnostic or screening purposes in health-care or congregate settings.
+
+275
+00:36:35,976 --> 00:36:44,101
+The latter include dormitories, correctional facilities, nursing homes, and housing shelters providing social services.
+
+276
+00:36:44,101 --> 00:36:53,101
+Serological screening for IgG is used for epidemiological and seroprevalence studies rather than diagnosis of acute infection.
+
+277
+00:36:53,101 --> 00:37:01,113
+Management For mild to moderate illness, supportive care is indicated and delivery is reserved for obstetric indications.
+
+278
+00:37:01,113 --> 00:37:13,613
+For those with mild illness at high risk for clinical progression, anti-SARS-CoV-2 monoclonal antibodies may be administered within 10 days of symptom onset and according to variant predominance .
+
+279
+00:37:13,613 --> 00:37:22,176
+Pregnancy is considered a high-risk criterion, and use of monoclonal antibodies can be considered in consultation with specialists.
+
+280
+00:37:22,176 --> 00:37:28,788
+Inpatient observation may be considered for moderate illness, as up to 40 percent may worsen .
+
+281
+00:37:28,788 --> 00:37:42,426
+For pregnant women with severe to critical illness, inpatient management includes supporting respiratory function, managing comorbid conditions, and, when indicated, coordinating safe delivery with subspecialists .
+
+282
+00:37:42,426 --> 00:37:51,601
+The goal of respiratory support is to maintain oxygen saturation ≥95 percent and reduce dyspnea and tachypnea .
+
+283
+00:37:51,601 --> 00:37:59,101
+Prone positioning of gravidas to improve oxygenation in severe cases of COVID-19 pneumonia has been described .
+
+284
+00:37:59,101 --> 00:38:06,313
+With severe infection, a dysregulated inflammatory response contributes to lung injury and hypoxia.
+
+285
+00:38:06,313 --> 00:38:22,226
+A United Kingdom trial found decreased mortality rates at 28 days with intravenous or oral dexamethasone, 6 mg daily for up to 10 days in patients requiring supplemental oxygen or mechanical ventilation, compared with usual care .
+
+286
+00:38:22,226 --> 00:38:34,851
+In the ACTT-1 trial, intravenous remdesivir, a broad-spectrum antiviral agent, was associated with shortened time to recovery among patients requiring lowflow supplemental oxygen .
+
+287
+00:38:34,851 --> 00:38:42,163
+Remdesivir is approved by the Food and Drug Administration for treatment of COVID-19 in hospitalized adults.
+
+288
+00:38:42,163 --> 00:38:43,851
+Data on
+
+289
+00:38:44,020 --> 00:38:50,832
+efficacy and safety of antiviral and biological agents for COVID-19 in pregnancy are limited.
+
+290
+00:38:50,782 --> 00:39:01,820
+In a study of remdesivir in hospitalized gravidas with COVID-19, no serious adverse events were reported, but elevated serum aminotransaminase levels were common .
+
+291
+00:39:01,820 --> 00:39:13,382
+Decisions to use currently available therapeutic agents under Emergency Use Authorization are made in consultation with experts and should balance potential benefits and theoretical risks .
+
+292
+00:39:13,382 --> 00:39:20,382
+Antibiotics for respiratory illness are rarely necessary unless bacterial coinfection is suspected.
+
+293
+00:39:20,382 --> 00:39:26,957
+Prevention Non-pharmaceutical interventions are mainstays for reducing the spread of SARS-COV-2.
+
+294
+00:39:26,957 --> 00:39:33,707
+These include universal masking, maintaining physical distance of at least 6 feet, and hand hygiene.
+
+295
+00:39:33,707 --> 00:39:42,020
+In healthcare settings, airborne and contact isolation precautions are used, particularly when invasive procedures are planned .
+
+296
+00:39:42,020 --> 00:39:53,320
+Currently available vaccines are highly protective against viral transmission and clinical disease in nonpregnant adults (Baden, 2021; Polack, 2020).
+
+297
+00:39:53,320 --> 00:40:02,682
+In one study, the BNT162b2 mRNA vaccine was associated with a reduction in COVID-19 diagnosed in pregnancy .
+
+298
+00:40:02,682 --> 00:40:15,182
+The American College of Obstetricians and Gynecologists and the Society for Maternal-Fetal Medicine (2021) recommend that pregnant and lactating women receive the COVID-19 vaccine.
+
+299
+00:40:15,182 --> 00:40:25,807
+Individuals who accept vaccination are counseled to anticipate common reactions such as injection-site pain, headache, fatigue, myalgia, and low-grade fever .
+
+300
+00:40:25,807 --> 00:40:32,932
+Recent evidence from national experts suggests no greater miscarriage rate in gravidas receiving the vaccine .
+
+301
+00:40:32,932 --> 00:40:35,320
+# Mumps Virus.
+
+302
+00:40:35,320 --> 00:40:45,795
+This is an RNA paramyxovirus that primarily infects the salivary glands but also may involve the gonads, meninges, pancreas, and other organs.
+
+303
+00:40:45,795 --> 00:40:52,132
+It is transmitted by direct contact with respiratory secretions, saliva, or fomites.
+
+304
+00:40:52,132 --> 00:41:00,757
+Most transmission occurs before and within 5 days of parotitis onset, and droplet isolation is recommended during this time .
+
+305
+00:41:00,757 --> 00:41:07,157
+Treatment is symptomatic, and mumps during pregnancy is no more severe than in nonpregnant adults.
+
+306
+00:41:07,157 --> 00:41:13,970
+An increased risk of spontaneous abortion has been observed in women who acquire mumps in the first trimester.
+
+307
+00:41:13,970 --> 00:41:20,170
+Infection is not associated with congenital malformations, and fetal infection is rare .
+
+308
+00:41:20,170 --> 00:41:32,770
+Recent outbreaks in previously vaccinated young adults prompted the recommendation of a third dose of measles-mumps-rubella (MMR) vaccine for at-risk nonpregnant individuals during any outbreak .
+
+309
+00:41:32,770 --> 00:41:36,382
+The MMR vaccine is a live-virus vaccine.
+
+310
+00:41:36,382 --> 00:41:43,620
+Thus, it is contraindicated in pregnancy, although fetal risk from inadvertent administration is theoretical .
+
+311
+00:41:43,620 --> 00:41:47,870
+Pregnancy should be avoided for 30 days after vaccination.
+
+312
+00:41:47,870 --> 00:41:54,545
+The vaccine is encouraged for susceptible postpartum women, and breastfeeding is not contraindicated.
+
+313
+00:41:54,545 --> 00:41:57,770
+# Measles Virus (Rubeola).
+
+314
+00:41:57,770 --> 00:42:04,257
+This is a highly contagious RNA virus of the family Paramyxoviridae that infects only humans.
+
+315
+00:42:04,257 --> 00:42:13,607
+In endemic areas, annual outbreaks of measles occur in late winter and early spring, with larger epidemic cycles every 2 to 5 years.
+
+316
+00:42:13,607 --> 00:42:25,482
+Although once declared eliminated in the United States, recent outbreaks raise concerns regarding waning population immunity (Patel, 2019; Strebel, 2019).
+
+317
+00:42:25,482 --> 00:42:33,507
+Transmission is by respiratory droplets, and the secondary attack rate among susceptible contacts exceeds 90 percent .
+
+318
+00:42:33,507 --> 00:42:38,932
+Typical symptoms include fever, coryza, conjunctivitis, and cough.
+
+319
+00:42:38,932 --> 00:42:45,070
+Koplik spots, small white lesions with surrounding erythema, appear on the buccal mucosa.
+
+320
+00:42:45,070 --> 00:42:53,757
+A characteristic erythematous maculopapular rash develops on the face and neck and then spreads to the back, trunk, and extremities.
+
+321
+00:42:53,757 --> 00:43:00,670
+Diagnosis of acute infection is made by detection of measles-specific IgM antibodies in serum.
+
+322
+00:43:00,670 --> 00:43:09,882
+Additionally, measles RNA may be detected by RT-PCR testing of a throat swab, nasopharyngeal swab, or urine specimen.
+
+323
+00:43:09,882 --> 00:43:16,282
+Treatment of measles is supportive, and evaluation for secondary infections may be necessary.
+
+324
+00:43:16,282 --> 00:43:30,570
+For pregnant women without evidence of measles immunity, postexposure prophylaxis is intravenous immune globulin (IVIG), and a 400mg/kg dose is ideally given within 6 days of exposure .
+
+325
+00:43:30,570 --> 00:43:32,845
+Human immune globulin
+
+326
+00:43:33,004 --> 00:43:43,504
+IG) is a blood product used to provide antibodies for short-term prevention of infectious diseases and is prepared from plasma pools derived from thousands of donors.
+
+327
+00:43:43,454 --> 00:43:54,829
+Measles in pregnancy is associated with increased risk for pregnancy loss, pneumonia, and death (Eberhart-Phillips, 1993; Ogbuanu, 2014).
+
+328
+00:43:54,829 --> 00:44:05,179
+If a woman develops measles shortly before delivery, risk of serious infection developing in the neonate is considerable, and neonatal chemoprophylaxis is warranted.
+
+329
+00:44:05,179 --> 00:44:11,466
+As a live-virus vaccine, MMR vaccine is not provided during pregnancy as prevention.
+
+330
+00:44:11,466 --> 00:44:17,116
+However, MMR vaccination is not an indication for pregnancy termination.
+
+331
+00:44:17,116 --> 00:44:23,541
+Susceptible women are vaccinated routinely postpartum, and breastfeeding is not contraindicated.
+
+332
+00:44:23,541 --> 00:44:26,054
+# Rubella Virus.
+
+333
+00:44:26,054 --> 00:44:34,341
+Also called German measles, rubella is caused by an RNA togavirus and is of minor importance in the absence of pregnancy.
+
+334
+00:44:34,341 --> 00:44:42,066
+Transmission is via nasopharyngeal secretions, and the transmission rate is 80 percent to nonimmune individuals.
+
+335
+00:44:42,066 --> 00:44:46,391
+The peak incidence is late winter and spring in endemic areas .
+
+336
+00:44:46,391 --> 00:44:53,016
+In 2018, more than 26,000 cases of rubella virus were reported worldwide .
+
+337
+00:44:53,016 --> 00:45:03,941
+In the United States, ongoing or sustained transmission was eliminated in 2004, and large epidemics of rubella have virtually disappeared here because of immunization.
+
+338
+00:45:03,941 --> 00:45:12,841
+However, up to 10 percent of women are susceptible, and cases are also imported each year from countries with incomplete vaccine coverage .
+
+339
+00:45:12,841 --> 00:45:19,891
+Maternal rubella is usually a mild febrile illness that follows an incubation of 12 to 23 days.
+
+340
+00:45:19,891 --> 00:45:26,179
+A generalized maculopapular rash begins on the face and spreads to the trunk and extremities.
+
+341
+00:45:26,179 --> 00:45:33,754
+Other symptoms may include arthralgias or arthritis, head and neck lymphadenopathy, and conjunctivitis.
+
+342
+00:45:33,754 --> 00:45:38,916
+However, 25 to 50 percent of infections are asymptomatic.
+
+343
+00:45:38,916 --> 00:45:48,616
+Viremia usually precedes clinical signs by approximately a week, and adults are infectious during viremia and through 7 days after the rash appears.
+
+344
+00:45:48,616 --> 00:45:58,616
+Up to half of maternal infections are subclinical despite viremia that may cause spontaneous abortion or devastating fetal infection, described subsequently.
+
+345
+00:45:58,616 --> 00:46:08,629
+Diagnosis Rubella virus may be isolated from the urine, blood, nasopharynx, and cerebrospinal fluid for up to 2 weeks after rash onset.
+
+346
+00:46:08,629 --> 00:46:13,754
+However, the diagnosis is usually made with serological analysis.
+
+347
+00:46:13,754 --> 00:46:26,866
+Specific IgM antibody can be detected using enzyme-linked immunoassay for 4 to 5 days after onset of clinical disease, but antibody can persist for up to 6 weeks after appearance of the rash.
+
+348
+00:46:26,866 --> 00:46:33,304
+Importantly, rubella virus reinfection can give rise to transient low levels of IgM.
+
+349
+00:46:33,304 --> 00:46:37,316
+With this, no adverse fetal effects have been described.
+
+350
+00:46:37,316 --> 00:46:43,654
+A false-positive IgM result is also possible in populations with low prevalence of disease.
+
+351
+00:46:43,654 --> 00:46:49,241
+Serum IgG antibody titers peak 1 to 2 weeks after rash onset.
+
+352
+00:46:49,241 --> 00:46:57,704
+These may fail to distinguish between recent infection and preexisting immunity if the specimen is obtained more than a week after symptoms.
+
+353
+00:46:57,704 --> 00:47:06,529
+IgG avidity testing aids differentiation, and high-avidity IgG antibodies indicate an infection at least 2 months prior.
+
+354
+00:47:06,529 --> 00:47:14,191
+Fetal Effects Rubella virus is one of the most complete teratogens, and its effects are worst during organogenesis.
+
+355
+00:47:14,191 --> 00:47:21,741
+Up to 90 percent of pregnant women with rubella and a rash during the first 12 weeks of gestation have an affected fetus .
+
+356
+00:47:21,741 --> 00:47:30,604
+At 13 to 14 weeks’ gestation, this incidence is 50 percent, and by the end of the second trimester, it is 25 percent.
+
+357
+00:47:30,604 --> 00:47:34,191
+Defects are rare after 20 weeks’ gestation.
+
+358
+00:47:34,191 --> 00:47:45,041
+Features of congenital rubella syndrome are cardiac septal defects, pulmonary stenosis, microcephaly, cataracts, microphthalmia, and hepatosplenomegaly .
+
+359
+00:47:45,041 --> 00:47:53,816
+Other abnormalities include sensorineural deafness, intellectual disability, neonatal purpura, and radiolucent bone disease.
+
+360
+00:47:53,816 --> 00:48:03,016
+Neonates born with congenital rubella may shed the virus for many months and thus be a threat to other infants and to susceptible adults who contact them.
+
+361
+00:48:03,016 --> 00:48:07,316
+Management and Prevention Rubella has no specific treatment.
+
+362
+00:48:07,316 --> 00:48:12,554
+Droplet precautions for 7 days after the onset of the rash are recommended.
+
+363
+00:48:12,554 --> 00:48:18,816
+Postexposure passive immunization with IVIG may be of benefit if given within 5
+
+364
+00:48:18,988 --> 00:48:20,988
+days of exposure .
+
+365
+00:48:20,938 --> 00:48:31,563
+When rubella infection is diagnosed in the mother, targeted sonographic examination is performed to evaluate for fetal structural anomalies described in the last section.
+
+366
+00:48:31,563 --> 00:48:36,825
+Referral to and counseling by a maternal–fetal medicine specialist is warranted.
+
+367
+00:48:36,825 --> 00:48:49,425
+If ultrasound findings suggest congenital infection or growth delay, diagnostic amniocentesis is recommended to detect rubella virus by PCR and to test for other congenital infections.
+
+368
+00:48:49,425 --> 00:48:57,275
+As prevention, MMR vaccine should be offered to nonpregnant women of childbearing age who lack evidence of immunity.
+
+369
+00:48:57,275 --> 00:49:06,325
+Vaccination of all susceptible hospital personnel who might be exposed to patients with rubella or who might have contact with pregnant women is important.
+
+370
+00:49:06,325 --> 00:49:17,025
+Rubella vaccination is avoided 1 month before or during pregnancy because the vaccine contains attenuated live virus, although the fetal malformation risk is theoretical.
+
+371
+00:49:17,025 --> 00:49:21,850
+MMR vaccination is not an indication for pregnancy termination.
+
+372
+00:49:21,850 --> 00:49:27,338
+Prenatal serological screening for rubella is indicated for all pregnant women.
+
+373
+00:49:27,338 --> 00:49:32,263
+Women found to be nonimmune are offered the MMR vaccine postpartum.
+
+374
+00:49:32,263 --> 00:49:35,250
+# Parvovirus B19.
+
+375
+00:49:35,250 --> 00:49:39,838
+This virus causes erythema infectiosum or fifth disease.
+
+376
+00:49:39,838 --> 00:49:47,988
+It is a small, singlestranded DNA virus that replicates in rapidly proliferating cells such as erythroblast precursors.
+
+377
+00:49:47,988 --> 00:49:52,425
+This can lead to anemia, which is its primary fetal effect.
+
+378
+00:49:52,425 --> 00:50:01,500
+In individuals with increased red cell turnover, such as with sicklecell disease, parvovirus infection may cause an aplastic crisis.
+
+379
+00:50:01,500 --> 00:50:11,213
+The primary mode of parvovirus transmission is respiratory secretions, although infection through blood transfusion or organ donation has been reported.
+
+380
+00:50:11,213 --> 00:50:15,163
+Most infections occur in late winter to early spring.
+
+381
+00:50:15,163 --> 00:50:21,025
+The maternal infection rate is highest in women with school-aged children and in day-care workers.
+
+382
+00:50:21,025 --> 00:50:27,350
+Viremia develops 4 to 14 days after exposure, and a rash follows several days later.
+
+383
+00:50:27,350 --> 00:50:33,400
+An otherwise immunocompetent individual is no longer infectious at the onset of the rash.
+
+384
+00:50:33,400 --> 00:50:37,550
+By adulthood, only 40 percent of women are susceptible.
+
+385
+00:50:37,550 --> 00:50:44,525
+The annual seroconversion rate is 1 to 2 percent, and the secondary attack rate approaches 50 percent.
+
+386
+00:50:44,525 --> 00:50:50,475
+Maternal Infection In 20 to 30 percent of adults, infection is asymptomatic.
+
+387
+00:50:50,475 --> 00:50:57,438
+In others, fever, headache, and flu-like symptoms may begin in the last few days of the viremic phase.
+
+388
+00:50:57,438 --> 00:51:04,488
+Several days later, a bright red rash with erythroderma affects the face and gives a slapped-cheek appearance.
+
+389
+00:51:04,488 --> 00:51:08,988
+The rash becomes lacelike and spreads to the trunk and extremities.
+
+390
+00:51:08,988 --> 00:51:16,025
+Adults often have milder rashes and develop symmetrical polyarthralgia that may persist for several weeks.
+
+391
+00:51:16,025 --> 00:51:21,250
+No evidence suggests that parvovirus infection is altered by pregnancy.
+
+392
+00:51:21,250 --> 00:51:30,025
+With recovery, IgM antibody is generated 7 to 10 days postinfection, and production persists for 3 to 4 months.
+
+393
+00:51:30,025 --> 00:51:38,150
+Several days after IgM is produced, IgG antibody is detectable and persists for life with natural immunity .
+
+394
+00:51:38,150 --> 00:51:49,100
+Fetal Infection There is vertical transmission to the fetus in up to a third of maternal parvovirus infections (de Jong, 2011; Lamont, 2011).
+
+395
+00:51:49,100 --> 00:51:54,900
+Fetal infection is associated with abortion, nonimmune hydrops, and stillbirth .
+
+396
+00:51:54,900 --> 00:52:05,675
+The fetal loss rate with serologically proven parvovirus infection is 8 to 17 percent before 20 weeks’ gestation, and 2 to 6 percent after midpregnancy .
+
+397
+00:52:05,675 --> 00:52:13,725
+Currently, no data support screening asymptomatic mothers or evaluating stillborn fetuses for parvovirus infection.
+
+398
+00:52:13,725 --> 00:52:16,575
+Figure 67-5.
+
+399
+00:52:16,575 --> 00:52:24,975
+Stillborn, hydropic fetus and characteristically large placenta resulting from intrauterine parvovirus B19 infection.
+
+400
+00:52:24,975 --> 00:52:28,775
+Reproduced with permission from Dr. April Bleich.
+
+401
+00:52:28,775 --> 00:52:35,125
+Fetal hydrops develops in approximately 4 percent of gravidas infected with parvovirus .
+
+402
+00:52:35,125 --> 00:52:41,538
+Still, it is the most frequent infectious cause of nonimmune hydrops in autopsied fetuses .
+
+403
+00:52:41,538 --> 00:52:46,225
+Hydrops usually stems from infection in the first half of gestation.
+
+404
+00:52:46,225 --> 00:52:53,663
+In one report, more than 80 percent of cases of fetal infection developed within 10 weeks of maternal infection.
+
+405
+00:52:53,663 --> 00:52:56,813
+The mean interval was 6 to 7 weeks .
+
+406
+00:52:56,813 --> 00:53:04,563
+The critical period for maternal infection leading to fetal hydrops is estimated to be between 13 and 16 weeks’
+
+407
+00:53:04,732 --> 00:53:10,969
+gestation, which coincides with the period in which fetal hepatic hemopoiesis is greatest .
+
+408
+00:53:10,919 --> 00:53:20,107
+Diagnosis and Management An algorithm for diagnosis of maternal parvoviral infection is illustrated in Figure 67-6.
+
+409
+00:53:20,107 --> 00:53:27,907
+Diagnosis is generally made by maternal serological testing for specific IgG and IgM antibodies.
+
+410
+00:53:27,907 --> 00:53:36,444
+Viral DNA may be detectable by PCR testing in maternal serum during the prodrome and persist for months to years after infection.
+
+411
+00:53:36,444 --> 00:53:42,819
+Fetal infection is diagnosed by detection of B19 viral DNA in amnionic fluid .
+
+412
+00:53:42,819 --> 00:53:50,082
+Fetal and maternal viral loads do not predict fetal morbidity and mortality (de Haan, 2007).
+
+413
+00:53:50,082 --> 00:53:52,932
+Figure 67-6.
+
+414
+00:53:52,932 --> 00:53:59,482
+Algorithm for evaluation and management of human parvovirus B19 infection in pregnancy.
+
+415
+00:53:59,482 --> 00:54:16,019
+CBC = complete blood count; IgG = immunoglobulin G; IgM = immunoglobulin M; MCA = middle cerebral artery; PCR = polymerase chain reaction; RNA = ribonucleic acid.
+
+416
+00:54:16,019 --> 00:54:22,407
+Most cases of parvovirus-associated hydrops develop in the first 10 weeks after infection.
+
+417
+00:54:22,407 --> 00:54:28,007
+Thus, sonography should be performed every 2 weeks in women with recent infection.
+
+418
+00:54:28,007 --> 00:54:38,157
+As discussed in Chapter 14 (p. 262), middle cerebral artery (MCA) Doppler interrogation is used to predict fetal anemia.
+
+419
+00:54:38,157 --> 00:54:44,932
+MCA Doppler findings that suggest anemia may warrant fetal blood sampling followed by transfusion.
+
+420
+00:54:44,932 --> 00:54:51,444
+In hydropic fetuses without transfusion, mortality rates up to 30 percent have been reported.
+
+421
+00:54:51,444 --> 00:55:01,019
+With transfusion, 94 percent of hydrops cases resolve within 6 to 12 weeks, and the overall mortality rate is <10 percent.
+
+422
+00:55:01,019 --> 00:55:07,944
+Most fetuses require only one transfusion because hemopoiesis resumes as infection resolves.
+
+423
+00:55:07,944 --> 00:55:16,182
+Long-term Prognosis Neurodevelopmental outcomes in fetuses transfused for B19 infectioninduced anemia have varied.
+
+424
+00:55:16,182 --> 00:55:27,757
+In one review of 24 transfused hydropic fetuses, abnormal neurodevelopment was noted in 5 of 16 survivors—32 percent—at 6 months to 8 years .
+
+425
+00:55:27,757 --> 00:55:38,082
+Outcomes were not related to severity of fetal anemia or acidemia, and these investigators hypothesized that the infection itself induced cerebral damage.
+
+426
+00:55:38,082 --> 00:55:51,194
+In another study of 28 children treated with intrauterine transfusion, 11 percent had neurodevelopmental impairment during evaluation at a median age of 5 years (de Jong, 2012).
+
+427
+00:55:51,194 --> 00:55:59,594
+Conversely, Dembinski (2003) found no significant neurodevelopmental delay despite severe fetal anemia.
+
+428
+00:55:59,594 --> 00:56:09,857
+Prevention Currently, no parvovirus vaccine is available, and no antiviral agent is recommended for prevention or treatment of maternal or fetal infection.
+
+429
+00:56:09,857 --> 00:56:16,407
+Decisions to avoid higher-risk work settings are complex and require assessment of exposure risks.
+
+430
+00:56:16,407 --> 00:56:32,407
+Pregnant women should be counseled that risks for infection approximate 5 percent for casual, infrequent contact; 20 percent for intense, prolonged work exposure such as for teachers; and 50 percent for close, frequent interaction such as in the home.
+
+431
+00:56:32,407 --> 00:56:40,307
+Workers at day-care centers and schools need not avoid infected children because infectivity is greatest before clinical illness.
+
+432
+00:56:40,307 --> 00:56:44,557
+Last, infected children do not require isolation.
+
+433
+00:56:44,557 --> 00:56:47,782
+# Other Respiratory Viruses.
+
+434
+00:56:47,782 --> 00:56:57,382
+More than 200 antigenically distinct respiratory viruses cause the common cold, pharyngitis, laryngitis, bronchitis, and pneumonia.
+
+435
+00:56:57,382 --> 00:57:05,557
+The DNA-containing adenovirus is more likely to produce cough and lower respiratory tract involvement, including pneumonia.
+
+436
+00:57:05,557 --> 00:57:18,244
+The RNA-containing rhinovirus, respiratory enterovirus, and nonpandemic common coronavirus usually produce a trivial illness characterized by rhinorrhea, sneezing, and congestion.
+
+437
+00:57:18,244 --> 00:57:30,794
+An enterovirus named EV-D68 caused large outbreaks of respiratory illness in several countries and was linked to clusters of poliolike illness in children, known as acute flaccid myelitis .
+
+438
+00:57:30,794 --> 00:57:35,007
+The teratogenic risks of respiratory viruses are low.
+
+439
+00:57:35,007 --> 00:57:45,157
+In one study, amnionic fluid viral PCR testing was done on samples from 1191 women undergoing amniocentesis for fetal karyotyping .
+
+440
+00:57:45,157 --> 00:57:53,082
+Viral PCR was positive in 6.5 percent, and adenovirus was the virus most frequently identified.
+
+441
+00:57:53,082 --> 00:58:01,782
+There was an association with fetal-growth restriction, nonimmune hydrops, foot/hand abnormalities, and neural-tube defects.
+
+442
+00:58:01,782 --> 00:58:06,869
+Adenoviral infection is a known cause of childhood myocarditis and
+
+443
+00:58:07,036 --> 00:58:12,298
+has been reported in cases of fetal myocarditis and nonimmune hydrops .
+
+444
+00:58:12,248 --> 00:58:15,073
+# Other Enteroviruses.
+
+445
+00:58:15,073 --> 00:58:31,686
+Characterized by a clinical phenotype distinct from that of respiratory enteroviruses, these viruses are a major subgroup of RNA picornaviruses that include nonrespiratory enterovirus species, coxsackievirus, poliovirus, and echovirus.
+
+446
+00:58:31,686 --> 00:58:43,061
+They are trophic for intestinal epithelium but can also cause widespread maternal, fetal, and neonatal infections that may include the CNS, skin, heart, and lungs.
+
+447
+00:58:43,061 --> 00:58:48,423
+Most maternal infections are subclinical yet can be fatal to the fetus-neonate .
+
+448
+00:58:48,423 --> 00:58:54,786
+Hepatitis A is an enterovirus discussed in Chapter 58 (p. 1036).
+
+449
+00:58:54,786 --> 00:58:59,961
+Coxsackievirus infections with group A and B are usually asymptomatic.
+
+450
+00:58:59,961 --> 00:59:14,461
+Symptomatic infections—usually with group B—include aseptic meningitis; polio-like illness; hand, foot, and mouth disease; rashes; respiratory disease; pleuritis; pericarditis; and myocarditis.
+
+451
+00:59:14,461 --> 00:59:17,623
+No treatment or vaccination is available .
+
+452
+00:59:17,623 --> 00:59:26,411
+Coxsackievirus may be transmitted by maternal secretions to the fetus at delivery in up to half of mothers who seroconverted during pregnancy .
+
+453
+00:59:26,411 --> 00:59:35,611
+Transplacental passage also has been reported, which may cause neonatal skin lesions, myocarditis, pneumonia, or encephalitis .
+
+454
+00:59:35,611 --> 00:59:43,173
+Some have reported higher rates of cardiac anomalies and of low-birthweight, preterm, and growth-restricted newborns .
+
+455
+00:59:43,173 --> 00:59:48,723
+Polioviruses are highly contagious and cause subclinical or mild infections.
+
+456
+00:59:48,723 --> 00:59:54,298
+The virus is trophic for the brain, and it can cause paralytic poliomyelitis .
+
+457
+00:59:54,298 --> 01:00:03,023
+Siegel (1955) demonstrated that pregnant women not only were more susceptible to polio but also had a higher death rate.
+
+458
+01:00:03,023 --> 01:00:09,848
+Perinatal transmission has been observed, especially when maternal infection developed in the third trimester .
+
+459
+01:00:09,848 --> 01:00:20,248
+Inactivated subcutaneous polio vaccine is recommended for susceptible pregnant women who must travel to endemic areas or are placed in other high-risk situations.
+
+460
+01:00:20,248 --> 01:00:27,298
+Live oral polio vaccine has been used for mass vaccination during pregnancy without harmful fetal effects .
+
+461
+01:00:27,298 --> 01:00:30,261
+# Mosquito-borne Viruses.
+
+462
+01:00:30,261 --> 01:00:35,961
+West Nile Virus This mosquito-borne RNA flavivirus is a human neuropathogen.
+
+463
+01:00:35,961 --> 01:00:40,936
+It is the most common cause of arthropod-borne disease in the United States .
+
+464
+01:00:40,936 --> 01:00:48,861
+West Nile viral infection is typically acquired through mosquito bites and is rarely transmitted through donated blood or organs.
+
+465
+01:00:48,861 --> 01:00:55,298
+The incubation period is 2 to 14 days, and most persons have mild or no symptoms.
+
+466
+01:00:55,298 --> 01:01:02,136
+Less than 1 percent of infected adults develop meningoencephalitis or acute flaccid paralysis.
+
+467
+01:01:02,136 --> 01:01:09,211
+With these, presenting symptoms may include fever, mental status changes, muscle weakness, and coma .
+
+468
+01:01:09,211 --> 01:01:19,323
+West Nile infection is diagnosed based on clinical symptoms and detection of viral IgG and IgM in serum and IgM in cerebrospinal fluid .
+
+469
+01:01:19,323 --> 01:01:24,498
+Management is supportive, and no effective antiviral treatment is available.
+
+470
+01:01:24,498 --> 01:01:35,036
+The primary strategy for preventing exposure in pregnancy is use of insect repellant containing N,N-diethyl-m-toluamide (DEET), which is considered safe .
+
+471
+01:01:35,036 --> 01:01:41,211
+Avoiding outdoor activity and stagnant water and wearing protective clothing also are recommended.
+
+472
+01:01:41,211 --> 01:01:45,911
+Adverse effects of West Nile viremia on pregnancy are unclear.
+
+473
+01:01:45,911 --> 01:02:01,923
+Animal data suggest that embryos are susceptible, and one case report of human fetal infection at 27 weeks’ gestation described chorioretinitis and severe cerebral leukomalacia (Alpert, 2003; Julander, 2006).
+
+474
+01:02:01,923 --> 01:02:15,348
+However, data from the West Nile Virus Pregnancy Registry show no increased risk for miscarriage, preterm birth, or major malformations (O’Leary, 2006; Pridjian, 2016).
+
+475
+01:02:15,348 --> 01:02:21,986
+No evidence suggests that maternal West Nile virus infection is harmful to a breastfeeding infant.
+
+476
+01:02:21,986 --> 01:02:28,323
+Zika Virus This RNA flavivirus is the first major mosquito-borne teratogen recognized .
+
+477
+01:02:28,323 --> 01:02:34,811
+Zika virus is primarily transmitted by mosquito bite, but sexual transmission is possible.
+
+478
+01:02:34,811 --> 01:02:44,511
+The virus may be detected in body fluids for months following acute infection (Joguet, 2017; Paz-Bailey, 2017).
+
+479
+01:02:44,511 --> 01:02:54,636
+It was first introduced to a nonimmune Brazilian population in 2014, but as of 2020, no countries had reported active Zika transmission.
+
+480
+01:02:54,636 --> 01:02:57,061
+Maternal-Fetal Infection.
+
+481
+01:02:57,061 --> 01:03:00,298
+Zika infection is asymptomatic in
+
+482
+01:03:00,460 --> 01:03:03,610
+approximately 80 percent of adults.
+
+483
+01:03:03,560 --> 01:03:10,610
+It may cause mild rash, fever, headache, arthralgia, and conjunctivitis lasting a few days.
+
+484
+01:03:10,610 --> 01:03:15,410
+The fetus can be severely infected whether or not the mother is symptomatic.
+
+485
+01:03:15,410 --> 01:03:23,622
+In one report of 134 women with positive RT-PCR results, the fetal mortality rate was 7 percent .
+
+486
+01:03:23,622 --> 01:03:31,285
+Among live births with first-trimester exposure, the rate of fetal birth defects ranges from 5 to 15 percent .
+
+487
+01:03:31,285 --> 01:03:46,447
+In the most severely affected fetuses, a congenital Zika syndrome has been described that includes microcephaly, lissencephaly, ventriculomegaly, intracranial calcifications, ocular abnormalities, and congenital contractures .
+
+488
+01:03:46,447 --> 01:03:48,910
+Diagnosis and Management.
+
+489
+01:03:48,910 --> 01:03:56,510
+Zika virus is typically detectable in blood around the time of symptom onset and may persist days to months in pregnant women .
+
+490
+01:03:56,510 --> 01:04:03,422
+Serum IgM antibodies typically become detectable within the first 2 weeks and may persist for months.
+
+491
+01:04:03,422 --> 01:04:09,622
+IgG antibodies develop shortly after IgM ones and confer long-lived immunity .
+
+492
+01:04:09,622 --> 01:04:21,572
+Laboratory testing for Zika infection is recommended only in symptomatic gravidas with residence in or recent travel to areas with active dengue transmission and risk for Zika transmission .
+
+493
+01:04:21,572 --> 01:04:31,810
+For a pregnant woman within 12 weeks of symptom onset, PCR testing of serum and urine specimens for both dengue and Zika virus RNA is recommended.
+
+494
+01:04:31,810 --> 01:04:42,347
+For women with prenatal ultrasound findings suggesting congenital Zika syndrome, Zika virus PCR and IgM are initially performed on serum and urine.
+
+495
+01:04:42,347 --> 01:04:50,472
+Amnionic fluid PCR may be performed, although less is known about its diagnostic accuracy for congenital infection.
+
+496
+01:04:50,472 --> 01:04:58,460
+Currently, no specific treatment or vaccine is available for Zika infection, although several vaccines are in development .
+
+497
+01:04:58,460 --> 01:05:09,710
+Prophylaxis includes protective netting, insect spray to control the vector mosquito, personal DEET spray use, and avoidance of sexual contact with partners recently exposed.
+
+498
+01:05:09,710 --> 01:05:12,122
+# Ebola Virus.
+
+499
+01:05:12,122 --> 01:05:19,585
+A member of the RNA Filoviridae family, the Ebola virus is transmitted by direct person-to-person contact .
+
+500
+01:05:19,585 --> 01:05:27,735
+Infection produces a severe hemorrhagic fever with pronounced immunosuppression and disseminated intravascular coagulopathy.
+
+501
+01:05:27,735 --> 01:05:29,897
+Treatment is supportive.
+
+502
+01:05:29,897 --> 01:05:38,235
+Data are few concerning Ebola viral infection in gravidas (Money, 2015; Oduyebo, 2015).
+
+503
+01:05:38,235 --> 01:05:51,485
+Henwood and associates (2017) described an approximate 50-percent risk of death among pregnant and nonpregnant women with Ebola virus disease, and universally poor fetal and neonatal outcomes.
+
+504
+01:05:51,485 --> 01:05:58,172
+That said, no evidence suggests that pregnant women are more susceptible to Ebola virus infection.
+
+505
+01:05:58,172 --> 01:06:06,572
+In survivors, persistent Ebola virus has been detected months after recovery in “sanctuary sites” such as the eyes and gonads.
+
+506
+01:06:06,572 --> 01:06:17,410
+A live-attenuated Ebola virus vaccine, rVSV-ZEBOV, was approved in 2019 in the United States for individuals studying or treating Ebola virus.
+
+507
+01:06:17,410 --> 01:06:30,660
+Among 84 health-care workers who inadvertently received vaccination in early pregnancy or who became pregnant soon after vaccination, pregnancy loss or congenital anomalies were not associated with the vaccine .
+
+508
+01:06:30,660 --> 01:06:33,022
+Bacterial Infections.
+
+509
+01:06:33,022 --> 01:06:35,897
+# Group A Streptococcus.
+
+510
+01:06:35,897 --> 01:06:41,660
+Streptococcus pyogenes is the most frequent bacterial cause of acute pharyngitis.
+
+511
+01:06:41,660 --> 01:06:48,622
+In most cases, streptococcal pharyngitis, scarlet fever, and erysipelas are not life threatening.
+
+512
+01:06:48,622 --> 01:06:54,310
+Treatment, usually with penicillin, is equivalent for pregnant and nonpregnant women.
+
+513
+01:06:54,310 --> 01:07:01,522
+S pyogenes produces numerous toxins and enzymes responsible for its local and systemic toxicity.
+
+514
+01:07:01,522 --> 01:07:07,285
+Pyrogenic exotoxin-producing strains are usually associated with severe disease .
+
+515
+01:07:07,285 --> 01:07:12,785
+In the United States, S pyogenes infrequently causes puerperal infection.
+
+516
+01:07:12,785 --> 01:07:25,285
+Still, it remains the most common cause of severe maternal postpartum infection and death worldwide, and their incidence is rising (Hamilton, 2013; Wessels, 2018).
+
+517
+01:07:25,285 --> 01:07:31,522
+Puerperal infections are discussed in detail in Chapter 37 (p. 649).
+
+518
+01:07:31,522 --> 01:07:34,460
+# Group B Streptococcus.
+
+519
+01:07:34,460 --> 01:07:42,747
+Streptococcus agalactiae colonizes the gastrointestinal and genitourinary tract in 10 to 25 percent of gravidas .
+
+520
+01:07:42,747 --> 01:07:50,522
+Group B Streptococcus (GBS) is isolated in a transient, intermittent, or chronic fashion during pregnancy.
+
+521
+01:07:50,522 --> 01:07:53,047
+Although the organism is more
+
+522
+01:07:53,212 --> 01:07:58,924
+likely always present in these same women, its isolation is not always consistent.
+
+523
+01:07:58,874 --> 01:08:06,674
+Maternal and Perinatal Infection Maternal and fetal GBS effects range from asymptomatic colonization to septicemia.
+
+524
+01:08:06,674 --> 01:08:16,437
+S agalactiae can cause maternal bacteriuria, pyelonephritis, osteomyelitis, postpartum mastitis, and puerperal infections.
+
+525
+01:08:16,437 --> 01:08:25,574
+GBS may also have the ability to overcome normally protective cervical mucus barriers during pregnancy to cause ascending antenatal infection .
+
+526
+01:08:25,574 --> 01:08:40,062
+As such, GBS has also been implicated in preterm labor, prelabor rupture of membranes, chorioamnionitis, fetal infections, and stillbirth (Randis, 2014; Seale, 2017).
+
+527
+01:08:40,062 --> 01:08:47,399
+Among newborns in the United States, GBS remains the leading infectious cause of morbidity and mortality .
+
+528
+01:08:47,399 --> 01:09:00,949
+Infection <7 days after birth is defined as early-onset disease, although many investigators recognize a threshold of <72 hours of life as most compatible with intrapartum acquisition of disease .
+
+529
+01:09:00,949 --> 01:09:12,412
+Tudela and associates (2012) reported that newborns with early-onset GBS infection often had clinical evidence of fetal infection during labor or at delivery.
+
+530
+01:09:12,412 --> 01:09:20,337
+In many neonates, septicemia involves signs of serious illness that usually develop within 6 to 12 hours of birth.
+
+531
+01:09:20,337 --> 01:09:25,137
+These include respiratory distress, apnea, and hypotension.
+
+532
+01:09:25,137 --> 01:09:34,487
+At the outset, therefore, neonatal infection must be differentiated from respiratory distress syndrome caused by insufficient surfactant production .
+
+533
+01:09:34,487 --> 01:09:43,062
+The mortality rate with early-onset disease has declined to approximately 4 percent, and preterm newborns are disparately affected.
+
+534
+01:09:43,062 --> 01:09:54,012
+Late-onset disease caused by GBS is noted in 0.28 per 1000 live births and usually manifests as meningitis 1 week to 3 months after birth .
+
+535
+01:09:54,012 --> 01:10:01,174
+The mortality rate, although appreciable, is lower for late-onset meningitis than for early-onset sepsis.
+
+536
+01:10:01,174 --> 01:10:10,262
+Unfortunately, it is not uncommon for surviving infants of both early- and late-onset disease to exhibit devastating neurological sequelae.
+
+537
+01:10:10,262 --> 01:10:19,262
+Prophylaxis for Perinatal Infections Maternal intrapartum antibiotic administration is the main prevention of early-onset GBS disease.
+
+538
+01:10:19,262 --> 01:10:32,924
+In the United States, rates of early-onset neonatal sepsis decreased from 3 cases per 1000 live births in the early 1990s to 0.25 cases in the years following widespread prophylaxis .
+
+539
+01:10:32,924 --> 01:10:44,712
+Both culture- and risk-based criteria to identify candidates for intrapartum prophylaxis have been proposed and debated (Braye, 2019; Hughes, 2017).
+
+540
+01:10:44,712 --> 01:10:47,362
+Table 67-2.
+
+541
+01:10:47,362 --> 01:10:53,862
+Indications for Intrapartum Group B Streptococcal Infection Prophylaxisa Culture-based Prevention.
+
+542
+01:10:53,862 --> 01:11:05,849
+The American College of Obstetricians and Gynecologists (2020b) recommends universal vaginal-rectal culture screening for GBS at 36 to 38 weeks’ gestation.
+
+543
+01:11:05,849 --> 01:11:12,174
+This is followed by intrapartum antibiotic prophylaxis for women identified to be carriers.
+
+544
+01:11:12,174 --> 01:11:19,562
+Selective enrichment of the vaginal-rectal culture to favor GBS growth and then subculture improves detection.
+
+545
+01:11:19,562 --> 01:11:27,162
+GBS isolates can also be tested for inducible clindamycin resistance in women with reported penicillin allergy.
+
+546
+01:11:27,162 --> 01:11:39,637
+Updated guidance also recommends consideration of antenatal maternal penicillin-allergy testing in GBS-colonized women at high risk for anaphylaxis or IgE-mediated hypersensitivity .
+
+547
+01:11:39,637 --> 01:11:51,012
+In a recent surveillance study of neonates with early-onset sepsis, 53 percent of those diagnosed with GBS disease were born to mothers with negative antenatal screening results .
+
+548
+01:11:51,012 --> 01:12:02,274
+In women with heavy colonization, GBS may be specifically identified in a routine prenatal urine culture obtained to exclude asymptomatic bacteriuria (ASB).
+
+549
+01:12:02,274 --> 01:12:13,512
+Cultures with ≥105 colony-forming units (cfu) should prompt treatment of ASB to reduce the risk of acute pyelonephritis in pregnancy.
+
+550
+01:12:13,512 --> 01:12:20,062
+Values <105 do not require acute antepartum antibiotics for ASB.
+
+551
+01:12:20,062 --> 01:12:24,424
+However, women are given GBS prophylaxis in labor .
+
+552
+01:12:24,424 --> 01:12:35,662
+As a surrogate, we also consider a urine culture result that identifies gram-positive cocci, without further speciation, to be a presumptive positive result for GBS.
+
+553
+01:12:35,662 --> 01:12:37,862
+Risk-based Prevention.
+
+554
+01:12:37,862 --> 01:12:43,787
+This approach is recommended for women in labor and whose GBS culture results are not known.
+
+555
+01:12:43,787 --> 01:12:46,987
+It relies on risk factors associated
+
+556
+01:12:47,140 --> 01:12:50,315
+with intrapartum GBS transmission.
+
+557
+01:12:50,265 --> 01:12:57,327
+Intrapartum chemoprophylaxis is then given to candidates with criteria listed in Table 67-2.
+
+558
+01:12:57,327 --> 01:13:02,765
+At Parkland Hospital we use the risk-based approach for intrapartum prophylaxis.
+
+559
+01:13:02,765 --> 01:13:14,515
+Additionally, all term neonates who were not given intrapartum prophylaxis are treated in the delivery room with aqueous penicillin G, 50,000 to 60,000 units intramuscularly.
+
+560
+01:13:14,515 --> 01:13:28,840
+With this strategy, early-onset neonatal sepsis rates in our predominantly minority population decreased to levels similar to those reported by national surveillance data (Stafford, 2012; Wendel, 2002).
+
+561
+01:13:28,840 --> 01:13:31,627
+Nucleic Acid–based Testing.
+
+562
+01:13:31,627 --> 01:13:38,390
+Approximately 20 percent of laboratories now offer PCR testing for maternal GBS screening .
+
+563
+01:13:38,390 --> 01:13:46,577
+Additionally, a rapid point-of-care PCR test has been evaluated for intrapartum identification of maternal GBS .
+
+564
+01:13:46,577 --> 01:13:53,390
+One major limitation is cost, which is currently several times greater than that of culture-based techniques.
+
+565
+01:13:53,390 --> 01:14:00,040
+A second is the inability to determine antibiotic sensitivities using current PCR techniques.
+
+566
+01:14:00,040 --> 01:14:09,177
+GBS Vaccine Serotype-specific capsular antibody concentrations clinically correlate with reduced rates of GBS neonatal disease.
+
+567
+01:14:09,177 --> 01:14:14,902
+However, vaccine development is challenged by the diversity of GBS serotypes.
+
+568
+01:14:14,902 --> 01:14:22,052
+Another hurdle is the bacterium’s ability to undergo serotype switching by altering its capsular polysaccharide .
+
+569
+01:14:22,052 --> 01:14:25,652
+No vaccines are clinically available at this time.
+
+570
+01:14:25,652 --> 01:14:35,127
+Intrapartum Antimicrobial Prophylaxis Penicillin remains the first-line agent for prophylaxis, and ampicillin is an acceptable alternative .
+
+571
+01:14:35,127 --> 01:14:41,140
+Women with a penicillin allergy and at low risk for anaphylaxis are given cefazolin .
+
+572
+01:14:41,140 --> 01:14:55,327
+Those at high risk for anaphylaxis or other life-threatening reaction, such as Stevens-Johnson syndrome, should have antimicrobial susceptibility testing for erythromycin and clindamycin performed on GBS isolates.
+
+573
+01:14:55,327 --> 01:15:02,890
+Clindamycin-sensitive but erythromycin-resistant isolates should undergo inducible clindamycin resistance testing.
+
+574
+01:15:02,890 --> 01:15:08,202
+If clindamycin resistance is confirmed, vancomycin should be administered.
+
+575
+01:15:08,202 --> 01:15:12,952
+Erythromycin is no longer used for penicillin-allergic patients.
+
+576
+01:15:12,952 --> 01:15:15,602
+Table 67-3.
+
+577
+01:15:15,602 --> 01:15:30,640
+Regimens for Intrapartum Antimicrobial Prophylaxis for Perinatal GBS Disease Management of spontaneous preterm labor, threatened preterm delivery, or preterm prelabor rupture of membranes includes obtaining a GBS culture.
+
+578
+01:15:30,640 --> 01:15:35,590
+Intrapartum chemoprophylaxis is initiated until the culture results.
+
+579
+01:15:35,590 --> 01:15:47,177
+Women undergoing cesarean delivery before labor onset with intact membranes do not need GBS chemoprophylaxis, regardless of colonization status or gestational age.
+
+580
+01:15:47,177 --> 01:15:52,165
+# Methicillin-resistant Staphylococcus Aureus (MRSA).
+
+581
+01:15:52,165 --> 01:15:59,990
+Staphylococcus aureus is a pyogenic gram-positive organism and is considered the most virulent staphylococcal species.
+
+582
+01:15:59,990 --> 01:16:06,040
+It primarily colonizes the nares, skin, genital tissues, and oropharynx.
+
+583
+01:16:06,040 --> 01:16:13,365
+Although approximately 30 percent of adults carry S aureus, MRSA colonizes 2 percent of adults .
+
+584
+01:16:13,365 --> 01:16:19,140
+MRSA colonization is considered the greatest risk factor for subsequent infection .
+
+585
+01:16:19,140 --> 01:16:25,215
+MRSA infection may be hospital- or community-acquired MRSA (CAMRSA).
+
+586
+01:16:25,215 --> 01:16:34,702
+CA-MRSA is diagnosed in an outpatient setting or within 48 hours of hospitalization in a person without health-care exposures in the past year.
+
+587
+01:16:34,702 --> 01:16:42,252
+Exposures include prior hospitalization, dialysis or surgery, or indwelling catheters or devices .
+
+588
+01:16:42,252 --> 01:16:50,302
+In pregnant women, most cases are CAMRSA, which disproportionately affects persons in lower socioeconomical strata .
+
+589
+01:16:50,302 --> 01:16:58,202
+MRSA and Pregnancy Skin and soft tissue infections are the most common presentation of MRSA in pregnant women.
+
+590
+01:16:58,202 --> 01:17:08,402
+Mastitis and breast abscesses have been reported in up to a fourth of MRSA cases in pregnancy (Laibl, 2005; Lee, 2010).
+
+591
+01:17:08,402 --> 01:17:22,990
+Perineal or episiotomy abscess, abdominal surgical site infection, and rare placental abscess and chorioamnionitis have been associated with MRSA (Maeda, 2018; Pimentel, 2009).
+
+592
+01:17:22,990 --> 01:17:33,427
+Last, osteomyelitis and spinal-epidural abscess have been topics of case reports (Tanamai, 2016; Vakili, 2017).
+
+593
+01:17:33,427 --> 01:17:36,927
+Vertical transmission of MRSA is rare.
+
+594
+01:17:36,927 --> 01:17:43,990
+Postnatal colonization and infection in the newborn are associated with maternal and health-care worker colonization
+
+595
+01:17:44,140 --> 01:17:51,127
+or infection near the time of delivery (Jimenez-Truque, 2012; Reich, 2016).
+
+596
+01:17:51,077 --> 01:17:58,190
+Management Uncomplicated superficial infections are primarily managed by drainage and local wound care.
+
+597
+01:17:58,190 --> 01:18:11,140
+Although historically de-emphasized, evidence suggests benefit from antibiotic therapy added to incision and drainage of smaller abscesses (Daum, 2017; Forcade, 2012).
+
+598
+01:18:11,140 --> 01:18:22,702
+Severe superficial infections, especially those that fail to respond to local care or those in patients with medical comorbidities, are treated with MRSA-appropriate antibiotics.
+
+599
+01:18:22,702 --> 01:18:30,052
+Purulent cellulitis should be treated empirically for MRSA until culture and sensitivity results are available.
+
+600
+01:18:30,052 --> 01:18:40,327
+Most CA-MRSA strains are sensitive to trimethoprim-sulfamethoxazole or clindamycin (Miller, 2015; Talan, 2016).
+
+601
+01:18:40,327 --> 01:18:45,552
+Rifampin rapidly develops resistance and should not be used as monotherapy.
+
+602
+01:18:45,552 --> 01:18:53,377
+Linezolid, although effective against MRSA, is expensive, and little information guides its use in pregnancy.
+
+603
+01:18:53,377 --> 01:19:02,190
+Although effective for MRSA infections, doxycycline, minocycline, and other tetracyclines should not be used in pregnancy.
+
+604
+01:19:02,190 --> 01:19:09,002
+Vancomycin remains a first-line therapy for inpatient treatment of serious MRSA infections.
+
+605
+01:19:09,002 --> 01:19:16,740
+The control and prevention of MRSA infection relies on appropriate hand hygiene and prevention of skin-to-skin contact.
+
+606
+01:19:16,740 --> 01:19:27,265
+Routine screening of obstetrical patients for MRSA colonization is not recommended (American College of Obstetricians and Gynecologists, 2020c.
+
+607
+01:19:27,265 --> 01:19:41,527
+That said, for women with culture-proven MRSA colonization or infection, we add a single dose of vancomycin to routine beta-lactam perioperative prophylaxis for cesarean deliveries and deep perineal lacerations.
+
+608
+01:19:41,527 --> 01:19:46,327
+Decolonization is not effective in the general obstetrical population .
+
+609
+01:19:46,327 --> 01:19:54,952
+Breastfeeding in women colonized with MRSA is not prohibited, but optimal hygiene and attention to minor skin breaks is encouraged.
+
+610
+01:19:54,952 --> 01:19:57,502
+# Listeriosis.
+
+611
+01:19:57,502 --> 01:20:09,127
+Listeria monocytogenes is a facultative intracellular gram-positive bacillus that causes 100 to 200 infections requiring hospitalization each year in the United States .
+
+612
+01:20:09,127 --> 01:20:12,427
+Nearly all cases are thought to be foodborne.
+
+613
+01:20:12,427 --> 01:20:21,102
+Outbreaks have been caused by contaminated dairy products, fruits and vegetables, and undercooked or processed meats and deli foods.
+
+614
+01:20:21,102 --> 01:20:29,127
+Invasive listerial infections are more common in pregnant women, immunocompromised patients, and the very old or young.
+
+615
+01:20:29,127 --> 01:20:36,640
+For unclear reasons, infection during pregnancy is 10 to 20 times more common than in the general population .
+
+616
+01:20:36,640 --> 01:20:47,790
+Although pregnancy losses linked to listeriosis are more likely to be reported, another hypothesis is that pregnant women are more susceptible because of decreased cell-mediated immunity .
+
+617
+01:20:47,790 --> 01:20:59,715
+Maternal and Fetal Infection Infections with Listeria may result in noninvasive, febrile gastroenteritis, sepsis, or CNS infection after a 2- to 4-week incubation.
+
+618
+01:20:59,715 --> 01:21:09,615
+Listeriosis during pregnancy may be asymptomatic or may cause a febrile illness that is confused with influenza, pyelonephritis, or meningitis.
+
+619
+01:21:09,615 --> 01:21:15,152
+The diagnosis usually is not apparent until blood cultures are reported as positive.
+
+620
+01:21:15,152 --> 01:21:19,290
+Occult or clinical infection also may stimulate labor.
+
+621
+01:21:19,290 --> 01:21:29,002
+Transplacental bacterial invasion leads to fetal infection, which can result in stillbirth or clinical illness similar to early-onset GBS sepsis.
+
+622
+01:21:29,002 --> 01:21:38,602
+A classic description of overwhelming fetal infection is that of disseminated microabscesses and granulomas known as granulomatosis infantiseptica.
+
+623
+01:21:38,602 --> 01:21:44,015
+Chorioamnionitis is common, and placental macroabscesses may be seen.
+
+624
+01:21:44,015 --> 01:21:49,040
+Late-onset neonatal infection can also follow exposure at delivery.
+
+625
+01:21:49,040 --> 01:22:01,377
+In a review of 222 cases, infection with Listeria resulted in abortion or stillbirth in 20 percent, and neonatal sepsis developed in 68 percent of surviving newborns .
+
+626
+01:22:01,377 --> 01:22:09,965
+In one prospective cohort study, 24 percent of mothers experienced fetal loss, but none after 29 weeks’ gestation .
+
+627
+01:22:09,965 --> 01:22:15,490
+However, a neonatal case fatality rate of 21 percent has been reported .
+
+628
+01:22:15,490 --> 01:22:22,890
+Treatment with ampicillin plus gentamicin is usually recommended because of its synergism against Listeria species .
+
+629
+01:22:22,890 --> 01:22:27,827
+Trimethoprim-sulfamethoxazole can be given to penicillin-allergic women.
+
+630
+01:22:27,827 --> 01:22:31,202
+Maternal treatment in most cases is also
+
+631
+01:22:31,372 --> 01:22:34,047
+effective for fetal infection.
+
+632
+01:22:33,997 --> 01:22:36,459
+No vaccine is available.
+
+633
+01:22:36,459 --> 01:22:44,309
+Prevention is by washing raw vegetables, cooking all raw food, and avoiding the implicated foods listed previously .
+
+634
+01:22:44,309 --> 01:22:46,847
+# Salmonellosis.
+
+635
+01:22:46,847 --> 01:22:52,472
+Infections from Salmonella species continue to be a major cause of foodborne illness.
+
+636
+01:22:52,472 --> 01:23:00,959
+Six serotypes, including Salmonella subtypes typhimurium and enteritidis, account for most cases in the United States.
+
+637
+01:23:00,959 --> 01:23:06,559
+Nontyphoid Salmonella gastroenteritis is contracted through contaminated food.
+
+638
+01:23:06,559 --> 01:23:16,472
+Symptoms that include nonbloody diarrhea, abdominal pain, fever, chills, nausea, and vomiting begin 6 to 48 hours after exposure.
+
+639
+01:23:16,472 --> 01:23:19,547
+Diagnosis is made by stool studies .
+
+640
+01:23:19,547 --> 01:23:24,609
+Treatment is with intravenous crystalloid solutions given for rehydration.
+
+641
+01:23:24,609 --> 01:23:33,834
+Antimicrobials are not given in uncomplicated infections because they do not commonly shorten illness and may prolong the convalescent carrier state.
+
+642
+01:23:33,834 --> 01:23:40,397
+If gastroenteritis is complicated by high fever or bacteremia, antimicrobials are given .
+
+643
+01:23:40,397 --> 01:23:46,222
+Rare case reports have linked Salmonella enteritidis bacteremia with septic abortion .
+
+644
+01:23:46,222 --> 01:23:51,409
+Typhoid fever caused by Salmonella typhi remains a global health problem.
+
+645
+01:23:51,409 --> 01:23:57,172
+Infection is spread by oral ingestion of contaminated food, water, or milk.
+
+646
+01:23:57,172 --> 01:24:05,609
+Although uncommon in the United States, an outbreak in Central America in 2017 involved almost 300 cases .
+
+647
+01:24:05,609 --> 01:24:23,034
+Severe complications among patients requiring hospitalization include gastrointestinal bleeding—11 percent; intestinal perforation—9 percent; encephalopathy—8 percent; renal failure—6 percent; and cardiovascular collapse—7 percent .
+
+648
+01:24:23,034 --> 01:24:29,934
+In pregnant women, the disease is more likely to be encountered during epidemics and in those with recent travel .
+
+649
+01:24:29,934 --> 01:24:33,109
+Septic abortion is rare but reported .
+
+650
+01:24:33,109 --> 01:24:44,097
+Fluroquinolones and third-generation cephalosporins are the preferred empirical treatment for enteric (typhoid) fever and invasive nontyphoidal Salmonella infection .
+
+651
+01:24:44,097 --> 01:24:52,034
+Antimicrobial susceptibility testing is important to tailor the course of therapy, which typically lasts 1 to 2 weeks.
+
+652
+01:24:52,034 --> 01:24:57,972
+Two licensed vaccines for prevention of typhoid fever are available in the United States .
+
+653
+01:24:57,972 --> 01:25:05,784
+From limited evidence, typhoid vaccine administration to pregnant women before travel is not linked to adverse outcomes.
+
+654
+01:25:05,784 --> 01:25:08,172
+# Shigellosis.
+
+655
+01:25:08,172 --> 01:25:18,697
+Transmitted via the fecal–oral route, shigellosis is a common cause of diarrheal outbreaks in children attending day-care centers and in adults following international travel.
+
+656
+01:25:18,697 --> 01:25:29,434
+Bacillary dysentery caused by Shigella species can range from mild diarrhea to severe dysentery with fever, bloody stools, abdominal cramping, and tenesmus.
+
+657
+01:25:29,434 --> 01:25:39,084
+In immunosuppressed individuals, severe infection may lead to toxic megacolon, seizures or meningitis, or hemolytic uremic syndrome .
+
+658
+01:25:39,084 --> 01:25:44,934
+Although mild infection is typically self-limited, treatment of dehydration is essential.
+
+659
+01:25:44,934 --> 01:25:51,397
+Antimotility drugs are avoided, and meticulous hygiene is recommended to avoid transmission.
+
+660
+01:25:51,397 --> 01:25:58,709
+Antimicrobial therapy during pregnancy includes fluoroquinolones, ceftriaxone, or azithromycin.
+
+661
+01:25:58,709 --> 01:26:05,847
+Resistance is rapidly emerging, and antibiotic susceptibility testing can help guide appropriate therapy .
+
+662
+01:26:05,847 --> 01:26:11,059
+Shigellosis can stimulate uterine contractions and cause preterm birth .
+
+663
+01:26:11,059 --> 01:26:13,422
+# Lyme Disease.
+
+664
+01:26:13,422 --> 01:26:21,684
+Caused by the spirochete Borrelia burgdorferi, Lyme disease is the most commonly reported vector-borne illness in the United States .
+
+665
+01:26:21,684 --> 01:26:26,284
+Lyme borreliosis results from tick bites of the genus Ixodes.
+
+666
+01:26:26,284 --> 01:26:28,509
+There are three stages .
+
+667
+01:26:28,509 --> 01:26:39,297
+Early infection—stage 1—causes a distinctive local skin lesion, erythema migrans, which may be accompanied by a flu-like syndrome and regional adenopathy.
+
+668
+01:26:39,297 --> 01:26:45,272
+If untreated, early disseminated infection—stage 2—follows in days to weeks.
+
+669
+01:26:45,272 --> 01:26:53,922
+Multisystem involvement is frequent, but skin lesions, neuropathies, myalgia, carditis, and meningitis predominate.
+
+670
+01:26:53,922 --> 01:27:03,484
+If still untreated after months, late or persistent infection—stage 3—manifests in perhaps half of patients as a migratory arthritis.
+
+671
+01:27:03,484 --> 01:27:09,972
+Native immunity is acquired, and the disease enters a chronic phase in approximately 10 percent.
+
+672
+01:27:09,972 --> 01:27:18,847
+Some patients remain asymptomatic, but others in the chronic phase develop various skin, joint, or neurological manifestations.
+
+673
+01:27:19,012 --> 01:27:25,374
+Clinical diagnosis is important because serological and PCR testing have many pitfalls .
+
+674
+01:27:25,324 --> 01:27:36,599
+IgM and IgG serological testing is recommended in early infection and is followed by a second test—either a second immunoassay or western blot—for confirmation .
+
+675
+01:27:36,599 --> 01:27:46,487
+Ideally, acute and convalescent serological evaluation is completed if possible, however, rates of false-positive and -negative results are high.
+
+676
+01:27:46,487 --> 01:27:51,337
+Treatment is recommended by the Infectious Diseases Society of America .
+
+677
+01:27:51,337 --> 01:27:59,962
+For erythema migrans, doxycycline for 10 days or amoxicillin or cefuroxime axetil for 14 days is recommended.
+
+678
+01:27:59,962 --> 01:28:04,499
+However, doxycycline is usually avoided in pregnancy.
+
+679
+01:28:04,499 --> 01:28:08,474
+Azithromycin for 7 days is a second-line regimen.
+
+680
+01:28:08,474 --> 01:28:16,637
+For other manifestations, a 14- to 28-day oral or intravenous course of the same first-line drugs is recommended.
+
+681
+01:28:16,637 --> 01:28:19,699
+No vaccine is commercially available.
+
+682
+01:28:19,699 --> 01:28:26,849
+Avoiding areas with endemic Lyme disease and improving tick control in those areas is the most effective prevention.
+
+683
+01:28:26,849 --> 01:28:34,287
+Selfexamination with removal of unengorged ticks within 36 hours of attachment reduces infection risk.
+
+684
+01:28:34,287 --> 01:28:43,724
+For tick bites recognized within 72 hours, a single 200-mg oral dose of doxycycline may reduce infection development .
+
+685
+01:28:43,724 --> 01:28:49,399
+Several reports describe Lyme disease in pregnancy, although large series are lacking.
+
+686
+01:28:49,399 --> 01:28:57,987
+Transplacental transmission has been confirmed, but no congenital effects of maternal borreliosis have been conclusively identified .
+
+687
+01:28:57,987 --> 01:29:03,874
+Prompt treatment of early maternal infection should prevent most adverse pregnancy outcomes.
+
+688
+01:29:03,874 --> 01:29:15,299
+In the northeast United States, between 2 and 40 percent of women with early Lyme disease may be co-infected with Babesia microti, which is another parasite transmitted by same tick.
+
+689
+01:29:15,299 --> 01:29:19,612
+Babesiosis has been reported to cause congenital infection .
+
+690
+01:29:19,612 --> 01:29:22,112
+# Tuberculosis.
+
+691
+01:29:22,112 --> 01:29:30,074
+Diagnosis and management of tuberculosis during pregnancy is discussed in Chapter 54 (p. 965).
+
+692
+01:29:30,074 --> 01:29:32,374
+Protozoal Infections.
+
+693
+01:29:32,374 --> 01:29:35,087
+# Toxoplasmosis.
+
+694
+01:29:35,087 --> 01:29:41,987
+The obligate intracellular parasite Toxoplasma gondii has a life cycle with two distinct stages .
+
+695
+01:29:41,987 --> 01:29:47,299
+The feline stage takes place in cats—the definitive host—and their prey.
+
+696
+01:29:47,299 --> 01:29:51,187
+Unsporulated oocysts are excreted in feces.
+
+697
+01:29:51,187 --> 01:30:00,187
+In the nonfeline stage, tissue cysts containing bradyzoites or oocysts are ingested by the intermediate host, including humans.
+
+698
+01:30:00,187 --> 01:30:07,249
+Gastric acid digests the cysts to release bradyzoites, which infect small-intestinal epithelium.
+
+699
+01:30:07,249 --> 01:30:14,599
+Here, they are transformed into rapidly dividing tachyzoites, which can infect all cells within the host mammal.
+
+700
+01:30:14,599 --> 01:30:20,837
+Humoral and cell-mediated immune defenses eliminate most of these, but tissue cysts develop.
+
+701
+01:30:20,837 --> 01:30:25,524
+Their lifelong persistence is the chronic form of toxoplasmosis.
+
+702
+01:30:25,524 --> 01:30:36,074
+Human infection is acquired by eating raw or undercooked meat infected with tissue cysts or by ingesting soil or water contaminated with oocysts from cat feces.
+
+703
+01:30:36,074 --> 01:30:44,687
+Prior infection is confirmed by serological testing, and its prevalence depends on geographical locale and parasite genotype.
+
+704
+01:30:44,687 --> 01:30:54,562
+The incidence of congenital toxoplasmosis in the United States has declined and now approximates 0.23 cases in 10,000 live births .
+
+705
+01:30:54,562 --> 01:31:03,712
+Maternal and Fetal Infection Most acute maternal infections are subclinical and are detected only by prenatal or newborn serological screening.
+
+706
+01:31:03,712 --> 01:31:09,649
+In some cases, maternal symptoms may include a flu-like illness with lymphadenopathy.
+
+707
+01:31:09,649 --> 01:31:19,424
+In immunocompetent adults, initial infection confers immunity, and prepregnancy infection nearly eliminates any risk of vertical transmission.
+
+708
+01:31:19,424 --> 01:31:29,537
+Infection in immunocompromised women, however, may be severe, and reactivation may cause encephalitis, chorioretinitis, or mass lesions.
+
+709
+01:31:29,537 --> 01:31:35,374
+Vertical transmission can cause fetal infection and then congenital toxoplasmosis.
+
+710
+01:31:35,374 --> 01:31:41,637
+The latter is a fetopathy characterized by ocular or intracranial lesions and growth delay.
+
+711
+01:31:41,637 --> 01:31:47,837
+Congenital toxoplasmosis is also associated with an increased risk for preterm delivery .
+
+712
+01:31:47,837 --> 01:31:52,712
+The estimated rate of vertical transmission rises with gestational age.
+
+713
+01:31:52,712 --> 01:32:02,774
+In one metaanalysis, the rate was 15 percent at 13 weeks, 44 percent at 26 weeks, and 71 percent at 36 weeks .
+
+714
+01:32:02,774 --> 01:32:10,612
+Although transmission risk is lower in early pregnancy, sequelae of congenital toxoplasmosis are more likely to be
+
+715
+01:32:10,780 --> 01:32:12,380
+severe .
+
+716
+01:32:12,330 --> 01:32:18,242
+Notably, most infected fetuses are born without obvious toxoplasmosis stigmata.
+
+717
+01:32:18,242 --> 01:32:27,167
+Clinically affected neonates usually have generalized disease expressed as low birthweight, hepatosplenomegaly, jaundice, and anemia.
+
+718
+01:32:27,167 --> 01:32:34,905
+Some primarily have neurological disease with intracranial calcifications, hydrocephaly, or microcephaly .
+
+719
+01:32:34,905 --> 01:32:40,130
+Many eventually develop chorioretinitis and exhibit learning disabilities.
+
+720
+01:32:40,130 --> 01:32:48,967
+This classic triad— chorioretinitis, intracranial calcifications, and hydrocephalus—is often accompanied by convulsions.
+
+721
+01:32:48,967 --> 01:32:54,392
+Infected neonates with clinical signs are at risk for long-term complications .
+
+722
+01:32:54,392 --> 01:33:03,817
+Screening and Diagnosis With IgG antibody confirmed before pregnancy, there is no risk for fetal infection in immunocompetent hosts.
+
+723
+01:33:03,817 --> 01:33:15,917
+The American College of Obstetricians and Gynecologists (2020a) does not recommend prenatal screening for toxoplasmosis in low-prevalence areas, including the United States.
+
+724
+01:33:15,917 --> 01:33:24,380
+Screening IgG serology tests should be performed in immunocompromised gravidas, including those with HIV infection.
+
+725
+01:33:24,380 --> 01:33:29,067
+Pregnant women with suspected toxoplasmosis also should be tested.
+
+726
+01:33:29,067 --> 01:33:33,492
+The parasite is rarely detected in tissue or body fluids.
+
+727
+01:33:33,492 --> 01:33:44,755
+IgG antibodies against Toxoplasma develop within 2 to 3 weeks after infection, peak at 1 to 2 months, and usually persist for life—sometimes in high titers.
+
+728
+01:33:44,755 --> 01:33:54,355
+Although IgM antibodies appear by 10 days after infection and usually become negative within 3 to 4 months, they may remain detectable for years.
+
+729
+01:33:54,355 --> 01:34:00,405
+Thus, IgM antibodies are not used alone to diagnose acute toxoplasmosis.
+
+730
+01:34:00,405 --> 01:34:13,030
+Best results are obtained with the Toxoplasma Serologic Profile performed at the Dr. Jack S. Remington Laboratory for Specialty Diagnostics (www.sutterhealth.org).
+
+731
+01:34:13,030 --> 01:34:17,180
+Toxoplasma IgG avidity increases with time.
+
+732
+01:34:17,180 --> 01:34:24,555
+Thus, if a high-avidity IgG result is found, infection in the preceding 3 to 5 months is excluded.
+
+733
+01:34:24,555 --> 01:34:33,155
+Multiple tests are available that allow high-avidity results to confirm latent infection with a 100-percent positive predictive value .
+
+734
+01:34:33,155 --> 01:34:46,880
+Congenital toxoplasmosis is suspected when sonography reveals findings such as hydrocephaly, intracranial or hepatic calcifications, ascites, placental thickening, hyperechoic bowel, and growth restriction.
+
+735
+01:34:46,880 --> 01:34:52,117
+These are similar to abnormalities that may be seen with congenital CMV.
+
+736
+01:34:52,117 --> 01:35:05,730
+If these are found incidentally, diagnostic amniocentesis with PCR testing for toxoplasma as well as cytomegalovirus DNA is recommended, along with maternal serologic testing for both infections.
+
+737
+01:35:05,730 --> 01:35:19,442
+The sensitivity of PCR for detection of toxoplasma DNA varies with gestational age and is lowest before 18 weeks’ gestation (Filisetti, 2015; Yamamoto, 2017).
+
+738
+01:35:19,442 --> 01:35:25,630
+Management Prenatal treatment of acute maternal toxoplasmosis is based on two regimens.
+
+739
+01:35:25,630 --> 01:35:33,080
+Spiramycin may be given alone, or a pyrimethamine plus sulfonamide combination is taken with folinic acid .
+
+740
+01:35:33,080 --> 01:35:36,942
+These two regimens have also been used consecutively.
+
+741
+01:35:36,942 --> 01:35:44,917
+Most experts will use spiramycin in women with acute infection early in pregnancy to reduce the risk of vertical transmission.
+
+742
+01:35:44,917 --> 01:35:51,130
+Because it does not cross the placenta, spiramycin may not be used to treat fetal infection.
+
+743
+01:35:51,130 --> 01:36:00,580
+Pyrimethamine plus sulfadiazine with folinic acid is selected for maternal infection after 18 weeks’ gestation or if fetal infection is suspected.
+
+744
+01:36:00,580 --> 01:36:12,417
+The SYROCOT study group (2007) reviewed data from 1438 treated pregnancies and found weak evidence for early treatment to reduce congenital toxoplasmosis risks.
+
+745
+01:36:12,417 --> 01:36:19,067
+Treatment has been associated with a reduced rate of serious neurological sequelae and neonatal demise .
+
+746
+01:36:19,067 --> 01:36:23,717
+Prevention No vaccine is available to prevent toxoplasmosis.
+
+747
+01:36:23,717 --> 01:36:50,392
+Strategies to avoid infection include: (1) cooking meat to safe temperatures; (2) peeling or thoroughly washing fruits and vegetables; (3) cleaning all food preparation surfaces and utensils that have contacted raw meat or unwashed fruits and vegetables; (4) wearing gloves when changing cat litter or delegating this duty; and (5) avoiding feeding cats raw or undercooked meat and keeping cats indoors.
+
+748
+01:36:50,392 --> 01:36:58,580
+Although these preventive steps are recommended, no robust data support their effectiveness (American College of Obstetricians
+
+749
+01:36:58,732 --> 01:37:04,232
+and Gynecologists, 2020a; Di Mario, 2015).
+
+750
+01:37:04,182 --> 01:37:06,369
+# Malaria.
+
+751
+01:37:06,369 --> 01:37:10,507
+This protozoan infection remains a global health crisis.
+
+752
+01:37:10,507 --> 01:37:18,169
+In 2018, it caused 260,000 deaths, and most occurred among children younger than 5 years .
+
+753
+01:37:18,169 --> 01:37:22,932
+Sub-Saharan Africa and India carry the largest burden of cases.
+
+754
+01:37:22,932 --> 01:37:34,169
+Malaria had been effectively eradicated in Europe and in most of North America, but some cases are imported in returning military personnel or recent immigrants from endemic areas .
+
+755
+01:37:34,169 --> 01:37:40,807
+Transmitted by infected Anopheles mosquitoes, six species of Plasmodium cause human disease.
+
+756
+01:37:40,807 --> 01:37:44,119
+Pregnant women have increased susceptibility .
+
+757
+01:37:44,119 --> 01:37:56,132
+After infection, antibodies to the parasite surface antigen VAR2CSA help mediate placental accumulation of infected erythrocytes and lead to the harmful effects of malaria .
+
+758
+01:37:56,132 --> 01:38:03,469
+Through this mechanism, some immunity accrues with parity and is termed pregnancy-specific antimalarial immunity.
+
+759
+01:38:03,469 --> 01:38:07,469
+Ironically, malaria treatment dampens this immunity.
+
+760
+01:38:07,469 --> 01:38:15,869
+Maternal and Fetal Infection Clinical manifestations are fever, chills, and flu-like symptoms, which may occur episodically.
+
+761
+01:38:15,869 --> 01:38:19,157
+Symptoms are less severe with recurrences.
+
+762
+01:38:19,157 --> 01:38:28,557
+Malaria may be associated with anemia and jaundice, and infections with Plasmodium falciparum may cause kidney failure, coma, and death.
+
+763
+01:38:28,557 --> 01:38:36,369
+That said, many otherwise healthy but infected adults in endemic areas are asymptomatic because of partial immunity.
+
+764
+01:38:36,369 --> 01:38:43,069
+Pregnant women, although often asymptomatic, are said to be more likely to develop traditional symptoms.
+
+765
+01:38:43,069 --> 01:38:52,269
+Malarial infections in pregnancy—either symptomatic or asymptomatic— are associated with higher rates of perinatal morbidity and mortality .
+
+766
+01:38:52,269 --> 01:38:58,707
+Adverse outcomes include stillbirth, preterm birth, low birthweight, and maternal anemia.
+
+767
+01:38:58,707 --> 01:39:02,782
+These correlate with high levels of placental parasitemia.
+
+768
+01:39:02,782 --> 01:39:11,894
+The maternal anemia and low birthweight are documented most frequently (Machado Filho, 2014; McClure, 2013).
+
+769
+01:39:11,894 --> 01:39:19,944
+Approximately 16 percent of low-birthweight neonates born to women in Africa are attributable to maternal malaria infection .
+
+770
+01:39:19,944 --> 01:39:28,394
+Effects stem from parasitized erythrocytes, monocytes, and macrophages that accumulate in the vascular areas of the placenta .
+
+771
+01:39:28,394 --> 01:39:34,719
+Infections with P falciparum are the worst, and early infection raises the risk for abortion.
+
+772
+01:39:34,719 --> 01:39:41,057
+The incidence of malaria increases significantly in the latter two trimesters and postpartum .
+
+773
+01:39:41,057 --> 01:39:48,019
+Despite this, congenital malaria develops in <5 percent of neonates born to infected mothers.
+
+774
+01:39:48,019 --> 01:39:50,832
+Figure 67-7.
+
+775
+01:39:50,832 --> 01:39:54,044
+Photomicrograph of placental malaria.
+
+776
+01:39:54,044 --> 01:39:59,432
+Multiple infected erythrocytes are seen, and two are identified (arrows).
+
+777
+01:39:59,432 --> 01:40:03,982
+Cross section of nearby chorionic villus is shown (arrowhead).
+
+778
+01:40:03,982 --> 01:40:12,769
+Diagnosis and Management Identification of parasites by microscopic evaluation of a blood smear remains the diagnostic gold standard.
+
+779
+01:40:12,769 --> 01:40:18,907
+In women with low parasite densities, however, the sensitivity of microscopy is poor.
+
+780
+01:40:18,907 --> 01:40:26,057
+Malaria-specific antigens are now being used for rapid testing, which has become the diagnostic standard .
+
+781
+01:40:26,057 --> 01:40:32,519
+For treatment, the most frequently used antimalarial drugs are not contraindicated in pregnancy.
+
+782
+01:40:32,519 --> 01:40:44,107
+The World Health Organization recommends that all infected patients living in or traveling from endemic areas be treated with an artemisinin-based regimen for uncomplicated falciparum malaria .
+
+783
+01:40:44,107 --> 01:40:51,444
+The CDC (2020c) recommends that initial treatment be determined by where the infection was acquired.
+
+784
+01:40:51,444 --> 01:41:04,369
+Pregnant women diagnosed with uncomplicated malaria caused by P vivax, P malariae, P ovale, and chloroquine-sensitive P falciparum should be treated with hydroxychloroquine or chloroquine .
+
+785
+01:41:04,369 --> 01:41:15,507
+For women infected with multidrug-resistant P falciparum, the first-line agent for gravidas in the second and third trimesters is a drug containing both artemether and lumefantrine.
+
+786
+01:41:15,507 --> 01:41:28,582
+The PREGACT Study Group (2016) compared four artemisinin-based drugs in 3428 pregnant women with falciparum malaria and reported no serious maternal or perinatal adverse effects.
+
+787
+01:41:28,582 --> 01:41:32,932
+Chloroquine-resistant P vivax should be treated with mefloquine.
+
+788
+01:41:32,932 --> 01:41:41,069
+Chloroquine-sensitive P vivax or P ovale should be treated with chloroquine throughout pregnancy and then primaquine postpartum.
+
+789
+01:41:41,069 --> 01:41:44,794
+Resistance to all the antimalarial drugs has
+
+790
+01:41:44,956 --> 01:41:50,193
+been reported, including the recently added artemisinin-based compounds.
+
+791
+01:41:50,143 --> 01:42:02,743
+Treatment regimens for uncomplicated and severe malarial infections in pregnancy are detailed at: www.cdc.gov/malaria/diagnosis_treatment.
+
+792
+01:42:02,743 --> 01:42:11,593
+The CDC also maintains a malaria hotline for treatment recommendations (855856-4713).
+
+793
+01:42:11,593 --> 01:42:20,568
+Prevention and Chemoprophylaxis Malaria control and prevention relies on chemoprophylaxis when traveling to or living in endemic areas.
+
+794
+01:42:20,568 --> 01:42:23,518
+Vector control also is important.
+
+795
+01:42:23,518 --> 01:42:32,281
+Insecticidetreated netting, pyrethroid insecticides, and DEET-based insect repellent lower malarial rates in endemic areas.
+
+796
+01:42:32,281 --> 01:42:35,318
+These are well tolerated in pregnancy.
+
+797
+01:42:35,318 --> 01:42:39,756
+If travel is necessary, chemoprophylaxis is recommended.
+
+798
+01:42:39,756 --> 01:42:45,768
+Chloroquine or hydroxychloroquine prophylaxis is safe and well tolerated in pregnancy.
+
+799
+01:42:45,768 --> 01:42:57,918
+One evaluation compared prophylaxis during pregnancy with either sulfadoxine-pyrimethamine or dihydroartemisininpiperaquine and found the latter to be more effective in preventing placental infection .
+
+800
+01:42:57,918 --> 01:43:06,068
+Atovaquone/proguanil use is approved for gravidas, however, primaquine and doxycycline are contraindicated .
+
+801
+01:43:06,068 --> 01:43:18,543
+The latest chemoprophylaxis regimens for pregnancy can be obtained from the CDC Travelers’ Health website at: www.cdc.gov/malaria/travelers/.
+
+802
+01:43:18,543 --> 01:43:28,793
+The CDC also publishes Health Information for International Travel (The Yellow Book) at: www.cdc.gov/yellowbook.
+
+803
+01:43:28,793 --> 01:43:40,843
+For women living in endemic areas, intermittent preventive treatment with sulfadoxine-pyrimethamine is superior to intermittent screening plus indicated treatment, although resistance is a growing concern .
+
+804
+01:43:40,843 --> 01:43:43,293
+# Amebiasis.
+
+805
+01:43:43,293 --> 01:43:51,193
+Approximately 10 percent of the world population is infected with Entamoeba histolytica, and most are asymptomatic .
+
+806
+01:43:51,193 --> 01:43:56,506
+Amebic dysentery, however, may take a fulminant course during pregnancy.
+
+807
+01:43:56,506 --> 01:44:00,843
+Symptoms are fever, abdominal pain, and bloody stools.
+
+808
+01:44:00,843 --> 01:44:05,106
+Prognosis is worse if complicated by a hepatic abscess.
+
+809
+01:44:05,106 --> 01:44:11,306
+Identifying E histolytica cysts or trophozoites within a stool sample is diagnostic.
+
+810
+01:44:11,306 --> 01:44:14,806
+Therapy is similar to that for nonpregnant woman.
+
+811
+01:44:14,806 --> 01:44:21,156
+For amebic colitis and invasive disease, tinidazole may be preferred over metronidazole, .
+
+812
+01:44:21,156 --> 01:44:23,506
+Mycotic Infections.
+
+813
+01:44:23,506 --> 01:44:34,868
+Disseminated fungal infection—usually pneumonitis—during pregnancy is uncommon with coccidiomycosis, blastomycosis, cryptococcosis, or histoplasmosis.
+
+814
+01:44:34,868 --> 01:44:41,331
+Their identification and management are considered in Chapter 54 (p. 965).
+
+815
+01:44:41,331 --> 01:44:47,418
+Vulvovaginal candidiasis is described in Chapter 68 (p. 1218).
+
+816
+01:44:47,418 --> 01:44:50,393
+Travel Precautions During Pregnancy.
+
+817
+01:44:50,393 --> 01:44:57,031
+Pregnant travelers face general medical, obstetrical, and potentially hazardous destination risks.
+
+818
+01:44:57,031 --> 01:45:00,443
+Several sources provide travel information .
+
+819
+01:45:00,443 --> 01:45:17,493
+The International Federation for Tropical Medicine has comprehensive information available at www.iftm-hp.org, and the International Society of Travel Medicine publishes information at www.istm.org.
+
+820
+01:45:17,493 --> 01:45:24,606
+Also, The Yellow Book from the CDC has extensive travel information regarding pregnancy and breastfeeding.
+
+821
+01:45:24,606 --> 01:45:26,581
+Bioterrorism.
+
+822
+01:45:26,581 --> 01:45:35,718
+The concept of bioterrorism involves the deliberate release of bacteria, viruses, or other infectious agents to cause illness or death.
+
+823
+01:45:35,718 --> 01:45:42,331
+These natural agents are often altered to raise their infectivity or their resistance to medical therapy.
+
+824
+01:45:42,331 --> 01:45:54,243
+Health-care providers should be alert for significant increases in the number of persons with febrile illnesses accompanied by respiratory symptoms or with rashes not easily associated with common illnesses.
+
+825
+01:45:54,243 --> 01:46:01,568
+Clinicians are urged to contact their state health department or the CDC for current information and recommendations.
+
+826
+01:46:01,568 --> 01:46:12,006
+In their Committee Opinion, the American College of Obstetricians and Gynecologists (2019b) has addressed disaster preparedness for obstetricians.
+
+827
+01:46:12,006 --> 01:46:14,393
+# Smallpox.
+
+828
+01:46:14,393 --> 01:46:19,543
+The variola virus causes smallpox and is considered a serious weapon.
+
+829
+01:46:19,543 --> 01:46:25,618
+The virus is highly transmissible and carries an overall 30-percent case fatality rate.
+
+830
+01:46:25,618 --> 01:46:35,193
+The last case of smallpox in the United States was reported in 1949, and worldwide it was reported in Somalia in 1977.
+
+831
+01:46:35,193 --> 01:46:43,418
+Nishiura (2006) has reviewed the severe perinatal and maternal morbidity and mortality caused by smallpox.
+
+832
+01:46:43,418 --> 01:46:48,968
+The case fatality rate of smallpox is 61 percent if the pregnant woman is
+
+833
+01:46:49,132 --> 01:46:51,044
+unvaccinated.
+
+834
+01:46:50,994 --> 01:47:00,069
+Rates of stillbirth, abortion, preterm delivery, and neonatal demise rise significantly in pregnancies complicated by this infection.
+
+835
+01:47:00,069 --> 01:47:03,744
+The smallpox vaccine is made with live virus.
+
+836
+01:47:03,744 --> 01:47:08,632
+Thus, pregnancy should be delayed for 4 weeks after vaccination.
+
+837
+01:47:08,632 --> 01:47:10,919
+# Anthrax.
+
+838
+01:47:10,919 --> 01:47:16,282
+Bacillus anthracis is a gram-positive, spore-forming, aerobic bacterium.
+
+839
+01:47:16,282 --> 01:47:23,282
+It can cause three main types of clinical anthrax: inhalational, cutaneous, and gastrointestinal .
+
+840
+01:47:23,282 --> 01:47:30,069
+Anthrax meningitis may accompany any of the clinical anthrax forms and is fatal in most cases.
+
+841
+01:47:30,069 --> 01:47:34,569
+When inhaled, anthrax spores are deposited in the alveoli.
+
+842
+01:47:34,569 --> 01:47:39,719
+They are engulfed by macrophages and germinate in mediastinal lymph nodes.
+
+843
+01:47:39,719 --> 01:47:45,307
+The incubational period is usually less than 1 week but may be as long as 2 months.
+
+844
+01:47:45,307 --> 01:47:54,394
+Within 1 to 5 days of symptom onset, the second stage is heralded by the abrupt onset of severe respiratory distress and high fevers.
+
+845
+01:47:54,394 --> 01:47:59,457
+Mediastinitis and hemorrhagic thoracic lymphadenitis are common.
+
+846
+01:47:59,457 --> 01:48:03,069
+Chest radiographs show a widened mediastinum.
+
+847
+01:48:03,069 --> 01:48:10,569
+Case-fatality rates with inhalational anthrax are high, even with aggressive antibiotic and supportive therapy.
+
+848
+01:48:10,569 --> 01:48:13,819
+# Other Bioterrorism Agents.
+
+849
+01:48:13,819 --> 01:48:28,919
+Other category A bioterrorism agents include Francisella tularensis— tularemia, Clostridium botulinum—botulism, Yersinia pestis—plague, and Ebola, Marburg, Lassa, or Machupo viruses—hemorrhagic fever.
+
+850
+01:48:28,919 --> 01:48:39,882
+The guidelines for these biological agents are evolving and are detailed at the CDC Bioterrorism website: emergency.cdc.gov/bioterrorism.
+

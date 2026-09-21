@@ -1,0 +1,2128 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:06,350
+Chapter 57: Gastrointestinal Disorders.
+
+3
+00:00:06,350 --> 00:00:32,937
+General Considerations Upper Gastrointestinal Tract Disorders Hyperemesis Gravidarum Gastroesophageal Reflux Disease Peptic Ulcer Disease Small Bowel And Colon Disorders Acute Diarrhea Inflammatory Bowel Disease Intestinal Obstruction Appendicitis References During normal pregnancy, the gastrointestinal (GI) tract and its appendages undergo remarkable anatomical, physiological, and functional alterations.
+
+4
+00:00:32,937 --> 00:00:43,612
+These changes, which are discussed in detail in Chapter 4 (p. 70), can appreciably alter clinical findings normally relied on for diagnosis and treatment.
+
+5
+00:00:43,612 --> 00:00:49,487
+Moreover, as pregnancy progresses, GI findings become more difficult to assess.
+
+6
+00:00:49,487 --> 00:00:59,250
+The clinical examination is often obscured by a large uterus that displaces abdominal organs and can alter the location and intensity of pain and tenderness.
+
+7
+00:00:59,250 --> 00:01:01,612
+General Considerations.
+
+8
+00:01:01,612 --> 00:01:04,487
+# Diagnostic Techniques.
+
+9
+00:01:04,487 --> 00:01:15,037
+Endoscopy Several endoscopic methods can be used to evaluate the gastrointestinal (GI) tract during pregnancy without reliance on radiographic techniques.
+
+10
+00:01:15,037 --> 00:01:26,337
+With fiberoptic endoscopic instruments, the esophagus, stomach, duodenum, and colon can be inspected (Savas, 2014; Song, 2018).
+
+11
+00:01:26,337 --> 00:01:40,612
+The proximal jejunum also can be studied, and the ampulla of Vater cannulated to perform endoscopic retrograde cholangiopancreatography—ERCP (Fogel, 2014; Hedström, 2017).
+
+12
+00:01:40,612 --> 00:01:47,337
+Experience in pregnancy with video capsule endoscopy for small-bowel evaluation remains limited .
+
+13
+00:01:47,337 --> 00:01:57,612
+Normal pregnancy-related slowing of GI motility and thus increased transit time as well as the recorder capsule’s electromagnetic field are theoretical concerns.
+
+14
+00:01:57,612 --> 00:02:03,862
+Upper gastrointestinal endoscopy is used for diagnosis and management of several problems.
+
+15
+00:02:03,862 --> 00:02:09,125
+Common bile duct exploration and drainage are used for choledocholithiasis .
+
+16
+00:02:09,125 --> 00:02:17,687
+Sclerotherapy and placement of percutaneous endoscopic gastrostomy (PEG) tubes also are performed endoscopically.
+
+17
+00:02:17,687 --> 00:02:23,137
+Colonoscopy is indispensible for viewing the entire colon and distal ileum.
+
+18
+00:02:23,137 --> 00:02:36,837
+Except for the midtrimester, reports of colonoscopy during pregnancy are limited, but most results suggest that it should be performed if necessary (De Lima, 2015; Ludvigsson, 2017).
+
+19
+00:02:36,837 --> 00:02:43,112
+Pregnancy indications include chronic abdominal pain, hematochezia, and diarrhea .
+
+20
+00:02:43,112 --> 00:02:51,725
+Bowel preparation is completed using polyethylene glycol electrolyte (GoLYTELY) or sodium sulfate (Suprep) solutions .
+
+21
+00:02:51,725 --> 00:02:58,600
+With these, most women avoid serious dehydration that may cause diminished uteroplacental perfusion.
+
+22
+00:02:58,600 --> 00:03:06,200
+In select cases, tap water enemas may be an alternative for rectosigmoidoscopy to avoid some of these risks.
+
+23
+00:03:06,200 --> 00:03:19,200
+Endoscopic procedures should be performed when indicated and ideally in the second trimester (American Society for Gastrointestinal Endoscopy, 2012; Ludvigsson, 2017).
+
+24
+00:03:19,200 --> 00:03:26,700
+A multidisciplinary approach with obstetricians, gastroenterologists, and anesthesiologists is prudent.
+
+25
+00:03:26,700 --> 00:03:32,425
+Table 57-1 outlines preprocedural considerations in pregnancy.
+
+26
+00:03:32,425 --> 00:03:34,987
+Table 57-1.
+
+27
+00:03:34,987 --> 00:03:47,125
+Preprocedural Considerations for Gastrointestinal Endoscopy During Pregnancy Noninvasive Imaging Techniques The ideal technique for GI tract imaging during pregnancy is abdominal sonography.
+
+28
+00:03:47,125 --> 00:03:53,300
+However, the gravid uterus may obscure abdominal organs making evaluation difficult.
+
+29
+00:03:53,300 --> 00:04:03,862
+Magnetic resonance (MR) imaging allows inspection of the abdomen and retroperitoneal space yet avoids radiation exposure from computed tomography (CT) .
+
+30
+00:04:03,862 --> 00:04:14,350
+Examples are MR cholangiopancreatography (MRCP) and MR enterography (MRE) (Oto, 2009; Stern, 2014).
+
+31
+00:04:14,350 --> 00:04:21,200
+These and other imaging modalities, and their safe use in pregnancy, are discussed in Chapter 49.
+
+32
+00:04:21,200 --> 00:04:30,200
+Laparotomy and Laparoscopy Surgery is lifesaving for certain GI conditions—perforative appendicitis being the most common example.
+
+33
+00:04:30,200 --> 00:04:36,675
+Intraabdominal surgery is the most frequently performed nonobstetrical procedure during pregnancy .
+
+34
+00:04:36,675 --> 00:04:43,975
+Laparoscopic procedures have replaced traditional surgical techniques for many abdominal disorders during pregnancy .
+
+35
+00:04:43,975 --> 00:04:55,287
+These are discussed in detail with descriptions of surgical technique in Chapter 49 (p. 867) and in Cunningham and Gilstrap’s Operative Obstetrics, 3rd edition .
+
+36
+00:04:55,287 --> 00:04:57,262
+Guidelines for
+
+37
+00:04:57,412 --> 00:05:10,337
+laparoscopy during pregnancy have been provided by the American College of Obstetricians and Gynecologists (2019) and the Society of American Gastrointestinal and Endoscopic Surgeons .
+
+38
+00:05:10,287 --> 00:05:12,974
+# Nutritional Support.
+
+39
+00:05:12,974 --> 00:05:24,562
+Specialized nutritional support can be delivered enterally, usually via nasogastric tube feedings, or parenterally by venous catheter access, either peripherally or centrally.
+
+40
+00:05:24,562 --> 00:05:34,912
+When possible, enteral alimentation is preferable because it has fewer serious complications (Hoffer, 2018; Stokke, 2015).
+
+41
+00:05:34,912 --> 00:05:42,399
+In obstetrical patients, very few conditions prohibit enteral nutrition as a first effort to prevent catabolism.
+
+42
+00:05:42,399 --> 00:05:53,849
+For extreme cases, such as recalcitrant hyperemesis gravidarum, percutaneous endoscopic gastrostomy with a jejunal port (PEG-J tube) has been described.
+
+43
+00:05:53,849 --> 00:05:59,449
+Parenteral nutrition provides nutrients when the intestinal tract must be quiescent.
+
+44
+00:05:59,449 --> 00:06:07,374
+Peripheral parenteral nutrition (PPN) administers dilute nutrient admixtures and is appropriate for short-term use.
+
+45
+00:06:07,374 --> 00:06:22,662
+Central venous access is necessary for central parenteral nutrition (CPN) because its hyperosmolarity requires rapid dilution in a high-flow vascular system (Robinson, 2018; Worthington, 2017).
+
+46
+00:06:22,662 --> 00:06:30,999
+These solutions provide 24 to 40 kcal/kg/d, principally as a hypertonic glucose solution.
+
+47
+00:06:30,999 --> 00:06:35,187
+Various conditions may prompt CPN during pregnancy .
+
+48
+00:06:35,187 --> 00:06:43,349
+The most common indications are short bowel syndrome and dysmotility disorders, and feeding duration averages 33 days .
+
+49
+00:06:43,349 --> 00:06:45,949
+Table 57-2.
+
+50
+00:06:45,949 --> 00:06:54,599
+Some Conditions Treated with Enteral or Parenteral Nutrition During Pregnancya Parenteral nutrition complications are frequent and may be severe .
+
+51
+00:06:54,599 --> 00:07:04,612
+The most common is catheter sepsis, and Folk (2004) reported a 25-percent incidence in 27 women with hyperemesis gravidarum.
+
+52
+00:07:04,612 --> 00:07:13,524
+The Centers for Disease Control and Prevention provides detailed guidelines to prevent catheter-related sepsis (O’Grady, 2011).
+
+53
+00:07:13,524 --> 00:07:21,749
+Other maternal complications include upper-extremity venous thrombosis, volume overload, and reversible liver dysfunction.
+
+54
+00:07:21,749 --> 00:07:30,624
+Perinatal complications are rare, however, fetal subdural hematoma caused by maternal vitamin K deficiency has been described .
+
+55
+00:07:30,624 --> 00:07:38,574
+Appreciable morbidity is also associated with long-term use of a peripherally inserted central catheter (PICC).
+
+56
+00:07:38,574 --> 00:07:47,299
+Again, infection is the most common serious long-term complication (Hoffer, 2018; Holmgren, 2008).
+
+57
+00:07:47,299 --> 00:08:00,524
+In a series of 84 such catheters inserted in 66 pregnant women, Cape and coworkers (2014) reported a 56-percent complication rate, and bacteremia was the most frequent.
+
+58
+00:08:00,524 --> 00:08:08,687
+For short-term nutrition lasting a few weeks, PICC placement and its greater benefit-versus-risk ratio seems reasonable .
+
+59
+00:08:08,687 --> 00:08:12,024
+Upper Gastrointestinal Tract Disorders.
+
+60
+00:08:12,024 --> 00:08:15,112
+# Hyperemesis Gravidarum.
+
+61
+00:08:15,112 --> 00:08:22,774
+Mild to moderate nausea and vomiting are especially common in pregnant women until approximately 16 weeks’ gestation .
+
+62
+00:08:22,774 --> 00:08:31,787
+In a small but significant proportion of these, however, it is severe and unresponsive to simple dietary modification and antiemetics.
+
+63
+00:08:31,787 --> 00:08:45,149
+Hyperemesis gravidarum is defined variably as severe unrelenting nausea and vomiting that produces weight loss, dehydration, ketosis, alkalosis from loss of hydrochloric acid, and hypokalemia.
+
+64
+00:08:45,149 --> 00:08:48,624
+Acidosis develops from partial starvation.
+
+65
+00:08:48,624 --> 00:08:57,887
+In some women, transient hepatic dysfunction develops, and biliary sludge accumulates (Table 58-1, p. 1031).
+
+66
+00:08:57,887 --> 00:09:04,374
+Other causes should first be considered because hyperemesis gravidarum is a diagnosis of exclusion.
+
+67
+00:09:04,374 --> 00:09:10,024
+Study criteria are not standardized, and thus population incidences vary .
+
+68
+00:09:10,024 --> 00:09:14,749
+However, an ethnic or familial predilection has been described .
+
+69
+00:09:14,749 --> 00:09:28,174
+In several population-based studies, the hospitalization rate for hyperemesis gravidarum was 0.5 to 2.1 percent (Fiaschi, 2019; Vikanes, 2013).
+
+70
+00:09:28,174 --> 00:09:35,424
+Up to 25 percent of those hospitalized in a previous pregnancy for hyperemesis will again require admission .
+
+71
+00:09:35,424 --> 00:09:41,962
+The etiopathogenesis of hyperemesis gravidarum is unknown and is likely multifactorial.
+
+72
+00:09:41,962 --> 00:10:00,749
+High or rapidly rising serum levels of pregnancyrelated hormones such as human chorionic gonadotropin (hCG), estrogen, progesterone, placental growth hormone, prolactin, thyroxine, and adrenocortical hormones are implicated (London, 2017; Verberg,
+
+73
+00:10:00,916 --> 00:10:14,016
+2005). Other associated hormones include ghrelins, leptin, nesfatin-1, and peptide YY 3–36 (Albayrak, 2013; Gungor, 2013).
+
+74
+00:10:13,966 --> 00:10:20,228
+Superimposed on this hormonal cornucopia are many biological and environmental factors.
+
+75
+00:10:20,228 --> 00:10:31,853
+Moreover, in some but not all severe cases, interrelated psychological components play a major role (Mitchell-Jones, 2017; Senturk, 2017).
+
+76
+00:10:31,853 --> 00:10:49,966
+Factors that increase the risk for admission include hyperthyroidism, previous pregnancy complicated by hyperemesis, diabetes, GI illnesses, some restrictive diets, and asthma (Fell, 2006; Fiaschi, 2016; Mullin, 2012).
+
+77
+00:10:49,966 --> 00:11:01,003
+An association of Helicobacter pylori infection has been proposed, but evidence is inconclusive (Goldberg, 2007; London, 2017).
+
+78
+00:11:01,003 --> 00:11:10,228
+Chronic marijuana use may cause the similar cannabinoid hyperemesis syndrome (Alaniz, 2015; Andrews, 2015).
+
+79
+00:11:10,228 --> 00:11:23,741
+And for unknown reasons— perhaps estrogen-related—a female fetus raises the risk but smoking and obesity decrease it by 1.5-fold (Cedergren, 2008; Fiaschi, 2016).
+
+80
+00:11:23,741 --> 00:11:35,166
+Some have reported a relationship between severe hyperemesis gravidarum and anemia, venous thromboembolism (VTE), gestational hypertension, and preeclampsia .
+
+81
+00:11:35,166 --> 00:11:40,166
+An association between hyperemesis and preterm birth is unclear .
+
+82
+00:11:40,166 --> 00:11:49,591
+Koren and colleagues (2018) suggested that prolonged vomiting may cause metabolic abnormalities that interfere with fetal brain development.
+
+83
+00:11:49,591 --> 00:11:53,903
+No long-term maternal consequences follow hyperemesis.
+
+84
+00:11:53,903 --> 00:12:05,003
+Specifically, two population-based studies found no unfavorable cardiovascular risks in Norwegian women (Fossum, 2017, 2018).
+
+85
+00:12:05,003 --> 00:12:14,778
+Complications Vomiting may be prolonged, frequent, and severe, and a list of potentially fatal complications is given in Table 57-3.
+
+86
+00:12:14,778 --> 00:12:22,516
+Various degrees of acute kidney injury from dehydration are encountered, and rhabdomyolysis may be contributory .
+
+87
+00:12:22,516 --> 00:12:32,366
+Rarely, we and others have encountered women with renal failure requiring dialysis (Dayangan Sayan, 2018; Hill, 2002).
+
+88
+00:12:32,366 --> 00:12:36,178
+Mallory-Weiss tears result from continuous retching.
+
+89
+00:12:36,178 --> 00:12:51,878
+Other complications include pneumothorax, pneumomediastinum, diaphragmatic rupture, and gastroesophageal rupture—Boerhaave syndrome (American College of Obstetricians and Gynecologists, 2018; Chen, 2012).
+
+90
+00:12:51,878 --> 00:12:54,503
+Table 57-3.
+
+91
+00:12:54,503 --> 00:13:05,191
+Some Serious and Life-Threatening Complications Reported with Hyperemesis Gravidaruma At least two serious vitamin deficiencies have been reported with hyperemesis in pregnancy.
+
+92
+00:13:05,191 --> 00:13:14,191
+One is Wernicke encephalopathy from thiamine deficiency (Di Gangi, 2012; Palacios-Marqués, 2012).
+
+93
+00:13:14,191 --> 00:13:23,366
+A systematic review reported that ocular signs, confusion, and ataxia were common, and approximately 60 percent had this triad .
+
+94
+00:13:23,366 --> 00:13:37,116
+In some women, an abnormal electroencephalogram (EEG) may be seen, and usually MR imaging shows findings (Oudman, 2019; Vaknin, 2006; Zara, 2012).
+
+95
+00:13:37,116 --> 00:13:41,803
+One woman had recurrent encephalopathy in a subsequent pregnancy .
+
+96
+00:13:41,803 --> 00:13:52,878
+Maternal deaths have been described, and long-term sequelae include blindness, convulsions, and coma (Oudman, 2019; Selitsky, 2006).
+
+97
+00:13:52,878 --> 00:13:56,366
+Vitamin K is a second potential deficiency.
+
+98
+00:13:56,366 --> 00:14:09,141
+Maternal coagulopathy, fetal intracranial hemorrhage, and vitamin K embryopathy have been reported (Kawamura, 2008; Lane, 2015; Nijsten, 2021).
+
+99
+00:14:09,141 --> 00:14:16,366
+Management One management algorithm for nausea and vomiting of pregnancy is shown in Figure 57-1.
+
+100
+00:14:16,366 --> 00:14:28,266
+Most women with mild to moderate symptoms respond to outpatient therapy with any of several first-line antiemetic agents (Boelig, 2018, McParlin, 2016).
+
+101
+00:14:28,266 --> 00:14:36,316
+One mainstay is Diclegis—a combination of doxylamine (10 mg) plus pyridoxine (10 mg).
+
+102
+00:14:36,316 --> 00:14:46,078
+The usual dose is two tablets orally at bedtime, and it appears safe and effective (Briggs, 2017; Koren, 2014).
+
+103
+00:14:46,078 --> 00:14:52,328
+If relief is insufficient, one additional first-morning tablet is added to the bedtime dose.
+
+104
+00:14:52,328 --> 00:15:02,116
+This can be further escalated to include one first-morning, one midafternoon, and two bedtime tablets (Duchesnay Inc., 2018).
+
+105
+00:15:02,116 --> 00:15:08,028
+At our institution, for cost savings, we prescribe these two agents individually.
+
+106
+00:15:08,028 --> 00:15:18,603
+The formula is one half of a 25-mg Unisom (doxylamine) tablet plus a 25-mg vitamin B6 (pyridoxine) tablet.
+
+107
+00:15:18,603 --> 00:15:24,191
+The same graduated dosing is used but does not exceed three total daily doses.
+
+108
+00:15:24,191 --> 00:15:26,778
+Figure 57-1.
+
+109
+00:15:26,778 --> 00:15:30,028
+Algorithm for outpatient and inpatient
+
+110
+00:15:30,196 --> 00:15:35,383
+management of pregnancy nausea and vomiting, and hyperemesis gravidarum.
+
+111
+00:15:35,333 --> 00:15:46,633
+Ondansetron (Zofran) is slightly more effective than the combination of doxylamine and pyridoxine (Oliveira, 2014; Pasternak, 2013).
+
+112
+00:15:46,633 --> 00:15:51,433
+In some studies, the former has been associated with birth defects .
+
+113
+00:15:51,433 --> 00:16:00,658
+However, after a recent systematic review of Cochrane and Reprotox databases, authors concluded that ondansetron is not teratogenic .
+
+114
+00:16:00,658 --> 00:16:07,183
+Other drawbacks include potential maternal effects from prolonged QT-interval and serotonin syndrome.
+
+115
+00:16:07,183 --> 00:16:13,208
+For these reasons it is preferably reserved for severe cases after 8 weeks’ gestation .
+
+116
+00:16:13,208 --> 00:16:24,758
+When simple measures fail, intravenous (IV) crystalloid solutions are given to correct dehydration, ketonemia, electrolyte deficits, and acid-base imbalances.
+
+117
+00:16:24,758 --> 00:16:29,371
+Hypokalemia is common, and cardiac arrest has been reported .
+
+118
+00:16:29,371 --> 00:16:34,996
+No benefits are gained by infusing 5-percent dextrose along with crystalloids .
+
+119
+00:16:34,996 --> 00:16:47,321
+Thiamine, 100 mg, is usually diluted in 1 L of the selected crystalloid to prevent Wernicke encephalopathy for women who require IV hydration and have vomited for more than 3 weeks .
+
+120
+00:16:47,321 --> 00:16:51,721
+It is infused at the maintenance rate desired for patient hydration.
+
+121
+00:16:51,721 --> 00:16:59,933
+This thiamine dose is provided daily for the next 2 to 3 days and is followed by IV multivitamins if IV hydration continues .
+
+122
+00:16:59,933 --> 00:17:06,958
+If vomiting persists after rehydration and failed outpatient management, hospitalization is recommended .
+
+123
+00:17:06,958 --> 00:17:16,433
+IV hydration is continued and antiemetics such as promethazine, prochlorperazine, chlorpromazine, or metoclopramide are given parenterally .
+
+124
+00:17:16,433 --> 00:17:24,521
+Several antiemetics are associated with the long-QT syndrome, discussed in Chapter 52 (p. 936).
+
+125
+00:17:24,521 --> 00:17:28,821
+Outpatient treatment regimens at the hospital also are effective .
+
+126
+00:17:28,821 --> 00:17:31,471
+Table 57-4.
+
+127
+00:17:31,471 --> 00:17:44,471
+Medications for Gastrointestinal Disorders in Pregnancy Some, but not all, studies indicate that treatment with glucocorticosteroids is not effective (Sridharan, 2020; Yost, 2003).
+
+128
+00:17:44,471 --> 00:17:50,071
+They are recommended only for refractory cases because of their putative teratogenicity .
+
+129
+00:17:50,071 --> 00:17:59,658
+With persistent vomiting after hospitalization, appropriate steps should be taken to exclude possible underlying diseases as a cause of hyperemesis.
+
+130
+00:17:59,658 --> 00:18:05,571
+That said, in one study, endoscopy did not change management in 49 women .
+
+131
+00:18:05,571 --> 00:18:15,083
+Other potential sources include gastroenteritis, cholecystitis, pancreatitis, hepatitis, peptic ulcer, and pyelonephritis.
+
+132
+00:18:15,083 --> 00:18:21,308
+In addition, severe preeclampsia and fatty liver are more likely after midpregnancy.
+
+133
+00:18:21,308 --> 00:18:34,496
+Although clinical thyrotoxicosis has been implicated as a cause of hyperemesis, it is more likely that abnormally elevated serum thyroxine levels are a surrogate for higher-than-average serum hCG levels .
+
+134
+00:18:34,496 --> 00:18:39,121
+This is discussed further in Chapter 5 (p. 97).
+
+135
+00:18:39,121 --> 00:18:46,208
+In our experiences, serum free thyroxine levels normalize quickly with hydration and emesis treatment.
+
+136
+00:18:46,208 --> 00:18:53,096
+With treatment, most women will have a positive response and may be sent home with oral antiemetic therapy.
+
+137
+00:18:53,096 --> 00:18:58,746
+The readmission rate is 25 to 35 percent in most prospective studies.
+
+138
+00:18:58,746 --> 00:19:07,446
+Risks for anxiety and depression are increased in these women (Mitchell-Jones, 2017; Senturk, 2017).
+
+139
+00:19:07,446 --> 00:19:13,333
+At Parkland Hospital, more than one third of women with hyperemesis required readmission.
+
+140
+00:19:13,333 --> 00:19:18,796
+Patient characteristics had limited utility in predicting the risk of readmission.
+
+141
+00:19:18,796 --> 00:19:28,471
+For example, maternal demographics, substance use, psychiatric illness, and initial hospitalization length were not associated with readmission .
+
+142
+00:19:28,471 --> 00:19:36,058
+If psychiatric and social factors contribute to the illness, the woman usually improves remarkably while hospitalized .
+
+143
+00:19:36,058 --> 00:19:49,171
+However, symptoms relapse in a fourth of these women, and some go on to develop posttraumatic stress syndrome (Christodoulou-Smith, 2011; McCarthy, 2011; Nurmi, 2018).
+
+144
+00:19:49,171 --> 00:19:54,496
+For some women, hyperemesis may be an indication for elective termination .
+
+145
+00:19:54,496 --> 00:20:01,083
+Grooten and colleagues (2017) showed that early enteral tube feeding has no advantages.
+
+146
+00:20:01,083 --> 00:20:11,658
+However, in the small percentage of women who have recalcitrant vomiting after intensive therapy, consideration is given for enteral nutrition (p. 1013).
+
+147
+00:20:11,658 --> 00:20:21,321
+Stokke and associates (2015) described successful use of nasojejunal feeding for up to 41 days in 107 such women.
+
+148
+00:20:21,321 --> 00:20:22,908
+Use of
+
+149
+00:20:23,068 --> 00:20:29,355
+sonography to confirm correct tube placement has been described and avoids radiation exposure .
+
+150
+00:20:29,305 --> 00:20:36,618
+PEG-J tubes also have been reported (Saha, 2009; Schrag, 2007).
+
+151
+00:20:36,618 --> 00:20:47,068
+Only a very few women will require parenteral nutrition (American College of Obstetricians and Gynecologists, 2018; Yost, 2003).
+
+152
+00:20:47,068 --> 00:20:57,630
+In a study of 599 women, however, Peled and coworkers (2014) reported that 20 percent required central parenteral nutrition.
+
+153
+00:20:57,630 --> 00:21:01,280
+# Gastroesophageal Reflux Disease.
+
+154
+00:21:01,280 --> 00:21:06,830
+Symptomatic reflux is seen in up to 15 percent of nonpregnant individuals .
+
+155
+00:21:06,830 --> 00:21:13,980
+The spectrum of sequelae includes esophagitis, stricture, Barrett esophagus, and adenocarcinoma.
+
+156
+00:21:13,980 --> 00:21:20,243
+The main symptom of reflux is pyrosis (heartburn), which is especially common in pregnancy.
+
+157
+00:21:20,243 --> 00:21:30,118
+In one study, its prevalence rose from 26 percent in the first trimester to 36 percent in the second and 51 percent in the third trimester .
+
+158
+00:21:30,118 --> 00:21:40,993
+The retrosternal burning sensation stems from esophagitis caused by gastroesophageal reflux of stomach acid, which follows relaxation of the lower esophageal sphincter.
+
+159
+00:21:40,993 --> 00:21:44,768
+The diagnosis is typically made from symptoms alone.
+
+160
+00:21:44,768 --> 00:21:55,943
+Symptoms usually respond to abstaining from tobacco and alcohol, eating small meals, elevating the head of the bed, limiting postprandial recumbency, and avoiding “trigger” foods.
+
+161
+00:21:55,943 --> 00:22:00,718
+These may include fatty foods, tomato-based foods, and coffee.
+
+162
+00:22:00,718 --> 00:22:04,018
+Oral antacids are first-line therapy.
+
+163
+00:22:04,018 --> 00:22:12,330
+If severe symptoms persist, a proton-pump inhibitor is given and an H2-receptor antagonist and sucralfate can be added .
+
+164
+00:22:12,330 --> 00:22:16,318
+Both classes are generally safe for use in pregnancy .
+
+165
+00:22:16,318 --> 00:22:23,855
+From preliminary data, proton-pump inhibitors taken early in pregnancy may increase the risk for preeclampsia .
+
+166
+00:22:23,855 --> 00:22:29,118
+Sucralfate is the aluminum salt of sulfated sucrose and inhibits pepsin.
+
+167
+00:22:29,118 --> 00:22:36,368
+Approximately 10 percent of the aluminum salt is absorbed, and this agent is considered safe for pregnant women .
+
+168
+00:22:36,368 --> 00:22:43,918
+A 1-g sucralfate tablet is taken orally 1 hour before each of the three meals and at bedtime for up to 8 weeks.
+
+169
+00:22:43,918 --> 00:22:49,393
+Antacids are not used within a half hour before or after sucralfate doses.
+
+170
+00:22:49,393 --> 00:22:55,468
+Despite attempts with these options, if relief is not attained, endoscopy should be considered.
+
+171
+00:22:55,468 --> 00:22:59,918
+Misoprostol is contraindicated because it stimulates labor .
+
+172
+00:22:59,918 --> 00:23:04,755
+In nonpregnant patients, surgical fundoplication can be performed .
+
+173
+00:23:04,755 --> 00:23:16,530
+Although the procedure is not done during pregnancy, Biertho and colleagues (2006) described 25 women who had undergone laparoscopic Nissen fundoplication before pregnancy.
+
+174
+00:23:16,530 --> 00:23:20,755
+Only 20 percent had reflux symptoms during pregnancy.
+
+175
+00:23:20,755 --> 00:23:23,243
+# Hiatal Hernia.
+
+176
+00:23:23,243 --> 00:23:28,355
+The older literature is informative regarding hiatal hernias in pregnancy.
+
+177
+00:23:28,355 --> 00:23:41,505
+Upper gastrointestinal radiographs performed in 195 women in late pregnancy showed that 20 percent of 116 multiparas and 5 percent of 79 nulliparas had a hiatal hernia .
+
+178
+00:23:41,505 --> 00:23:47,318
+Of 10 women studied postpartum, hernia persisted in three at 1 to 18 months.
+
+179
+00:23:47,318 --> 00:23:52,430
+The relationship of hiatal hernia with reflux esophagitis is not clear.
+
+180
+00:23:52,430 --> 00:24:01,268
+One study demonstrated no association and showed that the lower esophageal sphincter functioned effectively even when displaced intrathoracically .
+
+181
+00:24:01,268 --> 00:24:09,130
+Nevertheless, during pregnancy, hiatal hernias may cause vomiting, epigastric pain, and bleeding from ulceration.
+
+182
+00:24:09,130 --> 00:24:17,093
+Schwentner (2011) reported severe herniation requiring surgical repair in a woman with a 12week gestation.
+
+183
+00:24:17,093 --> 00:24:26,593
+Curran and coworkers (1999) described a 30-week pregnancy complicated by gastric outlet obstruction from a paraesophageal hernia.
+
+184
+00:24:26,593 --> 00:24:29,480
+# Diaphragmatic Hernia.
+
+185
+00:24:29,480 --> 00:24:36,018
+These are caused by herniations of abdominal contents through either the foramen of Bochdalek or Morgagni.
+
+186
+00:24:36,018 --> 00:24:39,668
+Fortunately, they rarely complicate pregnancy.
+
+187
+00:24:39,668 --> 00:24:49,243
+In one review of 18 pregnant women who developed acute obstruction within a diaphragmatic hernia, the maternal mortality rate was 45 percent .
+
+188
+00:24:49,243 --> 00:24:55,455
+Herniation has been reported in one woman who had antireflux surgery in early pregnancy .
+
+189
+00:24:55,455 --> 00:25:07,255
+Several case reports also describe spontaneous diaphragmatic rupture from elevated intraabdominal pressure during delivery (Chen, 2012; Sharifah, 2003).
+
+190
+00:25:07,255 --> 00:25:15,880
+Surgical treatment is considered in symptomatic gravidas and is individualized according to gestational age and clinical setting (Ménassa,
+
+191
+00:25:16,036 --> 00:25:19,973
+2019; Whang, 2018).
+
+192
+00:25:19,923 --> 00:25:22,136
+# Achalasia.
+
+193
+00:25:22,136 --> 00:25:29,148
+In this rare motility disorder, the lower esophageal sphincter fails to relax properly with swallowing.
+
+194
+00:25:29,148 --> 00:25:34,998
+The esophageal muscularis also displays nonperistaltic contraction activity .
+
+195
+00:25:34,998 --> 00:25:44,361
+The defect is caused by inflammatory destruction of the myenteric (Auerbach) plexus within smooth muscle of the lower esophagus and its sphincter.
+
+196
+00:25:44,361 --> 00:25:51,073
+Postganglionic cholinergic neurons are unaffected, and thus sphincter stimulation is unopposed.
+
+197
+00:25:51,073 --> 00:25:55,436
+Symptoms are dysphagia, chest pain, and regurgitation.
+
+198
+00:25:55,436 --> 00:26:02,286
+Barium swallow radiography demonstrates bird beak or ace of spades narrowing at the distal esophagus.
+
+199
+00:26:02,286 --> 00:26:08,611
+Endoscopy is performed to exclude gastric carcinoma, and manometry is confirmatory.
+
+200
+00:26:08,611 --> 00:26:17,373
+During pregnancy, normal physiological relaxation of the lower esophageal sphincter in women with achalasia theoretically should not occur.
+
+201
+00:26:17,373 --> 00:26:23,186
+In one series, half of these women had worsened symptoms, but reflux is uncommon .
+
+202
+00:26:23,186 --> 00:26:28,173
+In other pregnancy studies, most women did not have worsening symptoms .
+
+203
+00:26:28,173 --> 00:26:37,398
+At least one maternal death was reported at 24 weeks’ gestation and perforation of a 14-cm-diameter megaesophagus was implicated .
+
+204
+00:26:37,398 --> 00:26:42,811
+Management of achalasia includes a soft diet and anticholinergic drugs.
+
+205
+00:26:42,811 --> 00:26:55,711
+With persistent symptoms, other options include nitrates, calcium-channel antagonists, and botulinum toxin A injected locally (Hooft, 2015; Kahrilas, 2018).
+
+206
+00:26:55,711 --> 00:27:02,736
+Balloon dilation of the sphincter may be necessary, and 85 percent of nonpregnant patients respond .
+
+207
+00:27:02,736 --> 00:27:08,511
+One caveat is that esophageal perforation is a serious complication of dilation.
+
+208
+00:27:08,511 --> 00:27:14,248
+If dilation or medical therapy fail to provide relief, myotomy is considered.
+
+209
+00:27:14,248 --> 00:27:24,911
+In one report, a 29week pregnant woman with achalasia was treated for 10 weeks with peripheral parenteral nutrition, and surgical myotomy was done postpartum .
+
+210
+00:27:24,911 --> 00:27:27,673
+# Peptic Ulcer Disease.
+
+211
+00:27:27,673 --> 00:27:32,673
+The lifetime prevalence of acid peptic disorders in women is 10 percent .
+
+212
+00:27:32,673 --> 00:27:36,736
+Erosive ulcer disease involves the stomach and duodenum.
+
+213
+00:27:36,736 --> 00:27:47,636
+Gastroduodenal ulcers commonly are caused by chronic gastritis from Helicobacter pylori, or they develop from nonsteroidal antiinflammatory drug (NSAID) use.
+
+214
+00:27:47,636 --> 00:27:53,836
+Neither is common in pregnancy (McKenna, 2003; Weyermann, 2003).
+
+215
+00:27:53,836 --> 00:28:05,973
+Rosen and coworkers (2021) reported 2535 pregnant women with peptic ulcer disease and found that complications were less frequent than in nonpregnant controls.
+
+216
+00:28:05,973 --> 00:28:12,436
+Acid secretion also is important, and this underlies the efficacy of antisecretory agents.
+
+217
+00:28:12,436 --> 00:28:25,073
+Natural gastroprotection during pregnancy probably originates from physiological changes that include reduced gastric acid secretion, decreased motility, and considerably increased mucus secretion .
+
+218
+00:28:25,073 --> 00:28:31,998
+Despite this, ulcer disease may be underdiagnosed because of frequent treatment for reflux esophagitis .
+
+219
+00:28:31,998 --> 00:28:42,911
+In the past 55 years at Parkland Hospital, during which time we have cared for more than 600,000 pregnant women, we have encountered very few who had proven ulcer disease.
+
+220
+00:28:42,911 --> 00:28:45,148
+Perforation is rare .
+
+221
+00:28:45,148 --> 00:28:59,173
+Before appropriate therapy was commonplace, Clark (1953) studied 313 pregnancies in 118 women with ulcer disease and noted a clear remission during pregnancy in almost 90 percent.
+
+222
+00:28:59,173 --> 00:29:02,173
+However, benefits were short lived.
+
+223
+00:29:02,173 --> 00:29:08,023
+Symptoms recurred in more than half by 3 months postpartum and in almost all by 2 years.
+
+224
+00:29:08,023 --> 00:29:14,598
+The mainstay of management is eradication of H pylori and prevention of NSAID-induced disease.
+
+225
+00:29:14,598 --> 00:29:25,011
+Antacids are usually self-prescribed, but other first-line therapy is a proton-pump inhibitor or H2-receptor blocker (see Table 57-4.
+
+226
+00:29:25,011 --> 00:29:29,673
+Del Valle, 2018; Laine, 2012).
+
+227
+00:29:29,673 --> 00:29:34,611
+Sucralfate can be added and provides a protective coating at the ulcer base.
+
+228
+00:29:34,611 --> 00:29:39,248
+With active ulcers, a search for H pylori is undertaken.
+
+229
+00:29:39,248 --> 00:29:47,136
+Diagnostic aids include the urea breath test, serological testing, fecal testing, or endoscopic biopsy.
+
+230
+00:29:47,136 --> 00:29:55,198
+If any of these yield positive results, combination antimicrobial plus proton-pump inhibitor therapy is indicated .
+
+231
+00:29:55,198 --> 00:30:01,798
+Several effective oral treatment regimens do not include tetracycline and can be used during pregnancy.
+
+232
+00:30:01,798 --> 00:30:15,873
+One 14-day regimen includes clarithromycin, 500 mg twice daily, which is paired either with amoxicillin, 1000 mg twice daily or with metronidazole, 500 mg three
+
+233
+00:30:16,036 --> 00:30:17,836
+times daily.
+
+234
+00:30:17,786 --> 00:30:21,961
+These antibiotics are given with a proton-pump inhibitor .
+
+235
+00:30:21,961 --> 00:30:25,273
+# Upper Gastrointestinal Bleeding.
+
+236
+00:30:25,273 --> 00:30:31,523
+In some women, persistent vomiting is accompanied by worrisome upper gastrointestinal bleeding.
+
+237
+00:30:31,523 --> 00:30:35,011
+Occasionally, a peptic ulcer is the source.
+
+238
+00:30:35,011 --> 00:30:44,686
+However, most of these women have small linear mucosal tears near the gastroesophageal junction—Mallory-Weiss tears (p. 1014).
+
+239
+00:30:44,686 --> 00:30:52,573
+Bleeding usually responds promptly to conservative measures that include IV proton-pump inhibitors and topical antacids .
+
+240
+00:30:52,573 --> 00:31:00,586
+Transfusions may be needed, and if bleeding persists, endoscopy is usually indicated (O’Mahony, 2007).
+
+241
+00:31:00,586 --> 00:31:09,773
+With sustained retching, the less common, but more serious, esophageal rupture—Boerhaave syndrome—may develop from high esophageal pressure.
+
+242
+00:31:09,773 --> 00:31:12,661
+Small Bowel And Colon Disorders.
+
+243
+00:31:12,661 --> 00:31:16,761
+The small bowel has diminished motility during pregnancy.
+
+244
+00:31:16,761 --> 00:31:32,523
+Lawson and colleagues (1985) showed that the small bowel mean transit times of 99, 125, and 137 minutes in each successive trimester, respectively, were slower than 75 minutes when nonpregnant.
+
+245
+00:31:32,523 --> 00:31:40,511
+Muscular relaxation of the colon is accompanied by increased absorption of water and sodium that predisposes to constipation.
+
+246
+00:31:40,511 --> 00:31:47,561
+This complaint is reported by almost 25 percent of women at some time during pregnancy and the puerperium .
+
+247
+00:31:47,561 --> 00:31:59,748
+Symptoms are usually only mildly bothersome, and initial treatment includes increasing fluid intake (>8 glasses/d) and fiber consumption (20 to 35 g/d) .
+
+248
+00:31:59,748 --> 00:32:10,023
+If these lifestyle modifications fail, bulk-forming agents such as methylcellulose may be added, and in severe cases the stimulant laxative bisacodyl.
+
+249
+00:32:10,023 --> 00:32:15,511
+We have encountered several pregnant women who developed megacolon from impacted stool.
+
+250
+00:32:15,511 --> 00:32:20,986
+These women almost invariably had chronically abused stimulatory laxatives.
+
+251
+00:32:20,986 --> 00:32:23,536
+# Acute Diarrhea.
+
+252
+00:32:23,536 --> 00:32:28,948
+The estimated monthly prevalence of diarrhea among adults is 3 to 7 percent .
+
+253
+00:32:28,948 --> 00:32:36,498
+Diarrhea can be classified as acute (<2 weeks), persistent (2 to 4 weeks), and chronic (>4 weeks).
+
+254
+00:32:36,498 --> 00:32:43,811
+Most cases of acute diarrhea are caused by infectious agents, and a third result from foodborne pathogens.
+
+255
+00:32:43,811 --> 00:32:52,448
+The large variety of viruses, bacteria, helminths, and protozoa that cause diarrhea in adults also afflict pregnant women.
+
+256
+00:32:52,448 --> 00:32:57,548
+These are usually accompanied by vomiting, fever, and abdominal pain.
+
+257
+00:32:57,548 --> 00:33:02,711
+Some of these are discussed in Chapter 64 (p. 1197).
+
+258
+00:33:02,711 --> 00:33:07,773
+Evaluation of acute diarrhea depends on its severity and duration.
+
+259
+00:33:07,773 --> 00:33:30,436
+Some indications for evaluation include profuse watery diarrhea with dehydration, grossly bloody stools, fever >38°C, duration >48 hr without improvement, recent antimicrobial use, and diarrhea in the immunocompromised patient (Camilleri, 2018; DuPont, 2014).
+
+260
+00:33:30,436 --> 00:33:39,273
+Cases of moderately severe diarrhea with fecal leukocytes or gross blood may be treated with empirical antibiotics rather than evaluation.
+
+261
+00:33:39,273 --> 00:33:48,223
+However, risks and benefits should be considered, and it is reasonable to withhold treatment until stool testing is completed to exclude infection.
+
+262
+00:33:48,223 --> 00:33:55,411
+Some features of the more common acute diarrheal syndromes and their treatment are shown in Table 57-5.
+
+263
+00:33:55,411 --> 00:33:58,173
+Table 57-5.
+
+264
+00:33:58,173 --> 00:34:14,686
+Etiology, Clinical Features, and Treatment of Common Acute Diarrheal Syndromes The mainstay of treatment is IV hydration using normal saline or Ringer lactate and potassium supplementation in amounts to restore maternal blood volume and to ensure uteroplacental perfusion.
+
+265
+00:34:14,686 --> 00:34:19,311
+Vital signs and urine output are monitored for signs of sepsis.
+
+266
+00:34:19,311 --> 00:34:29,398
+For moderately severe nonfebrile illness without bloody diarrhea or recent travel, antimotility agents such as loperamide (Imodium) may be useful.
+
+267
+00:34:29,398 --> 00:34:38,361
+An initial 4-mg (two capsules) dose can be followed with another 2-mg capsule after subsequently passed watery stools.
+
+268
+00:34:38,361 --> 00:34:49,723
+Dosages should not exceed 8 mg/d, and loperamide is not used for more than 48 h. Bismuth subsalicylate (Pepto-Bismol) also may alleviate symptoms.
+
+269
+00:34:49,723 --> 00:35:05,236
+The recommended dosage is 30 mL (525 mg) of its liquid form or two tablets (263 mg/tablet) chewed well each 30 to 60 min and not to exceed eight doses in 24 h.
+
+270
+00:35:05,236 --> 00:35:08,423
+The drug will produce harmless black stools .
+
+271
+00:35:08,423 --> 00:35:12,486
+Judicious use of antimicrobial agents is warranted.
+
+272
+00:35:12,486 --> 00:35:16,586
+For moderately to severely ill women, some recommend
+
+273
+00:35:16,756 --> 00:35:23,118
+empirical treatment with ciprofloxacin, 500 mg twice daily for 3 days.
+
+274
+00:35:23,068 --> 00:35:27,243
+Specific pathogens are treated as needed when identified .
+
+275
+00:35:27,243 --> 00:35:37,793
+Syndromes for which treatment is usually unnecessary include those caused by Escherichia coli, staphylococcal species, Bacillus cereus, and norovirus.
+
+276
+00:35:37,793 --> 00:36:03,218
+Severe illness caused by Salmonella species is treated with ciprofloxacin or trimethoprimsulfamethoxazole; by Campylobacter species with azithromycin; by Clostridioides difficile with oral vancomycin or fidaxomicin; and by Giardia species and Entamoeba histolytica with metronidazole (DuPont, 2014; McDonald, 2018; Rocha-Castro, 2016).
+
+277
+00:36:03,218 --> 00:36:12,943
+Clostridioides difficile Infection Formally known as Clostridium difficile, this anaerobic gram-positive bacillus is transmitted by the fecal-oral route.
+
+278
+00:36:12,943 --> 00:36:18,718
+In a study from China, 3.7 percent of normal gravidas were colonized .
+
+279
+00:36:18,718 --> 00:36:23,293
+It is the most frequent nosocomial infection in the United States.
+
+280
+00:36:23,293 --> 00:36:34,293
+In 2011, 453,000 cases of C difficile and 29,000 associated deaths were reported by the Centers for Disease Control and Prevention .
+
+281
+00:36:34,293 --> 00:36:38,656
+Its incidence in pregnant women has doubled during the past decade .
+
+282
+00:36:38,656 --> 00:36:48,931
+The most important risk factor is antibiotic use, and the highest risk is with aminopenicillins, clindamycin, cephalosporins, and fluoroquinolones.
+
+283
+00:36:48,931 --> 00:36:57,181
+Other risk factors include inflammatory bowel disease, immunosuppression, advanced age, and gastrointestinal surgery.
+
+284
+00:36:57,181 --> 00:37:03,481
+Most cases are hospital-acquired, however, 10 percent are community-acquired cases .
+
+285
+00:37:03,481 --> 00:37:08,743
+With severe colitis, the infection-related mortality rate is 5 percent.
+
+286
+00:37:08,743 --> 00:37:23,856
+Laboratory diagnosis from a stool sample uses nucleic-acid amplification testing (NAAT) for C difficile itself or uses an enzyme-immunoassay-based algorithm for a unique C difficile enzyme or its toxins A and B .
+
+287
+00:37:23,856 --> 00:37:28,231
+Less often, infection may be diagnosed endoscopically .
+
+288
+00:37:28,231 --> 00:37:39,031
+Only patients with new-onset diarrhea and ≥3 unformed stool of unexplained etiology should be tested, and posttreatment testing is not recommended.
+
+289
+00:37:39,031 --> 00:37:44,743
+Prevention is by soap-and-water hand washing, and infected individuals are isolated.
+
+290
+00:37:44,743 --> 00:37:58,443
+Treatment consists of stopping the offending antibiotics and giving 10 days of oral vancomycin, 125 mg four times daily, or fidaxomicin (Dificid), 200 mg twice daily .
+
+291
+00:37:58,443 --> 00:38:02,893
+The risk of recurrence after an initial episode is 20 percent.
+
+292
+00:38:02,893 --> 00:38:08,868
+Fecal microbial transplantation may become standard for recurrent clostridial colitis .
+
+293
+00:38:08,868 --> 00:38:11,468
+Figure 57-2.
+
+294
+00:38:11,468 --> 00:38:13,618
+Causes of colitis.
+
+295
+00:38:13,618 --> 00:38:18,131
+A. Ulcerative colitis with diffuse ulcerations and exudates.
+
+296
+00:38:18,131 --> 00:38:21,268
+B. Crohn colitis with deep ulcers.
+
+297
+00:38:21,268 --> 00:38:25,918
+C. Pseudomembranous colitis with yellow, adherent membranes.
+
+298
+00:38:25,918 --> 00:38:28,443
+D. Ischemic colitis.
+
+299
+00:38:28,443 --> 00:38:35,031
+Reproduced with permission from Song LM, Topazian M: Gastrointestinal endoscopy.
+
+300
+00:38:35,031 --> 00:38:44,193
+In Jameson JL, Fauci AS, Kasper DL, et al (eds): Harrison’s Principles of Internal Medicine, 20th ed.
+
+301
+00:38:44,193 --> 00:38:48,493
+New York, NY: McGraw Hill; 2018.
+
+302
+00:38:48,493 --> 00:38:51,631
+# Inflammatory Bowel Disease.
+
+303
+00:38:51,631 --> 00:38:58,593
+Two presumably noninfectious forms of intestinal inflammation are ulcerative colitis and Crohn disease.
+
+304
+00:38:58,593 --> 00:39:03,056
+Differentiation between these is important because treatment differs.
+
+305
+00:39:03,056 --> 00:39:10,418
+That said, they both share common features, and sometimes are indistinguishable if Crohn disease involves the colon.
+
+306
+00:39:10,418 --> 00:39:18,443
+The features shown in Table 57-6 permit a reasonably confident diagnostic differentiation in most cases.
+
+307
+00:39:18,443 --> 00:39:26,656
+The etiopathogenesis is enigmatic in both, but a genetic predisposition is suspected, especially for Crohn disease.
+
+308
+00:39:26,656 --> 00:39:36,193
+Inflammation is thought to result from dysregulated mucosal immune function in response to commensal microbiota, with or without an autoimmune component .
+
+309
+00:39:36,193 --> 00:39:38,993
+Table 57-6.
+
+310
+00:39:38,993 --> 00:39:50,631
+Some Shared and Differentiating Characteristics of Inflammatory Bowel Disease Ulcerative Colitis This is a mucosal disorder with inflammation confined to the superficial luminal layers of the colon.
+
+311
+00:39:50,631 --> 00:39:55,968
+It typically begins at the rectum and extends proximally for a variable distance.
+
+312
+00:39:55,968 --> 00:40:04,593
+In approximately 40 percent of cases, disease is confined to the rectum or the rectosigmoid, but 20 percent have pancolitis.
+
+313
+00:40:04,593 --> 00:40:10,368
+For unknown reasons, prior appendectomy protects against ulcerative colitis .
+
+314
+00:40:10,368 --> 00:40:18,393
+Endoscopic findings include mucosal granularity and friability that is interspersed with mucosal ulcerations and a
+
+315
+00:40:18,556 --> 00:40:23,006
+mucopurulent exudate (see Fig. 57-2).
+
+316
+00:40:22,956 --> 00:40:30,256
+Major symptoms of ulcerative colitis include diarrhea, rectal bleeding, tenesmus, and abdominal cramps.
+
+317
+00:40:30,256 --> 00:40:34,743
+The disease is characterized by exacerbations and remissions.
+
+318
+00:40:34,743 --> 00:40:42,143
+Toxic megacolon and catastrophic hemorrhage are particularly dangerous complications that may necessitate colectomy.
+
+319
+00:40:42,143 --> 00:40:48,693
+Extraintestinal manifestations include arthritis, uveitis, and erythema nodosum.
+
+320
+00:40:48,693 --> 00:40:53,568
+The risk of associated colon cancer approaches 1 percent per year.
+
+321
+00:40:53,568 --> 00:41:04,818
+With either ulcerative colitis or Crohn disease, risks for VTE are higher in even asymptomatic women (Friedman, 2018; Mahadevan, 2019).
+
+322
+00:41:04,818 --> 00:41:15,881
+Crohn Disease Also known as regional enteritis, Crohn ileitis, or granulomatous colitis, Crohn disease has more protean manifestations than ulcerative colitis.
+
+323
+00:41:15,881 --> 00:41:22,243
+It involves not only the mucosa but also the deeper bowel layers (see Fig. 572).
+
+324
+00:41:22,243 --> 00:41:29,468
+Lesions can be seen throughout the entire GI tract, from the mouth to the anus, but it typically is segmental .
+
+325
+00:41:29,468 --> 00:41:42,318
+Approximately 30 percent of patients have only small-bowel involvement, 25 percent have isolated colonic involvement, and 40 percent have both, usually with the terminal ileum and colon involved.
+
+326
+00:41:42,318 --> 00:41:47,956
+Perianal fistulas and abscesses develop in a third of those with colonic involvement.
+
+327
+00:41:47,956 --> 00:41:51,718
+Symptoms depend on which bowel segment(s) is involved.
+
+328
+00:41:51,718 --> 00:42:01,093
+Thus, complaints may include lower-right-sided cramping abdominal pain, diarrhea, weight loss, low-grade fever, and obstructive symptoms.
+
+329
+00:42:01,093 --> 00:42:08,643
+The disease is chronic with exacerbations and remissions, and importantly, it cannot be cured medically or surgically.
+
+330
+00:42:08,643 --> 00:42:17,456
+Approximately a third of patients require surgery within the first year after diagnosis, and thereafter, the rate is 5 percent per year.
+
+331
+00:42:17,456 --> 00:42:25,931
+Reactive arthritis is common, and the GI cancer risk, although not as great as with ulcerative colitis, is increased substantially.
+
+332
+00:42:25,931 --> 00:42:35,506
+Inflammatory Bowel Disease and Fertility Subfertility in women is linked to active disease, but normal fertility is likely with quiescent colitis .
+
+333
+00:42:35,506 --> 00:42:43,043
+Subfertility may also be partially attributed to sulfasalazine, which causes reversible sperm abnormalities .
+
+334
+00:42:43,043 --> 00:42:50,006
+For women requiring surgical resection, a laparoscopic approach has a higher subsequent fertility rate .
+
+335
+00:42:50,006 --> 00:43:00,593
+With colectomy, however, although fertility is improved, up to half of women will be persistently infertile (Bartels, 2012; Lee, 2019a).
+
+336
+00:43:00,593 --> 00:43:07,181
+Sexual function and fertility are only modestly affected by ileal pouch–anal anastomosis .
+
+337
+00:43:07,181 --> 00:43:18,318
+Inflammatory Bowel Disease and Pregnancy Because ulcerative colitis and Crohn disease are relatively common in young women, these disorders are encountered with some frequency in pregnancy.
+
+338
+00:43:18,318 --> 00:43:23,081
+In many studies, the outcomes are grouped together for both entities.
+
+339
+00:43:23,081 --> 00:43:35,106
+For example, in a study from Australia, Shand and colleagues (2016) reported a prevalence of 1 inflammatory bowel disease (IBD) case in 320 births.
+
+340
+00:43:35,106 --> 00:43:39,056
+In this regard, some generalizations can be made.
+
+341
+00:43:39,056 --> 00:43:45,281
+First, consensus supports that pregnancy does not increase the likelihood of an IBD flare .
+
+342
+00:43:45,281 --> 00:43:56,281
+Indeed, in a 10-year surveillance of women in the European Collaborative on Inflammatory Bowel Disease, the likelihood of a flare during pregnancy was lower than the preconceptional rate .
+
+343
+00:43:56,281 --> 00:44:04,106
+Although most women with quiescent disease in early pregnancy do not have relapses, when a flare develops, it may be severe.
+
+344
+00:44:04,106 --> 00:44:15,593
+Also, and as discussed subsequently, active disease in early pregnancy increases the likelihood of disease relapse during pregnancy (de Lima-Karagiannis, 2016).
+
+345
+00:44:15,593 --> 00:44:20,881
+In general, most usual treatment regimens may be continued during pregnancy.
+
+346
+00:44:20,881 --> 00:44:28,781
+Diagnostic evaluations should be undertaken if needed to direct management, and surgery should be performed if indicated .
+
+347
+00:44:28,781 --> 00:44:43,631
+Fecal calprotectin, an inflammatory biomarker in stool samples, is a valid tool in pregnancy to identify IBD flares (Julsgaard, 2017; Lichtenstein, 2018; Rubin, 2019).
+
+348
+00:44:43,631 --> 00:44:53,368
+At first glance, it appears that adverse pregnancy outcomes are increased with IBD (Boyd, 2015; Getahun, 2014).
+
+349
+00:44:53,368 --> 00:44:59,943
+Initially, this was attributed to the fact that most studies included women with either form of disease.
+
+350
+00:44:59,943 --> 00:45:04,518
+Specifically, Crohn disease was noted to be linked to excessive
+
+351
+00:45:04,684 --> 00:45:06,421
+morbidity.
+
+352
+00:45:06,371 --> 00:45:14,971
+But, according to Reddy (2008) and others, these adverse outcomes were in women with severe disease and multiple recurrences.
+
+353
+00:45:14,971 --> 00:45:29,321
+Indeed, in the prospective European case-control ECCO-EpiCom study of 332 pregnant women with IBD, outcomes were similar in women with ulcerative colitis or Crohn disease compared with unaffected pregnant women .
+
+354
+00:45:29,321 --> 00:45:40,096
+Still, women with active disease during pregnancy have an increased frequency of preterm births (Kammerlander, 2017; Shand, 2016).
+
+355
+00:45:40,096 --> 00:45:45,171
+Importantly, perinatal mortality rates are not appreciably increased.
+
+356
+00:45:45,171 --> 00:45:48,209
+Ulcerative Colitis and Pregnancy.
+
+357
+00:45:48,209 --> 00:45:57,146
+In one review of 755 pregnancies, colitis that was quiescent at conception worsened in approximately a third of pregnancies .
+
+358
+00:45:57,146 --> 00:46:08,059
+In women with active disease at the time of conception, approximately 45 percent worsened, 25 percent remained unchanged, and only 25 percent improved.
+
+359
+00:46:08,059 --> 00:46:20,346
+These observations are similar to those described in a review by Miller (1986) as well as in later reports (de Lima-Karagiannis, 2016; Oron, 2012).
+
+360
+00:46:20,346 --> 00:46:25,846
+Osteoporosis is a significant complication in up to a third of affected women.
+
+361
+00:46:25,846 --> 00:46:33,621
+Thus, vitamin D—800 IU daily—and calcium—1200 mg daily—are given.
+
+362
+00:46:33,621 --> 00:46:43,084
+Folic acid, 2 to 4 mg orally daily, is recommended preconceptionally and during the first trimester for neural-tube defect prevention .
+
+363
+00:46:43,084 --> 00:46:48,034
+This high dose counteracts the antifolate actions of sulfasalazine.
+
+364
+00:46:48,034 --> 00:46:53,309
+Flares may be caused by psychogenic stress, and reassurance is important.
+
+365
+00:46:53,309 --> 00:47:00,446
+Last, the venous thromboembolism risk is doubled, but thromboprophylaxis is not routinely provided .
+
+366
+00:47:00,446 --> 00:47:05,459
+Management for colitis for the most part mirrors that outside of pregnancy.
+
+367
+00:47:05,459 --> 00:47:15,596
+Treatment of active colitis and maintenance therapy incorporate drugs that deliver 5-aminosalicyclic acid (5-ASA), also known as mesalamine.
+
+368
+00:47:15,596 --> 00:47:24,646
+Sulfasalazine (Azulfidine) is the prototype, and its 5-ASA moiety inhibits prostaglandin synthase in colonic mucosa.
+
+369
+00:47:24,646 --> 00:47:35,421
+Others include olsalazine (Dipentum), balsalazide (Colazal), and delayed-release 5-ASA derivatives (Apriso, Asacol, Pentasa, Lialda).
+
+370
+00:47:35,421 --> 00:47:45,171
+Glucocorticoids are beneficial and are given orally, parenterally, or by enema for moderate or severe disease that does not respond to 5-ASA.
+
+371
+00:47:45,171 --> 00:47:52,171
+Corticosteroids provide a high remission rate for active disease, but they are not given for maintenance therapy .
+
+372
+00:47:52,171 --> 00:48:09,146
+Recalcitrant disease is managed with immunomodulating drugs, including azathioprine, 6-mercaptopurine, cyclosporine, or tacrolimus, which all appear relatively safe in pregnancy (Briggs, 2017; Mozaffari, 2015).
+
+373
+00:48:09,146 --> 00:48:14,746
+Importantly, methotrexate is teratogenic and contraindicated in pregnancy .
+
+374
+00:48:14,746 --> 00:48:20,884
+In the past, biologics were reserved for recalcitrant, moderate to severe disease.
+
+375
+00:48:20,884 --> 00:48:31,021
+Because of their considerable efficacy, however, these medications are now frequently given initially for this severity of disease to prevent future complications.
+
+376
+00:48:31,021 --> 00:48:36,871
+These agents are antibodies against tumor necrosis factor alpha (TNF-α).
+
+377
+00:48:36,871 --> 00:48:42,284
+Those recommended for IBD treatment are shown in Table 57-7.
+
+378
+00:48:42,284 --> 00:48:52,746
+Women who begin pregnancy while taking biologics should continue these through pregnancy until several weeks before delivery to help avoid maternal infections from immunosuppression.
+
+379
+00:48:52,746 --> 00:48:56,921
+These agents are administered IV or subcutaneously.
+
+380
+00:48:56,921 --> 00:49:10,046
+Several studies support their safety in pregnancy, although there are concerns that their discontinuance may prompt a relapse (Chaparro, 2018; Friedman, 2018; Luu, 2018).
+
+381
+00:49:10,046 --> 00:49:24,434
+Another worry is that they may cause immunosuppression in the newborn, and early neonatal vaccination with live-attenuated agents are delayed for at least 6 months (Esteve-Solé, 2017; Julsgaard, 2016).
+
+382
+00:49:24,434 --> 00:49:27,184
+Table 57-7.
+
+383
+00:49:27,184 --> 00:49:34,946
+Biologics Used to Treat Inflammatory Bowel Disease in Pregnancy Colorectal endoscopy is performed as indicated.
+
+384
+00:49:34,946 --> 00:49:38,609
+Surgical management is tailored to disease severity .
+
+385
+00:49:38,609 --> 00:49:48,534
+During pregnancy, colectomy and ostomy creation for fulminant colitis may be needed as a lifesaving measure, and it has been described during each trimester.
+
+386
+00:49:48,534 --> 00:49:57,846
+Dozois (2006) reviewed 42 such cases and found that, in general, outcomes have been good with partial or complete colectomy.
+
+387
+00:49:57,846 --> 00:50:03,084
+Parenteral nutrition is occasionally needed for women with prolonged exacerbations.
+
+388
+00:50:03,244 --> 00:50:13,769
+For women with an ileal pouch and an anal anastomosis, frequency of bowel movements, fecal incontinence, and pouchitis may temporarily worsen with pregnancy.
+
+389
+00:50:13,719 --> 00:50:21,169
+The last is an inflammatory condition of the ileoanal pouch probably due to bacterial proliferation and stasis.
+
+390
+00:50:21,169 --> 00:50:26,019
+Pouchitis usually responds to ciprofloxacin or metronidazole.
+
+391
+00:50:26,019 --> 00:50:31,831
+In one rare case, adhesions to the growing uterus led to ileal pouch perforation .
+
+392
+00:50:31,831 --> 00:50:36,944
+In general, women with uncomplicated colitis can be delivered vaginally .
+
+393
+00:50:36,944 --> 00:50:41,556
+That said, the cesarean delivery rate in these women is increased .
+
+394
+00:50:41,556 --> 00:50:50,181
+It is controversial whether women who have had a prior proctocolectomy and ileal pouch–anal anastomosis can be safely delivered vaginally.
+
+395
+00:50:50,181 --> 00:51:01,119
+Hahnloser (2004) reviewed delivery routes in women with 235 pregnancies before and 232 pregnancies after ileoanal pouch surgery.
+
+396
+00:51:01,119 --> 00:51:08,831
+Functional outcomes were similar, and it was concluded that cesarean delivery should be reserved for obstetrical indications.
+
+397
+00:51:08,831 --> 00:51:20,931
+To the contrary, following their systematic review, Foulon and coworkers (2017) recommended cesarean delivery with the caveat that uncomplicated vaginal delivery was safe.
+
+398
+00:51:20,931 --> 00:51:27,744
+As discussed, quiescent ulcerative colitis likely has minimal adverse effects on pregnancy outcome.
+
+399
+00:51:27,744 --> 00:51:39,369
+Modigliani (2000) reviewed perinatal outcomes in 2398 pregnancies and reported them to be not substantively different from those in the general obstetrical population.
+
+400
+00:51:39,369 --> 00:51:46,869
+Specifically, the incidences of spontaneous abortion, preterm delivery, and stillbirth were remarkably low.
+
+401
+00:51:46,869 --> 00:51:58,356
+These authors and others also describe a cesarean delivery rate that was substantially higher than that for normal controls (Burke, 2017; Mahadevan, 2015).
+
+402
+00:51:58,356 --> 00:52:08,819
+The previously described ECCO-EpiCom study reported similar outcomes in 187 gravidas with ulcerative colitis compared with normal control women .
+
+403
+00:52:08,819 --> 00:52:11,369
+Crohn Disease and Pregnancy.
+
+404
+00:52:11,369 --> 00:52:18,356
+In general, Crohn disease activity during pregnancy is related to its status around the time of conception.
+
+405
+00:52:18,356 --> 00:52:29,044
+In a cohort study of 279 pregnancies conceived by 186 women whose disease was inactive at conception, a fourth relapsed during pregnancy .
+
+406
+00:52:29,044 --> 00:52:36,006
+In 93 with active disease at conception, however, two thirds either remained active or worsened.
+
+407
+00:52:36,006 --> 00:52:42,769
+Other reviews describe similar findings (Miller, 1986; Oron, 2012).
+
+408
+00:52:42,769 --> 00:52:49,319
+Calcium, vitamin D, and folic acid supplementation mirror that for ulcerative colitis.
+
+409
+00:52:49,319 --> 00:52:55,006
+For maintenance during asymptomatic periods, no regimen is universally effective.
+
+410
+00:52:55,006 --> 00:53:01,769
+Sulfasalazine is effective for some, but the newer 5ASA formulations are better tolerated.
+
+411
+00:53:01,769 --> 00:53:06,644
+Glucocorticoids induce a 60- to 70percent remission rate .
+
+412
+00:53:06,644 --> 00:53:13,231
+Prednisone therapy may control moderate to severe flares but is less effective for small-bowel involvement.
+
+413
+00:53:13,231 --> 00:53:23,206
+Immunomodulators such as azathioprine, 6-mercaptopurine, cyclosporine, and tacrolimus are used for active disease and for maintenance.
+
+414
+00:53:23,206 --> 00:53:30,506
+These appear relatively safe during pregnancy (Chaparro, 2018; Luu, 2018).
+
+415
+00:53:30,506 --> 00:53:37,506
+As discussed in Chapter 8 (p. 152), methotrexate is contraindicated in pregnancy.
+
+416
+00:53:37,506 --> 00:53:50,144
+As with ulcerative colitis, treatment with TNF-α inhibitors is often used initially for active Crohn disease and maintenance (Friedman, 2018; Mahadevan, 2019).
+
+417
+00:53:50,144 --> 00:53:55,231
+Endoscopy or conservative surgery is indicated for complications .
+
+418
+00:53:55,231 --> 00:54:06,581
+Patients with small-bowel involvement are more likely to require surgery for complications that include fistulas, strictures, obstruction, abscesses, and intractable disease.
+
+419
+00:54:06,581 --> 00:54:13,419
+In an earlier study, an abdominal surgical procedure was required during 5 percent of pregnancies .
+
+420
+00:54:13,419 --> 00:54:18,444
+Parenteral nutrition has been used successfully during severe recurrences.
+
+421
+00:54:18,444 --> 00:54:23,044
+Those with an ileal loop colostomy may have significant problems.
+
+422
+00:54:23,044 --> 00:54:36,644
+Unless there is a perianal fistula or active perianal disease, women with Crohn disease usually can undergo vaginal delivery without complications (Foulon, 2017; Mahadevan, 2019).
+
+423
+00:54:36,644 --> 00:54:44,231
+As discussed, Crohn disease compared with ulcerative colitis is associated with higher adverse pregnancy outcome rates.
+
+424
+00:54:44,231 --> 00:54:48,069
+Outcomes are probably related to disease activities.
+
+425
+00:54:48,069 --> 00:54:55,169
+In a case-control Danish study, Norgård (2007) reported a twofold risk of preterm births.
+
+426
+00:54:55,169 --> 00:54:59,106
+Dominitz (2002) reported a two- to
+
+427
+00:54:59,260 --> 00:55:09,572
+threefold increased risk for preterm delivery, low birthweight, fetal-growth restriction, and cesarean delivery in 149 women with Crohn disease.
+
+428
+00:55:09,522 --> 00:55:17,547
+Recall, however, that the ECCO-EpiCom study found pregnancy outcomes to be similar to those in unaffected women.
+
+429
+00:55:17,547 --> 00:55:20,360
+# Ostomy and Pregnancy.
+
+430
+00:55:20,360 --> 00:55:26,385
+A colostomy or an ileostomy can be problematic during pregnancy because of its location .
+
+431
+00:55:26,385 --> 00:55:36,760
+In a report of 82 pregnancies in 66 women with an ostomy, stomal dysfunction was common, but it responded to conservative management in most cases .
+
+432
+00:55:36,760 --> 00:55:48,060
+Surgical intervention was necessary, however, in three of six women who developed bowel obstruction and in another four with ileostomy prolapse—almost 10 percent overall.
+
+433
+00:55:48,060 --> 00:56:00,885
+In this older study, only a third of 82 women underwent cesarean delivery, but Takahashi (2007) described six of seven cesarean deliveries in women with Crohn disease and a stoma.
+
+434
+00:56:00,885 --> 00:56:08,410
+Although adhesions usually are involved with an obstructed ileostomy, the enlarging uterus may act to cause obstruction .
+
+435
+00:56:08,410 --> 00:56:15,697
+Last, Farouk and coworkers (2000) reported that pregnancy did not worsen long-term ostomy function.
+
+436
+00:56:15,697 --> 00:56:18,535
+# Intestinal Obstruction.
+
+437
+00:56:18,535 --> 00:56:25,935
+The incidence of bowel obstruction is not increased during pregnancy, although it generally is more difficult to diagnose.
+
+438
+00:56:25,935 --> 00:56:34,772
+Meyerson (1995) reported a 20-year incidence of 1 case in 17,000 deliveries at two Detroit hospitals.
+
+439
+00:56:34,772 --> 00:56:45,522
+Of acute abdomen cases in pregnancy, adhesive disease leading to smallbowel obstruction was second only to appendicitis—15 versus 30 percent, respectively .
+
+440
+00:56:45,522 --> 00:56:56,360
+Approximately half of cases are due to adhesions from previous pelvic surgery that includes cesarean delivery (Andolf, 2010; Lyell, 2011).
+
+441
+00:56:56,360 --> 00:57:04,860
+Another 25 percent of bowel obstruction is caused by volvulus, which may involve sigmoid colon, cecum, or small bowel.
+
+442
+00:57:04,860 --> 00:57:13,360
+These have been reported in late pregnancy or early puerperium (Al Maksoud, 2015; Bade, 2014).
+
+443
+00:57:13,360 --> 00:57:27,185
+Bokslag (2014) and Wax (2013) and their colleagues described small-bowel obstruction in pregnancy following the currently popular Rouxen-Y gastric bypass, which is performed for weight loss.
+
+444
+00:57:27,185 --> 00:57:34,435
+Intussusception is occasionally encountered (Bosman, 2014; Moliere, 2019).
+
+445
+00:57:34,435 --> 00:57:42,997
+Bowel obstruction subsequent to colorectal surgery for cancer was increased threefold in women who had open versus laparoscopic surgery .
+
+446
+00:57:42,997 --> 00:57:50,710
+Last, Serra and coworkers (2014) described a massive ventral hernia with intestinal obstruction.
+
+447
+00:57:50,710 --> 00:57:58,372
+Most cases of intestinal obstruction during pregnancy result from pressure of the growing uterus on intestinal adhesions.
+
+448
+00:57:58,372 --> 00:58:10,347
+This is more likely around midpregnancy when the uterus becomes an abdominal organ; in the third trimester when the fetal head descends; or immediately postpartum when uterine size acutely shrinks .
+
+449
+00:58:10,347 --> 00:58:21,472
+Perdue (1992) reported that 98 percent of affected pregnant women had either continuous or colicky abdominal pain, and 80 percent had nausea and vomiting.
+
+450
+00:58:21,472 --> 00:58:28,797
+Abdominal tenderness was found in 70 percent, and abnormal bowel sounds noted in only 55 percent.
+
+451
+00:58:28,797 --> 00:58:36,435
+Plain abdominal radiographs following soluble contrast showed evidence of obstruction in 90 percent of affected women.
+
+452
+00:58:36,435 --> 00:58:50,785
+Plain radiographs, however, are less accurate for diagnosing small-bowel obstruction, and we and others have found that CT and MR imaging can be diagnostic (Essilfie, 2007; Moliere, 2019).
+
+453
+00:58:50,785 --> 00:58:59,522
+Colonoscopy can be both diagnostic and therapeutic for colonic volvulus (Dray, 2012; Khan, 2012).
+
+454
+00:58:59,522 --> 00:59:15,610
+During pregnancy, mortality rates with obstruction can be excessive because of difficult and thus delayed diagnosis, reluctance to operate during pregnancy, and the need for emergency surgery (Firstenberg, 1998; Shui, 2011).
+
+455
+00:59:15,610 --> 00:59:26,672
+In an older report of 66 pregnancies, Perdue and associates (1992) described 6-percent maternal and 26-percent fetal mortality rates.
+
+456
+00:59:26,672 --> 00:59:35,372
+Two of the four women who died were in late pregnancy, and they had bowel perforation from sigmoid or cecal volvulus caused by adhesions.
+
+457
+00:59:35,372 --> 00:59:38,385
+# Colonic Pseudo-Obstruction.
+
+458
+00:59:38,385 --> 00:59:44,822
+Also known as Ogilvie syndrome, pseudo-obstruction is caused by adynamic colonic ileus.
+
+459
+00:59:44,822 --> 00:59:51,010
+It is characterized by massive abdominal distention with cecal and right-hemicolonic dilation .
+
+460
+00:59:51,010 --> 00:59:54,485
+Approximately 10 percent of all cases are
+
+461
+00:59:54,652 --> 01:00:00,989
+associated with pregnancy, and its reported frequency is 1 case in 1500 births .
+
+462
+01:00:00,939 --> 01:00:08,839
+The syndrome usually develops postpartum—90 percent after cesarean delivery—but it has been reported antepartum.
+
+463
+01:00:08,839 --> 01:00:15,577
+In a review, perforation was common, especially if the cecal diameter exceeded 12 cm .
+
+464
+01:00:15,577 --> 01:00:25,889
+More recently, treatment with an IV infusion of neostigmine, 2 mg, given during cardiac monitoring usually results in prompt decompression .
+
+465
+01:00:25,889 --> 01:00:33,627
+In some cases, colonoscopic decompression is performed, and in others, laparotomy is needed for perforation .
+
+466
+01:00:33,627 --> 01:00:36,264
+Figure 57-3.
+
+467
+01:00:36,264 --> 01:00:38,277
+Ogilvie syndrome.
+
+468
+01:00:38,277 --> 01:00:44,102
+Massive dilation of colon due to pseudo-obstruction in a woman following cesarean delivery.
+
+469
+01:00:44,102 --> 01:00:46,802
+A. Abdominal radiograph.
+
+470
+01:00:46,802 --> 01:00:50,352
+B. Axial image from computed tomography.
+
+471
+01:00:50,352 --> 01:00:52,802
+# Appendicitis.
+
+472
+01:00:52,802 --> 01:00:57,802
+The lifetime incidence for appendicitis ranges from 7 to 10 percent .
+
+473
+01:00:57,802 --> 01:01:03,827
+Thus, evaluation for possible appendicitis is relatively common during pregnancy.
+
+474
+01:01:03,827 --> 01:01:16,502
+Theilen and colleagues (2017) studied 171 such women during a 5-year period, but only 14 women ultimately were found to have pathologically confirmed appendicitis.
+
+475
+01:01:16,502 --> 01:01:35,377
+After clinical and imaging evaluation, the frequency of suspected appendicitis drops and that of confirmed appendicitis in more than 8 million women ranged from 1 case in 1000 to 5500 births (Abbasi, 2014; Hée, 1999; Mazze, 1991).
+
+476
+01:01:35,377 --> 01:01:42,752
+It is repeatedly—and appropriately—emphasized that pregnancy makes the diagnosis of appendicitis more difficult.
+
+477
+01:01:42,752 --> 01:01:58,477
+Nausea and vomiting accompany normal pregnancy, but also, as the uterus enlarges, the appendix commonly moves upward and outward from the right lower quadrant (Baer, 1932; Erkek, 2015; Pates, 2009).
+
+478
+01:01:58,477 --> 01:02:05,664
+Another often-stated reason for late diagnosis is that some degree of leukocytosis accompanies normal pregnancy.
+
+479
+01:02:05,664 --> 01:02:16,364
+That said, Theilen and coworkers (2017) observed that a white cell count >18,000/μL made the diagnosis tenfold more likely.
+
+480
+01:02:16,364 --> 01:02:18,977
+Neutrophilic shift is another .
+
+481
+01:02:18,977 --> 01:02:26,664
+Pregnant women—especially in late gestation—frequently do not have clinical findings “typical” for appendicitis.
+
+482
+01:02:26,664 --> 01:02:37,077
+Thus, it commonly is confused with cholecystitis, labor, pyelonephritis, renal colic, placental abruption, or uterine leiomyoma degeneration.
+
+483
+01:02:37,077 --> 01:02:43,564
+Most reports indicate increasing morbidity and mortality rates with advancing gestational age.
+
+484
+01:02:43,564 --> 01:02:52,589
+And, as the appendix is progressively deflected upward by the growing uterus, omental containment of infection becomes increasingly unlikely.
+
+485
+01:02:52,589 --> 01:02:58,214
+It is indisputable that appendiceal perforation is more common during later pregnancy .
+
+486
+01:02:58,214 --> 01:03:10,402
+In the studies by Andersson (2001) and Ueberrueck (2004), the incidence of perforation was approximately 8, 12, and 20 percent in successive trimesters.
+
+487
+01:03:10,402 --> 01:03:16,214
+Diagnosis Persistent abdominal pain and tenderness are the most reproducible findings.
+
+488
+01:03:16,214 --> 01:03:22,864
+Right lower quadrant pain is the most frequent, although pain migrates upward with appendiceal displacement .
+
+489
+01:03:22,864 --> 01:03:32,602
+For initial evaluation, sonographic abdominal imaging is reasonable in suspected appendicitis, even if to exclude an obstetrical cause of pain .
+
+490
+01:03:32,602 --> 01:03:39,389
+That said, graded compression sonography is difficult because of cecal displacement and uterine imposition .
+
+491
+01:03:39,389 --> 01:03:50,489
+Appendiceal computed tomography is more sensitive and accurate than sonography to confirm suspected appendicitis (Katz, 2012; Raman, 2008).
+
+492
+01:03:50,489 --> 01:03:55,377
+Specific views can be designed to diminish fetal radiation exposure .
+
+493
+01:03:55,377 --> 01:04:02,827
+When available, MR imaging is the preferred modality for evaluation of suspected appendicitis in pregnancy .
+
+494
+01:04:02,827 --> 01:04:13,977
+MR imaging has high diagnostic yield and accuracy, and it also provides alternative diagnoses (Fonseca, 2014; Theilen, 2015).
+
+495
+01:04:13,977 --> 01:04:24,439
+One metaanalysis of 30 studies cited positive- and negative-predictive values of 96 and 99.5 percent, respectively, for MR imaging .
+
+496
+01:04:24,439 --> 01:04:30,977
+Others report similar findings (Burke, 2015; Kave, 2019).
+
+497
+01:04:30,977 --> 01:04:38,777
+However, Aguilera and colleagues (2018) found a sensitivity of only 18 percent in pregnant women.
+
+498
+01:04:38,777 --> 01:04:41,477
+Figure 57-4.
+
+499
+01:04:41,477 --> 01:04:47,739
+Magnetic resonance T2 flair image of acute appendicitis in a midtrimester pregnancy.
+
+500
+01:04:47,739 --> 01:04:54,252
+The bright signal is inflammation and the block dot is a fecalith that can be seen in the midappendix (arrow).
+
+501
+01:04:54,252 --> 01:05:00,977
+The fetal trunk (T) and leg (L) and amnionic fluid (A) are seen within the gravid
+
+502
+01:05:01,132 --> 01:05:04,044
+uterus superior to the appendix.
+
+503
+01:05:03,994 --> 01:05:07,919
+Reproduced with permission by Dr. Christina Herrera.
+
+504
+01:05:07,919 --> 01:05:14,069
+Management When appendicitis is suspected, most recommend prompt surgical exploration.
+
+505
+01:05:14,069 --> 01:05:24,132
+Although diagnostic errors may lead to removal of a normal appendix, surgical evaluation is preferable to postponed intervention and generalized peritonitis .
+
+506
+01:05:24,132 --> 01:05:30,969
+In earlier reports, the diagnosis was verified in only 60 to 70 percent of pregnant women.
+
+507
+01:05:30,969 --> 01:05:40,994
+As indicated above, however, with CT and MR imaging, these figures have improved (Duke, 2016; Theilen, 2015).
+
+508
+01:05:40,994 --> 01:05:47,619
+Still and importantly, the accuracy of diagnosis is inversely proportional to gestational age.
+
+509
+01:05:47,619 --> 01:05:55,432
+Currently, laparoscopic resection is almost always used to treat suspected appendicitis during the first two trimesters.
+
+510
+01:05:55,432 --> 01:06:08,194
+In a report from a Swedish database of nearly 2000 laparoscopic appendectomies, perinatal outcomes were similar to those of more than 1500 open laparotomies done before 20 weeks’ gestation .
+
+511
+01:06:08,194 --> 01:06:17,032
+Conversely, in their review, Wilasrusmee and coworkers (2012) reported a higher rate of fetal loss with laparoscopy.
+
+512
+01:06:17,032 --> 01:06:32,032
+Authors of three more recent systematic reviews indicate that the level of evidence is not strong enough to demonstrate a preferred approach to appendectomy (Frountzas, 2019; Lee, 2019b; Walker, 2014).
+
+513
+01:06:32,032 --> 01:06:39,819
+It has evolved that in many centers, laparoscopic appendectomy is also performed in most cases during the third trimester .
+
+514
+01:06:39,819 --> 01:06:53,119
+This is encouraged by others, including the Society of American Gastrointestinal and Endoscopic Surgeons (Pearl, 2017; Sekar, 2019; Soper, 2011).
+
+515
+01:06:53,119 --> 01:07:02,532
+Before exploration, IV antimicrobial therapy is begun, usually with a second-generation cephalosporin or third-generation penicillin.
+
+516
+01:07:02,532 --> 01:07:11,944
+Unless there is gangrene, perforation, or a periappendiceal phlegmon, antimicrobial therapy can usually be discontinued after surgery.
+
+517
+01:07:11,944 --> 01:07:16,619
+Without generalized peritonitis, the prognosis is excellent.
+
+518
+01:07:16,619 --> 01:07:21,369
+Seldom is cesarean delivery indicated at the time of appendectomy.
+
+519
+01:07:21,369 --> 01:07:28,219
+Uterine contractions are common, and although some clinicians recommend tocolytic agents, we do not.
+
+520
+01:07:28,219 --> 01:07:37,694
+de Veciana (1994) reported that tocolytic use substantially increased the risk for pulmonarypermeability edema caused by sepsis .
+
+521
+01:07:37,694 --> 01:07:52,794
+Antimicrobial versus Surgical Treatment Because of European studies, some advocate that many cases of appendicitis can be treated successfully with IV antimicrobials alone (Flum, 2015; Talan, 2019).
+
+522
+01:07:52,794 --> 01:08:06,757
+In one study, 6 percent of pregnant women with appendicitis were treated medically, and these gravidas had “considerably” elevated risks for septic shock, peritonitis, and VTE compared with surgically managed cases .
+
+523
+01:08:06,757 --> 01:08:11,619
+In another study of 20 women, failure rate was 25 percent .
+
+524
+01:08:11,619 --> 01:08:17,857
+At this time, we discourage this practice until appropriate studies have been done with pregnant women.
+
+525
+01:08:17,857 --> 01:08:27,107
+Certainly, if elected, such treatment should exclude women with obstructive appendicitis, and the threshold to convert to surgical treatment must be low.
+
+526
+01:08:27,107 --> 01:08:34,957
+Pregnancy Outcomes Appendicitis increases the likelihood of preterm labor, especially if peritonitis has developed.
+
+527
+01:08:34,957 --> 01:08:48,569
+Spontaneous labor after 23 weeks ensues with greater frequency following surgery for appendicitis compared with surgery for other indications (Ibiebele, 2019; Won, 2017).
+
+528
+01:08:48,569 --> 01:08:56,019
+In one study, the fetal loss rate was 22 percent if surgery was performed after 23 weeks’ gestation.
+
+529
+01:08:56,019 --> 01:09:02,544
+Three large population-based studies attest to the adverse outcomes from appendicitis in pregnancy.
+
+530
+01:09:02,544 --> 01:09:08,257
+From the California State Inpatient Database, the fetal loss rate was 20 percent .
+
+531
+01:09:08,257 --> 01:09:21,407
+A nationwide study from Taiwan found that risks for low birthweight and preterm delivery rose 1.5- to 2-fold when outcomes in 908 women with acute appendicitis were compared with those of controls .
+
+532
+01:09:21,407 --> 01:09:30,044
+Last, an Australian population-based study reported an almost twofold increased incidence of preterm birth following appendectomy .
+

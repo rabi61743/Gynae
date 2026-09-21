@@ -1,0 +1,2744 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:07,462
+Chapter 58: Hepatic, Biliary, and Pancreatic Disorders.
+
+3
+00:00:07,462 --> 00:00:20,337
+Hepatic Disorders Gallbladder Disorders Pancreatic Disorders References Disorders of the liver, gallbladder, and pancreas together constitute a formidable list of complications that may arise in pregnancy.
+
+4
+00:00:20,337 --> 00:00:25,512
+Some stem from preexisting conditions, and some are unique to gestation.
+
+5
+00:00:25,512 --> 00:00:30,712
+The relationships of several of these with pregnancy can be intriguing and challenging.
+
+6
+00:00:30,712 --> 00:00:32,837
+Hepatic Disorders.
+
+7
+00:00:32,837 --> 00:00:38,212
+Liver diseases complicating pregnancy are placed into three general categories.
+
+8
+00:00:38,212 --> 00:00:44,775
+The first includes those specific to pregnancy and resolve either spontaneously or following delivery.
+
+9
+00:00:44,775 --> 00:00:58,837
+Hyperemesis gravidarum, intrahepatic cholestasis, acute fatty liver, and HELLP syndrome—which is characterized by hemolysis, elevated liver enzyme levels, and low platelet counts, are examples.
+
+10
+00:00:58,837 --> 00:01:06,787
+The second category involves acute hepatic disorders that are coincidental to pregnancy, such as acute viral hepatitis.
+
+11
+00:01:06,787 --> 00:01:16,587
+Last are chronic liver diseases that predate pregnancy, such as chronic viral or autoimmune hepatitis, cirrhosis, or esophageal varices.
+
+12
+00:01:16,587 --> 00:01:21,050
+Laboratory testing can aid differentiation of these disorders.
+
+13
+00:01:21,050 --> 00:01:29,612
+Hepatic dysfunction from hyperemesis gravidarum may manifest as mildly elevated serum bilirubin and transaminase levels .
+
+14
+00:01:29,612 --> 00:01:32,987
+Others listed in Table 58-1.
+
+15
+00:01:32,987 --> 00:01:35,562
+can show more marked findings.
+
+16
+00:01:35,562 --> 00:01:48,100
+One example, severe preeclampsia syndrome, discussed in Chapter 40 (p. 689), can be further complicated by the HELLP syndrome, which can rarely cause liver failure .
+
+17
+00:01:48,100 --> 00:01:50,625
+TABLE 58-1.
+
+18
+00:01:50,625 --> 00:02:07,387
+Clinical Findings with Liver Diseases in Pregnancy Importantly, several normal pregnancy-induced physiological changes induce appreciable liver-related clinical and laboratory manifestations (Chap. 4, p. 70 and Appendix, p. 1229).
+
+19
+00:02:07,387 --> 00:02:17,075
+Abnormalities such as increased serum alkaline phosphatase levels, palmar erythema, and spider angiomas are common during normal pregnancy.
+
+20
+00:02:17,075 --> 00:02:26,212
+In addition, higher levels of estrogen, progesterone, and other pregnancy hormones alter expression of the cytochrome P450 system.
+
+21
+00:02:26,212 --> 00:02:35,737
+For example, hepatic CYP1A2 expression declines, but that of CYP2D6 and CYP3A4 rises.
+
+22
+00:02:35,737 --> 00:02:46,112
+The latter pair possibly affects metabolism of commonly used therapeutic agents in pregnancy (Dallmann, 2018; Ornoy, 2019).
+
+23
+00:02:46,112 --> 00:02:50,050
+Cytochrome enzymes are also expressed in the placenta.
+
+24
+00:02:50,050 --> 00:02:56,162
+The net effect is complex and likely influenced by gestational age and organ of expression .
+
+25
+00:02:56,162 --> 00:03:03,400
+Despite these functional changes, no major hepatic histological changes are induced by normal pregnancy.
+
+26
+00:03:03,400 --> 00:03:06,812
+# Acute Liver Failure in Pregnancy.
+
+27
+00:03:06,812 --> 00:03:11,187
+Fortunately, liver failure is uncommon during pregnancy.
+
+28
+00:03:11,187 --> 00:03:19,350
+Of the various causes, drug-induced liver injury (DILI) is probably the most frequent nonpregnancy-related etiology .
+
+29
+00:03:19,350 --> 00:03:24,450
+Acetaminophen toxicity is the most prevalent cause in the United States .
+
+30
+00:03:24,450 --> 00:03:38,312
+Other sources of liver failure include acute fatty liver of pregnancy (AFLP), fulminant viral hepatitis, environmental toxins, autoimmune hepatitis, shock liver, and alternative medicines.
+
+31
+00:03:38,312 --> 00:03:49,087
+In a highly selective study of 70 referred women with a hepatic encephalopathy, half were caused by AFLP and half were associated with HELLP syndrome .
+
+32
+00:03:49,087 --> 00:03:54,875
+The treatment of acute liver failure in pregnancy mirrors that for nonpregnant individuals.
+
+33
+00:03:54,875 --> 00:04:06,737
+Therapy targets the underlying etiology, and a team of obstetricians, maternal-fetal medicine and critical care specialists, hepatologists, and transplant surgeons is assembled.
+
+34
+00:04:06,737 --> 00:04:22,825
+Laboratory studies initially include serum levels of transaminases, bilirubin, amylase, lipase, electrolytes, creatinine, albumin, fibrinogen, lactate, and total cholesterol; complete blood count; and coagulation studies .
+
+35
+00:04:22,825 --> 00:04:34,975
+Etiologytargeted testing is described fully in later sections but broadly includes viral and autoimmune serological assays and testing for acetaminophen, iron, and copper toxicity.
+
+36
+00:04:34,975 --> 00:04:42,975
+Computed tomography (CT) and magnetic resonance (MR) imaging may be needed to investigate hepatic structure.
+
+37
+00:04:42,975 --> 00:04:47,625
+For a pregnancyrelated etiology, delivery is undertaken.
+
+38
+00:04:47,625 --> 00:04:56,325
+Because of comorbid coagulopathy, vaginal delivery is preferable if it can be achieved expeditiously and fetal condition allows.
+
+39
+00:04:56,325 --> 00:04:58,412
+Hepatotoxic
+
+40
+00:04:58,564 --> 00:05:07,564
+agents are avoided, coagulopathy is corrected, and monitoring for cerebral edema and increased intracranial pressure is necessary .
+
+41
+00:05:07,514 --> 00:05:15,464
+Liver transplantation is problematic during pregnancy, but delivery before transplantation is considered if necessary .
+
+42
+00:05:15,464 --> 00:05:19,276
+# Intrahepatic Cholestasis of Pregnancy.
+
+43
+00:05:19,276 --> 00:05:29,864
+Characterized by pruritus, jaundice, or both, this condition has been called recurrent jaundice of pregnancy, cholestatic hepatosis, and icterus gravidarum.
+
+44
+00:05:29,864 --> 00:05:39,139
+Intrahepatic cholestasis of pregnancy (ICP) is more common in multifetal pregnancy, and genetic influences are significant .
+
+45
+00:05:39,139 --> 00:05:43,101
+Because of this, its incidence varies by population.
+
+46
+00:05:43,101 --> 00:05:55,326
+In North America, the overall incidence approximates 1 case in 500 to 1000 pregnancies, but its rate nears 5.6 percent among pregnant Latina women in Los Angeles .
+
+47
+00:05:55,326 --> 00:06:02,401
+Historically, indigenous women from Chile and Bolivia also have a relatively high incidence of ICP.
+
+48
+00:06:02,401 --> 00:06:09,401
+For unknown reasons, this incidence has decreased since the 1970s and is now less than 2 percent .
+
+49
+00:06:09,401 --> 00:06:16,701
+In Sweden, China, and Israel, the incidence varies from 0.25 to 1.5 percent .
+
+50
+00:06:16,701 --> 00:06:24,401
+Pathogenesis The cause of ICP is unclear, but changes in various sex steroid hormone levels are implicated.
+
+51
+00:06:24,401 --> 00:06:33,089
+In one study, women treated with vaginal progesterone for preterm labor prophylaxis showed a fourfold increase in the ICP rate .
+
+52
+00:06:33,089 --> 00:06:40,539
+Current research focuses on the numerous mutations in the many genes that control hepatocellular transport systems.
+
+53
+00:06:40,539 --> 00:06:53,076
+One example is mutations of the ABCB4 gene, which encodes multidrug resistance protein 3 (MDR3) associated with progressive familial intrahepatic cholestasis.
+
+54
+00:06:53,076 --> 00:06:59,114
+Another is error in the ABCB11 gene, which encodes a bile-salt export pump .
+
+55
+00:06:59,114 --> 00:07:11,339
+Other potential gene products are the farnesoid X receptor and transporting ATPase encoded by ATP8B1 (Abu-Hayyeh, 2016; Sticova, 2018).
+
+56
+00:07:11,339 --> 00:07:15,189
+The latter predisposes to drug-induced cholestasis.
+
+57
+00:07:15,189 --> 00:07:23,764
+In this regard, we have encountered impressive cholestatic jaundice in gravidas taking azathioprine following renal transplantation.
+
+58
+00:07:23,764 --> 00:07:30,251
+Following the inciting cause(s), bile acids are incompletely cleared and accumulate in plasma.
+
+59
+00:07:30,251 --> 00:07:40,014
+Hyperbilirubinemia results from retention of conjugated pigment, but total plasma concentrations rarely exceed 4 to 5 mg/dL.
+
+60
+00:07:40,014 --> 00:07:45,889
+Alkaline phosphatase levels are usually elevated even more than for normal pregnancy.
+
+61
+00:07:45,889 --> 00:07:52,739
+Serum transaminase levels are normal to moderately elevated but seldom exceed 200 U/L .
+
+62
+00:07:52,739 --> 00:08:00,601
+Liver biopsy shows mild cholestasis with bile plugs in the hepatocytes and canaliculi of the centrilobular regions.
+
+63
+00:08:00,601 --> 00:08:03,751
+Inflammation or necrosis is absent.
+
+64
+00:08:03,751 --> 00:08:11,826
+These changes disappear after delivery but often recur in subsequent pregnancies or with estrogen-containing contraceptives.
+
+65
+00:08:11,826 --> 00:08:20,976
+Clinical Presentation Generalized pruritus that shows predilection for the palms and soles usually develops in late pregnancy or occasionally earlier.
+
+66
+00:08:20,976 --> 00:08:27,614
+Constitutional symptoms are absent, and skin changes are limited to excoriations from scratching.
+
+67
+00:08:27,614 --> 00:08:33,676
+Serum transaminase and bile acid levels are measured in women with suspected ICP.
+
+68
+00:08:33,676 --> 00:08:42,251
+As a threshold for comparison, total serum bile acid levels typically remain <10 μmol/L throughout normal pregnancy .
+
+69
+00:08:42,251 --> 00:08:49,726
+Elevated total serum bile acid or transaminase levels plus pruritus supports an ICP diagnosis.
+
+70
+00:08:49,726 --> 00:08:56,739
+Biochemical tests may be abnormal at presentation or may follow initial pruritus after several weeks.
+
+71
+00:08:56,739 --> 00:09:03,526
+Moreover, a rise in transaminase levels may precede an increase in serum bile acid levels .
+
+72
+00:09:03,526 --> 00:09:07,739
+Approximately 10 percent of women have concurrent jaundice.
+
+73
+00:09:07,739 --> 00:09:16,076
+With normal liver enzyme levels or with specific skin findings, pruritus may instead reflect other dermatological disorders .
+
+74
+00:09:16,076 --> 00:09:23,301
+Sonography may be warranted to exclude cholelithiasis and biliary obstruction (p. 1042).
+
+75
+00:09:23,301 --> 00:09:32,289
+Moreover, acute viral hepatitis is an unlikely diagnosis because of the usually low serum transaminase levels seen with ICP.
+
+76
+00:09:32,289 --> 00:09:42,339
+Conversely, underlying chronic hepatitis C is associated with a significantly greater risk of developing ICP, which may be as much as 20fold higher .
+
+77
+00:09:42,339 --> 00:09:49,151
+Management Pruritus may be troublesome and is thought to result from elevated serum bile salt concentrations.
+
+78
+00:09:49,151 --> 00:09:52,439
+Antihistamines and topical emollients
+
+79
+00:09:52,588 --> 00:09:55,100
+usually provide some relief.
+
+80
+00:09:55,050 --> 00:10:02,475
+Cholestyramine is reported to be effective, but this compound also lowers absorption of fat-soluble vitamins.
+
+81
+00:10:02,475 --> 00:10:07,250
+This may lead to vitamin K deficiency and fetal coagulopathy.
+
+82
+00:10:07,250 --> 00:10:11,988
+Subsequent fetal intracranial hemorrhage and stillbirth have been reported .
+
+83
+00:10:11,988 --> 00:10:26,675
+Currently, the most popular treatment is with ursodeoxycholic acid (Actigall), which relieves pruritus and reduces serum levels of bile salts and liver enzymes (Bacq, 2012; Parízek, 2016).
+
+84
+00:10:26,675 --> 00:10:30,475
+It is available as 300-mg capsules.
+
+85
+00:10:30,475 --> 00:10:38,550
+Oral dosing is 10 to 15 mg/kg maternal body weight daily, which is divided into two or three doses .
+
+86
+00:10:38,550 --> 00:10:47,000
+In a large randomized trial, the maternal “itch score” was not significantly lower with ursodeoxycholic acid compared with placebo .
+
+87
+00:10:47,000 --> 00:10:56,313
+From our experiences at Parkland Hospital, however, pruritus typically improves after 2 to 3 weeks of ursodeoxycholic acid therapy .
+
+88
+00:10:56,313 --> 00:11:03,525
+Such treatment has also been reported to lower risks for stillbirth and fetal distress and is discussed subsequently.
+
+89
+00:11:03,525 --> 00:11:12,375
+Other described treatments include therapeutic plasma exchange and rifampin (Liu, 2018; Ovadia, 2018).
+
+90
+00:11:12,375 --> 00:11:18,288
+A randomized trial comparing ursodeoxycholic acid and rifampicin is underway .
+
+91
+00:11:18,288 --> 00:11:24,950
+Perinatal Outcomes Early reports describe excessive adverse fetal outcomes in women with ICP.
+
+92
+00:11:24,950 --> 00:11:34,325
+However, data from the past two decades are ambiguous concerning increased perinatal mortality rates and whether close fetal surveillance is preventive.
+
+93
+00:11:34,325 --> 00:11:46,125
+Sheiner and coworkers (2006) described no differences in perinatal outcomes in 376 affected pregnancies compared with their overall obstetrical population.
+
+94
+00:11:46,125 --> 00:11:52,788
+However, rates of labor induction and cesarean delivery in affected women were significantly higher.
+
+95
+00:11:52,788 --> 00:12:07,663
+In a study of 5477 women with ICP from a database of 1.2 million births, neonates had a lower 5-minute Apgar score, but the stillbirth rate was not greater (Wikström Shemer, 2013).
+
+96
+00:12:07,663 --> 00:12:15,425
+The latter rate was thought to reflect a higher labor induction rate, which at the time of the study was recommended to avoid stillbirth.
+
+97
+00:12:15,425 --> 00:12:28,625
+In some studies, complications developed more frequently in women with higher total bile acid levels (Di Mascio, 2019; Herrera, 2018; Ovadia, 2019).
+
+98
+00:12:28,625 --> 00:12:34,300
+These studies described stillbirths despite normal findings during antenatal testing.
+
+99
+00:12:34,300 --> 00:12:43,950
+One study of 693 Swedish women found a greater perinatal mortality rate in women with bile acids levels >40 μmol/L .
+
+100
+00:12:43,950 --> 00:12:58,388
+In others, an increased stillbirth risk was noted in women whose serum bile acid levels were >100 μmol/L (Brouwers, 2015; Chappell, 2019, Kawakita, 2015).
+
+101
+00:12:58,388 --> 00:13:07,013
+Chappell and associates (2019) also found that ursodeoxycholic acid treatment did not lower perinatal death rates.
+
+102
+00:13:07,013 --> 00:13:11,000
+The use of antenatal fetal testing was not described.
+
+103
+00:13:11,000 --> 00:13:25,650
+In a metaanalysis of 5557 women with ICP, Ovadia and colleagues (2019) concluded that serum bile acid levels >100 μmol/L were associated with stillbirth.
+
+104
+00:13:25,650 --> 00:13:29,738
+Other adverse perinatal outcomes also have been described.
+
+105
+00:13:29,738 --> 00:13:43,963
+Brouwers and colleagues (2015) found higher rates of spontaneous preterm birth (19 percent) and meconium-stained amnionic fluid (48 percent), despite active management leading to earlier delivery.
+
+106
+00:13:43,963 --> 00:13:55,100
+Novel associations of ICP with preeclampsia, gestational diabetes, and large for gestational age also are reported (Wikström Shemer, 2013).
+
+107
+00:13:55,100 --> 00:14:02,563
+In summary, management is directed at early delivery to mitigate the relatively uncommon incidence of fetal death.
+
+108
+00:14:02,563 --> 00:14:09,738
+Treatment with ursodeoxycholic acid does not always improve maternal symptoms or protect against stillbirth.
+
+109
+00:14:09,738 --> 00:14:15,975
+It is problematic that antenatal testing does not reliably forecast impending fetal death.
+
+110
+00:14:15,975 --> 00:14:20,500
+We do not routinely employ these for uncomplicated ICP.
+
+111
+00:14:20,500 --> 00:14:28,113
+The precise gestational age for labor induction is uncertain, but many authors recommend 37 weeks’ gestation .
+
+112
+00:14:28,113 --> 00:14:47,975
+At Parkland Hospital, we routinely induce labor at 38 weeks if symptoms worsen or if serum bile acid levels exceed 40 μmol/L. Fetal Effects of Bile Acids As noted, evidence supports that maternal serum bile acid levels >100 μmol/L contribute to fetal death and meconium passage.
+
+113
+00:14:47,975 --> 00:14:54,275
+Fetal death may be related to the cardiotoxicity of bile acids, which causes cardiac
+
+114
+00:14:54,436 --> 00:14:57,973
+dysfunction and presumably cardiac arrest.
+
+115
+00:14:57,923 --> 00:15:08,773
+In an ex-vivo preparation of cardiac myocytes, cholic acid lowered beating rates in a dose-dependent fashion, while elevating intracellular calcium concentration .
+
+116
+00:15:08,773 --> 00:15:20,686
+Prolongation of the fetal cardiac PR interval and successful reversal with ursodeoxycholic acid has been described (Rodríguez, 2018; Strehlow, 2010).
+
+117
+00:15:20,686 --> 00:15:30,873
+Last, Ozel and coworkers (2018) demonstrated impaired global ventricular function in fetuses of pregnancies complicated by ICP.
+
+118
+00:15:30,873 --> 00:15:34,223
+# Acute Fatty Liver of Pregnancy.
+
+119
+00:15:34,223 --> 00:15:43,736
+The most frequent cause of acute liver failure during pregnancy is acute fatty liver—also called acute fatty metamorphosis or acute yellow atrophy.
+
+120
+00:15:43,736 --> 00:15:51,286
+It is characterized by accumulation of microvesicular fat that literally “crowds out” normal hepatocytic function .
+
+121
+00:15:51,286 --> 00:15:55,948
+Grossly, the liver is small, soft, yellow, and greasy.
+
+122
+00:15:55,948 --> 00:16:01,473
+In its worst form, the incidence approximates 1 case per 10,000 births .
+
+123
+00:16:01,473 --> 00:16:05,536
+AFLP recurring in subsequent pregnancy is rare .
+
+124
+00:16:05,536 --> 00:16:08,073
+Figure 58-1.
+
+125
+00:16:08,073 --> 00:16:10,936
+Acute fatty liver of pregnancy.
+
+126
+00:16:10,936 --> 00:16:17,836
+Cross section of the liver from a woman who died as the result of pulmonary aspiration and respiratory failure.
+
+127
+00:16:17,836 --> 00:16:20,923
+The liver has a greasy yellow appearance.
+
+128
+00:16:20,923 --> 00:16:28,423
+Inset: Electron photomicrograph of a swollen hepatocyte containing numerous microvesicular fat droplets ().
+
+129
+00:16:28,423 --> 00:16:35,711
+The nucleus (N) remains centered within the cell in contrast to the case with macrovesicular fat deposition.
+
+130
+00:16:35,711 --> 00:16:39,298
+Reproduced with permission from Dr. Don Wheeler.
+
+131
+00:16:39,298 --> 00:16:51,811
+Etiopathogenesis Although the underlying cause remains unclear, many cases of AFLP are associated with recessively inherited mitochondrial abnormalities of fatty acid oxidation.
+
+132
+00:16:51,811 --> 00:17:01,236
+Several mutations for the mitochondrial trifunctional protein enzyme complex that catalyzes the last oxidative steps in the pathway are implicated.
+
+133
+00:17:01,236 --> 00:17:14,286
+The most common are the G1528C and E474Q missense mutations of the gene on chromosome 2 that codes for long-chain-3hydroxyacyl-CoA dehydrogenase (LCHAD) .
+
+134
+00:17:14,286 --> 00:17:24,936
+Mutations for medium-chain acyl-CoA dehydrogenase (MCAD) and for carnitine palmitoyltransferase 1 (CPT1) deficiency are others.
+
+135
+00:17:24,936 --> 00:17:29,373
+These are similar to mutations in children with Reye-like syndromes.
+
+136
+00:17:29,373 --> 00:17:39,936
+Sims and colleagues (1995) observed that some homozygous LCHADdeficient children with Reye-like syndromes had heterozygous mothers with AFLP.
+
+137
+00:17:39,936 --> 00:17:44,448
+This was also seen in women with a compound heterozygous fetus.
+
+138
+00:17:44,448 --> 00:17:54,298
+Although some conclude that only heterozygous LCHAD-deficient mothers are at risk for ALFP when their fetus is homozygous, this is not always true .
+
+139
+00:17:54,298 --> 00:18:05,511
+An association between fatty acid β-oxidation enzyme defects and severe preeclampsia, especially in women with HELLP syndrome, is also controversial .
+
+140
+00:18:05,511 --> 00:18:12,511
+Most observations derive from retrospective study of mothers with a child who later developed Reye-like syndrome.
+
+141
+00:18:12,511 --> 00:18:21,436
+One case-control study compared 50 mothers of children with a fatty acid oxidation defect and 1250 mothers of matched control infants .
+
+142
+00:18:21,436 --> 00:18:30,411
+During their pregnancy, 12 percent of mothers with an affected child developed HELLP syndrome and 4 percent developed AFLP.
+
+143
+00:18:30,411 --> 00:18:36,248
+Comparatively, only 0.9 percent of control women developed liver problems.
+
+144
+00:18:36,248 --> 00:18:56,811
+Despite these findings, the clinical, biochemical, and histopathological findings are sufficiently disparate and support that severe preeclampsia, with or without HELLP syndrome, and AFLP are distinct syndromes (American College of Obstetricians and Gynecologists, 2012; Byrne, 2020).
+
+145
+00:18:56,811 --> 00:19:03,898
+Clinical Findings AFLP almost always manifests in the last trimester and rarely midpregnancy .
+
+146
+00:19:03,898 --> 00:19:17,673
+From Parkland Hospital, Nelson and colleagues (2013) described 51 women with AFLP at a mean gestational age of 37 weeks (range 31.7 to 40.9 weeks).
+
+147
+00:19:17,673 --> 00:19:25,323
+Approximately 41 percent were nulliparous and 20 percent were delivered at 34 weeks’ gestation or earlier.
+
+148
+00:19:25,323 --> 00:19:30,148
+Women with a multifetal gestation account for 20 percent of cases .
+
+149
+00:19:30,148 --> 00:19:37,773
+AFLP has a broad spectrum of clinical features and severity, and symptoms usually advance over several days.
+
+150
+00:19:37,773 --> 00:19:41,561
+Persistent nausea and vomiting are major complaints.
+
+151
+00:19:41,561 --> 00:19:47,536
+Degrees of malaise, anorexia, epigastric pain, and progressive jaundice vary.
+
+152
+00:19:47,536 --> 00:19:53,798
+In almost all severe cases, acute liver injury causes profound endothelial cell
+
+153
+00:19:53,956 --> 00:20:03,493
+activation, capillary leakage, and hemoconcentration; acute kidney injury; ascites; and sometimes pulmonary permeability edema .
+
+154
+00:20:03,443 --> 00:20:10,193
+Half of affected women have hypertension, proteinuria, and edema, alone or in combination.
+
+155
+00:20:10,193 --> 00:20:14,281
+Notably, these signs also suggest preeclampsia.
+
+156
+00:20:14,281 --> 00:20:27,106
+As shown in Tables 58-1 and 58-2, degrees of moderate to severe liver dysfunction are manifest by hypofibrinogenemia, hypocholesterolemia, and prolonged clotting times.
+
+157
+00:20:27,106 --> 00:20:38,231
+Serum bilirubin levels usually are <10 mg/dL, and serum transaminase levels are modestly elevated and usually <1000 U/L.
+
+158
+00:20:38,231 --> 00:20:43,568
+An AFLP diagnosis is arrived at by clinical and laboratory findings.
+
+159
+00:20:43,568 --> 00:20:46,193
+Biopsy is unnecessary.
+
+160
+00:20:46,193 --> 00:20:59,656
+The Swansea criteria proposed by Ch’ng and associates (2002) as a screening tool and predictor of severity shows suitable sensitivity (Morton, 2018; Wang, 2017).
+
+161
+00:20:59,656 --> 00:21:02,106
+Table 58-2.
+
+162
+00:21:02,106 --> 00:21:13,456
+Comparison of Clinical Findings at the Time of Admission in 67 Women with Acute Fatty Liver of Pregnancy and 67 with HELLP Syndrome Table 58-3.
+
+163
+00:21:13,456 --> 00:21:23,531
+Swansea Criteria for AFLP Diagnosisa Hemolysis can be severe and is thought to stem from effects of hypocholesterolemia on erythrocyte membranes .
+
+164
+00:21:23,531 --> 00:21:37,468
+Laboratory evidence includes leukocytosis, nucleated red cells, mild to moderate thrombocytopenia, and increased serum levels of lactic acid dehydrogenase (LDH) or decreased haptoglobin levels.
+
+165
+00:21:37,468 --> 00:21:41,693
+The peripheral blood smear demonstrates echinocytosis.
+
+166
+00:21:41,693 --> 00:21:48,106
+However, the hematocrit is often high or within the normal range because of hemoconcentration.
+
+167
+00:21:48,106 --> 00:21:57,068
+With severe hemoconcentration, uteroplacental perfusion is reduced and this, along with maternal acidosis, can cause fetal death.
+
+168
+00:21:57,068 --> 00:22:06,368
+Likewise, maternal and fetal acidemia are associated with a high incidence of fetal jeopardy and a concordantly high cesarean delivery rate.
+
+169
+00:22:06,368 --> 00:22:14,318
+The degree of clotting dysfunction varies and can be potentially life threatening, especially if cesarean delivery is undertaken.
+
+170
+00:22:14,318 --> 00:22:25,256
+Coagulopathy is caused by diminished hepatic procoagulant synthesis, although some evidence supports increased consumption from disseminated intravascular coagulopathy.
+
+171
+00:22:25,256 --> 00:22:30,881
+As shown in Table 58-2, hypofibrinogenemia can be profound.
+
+172
+00:22:30,881 --> 00:22:40,456
+Of 51 women cared for at Parkland Hospital, almost one third had a plasma fibrinogen level nadir below 100 mg/dL .
+
+173
+00:22:40,456 --> 00:22:48,393
+Elevated levels of serum D-dimers or fibrin-split products also indicate an element of consumptive coagulopathy .
+
+174
+00:22:48,393 --> 00:22:53,193
+Although usually modest, occasionally thrombocytopenia is marked.
+
+175
+00:22:53,193 --> 00:23:05,243
+Among the women from Parkland Hospital, 20 percent had platelet counts <100,000/μL, and 10 percent had platelet counts <50,000/μL .
+
+176
+00:23:05,243 --> 00:23:37,856
+Because liver dysfunction and kidney injury are central to AFLP, Byrne and colleagues (2020) have proposed the acronym FaCCT to differentiate AFLP from HELLP syndrome using levels of commonly available laboratory analytes: fibrinogen (<300 mg/dL) and cholesterol (<220 mg/dL), creatinine (>0.9 mg/dL), and total bilirubin (>1 mg/dL).
+
+177
+00:23:37,856 --> 00:23:51,243
+To emphasize, the clinical features and sequelae of AFLP are attributed to liver dysfunction, whereas in HELLP syndrome the procoagulant production and function of the liver appears relatively preserved.
+
+178
+00:23:51,243 --> 00:23:55,818
+AFLP typically continues to worsen after diagnosis.
+
+179
+00:23:55,818 --> 00:24:06,368
+Hypoglycemia is common, and hepatic encephalopathy, severe coagulopathy, and some degree of renal failure each develop in approximately half of women.
+
+180
+00:24:06,368 --> 00:24:13,968
+Delivery fortunately arrests liver function deterioration, but recovery may require substantial supportive care.
+
+181
+00:24:13,968 --> 00:24:20,806
+Various liver imaging techniques can help confirm the diagnosis, but none is particularly reliable .
+
+182
+00:24:20,806 --> 00:24:33,031
+In a prospective evaluation of the Swansea criteria, only a quarter of women with AFLP had classic sonographic findings that included maternal ascites or an echogenic hepatic appearance .
+
+183
+00:24:33,031 --> 00:24:42,106
+Although Châtel and coworkers (2016) described greater liver fat detected by MR imaging, this has not been our experience.
+
+184
+00:24:42,106 --> 00:24:46,993
+We have encountered several women with an underdeveloped form of AFLP.
+
+185
+00:24:46,993 --> 00:24:57,143
+Clinical involvement is relatively minor and laboratory aberrations— usually only hemolysis and a decreased plasma fibrinogen level—herald the syndrome.
+
+186
+00:24:57,143 --> 00:25:00,943
+Thus, the spectrum of liver involvement can include
+
+187
+00:25:01,108 --> 00:25:11,858
+unnoticed milder cases, findings that are instead attributed to preeclampsia, or a severe form displaying overt hepatic failure and associated encephalopathy.
+
+188
+00:25:11,808 --> 00:25:17,208
+Management Intensive supportive measures and sound obstetrical care are essential.
+
+189
+00:25:17,208 --> 00:25:26,008
+Delivery of the fetus is necessary in the treatment of AFLP, and significant procrastination increases maternal and fetal risks.
+
+190
+00:25:26,008 --> 00:25:30,533
+We prefer a trial of labor induction with close fetal surveillance.
+
+191
+00:25:30,533 --> 00:25:39,920
+Although some recommend cesarean delivery to hasten hepatic healing, this raises maternal bleeding complication risks when coagulopathy is severe.
+
+192
+00:25:39,920 --> 00:25:47,283
+Nonetheless, cesarean delivery is common due to fetal intolerance of labor, and rates approach 90 percent.
+
+193
+00:25:47,283 --> 00:25:55,183
+In some cases, the fetus has already died when AFLP is diagnosed, and the delivery route is less problematic.
+
+194
+00:25:55,183 --> 00:26:09,120
+To correct coagulopathy, transfusions with whole blood or packed red cells, along with fresh-frozen plasma, cryoprecipitate, and platelets, are usually necessary for surgery or vaginal laceration repair .
+
+195
+00:26:09,120 --> 00:26:17,583
+Hepatic function usually returns to normal within a week postpartum, but in the interim, intensive medical support may be required.
+
+196
+00:26:17,583 --> 00:26:21,483
+Two associated conditions can be seen during this time.
+
+197
+00:26:21,483 --> 00:26:26,558
+Perhaps a fourth of women have evidence for transient diabetes insipidus.
+
+198
+00:26:26,558 --> 00:26:35,183
+This presumably stems from elevated vasopressinase concentrations caused by diminished hepatic production of its inactivating enzyme.
+
+199
+00:26:35,183 --> 00:26:40,320
+Second, acute pancreatitis develops in approximately 20 percent.
+
+200
+00:26:40,320 --> 00:26:44,258
+With supportive care, recovery usually is complete.
+
+201
+00:26:44,258 --> 00:26:54,120
+Maternal deaths are caused by liver failure, sepsis, hemorrhage, aspiration, renal failure, pancreatitis, and gastrointestinal bleeding.
+
+202
+00:26:54,120 --> 00:26:57,758
+Two women died in the series from Parkland Hospital.
+
+203
+00:26:57,758 --> 00:27:04,145
+One had associated encephalopathy and aspirated before intubation during transfer to our care.
+
+204
+00:27:04,145 --> 00:27:09,320
+The other was a woman with profound liver failure and nonresponsive hypotension .
+
+205
+00:27:09,320 --> 00:27:18,295
+Other treatment measures have included plasma exchange and liver transplantation (Ringers, 2016; Wu, 2018).
+
+206
+00:27:18,295 --> 00:27:28,420
+Maternal and Perinatal Outcomes Maternal mortality rates with AFLP approached 75 percent in the past, but the contemporaneous outlook is much better.
+
+207
+00:27:28,420 --> 00:27:35,145
+From his review, Sibai (2007) cites an average mortality rate of 7 percent.
+
+208
+00:27:35,145 --> 00:27:44,345
+He also cited a 70-percent preterm delivery rate and a 15-percent perinatal mortality rate, which in the past was nearly 90 percent.
+
+209
+00:27:44,345 --> 00:27:53,583
+During the past four decades at Parkland Hospital, the maternal and perinatal mortality rates have been 4 percent and 12 percent, respectively .
+
+210
+00:27:53,583 --> 00:27:56,333
+# Viral Hepatitis.
+
+211
+00:27:56,333 --> 00:28:04,883
+Most viral hepatitis syndromes are asymptomatic, and acute symptomatic infections are becoming less common in the United States.
+
+212
+00:28:04,883 --> 00:28:20,583
+There are at least five distinct types of viruses causing hepatitis: A (HAV), B (HBV), D (HDV) caused by the hepatitis B–associated delta agent, C (HCV), and E (HEV).
+
+213
+00:28:20,583 --> 00:28:35,420
+The clinical presentation of acute infection is similar in all, and although the viruses themselves probably are not hepatotoxic, the immunological response to them causes hepatocellular necrosis (Dienstag, 2018a,b).
+
+214
+00:28:35,420 --> 00:28:46,883
+Several other viral agents can infect the liver, and two examples are cytomegalovirus and herpes simplex virus (Calix, 2020; McCormack, 2019).
+
+215
+00:28:46,883 --> 00:28:51,470
+Acute infections are most often subclinical and anicteric.
+
+216
+00:28:51,470 --> 00:28:58,995
+When they are clinically apparent, nausea and vomiting, headache, and malaise may precede jaundice by 1 to 2 weeks.
+
+217
+00:28:58,995 --> 00:29:03,358
+By the time jaundice develops, symptoms usually are improving.
+
+218
+00:29:03,358 --> 00:29:12,508
+Low-grade fever is more common with hepatitis A. Serum transaminase levels vary, and their peaks do not correspond with disease severity.
+
+219
+00:29:12,508 --> 00:29:19,620
+Peak levels that range from 400 to 4000 U/L are usually reached by the time jaundice develops .
+
+220
+00:29:19,620 --> 00:29:29,533
+Serum bilirubin values typically continue to rise, and peak at 5 to 20 mg/dL, despite falling serum transaminase levels.
+
+221
+00:29:29,533 --> 00:29:32,958
+Severe features should prompt hospitalization.
+
+222
+00:29:32,958 --> 00:29:44,858
+These include persistent nausea and vomiting, prolonged prothrombin time, low serum albumin level, hypoglycemia, high serum bilirubin level, or central nervous system symptoms.
+
+223
+00:29:44,858 --> 00:29:51,933
+In most cases, clinical and biochemical recovery is complete within 1 to 2 months in all cases of
+
+224
+00:29:52,084 --> 00:30:08,321
+hepatitis A, in most cases of hepatitis B, but in only a small proportion of those caused by hepatitis C. Patient’s feces, secretions, bedpans, and other articles in contact with the intestinal tract should be handled with glove-protected hands.
+
+225
+00:30:08,321 --> 00:30:15,834
+In hospitals, extra precautions, such as double gloving during delivery and surgical procedures, are recommended.
+
+226
+00:30:15,834 --> 00:30:29,896
+Due to significant exposure of health-care personnel to hepatitis B, the Centers for Disease Control and Prevention (CDC) recommend active and passive vaccination, as described later (p. 1037) .
+
+227
+00:30:29,896 --> 00:30:36,434
+For hepatitis C, although direct antiviral regimens have been developed, there is no vaccine.
+
+228
+00:30:36,434 --> 00:30:41,171
+Guidelines instead recommend postexposure serosurveillance only.
+
+229
+00:30:41,171 --> 00:30:46,034
+Acute hepatitis has a case-fatality rate of 0.1 percent.
+
+230
+00:30:46,034 --> 00:30:50,709
+For those requiring hospitalization, it may reach 1 percent.
+
+231
+00:30:50,709 --> 00:30:57,959
+Most fatalities are due to fulminant hepatic necrosis, which in later pregnancy may resemble AFLP.
+
+232
+00:30:57,959 --> 00:31:05,309
+In these cases, hepatic encephalopathy is the usual presentation, and the mortality rate is 80 percent.
+
+233
+00:31:05,309 --> 00:31:13,571
+Approximately half of patients with fulminant disease have hepatitis B infection, and co-infection with the delta agent is common.
+
+234
+00:31:13,571 --> 00:31:17,634
+Chronic hepatitis is more prevalent than acute infection.
+
+235
+00:31:17,634 --> 00:31:27,246
+The CDC (2019) estimates that almost 3.5 million persons in the United States are living with chronic viral hepatitis.
+
+236
+00:31:27,246 --> 00:31:34,246
+Although most are asymptomatic, approximately 20 percent develop cirrhosis within 10 to 20 years .
+
+237
+00:31:34,246 --> 00:31:39,071
+When present, symptoms are nonspecific and usually include fatigue.
+
+238
+00:31:39,071 --> 00:31:45,421
+In some patients, cirrhosis with liver failure or bleeding varices may be the initial finding.
+
+239
+00:31:45,421 --> 00:31:54,484
+Also, asymptomatic chronic viral hepatitis remains the leading cause of liver cancer and the most frequent reason for liver transplantation.
+
+240
+00:31:54,484 --> 00:31:59,059
+Chronic viral hepatitis is usually diagnosed serologically .
+
+241
+00:31:59,059 --> 00:32:10,271
+With persistently abnormal biochemical tests, liver biopsy usually discloses active inflammation, continuing necrosis, and fibrosis that may lead to cirrhosis.
+
+242
+00:32:10,271 --> 00:32:19,096
+Chronic hepatitis is classified by cause; grade, defined by histological activity; and stage, which is the degree of progression .
+
+243
+00:32:19,096 --> 00:32:21,659
+Table 58-4.
+
+244
+00:32:21,659 --> 00:32:30,609
+Laboratory Features of Chronic Hepatitis Most young women with chronic viral hepatitis either are asymptomatic or have only mild liver disease.
+
+245
+00:32:30,609 --> 00:32:35,496
+For asymptomatic women, pregnancies are usually uncomplicated.
+
+246
+00:32:35,496 --> 00:32:46,671
+With symptomatic chronic active hepatitis, pregnancy outcome depends primarily on disease severity, and especially on the presence of portal hypertension (p. 1040).
+
+247
+00:32:46,671 --> 00:32:52,321
+The few women whom we have managed have done well, but their long-term prognosis is poor.
+
+248
+00:32:52,321 --> 00:33:00,384
+Accordingly, they should be counseled regarding possible liver transplantation as well as contraceptive and sterilization options.
+
+249
+00:33:00,384 --> 00:33:06,684
+Hepatitis A Vaccination has reduced the incidence of hepatitis A by 95 percent.
+
+250
+00:33:06,684 --> 00:33:13,621
+In 2019, the rate was 6 cases per 100,000 individuals in the United States .
+
+251
+00:33:13,621 --> 00:33:22,296
+HAV is an RNA picornavirus and is transmitted by the fecal–oral route and usually by contaminated food or water ingestion.
+
+252
+00:33:22,296 --> 00:33:26,046
+The incubation period approximates 4 weeks.
+
+253
+00:33:26,046 --> 00:33:34,284
+Individuals shed virus in their feces, and during the relatively brief period of viremia, their blood also is infectious.
+
+254
+00:33:34,284 --> 00:33:41,321
+Signs and symptoms are often nonspecific and usually mild, although jaundice develops in most patients.
+
+255
+00:33:41,321 --> 00:33:50,234
+Symptoms usually last less than 2 months, but 10 to 15 percent of patients may remain symptomatic or relapse for up to 6 months .
+
+256
+00:33:50,234 --> 00:33:59,134
+Early serological testing identifies immunoglobulin M (IgM) anti-HAV antibody, which may persist for several months.
+
+257
+00:33:59,134 --> 00:34:05,596
+During convalescence, IgG antibody predominates, and it provides subsequent immunity.
+
+258
+00:34:05,596 --> 00:34:08,696
+Hepatitis A lacks a chronic stage.
+
+259
+00:34:08,696 --> 00:34:15,734
+Vaccination during childhood with inactivated hepatitis viral vaccine is more than 90-percent effective.
+
+260
+00:34:15,734 --> 00:34:27,409
+The American College of Obstetricians and Gynecologists (2018) and the Advisory Committee on Immunization Practices recommends HAV vaccination for high-risk adults .
+
+261
+00:34:27,409 --> 00:34:30,384
+This includes pregnant women at risk .
+
+262
+00:34:30,384 --> 00:34:39,884
+Candidates are persons with chronic liver disease, human immunodeficiency virus (HIV) infection, homelessness, or illegal drug use.
+
+263
+00:34:39,884 --> 00:34:42,046
+Those working in group
+
+264
+00:34:42,196 --> 00:34:51,258
+facilities with at-risk persons, conducting research with HAV, or traveling to or adopting from endemic areas also are included.
+
+265
+00:34:51,208 --> 00:34:59,221
+High-risk countries are listed in the CDC (2020b) “Yellow Book”—Health Information for International Travel.
+
+266
+00:34:59,221 --> 00:35:13,446
+For an unvaccinated gravida who is recently exposed by close personal or sexual contact with a person with hepatitis A, passive immunization is provided by a 0.1-mL/kg dose of immune globulin.
+
+267
+00:35:13,446 --> 00:35:19,583
+Concurrently, the first dose of the hepatitis A vaccine series is given in a separate arm .
+
+268
+00:35:19,583 --> 00:35:27,933
+Pregnancy and Hepatitis A. Management of hepatitis A in pregnancy includes a balanced diet and diminished physical activity.
+
+269
+00:35:27,933 --> 00:35:32,008
+Women with mild illness may be managed as outpatients.
+
+270
+00:35:32,008 --> 00:35:43,871
+In developed countries, the effects of hepatitis A on pregnancy outcomes are not dramatic (American College of Obstetricians and Gynecologists, 2012, 2018).
+
+271
+00:35:43,871 --> 00:35:51,108
+However, in resource-poor countries, both perinatal and maternal mortality rates are substantively higher.
+
+272
+00:35:51,108 --> 00:35:56,421
+HAV is not teratogenic, and transmission to the fetus is negligible.
+
+273
+00:35:56,421 --> 00:36:02,271
+The risk of preterm birth may be higher, and neonatal cholestasis has been reported .
+
+274
+00:36:02,271 --> 00:36:11,383
+Although HAV RNA has been isolated in breast milk, no cases of neonatal hepatitis A have been reported secondary to breastfeeding .
+
+275
+00:36:11,383 --> 00:36:17,558
+Hepatitis B This infection stems from a double-stranded DNA virus that is found worldwide.
+
+276
+00:36:17,558 --> 00:36:27,183
+HBV is endemic in Africa, Central and Southeast Asia, China, Eastern Europe, the Middle East, and certain areas of South America.
+
+277
+00:36:27,183 --> 00:36:31,808
+In all these, infection prevalence reaches 5 to 20 percent.
+
+278
+00:36:31,808 --> 00:36:37,871
+An estimated 1.6 million people in the United States have chronic hepatitis B .
+
+279
+00:36:37,871 --> 00:36:44,608
+HBV is carcinogenic, and chronic infection is a known risk for hepatocellular carcinoma.
+
+280
+00:36:44,608 --> 00:36:48,583
+For others, cirrhosis can be a long-term sequela.
+
+281
+00:36:48,583 --> 00:36:54,933
+HBV is transmitted by exposure to blood or other body fluids from infected individuals.
+
+282
+00:36:54,933 --> 00:37:05,396
+In endemic countries, vertical transmission, that is from mother to fetus or newborn, accounts for at least 35 to 50 percent of chronic HBV infections.
+
+283
+00:37:05,396 --> 00:37:16,346
+In low-prevalence countries such as the United States, which has a prevalence below 2 percent, the more frequent transmission mode is sexual contact or shared contaminated needles.
+
+284
+00:37:16,346 --> 00:37:23,221
+Acute hepatitis B develops after an incubation period that ranges from 40 to 150 days .
+
+285
+00:37:23,221 --> 00:37:27,071
+At least half of acute infections are asymptomatic.
+
+286
+00:37:27,071 --> 00:37:31,333
+Symptoms completely resolve within 3 to 4 months in most.
+
+287
+00:37:31,333 --> 00:37:36,958
+However, acute hepatitis B accounts for half of fulminant hepatitis cases.
+
+288
+00:37:36,958 --> 00:37:39,446
+Figure 58-2.
+
+289
+00:37:39,446 --> 00:37:45,571
+details the sequence of the various HBV antigens and antibodies in acute infection.
+
+290
+00:37:45,571 --> 00:37:54,621
+The first serological marker is hepatitis B surface antigen (HBsAg), which often precedes the rise in transaminase levels.
+
+291
+00:37:54,621 --> 00:38:03,646
+As HBsAg disappears, antibodies to the surface antigen develop (anti-HBs), and this marks complete disease resolution.
+
+292
+00:38:03,646 --> 00:38:11,183
+Hepatitis B core antigen (HBcAg) is an intracellular antigen and not detectable in serum.
+
+293
+00:38:11,183 --> 00:38:20,121
+However, antibodies against this core antigen (anti-HBc) are detectable and found within weeks of HBsAg appearance.
+
+294
+00:38:20,121 --> 00:38:30,171
+The hepatitis B e antigen (HBeAg) is present during times of high viral replication and often correlates with detectable HBV DNA.
+
+295
+00:38:30,171 --> 00:38:40,721
+After acute hepatitis, at least 90 percent of adults recover completely, and the remainder are considered to have chronic hepatitis B. Figure 58-2.
+
+296
+00:38:40,721 --> 00:39:07,046
+Sequence of various antigens and antibodies in acute hepatitis B. ALT = alanine transaminase; anti-HBc = antibody to hepatitis B core antigen; anti-HBe = antibody to hepatitis B e antigen; anti-HBs = antibody to hepatitis B surface antigen; HBeAg = hepatitis B e antigen; HBsAg = hepatitis B surface antigen.
+
+297
+00:39:07,046 --> 00:39:11,796
+Redrawn from Dienstag JL: Acute viral hepatitis.
+
+298
+00:39:11,796 --> 00:39:20,958
+In Jameson JL, Fauci AS, Kasper DL, et al (eds): Harrison’s Principles of Internal Medicine, 20th ed.
+
+299
+00:39:20,958 --> 00:39:27,058
+New York, NY: McGraw Hill; 2018b, p 2347.
+
+300
+00:39:27,058 --> 00:39:36,108
+Chronic HBV infection is often asymptomatic but may cause persistent anorexia, weight loss, fatigue, and hepatosplenomegaly.
+
+301
+00:39:36,108 --> 00:39:48,771
+Extrahepatic manifestations include arthritis, generalized vasculitis, glomerulonephritis, pericarditis, myocarditis, transverse myelitis, and peripheral neuropathy.
+
+302
+00:39:48,771 --> 00:39:51,133
+One risk factor for
+
+303
+00:39:51,292 --> 00:39:54,379
+chronic disease is age at acquisition.
+
+304
+00:39:54,329 --> 00:39:59,654
+Pertinent to the obstetrician, this risk exceeds 90 percent in newborns.
+
+305
+00:39:59,654 --> 00:40:06,029
+The risk is 50 percent in young children and is less than 10 percent in immunocompetent adults .
+
+306
+00:40:06,029 --> 00:40:14,529
+An immunocompromised state such as with HIV infection, organ transplantation, or chemotherapy creates vulnerability.
+
+307
+00:40:14,529 --> 00:40:21,179
+Those with chronic HBV infection have serum test results that show HBsAg persistence.
+
+308
+00:40:21,179 --> 00:40:30,079
+These infected persons may be asymptomatic carriers or may have chronic liver disease with or without cirrhosis or hepatocellular cancer.
+
+309
+00:40:30,079 --> 00:40:35,979
+The presence of HPV DNA in serum tests is a marker of HBV replication.
+
+310
+00:40:35,979 --> 00:40:48,804
+Those with high HBV replication, which is reflected in high HBV DNA levels with or without HBeAg, have the greatest likelihood of developing cirrhosis and hepatocellular carcinoma.
+
+311
+00:40:48,804 --> 00:40:51,442
+Pregnancy and Hepatitis B.
+
+312
+00:40:51,442 --> 00:40:59,654
+The US Preventive Services Task Force (2019) recommends that all pregnant women be screened for HBV.
+
+313
+00:40:59,654 --> 00:41:05,779
+This practice identifies asymptomatic cases and later allows neonatal intervention.
+
+314
+00:41:05,779 --> 00:41:15,204
+At the first prenatal care visit, a serologic HBsAg level is obtained, and this is repeated in high-risk women again at the time of delivery.
+
+315
+00:41:15,204 --> 00:41:22,954
+All states require cases of HBV infection to be reported, and 26 mandate that pregnant women be screened .
+
+316
+00:41:22,954 --> 00:41:28,754
+HBV infection does not cause excessive rates of maternal morbidity or mortality .
+
+317
+00:41:28,754 --> 00:41:40,917
+In one regional study in the United States, 14 percent of women with HBV infection had a worsening of disease, sometimes termed a flare, either antepartum or in the 6 months postpartum .
+
+318
+00:41:40,917 --> 00:41:52,904
+A review of data from the National Inpatient Sample reported a modest rise in preterm birth rates in HBV-positive mothers but no effect on fetal-growth restriction or preeclampsia rates .
+
+319
+00:41:52,904 --> 00:41:59,542
+Others have shown similar results (Cui, 2017; Liu, 2017b).
+
+320
+00:41:59,542 --> 00:42:11,017
+Transplacental HBV infection is uncommon, and Towers and associates (2001) reported that viral DNA is rarely found in amnionic fluid or cord blood.
+
+321
+00:42:11,017 --> 00:42:23,054
+The highest HBV DNA levels are found in women who transmitted the virus to their fetuses (Dunkelberg, 2014; Society for Maternal-Fetal Medicine, 2016).
+
+322
+00:42:23,054 --> 00:42:36,892
+To curb vertical transmission, newborns of seropositive mothers are given hepatitis B immune globulin (HBIG) plus the first of a three-dose hepatitis B recombinant vaccine series very soon after birth.
+
+323
+00:42:36,892 --> 00:42:46,729
+In the absence of HBV immunoprophylaxis, 10 to 20 percent of women positive for HBsAg transmit viral infection to their infant.
+
+324
+00:42:46,729 --> 00:42:53,404
+This rate rises to almost 90 percent if the mother is HBsAg and HBeAg positive.
+
+325
+00:42:53,404 --> 00:43:04,392
+Administration of immunoprophylaxis and hepatitis B vaccine shortly after birth has lowered transmission dramatically and prevented approximately 90 percent of infections .
+
+326
+00:43:04,392 --> 00:43:22,592
+But, women with high HBV viral loads—106 to 108 copies/mL—or those who are HBeAg positive still have at least a 10percent vertical transmission rate, regardless of immunoprophylaxis (Rogan, 2019; Yi, 2016).
+
+327
+00:43:22,592 --> 00:43:32,467
+Hill and colleagues (2002) reported that the 2.4-percent transmission rate was not increased with breastfeeding if neonatal vaccination was completed.
+
+328
+00:43:32,467 --> 00:43:39,342
+Although virus is present in breast milk, the incidence of transmission is not diminished by formula feeding .
+
+329
+00:43:39,342 --> 00:43:51,742
+The American Academy of Pediatrics and the American College of Obstetricians and Gynecologists (2018) do not consider maternal HBV infection a contraindication to breastfeeding.
+
+330
+00:43:51,742 --> 00:44:06,292
+As a second transmission-prevention practice, the CDC and numerous societies now recommend antiviral therapy to decrease viral levels in gravidas whose viral load exceeds 106 to 108 copies/mL .
+
+331
+00:44:06,292 --> 00:44:13,842
+Newer drugs include tenofovir, an adenosine nucleoside analogue, and telbivudine, a thymidine analogue.
+
+332
+00:44:13,842 --> 00:44:20,017
+Tenofovir is the first-line agent during pregnancy, and no dose adjustments are necessary .
+
+333
+00:44:20,017 --> 00:44:29,879
+These antiviral medications appear safe in pregnancy and are not associated with greater rates of congenital malformations or adverse obstetrical outcomes .
+
+334
+00:44:29,879 --> 00:44:35,079
+Follow-up of children at age 6 to 7 years found no related problems .
+
+335
+00:44:35,079 --> 00:44:45,267
+Regarding efficacy, one randomized trial in Thailand showed that tenofovir compared with placebo beginning at 28 weeks’ gestation did not reduce the low rate of
+
+336
+00:44:45,436 --> 00:44:52,023
+vertical transmission if both active and passive immunoprophylaxis were given at birth to the neonate .
+
+337
+00:44:51,973 --> 00:44:58,098
+In another similar randomized trial, vertical transmission rates were significantly lowered .
+
+338
+00:44:58,098 --> 00:45:04,236
+For high-risk mothers who are seronegative, HBV vaccine can be given during pregnancy.
+
+339
+00:45:04,236 --> 00:45:18,261
+Candidates are persons with chronic liver disease, diabetes, HIV or HCV infection, injection drug use, occupational exposure risk, household contacts, or long-term travel to endemic areas.
+
+340
+00:45:18,261 --> 00:45:28,986
+Those requiring dialysis, living in a long-term-care or correctional facility, or engaging in sex with multiple or HBV-infected partners also are included .
+
+341
+00:45:28,986 --> 00:45:38,161
+Vaccine efficacy is similar to that for nonpregnant adults, and overall seroconversion rates approach 95 percent after three doses .
+
+342
+00:45:38,161 --> 00:45:48,086
+The traditional vaccination schedule of 0, 1, and 6 months may be difficult to complete during pregnancy, and compliance rates decline postpartum.
+
+343
+00:45:48,086 --> 00:46:02,848
+Sheffield and coworkers (2006) reported that an accelerated three-dose regimen—given initially and at 1 and 4 months—resulted in seroconversion rates of 56, 77, and 90 percent, respectively.
+
+344
+00:46:02,848 --> 00:46:07,323
+This regimen was usually easily completed during prenatal care.
+
+345
+00:46:07,323 --> 00:46:17,148
+Hepatitis D Also called delta hepatitis, this is a defective RNA virus that is a hybrid particle with an HBsAg coat and a delta core.
+
+346
+00:46:17,148 --> 00:46:25,736
+The HDV must co-infect with HBV either simultaneously or secondarily, and transmission is similar to HBV.
+
+347
+00:46:25,736 --> 00:46:30,773
+Hepatitis C This infection stems from a single-stranded RNA virus.
+
+348
+00:46:30,773 --> 00:46:37,198
+Transmission is via blood and other body fluids, although sexual transmission is inefficient.
+
+349
+00:46:37,198 --> 00:46:47,761
+In the United States, adult prevalence of HCV was reported to be 2 to 5 cases per 1000 births (Prasad, 2020; Rossi, 2020).
+
+350
+00:46:47,761 --> 00:46:53,686
+Up to a third of anti-HCV positive persons have no identifiable risk factors .
+
+351
+00:46:53,686 --> 00:46:59,898
+Until recently, screening for HCV was encouraged only for high-risk individuals.
+
+352
+00:46:59,898 --> 00:47:09,736
+But in 2020, the CDC recommended HCV screening for all adults at least once in a lifetime, and more regularly for those with risk factors .
+
+353
+00:47:09,736 --> 00:47:16,086
+These are injection drug use, hemodialysis, or exposure to blood-contaminated items.
+
+354
+00:47:16,086 --> 00:47:22,786
+The CDC also recommended prenatal HCV screening for all women regardless of risk factors.
+
+355
+00:47:22,786 --> 00:47:29,386
+The US Preventive Services Task Force (2020) has published similar recommendations.
+
+356
+00:47:29,386 --> 00:47:37,336
+Chronic hepatitis C is diagnosed by identification of anti-HCV antibodies detected with a serum immunoassay.
+
+357
+00:47:37,336 --> 00:47:43,073
+Acute HCV infection is usually asymptomatic or yields mild symptoms.
+
+358
+00:47:43,073 --> 00:47:47,261
+Only 10 to 15 percent of patients develop jaundice.
+
+359
+00:47:47,261 --> 00:47:53,848
+The incubation period ranges from 15 to 160 days, with a mean of 7 weeks.
+
+360
+00:47:53,848 --> 00:47:59,023
+Transaminase levels are elevated episodically during the acute infection.
+
+361
+00:47:59,023 --> 00:48:05,636
+HCV RNA testing confirms clinical suspicion of active or acute HCV infection.
+
+362
+00:48:05,636 --> 00:48:11,948
+RNA levels may be found even before rises in transaminase and anti-HCV levels.
+
+363
+00:48:11,948 --> 00:48:19,073
+Anti-HCV antibody is not detected for an average of 15 weeks and in some cases up to 1 year .
+
+364
+00:48:19,073 --> 00:48:24,786
+Nearly 80 to 90 percent of patients with acute HCV will be chronically infected.
+
+365
+00:48:24,786 --> 00:48:32,773
+Although most remain asymptomatic, approximately 20 to 30 percent progress to cirrhosis within 20 to 30 years.
+
+366
+00:48:32,773 --> 00:48:37,761
+Transaminase and HCV RNA values fluctuate over time.
+
+367
+00:48:37,761 --> 00:48:45,886
+Liver biopsy reveals chronic disease and fibrosis in up to 50 percent, however, these findings are often mild.
+
+368
+00:48:45,886 --> 00:48:50,411
+Overall, the long-term prognosis for most patients is good.
+
+369
+00:48:50,411 --> 00:48:53,073
+Pregnancy and Hepatitis C.
+
+370
+00:48:53,073 --> 00:48:58,861
+As expected, most pregnant women diagnosed with HCV have chronic disease.
+
+371
+00:48:58,861 --> 00:49:15,023
+Aggregate reports have chronicled modestly greater fetal risks of low birthweight, neonatal intensive-care admission, preterm delivery, and mechanical ventilation (Rossi, 2020; Society for Maternal-Fetal Medicine, 2017).
+
+372
+00:49:15,023 --> 00:49:23,223
+In some women, these adverse outcomes may have been influenced by concurrent high-risk behaviors associated with HCV infection.
+
+373
+00:49:23,223 --> 00:49:30,123
+The primary adverse perinatal outcome is vertical transmission of HCV infection to the fetus-neonate.
+
+374
+00:49:30,123 --> 00:49:33,098
+This is higher in mothers with viremia .
+
+375
+00:49:33,098 --> 00:49:44,611
+Airoldi and Berghella (2006) cited a rate of 1 to 3 percent in HCVpositive, RNA-negative women compared with 4 to 6 percent in those who were RNA-positive.
+
+376
+00:49:44,611 --> 00:49:47,611
+In a report from Dublin, the vertical
+
+377
+00:49:47,764 --> 00:49:57,914
+transmission rate in 545 women with HCV infection was 7 percent in RNA-positive women compared with none in those who were RNA-negative .
+
+378
+00:49:57,864 --> 00:50:07,401
+Some have found an even higher risk when the mother is co-infected with HIV (Snidjewind, 2015; Tovo, 2016).
+
+379
+00:50:07,401 --> 00:50:12,564
+Approximately two thirds of prenatal transmission cases occur peripartum.
+
+380
+00:50:12,564 --> 00:50:21,251
+HCV genotype, invasive prenatal procedures, breastfeeding, and delivery mode are not associated with vertical transmission.
+
+381
+00:50:21,251 --> 00:50:27,589
+That said, invasive procedures such as scalp-electrode fetal heart rate monitoring are avoided.
+
+382
+00:50:27,589 --> 00:50:31,889
+HCV infection is not a contraindication to breastfeeding .
+
+383
+00:50:31,889 --> 00:50:36,226
+No licensed vaccine is available for HCV prevention.
+
+384
+00:50:36,226 --> 00:50:42,851
+In 2011, the first direct-acting antiviral drugs against HCV became available.
+
+385
+00:50:42,851 --> 00:50:51,976
+Since then, second-generation prototypes with fewer adverse effects have been developed and are given as combinations to nonpregnant individuals.
+
+386
+00:50:51,976 --> 00:50:57,364
+They are currently not recommended for use in pregnancy except in clinical trials .
+
+387
+00:50:57,364 --> 00:51:05,289
+The combination of ledipasvir plus sofosbuvir shows efficacy and reassuring safety data in early clinical trials.
+
+388
+00:51:05,289 --> 00:51:14,489
+Hepatitis E This infection stems from a water-borne RNA virus, which usually is enterically transmitted by contaminated water supplies.
+
+389
+00:51:14,489 --> 00:51:24,651
+Hepatitis E is found worldwide, but the Centers for Disease Control (2020a) lists Mexico, Asia, and Africa as endemic areas.
+
+390
+00:51:24,651 --> 00:51:32,501
+In these regions, seroprevalence rates vary by age and geography, but overall rates of 10 percent have been reported.
+
+391
+00:51:32,501 --> 00:51:37,664
+In Mexico, Durango State has the highest rate—37 percent .
+
+392
+00:51:37,664 --> 00:51:45,476
+Hepatitis E is the most common cause of acute hepatitis worldwide but rarely causes liver failure in the United States .
+
+393
+00:51:45,476 --> 00:51:51,889
+Epidemic outbreaks in third-world countries result in substantial morbidity and mortality rates.
+
+394
+00:51:51,889 --> 00:51:57,076
+Pregnant women have a greater case-fatality rate than nonpregnant individuals .
+
+395
+00:51:57,076 --> 00:52:07,239
+In a metaanalysis of nearly 4000 women from Asia and Africa, maternal and fetal case-fatality rates were 21 and 34 percent, respectively .
+
+396
+00:52:07,239 --> 00:52:14,651
+Fulminant hepatitis, although rare, is more common in gravidas and contributes to the increased mortality rates.
+
+397
+00:52:14,651 --> 00:52:19,664
+A recombinant HEV vaccine has been developed and licensed in China .
+
+398
+00:52:19,664 --> 00:52:24,814
+It is >95 percent effective for 12 months after vaccination.
+
+399
+00:52:24,814 --> 00:52:32,289
+Long-term efficacy is 87 percent, and protective titers are maintained for up to 4.5 years .
+
+400
+00:52:32,289 --> 00:52:39,314
+Preliminary data from inadvertently vaccinated pregnant women show no adverse maternal or fetal events .
+
+401
+00:52:39,314 --> 00:52:42,239
+# Autoimmune Hepatitis.
+
+402
+00:52:42,239 --> 00:52:48,101
+This generally progressive chronic hepatitis is more common in women and western countries.
+
+403
+00:52:48,101 --> 00:52:57,426
+Autoimmune hepatitis frequently coexists with other types of autoimmune disease, particularly autoimmune thyroid disease and Sjögren syndrome.
+
+404
+00:52:57,426 --> 00:53:09,501
+It is characterized by multiple autoimmune antibodies such as antinuclear (ANA), anti-smooth muscle, and anti-liver, kidney microsome 1 (LKM1) antibodies .
+
+405
+00:53:09,501 --> 00:53:13,151
+Rates of subsequent cirrhosis vary worldwide.
+
+406
+00:53:13,151 --> 00:53:21,364
+The less common type 2 autoimmune hepatitis has an even higher prevalence in females and typically a more aggressive presentation.
+
+407
+00:53:21,364 --> 00:53:25,014
+The incidence peaks in childhood and adolescence.
+
+408
+00:53:25,014 --> 00:53:31,614
+Symptoms are typical of acute and chronic hepatitis, but a fourth of patients may be asymptomatic.
+
+409
+00:53:31,614 --> 00:53:36,876
+Treatment employs corticosteroids, alone or combined with azathioprine .
+
+410
+00:53:36,876 --> 00:53:42,376
+Failure to respond to these two agents is more frequent in those with type 2 disease.
+
+411
+00:53:42,376 --> 00:53:47,489
+Nearly all women with type 2 disease require long-term intensive therapy.
+
+412
+00:53:47,489 --> 00:53:53,914
+In some patients with progressive disease and cirrhosis, hepatocellular carcinoma develops.
+
+413
+00:53:53,914 --> 00:54:01,476
+In general, autoimmune hepatitis—especially when severe—increases the risk of adverse pregnancy outcomes.
+
+414
+00:54:01,476 --> 00:54:08,914
+Westbrook and coworkers (2012) reported the outcomes of 81 pregnancies in 53 women.
+
+415
+00:54:08,914 --> 00:54:16,951
+A third had a flare, and these were more common in those not taking medication and those with active disease in the year before conception.
+
+416
+00:54:16,951 --> 00:54:21,389
+Women with cirrhosis had more maternal and fetal complications.
+
+417
+00:54:21,389 --> 00:54:34,026
+From a Swedish national database of 171 births, the frequencies of preterm birth, low birthweight, and diabetes were elevated, but not those of preeclampsia or cesarean delivery .
+
+418
+00:54:34,026 --> 00:54:38,126
+Another study reported delivery before 38 weeks’
+
+419
+00:54:38,284 --> 00:54:46,946
+gestation in 25 percent of cases and development of a postpartum flare in a third (Danielsson Borssén, 2016).
+
+420
+00:54:46,896 --> 00:54:51,559
+However, adverse outcomes were not greater in women with cirrhosis.
+
+421
+00:54:51,559 --> 00:55:01,021
+Given the important role of procoagulant production, surveillance of coagulation indices is advised to minimize obstetrical hemorrhage complications.
+
+422
+00:55:01,021 --> 00:55:06,496
+Also, the usual vaccines, along with pneumococcal vaccine, should be given .
+
+423
+00:55:06,496 --> 00:55:09,496
+# Iron and Copper Overload.
+
+424
+00:55:09,496 --> 00:55:14,559
+Chronic hepatitis and cirrhosis can result from iron and copper overload.
+
+425
+00:55:14,559 --> 00:55:26,809
+Iron overload may stem from a primary cause, such as hereditary hemochromatosis, or from secondary complications of erythrocyte disorders (Chap. 56 p. 1052).
+
+426
+00:55:26,809 --> 00:55:35,234
+Many gene mutations underlying hereditary hemochromatosis involve hepcidin and result in dysregulated iron transport.
+
+427
+00:55:35,234 --> 00:55:45,121
+Some of these mutations are more common in certain populations from northern Europe (Pietrangelo, 2016; Salgia, 2015).
+
+428
+00:55:45,121 --> 00:55:52,084
+Cardiomyopathy, diabetes, joint disease, and skin changes can coexist with liver disease.
+
+429
+00:55:52,084 --> 00:56:00,709
+Diagnosis is made by identifying an HFE gene mutation and elevated serum ferritin and transferrin saturation levels.
+
+430
+00:56:00,709 --> 00:56:07,084
+An abnormal HFE gene alone is not diagnostic because the mutation has low penetrance.
+
+431
+00:56:07,084 --> 00:56:14,309
+Pregnancy outcomes are driven by the degree of liver dysfunction, although higher iron levels may affect birthweight .
+
+432
+00:56:14,309 --> 00:56:27,496
+A form of neonatal hemochromatosis that does not affect the mother is now thought to be alloimmune and is called gestational alloimmune liver disease (Anastasio, 2016; Ibrahim, 2020).
+
+433
+00:56:27,496 --> 00:56:38,621
+With this, maternal autoantibodies cross to the fetus and mediate dysfunction of iron homeostasis, although the antigenic target of these alloantibodies remains unclear.
+
+434
+00:56:38,621 --> 00:56:46,221
+It is associated with significant neonatal morbidity and mortality and frequently recurs in subsequent pregnancies.
+
+435
+00:56:46,221 --> 00:56:58,096
+In these cases, antepartum treatment with intravenous immunoglobulin (IVIG) may improve outcomes (Feldman, 2013; Roumiantsev, 2015).
+
+436
+00:56:58,096 --> 00:57:04,046
+Wilson disease is caused by copper overload leading to chronic hepatitis and cirrhosis.
+
+437
+00:57:04,046 --> 00:57:09,921
+Autosomal recessive mutations of the ATP7B gene underlie this disorder.
+
+438
+00:57:09,921 --> 00:57:16,496
+This gene codes for the P-type ATPase involved in copper transport to ceruloplasmin and bile .
+
+439
+00:57:16,496 --> 00:57:26,546
+This systemic condition can also manifest with cardiomyopathy, renal disease, neuropsychiatric symptoms, and certain endocrine abnormalities.
+
+440
+00:57:26,546 --> 00:57:35,484
+Serum ceruloplasmin, slit-lamp examination, and 24-hour urinary copper excretion are used to identify this disease.
+
+441
+00:57:35,484 --> 00:57:45,146
+A Kayser-Fleischer ring surrounding the iris is highly specific, but a suspected diagnosis generally requires subsequent genetic analysis confirmation.
+
+442
+00:57:45,146 --> 00:57:53,596
+With Wilson disease, infertility may be present, but pregnancy outcomes among affected women are influenced by disease severity .
+
+443
+00:57:53,596 --> 00:58:03,634
+In one multicenter study of 282 pregnancies, the miscarriage rate was 26 percent, and 6 percent of the women had worsening liver disease .
+
+444
+00:58:03,634 --> 00:58:07,521
+Birth defects were not increased with chelation treatment.
+
+445
+00:58:07,521 --> 00:58:10,721
+Maternal and neonatal outcomes were good.
+
+446
+00:58:10,721 --> 00:58:17,896
+The American College of Gastroenterology states that few data guide which of the various chelating agents is best .
+
+447
+00:58:17,896 --> 00:58:26,609
+These include penicillamine, zinc, and trientine, and any theoretical risks are outweighed by the risks of discontinuing therapy.
+
+448
+00:58:26,609 --> 00:58:33,571
+The latter include not only hepatic decompensation, but also injury to the placenta and fetal liver.
+
+449
+00:58:33,571 --> 00:58:48,646
+Accordingly, the American College of Gastroenterology recommends that pregnant women should continue their chelation therapy, although a dose reduction of 25 to 50 percent should be considered to promote wound healing in the event of a surgical delivery.
+
+450
+00:58:48,646 --> 00:58:52,084
+# Nonalcoholic Fatty Liver Disease.
+
+451
+00:58:52,084 --> 00:58:56,496
+This is the most common chronic liver disease in the United States.
+
+452
+00:58:56,496 --> 00:59:04,509
+Unsurprisingly, because it is frequently comorbid with obesity, it is demonstrable in 25 percent of American adults .
+
+453
+00:59:04,509 --> 00:59:15,471
+Nonalcoholic fatty liver disease (NAFLD) is a macrovesicular fatty liver condition that resembles alcohol-induced liver injury but is seen without ethanol abuse.
+
+454
+00:59:15,471 --> 00:59:25,746
+Its most severe form—nonalcoholic steatohepatitis (NASH) —is an increasingly recognized condition that may occasionally progress to hepatic cirrhosis.
+
+455
+00:59:25,900 --> 00:59:32,462
+Currently, this is the third most common indication for liver transplantation in the United States .
+
+456
+00:59:32,412 --> 00:59:40,325
+Obesity, type 2 diabetes, and hyperlipidemia—syndrome X—frequently coexist with NAFLD .
+
+457
+00:59:40,325 --> 00:59:50,200
+The current hypothesis suggests that these conditions may interact with other unknown etiological agents to cause multiple insults that lead to hepatic injury .
+
+458
+00:59:50,200 --> 01:00:01,337
+In one study of individuals with type 2 diabetes and normal liver enzyme levels, half had NAFLD, and those with NAFLD showed greater insulin resistance .
+
+459
+01:00:01,337 --> 01:00:11,312
+In a study of obese adolescents undergoing bariatric surgery and intraoperative core liver biopsy, more than a third had fatty liver without hepatitis.
+
+460
+01:00:11,312 --> 01:00:15,675
+An additional 20 percent had borderline or definite NASH .
+
+461
+01:00:15,675 --> 01:00:24,100
+Liver damage follows a progressive continuum from NAFLD to NASH and then to hepatic fibrosis that may progress to cirrhosis .
+
+462
+01:00:24,100 --> 01:00:33,075
+The disease is usually asymptomatic, and it is a frequent explanation for elevated serum transaminase levels found during routine screening.
+
+463
+01:00:33,075 --> 01:00:42,500
+When other liver disease is excluded, NAFLD is the cause of elevated asymptomatic transaminase levels in up to 90 percent of cases.
+
+464
+01:00:42,500 --> 01:00:49,450
+Currently, weight loss along with control of diabetes and dyslipidemia is the only recommended treatment.
+
+465
+01:00:49,450 --> 01:00:57,862
+Pregnancy During the past decade, we have encountered an increasing number of obese and diabetic gravidas with fatty liver infiltration.
+
+466
+01:00:57,862 --> 01:01:06,012
+These women appear to have no greater rates of adverse outcomes relative to liver involvement compared with pregnant women of similar weight.
+
+467
+01:01:06,012 --> 01:01:10,475
+However, some emerging data indicate potential concerns.
+
+468
+01:01:10,475 --> 01:01:23,837
+In one patient registry, risks of gestational diabetes, preeclampsia, preterm birth, and low-birthweight newborns were two- to threefold higher than in unaffected women (Hagström, 2016).
+
+469
+01:01:23,837 --> 01:01:35,112
+Yarrington and colleagues (2016) reported a high rate of gestational diabetes among nonobese women who had elevated alanine transaminase levels in the first trimester.
+
+470
+01:01:35,112 --> 01:01:42,662
+Somewhat related, in another study, almost a fourth of women with prior gestational diabetes had NAFLD .
+
+471
+01:01:42,662 --> 01:01:50,537
+Last, some evidence suggests that the fetus of an affected mother is at increased risk for NAFLD in adulthood .
+
+472
+01:01:50,537 --> 01:01:52,812
+# Cirrhosis.
+
+473
+01:01:52,812 --> 01:02:01,387
+Irreversible chronic liver injury with extensive fibrosis and regenerative nodules is the final common pathway for several disorders.
+
+474
+01:02:01,387 --> 01:02:07,875
+Laënnec cirrhosis from chronic alcohol exposure is the most frequent cause in the general population.
+
+475
+01:02:07,875 --> 01:02:15,175
+However, in young women, most cases are caused by postnecrotic cirrhosis from chronic hepatitis B or C.
+
+476
+01:02:15,175 --> 01:02:25,562
+As discussed, many cases of cryptogenic cirrhosis are now known to be caused by NAFLD (Ge, 2016; Goh, 2016).
+
+477
+01:02:25,562 --> 01:02:33,525
+Clinical manifestations of cirrhosis include jaundice, edema, coagulopathy, and metabolic abnormalities.
+
+478
+01:02:33,525 --> 01:02:42,762
+Of associated conditions, portal hypertension can lead to gastroesophageal varices, and splenomegaly may cause thrombocytopenia.
+
+479
+01:02:42,762 --> 01:02:47,162
+Also, the incidence of venous thromboembolism is increased.
+
+480
+01:02:47,162 --> 01:02:54,387
+The prognosis is poor, and 75 percent have progressive disease that leads to death in 1 to 5 years.
+
+481
+01:02:54,387 --> 01:02:59,725
+The incidence in pregnancy was reported to be 1 case in 3300 births .
+
+482
+01:02:59,725 --> 01:03:11,775
+Common complications include transient hepatic failure, variceal hemorrhage, preterm delivery, fetal-growth restriction, spontaneous bacterial peritonitis, and maternal death .
+
+483
+01:03:11,775 --> 01:03:17,275
+Outcomes generally are poor, especially if esophageal varices coexist.
+
+484
+01:03:17,275 --> 01:03:24,100
+Another potentially fatal cirrhosis complication arises from associated splenic artery aneurysms.
+
+485
+01:03:24,100 --> 01:03:31,950
+Up to 20 percent of aneurysm ruptures occur during pregnancy, and 70 percent of these rupture in the third trimester .
+
+486
+01:03:31,950 --> 01:03:38,737
+The 20-percent maternal mortality rate is likely related to the emergent diagnosis of these aneurysms .
+
+487
+01:03:38,737 --> 01:03:42,950
+# Portal Hypertension and Esophageal Varices.
+
+488
+01:03:42,950 --> 01:03:51,675
+In pregnant women, the causes of esophageal varices are equally divided between cirrhosis and extrahepatic portal vein obstruction .
+
+489
+01:03:51,675 --> 01:03:59,787
+Of the extrahepatic cases, some develop following portal vein thrombosis associated with one of the thrombophilia syndromes .
+
+490
+01:03:59,787 --> 01:04:08,062
+Others follow thrombosis related to umbilical vein catheterization when the woman was a neonate, especially if she was born preterm.
+
+491
+01:04:08,062 --> 01:04:10,837
+Last, the rare Budd-Chiari
+
+492
+01:04:10,996 --> 01:04:17,208
+syndrome results from hepatic vein thrombosis that causes extrahepatic portal hypertension.
+
+493
+01:04:17,158 --> 01:04:24,396
+Of 16 pregnancies complicated by this syndrome, one observational study reported favorable outcomes .
+
+494
+01:04:24,396 --> 01:04:37,171
+With either intrahepatic or extrahepatic resistance to flow, portal vein pressure rises from its normal range of 5 to 10 mm Hg, and values may exceed 30 mm Hg.
+
+495
+01:04:37,171 --> 01:04:42,858
+Collateral circulation develops that carries portal blood to the systemic circulation.
+
+496
+01:04:42,858 --> 01:04:50,508
+Blood drains into the gastric, intercostal, and other veins to reach the esophageal system, where varices develop.
+
+497
+01:04:50,508 --> 01:04:54,583
+In rare cases, abdominal wall varices develop .
+
+498
+01:04:54,583 --> 01:05:01,133
+Bleeding is usually from varices near the gastroesophageal junction, and hemorrhage can be severe.
+
+499
+01:05:01,133 --> 01:05:09,496
+Bleeding during pregnancy from varices occurs in a third to half of affected women and is the major cause of maternal mortality in this group .
+
+500
+01:05:09,496 --> 01:05:15,283
+Maternal prognosis with esophageal varices largely depends on whether these rupture.
+
+501
+01:05:15,283 --> 01:05:23,733
+The mortality rate is 18 percent if varices are associated with cirrhosis compared with 2 percent for varices without cirrhosis.
+
+502
+01:05:23,733 --> 01:05:31,233
+Similarly, perinatal mortality rates are high in women with varices and are worse if cirrhosis caused the varices.
+
+503
+01:05:31,233 --> 01:05:39,946
+Increased rates of neonatal demise, preterm birth, low birthweight, preeclampsia, and postpartum hemorrhage have been reported .
+
+504
+01:05:39,946 --> 01:05:43,508
+Treatment is the same as for nonpregnant patients.
+
+505
+01:05:43,508 --> 01:05:51,808
+Preventively, all patients with cirrhosis, including pregnant women, should undergo endoscopic screening for variceal dilation .
+
+506
+01:05:51,808 --> 01:06:01,621
+Beta-blocking drugs such as propranolol are given to decrease portal pressure and bleeding risk (Ge, 2016; Tran, 2016).
+
+507
+01:06:01,621 --> 01:06:12,496
+For acute bleeding and for prophylaxis, endoscopic band ligation is preferred to sclerotherapy because it avoids any potential risk of injecting sclerotherapeutic chemicals.
+
+508
+01:06:12,496 --> 01:06:23,558
+Acute medical management for bleeding varices verified endoscopically includes the intravenous vasoconstrictors octreotide or somatostatin along with endoscopic banding.
+
+509
+01:06:23,558 --> 01:06:26,508
+Vasopressin is less often used.
+
+510
+01:06:26,508 --> 01:06:38,483
+If endoscopy is not available, balloon tamponade using a triple-lumen Sengstaken-Blakemore tube, which is placed into the esophagus and stomach to compress bleeding varices, can be lifesaving.
+
+511
+01:06:38,483 --> 01:06:55,333
+An interventional radiology procedure—transjugular intrahepatic portosystemic stent shunting (TIPSS)—also can control bleeding from gastric varices that is unresponsive to other measures (Ge, 2016; Tan, 2008).
+
+512
+01:06:55,333 --> 01:07:02,483
+We have had good outcomes with this procedure done electively during pregnancy in women with prior variceal hemorrhage .
+
+513
+01:07:02,483 --> 01:07:05,971
+# Acetaminophen Hepatotoxicity.
+
+514
+01:07:05,971 --> 01:07:14,358
+As discussed earlier (p. 1030), acetaminophen is the most frequent cause of acute liver failure in the United States .
+
+515
+01:07:14,358 --> 01:07:23,971
+This commonly used medication can be associated with hepatotoxicity at doses above 4 g/d, and even less in certain populations .
+
+516
+01:07:23,971 --> 01:07:34,721
+The drug is often used during pregnancy, and overdose–either accidentally or by attempted suicide–may lead to hepatocellular necrosis and acute liver failure .
+
+517
+01:07:34,721 --> 01:07:39,658
+Massive necrosis causes a cytokine storm and multiorgan dysfunction.
+
+518
+01:07:39,658 --> 01:07:45,896
+Early overdose symptoms are nausea, vomiting, diaphoresis, malaise, and pallor.
+
+519
+01:07:45,896 --> 01:07:54,433
+After a latent period of 24 to 48 hours, liver failure ensues, and it usually begins to resolve in 5 days.
+
+520
+01:07:54,433 --> 01:08:05,496
+In a prospective Danish study, only 35 percent of patients who were treated for fulminant hepatic failure spontaneously recovered before being listed for liver transplantation .
+
+521
+01:08:05,496 --> 01:08:10,821
+The antidote is N-acetylcysteine (NAC), which must be given promptly.
+
+522
+01:08:10,821 --> 01:08:19,071
+The drug is thought to raise glutathione levels, which aid metabolism of the toxic metabolite, N-acetyl-p-benzoquinoneimine.
+
+523
+01:08:19,071 --> 01:08:29,008
+The Rumack-Matthew nomogram uses serum acetaminophen levels to predict subsequent plasma hepatotoxic levels as a function of the time from acute ingestion .
+
+524
+01:08:29,008 --> 01:08:35,783
+The need for treatment is based on these projections, and online nomograms and calculators are available.
+
+525
+01:08:35,783 --> 01:08:43,433
+If the plasma level exceeds 150 μg/mL 4 hours after ingestion, treatment is given.
+
+526
+01:08:43,433 --> 01:08:52,208
+When plasma determinations are not available, empirical treatment is initiated if the ingested amount is >7.5 g.
+
+527
+01:08:52,208 --> 01:08:57,246
+An oral loading dose of 140 mg/kg is given
+
+528
+01:08:57,412 --> 01:09:04,599
+followed by 70 mg/kg every 4 hours for a total treatment duration of 72 hours .
+
+529
+01:09:04,549 --> 01:09:12,549
+Both the oral and an equally efficacious intravenous dosing regimen have been reviewed by Hodgman and Garrard (2012).
+
+530
+01:09:12,549 --> 01:09:21,399
+Although the drug reaches therapeutic concentrations in the fetus, any protective effects of NAC during acetaminophen overdose are unknown .
+
+531
+01:09:21,399 --> 01:09:31,549
+After 14 weeks’ gestation, the fetus has some cytochrome P450 activity necessary for metabolism of acetaminophen to the toxic metabolite.
+
+532
+01:09:31,549 --> 01:09:40,924
+Riggs and associates (1989) reported follow-up data from the Rocky Mountain Poison and Drug Center in 60 women suffering overdose.
+
+533
+01:09:40,924 --> 01:09:47,312
+The likelihood of maternal and fetal survival was better if the antidote was given soon after overdose.
+
+534
+01:09:47,312 --> 01:09:55,587
+At least one 33-week fetus appears to have died as a direct result of hepatotoxicity 2 days after maternal ingestion.
+
+535
+01:09:55,587 --> 01:10:07,562
+In another case, Wang and coworkers (1997) confirmed acetaminophen placental transfer and found maternal and cord blood levels measuring 41 μg/mL.
+
+536
+01:10:07,562 --> 01:10:12,824
+Both the mother and the emergently delivered neonate died from hepatorenal failure.
+
+537
+01:10:12,824 --> 01:10:16,124
+# Focal Nodular Hyperplasia.
+
+538
+01:10:16,124 --> 01:10:26,349
+This benign lesion of the liver is characterized in most cases by a welldelineated accumulation of normal but disordered hepatocytes surrounding a central stellate scar.
+
+539
+01:10:26,349 --> 01:10:32,387
+These usually can be differentiated from hepatic adenomas by MR and CT imaging.
+
+540
+01:10:32,387 --> 01:10:41,312
+Except in rare situations of unremitting pain, surgery is rarely indicated, and most women remain asymptomatic during pregnancy.
+
+541
+01:10:41,312 --> 01:10:47,199
+In one review of 20 cases, no woman had related complications during pregnancy .
+
+542
+01:10:47,199 --> 01:10:56,862
+Three women showed 20percent tumor growth; in half, the tumor diminished in size; and the remaining seven tumors were unchanged across pregnancy.
+
+543
+01:10:56,862 --> 01:11:09,537
+In another surveillance of 44 lesions with MR imaging in 30 gravidas, tumor size was unchanged in 80 percent and decreased in most of the remainder (Ramírez-Fuentes, 2013).
+
+544
+01:11:09,537 --> 01:11:17,962
+Investigators concluded that size changes were unrelated to pregnancy, combination oral contraceptive use, or menopause.
+
+545
+01:11:17,962 --> 01:11:23,137
+This lesion is not a contraindication to estrogen-containing contraceptives .
+
+546
+01:11:23,137 --> 01:11:26,237
+# Hepatocellular Adenoma.
+
+547
+01:11:26,237 --> 01:11:30,737
+This rare benign neoplasm develops most often in young women.
+
+548
+01:11:30,737 --> 01:11:37,987
+Lesions are more common in individuals taking combination oral contraceptives or other steroid medications .
+
+549
+01:11:37,987 --> 01:11:47,724
+Hepatic adenomas have a 5-percent risk of malignant transformation and a significant risk of rupture-associated hemorrhage, particularly in pregnancy.
+
+550
+01:11:47,724 --> 01:11:56,387
+The rupture risk progresses with lesion size, and surgery is generally recommended for tumors measuring >5 cm .
+
+551
+01:11:56,387 --> 01:12:04,274
+Thus, differentiation from focal nodular hyperplasia is important and can be achieved by MR or CT imaging.
+
+552
+01:12:04,274 --> 01:12:12,124
+Tran and associates (2016) recommend sonographic surveillance of hepatic adenomas during pregnancy.
+
+553
+01:12:12,124 --> 01:12:22,612
+In a study of 51 pregnancies in women with an adenoma <5 cm, 25 percent of the lesions expanded approximately 14 mm .
+
+554
+01:12:22,612 --> 01:12:30,374
+In one review of 27 cases in pregnancy, 23 became apparent in the third trimester and puerperium .
+
+555
+01:12:30,374 --> 01:12:36,249
+No bleeding complications followed tumors measuring <6.5 cm.
+
+556
+01:12:36,249 --> 01:12:43,674
+However, 60 percent presented with tumor rupture that resulted in seven maternal deaths and six fetal deaths.
+
+557
+01:12:43,674 --> 01:12:51,337
+Of note, 13 of 27 women presented within 2 months postpartum, and in half, hemorrhage heralded rupture.
+
+558
+01:12:51,337 --> 01:12:57,099
+Bleeding adenomas can be managed by angiographic embolization followed by resection .
+
+559
+01:12:57,099 --> 01:12:59,987
+# Liver Transplantation.
+
+560
+01:12:59,987 --> 01:13:11,212
+According to the Organ Procurement and Transplantation Network (2020) more than 177,000 liver transplantations have been performed in the United States.
+
+561
+01:13:11,212 --> 01:13:18,899
+Analysis of the National Inpatient Sample database found 2 liver transplantations per 100,000 deliveries .
+
+562
+01:13:18,899 --> 01:13:25,562
+In most studies, the 80-percent live-birth rate compares favorably with that of the general population.
+
+563
+01:13:25,562 --> 01:13:40,537
+However, risks of preeclampsia, cesarean delivery, fetal-growth restriction, and preterm birth are significantly elevated (Coscia, 2010; Deshpande, 2012; Kanzaki, 2016).
+
+564
+01:13:40,537 --> 01:13:46,299
+Although cesarean delivery is common, vaginal delivery is not contraindicated .
+
+565
+01:13:46,299 --> 01:13:55,237
+Mattila and colleagues (2017) found that half of the women they cared for had maternal complications, including acute graft
+
+566
+01:13:55,396 --> 01:13:57,083
+rejection.
+
+567
+01:13:57,033 --> 01:14:06,658
+Importantly, 4 percent of mothers had died within a year after delivery, but this rate is comparable to that in nonpregnant liver transplantation patients.
+
+568
+01:14:06,658 --> 01:14:08,896
+Gallbladder Disorders.
+
+569
+01:14:08,896 --> 01:14:12,646
+# Cholelithiasis and Cholecystitis.
+
+570
+01:14:12,646 --> 01:14:17,271
+In the United States, 17 percent of women have gallstones.
+
+571
+01:14:17,271 --> 01:14:24,933
+Most stones contain cholesterol, and its oversecretion into bile is thought to be a major factor in stone formation.
+
+572
+01:14:24,933 --> 01:14:30,871
+The cumulative risk of all patients with gallstones to become symptomatic is 20 percent .
+
+573
+01:14:30,871 --> 01:14:37,283
+For this reason, prophylactic cholecystectomy is not warranted for asymptomatic stones.
+
+574
+01:14:37,283 --> 01:14:47,358
+Symptomatic cholelithiasis typically presents with right upper or epigastric abdominal pain, bloating, belching, nausea, and fatty food intolerance.
+
+575
+01:14:47,358 --> 01:14:53,083
+Pain stems from gallbladder contraction, which forces a stone up into the sac’s neck.
+
+576
+01:14:53,083 --> 01:14:58,971
+With subsequent gallbladder relaxation, the stone falls back to relieve the obstruction.
+
+577
+01:14:58,971 --> 01:15:08,871
+Laboratory values are normal, and leukocytosis or elevated liver and pancreatic enzymes should warn for acute cholecystitis or pancreatitis.
+
+578
+01:15:08,871 --> 01:15:14,396
+Standard care for symptomatic cholelithiasis is laparoscopic cholecystectomy .
+
+579
+01:15:14,396 --> 01:15:24,546
+Less often, oral ursodeoxycholic acid therapy or extracorporeal shock wave lithotripsy are used, but experience with these during pregnancy is lacking.
+
+580
+01:15:24,546 --> 01:15:32,596
+Acute cholecystitis usually develops when a stone obstructs the cystic duct, which connects the gallbladder to the common bile duct.
+
+581
+01:15:32,596 --> 01:15:37,733
+Bacterial infection plays a role in 50 to 85 percent of cases.
+
+582
+01:15:37,733 --> 01:15:46,133
+In more than half of patients with acute cholecystitis, a history of prior right upper quadrant pain from biliary colic is elicited.
+
+583
+01:15:46,133 --> 01:15:54,596
+With acute disease, pain is accompanied by anorexia, nausea and vomiting, low-grade fever, and mild leukocytosis.
+
+584
+01:15:54,596 --> 01:16:04,121
+As shown in Figure 58-3, sonography will display stones, and both falsepositive and false-negative rates range from 2 to 4 percent .
+
+585
+01:16:04,121 --> 01:16:14,008
+In acute cases, medical therapy consists of intravenous fluids, antibiotics, analgesics, and in some instances, nasogastric suction.
+
+586
+01:16:14,008 --> 01:16:20,308
+Surgical therapy follows, and laparoscopic cholecystectomy is the preferred route for most.
+
+587
+01:16:20,308 --> 01:16:22,858
+Figure 58-3.
+
+588
+01:16:22,858 --> 01:16:30,183
+Sonogram shows multiple, hyperechoic gallstones collecting along the inferior wall of an anechoic gallbladder.
+
+589
+01:16:30,183 --> 01:16:33,583
+# Gallbladder Disease During Pregnancy.
+
+590
+01:16:33,583 --> 01:16:41,396
+After the first trimester, the gallbladder fasting volume and the residual volume after postprandial emptying are doubled.
+
+591
+01:16:41,396 --> 01:16:48,833
+Incomplete emptying may result in retention of cholesterol crystals, a prerequisite for cholesterol gallstones.
+
+592
+01:16:48,833 --> 01:16:58,008
+From studies, the combined incidence of biliary sludge and gallstones is 5 to 8 percent (Ko, 2005, 2014).
+
+593
+01:16:58,008 --> 01:17:03,746
+Postpartum, sludge frequently regresses, and occasionally gallstones will resorb.
+
+594
+01:17:03,746 --> 01:17:11,196
+Still, gallbladder diseases are the most common cause of nonobstetrical admissions in the first year following delivery .
+
+595
+01:17:11,196 --> 01:17:16,271
+This is particularly true for women managed conservatively during pregnancy.
+
+596
+01:17:16,271 --> 01:17:27,033
+Jorge and coworkers (2015) reported that half of 53 women with symptomatic cholelithiasis in pregnancy underwent later postpartum cholecystectomy.
+
+597
+01:17:27,033 --> 01:17:32,408
+In 80 percent of these women, recurrent symptoms had developed prior to surgery.
+
+598
+01:17:32,408 --> 01:17:35,883
+# Medical versus Surgical Management.
+
+599
+01:17:35,883 --> 01:17:39,833
+Symptomatic cholelithiasis is common in pregnancy.
+
+600
+01:17:39,833 --> 01:17:52,758
+Othman and colleagues (2012) showed that gravidas managed conservatively had greater pain, more recurrent emergency department visits, more hospitalizations, and higher cesarean delivery rate.
+
+601
+01:17:52,758 --> 01:18:03,608
+Dhupar and associates (2010) reported more complications with conservative management of gallbladder disease compared with laparoscopic cholecystectomy in pregnancy.
+
+602
+01:18:03,608 --> 01:18:13,371
+These included multiple admissions, prolonged total parenteral nutrition (TPN), and unplanned labor induction for worsening gallbladder symptoms.
+
+603
+01:18:13,371 --> 01:18:20,058
+Therefore, operative and endoscopic interventions are increasingly favored over conservative measures.
+
+604
+01:18:20,058 --> 01:18:25,196
+Acute cholecystitis during pregnancy or the puerperium is also common.
+
+605
+01:18:25,196 --> 01:18:33,483
+Acute disease in pregnancy may be complicated by sepsis, pancreatitis, venous thromboembolism, and bowel obstruction .
+
+606
+01:18:33,483 --> 01:18:38,608
+Cholecystitis is initially managed similarly to that for nonpregnant women.
+
+607
+01:18:38,608 --> 01:18:41,633
+In the distant past, most favored
+
+608
+01:18:41,788 --> 01:18:43,788
+medical therapy.
+
+609
+01:18:43,738 --> 01:18:54,200
+However, the recurrence rate during the same pregnancy is high, and 25 to 50 percent of women ultimately require cholecystectomy for persistent symptoms .
+
+610
+01:18:54,200 --> 01:19:03,300
+Moreover, if cholecystitis recurs later in gestation, preterm labor is more likely and cholecystectomy is technically more difficult.
+
+611
+01:19:03,300 --> 01:19:07,838
+Cholecystectomy can be performed safely in all trimesters .
+
+612
+01:19:07,838 --> 01:19:15,563
+A metaanalysis found that cholecystectomy does not raise the risk of preterm labor or of maternal or fetal mortality .
+
+613
+01:19:15,563 --> 01:19:25,425
+Of surgical routes, laparoscopic cholecystectomy has evolved as the favored approach (Pearl, 2017; Shigemi, 2019).
+
+614
+01:19:25,425 --> 01:19:30,500
+This is discussed further in Chapter 49 (p. 867).
+
+615
+01:19:30,500 --> 01:19:39,888
+Management at Parkland Hospital favors a surgical approach, especially if biliary pancreatitis, as subsequently discussed, is comorbid .
+
+616
+01:19:39,888 --> 01:19:44,388
+# Endoscopic Retrograde Cholangiopancreatography.
+
+617
+01:19:44,388 --> 01:19:50,388
+Approximately 10 percent of patients with symptomatic stone disease have common duct stones .
+
+618
+01:19:50,388 --> 01:20:03,788
+Symptomatic biliary duct gallstones during pregnancy can be retrieved by endoscopic retrograde cholangiopancreatography (ERCP) (Fogel, 2014; Greenberger, 2018).
+
+619
+01:20:03,788 --> 01:20:08,838
+The procedure is performed if common duct obstruction is suspected or proven.
+
+620
+01:20:08,838 --> 01:20:15,350
+ERCP can be modified in many cases so that radiation exposure from fluoroscopy is avoided .
+
+621
+01:20:15,350 --> 01:20:22,313
+If standard fluoroscopy is used, a lead apron shield is placed between the radiation source and the fetus.
+
+622
+01:20:22,313 --> 01:20:34,163
+In 68 ERCP procedures performed in pregnant women at Parkland Hospital, all but two women had gallstones, and common duct stones were identified in half of 65 women .
+
+623
+01:20:34,163 --> 01:20:38,050
+Stones were successfully removed in all but one woman.
+
+624
+01:20:38,050 --> 01:20:43,725
+A biliary stent was placed in 22 percent of cases and removed after delivery.
+
+625
+01:20:43,725 --> 01:20:50,088
+Complications were minimal, but postERCP pancreatitis developed in 16 percent.
+
+626
+01:20:50,088 --> 01:20:55,550
+Pregnancy outcomes were not different from those in the general obstetrical population.
+
+627
+01:20:55,550 --> 01:21:03,125
+As a less invasive approach, MR cholangiopancreatography (MRCP) in pregnancy has been reported .
+
+628
+01:21:03,125 --> 01:21:07,750
+Ascending cholangitis can complicate acute biliary obstruction.
+
+629
+01:21:07,750 --> 01:21:15,313
+Nearly 70 percent of affected patients develop Charcot triad—jaundice, abdominal pain, and fever.
+
+630
+01:21:15,313 --> 01:21:23,500
+The diagnosis is aided by sonography, and treatment is broad-spectrum antibiotics and biliary drainage by ERCP .
+
+631
+01:21:23,500 --> 01:21:25,875
+Pancreatic Disorders.
+
+632
+01:21:25,875 --> 01:21:28,488
+# Pancreatitis.
+
+633
+01:21:28,488 --> 01:21:36,738
+Acute pancreatic inflammation is triggered by factors that cause activation of pancreatic trypsinogen followed by autodigestion.
+
+634
+01:21:36,738 --> 01:21:43,788
+It is characterized by cellmembrane disruption and proteolysis, edema, hemorrhage, and necrosis .
+
+635
+01:21:43,788 --> 01:21:51,450
+Up to 10 percent of patients develop necrotizing pancreatitis, which carries a mortality risk of 15 percent.
+
+636
+01:21:51,450 --> 01:21:54,700
+This rate rises if infection develops .
+
+637
+01:21:54,700 --> 01:21:59,313
+The incidence of pancreatitis varies with the population studied.
+
+638
+01:21:59,313 --> 01:22:09,325
+At Parkland Hospital, with a predominant Mexican-American population, acute pancreatitis complicated approximately 1 in 3300 pregnancies .
+
+639
+01:22:09,325 --> 01:22:20,988
+From other reviews, the incidence is 1 case in 3500 to 6000 pregnancies (Eddy, 2008; Hacker, 2015; Hernandez, 2007).
+
+640
+01:22:20,988 --> 01:22:28,475
+In nonpregnant patients, acute pancreatitis is almost equally associated with gallstones and alcohol abuse.
+
+641
+01:22:28,475 --> 01:22:34,800
+During pregnancy, however, cholelithiasis is almost always the predisposing condition.
+
+642
+01:22:34,800 --> 01:22:52,388
+Other causes are hyperlipidemias, usually hypertriglyceridemia; hyperparathyroidism; congenital ductal anomalies; recent ERCP; some drugs; and rarely autoimmune pancreatitis (Conwell, 2018; Tang, 2018).
+
+643
+01:22:52,388 --> 01:23:01,800
+Nonbiliary pancreatitis occasionally develops postoperatively, or it is associated with trauma, drugs, or some viral infections.
+
+644
+01:23:01,800 --> 01:23:11,050
+Certain metabolic conditions, including acute AFLP and familial hypertriglyceridemia, also predispose to pancreatitis .
+
+645
+01:23:11,050 --> 01:23:20,025
+Cases of acute and chronic pancreatitis have been linked to numerous mutations of the cystic fibrosis transmembrane conductance regulator gene .
+
+646
+01:23:20,025 --> 01:23:28,725
+Diagnosis Acute pancreatitis incites incapacitating epigastric pain, nausea and vomiting, and abdominal distention.
+
+647
+01:23:28,725 --> 01:23:36,150
+Patients are usually distressed and have low-grade fever, tachycardia, hypotension, and abdominal tenderness.
+
+648
+01:23:36,150 --> 01:23:44,150
+As many as 10 percent have sepsis, which causes endothelial activation and can lead to acute respiratory distress syndrome .
+
+649
+01:23:44,150 --> 01:23:45,663
+Serum
+
+650
+01:23:45,820 --> 01:23:52,395
+lipase measurements are preferred for diagnosis, however, amylase levels also can be used.
+
+651
+01:23:52,345 --> 01:24:04,870
+In 173 pregnant women with pancreatitis, the mean amylase value approximated 2000 IU/L, and the mean lipase value approached 3000 IU/L .
+
+652
+01:24:04,870 --> 01:24:11,157
+Importantly, the degree of enzyme elevation and disease severity do not reliably correlate.
+
+653
+01:24:11,157 --> 01:24:19,307
+By 48 to 72 hours amylase levels may return to normal despite other evidence for continuing pancreatitis.
+
+654
+01:24:19,307 --> 01:24:24,770
+Serum lipase activity typically remains increased with continued inflammation.
+
+655
+01:24:24,770 --> 01:24:30,945
+Leukocytosis is usually found, and 25 percent of patients have hypocalcemia.
+
+656
+01:24:30,945 --> 01:24:37,982
+Elevated serum bilirubin and aspartate transaminase levels may signify concomitant gallstone disease.
+
+657
+01:24:37,982 --> 01:24:40,645
+Table 58-5.
+
+658
+01:24:40,645 --> 01:24:50,920
+Laboratory Values in 173 Pregnant Women with Acute Pancreatitis Several prognostic scoring systems are used to classify pancreatitis severity.
+
+659
+01:24:50,920 --> 01:24:57,807
+However, the Ranson criteria and the Apache II scoring system may be less relevant for pregnancy.
+
+660
+01:24:57,807 --> 01:25:10,995
+In contrast, the Atlanta Classification incorporates the degree of organ failure as a measure of severity and may be more applicable in pregnancy (Cain, 2015; Conwell, 2018).
+
+661
+01:25:10,995 --> 01:25:16,882
+With this last tool, mild disease lacks organ failure or systemic complications.
+
+662
+01:25:16,882 --> 01:25:25,382
+Moderately severe disease shows organ failure lasting <48 h, with or without local or systemic complications.
+
+663
+01:25:25,382 --> 01:25:30,270
+Severe disease is defined by persistent single- or multi-organ failure .
+
+664
+01:25:30,270 --> 01:25:34,745
+Management Medical treatment mirrors that for nonpregnant patients.
+
+665
+01:25:34,745 --> 01:25:43,357
+This includes analgesics, intravenous hydration, and measures to decrease pancreatic secretion by interdiction of oral intake.
+
+666
+01:25:43,357 --> 01:25:48,595
+Nasogastric suction does not improve outcomes of mild to moderate disease.
+
+667
+01:25:48,595 --> 01:26:00,007
+In a series by Ramin and colleagues (1995), all 43 affected pregnant women responded to conservative treatment and were hospitalized for a mean of 8.5 days.
+
+668
+01:26:00,007 --> 01:26:10,107
+If bacterial superinfection, necrotizing pancreatitis, sepsis, or cholangitis is found, broad-spectrum antimicrobials are administered.
+
+669
+01:26:10,107 --> 01:26:14,445
+If common duct stones are found, ERCP is indicated.
+
+670
+01:26:14,445 --> 01:26:20,032
+Enteral feeding may be helpful once pain improves and associated ileus resolves.
+
+671
+01:26:20,032 --> 01:26:33,482
+For women with more severe pancreatitis and prolonged disease course, total enteral nutrition using nasojejunal feeding is superior to TPN (Cain, 2015; Conwell, 2018).
+
+672
+01:26:33,482 --> 01:26:42,770
+Cholecystectomy is considered after inflammation subsides because women with gallstone pancreatitis carry a greater risk of recurrent inflammation .
+
+673
+01:26:42,770 --> 01:26:55,257
+Juo and coworkers (2018) reported that a third of women with biliary pancreatitis not treated with cholecystectomy were readmitted, and 30 percent of these had recurrent pancreatitis.
+
+674
+01:26:55,257 --> 01:27:02,332
+Of the initial group, those who instead did undergo cholecystectomy had only a 5-percent readmission rate.
+
+675
+01:27:02,332 --> 01:27:09,757
+Pregnancy Outcomes Increasing severity of pancreatitis is associated with adverse maternal and fetal outcomes .
+
+676
+01:27:09,757 --> 01:27:22,720
+In one review of 101 pancreatitis cases, Eddy and coworkers (2008) found a 30-percent preterm delivery rate, and 11 percent were delivered before 35 weeks’ gestation.
+
+677
+01:27:22,720 --> 01:27:25,770
+There were also 4 percent stillbirths.
+
+678
+01:27:25,770 --> 01:27:29,557
+There were two pancreatitis-related maternal deaths.
+
+679
+01:27:29,557 --> 01:27:35,157
+Importantly, almost a third of women had recurrent pancreatitis during pregnancy.
+
+680
+01:27:35,157 --> 01:27:45,557
+In another study of 342 pregnancies complicated by pancreatitis, preterm delivery and fetal mortality rates were comparable to the data from Eddy .
+
+681
+01:27:45,557 --> 01:27:48,795
+# Pancreatic Transplantation.
+
+682
+01:27:48,795 --> 01:27:53,707
+Few reports describe pregnancy following pancreas transplantation.
+
+683
+01:27:53,707 --> 01:28:03,670
+Of 44 pregnancies in 73 women following pancreas-kidney transplantation, outcomes are encouraging, and vaginal delivery has been described .
+
+684
+01:28:03,670 --> 01:28:13,182
+Although the incidence of hypertension, preeclampsia, preterm delivery, and fetal-growth restriction are high, there was only one perinatal death.
+
+685
+01:28:13,182 --> 01:28:18,320
+Four rejection episodes developed during pregnancy and were treated successfully.
+
+686
+01:28:18,320 --> 01:28:25,282
+Pancreatic islet autotransplantation and at least three subsequent successful pregnancies have been reported .
+

@@ -1,0 +1,2660 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,787
+Chapter 61: Endocrine Disorders.
+
+3
+00:00:05,787 --> 00:00:27,312
+Thyroid Physiology And Pregnancy Hyperthyroidism Hypothyroidism Subclinical Hypothyroidism Iodine Deficiency Congenital Hypothyroidism Postpartum Thyroiditis Nodular Thyroid Disease Parathyroid Disease Adrenal Gland Disorders Pituitary Disorders References Endocrinopathies are closely related to pregnancy for several reasons.
+
+4
+00:00:27,312 --> 00:00:36,475
+One example is the gestational proclivity for prodigious hormone secretion, which is perhaps best illustrated by placental lactogen in diabetes.
+
+5
+00:00:36,475 --> 00:00:42,850
+This is the most common endocrinopathy encountered in pregnancy and discussed in Chapter 57.
+
+6
+00:00:42,850 --> 00:00:50,212
+Pregnancy is also interrelated with some endocrinopathies that are at least partially due to autoimmune dysregulation.
+
+7
+00:00:50,212 --> 00:01:01,962
+Clinical manifestations result from complex interplay among genetic, environmental, and endogenous factors that activate the immune system against targeted cells within endocrine organs.
+
+8
+00:01:01,962 --> 00:01:10,325
+In one extraordinary interaction, studies have implicated maternal organ engraftment by fetal cells transferred during pregnancy.
+
+9
+00:01:10,325 --> 00:01:17,262
+These cells later provoke antibody production, tissue destruction, and autoimmune endocrinopathies.
+
+10
+00:01:17,262 --> 00:01:19,375
+Thyroid Disorders.
+
+11
+00:01:19,375 --> 00:01:26,062
+Taken in aggregate, these disorders are common in young women and thus frequently encountered in pregnancy.
+
+12
+00:01:26,062 --> 00:01:33,987
+Maternal and fetal thyroid function are intimately related, and drugs that affect the maternal thyroid affect the fetal gland.
+
+13
+00:01:33,987 --> 00:01:40,862
+Moreover, thyroid autoantibodies are associated with increased rates of early pregnancy wastage.
+
+14
+00:01:40,862 --> 00:01:48,437
+Uncontrolled thyrotoxicosis and untreated hypothyroidism are both associated with adverse pregnancy outcomes.
+
+15
+00:01:48,437 --> 00:01:58,325
+Last, evidence suggests that the severity of some autoimmune thyroid disorders may be ameliorated during pregnancy, only to be exacerbated postpartum.
+
+16
+00:01:58,325 --> 00:02:01,937
+# Thyroid Physiology and Pregnancy.
+
+17
+00:02:01,937 --> 00:02:11,225
+Maternal thyroid changes are substantial, and normally altered gland structure and function can sometimes be confused with thyroid abnormalities.
+
+18
+00:02:11,225 --> 00:02:22,000
+These alterations are discussed in detail in Chapter 4 (p. 71), and normal serum hormone level values are found in the Appendix (p. 1230).
+
+19
+00:02:22,000 --> 00:02:30,837
+First, maternal serum concentrations of thyroid binding globulin are increased concomitantly with total or bound thyroid hormone levels.
+
+20
+00:02:30,837 --> 00:02:43,462
+Second, thyrotropin, also called thyroid-stimulating hormone (TSH), plays a central role in screening and diagnosis of many thyroid disorders, but levels change throughout pregnancy.
+
+21
+00:02:43,462 --> 00:02:55,262
+Notably, TSH receptors are cross stimulated, albeit weakly, by massive quantities of human chorionic gonadotropin (hCG) secreted by placental trophoblast.
+
+22
+00:02:55,262 --> 00:03:00,975
+Because TSH does not cross the placenta, it has no direct fetal effects.
+
+23
+00:03:00,975 --> 00:03:09,750
+During the first 12 weeks of gestation, when maternal hCG serum levels are maximal, thyroid hormone secretion is stimulated.
+
+24
+00:03:09,750 --> 00:03:22,462
+The resulting greater serum free thyroxine (T4) levels act to suppress hypothalamic thyrotropin-releasing hormone (TRH) and in turn limit pituitary TSH secretion .
+
+25
+00:03:22,462 --> 00:03:26,975
+Accordingly, TRH is undetectable in maternal serum.
+
+26
+00:03:26,975 --> 00:03:35,687
+Conversely, in fetal serum, beginning at midpregnancy, TRH becomes detectable, but levels are static and do not rise.
+
+27
+00:03:35,687 --> 00:03:38,325
+Figure 61-1.
+
+28
+00:03:38,325 --> 00:03:49,900
+Gestational-age-specific values for serum thyroid-stimulating hormone (TSH) levels (black lines) and free thyroxine (T4) levels (blue lines).
+
+29
+00:03:49,900 --> 00:03:55,925
+Data were derived from 17,298 women tested during pregnancy.
+
+30
+00:03:55,925 --> 00:04:08,925
+For each color, the dark solid lines represent the 50th percentile, whereas the upper and lower light lines represent the 2.5th and 97.5th percentiles, respectively.
+
+31
+00:04:08,925 --> 00:04:13,887
+Data from Casey, 2005; Dashe, 2005.
+
+32
+00:04:13,887 --> 00:04:18,675
+Throughout pregnancy, maternal thyroxine is transferred to the fetus .
+
+33
+00:04:18,675 --> 00:04:31,175
+Maternal thyroxine is important for normal fetal brain development, especially before the onset of fetal thyroid gland function (Bernal, 2007; Korevaar, 2016b).
+
+34
+00:04:31,175 --> 00:04:39,562
+Both high and low maternal thyroid function in the first trimester are negatively associated with cortical gray matter volume in childhood .
+
+35
+00:04:39,562 --> 00:04:50,125
+Although the fetal gland begins concentrating iodine and synthesizing thyroid hormone after 12 weeks’ gestation, maternal thyroxine contribution remains important.
+
+36
+00:04:50,125 --> 00:04:53,425
+Maternal sources account for 30 percent
+
+37
+00:04:53,596 --> 00:04:56,783
+of thyroxine in fetal serum at term .
+
+38
+00:04:56,733 --> 00:05:09,608
+Still, developmental risks associated with maternal hypothyroidism after midpregnancy remain poorly understood (Morreale de Escobar, 2004; Sarkhail, 2016).
+
+39
+00:05:09,608 --> 00:05:13,046
+# Autoimmunity and Thyroid Disease.
+
+40
+00:05:13,046 --> 00:05:20,471
+Most thyroid disorders are inextricably linked to autoantibodies against nearly 200 thyrocyte components.
+
+41
+00:05:20,471 --> 00:05:29,958
+These antibodies variably stimulate thyroid function, block function, or cause thyroid inflammation that may lead to follicular cell destruction.
+
+42
+00:05:29,958 --> 00:05:32,858
+Often, these effects overlap.
+
+43
+00:05:32,858 --> 00:05:45,458
+Thyroid-stimulating autoantibodies, also called thyroid-stimulating immunoglobulins (TSIs), bind and activate the TSH receptor to cause thyroid hyperfunction and growth.
+
+44
+00:05:45,458 --> 00:05:56,096
+Although these antibodies are identified in most patients with classic Graves disease, simultaneous production of thyroidstimulating blocking antibodies may blunt this effect .
+
+45
+00:05:56,096 --> 00:06:03,821
+Thyroid peroxidase (TPO) is a thyroid gland enzyme that normally functions to produce thyroid hormones.
+
+46
+00:06:03,821 --> 00:06:18,321
+Thyroid peroxidase antibodies are directed against TPO and are identified in 5 to 15 percent of all gravidas (Abbassi-Ghanavati, 2010; Casey, 2007; Sarkhail, 2016).
+
+47
+00:06:18,321 --> 00:06:33,321
+TPO antibodies have been associated in some studies with early pregnancy loss and preterm birth (Consortium on Thyroid and Pregnancy, 2019; Plowden, 2017; Thangaratinam, 2011).
+
+48
+00:06:33,321 --> 00:06:41,508
+In another study with more than 1000 pregnant women with TPO antibodies, the risk for preterm birth was not elevated.
+
+49
+00:06:41,508 --> 00:06:44,683
+The risk for placental abruption was greater .
+
+50
+00:06:44,683 --> 00:06:56,596
+These women are also at high risk for postpartum thyroid dysfunction and at lifelong risk for permanent thyroid failure (Andersen, 2016; Jameson, 2015).
+
+51
+00:06:56,596 --> 00:06:59,233
+Figure 61-2.
+
+52
+00:06:59,233 --> 00:07:20,146
+Incidence of antithyroid peroxidase antibodies in 16,407 women who are normal or euthyroid, in 233 with isolated maternal hypothyroxinemia (IMH), in 598 with subclinical hypothyroidism (SCH), and in 134 with overt hypothyroidism.
+
+53
+00:07:20,146 --> 00:07:22,983
+# Fetal Microchimerism.
+
+54
+00:07:22,983 --> 00:07:27,371
+Autoimmune thyroid disease is more common in women than in men.
+
+55
+00:07:27,371 --> 00:07:32,883
+One intriguing explanation for this disparity is fetal-to-maternal cell trafficking .
+
+56
+00:07:32,883 --> 00:07:37,508
+Fetal cells are known to enter maternal circulation during pregnancy.
+
+57
+00:07:37,508 --> 00:07:43,383
+When fetal lymphocytes enter maternal circulation, they can live for more than 20 years.
+
+58
+00:07:43,383 --> 00:07:50,471
+Stem cell interchange can lead to engraftment in several maternal tissues and is termed fetal microchimerism.
+
+59
+00:07:50,471 --> 00:07:58,221
+In some cases, this may involve the thyroid gland (Bianchi, 2003; Boddy, 2015).
+
+60
+00:07:58,221 --> 00:08:11,521
+A high prevalence of Y chromosome–positive cells has been identified in the thyroid glands of women with Hashimoto thyroiditis—60 percent, or with Graves disease—40 percent (Renné, 2004).
+
+61
+00:08:11,521 --> 00:08:20,796
+In another study of women giving birth to a male fetus, more circulating male mononuclear cells were found in those with Hashimoto thyroiditis .
+
+62
+00:08:20,796 --> 00:08:28,133
+Conversely, for some autoimmune thyroid disorders, fetal microchimerism may actually have a protective role .
+
+63
+00:08:28,133 --> 00:08:30,783
+# Hyperthyroidism.
+
+64
+00:08:30,783 --> 00:08:44,196
+The incidence of thyrotoxicosis or hyperthyroidism in pregnancy varies and complicates between 0.4 and 1.7 percent of births when gestational-ageappropriate TSH threshold values are used .
+
+65
+00:08:44,196 --> 00:08:54,083
+Because normal pregnancy simulates some clinical findings similar to thyroxine excess, clinically mild thyrotoxicosis may be difficult to diagnose.
+
+66
+00:08:54,083 --> 00:09:05,583
+Suggestive findings include tachycardia that exceeds that usually seen with normal pregnancy, thyromegaly, exophthalmos, and failure to gain weight despite adequate food intake.
+
+67
+00:09:05,583 --> 00:09:08,771
+Laboratory testing is confirmatory.
+
+68
+00:09:08,771 --> 00:09:15,933
+TSH levels are markedly depressed, while serum free T4 (fT4) levels are elevated.
+
+69
+00:09:15,933 --> 00:09:25,371
+Rarely, hyperthyroidism is caused by abnormally high serum triiodothyronine (T3) levels and called T3-toxicosis.
+
+70
+00:09:25,371 --> 00:09:27,996
+Table 61-1.
+
+71
+00:09:27,996 --> 00:09:44,571
+Incidence of Overt Hyperthyroidism in Pregnancy Thyrotoxicosis and Pregnancy The overwhelming cause of thyrotoxicosis in pregnancy is Graves disease, an organ-specific autoimmune process associated with thyroid-stimulating TSH-receptor antibodies .
+
+72
+00:09:44,571 --> 00:10:01,608
+These antibodies are specific for Graves hyperthyroidism, and targeted assays have been proposed for diagnosis, management, and prognosis in pregnancies complicated by hyperthyroidism (Alexander, 2017; Barbesino, 2013).
+
+73
+00:10:01,608 --> 00:10:03,033
+With
+
+74
+00:10:03,196 --> 00:10:11,433
+Graves disease, during the course of pregnancy, hyperthyroid symptoms may initially worsen because of hCG stimulation.
+
+75
+00:10:11,383 --> 00:10:21,746
+Symptoms then diminish after a decline in receptor-antibody titers in the second half of pregnancy (Mestman, 2012; Sarkhail, 2016).
+
+76
+00:10:21,746 --> 00:10:26,183
+Levels of blocking antibodies also decline during pregnancy .
+
+77
+00:10:26,183 --> 00:10:32,571
+Treatment Thyrotoxicosis during pregnancy can nearly always be controlled by thionamide drugs.
+
+78
+00:10:32,571 --> 00:10:43,946
+Propylthiouracil (PTU) has been historically preferred because it partially inhibits the conversion of T4 to T3 and crosses the placenta less readily than methimazole.
+
+79
+00:10:43,946 --> 00:10:55,208
+The latter has also been associated with a rare methimazole embryopathy, characterized by esophageal or choanal atresia and aplasia cutis, a congenital skin defect.
+
+80
+00:10:55,208 --> 00:11:12,921
+In one analysis of Japanese women with first-trimester hyperthyroidism, the risk of major fetal malformation in pregnancies exposed to methimazole was twofold higher than risks with either PTU or potassium iodide use (Yoshihara, 2012, 2015).
+
+81
+00:11:12,921 --> 00:11:22,246
+Specifically, seven of nine cases with aplasia cutis and the only case of esophageal atresia were in the group of methimazole-exposed fetuses.
+
+82
+00:11:22,246 --> 00:11:26,696
+A PTU-associated embryopathy also has been described .
+
+83
+00:11:26,696 --> 00:11:31,546
+Treatment with PTU is associated with a higher risk for liver injury .
+
+84
+00:11:31,546 --> 00:11:39,783
+In 2009, the U.S. Food and Drug Administration issued a safety alert on PTU-associated hepatotoxicity.
+
+85
+00:11:39,783 --> 00:11:55,771
+This warning initially prompted the American Thyroid Association and the American Association of Clinical Endocrinologists (2011) to recommend PTU therapy during the first trimester followed by a switch to methimazole beginning in the second trimester.
+
+86
+00:11:55,771 --> 00:12:01,083
+The obvious disadvantage is that this might lead to poorly controlled thyroid function.
+
+87
+00:12:01,083 --> 00:12:18,746
+More recently, the American Thyroid Association recommends PTU therapy through 16 weeks’ gestation but does not make a recommendation regarding switching to methimazole treatment because both agents are associated with adverse effects and the harm from poorer control during the switch is unknown .
+
+88
+00:12:18,746 --> 00:12:27,733
+Transient leukopenia can be documented in up to 10 percent of women taking antithyroid drugs, but this does not require therapy cessation .
+
+89
+00:12:27,733 --> 00:12:36,096
+In approximately 0.3 percent, however, agranulocytosis develops suddenly and mandates drug discontinuance .
+
+90
+00:12:36,096 --> 00:12:43,921
+It is not dose related, and because of its acute onset, routine serial leukocyte counts during therapy are not helpful.
+
+91
+00:12:43,921 --> 00:12:52,821
+Instead, if fever or sore throat develops, women are instructed to discontinue medication immediately and report for a complete blood count.
+
+92
+00:12:52,821 --> 00:12:55,758
+Therapy may have other side effects.
+
+93
+00:12:55,758 --> 00:13:02,833
+First, as noted, hepatotoxicity develops in approximately 0.1 percent of treated women.
+
+94
+00:13:02,833 --> 00:13:09,758
+Serial measurement of hepatic enzyme levels does not prevent fulminant PTU-related hepatotoxicity.
+
+95
+00:13:09,758 --> 00:13:16,158
+Second, an allergic rash may develop in 3 to 5 percent of women taking thionamide drugs .
+
+96
+00:13:16,158 --> 00:13:30,021
+In addition, although approximately 20 percent of patients treated with PTU develop antineutrophil cytoplasmic antibodies (ANCA), only a small percentage of these subsequently develops serious vasculitis .
+
+97
+00:13:30,021 --> 00:13:36,233
+Last, thionamides have the potential to cause fetal complications, but these are uncommon.
+
+98
+00:13:36,233 --> 00:13:41,246
+In some cases, thionamides may even be therapeutic for the fetus.
+
+99
+00:13:41,246 --> 00:13:50,533
+This is because TSH-receptor antibodies cross the placenta and can stimulate the fetal thyroid gland to cause thyrotoxicosis and goiter.
+
+100
+00:13:50,533 --> 00:13:53,858
+The initial thionamide dose is empirical.
+
+101
+00:13:53,858 --> 00:14:07,321
+For nonpregnant patients, the American Thyroid Association recommends that methimazole be used at an initial higher daily dose of 10 to 20 mg orally followed by a lower maintenance dose of 5 to 10 mg.
+
+102
+00:14:07,321 --> 00:14:16,858
+If PTU is selected, a dose of 50 to 150 mg orally three times daily may be initiated depending on clinical severity.
+
+103
+00:14:16,858 --> 00:14:26,533
+At Parkland Hospital, we usually initially give 300 or 450 mg of PTU daily in three divided doses for pregnant women.
+
+104
+00:14:26,533 --> 00:14:32,071
+Occasionally, daily doses of 600 mg or higher are necessary.
+
+105
+00:14:32,071 --> 00:14:36,908
+We routinely transition women to methimazole after the first trimester.
+
+106
+00:14:36,908 --> 00:14:44,171
+If a switch is deemed appropriate, a dose ratio of 20:1—PTU to methimazole—is recommended .
+
+107
+00:14:44,171 --> 00:14:48,558
+The goal is treatment with the lowest possible thionamide dose to
+
+108
+00:14:48,724 --> 00:14:56,274
+maintain thyroid hormone levels slightly above or in the high normal range, while TSH levels remains suppressed.
+
+109
+00:14:56,224 --> 00:15:01,424
+Serum free T4 concentrations are measured every 4 to 6 weeks.
+
+110
+00:15:01,424 --> 00:15:07,386
+Subtotal thyroidectomy can be performed after thyrotoxicosis is medically controlled.
+
+111
+00:15:07,386 --> 00:15:21,011
+This seldom is done during pregnancy but may be appropriate for the very few women who cannot adhere to medical treatment or in whom drug therapy proves toxic (Pearce, 2019; Stagnaro-Green, 2012a).
+
+112
+00:15:21,011 --> 00:15:24,786
+Surgery is best accomplished in the second trimester.
+
+113
+00:15:24,786 --> 00:15:33,424
+Potential drawbacks of thyroidectomy include inadvertent resection of parathyroid glands and injury to the recurrent laryngeal nerve.
+
+114
+00:15:33,424 --> 00:15:39,511
+Thyroid ablation with therapeutic radioactive iodine is contraindicated in pregnancy .
+
+115
+00:15:39,511 --> 00:15:43,949
+These doses may also cause fetal thyroid gland destruction.
+
+116
+00:15:43,949 --> 00:15:50,524
+Thus, when radioactive iodine is given unintentionally, some clinicians recommend abortion.
+
+117
+00:15:50,524 --> 00:16:00,074
+Any exposed fetus must be carefully evaluated, and the incidence of fetal hypothyroidism depends on gestational age and radioiodine dose .
+
+118
+00:16:00,074 --> 00:16:14,824
+Importantly, several cases of inadvertent periconceptional exposure to radioactive iodine have been reported with no obvious ill effects for the offspring (Radacic-Aumiler, 2016; Sadakata, 2014).
+
+119
+00:16:14,824 --> 00:16:23,324
+The International Commission on Radiological Protection recommends that women avoid pregnancy for 6 months after radioablative therapy .
+
+120
+00:16:23,324 --> 00:16:29,711
+Moreover, during lactation, the breast also concentrates a substantial amount of iodine.
+
+121
+00:16:29,711 --> 00:16:38,036
+This may pose a neonatal risk due to 131I-containing milk ingestion and maternal risk from significant breast irradiation.
+
+122
+00:16:38,036 --> 00:16:45,824
+To limit the latter, a delay of 3 months after breastfeeding cessation will more reliably ensure complete breast involution.
+
+123
+00:16:45,824 --> 00:16:54,136
+Pregnancy Outcome Women with thyrotoxicosis have pregnancy outcomes that largely depend on whether metabolic control is achieved.
+
+124
+00:16:54,136 --> 00:17:05,474
+For example, excess thyroxine may cause miscarriage or preterm birth (Andersen, 2014; Moleti, 2019; Sheehan, 2015).
+
+125
+00:17:05,474 --> 00:17:16,049
+In untreated women or in those who remain hyperthyroid despite therapy, incidences of preeclampsia, heart failure, and adverse perinatal outcomes are higher .
+
+126
+00:17:16,049 --> 00:17:26,461
+One case-cohort study in the Danish National Birth Cohort found that maternal hyperthyroidism was also a risk for epilepsy and autism spectrum disorders in children .
+
+127
+00:17:26,461 --> 00:17:29,111
+Table 61-2.
+
+128
+00:17:29,111 --> 00:17:37,811
+Pregnancy Outcomes in Women with Overt Thyrotoxicosis Fetal and Neonatal Effects In most cases, the perinate is euthyroid.
+
+129
+00:17:37,811 --> 00:17:43,799
+In some, however, hyper- or hypothyroidism can develop with or without a goiter .
+
+130
+00:17:43,799 --> 00:17:54,849
+Clinical hyperthyroidism develops in up to 1 percent of neonates born to women with Graves disease (Barbesino, 2013; Fitzpatrick, 2010).
+
+131
+00:17:54,849 --> 00:18:01,924
+If fetal thyroid disease is suspected, nomograms exist for sonographically measured thyroid volume .
+
+132
+00:18:01,924 --> 00:18:04,586
+Figure 61-3.
+
+133
+00:18:04,586 --> 00:18:12,974
+Term hypothyroid neonate delivered of a woman with a 3-year history of thyrotoxicosis that recurred at 26 weeks’ gestation.
+
+134
+00:18:12,974 --> 00:18:19,499
+The mother was given methimazole, 30 mg orally daily, and was euthyroid at delivery.
+
+135
+00:18:19,499 --> 00:18:26,986
+The fetus or neonate who was exposed to excessive maternal thyroxine may have any of several clinical presentations.
+
+136
+00:18:26,986 --> 00:18:34,349
+First, goitrous thyrotoxicosis stems from placental transfer of thyroid-stimulating immunoglobulins.
+
+137
+00:18:34,349 --> 00:18:43,474
+Nonimmune hydrops and fetal demise can complicate fetal thyrotoxicosis (Nachum, 2003; Stulberg, 2000).
+
+138
+00:18:43,474 --> 00:18:56,861
+The best predictor of perinatal thyrotoxicosis is the presence of thyroid-stimulating TSH-receptor antibodies in women with Graves disease (Moleti, 2019; Nathan, 2014).
+
+139
+00:18:56,861 --> 00:19:02,474
+This is especially true if their levels are more than threefold higher than the upper normal limit .
+
+140
+00:19:02,474 --> 00:19:12,599
+In one study of 72 pregnant women with Graves disease, none of the fetuses in 31 low-risk mothers had a goiter, and all were euthyroid at delivery .
+
+141
+00:19:12,599 --> 00:19:21,561
+Low risk was defined as no requirement for antithyroid medications during the third trimester or an absence of antithyroid antibodies.
+
+142
+00:19:21,561 --> 00:19:36,911
+Conversely, in a group of 41 women who either were taking antithyroid medication at delivery or had thyroid-receptor antibodies, 11 fetuses—27 percent—had sonographic evidence of a goiter at 32 weeks’ gestation.
+
+143
+00:19:36,911 --> 00:19:40,636
+Seven of these 11 fetuses were determined to be
+
+144
+00:19:40,804 --> 00:19:45,179
+hypothyroid, and the remaining fetuses were hyperthyroid.
+
+145
+00:19:45,129 --> 00:19:57,966
+Because of these findings, the American Thyroid Association recommends routine evaluation of TSH-receptor antibodies (TRAb) in early pregnancy in women treated with antithyroid medication .
+
+146
+00:19:57,966 --> 00:20:07,016
+In those who have elevated TRAb levels or who continue therapy, repeat testing is recommended between 18 and 22 weeks’ gestation.
+
+147
+00:20:07,016 --> 00:20:14,691
+The American College of Obstetricians and Gynecologists (2020), however, does not recommend such testing.
+
+148
+00:20:14,691 --> 00:20:23,329
+If the fetus is thyrotoxic, maternal thionamide drugs are increased even though maternal thyroid function may be within targeted range .
+
+149
+00:20:23,329 --> 00:20:35,016
+If secondary maternal hypothyroidism develops, the fetus can be treated by a reduced maternal antithyroid medication dose and injections of intraamnionic thyroxine if necessary.
+
+150
+00:20:35,016 --> 00:20:46,829
+Although usually shortlived, neonatal thyrotoxicosis may require a short course of antithyroid drug treatment (Levy-Shraga, 2014; Nathan, 2014).
+
+151
+00:20:46,829 --> 00:20:56,866
+A second fetal presentation is goitrous hypothyroidism caused by fetal exposure to maternally administered thionamides (see Fig. 61-3).
+
+152
+00:20:56,866 --> 00:21:04,154
+Despite theoretical neurological implications, reports of adverse fetal effects seem to have been exaggerated.
+
+153
+00:21:04,154 --> 00:21:15,241
+For example, in at least 239 treated thyrotoxic women shown in Table 61-2, evidence of hypothyroidism was found in only four newborns.
+
+154
+00:21:15,241 --> 00:21:22,704
+Furthermore, at least four long-term studies report no abnormal intellectual or physical development of these children .
+
+155
+00:21:22,704 --> 00:21:32,866
+As long as the maternal free thyroxine level remains in the upper therapeutic to mildly thyrotoxic range, the likelihood of fetal hypothyroidism is remote .
+
+156
+00:21:32,866 --> 00:21:42,291
+A third presentation, nongoitrous hypothyroidism, may develop from transplacental passage of maternal TSH-receptor blocking antibodies .
+
+157
+00:21:42,291 --> 00:21:54,566
+And last, fetal thyrotoxicosis after maternal thyroid gland ablation, usually with 131I radioiodine, may result from transplacental thyroid-stimulating antibodies.
+
+158
+00:21:54,566 --> 00:22:05,704
+In one report of early fetal exposure to radioiodine, neonatal thyroid studies indicated transient hyperthyroidism from maternal transfer of stimulating antibodies .
+
+159
+00:22:05,704 --> 00:22:11,254
+Fetal Diagnosis Evaluation of fetal thyroid function remains controversial.
+
+160
+00:22:11,254 --> 00:22:27,891
+Although the fetal thyroid volume can be measured sonographically in women taking thionamide drugs or in those with thyroid-stimulating antibodies, most investigators do not currently recommend this routinely (Cohen, 2003; Luton, 2005).
+
+161
+00:22:27,891 --> 00:22:37,604
+Fetal hyper- or hypothyroidism may cause hydrops, growth restriction, goiter, or tachycardia, and fetal blood sampling may be appropriate .
+
+162
+00:22:37,604 --> 00:22:51,616
+The American Thyroid Association guidelines for management of thyroid disease during pregnancy recommend that umbilical cord blood sampling only be considered when a fetal goiter is detected and the thyroid status of the fetus is unclear .
+
+163
+00:22:51,616 --> 00:22:57,466
+Diagnosis and treatment are considered further in Chapter 19 (p. 370).
+
+164
+00:22:57,466 --> 00:23:03,654
+Thyroid Storm and Thyrotoxic Heart Failure Both of these are acute and life-threatening in pregnancy.
+
+165
+00:23:03,654 --> 00:23:08,341
+Thyroid storm is a hypermetabolic state and is rare in pregnancy.
+
+166
+00:23:08,341 --> 00:23:18,779
+In contrast, pulmonary hypertension and heart failure from cardiomyopathy caused by the profound myocardial effects of thyroxine are common in pregnant women .
+
+167
+00:23:18,779 --> 00:23:27,279
+As shown in Table 61-2, heart failure developed in 8 percent of 90 women with uncontrolled thyrotoxicosis.
+
+168
+00:23:27,279 --> 00:23:40,754
+In a registry of almost 70,000 pregnancies from one province in China, six of 155 (4 percent) women diagnosed with thyrotoxicosis were found to have hyperthyroid heart disease .
+
+169
+00:23:40,754 --> 00:23:52,204
+The pregnant woman with thyrotoxicosis has minimal cardiac reserve, and decompensation is usually precipitated by preeclampsia, anemia, sepsis, or a combination.
+
+170
+00:23:52,204 --> 00:24:03,029
+Fortunately, thyroxine-induced cardiomyopathy and pulmonary hypertension are frequently reversible (Shan, 2019; Sheffield, 2004).
+
+171
+00:24:03,029 --> 00:24:13,354
+Management Treatment is similar for thyroid storm and heart failure and should be carried out in an intensive care area that may include special-care units within labor and delivery .
+
+172
+00:24:13,354 --> 00:24:21,654
+Shown in Figure 61-4 is our stepwise approach to medical management of thyroid storm or thyrotoxic heart failure.
+
+173
+00:24:21,654 --> 00:24:25,066
+An hour or two after initial thionamide
+
+174
+00:24:25,228 --> 00:24:31,303
+administration, iodide is given to inhibit thyroidal release of T3 and T4.
+
+175
+00:24:31,253 --> 00:24:41,928
+It can be given intravenously (IV) as sodium iodide or orally as either saturated solution of potassium iodide (SSKI) or Lugol solution.
+
+176
+00:24:41,928 --> 00:24:50,478
+With a history of iodine-induced anaphylaxis, lithium carbonate, 300 mg every 6 hours, is given instead.
+
+177
+00:24:50,478 --> 00:25:01,028
+Most authorities recommend dexamethasone, 2 mg IV every 6 hours for four doses, to further block peripheral conversion of T4 to T3.
+
+178
+00:25:01,028 --> 00:25:07,690
+If a β-blocking drug is given to control tachycardia, its effect on heart failure must be considered.
+
+179
+00:25:07,690 --> 00:25:12,090
+Propranolol, labetalol, and esmolol are options.
+
+180
+00:25:12,090 --> 00:25:19,890
+Coexisting severe preeclampsia, infection, or anemia are aggressively managed before delivery is considered.
+
+181
+00:25:19,890 --> 00:25:22,565
+Figure 61-4.
+
+182
+00:25:22,565 --> 00:25:27,853
+Parkland Hospital management for thyroid storm or thyrotoxic heart failure.
+
+183
+00:25:27,853 --> 00:25:38,490
+gtt = drops; IV = intravenous; NGT = nasogastric tube; PO = orally; PTU = propylthiouracil.
+
+184
+00:25:38,490 --> 00:25:47,703
+Hyperemesis Gravidarum Transient biochemical features of hyperthyroidism may be observed in 2 to 15 percent of women in early pregnancy .
+
+185
+00:25:47,703 --> 00:25:55,153
+Many women with hyperemesis gravidarum have abnormally high serum T4 levels and low TSH levels .
+
+186
+00:25:55,153 --> 00:25:59,853
+This results from TSH-receptor stimulation from hCG.
+
+187
+00:25:59,853 --> 00:26:05,565
+This transient condition is also termed gestational transient thyrotoxicosis.
+
+188
+00:26:05,565 --> 00:26:10,903
+Even if associated with hyperemesis, antithyroid drugs are not warranted .
+
+189
+00:26:10,903 --> 00:26:22,528
+The hCG levels do not correlate with T4 and TSH values, which trend to normal by midpregnancy (Nathan, 2014; Yoshihara, 2015).
+
+190
+00:26:22,528 --> 00:26:32,203
+Gestational Trophoblastic Disease The prevalence of T4 level elevation in women with a molar pregnancy ranges between 25 and 65 percent .
+
+191
+00:26:32,203 --> 00:26:39,078
+As discussed, abnormally high hCG levels lead to overstimulation of the TSH receptor.
+
+192
+00:26:39,078 --> 00:26:46,153
+Because these tumors are now usually diagnosed early, clinically apparent hyperthyroidism is less common.
+
+193
+00:26:46,153 --> 00:26:55,803
+With molar evacuation, serum free T4 levels usually drop to normal levels rapidly in parallel with declining hCG concentrations.
+
+194
+00:26:55,803 --> 00:27:08,515
+Subclinical Hyperthyroidism Third-generation TSH assays with an analytical sensitivity of 0.002 mU/mL permit identification of subclinical thyroid disorders.
+
+195
+00:27:08,515 --> 00:27:17,690
+These biochemically defined extremes usually represent normal biological variations but may herald the earliest stages of thyroid dysfunction.
+
+196
+00:27:17,690 --> 00:27:27,178
+Subclinical hyperthyroidism is characterized by an abnormally low serum TSH concentration in concert with normal T4 hormone levels.
+
+197
+00:27:27,178 --> 00:27:39,328
+Long-term effects of persistent subclinical thyrotoxicosis include osteoporosis, cardiovascular morbidity, and progression to overt thyrotoxicosis or thyroid failure.
+
+198
+00:27:39,328 --> 00:27:48,603
+In one recent metaanalysis of 20 studies, the prevalence of subclinical hyperthyroidism was 1.77 percent in pregnant women .
+
+199
+00:27:48,603 --> 00:27:55,465
+Importantly, subclinical hyperthyroidism has not been associated with adverse pregnancy outcomes .
+
+200
+00:27:55,465 --> 00:28:14,940
+In separate retrospective analyses of almost 25,000 women who underwent thyroid screening throughout pregnancy, investigators also found no relationship between subclinical hyperthyroidism and preeclampsia or gestational diabetes (Wilson, 2012; Tudela, 2012).
+
+201
+00:28:14,940 --> 00:28:22,390
+Treatment of subclinical hyperthyroidism is unwarranted in pregnancy because antithyroid drugs may affect the fetus.
+
+202
+00:28:22,390 --> 00:28:30,565
+These women may benefit from periodic surveillance, and approximately half eventually have normal TSH concentrations.
+
+203
+00:28:30,565 --> 00:28:33,178
+# Hypothyroidism.
+
+204
+00:28:33,178 --> 00:28:44,978
+Overt or symptomatic hypothyroidism complicates between 0.2 and 1.2 percent of pregnancies (Andersen, 2016; Casey, 2017).
+
+205
+00:28:44,978 --> 00:28:53,953
+Its insidious, nonspecific clinical findings include fatigue, constipation, cold intolerance, muscle cramps, and weight gain.
+
+206
+00:28:53,953 --> 00:29:05,890
+A pathologically enlarged thyroid gland depends on the etiology of hypothyroidism and is more likely in women in areas of endemic iodine deficiency or those with Hashimoto thyroiditis.
+
+207
+00:29:05,890 --> 00:29:13,703
+Other findings are edema, dry skin, hair loss, and a prolonged relaxation phase of deep tendon reflexes.
+
+208
+00:29:13,703 --> 00:29:22,303
+Clinical or overt hypothyroidism is confirmed by an abnormally high serum TSH level and an abnormally low T4 level.
+
+209
+00:29:22,303 --> 00:29:31,803
+Subclinical hypothyroidism, discussed later, is defined by an elevated serum TSH level but normal serum T4 concentration .
+
+210
+00:29:31,803 --> 00:29:36,290
+Asymptomatic individuals with high levels of anti-TPO or
+
+211
+00:29:36,460 --> 00:29:44,385
+antithyroglobulin antibodies often are included in the spectrum of subclinical thyroid disease and will also be discussed.
+
+212
+00:29:44,335 --> 00:29:58,485
+Overt Hypothyroidism and Pregnancy The most common cause of hypothyroidism in pregnancy is Hashimoto thyroiditis, characterized by glandular destruction from autoantibodies, particularly anti-TPO antibodies.
+
+213
+00:29:58,485 --> 00:30:01,997
+Another cause is postablative Graves disease.
+
+214
+00:30:01,997 --> 00:30:11,422
+Clinical identification of hypothyroidism is especially difficult during pregnancy because many of the signs or symptoms are also common pregnancy itself.
+
+215
+00:30:11,422 --> 00:30:21,585
+Thyroid analyte testing should be performed on symptomatic women, those with a personal or family history of thyroid disease, or those with type 1 diabetes .
+
+216
+00:30:21,585 --> 00:30:30,810
+Severe hypothyroidism during pregnancy is uncommon, probably because it is often associated with infertility and higher miscarriage rates .
+
+217
+00:30:30,810 --> 00:30:47,960
+Treatment The American College of Obstetricians and Gynecologists (2020) recommends oral replacement therapy for overt hypothyroidism beginning with levothyroxine in doses of 1 to 2 μg/kg/d or approximately 100 μg daily.
+
+218
+00:30:47,960 --> 00:30:54,760
+Women who are athyreotic after thyroidectomy or radioiodine therapy may require higher doses.
+
+219
+00:30:54,760 --> 00:31:02,985
+Surveillance is with TSH levels measured at 4-week intervals in the first half of pregnancy and at least once in the third trimester.
+
+220
+00:31:02,985 --> 00:31:12,597
+The levothyroxine dose is adjusted by 25- to 50-μg increments until TSH values approximate 2.5 mU/L.
+
+221
+00:31:12,597 --> 00:31:23,272
+Pregnancy is associated with an increased dose requirement in approximately a third of supplemented women (Abalovich, 2010; Alexander, 2004).
+
+222
+00:31:23,272 --> 00:31:29,110
+The greater demand in pregnancy is believed to be related to augmented estrogen production .
+
+223
+00:31:29,110 --> 00:31:33,647
+Higher dose requirements begin as early as 5 weeks’ gestation.
+
+224
+00:31:33,647 --> 00:31:51,372
+Significant hypothyroidism may develop early in women without thyroid reserve, such as those with a previous thyroidectomy, those with prior radioiodine ablation, or those undergoing assisted reproductive techniques (Alexander, 2004; Loh, 2009).
+
+225
+00:31:51,372 --> 00:32:00,272
+Theoretically, an anticipatory 25-percent increase in the levothyroxine dose at pregnancy confirmation will reduce this likelihood.
+
+226
+00:32:00,272 --> 00:32:10,047
+However, one randomized trial compared empiric increases in dose against dose adjustments based on TSH levels and found both equally effective .
+
+227
+00:32:10,047 --> 00:32:14,910
+Those in the empiric-dosing group had a higher risk of TSH suppression.
+
+228
+00:32:14,910 --> 00:32:24,897
+At Parkland Hospital, all women with hypothyroidism undergo TSH testing at initiation of prenatal care and subsequent indicated dose adjustments.
+
+229
+00:32:24,897 --> 00:32:29,197
+TSH determinations are repeated in each trimester.
+
+230
+00:32:29,197 --> 00:32:40,885
+Pregnancy Outcome with Overt Hypothyroidism Observational studies, although limited, indicate that excessive adverse perinatal outcomes are associated with overt T4 deficiency .
+
+231
+00:32:40,885 --> 00:32:43,872
+Preterm birth rates also are higher .
+
+232
+00:32:43,872 --> 00:32:56,285
+With appropriate replacement therapy, however, rates of adverse effects are not increased in most reports (Bryant, 2015; Matalon, 2006; Tan, 2006).
+
+233
+00:32:56,285 --> 00:33:03,710
+In one dissenting study, risks for some pregnancy complications were greater even in women taking replacement therapy .
+
+234
+00:33:03,710 --> 00:33:12,210
+Most experts agree that adequate hormone replacement during pregnancy minimizes the risk of adverse outcomes and most complications.
+
+235
+00:33:12,210 --> 00:33:14,872
+Table 61-3.
+
+236
+00:33:14,872 --> 00:33:25,622
+Pregnancy Complications in 440 Women with Hypothyroidism Fetal and Neonatal Effects Undoubtedly, maternal and fetal thyroid abnormalities are related.
+
+237
+00:33:25,622 --> 00:33:35,960
+In both, thyroid function is dependent on adequate iodine intake, and its deficiency early in pregnancy can cause both maternal and fetal hypothyroidism.
+
+238
+00:33:35,960 --> 00:33:48,835
+In one analysis of 4273 mother-child pairs, an association between maternal thyroid function during pregnancy and both neonatal and childhood thyroid function was confirmed .
+
+239
+00:33:48,835 --> 00:33:56,847
+As discussed, maternal TSH-receptorblocking antibodies can cross the placenta and cause fetal thyroid dysfunction.
+
+240
+00:33:56,847 --> 00:34:05,435
+Rovelli and colleagues (2010) evaluated 129 neonates born to women with autoimmune thyroiditis.
+
+241
+00:34:05,435 --> 00:34:15,847
+They found that 28 percent had an elevated TSH level on the third or fourth day of life, and 47 percent of these had TPO antibodies on day 15.
+
+242
+00:34:15,847 --> 00:34:20,572
+Still, autoantibodies were undetectable at age 6 months.
+
+243
+00:34:20,572 --> 00:34:28,847
+In their analysis, Korevaar and coworkers (2016a) concluded that maternal TPO antibodies have no
+
+244
+00:34:28,996 --> 00:34:33,271
+clinically relevant effects on the thyroid function of offspring.
+
+245
+00:34:33,221 --> 00:34:43,183
+Indeed, prevalence of fetal hypothyroidism in women with Hashimoto thyroiditis is estimated to be only 1 case in 180,000 newborns .
+
+246
+00:34:43,183 --> 00:34:46,558
+# Subclinical Hypothyroidism.
+
+247
+00:34:46,558 --> 00:34:57,783
+Although common in women, the incidence of subclinical hypothyroidism varies depending on age, race, dietary iodine intake, and serum TSH thresholds used .
+
+248
+00:34:57,783 --> 00:35:13,183
+In two large studies totaling more than 25,000 pregnant women screened in the first half of pregnancy, subclinical hypothyroidism was identified in 2.3 percent (Casey, 2005; Cleary-Goldman, 2008).
+
+249
+00:35:13,183 --> 00:35:24,958
+The rate of progression to overt thyroid failure is affected by TSH level, age, other disorders such as diabetes, and presence and concentration of antithyroid antibodies.
+
+250
+00:35:24,958 --> 00:35:38,021
+Diez and Iglesias (2004) prospectively followed 93 nonpregnant women with subclinical hypothyroidism for 5 years and reported that in a third, TSH values became normal.
+
+251
+00:35:38,021 --> 00:35:48,446
+In the other two thirds, those women whose TSH levels were 10 to 15 mU/L developed overt disease at a rate of 19 cases per 100 patient-years.
+
+252
+00:35:48,446 --> 00:35:57,596
+Those women whose TSH levels were <10 mU/L developed overt hypothyroidism at a rate of 2 cases per 100 patient-years.
+
+253
+00:35:57,596 --> 00:36:18,296
+Regarding screening for subclinical hypothyroidism in nonpregnant individuals, the U.S. Preventive Services Task Force also reports that nearly all patients who develop overt hypothyroidism within 5 years have an initial TSH level >10 mU/L (Helfand, 2004; Karmisholt, 2008).
+
+254
+00:36:18,296 --> 00:36:34,946
+From one metaanalysis of data from nonpregnant adults with subclinical hypothyroidism, thyroid hormone therapy was not associated with improved general quality of life, thyroid-related symptoms, depression, blood pressure, or other cardiovascular outcomes .
+
+255
+00:36:34,946 --> 00:36:44,283
+In a 20-year follow-up study of 5805 women who were screened in early pregnancy, only 3 percent developed thyroid disease.
+
+256
+00:36:44,283 --> 00:37:01,471
+Of the 224 women identified with subclinical hypothyroidism during pregnancy, 17 percent developed thyroid disease in the next 20 years, and most of these had either TPO or thyroglobulin antibodies during pregnancy (Männistö, 2010).
+
+257
+00:37:01,471 --> 00:37:11,158
+Thus, the likelihood of progression to overt hypothyroidism during pregnancy in otherwise healthy women with subclinical hypothyroidism seems remote.
+
+258
+00:37:11,158 --> 00:37:28,171
+Subclinical Hypothyroidism and Pregnancy Interest in this subject was heightened 20 years ago by two studies reporting that undiagnosed maternal thyroid hypofunction may impair fetal neuropsychological development (Haddow, 1999; Pop, 1999).
+
+259
+00:37:28,171 --> 00:37:38,571
+Notably, in the Haddow study, many women had both elevated TSH and abnormally low serum free T4 levels and thus had overt hypothyroidism.
+
+260
+00:37:38,571 --> 00:37:54,121
+To evaluate any adverse pregnancy effects, Casey and colleagues (2005) identified subclinical hypothyroidism in 2.3 percent of 17,298 women screened at Parkland Hospital before midpregnancy.
+
+261
+00:37:54,121 --> 00:38:05,283
+These women had small but significantly higher incidences of preterm birth, placental abruption, and neonates admitted to the intensive care nursery compared with euthyroid women.
+
+262
+00:38:05,283 --> 00:38:15,433
+In another study of 10,990 similar women, however, ClearyGoldman and associates (2008) did not find such associations.
+
+263
+00:38:15,433 --> 00:38:25,983
+Other studies subsequently confirmed a link between subclinical thyroid function and adverse outcomes (Chen, 2017; Maraka, 2016).
+
+264
+00:38:25,983 --> 00:38:35,421
+One included 24,883 women screened throughout pregnancy and showed an almost twofold greater risk of severe preeclampsia .
+
+265
+00:38:35,421 --> 00:38:44,721
+In an analysis of the latter cohort, a consistent relationship was shown between rising TSH levels and the risk for gestational diabetes .
+
+266
+00:38:44,721 --> 00:38:52,321
+Last, Nelson and associates (2014) found an elevated risk for diabetes and stillbirth.
+
+267
+00:38:52,321 --> 00:39:02,296
+Lazarus and coworkers (2012) reported the findings of the international multicenter Controlled Antenatal Thyroid Screening (CATS) study.
+
+268
+00:39:02,296 --> 00:39:11,933
+They evaluated prenatal thyroid screening with randomized treatment of both subclinical hypothyroidism and isolated maternal hypothyroxinemia.
+
+269
+00:39:11,933 --> 00:39:18,183
+They found that offspring IQ scores at age 3 years were not superior in the treated cohort.
+
+270
+00:39:18,183 --> 00:39:24,946
+Later evaluation of these offspring through age 9 confirmed that maternal treatment offered no benefit .
+
+271
+00:39:24,946 --> 00:39:28,358
+Last, the Maternal-Fetal Medicine Units
+
+272
+00:39:28,516 --> 00:39:39,103
+MFMU) Network screened more than 97,000 pregnant women for thyroid disorders and reported that 3.3 percent had subclinical hypothyroidism.
+
+273
+00:39:39,053 --> 00:39:45,866
+These 677 women were randomly assigned to thyroxine replacement therapy or placebo.
+
+274
+00:39:45,866 --> 00:39:59,016
+As reported by Casey and colleagues (2017) and shown in Table 61-4, adverse pregnancy outcomes or cognitive development in the offspring at 5 years did not differ between groups.
+
+275
+00:39:59,016 --> 00:40:06,966
+Annual developmental testing scores and behavioral and attention-deficit hyperactivity disorder results also did not differ.
+
+276
+00:40:06,966 --> 00:40:09,628
+Table 61-4.
+
+277
+00:40:09,628 --> 00:40:26,653
+Maternal-Fetal Medicine Unites Network: Pregnancy Outcomes According to Diagnosis and Treatment of Thyroid Disordersa Because of earlier study findings, some professional organizations began to recommend routine prenatal screening and treatment of subclinical hypothyroidism.
+
+278
+00:40:26,653 --> 00:40:51,166
+However, after the CATS and MFMU Network studies, more recent clinical practice guidelines from the Endocrine Society, the American Thyroid Association, and the American Association of Clinical Endocrinologists now uniformly recommended screening only those at greater risk during pregnancy (Alexander, 2017; De Groot, 2012; Garber, 2012).
+
+279
+00:40:51,166 --> 00:40:58,753
+This has been and still is the recommendation of the American College of Obstetricians and Gynecologists (2020).
+
+280
+00:40:58,753 --> 00:41:10,166
+Isolated Maternal Hypothyroxinemia Women with low serum free T4 values but a normal-range TSH level are considered to have isolated maternal hypothyroxinemia.
+
+281
+00:41:10,166 --> 00:41:19,491
+Its incidence in two large trials was 1.3 to 2.1 percent (Casey, 2007; Cleary-Goldman, 2008).
+
+282
+00:41:19,491 --> 00:41:28,778
+As shown in Figure 61-2, unlike in subclinical hypothyroidism, these women have a low prevalence of antithyroid antibodies.
+
+283
+00:41:28,778 --> 00:41:42,828
+Initial studies reported that offspring of women with isolated hypothyroxinemia had neurodevelopmental difficulties (Levie, 2018; Li, 2010; Pop, 1999, 2003).
+
+284
+00:41:42,828 --> 00:41:52,966
+Casey and colleagues (2007), however, found no higher risks in these women for other adverse perinatal outcomes compared with those of euthyroid women.
+
+285
+00:41:52,966 --> 00:42:06,678
+In contrast, a recent individual patient data systematic analysis including 47,045 pregnant women identified a higher risk of preterm birth associated with isolated hypothyroxinemia .
+
+286
+00:42:06,678 --> 00:42:24,178
+The aforementioned CATS study, including follow-up of offspring through age 9 years, did not find improved neurodevelopmental outcomes in women with isolated hypothyroxinemia who were then treated with thyroxine (Hales, 2018; Lazarus, 2012).
+
+287
+00:42:24,178 --> 00:42:34,191
+The randomized trial conducted by the MFMU Network also demonstrated no improvement in neurocognitive development with thyroxine treatment during pregnancy .
+
+288
+00:42:34,191 --> 00:42:44,166
+This large randomized study also found no higher rates of adverse pregnancy outcomes between groups and found that early thyroxine treatment offered no benefits .
+
+289
+00:42:44,166 --> 00:42:52,528
+The American Thyroid Association currently recommends against routine treatment of isolated hypothyroxinemia in pregnancy .
+
+290
+00:42:52,528 --> 00:42:56,378
+# Euthyroid Autoimmune Thyroid Disease.
+
+291
+00:42:56,378 --> 00:43:04,316
+Autoantibodies to TPO and thyroglobulin have been identified in 2 to 17 percent of pregnant women worldwide .
+
+292
+00:43:04,316 --> 00:43:09,453
+Most who test positive for such antibodies, however, are euthyroid.
+
+293
+00:43:09,453 --> 00:43:20,391
+That said, such women carry a two- to fivefold increased risk for early pregnancy loss (StagnaroGreen, 2004; Thangaratinam, 2011).
+
+294
+00:43:20,391 --> 00:43:25,753
+The presence of thyroid antibodies has also been associated with preterm birth .
+
+295
+00:43:25,753 --> 00:43:37,403
+In a randomized treatment trial of 115 euthyroid women with TPO antibodies, levothyroxine astoundingly reduced the preterm birth rate from 22 to 7 percent .
+
+296
+00:43:37,403 --> 00:43:47,541
+In a follow-up trial restricted to women with a TSH <2.5 mU/L, however, levothyroxine treatment had no effect on this risk .
+
+297
+00:43:47,541 --> 00:44:05,491
+In another study, Abbassi-Ghanavati and associates (2010) evaluated pregnancy outcomes in more than 1000 untreated women with TPO antibodies and did not find a higher risk for preterm birth compared with the risk in 16,000 euthyroid women without antibodies.
+
+298
+00:44:05,491 --> 00:44:12,228
+These investigators, however, did find a threefold greater risk of placental abruption in these women.
+
+299
+00:44:12,228 --> 00:44:25,916
+More recently, the Consortium on Thyroid and Pregnancy-Study Group on Preterm Birth (2019) estimated a marginal 1.3-fold increased risk for preterm birth in their metaanalysis of women with
+
+300
+00:44:26,068 --> 00:44:28,368
+TPO antibodies.
+
+301
+00:44:28,318 --> 00:44:43,968
+As with nonpregnant subjects with TPO antibodies, pregnant women are also at increased risk in later life for progression of thyroid disease and postpartum thyroiditis (Jameson, 2015; Stagnaro-Green, 2012a).
+
+302
+00:44:43,968 --> 00:45:00,318
+Currently, universal screening for the thyroid autoantibodies is not recommended by any professional organization (Alexander, 2017; American College of Obstetricians and Gynecologists, 2020; De Groot, 2012).
+
+303
+00:45:00,318 --> 00:45:03,105
+# Iodine Deficiency.
+
+304
+00:45:03,105 --> 00:45:17,043
+Decreasing iodide fortification of table salt and bread products in the United States during the past 25 years has led to occasional iodide deficiency (Caldwell, 2005; Hollowell, 1998).
+
+305
+00:45:17,043 --> 00:45:27,505
+Importantly, the most recent National Health and Nutrition Examination Survey indicated that, overall, the United States population remains iodine sufficient .
+
+306
+00:45:27,505 --> 00:45:36,380
+However, experts agree that iodine nutrition in vulnerable populations, such as pregnant women, requires continued monitoring.
+
+307
+00:45:36,380 --> 00:45:48,005
+In 2014, the Office of Dietary Supplements of the National Institutes of Health sponsored three workshops to identify information gaps and develop an iodine research agenda.
+
+308
+00:45:48,005 --> 00:45:57,655
+Participants emphasized the gradual decline in median urinary iodine levels in pregnant women and the serious potential effects on developing fetuses .
+
+309
+00:45:57,655 --> 00:46:08,055
+Dietary iodine requirements are higher during pregnancy due to augmented thyroid hormone production, increased renal losses, and fetal iodine requirements.
+
+310
+00:46:08,055 --> 00:46:17,593
+Adequate iodine is requisite for fetal neurological development beginning soon after conception, and abnormalities vary by the degree of deficiency.
+
+311
+00:46:17,593 --> 00:46:31,243
+For example, Levie and colleagues (2019) demonstrated a positive correlation between maternal urinary iodine/creatinine ratio in the first trimester and offspring nonverbal IQ scores.
+
+312
+00:46:31,243 --> 00:46:44,068
+UNICEF (2018) estimates that nearly 19 million babies born globally every year are at risk of permanent yet preventable brain damage or of reduced cognitive function from iodine deficiency.
+
+313
+00:46:44,068 --> 00:46:51,493
+Although it is doubtful that mild deficiency causes intellectual impairment, supplementation does prevent fetal goiter .
+
+314
+00:46:51,493 --> 00:47:02,793
+In one randomized trial with more than 800 women who had mild deficiency, daily iodine supplementation had no effect on child neurodevelopment at age 5 to 6 years .
+
+315
+00:47:02,793 --> 00:47:11,505
+Supplementation studies conducted in regions with moderate deficiency have reported inconsistent findings with regard to psychomotor development .
+
+316
+00:47:11,505 --> 00:47:21,318
+Berbel and associates (2009) began daily supplementation in more than 300 pregnant women with moderate deficiency at three time periods.
+
+317
+00:47:21,318 --> 00:47:31,293
+They found improved neurobehavioral development scores in offspring of women supplemented with 200 μg of potassium iodide very early in pregnancy.
+
+318
+00:47:31,293 --> 00:47:44,305
+Similarly, Velasco and coworkers (2009) found improved Bayley Psychomotor Development scores in offspring of women supplemented with 300 μg of iodine daily in the first trimester.
+
+319
+00:47:44,305 --> 00:47:56,730
+In contrast, Murcia and colleagues (2011) identified lower psychomotor scores in 1year-old infants whose mothers reported daily supplementation of more than 150 μg.
+
+320
+00:47:56,730 --> 00:48:08,005
+Severe deficiency is frequently associated with damage typically encountered with endemic cretinism, and benefits of universal salt iodization or supplementation have been confirmed .
+
+321
+00:48:08,005 --> 00:48:20,668
+Regarding daily iodine intake, the Institute of Medicine (2001) recommends 220 μg/d during pregnancy and 290 μg/d during lactation .
+
+322
+00:48:20,668 --> 00:48:41,230
+The American Thyroid Association recommends an average iodine intake of 250 μg/d in all pregnant women and has recommended that 150 μg of iodine be added to prenatal vitamins to achieve this average daily oral intake (Alexander, 2017; Kerver, 2021).
+
+323
+00:48:41,230 --> 00:48:51,155
+In an older study, Leung and coworkers (2011) reported that only half of the prenatal multivitamins in the United States contained iodine.
+
+324
+00:48:51,155 --> 00:49:01,930
+Without evidence of benefit, however, it is hard to justify the cost of iodine supplementation of large numbers of pregnant women in areas with mild iodine deficiency .
+
+325
+00:49:01,930 --> 00:49:16,855
+Importantly, experts caution against oversupplementation since excessive iodine exposure can lead to subclinical thyroid dysfunction and is associated with increased prevalence of thyroid autoimmunity (Pearce 2016; Shi,
+
+326
+00:49:17,020 --> 00:49:27,607
+2015). The American Thyroid Association advises against exceeding twice the daily recommended intake of iodine, which is 500 μg/d .
+
+327
+00:49:27,557 --> 00:49:30,807
+# Congenital Hypothyroidism.
+
+328
+00:49:30,807 --> 00:49:39,820
+Universal newborn screening for neonatal hypothyroidism was introduced in 1974 and is now required by law in all states .
+
+329
+00:49:39,820 --> 00:49:43,995
+This develops in approximately 1 in 2000 newborns.
+
+330
+00:49:43,995 --> 00:49:54,457
+The reported incidence has increased during the past few decades and is thought to stem from greater preterm neonate survival rates and methodological shifts in newborn screening .
+
+331
+00:49:54,457 --> 00:50:04,107
+Variation in TSH percentiles according to gestational age at delivery have led some to propose age-adjusted cutoffs to avoid overdiagnosis .
+
+332
+00:50:04,107 --> 00:50:12,095
+Developmental disorders of the thyroid gland such as agenesis and hypoplasia account for 80 to 90 percent of cases.
+
+333
+00:50:12,095 --> 00:50:26,295
+The remainder may be caused by hereditary defects in thyroid hormone production, but it is estimated that up to 15 percent may have a transient form of the disease (McGrath, 2018; Oron, 2018).
+
+334
+00:50:26,295 --> 00:50:33,895
+Early and aggressive thyroxine replacement is critical for affected newborns (van Trotsenburg, 2021).
+
+335
+00:50:33,895 --> 00:50:46,895
+In one study of 76 children with congenital hypothyroidism, IQ scores at age 18 years did not differ from those in 40 siblings, provided the initial thyroxine dose was sufficiently high .
+
+336
+00:50:46,895 --> 00:50:49,982
+# Postpartum Thyroiditis.
+
+337
+00:50:49,982 --> 00:51:02,732
+Transient autoimmune thyroiditis is consistently found in approximately 5 to 10 percent of women during the first year after childbirth (Nathan, 2014; Nguyen, 2019).
+
+338
+00:51:02,732 --> 00:51:11,082
+With an onset within 12 months, postpartum thyroid dysfunction includes hyperthyroidism, hypothyroidism, or both.
+
+339
+00:51:11,082 --> 00:51:19,670
+The propensity for thyroiditis antedates pregnancy and is directly related to increasing serum levels of thyroid autoantibodies.
+
+340
+00:51:19,670 --> 00:51:27,270
+Up to 50 percent of women who have thyroid antibodies in the first trimester will develop postpartum thyroiditis .
+
+341
+00:51:27,270 --> 00:51:34,620
+As mentioned previously, routine thyroid autoantibody testing during pregnancy is currently not recommended .
+
+342
+00:51:34,620 --> 00:51:44,195
+In clinical practice, postpartum thyroiditis is diagnosed infrequently because it typically develops months after delivery and causes vague symptoms .
+
+343
+00:51:44,195 --> 00:51:51,082
+The presentation varies, and classically two clinical phases that may develop in succession are recognized.
+
+344
+00:51:51,082 --> 00:51:59,182
+The first and earliest is destruction-induced thyrotoxicosis with symptoms from excessive release of hormone from glandular disruption.
+
+345
+00:51:59,182 --> 00:52:03,695
+The onset is abrupt, and a small, painless goiter is common.
+
+346
+00:52:03,695 --> 00:52:12,070
+From many possible symptoms, only fatigue and palpitations are more frequent in thyrotoxic women compared with normal controls.
+
+347
+00:52:12,070 --> 00:52:16,307
+This thyrotoxic phase usually lasts only a few months.
+
+348
+00:52:16,307 --> 00:52:22,432
+Thionamides are ineffective, and if symptoms are severe, a β-blocking agent may be given.
+
+349
+00:52:22,432 --> 00:52:29,682
+The second and usually later phase between 4 and 8 months postpartum is hypothyroidism from thyroiditis.
+
+350
+00:52:29,682 --> 00:52:35,732
+Thyromegaly and other symptoms are common and more prominent than during the thyrotoxic phase.
+
+351
+00:52:35,732 --> 00:52:44,157
+Levothyroxine replacement at doses of 25 to 75 μg/d is typically given for 6 to 12 months.
+
+352
+00:52:44,157 --> 00:52:55,932
+Stagnaro-Green and associates (2011) reported postpartum surveillance results in 4562 Italian gravidas who had been screened for thyroid disease in pregnancy.
+
+353
+00:52:55,932 --> 00:53:02,370
+Serum TSH and anti-TPO antibody levels were measured again at 6 and 12 months.
+
+354
+00:53:02,370 --> 00:53:13,482
+Overall, 169 women (3.9 percent) developed postpartum thyroiditis, and two thirds of these were identified to have hypothyroidism only.
+
+355
+00:53:13,482 --> 00:53:17,245
+The other third were diagnosed with hyperthyroidism.
+
+356
+00:53:17,245 --> 00:53:22,620
+Only 14 percent of all women demonstrated the classic biphasic progression.
+
+357
+00:53:22,620 --> 00:53:29,882
+These findings are consistent with data compiled from 20 other studies between 1982 and 2008 .
+
+358
+00:53:29,882 --> 00:53:43,257
+Importantly, women who experience either type of postpartum thyroiditis have a 20- to 30-percent risk of eventually developing permanent hypothyroidism, and the annual progression rate is 3.6 percent .
+
+359
+00:53:43,257 --> 00:53:53,695
+Women at greater risk for developing hypothyroidism are those with higher titers of thyroid antibodies and higher TSH levels during the initial hypothyroid phase.
+
+360
+00:53:53,695 --> 00:54:04,645
+Others may develop subclinical disease, but half of those with thyroiditis who are positive for TPO antibodies develop permanent hypothyroidism by 6 to 7 years .
+
+361
+00:54:04,645 --> 00:54:07,007
+An association between
+
+362
+00:54:07,156 --> 00:54:13,381
+postpartum thyroiditis and postpartum depression has been proposed but remains unresolved .
+
+363
+00:54:13,331 --> 00:54:18,356
+Similarly unsettled is the link between depression and thyroid antibodies.
+
+364
+00:54:18,356 --> 00:54:27,068
+Kuijpens and associates (2001) reported that TPO antibodies were a marker for postpartum depression in euthyroid women.
+
+365
+00:54:27,068 --> 00:54:40,906
+In a randomized trial, however, Harris and coworkers (2002) reported no difference in postpartum depression in 342 women with TPO antibodies who were given either levothyroxine or placebo.
+
+366
+00:54:40,906 --> 00:54:53,193
+Somewhat related, in the MFMU Network randomized trial, women with subclinical hypothyroidism allocated to thyroxine treatment during pregnancy did not experience improvement in their depression .
+
+367
+00:54:53,193 --> 00:54:56,218
+# Nodular Thyroid Disease.
+
+368
+00:54:56,218 --> 00:55:01,906
+Palpable thyroid nodules can be found in up to 5 percent of reproductiveaged women .
+
+369
+00:55:01,906 --> 00:55:08,581
+Management of a palpable thyroid nodule during pregnancy depends on gestational age and mass size.
+
+370
+00:55:08,581 --> 00:55:15,793
+Small nodules detected by sensitive sonographic methods are more common during pregnancy in some populations.
+
+371
+00:55:15,793 --> 00:55:26,518
+Kung and associates (2002) used highresolution sonography and found that 15 percent of Chinese women had nodules larger than 2 mm in diameter.
+
+372
+00:55:26,518 --> 00:55:29,906
+Almost half of cases had multiple masses.
+
+373
+00:55:29,906 --> 00:55:35,793
+The nodules usually enlarged modestly across pregnancy and did not regress postpartum.
+
+374
+00:55:35,793 --> 00:55:44,368
+Biopsy of those measuring >5 mm3 that persisted at 3 months usually showed nodular hyperplasia, and none was malignant.
+
+375
+00:55:44,368 --> 00:55:49,968
+In most studies, 90 to 95 percent of solitary nodules are benign .
+
+376
+00:55:49,968 --> 00:55:56,431
+Evaluation of thyroid nodules during pregnancy should be similar to that for nonpregnant patients.
+
+377
+00:55:56,431 --> 00:56:04,968
+As discussed in Chapter 49 (p. 875), radioiodine scanning in pregnancy is usually not recommended .
+
+378
+00:56:04,968 --> 00:56:13,968
+Sonographic examination reliably detects nodules >5 mm, and their solid or cystic structure also is determined.
+
+379
+00:56:13,968 --> 00:56:27,068
+According to the American Association of Clinical Endocrinologists, sonographic characteristics associated with malignancy include hypoechogenic pattern, irregular margins, and microcalcifications .
+
+380
+00:56:27,068 --> 00:56:38,781
+Fine-needle aspiration (FNA) under ultrasound guidance is an excellent assessment method because cytological diagnostic criteria are not substantially influenced by pregnancy .
+
+381
+00:56:38,781 --> 00:56:45,106
+If the FNA biopsy shows a follicular lesion, surgery may be deferred until postpartum.
+
+382
+00:56:45,106 --> 00:56:50,056
+Evaluation of thyroid cancer involves a multidisciplinary approach .
+
+383
+00:56:50,056 --> 00:56:54,643
+Most thyroid carcinomas are well differentiated and indolent.
+
+384
+00:56:54,643 --> 00:57:03,881
+Messuti and coworkers (2014) provided evidence that persistence or recurrence of these tumors may be more common in pregnant women.
+
+385
+00:57:03,881 --> 00:57:12,293
+For thyroid malignancy diagnosed in the first or second trimester, thyroidectomy may be performed before the third trimester.
+
+386
+00:57:12,293 --> 00:57:22,156
+In women without evidence of an aggressive thyroid cancer or in those diagnosed in the third trimester, surgical treatment can be deferred until the early puerperium .
+
+387
+00:57:22,156 --> 00:57:24,381
+Parathyroid Disease.
+
+388
+00:57:24,381 --> 00:57:30,918
+Parathyroid hormone (PTH) maintains extracellular fluid calcium concentration.
+
+389
+00:57:30,918 --> 00:57:39,318
+This 84-amino-acid hormone acts directly on bone and kidney and indirectly on small intestine to increase serum calcium .
+
+390
+00:57:39,318 --> 00:57:46,568
+PTH secretion is regulated by serum ionized calcium concentration through a negative feedback system.
+
+391
+00:57:46,568 --> 00:57:53,118
+Calcitonin is a potent parathyroid hormone that acts as a physiological PTH antagonist.
+
+392
+00:57:53,118 --> 00:58:05,518
+The relationships between these hormones, calcium metabolism, and PTH-related protein (PTH-rP) produced by fetal tissue are discussed in Chapter 4 (p. 73).
+
+393
+00:58:05,518 --> 00:58:14,343
+Of fetal demands, calcium requirements reach 300 mg/d in late pregnancy and 30 g for the entire gestation.
+
+394
+00:58:14,343 --> 00:58:22,993
+These needs and greater renal calcium loss from augmented maternal glomerular filtration substantively raise maternal calcium demands.
+
+395
+00:58:22,993 --> 00:58:31,293
+Total serum calcium levels decline with serum albumin concentrations, but ionized calcium levels remain unchanged.
+
+396
+00:58:31,293 --> 00:58:42,518
+Pregnancy is also associated with a twofold rise in serum concentrations of 1,25dihydroxyvitamin D, which increases gastrointestinal calcium absorption.
+
+397
+00:58:42,518 --> 00:58:51,631
+The effectuating hormone is probably of placental and decidual origin since maternal PTH levels are low normal or decreased during pregnancy .
+
+398
+00:58:51,631 --> 00:58:57,231
+Calcium is actively transported across the placenta and deposited in the developing
+
+399
+00:58:57,388 --> 00:58:59,663
+fetal skeletal system.
+
+400
+00:58:59,613 --> 00:59:10,963
+Fetal calcium homeostasis is maintained through a complex interplay between PTH-rP, PTH, and receptors in the placenta, fetal kidney, and fetal skeleton .
+
+401
+00:59:10,963 --> 00:59:13,913
+# Hyperparathyroidism.
+
+402
+00:59:13,913 --> 00:59:20,188
+Hypercalcemia is caused by hyperparathyroidism or cancer in 90 percent of cases .
+
+403
+00:59:20,188 --> 00:59:32,138
+Because many automated laboratory systems include serum calcium measurement, hyperparathyroidism has changed from being a condition defined by symptoms to one that is discovered on routine screening .
+
+404
+00:59:32,138 --> 00:59:43,700
+Hypercalcemia has a reported prevalence of 2 to 3 cases per 1000 women, but some estimate the rate to reach 14 cases per 1000 if asymptomatic women are included.
+
+405
+00:59:43,700 --> 00:59:51,950
+Almost 80 percent are caused by a solitary adenoma, and another 15 percent by hyperfunctioning of all four glands.
+
+406
+00:59:51,950 --> 00:59:56,688
+In the remainder, an associated malignancy is usually obvious.
+
+407
+00:59:56,688 --> 01:00:04,575
+Of note, PTH produced by tumors is not identical to the natural hormone and may not be detected by routine assays.
+
+408
+01:00:04,575 --> 01:00:15,425
+In most patients with hyperparathyroidism, the serum calcium level is elevated to within only 1 to 1.5 mg/dL above the upper normal limit.
+
+409
+01:00:15,425 --> 01:00:22,288
+This may help to explain why only 20 percent of those who have abnormally elevated levels are symptomatic .
+
+410
+01:00:22,288 --> 01:00:28,638
+In a fourth, however, symptoms become apparent when the serum calcium level continues to rise.
+
+411
+01:00:28,638 --> 01:00:36,188
+Hypercalcemic crisis manifests as stupor, nausea, vomiting, weakness, fatigue, and dehydration.
+
+412
+01:00:36,188 --> 01:00:44,713
+Women with symptomatic hyperparathyroidism should be surgically treated (Davis, 2020; Potts, 2015).
+
+413
+01:00:44,713 --> 01:01:00,825
+Indications for parathyroidectomy include a serum calcium level 1.0 mg/dL above the upper normal range, a calculated creatinine clearance <60 mL/min, reduced bone density, or age >50 years .
+
+414
+01:01:00,825 --> 01:01:10,175
+Those not meeting these criteria should undergo annual serum calcium and creatinine level measurement and bone density assessment every 1 to 2 years .
+
+415
+01:01:10,175 --> 01:01:22,313
+Hyperparathyroidism in Pregnancy In their review, Schnatz and Thaxton (2005) found fewer than 200 reported cases of hyperparathyroidism complicating pregnancy.
+
+416
+01:01:22,313 --> 01:01:28,200
+As in nonpregnant patients, parathyroid adenoma is the most common etiology.
+
+417
+01:01:28,200 --> 01:01:39,100
+Ectopic parathyroid hormone production and rare cases of parathyroid carcinoma have been reported in pregnancy (Montoro, 2000; Saad, 2014).
+
+418
+01:01:39,100 --> 01:01:48,688
+Symptoms of hyperparathyroidism during pregnancy include hyperemesis, generalized weakness, renal calculi, and psychiatric disorders.
+
+419
+01:01:48,688 --> 01:01:52,838
+Occasionally, pancreatitis is the presenting disorder .
+
+420
+01:01:52,838 --> 01:02:01,650
+Pregnancy theoretically improves hyperparathyroidism by significantly shunting calcium to the fetus and by augmented renal excretion.
+
+421
+01:02:01,650 --> 01:02:07,788
+When these effects are withdrawn, however, postpartum hypercalcemic crisis is a danger.
+
+422
+01:02:07,788 --> 01:02:20,975
+This life-threatening complication can be seen with serum calcium levels >14 mg/dL, and nausea, vomiting, tremors, dehydration, and mental status changes are symptoms .
+
+423
+01:02:20,975 --> 01:02:28,900
+Early reports described excessive stillbirths and preterm deliveries in pregnancies complicated by hyperparathyroidism.
+
+424
+01:02:28,900 --> 01:02:36,225
+More recent reports, however, describe lower rates of stillbirth, neonatal death, and neonatal tetany .
+
+425
+01:02:36,225 --> 01:02:42,438
+Other fetal complications include miscarriage, fetalgrowth restriction, and low birthweight .
+
+426
+01:02:42,438 --> 01:02:46,825
+One group reported a 30-percent incidence of preeclampsia .
+
+427
+01:02:46,825 --> 01:02:53,125
+Management in Pregnancy Surgical removal of a symptomatic parathyroid adenoma is preferable.
+
+428
+01:02:53,125 --> 01:02:59,075
+This should prevent fetal and neonatal morbidities and postpartum parathyroid crises .
+
+429
+01:02:59,075 --> 01:03:08,463
+In one case series from an Australian referral hospital, 22 pregnancies were managed medically, and six women underwent parathyroidectomy.
+
+430
+01:03:08,463 --> 01:03:17,625
+Preterm delivery was reported in 66 percent of pregnancies managed without surgery, whereas all surgically treated women delivered at term .
+
+431
+01:03:17,625 --> 01:03:28,200
+Elective neck exploration during pregnancy is usually well tolerated, even in the third trimester (Hirsch, 2015; Stringer, 2017).
+
+432
+01:03:28,200 --> 01:03:37,400
+In at least two cases, a mediastinal adenoma was removed at midpregnancy (Rooney, 1998; Saad, 2014).
+
+433
+01:03:37,400 --> 01:03:44,213
+Medical management may however be appropriate in asymptomatic pregnant women with mild hypercalcemia .
+
+434
+01:03:44,213 --> 01:03:50,213
+If so, patients are carefully monitored in the puerperium for hypercalcemic crisis.
+
+435
+01:03:50,213 --> 01:03:54,000
+Initial medical management might include calcitonin
+
+436
+01:03:54,172 --> 01:04:03,584
+to decrease skeletal calcium release, or oral phosphate, 1 to 1.5 g daily in divided doses, to bind excess calcium.
+
+437
+01:04:03,534 --> 01:04:13,597
+For women with dangerously elevated serum calcium levels or those who are mentally obtunded with hypercalcemic crisis, emergency treatment is instituted.
+
+438
+01:04:13,597 --> 01:04:25,684
+Diuresis with IV normal saline is begun so that urine flow exceeds 150 mL/hr. Furosemide is given in conventional doses to block tubular calcium reabsorption.
+
+439
+01:04:25,684 --> 01:04:30,697
+Importantly, hypokalemia and hypomagnesemia should be prevented.
+
+440
+01:04:30,697 --> 01:04:35,797
+Adjunctive therapy includes mithramycin, which inhibits bone resorption.
+
+441
+01:04:35,797 --> 01:04:41,847
+Neonatal Effects Normally, cord blood calcium levels are higher than maternal levels .
+
+442
+01:04:41,847 --> 01:04:50,359
+With maternal hyperparathyroidism, abnormally elevated maternal and thus fetal levels further suppress fetal parathyroid function.
+
+443
+01:04:50,359 --> 01:05:01,322
+Because of this, newborn calcium levels rapidly drop after birth, and 15 to 25 percent of these neonates develop severe hypocalcemia with or without tetany .
+
+444
+01:05:01,322 --> 01:05:13,384
+Neonatal hypoparathyroidism caused by maternal hyperparathyroidism is usually transient and is treated with calcium and 1,25-dihydroxyvitamin D3 (calcitriol).
+
+445
+01:05:13,384 --> 01:05:21,897
+The latter will not be effective in preterm infants, however, because the intestinal vitamin D receptor is insufficiently expressed .
+
+446
+01:05:21,897 --> 01:05:31,659
+Neonatal tetany or seizures should stimulate an evaluation for maternal hyperparathyroidism (Beattie, 2000; Ip, 2003).
+
+447
+01:05:31,659 --> 01:05:34,584
+# Hypoparathyroidism.
+
+448
+01:05:34,584 --> 01:05:42,672
+The most common cause of hypocalcemia is hypoparathyroidism that usually follows parathyroid or thyroid surgery.
+
+449
+01:05:42,672 --> 01:05:49,647
+It is estimated that almost 80 percent of cases are attributable to complications of anterior neck surgery .
+
+450
+01:05:49,647 --> 01:05:59,222
+Hypoparathyroidism is characterized by facial muscle spasms, muscle cramps, and paresthesias of the lips, tongue, fingers, and feet.
+
+451
+01:05:59,222 --> 01:06:02,372
+This can progress to tetany and seizures .
+
+452
+01:06:02,372 --> 01:06:12,122
+Chronically, hypocalcemic pregnant women may also have a fetus with skeletal demineralization resulting in multiple bone fractures in the neonatal period .
+
+453
+01:06:12,122 --> 01:06:28,547
+Maternal treatment includes calcitriol, dihydrotachysterol, or large vitamin D doses of 50,000 to 150,000 U/d; calcium gluconate or calcium lactate in doses of 3 to 5 g/d; and a low-phosphate diet.
+
+454
+01:06:28,547 --> 01:06:33,447
+Fetal risks from large doses of vitamin D have not been established.
+
+455
+01:06:33,447 --> 01:06:41,109
+During treatment, the therapeutic challenge in women with known hypoparathyroidism is management of blood calcium levels.
+
+456
+01:06:41,109 --> 01:06:51,334
+It is possible that the greater calcium absorption typical of pregnancy will result in lower calcium requirements or that the fetal demand for calcium will result in greater need.
+
+457
+01:06:51,334 --> 01:06:57,147
+The goal during pregnancy is to maintain a corrected calcium level in the low normal range.
+
+458
+01:06:57,147 --> 01:07:01,872
+# Pregnancy and Lactation-associated Osteoporosis.
+
+459
+01:07:01,872 --> 01:07:10,584
+In most gravidas, even with their remarkably increased calcium requirements, it is uncertain whether pregnancy causes osteopenia.
+
+460
+01:07:10,584 --> 01:07:15,809
+In one study of 200 women, bone density declined during pregnancy .
+
+461
+01:07:15,809 --> 01:07:23,159
+Women who breastfed, carried twin pregnancies, or had a low body mass index were at higher risk of bone loss.
+
+462
+01:07:23,159 --> 01:07:32,309
+Thomas and Weisman (2006) in their review cite a 3- to 4-percent average reduction in bone mineral density during pregnancy.
+
+463
+01:07:32,309 --> 01:07:39,909
+Lactation also represents a period of negative calcium balance that may be corrected through maternal skeletal resorption.
+
+464
+01:07:39,909 --> 01:07:54,584
+However, data from the Women’s Health Initiative found that parity, number of pregnancies, age at first pregnancy, breastfeeding, and duration of breastfeeding were not associated with postmenopausal hip fracture risk or bone density losses .
+
+465
+01:07:54,584 --> 01:08:02,959
+The most common symptom of this rare disorder of pregnancy-associated osteoporosis is back pain in late pregnancy or postpartum.
+
+466
+01:08:02,959 --> 01:08:11,109
+Other symptoms are hip pain, either unilateral or bilateral, and difficulty in weight bearing until the woman is nearly immobilized .
+
+467
+01:08:11,109 --> 01:08:16,272
+In more than half of women, no apparent reason for osteopenia is found.
+
+468
+01:08:16,272 --> 01:08:27,284
+Some known causes are heparin (unfractionated only), bed rest, and corticosteroid therapy (Cunningham, 2005; Galambosi, 2016).
+
+469
+01:08:27,284 --> 01:08:33,922
+In a few cases, overt hyperparathyroidism or thyrotoxicosis eventually develops.
+
+470
+01:08:33,922 --> 01:08:40,259
+Treatment is problematic and includes calcium and vitamin D supplementation and pain management.
+
+471
+01:08:40,259 --> 01:08:41,947
+Long-term
+
+472
+01:08:42,100 --> 01:08:50,800
+surveillance of osteopenia indicates that although bone density improves, these women and their offspring may have chronic osteopenia .
+
+473
+01:08:50,750 --> 01:09:03,925
+Related, prenatal supplementation of normal women with cholecalciferol, 1000 IU/d, did not increase offspring bone mineral content, although it did ensure maternal vitamin D repletion .
+
+474
+01:09:03,925 --> 01:09:09,525
+In lactating women with osteoporosis, some advocate cessation of breastfeeding .
+
+475
+01:09:09,525 --> 01:09:11,987
+Adrenal Gland Disorders.
+
+476
+01:09:11,987 --> 01:09:14,737
+# Pheochromocytoma.
+
+477
+01:09:14,737 --> 01:09:19,062
+Pregnancy has profound effects on adrenal cortical secretion.
+
+478
+01:09:19,062 --> 01:09:28,225
+These interrelationships were reviewed by Lekarev and New (2011) and are discussed in detail in Chapter 4 (p. 73).
+
+479
+01:09:28,225 --> 01:09:32,250
+Several adrenal disorders may be encountered in pregnancy.
+
+480
+01:09:32,250 --> 01:09:43,587
+Of these, pheochromocytomas are chromaffin tumors that secrete catecholamines and usually are located in the adrenal medulla, although 10 percent are located in sympathetic ganglia.
+
+481
+01:09:43,587 --> 01:09:52,700
+They are called the 10-percent tumor because approximately 10 percent are bilateral, 10 percent are extra adrenal, and 10 percent are malignant.
+
+482
+01:09:52,700 --> 01:10:07,862
+These tumors can be associated with medullary thyroid carcinoma and hyperparathyroidism in some of the autosomally dominant or recessive multiple endocrine neoplasia syndromes, as well as in neurofibromatosis and von Hippel-Lindau disease .
+
+483
+01:10:07,862 --> 01:10:13,537
+Pheochromocytomas complicate approximately 1 per 50,000 pregnancies .
+
+484
+01:10:13,537 --> 01:10:19,887
+Notably, they are found in 0.2 to 0.6 percent of hypertensive patients .
+
+485
+01:10:19,887 --> 01:10:27,262
+Symptoms are usually paroxysmal and manifest as hypertensive crisis, seizures, or anxiety attacks.
+
+486
+01:10:27,262 --> 01:10:34,512
+Others are headaches, sweating, palpitations, chest pain, nausea, vomiting, and pallor or flushing.
+
+487
+01:10:34,512 --> 01:10:41,350
+Hypertension is sustained in 60 percent of patients, but half of these also have paroxysmal crises.
+
+488
+01:10:41,350 --> 01:10:49,212
+Standard screening is quantification of metanephrines and catecholamine metabolites in a 24-hour urine specimen .
+
+489
+01:10:49,212 --> 01:11:01,275
+Diagnosis is established by measurement of a 24-hour urine collection with at least two of three assays for free catecholamines, metanephrines, or vanillylmandelic acid (VMA).
+
+490
+01:11:01,275 --> 01:11:11,537
+Determination of plasma catecholamine metabolite levels is the most sensitive test, and a pheochromocytoma diagnosis is excluded if they are within normal range .
+
+491
+01:11:11,537 --> 01:11:21,650
+In nonpregnant patients, adrenal localization is usually successful with either computed tomography (CT) or magnetic resonance (MR) imaging.
+
+492
+01:11:21,650 --> 01:11:26,537
+For most cases, preferred treatment is laparoscopic adrenalectomy .
+
+493
+01:11:26,537 --> 01:11:31,937
+In pregnancy, these tumors are rare but result in dangerous complications.
+
+494
+01:11:31,937 --> 01:11:39,450
+Geelhoed (1983) provided an earlier review of 89 cases in which 43 mothers died.
+
+495
+01:11:39,450 --> 01:11:46,837
+Maternal death was much more common if the tumor was not diagnosed antepartum—58 versus 18 percent.
+
+496
+01:11:46,837 --> 01:11:53,575
+As seen in Table 61-5, maternal mortality rates are now lower but still formidable.
+
+497
+01:11:53,575 --> 01:12:01,800
+In one review of 77 cases, antepartum diagnosis was the most important determinant of maternal mortality risk .
+
+498
+01:12:01,800 --> 01:12:09,900
+However, Salazar-Vega and colleagues (2014) described good outcomes in women diagnosed after delivery.
+
+499
+01:12:09,900 --> 01:12:12,637
+Table 61-5.
+
+500
+01:12:12,637 --> 01:12:24,287
+Outcomes of Pregnancies Complicated by Pheochromocytoma and Reported in Four Contiguous Epochs Diagnosis of pheochromocytoma in pregnancy is similar to that for nonpregnant patients.
+
+501
+01:12:24,287 --> 01:12:30,700
+MR imaging is the preferred technique to locate adrenal and extra-adrenal pheochromocytomas .
+
+502
+01:12:30,700 --> 01:12:38,362
+Importantly, differentiating preeclampsia from the hypertensive crisis caused by pheochromocytoma is essential.
+
+503
+01:12:38,362 --> 01:12:41,125
+Figure 61-5.
+
+504
+01:12:41,125 --> 01:12:52,562
+Coronal magnetic resonance image taken in a 32-week pregnant woman shows a rightsided pheochromocytoma (arrow) and its position relative to the liver (L) above it.
+
+505
+01:12:52,562 --> 01:12:59,837
+Immediate control of hypertension and symptoms is attained with an αadrenergic blocking agent such as phenoxybenzamine.
+
+506
+01:12:59,837 --> 01:13:04,337
+The dose is 10 to 30 mg, two to four times daily.
+
+507
+01:13:04,337 --> 01:13:11,225
+After α-blockade is achieved, β-blocking drugs such as propranolol may be given for tachycardia.
+
+508
+01:13:11,225 --> 01:13:23,550
+In many cases, surgical exploration and tumor removal are performed during pregnancy, preferably during the second trimester (Biggar, 2013; Dong, 2014).
+
+509
+01:13:23,550 --> 01:13:32,612
+Successful laparoscopic removal of adrenal tumors has become the norm (Miller, 2012; Zuluaga-Gómez, 2012).
+
+510
+01:13:32,612 --> 01:13:38,212
+Donatini and colleagues (2018) described three cases of women with
+
+511
+01:13:38,380 --> 01:13:52,017
+bilateral tumors who had laparoscopic unilateral adrenalectomy of the largest tumor during pregnancy and subsequent contralateral adrenalectomy after delivery to avoid the maternal and fetal effects of adrenal insufficiency.
+
+512
+01:13:51,967 --> 01:13:59,967
+If diagnosed later in pregnancy, either planned cesarean delivery with tumor excision or postpartum resection is appropriate.
+
+513
+01:13:59,967 --> 01:14:07,792
+Recurrent tumors are troublesome, and even with good blood pressure control, dangerous peripartum hypertension may develop.
+
+514
+01:14:07,792 --> 01:14:14,042
+We have cared for three women in whom recurrent pheochromocytoma was identified during pregnancy.
+
+515
+01:14:14,042 --> 01:14:18,355
+Hypertension was managed with phenoxybenzamine in all three.
+
+516
+01:14:18,355 --> 01:14:27,855
+Two newborns were healthy, but a third was stillborn in a mother with a massive tumor burden who was receiving phenoxybenzamine, 100 mg daily.
+
+517
+01:14:27,855 --> 01:14:31,892
+In all three women, the tumor was resected postpartum.
+
+518
+01:14:31,892 --> 01:14:34,380
+# Cushing Syndrome.
+
+519
+01:14:34,380 --> 01:14:39,055
+This syndrome is rare and the female:male ratio is 3:1 .
+
+520
+01:14:39,055 --> 01:14:45,017
+Most cases of Cushing syndrome are iatrogenic from long-term corticosteroid treatment.
+
+521
+01:14:45,017 --> 01:14:53,755
+Excessive glucocorticoids can also be the result of a pituitary adenoma, adrenal tumor, or bilateral adrenal hyperplasia .
+
+522
+01:14:53,755 --> 01:15:01,667
+Cushing disease refers to bilateral adrenal hyperplasia stimulated by corticotropin-producing pituitary adenomas.
+
+523
+01:15:01,667 --> 01:15:07,092
+Corticotropin is also called adrenocorticotropic hormone (ACTH).
+
+524
+01:15:07,092 --> 01:15:21,655
+Most adenomas are microadenomas measuring <1 cm, and half measure <5 mm. Rarely, abnormal secretion of hypothalamic corticotropin-releasing factor may cause corticotropic hyperplasia.
+
+525
+01:15:21,655 --> 01:15:31,492
+Such hyperplasia may also be caused by nonendocrine tumors that produce polypeptides similar to either corticotropin-releasing factor or corticotropin.
+
+526
+01:15:31,492 --> 01:15:39,705
+Less than a fourth of cases of Cushing syndrome are corticotropin independent, and most of these are caused by an adrenal adenoma .
+
+527
+01:15:39,705 --> 01:15:43,680
+Tumors are usually bilateral, and half are malignant.
+
+528
+01:15:43,680 --> 01:15:49,242
+Occasionally, associated androgen excess may lead to severe virilization.
+
+529
+01:15:49,242 --> 01:15:58,380
+The typical cushingoid body habitus is caused by adipose tissue deposition creating moon facies, a buffalo hump, and truncal obesity.
+
+530
+01:15:58,380 --> 01:16:11,805
+Fatigability and weakness, hypertension, hirsutism, and amenorrhea are each encountered in 75 to 85 percent of nonpregnant patients (Hatipoglu, 2012; Melmed, 2020).
+
+531
+01:16:11,805 --> 01:16:17,030
+Personality changes, easy bruising, and cutaneous striae are common.
+
+532
+01:16:17,030 --> 01:16:21,180
+Up to 60 percent may have impaired glucose tolerance.
+
+533
+01:16:21,180 --> 01:16:37,892
+Diagnosis can be difficult and is suggested by elevated plasma cortisol levels that cannot be suppressed by dexamethasone or by elevated 24-hour urinary free cortisol excretion in three collections (Arit, 2018; Loriaux, 2017).
+
+534
+01:16:37,892 --> 01:16:44,117
+Neither test is totally accurate, and each is more difficult to interpret in obese patients.
+
+535
+01:16:44,117 --> 01:16:52,705
+Serum corticotropin levels and CT and MR imaging are used to localize pituitary and adrenal tumors or hyperplasia.
+
+536
+01:16:52,705 --> 01:17:03,167
+In pregnancy, diagnosis can be difficult because of pregnancy-induced increases in plasma cortisol, corticotropin, and corticotropin-releasing factor levels.
+
+537
+01:17:03,167 --> 01:17:09,767
+Measurement of urinary free cortisol excretion in a 24-hour collection sample is recommended.
+
+538
+01:17:09,767 --> 01:17:15,467
+With interpretation of results, the normal elevation seen in pregnancy is factored.
+
+539
+01:17:15,467 --> 01:17:24,717
+Because most women have corticotropindependent Cushing syndrome, associated androgen excess may cause anovulation, and pregnancy is rare.
+
+540
+01:17:24,717 --> 01:17:35,030
+Caimari and coworkers (2017) identified 263 pregnancies in 220 women with Cushing syndrome in their systematic review.
+
+541
+01:17:35,030 --> 01:17:48,705
+These differ compared with nonpregnant women in that more than half are caused by corticotropin-independent adrenal adenomas (Kamoun, 2014; Lacroix, 2015; Machado, 2018).
+
+542
+01:17:48,705 --> 01:17:56,242
+Approximately 30 percent of cases are from a pituitary adenoma, and 10 percent from adrenal carcinomas.
+
+543
+01:17:56,242 --> 01:18:05,905
+Pregnancy outcomes reviewed by Caimari and associates (2017) in women with Cushing syndrome are listed in Table 61-6.
+
+544
+01:18:05,905 --> 01:18:08,617
+Table 61-6.
+
+545
+01:18:08,617 --> 01:18:28,817
+Complications in Pregnancies of Women with Active and Cured Cushing Syndrome Long-term medical therapy for Cushing syndrome usually is ineffective, and definitive therapy is resection of the pituitary or adrenal adenoma or bilateral adrenalectomy for hyperplasia (Lacroix, 2015; Machado, 2018).
+
+546
+01:18:28,817 --> 01:18:32,430
+During pregnancy, management of hypertension
+
+547
+01:18:32,596 --> 01:18:36,083
+in mild cases may suffice until delivery.
+
+548
+01:18:36,033 --> 01:18:44,646
+In their review, Lindsay and associates (2005) described primary medical therapy in 20 women with Cushing syndrome.
+
+549
+01:18:44,646 --> 01:18:51,658
+Most were successfully treated with metyrapone as an interim treatment until definitive surgery after delivery.
+
+550
+01:18:51,658 --> 01:18:55,296
+A few cases were treated with oral ketoconazole.
+
+551
+01:18:55,296 --> 01:19:03,546
+However, because this drug also blocks testicular steroidogenesis, treatment during pregnancy with a male fetus is worrisome.
+
+552
+01:19:03,546 --> 01:19:14,633
+Mifepristone, the norethindrone derivative used for abortion and labor induction, has shown promise for treating Cushing disease but should not be used in pregnancy for obvious reasons.
+
+553
+01:19:14,633 --> 01:19:27,058
+Transsphenoidal resection of a pituitary mass or laparoscopic adrenalectomy are considered first-line treatment options in the second trimester (Brue, 2018; Manoharan, 2020).
+
+554
+01:19:27,058 --> 01:19:34,033
+Unilateral adrenalectomy has been safely performed in the early third trimester and can also be curative .
+
+555
+01:19:34,033 --> 01:19:38,096
+# Adrenal Insufficiency—Addison Disease.
+
+556
+01:19:38,096 --> 01:19:46,958
+Primary adrenocortical insufficiency is rare because more than 90 percent of total gland volume must be destroyed for symptoms to develop.
+
+557
+01:19:46,958 --> 01:20:01,721
+Autoimmune adrenalitis is the most common cause in the developed world, but tuberculosis is a more frequent etiology in resource-poor countries (Arit, 2018; Betterle, 2019; Kamoun, 2014).
+
+558
+01:20:01,721 --> 01:20:09,433
+In the United States, the prevalence in 7.7 million births was 1 case per 10,000 to 20,000 .
+
+559
+01:20:09,433 --> 01:20:19,271
+There is an increased incidence of concurrent Hashimoto thyroiditis, primary ovarian insufficiency, type 1 diabetes, and Graves disease.
+
+560
+01:20:19,271 --> 01:20:29,346
+These polyglandular autoimmune syndromes also include pernicious anemia, vitiligo, alopecia, nontropical sprue, and myasthenia gravis.
+
+561
+01:20:29,346 --> 01:20:37,271
+Untreated adrenal hypofunction frequently causes infertility, but with replacement therapy, ovulation is restored.
+
+562
+01:20:37,271 --> 01:20:43,046
+If untreated, women often note weakness, nausea, vomiting, and weight loss.
+
+563
+01:20:43,046 --> 01:20:49,896
+Low levels of plasma cortisol and elevated ACTH levels are generally considered diagnostic .
+
+564
+01:20:49,896 --> 01:21:03,296
+Because serum cortisol levels rise during pregnancy, a short ACTHstimulation test documenting less than a twofold increase in plasma cortisol in response to infused corticotropin confirms the diagnosis .
+
+565
+01:21:03,296 --> 01:21:17,033
+In a large cohort study, 1188 women with Addison disease were compared with more than 11,000 age-matched controls who delivered between 1973 and 2006 (Björnsdottir, 2010).
+
+566
+01:21:17,033 --> 01:21:29,033
+Women diagnosed with adrenal insufficiency within 3 years of delivery were significantly more likely to deliver preterm, to deliver a low-birthweight newborn, and to undergo cesarean delivery.
+
+567
+01:21:29,033 --> 01:21:32,446
+Others have reported similar adverse outcomes .
+
+568
+01:21:32,446 --> 01:21:39,933
+Most pregnant women with Addison disease are already taking glucocorticoid and mineralocorticoid replacement drugs.
+
+569
+01:21:39,933 --> 01:21:47,446
+These should be continued, and women are observed for evidence of either inadequate or excessive corticosteroid replacement.
+
+570
+01:21:47,446 --> 01:21:56,371
+A 20- to 40-percent dose increase is usually expected after midpregnancy to mimic the physiological cortisol elevation in pregnancy .
+
+571
+01:21:56,371 --> 01:22:07,608
+During labor, delivery, and postpartum, or after a surgical procedure, corticosteroid replacement must be increased appreciably to approximate the normal adrenal response.
+
+572
+01:22:07,608 --> 01:22:17,321
+This augmented dose is called a stress dose, and one option is hydrocortisone, 100 mg, given IV every 8 hours for 48 hours.
+
+573
+01:22:17,321 --> 01:22:27,408
+Importantly, shock from causes other than adrenocortical insufficiency—for example, hemorrhage or sepsis—must be recognized and treated promptly.
+
+574
+01:22:27,408 --> 01:22:30,546
+# Primary Aldosteronism.
+
+575
+01:22:30,546 --> 01:22:38,646
+Hyperaldosteronism is caused by an adrenal adenoma—Conn syndrome—in approximately 75 percent of cases.
+
+576
+01:22:38,646 --> 01:22:49,883
+Idiopathic bilateral adrenal hyperplasia makes up the remainder, except for rare cases of adrenal carcinoma (Eschler, 2015; Yang, 2020).
+
+577
+01:22:49,883 --> 01:22:54,846
+Findings include hypertension, hypokalemia, and muscle weakness.
+
+578
+01:22:54,846 --> 01:22:59,646
+High serum or urine levels of aldosterone confirm the diagnosis.
+
+579
+01:22:59,646 --> 01:23:12,883
+In normal pregnancy, as discussed in Chapter 4 (p. 74), progesterone blocks aldosterone action, and this results in very high aldosterone levels (Appendix, p. 1230).
+
+580
+01:23:12,883 --> 01:23:18,571
+Accordingly, the diagnosis of hyperaldosteronism during pregnancy can be difficult.
+
+581
+01:23:18,571 --> 01:23:22,446
+Because renin levels are suppressed in pregnant women with
+
+582
+01:23:22,612 --> 01:23:29,649
+hyperaldosteronism, a plasma aldosterone-to-renin activity ratio may be helpful for diagnosis .
+
+583
+01:23:29,599 --> 01:23:38,562
+Hypertension worsens as pregnancy progresses, and medical management includes potassium supplementation and antihypertensive therapy.
+
+584
+01:23:38,562 --> 01:23:43,087
+In many cases, hypertension responds to spironolactone.
+
+585
+01:23:43,087 --> 01:23:52,537
+However, β-blocking or calcium channel–blocking drugs may be preferred because of the potential fetal antiandrogenic effects of spironolactone.
+
+586
+01:23:52,537 --> 01:23:59,399
+Mascetti and coworkers (2011) reported successful use of amiloride in a pregnant woman.
+
+587
+01:23:59,399 --> 01:24:05,687
+Use of eplerenone, a selective aldosterone-receptor antagonist, also has been described .
+
+588
+01:24:05,687 --> 01:24:18,674
+Laparoscopic tumor resection is considered curative, but the optimal management during pregnancy, either surgical or medical, remains unclear (Eschler, 2015; Morton, 2015).
+
+589
+01:24:18,674 --> 01:24:20,999
+Pituitary Disorders.
+
+590
+01:24:20,999 --> 01:24:23,612
+# Prolactinomas.
+
+591
+01:24:23,612 --> 01:24:32,299
+The pituitary enlarges impressively during pregnancy, predominantly from lactotrophic cellular hyperplasia induced by estrogen .
+
+592
+01:24:32,299 --> 01:24:36,749
+Several pituitary disorders also can complicate pregnancy.
+
+593
+01:24:36,749 --> 01:24:44,037
+Of these, prolactinomas are tumors that constitute 75 percent of pituitary adenomas in women .
+
+594
+01:24:44,037 --> 01:24:50,574
+They are often found in nonpregnant women since the advent of widely available serum prolactin assays.
+
+595
+01:24:50,574 --> 01:24:56,974
+Serum levels <25 pg/mL are considered normal in nonpregnant women.
+
+596
+01:24:56,974 --> 01:25:03,549
+Adenoma symptoms and findings include amenorrhea, galactorrhea, and hyperprolactinemia.
+
+597
+01:25:03,549 --> 01:25:09,462
+Tumors are classified arbitrarily by their size measured by CT or MR imaging.
+
+598
+01:25:09,462 --> 01:25:26,124
+A microadenoma is ≤10 mm, and a macroadenoma is >10 mm. Treatment for microadenomas is usually with bromocriptine, a dopamine agonist and powerful prolactin inhibitor, which frequently restores ovulation.
+
+599
+01:25:26,124 --> 01:25:36,787
+For suprasellar macroadenomas, most recommend surgical resection before pregnancy is attempted (Araujo, 2015; Melmed, 2020).
+
+600
+01:25:36,787 --> 01:25:48,174
+In a pooled analysis of more than 750 pregnant women with prolactinomas, only 2.4 percent with microadenomas developed symptomatic enlargement during pregnancy .
+
+601
+01:25:48,174 --> 01:25:57,249
+Symptomatic enlargement of macroadenomas, however, is more frequent and was found in 21 percent of 238 pregnant women.
+
+602
+01:25:57,249 --> 01:26:04,912
+In another study of 46 women with a macroprolactinoma, 20 percent had tumor growth–related symptoms .
+
+603
+01:26:04,912 --> 01:26:11,012
+Nonfunctioning adenomas can also cause symptoms of pituitary expansion in pregnancy .
+
+604
+01:26:11,012 --> 01:26:17,237
+Pregnant women with microadenomas should be queried regularly for headaches and visual symptoms.
+
+605
+01:26:17,237 --> 01:26:23,574
+Those with macroadenomas are followed more closely and have visual field testing each trimester.
+
+606
+01:26:23,574 --> 01:26:28,474
+CT or MR imaging is recommended only if symptoms develop .
+
+607
+01:26:28,474 --> 01:26:36,749
+Serial serum prolactin levels serve little use because of normal rises during pregnancy (Appendix, p. 1231).
+
+608
+01:26:36,749 --> 01:26:42,324
+Symptomatic tumor enlargement should be treated immediately with a dopamine antagonist.
+
+609
+01:26:42,324 --> 01:26:46,712
+The safety of bromocriptine in pregnancy is well established.
+
+610
+01:26:46,712 --> 01:26:50,612
+The safety profile is less well known for cabergoline.
+
+611
+01:26:50,612 --> 01:26:56,912
+This drug is increasingly used in nonpregnant women because it is better tolerated and more effective.
+
+612
+01:26:56,912 --> 01:27:04,962
+Cabergoline is generally considered safe for use in pregnancy (Huang, 2019; O’Sullivan, 2020).
+
+613
+01:27:04,962 --> 01:27:11,612
+Surgery is recommended for women with no response, including those with pituitary apoplexy .
+
+614
+01:27:11,612 --> 01:27:14,387
+Figure 61-6.
+
+615
+01:27:14,387 --> 01:27:18,574
+Magnetic resonance imaging of a pituitary adenoma.
+
+616
+01:27:18,574 --> 01:27:26,037
+This sagittal T1-weighed image demonstrates a fluid-fluid level, consistent with intratumoral hemorrhage (arrow).
+
+617
+01:27:26,037 --> 01:27:29,774
+Reproduced with permission from Dr. Toral Patel.
+
+618
+01:27:29,774 --> 01:27:32,137
+# Acromegaly.
+
+619
+01:27:32,137 --> 01:27:39,662
+This is caused by excessive growth hormone, usually from an acidophilic or a chromophobic pituitary adenoma.
+
+620
+01:27:39,662 --> 01:27:46,324
+In normal pregnancy, pituitary growth hormone levels decline as placental epitopes are secreted.
+
+621
+01:27:46,324 --> 01:27:53,399
+Diagnosis is suggested by elevated insulin growth factor 1 (IGF-1) serum levels.
+
+622
+01:27:53,399 --> 01:28:05,862
+Levels are more indicative in the first half of pregnancy because IGF-1 concentrations rise in normal pregnancy after midpregnancy (Abucham, 2017; Melmed, 2020).
+
+623
+01:28:05,862 --> 01:28:10,537
+Definitive diagnosis may best be postponed until after delivery.
+
+624
+01:28:10,537 --> 01:28:19,612
+Fewer than 100 cases of acromegaly have been reported during pregnancy (Cheng, 2012; Dias, 2013).
+
+625
+01:28:19,612 --> 01:28:25,999
+Pregnancy is rare in women with acromegaly because half are hyperprolactinemic and anovulatory.
+
+626
+01:28:25,999 --> 01:28:28,949
+During pregnancy, affected women
+
+627
+01:28:29,116 --> 01:28:37,878
+are at marginally greater risk for gestational diabetes and hypertension (Dias, 2013; Jallad, 2018).
+
+628
+01:28:37,828 --> 01:28:44,691
+Management is similar to that for prolactinomas, and women are monitored for symptoms of tumor enlargement.
+
+629
+01:28:44,691 --> 01:28:49,466
+Dopamine agonist therapy is less effective than for prolactinomas.
+
+630
+01:28:49,466 --> 01:28:59,503
+Transsphenoidal resection, generally considered first-line treatment outside of pregnancy, may be necessary for symptomatic tumor enlargement during pregnancy .
+
+631
+01:28:59,503 --> 01:29:11,978
+Guven and associates (2006) reported a case of pituitary apoplexy necessitating emergent transsphenoidal adenoma resection and cesarean delivery at 34 weeks’ gestation.
+
+632
+01:29:11,978 --> 01:29:25,028
+Successful treatment of pregnant women with the somatostatin-receptor ligand octreotide and with the growth hormone analogue pegvisomant has been reported (Dias, 2013; Fleseriu, 2015).
+
+633
+01:29:25,028 --> 01:29:27,966
+# Diabetes Insipidus.
+
+634
+01:29:27,966 --> 01:29:36,928
+Vasopressin deficiency evident in diabetes insipidus (DI) is most commonly due to neurohypophysis agenesis or destruction.
+
+635
+01:29:36,928 --> 01:29:40,278
+True DI rarely complicates pregnancy.
+
+636
+01:29:40,278 --> 01:29:49,178
+Instead, other types of DI encountered during pregnancy include primary polydipsia, gestational DI, and nephrogenic DI.
+
+637
+01:29:49,178 --> 01:29:57,078
+These show suppressed secretion of, increased degradation of, and renal insensitivity to vasopressin, respectively .
+
+638
+01:29:57,078 --> 01:30:04,528
+In our experiences, transient secondary DI is more likely encountered with acute fatty liver of pregnancy .
+
+639
+01:30:04,528 --> 01:30:10,166
+This probably stems from altered vasopressinase clearance because of hepatic dysfunction .
+
+640
+01:30:10,166 --> 01:30:20,628
+DI therapy is intranasal administration of a synthetic analogue of vasopressin, desmopressin, which is 1-deamino-8-D-arginine vasopressin (DDAVP).
+
+641
+01:30:20,628 --> 01:30:25,391
+Available data on the safety of DDAVP during pregnancy is reassuring .
+
+642
+01:30:25,391 --> 01:30:34,066
+Most women require higher doses during pregnancy because of an increased metabolic clearance rate stimulated by placental vasopressinase .
+
+643
+01:30:34,066 --> 01:30:42,128
+The prevalence of placental vasopressinase-induced DI is estimated at 2 to 4 cases per 100,000 pregnancies .
+
+644
+01:30:42,128 --> 01:30:44,553
+# Sheehan Syndrome.
+
+645
+01:30:44,553 --> 01:30:54,203
+Sheehan (1937) reported that pituitary ischemia and necrosis associated with obstetrical blood loss could result in hypopituitarism.
+
+646
+01:30:54,203 --> 01:31:04,828
+With modern methods of hemorrhagic shock treatment, Sheehan syndrome rates have gradually declined (Matsuzaki, 2017; Pappachan, 2015).
+
+647
+01:31:04,828 --> 01:31:12,153
+Affected women may have persistent hypotension, tachycardia, hypoglycemia, and lactation failure.
+
+648
+01:31:12,153 --> 01:31:23,166
+Because deficiencies of some or all pituitary-responsive hormones may develop after the initial insult, Sheehan syndrome can be heterogenous and may not be identified for years .
+
+649
+01:31:23,166 --> 01:31:30,341
+In one cohort study of 60 women with Sheehan syndrome, the average time to diagnosis was 13 years .
+
+650
+01:31:30,341 --> 01:31:37,728
+Because adrenal insufficiency is the most lifethreatening complication, adrenal function should be immediately assessed.
+
+651
+01:31:37,728 --> 01:31:46,316
+After glucocorticoid replacement, subsequent analyses and replacement of thyroid, gonadal, and growth hormones is considered.
+
+652
+01:31:46,316 --> 01:31:50,816
+Women with Sheehan syndrome who become pregnant likely have a livebirth .
+
+653
+01:31:50,816 --> 01:31:54,003
+# Lymphocytic Hypophysitis.
+
+654
+01:31:54,003 --> 01:32:03,753
+This rare autoimmune pituitary disorder is characterized by massive infiltration by lymphocytes and plasma cells with parenchymal destruction of the gland.
+
+655
+01:32:03,753 --> 01:32:12,691
+Many cases are temporally linked to pregnancy, and more than half of reported cases in women are identified during pregnancy or puerperium .
+
+656
+01:32:12,691 --> 01:32:18,316
+However, more recent reports describe fewer cases associated with pregnancy .
+
+657
+01:32:18,316 --> 01:32:26,066
+The degrees of hypopituitarism or mass effect symptoms, including headaches and visual field defects, vary.
+
+658
+01:32:26,066 --> 01:32:29,966
+A sellar mass is seen with CT or MR imaging.
+
+659
+01:32:29,966 --> 01:32:40,316
+A mass accompanied by a modestly elevated serum prolactin level—usually <100 pg/mL—suggests lymphocytic hypophysitis.
+
+660
+01:32:40,316 --> 01:32:46,941
+In contrast, levels >200 pg/mL are encountered with prolactinoma.
+
+661
+01:32:46,941 --> 01:33:00,166
+The etiology is unknown, but nearly 30 percent have a history of coexisting autoimmune diseases including Hashimoto thyroiditis, Addison disease, type 1 diabetes, or pernicious anemia .
+
+662
+01:33:00,166 --> 01:33:04,941
+Treatment is with glucocorticoids and pituitary hormone replacement.
+
+663
+01:33:04,941 --> 01:33:16,066
+The disease may be self-limited, and a careful withdrawal of hormone replacement is attempted after inflammation subsides (Foyouzi, 2011; Melmed, 2020).
+
+664
+01:33:16,066 --> 01:33:20,503
+More than two thirds of women who require treatment for lymphocytic
+
+665
+01:33:20,668 --> 01:33:25,830
+hypophysitis, however, will require long-term hormone replacement .
+

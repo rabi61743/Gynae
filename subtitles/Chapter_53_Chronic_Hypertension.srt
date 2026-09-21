@@ -1,0 +1,1448 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,712
+Chapter 53: Chronic Hypertension.
+
+3
+00:00:05,712 --> 00:00:26,612
+General Considerations Pregnancy Considerations Diagnosis And Evaluation Adverse Pregnancy Effects Antihypertensive Drugs Antihypertensive Treatment In Pregnancy Superimposed Preeclampsia Fetal Assessment Delivery Timing Postpartum Care References In reproductive-aged women, the prevalence of hypertension approximates 6 percent .
+
+4
+00:00:26,612 --> 00:00:34,712
+Thus, not surprisingly, chronic hypertension is one of the most common serious complications encountered during pregnancy.
+
+5
+00:00:34,712 --> 00:00:40,862
+In one study of more than 56 million births, the incidence was 1.8 percent .
+
+6
+00:00:40,862 --> 00:00:48,237
+Chronic hypertension complicated 2.3 percent of pregnancies in data from the Medicaid Analytic Extract .
+
+7
+00:00:48,237 --> 00:00:55,562
+Despite an increasing prevalence from 1970 to 2010, optimal management has not been well studied .
+
+8
+00:00:55,562 --> 00:00:59,925
+Chronic hypertension usually improves during early pregnancy.
+
+9
+00:00:59,925 --> 00:01:07,150
+This is followed by variable behavior later in pregnancy and may include development of superimposed preeclampsia.
+
+10
+00:01:07,150 --> 00:01:13,087
+The latter carries significant risks for maternal and perinatal morbidity and mortality.
+
+11
+00:01:13,087 --> 00:01:15,450
+General Considerations.
+
+12
+00:01:15,450 --> 00:01:21,150
+Blood pressure is a polygenic biological variant that differs between populations.
+
+13
+00:01:21,150 --> 00:01:27,162
+Numerous epigenetic factors also influence penetrance differences between individuals.
+
+14
+00:01:27,162 --> 00:01:34,075
+Moreover, clinical features such as increasing age and weight correlate positively with rising pressures.
+
+15
+00:01:34,075 --> 00:01:39,287
+Last, resting blood pressure measurements do not reflect daily activities.
+
+16
+00:01:39,287 --> 00:01:46,462
+Therefore, adults have a broad range of normal blood pressure values, which makes defining hypertension difficult.
+
+17
+00:01:46,462 --> 00:01:49,700
+# Definition and Classification.
+
+18
+00:01:49,700 --> 00:01:58,762
+Chronic hypertension would logically be defined as some level of sustained resting blood pressure that is associated with acute or long-term adverse effects.
+
+19
+00:01:58,762 --> 00:02:04,362
+Most consider 140/90 mm Hg as the upper limit of normal.
+
+20
+00:02:04,362 --> 00:02:13,325
+In the United States, these values were derived primarily from life insurance actuarial tables constructed using data from white adult males.
+
+21
+00:02:13,325 --> 00:02:18,312
+These “norms” disregard ethnicity, gender, and other covariants.
+
+22
+00:02:18,312 --> 00:02:36,387
+The importance of race is emphasized by Kotchen (2018), who cites the incidence of hypertension—defined as blood pressure >140/90 mm Hg—to be 34 percent in blacks, 29 percent in whites, and 21 percent in Mexican Americans.
+
+23
+00:02:36,387 --> 00:02:45,387
+For many years, the Joint National Committee promulgated guidelines for diagnosis, classification, and management of chronic hypertension.
+
+24
+00:02:45,387 --> 00:02:55,137
+Recently, a coalition led by the American College of Cardiology and the American Heart Association published criteria for the diagnosis of hypertension .
+
+25
+00:02:55,137 --> 00:02:57,687
+Table 53-1.
+
+26
+00:02:57,687 --> 00:03:04,125
+Criteria for Diagnosis of Hypertension # Treatment and Benefits for Nonpregnant Adults.
+
+27
+00:03:04,125 --> 00:03:09,350
+Chronic hypertension accounts for nearly 15 percent of deaths worldwide .
+
+28
+00:03:09,350 --> 00:03:23,075
+Long term, hypertension raises substantively the risk of cardiovascular disease, coronary heart disease, congestive heart failure, stroke, renal failure, peripheral arterial disease, and mortality.
+
+29
+00:03:23,075 --> 00:03:28,850
+These risks decline with treatment of otherwise normal adults who have sustained hypertension.
+
+30
+00:03:28,850 --> 00:03:40,887
+Based on these benefits, current guidelines recommend antihypertensive therapy for stage 1 hypertension in nonpregnant adults with risk factors for current or future cardiovascular disease.
+
+31
+00:03:40,887 --> 00:04:03,625
+However, given the different diagnostic criteria in pregnancy , the best management for women being treated and contemplating pregnancy, for those undergoing treatment who become pregnant, or for those first identified to have chronic hypertension during pregnancy is unknown (American College of Obstetricians and Gynecologists, 2018a; August, 2015).
+
+32
+00:04:03,625 --> 00:04:11,787
+In these women, the benefits and safety of instituting antihypertensive therapy are less clear, as subsequently discussed.
+
+33
+00:04:11,787 --> 00:04:14,800
+# Preconceptional Counseling.
+
+34
+00:04:14,800 --> 00:04:20,112
+Women with chronic hypertension ideally undergo counseling before pregnancy .
+
+35
+00:04:20,112 --> 00:04:27,087
+Initial questions ascertain hypertension duration, degree of blood pressure control, and current therapy.
+
+36
+00:04:27,087 --> 00:04:30,675
+Home measurement devices are checked for accuracy.
+
+37
+00:04:30,675 --> 00:04:36,137
+General health, daily activities, and dietary habits also are assessed .
+
+38
+00:04:36,137 --> 00:04:42,112
+Women who require multiple medications for control or who have poorly controlled pressures carry
+
+39
+00:04:42,268 --> 00:04:45,718
+greater risk for adverse pregnancy outcomes.
+
+40
+00:04:45,668 --> 00:04:55,555
+Patient counseling should disclose maternal and fetal risks, which are detailed in later sections (pp. 946 and 948).
+
+41
+00:04:55,555 --> 00:04:58,093
+Table 53-2.
+
+42
+00:04:58,093 --> 00:05:13,618
+Lifestyle Modifications for Hypertensive Patients For hypertensive women with disease exceeding 5 years or with comorbid diabetes, cardiovascular and renal function are assessed (August, 2015; Chahine, 2019).
+
+43
+00:05:13,618 --> 00:05:21,530
+Renal function is evaluated by serum creatinine measurement and urine spot protein/creatinine ratio measurement.
+
+44
+00:05:21,530 --> 00:05:34,505
+If the ratio is abnormally high (>0.3), proteinuria can be further quantified with a 24hour urine collection (Kuper, 2016; Morgan, 2016a).
+
+45
+00:05:34,505 --> 00:05:49,218
+Women with evidence of organ dysfunction or those with prior adverse events such as a stroke, myocardial infarction, arrhythmias, or ventricular failure carry markedly higher risks for a recurrence or worsening dysfunction during pregnancy.
+
+46
+00:05:49,218 --> 00:05:59,705
+Specific preconceptional guidance for these conditions is found in Chapters 63 (p. 1132) and 52 (p. 918), respectively.
+
+47
+00:05:59,705 --> 00:06:07,093
+Although poorly controlled hypertension is considered a contraindication for pregnancy by some, there is no consensus.
+
+48
+00:06:07,093 --> 00:06:36,255
+Women who maintain persistent systolic pressures ≥160 mm Hg or diastolic pressures ≥110 mm Hg despite therapy; require multiple antihypertensive agents; have a serum creatinine level >2 mg/dL; or have a history of prior stroke, myocardial infarction, or cardiac failure must be counseled regarding the marked risks to themselves and to their fetus.
+
+49
+00:06:36,255 --> 00:06:39,243
+These are described in the next sections.
+
+50
+00:06:39,243 --> 00:06:41,780
+Pregnancy Considerations.
+
+51
+00:06:41,780 --> 00:06:45,118
+# Diagnosis and Evaluation.
+
+52
+00:06:45,118 --> 00:06:52,230
+Chronic hypertension is diagnosed if it precedes pregnancy or if it is identified before 20 weeks’ gestation.
+
+53
+00:06:52,230 --> 00:06:59,218
+Prior to this gestational age, preeclampsia is rarely seen (Chap 40, p. 690).
+
+54
+00:06:59,218 --> 00:07:16,493
+The American College of Obstetricians and Gynecologists (2018a, 2020) defines hypertension as a systolic pressure ≥140 mm Hg or a diastolic pressure ≥90 mm Hg .
+
+55
+00:07:16,493 --> 00:07:23,218
+In suspected cases of “white-coat” hypertension, serial ambulatory monitoring can be considered.
+
+56
+00:07:23,218 --> 00:07:34,155
+In some women without overt chronic hypertension, a history of repeated pregnancies complicated by gestational hypertension, with or without preeclampsia, may be elicited.
+
+57
+00:07:34,155 --> 00:07:38,068
+Either is a risk factor for latent chronic hypertension.
+
+58
+00:07:38,068 --> 00:07:46,718
+This is especially true for prior preeclampsia and particularly for early-onset preeclampsia (van Eerden, 2018).
+
+59
+00:07:46,718 --> 00:07:52,530
+In many ways, gestational hypertension is analogous to gestational diabetes.
+
+60
+00:07:52,530 --> 00:07:59,918
+Women with the former have a chronic hypertensive diathesis, in which heredity and epigenetics play a major role.
+
+61
+00:07:59,918 --> 00:08:06,543
+Although uncommon, secondary causes of hypertension are always a possibility in affected women.
+
+62
+00:08:06,543 --> 00:08:20,218
+Thus, chronic renal disease, obstructive sleep apnea, connective tissue disease, primary aldosteronism, Cushing syndrome, pheochromocytoma, and myriad other causes are considered during evaluation .
+
+63
+00:08:20,218 --> 00:08:27,055
+That said, most pregnant women with antecedent hypertension will have otherwise uncomplicated disease.
+
+64
+00:08:27,055 --> 00:08:32,930
+The hypertensive disorders that uniquely complicate pregnancy are discussed in Chapter 40.
+
+65
+00:08:32,930 --> 00:08:35,318
+# Risk Factors.
+
+66
+00:08:35,318 --> 00:08:40,930
+Several factors increase the likelihood that pregnant women will have chronic hypertension.
+
+67
+00:08:40,930 --> 00:08:46,543
+Three of those most frequently cited are ethnicity, obesity, and diabetes.
+
+68
+00:08:46,543 --> 00:08:50,968
+As previously noted, black women are more commonly affected.
+
+69
+00:08:50,968 --> 00:08:57,943
+Related to this, hundreds of blood pressure–related phenotypes and genomic regions have been identified .
+
+70
+00:08:57,943 --> 00:09:02,530
+Obesity may raise the prevalence of chronic hypertension tenfold .
+
+71
+00:09:02,530 --> 00:09:08,093
+In addition, obese women are more likely to develop superimposed preeclampsia .
+
+72
+00:09:08,093 --> 00:09:18,643
+The metabolic syndrome is a clinical cluster that includes hypertension, high blood sugar, excess fat at the waist, and abnormal cholesterol or triglyceride levels.
+
+73
+00:09:18,643 --> 00:09:25,680
+This constellation is a risk marker for superimposed preeclampsia and for persistent postpartum hypertension .
+
+74
+00:09:25,680 --> 00:09:33,918
+Diabetes is also prevalent in chronically hypertensive women, and its interplay with obesity and preeclampsia is prominent .
+
+75
+00:09:33,918 --> 00:09:44,693
+The most frequent comorbidities associated with chronic hypertension are pregestational diabetes—6.6 percent, thyroid disorders—4.1 percent,
+
+76
+00:09:44,860 --> 00:09:49,222
+and collagen vascular disease—0.6 percent .
+
+77
+00:09:49,172 --> 00:09:53,310
+# Physiological Effects of Chronic Hypertension.
+
+78
+00:09:53,310 --> 00:10:00,135
+Blood pressure decreases in the first trimester due to a 30-percent drop in systemic vascular resistance.
+
+79
+00:10:00,135 --> 00:10:07,422
+In most women with chronic hypertension, this decline is followed by a rise in blood pressure during the third trimester .
+
+80
+00:10:07,422 --> 00:10:16,035
+Women with chronic hypertension have persistently elevated vascular resistance and possibly reduced intravascular volume expansion .
+
+81
+00:10:16,035 --> 00:10:22,897
+Moreover, in women with superimposed preeclampsia, arterial mechanical properties are most marked .
+
+82
+00:10:22,897 --> 00:10:25,497
+Figure 53-1.
+
+83
+00:10:25,497 --> 00:10:39,635
+Mean systolic and diastolic blood pressures across pregnancy in 107 untreated chronically hypertensive women (yellow) compared with blood pressures across pregnancy in 4589 healthy nulliparas (blue).
+
+84
+00:10:39,635 --> 00:10:46,485
+Data from August, 2015; Levine, 1997; Sibai, 1990.
+
+85
+00:10:46,485 --> 00:10:48,997
+Adverse Pregnancy Effects.
+
+86
+00:10:48,997 --> 00:10:56,610
+Chronic hypertension is associated with adverse maternal and perinatal outcomes listed in Table 53-3.
+
+87
+00:10:56,610 --> 00:11:03,460
+Rates of these complications positively correlate with the severity and duration of prepregnancy hypertension.
+
+88
+00:11:03,460 --> 00:11:21,597
+Elevated blood pressure defined by criteria in Table 53-1 may herald adverse outcomes similar to those in women with chronic hypertension defined by criteria of the American College of Obstetricians and Gynecologists (Keene, 2019; Sutton, 2018).
+
+89
+00:11:21,597 --> 00:11:28,685
+Development of superimposed preeclampsia, particularly early-onset disease, is especially dangerous.
+
+90
+00:11:28,685 --> 00:11:31,247
+Table 53-3.
+
+91
+00:11:31,247 --> 00:11:39,035
+Some Adverse Effects of Chronic Hypertension on Maternal and Perinatal Outcomes # Maternal Morbidity and Mortality.
+
+92
+00:11:39,035 --> 00:11:45,760
+Most women with satisfactorily controlled hypertension and no end-organ damage will do well in pregnancy.
+
+93
+00:11:45,760 --> 00:12:02,185
+Complications are more likely with severe baseline hypertension and documented end-organ damage, especially ventricular hypertrophy and hypertensive glomerulosclerosis (Ambia, 2018, 2019; Morgan, 2016b).
+
+94
+00:12:02,185 --> 00:12:12,410
+Women with chronic hypertension have higher rates of stroke, pulmonary edema, and renal failure (Gilbert, 2007; Zofkie, 2018).
+
+95
+00:12:12,410 --> 00:12:17,797
+These observations were verified in the report from the Nationwide Patient Sample .
+
+96
+00:12:17,797 --> 00:12:38,722
+In this study, hypertension complications included pulmonary edema—1.5 per 1000, stroke—2.7 per 1000, mechanical ventilation—3.8 per 1000, acute kidney injury—5.9 per 1000, and maternal mortality—0.4 per 1000.
+
+97
+00:12:38,722 --> 00:12:44,647
+In another report, the maternal mortality rate was greater in women with severe hypertension .
+
+98
+00:12:44,647 --> 00:12:49,035
+Peripartum cardiomyopathy is another associated risk .
+
+99
+00:12:49,035 --> 00:12:53,872
+Dangerous blood pressure elevation can develop with chronic hypertension.
+
+100
+00:12:53,872 --> 00:13:09,460
+Systolic pressure ≥160 mm Hg or diastolic pressure ≥110 mm Hg will rapidly cause renal or cardiopulmonary dysfunction or cerebral hemorrhage .
+
+101
+00:13:09,460 --> 00:13:21,047
+In addition to hypertensive heart failure mentioned above, coronary artery and aortic dissection have been described (Faden, 2016; Weissman-Brenner, 2004).
+
+102
+00:13:21,047 --> 00:13:28,410
+With superimposed preeclampsia or eclampsia, the maternal prognosis is poor unless the pregnancy is ended .
+
+103
+00:13:28,410 --> 00:13:34,222
+Placental abruption is a common and serious complication (p. 946).
+
+104
+00:13:34,222 --> 00:13:39,672
+Chronic hypertension is associated with a fivefold higher risk for maternal death .
+
+105
+00:13:39,672 --> 00:13:54,085
+In the United States from 2011 to 2013, hypertensive disorders, including chronic hypertension and preeclampsia syndrome, accounted for 7.4 percent of 2009 pregnancy-related deaths .
+
+106
+00:13:54,085 --> 00:14:07,485
+Undoubtedly related were other causes of death such as cardiovascular conditions—15.5 percent, cerebrovascular accidents—6.6 percent, and cardiomyopathy—11 percent.
+
+107
+00:14:07,485 --> 00:14:14,847
+Moodley (2007) reported similar findings in 3406 maternal deaths from South Africa.
+
+108
+00:14:14,847 --> 00:14:18,135
+# Superimposed Preeclampsia.
+
+109
+00:14:18,135 --> 00:14:35,597
+The reported incidence of superimposed preeclampsia varies from 20 to 50 percent because it is not precisely defined (American College of Obstetricians and Gynecologists, 2018a, 2020; Bramham, 2016; Moussa, 2017).
+
+110
+00:14:35,597 --> 00:14:44,622
+In a Maternal-Fetal Medicine Units Network trial, superimposed preeclampsia was diagnosed in 25 percent of hypertensive gravidas .
+
+111
+00:14:44,622 --> 00:14:54,785
+August and colleagues (2015) hypothesize that this predilection may stem from similar genetic, biochemical, and metabolic abnormalities.
+
+112
+00:14:54,785 --> 00:15:00,072
+The risk for superimposed preeclampsia positively correlates with the severity
+
+113
+00:15:00,244 --> 00:15:09,069
+of baseline hypertension and the need for antihypertensive therapy (Ankumah, 2014; Morgan, 2016a).
+
+114
+00:15:09,019 --> 00:15:26,419
+Preliminary observations indicate that pregnant women with initial blood pressures ≥130/80 mm Hg early in pregnancy have excessive rates of preeclampsia (Greiner, 2020; Keene, 2019; Roman, 2020).
+
+115
+00:15:26,419 --> 00:15:33,806
+Moreover, compared with women who do not develop preeclampsia, these pressures nadir earlier in gestation .
+
+116
+00:15:33,806 --> 00:15:40,656
+The preeclampsia risk is even greater if end-organ damage, such as baseline proteinuria, is present.
+
+117
+00:15:40,656 --> 00:15:43,181
+Figure 53-2.
+
+118
+00:15:43,181 --> 00:15:50,144
+Blood pressure trends in treated, chronically hypertensive women with and without superimposed preeclampsia.
+
+119
+00:15:50,144 --> 00:16:02,769
+Mean maternal pressures (MAPs) at entry (p = 0.002) and throughout gestation (p <0.001) are significantly different for each group.
+
+120
+00:16:02,769 --> 00:16:27,381
+MAP nadir at 23.3 weeks (95% CI, 22.5–24.1) for superimposed preeclampsia versus 26.4 weeks (95% CI, 22.5–27.6) for those without preeclampsia is significant (3.1 weeks, 95% CI, 2.3–4.3).
+
+121
+00:16:27,381 --> 00:16:38,819
+Prediction Thus far, individual predictive tests for superimposed preeclampsia have been disappointing (Conde-Agudelo, 2015; Correa, 2016).
+
+122
+00:16:38,819 --> 00:16:44,006
+First-trimester serum markers used for aneuploidy screening are one group .
+
+123
+00:16:44,006 --> 00:16:56,356
+Of these, inhibin A levels are reduced in patients destined to develop preeclampsia, but its low sensitivity makes it clinically unuseful (Sibai, 2008; Zeeman, 2003).
+
+124
+00:16:56,356 --> 00:17:07,919
+Similarly, maternal serum pregnancy-associated plasma protein-A (PAPP-A) levels are decreased in the first trimester of pregnancies that are later complicated by preeclampsia .
+
+125
+00:17:07,919 --> 00:17:27,756
+Of angiogenic and antiangiogenic factors, low plasma levels of placental growth factor (PlGF) and high levels of soluble fms-like tyrosine kinase-1 (sFlt-1) have been associated with superimposed preeclampsia development (Binder 2020; Nzelu, 2020).
+
+126
+00:17:27,756 --> 00:17:37,481
+Last, the umbilical artery pulsatility index appears to be elevated in the first trimester of these pregnancies (O’Gorman, 2016).
+
+127
+00:17:37,481 --> 00:17:46,906
+Combining all these factors may be useful in predicting superimposed preeclampsia (O’Gorman, 2016; Stepan, 2020).
+
+128
+00:17:46,906 --> 00:17:55,256
+Prevention Trials using various medications to prevent preeclampsia in women with chronic hypertension show little or no benefit.
+
+129
+00:17:55,256 --> 00:18:03,156
+Low-dose aspirin has been evaluated most frequently (Mol, 2016; Staff, 2015).
+
+130
+00:18:03,156 --> 00:18:14,656
+The U.S. Preventive Services Task Force concluded with “moderate certainty” that treatment with low-dose aspirin for chronically hypertensive women at high risk for preeclampsia is beneficial .
+
+131
+00:18:14,656 --> 00:18:29,819
+The American College of Obstetricians and Gynecologists (2018a) subsequently recommended initiating 81 mg between 12 and 28 weeks’ gestation and continuing therapy until delivery for these at-risk gravidas.
+
+132
+00:18:29,819 --> 00:18:33,994
+Antioxidants to prevent preeclampsia have been studied.
+
+133
+00:18:33,994 --> 00:18:44,494
+Spinnato and coworkers (2007) randomly assigned 311 women with chronic hypertension to treatment with vitamins C and E or with a placebo.
+
+134
+00:18:44,494 --> 00:18:51,494
+A similar number in both groups developed preeclampsia—17 versus 20 percent, respectively.
+
+135
+00:18:51,494 --> 00:18:58,756
+Placental Abruption Chronic hypertension increases the risk two- to threefold for premature placental separation.
+
+136
+00:18:58,756 --> 00:19:04,181
+This event’s harms are detailed in Chapter 43 (p. 753).
+
+137
+00:19:04,181 --> 00:19:22,444
+The general obstetrical population risk is 1 abruption in 200 to 300 pregnancies, and in women with chronic hypertension, this rises to 1 in 60 to 120 pregnancies (Ankumah, 2014; Cruz, 2011; Magee, 2015).
+
+138
+00:19:22,444 --> 00:19:28,369
+Most abruptions affect women with worsening hypertension or superimposed preeclampsia.
+
+139
+00:19:28,369 --> 00:19:36,406
+Vigil-De Gracia and associates (2004) reported an 8.4percent risk in women with severe hypertension.
+
+140
+00:19:36,406 --> 00:19:39,919
+# Perinatal Morbidity and Mortality.
+
+141
+00:19:39,919 --> 00:19:47,669
+Rates of almost all adverse perinatal outcomes are greater in women with chronic hypertension than in normotensive gravidas.
+
+142
+00:19:47,669 --> 00:19:52,931
+Those who develop preeclampsia have substantially higher adverse outcome rates.
+
+143
+00:19:52,931 --> 00:19:56,131
+As shown in Figure 53-3.
+
+144
+00:19:56,131 --> 00:20:01,006
+adverse outcome rates rise incrementally with increasing blood pressures .
+
+145
+00:20:01,006 --> 00:20:08,919
+There is evidence to suggest that chronic hypertension—treated or untreated—is associated with congenital anomalies .
+
+146
+00:20:08,919 --> 00:20:14,006
+Data from untreated women help tease away drug effects on organogenesis.
+
+147
+00:20:14,006 --> 00:20:20,831
+Bateman and coworkers (2015) found an odds ratio of 1.5 for cardiac
+
+148
+00:20:20,980 --> 00:20:22,717
+defects.
+
+149
+00:20:22,667 --> 00:20:27,655
+A systematic review noted a comparable risk ratio of 1.4 .
+
+150
+00:20:27,655 --> 00:20:41,180
+From one large birth defect study, five cases of fetal esophageal atresia were found in those with untreated hypertension and yielded an adjusted odds ratio of 3.2 (van Gelder, 2015).
+
+151
+00:20:41,180 --> 00:20:43,755
+Figure 53-3.
+
+152
+00:20:43,755 --> 00:20:52,267
+Frequency of selected adverse maternal and perinatal outcomes by blood pressure stratification in women with mild chronic hypertension.
+
+153
+00:20:52,267 --> 00:20:55,780
+SGA = small for gestational age.
+
+154
+00:20:55,780 --> 00:21:07,467
+The stillbirth frequency with chronic hypertension is substantively greater, and common etiologies include superimposed severe preeclampsia, abruption, and fetal-growth restriction.
+
+155
+00:21:07,467 --> 00:21:18,042
+Rates range from 15 to 24 deaths per 1000 births (Ahmad, 2012; Ankumah, 2014; Bateman, 2012).
+
+156
+00:21:18,042 --> 00:21:27,692
+Lowbirthweight neonates also are common and result from fetal-growth restriction, indicated preterm delivery, or both (see Fig. 53-3).
+
+157
+00:21:27,692 --> 00:21:32,017
+The incidence of fetal-growth restriction averages 20 percent.
+
+158
+00:21:32,017 --> 00:21:45,367
+Zetterström and colleagues (2006) reported a 2.5-fold risk for fetal-growth restriction in 2754 chronically hypertensive Swedish women compared with the risk in normotensive gravidas.
+
+159
+00:21:45,367 --> 00:21:51,292
+Another study of 1609 Dutch nulliparas showed a 1.3-fold greater risk .
+
+160
+00:21:51,292 --> 00:21:58,805
+As with other complications, fetal-growth dysfunction is more likely in those who develop superimposed preeclampsia.
+
+161
+00:21:58,805 --> 00:22:12,067
+In one study, the incidence of growth-restricted fetuses born to women with superimposed preeclampsia was almost 50 percent compared with only 21 percent in chronically hypertensive women without preeclampsia .
+
+162
+00:22:12,067 --> 00:22:24,717
+Last, women with chronic hypertension severe enough to warrant treatment had an 11-percent incidence of fetal-growth restriction sufficiently severe to yield birthweights ≤3rd percentile .
+
+163
+00:22:24,717 --> 00:22:32,192
+Thus, neonates born to these women have a correspondingly high rate of intensive-care unit (ICU) admission.
+
+164
+00:22:32,192 --> 00:22:43,167
+All of these adverse perinatal effects of chronic hypertension contribute to the greater perinatal mortality rate, which is two- to fourfold higher than the rate in nonaffected gravidas .
+
+165
+00:22:43,167 --> 00:22:59,130
+Stratified by severity, the perinatal death rate was 31 per 1000 births in those with mild hypertension, 72 per 1000 births with moderate disease, and 100 per 1000 births in women with severe chronic hypertension .
+
+166
+00:22:59,130 --> 00:23:09,092
+In a study from Parkland Hospital, the perinatal mortality rate was 32 per 1000 births in women with hypertension severe enough to require treatment .
+
+167
+00:23:09,092 --> 00:23:20,217
+As expected, the highest rates are in women who develop superimposed preeclampsia, for whom the risk doubles (Al Khalaf, 2021; Grover, 2021).
+
+168
+00:23:20,217 --> 00:23:30,192
+If diabetes coexists with chronic hypertension, preterm delivery, fetalgrowth restriction, and perinatal mortality rates are increased even more .
+
+169
+00:23:30,192 --> 00:23:38,592
+Last, children born to women with chronic hypertension have long-term endocrine and metabolic morbidities, specifically obesity .
+
+170
+00:23:38,592 --> 00:23:47,017
+This epigenetic effect of hypertension and of other maternal chronic diseases is detailed in Chapter 47 (p. 831).
+
+171
+00:23:47,017 --> 00:23:49,592
+Management During Pregnancy.
+
+172
+00:23:49,592 --> 00:24:01,955
+Chronic hypertension management aims to prevent moderate or severe hypertension, to delay or dampen superimposed preeclampsia, and to reduce rates of adverse maternal or perinatal outcomes.
+
+173
+00:24:01,955 --> 00:24:09,455
+Blood pressure selfmonitoring is encouraged, but for accuracy, automated devices must be properly calibrated .
+
+174
+00:24:09,455 --> 00:24:18,617
+Dietary counseling and reduction of behaviors such as tobacco, alcohol, cocaine, or other substance use serve as early interventions.
+
+175
+00:24:18,617 --> 00:24:26,142
+A low-sodium diet and low-dose aspirin are others (Battarbee, 2020; Chaemsaithong, 2020).
+
+176
+00:24:26,142 --> 00:24:35,655
+Last, pharmacologic therapy is instituted to maintain blood pressures within suitable ranges, which are outlined later (p. 951).
+
+177
+00:24:35,655 --> 00:24:44,392
+Some women—especially those with long-term or untreated hypertension —have complications that raise the risk of adverse pregnancy events.
+
+178
+00:24:44,392 --> 00:24:49,792
+Concentric ventricular hypertrophy and proteinuria are concerns in these women.
+
+179
+00:24:49,792 --> 00:24:58,117
+Ambia, 2017, 2019; Kim, 2016; Morgan, 2016a,b).
+
+180
+00:24:58,117 --> 00:25:08,830
+Thus, early in prenatal care, cardiovascular and renal baseline functions are assessed with echocardiogram and a 24-hour urine collection for protein measurement.
+
+181
+00:25:08,830 --> 00:25:11,830
+# Antihypertensive Drugs.
+
+182
+00:25:11,830 --> 00:25:16,417
+Treatment of hypertension during pregnancy has included every drug
+
+183
+00:25:16,588 --> 00:25:27,488
+class, but information is still limited regarding safety and efficacy (American College of Obstetricians and Gynecologists 2013, 2018a).
+
+184
+00:25:27,438 --> 00:25:38,425
+Some commonly used drugs are listed in Table 53-4 and the following summary is abstracted from several sources, including the 2020 Prescribers’ Digital Reference.
+
+185
+00:25:38,425 --> 00:25:43,625
+Possible fetal effects of many of these drugs are also discussed in Chapter 8.
+
+186
+00:25:43,625 --> 00:25:46,250
+Table 53-4.
+
+187
+00:25:46,250 --> 00:26:01,888
+Some Antihypertensive Drugs Used for Treatment of Chronic Hypertension During Pregnancya Adrenergic Receptor–Blocking Agents Peripherally acting β-adrenergic-receptor blockers cause a generalized decline in sympathetic tone and lower cardiac output.
+
+188
+00:26:01,888 --> 00:26:07,588
+Examples are propranolol (Inderal) and metoprolol (Lopressor, Toprol).
+
+189
+00:26:07,588 --> 00:26:12,550
+Atenolol is not recommended because of its link with fetal-growth restriction .
+
+190
+00:26:12,550 --> 00:26:18,825
+Labetalol (Normodyne) is an α/β-adrenergic blocker that is considered safe.
+
+191
+00:26:18,825 --> 00:26:29,100
+Clonidine (Catapres) and α-methyldopa (Aldomet) act centrally by reducing sympathetic outflow to effect a generalized decreased vascular tone.
+
+192
+00:26:29,100 --> 00:26:34,675
+Drugs in this class most frequently used in pregnancy are methyldopa and labetalol .
+
+193
+00:26:34,675 --> 00:26:42,263
+Calcium Channel–Blocking Agents These drugs are divided into three subclasses based on their calcium-channel actions.
+
+194
+00:26:42,263 --> 00:26:51,825
+Common agents include nifedipine (Procardia, Adalat)—a dihydropyridine—and verapamil (Calan)—a phenylalkyl amine derivative.
+
+195
+00:26:51,825 --> 00:26:59,150
+These agents have negative inotropic effects and thus worsen ventricular dysfunction and congestive heart failure.
+
+196
+00:26:59,150 --> 00:27:07,450
+Theoretically, they may potentiate the vasoactive actions of magnesium sulfate administered for eclampsia neuroprophylaxis.
+
+197
+00:27:07,450 --> 00:27:16,950
+Webster and coworkers (2017) found nifedipine equally effective as labetalol for treatment of chronic hypertension in pregnancy.
+
+198
+00:27:16,950 --> 00:27:24,600
+However, those treated with nifedipine advantageously had less blood pressure variation than those treated with labetalol .
+
+199
+00:27:24,600 --> 00:27:39,125
+Although data are limited, calcium channel–blocking agents appear to be safe therapy for chronic hypertension during pregnancy (American College of Obstetricians and Gynecologists, 2018a; Briggs, 2022).
+
+200
+00:27:39,125 --> 00:27:47,463
+Diuretics Thiazide diuretics are sulfonamides, and these were the first drug group used to successfully treat chronic hypertension.
+
+201
+00:27:47,463 --> 00:27:55,263
+These agents and loop-acting diuretics such as furosemide (Lasix) are commonly used in nonpregnant patients.
+
+202
+00:27:55,263 --> 00:28:00,575
+Short term, they provide sodium and water diuresis with volume depletion.
+
+203
+00:28:00,575 --> 00:28:05,938
+Over time, there is sodium escape, and volume depletion partially corrects.
+
+204
+00:28:05,938 --> 00:28:13,713
+Some aspect of lowered peripheral vascular resistance likely contributes to their effectiveness in reducing long-term morbidity .
+
+205
+00:28:13,713 --> 00:28:21,588
+Thiazide drugs may be mildly diabetogenic, and the normal expected volume expansion of pregnancy may be curtailed .
+
+206
+00:28:21,588 --> 00:28:35,013
+Although rates of adverse perinatal outcomes are not greater with diuretic use, concerns have curtailed diuretic use as first-line therapy for chronic hypertension in pregnancy and particularly after 20 weeks’ gestation .
+
+207
+00:28:35,013 --> 00:28:39,975
+Overall, thiazide diuretics are considered safe in pregnancy .
+
+208
+00:28:39,975 --> 00:28:50,775
+Vasodilators Hydralazine (Apresoline) relaxes arterial smooth muscle and has been used parenterally for decades to safely treat severe peripartum hypertension .
+
+209
+00:28:50,775 --> 00:29:01,063
+However, oral hydralazine monotherapy for chronic hypertension is not generally used because of its weak antihypertensive effects and resultant tachycardia.
+
+210
+00:29:01,063 --> 00:29:11,363
+It is employed as an effective vasodilator adjunct for long-term use with other antihypertensives in women with chronic renal insufficiency or ventricular dysfunction.
+
+211
+00:29:11,363 --> 00:29:20,513
+Angiotensin-Converting Enzyme Inhibitors These drugs inhibit the conversion of angiotensin-I to the potent vasoconstrictor angiotensin-II.
+
+212
+00:29:20,513 --> 00:29:26,150
+They can cause severe fetal malformations when given in the second and third trimesters.
+
+213
+00:29:26,150 --> 00:29:31,738
+These include oligohydramnios, hypocalvaria, and renal dysfunction .
+
+214
+00:29:31,738 --> 00:29:36,400
+Some preliminary studies also suggest teratogenic effects .
+
+215
+00:29:36,400 --> 00:29:40,188
+They are not recommended at any time during pregnancy .
+
+216
+00:29:40,188 --> 00:29:44,325
+Angiotensin-receptor blockers act in a similar manner.
+
+217
+00:29:44,325 --> 00:29:51,025
+However, instead of blocking the production of angiotensin-II, they inhibit binding to its receptor.
+
+218
+00:29:51,025 --> 00:29:55,050
+They are presumed to have the same adverse fetal effects as
+
+219
+00:29:55,204 --> 00:30:01,191
+angiotensin-converting enzyme inhibitors and also are contraindicated in pregnancy.
+
+220
+00:30:01,141 --> 00:30:04,966
+# Antihypertensive Treatment in Pregnancy.
+
+221
+00:30:04,966 --> 00:30:17,791
+Mild or Moderate Hypertension Initiating or continuing prepregnancy antihypertensive treatment during pregnancy is debatable for women with mild or moderate hypertension (see Table 53-1.
+
+222
+00:30:17,791 --> 00:30:26,154
+In older observational reports, most pregnancy outcomes were generally good in women with untreated mild to moderate hypertension.
+
+223
+00:30:26,154 --> 00:30:33,079
+However, these studies were relatively small and had widely varying inclusion and outcome criteria.
+
+224
+00:30:33,079 --> 00:30:46,716
+More recently, a Cochrane review of approximately 5000 women with mild to moderate hypertension reported that the risk for severe hypertension in these individuals with initially milder hypertension declined with therapy .
+
+225
+00:30:46,716 --> 00:30:56,966
+The frequencies of superimposed preeclampsia, preterm birth, small-for-gestational age newborns, and perinatal mortality, however, did not differ.
+
+226
+00:30:56,966 --> 00:31:04,429
+Lowering blood pressure can theoretically decrease uteroplacental perfusion and lead to small-for-gestational age neonates.
+
+227
+00:31:04,429 --> 00:31:16,979
+von Dadelszen and coworkers (2000) found that the decline in mean arterial pressure associated with antihypertensive therapy was linked to a higher frequency of small-forgestational age newborns.
+
+228
+00:31:16,979 --> 00:31:24,291
+Other studies both confirm and refute these findings (Mitchell, 2019; Morgan, 2020).
+
+229
+00:31:24,291 --> 00:31:38,066
+In two of the larger randomized trials, the incidence of growth restriction was not higher in women randomly assigned to treatment (Gruppo di Studio Ipertensione in Gravidanza, 1998; Sibai, 1990).
+
+230
+00:31:38,066 --> 00:31:43,779
+Conversely, worsening blood pressure itself is associated with abnormal fetal growth.
+
+231
+00:31:43,779 --> 00:31:48,366
+Also, some suggest that the drugs have a direct fetal action .
+
+232
+00:31:48,366 --> 00:31:55,916
+Therefore, the question regarding treatment of mild to moderate chronic hypertension in pregnancy is yet to be resolved.
+
+233
+00:31:55,916 --> 00:32:15,779
+Severe Chronic Hypertension As classified by the American College of Obstetricians and Gynecologists (2018a), severe hypertension includes a systolic pressure ≥160 mm Hg or a diastolic pressure ≥110 mm Hg.
+
+234
+00:32:15,779 --> 00:32:23,116
+Treatment should be initiated for persistent severe hypertension to reduce maternal morbidity and mortality risks .
+
+235
+00:32:23,116 --> 00:32:42,654
+In women with cardiovascular or renal end-organ damage, treatment may be instituted at systolic pressures ≥140 to 150 mm Hg or diastolic pressures ≥90 to 100 mm Hg in an attempt to mitigate further damage.
+
+236
+00:32:42,654 --> 00:32:52,754
+Women whose hypertension is severe enough to require antihypertensive therapy or cause end-organ damage carry an increased risk for superimposed preeclampsia.
+
+237
+00:32:52,754 --> 00:33:07,779
+In an older study, Sibai and coworkers (1986) described outcomes from 44 pregnancies in women whose blood pressure at 6 to 11 weeks’ gestation was ≥170/110 mm Hg.
+
+238
+00:33:07,779 --> 00:33:22,579
+All were given oral treatment with α-methyldopa and hydralazine to maintain pressures <160/110 mm Hg. Half of these women developed superimposed preeclampsia, and all adverse perinatal outcomes were in this group.
+
+239
+00:33:22,579 --> 00:33:31,079
+Conversely, those women with severe chronic hypertension who did not develop superimposed preeclampsia had reasonably good outcomes.
+
+240
+00:33:31,079 --> 00:33:41,991
+Morgan and colleagues (2016a) confirmed these findings in their study of 447 women requiring treatment for chronic hypertension prior to 20 weeks.
+
+241
+00:33:41,991 --> 00:33:50,479
+Cardiac abnormalities and renal insufficiency resulting from uncontrolled hypertension raise the risk for adverse pregnancy outcomes.
+
+242
+00:33:50,479 --> 00:34:07,116
+Women with baseline proteinuria >300 mg/d have higher rates of superimposed preeclampsia, preterm birth, and small-for-gestational age neonates compared with those whose 24-hour protein excretion is <300 mg/d .
+
+243
+00:34:07,116 --> 00:34:21,479
+Abnormal cardiac remodeling and left ventricular hypertrophy also are associated with superimposed preeclampsia, preterm birth, and neonatal ICU admission (Ambia, 2018, 2019).
+
+244
+00:34:21,479 --> 00:34:24,191
+Table 53-5.
+
+245
+00:34:24,191 --> 00:34:40,816
+Selected Pregnancy Outcomes in Women with Chronic Hypertension with and without Baseline Proteinuriaa and Who Were Treated During Pregnancy “Tight Control” During the past decade, the concept of tight control of blood pressure has been advocated to optimize maternal and perinatal outcomes.
+
+246
+00:34:40,816 --> 00:34:46,316
+Such control is analogous to that of glycemic control for diabetes management.
+
+247
+00:34:46,316 --> 00:34:48,979
+The observational study by
+
+248
+00:34:49,132 --> 00:34:56,144
+Ankumah and colleagues (2014) noted earlier lends credence to tighter blood pressure control.
+
+249
+00:34:56,094 --> 00:35:09,032
+They showed that the adverse pregnancy outcome risk was lower when blood pressures before 20 weeks’ gestation were <140 mm Hg compared with higher-pressure categories and increasing blood pressures.
+
+250
+00:35:09,032 --> 00:35:13,157
+Unfortunately, those observations were not confirmed.
+
+251
+00:35:13,157 --> 00:35:21,907
+Magee and associates (2015) randomized 987 women to either less-tight or tight control of hypertension.
+
+252
+00:35:21,907 --> 00:35:29,832
+Except for a lower rate of severe hypertension in the tightly controlled group, other outcomes between these two groups did not differ .
+
+253
+00:35:29,832 --> 00:35:36,607
+Analyzing the same cohort, no gestational age was identified at which tight control was preferable .
+
+254
+00:35:36,607 --> 00:35:40,232
+A systematic review reported similar results .
+
+255
+00:35:40,232 --> 00:36:02,357
+At this time, no proven benefits or risks are attributed to “tight”—target diastolic pressure <85 mm Hg—versus “less-tight”—target diastolic pressure <100 mm Hg—control of chronic hypertension during pregnancy (American College of Obstetricians and Gynecologists (2018a).
+
+256
+00:36:02,357 --> 00:36:11,082
+A randomized trial—Project CHAP—is ongoing to help address this question (U.S. National Library of Medicine, 2020).
+
+257
+00:36:11,082 --> 00:36:13,782
+Table 53-6.
+
+258
+00:36:13,782 --> 00:36:40,669
+Selected Maternal and Perinatal Outcomes in Pregnant Women with Chronic Hypertension According to Less-Tight versus Tight Control Recommendations for Therapy Until the treatment of uncomplicated mild to moderate chronic hypertension in pregnancy is confirmed to have benefits, it seems reasonable to follow the guidelines of the American College of Obstetricians and Gynecologists (2018a) and the Society for Maternal-Fetal Medicine (2015).
+
+259
+00:36:40,669 --> 00:36:48,994
+Thus, pregnant women with severe hypertension must be treated for maternal neuro-, cardio-, and renoprotection.
+
+260
+00:36:48,994 --> 00:36:59,019
+Treatment is also mandatory for women with prior adverse outcomes such as a stroke, myocardial infarction, and evidence for cardiac or renal dysfunction.
+
+261
+00:36:59,019 --> 00:37:18,944
+Many find it reasonable to begin antihypertensive treatment in otherwise healthy pregnant women with persistent systolic pressures >150 mm Hg or diastolic pressures >95 to 100 mm Hg (August, 2015; Webster, 2017).
+
+262
+00:37:18,944 --> 00:37:23,432
+Drugs commonly used are listed in Table 53-4.
+
+263
+00:37:23,432 --> 00:37:33,494
+At Parkland Hospital, we initiate treatment with antihypertensive agents at blood pressures ≥150/100 mm Hg.
+
+264
+00:37:33,494 --> 00:37:44,219
+Our preferred regimens include monotherapy with a β-blocking drug such as labetalol or a calcium channel–blocking agent such as nifedipine or amlodipine (Norvasc).
+
+265
+00:37:44,219 --> 00:37:50,569
+Adjunct therapy with a thiazide diuretic seems reasonable for women in the first half of pregnancy.
+
+266
+00:37:50,569 --> 00:37:57,282
+This is more beneficial in black women, in whom the prevalence of salt-sensitive chronic hypertension is high.
+
+267
+00:37:57,282 --> 00:38:04,307
+Controversy surrounds women who present early in pregnancy and who are already taking antihypertensive drugs .
+
+268
+00:38:04,307 --> 00:38:24,369
+According to the American College of Obstetricians and Gynecologists (2018a) and the Society for Maternal-Fetal Medicine (2015), for women with mild to moderate hypertension, it is reasonable to discontinue medications during the first trimester and to restart them if blood pressures approach the severe range.
+
+269
+00:38:24,369 --> 00:38:32,044
+At Parkland Hospital, we continue treatment if the woman is already taking medications when she presents for prenatal care.
+
+270
+00:38:32,044 --> 00:38:39,282
+As exceptions, angiotensin-converting enzyme inhibitors and angiotensin-receptor blockers are stopped.
+
+271
+00:38:39,282 --> 00:38:44,557
+Some women will have persistently worrisome hypertension despite usual therapy.
+
+272
+00:38:44,557 --> 00:38:51,557
+In these women, development of superimposed preeclampsia becomes a primary concern and is detailed next.
+
+273
+00:38:51,557 --> 00:39:09,069
+Other possibilities include inaccurate blood pressure measurements, suboptimal treatment, illicit drug use, and antagonizing substances such as chronic ingestion of nonsteroidal antiinflammatory drugs (NSAIDs) (Moser, 2006; Sowers, 2005).
+
+274
+00:39:09,069 --> 00:39:12,357
+# Superimposed Preeclampsia.
+
+275
+00:39:12,357 --> 00:39:33,432
+As discussed in Chapter 40 (p. 690), conditions that support the diagnosis of superimposed preeclampsia include worsening hypertension, new-onset proteinuria, neurological symptoms such as severe headaches and visual disturbances, generalized edema, oliguria, and certainly, convulsions or pulmonary edema.
+
+276
+00:39:33,432 --> 00:39:37,119
+These same criteria apply to women with chronic
+
+277
+00:39:37,276 --> 00:39:39,051
+hypertension.
+
+278
+00:39:39,001 --> 00:39:45,026
+However, preeclampsia can be difficult to diagnose in a chronically hypertensive woman.
+
+279
+00:39:45,026 --> 00:39:53,401
+First, blood pressures may increase during pregnancy in women with chronic hypertension alone and without superimposed preeclampsia.
+
+280
+00:39:53,401 --> 00:39:57,863
+This is most commonly encountered near the end of the second trimester.
+
+281
+00:39:57,863 --> 00:40:08,788
+In the absence of other supporting criteria for superimposed preeclampsia, this likely represents the higher end of the normal bloodpressure curve shown in Figure 53-1.
+
+282
+00:40:08,788 --> 00:40:17,051
+In such women, if preeclampsia is excluded, it is reasonable to begin or to increase the dose of antihypertensive therapy.
+
+283
+00:40:17,051 --> 00:40:27,101
+As a second diagnostic obstacle, many chronically hypertensive patients have preexisting end-organ damage and laboratory values that mimic preeclampsia.
+
+284
+00:40:27,101 --> 00:40:33,026
+New-onset proteinuria is consistent with the diagnosis of superimposed preeclampsia.
+
+285
+00:40:33,026 --> 00:40:42,963
+However, this is not applicable to women who have underlying renal disease with chronic proteinuria (Cunningham, 1990; Morgan, 2016b).
+
+286
+00:40:42,963 --> 00:40:49,913
+In these women, diagnosing superimposed preeclampsia based on worsening proteinuria is problematic.
+
+287
+00:40:49,913 --> 00:41:06,901
+Laboratory abnormalities that support preeclampsia include rising serum creatinine or hepatic transaminase levels, thrombocytopenia, or any of the facets of HELLP (hemolysis, elevated liver enzyme levels, low platelet count) syndrome.
+
+288
+00:41:06,901 --> 00:41:16,688
+For women with chronic hypertension and superimposed preeclampsia with severe features, magnesium sulfate for maternal neuroprophylaxis is recommended .
+
+289
+00:41:16,688 --> 00:41:32,038
+Expectant Management of Early-Onset Preeclampsia Given that 40 to 50 percent of cases of superimposed preeclampsia develop early and before 37 weeks, considerations for expectant management to allow fetal maturation may be reasonable .
+
+290
+00:41:32,038 --> 00:41:40,876
+However, most maternal outcomes are better when women with superimposed preeclampsia are delivered, even when the fetus is markedly preterm.
+
+291
+00:41:40,876 --> 00:41:53,613
+Increased risk for placental abruption, cerebral hemorrhage, and peripartum heart failure attend delivery delays (Cunningham, 1986, 2005; Martin, 2005).
+
+292
+00:41:53,613 --> 00:42:01,126
+And prolonged expectant management is associated with an increased risk of maternal cardiac disease in the ensuing years .
+
+293
+00:42:01,126 --> 00:42:11,876
+In a study from Magee-Women’s Hospital, 42 of 68 carefully selected women with a median gestational age of 31.6 weeks were expectantly managed .
+
+294
+00:42:11,876 --> 00:42:20,688
+Despite liberal criteria to mandate delivery, 17 percent of these mothers developed either placental abruption or pulmonary edema.
+
+295
+00:42:20,688 --> 00:42:24,813
+The latency period was extended by a mean of 10 days.
+
+296
+00:42:24,813 --> 00:42:32,151
+There were no perinatal deaths, however, neonatal outcomes were no better than those in the group delivered immediately.
+
+297
+00:42:32,151 --> 00:42:43,563
+Women with superimposed preeclampsia before 34 weeks’ gestation may be candidates for expectant management at facilities with adequate maternal and neonatal ICU resources .
+
+298
+00:42:43,563 --> 00:42:49,788
+At Parkland Hospital, we pursue delivery when superimposed preeclampsia is diagnosed.
+
+299
+00:42:49,788 --> 00:42:52,288
+# Fetal Assessment.
+
+300
+00:42:52,288 --> 00:43:01,113
+Because of greater stillbirth and fetal-growth restriction risks, antepartum fetal surveillance is recommended for women with chronic hypertension.
+
+301
+00:43:01,113 --> 00:43:07,813
+However, data are limited regarding which subpopulations with chronic hypertension benefit most.
+
+302
+00:43:07,813 --> 00:43:20,376
+The ideal test, testing interval, and gestational age of initiation are other unknowns (American College of Obstetricians and Gynecologists, 2018a; Freeman, 2008).
+
+303
+00:43:20,376 --> 00:43:27,201
+All women with chronic hypertension should undergo a sonographic fetal-growth assessment in the third trimester.
+
+304
+00:43:27,201 --> 00:43:35,951
+Additionally, Chahine and colleagues (2019) recommend that women with low-risk disease undergo weekly antepartum testing.
+
+305
+00:43:35,951 --> 00:43:53,826
+They defined low-risk by four criteria: (1) women ≤35 years of age, (2) mild- to moderate-range blood pressures not requiring medication, (3) no prior hypertension-related adverse pregnancy outcomes, and (4) no end-organ damage.
+
+306
+00:43:53,826 --> 00:43:59,738
+For antepartum testing, a nonstress test or a biophysical profile is suitable .
+
+307
+00:43:59,738 --> 00:44:03,976
+Women with high-risk disease fail to meet these four criteria.
+
+308
+00:44:03,976 --> 00:44:15,476
+For them, sonography and antepartum testing are considered earlier, and the value of these tools to assess fetal-growth restriction is detailed in Chapter 47 (p. 830).
+
+309
+00:44:15,476 --> 00:44:19,413
+One surveillance algorithm for suspected fetal-growth
+
+310
+00:44:19,564 --> 00:44:25,176
+restriction is outlined in Figure 47-6 (p. 829).
+
+311
+00:44:25,126 --> 00:44:27,614
+# Delivery Timing.
+
+312
+00:44:27,614 --> 00:44:43,414
+For women with mild to moderate chronic hypertension who have an otherwise uncomplicated pregnancy, the American College of Obstetricians and Gynecologists (2018a) recommends waiting for delivery until 37 to 38 weeks’ gestation.
+
+313
+00:44:43,414 --> 00:44:54,639
+Women taking antihypertensive drugs are not delivered before 370/7 weeks, and those not receiving drug treatment are delivered no earlier than 380/7 weeks.
+
+314
+00:44:54,639 --> 00:45:05,651
+A nationally convened consensus committee recommended consideration for delivery at 38 to 39 weeks, that is, ≥37 completed weeks .
+
+315
+00:45:05,651 --> 00:45:10,376
+A large population-based Canadian study showed similar results .
+
+316
+00:45:10,376 --> 00:45:26,826
+Expectant management beyond 39 weeks’ gestation is associated with an increasing incidence of severe preeclampsia, and planned delivery before 37 weeks was associated with a rise in rates of adverse neonatal outcomes (Harper, 206).
+
+317
+00:45:26,826 --> 00:45:33,089
+For women who have fetal-growth restriction, the decision to deliver incorporates clinical judgment.
+
+318
+00:45:33,089 --> 00:45:40,426
+Maternal health is balanced against estimated fetal weight, gestational age, and chance of neonatal survival.
+
+319
+00:45:40,426 --> 00:45:43,589
+# Intrapartum Considerations.
+
+320
+00:45:43,589 --> 00:45:49,151
+For women with chronic hypertension, obstetrical factors dictate delivery route.
+
+321
+00:45:49,151 --> 00:45:54,826
+Magnesium sulfate is not given unless there is superimposed severe preeclampsia.
+
+322
+00:45:54,826 --> 00:46:00,251
+Epidural analgesia is ideal but does not substantively lower blood pressure.
+
+323
+00:46:00,251 --> 00:46:10,201
+A trial of labor induction is preferable, and many of these women will deliver vaginally (Alexander, 1999; Atkinson, 1995).
+
+324
+00:46:10,201 --> 00:46:16,476
+Similarly, for the growth-restricted fetus, delivery route is based on obstetrical factors.
+
+325
+00:46:16,476 --> 00:46:24,764
+However, many fetuses with growth restriction exhibit nonreassuring fetal heart rate patterns and require cesarean delivery .
+
+326
+00:46:24,764 --> 00:46:33,414
+For women with superimposed preeclampsia, intrapartum management mirrors that described in Chapter 41 (p. 719).
+
+327
+00:46:33,414 --> 00:46:36,976
+These women may have a longer first-stage labor .
+
+328
+00:46:36,976 --> 00:46:44,401
+Epidural analgesia for labor and delivery is optimal, but it is not provided with the intent to treat hypertension .
+
+329
+00:46:44,401 --> 00:46:52,676
+That said, women with superimposed preeclampsia are more sensitive to the acute hypotensive effects of epidural analgesia .
+
+330
+00:46:52,676 --> 00:46:58,226
+Magnesium sulfate neuroprophylaxis is initiated for eclampsia prevention.
+
+331
+00:46:58,226 --> 00:47:16,226
+Severe hypertension—diastolic blood pressure ≥110 mm Hg or systolic pressure ≥160 mm Hg—is treated with either intravenous hydralazine, intravenous labetalol, or oral nifedipine.
+
+332
+00:47:16,226 --> 00:47:33,951
+Some prefer to treat women when the diastolic pressure reaches 100 to 105 mm Hg. Vigil-De Gracia and coworkers (2006) randomly assigned 200 gravidas to receive intravenous hydralazine or labetalol to acutely lower severe high blood pressure.
+
+333
+00:47:33,951 --> 00:47:46,551
+Outcomes were similar except for significantly higher rates of maternal palpitations and tachycardia with hydralazine and significantly greater rates of neonatal hypotension and bradycardia with labetalol.
+
+334
+00:47:46,551 --> 00:47:49,101
+# Postpartum Care.
+
+335
+00:47:49,101 --> 00:47:59,126
+Prevention and management of adverse postpartum complications is similar in women with severe chronic hypertension and in those with severe preeclampsia–eclampsia.
+
+336
+00:47:59,126 --> 00:48:06,889
+For persistent severe hypertension, consideration is given to causes such as pheochromocytoma or Cushing disease .
+
+337
+00:48:06,889 --> 00:48:12,189
+In women with chronic end-organ damage, certain complications are more common.
+
+338
+00:48:12,189 --> 00:48:22,689
+These include cerebral or pulmonary edema, heart failure, renal dysfunction, or cerebral hemorrhage, especially within the first 48 hours after delivery.
+
+339
+00:48:22,689 --> 00:48:35,251
+These frequently are preceded by sudden elevations of mean arterial blood pressure, especially of the systolic component (Cunningham, 2000, 2005; Martin, 2005).
+
+340
+00:48:35,251 --> 00:48:42,214
+Following delivery, as maternal peripheral resistance rises, left ventricular workload also grows.
+
+341
+00:48:42,214 --> 00:48:53,726
+This elevation is further aggravated by appreciable and pathological amounts of interstitial fluid that are mobilized to be excreted as endothelial disruption from preeclampsia resolves.
+
+342
+00:48:53,726 --> 00:49:08,301
+In these women, sudden hypertension—either moderate or severe—may exacerbate diastolic dysfunction, cause systolic dysfunction, and lead to pulmonary edema (Cunningham, 1986; Gandhi, 2001).
+
+343
+00:49:08,301 --> 00:49:15,126
+Prompt hypertension control, along with furosemide-evoked diuresis, usually quickly resolves
+
+344
+00:49:15,292 --> 00:49:17,404
+pulmonary edema.
+
+345
+00:49:17,354 --> 00:49:22,942
+The antihypertensive regimen given antepartum may be continued in the puerperium.
+
+346
+00:49:22,942 --> 00:49:29,267
+In untreated women, labetalol or nifedipine can also be used for persistent hypertension .
+
+347
+00:49:29,267 --> 00:49:39,667
+It also is possible in many women to forestall postpartum hypertension by administering intravenous or oral furosemide to augment normal postpartum diuresis.
+
+348
+00:49:39,667 --> 00:49:49,454
+In one study, 20 mg oral furosemide given daily for 5 days to postpartum women with severe preeclampsia aided blood pressure control .
+
+349
+00:49:49,454 --> 00:49:57,592
+A recent randomized trial showed that daily furosemide decreased the need for antihypertensive therapy at hospital discharge .
+
+350
+00:49:57,592 --> 00:50:00,529
+Daily weights are helpful in this regard.
+
+351
+00:50:00,529 --> 00:50:05,717
+On average, a woman should weigh 15 pounds less immediately after delivery.
+
+352
+00:50:05,717 --> 00:50:14,742
+Excessive extracellular fluid can then be estimated by comparing her last prenatal weight plus 15 pounds against the puerpera’s current weight.
+
+353
+00:50:14,742 --> 00:50:22,929
+Some evidence supports that chronic ingestion of NSAIDs in the puerperium elevates blood pressure in women with severe preeclampsia .
+
+354
+00:50:22,929 --> 00:50:28,479
+This may not be problematic if these drugs are given only intermittently and as needed .
+
+355
+00:50:28,479 --> 00:50:34,217
+Postpartum admission rates for severe hypertension approximate 1.5 percent .
+
+356
+00:50:34,217 --> 00:50:38,979
+Discussion of postpartum contraception may begin prior to delivery.
+
+357
+00:50:38,979 --> 00:50:48,504
+As described in Chapter 38 (p. 672), certain methods are less ideal or contraindicated for some women with chronic hypertension.
+
+358
+00:50:48,504 --> 00:51:04,992
+Moreover, for puerpera at highest risk for future pregnancy complications, the Society for Maternal–Fetal Medicine (2019) encourages immediate postpartum longacting reversible contraceptive (LARC) insertion for suitable candidates.
+
+359
+00:51:04,992 --> 00:51:07,929
+# Long-Term Prognosis.
+
+360
+00:51:07,929 --> 00:51:18,842
+Women with chronic hypertension are at high risk for lifetime cardiovascular complications, especially when accompanied by diabetes, obesity, and the metabolic syndrome.
+
+361
+00:51:18,842 --> 00:51:28,642
+Persistent hypertension 3 years after severe preeclampsia was associated with a thicker left-ventricular septum compared with women who became normotensive .
+
+362
+00:51:28,642 --> 00:51:39,629
+The lifetime cardiovascular morbidity and mortality risks associated with hypertensive disorders of pregnancy are discussed in Chapter 41 (p. 726) .
+

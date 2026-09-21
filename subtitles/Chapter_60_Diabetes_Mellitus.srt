@@ -1,0 +1,2464 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,662
+Chapter 60: Diabetes Mellitus.
+
+3
+00:00:05,662 --> 00:00:27,925
+Types Of Diabetes Pregestational Diabetes Diagnosis Fetal Effects Maternal Effects Management In Pregnancy Gestational Diabetes Screening And Diagnosis Maternal And Fetal Effects Management References According to the Centers for Disease Control and Prevention (2020), nearly 27 million adults in the United States have been diagnosed with diabetes.
+
+4
+00:00:27,925 --> 00:00:35,737
+Another 7.3 million are suspected to be undiagnosed, and an estimated 88 million have prediabetes.
+
+5
+00:00:35,737 --> 00:00:50,662
+Reasons for these substantial rates include an aging population, which is more likely to develop type 2 diabetes; population growth within minority groups at particular risk for type 2 diabetes; and a dramatic rise in obesity rates.
+
+6
+00:00:50,662 --> 00:00:57,237
+In 2019, almost three in 10 women were considered obese prior to becoming pregnant .
+
+7
+00:00:57,237 --> 00:01:08,800
+The strong relationship between diabetes and the current obesity epidemic in the United States underlines the critical need for diet and lifestyle interventions to change the trajectory of both.
+
+8
+00:01:08,800 --> 00:01:11,037
+Types Of Diabetes.
+
+9
+00:01:11,037 --> 00:01:18,800
+In nonpregnant individuals, the type of diabetes is based on its presumed pathogenesis and its manifestations.
+
+10
+00:01:18,800 --> 00:01:26,575
+Absolute insulin deficiency, which generally is autoimmune in etiology, characterizes type 1 diabetes.
+
+11
+00:01:26,575 --> 00:01:35,737
+In contrast, insulin resistance, relative insulin deficiency, or elevated glucose production characterizes type 2 diabetes .
+
+12
+00:01:35,737 --> 00:01:43,425
+Both types are generally preceded by a period of abnormal glucose homeostasis often referred to as prediabetes.
+
+13
+00:01:43,425 --> 00:01:51,987
+Pancreatic β-cell destruction can begin at any age, but type 1 diabetes is clinically apparent most often before age 30.
+
+14
+00:01:51,987 --> 00:01:59,625
+Type 2 diabetes usually develops with advancing age but is increasingly identified in younger obese adolescents.
+
+15
+00:01:59,625 --> 00:02:12,487
+Etiological overlap in diabetes subtypes is well established and has led to the proposal of a single classification system centered on β-cell function along with the concept of individualized treatment strategies .
+
+16
+00:02:12,487 --> 00:02:17,987
+Other forms of diabetes include maturity-onset diabetes of the young (MODY).
+
+17
+00:02:17,987 --> 00:02:21,687
+The more common MODY type is in obese adolescents .
+
+18
+00:02:21,687 --> 00:02:30,425
+The less common form is an autosomal dominant condition and characterized by mild diabetes diagnosed in adolescence or young adulthood .
+
+19
+00:02:30,425 --> 00:02:32,762
+Table 60-1.
+
+20
+00:02:32,762 --> 00:02:39,112
+Etiological Classification of Diabetes Mellitus # Classification During Pregnancy.
+
+21
+00:02:39,112 --> 00:02:43,587
+Diabetes is the most common medical complication of pregnancy.
+
+22
+00:02:43,587 --> 00:02:55,137
+Women can be separated into those diagnosed with diabetes before pregnancy— pregestational or overt diabetes, and those diagnosed during pregnancy— gestational diabetes.
+
+23
+00:02:55,137 --> 00:03:08,237
+The proportion of pregnancies complicated by diabetes more than doubled between 1994 and 2008, after which rates have leveled (Deputy, 2018; Jovanovič, 2015).
+
+24
+00:03:08,237 --> 00:03:15,362
+In 2018, 7.6 percent of pregnant women in this country had some form of diabetes .
+
+25
+00:03:15,362 --> 00:03:23,350
+Prevalence is highest among non-Hispanic blacks, Mexican-Americans, Puerto Rican-Americans, and Native Americans .
+
+26
+00:03:23,350 --> 00:03:26,150
+# White Classification.
+
+27
+00:03:26,150 --> 00:03:36,137
+Until the mid-1990s, the classification system of Priscilla White (1978) for diabetic pregnant women was the linchpin of management.
+
+28
+00:03:36,137 --> 00:03:45,175
+Today, the White classification is used less often but still provides simple, useful information on pregnancy risks and prognosis .
+
+29
+00:03:45,175 --> 00:04:00,000
+Because most currently cited literature also contains data from these older classifications, the one previously recommended by the American College of Obstetricians and Gynecologists (1986) is shown in Table 60-2.
+
+30
+00:04:00,000 --> 00:04:02,312
+Table 60-2.
+
+31
+00:04:02,312 --> 00:04:17,862
+Modified White Classification Scheme Used from 1986 Through 1994 for Diabetes Complicating Pregnancy The American College of Obstetricians and Gynecologists (2019a) no longer recommends the White classification.
+
+32
+00:04:17,862 --> 00:04:24,312
+The current focus is whether diabetes antedates pregnancy or is first diagnosed during pregnancy.
+
+33
+00:04:24,312 --> 00:04:29,712
+Many now recommend the system proposed by the American Diabetes Association .
+
+34
+00:04:29,712 --> 00:04:32,062
+Table 60-3.
+
+35
+00:04:32,062 --> 00:04:38,012
+Proposed Classification System for Diabetes in Pregnancy Pregestational Diabetes.
+
+36
+00:04:38,012 --> 00:04:49,887
+Considering the previously mentioned high percentage of undiagnosed diabetes, many women identified with gestational diabetes likely have previously unrecognized type 2 diabetes.
+
+37
+00:04:49,887 --> 00:04:52,850
+Indeed, 5 to 10 percent of
+
+38
+00:04:53,020 --> 00:04:59,607
+women with gestational diabetes are diagnosed with overt diabetes immediately after pregnancy.
+
+39
+00:04:59,557 --> 00:05:01,957
+# Diagnosis.
+
+40
+00:05:01,957 --> 00:05:09,495
+Women with high plasma glucose levels, glucosuria, and ketoacidosis present no diagnostic challenge.
+
+41
+00:05:09,495 --> 00:05:45,545
+Women with a random plasma glucose level >200 mg/dL plus classic signs and symptoms such as polydipsia, polyuria, and unexplained weight loss, those with a fasting glucose level >125 mg/dL, or those with a first-trimester glycosylated hemoglobin (HbA1c) level of ≥6.5 percent are considered by the American Diabetes Association (2019) and the World Health Organization (2019) to have overt diabetes first detected in pregnancy.
+
+42
+00:05:45,545 --> 00:05:50,907
+Women with only minimal metabolic derangement may be more difficult to identify.
+
+43
+00:05:50,907 --> 00:06:11,932
+To diagnose overt diabetes in pregnancy, the International Association of Diabetes and Pregnancy Study Groups (IADPSG) Consensus Panel (2010) recognizes the threshold values found in Table 60-4 for fasting or random plasma glucose and HbA1c levels at prenatal care initiation.
+
+44
+00:06:11,932 --> 00:06:29,445
+The American Diabetes Association (2020) and the World Health Organization (2019) now also consider a plasma glucose level >200 mg/dL measured 2 hours after a 75-g oral glucose load to be diagnostic.
+
+45
+00:06:29,445 --> 00:06:37,232
+No consensus has been reached as to whether such testing should be universal or limited to those women classified as high risk.
+
+46
+00:06:37,232 --> 00:06:39,595
+Table 60-4.
+
+47
+00:06:39,595 --> 00:06:50,245
+Diagnosis of Overt Diabetes in Pregnancya Regardless, a presumed diagnosis of overt diabetes in pregnancy based on these thresholds should be confirmed postpartum.
+
+48
+00:06:50,245 --> 00:07:03,845
+Risk factors for impaired carbohydrate metabolism in pregnant women include a strong familial history of diabetes, prior delivery of a large newborn, persistent glucosuria, or unexplained fetal losses.
+
+49
+00:07:03,845 --> 00:07:06,432
+# Harm in Pregnancy.
+
+50
+00:07:06,432 --> 00:07:15,595
+With overt diabetes, the embryo, fetus, and mother frequently experience serious complications directly attributable to diabetes .
+
+51
+00:07:15,595 --> 00:07:22,720
+Many of these complications might be prevented each year by preconceptional care for improved glycemic control .
+
+52
+00:07:22,720 --> 00:07:40,795
+Using HbA1c values as objective risk quartiles, Finneran and Kiefer (2020) reported that glycemic control throughout pregnancy and a late-pregnancy HbA1c level <6.5 percent leads to reduced rates of adverse obstetrical and neonatal outcomes.
+
+53
+00:07:40,795 --> 00:07:48,257
+The likelihood of successful outcomes with overt diabetes, however, is not simply related to glucose control.
+
+54
+00:07:48,257 --> 00:07:53,682
+The degree of underlying cardiovascular or renal disease may be more important.
+
+55
+00:07:53,682 --> 00:08:02,832
+Thus, advancing stages of the White classification, seen in Table 60-2, are inversely related to favorable pregnancy outcomes.
+
+56
+00:08:02,832 --> 00:08:11,445
+Shown in Table 60-5 are data that chronicle the adverse pregnancy outcomes with overt diabetes, and many are described next .
+
+57
+00:08:11,445 --> 00:08:13,932
+Table 60-5.
+
+58
+00:08:13,932 --> 00:08:23,745
+Selected Maternal and Perinatal Outcomes in Percent in Women with Gestational and Overt Diabetes Compared with Nondiabetic Womena # Fetal Effects.
+
+59
+00:08:23,745 --> 00:08:33,670
+Spontaneous Abortion Up to 25 percent of overtly diabetic mothers have an early miscarriage, and poor glycemic control is an associated factor.
+
+60
+00:08:33,670 --> 00:08:47,370
+In one study, those whose HbA1c concentrations were >12 percent or whose preprandial glucose concentrations persisted above 120 mg/dL had an elevated miscarriage risk .
+
+61
+00:08:47,370 --> 00:09:01,270
+In a large Chinese population-based study, those with a history of diabetes had an increased risk of miscarriage, and the risk rose 8 percent for each 20-mg/dL incremental rise in fasting glucose .
+
+62
+00:09:01,270 --> 00:09:11,970
+In 89 pregnancies in women with the monogenic form of MODY, only women with the causative glucose kinase (GCK) mutation were more likely to miscarry .
+
+63
+00:09:11,970 --> 00:09:20,582
+Another analysis of 128 GCK-MODY pregnancies showed that the observed miscarriage rate was comparable to the background rate .
+
+64
+00:09:20,582 --> 00:09:25,657
+These women have hyperglycemic variability that can be difficult to control.
+
+65
+00:09:25,657 --> 00:09:31,520
+Preterm Delivery Overt diabetes is an undisputed risk factor for preterm birth.
+
+66
+00:09:31,520 --> 00:09:45,870
+In an analysis of more than 500,000 pregnancies in Ontario, almost 20 percent of women with diabetes were delivered preterm compared with 5.6 percent of women without diabetes, obesity, or hypertension .
+
+67
+00:09:45,870 --> 00:09:53,257
+More than 60 percent were indicated preterm births, that is, due to obstetrical or medical complications.
+
+68
+00:09:53,257 --> 00:09:54,832
+Notably,
+
+69
+00:09:54,988 --> 00:10:01,338
+more than 37 percent of women with diabetes and chronic hypertension delivered preterm.
+
+70
+00:10:01,288 --> 00:10:12,138
+In a review of California births, 19 percent of women with pregestational diabetes delivered before 37 weeks’ gestation compared with 9 percent of controls .
+
+71
+00:10:12,138 --> 00:10:23,163
+In a study from the United Kingdom, the preterm delivery rate was 42 percent for 8690 type 1 diabetic women and 3 percent for those with type 2 diabetes .
+
+72
+00:10:23,163 --> 00:10:37,125
+Malformations The incidence of major malformations in fetuses of women with type 1 diabetes approximates 11 percent and is at least double the rate in fetuses of nondiabetic mothers (Jovanovič, 2015).
+
+73
+00:10:37,125 --> 00:10:44,150
+This risk is present for all women with pregestational diabetes, including those with type 2 disease .
+
+74
+00:10:44,150 --> 00:10:50,275
+Congenital anomalies constitute almost half of perinatal deaths in diabetic pregnancies.
+
+75
+00:10:50,275 --> 00:11:01,913
+Cardiovascular malformations account for more than half of the anomalies, and Table 60-6 lists selected malformations reported by the National Birth Defects Prevention Study .
+
+76
+00:11:01,913 --> 00:11:13,213
+In a study of more than 2 million births in Canada, the risk of an isolated cardiac defect was fivefold higher in women with type 1 diabetes compared with nondiabetic mothers .
+
+77
+00:11:13,213 --> 00:11:27,525
+The caudal regression sequence, described in Chapter 15 (p. 280), is a rare malformation that, according to the National Birth Defects Prevention Study, is 80 times more likely in women with pregestational diabetes.
+
+78
+00:11:27,525 --> 00:11:29,988
+Table 60-6.
+
+79
+00:11:29,988 --> 00:11:44,163
+Selected Congenital Malformations in Pregnancies Complicated by Overt Diabetes Poorly controlled diabetes, both preconceptionally and early in pregnancy, is thought to underlie this elevated risk for major malformation.
+
+80
+00:11:44,163 --> 00:12:00,000
+In one study of mothers with type 1 diabetes, a periconceptional HbA1c <6.5 percent carried a twofold risk for a fetal major cardiac defect, and a HbA1c >9 percent carried a sixfold risk .
+
+81
+00:12:00,000 --> 00:12:02,850
+Others cite similar frequencies .
+
+82
+00:12:02,850 --> 00:12:14,138
+Figure 60-1 shows the association between HbA1c levels and fetal congenital malformation rates in a Parkland Hospital cohort of women with overt diabetes .
+
+83
+00:12:14,138 --> 00:12:16,475
+Figure 60-1.
+
+84
+00:12:16,475 --> 00:12:28,663
+Association between fetal malformation rates and HbA1c values determined at initiation of prenatal care in 1573 pregnancies in women with pregestational diabetes.
+
+85
+00:12:28,663 --> 00:12:47,163
+The etiological mechanisms that explain this link include excess production of toxic superoxide radicals, altered cell signaling pathways, upregulation of some genes by hyperglycemia, and activation of programmed cell death (Basu, 2018; Reece, 2012).
+
+86
+00:12:47,163 --> 00:12:58,375
+One review of potential molecular mechanisms suggests that cellular responses to oxidative stress represent possible therapeutic targets to prevent diabetes-induced embryopathy .
+
+87
+00:12:58,375 --> 00:13:07,925
+Altered Fetal Growth Diminished fetal growth may result from congenital malformations or from substrate deprivation due to advanced maternal vascular disease.
+
+88
+00:13:07,925 --> 00:13:13,300
+That said, fetal overgrowth is more typical of pregestational diabetes.
+
+89
+00:13:13,300 --> 00:13:21,000
+Maternal hyperglycemia prompts fetal hyperinsulinemia, and this in turn stimulates excessive somatic growth.
+
+90
+00:13:21,000 --> 00:13:28,663
+Except for the brain, most fetal organs are affected by the macrosomia that characterizes the fetus of diabetic women.
+
+91
+00:13:28,663 --> 00:13:39,763
+Newborns are described as anthropometrically different from other large- for-gestational age (LGA) neonates (Catalano, 2003; Durnwald, 2004).
+
+92
+00:13:39,763 --> 00:13:50,350
+Specifically, those whose mothers are diabetic have excessive fat deposition on the shoulders and trunk, which predisposes to shoulder dystocia or fetopelvic disproportion .
+
+93
+00:13:50,350 --> 00:13:52,650
+Figure 60-2.
+
+94
+00:13:52,650 --> 00:13:58,588
+This 6050-g macrosomic neonate was born to a woman with gestational diabetes.
+
+95
+00:13:58,588 --> 00:14:08,438
+The incidence of macrosomia rises significantly when mean maternal blood glucose concentrations chronically exceed 130 mg/dL .
+
+96
+00:14:08,438 --> 00:14:16,563
+In addition, the overall birthweight distribution of neonates of diabetic mothers is skewed toward consistently heavier birthweights.
+
+97
+00:14:16,563 --> 00:14:29,000
+In one sonographic study, the macrosomia rates for Nordic women with type 1, type 2, or gestational diabetes were 35, 28, and 24 percent, respectively .
+
+98
+00:14:29,000 --> 00:14:35,138
+Moreover, the abdominal circumference grew disproportionately larger in the diabetic groups.
+
+99
+00:14:35,138 --> 00:14:44,750
+Analysis of head circumference/abdominal circumference (HC/AC) ratios shows that this disproportionate growth occurs mainly in
+
+100
+00:14:44,908 --> 00:14:49,620
+diabetic pregnancies that ultimately yield macrosomic newborns.
+
+101
+00:14:49,570 --> 00:15:01,333
+Unexplained Fetal Demise The risk of fetal death is three to four times higher in women with pregestational diabetes (Gardosi, 2013; Patel, 2015).
+
+102
+00:15:01,333 --> 00:15:18,408
+In the United Kingdom study of more than 17,000 pregnancies in women with pregestational diabetes, the stillbirth incidence was similar in those with type 1 or type 2 diabetes—10.4 versus 13.5 per 1000 live and stillbirths, respectively .
+
+103
+00:15:18,408 --> 00:15:26,420
+Stillbirth without an identifiable cause is a phenomenon relatively limited to pregnancies complicated by overt diabetes.
+
+104
+00:15:26,420 --> 00:15:38,345
+These stillbirths are “unexplained” because common factors such as obvious placental insufficiency, placental abruption, fetal-growth restriction, or oligohydramnios are not identified.
+
+105
+00:15:38,345 --> 00:15:44,858
+These fetuses are typically LGA and die before labor, usually later in the third trimester.
+
+106
+00:15:44,858 --> 00:15:50,383
+These unexplained stillbirths are usually associated with poor glycemic control.
+
+107
+00:15:50,383 --> 00:15:59,295
+In one study, suboptimal glycemic control was identified in two thirds of unexplained stillbirths between 1990 and 2000 .
+
+108
+00:15:59,295 --> 00:16:04,745
+Fetuses of diabetic mothers also often have elevated lactic acid levels.
+
+109
+00:16:04,745 --> 00:16:19,370
+Salvesen and colleagues (1992, 1993) analyzed fetal blood samples and reported that mean umbilical venous blood pH was lower in diabetic pregnancies and was significantly related to fetal insulin levels.
+
+110
+00:16:19,370 --> 00:16:30,345
+These findings support a hypothesis that hyperglycemic-mediated chronic aberrations in oxygen and fetal metabolite transport may underlie these unexplained fetal deaths .
+
+111
+00:16:30,345 --> 00:16:34,383
+Maternal ketoacidosis also can cause fetal death .
+
+112
+00:16:34,383 --> 00:16:44,808
+Moreover, stillbirths from placental insufficiency occur with increased frequency in women with overt diabetes and are usually associated with severe preeclampsia.
+
+113
+00:16:44,808 --> 00:16:57,508
+In the prior cited California study, the fetal death risk was sevenfold higher in women with hypertension and pregestational diabetes compared with the threefold increased risk associated with diabetes alone .
+
+114
+00:16:57,508 --> 00:17:04,058
+Stillbirth rates are also elevated in women with advanced diabetes and vascular complications.
+
+115
+00:17:04,058 --> 00:17:10,108
+Hydramnios Diabetic pregnancies are often complicated by excess amnionic fluid.
+
+116
+00:17:10,108 --> 00:17:33,208
+In one sonographic study, 18 percent of 314 pregnancies complicated by pregestational diabetes were found to have hydramnios in the third trimester, which was defined as an amnionic fluid index (AFI) >24 cm. Women with elevated HbA1c values in the third trimester were more likely to have hydramnios .
+
+117
+00:17:33,208 --> 00:17:40,158
+In a similar study, poor maternal glucose control was associated with macrosomia and hydramnios .
+
+118
+00:17:40,158 --> 00:17:47,058
+A likely— albeit unproven—explanation is that fetal hyperglycemia causes fetal polyuria .
+
+119
+00:17:47,058 --> 00:17:58,033
+In a study from Parkland Hospital, Dashe and coworkers (2000) found that the AFI parallels the amnionic fluid glucose level among women with diabetes.
+
+120
+00:17:58,033 --> 00:18:09,270
+Neonatal Effects Before tests of fetal health and maturity became available, delivery before term was deliberately selected for women with diabetes to avoid unexplained stillbirth.
+
+121
+00:18:09,270 --> 00:18:17,120
+Although this practice has been largely abandoned, a higher frequency of preterm delivery in women with diabetes persists.
+
+122
+00:18:17,120 --> 00:18:30,733
+One analysis of early-term delivery (370/7 to 386/7 weeks) showed a 13-percent reduction in such deliveries in women with diabetes between 2005 and 2011 .
+
+123
+00:18:30,733 --> 00:18:37,083
+Most indicated deliveries are prompted by advanced diabetes with superimposed preeclampsia.
+
+124
+00:18:37,083 --> 00:18:47,620
+Although modern neonatal care has reduced neonatal death rates due to immaturity, neonatal morbidity due to preterm birth continues to be a serious consequence.
+
+125
+00:18:47,620 --> 00:19:06,645
+In one Neonatal Research Network study of 10,781 extremely preterm neonates, those born to diabetic women treated with insulin prior to pregnancy were at greater risk for necrotizing enterocolitis and late-onset sepsis than similarly aged neonates of mothers without diabetes .
+
+126
+00:19:06,645 --> 00:19:16,145
+Respiratory Distress Syndrome Gestational age rather than overt diabetes is likely the most significant factor associated with respiratory distress syndrome .
+
+127
+00:19:16,145 --> 00:19:30,295
+Indeed, in one analysis of 19,399 very-low-birthweight neonates delivered between 24 and 33 weeks’ gestation, rates of respiratory distress syndrome in newborns of diabetic mothers were
+
+128
+00:19:30,460 --> 00:19:35,110
+not higher compared with rates in neonates of nondiabetic mothers .
+
+129
+00:19:35,060 --> 00:19:42,222
+Diabetes does not appear to alter the beneficial effects of antenatal corticosteroids to hasten lung maturity .
+
+130
+00:19:42,222 --> 00:19:51,385
+Hypoglycemia and Hypocalcemia Newborns of a diabetic mother experience a rapid drop in plasma glucose concentration after delivery.
+
+131
+00:19:51,385 --> 00:19:58,372
+This is attributed to the hyperplasia of fetal βislet cells that is induced by chronic maternal hyperglycemia.
+
+132
+00:19:58,372 --> 00:20:11,910
+Low glucose concentrations—defined as <45 mg/dL—are particularly common in newborns of women with unstable glucose concentrations during labor (van Kempen, 2020).
+
+133
+00:20:11,910 --> 00:20:20,235
+Preliminary observations showed that early-term fetuses exposed to antenatal corticosteroids have a high rate of hypoglycemia .
+
+134
+00:20:20,235 --> 00:20:27,360
+Frequent blood glucose measurements in the newborn and active early feeding practices can mitigate this complication.
+
+135
+00:20:27,360 --> 00:20:35,510
+Hypocalcemia is defined as a total serum calcium concentration <8 mg/dL in term newborns.
+
+136
+00:20:35,510 --> 00:20:42,510
+Early-onset hypocalcemia is one of the potential metabolic derangements in neonates of diabetic mothers.
+
+137
+00:20:42,510 --> 00:20:44,747
+Its cause is unclear.
+
+138
+00:20:44,747 --> 00:20:51,072
+Theories include altered magnesium–calcium economy, asphyxia, and preterm birth.
+
+139
+00:20:51,072 --> 00:21:00,147
+In one randomized study, 137 pregnant women with type 1 diabetes were managed with strict versus customary glucose control .
+
+140
+00:21:00,147 --> 00:21:08,897
+Almost a third of neonates in the customary control group developed hypocalcemia compared with only 18 percent of those in the strict-control group.
+
+141
+00:21:08,897 --> 00:21:17,385
+Hyperbilirubinemia and Polycythemia The pathogenesis of hyperbilirubinemia in neonates of diabetic mothers is uncertain.
+
+142
+00:21:17,385 --> 00:21:23,497
+A major contributing factor is newborn polycythemia, which raises the bilirubin load .
+
+143
+00:21:23,497 --> 00:21:28,472
+Polycythemia is thought to be a fetal response to relative hypoxia.
+
+144
+00:21:28,472 --> 00:21:40,047
+According to Hay (2012), the sources of this fetal hypoxia are hyperglycemia-mediated elevations in maternal affinity for oxygen and fetal oxygen consumption.
+
+145
+00:21:40,047 --> 00:21:48,510
+Together with insulin-like growth factors, this hypoxia leads to elevated fetal erythropoietin levels and red cell production.
+
+146
+00:21:48,510 --> 00:21:56,972
+Cardiomyopathy Newborns of pregestational and gestational diabetic pregnancies frequently have hypertrophic cardiomyopathy.
+
+147
+00:21:56,972 --> 00:22:04,947
+This remodeling can be associated with cardiac dysfunction (Aguilera, 2020; Depla, 2021).
+
+148
+00:22:04,947 --> 00:22:15,322
+Huang and coworkers (2013) propose that pathological ventricular hypertrophy in neonates born to women with diabetes is due to insulin excess.
+
+149
+00:22:15,322 --> 00:22:21,147
+In severe cases, this cardiomyopathy may lead to obstructive cardiac failure.
+
+150
+00:22:21,147 --> 00:22:29,697
+In one study, the fetuses of 26 women with pregestational diabetes underwent serial echocardiographic evaluation.
+
+151
+00:22:29,697 --> 00:22:35,497
+In the first trimester, fetal diastolic dysfunction was already evident in some.
+
+152
+00:22:35,497 --> 00:22:43,710
+In the third trimester, the fetal interventricular septum and right ventricular wall were thicker in fetuses of diabetic mothers .
+
+153
+00:22:43,710 --> 00:22:46,860
+Others report similar observations .
+
+154
+00:22:46,860 --> 00:22:54,635
+Most affected newborns are asymptomatic following birth, and hypertrophy usually resolves in the months after delivery.
+
+155
+00:22:54,635 --> 00:22:58,610
+Any long-term adverse sequelae remain to be determined .
+
+156
+00:22:58,610 --> 00:23:05,485
+Long-term Cognitive Development Intrauterine metabolic conditions are linked to neurodevelopment in offspring.
+
+157
+00:23:05,485 --> 00:23:15,597
+In a study of more than 700,000 Swedish men, the intelligence quotient of those whose mothers had diabetes during pregnancy averaged 1 to 2 points lower .
+
+158
+00:23:15,597 --> 00:23:24,210
+DeBoer and associates (2005) demonstrated impaired memory performance at age 1 year in infants of diabetic mothers.
+
+159
+00:23:24,210 --> 00:23:37,060
+Results from the Childhood Autism Risks from Genetics and the Environment (CHARGE) study indicated that autism spectrum disorders or developmental delay also were more common in children of diabetic women .
+
+160
+00:23:37,060 --> 00:23:49,435
+Adane and colleagues (2016) confirmed a consistent relationship between maternal diabetes and diminished cognitive and language development in studies of younger children but not older children.
+
+161
+00:23:49,435 --> 00:24:04,022
+Because interpreting effects of the intrauterine environment on neurodevelopment is confounded by postnatal factors, the link between maternal diabetes, glycemic control, and long-term neurocognitive outcome remains unconfirmed.
+
+162
+00:24:04,022 --> 00:24:10,835
+Inheritance The risk of developing type 1 diabetes if either parent is affected is 3 to 5 percent.
+
+163
+00:24:10,835 --> 00:24:13,622
+Type 2 diabetes has a much
+
+164
+00:24:13,780 --> 00:24:16,317
+stronger genetic component.
+
+165
+00:24:16,267 --> 00:24:23,142
+If both parents have type 2 diabetes, the risk of their offspring developing it approaches 40 percent .
+
+166
+00:24:23,142 --> 00:24:30,817
+Both types of diabetes develop after a complex interplay between genetic predisposition and environmental factors.
+
+167
+00:24:30,817 --> 00:24:42,780
+Type 1 diabetes is prompted by environmental triggers such as infection, diet, or toxins and is heralded by the appearance of islet-cell autoantibodies in genetically vulnerable people .
+
+168
+00:24:42,780 --> 00:24:45,342
+# Maternal Effects.
+
+169
+00:24:45,342 --> 00:24:51,417
+Diabetes and pregnancy can interact to an extent that maternal welfare can be jeopardized.
+
+170
+00:24:51,417 --> 00:25:00,405
+With the possible exception of diabetic retinopathy, however, the long-term course of diabetes does not appear to be affected by pregnancy.
+
+171
+00:25:00,405 --> 00:25:15,542
+In one analysis of more than 800,000 pregnancies, the 1125 mothers with type 1 diabetes had greater risks for hypertension and respiratory complications than nondiabetic gravidas (Jovanovič, 2015).
+
+172
+00:25:15,542 --> 00:25:29,117
+The 10,126 mothers with type 2 diabetes had an elevated risk for hypertension, infection, depression, and cardiac or respiratory complications compared with nondiabetic gravidas.
+
+173
+00:25:29,117 --> 00:25:36,530
+Maternal death is uncommon, but rates in women with diabetes are still higher than those in unaffected gravidas.
+
+174
+00:25:36,530 --> 00:25:45,155
+In one analysis of 972 women with type 1 diabetes, the maternal mortality rate was 0.5 percent.
+
+175
+00:25:45,155 --> 00:25:51,942
+Deaths stemmed from diabetic ketoacidosis, hypoglycemia, hypertension, and infection .
+
+176
+00:25:51,942 --> 00:26:00,417
+Preeclampsia Pregnancy-associated hypertension is the complication that most often forces preterm delivery in diabetic women.
+
+177
+00:26:00,417 --> 00:26:07,680
+The incidence of chronic and gestational hypertension—and especially preeclampsia—is remarkably increased .
+
+178
+00:26:07,680 --> 00:26:17,255
+In one metaanalysis of 92 studies, women with pregestational diabetes had a nearly fourfold higher pooled relative risk for preeclampsia .
+
+179
+00:26:17,255 --> 00:26:25,367
+In the prior cited California study, preeclampsia developed three to four times more often in women with overt diabetes.
+
+180
+00:26:25,367 --> 00:26:33,730
+Moreover, those diabetics with coexistent chronic hypertension were almost 12 times more likely to develop preeclampsia .
+
+181
+00:26:33,730 --> 00:26:42,217
+Women with type 1 diabetes in more advanced White classes typically exhibit preexisting vascular complications and nephropathy.
+
+182
+00:26:42,217 --> 00:26:46,105
+These women are more likely to develop preeclampsia .
+
+183
+00:26:46,105 --> 00:26:55,667
+This rising risk may be related to oxidative stress, which plays a key role in the pathogenesis of diabetic complications and preeclampsia.
+
+184
+00:26:55,667 --> 00:27:11,255
+With this in mind, the Diabetes and Preeclampsia Intervention Trial (DAPIT) randomly assigned 762 women with type 1 diabetes to antioxidant vitamin C and E supplementation or placebo in the first half of pregnancy .
+
+185
+00:27:11,255 --> 00:27:17,592
+Preeclampsia rates were not improved except in the few with a low antioxidant status at baseline.
+
+186
+00:27:17,592 --> 00:27:19,980
+Figure 60-3.
+
+187
+00:27:19,980 --> 00:27:29,217
+Incidence of preeclampsia in 491 women with type 1 diabetes stratefied by diabetic class in Sweden and the United States.
+
+188
+00:27:29,217 --> 00:27:34,267
+Data from Hansona, 1993; Sibaib, 2000.
+
+189
+00:27:34,267 --> 00:27:44,392
+Preventively, low-dose aspirin prophylaxis is recommended in women at high risk of preeclampsia, which includes those with type 1 or type 2 diabetes .
+
+190
+00:27:44,392 --> 00:27:52,617
+An 81-mg oral daily dose is initiated between 12 and 28 weeks’ gestation and is continued until delivery .
+
+191
+00:27:52,617 --> 00:27:59,255
+Diabetic Nephropathy Diabetes is the leading cause of end-stage renal disease in the United States .
+
+192
+00:27:59,255 --> 00:28:10,067
+Clinically detectable nephropathy begins with microalbuminuria, recognized as 30 to 300 mg of protein in a 24-hour urine collection specimen.
+
+193
+00:28:10,067 --> 00:28:14,917
+This may manifest as early as 5 years after diabetes onset.
+
+194
+00:28:14,917 --> 00:28:24,980
+Macroalbuminuria—more than 300 mg in a 24-hour collection specimen—develops in patients destined to have end-stage renal disease.
+
+195
+00:28:24,980 --> 00:28:33,192
+Hypertension almost invariably develops during this period, and renal failure ensues typically in the next 5 to 10 years.
+
+196
+00:28:33,192 --> 00:28:43,592
+The incidence of overt proteinuria is nearly 30 percent in individuals with type 1 diabetes and ranges from 4 to 20 percent in those with type 2 diabetes .
+
+197
+00:28:43,592 --> 00:28:48,167
+Regression is common, presumably from improved glucose control.
+
+198
+00:28:48,167 --> 00:28:54,180
+Approximately 5 percent of gravidas with overt diabetes already have renal involvement .
+
+199
+00:28:54,180 --> 00:28:58,492
+As many as 40 percent of these will develop preeclampsia .
+
+200
+00:28:58,492 --> 00:29:07,055
+In addition, Ambia and associates (2020) reported that the rates of preterm delivery, preeclampsia, and fetal-growth
+
+201
+00:29:07,204 --> 00:29:21,054
+restriction were significantly higher in diabetic women with proteinuria >300 mg/d compared with rates in diabetic gravidas whose 24-hour protein excretion was <300 mg/d.
+
+202
+00:29:21,004 --> 00:29:26,041
+In general, pregnancy does not appear to worsen diabetic nephropathy.
+
+203
+00:29:26,041 --> 00:29:34,416
+In one prospective study of 43 women with diabetes, diabetic nephropathy did not progress through 12 months after delivery .
+
+204
+00:29:34,416 --> 00:29:38,179
+Most of these women had only mild renal impairment.
+
+205
+00:29:38,179 --> 00:29:45,429
+Conversely, pregnant women with moderate to severe renal impairment may have accelerated progression of their disease .
+
+206
+00:29:45,429 --> 00:29:58,329
+As in women with glomerulopathies, hypertension or substantial proteinuria before or during pregnancy is a major predictive factor for ultimate progression to renal failure in women with diabetic nephropathy.
+
+207
+00:29:58,329 --> 00:30:06,429
+Diabetic Retinopathy Retinal vasculopathy is a highly specific complication of both type 1 and type 2 diabetes.
+
+208
+00:30:06,429 --> 00:30:13,991
+In the United States, diabetic retinopathy is the most important cause of visual impairment in working-aged adults.
+
+209
+00:30:13,991 --> 00:30:22,916
+The first and most common visible lesions are small microaneurysms followed by blot hemorrhages that form when erythrocytes escape from the aneurysms.
+
+210
+00:30:22,916 --> 00:30:27,366
+These areas leak serous fluid that creates hard exudates.
+
+211
+00:30:27,366 --> 00:30:32,004
+Such features are termed background or nonproliferative retinopathy.
+
+212
+00:30:32,004 --> 00:30:38,466
+With increasingly severe retinopathy, the abnormal vessels of background eye disease become occluded.
+
+213
+00:30:38,466 --> 00:30:43,891
+This leads to retinal ischemia and infarctions that appear as cotton wool exudates.
+
+214
+00:30:43,891 --> 00:30:47,466
+These are considered preproliferative retinopathy.
+
+215
+00:30:47,466 --> 00:30:54,929
+In response to ischemia, neovascularization begins on the retinal surface and out into the vitreous cavity.
+
+216
+00:30:54,929 --> 00:30:58,029
+Vision is obscured when these vessels bleed.
+
+217
+00:30:58,029 --> 00:31:05,029
+Laser photocoagulation before hemorrhage reduces the rate of visual loss progression and blindness by half.
+
+218
+00:31:05,029 --> 00:31:09,279
+The procedure may be performed during pregnancy when indicated.
+
+219
+00:31:09,279 --> 00:31:19,566
+In one study of nearly 500 pregnancies in women with type 1 diabetes, a third had prepregnancy retinopathy and 16 percent of these showed worsening .
+
+220
+00:31:19,566 --> 00:31:26,091
+Almost 25 percent of those without prepregnancy retinopathy developed disease during pregnancy.
+
+221
+00:31:26,091 --> 00:31:35,241
+Fortunately, development of sight-threatening retinopathy was rare, and only 4 percent of patients followed postpartum had progression of disease.
+
+222
+00:31:35,241 --> 00:31:46,054
+Another group of investigators evaluated 80 women with type 2 diabetes and identified retinopathy, mostly mild, in 14 percent during early pregnancy .
+
+223
+00:31:46,054 --> 00:31:49,566
+Progression was identified in 14 percent.
+
+224
+00:31:49,566 --> 00:32:07,079
+Other risk factors that have been associated with progression of retinopathy include hypertension, higher levels of insulin-like growth factor 1, placental growth factor, and macular edema identified in early pregnancy (Huang, 2015; Vestgaard, 2010).
+
+225
+00:32:07,079 --> 00:32:18,079
+The American Academy of Ophthalmology (2019) recommends that pregnant women with overt diabetes should be offered retinal assessment after the first prenatal visit.
+
+226
+00:32:18,079 --> 00:32:24,416
+Subsequent eye examinations depend on severity of retinopathy and level of glucose control.
+
+227
+00:32:24,416 --> 00:32:34,154
+Currently, most agree that laser photocoagulation and good glycemic control during pregnancy minimize the potential for deleterious effects of pregnancy.
+
+228
+00:32:34,154 --> 00:32:41,516
+Ironically, “acute” rigorous metabolic control during pregnancy has been linked to acute worsening of retinopathy.
+
+229
+00:32:41,516 --> 00:32:51,079
+In a study of 201 women with retinopathy, almost 30 percent suffered eye disease progression during pregnancy despite intensive glucose control .
+
+230
+00:32:51,079 --> 00:33:03,366
+That said, Wang and coworkers (1993) observed that although retinopathy worsened during the critical months of rigorous glucose control, long-term progression of eye disease actually slowed.
+
+231
+00:33:03,366 --> 00:33:10,854
+Diabetic Neuropathy Peripheral, symmetrical sensorimotor diabetic neuropathy is uncommon in pregnant women.
+
+232
+00:33:10,854 --> 00:33:17,041
+However, one form of this, diabetic gastropathy, can be troublesome during pregnancy.
+
+233
+00:33:17,041 --> 00:33:22,691
+It causes nausea and vomiting, nutritional problems, and difficult glucose control.
+
+234
+00:33:22,691 --> 00:33:30,354
+Affected women are advised that this complication is associated with a high risk of morbidity and poor perinatal outcome .
+
+235
+00:33:30,354 --> 00:33:36,629
+Treatment with metoclopramide and dopamine D2 receptor antagonists is sometimes successful.
+
+236
+00:33:36,629 --> 00:33:41,091
+Gastric neurostimulators have shown success during pregnancy .
+
+237
+00:33:41,091 --> 00:33:42,816
+Treatment of
+
+238
+00:33:42,988 --> 00:33:53,288
+hyperemesis gravidarum can be challenging, and we routinely provide insulin initially by continuous infusion for diabetic women who are admitted with this condition .
+
+239
+00:33:53,238 --> 00:34:04,338
+Diabetic Ketoacidosis This serious complication develops in approximately 1 percent of diabetic pregnancies and is most often encountered in women with type 1 diabetes .
+
+240
+00:34:04,338 --> 00:34:14,813
+It is increasingly being reported in women with type 2 or even those with gestational diabetes (Bryant, 2017; Sibai, 2014).
+
+241
+00:34:14,813 --> 00:34:31,100
+Diabetic ketoacidosis (DKA) may develop with hyperemesis gravidarum, infection, insulin noncompliance, insulin pump failures, β-mimetic drugs given for tocolysis, and corticosteroids given to induce fetal lung maturation.
+
+242
+00:34:31,100 --> 00:34:38,513
+DKA results from an insulin deficiency combined with an excess in counterregulatory hormones such as glucagon.
+
+243
+00:34:38,513 --> 00:34:43,038
+This leads to gluconeogenesis and ketone body formation.
+
+244
+00:34:43,038 --> 00:34:53,963
+The ketone body β-hydroxybutyrate is synthesized at a much greater rate than acetoacetate, which is preferentially detected by commonly used ketosis-detection methods.
+
+245
+00:34:53,963 --> 00:35:01,513
+Thus, serum or plasma assays for β-hydroxybutyrate more accurately reflect true ketone body levels.
+
+246
+00:35:01,513 --> 00:35:16,825
+The maternal mortality rate with DKA is <1 percent, but perinatal mortality rates associated with a single episode of DKA may reach 35 percent (Bryant, 2017; Guntupalli, 2015).
+
+247
+00:35:16,825 --> 00:35:25,238
+Noncompliance is a prominent factor, and this and DKA were historically considered prognostically bad signs in pregnancy .
+
+248
+00:35:25,238 --> 00:35:32,638
+Importantly, pregnant women usually develop DKA at lower blood glucose thresholds than when nonpregnant.
+
+249
+00:35:32,638 --> 00:35:44,600
+In a study from Parkland Hospital, the mean glucose level for pregnant women with DKA was 380 mg/dL, and the mean HbA1C value was 10 percent .
+
+250
+00:35:44,600 --> 00:35:53,888
+Euglycemic ketoacidosis during pregnancy also is possible but is rare (Sibai, 2014; Smati, 2020).
+
+251
+00:35:53,888 --> 00:36:00,138
+One management protocol for diabetic ketoacidosis is shown in Table 60-7.
+
+252
+00:36:00,138 --> 00:36:08,150
+An important cornerstone of management is vigorous rehydration with crystalloid solutions of normal saline or Ringer lactate.
+
+253
+00:36:08,150 --> 00:36:10,575
+Table 60-7.
+
+254
+00:36:10,575 --> 00:36:19,100
+Management of Diabetic Ketoacidosis During Pregnancy Infections The rates of many infections are higher in diabetic pregnant women.
+
+255
+00:36:19,100 --> 00:36:28,388
+Common ones include candidal vulvovaginitis, bacterial urinary and respiratory tract infections, and puerperal pelvic sepsis.
+
+256
+00:36:28,388 --> 00:36:42,225
+However, in one study of more than 1250 diabetic gravidas screened before 16 weeks’ gestation, rates of bacterial vaginosis or vaginal colonization with Candida or Trichomonas species were not increased .
+
+257
+00:36:42,225 --> 00:36:52,538
+In one population-based study of almost 200,000 pregnancies, the risk of asymptomatic bacteriuria in women with diabetes was increased twofold .
+
+258
+00:36:52,538 --> 00:36:58,625
+Another study found positive urine culture results in 25 percent of diabetic women .
+
+259
+00:36:58,625 --> 00:37:10,375
+In a 2-year analysis of pyelonephritis in pregnant women at Parkland Hospital, 5 percent with diabetes developed pyelonephritis compared with 1.3 percent without diabetes .
+
+260
+00:37:10,375 --> 00:37:17,775
+Rates of urinary tract infections can be minimized by screening and eradicating asymptomatic bacteriuria .
+
+261
+00:37:17,775 --> 00:37:30,063
+Last, Johnston and colleagues (2017) reported that 16.5 percent of women with pregestational diabetes had postoperative wound complications following cesarean delivery.
+
+262
+00:37:30,063 --> 00:37:34,950
+Prevention options are described in Chapter 30 (p. 550).
+
+263
+00:37:34,950 --> 00:37:37,725
+# Preconceptional Care.
+
+264
+00:37:37,725 --> 00:37:48,450
+Because of the close relationship between pregnancy complications and maternal glycemic control, efforts to achieve glucose targets are typically more aggressive during pregnancy.
+
+265
+00:37:48,450 --> 00:38:01,975
+Unfortunately, nearly half of pregnancies in the United States are unplanned, and diabetic women frequently begin pregnancy with suboptimal glucose control (Finer, 2016; Kim, 2005).
+
+266
+00:38:01,975 --> 00:38:08,738
+Management preferably should begin before pregnancy and then include specific goals during each trimester.
+
+267
+00:38:08,738 --> 00:38:21,263
+To minimize early pregnancy loss and congenital malformations, the National Preconception Health and Healthcare Initiative Clinical Workgroup established values for optimal glycemic control before conception .
+
+268
+00:38:21,263 --> 00:38:28,913
+This was defined as a HbA1c level <6.5 percent in women with pregestational diabetes.
+
+269
+00:38:28,913 --> 00:38:37,950
+The American Diabetes Association (2017b) has also defined optimal preconceptional glucose control in those using
+
+270
+00:38:38,116 --> 00:38:39,703
+insulin.
+
+271
+00:38:39,653 --> 00:38:57,928
+Reflective values are self-monitored preprandial glucose levels of 70 to 100 mg/dL, peak 2-hour postprandial values of 100 to 120 mg/dL, and mean daily glucose concentrations <110 mg/dL.
+
+272
+00:38:57,928 --> 00:39:16,278
+In one prospective population-based study of 933 pregnant women with type 1 diabetes, the risk of congenital malformations was not demonstrably higher with HbA1c levels <6.9 percent compared with the risk in more than 70,000 nondiabetic gravidas .
+
+273
+00:39:16,278 --> 00:39:26,278
+However, a substantial fourfold greater risk for malformations was found for HbA1c levels >10 percent (see Fig. 60-1).
+
+274
+00:39:26,278 --> 00:39:33,666
+Another study found fewer adverse outcomes with improved HbA1c values from conception to midpregnancy .
+
+275
+00:39:33,666 --> 00:39:42,828
+If indicated, evaluation and treatment for diabetic complications such as retinopathy or nephropathy should be instituted before pregnancy.
+
+276
+00:39:42,828 --> 00:39:52,928
+Last, folate, 400 μg/d orally, is given periconceptionally and during early pregnancy to decrease the risk of neural-tube defects .
+
+277
+00:39:52,928 --> 00:39:55,753
+# First-trimester Care.
+
+278
+00:39:55,753 --> 00:39:59,416
+Careful monitoring of glucose control is essential.
+
+279
+00:39:59,416 --> 00:40:10,266
+For this reason, we routinely hospitalize women with overt diabetes during early pregnancy to initiate an individualized glucose control program and provide education.
+
+280
+00:40:10,266 --> 00:40:18,991
+This also affords an opportunity to assess the extent of diabetic vascular complications and precisely establish gestational age.
+
+281
+00:40:18,991 --> 00:40:25,278
+The checklist provided by the Society for Maternal-Fetal Medicine (2020) is helpful.
+
+282
+00:40:25,278 --> 00:40:39,391
+Some initial evaluations done at Parkland Hospital include assessment of 24hour urine protein excretion and serum creatinine level, retinal examination, and echocardiogram if chronic hypertension is comorbid.
+
+283
+00:40:39,391 --> 00:40:55,203
+First-trimester screening for aneuploidy may include measurement of maternal serum pregnancy-associated plasma protein A (PAPP-A), β-human chorionic gonadotropin (hCG), and ultrasound measurement of fetal nuchal translucency .
+
+284
+00:40:55,203 --> 00:41:00,103
+Noninvasive prenatal testing with cell-free DNA also is suitable.
+
+285
+00:41:00,103 --> 00:41:15,166
+Although initially thought not to be different in women with pregestational diabetes, one analysis of more than 100 insulin-treated women identified reductions in median PAPP-A and β-hCG levels compared with gravidas without diabetes .
+
+286
+00:41:15,166 --> 00:41:20,716
+Not surprisingly, they detected no difference in nuchal translucency measurements.
+
+287
+00:41:20,716 --> 00:41:27,041
+When calculating aneuploidy risks in women with diabetes, these differences should be considered.
+
+288
+00:41:27,041 --> 00:41:29,553
+# Insulin Treatment.
+
+289
+00:41:29,553 --> 00:41:33,841
+The gravida with overt diabetes is best treated with insulin.
+
+290
+00:41:33,841 --> 00:41:46,841
+Although oral hypoglycemic agents have been used successfully for gestational diabetes (p. 1083), these agents are not currently recommended for overt diabetes, despite some controversy .
+
+291
+00:41:46,841 --> 00:42:05,028
+In an international, placebo-controlled trial including 502 insulin-treated women with type 2 diabetes, adjunctive metformin therapy was associated with improved glycemic control, reduced maternal weight gain, lower cesarean delivery rate, and less neonatal adiposity .
+
+292
+00:42:05,028 --> 00:42:19,116
+Importantly, the proportion of small-for-gestational age newborns was higher in the insulin plus metformin group, but the rate of composite serious neonatal outcomes was not increased compared with those receiving insulin plus placebo.
+
+293
+00:42:19,116 --> 00:42:27,178
+Maternal glycemic control can usually be achieved with multiple daily insulin injections and adjustment of dietary intake.
+
+294
+00:42:27,178 --> 00:42:33,191
+Table 60-8 lists the action profiles of common short- and long-acting insulins .
+
+295
+00:42:33,191 --> 00:42:41,791
+Subcutaneous insulin infusion by a calibrated pump does not yield better pregnancy outcomes compared with multiple daily injections.
+
+296
+00:42:41,791 --> 00:42:47,541
+However, an infusion pump is a safe alternative in appropriately selected patients .
+
+297
+00:42:47,541 --> 00:43:05,891
+With the advent of sensor-augmented insulin pumps and closed-loop insulin delivery systems, improved glycemic control with either manual or computer-generated insulin adjustments based on continuous glucose monitoring is now possible (Bergenstal, 2021; Stewart, 2016).
+
+298
+00:43:05,891 --> 00:43:16,041
+In one study of insulin pump use in women with type 1 diabetes, total daily insulin doses declined in the first trimester but later rose more than threefold.
+
+299
+00:43:16,041 --> 00:43:21,841
+Postprandial glucose elevations prompted most of the required daily-dose increases .
+
+300
+00:43:21,841 --> 00:43:25,578
+If a continuous-infusion insulin pump is elected,
+
+301
+00:43:25,732 --> 00:43:34,069
+initiation prepregnancy may help avoid hypoglycemia and ketoacidosis risks associated with the device’s learning curve .
+
+302
+00:43:34,019 --> 00:43:36,394
+Table 60-8.
+
+303
+00:43:36,394 --> 00:43:47,294
+Action Profiles of Commonly Used Insulins Monitoring Self-monitoring of capillary glucose levels using a glucometer is recommended because this involves the woman in her own care .
+
+304
+00:43:47,294 --> 00:43:59,769
+The American Diabetes Association (2017b) recommends fasting and postprandial glucose monitoring, and Table 60-9 lists glucose goals recommended in pregnancy.
+
+305
+00:43:59,769 --> 00:44:08,094
+Currently not standard care, one study showed that longitudinal HbA1c values could be used for risk stratification .
+
+306
+00:44:08,094 --> 00:44:15,894
+Advances in noninvasive glucose monitoring will undoubtedly render intermittent capillary glucose monitoring obsolete.
+
+307
+00:44:15,894 --> 00:44:29,794
+Subcutaneous continuous glucose monitoring devices have shown that pregnant women with diabetes experience significant periods of daytime hyperglycemia and nocturnal hypoglycemia that are undetected by traditional monitoring .
+
+308
+00:44:29,794 --> 00:44:40,969
+Such glucose monitoring systems, coupled with a continuous insulin pump, offer the potential of an “artificial pancreas” to avoid hypo- or hyperglycemia during pregnancy .
+
+309
+00:44:40,969 --> 00:44:43,419
+Table 60-9.
+
+310
+00:44:43,419 --> 00:45:01,569
+Self-Monitored Capillary Blood Glucose Goals Diet Nutritional planning includes appropriate weight gain through carbohydrate and caloric modifications based on height, weight, and degree of glucose intolerance (American Diabetes Association, 2017b; Egan, 2020).
+
+311
+00:45:01,569 --> 00:45:09,419
+The mix of carbohydrate, protein, and fat is adjusted to meet the metabolic goals and individual patient preferences.
+
+312
+00:45:09,419 --> 00:45:15,544
+A minimum of 175 g/d of carbohydrates ideally is provided.
+
+313
+00:45:15,544 --> 00:45:28,619
+In one analysis of more than 200 obese pregnant women with glucose intolerance, a lower carbohydrate intake, particularly late in pregnancy, was associated with lower fat mass in offspring at birth .
+
+314
+00:45:28,619 --> 00:45:35,969
+Allotted carbohydrates are distributed throughout the day in three small- to moderate-sized meals and two to four snacks.
+
+315
+00:45:35,969 --> 00:45:43,182
+Weight loss is not recommended, but modest caloric restriction may be appropriate for overweight or obese women.
+
+316
+00:45:43,182 --> 00:45:54,194
+An ideal dietary composition is 55 percent carbohydrate, 20 percent protein, and 25 percent fat, of which <10 percent is saturated fat.
+
+317
+00:45:54,194 --> 00:46:03,682
+Hypoglycemia Diabetic control can be unstable in the first half of pregnancy, and the incidence of hypoglycemia peaks during the first trimester.
+
+318
+00:46:03,682 --> 00:46:14,394
+One study found hypoglycemic events—blood glucose values <40 mg/dL—in 37 of 60 women with type 1 diabetes.
+
+319
+00:46:14,394 --> 00:46:22,444
+A fourth of these were considered severe because the women were unable to treat their own symptoms and required assistance from another person .
+
+320
+00:46:22,444 --> 00:46:29,494
+Caution is recommended when attempting to achieve euglycemia in women with recurrent episodes of hypoglycemia.
+
+321
+00:46:29,494 --> 00:46:48,719
+From one Cochrane database review, loose glycemic control, defined as fasting glucose values >120 mg/dL, was associated with greater risks for preeclampsia, cesarean delivery, and birthweight >90th percentile compared with women with tight or moderate control .
+
+322
+00:46:48,719 --> 00:47:00,069
+With very tight control, defined by fasting values <90 mg/dL, no obvious benefits were gained, but the number of cases of hypoglycemia increased.
+
+323
+00:47:00,069 --> 00:47:02,944
+# Second-trimester Care.
+
+324
+00:47:02,944 --> 00:47:15,482
+Maternal serum alpha-fetoprotein determination at 16 to 20 weeks’ gestation is used in association with targeted sonographic examination to detect neural-tube defects and other anomalies .
+
+325
+00:47:15,482 --> 00:47:22,044
+These serum levels may be lower in diabetic pregnancies, and interpretation is altered accordingly.
+
+326
+00:47:22,044 --> 00:47:27,932
+Because the incidence of congenital cardiac anomalies shown in Table 60-6.
+
+327
+00:47:27,932 --> 00:47:36,994
+is increased fivefold in mothers with diabetes, fetal echocardiography is an important part of second-trimester sonographic evaluation .
+
+328
+00:47:36,994 --> 00:47:47,807
+Dashe and coworkers (2009) cautioned that detection of fetal anomalies in obese diabetic women is more difficult than in similarly sized women without diabetes.
+
+329
+00:47:47,807 --> 00:47:54,769
+Regarding second-trimester glucose control, normoglycemia with selfmonitoring continues to be the goal.
+
+330
+00:47:54,769 --> 00:48:00,119
+After the first trimester’s glucose instability, a stable period ensues.
+
+331
+00:48:00,119 --> 00:48:03,882
+This is then followed by higher insulin requirements.
+
+332
+00:48:03,882 --> 00:48:09,894
+These stem from the enhanced peripheral resistance to insulin that is related to pregnancy and is
+
+333
+00:48:10,060 --> 00:48:13,760
+described in Chapter 4 (p. 57).
+
+334
+00:48:13,710 --> 00:48:26,347
+Although most women with pregestational diabetes require a higher total daily insulin dose with advancing gestational age, a small proportion will experience a reduction in their daily dose later in pregnancy.
+
+335
+00:48:26,347 --> 00:48:29,810
+The significance of this drop remains uncertain.
+
+336
+00:48:29,810 --> 00:48:42,772
+One Australian study evaluated women with falling insulin requirements (FIR), defined as a ≥15 percent drop in the peak total daily insulin dose after 20 weeks’ gestation .
+
+337
+00:48:42,772 --> 00:48:55,160
+In 158 women with type 1 and type 2 diabetes and FIR, the risk for a composite of adverse outcomes indicative of placental insufficiency was fourfold greater than in those without FIR.
+
+338
+00:48:55,160 --> 00:49:06,535
+The composite primary outcome included preeclampsia, fetal-growth disorders, delivery before 30 weeks’ gestation, placental abruption, and fetal death before 20 weeks.
+
+339
+00:49:06,535 --> 00:49:10,435
+FIR was more common in women with type 1 diabetes.
+
+340
+00:49:10,435 --> 00:49:13,885
+# Third-trimester Care and Delivery.
+
+341
+00:49:13,885 --> 00:49:25,247
+During the past several decades, the threat of late-pregnancy stillbirth in women with diabetes prompted recommendations for various fetal surveillance programs beginning in the third trimester.
+
+342
+00:49:25,247 --> 00:49:36,047
+Such protocols include fetal movement counting, periodic fetal heart rate monitoring, intermittent biophysical profile evaluation, and contraction stress testing .
+
+343
+00:49:36,047 --> 00:49:45,572
+None of these techniques has been subjected to prospective randomized clinical trials, and their primary value seems related to their low false-negative rates.
+
+344
+00:49:45,572 --> 00:49:57,197
+The American College of Obstetricians and Gynecologists (2020c, 2021) suggests initiating such testing at 32 to 34 weeks’ gestation.
+
+345
+00:49:57,197 --> 00:50:06,597
+With reassuring testing and no other complications, delivery is anticipated between 390/7 and 396/7 weeks.
+
+346
+00:50:06,597 --> 00:50:14,410
+At Parkland Hospital, women with diabetes are seen in a specialized Maternal–Fetal Medicine clinic every 2 weeks.
+
+347
+00:50:14,410 --> 00:50:21,047
+During these visits, glycemic control records are evaluated, and insulin doses are adjusted.
+
+348
+00:50:21,047 --> 00:50:27,135
+Women are routinely instructed to perform fetal kick counts beginning early in the third trimester.
+
+349
+00:50:27,135 --> 00:50:34,410
+At 34 weeks’ gestation, admission to our High-Risk Pregnancy Unit is offered to all insulin-treated women.
+
+350
+00:50:34,410 --> 00:50:37,885
+Approximately half of these women choose admission.
+
+351
+00:50:37,885 --> 00:50:45,472
+While in the hospital, they continue daily fetal movement counts and undergo fetal heart rate monitoring three times a week.
+
+352
+00:50:45,472 --> 00:50:51,585
+With no other complications, delivery at Parkland is typically planned for 38 weeks.
+
+353
+00:50:51,585 --> 00:50:59,922
+At the University of Alabama at Birmingham, weekly antenatal testing is initiated no later than 34 weeks’ gestation.
+
+354
+00:50:59,922 --> 00:51:07,935
+Twice-weekly testing is reserved for those with poorly controlled diabetes or supervening medical or obstetrical complications.
+
+355
+00:51:07,935 --> 00:51:15,710
+Delivery is planned for 39 weeks’ gestation in those with good glycemic control and reassuring antenatal testing.
+
+356
+00:51:15,710 --> 00:51:22,060
+Earlier delivery is planned for those with poor glycemic control or significant comorbidities.
+
+357
+00:51:22,060 --> 00:51:30,435
+For vaginal delivery, labor induction may be attempted when the fetus is not excessively large and the cervix is considered favorable .
+
+358
+00:51:30,435 --> 00:51:38,660
+Cesarean delivery at or near term has frequently been used to avoid the traumatic birth of a large fetus in a woman with diabetes.
+
+359
+00:51:38,660 --> 00:51:51,410
+In women with more advanced diabetes, especially those with vascular disease, the reduced likelihood of successful labor induction remote from term has also contributed to an increased cesarean delivery rate.
+
+360
+00:51:51,410 --> 00:52:04,372
+In an analysis of pregnancy outcomes of diabetic women from University of Alabama at Birmingham according to the White classification, the rates of cesarean delivery and preeclampsia escalated with White class .
+
+361
+00:52:04,372 --> 00:52:13,947
+In another study, a HbA1c level >6.4 percent at delivery was independently associated with urgent cesarean delivery .
+
+362
+00:52:13,947 --> 00:52:23,447
+This suggests that tighter glycemic control during the third trimester might reduce late fetal compromise and cesarean delivery for fetal indications.
+
+363
+00:52:23,447 --> 00:52:27,660
+Many of these women have undergone prior cesarean delivery.
+
+364
+00:52:27,660 --> 00:52:38,122
+Somewhat related to this, the cesarean delivery rate for women with overt diabetes has remained at approximately 80 percent for the past 40 years at Parkland Hospital.
+
+365
+00:52:38,122 --> 00:52:43,985
+Reducing or withholding the dose of long-acting insulin on the day of delivery is recommended.
+
+366
+00:52:44,140 --> 00:52:54,290
+Regular insulin should be used to meet most or all of the insulin needs of the mother during this time, because insulin requirements typically drop markedly after delivery.
+
+367
+00:52:54,240 --> 00:53:01,227
+During labor, continuous insulin infusion by calibrated intravenous pump is most satisfactory .
+
+368
+00:53:01,227 --> 00:53:08,690
+The woman should be adequately hydrated intravenously and given glucose in sufficient amounts to maintain euglycemia.
+
+369
+00:53:08,690 --> 00:53:16,740
+Capillary or plasma glucose levels are checked hourly during active labor, and regular insulin is administered accordingly.
+
+370
+00:53:16,740 --> 00:53:19,115
+Table 60-10.
+
+371
+00:53:19,115 --> 00:53:25,327
+Insulin Management for Labor Induction or Scheduled Cesarean Delivery # Puerperium.
+
+372
+00:53:25,327 --> 00:53:32,902
+Often, many diabetic women may require virtually no insulin for the first 24 hours or more postpartum.
+
+373
+00:53:32,902 --> 00:53:38,802
+Subsequently, insulin requirements may fluctuate markedly during the next few days.
+
+374
+00:53:38,802 --> 00:53:42,340
+Infection must be promptly detected and treated.
+
+375
+00:53:42,340 --> 00:53:45,990
+When appropriate, oral agents can be restarted.
+
+376
+00:53:45,990 --> 00:53:53,140
+For type 2 diabetic women who will be transitioned to oral agents, this can be done on postoperative day 1.
+
+377
+00:53:53,140 --> 00:53:57,740
+Counseling in the puerperium should include a discussion of birth control.
+
+378
+00:53:57,740 --> 00:54:06,490
+Effective contraception is especially important in women with overt diabetes to allow optimal glucose control before subsequent conception .
+
+379
+00:54:06,490 --> 00:54:08,902
+Gestational Diabetes.
+
+380
+00:54:08,902 --> 00:54:16,790
+In the United States in 2016, almost 6 percent of pregnancies were complicated by gestational diabetes .
+
+381
+00:54:16,790 --> 00:54:25,977
+Worldwide, its prevalence differs according to race, ethnicity, age, and body composition and by screening and diagnostic criteria.
+
+382
+00:54:25,977 --> 00:54:34,502
+As discussed in the following sections, several persisting controversies pertain to the diagnosis and treatment of gestational diabetes.
+
+383
+00:54:34,502 --> 00:54:44,265
+The word gestational implies that diabetes is induced by pregnancy— ostensibly because of exaggerated physiological changes in glucose metabolism .
+
+384
+00:54:44,265 --> 00:54:53,015
+Gestational diabetes is defined as carbohydrate intolerance of variable severity with its onset or first recognition during pregnancy .
+
+385
+00:54:53,015 --> 00:55:02,402
+This definition applies whether or not insulin is used for treatment and undoubtedly includes some women with previously unrecognized overt diabetes.
+
+386
+00:55:02,402 --> 00:55:11,365
+The term gestational diabetes aims to communicate the need for enhanced surveillance during pregnancy and to stimulate further testing postpartum.
+
+387
+00:55:11,365 --> 00:55:19,202
+The most important perinatal correlate is excessive fetal growth, which may result in both maternal and fetal birth trauma.
+
+388
+00:55:19,202 --> 00:55:26,965
+The likelihood of fetal death with appropriately treated gestational diabetes is not different from that in the general population.
+
+389
+00:55:26,965 --> 00:55:34,177
+More than half of women with gestational diabetes ultimately develop overt diabetes in the ensuing 20 years.
+
+390
+00:55:34,177 --> 00:55:42,127
+Moreover, mounting evidence implicates long-range complications that include obesity and diabetes in their offspring.
+
+391
+00:55:42,127 --> 00:55:45,140
+# Screening and Diagnosis.
+
+392
+00:55:45,140 --> 00:55:52,915
+Despite almost 50 years of research, there is still no agreement on the optimal screening method for gestational diabetes.
+
+393
+00:55:52,915 --> 00:56:07,102
+The difficulty in achieving consensus is underscored by the controversy following publication of the single-step approach shown in Table 60-11, which assesses the glucose values following a 75-g oral glucose load.
+
+394
+00:56:07,102 --> 00:56:23,627
+This strategy is espoused by the International Association of Diabetes and Pregnancy Study Groups Consensus Panel (2010) and was greatly influenced by results of the Hypoglycemia and Pregnancy Outcomes (HAPO) study, described subsequently.
+
+395
+00:56:23,627 --> 00:56:40,165
+Although the American Diabetes Association (2019) supports this new scheme, the American College of Obstetricians and Gynecologists (2019a) continues to recommend a two-step approach to screen and then diagnose gestational diabetes.
+
+396
+00:56:40,165 --> 00:56:51,365
+Similarly, the National Institutes of Health (NIH) Consensus Development Conference in 2013 concluded that evidence is insufficient to adopt a one-step approach.
+
+397
+00:56:51,365 --> 00:56:53,765
+Table 60-12.
+
+398
+00:56:53,765 --> 00:57:07,227
+Risk-Based Recommended Screening Strategy for Detecting GDMa The recommended two-step approach begins with either universal or risk-based selective screening using a 50-g, 1-hour oral glucose challenge test.
+
+399
+00:57:07,227 --> 00:57:17,527
+Participants in the Fifth International Workshop Conferences on Gestational Diabetes endorsed use of selective screening criteria shown in Table 60-12.
+
+400
+00:57:17,527 --> 00:57:20,677
+Conversely, the American College of
+
+401
+00:57:20,836 --> 00:57:35,523
+Obstetricians and Gynecologists (2019a) recommends universal screening of pregnant women with a protocol that provides a 50-g oral glucose load and that is followed in 1 hour by a laboratory-based blood glucose test.
+
+402
+00:57:35,473 --> 00:57:42,823
+It is suggested that attempts to identify the minority of women who should not be screened would add unnecessary complexity.
+
+403
+00:57:42,823 --> 00:57:51,936
+Screening should be performed between 24 and 28 weeks’ gestation in those women not known to have glucose intolerance earlier in pregnancy.
+
+404
+00:57:51,936 --> 00:58:05,723
+This 50-g screening test is followed by a diagnostic 100-g, 3-hour oral glucose tolerance test (OGTT) if screening results meet or exceed a predetermined plasma glucose concentration.
+
+405
+00:58:05,723 --> 00:58:08,223
+Table 60-11.
+
+406
+00:58:08,223 --> 00:58:24,623
+Threshold Values for Diagnosis of Gestational Diabetes with 75-g OGTT For the 50-g screening test, the plasma glucose level is measured 1 hour after a 50-g oral glucose load without regard to the time of day or time of last meal.
+
+407
+00:58:24,623 --> 00:58:39,523
+In an earlier review, the pooled sensitivity for a threshold of 140 mg/dL ranged from 74 to 83 percent depending on 100-g thresholds used for diagnosis (van Leeuwen, 2012).
+
+408
+00:58:39,523 --> 00:58:58,711
+Sensitivity estimates for a 50-g screen threshold of 135 mg/dL improved only slightly to 78 to 85 percent, but specificity dropped from a range of 72 to 85 percent for 140 mg/dL to 65 to 81 percent.
+
+409
+00:58:58,711 --> 00:59:07,036
+Using a threshold of 130 mg/dL marginally improves sensitivity with a further decline in specificity .
+
+410
+00:59:07,036 --> 00:59:20,698
+In the absence of clear evidence supporting one cutoff value over another, the American College of Obstetricians and Gynecologists (2019a) sanctions using any one of these three 50-g screen thresholds.
+
+411
+00:59:20,698 --> 00:59:29,686
+At Parkland Hospital, we continue to use 140 mg/dL as the screening threshold to prompt the 100-g test.
+
+412
+00:59:29,686 --> 00:59:36,798
+The threshold used at the University of Alabama at Birmingham is 135 mg/dL.
+
+413
+00:59:36,798 --> 00:59:45,536
+Justification for screening and treatment of women with gestational diabetes was strengthened by a randomized treatment trial in 1000 women .
+
+414
+00:59:45,536 --> 00:59:59,611
+Women diagnosed with gestational diabetes after a 75-g OGTT and assigned to receive dietary advice with blood glucose monitoring plus insulin therapy were compared with a cohort assigned to usual prenatal care.
+
+415
+00:59:59,611 --> 01:00:09,586
+The former group had a significantly lower risk of a composite perinatal adverse outcome that included death, shoulder dystocia, bone fracture, and nerve palsy.
+
+416
+01:00:09,586 --> 01:00:21,561
+Macrosomia defined by birthweight ≥4000 g complicated 10 percent of deliveries in the intervention group compared with 21 percent in the routine prenatal care group.
+
+417
+01:00:21,561 --> 01:00:26,386
+Cesarean delivery rates were almost identical in the two study groups.
+
+418
+01:00:26,386 --> 01:00:39,873
+Slightly different results were reported by the Maternal–Fetal Medicine Units Network randomized trial of 958 women identified with mild gestational diabetes using a two-step screening and diagnosis approach .
+
+419
+01:00:39,873 --> 01:00:51,348
+They reported no differences in rates of composite morbidity that included stillbirth, birth trauma, and neonatal hypoglycemia, hyperinsulinemia, and hyperbilirubinemia.
+
+420
+01:00:51,348 --> 01:01:06,411
+Secondary analyses did demonstrate a 50-percent reduction in macrosomia, fewer cesarean deliveries, and a significant decrease in shoulder dystocia rate—1.5 versus 4 percent—in treated versus routine care groups.
+
+421
+01:01:06,411 --> 01:01:18,698
+Based largely on these two landmark studies, the U.S. Preventive Services Task Force (2021) recommends universal screening in low-risk women after 24 weeks’ gestation.
+
+422
+01:01:18,698 --> 01:01:27,798
+However, the Task Force concluded that evidence is insufficient to assess the balance of benefits versus harms of screening before 24 weeks.
+
+423
+01:01:27,798 --> 01:01:32,323
+Earlier screening in obese women did not result in better outcomes .
+
+424
+01:01:32,323 --> 01:01:37,948
+The optimal OGTT to identify gestational diabetes also is debated.
+
+425
+01:01:37,948 --> 01:01:46,048
+Proposed criteria for interpretation of the diagnostic 100-g OGTT are shown in Table 60-13.
+
+426
+01:01:46,048 --> 01:01:52,173
+Criteria for the 75-g OGTT are shown in Table 60-11.
+
+427
+01:01:52,173 --> 01:02:05,761
+A secondary analysis of the Maternal-Fetal Medicine Units Network treatment trial showed that women diagnosed with either the National Diabetes Data Group (NDDG) or the Carpenter-Coustan criteria benefited from treatment .
+
+428
+01:02:05,761 --> 01:02:12,623
+However, the number needed to treat to prevent a shoulder dystocia was higher for the Carpenter-Coustan criteria.
+
+429
+01:02:12,623 --> 01:02:15,773
+Others report similar observations .
+
+430
+01:02:15,773 --> 01:02:17,173
+At
+
+431
+01:02:17,332 --> 01:02:27,919
+Parkland Hospital, we use the NDDG criteria for diagnosis, whereas Carpenter-Coustan criteria are preferred at the University of Alabama at Birmingham.
+
+432
+01:02:27,869 --> 01:02:30,519
+Table 60-13.
+
+433
+01:02:30,519 --> 01:02:58,094
+Diagnosis of Gestational Diabetes Mellitus Using Threshold Glucose Values from 100-g Oral Glucose Tolerance Testa,b Controversies of Screening and Diagnosis The HAPO study was a 7-year international epidemiological study of 23,325 pregnant women at 15 centers in nine countries analyzing the association of various levels of glucose intolerance during the third trimester with adverse perinatal outcomes .
+
+434
+01:02:58,094 --> 01:03:02,507
+Blood glucose levels were stratified into seven categories .
+
+435
+01:03:02,507 --> 01:03:15,782
+These values were then correlated with rates for birthweight >90th percentile, primary cesarean delivery, neonatal hypoglycemia, and cord serum Cpeptide levels >90th percentile.
+
+436
+01:03:15,782 --> 01:03:23,632
+Cord serum C-peptide is secreted in equimolar concentrations with insulin and reflects fetal β-islet cell function.
+
+437
+01:03:23,632 --> 01:03:31,619
+Findings generally supported the supposition that increasing plasma glucose levels were associated with increasing adverse outcomes.
+
+438
+01:03:31,619 --> 01:03:34,007
+Figure 60-4.
+
+439
+01:03:34,007 --> 01:03:38,844
+Hyperglycemia and Adverse Pregnancy Outcome (HAPO) Study.
+
+440
+01:03:38,844 --> 01:03:52,169
+The frequency of newborn birthweight ≥90th percentile for gestational age plotted against glucose levels fasting and at 1and 2-hr intervals following a 75-g oral glucose load.
+
+441
+01:03:52,169 --> 01:03:55,732
+LGA = large for gestational age.
+
+442
+01:03:55,732 --> 01:04:13,257
+Reproduced with permission from HAPO Study Cooperative Research Group, Metzger BE, Lowe LP, et al: Hyperglycemia and adverse pregnancy outcomes, N Engl J Med. 2008 May 8;358(19):1991–2002.
+
+443
+01:04:13,257 --> 01:04:24,182
+The International Association of Diabetes and Pregnancy Study Group This workshop conference in 2008 concerned the diagnosis and classification of gestational diabetes.
+
+444
+01:04:24,182 --> 01:04:33,907
+After reviewing the results of the HAPO study, a panel developed recommendations for the diagnosis and classification of hyperglycemia during pregnancy.
+
+445
+01:04:33,907 --> 01:04:40,957
+This panel allowed for the diagnosis of overt diabetes during pregnancy as shown in Table 60-4.
+
+446
+01:04:40,957 --> 01:05:00,307
+It also recommended a single-step approach to the diagnosis of gestational diabetes using the 75-g, 2-hour OGTT and thresholds derived using an arbitrary 1.75 odds ratio of outcomes such as LGA birthweight and cord serum C-peptide levels >90th percentile.
+
+447
+01:05:00,307 --> 01:05:09,369
+Only one of these thresholds, shown in Table 60-11, would need to be met or exceeded to make the diagnosis of gestational diabetes.
+
+448
+01:05:09,369 --> 01:05:21,719
+During their deliberations, the IADPSG estimated that implementation of these recommendations would raise the prevalence of gestational diabetes in the United States to 17.8 percent!
+
+449
+01:05:21,719 --> 01:05:31,432
+Said another way, using this approach, the number of women with mild gestational diabetes would increase almost threefold with no evidence of treatment benefit .
+
+450
+01:05:31,432 --> 01:05:42,757
+Feldman and coworkers (2016) evaluated the implementation of the IADPSG paradigm in a before-after analysis that included more than 6000 women.
+
+451
+01:05:42,757 --> 01:05:53,294
+Compared with a two-step approach, the new strategy was associated with a significant rise in gestational diabetes diagnosis rates but not with reduced macrosomia rates.
+
+452
+01:05:53,294 --> 01:06:02,269
+Remarkably, they identified a higher primary cesarean delivery rate associated with adoption of the IADPSG recommendations.
+
+453
+01:06:02,269 --> 01:06:16,957
+The American Diabetes Association (2013, 2019) initially recommended adopting this new approach, based on benefits inferred from trials in women identified using a two-step approach described earlier.
+
+454
+01:06:16,957 --> 01:06:22,132
+However, it now concludes that data also support a two-step strategy.
+
+455
+01:06:22,132 --> 01:06:35,494
+NIH Consensus Development Conference Prompted by these disparate recommendations, the NIH Consensus Development Conference on Diagnosing Gestational Diabetes Mellitus (2013) was convened.
+
+456
+01:06:35,494 --> 01:06:45,907
+The panel found insufficient evidence to adopt the one-step diagnostic process proposed by the IADPSG and recommended continuation of the two-step approach.
+
+457
+01:06:45,907 --> 01:06:56,569
+The Consensus Conference panel did also suggest that further studies resolving the beneficial uncertainties associated with the one-step approach could warrant revision of their conclusions.
+
+458
+01:06:56,569 --> 01:07:05,194
+A recent trial compared the IADPSG single-step approach to the more traditional two-step approach in almost 24,000 women .
+
+459
+01:07:05,194 --> 01:07:08,407
+Consistent with the IADPSG
+
+460
+01:07:08,572 --> 01:07:20,459
+prediction, the incidence of gestational diabetes was 16.5 percent in those who underwent single-step testing compared with 8.5 percent in women assigned to two-step testing.
+
+461
+01:07:20,409 --> 01:07:36,172
+However, incidences of hypertensive disorders of pregnancy, primary cesarean delivery, LGA newborns, and/or a perinatal composite outcome including measures of birth trauma and perinatal death were not materially different between testing groups.
+
+462
+01:07:36,172 --> 01:07:50,334
+Thus, this large and pragmatic trial does not show maternal or perinatal benefit and thus does not justify the increased patient and healthcare costs of broadening the diagnosis of gestational diabetes using the proposed single-step approach .
+
+463
+01:07:50,334 --> 01:07:53,447
+# Maternal and Fetal Effects.
+
+464
+01:07:53,447 --> 01:07:59,659
+Adverse consequences of gestational diabetes differ from those of pregestational diabetes .
+
+465
+01:07:59,659 --> 01:08:10,422
+Similar to women with overt diabetes, adverse maternal effects associated with gestational diabetes include a higher frequency of hypertension and cesarean delivery.
+
+466
+01:08:10,422 --> 01:08:27,997
+Unlike women with overt diabetes, women with gestational diabetes do not appear to have fetuses with substantially higher rates of anomalies than the general obstetrical population (American College of Obstetricians and Gynecologists, 2019a; Sheffield, 2002).
+
+467
+01:08:27,997 --> 01:08:43,422
+In a study of more than 1 million women from the Swedish Medical Birth Registry, major malformation rates were marginally elevated in fetuses of gestational diabetics compared with those of nondiabetic controls—2.3 versus 1.8 percent .
+
+468
+01:08:43,422 --> 01:08:47,309
+From this Registry, the stillbirth rate was not higher.
+
+469
+01:08:47,309 --> 01:08:58,722
+Additionally, the stillbirth rate was not increased in an analysis of more than 800,000 pregnancies from 2005 through 2011 (Jovanovič, 2015).
+
+470
+01:08:58,722 --> 01:09:07,972
+That said, women with elevated fasting glucose levels have elevated rates of unexplained stillbirths similar to those of women with overt diabetes.
+
+471
+01:09:07,972 --> 01:09:18,297
+This increasing risk with progressive maternal hyperglycemia emphasizes the importance of identifying women with evidence of preexisting diabetes early in pregnancy .
+
+472
+01:09:18,297 --> 01:09:29,697
+Fetal Macrosomia The primary effect attributed to gestational diabetes is excessive fetal size that is variably defined and discussed in Chapter 47 (p. 832).
+
+473
+01:09:29,697 --> 01:09:37,797
+The perinatal goal is to avoid difficult delivery from macrosomia and concomitant birth trauma associated with shoulder dystocia.
+
+474
+01:09:37,797 --> 01:09:54,509
+In one analysis of more than 80,000 vaginal births in Chinese women, the calculated risk for shoulder dystocia in newborns weighing ≥4200 g was 76-fold greater than the risk in those weighing <3500 g .
+
+475
+01:09:54,509 --> 01:10:00,159
+However, the odds ratio for shoulder dystocia in women with diabetes was <2.
+
+476
+01:10:00,159 --> 01:10:10,084
+Said another way, although gestational diabetes is certainly a risk factor, it accounts for only a small number of pregnancies complicated by shoulder dystocia.
+
+477
+01:10:10,084 --> 01:10:24,372
+One study identified shoulder dystocia in approximately 4 percent of women with mild gestational diabetes compared with <1 percent of women with a 50-g glucose screen result <120 mg/dL .
+
+478
+01:10:24,372 --> 01:10:38,722
+The excessive shoulder and trunk fat that commonly characterizes the macrosomic newborn of a diabetic mother predisposes such neonates to shoulder dystocia or cesarean delivery (Durnwald, 2004; McFarland, 2000).
+
+479
+01:10:38,722 --> 01:10:52,059
+However, one prospective study of fetal adipose measurements demonstrated no differences between measurements in 630 offspring of women with gestational diabetes and 142 without diabetes .
+
+480
+01:10:52,059 --> 01:10:57,947
+The authors attributed this negative finding to successful treatment of gestational diabetes.
+
+481
+01:10:57,947 --> 01:11:02,084
+Insulin-like growth factors also influence fetal growth.
+
+482
+01:11:02,084 --> 01:11:11,022
+These proinsulin-like polypeptides are produced by virtually all fetal organs and are potent stimulators of cell differentiation and division.
+
+483
+01:11:11,022 --> 01:11:19,484
+Although not a current clinical tool, one study found that maternal insulin-like growth factor 1 levels strongly correlated with birthweight .
+
+484
+01:11:19,484 --> 01:11:33,222
+The HAPO Study Cooperative Research Group (2008) also found dramatic elevations in cord serum C-peptide levels associated with rising maternal glucose levels following a 75-g OGTT.
+
+485
+01:11:33,222 --> 01:11:40,622
+C-peptide levels >90th percentile were found in almost a third of newborns in the highest glucose categories.
+
+486
+01:11:40,622 --> 01:11:45,472
+Other factors implicated in macrosomia include epidermal growth
+
+487
+01:11:45,628 --> 01:11:58,403
+factor, fibroblast growth factor, platelet-derived growth factor, leptin, and adiponectin (Grissa, 2010; Loukovaara, 2004; Mazaki-Tovi, 2005).
+
+488
+01:11:58,353 --> 01:12:11,453
+Maternal body mass index (BMI) is an independent and more substantial risk factor for fetal macrosomia than is glucose intolerance (Ehrenberg, 2004; Mission, 2013).
+
+489
+01:12:11,453 --> 01:12:25,203
+In a secondary analysis of women with either untreated mild gestational diabetes or normal glucose tolerance testing results, higher BMI levels were associated with rising birthweight, regardless of glucose levels .
+
+490
+01:12:25,203 --> 01:12:36,715
+Another analysis found that gestational diabetes, compared with obesity or gestational weight gain, contributed the least to the population-attributable fraction of LGA neonates .
+
+491
+01:12:36,715 --> 01:12:43,915
+The highest fraction of LGA neonates was attributable to maternal obesity plus excessive gestational weight gain.
+
+492
+01:12:43,915 --> 01:12:55,978
+Similarly, Egan and colleagues (2014) found that excessive gestational weight gain is common in women with gestational diabetes and confers an additive risk for fetal macrosomia.
+
+493
+01:12:55,978 --> 01:13:03,903
+Weight distribution also seems to play a role because the risk of gestational diabetes is greater with maternal truncal obesity.
+
+494
+01:13:03,903 --> 01:13:16,203
+One cohort study found that increased maternal abdominal subcutaneous fat thickness at 18 to 22 weeks’ gestation correlated with BMI and was a better predictor of gestational diabetes .
+
+495
+01:13:16,203 --> 01:13:27,715
+Neonatal Hypoglycemia Hyperinsulinemia may provoke severe neonatal hypoglycemia within minutes of birth, but only three fourths of these episodes occur in the first 6 hours .
+
+496
+01:13:27,715 --> 01:13:37,503
+The definition of neonatal hypoglycemia is debated, and recommended clinical thresholds range from 35 to 45 mg/dL.
+
+497
+01:13:37,503 --> 01:13:48,753
+One NIH workshop conference on the topic supported a threshold of 35 mg/dL in term newborns but cautioned that this practice is not strictly evidence based .
+
+498
+01:13:48,753 --> 01:14:02,565
+Treating neonates with glucose levels <47 mg/dL did not improve outcomes compared with treating those with glucose levels <36 mg/dL (van Kempen, 2020).
+
+499
+01:14:02,565 --> 01:14:16,828
+Newborns described by the HAPO Study Cooperative Research Group (2008) had an incidence of clinical neonatal hypoglycemia that rose with increasing maternal OGTT result values defined in Figure 60-4.
+
+500
+01:14:16,828 --> 01:14:28,115
+The frequency varied from 1 to 2 percent, but it was as high as 4.6 percent in women with fasting glucose levels ≥100 mg/dL.
+
+501
+01:14:28,115 --> 01:14:49,378
+Similarly, an analysis of more than 3000 Korean women who underwent a 50-g OGTT found that neonates born to women with a screening result ≥200 mg/dL were 84 times more likely to have hypoglycemia than those born to women with a result <140 mg/dL .
+
+502
+01:14:49,378 --> 01:14:55,503
+The risk of neonatal hypoglycemia correlates with umbilical cord C-peptide levels.
+
+503
+01:14:55,503 --> 01:15:01,590
+The risk also rises with birthweight, independent of a maternal diabetes diagnosis .
+
+504
+01:15:01,590 --> 01:15:03,815
+# Management.
+
+505
+01:15:03,815 --> 01:15:10,803
+Women with gestational diabetes can be divided into two functional classes using fasting glucose levels.
+
+506
+01:15:10,803 --> 01:15:27,590
+Pharmacological methods are usually recommended if diet modification does not consistently maintain the fasting plasma glucose levels <95 mg/dL or the 2-hour postprandial plasma glucose <120 mg/dL .
+
+507
+01:15:27,590 --> 01:15:34,703
+Whether pharmacological treatment should be used in women with lesser degrees of fasting hyperglycemia is unclear.
+
+508
+01:15:34,703 --> 01:15:41,090
+No controlled trials have been done to identify ideal glucose targets for fetal risk prevention.
+
+509
+01:15:41,090 --> 01:15:52,815
+On the other hand, the HAPO Study Cooperative Research Group (2008) did demonstrate increased fetal risk at glucose levels below the threshold used for diagnosis of diabetes.
+
+510
+01:15:52,815 --> 01:16:02,603
+The Fifth International Workshop Conference recommended that fasting capillary glucose levels be kept ≤95 mg/dL .
+
+511
+01:16:02,603 --> 01:16:16,778
+In their systematic review, Hartling and associates (2013) concluded that treating gestational diabetes resulted in significantly lower incidences of preeclampsia, shoulder dystocia, and macrosomia.
+
+512
+01:16:16,778 --> 01:16:25,440
+For example, the calculated risk ratio was 0.50 for delivering a newborn >4000 g after treatment.
+
+513
+01:16:25,440 --> 01:16:34,265
+These investigators caution that the attributed risk for these outcomes is low, especially when glucose values are only moderately elevated.
+
+514
+01:16:34,265 --> 01:16:41,853
+They were unable to demonstrate an effect on neonatal hypoglycemia or on future metabolic outcomes in the offspring.
+
+515
+01:16:41,853 --> 01:16:45,178
+Diabetic Diet Nutritional instructions
+
+516
+01:16:45,340 --> 01:16:52,327
+generally include a carbohydrate-controlled diet sufficient to maintain normoglycemia and avoid ketosis.
+
+517
+01:16:52,277 --> 01:16:59,202
+On average, this includes a caloric intake of 30 to 35 kcal/kg/d.
+
+518
+01:16:59,202 --> 01:17:13,115
+In one study, 152 women with gestational diabetes were randomly assigned to a 40- or a 55-percent daily carbohydrate diet, and no differences in insulin levels and pregnancy outcomes were found .
+
+519
+01:17:13,115 --> 01:17:24,777
+The American College of Obstetricians and Gynecologists (2019a) suggests that carbohydrate intake be limited to 33 to 40 percent of the total daily calories.
+
+520
+01:17:24,777 --> 01:17:30,902
+The remaining calories are apportioned to give 20 percent as protein and 40 percent as fat.
+
+521
+01:17:30,902 --> 01:17:37,277
+The most appropriate dietary approach for women with gestational diabetes has not been established.
+
+522
+01:17:37,277 --> 01:17:51,377
+One metaanalysis of trials of lowglycemic-index diets found that diets higher in complex carbohydrates and dietary fiber reduced the risk of macrosomia and likelihood of insulin use in women with gestational diabetes .
+
+523
+01:17:51,377 --> 01:17:57,652
+However, there clearly are limits to what can be accomplished with various dietary approaches alone.
+
+524
+01:17:57,652 --> 01:18:08,127
+Most and Langer (2012) found that insulin was effective in reducing the risk of excessive birthweight in offspring of obese women with gestational diabetes.
+
+525
+01:18:08,127 --> 01:18:20,840
+Casey and colleagues (2015b) also found that dietary treatment alone for morbidly obese women with mild gestational diabetes did not reduce neonatal fat mass or LGA birthweights.
+
+526
+01:18:20,840 --> 01:18:27,552
+Exercise Few trials have evaluated exercise specifically for women with gestational diabetes.
+
+527
+01:18:27,552 --> 01:18:42,565
+The American College of Obstetricians and Gynecologists (2020b) recommends regular physical activity that incorporates aerobic and strengthconditioning exercise during pregnancy and extends this to women with gestational diabetes.
+
+528
+01:18:42,565 --> 01:18:58,902
+Two recent metaanalyses demonstrate that structured exercise programs during pregnancy diminish weight gain during pregnancy and even reduce the risk of developing gestational diabetes (Russo, 2015; Sanabria-Martinez, 2015).
+
+529
+01:18:58,902 --> 01:19:05,127
+Exercise during pregnancy in women with gestational diabetes also lowers glucose levels .
+
+530
+01:19:05,127 --> 01:19:26,627
+Glucose Monitoring Hawkins and associates (2008) compared outcomes in 315 women with diettreated gestational diabetes who used personal glucose monitors against those of 615 gestational diabetics who were also diet-treated but who underwent intermittent fasting glucose evaluation during weekly obstetrical visits.
+
+531
+01:19:26,627 --> 01:19:33,002
+Women using daily blood-glucose self-monitoring had significantly fewer macrosomic newborns.
+
+532
+01:19:33,002 --> 01:19:38,990
+They also gained less weight after diagnosis than women evaluated during clinic visits only.
+
+533
+01:19:38,990 --> 01:19:46,777
+These findings support the common practice of blood-glucose self-monitoring for women with diettreated gestational diabetes.
+
+534
+01:19:46,777 --> 01:19:52,977
+Postprandial surveillance for gestational diabetes is superior to preprandial surveillance .
+
+535
+01:19:52,977 --> 01:20:05,302
+The American College of Obstetricians and Gynecologists (2019a) and the American Diabetes Association (2019) recommend glucose assessment four times daily.
+
+536
+01:20:05,302 --> 01:20:11,540
+The first check is performed fasting, and the remainder are done 1 or 2 hours after each meal.
+
+537
+01:20:11,540 --> 01:20:27,715
+At Parkland Hospital in women with diet-treated gestational diabetes, changing to postprandial monitoring significantly reduced weekly maternal weight gain (0.45 lb) compared with preprandial monitoring (0.63 lb).
+
+538
+01:20:27,715 --> 01:20:39,790
+Insulin Treatment Historically, insulin has been considered standard therapy in women with gestational diabetes when target glucose levels cannot be consistently achieved through nutrition and exercise.
+
+539
+01:20:39,790 --> 01:20:45,915
+Insulin does not cross the placenta, and tight glycemic control can usually be achieved.
+
+540
+01:20:45,915 --> 01:20:54,840
+Insulin therapy is typically added if fasting levels persist above 95 mg/dL in women with gestational diabetes.
+
+541
+01:20:54,840 --> 01:21:13,377
+The American College of Obstetricians and Gynecologists (2019a) also recommends that insulin be considered in women with 1-hour postprandial levels that persistently exceed 140 mg/dL or those with 2-hour levels >120 mg/dL.
+
+542
+01:21:13,377 --> 01:21:20,540
+Importantly, all of these thresholds are extrapolated from recommendations for managing women with overt diabetes.
+
+543
+01:21:20,540 --> 01:21:29,315
+The starting insulin dose is typically 0.7 to 1.0 U/kg/d and is given in divided doses .
+
+544
+01:21:29,315 --> 01:21:33,677
+A combination of intermediate-acting and short-acting insulin
+
+545
+01:21:33,844 --> 01:21:40,044
+may be used, and dose adjustments are based on glucose levels at particular times of the day.
+
+546
+01:21:39,994 --> 01:21:49,206
+At Parkland Hospital, the starting daily dose is divided so that two thirds is given in the morning before breakfast and one third in the evening before dinner.
+
+547
+01:21:49,206 --> 01:21:57,119
+In the morning dose, one third is regular insulin and two thirds are NPH (neutral protamine Hagedorn) insulin.
+
+548
+01:21:57,119 --> 01:22:02,794
+For the evening dose, one half is regular insulin and the other half is NPH.
+
+549
+01:22:02,794 --> 01:22:10,169
+Insulin instruction for these women is accomplished either in a specialized outpatient clinic or during a short hospital stay.
+
+550
+01:22:10,169 --> 01:22:19,106
+At the University of Alabama at Birmingham, a basal-bolus approach using insulin glargine with rapid-acting insulin at each meal is preferred.
+
+551
+01:22:19,106 --> 01:22:32,631
+After calculating an initial insulin dose, half is given as long-acting glargine at bedtime, and the other half is administered as rapid-acting insulin split into three doses given before breakfast, lunch, and dinner.
+
+552
+01:22:32,631 --> 01:22:45,069
+As shown in Table 608, when using insulin analogues such as insulin aspart and insulin lispro, the more rapid onset of action must be considered during postprandial glucose management.
+
+553
+01:22:45,069 --> 01:23:02,406
+Oral Hypoglycemic Agents Insulin is the preferred first-line agent for persistent hyperglycemia in women with gestational diabetes (American College of Obstetricians and Gynecologists, 2019a; American Diabetes Association, 2017b).
+
+554
+01:23:02,406 --> 01:23:18,456
+Both organizations acknowledge that several studies support the safety and efficacy of either metformin (Glucophage) or glyburide (Micronase), which is also called glibenclamide (Feig, 2020; Langer, 2000; Nicholson, 2009).
+
+555
+01:23:18,456 --> 01:23:27,319
+Balsells and coworkers (2015) completed a metaanalyses of trials that compared both agents with insulin or with each other.
+
+556
+01:23:27,319 --> 01:23:38,006
+In the seven trials comparing glyburide with insulin, glyburide was associated with higher birthweight, more macrosomia, and more frequent neonatal hypoglycemia.
+
+557
+01:23:38,006 --> 01:23:49,094
+In the six trials comparing metformin with insulin, metformin was associated with less maternal weight gain, more preterm birth, and less severe neonatal hypoglycemia.
+
+558
+01:23:49,094 --> 01:23:55,206
+Women requiring insulin initiation or insulin addition were considered to have failed treatment.
+
+559
+01:23:55,206 --> 01:24:03,569
+On average, such failures occurred in 6 percent of women treated with glyburide and 34 percent of those treated with metformin.
+
+560
+01:24:03,569 --> 01:24:12,044
+In the two studies directly comparing oral hypoglycemic agents, however, treatment failure rates of both agents were equivalent.
+
+561
+01:24:12,044 --> 01:24:26,706
+Moreover, reminiscent of findings from the trial of adjunctive metformin therapy in women with type 2 diabetes previously described, metformin treatment was associated with less maternal weight gain, lower birthweight, and less macrosomia.
+
+562
+01:24:26,706 --> 01:24:46,031
+Conversely, in a randomized trial of glyburide treatment as an adjunct to diet therapy in 395 women with mild gestational diabetes, Casey and colleagues (2015a) did not identify any significant improvements in pregnancy outcomes in women treated with adjunctive glyburide.
+
+563
+01:24:46,031 --> 01:24:52,381
+Concerns have also emerged regarding potential adverse outcomes among women treated with glyburide.
+
+564
+01:24:52,381 --> 01:25:00,381
+First, glyburide crosses the placenta and reaches concentrations in the fetus that are more than two thirds of maternal levels .
+
+565
+01:25:00,381 --> 01:25:17,056
+In a study of more than 9000 women with gestational diabetes treated with either insulin or glyburide, a significant rise in rates of neonatal intensive care unit admission, respiratory distress, and neonatal hypoglycemia was associated with glyburide use .
+
+566
+01:25:17,056 --> 01:25:23,369
+Similarly, metformin reaches fetal serum concentrations nearly equal to maternal levels.
+
+567
+01:25:23,369 --> 01:25:45,194
+However, in one study of 751 women with gestational diabetes who were randomly assigned to metformin or insulin treatment, short-term perinatal adverse events such as neonatal hypoglycemia, respiratory distress syndrome, phototherapy, or birth trauma did not differ between groups (Rowan, 2008; 2011).
+
+568
+01:25:45,194 --> 01:25:51,569
+The fat distribution in children exposed to metformin showed a tendency toward a more favorable pattern.
+
+569
+01:25:51,569 --> 01:25:59,806
+From a smaller randomized metformin trial, at 18 months, offspring exposed as fetuses to metformin were slightly heavier.
+
+570
+01:25:59,806 --> 01:26:05,881
+However, markers of early motor or language development did not differ compared with those in
+
+571
+01:26:06,052 --> 01:26:11,289
+offspring exposed as fetuses to insulin (Ijäs, 2015).
+
+572
+01:26:11,239 --> 01:26:18,777
+The Food and Drug Administration has not approved glyburide or metformin use for treatment of gestational diabetes.
+
+573
+01:26:18,777 --> 01:26:30,864
+The American College of Obstetricians and Gynecologists (2019a) recognizes both as reasonable choices for second-line glycemic control in women with gestational diabetes.
+
+574
+01:26:30,864 --> 01:26:38,952
+Because long-term outcomes have not been fully studied, the College recommends disclosure of the limitations in current safety data.
+
+575
+01:26:38,952 --> 01:26:41,752
+# Obstetrical Management.
+
+576
+01:26:41,752 --> 01:26:50,927
+In general, for women with gestational diabetes who do not require insulin, early delivery or other interventions are seldom required.
+
+577
+01:26:50,927 --> 01:26:56,452
+There is no consensus regarding the value or timing of antepartum fetal testing.
+
+578
+01:26:56,452 --> 01:27:02,702
+It is typically reserved for women with pregestational diabetes because of the greater stillbirth risk.
+
+579
+01:27:02,702 --> 01:27:15,077
+The American College of Obstetricians and Gynecologists (2019a, 2020c) endorses fetal surveillance in women with gestational diabetes and poor glycemic control.
+
+580
+01:27:15,077 --> 01:27:23,939
+At Parkland Hospital, women with gestational diabetes are routinely instructed to perform daily fetal kick counts in the third trimester.
+
+581
+01:27:23,939 --> 01:27:31,352
+As previously discussed, insulintreated women are offered inpatient admission after 34 weeks’ gestation.
+
+582
+01:27:31,352 --> 01:27:39,064
+Approximately half of these women accept admission, and antepartum fetal monitoring is performed three times each week.
+
+583
+01:27:39,064 --> 01:27:45,114
+Women with gestational diabetes and adequate glycemic control are managed expectantly.
+
+584
+01:27:45,114 --> 01:27:52,027
+Elective labor induction to prevent shoulder dystocia compared with spontaneous labor remains controversial.
+
+585
+01:27:52,027 --> 01:28:06,477
+In the truncated GINEXMAL randomized trial of 425 women with gestational diabetes, outcomes of labor induction between 38 and 39 weeks’ were compared with expectant management until 41 weeks’ gestation .
+
+586
+01:28:06,477 --> 01:28:19,264
+Although underpowered, this trial demonstrated no clinically meaningful difference in the cesarean delivery rate between the induction and expectantly managed groups—12.6 versus 11.8 percent.
+
+587
+01:28:19,264 --> 01:28:29,789
+However, with early labor induction, neonatal hyperbilirubinemia rates were significantly higher, and there was a nonsignificant threefold greater shoulder dystocia rate.
+
+588
+01:28:29,789 --> 01:28:46,052
+In a cohort study of 8392 women with gestational diabetes, routine delivery at 38 or 39 weeks’ gestation was associated with a lower rate of cesarean delivery but with an elevated rate of neonatal intensive care unit admission .
+
+589
+01:28:46,052 --> 01:28:59,439
+The American College of Obstetricians and Gynecologists (2019a) recommends that routine labor induction in women with diet-treated gestational diabetes should not occur before 39 weeks’ gestation.
+
+590
+01:28:59,439 --> 01:29:06,739
+As mentioned previously, at Parkland Hospital, those treated with insulin are delivered at 38 weeks’ gestation.
+
+591
+01:29:06,739 --> 01:29:13,089
+At the University of Alabama at Birmingham, delivery is carried out after 39 weeks.
+
+592
+01:29:13,089 --> 01:29:19,852
+Elective cesarean delivery to avoid brachial plexus injuries in overgrown fetuses is another issue.
+
+593
+01:29:19,852 --> 01:29:59,227
+The American College of Obstetricians and Gynecologists (2019b) concludes that data are insufficient to determine whether women with gestational diabetes whose fetuses have a sonographically estimated weight ≥4500 g should undergo cesarean delivery to avoid risk of birth trauma. In one systematic review, Garabedian and associates (2010) estimated that as many as 588 cesarean deliveries in women with gestational diabetes and an estimated fetal weight of ≥4500 g would be necessary to avoid one case of permanent brachial plexus palsy.
+
+594
+01:29:59,227 --> 01:30:10,877
+In one analysis of 903 women with gestational diabetes, sonographic estimates of fetal weight within 1 month of delivery typically overdiagnosed fetuses as being LGA.
+
+595
+01:30:10,877 --> 01:30:17,777
+Only 22 percent of women estimated to have an LGA fetus actually delivered an overgrown newborn .
+
+596
+01:30:17,777 --> 01:30:35,639
+Still, the American College of Obstetricians and Gynecologists (2020b) acknowledges that prophylactic cesarean delivery may be considered in diabetic women with an estimated fetal weight ≥4500 g. # Postpartum Evaluation.
+
+597
+01:30:35,639 --> 01:30:48,052
+Recommendations for postpartum evaluation are based on the 50- to 75percent likelihood that women with gestational diabetes will develop overt diabetes within 15 to 25 years .
+
+598
+01:30:48,052 --> 01:30:51,452
+The Fifth International Workshop Conference
+
+599
+01:30:51,604 --> 01:31:01,679
+on Gestational Diabetes recommended that women diagnosed with gestational diabetes undergo postpartum evaluation with a 75-g OGTT .
+
+600
+01:31:01,629 --> 01:31:09,804
+These recommendations and the classification scheme of the American Diabetes Association are shown in Table 60-14.
+
+601
+01:31:09,804 --> 01:31:23,004
+However, one study of insurance claim data from 2000 to 2013 showed that only 24 percent of women with a pregnancy complicated by gestational diabetes underwent postpartum screening within a year.
+
+602
+01:31:23,004 --> 01:31:27,491
+Less than half of those underwent a 75-g OGTT .
+
+603
+01:31:27,491 --> 01:31:43,141
+The American College of Obstetricians and Gynecologists (2019a) recommends either a fasting glucose assessment or a 75-g, 2-hour OGTT at 4 to 12 weeks postpartum for the diagnosis of overt diabetes.
+
+604
+01:31:43,141 --> 01:31:55,079
+The American Diabetes Association (2019) recommends testing every 1 to 3 years in women with a history of gestational diabetes but normal postpartum glucose screening.
+
+605
+01:31:55,079 --> 01:31:57,629
+Table 60-14.
+
+606
+01:31:57,629 --> 01:32:16,904
+Fifth International Workshop-Conference: Metabolic Assessments Recommended After Pregnancy with Gestational Diabetes Women with a history of gestational diabetes are also at risk for cardiovascular complications associated with dyslipidemia, hypertension, and abdominal obesity—the metabolic syndrome .
+
+607
+01:32:16,904 --> 01:32:30,054
+In a study of 47,909 parous women, the nearly 5000 women with prior gestational diabetes were 2.6 times more likely to be hospitalized for cardiovascular morbidity .
+
+608
+01:32:30,054 --> 01:32:38,729
+Another study evaluated 483 women between 5 and 10 years after being diagnosed with mild gestational diabetes .
+
+609
+01:32:38,729 --> 01:32:45,704
+Investigators found no increased risk for developing metabolic syndrome associated with additional pregnancies.
+
+610
+01:32:45,704 --> 01:32:54,679
+However, risk for subsequent diabetes rose almost fourfold if gestational diabetes complicated at least one subsequent pregnancy.
+
+611
+01:32:54,679 --> 01:32:58,104
+# Recurrent Gestational Diabetes.
+
+612
+01:32:58,104 --> 01:33:04,679
+In one large metaanalysis, the pooled gestational diabetes recurrence rate was 48 percent.
+
+613
+01:33:04,679 --> 01:33:21,266
+The same investigative group identified elevated maternal BMI, insulin use, fetal macrosomia, and weight gain between pregnancies as additional risk factors for gestational diabetes recurrence (Schwartz, 2015, 2016).
+
+614
+01:33:21,266 --> 01:33:30,304
+Lifestyle behavioral changes that include weight control and exercise between pregnancies would seem likely to prevent gestational diabetes recurrence.
+
+615
+01:33:30,304 --> 01:33:40,054
+However, women randomized to an exercise program that started before 14 weeks’ gestation in a subsequent pregnancy did not have a lower recurrence rate .
+
+616
+01:33:40,054 --> 01:33:54,666
+Conversely, Ehrlich and coworkers (2011) found that prepregnancy loss of at least two BMI units was associated with a lower subsequent risk of gestational diabetes in women who were overweight or obese in the first pregnancy.
+

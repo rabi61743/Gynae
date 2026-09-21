@@ -1,0 +1,1320 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,150
+Chapter 51: Obesity.
+
+3
+00:00:05,150 --> 00:00:17,587
+General Considerations Pregnancy And Obesity Antepartum Management Intrapartum Management Bariatric Surgery References Extensive weight gain is a major health problem today in many affluent societies.
+
+4
+00:00:17,587 --> 00:00:30,075
+The Centers for Disease Control and Prevention (CDC) (2020) reported the prevalence in the United States during 2017 to 2018 to be 42 percent among all adults.
+
+5
+00:00:30,075 --> 00:00:40,337
+The adverse health aspects of obesity are staggering and include increased risks for type 2 diabetes, heart disease, hypertension, and osteoarthritis.
+
+6
+00:00:40,337 --> 00:00:49,637
+Importantly, obese women and their fetuses are predisposed to numerous pregnancy-related complications and to longterm morbidity and mortality.
+
+7
+00:00:49,637 --> 00:00:52,000
+General Considerations.
+
+8
+00:00:52,000 --> 00:00:55,012
+# Definitions and Prevalence.
+
+9
+00:00:55,012 --> 00:01:03,812
+Of systems to classify obesity, the body mass index (BMI), also known as the Quetelet index, is most often used.
+
+10
+00:01:03,812 --> 00:01:11,437
+The BMI is calculated as weight in kilograms divided by the square of the height in meters (kg/m2).
+
+11
+00:01:11,437 --> 00:01:16,837
+Calculated BMI values are available in various chart and graphic forms .
+
+12
+00:01:16,837 --> 00:01:37,387
+The National Institutes of Health (2000) classifies adults according to BMI as follows: normal is 18.5 to 24.9 kg/m2, overweight is 25 to 29.9 kg/m2, and obese is ≥30 kg/m2.
+
+13
+00:01:37,387 --> 00:01:53,600
+Obesity is further divided into: class 1 is 30 to 34.9 kg/m2, class 2 is 35 to 39.9 kg/m2, and class 3 is ≥40 kg/m2.
+
+14
+00:01:53,600 --> 00:02:04,112
+Class 3 obesity is often referred to as morbid obesity, and supermorbid obesity describes a BMI ≥50 kg/m2.
+
+15
+00:02:04,112 --> 00:02:06,700
+Figure 51-1.
+
+16
+00:02:06,700 --> 00:02:10,775
+Chart for estimating body mass index (BMI).
+
+17
+00:02:10,775 --> 00:02:17,925
+To find the BMI category for a particular subject, locate the point at which the height and weight intersect.
+
+18
+00:02:17,925 --> 00:02:29,562
+Using these definitions, from 2015 to 2016 in the United States, among girls and women, the prevalence of obesity rose with age and varied among ethnicities .
+
+19
+00:02:29,562 --> 00:02:34,075
+Overall, severity also advances with increasing poverty.
+
+20
+00:02:34,075 --> 00:02:42,025
+Last, a genetic predisposition has been identified (Locke, 2015; Shungin, 2015).
+
+21
+00:02:42,025 --> 00:02:44,612
+Figure 51-2.
+
+22
+00:02:44,612 --> 00:02:51,787
+Prevalence of obesity in the United States by race: United States 2015–2016.
+
+23
+00:02:51,787 --> 00:02:55,025
+# Adipose Pathophysiology.
+
+24
+00:02:55,025 --> 00:02:59,962
+Fat tissue is much more complex than merely its energy storage function.
+
+25
+00:02:59,962 --> 00:03:12,112
+Many fat tissue cells communicate with all other tissues via endocrine and paracrine factors, which are cytokines specifically termed adipokines, lipokines, and exosomal microRNAs .
+
+26
+00:03:12,112 --> 00:03:30,737
+Some of these with metabolic functions include adiponectin, leptin, tumor necrosis factor α (TNF-α), interleukin 6 (IL-6), resistin, visfatin, apelin, vascular endothelial growth factor (VEGF), lipoprotein lipase, and insulin-like growth factor.
+
+27
+00:03:30,737 --> 00:03:33,937
+Adiponectin is a principal adipokine.
+
+28
+00:03:33,937 --> 00:03:42,762
+It enhances insulin sensitivity, blocks hepatic glucose release, and has cardioprotective effects on circulating plasma lipids.
+
+29
+00:03:42,762 --> 00:03:51,337
+An adiponectin deficit is linked with diabetes, hypertension, endothelial cell activation, and cardiovascular disease.
+
+30
+00:03:51,337 --> 00:04:01,325
+Cytokines that result in insulin resistance are leptin, resistin, TNF-α, and IL-6, and higher levels of these are found during pregnancy.
+
+31
+00:04:01,325 --> 00:04:09,237
+Indeed, adipokines, especially the inflammatory cytokines, may be the primary stimulant of insulin resistance .
+
+32
+00:04:09,237 --> 00:04:17,600
+Conversely, adiponectin has antiinflammatory and insulin-sensitizing roles and is negatively regulated by fat mass.
+
+33
+00:04:17,600 --> 00:04:24,450
+Perivascular adipose tissue also serves as a signaling mediator in regulating vascular function .
+
+34
+00:04:24,450 --> 00:04:28,487
+Placental production of these adipokines is also important .
+
+35
+00:04:28,487 --> 00:04:31,112
+# Metabolic Syndrome.
+
+36
+00:04:31,112 --> 00:04:39,500
+Given its multifaceted endocrine and paracrine functions, the detrimental effects of excessive adipose tissue are not surprising .
+
+37
+00:04:39,500 --> 00:04:44,675
+Obesity interacts with inherited factors to cause insulin resistance.
+
+38
+00:04:44,675 --> 00:04:52,075
+This resistance is characterized by impaired glucose metabolism and a predisposition to type 2 diabetes.
+
+39
+00:04:52,075 --> 00:05:00,925
+Insulin resistance also causes several subclinical abnormalities that predispose to cardiovascular disease and accelerate its onset.
+
+40
+00:05:00,925 --> 00:05:09,675
+The most important among these are type 2 diabetes, dyslipidemia, and hypertension, which are constituents of the metabolic syndrome.
+
+41
+00:05:09,675 --> 00:05:14,700
+Criteria to define this syndrome are found in Table 51-1.
+
+42
+00:05:14,700 --> 00:05:20,750
+Waist circumference is the preferred measurement for screening, but any three of five factors listed
+
+43
+00:05:20,908 --> 00:05:24,483
+are sufficient to diagnose the metabolic syndrome.
+
+44
+00:05:24,433 --> 00:05:31,033
+Notably, most patients with type 2 diabetes have metabolic syndrome according to these criteria.
+
+45
+00:05:31,033 --> 00:05:37,545
+Also, obese women with hypertension typically demonstrate elevated plasma insulin levels.
+
+46
+00:05:37,545 --> 00:05:40,133
+Table 51-1.
+
+47
+00:05:40,133 --> 00:05:55,333
+Criteria for Diagnosis of the Metabolic Syndrome The National Health and Nutrition Examination Survey (NHANES) of the CDC documented an overall prevalence of 34 percent for the metabolic syndrome in the United States by 2012 .
+
+48
+00:05:55,333 --> 00:05:58,858
+As expected, the prevalence rose with age.
+
+49
+00:05:58,858 --> 00:06:06,870
+It was 20 percent for those aged 18 to 29 years and was 36 percent for those aged 30 to 49 years.
+
+50
+00:06:06,870 --> 00:06:10,308
+# Nonalcoholic Fatty Liver Disease.
+
+51
+00:06:10,308 --> 00:06:15,633
+Generally speaking, visceral adiposity correlates with hepatic fat content .
+
+52
+00:06:15,633 --> 00:06:21,608
+With obesity, excessive fat accumulates in the liver and is termed hepatic steatosis.
+
+53
+00:06:21,608 --> 00:06:26,583
+This is also called nonalcoholic fatty liver disease (NAFLD).
+
+54
+00:06:26,583 --> 00:06:38,033
+In persons with the metabolic syndrome, steatosis can progress to nonalcoholic steatohepatitis (NASH) and then potentially to cirrhosis and hepatocellular carcinoma.
+
+55
+00:06:38,033 --> 00:06:47,695
+It is the major cause of cirrhosis and liver cancer, and annual medical costs of NAFLD in the United States exceed $100 billion .
+
+56
+00:06:47,695 --> 00:06:53,433
+Moreover, NAFLD is strongly associated with cardiovascular disease .
+
+57
+00:06:53,433 --> 00:06:59,083
+These interactions are explored further in Chapter 58 (p. 1040).
+
+58
+00:06:59,083 --> 00:07:02,383
+# Obesity-associated Morbidity.
+
+59
+00:07:02,383 --> 00:07:11,220
+Obese individuals suffer well-known consequences such as glucose intolerance, hypertension, dyslipidemia, and metabolic syndrome.
+
+60
+00:07:11,220 --> 00:07:22,058
+Furthermore, metabolic syndrome and obesity are linked with cardiovascular disease, including myocardial infarction, atrial fibrillation, heart failure, and stroke .
+
+61
+00:07:22,058 --> 00:07:29,170
+Excessive adiposity raises blood pressure and accounts for up to 75 percent of primary hypertension .
+
+62
+00:07:29,170 --> 00:07:38,408
+Insulin resistance and metabolic syndrome cause structural cerebral changes in the hippocampus and lower executive functioning and memory in adults .
+
+63
+00:07:38,408 --> 00:07:43,295
+And cytokine-induced osteoarthritis has long been linked to obesity .
+
+64
+00:07:43,295 --> 00:07:50,545
+Because of the foregoing, it is not surprising that obesity is associated with higher rates of all-cause early mortality.
+
+65
+00:07:50,545 --> 00:07:57,520
+Cardiovascular mortality data from 19 prospective studies are shown in Figure 51-3 .
+
+66
+00:07:57,520 --> 00:08:05,808
+In these and other studies, mortality risk from cardiovascular disease and cancer grew proportionally with increasing BMI.
+
+67
+00:08:05,808 --> 00:08:14,358
+However, an obesity paradox—whereby certain groups actually derive a survival advantage from being obese—is hypothesized .
+
+68
+00:08:14,358 --> 00:08:19,420
+Despite this, the health benefits of weight normalization are well documented .
+
+69
+00:08:19,420 --> 00:08:22,070
+Figure 51-3.
+
+70
+00:08:22,070 --> 00:08:33,970
+Estimated hazard ratios (95% CI) for death due to cardiovascular disease according to body mass index among 1.46 million white adult men and women.
+
+71
+00:08:33,970 --> 00:08:36,533
+# Obesity Treatment.
+
+72
+00:08:36,533 --> 00:08:39,433
+Weight loss is tremendously difficult.
+
+73
+00:08:39,433 --> 00:08:44,245
+If achieved, long-term maintenance poses equally daunting challenges.
+
+74
+00:08:44,245 --> 00:08:49,820
+Obstetrician-gynecologists are encouraged to aid weight loss in obese adult women.
+
+75
+00:08:49,820 --> 00:09:01,258
+Successful approaches include behavioral, pharmacological, and surgical techniques or a combination of these (Dixon, 2016; Heymsfield, 2017).
+
+76
+00:09:01,258 --> 00:09:11,145
+Dietary changes and exercise reduce weight and rates of the associated metabolic syndrome (Garvey, 2016; Martin, 2018).
+
+77
+00:09:11,145 --> 00:09:18,420
+When used in conjunction with bariatric surgery, glucose control in those with type 2 diabetes is improved.
+
+78
+00:09:18,420 --> 00:09:25,445
+However, both surgical and medical interventions are associated with appreciable long-term failure rates.
+
+79
+00:09:25,445 --> 00:09:32,208
+Indeed, the failure rate is 50 percent in patients with diabetes undergoing bariatric surgery .
+
+80
+00:09:32,208 --> 00:09:34,545
+Pregnancy And Obesity.
+
+81
+00:09:34,545 --> 00:09:38,933
+Obese women unequivocally have reproductive disadvantages .
+
+82
+00:09:38,933 --> 00:09:53,483
+This translates into difficulty in achieving pregnancy, early and recurrent pregnancy loss, preterm delivery, and several obstetrical, medical, and surgical complications with pregnancy, labor, delivery, and the puerperium .
+
+83
+00:09:53,483 --> 00:09:59,770
+Also, oral contraceptive pill failure and associated thromboembolism may be more likely.
+
+84
+00:09:59,770 --> 00:10:06,183
+Second-trimester surgical abortion in obese women also carries an increased complication risk .
+
+85
+00:10:06,183 --> 00:10:16,845
+Last, infants—and later, adult children—of obese mothers have correspondingly higher morbidity rates (Godfrey, 2017; He, 2020).
+
+86
+00:10:16,845 --> 00:10:19,158
+Obesity complicating
+
+87
+00:10:19,324 --> 00:10:22,886
+pregnancy has grown substantially in this country.
+
+88
+00:10:22,836 --> 00:10:29,311
+Our experiences at Parkland Hospital over three epochs are shown in Figure 51-4.
+
+89
+00:10:29,311 --> 00:10:36,386
+Most recently, obese women constitute >60 percent of pregnant gravidas in our health system.
+
+90
+00:10:36,386 --> 00:10:39,011
+Figure 51-4.
+
+91
+00:10:39,011 --> 00:10:47,674
+Increasing prevalence of obesity during four epochs in pregnant women classified at the time of their first prenatal visit at Parkland Hospital.
+
+92
+00:10:47,674 --> 00:10:50,286
+# Maternal Morbidity.
+
+93
+00:10:50,286 --> 00:10:55,574
+For overweight women, higher rates of adverse outcomes complicate pregnancy.
+
+94
+00:10:55,574 --> 00:11:03,249
+Shown in Table 51-2 are results from five studies including more than 1 million singleton pregnancies.
+
+95
+00:11:03,249 --> 00:11:13,399
+Although not as magnified as in the obese cohort, rates of almost all complications are significantly greater in overweight women than in those with normal BMI.
+
+96
+00:11:13,399 --> 00:11:15,974
+Table 51-2.
+
+97
+00:11:15,974 --> 00:11:38,649
+Adverse Pregnancy Effects in Overweight and Obese Women For obese women, definitions used in studies of adverse outcomes vary widely, and BMIs from >30 kg/m2 to >50 kg/m2 have served as thresholds (Crane, 2013; Pratt, 2020; Stamilio, 2014).
+
+98
+00:11:38,649 --> 00:11:49,136
+In one study, Mariona (2017) reviewed maternal deaths in Michigan and found that the maternal mortality rate was nearly fourfold higher in obese women.
+
+99
+00:11:49,136 --> 00:12:10,074
+Women with supermorbid obesity experience very high rates of maternal and neonatal complications including preeclampsia, macrosomia, and cesarean delivery, along with higher rates of neonatal meconium aspiration, ventilator support, and neonatal death (Marshall, 2014; Smid, 2016).
+
+100
+00:12:10,074 --> 00:12:14,811
+Data from one large study are shown in Figure 51-5 .
+
+101
+00:12:14,811 --> 00:12:17,549
+Figure 51-5.
+
+102
+00:12:17,549 --> 00:12:27,436
+Incidence of selected pregnancy outcomes in women enrolled in the FASTER (Firstand Second-Trimester Evaluation of Risk) trial according to BMI.
+
+103
+00:12:27,436 --> 00:12:33,649
+Especially striking are the markedly elevated rates of hypertension and gestational diabetes.
+
+104
+00:12:33,649 --> 00:12:46,536
+As discussed previously, obesity and the metabolic syndrome are characterized by insulin resistance, which creates low-grade inflammation, endothelial activation, and increased sodium reabsorption .
+
+105
+00:12:46,536 --> 00:12:50,799
+These latter effects play a central role in preeclampsia .
+
+106
+00:12:50,799 --> 00:12:59,824
+The overwhelming association between rising maternal BMI and the incidence of preeclampsia is depicted in Figure 51-6 .
+
+107
+00:12:59,824 --> 00:13:06,661
+The risks for hypertension are highest in women with a BMI >50 kg/m2 .
+
+108
+00:13:06,661 --> 00:13:16,849
+Similar observations were reported from a large Canadian study and by the Safe Labor Consortium (Kim, 2016; Schummers, 2015).
+
+109
+00:13:16,849 --> 00:13:19,574
+Figure 51-6.
+
+110
+00:13:19,574 --> 00:13:27,636
+Hyperglycemia and Adverse Pregnancy Outcome (HAPO) study: frequency of preeclampsia according to BMI.
+
+111
+00:13:27,636 --> 00:13:32,899
+Obesity and hypertension are common cofactors in peripartum heart failure .
+
+112
+00:13:32,899 --> 00:13:42,886
+Stewart and colleagues (2016) used magnetic resonance imaging to prospectively study the effect of obesity on cardiac remodeling in pregnancy.
+
+113
+00:13:42,886 --> 00:13:49,261
+Concentric remodeling, which was considered abnormal, was greater in overweight or obese women .
+
+114
+00:13:49,261 --> 00:13:53,761
+This, however, regressed to normal by 3 months postpartum.
+
+115
+00:13:53,761 --> 00:14:04,499
+Triebwasser and coworkers (2019) found that women with abnormal cardiac remodeling had a higher incidence of pregnancy-associated hypertensive disorders.
+
+116
+00:14:04,499 --> 00:14:07,186
+Figure 51-7.
+
+117
+00:14:07,186 --> 00:14:15,611
+Geometric changes of ventricular remodeling across pregnancy in obese and normalweight women determined by cardiac MR imaging.
+
+118
+00:14:15,611 --> 00:14:22,374
+LVM = left ventricular mass, LVEDV = left ventricular end-diastolic volume.
+
+119
+00:14:22,374 --> 00:14:28,874
+Obesity and gestational diabetes are inextricably linked as shown in Table 51-2.
+
+120
+00:14:28,874 --> 00:14:36,599
+Their coexistence and associated adverse pregnancy outcomes are discussed in Chapter 60 (p. 1068).
+
+121
+00:14:36,599 --> 00:14:42,511
+Nonalcoholic fatty liver disease is associated with several adverse pregnancy outcomes .
+
+122
+00:14:42,511 --> 00:14:56,086
+In a cohort of women with NAFLD, risks for preeclampsia, preterm birth, lowbirthweight neonates, cesarean delivery, and gestational diabetes were elevated (Hagström, 2016).
+
+123
+00:14:56,086 --> 00:15:09,911
+In one prospective study of 476 pregnancies, first-trimester sonographic evidence of maternal NAFLD was strongly associated with gestational diabetes (De Souza, 2016a,b).
+
+124
+00:15:09,911 --> 00:15:22,224
+Meyer and associates (2013) found that overweight and obese gravidas had a higher proportion of low-density lipoprotein III (LDL-III) compared with that of normal-weight women.
+
+125
+00:15:22,224 --> 00:15:29,361
+LDL-III predominance is a hallmark of the ectopic liver fat accumulation that is typical of NAFLD.
+
+126
+00:15:29,361 --> 00:15:31,261
+At Parkland
+
+127
+00:15:31,420 --> 00:15:43,007
+Hospital, we are now frequently encountering obese gravidas who have NAFLD and evidence of steatohepatitis manifest by elevated serum hepatic transaminase levels.
+
+128
+00:15:42,957 --> 00:15:49,245
+In rare cases, liver biopsy is necessary to exclude other causes for these findings.
+
+129
+00:15:49,245 --> 00:15:54,707
+Quality-of-life measures also are negatively affected by obesity during pregnancy .
+
+130
+00:15:54,707 --> 00:16:02,782
+One systematic review found significantly higher risks of depression in overweight and obese women during and after pregnancy .
+
+131
+00:16:02,782 --> 00:16:08,820
+Obese women were also significantly more likely to experience anxiety during pregnancy.
+
+132
+00:16:08,820 --> 00:16:11,582
+# Perinatal Mortality.
+
+133
+00:16:11,582 --> 00:16:15,920
+Stillbirths are more prevalent as the degree of obesity accrues .
+
+134
+00:16:15,920 --> 00:16:23,232
+In a review of almost 100 studies, obesity was the highest-ranking modifiable risk factor for stillbirth .
+
+135
+00:16:23,232 --> 00:16:38,570
+In women with supermorbid obesity compared with normal-weight gravidas, Yao and associates (2014) found 5.7 and 13.6-fold higher stillbirth rates at 39 and 41 weeks’ gestation, respectively.
+
+136
+00:16:38,570 --> 00:16:44,457
+Remarkably, 25 percent of term stillbirths in this study involved obese women.
+
+137
+00:16:44,457 --> 00:16:51,957
+Chronic hypertension with superimposed preeclampsia associated with obesity is one cause of excessive stillbirths.
+
+138
+00:16:51,957 --> 00:16:58,920
+These fetal deaths may be associated with placental lesions of decidual arteriopathy and infarctions .
+
+139
+00:16:58,920 --> 00:17:09,107
+Evaluating perinatal death rates, Lindam and coworkers (2016) reported that high maternal BMI in early pregnancy was a risk factor.
+
+140
+00:17:09,107 --> 00:17:17,595
+The risk of neonatal death also is greater for obese women (Johansson, 2014; Meehan, 2014).
+
+141
+00:17:17,595 --> 00:17:28,607
+Last, one study found that accruing weight between pregnancies is a risk factor for perinatal mortality, whereas weight loss between pregnancies for overweight women lowers this risk .
+
+142
+00:17:28,607 --> 00:17:31,345
+# Perinatal Morbidity.
+
+143
+00:17:31,345 --> 00:17:36,232
+Both fetal and neonatal complication rates are increased in obese women.
+
+144
+00:17:36,232 --> 00:17:47,882
+Two important and interrelated cofactors that contribute to excessive rates of perinatal morbidity are chronic hypertension and diabetes, both of which are associated with maternal obesity.
+
+145
+00:17:47,882 --> 00:17:59,770
+These comorbidities each may play a role in the higher rates of fetal-growth restriction and indicated preterm birth that are seen in obese women (Liu, 2019; Tanner, 2020).
+
+146
+00:17:59,770 --> 00:18:09,257
+Perinates of obese women with preterm prematurely ruptured membranes have a higher incidence of respiratory complications than those born to normal-weight women .
+
+147
+00:18:09,257 --> 00:18:20,595
+Pregestational diabetes also raises the birth defect rate, and gestational diabetes is complicated by excessive numbers of largefor-gestational-age and macrosomic fetuses .
+
+148
+00:18:20,595 --> 00:18:34,832
+Even when diabetes and hypertension are not considered, the prevalence of neonatal morbidity is greater in offspring of obese women (Kim, 2016; Polnaszek, 2018; Schummers, 2015).
+
+149
+00:18:34,832 --> 00:18:42,345
+The propensity for preterm birth may be related to increased adipokines and cytokines causing chronic inflammation .
+
+150
+00:18:42,345 --> 00:19:02,720
+The group from MetroHealth Medical Center in Cleveland has extensively studied prepregnancy obesity, gestational weight gain, and diabetes and their relationship to adverse pregnancy outcomes and to greater newborn weight and fat mass (Catalano, 2015; Ma, 2016; Yang, 2016).
+
+151
+00:19:02,720 --> 00:19:16,970
+Although each of these variables is associated with larger and more corpulent newborns, prepregnancy BMI and its effect on inflammation and placental gene expression has the strongest influence on the prevalence of macrosomic neonates.
+
+152
+00:19:16,970 --> 00:19:20,845
+Rates of birth defects also are higher with obesity .
+
+153
+00:19:20,845 --> 00:19:33,420
+For neural-tube defects, elevated risks of 1.2-, 1.7-, and 3.1-fold have been described for overweight, obese, and severely obese women, respectively .
+
+154
+00:19:33,420 --> 00:19:40,657
+The National Birth Defect Prevention Study reported a correlation between BMI and congenital heart defects .
+
+155
+00:19:40,657 --> 00:19:45,032
+However, this may be related to diabetes as a cofactor .
+
+156
+00:19:45,032 --> 00:19:59,795
+Importantly, obesity degrades the accuracy of obstetrical ultrasound examination and antepartum identification of birth defects (Adekola, 2015; Dashe, 2009; Yaqub, 2021).
+
+157
+00:19:59,795 --> 00:20:03,020
+# Long-term Offspring Morbidity.
+
+158
+00:20:03,020 --> 00:20:07,995
+Obese women beget obese children, who themselves become obese adults.
+
+159
+00:20:07,995 --> 00:20:19,382
+Catalano and coworkers (2009) studied offspring at a mean age of 9 years and found a direct association with maternal prepregnancy obesity and childhood obesity.
+
+160
+00:20:19,382 --> 00:20:22,457
+They also reported associations with
+
+161
+00:20:22,612 --> 00:20:32,462
+central obesity, elevated systolic blood pressure, increased insulin resistance, and lipid abnormalities—all elements of the metabolic syndrome.
+
+162
+00:20:32,412 --> 00:20:45,224
+Reynolds and associates (2013) reported higher rates of cardiovascular disease and allcause mortality in 37,709 adult offspring of overweight and obese mothers.
+
+163
+00:20:45,224 --> 00:20:52,224
+Similar cardiometabolic health effects in offspring were echoed by Gaillard and colleagues (2016).
+
+164
+00:20:52,224 --> 00:20:58,899
+Other data suggest that excessive maternal weight gain in pregnancy may predict obesity in adult offspring .
+
+165
+00:20:58,899 --> 00:21:05,637
+Last, rates of glucose intolerance and metabolic syndrome are higher among offspring of obese women .
+
+166
+00:21:05,637 --> 00:21:10,549
+The potential biological mechanisms of these associations are unclear.
+
+167
+00:21:10,549 --> 00:21:18,899
+But such studies raise the possibility of fetal programming, that is, the fetal environment may lead to adverse adult health outcomes.
+
+168
+00:21:18,899 --> 00:21:29,537
+Elucidation is limited by insufficient data regarding the influence of maternal and genetic predisposition compared with the diet and activity environment of the infant and child .
+
+169
+00:21:29,537 --> 00:21:39,562
+The science of epigenetics has provided some support for the possibility that perturbations of the maternal–fetal environment can adversely alter postdelivery events .
+
+170
+00:21:39,562 --> 00:21:41,887
+Antepartum Management.
+
+171
+00:21:41,887 --> 00:21:44,499
+# Maternal Weight Gain.
+
+172
+00:21:44,499 --> 00:21:54,324
+The Institute of Medicine (2009) has updated its previous maternal weight gain determinants (Table 10-4, p. 183).
+
+173
+00:21:54,324 --> 00:21:59,612
+For overweight women, weight gain of 15 to 25 pounds is suggested.
+
+174
+00:21:59,612 --> 00:22:04,912
+For obese women, the Institute recommends a gain of 11 to 20 pounds.
+
+175
+00:22:04,912 --> 00:22:15,049
+Intuitively, maternal weight must increase sufficiently to provide for fetal and placental tissue accrual and for amnionic fluid and maternal blood volume expansion.
+
+176
+00:22:15,049 --> 00:22:19,262
+Thus, maternal weight loss during pregnancy is discouraged.
+
+177
+00:22:19,262 --> 00:22:26,399
+The American College of Obstetricians and Gynecologists (2021) endorses these guidelines.
+
+178
+00:22:26,399 --> 00:22:38,749
+It is emphasized that these recommendations were issued without firm scientific evidence to support them, and their value remains unproven (Comstock, 2019; Most, 2019).
+
+179
+00:22:38,749 --> 00:22:45,424
+For example, recent studies differ with respect to the effect of insufficient weight gain for obese women.
+
+180
+00:22:45,424 --> 00:22:59,249
+Bodnar and colleagues (2016) reported no greater risk for low-birthweight or small-forgestational-age newborns among 47,494 obese women who had inadequate weight gain during pregnancy.
+
+181
+00:22:59,249 --> 00:23:07,649
+Bogaerts and associates (2015) also found that even weight loss among obese women did not yield poor fetal growth.
+
+182
+00:23:07,649 --> 00:23:21,449
+In contrast, however, Hannaford and coworkers (2017) reported that obese women who gained less than the Institute recommendations were almost three times more likely to deliver a small-for-gestational-age neonate.
+
+183
+00:23:21,449 --> 00:23:30,062
+Another study similarly found an almost twofold greater risk of growth-restricted newborns among obese women who lost weight during pregnancy .
+
+184
+00:23:30,062 --> 00:23:35,312
+Excessive gestational weight gain may portend greater risks for the obese mother.
+
+185
+00:23:35,312 --> 00:23:43,987
+Berggren and coworkers (2016) noted that overweight and obese women accrued maternal fat with excessive gestational weight gain.
+
+186
+00:23:43,987 --> 00:23:58,099
+From another analysis, overall higher rates of hypertensive disorders, cesarean delivery, and fetal overgrowth and lower rates of spontaneous preterm birth and fetal undergrowth were found among women gaining more than recommended .
+
+187
+00:23:58,099 --> 00:24:15,524
+However, when analyzed according to BMI category, significantly higher rates of preeclampsia, cesarean delivery, and fetal overgrowth were identified among the 1937 overweight women, but not the 1445 obese women, who gained excess weight.
+
+188
+00:24:15,524 --> 00:24:20,724
+Last, overweight and obese women have excessive postpartum weight retention .
+
+189
+00:24:20,724 --> 00:24:23,637
+# Dietary Intervention.
+
+190
+00:24:23,637 --> 00:24:30,337
+Several dietary interventions can help limit and achieve the weight gain targets listed in the previous section.
+
+191
+00:24:30,337 --> 00:24:35,274
+Options include lifestyle changes such as changes in physical activity.
+
+192
+00:24:35,274 --> 00:24:42,924
+In one randomized trial of exercise in 300 overweight women, risks for gestational diabetes were lowered .
+
+193
+00:24:42,924 --> 00:24:53,374
+In other trials, however, dietary intervention had no effect on weight gain (Okasene-Gafa, 2019; Seneviratne, 2016).
+
+194
+00:24:53,374 --> 00:25:06,162
+Also, a Cochrane database analysis of 11,444 women suggests that lifestyle interventions confer only a modest reduction in maternal weight gain, and their benefits for fetal
+
+195
+00:25:06,316 --> 00:25:12,603
+overgrowth, cesarean delivery rate, and adverse neonatal outcome are not significant .
+
+196
+00:25:12,553 --> 00:25:18,653
+Last, metformin treatment for obese pregnant women does not improve pregnancy outcomes .
+
+197
+00:25:18,653 --> 00:25:27,316
+Regarding neonatal outcomes, the poor success of lifestyle interventions during pregnancy has been attributed to their late introduction.
+
+198
+00:25:27,316 --> 00:25:33,916
+In this regard, it is presumed that early gene expression within the placenta has already been programmed .
+
+199
+00:25:33,916 --> 00:25:36,353
+# Prenatal Care.
+
+200
+00:25:36,353 --> 00:25:42,078
+Close prenatal monitoring detects most early signs of diabetes or hypertension.
+
+201
+00:25:42,078 --> 00:25:48,466
+Early gestational diabetes screening did not result in less morbidity compared with standard screening .
+
+202
+00:25:48,466 --> 00:25:52,178
+Obstructive sleep apnea is common in obese women .
+
+203
+00:25:52,178 --> 00:26:01,328
+Standard screening tests for fetal anomalies are sufficient, while remembering the sonographic limitations for fetal anomaly detection in this group.
+
+204
+00:26:01,328 --> 00:26:07,766
+Even so, ultrasound predicts fetal weight accurately in these women (O’Brien, 2020).
+
+205
+00:26:07,766 --> 00:26:14,116
+Accurate fetal-growth surveillance in obese women usually requires serial sonographic assessment.
+
+206
+00:26:14,116 --> 00:26:26,616
+Dude and coworkers (2019) reported that ultrasound as a detection tool had high specificity but poor sensitivity for growth restriction and a low positive predictive value for macrosomia.
+
+207
+00:26:26,616 --> 00:26:31,741
+Antepartum external fetal heart rate monitoring is likewise more difficult.
+
+208
+00:26:31,741 --> 00:26:34,003
+Intrapartum Management.
+
+209
+00:26:34,003 --> 00:26:39,716
+Obesity poses increased risk for multiple labor or intrapartum complications.
+
+210
+00:26:39,716 --> 00:26:48,103
+These include postterm pregnancy or labor abnormalities (Carpenter, 2016; Shenouda, 2020).
+
+211
+00:26:48,103 --> 00:26:58,778
+In one study of 143,519 women, the odds of spontaneous labor at term in obese women was approximately half that of normal-weight women .
+
+212
+00:26:58,778 --> 00:27:10,466
+In an analysis of more than 5000 parturients, women with a BMI >30 kg/m2 had a longer duration and slower early progression of first-stage labor .
+
+213
+00:27:10,466 --> 00:27:18,403
+Epidural analgesia apparently does not affect the length of labor in obese women (Polónia Valente, 2020).
+
+214
+00:27:18,403 --> 00:27:20,903
+# Labor Induction.
+
+215
+00:27:20,903 --> 00:27:29,591
+As shown in Table 51-2, compared with normal-weight women, obese women are nearly twice as likely to undergo labor induction .
+
+216
+00:27:29,591 --> 00:27:37,378
+However, obese women are more likely to experience a failed induction, and this risk rises with increasing obesity .
+
+217
+00:27:37,378 --> 00:27:45,341
+The duration of labor resulting in vaginal delivery lengthens with increasing maternal BMI (Carlhäll, 2020).
+
+218
+00:27:45,341 --> 00:28:03,666
+In a retrospective analysis of 470 nulliparous women with a BMI >30 kg/m2, those who underwent labor induction at 39 weeks’ gestation had a greater cesarean delivery rate—26 versus 40 percent compared with a cohort expectantly managed .
+
+219
+00:28:03,666 --> 00:28:12,966
+In a study of 485 women with class III obesity, the overall cesarean delivery rate after failed induction was 49 percent .
+
+220
+00:28:12,966 --> 00:28:24,278
+The rate was 46 percent for those with a BMI 30–40, 63 percent for a BMI 40–50, and 69 percent for a BMI >60.
+
+221
+00:28:24,278 --> 00:28:28,903
+Although perhaps not unexpected, these findings have been challenged.
+
+222
+00:28:28,903 --> 00:28:45,203
+Lee and associates (2016) reviewed statistics from 74,725 deliveries in obese women and reported that elective induction at 37 to 39 weeks’ gestation was actually associated with a lower cesarean delivery rate.
+
+223
+00:28:45,203 --> 00:29:02,678
+Additionally, in a secondary analysis of one randomized trial, obese nulliparas who were randomly assigned to Foley catheter cervical ripening plus misoprostol for labor induction had a reduced labor duration and lower rate of cesarean delivery compared with those given solely misoprostol .
+
+224
+00:29:02,678 --> 00:29:12,078
+These conflicting results highlight the difficulties faced by obstetricians as they contemplate the seemingly competing interests of the fetus and the obese mother.
+
+225
+00:29:12,078 --> 00:29:14,778
+# Anesthesia Risks.
+
+226
+00:29:14,778 --> 00:29:24,953
+Obese women present anesthesia challenges that include difficult epidural and spinal analgesia placement and complications from failed or difficult intubations.
+
+227
+00:29:24,953 --> 00:29:34,328
+Evaluation of gravidas with supermorbid obesity by the anesthesiologist is recommended during prenatal care or upon arrival to the labor unit .
+
+228
+00:29:34,328 --> 00:29:42,953
+Regional analgesia for morbidly obese women is associated with longer neuraxial procedure times and more failed placement attempts .
+
+229
+00:29:42,953 --> 00:29:52,616
+Importantly, however, spinal analgesia in obese women for cesarean delivery does not appear to have greater benefits than combined spinal-epidural.
+
+230
+00:29:52,616 --> 00:29:54,828
+One study comparing
+
+231
+00:29:54,988 --> 00:30:05,988
+single-shot spinal analgesia and combined spinal-epidural analgesia found that both methods could be placed with equal expediency and efficacy in morbidly obese gravidas .
+
+232
+00:30:05,938 --> 00:30:18,750
+Obese women who undergo neuraxial analgesia that is complicated by relative hypotension more frequently have neonates with umbilical artery cord blood acidemia, which probably stems from delayed delivery.
+
+233
+00:30:18,750 --> 00:30:27,863
+One study of 572 obese women showed that cord blood pH significantly dropped and base deficit rose with increasing BMI .
+
+234
+00:30:27,863 --> 00:30:47,013
+The rate of gases with a pH <7.1 doubled from 3.5 percent for a BMI <25 kg/m2 to 7.1 percent for a BMI ≥40 kg/m2. Anesthetic risks and complications are discussed in Chapter 25.
+
+235
+00:30:47,013 --> 00:30:49,700
+# Cesarean Delivery.
+
+236
+00:30:49,700 --> 00:30:58,775
+As shown in Table 51-2, rates of cesarean delivery are significantly greater in obese women compared with normal-weight gravidas.
+
+237
+00:30:58,775 --> 00:31:15,975
+In an analysis of 226,958 women, cesarean delivery rates rose significantly for overweight (34 percent), class I (38 percent), class II (43 percent), and class III (50 percent) obesity .
+
+238
+00:31:15,975 --> 00:31:19,725
+Our experiences at Parkland Hospital are similar .
+
+239
+00:31:19,725 --> 00:31:31,113
+Moreover, obese women had less composite morbidity when labor was attempted compared with cesarean delivery (Gibbs Pickens, 2018; Grasch, 2017).
+
+240
+00:31:31,113 --> 00:31:45,225
+More worrisome is that obese women also have higher rates of emergency cesarean delivery, and obesity lengthens times for decision-to-incision and for delivery (Girsen, 2014; Pulman, 2015).
+
+241
+00:31:45,225 --> 00:31:47,800
+Figure 51-8.
+
+242
+00:31:47,800 --> 00:31:56,600
+Cesarean delivery rates in more than 300,000 women according to BMI categories over a 30-year period at Parkland Hospital.
+
+243
+00:31:56,600 --> 00:32:09,438
+Discussed in Chapter 31 (p. 577), the incidence of failed trial of labor after cesarean is higher in obese women (Grasch, 2017; Wilson, 2020).
+
+244
+00:32:09,438 --> 00:32:16,438
+Women who gain weight between pregnancies also have significantly lower rates of vaginal birth after cesarean.
+
+245
+00:32:16,438 --> 00:32:19,200
+# Surgical Concerns.
+
+246
+00:32:19,200 --> 00:32:29,250
+For cesarean delivery, forethought is given to optimal placement and type of abdominal incision to provide access to the fetus and to effect the best wound closure.
+
+247
+00:32:29,250 --> 00:32:34,700
+We prefer a vertical incision in obese women to provide the most direct access .
+
+248
+00:32:34,700 --> 00:32:45,325
+Others prefer a low transverse abdominal incision, with or without rostral taping of the pendulous abdomen (Karimyar, 2020; Lakhi, 2018).
+
+249
+00:32:45,325 --> 00:32:51,500
+Individual differences in maternal body habitus preclude naming any one approach as superior .
+
+250
+00:32:51,500 --> 00:33:07,250
+Some observational studies have compared wound outcomes associated with vertical and transverse skin incisions, but results are conflicting as to a superior option (Karimyar, 2020; Marrs, 2014; Sutton, 2016).
+
+251
+00:33:07,250 --> 00:33:09,875
+Figure 51-9.
+
+252
+00:33:09,875 --> 00:33:13,025
+Abdominal incision for the obese woman.
+
+253
+00:33:13,025 --> 00:33:14,925
+A. Frontal view.
+
+254
+00:33:14,925 --> 00:33:21,425
+The dotted line indicates an appropriate skin incision for abdominal entry relative to the panniculus.
+
+255
+00:33:21,425 --> 00:33:29,138
+As shown by the uterus in the background, selection of this periumbilical site permits access to the lower uterine segment.
+
+256
+00:33:29,138 --> 00:33:31,438
+B. Sagittal view.
+
+257
+00:33:31,438 --> 00:33:36,775
+The frequency of abdominal wound infections is directly related to BMI.
+
+258
+00:33:36,775 --> 00:33:49,525
+Conner and associates (2014) found the risk of wound infection is threefold higher—23 versus 7 percent—in women with supermorbid obesity compared with nonobese patients.
+
+259
+00:33:49,525 --> 00:34:03,063
+Among women with a BMI >45 kg/m2, reported wound complication rates range from 14 to 19 percent (Smid, 2015; Stamilio, 2014).
+
+260
+00:34:03,063 --> 00:34:06,850
+Comorbid diabetes apparently raises this risk .
+
+261
+00:34:06,850 --> 00:34:21,275
+Other studies describe wound complication rates ranging from 2 to >40 percent in obese women (Conner, 2014; Marrs, 2014; Smid, 2015; Thornburg, 2012).
+
+262
+00:34:21,275 --> 00:34:24,450
+Several interventions may be preventive.
+
+263
+00:34:24,450 --> 00:34:30,950
+Closure of subcutaneous tissue when at least 2 cm deep reduces wound complication rates .
+
+264
+00:34:30,950 --> 00:34:36,138
+Steel staples and subcuticular skin closure produce identical results .
+
+265
+00:34:36,138 --> 00:34:42,588
+Studies have also examined the use of higher doses of perioperative prophylactic antibiotics.
+
+266
+00:34:42,588 --> 00:34:54,538
+Pharmacokinetic studies indicate that tissue concentrations of prophylactic antibiotics are lower with increasing BMI (Pevzner, 2011; Young, 2015).
+
+267
+00:34:54,538 --> 00:35:02,863
+One prospective study showed that a 3-g dose of cefazolin resulted in higher tissue concentrations compared with a 2-g dose .
+
+268
+00:35:02,863 --> 00:35:11,863
+A retrospective analysis of 335 women with a median weight of 310 pounds found that the higher dose of cefazolin did not
+
+269
+00:35:12,028 --> 00:35:16,365
+result in fewer surgical site infections (SSIs) .
+
+270
+00:35:16,315 --> 00:35:29,028
+The American College of Obstetricians and Gynecologists (2020) recognizes either 2- or 3g doses of cefazolin as suitable for those with weights ≥80 kg.
+
+271
+00:35:29,028 --> 00:35:43,503
+The Centers for Disease Control and Prevention recommends a 2-g dose for weights ≥80 kg and 3-g dose for those ≥120 kg (Berríos-Torres, 2017).
+
+272
+00:35:43,503 --> 00:35:52,953
+One pharmacokinetic analysis in obese women showed sufficient tissue levels with a 2-g dose for cesarean deliveries lasting 1.5 hours.
+
+273
+00:35:52,953 --> 00:35:58,715
+Authors recommended consideration for redosing in obese women if surgeries were longer .
+
+274
+00:35:58,715 --> 00:36:08,865
+Last, some early evidence may support extending oral antibiotic prophylaxis for 48 hours postcesarean in obese women to lower SSIs .
+
+275
+00:36:08,865 --> 00:36:26,890
+Obese women administered preoperative cephalosporin prophylaxis had a surgical infection rate of 13.4 percent compared with a rate of 6.4 percent for those given a 2-day postoperative course of oral cephalexin and metronidazole in addition to routine preoperative prophylaxis.
+
+276
+00:36:26,890 --> 00:36:33,040
+Negative-pressure wound therapy (NPWT) also has been used prophylactically .
+
+277
+00:36:33,040 --> 00:36:45,528
+To address this, Hussamy and colleagues (2019) designed a randomized trial of NPWT versus routine dressing in 441 obese women undergoing cesarean delivery.
+
+278
+00:36:45,528 --> 00:36:55,490
+Such therapy did not significantly lower the postoperative wound complication rate compared with routine care—17 versus 19 percent, respectively.
+
+279
+00:36:55,490 --> 00:36:59,003
+A subsequent report confirmed these findings .
+
+280
+00:36:59,003 --> 00:37:06,228
+For the obese woman who is delivered vaginally, puerperal tubal sterilization is safe regardless of BMI .
+
+281
+00:37:06,228 --> 00:37:09,965
+These procedures are described in Chapter 39.
+
+282
+00:37:09,965 --> 00:37:15,153
+The risks for postpartum venous thromboembolism are increased in obese women.
+
+283
+00:37:15,153 --> 00:37:21,740
+This is despite the fact that velocity of lowerextremity blood flow is increased in obese pregnant women .
+
+284
+00:37:21,740 --> 00:37:28,503
+As discussed in Chapter 55 (p. 990), thromboprophylaxis is controversial.
+
+285
+00:37:28,503 --> 00:37:44,378
+To lower thromboembolic complications, graduated compression stockings, hydration, and early mobilization after cesarean delivery in obese women are recommended by the American College of Obstetricians and Gynecologists (2019b).
+
+286
+00:37:44,378 --> 00:37:53,790
+If there are additional risk factors other than class III obesity, the Society for Maternal-Fetal Medicine (2020) recommends enoxaparin.
+
+287
+00:37:53,790 --> 00:37:59,590
+We do not routinely use thromboprophylaxis for obesity alone at Parkland Hospital.
+
+288
+00:37:59,590 --> 00:38:05,115
+This practice has recently been confirmed by Lu and associates (2021).
+
+289
+00:38:05,115 --> 00:38:07,365
+Bariatric Surgery.
+
+290
+00:38:07,365 --> 00:38:19,340
+Several surgical procedures are designed to treat morbid obesity either by diminishing gastric volume (restrictive) or by bypassing gastrointestinal absorption (restrictive malabsorptive).
+
+291
+00:38:19,340 --> 00:38:32,278
+In nonpregnant patients, these procedures serve to improve or resolve diabetes, hyperlipidemia, hypertension, and obstructive sleep apnea and to reduce risks of myocardial infarction and death .
+
+292
+00:38:32,278 --> 00:38:35,153
+# Restrictive Procedures.
+
+293
+00:38:35,153 --> 00:38:49,865
+Of options, the approved laparoscopic adjustable silicone gastric banding (LASGB) procedure—LAPBAND—places a band 2 cm below the gastroesophageal junction to create a small stomach pouch above the ring.
+
+294
+00:38:49,865 --> 00:38:54,253
+The ring diameter is controlled by a saline reservoir in the band.
+
+295
+00:38:54,253 --> 00:38:58,878
+These procedures can have positive effects on pregnancy outcomes.
+
+296
+00:38:58,878 --> 00:39:06,440
+One study compared pregnancy outcomes in bariatric surgery patients whose surgery was done after the first pregnancy.
+
+297
+00:39:06,440 --> 00:39:17,203
+Following bariatric surgery, the incidences of hypertension, gestational diabetes, and preterm birth were significantly lower in the bariatric surgery patients .
+
+298
+00:39:17,203 --> 00:39:22,340
+The results from these and other studies are shown in Table 51-3.
+
+299
+00:39:22,340 --> 00:39:24,940
+Table 51-3.
+
+300
+00:39:24,940 --> 00:39:32,715
+Pregnancy Outcomes Following Bariatric Surgery Deflation of the band during pregnancy affects maternal and fetal weight gain.
+
+301
+00:39:32,715 --> 00:39:47,840
+Pilone and coworkers (2014) studied 22 pregnancies after band placement and reported that all women underwent full deflation of the band in the first trimester and gained an average of 14.7 kg during pregnancy.
+
+302
+00:39:47,840 --> 00:39:55,503
+In another study, 42 women underwent deflation of the band, whereas 54 women maintained band inflation.
+
+303
+00:39:55,503 --> 00:40:12,790
+A deflated band was associated with higher mean maternal weight gain—15.4 kg versus 7.6 kg, increased birthweight—3712 versus 3380 g, and a twofold greater risk of macrosomia
+
+304
+00:40:12,940 --> 00:40:15,565
+compared with an inflated band .
+
+305
+00:40:15,515 --> 00:40:28,640
+Rarely, the band may slip due to nausea and vomiting, especially with advancing gestation or after delivery (Pilone, 2014; Schmitt, 2016; Suffee, 2012).
+
+306
+00:40:28,640 --> 00:40:39,627
+One fetus suffered a fatal cerebral hemorrhage caused by maternal vitamin K deficiency secondary to prolonged vomiting due to band slippage that created a gastric outlet obstruction .
+
+307
+00:40:39,627 --> 00:40:43,290
+# Restrictive Malabsorptive Procedures.
+
+308
+00:40:43,290 --> 00:40:52,265
+The laparoscopically performed Roux-en-Y gastric bypass is the most commonly used procedure for gastric restriction and selective malabsorption.
+
+309
+00:40:52,265 --> 00:40:57,327
+Pregnancy outcomes are changed remarkably following Roux-en-Y bypass .
+
+310
+00:40:57,327 --> 00:41:05,677
+As shown in Table 51-3, rates of hypertension, gestational diabetes, and fetal macrosomia are reduced.
+
+311
+00:41:05,677 --> 00:41:20,252
+Serious complications with bypass operations are uncommon, however, upper abdominal pain is frequent in pregnancy and may be associated with internal herniation, which is protrusion of the bowel through a window defect in the mesentery.
+
+312
+00:41:20,252 --> 00:41:28,752
+Petersen and associates (2017) described outcomes in a birth cohort including 139 pregnancies.
+
+313
+00:41:28,752 --> 00:41:35,240
+Upper abdominal pain complicated 46 percent, and a third of these had internal herniation.
+
+314
+00:41:35,240 --> 00:41:43,690
+The preterm birth rate was 14 of 64 among those with upper abdominal pain versus 1 of 75 in those without pain.
+
+315
+00:41:43,690 --> 00:41:56,115
+Intussusception and small bowel obstruction can develop from internal herniation, and maternal deaths from herniation and obstruction are reported (Moore, 2004; Renault, 2012).
+
+316
+00:41:56,115 --> 00:42:05,040
+Bowel obstruction is notoriously difficult to diagnose during pregnancy (Vannevel, 2016; Wax, 2013).
+
+317
+00:42:05,040 --> 00:42:07,290
+# Pregnancy.
+
+318
+00:42:07,290 --> 00:42:15,340
+Because of its associated health successes, bariatric surgery is popular, and many women subsequently become pregnant .
+
+319
+00:42:15,340 --> 00:42:30,827
+From studies, fertility improves and obstetrical complication rates decline in women after bariatric surgery compared with morbidly obese controls (Getahun, 2021; Kominiarek, 2017; Yi, 2015).
+
+320
+00:42:30,827 --> 00:42:40,590
+In one of these studies, despite surgical treatment, almost half of 670 women were still obese at the time of their first pregnancy after bypass .
+
+321
+00:42:40,590 --> 00:42:53,427
+Nevertheless, the frequency of large-for-gestational-age newborns dropped from 22 to 8.6 percent and of small-for-gestational-age neonates rose from 7.6 to 15.6 percent.
+
+322
+00:42:53,427 --> 00:43:01,577
+In a systematic review, Kwong and colleagues (2018) confirmed these fetal weight trends after bariatric surgery.
+
+323
+00:43:01,577 --> 00:43:11,902
+According to Maric and colleagues (2020), fetuses are smaller because of lower maternal glucose levels rather than alterations of the fetoplacental circulation.
+
+324
+00:43:11,902 --> 00:43:16,477
+Also, risks for diabetes and preeclampsia were reduced.
+
+325
+00:43:16,477 --> 00:43:25,840
+Last, evidence suggests that the risk for congenital anomalies is decreased (Auger, 2019; Neovius, 2019).
+
+326
+00:43:25,840 --> 00:43:38,502
+Currently, the American College of Obstetricians and Gynecologists (2019b) recommends that women who have undergone bariatric surgery be assessed for vitamin and nutritional sufficiency.
+
+327
+00:43:38,502 --> 00:43:45,277
+When indicated, vitamins B12 and D, folic acid, and calcium supplementation are given.
+
+328
+00:43:45,277 --> 00:43:48,590
+Vitamin A deficiency also is possible .
+
+329
+00:43:48,590 --> 00:43:56,427
+Women with a gastric band should be monitored by their bariatric team during pregnancy because band adjustments may be necessary.
+
+330
+00:43:56,427 --> 00:44:07,065
+Last, special vigilance for signs of internal herniation with intestinal obstruction is encouraged (Stuart, 2017; Wax, 2013).
+

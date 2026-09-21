@@ -8,7 +8,7 @@ Playable directly on GitHub Web & Mobile with synchronized subtitle rendering an
 
 - 🎬 **[Chapter 01 Overview of Obstetrics](videos/Chapter_01_Overview_of_Obstetrics.mp4)** (36.3 MB)
 
-## 🎧 Audiobooks (MP3) — [48/68 Completed]
+## 🎧 Audiobooks (MP3) — [68/68 Completed]
 
 Playable directly on GitHub Web & Mobile with built-in audio player:
 
@@ -60,6 +60,26 @@ Playable directly on GitHub Web & Mobile with built-in audio player:
 - 🔊 **[Chapter 46 Postterm Pregnancy](audiobooks/Chapter_46_Postterm_Pregnancy.mp3)** (10.4 MB)
 - 🔊 **[Chapter 47 Fetal Growth Disorders](audiobooks/Chapter_47_Fetal_Growth_Disorders.mp3)** (21.2 MB)
 - 🔊 **[Chapter 48 Multifetal Pregnancy](audiobooks/Chapter_48_Multifetal_Pregnancy.mp3)** (39.9 MB)
+- 🔊 **[Chapter 49 General Considerations and Maternal Evaluation](audiobooks/Chapter_49_General_Considerations_and_Maternal_Evaluation.mp3)** (17.7 MB)
+- 🔊 **[Chapter 50 Critical Care and Trauma](audiobooks/Chapter_50_Critical_Care_and_Trauma.mp3)** (30.0 MB)
+- 🔊 **[Chapter 51 Obesity](audiobooks/Chapter_51_Obesity.mp3)** (15.1 MB)
+- 🔊 **[Chapter 52 Cardiovascular Disorders](audiobooks/Chapter_52_Cardiovascular_Disorders.mp3)** (43.9 MB)
+- 🔊 **[Chapter 53 Chronic Hypertension](audiobooks/Chapter_53_Chronic_Hypertension.mp3)** (17.7 MB)
+- 🔊 **[Chapter 54 Pulmonary Disorders](audiobooks/Chapter_54_Pulmonary_Disorders.mp3)** (27.6 MB)
+- 🔊 **[Chapter 55 Thromboembolic Disorders](audiobooks/Chapter_55_Thromboembolic_Disorders.mp3)** (25.6 MB)
+- 🔊 **[Chapter 56 Renal and Urinary Tract Disorders](audiobooks/Chapter_56_Renal_and_Urinary_Tract_Disorders.mp3)** (27.9 MB)
+- 🔊 **[Chapter 57 Gastrointestinal Disorders](audiobooks/Chapter_57_Gastrointestinal_Disorders.mp3)** (23.9 MB)
+- 🔊 **[Chapter 58 Hepatic Biliary and Pancreatic Disorders](audiobooks/Chapter_58_Hepatic_Biliary_and_Pancreatic_Disorders.mp3)** (30.4 MB)
+- 🔊 **[Chapter 59 Hematological Disorders](audiobooks/Chapter_59_Hematological_Disorders.mp3)** (33.4 MB)
+- 🔊 **[Chapter 60 Diabetes Mellitus](audiobooks/Chapter_60_Diabetes_Mellitus.mp3)** (32.2 MB)
+- 🔊 **[Chapter 61 Endocrine Disorders](audiobooks/Chapter_61_Endocrine_Disorders.mp3)** (32.1 MB)
+- 🔊 **[Chapter 62 Connective Tissue Disorders](audiobooks/Chapter_62_Connective_Tissue_Disorders.mp3)** (27.6 MB)
+- 🔊 **[Chapter 63 Neurological Disorders](audiobooks/Chapter_63_Neurological_Disorders.mp3)** (25.2 MB)
+- 🔊 **[Chapter 64 Psychiatric Disorders](audiobooks/Chapter_64_Psychiatric_Disorders.mp3)** (17.0 MB)
+- 🔊 **[Chapter 65 Dermatological Disorders](audiobooks/Chapter_65_Dermatological_Disorders.mp3)** (8.5 MB)
+- 🔊 **[Chapter 66 Neoplastic Disorders](audiobooks/Chapter_66_Neoplastic_Disorders.mp3)** (31.5 MB)
+- 🔊 **[Chapter 67 Infectious Diseases](audiobooks/Chapter_67_Infectious_Diseases.mp3)** (37.3 MB)
+- 🔊 **[Chapter 68 Sexually Transmitted Infections](audiobooks/Chapter_68_Sexually_Transmitted_Infections.mp3)** (31.5 MB)
 
 ## 📖 Table of Contents (Chapters)
 

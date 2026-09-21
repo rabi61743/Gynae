@@ -1,0 +1,2712 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,675
+Chapter 50: Critical Care and Trauma.
+
+3
+00:00:05,675 --> 00:00:23,262
+Critical Care Acute Pulmonary Edema Acute Respiratory Distress Syndrome Sepsis And Septic Shock Trauma Thermal Injury Cardiopulmonary Resuscitation References Treatment of the critically ill pregnant woman has improved over the past three decades with advances in intensive care capabilities.
+
+4
+00:00:23,262 --> 00:00:33,487
+To achieve optimal outcomes, severe medical, surgical, and obstetrical disorders complicating pregnancy are frequently managed by a multidisciplinary team.
+
+5
+00:00:33,487 --> 00:00:41,662
+Importantly, obstetricians and these other health-care team members must have a working knowledge of the unique considerations for pregnancy .
+
+6
+00:00:41,662 --> 00:00:53,350
+Some discussed in Chapter 49 include pregnancy-induced physiological changes, alterations in normal laboratory values, and consideration for the second patient—the fetus.
+
+7
+00:00:53,350 --> 00:00:59,312
+Because critically ill women are usually young and healthy, their prognosis is generally good .
+
+8
+00:00:59,312 --> 00:01:01,100
+Critical Care.
+
+9
+00:01:01,100 --> 00:01:06,850
+Despite noted gains, evidence suggests that severe morbidity rates are increasing .
+
+10
+00:01:06,850 --> 00:01:13,512
+In the United States, 1 to 3 percent of pregnant women require critical care services each year.
+
+11
+00:01:13,512 --> 00:01:18,425
+The risk of death during such admissions ranges from 2 to 11 percent .
+
+12
+00:01:18,425 --> 00:01:22,537
+Black women and Medicaid recipients are disparately affected .
+
+13
+00:01:22,537 --> 00:01:36,325
+Those with pregnancy-associated complications—especially hemorrhage, sepsis, and hypertension—have the greatest need for intensive care (Chantry, 2015; Guntupalli, 2015a,b).
+
+14
+00:01:36,325 --> 00:01:54,237
+That said, many antepartum admissions are for nonobstetrical reasons, and these include diabetes, pneumonia or asthma, heart disease, chronic hypertension, pyelonephritis, and thyrotoxicosis (Guntupalli, 2015b; Zeeman, 2006).
+
+15
+00:01:54,237 --> 00:02:01,137
+Cardiac disease is the leading non-obstetrical indication for intensive care unit (ICU) admission .
+
+16
+00:02:01,137 --> 00:02:10,137
+In instances of life-threatening hemorrhage, surgical procedures may be necessary, and close proximity to an operating room is paramount.
+
+17
+00:02:10,137 --> 00:02:19,150
+For women who are undelivered, fetal well-being also is better served by this close proximity, especially because many are delivered preterm .
+
+18
+00:02:19,150 --> 00:02:22,350
+# Organization of Critical Care.
+
+19
+00:02:22,350 --> 00:02:29,575
+The concept and development of critical care for all aspects of medicine and surgery began in the 1960s.
+
+20
+00:02:29,575 --> 00:02:43,600
+As a part of this effort, the National Institutes of Health held a Consensus Conference (1983) and the Society of Critical Care Medicine (1988, 1999) established guidelines for ICUs.
+
+21
+00:02:43,600 --> 00:02:51,275
+Especially pertinent to obstetrics, these costly units prompted the evolution of a step-down intermediate care unit.
+
+22
+00:02:51,275 --> 00:03:00,350
+These latter units were designed for patients who did not require intensive care but who needed a higher level of treatment than that provided on a general ward.
+
+23
+00:03:00,350 --> 00:03:09,662
+The American College of Critical Care Medicine and the Society of Critical Care Medicine (1998) have published guidelines for these units .
+
+24
+00:03:09,662 --> 00:03:11,987
+Table 50-1.
+
+25
+00:03:11,987 --> 00:03:18,450
+Guidelines for Conditions That Could Qualify for Intermediate Care # Obstetrical Critical Care.
+
+26
+00:03:18,450 --> 00:03:27,887
+Although critical care for obstetrical patients has generally evolved along the path described in the last section, no detailed guidelines direct this care.
+
+27
+00:03:27,887 --> 00:03:34,862
+Most hospitals employ a blend of these concepts, and in general, units can be divided into three types.
+
+28
+00:03:34,862 --> 00:03:41,712
+First, medical and surgical ICUs in most hospitals care for severely ill obstetrical patients.
+
+29
+00:03:41,712 --> 00:03:46,800
+These are staffed by specialists often certified in critical care medicine.
+
+30
+00:03:46,800 --> 00:03:55,612
+Admissions or transfers to these units are situation-specific and based on the acuity of care needed and on the ability of the facility to provide it.
+
+31
+00:03:55,612 --> 00:04:06,662
+For example, pregnant women who require ventilatory support, invasive monitoring, or pharmacological support of circulation are typically transferred to an ICU .
+
+32
+00:04:06,662 --> 00:04:17,862
+In an earlier review of more than 25 tertiary-care referral institutions, approximately 0.5 percent of obstetrical patients were transferred to these ICU types .
+
+33
+00:04:17,862 --> 00:04:22,087
+A second option is the obstetrical intermediate care unit.
+
+34
+00:04:22,087 --> 00:04:28,250
+Sometimes referred to as a high-dependency care unit, this type is found at Parkland Hospital.
+
+35
+00:04:28,250 --> 00:04:35,075
+Located within the labor and delivery unit, it has designated rooms staffed by experienced personnel.
+
+36
+00:04:35,075 --> 00:04:38,250
+This two-tiered system incorporates the
+
+37
+00:04:38,404 --> 00:04:41,991
+guidelines for intermediate and intensive care.
+
+38
+00:04:41,941 --> 00:04:50,579
+Care is provided by maternalfetal medicine specialists, obstetricians, and nurses with experience in critical care obstetrics.
+
+39
+00:04:50,579 --> 00:05:05,741
+As needed, this team is expanded to include other obstetricians and anesthesiologists, hospitalists, gynecological oncologists, pulmonologists, cardiologists, surgeons, and other medical and surgical subspecialists .
+
+40
+00:05:05,741 --> 00:05:13,179
+Many tertiary-care centers have developed similar intermediate care units and use selected triage to ICUs.
+
+41
+00:05:13,179 --> 00:05:18,266
+Last, a few services have a full-care ICU as described first.
+
+42
+00:05:18,266 --> 00:05:28,379
+However, it is distinctly operated by obstetrical and anesthesia personnel near the labor and delivery unit (Zeeman, 2003, 2006).
+
+43
+00:05:28,379 --> 00:05:40,454
+The American College of Obstetricians and Gynecologists (2019a) has summarized critical obstetrical care implementation depending on hospital size and technical facilities.
+
+44
+00:05:40,454 --> 00:05:48,616
+For intrahospital transfers, the federal Emergency Medical Treatment and Labor Act (EMTALA) guidelines must be followed.
+
+45
+00:05:48,616 --> 00:06:08,366
+Moreover, according to the American Academy of Pediatrics and the American College of Obstetricians and Gynecologists (2017), the minimal monitoring required for a critically ill patient during transport includes continuous pulse oximetry, electrocardiography, and regular assessment of vital signs.
+
+46
+00:06:08,366 --> 00:06:17,166
+Patients must have secure venous access, and those who are mechanically ventilated must have endotracheal tube position confirmed and secured.
+
+47
+00:06:17,166 --> 00:06:24,466
+Left uterine displacement and supplemental oxygen is applied routinely during transport of antepartum patients.
+
+48
+00:06:24,466 --> 00:06:29,879
+Continuous fetal heart rate or tocodynamic monitoring is individualized.
+
+49
+00:06:29,879 --> 00:06:32,866
+# Severe Maternal Morbidity.
+
+50
+00:06:32,866 --> 00:06:37,491
+Childbirth can result in significant morbidity for the pregnant woman.
+
+51
+00:06:37,491 --> 00:06:47,516
+To help address this, severe maternal morbidity (SMM) was developed as a population-based monitoring standard for the most common of these complications .
+
+52
+00:06:47,516 --> 00:07:00,029
+An overall SMM rate is derived from 18 SMM indicators, which are abstracted from International Classification of Diseases-10 (ICD-10) codes in administrative databases.
+
+53
+00:07:00,029 --> 00:07:04,929
+SMM rates for an individual indicator also may be informative.
+
+54
+00:07:04,929 --> 00:07:08,691
+Some indicators are found in Table 50-1.
+
+55
+00:07:08,691 --> 00:07:21,216
+and the full list is available at www.cdc.gov/reproductivehealth/maternalinfanthealth/smm/severemorbidity-ICD.htm.
+
+56
+00:07:21,216 --> 00:07:27,854
+Several of these are included in this chapter, whereas others are addressed in specific chapters on their topic.
+
+57
+00:07:27,854 --> 00:07:34,141
+The goal of SMM monitoring is to identify opportunities for intervention and prevention.
+
+58
+00:07:34,141 --> 00:07:38,329
+Despite its promise, limitations should be recognized.
+
+59
+00:07:38,329 --> 00:07:44,466
+First, the rate does not factor underlying patient comorbidities and obstetrical risks.
+
+60
+00:07:44,466 --> 00:07:54,054
+Thus, a tertiary-care center that serves as a referral center for women with placenta accreta spectrum will understandably have higher blood transfusion rates.
+
+61
+00:07:54,054 --> 00:08:00,379
+Second, the ICD-10 indicators for existing SMM events are not comprehensive.
+
+62
+00:08:00,379 --> 00:08:09,929
+For example, only codes for total abdominal hysterectomy are currently included in the SMM rate, whereas supracervical hysterectomy is not.
+
+63
+00:08:09,929 --> 00:08:17,991
+With these limitations in mind, caution should be exercised when using SMM as a quality metric to compare hospitals .
+
+64
+00:08:17,991 --> 00:08:21,579
+# Hemodynamic Changes in Pregnancy.
+
+65
+00:08:21,579 --> 00:08:35,129
+Data obtained during pregnancy with pulmonary artery catheterization (PAC) have contributed immensely to the understanding of normal pregnancy hemodynamics and pathophysiology of common obstetrical conditions.
+
+66
+00:08:35,129 --> 00:08:45,191
+Clark and coworkers (1989) used PAC to obtain cardiovascular measurements in healthy pregnant women and again in these same women when nonpregnant .
+
+67
+00:08:45,191 --> 00:08:59,904
+Other evaluated conditions include preeclampsiaeclampsia, acute respiratory distress syndrome, and amnionic-fluid embolism (Clark, 1997; Cunningham, 1987; Hankins, 1985).
+
+68
+00:08:59,904 --> 00:09:14,404
+Because of these studies, most have concluded that such monitoring is seldom necessary (American College of Obstetricians and Gynecologists, 2013, 2019a, 2020; Magder, 2015).
+
+69
+00:09:14,404 --> 00:09:20,254
+Formulas for deriving some hemodynamic parameters are shown in Table 50-2.
+
+70
+00:09:20,254 --> 00:09:25,816
+These measurements can be indexed for body size by dividing by body surface area.
+
+71
+00:09:25,816 --> 00:09:32,229
+Normal values for nonpregnant adults are used, but with the caveat that these may not necessarily
+
+72
+00:09:32,380 --> 00:09:37,430
+reflect changes induced by the lowresistance uteroplacental circulation.
+
+73
+00:09:37,380 --> 00:09:39,680
+Table 50-2.
+
+74
+00:09:39,680 --> 00:09:49,192
+Formulas for Deriving Various Cardiopulmonary Parameters Cardiac complications are a common indication for ICU admission of pregnant women .
+
+75
+00:09:49,192 --> 00:09:54,917
+Evaluation of cardiac function is frequently performed using echocardiography.
+
+76
+00:09:54,917 --> 00:10:06,080
+This technology is indispensable in interrogating cardiac anatomy and especially rightventricular function (Krishnan, 2015; Thiele, 2015).
+
+77
+00:10:06,080 --> 00:10:15,767
+It is considered in more detail in Chapter 52 (p. 918), and some normal values are listed in the Appendix (p. 1233).
+
+78
+00:10:15,767 --> 00:10:28,055
+Given the association of cardiac dysfunction with maternal morbidity and mortality, efforts have strived to expand cardiac monitoring by including noninvasive cardiac output monitoring (NICOM).
+
+79
+00:10:28,055 --> 00:10:37,467
+With this tool, a small electrical current is applied to the chest, and voltage signals are captured by four skin sensors arranged in a box on the chest.
+
+80
+00:10:37,467 --> 00:10:44,855
+Compared with Doppler echocardiography, NICOM significantly overestimates stroke volume and cardiac output .
+
+81
+00:10:44,855 --> 00:10:50,580
+This modality has not yet been widely adopted for use in the obstetrical population.
+
+82
+00:10:50,580 --> 00:10:53,180
+Acute Pulmonary Edema.
+
+83
+00:10:53,180 --> 00:11:01,167
+The incidence of pulmonary edema complicating pregnancy averages 1 in 500 deliveries at tertiary referral centers.
+
+84
+00:11:01,167 --> 00:11:10,542
+Of the two general etiologies, cardiogenic, namely, hydrostatic edema is caused by high pulmonary capillary hydraulic pressures.
+
+85
+00:11:10,542 --> 00:11:19,267
+The other is noncardiogenic, that is, permeability edema caused by capillary endothelial and alveolar epithelial damage.
+
+86
+00:11:19,267 --> 00:11:24,242
+In pregnancy, noncardiogenic pulmonary edema is more common.
+
+87
+00:11:24,242 --> 00:11:41,130
+More than half of pregnant women who develop pulmonary edema have some degree of sepsis in conjunction with tocolysis, severe preeclampsia, or obstetrical hemorrhage combined with vigorous fluid therapy (O’Dwyer, 2015; Pordeus, 2018).
+
+88
+00:11:41,130 --> 00:11:50,067
+In one study, the etiologies of pulmonary edema were hypertension, cardiogenic, or both, and iatrogenic fluid overload .
+
+89
+00:11:50,067 --> 00:12:02,492
+In another study of 53 cases, 83 percent were caused by hypertensive disorders; 11 percent, cardiac events; and 6 percent, sepsis (O’Dwyer, 2015).
+
+90
+00:12:02,492 --> 00:12:15,367
+Although used less commonly today, tocolytic therapy with β-mimetic drugs was the cause of up to 40 percent of pulmonary edema cases (Gandhi, 2014; Jenkins, 2003).
+
+91
+00:12:15,367 --> 00:12:19,355
+# Noncardiogenic Permeability Edema.
+
+92
+00:12:19,355 --> 00:12:33,192
+Endotheliopathy is the common denominator that is associated with preeclampsia, sepsis, and acute hemorrhage—or frequently combinations thereof—and they are the most common predisposing factors to pulmonary edema .
+
+93
+00:12:33,192 --> 00:12:43,342
+These clinical scenarios are often associated with corticosteroids given to induce fetal lung maturation along with vigorous fluid replacement and tocolytic therapy .
+
+94
+00:12:43,342 --> 00:12:48,105
+Parenteral βagonists are indisputedly linked to pulmonary edema.
+
+95
+00:12:48,105 --> 00:12:59,642
+Some studies have also associated magnesium sulfate given for preeclampsia (Gandhi, 2014; Wilson, 2014; Xiao, 2014).
+
+96
+00:12:59,642 --> 00:13:02,342
+Combined therapy is causative.
+
+97
+00:13:02,342 --> 00:13:04,630
+Table 50-3.
+
+98
+00:13:04,630 --> 00:13:12,492
+Some Causes and Associated Factors for Pulmonary Edema in Pregnancy # Cardiogenic Hydrostatic Edema.
+
+99
+00:13:12,492 --> 00:13:26,492
+Ventricular failure causing pulmonary edema in pregnancy is usually associated with some form of hypertension, hemorrhage and anemia, and sepsis (Cunningham, 2019; Vaught, 2018).
+
+100
+00:13:26,492 --> 00:13:39,867
+Although it can be due to congenital or acquired anatomical defects, diastolic dysfunction is frequently from chronic hypertension, obesity, or both (Jessup, 2003; Kenchaiah, 2002).
+
+101
+00:13:39,867 --> 00:13:50,892
+In these women, acute systolic hypertension exacerbates diastolic dysfunction and causes pulmonary edema (Dennis, 2012; Vaught, 2018).
+
+102
+00:13:50,892 --> 00:14:01,605
+In two studies of pregnant women with preeclampsia and pulmonary edema, half of them were undelivered (Gandhi, 2014; Pordeus, 2018).
+
+103
+00:14:01,605 --> 00:14:04,005
+# Diagnosis.
+
+104
+00:14:04,005 --> 00:14:08,167
+Clinical examination is confirmed by chest radiographs.
+
+105
+00:14:08,167 --> 00:14:14,455
+Bedside lung sonography may be helpful to detect fluid in the interstitial space and alveoli .
+
+106
+00:14:14,455 --> 00:14:22,067
+In many cases, when echocardiography is done later, systolic function is normal as measured by ejection fraction.
+
+107
+00:14:22,067 --> 00:14:34,730
+In addition, ventricular myocytes and fibroblasts secrete brain natriuretic peptide (BNP) and atrial natriuretic peptide (ANP) with the distention seen in heart failure.
+
+108
+00:14:34,730 --> 00:14:38,280
+In nonpregnant patients, concentrations
+
+109
+00:14:38,428 --> 00:14:49,690
+<100 pg/mL have an excellent negative predictive value, and levels >500 pg/mL have an excellent positive predictive value.
+
+110
+00:14:49,640 --> 00:14:57,103
+It is problematic that levels frequently are 100 to 500 pg/mL and thus are nondiagnostic.
+
+111
+00:14:57,103 --> 00:15:08,015
+Moreover, concentrations of N-terminal BNP and ANP are both elevated with preeclampsia (Szabo, 2014; Tihtonen, 2007).
+
+112
+00:15:08,015 --> 00:15:17,465
+Normal values are discussed in Chapter 4 (p. 65), and those for normal pregnancy are given in the Appendix (p. 1231).
+
+113
+00:15:17,465 --> 00:15:19,690
+# Management.
+
+114
+00:15:19,690 --> 00:15:23,753
+Acute pulmonary edema requires emergency care.
+
+115
+00:15:23,753 --> 00:15:32,178
+Oxygen therapy is initiated and furosemide is given in periodic 20- to 40-mg intravenous doses as needed.
+
+116
+00:15:32,178 --> 00:15:39,590
+For oxygen delivery, nasal cannula, simple masks, and nonrebreathing masks are first-line systems.
+
+117
+00:15:39,590 --> 00:15:45,565
+Both nasal cannula and simple mask allow mixing of supplemental oxygen with room air.
+
+118
+00:15:45,565 --> 00:15:49,765
+Consequently, oxygen administration is imprecise .
+
+119
+00:15:49,765 --> 00:15:56,590
+A nonrebreathing mask has valves that limit the mixing of exhaled gas and room air with the oxygen supply.
+
+120
+00:15:56,590 --> 00:16:04,565
+Flow rates up to 10 to 15 L/min may be achieved, and oxygen concentrations approach 95 percent .
+
+121
+00:16:04,565 --> 00:16:11,528
+As a treatment goal, a pulse oximetry reading >92 percent reflects adequate oxygenation.
+
+122
+00:16:11,528 --> 00:16:16,015
+Further treatment depends on whether a woman is ante- or postpartum.
+
+123
+00:16:16,015 --> 00:16:25,840
+A live fetus prohibits the use of cardioactive drugs that might rapidly lower peripheral resistance and in turn severely diminish uteroplacental circulation.
+
+124
+00:16:25,840 --> 00:16:32,915
+The cause of cardiogenic failure is determined by echocardiography, which will help direct further therapy.
+
+125
+00:16:32,915 --> 00:16:39,578
+Importantly, acute pulmonary edema is not an indication for emergency cesarean delivery.
+
+126
+00:16:39,578 --> 00:16:42,528
+Acute Respiratory Distress Syndrome.
+
+127
+00:16:42,528 --> 00:16:52,828
+Acute lung injury that causes a form of severe permeability pulmonary edema and respiratory failure is termed acute respiratory distress syndrome (ARDS).
+
+128
+00:16:52,828 --> 00:17:03,003
+This is a pathophysiological continuum from mild pulmonary insufficiency to dependence on high inspired oxygen concentrations and mechanical ventilation.
+
+129
+00:17:03,003 --> 00:17:10,365
+Uniform criteria for its diagnosis are lacking, and thus the incidence is variably reported for pregnancy.
+
+130
+00:17:10,365 --> 00:17:23,365
+Rush and colleagues (2017) queried the nationwide inpatient samples of more than 5.4 million pregnancies and cited an incidence of 60 ventilated cases per 100,000 births.
+
+131
+00:17:23,365 --> 00:17:27,140
+They found an overall mortality rate of 9 percent.
+
+132
+00:17:27,140 --> 00:17:31,515
+This rate is much higher if caused or complicated by sepsis.
+
+133
+00:17:31,515 --> 00:17:38,303
+Last, if ARDS develops antepartum, the perinatal mortality rate is correspondingly high.
+
+134
+00:17:38,303 --> 00:17:40,653
+# Definitions.
+
+135
+00:17:40,653 --> 00:17:46,940
+Physiological criteria required for diagnosis of acute lung injury are study dependent.
+
+136
+00:17:46,940 --> 00:17:51,215
+In general, less precise terms are used for clinical care.
+
+137
+00:17:51,215 --> 00:17:56,953
+Clinical findings include dyspnea, tachypnea, and oxygen desaturation.
+
+138
+00:17:56,953 --> 00:18:13,215
+Most investigators define ARDS as radiographically documented pulmonary infiltrates, a ratio of arterial oxygen tension to the fraction of inspired oxygen (PaO2:FiO2) <200, and no evidence of heart failure .
+
+139
+00:18:13,215 --> 00:18:21,053
+Revised by international consensus, the Berlin Definition includes categories of mild, moderate, and severe .
+
+140
+00:18:21,053 --> 00:18:23,990
+# Etiopathogenesis.
+
+141
+00:18:23,990 --> 00:18:28,628
+ARDS begins with an acute lung injury from various causes .
+
+142
+00:18:28,628 --> 00:18:36,353
+More than half of pregnant women with ARDS have some combination of sepsis, hemorrhage, shock, and fluid overload.
+
+143
+00:18:36,353 --> 00:18:42,165
+Diffuse infectious pneumonia and sepsis are two of the most frequent single-agent causes.
+
+144
+00:18:42,165 --> 00:18:46,803
+Because it is common, influenza pneumonitis often is a cause.
+
+145
+00:18:46,803 --> 00:18:57,553
+Other etiologies such as pneumococcal, metapneumovirus, and Legionnaire disease also are encountered (Close, 2016; Fuchs, 2017).
+
+146
+00:18:57,553 --> 00:19:05,378
+Of sepsis causes, pyelonephritis, puerperal pelvic infection, and chorioamnionitis are the most frequent.
+
+147
+00:19:05,378 --> 00:19:11,128
+The contribution of transfusion-related acute lung injury (TRALI) is unclear .
+
+148
+00:19:11,128 --> 00:19:13,390
+Table 50-4.
+
+149
+00:19:13,390 --> 00:19:23,990
+Some Causes of Acute Lung Injury and Respiratory Failure Endothelial injury in the lung capillaries releases cytokines that recruit neutrophils to the inflammation site.
+
+150
+00:19:23,990 --> 00:19:28,478
+Here, they elaborate more cytokines to worsen tissue injury.
+
+151
+00:19:28,478 --> 00:19:32,015
+Three stages describe ARDS development .
+
+152
+00:19:32,015 --> 00:19:42,440
+First, the exudative phase follows widespread injury to the alveolar epithelium and to the microvascular endothelium, including the pulmonary vasculature.
+
+153
+00:19:42,440 --> 00:19:45,503
+This endotheliopathy results in
+
+154
+00:19:45,652 --> 00:19:56,764
+increased pulmonary capillary permeability, surfactant loss or inactivation, diminished lung volume, and vascular shunting that creates arterial hypoxemia.
+
+155
+00:19:56,714 --> 00:20:04,089
+Next, the proliferative phase usually begins approximately 7 days later and lasts up to 21 days.
+
+156
+00:20:04,089 --> 00:20:07,289
+Most patients recover during this phase.
+
+157
+00:20:07,289 --> 00:20:10,927
+Last, the fibrotic phase results from healing.
+
+158
+00:20:10,927 --> 00:20:20,802
+Despite these insults, the long-term prognosis for pulmonary function is surprisingly good (Baron, 2018; Herridge, 2003).
+
+159
+00:20:20,802 --> 00:20:23,277
+# Clinical Course.
+
+160
+00:20:23,277 --> 00:20:32,377
+With pulmonary injury, the clinical condition depends largely on the insult magnitude, the ability to compensate for it, and the disease stage.
+
+161
+00:20:32,377 --> 00:20:41,664
+At first, physical examination findings are absent, except perhaps hyperventilation, and arterial oxygenation usually is adequate.
+
+162
+00:20:41,664 --> 00:20:52,139
+With worsening, clinical and radiological evidence for pulmonary edema, decreased lung compliance, and increased intrapulmonary blood shunting become apparent.
+
+163
+00:20:52,139 --> 00:20:59,752
+Progressive alveolar and interstitial edema develops, and inflammatory cells and erythrocytes extravasate.
+
+164
+00:20:59,752 --> 00:21:08,064
+Ideally, pulmonary injury is identified at this early stage, and specific therapy is directed at the underlying insult.
+
+165
+00:21:08,064 --> 00:21:15,789
+Further progression to acute respiratory failure is characterized by marked dyspnea, tachypnea, and hypoxemia.
+
+166
+00:21:15,789 --> 00:21:22,302
+Additional functional lung volume loss results in worsening of pulmonary compliance and greater shunting.
+
+167
+00:21:22,302 --> 00:21:30,864
+Diffuse abnormalities are heard by auscultation, and a chest radiograph characteristically demonstrates bilateral lung involvement .
+
+168
+00:21:30,864 --> 00:21:36,477
+At this phase, the injury ordinarily would be lethal without ventilatory support.
+
+169
+00:21:36,477 --> 00:21:42,064
+When shunting exceeds 30 percent, severe refractory hypoxemia develops.
+
+170
+00:21:42,064 --> 00:21:50,427
+Comorbid metabolic and respiratory acidosis can result in myocardial irritability, dysfunction, and cardiac arrest.
+
+171
+00:21:50,427 --> 00:21:52,789
+Figure 50-1.
+
+172
+00:21:52,789 --> 00:22:04,739
+Anteroposterior chest radiograph of a second-trimester pregnant woman with marked bilateral parenchymal and pleural opacification secondary to acute respiratory distress syndrome (ARDS).
+
+173
+00:22:04,739 --> 00:22:06,964
+# Management.
+
+174
+00:22:06,964 --> 00:22:16,252
+ARDS mortality rates have declined because of advances in critical care medicine (Baron, 2018; Fan, 2018).
+
+175
+00:22:16,252 --> 00:22:23,239
+Management requires close attention to recognizing and treating underlying medical and surgical disorders.
+
+176
+00:22:23,239 --> 00:22:33,964
+In cases of severe acute lung injury, providing adequate oxygenation of peripheral tissues is balanced against ventilatory maneuvers that further aggravate lung injury.
+
+177
+00:22:33,964 --> 00:22:42,539
+At least intuitively, increasing oxygen delivery should produce a corresponding rise in tissue uptake, but this is difficult to measure.
+
+178
+00:22:42,539 --> 00:22:47,927
+Support of systemic perfusion with intravenous crystalloid and blood is imperative.
+
+179
+00:22:47,927 --> 00:22:57,514
+Because sepsis is commonplace in lung injury, aggressive antimicrobial therapy is given for infection, and any necrotic tissues are debrided.
+
+180
+00:22:57,514 --> 00:23:01,989
+Oxygen delivery can be greatly improved by correcting anemia.
+
+181
+00:23:01,989 --> 00:23:09,802
+Specifically, each gram of hemoglobin carries 1.25 mL of oxygen when 90-percent saturated.
+
+182
+00:23:09,802 --> 00:23:23,202
+By comparison, raising the arterial PaO2 from 100 to 200 mm Hg results in the transport of only 0.1 mL of additional oxygen for each 100 mL of blood.
+
+183
+00:23:23,202 --> 00:23:40,477
+Reasonable goals in caring for the woman with severe lung injury are a PaO2 of 60 mm Hg or 90-percent oxygen saturation using an inspired oxygen content <50 percent and positive end-expiratory pressures <15 mm Hg.
+
+184
+00:23:40,477 --> 00:23:47,714
+With regard to the pregnancy, it remains controversial whether delivery of the fetus improves maternal oxygenation .
+
+185
+00:23:47,714 --> 00:23:54,102
+In a study of 29 women undergoing mechanical ventilation, 10 were delivered while intubated .
+
+186
+00:23:54,102 --> 00:24:01,264
+Respiratory function modestly improved in half, but no factors were identified that predicted a better outcome.
+
+187
+00:24:01,264 --> 00:24:04,114
+# Mechanical Ventilation.
+
+188
+00:24:04,114 --> 00:24:14,289
+Noninvasive ventilation, that is, positive-pressure ventilation by face mask, may be effective in some women in early stages of pulmonary insufficiency .
+
+189
+00:24:14,289 --> 00:24:18,264
+Conventional ventilation is done with tracheal intubation.
+
+190
+00:24:18,264 --> 00:24:26,052
+Early intubation is preferred in the gravida if respiratory failure is more likely than not and especially if it appears imminent.
+
+191
+00:24:26,052 --> 00:24:36,402
+Because of the physiological changes outlined in Chapter 4 (p. 67), PaCO2 is normally reduced in a gravida relative to a nonpregnant woman.
+
+192
+00:24:36,402 --> 00:24:37,852
+Thus,
+
+193
+00:24:38,020 --> 00:24:49,170
+intubation should be considered when PaCO2 levels reach 35 to 40 mm Hg. Mechanical ventilation is used to assist or replace spontaneous respiration .
+
+194
+00:24:49,120 --> 00:24:55,432
+It improves oxygenation by its application of highoxygen-content gas and positive pressure.
+
+195
+00:24:55,432 --> 00:25:09,782
+Many successful formulas for mechanical ventilation are employed, and initially a tidal volume ≤6 mL/kg is optimal (Fan, 2018; Schwaiberger, 2016).
+
+196
+00:25:09,782 --> 00:25:23,845
+Adjustments are made to obtain a PaO2 >60 mm Hg or a hemoglobin oxygen saturation ≥90 percent and to reach a PaCO2 of 35 to 45 mm Hg.
+
+197
+00:25:23,845 --> 00:25:29,182
+Lower PaO2 levels are avoided, because placental perfusion may be impaired.
+
+198
+00:25:29,182 --> 00:25:34,595
+The mode is the manner in which ventilator breaths are triggered, cycled, and limited.
+
+199
+00:25:34,595 --> 00:25:42,357
+Three commonly used ventilation modes of include assistcontrol, intermittent mandatory, and pressure-support ventilation.
+
+200
+00:25:42,357 --> 00:25:52,420
+Although not a support mode, continuous positive airway pressure can be used in patients with an intact ventilatory system who require little ventilatory support.
+
+201
+00:25:52,420 --> 00:26:01,620
+Pregnancy In a study of 51 women with ARDS, almost half had severe preeclampsia, and most required intubation postpartum.
+
+202
+00:26:01,620 --> 00:26:07,295
+Eleven were delivered while being ventilated, and another six were discharged undelivered .
+
+203
+00:26:07,295 --> 00:26:13,432
+Two mothers died, and this included a woman who died as a complication of tocolytic treatment.
+
+204
+00:26:13,432 --> 00:26:24,045
+In a multicenter report, Lapinsky and associates (2015) described 29 pregnant women undergoing mechanical ventilation for various indications.
+
+205
+00:26:24,045 --> 00:26:29,332
+Only a few had severe ARDS, and the mortality rate was 10 percent.
+
+206
+00:26:29,332 --> 00:26:36,032
+Ten women delivered while being ventilated, but this had little beneficial effect on their respiratory status.
+
+207
+00:26:36,032 --> 00:26:49,932
+Positive End-Expiratory Pressure With severe lung injury and high intrapulmonary shunt fractions, it may not be possible to provide adequate oxygenation with usual ventilatory pressures, even with 100-percent oxygen.
+
+208
+00:26:49,932 --> 00:26:57,057
+Positive end-expiratory pressure is usually successful in decreasing the shunt by recruiting collapsed alveoli.
+
+209
+00:26:57,057 --> 00:27:03,945
+At low levels of 5 to 15 mm Hg, positive pressure can typically be used safely.
+
+210
+00:27:03,945 --> 00:27:20,757
+At higher levels, impaired right-sided venous return can result in decreased cardiac output, lowered uteroplacental perfusion, alveolar overdistention, falling compliance, and barotrauma (Celli, 2018; Schwaiberger, 2016).
+
+211
+00:27:20,757 --> 00:27:34,995
+Extracorporeal Membrane Oxygenation As discussed in Chapter 33 (p. 600), extracorporeal membrane oxygenation (ECMO) has been successfully used for neonatal meconium aspiration syndrome.
+
+212
+00:27:34,995 --> 00:27:47,895
+Some preliminary observations suggest that veno-venous ECMO may be useful in adults with ARDS (Combes, 2018; Ende, 2016; Matthay, 2018).
+
+213
+00:27:47,895 --> 00:27:59,682
+In one case series, 12 pregnant women with influenza-induced lung failure were treated with ECMO, and of four maternal deaths, three were due to anticoagulation-related hemorrhage .
+
+214
+00:27:59,682 --> 00:28:08,432
+ECMO use also has been reported for status asthmaticus (Clifford, 2018; Steinack, 2017).
+
+215
+00:28:08,432 --> 00:28:22,857
+In multiple reviews, ECMO was used mostly for ARDS, and the maternal and perinatal mortality rate approximated 30 percent (Liu, 2018; Ramanathan, 2020; Saad, 2016).
+
+216
+00:28:22,857 --> 00:28:29,870
+Maternal survival appears to be significantly lower compared with nonpregnant women requiring ECMO .
+
+217
+00:28:29,870 --> 00:28:38,482
+Fetal Oxygenation The propensity of the hemoglobin molecule to release oxygen is described by the oxyhemoglobin dissociation curve .
+
+218
+00:28:38,482 --> 00:28:51,932
+For clinical purposes, the curve can be divided into an upper oxygen association curve representing the alveolar-capillary environment and a lower oxygen dissociation portion representing the tissue-capillary environment.
+
+219
+00:28:51,932 --> 00:28:57,970
+Shifts of the curve have their greatest effect at the steep portion because they affect oxygen delivery.
+
+220
+00:28:57,970 --> 00:29:06,382
+A rightward shift is associated with decreased hemoglobin affinity for oxygen and hence greater tissue-capillary oxygen interchange.
+
+221
+00:29:06,382 --> 00:29:14,707
+Hypercapnia, metabolic acidosis, fever, and increased 2,3-diphosphoglycerate levels produce rightward shifts.
+
+222
+00:29:14,707 --> 00:29:25,020
+During normal pregnancy, the erythrocyte concentration of 2,3-diphosphoglycerate rises by approximately 30 percent, which favors oxygen delivery.
+
+223
+00:29:25,020 --> 00:29:27,282
+Figure 50-2.
+
+224
+00:29:27,282 --> 00:29:30,532
+Oxyhemoglobin dissociation curve.
+
+225
+00:29:30,532 --> 00:29:37,595
+With higher oxygen tension (PaO2) in the pulmonary alveoli, adult hemoglobin is maximally
+
+226
+00:29:37,756 --> 00:29:43,193
+saturated compared with that at the lower oxygen tension in the tissue capillaries.
+
+227
+00:29:43,143 --> 00:29:52,493
+Note that at any given oxygen tension, fetal hemoglobin carries more oxygen than adult hemoglobin, as indicated by percent saturation.
+
+228
+00:29:52,493 --> 00:29:57,418
+Fetal hemoglobin has a higher oxygen affinity than adult hemoglobin.
+
+229
+00:29:57,418 --> 00:30:05,018
+As seen in Figure 50-2, its oxyhemoglobin dissociation curve is positioned to the left of the adult curve.
+
+230
+00:30:05,018 --> 00:30:16,056
+To achieve 50-percent hemoglobin saturation in the mother, the PaO2 must be 27 mm Hg compared with only 19 mm Hg in the fetus.
+
+231
+00:30:16,056 --> 00:30:23,781
+Under normal physiological conditions, the fetus is constantly on the dissociation, or tissue, portion of the curve.
+
+232
+00:30:23,781 --> 00:30:31,518
+Even with severe maternal lung disease and very low PaO2 levels, oxygen displacement to fetal tissues is favored.
+
+233
+00:30:31,518 --> 00:30:43,343
+For example, in pregnant women who live at high altitudes, and despite a maternal PaO2 of only 60 mm Hg, the fetal PaO2 is equivalent to that seen at sea level .
+
+234
+00:30:43,343 --> 00:30:53,218
+Intravenous Fluids Although mortality rates are similar, conservative versus liberal fluid management is associated with fewer days of mechanical ventilation .
+
+235
+00:30:53,218 --> 00:31:01,781
+Some normal pregnancy-induced physiological changes predispose to a greater risk of permeability edema from vigorous fluid therapy.
+
+236
+00:31:01,781 --> 00:31:12,631
+Serum albumin concentration determines colloid oncotic pressure (COP), and 1 g/dL exerts approximately 6 mm Hg of pressure.
+
+237
+00:31:12,631 --> 00:31:20,006
+As discussed in Chapter 4 (p. 70), serum albumin concentrations normally drop in pregnancy.
+
+238
+00:31:20,006 --> 00:31:31,593
+This results in a decline in COP from 28 mm Hg in the nonpregnant woman to 23 mm Hg at term and to 17 mm Hg in the puerperium .
+
+239
+00:31:31,593 --> 00:31:39,306
+With preeclampsia, endotheliopathy causes extravascular albumin loss and lowered serum albumin levels.
+
+240
+00:31:39,306 --> 00:31:46,206
+These changes have a significant clinical effect on the colloid oncotic pressure/wedge pressure gradient.
+
+241
+00:31:46,206 --> 00:31:50,618
+Normally, this gradient exceeds 8 mm Hg.
+
+242
+00:31:50,618 --> 00:31:59,143
+However, when it is ≤4 mm Hg, the risk for pulmonary edema rises due to Starling forces.
+
+243
+00:31:59,143 --> 00:32:05,181
+Finally, no benefits are gained by albumin versus crystalloid infusions in these women .
+
+244
+00:32:05,181 --> 00:32:07,893
+# Long-Term Outcomes.
+
+245
+00:32:07,893 --> 00:32:12,443
+Most patients with ARDS regain nearly normal lung function .
+
+246
+00:32:12,443 --> 00:32:20,318
+In nonpregnant subjects, however, risks for impaired global cognitive function at 3 and 12 months are significant .
+
+247
+00:32:20,318 --> 00:32:25,693
+Moreover, return to basic normal activity is delayed 1 to 2 years.
+
+248
+00:32:25,693 --> 00:32:37,743
+In a 5-year follow-up study, Herridge and coworkers (2011) reported normal lung function but significant exercise limitation as well as physical and psychological sequelae.
+
+249
+00:32:37,743 --> 00:32:43,206
+Long-term follow-up studies of pregnant women who recover from ARDS are lacking.
+
+250
+00:32:43,206 --> 00:32:45,756
+Sepsis And Septic Shock.
+
+251
+00:32:45,756 --> 00:32:53,368
+Sepsis is defined as infection with organ dysfunction, and septic shock manifests with unresponsive hypotension .
+
+252
+00:32:53,368 --> 00:33:03,831
+The Third International Consensus Definition—“Sepsis-3”—denotes clinical criteria for sepsis to include suspected infection and acute organ dysfunction .
+
+253
+00:33:03,831 --> 00:33:11,556
+Use of the terms systemic inflammatory response syndrome (SIRS) and severe sepsis are no longer recommended.
+
+254
+00:33:11,556 --> 00:33:21,056
+The syndrome is induced by a systemic inflammatory response to bacteria or viruses or their by-products such as endotoxins or exotoxins.
+
+255
+00:33:21,056 --> 00:33:23,656
+Its severity is a continuum .
+
+256
+00:33:23,656 --> 00:33:34,293
+In an analysis of 55 million births, Kendle and associates (2019) found an incidence of 2.4 cases per 10,000 deliveries.
+
+257
+00:33:34,293 --> 00:33:41,268
+The Society for Maternal-Fetal Medicine cites the incidence to be 4 to 10 cases per 10,000 births.
+
+258
+00:33:41,268 --> 00:33:53,818
+According to the Centers for Disease Control and Prevention (CDC), infection and sepsis caused 12 percent of pregnancyrelated deaths in the United States from 2013 to 2017 .
+
+259
+00:33:53,818 --> 00:33:56,181
+Figure 50-3.
+
+260
+00:33:56,181 --> 00:34:02,731
+Sepsis begins with a systemic inflammatory response to infection that may progress to septic shock.
+
+261
+00:34:02,731 --> 00:34:15,118
+Infections that most commonly cause sepsis syndrome in obstetrics are pyelonephritis , chorioamnionitis and puerperal sepsis , pneumonia , septic abortion , and necrotizing fasciitis .
+
+262
+00:34:15,118 --> 00:34:21,218
+Septic shock is defined by the need for vasopressor therapy despite fluid resuscitation.
+
+263
+00:34:21,218 --> 00:34:25,843
+The mortality rate for this in nonpregnant patients is 20 percent .
+
+264
+00:34:25,843 --> 00:34:34,893
+The maternal mortality risk from sepsis is significantly underestimated (Bauer, 2015; Chebbo, 2016).
+
+265
+00:34:34,893 --> 00:34:39,581
+However, most evidence indicates that case-fatality rates are
+
+266
+00:34:39,748 --> 00:34:44,635
+lower for pregnant women compared with age-matched nonpregnant controls .
+
+267
+00:34:44,585 --> 00:34:47,523
+# Etiopathogenesis.
+
+268
+00:34:47,523 --> 00:34:58,285
+Most information concerning sepsis pathogenesis derives from study of lipopolysaccharide (LPS), which is the endotoxin portion of gram-negative bacteria.
+
+269
+00:34:58,285 --> 00:35:09,260
+The lipid A moiety is bound by mononuclear blood cells, becomes internalized, and stimulates release of mediators and a series of complex downstream perturbations.
+
+270
+00:35:09,260 --> 00:35:21,460
+Clinical aspects of sepsis manifest when cytokines that have endocrine, paracrine, and autocrine actions are released (Seymour, 2018; Suffredini, 1989).
+
+271
+00:35:21,460 --> 00:35:28,385
+Although sepsis in obstetrics may be caused by several pathogens, most cases stem from a small group.
+
+272
+00:35:28,385 --> 00:35:40,610
+Sepsis and bacteremia complicating pyelonephritis are commonly caused by Escherichia coli and Klebsiella species (Cunningham, 1987; Snyder, 2013).
+
+273
+00:35:40,610 --> 00:35:52,148
+Although pelvic infections are usually polymicrobial, bacteria that cause severe sepsis are frequently endotoxin-producing Enterobacteriaceae, and most commonly E coli .
+
+274
+00:35:52,148 --> 00:35:59,910
+Other pelvic pathogens are aerobic and anaerobic streptococci, Bacteroides species, and Clostridium species.
+
+275
+00:35:59,910 --> 00:36:05,423
+Of these, group A streptococcal infections are a significant source of infection .
+
+276
+00:36:05,423 --> 00:36:21,823
+Some strains of group A β-hemolytic streptococci and Staphylococcus aureus—including community-acquired methicillin-resistant S aureus strains (CA-MRSA)—produce a superantigen that activates T cells to rapidly cause all features of sepsis.
+
+277
+00:36:21,823 --> 00:36:33,210
+This manifests as toxic shock syndrome, which is discussed further in Chapter 37 (p. 659) (Moellering, 2011; Soper, 2011).
+
+278
+00:36:33,210 --> 00:36:38,198
+Potent bacterial exotoxins also can cause severe sepsis syndrome.
+
+279
+00:36:38,198 --> 00:36:57,460
+Examples include exotoxins from Clostridium perfringens or sordellii, toxic shock syndrome toxin 1 (TSST-1) from S aureus, and toxic shock–like exotoxin from group A β-hemolytic streptococci (Herrera, 2016; Kaiser, 2018).
+
+280
+00:36:57,460 --> 00:37:09,435
+These last exotoxins cause rapid and extensive tissue necrosis and gangrene, especially of the postpartum uterus, and may cause profound cardiovascular collapse and maternal death.
+
+281
+00:37:09,435 --> 00:37:16,085
+In a review discussed subsequently, the maternal mortality rate from these infections was 58 percent .
+
+282
+00:37:16,085 --> 00:37:23,560
+Sepsis begins with an inflammatory response that is directed against microbial endotoxins and exotoxins.
+
+283
+00:37:23,560 --> 00:37:40,985
+CD4 T cells and leukocytes are stimulated to produce proinflammatory compounds that include tumor necrosis factor α (TNF-α), several interleukins, and other cytokines, proteases, oxidants, and bradykinin that result in a “cytokine storm.
+
+284
+00:37:40,985 --> 00:37:53,798
+Many other cellular reactions then follow and include stimulation of pro- and antiinflammatory compounds, procoagulant activity, gene activation, receptor regulation, and immune suppression .
+
+285
+00:37:53,798 --> 00:38:00,023
+It is also likely that interleukin 6 (IL-6) mediates myocardial suppression .
+
+286
+00:38:00,023 --> 00:38:07,160
+The pathophysiological response to this cascade is selective vasodilation with maldistribution of blood flow.
+
+287
+00:38:07,160 --> 00:38:11,423
+Leukocyte and platelet aggregation cause capillary plugging.
+
+288
+00:38:11,423 --> 00:38:19,373
+Worsening endotheliopathy causes profound permeability, capillary leakage, and interstitial fluid accumulation.
+
+289
+00:38:19,373 --> 00:38:30,035
+Depending on the degree of endothelial injury and inflammatory response, a pathophysiological and clinical continuum evolves as depicted in Figure 50-3.
+
+290
+00:38:30,035 --> 00:38:36,535
+The clinical syndrome begins with subtle signs of sepsis from infection and terminates with septic shock.
+
+291
+00:38:36,535 --> 00:38:46,735
+In its early stages, clinical shock results primarily from lowered systemic vascular resistance that is not compensated fully by increased cardiac output.
+
+292
+00:38:46,735 --> 00:38:57,273
+Hypoperfusion worsens lactic acidosis, decreases tissue oxygen extraction, and leads to end-organ dysfunction that includes acute lung and kidney injury.
+
+293
+00:38:57,273 --> 00:39:07,010
+Finally, septic cardiomyopathy with global involvement is common with severe sepsis (Beesley, 2018; Martin, 2018).
+
+294
+00:39:07,010 --> 00:39:10,098
+# Clinical Manifestations.
+
+295
+00:39:10,098 --> 00:39:20,848
+Sepsis has myriad clinical manifestations that, at least in part, are dependent on the specific invading microorganism and its particular endo- or exotoxins.
+
+296
+00:39:20,848 --> 00:39:25,960
+Some of the general effects of LPS are shown in Table 50-5.
+
+297
+00:39:25,960 --> 00:39:28,385
+Table 50-5.
+
+298
+00:39:28,385 --> 00:39:37,385
+Clinical Manifestations of Sepsis Thus, although capillary leakage initially causes hypovolemia, if intravenous crystalloid is given
+
+299
+00:39:37,540 --> 00:39:45,665
+at this point, sepsis hemodynamically can be described as a high-cardiac-output, low-systemic-vascular-resistance condition .
+
+300
+00:39:45,615 --> 00:39:55,265
+Concomitantly, pulmonary hypertension develops, and despite the high cardiac output, severe sepsis also causes myocardial depression .
+
+301
+00:39:55,265 --> 00:39:59,577
+This is often referred to as the warm phase of septic shock.
+
+302
+00:39:59,577 --> 00:40:11,077
+These findings are the most common cardiovascular manifestations of early sepsis, but they can be accompanied by some of the other clinical or laboratory aberrations listed in the prior section.
+
+303
+00:40:11,077 --> 00:40:13,440
+Figure 50-4.
+
+304
+00:40:13,440 --> 00:40:16,402
+Hemodynamic effects of sepsis.
+
+305
+00:40:16,402 --> 00:40:20,265
+Values for normal women at term are shown by dots.
+
+306
+00:40:20,265 --> 00:40:25,790
+With early sepsis, there is high cardiac output and low vascular resistance.
+
+307
+00:40:25,790 --> 00:40:33,227
+With fluid resuscitation, cardiac output increases even more, but so does capillary hydraulic pressure.
+
+308
+00:40:33,227 --> 00:40:40,365
+With continued sepsis, there may be myocardial depression to further increase capillary hydraulic pressure.
+
+309
+00:40:40,365 --> 00:40:53,065
+Decreased plasma oncotic pressure (serum albumin [g] × 6 mm Hg) contributes to interstitial lung fluid and endo/epithelial leak causes alveolar flooding.
+
+310
+00:40:53,065 --> 00:41:03,452
+IV = intravenous; LVSWI = left ventricular stroke work index; PCWP = pulmonary capillary wedge pressure.
+
+311
+00:41:03,452 --> 00:41:08,127
+The response to initial intravenous hydration may be prognostic.
+
+312
+00:41:08,127 --> 00:41:18,665
+Most pregnant women who have early sepsis show a salutary response with crystalloid and antimicrobial therapy, and if indicated, debridement of infected tissue.
+
+313
+00:41:18,665 --> 00:41:25,802
+Conversely, if following vigorous fluid infusion, septic shock results, then the prognosis is more guarded.
+
+314
+00:41:25,802 --> 00:41:42,102
+At this juncture, if β-adrenergic inotropic agents fail to improve cardiovascular status, this indicates severe and unresponsive extracellular fluid extravasation with vascular insufficiency, overwhelming myocardial depression, or both.
+
+315
+00:41:42,102 --> 00:41:50,727
+Oliguria and continued peripheral vasoconstriction characterize a secondary, cold phase of septic shock that is rarely survived.
+
+316
+00:41:50,727 --> 00:42:02,915
+Another poor prognostic sign is continued renal, pulmonary, and cerebral dysfunction once hypotension is corrected (Chebbo, 2016; Seymour, 2018).
+
+317
+00:42:02,915 --> 00:42:09,127
+The average risk of death rises by 15 to 20 percent with failure of each organ system.
+
+318
+00:42:09,127 --> 00:42:11,352
+# Management.
+
+319
+00:42:11,352 --> 00:42:17,952
+In 2004, an international consensus effort was launched as the Surviving Sepsis Campaign .
+
+320
+00:42:17,952 --> 00:42:30,290
+The cornerstone of management was termed early goal-directed therapy (EGDT), which stressed prompt recognition of serious bacterial infection and close monitoring of vital signs and urine flow.
+
+321
+00:42:30,290 --> 00:42:43,165
+After three multicenter trials did not show that this protocol improved survival rates, this strategy is no longer recommended (PRISM Investigators, 2017; Seymour, 2018).
+
+322
+00:42:43,165 --> 00:42:52,340
+Similar conclusions were reached with sets of early warning systems in obstetrics (Edwards, 2015; Mhyre, 2014).
+
+323
+00:42:52,340 --> 00:43:02,152
+Modified Early Warning Score (MEWS) failed to predict sepsis in obstetrical populations with positive predictive values as low as 1 to 2 percent .
+
+324
+00:43:02,152 --> 00:43:15,952
+Reasons for such poor performance in pregnant women include physiological changes of vital signs; relatively fewer comorbidities in a younger, healthier population; and predominantly genitourinary infections.
+
+325
+00:43:15,952 --> 00:43:25,940
+Thus, current efforts such as the Sepsis in Obstetrics Score have been designed to identify women who benefit from ICU admission early in their hospital course .
+
+326
+00:43:25,940 --> 00:43:32,577
+However, the validity of these findings beyond a single center and against controls is yet unstudied.
+
+327
+00:43:32,577 --> 00:43:37,715
+Still, the major tenets of EGDT are employed for sepsis treatment.
+
+328
+00:43:37,715 --> 00:43:51,377
+Management of sepsis stresses prompt administration of broad-spectrum antimicrobials, collection of specimens for culture, serum lactate level measurement, an intravenous fluid bolus, and vasopressors as needed .
+
+329
+00:43:51,377 --> 00:43:56,577
+An algorithm for management of sepsis is shown in Figure 50-5.
+
+330
+00:43:56,577 --> 00:44:08,252
+The three basic steps are performed as simultaneously as possible and include evaluation of the sepsis source and its sequelae, cardiopulmonary function assessment, and immediate management.
+
+331
+00:44:08,252 --> 00:44:19,615
+The most important step in sepsis management is rapid infusion of 2 L and sometimes as many as 4 to 6 L of crystalloid fluids to restore renal perfusion in severely affected women .
+
+332
+00:44:19,615 --> 00:44:25,365
+Simultaneously, appropriately chosen broad-spectrum antimicrobials are begun,
+
+333
+00:44:25,516 --> 00:44:33,703
+preferentially within 1 hour (Chen, 2019; Society for Maternal-Fetal Medicine, 2019).
+
+334
+00:44:33,653 --> 00:44:40,403
+Because hemoconcentration is caused by the capillary leak, if anemia coexists, blood is given.
+
+335
+00:44:40,403 --> 00:44:43,803
+Specific thresholds for gravidas are lacking.
+
+336
+00:44:43,803 --> 00:44:58,666
+In a group of nonpregnant individuals admitted to an ICU, maintaining the hemoglobin concentration ≥9 g/dL did not have superior outcomes compared with levels ≥7 g/dL .
+
+337
+00:44:58,666 --> 00:45:06,753
+That said, fetal oxygenation is improved by the higher concentration, as discussed earlier (p. 886).
+
+338
+00:45:06,753 --> 00:45:09,241
+Figure 50-5.
+
+339
+00:45:09,241 --> 00:45:13,253
+Algorithm for evaluation and management of sepsis.
+
+340
+00:45:13,253 --> 00:45:17,641
+Rapid and aggressive implementation is paramount for success.
+
+341
+00:45:17,641 --> 00:45:24,391
+The three steps—Evaluate, Assess, and Manage—are carried out as simultaneously as possible.
+
+342
+00:45:24,391 --> 00:45:28,903
+The use of a colloid solution such as hetastarch is controversial .
+
+343
+00:45:28,903 --> 00:45:38,666
+One Scandinavian randomized trial comparing hydroxyethyl starch and Ringer acetate solutions reported a higher mortality rate with the starch solution .
+
+344
+00:45:38,666 --> 00:45:45,428
+Another study found equivalent results with 6-percent hydroxyethyl starch compared with normal saline .
+
+345
+00:45:45,428 --> 00:45:50,191
+Additionally, albumin was not found to be superior to crystalloids .
+
+346
+00:45:50,191 --> 00:46:01,691
+Aggressive volume replacement ideally is promptly followed by urinary output of at least 30 and preferably 50 mL/h, as well as other indicators of improved perfusion.
+
+347
+00:46:01,691 --> 00:46:05,741
+If not, vasoactive drug therapy is considered .
+
+348
+00:46:05,741 --> 00:46:12,916
+As discussed, mortality rates are high when sepsis is further complicated by respiratory or renal failure.
+
+349
+00:46:12,916 --> 00:46:22,241
+With severe sepsis, damage to pulmonary capillary endothelium and alveolar epithelium causes alveolar flooding and pulmonary edema.
+
+350
+00:46:22,241 --> 00:46:30,278
+This may occur even with low or normal pulmonary capillary wedge pressures, as with the ARDS (p. 884).
+
+351
+00:46:30,278 --> 00:46:35,066
+Therefore, in some women, mechanical ventilation is indicated.
+
+352
+00:46:35,066 --> 00:46:41,191
+Broad-spectrum antimicrobials are chosen empirically based on the probable source of infection.
+
+353
+00:46:41,191 --> 00:46:50,478
+They are given promptly in maximal doses after appropriate cultures are taken of blood, urine, or exudates not contaminated by normal flora.
+
+354
+00:46:50,478 --> 00:47:00,103
+In severe sepsis, appropriate and early empirical coverage results in better survival rates (Seymour, 2017, 2018).
+
+355
+00:47:00,103 --> 00:47:08,953
+Acute pyelonephritis is usually caused by Enterobacteriaceae, as discussed in Chapter 56 (p. 997).
+
+356
+00:47:08,953 --> 00:47:21,228
+For pelvic infections, empirical selection of a regimen such as ampicillin, gentamicin, plus clindamycin, which in sum covers aerobic and anaerobic pathogens, generally suffices .
+
+357
+00:47:21,228 --> 00:47:30,378
+Associated incisional and other soft-tissue infections are increasingly likely to be caused by MRSA, thus vancomycin may be added .
+
+358
+00:47:30,378 --> 00:47:40,391
+With septic abortion or deep fascial infections, a Gram-stained smear may be helpful in identifying Clostridium species or group A streptococcal organisms.
+
+359
+00:47:40,391 --> 00:47:49,153
+Surgical Treatment Continuing sepsis may prove fatal, and debridement of necrotic tissue or drainage of purulent material is crucial .
+
+360
+00:47:49,153 --> 00:47:58,016
+Puerperal pelvic infections include metritis and infections of perineal lacerations or of hysterotomy or laparotomy incisions.
+
+361
+00:47:58,016 --> 00:48:02,291
+If complicated by abscess, these may require drainage.
+
+362
+00:48:02,291 --> 00:48:11,491
+With a septic abortion, uterine contents must be removed expeditiously by curettage as described in Chapter 11 (p. 203).
+
+363
+00:48:11,491 --> 00:48:15,991
+Hysterectomy is seldom indicated unless gangrene has resulted.
+
+364
+00:48:15,991 --> 00:48:26,603
+For women with pyelonephritis, continuing sepsis should prompt a search for obstruction caused by calculi or by a perinephric or intrarenal phlegmon or abscess.
+
+365
+00:48:26,603 --> 00:48:32,703
+Renal sonography or “one-shot” pyelography can help diagnose obstruction and calculi.
+
+366
+00:48:32,703 --> 00:48:40,466
+With obstruction, ureteral catheterization, percutaneous nephrostomy, or flank exploration may be lifesaving .
+
+367
+00:48:40,466 --> 00:48:48,428
+Computed tomography (CT) or magnetic-resonance imaging aids identification of a renal phlegmon or abscess.
+
+368
+00:48:48,428 --> 00:48:50,691
+Puerperal Infections.
+
+369
+00:48:50,691 --> 00:49:02,803
+Most cases of puerperal pelvic sepsis are clinically manifested in the first several postpartum days, and intravenous antimicrobial therapy without tissue debridement is generally curative.
+
+370
+00:49:02,803 --> 00:49:05,666
+At least four exceptions are notable.
+
+371
+00:49:05,666 --> 00:49:17,203
+First, massive uterine myonecrosis can be caused by group A βhemolytic streptococcal or clostridial infections (Kaiser, 2018; Soper, 2011).
+
+372
+00:49:17,203 --> 00:49:22,941
+Those with early-onset disease present with findings listed in Table 50-6.
+
+373
+00:49:23,092 --> 00:49:31,517
+The mortality rate in these women with gangrene, shown in Figure 50-6 is high, and prompt hysterectomy may be lifesaving.
+
+374
+00:49:31,467 --> 00:49:40,442
+Group A β-hemolytic streptococci and clostridial colonization or infection also cause toxic-shock syndrome without obvious gangrene .
+
+375
+00:49:40,442 --> 00:49:48,454
+These are due to either streptococcal toxic shock syndrome–like toxin or clostridial exotoxin that evolved from S aureus .
+
+376
+00:49:48,454 --> 00:49:56,879
+In many of these cases, bacteremia and widespread tissue invasion develops, but uterine and abdominal incisions are intact.
+
+377
+00:49:56,879 --> 00:50:06,892
+If uterine necrosis can be excluded—usually by CT scanning—then in our experiences, as well as in others, hysterectomy may not be necessary .
+
+378
+00:50:06,892 --> 00:50:14,254
+Still, these infections can be highly lethal (Chen, 2019; Yamada, 2010).
+
+379
+00:50:14,254 --> 00:50:16,642
+Table 50-6.
+
+380
+00:50:16,642 --> 00:50:24,567
+Clinical Findings in 126 Women with Group A β-Hemolytic Streptococcal Infection Figure 50-6.
+
+381
+00:50:24,567 --> 00:50:33,379
+A fatal case of group A β-hemolytic Streptococcus pyogenes puerperal infection following an uncomplicated vaginal delivery at term.
+
+382
+00:50:33,379 --> 00:50:37,892
+The infection caused uterine gangrene and overwhelming sepsis.
+
+383
+00:50:37,892 --> 00:50:46,004
+Arrows point to overtly “ballooned-out” black gangrenous areas of the postpartum uterus at the time of laparotomy for hysterectomy.
+
+384
+00:50:46,004 --> 00:50:55,004
+A second exception, necrotizing fasciitis of the episiotomy site or of the abdominal surgical incision, is a surgical emergency.
+
+385
+00:50:55,004 --> 00:51:05,054
+Described by Gallup and coworkers (2002), these infections are aggressively managed as discussed in Chapter 37 (p. 655).
+
+386
+00:51:05,054 --> 00:51:14,354
+In one instance, Sinha and colleagues (2015) described a woman with Fournier gangrene who required radical debridement and colostomy.
+
+387
+00:51:14,354 --> 00:51:24,342
+Third, persistent or aggressive postpartum uterine infection with necrosis, uterine incision dehiscence, and severe peritonitis may lead to sepsis .
+
+388
+00:51:24,342 --> 00:51:35,204
+In this regard, women following cesarean delivery who are suspected of having peritonitis should be carefully evaluated for uterine incisional necrosis or bowel perforation.
+
+389
+00:51:35,204 --> 00:51:42,842
+These infections tend to be less aggressive than necrotizing group A streptococcal infections and develop later postpartum.
+
+390
+00:51:42,842 --> 00:51:47,704
+CT imaging of the abdomen and pelvis can frequently disclose these.
+
+391
+00:51:47,704 --> 00:51:52,592
+If either is suspected, timely surgical exploration is considered.
+
+392
+00:51:52,592 --> 00:52:01,292
+With uterine incision necrosis, hysterectomy is usually necessary (Fig. 37-5, p. 657).
+
+393
+00:52:01,292 --> 00:52:10,229
+Last, peritonitis and sepsis much less commonly may result from a ruptured parametrial, intraabdominal, or ovarian abscess .
+
+394
+00:52:10,229 --> 00:52:18,917
+Adjunctive Therapy A woman with severe sepsis is supported with continuing crystalloid infusion, blood transfusions, and ventilation.
+
+395
+00:52:18,917 --> 00:52:22,179
+In some cases, other measures are needed.
+
+396
+00:52:22,179 --> 00:52:30,217
+Vasoactive drugs are not given unless aggressive fluid treatment fails to correct hypotension and perfusion abnormalities.
+
+397
+00:52:30,217 --> 00:52:34,617
+First-line vasopressors are norepinephrine and vasopressin .
+
+398
+00:52:34,617 --> 00:52:42,767
+According to the Society for Maternal-Fetal Medicine (2019), norepinephrine has been studied most in pregnant women.
+
+399
+00:52:42,767 --> 00:52:53,779
+Glucocorticoid use in this setting remains controversial, and some but not all studies show a favorable effect (Marik, 2018; Venkatesh, 2018).
+
+400
+00:52:53,779 --> 00:53:05,579
+In a recent study by Annane and colleagues (2018), hydrocortisone plus fludrocortisone compared with placebo resulted in a significantly lower mortality rate at 90 days.
+
+401
+00:53:05,579 --> 00:53:10,754
+Thus, low-dose corticosteroid therapy can be considered with septic shock .
+
+402
+00:53:10,754 --> 00:53:17,729
+Endotoxin stimulates endothelial cells to upregulate tissue factor and thus procoagulant production .
+
+403
+00:53:17,729 --> 00:53:25,367
+Consumptive coagulopathy associated with sepsis is discussed in Chapter 44 (p. 776).
+
+404
+00:53:25,367 --> 00:53:31,942
+At the same time, endotoxin decreases the anticoagulant action of activated protein C.
+
+405
+00:53:31,942 --> 00:53:37,854
+Several agents developed to block coagulation, however, do not improve outcomes.
+
+406
+00:53:37,854 --> 00:53:44,867
+Last, induced hypothermia does not improve survival in patients with septic shock and respiratory failure .
+
+407
+00:53:44,867 --> 00:53:46,329
+Trauma.
+
+408
+00:53:46,329 --> 00:53:56,992
+Depending on definitions used, 10 to 20 percent of gravidas suffer physical trauma (Al-Thani, 2018; Mendez-Figueroa, 2017).
+
+409
+00:53:56,992 --> 00:54:07,917
+Moreover, injury-related deaths are the most commonly identified nonobstetrical cause of maternal mortality (Huls, 2018; La Rosa, 2020).
+
+410
+00:54:07,917 --> 00:54:17,654
+According to Deshpande and coworkers (2017), pregnant victims of trauma are twice as likely to die compared with nonpregnant affected women.
+
+411
+00:54:17,654 --> 00:54:19,417
+In an audit
+
+412
+00:54:19,588 --> 00:54:27,575
+from Parkland Hospital, motor vehicle accidents and falls accounted for 85 percent of injuries sustained by gravidas .
+
+413
+00:54:27,525 --> 00:54:38,738
+From the National Violent Death Reporting System, Palladino and colleagues (2011) found 2 pregnancy-associated suicides per 100,000 live births.
+
+414
+00:54:38,738 --> 00:54:44,013
+The rate was 3 per 100,000 for pregnancy-associated homicides.
+
+415
+00:54:44,013 --> 00:54:48,850
+Notably, intimate partner violence may be linked to these suicides .
+
+416
+00:54:48,850 --> 00:54:55,388
+Last, injury prevention and education of high-risk patients may help decrease morbidity rates .
+
+417
+00:54:55,388 --> 00:54:58,300
+# Intimate Partner Violence.
+
+418
+00:54:58,300 --> 00:55:08,975
+According to the CDC, intimate partner violence (IPV) describes physical, sexual, or psychological harm by a current or former partner or spouse .
+
+419
+00:55:08,975 --> 00:55:13,100
+Such violence affects 1 in 5 women in their lifetime .
+
+420
+00:55:13,100 --> 00:55:21,350
+One goal in violence prevention for Healthy People 2020 is the reduction of physical abuse directed at women by male partners.
+
+421
+00:55:21,350 --> 00:55:25,788
+Even more appalling is that IPV continues during pregnancy .
+
+422
+00:55:25,788 --> 00:55:32,500
+Abuse is linked to poverty, poor education, and use of tobacco, alcohol, and illicit drugs.
+
+423
+00:55:32,500 --> 00:55:41,663
+Unfortunately, abused women tend to remain with their abusers, and one major risk factor for intimate partner homicide is prior IPV .
+
+424
+00:55:41,663 --> 00:55:47,238
+Last, women seeking pregnancy termination have a higher incidence of IPV .
+
+425
+00:55:47,238 --> 00:55:55,975
+In one study, pregnant women hospitalized in California as a result of assault had significantly increased perinatal morbidity rates .
+
+426
+00:55:55,975 --> 00:56:02,438
+Immediate sequelae were uterine rupture, preterm delivery, and maternal and perinatal death.
+
+427
+00:56:02,438 --> 00:56:11,138
+Subsequent outcomes included higher rates of placental abruption, preterm and low-birthweight newborns, and other adverse outcomes.
+
+428
+00:56:11,138 --> 00:56:18,913
+Silverman and associates (2006) reported similar results from the Pregnancy Risk Assessment Monitoring System.
+
+429
+00:56:18,913 --> 00:56:25,538
+In a metaanalysis, women suffering IPV had threefold increased risk for perinatal death .
+
+430
+00:56:25,538 --> 00:56:41,425
+The American Academy of Pediatrics and the American College of Obstetricians and Gynecologists (2017) recommend universal screening for IPV at the initial prenatal visit, during each trimester, and again at the postpartum visit .
+
+431
+00:56:41,425 --> 00:56:48,863
+A challenge in these recommendations is that women who refuse to answer the screening question for IPV may be most at risk .
+
+432
+00:56:48,863 --> 00:56:55,375
+Moreover, the woman who is physically abused tends to present late, if at all, for prenatal care.
+
+433
+00:56:55,375 --> 00:56:57,838
+# Sexual Assault.
+
+434
+00:56:57,838 --> 00:57:09,775
+The lifetime prevalence of sexual assault in the United States is 20 percent (American College of Obstetricians and Gynecologists, 2019c; Vrees, 2017).
+
+435
+00:57:09,775 --> 00:57:20,575
+Satin and associates (1992) reviewed more than 5700 female sexual assault victims in Dallas County and reported that 2 percent were pregnant.
+
+436
+00:57:20,575 --> 00:57:23,775
+Associated physical trauma is common.
+
+437
+00:57:23,775 --> 00:57:29,025
+From a forensic standpoint, the evidence collection protocol is not altered .
+
+438
+00:57:29,025 --> 00:57:36,000
+In addition to attention to physical injuries, exposure to sexually transmitted diseases must be considered.
+
+439
+00:57:36,000 --> 00:57:46,950
+The CDC (2015, 2016) recommends antimicrobial prophylaxis against gonorrhea, chlamydial infection, and trichomoniasis .
+
+440
+00:57:46,950 --> 00:57:53,713
+At Parkland Hospital, we also offer at-risk exposed assault victims HIV prophylaxis.
+
+441
+00:57:53,713 --> 00:58:10,663
+If the woman is not pregnant, another very important aspect is emergency contraception, as recommended by the American College of Obstetricians and Gynecologists (2018a; 2019c) and discussed in Chapter 38 (p. 676).
+
+442
+00:58:10,663 --> 00:58:13,050
+Table 50-7.
+
+443
+00:58:13,050 --> 00:58:25,613
+Guidelines for Prophylaxis Against Sexually Transmitted Disease in Pregnant Victims of Sexual Assault Last, the importance of psychological counseling for the rape victim and her family cannot be overemphasized.
+
+444
+00:58:25,613 --> 00:58:39,388
+As discussed in Chapter 64 (p. 1142), a 30- to 35-percent lifetime risk each for posttraumatic stress disorder, major depression, and suicide contemplation follows sexual assault .
+
+445
+00:58:39,388 --> 00:58:42,300
+# Automobile Accidents.
+
+446
+00:58:42,300 --> 00:58:49,113
+At least 3 percent of pregnant women are involved in motor vehicle accidents each year in the United States.
+
+447
+00:58:49,113 --> 00:58:54,600
+These crashes account for 90 percent of nonviolent blunt trauma in pregnancy .
+
+448
+00:58:54,600 --> 00:59:07,800
+Thus, they are the most common causes of serious, life-threatening, or fatal blunt trauma during pregnancy (Al-Thani, 2018; Greco, 2019; Petrone, 2017).
+
+449
+00:59:07,800 --> 00:59:15,488
+Mattox and Goetzl (2005) report these accidents to be the leading cause of traumatic fetal deaths as well.
+
+450
+00:59:15,488 --> 00:59:17,963
+This also was true from our
+
+451
+00:59:18,124 --> 00:59:21,149
+experiences from Parkland Hospital .
+
+452
+00:59:21,099 --> 00:59:26,299
+As with all motor vehicle crashes, alcohol use is often associated.
+
+453
+00:59:26,299 --> 00:59:35,974
+Up to half of accidents occur without seat-belt use, and many of these deaths would likely be preventable by the three-point restraints shown in Figure 50-7 .
+
+454
+00:59:35,974 --> 00:59:41,911
+Seat belts prevent contact with the steering wheel, and they reduce abdominal impact pressure.
+
+455
+00:59:41,911 --> 00:59:44,324
+Figure 50-7.
+
+456
+00:59:44,324 --> 00:59:48,974
+Illustration showing correct use of three-point automobile restraint.
+
+457
+00:59:48,974 --> 00:59:56,249
+The upper belt is above the uterus, and the lower belt fits snugly across the upper thighs and well below the uterus.
+
+458
+00:59:56,249 --> 01:00:02,049
+Original concerns regarding injuries caused by airbag deployment have been somewhat allayed.
+
+459
+01:00:02,049 --> 01:00:15,161
+In a retrospective cohort study that included 2207 pregnant women in crashes with airbag deployment, perinatal outcomes were not clinically different from 1141 controls without airbags .
+
+460
+01:00:15,161 --> 01:00:19,836
+Importantly, 96 percent of both groups used seat belts.
+
+461
+01:00:19,836 --> 01:00:26,236
+Logically, it appears that injuries with airbag deployment are related to the severity of the crash .
+
+462
+01:00:26,236 --> 01:00:28,786
+# Other Blunt Trauma.
+
+463
+01:00:28,786 --> 01:00:33,961
+Some other common causes of blunt trauma are falls and aggravated assaults.
+
+464
+01:00:33,961 --> 01:00:45,924
+In the California review reported by El Kady and associates (2005), approximately a third of pregnant women who were hospitalized for trauma suffered intentionally inflicted injuries.
+
+465
+01:00:45,924 --> 01:00:49,061
+Less common are blast or crush injury.
+
+466
+01:00:49,061 --> 01:00:53,461
+With blunt trauma, intraabdominal injuries can be serious.
+
+467
+01:00:53,461 --> 01:00:59,561
+Even so, bowel injuries are less frequent because of the protective effect of a large uterus.
+
+468
+01:00:59,561 --> 01:01:05,649
+Still, diaphragmatic, splenic, liver, and kidney damage also may be sustained.
+
+469
+01:01:05,649 --> 01:01:16,974
+Particularly worrisome is the specter of amnionic-fluid embolism, which has been reported with even mild trauma (Ellingsen, 2007; Pluymakers, 2007).
+
+470
+01:01:16,974 --> 01:01:21,924
+Retroperitoneal hemorrhage is likely more common than in nonpregnant women .
+
+471
+01:01:21,924 --> 01:01:26,249
+Orthopedic injuries also are encountered with some regularity .
+
+472
+01:01:26,249 --> 01:01:34,374
+From the Parkland Hospital trauma unit, 6 percent of 1682 pregnant women evaluated had orthopedic injuries.
+
+473
+01:01:34,374 --> 01:01:42,361
+Additionally, this subset was at increased risk for placental abruption, preterm delivery, and perinatal mortality.
+
+474
+01:01:42,361 --> 01:01:51,874
+In a review of 101 pelvic fractures during pregnancy, the maternal mortality rate was 9 percent, and the fetal rate was 35 percent .
+
+475
+01:01:51,874 --> 01:02:00,186
+In another study of pelvic and acetabular fractures during 15 pregnancies, one maternal and four fetal deaths were reported .
+
+476
+01:02:00,186 --> 01:02:04,974
+Last, head trauma and neurosurgical care raise unique issues .
+
+477
+01:02:04,974 --> 01:02:07,836
+# Fetal Injury and Death.
+
+478
+01:02:07,836 --> 01:02:12,349
+Perinatal death rates rise with the severity of maternal injuries.
+
+479
+01:02:12,349 --> 01:02:25,761
+Fetal death is more likely with direct fetoplacental injury, maternal shock, pelvic fracture, maternal head injury, or hypoxia (Mendez-Figueroa, 2017; Pearlman, 2008).
+
+480
+01:02:25,761 --> 01:02:32,324
+In an earlier study, motor vehicle accidents caused 82 percent of fetal deaths from trauma.
+
+481
+01:02:32,324 --> 01:02:37,761
+Death resulted from placental injury in half and from uterine rupture in 4 percent .
+
+482
+01:02:37,761 --> 01:02:45,449
+Although uncommon, fetal skull and brain injuries are more likely if the head is engaged and the maternal pelvis is fractured.
+
+483
+01:02:45,449 --> 01:02:54,924
+Conversely, fetal head injuries, presumably from a contrecoup effect, may be sustained in unengaged vertex or nonvertex presentations.
+
+484
+01:02:54,924 --> 01:02:59,611
+Fetal skull fractures are rare and best seen using CT imaging .
+
+485
+01:02:59,611 --> 01:03:03,199
+One example is shown in Figure 50-8.
+
+486
+01:03:03,199 --> 01:03:06,724
+Intracranial hemorrhage may be another sequela .
+
+487
+01:03:06,724 --> 01:03:17,536
+Other injuries have included fetal decapitation or incomplete midabdominal fetal transection at midpregnancy (Rowe, 1996; Weir, 2008).
+
+488
+01:03:17,536 --> 01:03:19,861
+Figure 50-8.
+
+489
+01:03:19,861 --> 01:03:25,349
+This woman in her third trimester was involved in a high-speed motor vehicle accident.
+
+490
+01:03:25,349 --> 01:03:33,286
+A. Maximum intensity projection acquired for maternal indications readily identifies fetal skull fractures (arrows).
+
+491
+01:03:33,286 --> 01:03:44,211
+B. Three-dimensional reformatted computed tomography (CT) image in a bone algorithm demonstrates the fetal skeleton from data acquired during the maternal examination.
+
+492
+01:03:44,211 --> 01:03:47,711
+Again, the arrow marks one fracture site.
+
+493
+01:03:47,711 --> 01:03:51,399
+Photograph contributed by Dr. Travis Browning.
+
+494
+01:03:51,399 --> 01:03:57,474
+Reproduced with permission from Bailey AA, Twickler DM: Perioperative imaging.
+
+495
+01:03:57,474 --> 01:04:06,986
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al [eds]: Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+496
+01:04:06,986 --> 01:04:11,474
+New York, NY: McGraw Hill; 2017.
+
+497
+01:04:11,474 --> 01:04:13,649
+# Placental
+
+498
+01:04:13,804 --> 01:04:15,454
+Injuries.
+
+499
+01:04:15,404 --> 01:04:22,791
+Catastrophic events that potentially accompany blunt trauma include placental abruption or placental tear or both.
+
+500
+01:04:22,791 --> 01:04:31,416
+Placental abruption caused by trauma is likely due to deformation of the elastic myometrium around the relatively inelastic placenta .
+
+501
+01:04:31,416 --> 01:04:38,866
+This may result from a deceleration injury as the forward-moving uterus meets the immovable steering wheel or seat belt.
+
+502
+01:04:38,866 --> 01:04:45,966
+Instead, placental injury may follow a contrecoup injury, which is illustrated in Figure 50-9.
+
+503
+01:04:45,966 --> 01:04:48,379
+Figure 50-9.
+
+504
+01:04:48,379 --> 01:04:53,441
+Mechanism of placental tear or “fracture” caused by a coup-contrecoup injury.
+
+505
+01:04:53,441 --> 01:05:00,204
+Although not shown here, forward momentum of the uterus at the time of initial impact propels it forward.
+
+506
+01:05:00,204 --> 01:05:04,991
+This is followed by a contrecoup, in which forces are directed backward.
+
+507
+01:05:04,991 --> 01:05:10,341
+In this image, the inelastic placenta fractures against the sacral promontory.
+
+508
+01:05:10,341 --> 01:05:19,741
+During each phase, tremendous intraabdominal pressure is generated that can lead to abruption, shown here as blood collecting in the retroplacental space.
+
+509
+01:05:19,741 --> 01:05:21,354
+Inset.
+
+510
+01:05:21,354 --> 01:05:26,716
+Blood can be forced into placental bed venules and enter maternal circulation.
+
+511
+01:05:26,716 --> 01:05:31,829
+Such maternofetal hemorrhage may be identified with Kleihauer-Betke testing.
+
+512
+01:05:31,829 --> 01:05:39,041
+Some degree of abruption complicates 1 to 6 percent of minor injuries and up to 50 percent of major ones .
+
+513
+01:05:39,041 --> 01:05:43,866
+Abruption is more likely if vehicle speed exceeds 30 mph .
+
+514
+01:05:43,866 --> 01:05:50,304
+Clinical findings with traumatic abruption may be similar to those for spontaneous placental abruption .
+
+515
+01:05:50,304 --> 01:05:59,916
+Kettel and coworkers (1988) emphasized that traumatic abruption may be occult and not accompanied by uterine pain, tenderness, or bleeding.
+
+516
+01:05:59,916 --> 01:06:08,691
+In our experiences with 13 such women at Parkland Hospital, 11 had uterine tenderness, but only five had vaginal bleeding.
+
+517
+01:06:08,691 --> 01:06:19,629
+Because traumatic abruption is more likely to be concealed and generate higher intrauterine pressures, associated coagulopathy is more often seen than with atraumatic abruption .
+
+518
+01:06:19,629 --> 01:06:27,404
+Partial separation also may generate uterine activity, which is described more fully later (p. 896).
+
+519
+01:06:27,404 --> 01:06:37,866
+Evidence of fetal compromise such as fetal tachycardia, sinusoidal pattern, late decelerations, acidosis, and fetal death are other worrisome features.
+
+520
+01:06:37,866 --> 01:06:48,816
+CT imaging has been shown to be accurate for diagnosis of traumatic abruption (Kopelman, 2013, 2016; Sadro, 2012).
+
+521
+01:06:48,816 --> 01:06:58,429
+However, because routine placental evaluation by radiologists is not common, these authors did not advocate for CT screening for abruption.
+
+522
+01:06:58,429 --> 01:07:06,991
+With a placental tear, life-threatening fetal hemorrhage may follow, and blood enters either the amnionic sac or maternal circulation.
+
+523
+01:07:06,991 --> 01:07:09,929
+As shown in Figure 50-10.
+
+524
+01:07:09,929 --> 01:07:12,754
+the tear is linear or stellate.
+
+525
+01:07:12,754 --> 01:07:19,241
+Also shown is a Kleihauer-Betke stain of maternal blood that is used to quantify fetomaternal hemorrhage.
+
+526
+01:07:19,241 --> 01:07:29,454
+A small amount of fetal-maternal bleeding has been described in up to a third of trauma cases, and in 90 percent of these, the volume is <15 mL .
+
+527
+01:07:29,454 --> 01:07:40,604
+Parenthetically, atraumatic placental abruption is much less often associated with significant fetomaternal hemorrhage because only minimal fetal blood enters into the intervillous space.
+
+528
+01:07:40,604 --> 01:07:45,979
+With traumatic abruption, however, massive fetomaternal hemorrhage may follow.
+
+529
+01:07:45,979 --> 01:07:54,866
+In one study, the risk of associated uterine contractions and preterm labor was 20-fold if there was evidence for a fetomaternal bleed .
+
+530
+01:07:54,866 --> 01:08:00,441
+With severe fetal bleeding, long-term adverse neurological outcomes are frequent .
+
+531
+01:08:00,441 --> 01:08:02,804
+Figure 50-10.
+
+532
+01:08:02,804 --> 01:08:07,891
+A. Partial placental abruption in which the adherent blood clot has been removed.
+
+533
+01:08:07,891 --> 01:08:14,879
+Note the laceration of the placenta (arrow), which caused fetal death from massive fetomaternal hemorrhage.
+
+534
+01:08:14,879 --> 01:08:20,441
+B. Kleihauer–Betke stain of a peripheral smear of maternal blood from the same woman.
+
+535
+01:08:20,441 --> 01:08:29,866
+The dark cells containing hemoglobin that constituted 4.5 percent of red blood cells are fetal in origin, whereas the empty cells are maternal.
+
+536
+01:08:29,866 --> 01:08:32,304
+# Uterine Rupture.
+
+537
+01:08:32,304 --> 01:08:44,316
+Blunt trauma leads to uterine rupture in <1 percent of severe cases (American College of Obstetricians and Gynecologists, 2017a; Greco, 2019).
+
+538
+01:08:44,316 --> 01:08:52,041
+Rupture is more likely in a previously scarred uterus and is usually associated with a direct impact of substantial force.
+
+539
+01:08:52,041 --> 01:08:57,704
+Decelerative forces following a 25-mph collision can generate up
+
+540
+01:08:57,868 --> 01:09:03,793
+to 500 mm Hg of intrauterine pressure in a properly restrained woman .
+
+541
+01:09:03,743 --> 01:09:12,718
+Clinical findings may be identical to those for placental abruption with an intact uterus, and maternal and fetal deterioration are inevitable.
+
+542
+01:09:12,718 --> 01:09:20,555
+Weir and colleagues (2008) described supracervical uterine avulsion and fetal transection at 22 weeks.
+
+543
+01:09:20,555 --> 01:09:23,230
+# Penetrating Trauma.
+
+544
+01:09:23,230 --> 01:09:33,393
+In a study of 321 pregnant women with abdominal trauma, Petrone (2011) reported a 9-percent incidence of penetrating injuries.
+
+545
+01:09:33,393 --> 01:09:39,655
+Of these, 77 percent were gunshot wounds, and 23 percent were stab wounds.
+
+546
+01:09:39,655 --> 01:09:49,805
+The incidence of maternal visceral injury with penetrating trauma is only 15 to 40 percent compared with 80 to 90 percent in nonpregnant individuals .
+
+547
+01:09:49,805 --> 01:09:54,880
+However, the large, intervening uterus is disproportionately involved .
+
+548
+01:09:54,880 --> 01:10:01,655
+When the uterus sustains penetrating wounds, the fetus is more likely than the mother to be seriously injured.
+
+549
+01:10:01,655 --> 01:10:09,193
+The fetus sustains injury in two thirds of cases, whereas maternal visceral damage is seen in only 20 percent.
+
+550
+01:10:09,193 --> 01:10:18,405
+Still, their seriousness is underscored in that maternal-fetal mortality rates are significantly higher than those seen with blunt abdominal injuries.
+
+551
+01:10:18,405 --> 01:10:28,043
+Specifically, maternal mortality rates were 7 versus 2 percent, and fetal mortality rates were 73 versus 10 percent, respectively.
+
+552
+01:10:28,043 --> 01:10:30,718
+# Management of Trauma.
+
+553
+01:10:30,718 --> 01:10:36,705
+As discussed, maternal and fetal outcomes are directly related to injury severity.
+
+554
+01:10:36,705 --> 01:10:47,755
+That said, commonly used methods of severity scoring do not account for the significant morbidity and mortality rates related to placental abruption and thus to pregnancy outcomes.
+
+555
+01:10:47,755 --> 01:10:57,743
+In a study of 582 pregnant women hospitalized for injuries, the injury severity score did not accurately predict adverse pregnancy outcomes .
+
+556
+01:10:57,743 --> 01:11:04,430
+Importantly, relatively minor injuries were associated with preterm labor and placental abruption.
+
+557
+01:11:04,430 --> 01:11:19,068
+In a study of 317 women at ≥24 weeks’ gestation who had “minor trauma,” 14 percent had clinically significant uterine contractions requiring extended fetal evaluation past 4 hours .
+
+558
+01:11:19,068 --> 01:11:29,618
+With few exceptions, treatment priorities in injured pregnant women are multidisciplinary (MacArthur, 2019; Mendez-Figueroa, 2017).
+
+559
+01:11:29,618 --> 01:11:34,330
+Primary goals are to evaluate and stabilize maternal injuries.
+
+560
+01:11:34,330 --> 01:11:41,530
+Attention to fetal assessment during the acute evaluation may divert attention from life-threatening maternal injuries .
+
+561
+01:11:41,530 --> 01:11:50,255
+Basic rules of resuscitation include ventilation, arrest of hemorrhage, and treatment of hypovolemia with crystalloid and blood products.
+
+562
+01:11:50,255 --> 01:11:58,943
+After midpregnancy, the large uterus is positioned off the great vessels to relieve vessel compression, which decreases cardiac output .
+
+563
+01:11:58,943 --> 01:12:12,318
+Following emergency resuscitation, fractures, internal injuries, bleeding sites, and placental, uterine, and fetal trauma are sought (Greco, 2019; MacArthur, 2019).
+
+564
+01:12:12,318 --> 01:12:17,905
+Radiography is not proscribed, but special attention is given each indication.
+
+565
+01:12:17,905 --> 01:12:25,805
+Not surprisingly, one report observed that pregnant trauma victims had less radiation exposure than nonpregnant controls .
+
+566
+01:12:25,805 --> 01:12:32,743
+Some advocate screening abdominal sonography followed by CT scanning for positive sonographic findings .
+
+567
+01:12:32,743 --> 01:12:38,630
+Procedures used include the FAST scan—focused assessment with sonography for trauma.
+
+568
+01:12:38,630 --> 01:12:48,080
+This is a 5-minute, four- to six-view imaging study that evaluates perihepatic, perisplenic, pelvic, and pericardial views .
+
+569
+01:12:48,080 --> 01:13:00,843
+In nonpregnant women, if fluid is seen in the upper abdominal views, the hemoperitoneum volume is >500 mL (Branney, 1995; Rodgerson, 2001).
+
+570
+01:13:00,843 --> 01:13:05,480
+Importantly, this amount has not been corroborated for pregnancy.
+
+571
+01:13:05,480 --> 01:13:10,280
+In some cases, open peritoneal lavage may be informative .
+
+572
+01:13:10,280 --> 01:13:12,730
+Figure 50-11.
+
+573
+01:13:12,730 --> 01:13:14,593
+Fast scan.
+
+574
+01:13:14,593 --> 01:13:22,005
+Upper quadrant scans show free fluid (blood) between the liver and kidney (Morison pouch) and around the spleen.
+
+575
+01:13:22,005 --> 01:13:27,405
+The patient had 2500 mL of blood in the peritoneal cavity.
+
+576
+01:13:27,405 --> 01:13:33,830
+Reproduced with permission from Mendez-Figueroa H, Rouse DJ: Trauma in pregnancy.
+
+577
+01:13:33,830 --> 01:13:43,343
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al [eds]: Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+578
+01:13:43,343 --> 01:13:47,830
+New York, NY: McGraw Hill; 2017.
+
+579
+01:13:47,830 --> 01:13:53,180
+Penetrating injuries in most cases must be evaluated using radiography.
+
+580
+01:13:53,180 --> 01:13:57,643
+Because clinical response to peritoneal irritation is blunted
+
+581
+01:13:57,796 --> 01:14:03,471
+during pregnancy, an aggressive approach to exploratory laparotomy is pursued.
+
+582
+01:14:03,421 --> 01:14:12,358
+Whereas exploration is mandatory for abdominal gunshot wounds, some clinicians advocate close observation for selected stab wounds.
+
+583
+01:14:12,358 --> 01:14:16,071
+Diagnostic laparoscopy also has been used .
+
+584
+01:14:16,071 --> 01:14:21,808
+Cesarean Delivery The necessity for cesarean delivery depends on several factors.
+
+585
+01:14:21,808 --> 01:14:26,096
+Laparotomy itself is not an indication for hysterotomy.
+
+586
+01:14:26,096 --> 01:14:37,671
+Some considerations include gestational age, fetal condition, extent of uterine injury, and whether the large uterus hinders adequate management of other intraabdominal injuries .
+
+587
+01:14:37,671 --> 01:14:48,358
+Electronic Monitoring Because fetal well-being may reflect the status of the mother, fetal monitoring is another “vital sign” that helps evaluate the extent of maternal injuries.
+
+588
+01:14:48,358 --> 01:14:54,071
+Even if the mother is stable, electronic monitoring may suggest placental abruption.
+
+589
+01:14:54,071 --> 01:15:05,421
+In a study by Pearlman and coworkers (1990), no woman had an abruption if uterine contractions were less often than every 10 minutes within the 4 hours after trauma was sustained.
+
+590
+01:15:05,421 --> 01:15:14,308
+Almost 20 percent of women who had contractions more frequently than every 10 minutes in the first 4 hours had an associated placental abruption.
+
+591
+01:15:14,308 --> 01:15:21,458
+In these cases, abnormal tracings were common and included fetal tachycardia and late decelerations.
+
+592
+01:15:21,458 --> 01:15:27,333
+Conversely, no adverse outcomes were reported in women who had normal monitor tracings .
+
+593
+01:15:27,333 --> 01:15:34,958
+Importantly, if tocolytics are used for these contractions, they may obfuscate findings, and we do not recommend them.
+
+594
+01:15:34,958 --> 01:15:42,746
+Because placental abruption usually develops early following trauma, fetal monitoring is begun as soon as the mother is stable.
+
+595
+01:15:42,746 --> 01:15:47,483
+The ideal duration of posttrauma monitoring is not precisely known.
+
+596
+01:15:47,483 --> 01:15:59,808
+From data just cited, observation for 4 hours is reasonable if the fetal heart rate tracing is normal and no other sentinel findings such as contractions, uterine tenderness, or bleeding are noted.
+
+597
+01:15:59,808 --> 01:16:14,233
+Certainly, monitoring should be continued as long as there are uterine contractions, nonreassuring fetal heart patterns, vaginal bleeding, uterine tenderness or irritability, serious maternal injury, or ruptured membranes .
+
+598
+01:16:14,233 --> 01:16:19,271
+In rare cases, placental abruption has developed days after trauma .
+
+599
+01:16:19,271 --> 01:16:22,133
+# Fetal-Maternal Hemorrhage.
+
+600
+01:16:22,133 --> 01:16:34,621
+It is unclear whether routine use of the Kleihauer-Betke or an equivalent test in pregnant trauma victims might modify adverse outcomes associated with fetal anemia, cardiac arrhythmias, and death .
+
+601
+01:16:34,621 --> 01:16:45,058
+In a retrospective review of 125 pregnant women with blunt injuries, the Kleihauer-Betke test was judged to be of little value during acute trauma management .
+
+602
+01:16:45,058 --> 01:16:58,696
+Others have reached similar conclusions, although a positive test result with fetal cells composing 0.1 percent predicted uterine contractions or preterm labor (Muench, 2003, 2004).
+
+603
+01:16:58,696 --> 01:17:05,008
+For the woman who is D-negative, administration of anti-D immunoglobulin should be considered .
+
+604
+01:17:05,008 --> 01:17:09,458
+This may be omitted if a test result for fetal bleeding is negative.
+
+605
+01:17:09,458 --> 01:17:18,708
+Even with anti-D immunoglobulin, alloimmunization may still develop if the fetal-maternal hemorrhage exceeds 15 mL of fetal cells.
+
+606
+01:17:18,708 --> 01:17:25,283
+Immunoglobulin dose calculations are described in Chapter 18 (p. 357).
+
+607
+01:17:25,283 --> 01:17:31,608
+For the pregnant trauma patient, confirmation of current tetanus immunization status is pertinent.
+
+608
+01:17:31,608 --> 01:17:43,471
+When indicated, a dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) vaccine is preferred for its neonatal pertussis immunity benefits .
+
+609
+01:17:43,471 --> 01:17:45,296
+Thermal Injury.
+
+610
+01:17:45,296 --> 01:17:50,471
+Treatment of the burned gravida is similar to that for nonpregnant individuals .
+
+611
+01:17:50,471 --> 01:17:59,121
+It is generally agreed that pregnancy does not alter maternal outcome from thermal injury compared with that of nonpregnant women of similar age.
+
+612
+01:17:59,121 --> 01:18:05,883
+As perhaps expected, maternal and fetal survival parallels the percentage of burned surface area.
+
+613
+01:18:05,883 --> 01:18:14,933
+Karimi and colleagues (2009) reported higher mortality rates for both with burns from suicide attempts and inhalational injuries.
+
+614
+01:18:14,933 --> 01:18:24,283
+The composite mortality rate for more than 200 women from six studies rose in a linear fashion as the percentage of burned body surface area increased .
+
+615
+01:18:24,283 --> 01:18:33,508
+For 20-, 40-, and 60percent burns, the maternal mortality rates were approximately 4, 30, and 93
+
+616
+01:18:33,676 --> 01:18:36,113
+percent, respectively.
+
+617
+01:18:36,063 --> 01:18:42,976
+The corresponding fetal mortality rates were 20, 48, and 96 percent, respectively.
+
+618
+01:18:42,976 --> 01:18:50,801
+With severe burns, the woman usually enters labor spontaneously within a few days to a week and often delivers a stillborn.
+
+619
+01:18:50,801 --> 01:18:59,663
+Contributory factors are hypovolemia, pulmonary injury, septicemia, and the burn-associated, intense catabolic state .
+
+620
+01:18:59,663 --> 01:19:02,051
+Figure 50-12.
+
+621
+01:19:02,051 --> 01:19:07,551
+Maternal and fetal mortality rates by burn severity in 211 women.
+
+622
+01:19:07,551 --> 01:19:20,151
+Data from Akhtar, 1994; Amy, 1985; Mabrouk, 1977; Maghsoudi, 2006; Rayburn, 1984; Rode, 1990.
+
+623
+01:19:20,151 --> 01:19:36,051
+Following serious abdominal burns, skin contractures that develop may be painful during a subsequent pregnancy and may even require surgical decompression and split-skin autografts (Mitsukawa, 2015; Radosevich, 2013).
+
+624
+01:19:36,051 --> 01:19:40,451
+Loss or distortion of nipples may cause problems in breastfeeding.
+
+625
+01:19:40,451 --> 01:19:51,451
+Mitsukawa and associates (2015) reported that contracture release was indicated with scars spanning >75 percent of the total abdominal area.
+
+626
+01:19:51,451 --> 01:20:02,776
+Alternatively, normal abdominal tissue expansion due to pregnancy appears to be an excellent source for obtaining skin grafts postpartum to correct scar deformities at other body sites .
+
+627
+01:20:02,776 --> 01:20:05,988
+# Electrical and Lightning Injuries.
+
+628
+01:20:05,988 --> 01:20:11,513
+Earlier case reports suggested a high fetal mortality rate with electric shock .
+
+629
+01:20:11,513 --> 01:20:23,726
+In a prospective cohort study, however, Einarson and associates (1997) showed similar perinatal outcomes in 31 injured women compared with those of noninjured controls.
+
+630
+01:20:23,726 --> 01:20:33,301
+They concluded that traditional 110-volt North American electrical current likely is less dangerous than the 220-volt currents available in Europe.
+
+631
+01:20:33,301 --> 01:20:40,676
+Thermal burns with electrocution may be extensive, and a woman with brain death from cardiac arrest has been described .
+
+632
+01:20:40,676 --> 01:20:45,563
+The pathophysiological effects of lightning injuries can be devastating.
+
+633
+01:20:45,563 --> 01:20:55,913
+García Gutiérrez and colleagues (2005) reviewed 13 case reports of lightning injuries during pregnancy and cited a 50-percent stillbirth rate.
+
+634
+01:20:55,913 --> 01:20:58,851
+Cardiopulmonary Resuscitation.
+
+635
+01:20:58,851 --> 01:21:11,526
+Maternal cardiac arrest complicates from 1 in 12,000 to 36,000 delivery admissions (Balki, 2017; Beckett, 2017; Zelop, 2018).
+
+636
+01:21:11,526 --> 01:21:18,938
+The most common causes are hemorrhage, anesthesia, heart failure, amnionic-fluid embolism, and sepsis.
+
+637
+01:21:18,938 --> 01:21:25,463
+Shown in Table 50-8 is the alphabetical A–H checklist of cardiac arrest causes.
+
+638
+01:21:25,463 --> 01:21:37,988
+General topics regarding planning and equipment have been reviewed by the American College of Obstetricians and Gynecologists (2018b) and the Society for Obstetric Anesthesia and Perinatology .
+
+639
+01:21:37,988 --> 01:21:40,288
+Table 50-8.
+
+640
+01:21:40,288 --> 01:21:55,263
+Possible Etiologies for Cardiac Arrest During Pregnancy Special considerations for cardiopulmonary resuscitation (CPR) conducted in the second half of pregnancy are outlined in the American Heart Association 2010 guidelines .
+
+641
+01:21:55,263 --> 01:22:26,388
+The committee acknowledges the following as standards: (1) relieve possible vena caval compression by left lateral uterine displacement; (2) administer 100-percent oxygen; (3) establish intravenous access above the diaphragm; (4) assess for hypotension that warrants therapy, which is defined as systolic blood pressure <100 mm Hg or <80 percent of baseline; and (5) review possible causes of critical illness and treat these as early as possible.
+
+642
+01:22:26,388 --> 01:22:32,276
+The position of the heart for external compressions is not different from that in nonpregnant women .
+
+643
+01:22:32,276 --> 01:22:40,126
+In nonpregnant women, external chest compressions result in a cardiac output that is approximately 30 percent of normal.
+
+644
+01:22:40,126 --> 01:22:46,076
+However, in late pregnancy, this may be less because of uterine aortocaval compression .
+
+645
+01:22:46,076 --> 01:22:51,026
+Thus, uterine displacement should accompany other resuscitative efforts.
+
+646
+01:22:51,026 --> 01:23:00,388
+This can be accomplished by tilting the operating table laterally, by placing a wedge under the right hip, or by pushing the uterus to the left manually .
+
+647
+01:23:00,388 --> 01:23:07,213
+Components of highquality cardiopulmonary resuscitation in pregnancy are shown in Table 50-9 .
+
+648
+01:23:07,213 --> 01:23:09,576
+Table 50-9.
+
+649
+01:23:09,576 --> 01:23:16,101
+High-Quality Cardiopulmonary Resuscitation in Pregnancy # Perimortem Cesarean Delivery.
+
+650
+01:23:16,101 --> 01:23:28,351
+The maternal survival rate from cardiac arrest is 60 to 70 percent, and many deaths are associated with out-of-hospital arrest (Beckett, 2017; He, 2021).
+
+651
+01:23:28,351 --> 01:23:32,713
+Because of pregnancy-induced hindrances on CPR efforts,
+
+652
+01:23:32,884 --> 01:23:40,621
+emergent perimortem cesarean delivery for improved maternal resuscitation and fetal salvage is recommended by most.
+
+653
+01:23:40,571 --> 01:23:54,784
+Specifically, the American Heart Association and the Society for Obstetric Anesthesia and Perinatology recommend operative delivery within 4 to 5 minutes of beginning CPR if the fetus is viable and circulation is not restored .
+
+654
+01:23:54,784 --> 01:24:08,384
+In women delivered by perimortem cesarean, neurologically intact neonatal survival and the cardiac arrest-to-delivery interval are inversely related (Beckett, 2017; Katz, 2012).
+
+655
+01:24:08,384 --> 01:24:28,484
+Specifically, of newborns delivered within 5 minutes of arrest, 98 percent are neurologically intact; within 6 to 15 minutes, 83 percent are intact; within 16 to 25 minutes, 33 percent are intact; and within 26 to 35 minutes, only 25 percent are intact .
+
+656
+01:24:28,484 --> 01:24:33,346
+This serious and sometimes contentious issue is far from evidence based.
+
+657
+01:24:33,346 --> 01:24:44,821
+For example, the American College of Obstetricians and Gynecologists (2019a) recommends consideration for perimortem cesarean delivery beginning at 4 minutes.
+
+658
+01:24:44,821 --> 01:24:52,659
+Katz and associates (2005) reviewed 38 perimortem cesarean deliveries with a “large selection bias.
+
+659
+01:24:52,659 --> 01:25:04,259
+They concluded that these reports supported—but “fell far from proving”—that perimortem cesarean delivery within 4 minutes of maternal cardiac arrest improves maternal and fetal outcomes.
+
+660
+01:25:04,259 --> 01:25:16,734
+Even so, as emphasized by Clark (1997) and Rose (2015) and their coworkers, and in our experiences, these goals rarely can be met in actual practice.
+
+661
+01:25:16,734 --> 01:25:27,621
+For example, many cases of cardiac arrest occur in uncontrolled circumstances, and thus, the time to CPR initiation alone would consume the first 5 minutes.
+
+662
+01:25:27,621 --> 01:25:39,934
+Thus “crash” cesarean delivery would supersede resuscitative efforts, would possibly be done without appropriate anesthesia or surgical equipment, and might lead to otherwise preventable maternal death.
+
+663
+01:25:39,934 --> 01:25:50,546
+Moreover, the distinction between a perimortem versus postmortem cesarean operation is imperative (Katz, 2012; Rose, 2015).
+
+664
+01:25:50,546 --> 01:26:00,746
+Last, in the balance, any choice may favor survival of the mother over the fetus, or vice versa, and thus there are immediate unresolvable ethical concerns.
+
+665
+01:26:00,746 --> 01:26:09,846
+Katz (2012) and Zelop and colleagues (2018) have provided scholarly reviews of perimortem cesarean delivery.
+
+666
+01:26:09,846 --> 01:26:13,784
+Successful CPR can have morbid complications.
+
+667
+01:26:13,784 --> 01:26:17,434
+Severe neurological injury is the most feared .
+
+668
+01:26:17,434 --> 01:26:24,371
+Cox and coworkers (2018) described liver lacerations in 3 of 7 survivors.
+
+669
+01:26:24,371 --> 01:26:28,384
+Takotsubo cardiomyopathy also has been reported .
+
+670
+01:26:28,384 --> 01:26:31,034
+# Maternal Brain Death.
+
+671
+01:26:31,034 --> 01:26:40,109
+Occasionally, a pregnant woman with a supposedly healthy intact fetus will be kept on somatic support to await fetal viability or maturity.
+
+672
+01:26:40,109 --> 01:26:44,809
+This is discussed in Chapter 63 (p. 1138).
+
+673
+01:26:44,809 --> 01:26:46,709
+Envenomation.
+
+674
+01:26:46,709 --> 01:26:59,934
+According to their review, Brown and coworkers (2013) reported that clinically significant envenomations in pregnant women are from snakes, spiders, scorpions, jellyfish, and hymenoptera.
+
+675
+01:26:59,934 --> 01:27:04,971
+This last group includes bees, wasps, hornets, and ants.
+
+676
+01:27:04,971 --> 01:27:08,646
+Adverse outcomes are related to maternal effects.
+
+677
+01:27:08,646 --> 01:27:19,471
+Available evidence supports a venom-specific approach that incorporates symptomatic care, antivenom administration when appropriate, anaphylaxis treatment, and fetal assessment .
+
+678
+01:27:19,471 --> 01:27:26,459
+One management scheme for North American snakebites was provided by Lei and associates (2015).
+

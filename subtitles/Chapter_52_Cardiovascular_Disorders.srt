@@ -1,0 +1,3928 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:06,137
+Chapter 52: Cardiovascular Disorders.
+
+3
+00:00:06,137 --> 00:00:37,475
+Physiological Considerations In Pregnancy Diagnosis Of Heart Disease General Pregnancy Considerations Heart Failure Surgically Corrected Heart Disease Valvular Heart Disease Congenital Heart Disease Pulmonary Hypertension Cardiomyopathies Infective Endocarditis Arrhythmias Diseases Of The Aorta Ischemic Heart Disease Common Obstetrical Medications References In an analysis of maternal mortality in the United States between 2011 and 2013, deaths related to hemorrhage, hypertensive disorders, and
+
+4
+00:00:37,475 --> 00:00:40,262
+embolism showed declining rates.
+
+5
+00:00:40,262 --> 00:00:54,075
+In contrast, deaths attributable to cardiovascular diseases are rising and are responsible for one fourth of all pregnancyrelated mortalities (Creanga, 2017; Petersen, 2019).
+
+6
+00:00:54,075 --> 00:01:03,237
+Recent development of state-level maternal mortality review committees have emphasized this issue and highlighted the relatively protracted timeline of illness.
+
+7
+00:01:03,237 --> 00:01:11,137
+Up to a year after delivery, cardiac events were among the leading causes of death for women in Texas in 2013 .
+
+8
+00:01:11,137 --> 00:01:18,875
+These disorders account also for significant maternal morbidity and are a common reason for intensive care unit admissions .
+
+9
+00:01:18,875 --> 00:01:24,987
+Cardiovascular disease complicates 1 to 4 percent of pregnancies in the United States .
+
+10
+00:01:24,987 --> 00:01:32,962
+The increasing prevalence is likely multifactorial and includes the higher rates of obesity, hypertension, and diabetes .
+
+11
+00:01:32,962 --> 00:01:42,462
+According to the National Center for Health Statistics, almost half of adults aged 20 and older have at least one risk factor for cardiovascular disease .
+
+12
+00:01:42,462 --> 00:01:45,887
+Another related reason is delayed childbearing.
+
+13
+00:01:45,887 --> 00:01:54,975
+Last, as discussed subsequently (p. 927), an increasing number of women with congenital heart disease are now becoming pregnant.
+
+14
+00:01:54,975 --> 00:02:07,200
+The importance of heart disease and its adverse effect on pregnancy morbidity and mortality led the American College of Obstetricians and Gynecologists to create a Task Force on Pregnancy and Heart Disease.
+
+15
+00:02:07,200 --> 00:02:23,800
+Its purpose is to emphasize the prevalence and effect of heart disease in pregnancy, provide guidance for risk factor identification, outline common cardiovascular disorders, provide recommendations for management, and develop a comprehensive interpregnancy plan.
+
+16
+00:02:23,800 --> 00:02:26,825
+Multidisciplinary care is essential .
+
+17
+00:02:26,825 --> 00:02:30,375
+Physiological Considerations In Pregnancy.
+
+18
+00:02:30,375 --> 00:02:33,775
+# Cardiovascular Physiology.
+
+19
+00:02:33,775 --> 00:02:43,400
+The marked pregnancy-induced anatomical and functional changes in cardiac physiology can have a profound, negative effect on underlying heart disease.
+
+20
+00:02:43,400 --> 00:02:51,400
+These changes are discussed in detail in Chapter 4 (p. 62), and some are listed in Table 52-1 .
+
+21
+00:02:51,400 --> 00:02:57,425
+Importantly, cardiac output increases approximately 40 percent during pregnancy.
+
+22
+00:02:57,425 --> 00:03:03,662
+Almost half of this total takes place by 8 weeks’ gestation and is maximal by midpregnancy .
+
+23
+00:03:03,662 --> 00:03:10,187
+This early rise stems from augmented stroke volume, which results from lowered vascular resistance.
+
+24
+00:03:10,187 --> 00:03:20,837
+Later in pregnancy, resting pulse and stroke volume are even higher because of greater end-diastolic ventricular volume that results from augmented pregnancy blood volume.
+
+25
+00:03:20,837 --> 00:03:25,700
+These adaptations are even more profound in multifetal pregnancies .
+
+26
+00:03:25,700 --> 00:03:34,325
+Intrinsic left ventricular contractility does not change, and thus normal left ventricular function is maintained during pregnancy.
+
+27
+00:03:34,325 --> 00:03:41,200
+Namely, pregnancy is not characterized by hyperdynamic function or a high cardiac-output state.
+
+28
+00:03:41,200 --> 00:03:43,837
+Table 52-1.
+
+29
+00:03:43,837 --> 00:03:59,337
+Hemodynamic Changes in 10 Normal Pregnant Women at Term Compared with Repeat Values Obtained 12 Weeks Postpartum Women with underlying cardiac disease may not always accommodate these changes, and ventricular dysfunction leads to cardiogenic heart failure.
+
+30
+00:03:59,337 --> 00:04:06,075
+A few women with severe cardiac dysfunction can experience evidence of heart failure before midpregnancy.
+
+31
+00:04:06,075 --> 00:04:15,637
+In others, heart failure may develop after 28 weeks’ gestation, when pregnancy-induced hypervolemia and cardiac output reach their maximum.
+
+32
+00:04:15,637 --> 00:04:25,712
+In most, however, heart failure develops peripartum, when labor, delivery, and several common obstetrical conditions add undue cardiac burdens.
+
+33
+00:04:25,712 --> 00:04:31,537
+Some of the latter include preeclampsia, hemorrhage and anemia, and sepsis.
+
+34
+00:04:31,537 --> 00:04:34,937
+# Ventricular Function in Pregnancy.
+
+35
+00:04:34,937 --> 00:04:38,325
+Ventricular volumes and mass accrue to
+
+36
+00:04:38,476 --> 00:04:41,913
+accommodate pregnancy-induced hypervolemia.
+
+37
+00:04:41,863 --> 00:04:46,913
+This is reflected by greater end-systolic and end-diastolic dimensions.
+
+38
+00:04:46,913 --> 00:04:52,513
+At the same time, however, septal thickness and ejection fraction are unchanged.
+
+39
+00:04:52,513 --> 00:05:06,063
+This is because these alterations are accompanied by substantive ventricular remodeling—plasticity—which is characterized by eccentric expansion of left-ventricular mass that averages 30 to 35 percent near term.
+
+40
+00:05:06,063 --> 00:05:11,763
+All of these adaptations return to prepregnancy values within a few months postpartum.
+
+41
+00:05:11,763 --> 00:05:23,301
+Certainly for clinical purposes, ventricular function during pregnancy is normal as estimated by the Braunwald ventricular function graph (Fig. 4-9, p. 63).
+
+42
+00:05:23,301 --> 00:05:31,338
+Thus, for given filling pressures, cardiac output is appropriate and allows eudynamic cardiac function during pregnancy.
+
+43
+00:05:31,338 --> 00:05:37,388
+Esoteric changes in pregnancy-related cardiac physiology continue to be clarified.
+
+44
+00:05:37,388 --> 00:05:50,838
+In nonpregnant subjects with a normal heart who sustain a high-output state, the left ventricle undergoes longitudinal remodeling, and echocardiographic functional indices of its deformation show normal values.
+
+45
+00:05:50,838 --> 00:06:00,238
+In pregnancy, the ventricle instead undergoes spherical remodeling, and the calculated indices that measure longitudinal deformation are depressed.
+
+46
+00:06:00,238 --> 00:06:13,538
+Thus, normal nonpregnant indices are likely less accurate when used to assess function in pregnant women because they do not account for the spherical remodeling (Savu, 2012; Stewart, 2016).
+
+47
+00:06:13,538 --> 00:06:29,101
+Adjusting for these geometrical changes, Melchiorre and coworkers (2016) studied normal cardiac echocardiographic findings in 559 nulliparas at four points during pregnancy and again at 1 year postpartum.
+
+48
+00:06:29,101 --> 00:06:39,376
+At term, significant chamber diastolic dysfunction was present in 18 percent and impaired myocardial relaxation was evident in 28 percent of the women.
+
+49
+00:06:39,376 --> 00:06:47,588
+Also, a significant proportion of women demonstrated a drop in stroke volume index and a tendency toward eccentric remodeling.
+
+50
+00:06:47,588 --> 00:06:56,888
+These findings suggest cardiovascular maladaptation to the expanded volume demands in a substantial proportion of apparently normal pregnancies.
+
+51
+00:06:56,888 --> 00:07:05,563
+Significant dyspnea at rest was reported by 7.4 percent of the women at term, most of whom had chamber diastolic dysfunction.
+
+52
+00:07:05,563 --> 00:07:11,126
+Cardiac function and all signs of dyspnea fully recovered at 1 year postpartum.
+
+53
+00:07:11,126 --> 00:07:18,576
+Cardiac magnetic resonance (MR) imaging increasingly is used to evaluate cardiac structure and function.
+
+54
+00:07:18,576 --> 00:07:29,626
+Stewart and associates (2016) performed cardiac MR imaging studies in 23 women longitudinally across pregnancy and at 12 weeks postpartum.
+
+55
+00:07:29,626 --> 00:07:39,113
+Compared with studies performed at 12 to 16 weeks’ gestation, left ventricular mass grew significantly for both normal-weight and overweight women.
+
+56
+00:07:39,113 --> 00:07:51,726
+The calculated geometrical ratio of left ventricular mass to left ventricular end-diastolic volume demonstrated concentric remodeling throughout gestation, which resolved by 12 weeks’ postpartum.
+
+57
+00:07:51,726 --> 00:07:55,201
+The right ventricle also undergoes remodeling .
+
+58
+00:07:55,201 --> 00:08:02,563
+These observations likely mean that pregnancy causes a mixture of eccentric and concentric ventricular remodeling.
+
+59
+00:08:02,563 --> 00:08:05,063
+Diagnosis Of Heart Disease.
+
+60
+00:08:05,063 --> 00:08:14,151
+The physiological adaptations of normal pregnancy can induce symptoms and alter clinical findings that may confound the diagnosis of heart disease.
+
+61
+00:08:14,151 --> 00:08:29,363
+For example, in normal pregnancy, functional systolic heart murmurs are common, respiratory effort is accentuated, edema frequently accrues in lower extremities after midpregnancy, and fatigue and exercise intolerance often develop.
+
+62
+00:08:29,363 --> 00:08:39,801
+Some systolic flow murmurs can be loud, and normal changes in the various heart sounds depicted in Figure 52-1 may erroneously suggest cardiac disease.
+
+63
+00:08:39,801 --> 00:08:47,313
+In contrast, clinical findings that are more likely to suggest heart disease are listed in Table 52-2.
+
+64
+00:08:47,313 --> 00:08:49,926
+Figure 52-1.
+
+65
+00:08:49,926 --> 00:08:54,176
+Normal cardiac examination findings in the pregnant woman.
+
+66
+00:08:54,176 --> 00:09:03,888
+S1 = first sound; M1 = mitral first sound; S2 = second sound; P 2 = pulmonary second sound.
+
+67
+00:09:03,888 --> 00:09:08,588
+Data from Gei, 2001; Hytten, 1991.
+
+68
+00:09:08,588 --> 00:09:11,101
+Table 52-2.
+
+69
+00:09:11,101 --> 00:09:16,613
+Clinical Indicators of Heart Disease During Pregnancy # Diagnostic Studies.
+
+70
+00:09:16,613 --> 00:09:26,426
+Noninvasive cardiovascular studies such as electrocardiography, chest radiography, and echocardiography will provide the data necessary for
+
+71
+00:09:26,596 --> 00:09:30,233
+cardiac functional evaluation in most women.
+
+72
+00:09:30,183 --> 00:09:39,896
+In the electrocardiogram (ECG), an average 15-degree left-axis deviation is found as the diaphragm is elevated in advancing pregnancy.
+
+73
+00:09:39,896 --> 00:09:43,921
+Other findings are described in Figure 52-2 .
+
+74
+00:09:43,921 --> 00:09:47,258
+Pregnancy does not alter voltage findings.
+
+75
+00:09:47,258 --> 00:09:52,233
+Atrial and ventricular premature contractions are relatively frequent.
+
+76
+00:09:52,233 --> 00:09:54,733
+Figure 52-2.
+
+77
+00:09:54,733 --> 00:10:09,896
+Normal electrocardiograph (ECG) adaptations during pregnancy, including a reduced mean PR interval, increased heart rate, left axis deviation, inverted or flattened T waves, and a Q wave in lead DIII.
+
+78
+00:10:09,896 --> 00:10:12,346
+HR = heart rate.
+
+79
+00:10:12,346 --> 00:10:29,233
+Reproduced with permission from Angeli F, Angeli E, Verdecchia P: Electrocardiographic changes in hypertensive disorders of pregnancy, Hypertens Res 2014 Nov;37(11):973–975.
+
+80
+00:10:29,233 --> 00:10:40,171
+With radiography, anteroposterior (AP) and lateral chest radiographs are useful, and when a lead apron shield is used, fetal radiation exposure is minimal.
+
+81
+00:10:40,171 --> 00:10:49,683
+Gross cardiomegaly can usually be excluded, but slight heart enlargement is poorly detected because the heart silhouette normally is larger in pregnancy.
+
+82
+00:10:49,683 --> 00:10:55,146
+This is accentuated further with a portable posterior-anterior chest radiograph.
+
+83
+00:10:55,146 --> 00:11:02,358
+Echocardiography is now widely used and permits accurate diagnosis of most heart diseases during pregnancy.
+
+84
+00:11:02,358 --> 00:11:15,821
+Some normal pregnancy-induced changes include a small increase in the dimensions of all cardiac chambers, a slight but significant growth in left ventricular mass, and greater tricuspid and mitral valve regurgitation .
+
+85
+00:11:15,821 --> 00:11:21,546
+Of note, systolic function normally does not change and ejection fraction is preserved.
+
+86
+00:11:21,546 --> 00:11:30,483
+Late geometric changes such as interventricular septum dimension (IVd) are likely to be abnormal before changes in ejection fraction.
+
+87
+00:11:30,483 --> 00:11:43,383
+Savu (2012) and Vitarelli (2011) and their colleagues have provided normal echocardiographic parameters for pregnancy, which are listed in the Appendix (p. 1233).
+
+88
+00:11:43,383 --> 00:11:51,296
+In some situations, such as complex congenital heart disease, transesophageal echocardiography may be useful.
+
+89
+00:11:51,296 --> 00:12:02,433
+Cardiovascular MR imaging, compared with echocardiography, is associated with higher reproducibility and is less hindered by ventricular geometry and body habitus.
+
+90
+00:12:02,433 --> 00:12:13,721
+It is useful for assessment of the right ventricle and visualization of congenital heart lesions and myocarditis (Herrey, 2019; Martin, 2017).
+
+91
+00:12:13,721 --> 00:12:20,296
+Ducas and coworkers (2014) have published normal reference values for pregnancy.
+
+92
+00:12:20,296 --> 00:12:25,808
+Exercise stress testing is an objective assessment of maternal functional capacity.
+
+93
+00:12:25,808 --> 00:12:30,221
+It is also useful to diagnose exercise-induced arrhythmias.
+
+94
+00:12:30,221 --> 00:12:39,133
+Stress testing can be performed in women with known heart disease prior to pregnancy or, if necessary, in the asymptomatic pregnant women .
+
+95
+00:12:39,133 --> 00:12:47,183
+Dennis and associates (2019) have described findings in normal pregnant women using the 6-minute walk test.
+
+96
+00:12:47,183 --> 00:12:57,733
+Myocardial perfusion studies using albumin or red cells tagged with technetium-99m are rarely needed during pregnancy to evaluate ventricular function.
+
+97
+00:12:57,733 --> 00:13:05,771
+That said, the estimated fetal radiation exposure from nuclear medicine studies of myocardial perfusion is negligible .
+
+98
+00:13:05,771 --> 00:13:11,296
+Cardiac catheterization with limited fluoroscopy time also is safe to perform.
+
+99
+00:13:11,296 --> 00:13:22,196
+During coronary angiography, the mean radiation exposure to the unshielded abdomen is 1.5 mGy, and less than 20 percent of this reaches the fetus .
+
+100
+00:13:22,196 --> 00:13:31,196
+Shortening the fluoroscopic time may help to minimize radiation exposure (Raman, 2015; Tuzcu, 2015).
+
+101
+00:13:31,196 --> 00:13:40,821
+In women with clear indications, any minimal theoretical fetal risk is outweighed by maternal benefits, and such studies should be performed as indicated.
+
+102
+00:13:40,821 --> 00:13:44,571
+# Functional Classification of Heart Disease.
+
+103
+00:13:44,571 --> 00:13:48,633
+Pregnancy is a stress test of cardiovascular reserve.
+
+104
+00:13:48,633 --> 00:13:54,808
+However, no clinically applicable test accurately measures functional cardiac capacity.
+
+105
+00:13:54,808 --> 00:14:14,608
+The clinical classification of the New York Heart Association (NYHA) is based on past and present disability and is uninfluenced by physical signs: • Class I. Uncompromised—no limitation of physical activity: These women do not have symptoms of cardiac insufficiency or experience anginal pain.
+
+106
+00:14:14,608 --> 00:14:16,346
+Class II.
+
+107
+00:14:16,346 --> 00:14:22,596
+Slight limitation of physical activity: These women are comfortable at rest, but with ordinary
+
+108
+00:14:22,756 --> 00:14:30,768
+physical activity, discomfort in the form of excessive fatigue, palpitation, dyspnea, or anginal pain results.
+
+109
+00:14:30,718 --> 00:14:32,431
+Class III.
+
+110
+00:14:32,431 --> 00:14:44,256
+Marked limitation of physical activity: These women are comfortable at rest, but less than ordinary activity causes excessive fatigue, palpitation, dyspnea, or anginal pain.
+
+111
+00:14:44,256 --> 00:14:45,981
+Class IV.
+
+112
+00:14:45,981 --> 00:14:56,631
+Severely compromised—inability to perform any physical activity without discomfort: Symptoms of cardiac insufficiency or angina may develop even at rest.
+
+113
+00:14:56,631 --> 00:15:01,393
+If any physical activity is undertaken, discomfort is increased.
+
+114
+00:15:01,393 --> 00:15:06,918
+At least four predictive systems detect and classify heart disease in pregnant women.
+
+115
+00:15:06,918 --> 00:15:14,293
+These include CARPREG I and II, ZAHARA, and the World Health Organization (WHO) system .
+
+116
+00:15:14,293 --> 00:15:23,406
+Of these, the most comprehensive risk stratification system is the modified WHO Risk Classification of Cardiovascular Disease and Pregnancy .
+
+117
+00:15:23,406 --> 00:15:34,218
+This classification system was validated in an international cohort of 2742 pregnant women with heart disease (van Hagen, 2016).
+
+118
+00:15:34,218 --> 00:15:39,656
+It is especially useful for assessing maternal risk and for preconceptional counseling.
+
+119
+00:15:39,656 --> 00:15:53,393
+Lu (2015) and Pijuan-Domènech (2015) and their colleagues concluded that the modified WHO classification provides the greatest predictive accuracy for cardiac complications during pregnancy.
+
+120
+00:15:53,393 --> 00:15:56,043
+Table 52-3.
+
+121
+00:15:56,043 --> 00:16:07,056
+World Health Organization (WHO) Risk Classification of Cardiovascular Disease and Pregnancy with Management Recommendations General Pregnancy Considerations.
+
+122
+00:16:07,056 --> 00:16:10,068
+# Preconceptional Counseling.
+
+123
+00:16:10,068 --> 00:16:24,318
+Women with severe heart disease will benefit immensely from counseling before pregnancy, and they usually are referred for maternal-fetal medicine or cardiology consultation (Clark, 2012; Wolfe, 2019).
+
+124
+00:16:24,318 --> 00:16:29,993
+Optimizing cardiac function to mitigate complications during pregnancy is the goal.
+
+125
+00:16:29,993 --> 00:16:39,431
+Maternal mortality rates generally correlate directly with functional classification, however, this relationship may change as pregnancy progresses.
+
+126
+00:16:39,431 --> 00:16:51,868
+Siu and coworkers (2001b) observed significant worsening of NYHA class in 4.4 percent of 579 pregnancies in which the baseline class was I or II.
+
+127
+00:16:51,868 --> 00:17:02,118
+As described later, some women have life-threatening cardiac abnormalities that can be reversed by corrective surgery, and subsequent pregnancy becomes less dangerous.
+
+128
+00:17:02,118 --> 00:17:09,793
+In other cases, such as women with mechanical valves taking warfarin, fetal teratogenic concerns predominate.
+
+129
+00:17:09,793 --> 00:17:20,643
+Last, because many congenital heart lesions are inherited as polygenic characteristics, some women with congenital heart lesions give birth to similarly affected neonates.
+
+130
+00:17:20,643 --> 00:17:25,068
+This risk varies widely based on the specific abnormality .
+
+131
+00:17:25,068 --> 00:17:27,706
+Table 52-4.
+
+132
+00:17:27,706 --> 00:18:00,768
+Risks for Fetal Heart Lesions Related to Affected Family Members Risk Factors According to the American College of Obstetricians and Gynecologists (2019), four maternal risk factors are linked to cardiovascular disease morbidity and mortality: (1) race/ethnicity, with morbidity highest in African-American women; (2) age, with increased morbidity in women older than 40 years; (3) hypertension of all varieties; (4) obesity, with higher morbidity associated with increasing degrees of obesity .
+
+133
+00:18:00,768 --> 00:18:12,556
+To these, social and health disparities could be added because lower income, food and housing insecurity, and lack of childcare are directly linked to underutilization of prenatal care .
+
+134
+00:18:12,556 --> 00:18:18,531
+In turn, lack of prenatal care is a risk factor for maternal morbidity and mortality .
+
+135
+00:18:18,531 --> 00:18:21,156
+# Antepartum Care.
+
+136
+00:18:21,156 --> 00:18:30,793
+In most instances, management involves a team approach with an obstetrician, cardiologist, anesthesiologist, and other specialists as needed.
+
+137
+00:18:30,793 --> 00:18:39,143
+With complex lesions or other high-risk cases, evaluation by a multidisciplinary team is recommended early in pregnancy.
+
+138
+00:18:39,143 --> 00:18:47,468
+Both prognosis and management are influenced by the type and severity of the specific lesion and by the maternal functional classification.
+
+139
+00:18:47,468 --> 00:18:51,456
+In some, pregnancy termination may be advisable.
+
+140
+00:18:51,456 --> 00:18:59,118
+With rare exceptions, women in NYHA class I and most in class II negotiate pregnancy without morbidity.
+
+141
+00:18:59,118 --> 00:19:04,906
+Special attention is directed toward both prevention and early recognition of heart failure.
+
+142
+00:19:04,906 --> 00:19:10,318
+Of specific risks, infection with sepsis can precipitate decompensation.
+
+143
+00:19:10,318 --> 00:19:12,693
+Also, bacterial
+
+144
+00:19:12,844 --> 00:19:19,181
+endocarditis is a deadly complication of valvular heart disease (p. 934).
+
+145
+00:19:19,131 --> 00:19:29,744
+Each woman is instructed to avoid contact with persons who have respiratory infections, including the common cold, and to immediately report any evidence for infection.
+
+146
+00:19:29,744 --> 00:19:36,844
+Pneumococcal vaccine, if not previously administered, and yearly influenza vaccine are recommended .
+
+147
+00:19:36,844 --> 00:19:39,644
+Cigarette smoking is prohibited.
+
+148
+00:19:39,644 --> 00:19:47,556
+Illicit drug use may be particularly harmful, an example being the cardiovascular effects of cocaine or amphetamines.
+
+149
+00:19:47,556 --> 00:19:52,931
+In addition, intravenous drug use raises the infective endocarditis risk.
+
+150
+00:19:52,931 --> 00:19:58,644
+Fortunately, gravidas in NYHA class III and IV are uncommon today.
+
+151
+00:19:58,644 --> 00:20:10,394
+In the Canadian study, only 3 percent of the approximately 600 pregnancies were complicated by NYHA class III heart disease, and no women had class IV when first seen .
+
+152
+00:20:10,394 --> 00:20:17,444
+If a woman chooses pregnancy, she must understand the risks and is encouraged to be compliant with planned care.
+
+153
+00:20:17,444 --> 00:20:23,006
+In some women, prolonged hospitalization or bed rest is often necessary.
+
+154
+00:20:23,006 --> 00:20:25,594
+# Labor and Delivery.
+
+155
+00:20:25,594 --> 00:20:31,344
+In general, vaginal delivery is preferred, and labor induction is usually safe .
+
+156
+00:20:31,344 --> 00:20:47,669
+From the large Registry on Pregnancy and Cardiac Disease, Ruys and associates (2015) compared pregnancy outcomes between 869 women who had a planned vaginal delivery and 393 gravidas who had a planned cesarean delivery.
+
+157
+00:20:47,669 --> 00:20:53,331
+Planned cesarean delivery conferred no advantage for maternal or neonatal outcome.
+
+158
+00:20:53,331 --> 00:20:57,456
+Similar results were reported from Brigham and Women’s Hospital .
+
+159
+00:20:57,456 --> 00:21:12,706
+Cesarean delivery is usually limited to obstetrical indications, and considerations are given for the specific cardiac lesion, overall maternal condition, and availability of experienced anesthesia personnel and hospital capabilities.
+
+160
+00:21:12,706 --> 00:21:22,031
+Some of these women tolerate major surgical procedures poorly and are best delivered in a unit experienced with management of complicated cardiac disease.
+
+161
+00:21:22,031 --> 00:21:28,394
+Occasionally, pulmonary artery catheterization may be needed for hemodynamic monitoring .
+
+162
+00:21:28,394 --> 00:21:33,856
+In our experiences, however, invasive monitoring is rarely indicated.
+
+163
+00:21:33,856 --> 00:22:09,281
+Based on her review, Simpson (2012) recommends cesarean delivery for women with the following: (1) dilated aortic root >4 cm or aortic aneurysm; (2) acute severe congestive heart failure; (3) recent myocardial infarction; (4) severe symptomatic aortic stenosis; (5) need for emergency valve replacement immediately after delivery; and (6) warfarin administration within 2 weeks of delivery due to fetal risk for intracerebral hemorrhage because the fetal liver takes up to 2 weeks to metabolize
+
+164
+00:22:09,281 --> 00:22:10,894
+warfarin.
+
+165
+00:22:10,894 --> 00:22:14,994
+Although we agree with most of these, we have some caveats.
+
+166
+00:22:14,994 --> 00:22:23,669
+For congestive heart failure, we prefer aggressive medical stabilization of pulmonary edema followed by vaginal delivery if possible.
+
+167
+00:22:23,669 --> 00:22:30,681
+During labor, the mother with significant heart disease should be kept in a semirecumbent position with a lateral tilt.
+
+168
+00:22:30,681 --> 00:22:34,756
+Vital signs are taken frequently between contractions.
+
+169
+00:22:34,756 --> 00:22:48,369
+Elevations in pulse rate much above 100 beats per minute (bpm) or respiratory rate above 24 breaths per minute, particularly when associated with dyspnea, may suggest impending ventricular failure.
+
+170
+00:22:48,369 --> 00:22:55,256
+For evidence of cardiac decompensation, intensive medical management must be instituted immediately.
+
+171
+00:22:55,256 --> 00:23:02,181
+Delivery itself does not necessarily improve the maternal condition and, in fact, may worsen it.
+
+172
+00:23:02,181 --> 00:23:07,569
+Moreover, emergency cesarean delivery may be particularly hazardous.
+
+173
+00:23:07,569 --> 00:23:15,144
+Clearly, both maternal and fetal status must be considered in the decision to hasten delivery under these circumstances.
+
+174
+00:23:15,144 --> 00:23:20,531
+Analgesia and Anesthesia Relief from pain and from apprehension is important.
+
+175
+00:23:20,531 --> 00:23:29,881
+Although intravenous analgesics provide satisfactory pain relief for some women, continuous epidural analgesia is recommended for most.
+
+176
+00:23:29,881 --> 00:23:34,781
+The major problem with conduction analgesia is maternal hypotension .
+
+177
+00:23:34,781 --> 00:23:40,731
+This is especially dangerous in women with intracardiac shunts in whom flow may be reversed.
+
+178
+00:23:40,731 --> 00:23:47,794
+Hypotension can also be life-threatening if there is pulmonary arterial hypertension or aortic stenosis.
+
+179
+00:23:47,794 --> 00:23:52,556
+In these, ventricular output is dependent on adequate preload.
+
+180
+00:23:52,556 --> 00:23:57,881
+In women with these conditions, narcotic regional analgesia; low-dose,
+
+181
+00:23:58,036 --> 00:24:02,811
+slow-infusion epidural; or general anesthesia may be preferable.
+
+182
+00:24:02,761 --> 00:24:12,598
+For vaginal delivery in women with only mild cardiovascular compromise, epidural analgesia given with intravenous sedation often suffices.
+
+183
+00:24:12,598 --> 00:24:19,836
+This minimizes intrapartum cardiac output fluctuations and allows forceps or vacuum-assisted delivery.
+
+184
+00:24:19,836 --> 00:24:28,911
+Incrementally dosed subarachnoid blockade is approached especially cautiously in women with significant heart disease due to associated hypotension.
+
+185
+00:24:28,911 --> 00:24:40,061
+For cesarean delivery, epidural analgesia is preferred by most clinicians with caution for its use with pulmonary arterial hypertension (p. 932).
+
+186
+00:24:40,061 --> 00:24:49,061
+Intrapartum Heart Failure From the Nationwide Inpatient Sample, one fourth of cases of heart failure during pregnancy were encountered intrapartum .
+
+187
+00:24:49,061 --> 00:24:53,748
+Women with underlying cardiovascular disorders are at higher risk .
+
+188
+00:24:53,748 --> 00:25:00,086
+The physiological stress and fluid shifts associated with labor and delivery explain this risk.
+
+189
+00:25:00,086 --> 00:25:08,211
+Catecholamine release due to pain and second stage Valsalva increase left ventricular work, which can precipitate heart failure .
+
+190
+00:25:08,211 --> 00:25:13,173
+Obstetrical complications can either advance or precipitate heart failure.
+
+191
+00:25:13,173 --> 00:25:17,511
+Preeclampsia is common and may provoke afterload failure .
+
+192
+00:25:17,511 --> 00:25:29,386
+Findings from the Registry on Pregnancy and Cardiac Disease indicate that women with preexisting heart disease who develop preeclampsia have a 30percent risk of developing heart failure during pregnancy .
+
+193
+00:25:29,386 --> 00:25:32,511
+Obesity is another common cofactor .
+
+194
+00:25:32,511 --> 00:25:43,136
+Also, high-output states caused by hemorrhage and acute anemia elevate cardiac workload and magnify the physiological effects of compromised ventricular function.
+
+195
+00:25:43,136 --> 00:25:51,198
+Similarly, infection and sepsis increase cardiac output and oxygen utilization and depress myocardial function.
+
+196
+00:25:51,198 --> 00:25:59,473
+Chronic hypertension with superimposed preeclampsia is the most frequent cause of heart failure in pregnancy in numerous populations.
+
+197
+00:25:59,473 --> 00:26:08,111
+Many of these women have preexisting concentric left ventricular hypertrophy (Ambia, 2017, 2018).
+
+198
+00:26:08,111 --> 00:26:21,523
+In some, mild antecedent undiagnosed hypertension causes covert cardiomyopathy, and when superimposed preeclampsia develops, together they may cause otherwise inexplicable peripartum heart failure.
+
+199
+00:26:21,523 --> 00:26:29,098
+Obesity is frequently comorbid with chronic hypertension, and it also is associated with ventricular hypertrophy .
+
+200
+00:26:29,098 --> 00:26:37,573
+Cardiovascular decompensation during labor may manifest as pulmonary edema with hypoxia or as hypotension, or both.
+
+201
+00:26:37,573 --> 00:26:44,773
+The proper therapeutic approach depends on the specific hemodynamic status and the underlying cardiac lesion.
+
+202
+00:26:44,773 --> 00:26:57,936
+Continuous pulse oximetry and invasive blood pressure monitoring with an arterial line is helpful in some cases In general, pulmonary edema due to fluid overload is often best treated with aggressive diuresis.
+
+203
+00:26:57,936 --> 00:27:03,761
+If precipitated by tachycardia, heart rate control with βblocking agents is preferred.
+
+204
+00:27:03,761 --> 00:27:13,161
+However, unless the underlying pathophysiology is understood and the cause of the decompensation is clear, empirical therapy may be hazardous.
+
+205
+00:27:13,161 --> 00:27:19,423
+Details of heart failure management and specific cardiovascular disorders are discussed below.
+
+206
+00:27:19,423 --> 00:27:21,786
+# Puerperium.
+
+207
+00:27:21,786 --> 00:27:30,573
+Women who have shown little or no evidence of cardiac compromise during pregnancy, labor, or delivery may still decompensate postpartum .
+
+208
+00:27:30,573 --> 00:27:39,561
+Fluid mobilized into the intravascular compartment and reduced peripheral vascular resistance place higher demands on myocardial performance.
+
+209
+00:27:39,561 --> 00:27:47,761
+Therefore, meticulous care is continued into the puerperium (Sliwa, 2018; Zeeman, 2006).
+
+210
+00:27:47,761 --> 00:27:55,673
+Postpartum hemorrhage, anemia, infection, and thromboembolism are much more serious complications with heart disease.
+
+211
+00:27:55,673 --> 00:28:01,636
+Indeed, these factors often act in concert to precipitate postpartum heart failure.
+
+212
+00:28:01,636 --> 00:28:11,348
+In addition, sepsis and severe preeclampsia cause or worsen pulmonary edema because of endothelial activation and capillary-alveolar leakage.
+
+213
+00:28:11,348 --> 00:28:20,823
+For example, women with pregnancy-associated hypertensive diseases have a greater risk for readmission for heart failure within 90 days of delivery .
+
+214
+00:28:20,823 --> 00:28:33,448
+For puerperal tubal sterilization after vaginal delivery, the procedure can be delayed up to several days to ensure that the mother has normalized hemodynamically and that she is afebrile, not anemic, and
+
+215
+00:28:33,604 --> 00:28:35,454
+ambulatory.
+
+216
+00:28:35,404 --> 00:28:44,379
+For those desiring future fertility, contraception is crucial (Abarbanell, 2019; Sobhani, 2019).
+
+217
+00:28:44,379 --> 00:28:52,154
+Detailed contraceptive advice is available in the U.S. Medical Eligibility Criteria for Contraceptive Use guidelines .
+
+218
+00:28:52,154 --> 00:28:56,779
+These are discussed in Chapter 38 (p. 664).
+
+219
+00:28:56,779 --> 00:28:58,529
+Heart Failure.
+
+220
+00:28:58,529 --> 00:29:06,229
+Primary structural or functional cardiac disorders can lead to this clinical syndrome caused by impaired ventricular function.
+
+221
+00:29:06,229 --> 00:29:13,079
+Mitral stenosis, pulmonary hypertension, and peripartum cardiomyopathy are some examples.
+
+222
+00:29:13,079 --> 00:29:18,891
+Chronic pressure overload leads to ventricular dilation and impaired function over time.
+
+223
+00:29:18,891 --> 00:29:22,566
+Associated perinatal mortality rates are high .
+
+224
+00:29:22,566 --> 00:29:24,966
+# Diagnosis.
+
+225
+00:29:24,966 --> 00:29:32,754
+Heart failure is best thought of as chronic underlying ventricular myopathy with episodic worsening causing clinical symptoms .
+
+226
+00:29:32,754 --> 00:29:39,154
+Thus, failure can have a gradual onset or may present as acute “flash” pulmonary edema.
+
+227
+00:29:39,154 --> 00:29:46,354
+In pregnant women, onset is most likely at the end of the second or beginning of the third trimester and peripartum .
+
+228
+00:29:46,354 --> 00:29:57,916
+Of symptoms, dyspnea is universal and others are orthopnea, palpitations, substernal chest pain, nocturnal cough, and a sudden decline in the ability to complete usual duties.
+
+229
+00:29:57,916 --> 00:30:06,316
+Clinical findings include persistent basilar rales, hemoptysis, progressive edema, tachypnea, and tachycardia.
+
+230
+00:30:06,316 --> 00:30:18,079
+According to Malhamé and associates (2019), serum levels of brain natriuretic peptide (BNP) are variably elevated (Appendix, p. 1231).
+
+231
+00:30:18,079 --> 00:30:23,279
+Cardiomegaly and pulmonary edema are hallmark radiographic findings.
+
+232
+00:30:23,279 --> 00:30:26,804
+Acutely, there is usually systolic failure.
+
+233
+00:30:26,804 --> 00:30:40,816
+Echocardiography may show an ejection fraction <0.45 or a fractional shortening <30 percent, or both, and an end-diastolic dimension >2.7 cm/m2 .
+
+234
+00:30:40,816 --> 00:30:47,041
+Coincidental diastolic failure also may be found, depending on the underlying cause .
+
+235
+00:30:47,041 --> 00:30:55,504
+Last, the cause of ventricular dysfunction—such as valvular abnormalities or concentric hypertrophy—may become apparent.
+
+236
+00:30:55,504 --> 00:30:57,729
+# Management.
+
+237
+00:30:57,729 --> 00:31:04,941
+Pulmonary edema from heart failure usually responds promptly with diuretic administration to reduce preload.
+
+238
+00:31:04,941 --> 00:31:11,491
+Recall that furosemide (Lasix) is a potent venodilator in addition to its diuretic action.
+
+239
+00:31:11,491 --> 00:31:20,266
+Hypertension is common in pregnancy, and afterload reduction is accomplished with hydralazine, nifedipine, or another vasodilator.
+
+240
+00:31:20,266 --> 00:31:27,241
+Angiotensin-converting enzyme inhibitors are withheld until after delivery because of marked fetal effects .
+
+241
+00:31:27,241 --> 00:31:35,904
+β-blocking agents lower mortality rates in the setting of heart failure, and carvedilol (Coreg) is commonly used in pregnancy.
+
+242
+00:31:35,904 --> 00:31:42,579
+Last, digoxin provides inotropic support and is associated with decreased hospitalizations.
+
+243
+00:31:42,579 --> 00:31:51,354
+With chronic heart failure, the incidence of associated thromboembolism is high, and therefore prophylactic heparin is often recommended.
+
+244
+00:31:51,354 --> 00:31:58,329
+Left ventricular assist devices are now employed more frequently for acute and chronic heart failure treatment.
+
+245
+00:31:58,329 --> 00:32:06,291
+A few reports describe their use during pregnancy (Hamdan, 2017; Makdisi, 2017).
+
+246
+00:32:06,291 --> 00:32:23,129
+Extracorporeal membrane oxygenation (ECMO) was reported to be lifesaving in a woman with fulminating peripartum cardiomyopathy, and it may be used in women with pulmonary hypertension (Meng, 2017; Pacheco, 2018).
+
+247
+00:32:23,129 --> 00:32:25,916
+Surgically Corrected Heart Disease.
+
+248
+00:32:25,916 --> 00:32:31,354
+Most clinically significant congenital heart lesions are repaired during childhood.
+
+249
+00:32:31,354 --> 00:32:41,529
+Those frequently not diagnosed until adulthood include atrial septal defects, pulmonic stenosis, bicuspid aortic valve, and aortic coarctation .
+
+250
+00:32:41,529 --> 00:32:46,341
+In some cases, the defect is mild and does not require repair.
+
+251
+00:32:46,341 --> 00:32:53,516
+In others, a significant anomaly is amenable to corrective surgery, performed ideally before pregnancy.
+
+252
+00:32:53,516 --> 00:32:58,141
+Rarely, surgical corrections are necessary during pregnancy.
+
+253
+00:32:58,141 --> 00:33:01,629
+# Valve Replacement Before Pregnancy.
+
+254
+00:33:01,629 --> 00:33:10,254
+Numerous reports describe subsequent pregnancy outcomes in women who have a prosthetic mitral or aortic valve placed before pregnancy.
+
+255
+00:33:10,254 --> 00:33:16,379
+From one review, the overall estimated maternal mortality rate was 1.2 percent .
+
+256
+00:33:16,379 --> 00:33:30,979
+Using the Registry of Pregnancy and Cardiac Disease, the maternal mortality rate was 1.4 percent in women with a mechanical heart valve and 1.5 percent in women with a tissue heart valve (van Hagen, 2015).
+
+257
+00:33:30,979 --> 00:33:33,091
+Compared with the general
+
+258
+00:33:33,244 --> 00:33:40,044
+maternal mortality rate measured per 100,000 births, this risk is more than 50-fold higher .
+
+259
+00:33:39,994 --> 00:33:45,019
+The type of valve, either mechanical or bioprosthetic, is paramount.
+
+260
+00:33:45,019 --> 00:33:52,031
+From the just-described cohort, mechanical heart valve thrombosis complicated 4.7 percent.
+
+261
+00:33:52,031 --> 00:34:04,694
+Only 58 percent of women with a mechanical heart valve had a pregnancy free of serious adverse events compared with 79 percent of patients with a tissue heart valve (van Hagen, 2015).
+
+262
+00:34:04,694 --> 00:34:14,819
+A study of 417 women showed that pregnancy loss occurred in 61 and 15 percent with mechanical and bioprosthetic valves, respectively .
+
+263
+00:34:14,819 --> 00:34:23,831
+Anticoagulation is a requisite with mechanical valves because of thrombosis risks, and its complications are described in the next section.
+
+264
+00:34:23,831 --> 00:34:30,681
+Thus, pregnancy is undertaken only after serious consideration for women with a mechanical valve.
+
+265
+00:34:30,681 --> 00:34:33,419
+Table 52-5.
+
+266
+00:34:33,419 --> 00:34:48,194
+Selected Outcomes in Pregnancies Complicated by HeartValve Replacement Bouhout and associates (2014) reported the outcomes of 27 pregnancies in 14 women who underwent an aortic valve replacement prior to pregnancy.
+
+267
+00:34:48,194 --> 00:34:53,544
+Seven of the 27 pregnancies occurred in five women with a mechanical valve.
+
+268
+00:34:53,544 --> 00:35:04,344
+Complications in this group included two embolic myocardial infarctions and one each of miscarriage, postpartum hemorrhage, placental abruption, and preterm birth.
+
+269
+00:35:04,344 --> 00:35:08,381
+In the bioprosthetic group, there were nine miscarriages.
+
+270
+00:35:08,381 --> 00:35:13,956
+Adverse maternal and fetal outcomes plague also women with a mechanical mitral valve.
+
+271
+00:35:13,956 --> 00:35:24,119
+In one report of 28 pregnancies, Vause and colleagues (2017) described severe maternal morbidity and mortality in 57 percent.
+
+272
+00:35:24,119 --> 00:35:29,369
+A review of pregnancy outcomes in 800 women reported similar results .
+
+273
+00:35:29,369 --> 00:35:38,681
+Porcine tissue mitral valves are safer during pregnancy, primarily because thrombosis is rare, and anticoagulation is not required .
+
+274
+00:35:38,681 --> 00:35:44,556
+However, valvular dysfunction with cardiac deterioration poses a serious risk.
+
+275
+00:35:44,556 --> 00:35:53,656
+Another drawback is that bioprostheses are less durable than mechanical ones, and valve replacement longevity averages 10 to 15 years.
+
+276
+00:35:53,656 --> 00:36:01,294
+Batra and coworkers (2018) concluded that pregnancy accelerated the risk for subsequent replacement.
+
+277
+00:36:01,294 --> 00:36:05,994
+Anticoagulation This is critical for women with mechanical valves.
+
+278
+00:36:05,994 --> 00:36:14,869
+Unfortunately, warfarin is the most effective anticoagulant for preventing maternal thromboembolism but causes harmful fetal effects.
+
+279
+00:36:14,869 --> 00:36:26,219
+As seen in Table 52-6, anticoagulation with heparin is less hazardous for the fetus, however, the risk of maternal thromboembolic complications is increased .
+
+280
+00:36:26,219 --> 00:36:33,594
+As a compromise, some use heparin in early pregnancy, and then transition to warfarin in the second trimester.
+
+281
+00:36:33,594 --> 00:36:36,244
+Table 52-6.
+
+282
+00:36:36,244 --> 00:36:49,056
+Maternal and Fetal Composite Outcomes in 800 Women with a Mechanical Heart Value Receiving Anticoagulation Warfarin is teratogenic and causes miscarriages, stillbirths, and fetal malformations .
+
+283
+00:36:49,056 --> 00:37:00,356
+In one study of 71 women given warfarin throughout pregnancy, the rates of miscarriage were 32 percent; stillbirth, 7 percent; and embryopathy, 6 percent .
+
+284
+00:37:00,356 --> 00:37:05,606
+The risk was highest when the mean daily dose of warfarin exceeded 5 mg.
+
+285
+00:37:05,606 --> 00:37:20,294
+Similarly, the American College of Cardiology and the American Heart Association estimate that the risk of embryopathy is dose dependent, and the risk is <3 percent if the warfarin dose is ≤5 mg/d .
+
+286
+00:37:20,294 --> 00:37:29,756
+Women treated with <5 mg/d of warfarin had fetal risks similar to the low-molecular-weight heparin (LMWH) regimen .
+
+287
+00:37:29,756 --> 00:37:36,394
+If the dosage is >5 mg/d, the risk of embryopathy exceeds 8 percent.
+
+288
+00:37:36,394 --> 00:37:51,419
+Anticoagulation for mechanical valves using low-dose unfractionated heparin (UFH) is definitely inadequate and carries a high associated maternal mortality rate (Chan, 2000; Iturbe-Alessio, 1986).
+
+289
+00:37:51,419 --> 00:38:03,794
+Even full anticoagulation with either UFH or one of the LMWHs is associated with valvular thrombosis (Leyh, 2002, 2003; Rowan, 2001).
+
+290
+00:38:03,794 --> 00:38:09,269
+However, compliance with dosing and therapeutic monitoring may have contributed .
+
+291
+00:38:09,269 --> 00:38:18,444
+Therefore, if full anticoagulation with dose-adjusted UFH or LMWH is used, meticulous monitoring is recommended.
+
+292
+00:38:18,444 --> 00:38:31,319
+The activated partial thromboplastin time (aPTT) should be at least 2 times control or anti-Xa levels should be 0.8 to 1.2 U/mL at 4 to 6 hours postdose .
+
+293
+00:38:31,319 --> 00:38:35,019
+Recommendations for Anticoagulation Several
+
+294
+00:38:35,188 --> 00:38:43,000
+different treatment options exist, although all are principally based on consensus opinion, and none is completely ideal.
+
+295
+00:38:42,950 --> 00:38:53,475
+Warfarin and LMWH are associated with fewer valve thromboses and therefore favored over subcutaneous UFH (D’Souza, 2017).
+
+296
+00:38:53,475 --> 00:39:09,000
+In addition, therapeutic subcutaneous UFH dosing is difficult to achieve due to lower peak plasma concentrations in pregnant women, especially with advancing gestation (Barbour, 1995; Brancazio, 1995).
+
+297
+00:39:09,000 --> 00:39:19,163
+One guideline from the American College of Cardiology and the American Heart Association offers different treatment options based on trimester and baseline warfarin dose .
+
+298
+00:39:19,163 --> 00:39:24,700
+Figure 52-3 displays a treatment algorithm based on these guidelines.
+
+299
+00:39:24,700 --> 00:39:31,150
+All recommendations also include aspirin 75 to 100 mg orally daily.
+
+300
+00:39:31,150 --> 00:39:33,788
+Figure 52-3.
+
+301
+00:39:33,788 --> 00:39:38,875
+Algorithm for anticoagulation in gravidas with a mechanical heart valve.
+
+302
+00:39:38,875 --> 00:39:54,213
+INR = international normalized ratio; IV = intravenous; LMWH = low-molecular-weight heparin; aPTT = activated partial thromboplastin time; UFH = unfractionated heparin.
+
+303
+00:39:54,213 --> 00:40:00,963
+From Elkayam, 2020; Nishimura, 2014; Roeder, 2011.
+
+304
+00:40:00,963 --> 00:40:10,175
+Vaginal or cesarean delivery is ideally scheduled to allow controlled discontinuation of anticoagulation and partial reversal of its effects.
+
+305
+00:40:10,175 --> 00:40:19,138
+This also permits administration of regional anesthesia, which requires a degree of coagulation to avoid epidural hematoma formation .
+
+306
+00:40:19,138 --> 00:40:30,138
+If delivery intervenes while the anticoagulant is still effective, and extensive bleeding is encountered, protamine sulfate is given intravenously to reverse heparin effects.
+
+307
+00:40:30,138 --> 00:40:36,338
+Patients should be counseled that in these situations regional anesthesia may not safely be possible.
+
+308
+00:40:36,338 --> 00:40:45,713
+Following vaginal delivery, anticoagulant therapy with warfarin or heparin may be restarted 6 hours later, usually with no problems.
+
+309
+00:40:45,713 --> 00:40:52,838
+Following cesarean delivery, full anticoagulation is withheld, but the optimal duration is unclear.
+
+310
+00:40:52,838 --> 00:41:04,350
+The American College of Obstetricians and Gynecologists (2018a) recommends resuming UFH or LMWH 6 to 12 hours after cesarean delivery.
+
+311
+00:41:04,350 --> 00:41:12,875
+At Parkland Hospital, however, we wait at least 24 hours following a major surgical procedure given inherent bleeding risks.
+
+312
+00:41:12,875 --> 00:41:18,288
+Following first-trimester dilation and curettage heparin is begun immediately.
+
+313
+00:41:18,288 --> 00:41:23,625
+Warfarin, LMWH, and UFH are compatible with breastfeeding.
+
+314
+00:41:23,625 --> 00:41:29,750
+They do not accumulate in breast milk and thus do not induce anticoagulant effects in the newborn .
+
+315
+00:41:29,750 --> 00:41:33,338
+# Cardiac Surgery During Pregnancy.
+
+316
+00:41:33,338 --> 00:41:41,763
+Although usually postponed until after delivery, valve replacement or other cardiac surgery during pregnancy may be lifesaving.
+
+317
+00:41:41,763 --> 00:41:48,150
+Several reviews confirm that such surgery is associated with major maternal and fetal morbidity .
+
+318
+00:41:48,150 --> 00:41:57,525
+Elassy and associates (2014) described 23 women who underwent urgent open cardiac surgery for severe valve malfunction.
+
+319
+00:41:57,525 --> 00:42:05,075
+Two women and 10 fetuses—all at a gestational age below 28 weeks—died before hospital discharge.
+
+320
+00:42:05,075 --> 00:42:08,300
+Only six fetuses were delivered at term.
+
+321
+00:42:08,300 --> 00:42:19,538
+In a review of 154 women undergoing bypass surgery during pregnancy, the maternal mortality rate was 11 percent, and the fetal loss rate was 33 percent .
+
+322
+00:42:19,538 --> 00:42:39,875
+To optimize outcomes, Chandrasekhar and coworkers (2009) recommend that surgery be elective when possible, pump flow rate should remain >2.5 L/min/m2, perfusion pressure should exceed 70 mm Hg, and hematocrit should be kept >28 percent.
+
+323
+00:42:39,875 --> 00:42:43,563
+# Pregnancy after Heart Transplantation.
+
+324
+00:42:43,563 --> 00:42:52,375
+Many successful pregnancies have followed cardiac transplantation (D’Souza, 2018; Macera, 2018).
+
+325
+00:42:52,375 --> 00:43:03,675
+Current recommendations from the International Society of Heart and Lung Transplantation do not discourage pregnancy in stable heart transplant recipients who are more than 1 year posttransplant .
+
+326
+00:43:03,675 --> 00:43:09,788
+Obviously, a highly specialized level of care and multidisciplinary team is necessary.
+
+327
+00:43:09,788 --> 00:43:15,525
+The transplanted heart appears to respond normally to pregnancy-induced alterations .
+
+328
+00:43:15,525 --> 00:43:19,788
+Despite this, complications are common during pregnancy.
+
+329
+00:43:19,788 --> 00:43:33,325
+Of 103 pregnancies in 57 heart recipients from the National Transplantation Pregnancy Registry, almost half developed hypertension, and 11 percent suffered at least one rejection episode during pregnancy .
+
+330
+00:43:33,325 --> 00:43:36,913
+They were usually delivered by cesarean at a mean
+
+331
+00:43:37,084 --> 00:43:39,871
+of 37 weeks’ gestation.
+
+332
+00:43:39,821 --> 00:43:44,759
+Life expectancy following heart transplantation is known to be limited.
+
+333
+00:43:44,759 --> 00:43:50,109
+At follow-up, at least 16 women had died more than 2 years postpartum.
+
+334
+00:43:50,109 --> 00:43:56,046
+In another small study, pregnancy itself did not worsen long-term survival rates .
+
+335
+00:43:56,046 --> 00:43:58,296
+Valvular Heart Disease.
+
+336
+00:43:58,296 --> 00:44:09,421
+Rheumatic fever is uncommon in the United States because of less crowded living conditions, penicillin availability, and evolution of nonrheumatogenic streptococcal strains.
+
+337
+00:44:09,421 --> 00:44:21,534
+Still, it remains the chief cause of serious mitral valvular disease in women of childbearing age in the nonindustrialized world (Liaw, 2021; van Hagen, 2018).
+
+338
+00:44:21,534 --> 00:44:24,184
+# Mitral Stenosis.
+
+339
+00:44:24,184 --> 00:44:28,821
+Rheumatic endocarditis causes most mitral stenosis lesions.
+
+340
+00:44:28,821 --> 00:44:40,171
+The normal mitral valve surface area is 4.0 cm2, and when stenosis narrows this to <2.5 cm2, symptoms usually develop.
+
+341
+00:44:40,171 --> 00:44:45,284
+The contracted valve impedes blood flow from the left atrium to the ventricle.
+
+342
+00:44:45,284 --> 00:44:56,959
+With more severe stenosis, the left atrium dilates, left atrial pressure is chronically elevated, and significant pulmonary hypertension develops (Galiè, 2016).
+
+343
+00:44:56,959 --> 00:45:09,459
+These women have a relatively fixed cardiac output, and thus the increased preload of normal pregnancy and other factors that raise cardiac output may cause ventricular failure and pulmonary edema.
+
+344
+00:45:09,459 --> 00:45:16,146
+Cardiac failure develops for the first time during pregnancy in one fourth of women with mitral stenosis .
+
+345
+00:45:16,146 --> 00:45:25,959
+The resulting pulmonary venous hypertension and pulmonary edema create symptoms of dyspnea, fatigue, palpitations, cough, and hemoptysis.
+
+346
+00:45:25,959 --> 00:45:38,284
+The classic murmur may not be heard in some women, and this clinical picture at term may be confused with idiopathic peripartum cardiomyopathy (Cunningham, 1986, 2019).
+
+347
+00:45:38,284 --> 00:45:40,921
+Table 52-7.
+
+348
+00:45:40,921 --> 00:45:50,996
+Major Cardiac Valve Disorders Also with significant stenosis, tachycardia shortens ventricular diastolic filling time and elevates the mitral gradient.
+
+349
+00:45:50,996 --> 00:45:59,809
+This too may lead to pulmonary edema, and therefore, sinus tachycardia is often treated prophylactically with β-blocking agents.
+
+350
+00:45:59,809 --> 00:46:07,084
+Atrial tachyarrhythmias, including fibrillation, are common in mitral stenosis and are treated aggressively.
+
+351
+00:46:07,084 --> 00:46:14,896
+Atrial fibrillation predisposes to mural thrombus formation and cerebrovascular embolization that can cause stroke .
+
+352
+00:46:14,896 --> 00:46:19,321
+Atrial thrombosis can also develop despite a sinus rhythm .
+
+353
+00:46:19,321 --> 00:46:26,434
+Pregnancy Outcomes In general, complications are directly associated with the degree of valvular stenosis.
+
+354
+00:46:26,434 --> 00:46:31,871
+Women with a mitral-valve area <2 cm2 are at greatest risk .
+
+355
+00:46:31,871 --> 00:46:44,384
+In one study of 273 gravidas with mitral stenosis, 43 percent developed heart failure, and almost a fourth of these women required admission (van Hagen, 2018).
+
+356
+00:46:44,384 --> 00:46:50,059
+For women with severe stenosis, half developed heart failure, and one woman died.
+
+357
+00:46:50,059 --> 00:46:56,684
+Fetal-growth restriction was more common in women with a mitral valve area <1.0 cm2.
+
+358
+00:46:56,684 --> 00:47:01,034
+Prognosis also is related to maternal functional capacity.
+
+359
+00:47:01,034 --> 00:47:12,884
+Among 486 pregnancies complicated by rheumatic heart disease—predominantly mitral stenosis—8 of 10 maternal deaths were in women in NYHA classes III or IV .
+
+360
+00:47:12,884 --> 00:47:19,084
+Management Limited physical activity is generally recommended in women with mitral stenosis.
+
+361
+00:47:19,084 --> 00:47:27,834
+If symptoms of pulmonary congestion develop, activity is further reduced, dietary sodium is restricted, and diuretics are given.
+
+362
+00:47:27,834 --> 00:47:33,084
+Also, βblocker drug therapy slows the ventricular response to activity.
+
+363
+00:47:33,084 --> 00:47:42,709
+If new-onset atrial fibrillation develops, intravenous verapamil, 5 to 10 mg, is given, or electrocardioversion is performed.
+
+364
+00:47:42,709 --> 00:47:50,259
+For chronic fibrillation, digoxin, a βblocker, or a calcium-channel blocker can slow ventricular response.
+
+365
+00:47:50,259 --> 00:47:58,896
+Therapeutic anticoagulation is indicated with persistent fibrillation, left atrial thrombus, and/or a history of embolism .
+
+366
+00:47:58,896 --> 00:48:04,646
+Surgical intervention is considered for women with symptomatic severe mitral stenosis.
+
+367
+00:48:04,646 --> 00:48:15,859
+Other candidates are those with mitral-valve area 1.5 to 2.0 cm2 complicated by recurrent systemic embolization or severe pulmonary hypertension.
+
+368
+00:48:15,859 --> 00:48:19,996
+Balloon valvuloplasty is preferred if the valve is pliable .
+
+369
+00:48:19,996 --> 00:48:32,621
+In one review of 71 pregnant women with severe mitral stenosis and heart failure who underwent percutaneous valvuloplasty, 98 percent were either NYHA class I or II by the time of
+
+370
+00:48:32,788 --> 00:48:34,375
+delivery .
+
+371
+00:48:34,325 --> 00:48:40,550
+At a mean of 44 months, the total event-free maternal survival rate was 54 percent.
+
+372
+00:48:40,550 --> 00:48:44,900
+However, eight women required another surgical intervention.
+
+373
+00:48:44,900 --> 00:48:50,475
+All of the 66 newborns who were delivered at term had normal growth and development.
+
+374
+00:48:50,475 --> 00:48:56,388
+Labor and delivery are particularly stressful for women with symptomatic mitral stenosis.
+
+375
+00:48:56,388 --> 00:49:02,675
+Pain, exertion, and anxiety cause tachycardia with possible rate-related heart failure.
+
+376
+00:49:02,675 --> 00:49:06,138
+Epidural analgesia for labor is ideal.
+
+377
+00:49:06,138 --> 00:49:11,675
+Fluid overload should be avoided, and these women are best managed on the “dry” side.
+
+378
+00:49:11,675 --> 00:49:19,650
+As shown in Figure 52-4 uterine contractions raise cardiac output by increasing circulating blood volume.
+
+379
+00:49:19,650 --> 00:49:26,600
+Abrupt expansion in preload may elevate pulmonary capillary wedge pressure and cause pulmonary edema.
+
+380
+00:49:26,600 --> 00:49:30,050
+Wedge pressures rise immediately postpartum.
+
+381
+00:49:30,050 --> 00:49:42,600
+One hypothesis for this suggests that the loss of the low-resistance placental circulation couples with venous “autotransfusion” from a now-empty, contracted uterus and from the lower extremities and pelvis .
+
+382
+00:49:42,600 --> 00:49:47,350
+Thus, pulmonary edema may manifest immediately postpartum.
+
+383
+00:49:47,350 --> 00:49:50,013
+Figure 52-4.
+
+384
+00:49:50,013 --> 00:49:57,650
+Mean pulmonary capillary wedge pressure measurements (red graph line) in eight women with mitral valve stenosis.
+
+385
+00:49:57,650 --> 00:50:05,313
+Shaded yellow and blue boxes are mean (± 1 SD) pressures in nonlaboring normal women at term.
+
+386
+00:50:05,313 --> 00:50:07,663
+A. First-stage labor.
+
+387
+00:50:07,663 --> 00:50:12,250
+B. Second-stage labor 15 to 30 minutes before delivery.
+
+388
+00:50:12,250 --> 00:50:15,663
+C. Postpartum 5 to 15 minutes.
+
+389
+00:50:15,663 --> 00:50:18,900
+D. Postpartum 4 to 6 hours.
+
+390
+00:50:18,900 --> 00:50:22,413
+E. Postpartum 18 to 24 hours.
+
+391
+00:50:22,413 --> 00:50:26,813
+Data from Clark, 1985, 1989.
+
+392
+00:50:26,813 --> 00:50:31,300
+Most prefer vaginal delivery in women with mitral stenosis.
+
+393
+00:50:31,300 --> 00:50:38,138
+Elective induction is reasonable so that labor and delivery are attended by a scheduled, experienced team.
+
+394
+00:50:38,138 --> 00:50:45,813
+With severe stenosis and chronic heart failure, insertion of a pulmonary artery catheter may help guide management.
+
+395
+00:50:45,813 --> 00:50:48,713
+# Mitral Insufficiency.
+
+396
+00:50:48,713 --> 00:50:53,700
+A trivial degree of mitral insufficiency is found in most normal patients.
+
+397
+00:50:53,700 --> 00:51:01,488
+But if mitral valve leaflets align improperly during systole, abnormal degrees of mitral regurgitation can develop.
+
+398
+00:51:01,488 --> 00:51:06,975
+This is eventually followed by left ventricular dilation and eccentric hypertrophy .
+
+399
+00:51:06,975 --> 00:51:16,950
+Acute mitral insufficiency is caused by chordae tendineae rupture, papillary muscle infarction, or leaflet perforation from infective endocarditis.
+
+400
+00:51:16,950 --> 00:51:31,725
+Chronic mitral regurgitation, in contrast, may derive from rheumatic fever, connective tissue diseases, mitral valve prolapse, or left ventricular dilation of any etiology—for example, dilated cardiomyopathy.
+
+401
+00:51:31,725 --> 00:51:40,750
+Less common causes include a calcified mitral annulus, possibly some appetite suppressants, and in older women, ischemic heart disease.
+
+402
+00:51:40,750 --> 00:51:49,163
+Mitral valve vegetations—Libman-Sacks endocarditis—are relatively common in women with antiphospholipid antibodies .
+
+403
+00:51:49,163 --> 00:51:53,663
+These sometimes coexist with systemic lupus erythematosus .
+
+404
+00:51:53,663 --> 00:52:03,900
+In nonpregnant patients, symptoms from mitral valve insufficiency are rare, and valve replacement is seldom indicated unless infective endocarditis develops.
+
+405
+00:52:03,900 --> 00:52:13,688
+During pregnancy, mitral regurgitation is similarly well tolerated, probably because the lowered systemic vascular resistance yields less regurgitation.
+
+406
+00:52:13,688 --> 00:52:25,825
+In the report by van Hagen and associates (2018), of 117 women with moderate or severe regurgitation, 23 percent developed heart failure during pregnancy.
+
+407
+00:52:25,825 --> 00:52:31,700
+Occasionally tachyarrhythmias or severely depressed systolic function require treatment.
+
+408
+00:52:31,700 --> 00:52:34,650
+# Mitral Valve Prolapse.
+
+409
+00:52:34,650 --> 00:52:47,000
+This diagnosis implies the presence of a pathological connective tissue disorder—often termed myxomatous degeneration—which may involve the valve leaflets, the annulus, or the chordae tendineae.
+
+410
+00:52:47,000 --> 00:52:49,975
+Mitral insufficiency may develop.
+
+411
+00:52:49,975 --> 00:52:57,863
+Most women with mitral valve prolapse are asymptomatic and are diagnosed during routine examination or echocardiography.
+
+412
+00:52:57,863 --> 00:53:06,075
+The few women with symptoms have anxiety, palpitations, atypical chest pain, dyspnea with exertion, and syncope .
+
+413
+00:53:06,075 --> 00:53:11,475
+Pregnant women with mitral valve prolapse rarely have cardiac complications.
+
+414
+00:53:11,475 --> 00:53:24,163
+Hypervolemia may even improve alignment of the mitral valve, and women without pathological myxomatous degeneration generally have excellent pregnancy outcomes (Leśniak-Sobelga, 2004).
+
+415
+00:53:24,163 --> 00:53:26,750
+For women who are symptomatic,
+
+416
+00:53:26,908 --> 00:53:35,483
+β-blocking drugs diminish sympathetic tone, relieve chest pain and palpitations, and reduce the risk of life-threatening arrhythmias.
+
+417
+00:53:35,433 --> 00:53:38,120
+# Aortic Stenosis.
+
+418
+00:53:38,120 --> 00:53:48,283
+Since the decline in incidence of rheumatic disease, congenital bicuspid valve is now the most frequent cause of aortic stenosis in young women in the United States .
+
+419
+00:53:48,283 --> 00:53:56,758
+A normal aortic valve has an area of 3 to 4 cm2, with a pressure gradient <5 mm Hg.
+
+420
+00:53:56,758 --> 00:54:06,145
+If the valve area is <1 cm2, flow is severely obstructed, and progressive pressure overload on the left ventricle develops.
+
+421
+00:54:06,145 --> 00:54:17,670
+Concentric left ventricular hypertrophy follows, and if it is severe, end-diastolic pressures become elevated, ejection fraction decreases, and cardiac output is reduced .
+
+422
+00:54:17,670 --> 00:54:22,908
+Severity is estimated by peak velocity of flow across the aortic valve.
+
+423
+00:54:22,908 --> 00:54:43,708
+Mild stenosis has a peak velocity of 2–2.9 m/s, moderate 3-3.9 m/s, and severe ≥4 m/s. Corresponding mean pressure gradients are <20, 20–39, and ≥40 mm Hg, respectively .
+
+424
+00:54:43,708 --> 00:54:52,045
+Characteristic manifestations develop late and include chest pain, syncope, heart failure, and sudden death from arrhythmias.
+
+425
+00:54:52,045 --> 00:55:00,495
+In asymptomatic patients, the mortality rate is 1 percent per year, but with symptoms it increases to 25 percent per year.
+
+426
+00:55:00,495 --> 00:55:05,145
+Thus, valve replacement is indicated for symptomatic patients.
+
+427
+00:55:05,145 --> 00:55:15,370
+Pregnancy In one single-center study, aortic stenosis accounted for 15 percent of cases of congenital heart disease in 178 pregnant women .
+
+428
+00:55:15,370 --> 00:55:21,133
+That said, clinically significant aortic stenosis is infrequent during pregnancy.
+
+429
+00:55:21,133 --> 00:55:25,370
+Mild to moderate degrees of stenosis are well tolerated.
+
+430
+00:55:25,370 --> 00:55:30,420
+Severe disease is lifethreatening and carries a 6-percent mortality risk .
+
+431
+00:55:30,420 --> 00:55:37,608
+The principal underlying hemodynamic problem is the fixed cardiac output associated with severe stenosis.
+
+432
+00:55:37,608 --> 00:55:45,408
+During pregnancy, several common events acutely lower preload further and thus aggravate the fixed cardiac output.
+
+433
+00:55:45,408 --> 00:55:52,708
+These include vena caval occlusion from the gravid uterus, regional analgesia, sepsis, and hemorrhage.
+
+434
+00:55:52,708 --> 00:56:01,895
+From the earlier-cited Canadian study, complication rates were higher if the aortic valve area measured <1.5 cm2 .
+
+435
+00:56:01,895 --> 00:56:09,158
+Management For asymptomatic women with aortic stenosis, no treatment except close observation is required.
+
+436
+00:56:09,158 --> 00:56:18,958
+Management of a symptomatic woman is undertaken in conjunction with a cardiologist and includes strict limitation of activity and cautious use of diuretics.
+
+437
+00:56:18,958 --> 00:56:24,820
+If symptoms persist, surgical intervention or preterm delivery may be considered.
+
+438
+00:56:24,820 --> 00:56:32,383
+Catheter-based valvuloplasty is associated with risks to both the mother and fetus and shows poor long-term efficacy .
+
+439
+00:56:32,383 --> 00:56:38,495
+Namely, the aortic valve can again narrow or new aortic regurgitation may develop.
+
+440
+00:56:38,495 --> 00:56:48,958
+The alternative surgical approach—valve replacement—is associated with significant risk of fetal demise due to the hypotension associated with cardiac bypass.
+
+441
+00:56:48,958 --> 00:57:03,095
+Transcatheter aortic valve replacement (TAVR) has been performed in low-risk nonpregnant women, but there is little experience with this procedure during pregnancy (Hodson, 2016; Mack, 2019).
+
+442
+00:57:03,095 --> 00:57:21,645
+Accordingly, the American College of Cardiology, the American Heart Association, and the European Society of Cardiology recommend delaying conception until after surgical correction for severe aortic stenosis (Nishimura, 2014; Regitz-Zagrosek, 2018).
+
+443
+00:57:21,645 --> 00:57:28,333
+For those with uncorrected severe symptomatic aortic stenosis, cesarean delivery is preferred.
+
+444
+00:57:28,333 --> 00:57:33,595
+For asymptomatic women with severe stenosis, care is individualized.
+
+445
+00:57:33,595 --> 00:57:37,970
+In nonsevere stenosis, vaginal delivery is preferred .
+
+446
+00:57:37,970 --> 00:57:44,033
+For women with critical aortic stenosis, intensive monitoring during labor is essential.
+
+447
+00:57:44,033 --> 00:57:51,770
+Pulmonary artery catheterization may be helpful because of the narrow margin separating fluid overload from hypovolemia.
+
+448
+00:57:51,770 --> 00:58:01,220
+Women with aortic stenosis are dependent on adequate end-diastolic ventricular filling pressures to maintain cardiac output and systemic perfusion.
+
+449
+00:58:01,220 --> 00:58:09,608
+Abrupt drops in end-diastolic volume may result in hypotension, syncope, myocardial infarction, and sudden death.
+
+450
+00:58:09,608 --> 00:58:15,795
+Thus, avoiding diminished ventricular preload and maintaining cardiac output are key.
+
+451
+00:58:15,795 --> 00:58:21,045
+During labor and delivery, affected women are best managed on the “wet” side.
+
+452
+00:58:21,045 --> 00:58:22,508
+This
+
+453
+00:58:22,660 --> 00:58:28,685
+provides a margin of safety in intravascular volume in anticipation of possible hemorrhage.
+
+454
+00:58:28,635 --> 00:58:33,572
+In women with a competent mitral valve, pulmonary edema is rare.
+
+455
+00:58:33,572 --> 00:58:42,572
+During labor, narcotic or low-dose, slow-infusion epidural analgesia seems ideal and avoids potentially hazardous hypotension.
+
+456
+00:58:42,572 --> 00:58:55,347
+Easterling and coworkers (1988) studied the effects of epidural analgesia in five women with severe stenosis and demonstrated immediate and profound effects from decreased filling pressures.
+
+457
+00:58:55,347 --> 00:59:04,060
+Xia and colleagues (2006) emphasize slow administration of dilute local anesthetic agents into the epidural space.
+
+458
+00:59:04,060 --> 00:59:12,010
+In hemodynamically stable women, forceps or vacuum delivery is used only for standard obstetrical indications.
+
+459
+00:59:12,010 --> 00:59:20,247
+In those experiencing dizziness, shortness of breath, or tachycardia with pushing, an operative vaginal delivery is preferred.
+
+460
+00:59:20,247 --> 00:59:23,110
+# Aortic Insufficiency.
+
+461
+00:59:23,110 --> 00:59:30,885
+Aortic valve regurgitation or insufficiency allows diastolic flow of blood from the aorta back into the left ventricle.
+
+462
+00:59:30,885 --> 00:59:38,422
+Frequent causes of insufficiency are rheumatic fever, connective tissue abnormalities, and congenital lesions .
+
+463
+00:59:38,422 --> 00:59:45,497
+With Marfan syndrome, the aortic root may dilate and create regurgitation (p. 936).
+
+464
+00:59:45,497 --> 00:59:51,722
+Acute insufficiency may also develop with bacterial endocarditis or aortic dissection.
+
+465
+00:59:51,722 --> 01:00:07,972
+Last, aortic and mitral valve insufficiency have both been linked to the appetite suppressants fenfluramine and dexfenfluramine and to the ergot-derived dopamine agonists cabergoline and pergolide (Schade, 2007; Zanettini, 2007).
+
+466
+01:00:07,972 --> 01:00:13,697
+With chronic insufficiency, left ventricular hypertrophy and dilation develop.
+
+467
+01:00:13,697 --> 01:00:21,947
+Slow-onset fatigue, dyspnea, and pulmonary edema follows ventricular dilation with subsequent rapid deterioration .
+
+468
+01:00:21,947 --> 01:00:26,647
+Aortic insufficiency is generally well tolerated during pregnancy.
+
+469
+01:00:26,647 --> 01:00:33,610
+Like mitral valve insufficiency, reduced vascular resistance is thought to improve hemodynamic function.
+
+470
+01:00:33,610 --> 01:00:39,522
+If symptoms of heart failure develop, diuretics are given, and bed rest is encouraged.
+
+471
+01:00:39,522 --> 01:00:42,322
+# Pulmonic Stenosis.
+
+472
+01:00:42,322 --> 01:00:48,722
+This lesion is usually congenital and may be associated with Fallot tetralogy or Noonan syndrome .
+
+473
+01:00:48,722 --> 01:00:57,497
+The greater hemodynamic burden of pregnancy can precipitate right-sided heart failure or atrial arrhythmias in women with severe stenosis.
+
+474
+01:00:57,497 --> 01:01:09,985
+Surgical correction ideally is done before pregnancy, but if symptoms progress, a balloon valvuloplasty may be necessary antepartum (Galal, 2015; Siu, 2001a).
+
+475
+01:01:09,985 --> 01:01:22,510
+In studying pregnancy outcomes, Drenthen and associates (2006) found infrequent cardiac complications in 81 pregnancies in 51 Dutch women with pulmonic stenosis.
+
+476
+01:01:22,510 --> 01:01:29,722
+The NYHA classification worsened in two women, and nine experienced palpitations or arrhythmias.
+
+477
+01:01:29,722 --> 01:01:35,610
+No changes in pulmonary valvular function or other adverse cardiac events were reported.
+
+478
+01:01:35,610 --> 01:01:47,072
+However, noncardiac complication rates were significant—17 percent had preterm delivery, 15 percent had hypertension, and 4 percent developed thromboembolism.
+
+479
+01:01:47,072 --> 01:01:49,410
+Congenital Heart Disease.
+
+480
+01:01:49,410 --> 01:01:59,097
+The incidence of congenital heart disease in the United States approximates 1.9 percent of live births, and half of these are moderate to severe forms .
+
+481
+01:01:59,097 --> 01:02:11,097
+With modern surgeries, approximately 90 percent of those born with congenital heart disease survive to childbearing age, and it is now the most common type of heart disease encountered during pregnancy .
+
+482
+01:02:11,097 --> 01:02:27,360
+Specifically, analysis from the United States Nationwide Inpatient Sample database showed a linear rise in the prevalence of congenital heart disease between 2000 and 2010—from 6.4 to 9.0 per 10,000 women admitted for delivery .
+
+483
+01:02:27,360 --> 01:02:36,385
+The odds of obstetrical and perinatal complications are increased two- to threefold in women with congenital heart disease compared with unaffected women .
+
+484
+01:02:36,385 --> 01:02:49,297
+Also, the maternal mortality rate was higher for women with congenital heart disease at 178 per 100,000 deliveries compared with 7 per 100,000 deliveries in unaffected gravidas .
+
+485
+01:02:49,297 --> 01:02:52,372
+# Atrial Septal Defects.
+
+486
+01:02:52,372 --> 01:03:02,972
+A patent foramen ovale (PFO) is a persisting incompetence of the fossa ovale, and this flap has the potential to open under increased hydrostatic pressure.
+
+487
+01:03:02,972 --> 01:03:07,272
+Of all adults, approximately one fourth have this defect .
+
+488
+01:03:07,272 --> 01:03:10,522
+The small risk of PFO-related stroke,
+
+489
+01:03:10,684 --> 01:03:19,684
+discussed subsequently, is likely higher in pregnant than in nonpregnant women and mainly attributed to normal pregnancy hypercoagulability .
+
+490
+01:03:19,634 --> 01:03:23,109
+Preventive PFO repair is not recommended .
+
+491
+01:03:23,109 --> 01:03:27,959
+An atrial septal defect (ASD) is a true hole in the septum.
+
+492
+01:03:27,959 --> 01:03:36,684
+The secundumtype defect accounts for 70 percent, and associated mitral valve myxomatous abnormalities with prolapse are common.
+
+493
+01:03:36,684 --> 01:03:42,196
+Most ASDs are typically asymptomatic until the third or fourth decade of life .
+
+494
+01:03:42,196 --> 01:03:46,871
+If an ASD is discovered in adulthood, most recommend repair.
+
+495
+01:03:46,871 --> 01:03:54,934
+Pregnancy with an unrepaired ASD is well tolerated unless pulmonary hypertension has developed, but this is uncommon .
+
+496
+01:03:54,934 --> 01:04:00,796
+Medical treatment during pregnancy is indicated for congestive heart failure or an arrhythmia.
+
+497
+01:04:00,796 --> 01:04:05,046
+The risk of endocarditis with an ASD is negligible.
+
+498
+01:04:05,046 --> 01:04:10,746
+With the potential to shunt blood from right to left, a paradoxical embolism is possible.
+
+499
+01:04:10,746 --> 01:04:17,934
+A venous thrombus enters the systemic arterial circulation through the ASD, causing an embolic stroke .
+
+500
+01:04:17,934 --> 01:04:22,871
+For this reason, filters should be placed on intravenous access sites.
+
+501
+01:04:22,871 --> 01:04:34,896
+In a gravida with an ASD but without current venous thromboembolism (VTE), the decision to add anticoagulant prophylaxis to counter this potential embolism risk is problematic.
+
+502
+01:04:34,896 --> 01:04:45,821
+However, for a pregnant woman with an ASD who is immobile or has another risk factor for thromboembolism, compression stockings and prophylactic heparin are reasonable.
+
+503
+01:04:45,821 --> 01:04:49,059
+# Ventricular Septal Defects.
+
+504
+01:04:49,059 --> 01:04:54,534
+These lesions close spontaneously during childhood in 90 percent of cases.
+
+505
+01:04:54,534 --> 01:05:01,359
+Of the four main ventricular septal defect (VSD) types, most defects are paramembranous.
+
+506
+01:05:01,359 --> 01:05:06,884
+This location is well below the outlet valves yet above the ventricular musculature.
+
+507
+01:05:06,884 --> 01:05:13,609
+The degree of associated left-to-right shunt and physiological derangements are related to lesion size.
+
+508
+01:05:13,609 --> 01:05:22,759
+In general, if the defect measures <1.25 cm2, pulmonary hypertension and heart failure do not develop.
+
+509
+01:05:22,759 --> 01:05:29,334
+If the effective defect size exceeds that of the aortic valve orifice, symptoms rapidly develop.
+
+510
+01:05:29,334 --> 01:05:36,034
+For these reasons, most children undergo surgical repair before pulmonary hypertension develops.
+
+511
+01:05:36,034 --> 01:05:45,771
+Adults with unrepaired large defects develop left ventricular failure and pulmonary hypertension and have a high incidence of bacterial endocarditis .
+
+512
+01:05:45,771 --> 01:05:50,846
+Pregnancy is well tolerated with small- to moderate-sized VSD shunts.
+
+513
+01:05:50,846 --> 01:06:00,796
+However, if pulmonary arterial pressures reach systemic levels, flow is reversed or bidirectional—Eisenmenger syndrome (p. 929).
+
+514
+01:06:00,796 --> 01:06:10,209
+If this cyanotic condition develops, the maternal and fetal mortality rates are significantly higher, and thus pregnancy is generally not advisable .
+
+515
+01:06:10,209 --> 01:06:20,059
+Bacterial endocarditis is more common with unrepaired defects, and antimicrobial prophylaxis is often required (p. 934).
+
+516
+01:06:20,059 --> 01:06:27,421
+As shown in Table 52-4, 16 percent of offspring born to these women also have a VSD.
+
+517
+01:06:27,421 --> 01:06:31,121
+# Atrioventricular Septal Defects.
+
+518
+01:06:31,121 --> 01:06:38,296
+An atrioventricular (AV) septal defect is characterized by a common, ovoid AV junction.
+
+519
+01:06:38,296 --> 01:06:47,359
+These account for approximately 3 percent of all congenital cardiac malformations and are distinct from isolated ASDs or VSDs.
+
+520
+01:06:47,359 --> 01:06:53,759
+This defect is associated with aneuploidy, Eisenmenger syndrome, and other malformations .
+
+521
+01:06:53,759 --> 01:06:59,496
+Compared with simple septal defects, complications are more frequent during pregnancy.
+
+522
+01:06:59,496 --> 01:07:14,059
+In a review of 48 pregnancies in 29 affected women, complications included persistent deterioration of NYHA class in 23 percent, significant arrhythmias in 19 percent, and heart failure in 2 percent .
+
+523
+01:07:14,059 --> 01:07:18,959
+Congenital heart disease was identified in 15 percent of the offspring.
+
+524
+01:07:18,959 --> 01:07:23,271
+# Persistent (Patent) Ductus Arteriosus.
+
+525
+01:07:23,271 --> 01:07:30,921
+The ductus connects the proximal left pulmonary artery to the descending aorta just distal to the left subclavian artery.
+
+526
+01:07:30,921 --> 01:07:36,496
+Functional closure of the ductus from vasoconstriction occurs shortly after term birth.
+
+527
+01:07:36,496 --> 01:07:41,784
+The physiological consequences with its persistence are related to its size.
+
+528
+01:07:41,784 --> 01:07:45,571
+Most significant lesions are repaired in childhood.
+
+529
+01:07:45,571 --> 01:07:58,896
+However, in women with an unrepaired ductus, pulmonary hypertension, heart failure, or cyanosis will develop if systemic blood pressure falls and blood flow reverses from the pulmonary artery into the aorta .
+
+530
+01:07:58,896 --> 01:08:00,721
+A sudden blood
+
+531
+01:08:00,892 --> 01:08:07,954
+pressure decline at delivery—such as with regional analgesia or hemorrhage—may lead to fatal collapse.
+
+532
+01:08:07,904 --> 01:08:13,142
+Therefore, hypotension is avoided but treated vigorously if it develops.
+
+533
+01:08:13,142 --> 01:08:21,092
+Prophylaxis for bacterial endocarditis is indicated at delivery for unrepaired defects (p. 934).
+
+534
+01:08:21,092 --> 01:08:27,554
+As shown in Table 52-4, the incidence of inheritance approximates 4 percent.
+
+535
+01:08:27,554 --> 01:08:30,429
+# Cyanotic Heart Disease.
+
+536
+01:08:30,429 --> 01:08:38,167
+Cyanosis develops when congenital heart lesions produce right-to-left shunting of blood past the pulmonary capillary bed.
+
+537
+01:08:38,167 --> 01:08:44,679
+The classic and most commonly encountered lesion in adults and during pregnancy is the Fallot tetralogy .
+
+538
+01:08:44,679 --> 01:08:56,267
+This is characterized by a large VSD, pulmonary stenosis, right ventricular hypertrophy, and an overriding aorta that receives blood from both the right and left ventricles.
+
+539
+01:08:56,267 --> 01:09:01,504
+The magnitude of the shunt varies inversely with systemic vascular resistance.
+
+540
+01:09:01,504 --> 01:09:09,029
+Hence, during pregnancy, when peripheral resistance decreases, shunt flow increases and cyanosis worsens.
+
+541
+01:09:09,029 --> 01:09:13,992
+Generally, women with cyanotic heart disease do poorly during pregnancy.
+
+542
+01:09:13,992 --> 01:09:19,879
+Those with concomitant Eisenmenger syndrome are at greatest risk (p. 929).
+
+543
+01:09:19,879 --> 01:09:25,592
+With uncorrected Fallot tetralogy, maternal mortality rates approach 10 percent.
+
+544
+01:09:25,592 --> 01:09:35,779
+For fetal outcome, there is a relationship between chronic hypoxemia, polycythemia, and complications such as miscarriage and perinatal morbidity.
+
+545
+01:09:35,779 --> 01:09:46,679
+When hypoxemia is intense enough to stimulate a rise in hemoglobin concentration >20 g/dL, pregnancy wastage is virtually 100 percent .
+
+546
+01:09:46,679 --> 01:09:56,204
+Although not all cyanotic lesions are repairable, with satisfactory surgical correction before pregnancy, maternal and fetal outcomes are much improved.
+
+547
+01:09:56,204 --> 01:10:07,054
+In a review of 197 pregnancies in 99 women with surgically corrected Fallot tetralogy, pregnancy was usually well tolerated, and no mothers died .
+
+548
+01:10:07,054 --> 01:10:20,092
+Still, almost 9 percent of pregnancies were complicated by adverse cardiac events including new-onset or worsening arrhythmias and heart failure (Balci, 2011; Kamiya, 2012).
+
+549
+01:10:20,092 --> 01:10:28,679
+Some women with Ebstein anomaly, characterized by a malpositioned and malformed tricuspid valve, may reach reproductive age.
+
+550
+01:10:28,679 --> 01:10:33,317
+The right ventricle is small and the right atrium is severely dilated.
+
+551
+01:10:33,317 --> 01:10:36,179
+Right-sided heart failure is common.
+
+552
+01:10:36,179 --> 01:10:43,929
+These women are very preload dependent, and pregnancy-induced hypervolemia can worsen the tricuspid regurgitation .
+
+553
+01:10:43,929 --> 01:10:50,542
+Arrhythmias also are common, especially Wolff-ParkinsonWhite syndrome (p. 936).
+
+554
+01:10:50,542 --> 01:10:54,379
+Vaginal delivery seems preferable in most cases.
+
+555
+01:10:54,379 --> 01:11:02,592
+In the absence of cyanosis, heart failure, or significant arrhythmias, affected women usually tolerate pregnancy well .
+
+556
+01:11:02,592 --> 01:11:06,029
+# Pregnancy after Surgical Repair.
+
+557
+01:11:06,029 --> 01:11:14,229
+Transposition of the Great Vessels Pregnancy following arterial switch operation for transposition is associated with good outcomes.
+
+558
+01:11:14,229 --> 01:11:19,817
+A major concern is fatal arrhythmias that usually are precipitated by exercise .
+
+559
+01:11:19,817 --> 01:11:28,504
+Earlier studies cited a relatively high rate of heart failure and arrhythmias, but more recent studies have favorable pregnancy outcomes .
+
+560
+01:11:28,504 --> 01:11:33,504
+In one study of 20 pregnancies, there were three cases of heart failure .
+
+561
+01:11:33,504 --> 01:11:40,879
+Stoll and coworkers (2018) reported no adverse cardiac events in 25 pregnancies.
+
+562
+01:11:40,879 --> 01:11:54,504
+Of other defects, repaired truncus arteriosus and double-outlet right ventricle with subsequent successful, although eventful, pregnancies have been described (Drenthen, 2008; Hoendermis, 2008).
+
+563
+01:11:54,504 --> 01:12:00,317
+Ironically, preconceptional counseling did little to dissuade these women from childbearing .
+
+564
+01:12:00,317 --> 01:12:08,479
+Single Functional Ventricle With hypoplastic left heart syndrome, most affected women are now expected to survive into adulthood .
+
+565
+01:12:08,479 --> 01:12:17,329
+Frequently, these women become pregnant, and those who have undergone a Fontan repair carry a particularly higher risk for complications.
+
+566
+01:12:17,329 --> 01:12:27,079
+In brief, this procedure involves diverting blood via a surgical anastomosis from the vena cava to the pulmonary artery without passing through the right ventricle.
+
+567
+01:12:27,079 --> 01:12:30,904
+Blood flows passively to the pulmonary vasculature.
+
+568
+01:12:30,904 --> 01:12:37,742
+Preload drives circulation in the Fontan circuit, and thus patients are sensitive to volume changes .
+
+569
+01:12:37,742 --> 01:12:49,942
+From their review of 255 pregnancies in 133 women, Garcia-Ropero and colleagues (2018) reported 115 miscarriages (45
+
+570
+01:12:50,092 --> 01:12:54,529
+percent) and 19 elective terminations (7 percent).
+
+571
+01:12:54,479 --> 01:13:01,292
+Cardiac complications included arrhythmias in 8 percent and heart failure in 4 percent of pregnancies.
+
+572
+01:13:01,292 --> 01:13:10,492
+Among 133 live births, there were 68 preterm births (59 percent) and 7 perinatal deaths (6 percent).
+
+573
+01:13:10,492 --> 01:13:14,379
+Postpartum venous thromboembolism also is common .
+
+574
+01:13:14,379 --> 01:13:24,379
+Similar complications attend a maternal systemic right ventricle, that is, one in which the right ventricle rather than the left pumps blood to the systemic circulation .
+
+575
+01:13:24,379 --> 01:13:27,067
+# Eisenmenger Syndrome.
+
+576
+01:13:27,067 --> 01:13:32,842
+This describes secondary pulmonary hypertension that arises from any cardiac lesion.
+
+577
+01:13:32,842 --> 01:13:39,879
+The most common underlying defects are ASD, VSD, and persistent ductus arteriosus .
+
+578
+01:13:39,879 --> 01:13:48,079
+The syndrome develops when pulmonary vascular resistance exceeds systemic resistance and leads to concomitant right-to-left shunting.
+
+579
+01:13:48,079 --> 01:13:55,817
+Patients are asymptomatic for years, but eventually pulmonary hypertension becomes severe enough to cause this shunting.
+
+580
+01:13:55,817 --> 01:13:58,542
+Figure 52-5.
+
+581
+01:13:58,542 --> 01:14:03,529
+Eisenmenger syndrome due to a ventricular septal defect (VSD).
+
+582
+01:14:03,529 --> 01:14:11,917
+A. Substantial left-toright shunting through the VSD leads to morphological changes in the smaller pulmonary arteries and arterioles.
+
+583
+01:14:11,917 --> 01:14:20,804
+Specifically, medial hypertrophy, intimal cellular proliferations, and fibrosis lead to narrowing or closure of the vessel lumen.
+
+584
+01:14:20,804 --> 01:14:28,267
+These vascular changes create pulmonary hypertension and a resultant reversal of the intracardiac shunt (B).
+
+585
+01:14:28,267 --> 01:14:37,179
+With sustained pulmonary hypertension, extensive atherosclerosis and calcification often develop in the large pulmonary arteries.
+
+586
+01:14:37,179 --> 01:14:47,442
+Although a VSD is shown here, Eisenmenger syndrome may also develop in association with a large atrial septal defect or persistent ductus arteriosus.
+
+587
+01:14:47,442 --> 01:14:56,917
+Pregnant women with Eisenmenger syndrome tolerate hypotension poorly, and death usually is caused by right ventricular failure with cardiogenic shock.
+
+588
+01:14:56,917 --> 01:15:05,392
+In a review of 73 pregnancies, Weiss and associates (1998) cited a 36-percent maternal death rate.
+
+589
+01:15:05,392 --> 01:15:12,517
+Three of 26 deaths were antepartum, and the remainder of women died intrapartum or within a month of delivery.
+
+590
+01:15:12,517 --> 01:15:20,592
+In another study of 13 gravidas, one mother died 17 days after delivery, and there were five perinatal deaths .
+
+591
+01:15:20,592 --> 01:15:25,654
+Last, in a series of 11 pregnancies in China, four mothers died .
+
+592
+01:15:25,654 --> 01:15:42,942
+Given such poor outcomes for both mother and fetus, Eisenmenger syndrome is considered to be an absolute contraindication to pregnancy (American College of Obstetricians and Gynecologists, 2019; Foeller, 2018; Meng, 2017).
+
+593
+01:15:42,942 --> 01:15:45,304
+Pulmonary Hypertension.
+
+594
+01:15:45,304 --> 01:15:51,304
+Normal resting mean pulmonary artery pressure is 12 to 16 mm Hg.
+
+595
+01:15:51,304 --> 01:16:00,567
+Most define pulmonary hypertension in nonpregnant individuals as a resting mean pulmonary pressure >25 mm Hg .
+
+596
+01:16:00,567 --> 01:16:15,642
+Pulmonary vascular resistance in late normal pregnancy approximates 80 dyne/sec/cm−5, which is 34-percent less than the nonpregnant value of 120 dyne/sec/cm−5 .
+
+597
+01:16:15,642 --> 01:16:26,354
+Physiologically, pregnancy is associated increased cardiac output, and in healthy gravidas, pulmonary vascular resistance decreases to help accommodate this .
+
+598
+01:16:26,354 --> 01:16:34,742
+With pulmonary hypertension, the stiff pulmonary vasculature does not allow the normal fall in pulmonary vascular resistance.
+
+599
+01:16:34,742 --> 01:16:43,854
+Thus, the normal increased cardiac output actually leads to further pulmonary artery pressure elevation and then eventually to right heart failure.
+
+600
+01:16:43,854 --> 01:16:56,804
+With failure, the interventricular septum bulges leftward to impair left ventricular diastolic filling, which compromises cardiac output (Gei, 2014; Pieper, 2011).
+
+601
+01:16:56,804 --> 01:17:08,167
+The current clinical classification system, shown in Table 52-8, contains five groups of disorders that cause pulmonary hypertension (Galiè, 2016).
+
+602
+01:17:08,167 --> 01:17:15,904
+Important prognostic and therapeutic distinctions separate group 1 pulmonary arterial hypertension and the other groups.
+
+603
+01:17:15,904 --> 01:17:23,654
+Group 1, which is more common in nonpregnant women, indicates that a specific disease affects pulmonary arterioles.
+
+604
+01:17:23,654 --> 01:17:33,367
+It includes idiopathic or primary pulmonary arterial hypertension as well as those cases secondary to a known cause such as connective tissue disease.
+
+605
+01:17:33,367 --> 01:17:43,004
+For example, approximately a third of women with scleroderma and 10 percent with systemic lupus erythematosus have pulmonary arterial hypertension .
+
+606
+01:17:43,004 --> 01:17:45,404
+Other causes in young women
+
+607
+01:17:45,556 --> 01:17:53,131
+are human immunodeficiency virus (HIV) infection, sickle-cell disease, and thyrotoxicosis.
+
+608
+01:17:53,081 --> 01:17:55,543
+Table 52-8.
+
+609
+01:17:55,543 --> 01:18:07,843
+Comprehensive Clinical Classification of Pulmonary Hypertension of the European Society of Cardiology and the European Respiratory Society In pregnant women, group 2 disorders are the most common.
+
+610
+01:18:07,843 --> 01:18:16,193
+These are secondary to pulmonary venous hypertension caused by left-sided atrial, ventricular, or valvular disorders.
+
+611
+01:18:16,193 --> 01:18:21,993
+A typical example is mitral stenosis discussed earlier (p. 924).
+
+612
+01:18:21,993 --> 01:18:28,218
+In contrast, groups 3 through 5 are seen infrequently in young otherwise healthy women.
+
+613
+01:18:28,218 --> 01:18:31,518
+# Diagnosis and Prognosis.
+
+614
+01:18:31,518 --> 01:18:36,493
+Symptoms may be vague, and dyspnea with exertion is the most frequent.
+
+615
+01:18:36,493 --> 01:18:42,418
+With group 2 disorders, orthopnea and nocturnal dyspnea are also usually present.
+
+616
+01:18:42,418 --> 01:18:49,243
+Angina and syncope occur when right ventricular output is fixed, and they suggest advanced disease.
+
+617
+01:18:49,243 --> 01:18:56,268
+Chest radiography often shows enlarged pulmonary hilar arteries and attenuated peripheral markings.
+
+618
+01:18:56,268 --> 01:19:00,318
+It may also disclose parenchymal causes of hypertension.
+
+619
+01:19:00,318 --> 01:19:10,131
+Noninvasive echocardiography can provide an estimate of pulmonary artery pressures, although cardiac catheterization remains the standard for measurement.
+
+620
+01:19:10,131 --> 01:19:27,006
+In studies of pregnant women who underwent both echocardiography and cardiac catheterization, pulmonary artery pressures were significantly overestimated by echocardiography in approximately a third of cases (Herrera, 2020; Wylie, 2007).
+
+621
+01:19:27,006 --> 01:19:34,331
+Regardless of the etiology, the final common pathway of pulmonary hypertension is right heart failure and death.
+
+622
+01:19:34,331 --> 01:19:39,106
+The average survival length after diagnosis is <4 years .
+
+623
+01:19:39,106 --> 01:19:45,631
+That said, longevity depends on the severity and cause of pulmonary hypertension at discovery.
+
+624
+01:19:45,631 --> 01:19:52,593
+As discussed later, some disorders respond to medical interventions, which may improve quality of life.
+
+625
+01:19:52,593 --> 01:19:56,856
+Preconceptional and contraceptive counseling are imperative .
+
+626
+01:19:56,856 --> 01:19:59,106
+# Pregnancy.
+
+627
+01:19:59,106 --> 01:20:07,968
+The maternal mortality rate is appreciable in affected women, and this is especially so with idiopathic pulmonary arterial hypertension .
+
+628
+01:20:07,968 --> 01:20:14,818
+In the past, the ability to accurately identify causes and assess disease severity were often poor.
+
+629
+01:20:14,818 --> 01:20:27,318
+Thus, although most severe cases of idiopathic pulmonary arterial hypertension had the worst prognosis, it was erroneously assumed that all types of pulmonary hypertension were equally dangerous.
+
+630
+01:20:27,318 --> 01:20:34,281
+With widespread use of echocardiography, less-severe lesions with a better prognosis are now discernible.
+
+631
+01:20:34,281 --> 01:20:39,031
+The maternal mortality rate for pulmonary hypertension has improved.
+
+632
+01:20:39,031 --> 01:20:50,356
+In one study, it was 25 percent during the decade ending in 2007 compared with 38 percent for the decade ending in 1996 (Bédard, 2009).
+
+633
+01:20:50,356 --> 01:20:55,843
+Importantly, almost 80 percent of the deaths were during the first month postpartum.
+
+634
+01:20:55,843 --> 01:21:04,493
+Meng and associates (2017) reported mortality rates of 23 percent with group 1 and 5 percent with the other groups.
+
+635
+01:21:04,493 --> 01:21:20,743
+Mortality risk correlates positively with advancing pulmonary hypertension severity, which is characterized by Eisenmenger syndrome, severe hypertension, and higher NYHA class (Keepanasseril, 2019; Sun, 2018).
+
+636
+01:21:20,743 --> 01:21:29,656
+In an audit of 47 pregnancies in women with pulmonary hypertension at Parkland Hospital, the maternal mortality rate was 9 percent .
+
+637
+01:21:29,656 --> 01:21:33,681
+Of four deaths, three women had severe hypertension.
+
+638
+01:21:33,681 --> 01:21:41,331
+A striking example of right ventricular hypertrophy in one of these women who died is shown in Figure 52-6.
+
+639
+01:21:41,331 --> 01:21:44,006
+Figure 52-6.
+
+640
+01:21:44,006 --> 01:21:52,506
+Cross-sectional display of right cardiac dysmorphology in a pregnant woman who died from undiagnosed primary pulmonary hypertension.
+
+641
+01:21:52,506 --> 01:21:58,306
+There is prominent dilation of the right ventricle with right ventricular hypertrophy (arrow).
+
+642
+01:21:58,306 --> 01:22:01,993
+Pregnancy is contraindicated with severe disease.
+
+643
+01:22:01,993 --> 01:22:09,156
+This is especially true in women with pulmonary arterial changes, which develop in most group 1 cases.
+
+644
+01:22:09,156 --> 01:22:15,456
+With milder disease from other causes—group 2 being the most common—the prognosis is better.
+
+645
+01:22:15,456 --> 01:22:29,943
+With the more frequent use of echocardiography and pulmonary artery catheterization in young women with heart disease, we have identified women with mild to moderate pulmonary hypertension who tolerate pregnancy, labor, and delivery well .
+
+646
+01:22:29,943 --> 01:22:32,168
+# Management.
+
+647
+01:22:32,168 --> 01:22:35,731
+Treatment of symptomatic pregnant women includes
+
+648
+01:22:35,884 --> 01:22:40,509
+limiting activity and avoiding supine position later in gestation.
+
+649
+01:22:40,459 --> 01:22:47,634
+Diuretics, supplemental oxygen, and pulmonary vasodilator drugs are standard therapy for symptoms.
+
+650
+01:22:47,634 --> 01:22:50,696
+Some recommend anticoagulation.
+
+651
+01:22:50,696 --> 01:23:00,896
+Several reports describe the successful use of intravenous pulmonary artery vasodilators (Foeller, 2018; Franco, 2019).
+
+652
+01:23:00,896 --> 01:23:12,221
+Prostacyclin analogues that can be administered parenterally include epoprostenol (Flolan) and treprostinil (Remodulin), whereas iloprost (Ventavis) is inhaled.
+
+653
+01:23:12,221 --> 01:23:14,821
+Each has been used in pregnancy.
+
+654
+01:23:14,821 --> 01:23:21,871
+Inhaled nitric oxide is an option that has been employed in cases of acute cardiopulmonary decompensation.
+
+655
+01:23:21,871 --> 01:23:38,259
+As reviewed by Običan and Cleary (2014), phosphodiesterase-5 inhibitors, such as sildenafil (Viagra), cause vasodilation of both the pulmonary and systemic vascular beds and have an inotropic effect on the hypertrophic right ventricle.
+
+656
+01:23:38,259 --> 01:23:42,196
+This also has been used to advantage during pregnancy .
+
+657
+01:23:42,196 --> 01:23:53,409
+Bosentan—an endothelinreceptor antagonist, and riociguat—a soluble guanylate cyclase stimulator, are teratogenic in mice and contraindicated in pregnancy .
+
+658
+01:23:53,409 --> 01:24:00,409
+During labor and delivery, supplemental oxygen is given to maintain >90 percent saturation.
+
+659
+01:24:00,409 --> 01:24:06,284
+These women are at greatest risk when venous return and right ventricular filling are diminished.
+
+660
+01:24:06,284 --> 01:24:20,209
+To avoid hypotension, assiduous attention is given to epidural analgesia induction, fluid therapy, and blood loss prevention and treatment at delivery (Martin, 2019; Meng, 2017).
+
+661
+01:24:20,209 --> 01:24:22,484
+Cardiomyopathies.
+
+662
+01:24:22,484 --> 01:24:31,984
+The American Heart Association defines these as a heterogeneous group of myocardial diseases associated with mechanical and/or electrical dysfunction .
+
+663
+01:24:31,984 --> 01:24:37,509
+Affected women usually have inappropriate ventricular hypertrophy or dilation.
+
+664
+01:24:37,509 --> 01:24:42,984
+Cardiomyopathies stem from varied causes, and the most frequent is genetic.
+
+665
+01:24:42,984 --> 01:24:50,246
+Of the two major divisions, primary cardiomyopathies are solely or predominantly confined to the heart muscle.
+
+666
+01:24:50,246 --> 01:24:58,121
+Examples are hypertrophic cardiomyopathy, dilated cardiomyopathies, and peripartum cardiomyopathy.
+
+667
+01:24:58,121 --> 01:25:06,134
+Secondary cardiomyopathies result from generalized systemic disorders that produce pathological myocardial involvement.
+
+668
+01:25:06,134 --> 01:25:14,484
+Diabetes, systemic lupus erythematosus, chronic hypertension, and thyroid disorders are representative conditions.
+
+669
+01:25:14,484 --> 01:25:17,934
+# Hypertrophic Cardiomyopathy.
+
+670
+01:25:17,934 --> 01:25:22,384
+This disorder affects approximately 1 in 500 adults .
+
+671
+01:25:22,384 --> 01:25:36,346
+Characterized by cardiac hypertrophy, myocyte disarray, and interstitial fibrosis, the condition in up to 60 percent of affected patients is caused by mutations in genes that encode cardiac sarcomere proteins.
+
+672
+01:25:36,346 --> 01:25:46,334
+In such cases, inheritance is autosomal dominant, and genetic screening is complex (Cirino, 2019; Elliott, 2014).
+
+673
+01:25:46,334 --> 01:25:55,621
+Other genetic and nongenetic etiologies underlie 5 to 10 percent of cases, and the cause is unknown in approximately 25 percent.
+
+674
+01:25:55,621 --> 01:26:05,871
+The resulting myocardial muscle abnormality is typified by left ventricular myocardial hypertrophy with a pressure gradient against left ventricular outflow.
+
+675
+01:26:05,871 --> 01:26:16,096
+Diagnosis is established by echocardiographic identification of a hypertrophied and nondilated left ventricle in the absence of other cardiovascular conditions.
+
+676
+01:26:16,096 --> 01:26:24,984
+Most affected women are asymptomatic, but dyspnea, anginal or atypical chest pain, syncope, and arrhythmias may develop.
+
+677
+01:26:24,984 --> 01:26:30,734
+Complex arrhythmias may progress to sudden death, which is the most frequent cause of death.
+
+678
+01:26:30,734 --> 01:26:37,121
+Asymptomatic patients with runs of ventricular tachycardia are especially prone to sudden death.
+
+679
+01:26:37,121 --> 01:26:40,371
+Symptoms usually worsen with exercise.
+
+680
+01:26:40,371 --> 01:26:48,321
+Studies that include more than 700 pregnancies in 500 women indicate an overall relatively good prognosis .
+
+681
+01:26:48,321 --> 01:27:00,046
+In a systematic review with 237 women with hypertrophic cardiomyopathy who had a combined 408 pregnancies, the maternal mortality rate was 0.5 percent .
+
+682
+01:27:00,046 --> 01:27:07,709
+Worsening of symptoms or other complications developed in 29 percent, and 26 percent delivered preterm.
+
+683
+01:27:07,709 --> 01:27:13,171
+Management is similar to that for aortic stenosis (p. 926).
+
+684
+01:27:13,171 --> 01:27:18,909
+Controlling heart rate and avoiding preload and afterload reduction are therapy basics.
+
+685
+01:27:18,909 --> 01:27:22,846
+Strenuous exercise is prohibited during pregnancy.
+
+686
+01:27:22,846 --> 01:27:29,096
+Abrupt positional changes are avoided to prevent reflex vasodilation and decreased preload.
+
+687
+01:27:29,096 --> 01:27:30,909
+If symptoms
+
+688
+01:27:31,060 --> 01:27:37,397
+develop, especially angina, β-adrenergic or calcium-channel blocking drugs are given.
+
+689
+01:27:37,347 --> 01:27:44,535
+Drugs that evoke diuresis or reduce vascular resistance are generally not used because they decrease preload.
+
+690
+01:27:44,535 --> 01:27:48,585
+But if these are necessary, women should be closely monitored.
+
+691
+01:27:48,585 --> 01:27:52,922
+The delivery route is determined by obstetrical indications.
+
+692
+01:27:52,922 --> 01:27:59,010
+Choice of anesthesia is controversial, and some consider general anesthesia the safest.
+
+693
+01:27:59,010 --> 01:28:07,860
+Regional analgesia can be used with carefully titrated, adequate intravascular volume to maintain left ventricular filling pressure.
+
+694
+01:28:07,860 --> 01:28:11,922
+Neonates rarely demonstrate inherited lesions at birth.
+
+695
+01:28:11,922 --> 01:28:15,160
+# Dilated Cardiomyopathy.
+
+696
+01:28:15,160 --> 01:28:28,160
+This is characterized by left and/or right ventricular enlargement and reduced systolic function in the absence of coronary, valvular, congenital, or systemic disease known to cause myocardial dysfunction.
+
+697
+01:28:28,160 --> 01:28:38,010
+Although there are many known inherited and acquired causes of dilated cardiomyopathy, the etiology remains undefined in approximately half of cases .
+
+698
+01:28:38,010 --> 01:28:43,747
+Some result from viral infections, including myocarditis and HIV.
+
+699
+01:28:43,747 --> 01:28:54,860
+Other causes, which are potentially reversible, include alcoholism, cocaine abuse, coronavirus disease 2019 (COVID-19), and thyroid disease.
+
+700
+01:28:54,860 --> 01:29:09,472
+In affected gravidas, the rate of major adverse cardiovascular events in pregnancy ranges from 25 to 40 percent (American College of Obstetricians and Gynecologists, 2019; Grewal, 2009).
+
+701
+01:29:09,472 --> 01:29:21,047
+Heart failure and arrhythmias are the most common, and women with preexisting moderate or severe left ventricular dysfunction or NYHA functional class III or IV are at greatest risk.
+
+702
+01:29:21,047 --> 01:29:28,660
+Dilated cardiomyopathy is managed with therapy for standard heart failure and for the specific underlying etiology .
+
+703
+01:29:28,660 --> 01:29:32,047
+# Peripartum Cardiomyopathy.
+
+704
+01:29:32,047 --> 01:29:40,297
+This disorder is similar to other forms of nonischemic dilated cardiomyopathy except for its unique relationship with pregnancy.
+
+705
+01:29:40,297 --> 01:29:52,997
+Peripartum cardiomyopathy shares a genetic predisposition with both familial and sporadic idiopathic dilated cardiomyopathy (Cunningham, 2019; Ware, 2016).
+
+706
+01:29:52,997 --> 01:29:59,260
+It is a diagnosis of exclusion following a concurrent evaluation for peripartum heart failure.
+
+707
+01:29:59,260 --> 01:30:09,210
+Although the term peripartum cardiomyopathy has been used widely, until recently, little evidence supported a unique pregnancy-induced cardiomyopathy.
+
+708
+01:30:09,210 --> 01:30:26,610
+Pearson (2000) reported findings of a workshop of the National Heart, Lung, and Blood Institute that established the following diagnostic criteria: Development of cardiac failure in the last month of pregnancy or within 5 months after delivery , Figure 52-7.
+
+709
+01:30:26,610 --> 01:30:30,947
+Peripartum cardiomyopathy with mild pulmonary edema.
+
+710
+01:30:30,947 --> 01:30:39,960
+Chest radiograph of a woman with an abnormally enlarged heart and mild perihilar opacification consistent with dilated cardiomyopathy.
+
+711
+01:30:39,960 --> 01:30:54,347
+Absence of an identifiable cause for the cardiac failure, • Absence of recognizable heart disease prior to the last month of pregnancy, and • Left ventricular systolic dysfunction demonstrated by classic echocardiographic criteria.
+
+712
+01:30:54,347 --> 01:31:00,797
+These include depressed ejection fraction or fractional shortening along with a dilated left ventricle.
+
+713
+01:31:00,797 --> 01:31:09,822
+The incidence of peripartum cardiomyopathy varies considerably and depends on the population studied and the diligence of the search for a cause.
+
+714
+01:31:09,822 --> 01:31:19,572
+The average frequency in the United States is 1 per 1000 to 4000 births (Cruz, 2018; Cunningham, 2019).
+
+715
+01:31:19,572 --> 01:31:39,060
+The etiology of peripartum cardiomyopathy remains unknown, and proposed causes include viral myocarditis, abnormal immune response to pregnancy, aberrant response to the greater hemodynamic burden of pregnancy, hormonal interactions, malnutrition, inflammation, and apoptosis.
+
+716
+01:31:39,060 --> 01:31:47,935
+The current theory regarding pathophysiology is that of a “two-hit hypothesis” (Cruz, 2018; Ricke-Hoch, 2020).
+
+717
+01:31:47,935 --> 01:32:00,035
+In this regard, peripartum cardiomyopathy affects genetically susceptible women who have one of several cardiac gene mutations to include TTNC1, TTN, and STAT3.
+
+718
+01:32:00,035 --> 01:32:06,722
+Pregnancy at term is further characterized by prodigious secretion of prolactin by the maternal pituitary.
+
+719
+01:32:06,722 --> 01:32:16,360
+At the same time, the placenta secretes high levels of the antiangiogenic molecule soluble fms-like tyrosine kinase (sFlt-1).
+
+720
+01:32:16,360 --> 01:32:18,772
+Although a number of putative
+
+721
+01:32:18,940 --> 01:32:30,152
+triggering events have been hypothesized, a 16-kDa prolactin fragment—vasoinhibin—acts to cause myocardial damage with clinically apparent ventricular dysfunction.
+
+722
+01:32:30,102 --> 01:32:39,102
+This is made worse by high levels of sFlt-1, which is superabundant in women with preeclampsia, multifetal pregnancy, or both.
+
+723
+01:32:39,102 --> 01:32:47,352
+Bromocriptine therapy has been evaluated because it inhibits prolactin secretion, and preliminary studies support its use .
+
+724
+01:32:47,352 --> 01:32:51,902
+For the same reason, it is also reasonable to proscribe breastfeeding.
+
+725
+01:32:51,902 --> 01:33:02,590
+Hypertensive disorders frequently coexist with peripartum cardiomyopathy, and another proposed mechanism links peripartum cardiomyopathy to preeclampsia .
+
+726
+01:33:02,590 --> 01:33:11,390
+Antiangiogenic factors are known to be associated with preeclampsia and can induce peripartum cardiomyopathy in susceptible mice.
+
+727
+01:33:11,390 --> 01:33:21,615
+Thus, cardiomyopathy may be precipitated by antiangiogenic factors in a genetically predisposed host because of insufficient proangiogenic factors.
+
+728
+01:33:21,615 --> 01:33:31,915
+Ntusi and coworkers (2015) analyzed the clinical features of women with peripartum cardiomyopathy compared with those with hypertensive heart failure.
+
+729
+01:33:31,915 --> 01:33:43,152
+All women with peripartum cardiomyopathy became symptomatic in the postpartum period, whereas 85 percent of women with hypertensive heart failure developed symptoms antepartum.
+
+730
+01:33:43,152 --> 01:33:51,527
+Peripartum cardiomyopathy was significantly linked with twin gestation, smoking, and echocardiographic abnormalities.
+
+731
+01:33:51,527 --> 01:34:03,902
+In contrast, hypertensive heart failure patients more often had a family history of hypertension, hypertension and preeclampsia in a prior pregnancy, and left ventricular hypertrophy.
+
+732
+01:34:03,902 --> 01:34:12,727
+Management Management of peripartum cardiomyopathy is the same as that of heart failure, and described earlier (p. 922).
+
+733
+01:34:12,727 --> 01:34:19,640
+Therapy is aimed at volume overload, afterload reduction, rhythm control, and inotropic support .
+
+734
+01:34:19,640 --> 01:34:24,702
+In addition, β-blocker therapy is used to decrease mortality rates.
+
+735
+01:34:24,702 --> 01:34:39,627
+Anticoagulation with LMWH is considered when the ejection fraction reaches 30 to 35 percent because of the increased risk for left ventricular thrombi (Bauersachs, 2016; Bozkurt, 2016).
+
+736
+01:34:39,627 --> 01:34:48,377
+In one pilot study, bromocriptine resulted in higher rates of left ventricular recovery at 6 months and lower mortality rates .
+
+737
+01:34:48,377 --> 01:34:58,265
+A larger study of 115 women showed no difference in full restoration of left ventricular function between those treated and untreated with bromocriptine .
+
+738
+01:34:58,265 --> 01:35:07,665
+Another investigation of 63 women showed no difference in left ventricular function improvement with short-term versus long-term bromocriptine therapy .
+
+739
+01:35:07,665 --> 01:35:13,290
+The use of bromocriptine as adjuvant therapy is considered experimental at this time.
+
+740
+01:35:13,290 --> 01:35:22,727
+Prognosis Approximately half of women suffering from peripartum cardiomyopathy recover baseline ventricular function within 6 months of delivery.
+
+741
+01:35:22,727 --> 01:35:25,615
+This rate is lower in obese women .
+
+742
+01:35:25,615 --> 01:35:38,215
+In a group of 100 women with newly diagnosed peripartum cardiomyopathy, 72 percent had a left ventricular ejection fraction ≥50 percent at 1 year postpartum .
+
+743
+01:35:38,215 --> 01:35:45,702
+Recovery to this level occurred in almost 90 percent of women whose baseline ejection fraction was at least 30 percent.
+
+744
+01:35:45,702 --> 01:35:53,290
+This is compared with <40 percent in women whose baseline ventricular ejection fraction was <30 percent.
+
+745
+01:35:53,290 --> 01:35:59,115
+Recovery was also related to the baseline left ventricular enddiastolic diameter.
+
+746
+01:35:59,115 --> 01:36:03,390
+Event-free survival at 1 year occurred in 93 percent.
+
+747
+01:36:03,390 --> 01:36:13,465
+Six women experienced nine major events that included four deaths, four left ventricular assist device implantations, and one heart transplantation.
+
+748
+01:36:13,465 --> 01:36:32,290
+Li and colleagues (2016) also found that a baseline left ventricular ejection fraction <34 percent and a BNP level >1860 pg/mL were associated with an approximately threefold greater risk of persistent left ventricular systolic dysfunction.
+
+749
+01:36:32,290 --> 01:36:38,802
+The mortality rate approaches 5 to 10 percent at 1 year in women with persistent cardiac failure .
+
+750
+01:36:38,802 --> 01:36:46,877
+Long-term follow-up was reported in 28 women with a median surveillance of 91 months (Ersbøll, 2018).
+
+751
+01:36:46,877 --> 01:36:57,815
+Although most women were asymptomatic, compared with controls, they had lower ejection fractions, less maximal exercise capacity, and subtle diastolic dysfunction.
+
+752
+01:36:57,815 --> 01:37:02,902
+Subsequent Pregnancy From the largest studies on the topic, approximately
+
+753
+01:37:03,052 --> 01:37:13,764
+a third of women with a history of peripartum cardiomyopathy will suffer relapse with worsening of symptoms and deterioration of left ventricular function during another pregnancy .
+
+754
+01:37:13,714 --> 01:37:24,339
+The risk of relapse in women with persistent left ventricular dysfunction is substantially higher than in those who have recovered normal ventricular function before a subsequent pregnancy .
+
+755
+01:37:24,339 --> 01:37:36,614
+However, normalization of left ventricular function does not guarantee an uncomplicated pregnancy, because approximately 20 percent of these women are at risk for deterioration in that function .
+
+756
+01:37:36,614 --> 01:37:39,939
+# Other Cardiomyopathy Types.
+
+757
+01:37:39,939 --> 01:37:51,452
+Arrhythmogenic right ventricular dysplasia is a unique cardiomyopathy defined histologically by progressive replacement of right ventricular myocardium with adipose and fibrous tissue.
+
+758
+01:37:51,452 --> 01:38:03,189
+It has an estimated population prevalence of 1 in 5000, predisposes to ventricular tachyarrhythmias, and is a cause of sudden death, particularly in younger individuals .
+
+759
+01:38:03,189 --> 01:38:11,827
+Studies of pregnancies in affected women reported symptoms, including heart failure, in 18 to 33 percent of pregnancies .
+
+760
+01:38:11,827 --> 01:38:18,827
+Based on their systematic review, Krul and coworkers (2011) counsel against pregnancy.
+
+761
+01:38:18,827 --> 01:38:23,314
+Restrictive cardiomyopathy is probably the least common type.
+
+762
+01:38:23,314 --> 01:38:35,614
+This inherited cardiomyopathy is characterized by a ventricular filling pattern in which worsening myocardial stiffness raises ventricular pressure precipitously and allows only a small filling volume .
+
+763
+01:38:35,614 --> 01:38:41,752
+Pregnancy is not advised because of the severe clinical course and poor prognosis in general.
+
+764
+01:38:41,752 --> 01:38:48,577
+Takotsubo cardiomyopathy is a rare form of acute reversible left ventricular apical wall ballooning .
+
+765
+01:38:48,577 --> 01:38:55,302
+It is considered to be “stress induced” and appears to be more common with preeclampsia and cesarean delivery.
+
+766
+01:38:55,302 --> 01:38:58,727
+Myocardial infarction must be excluded .
+
+767
+01:38:58,727 --> 01:39:01,389
+Infective Endocarditis.
+
+768
+01:39:01,389 --> 01:39:11,977
+Persons at greatest risk for endocarditis are those with congenital heart lesions, intravenous drug use, degenerative valve disease, and intracardiac devices .
+
+769
+01:39:11,977 --> 01:39:20,927
+Subacute bacterial endocarditis usually stems from a low-virulence bacterial infection superimposed on an underlying structural lesion.
+
+770
+01:39:20,927 --> 01:39:24,127
+These are usually native valve infections.
+
+771
+01:39:24,127 --> 01:39:33,239
+Organisms that cause indolent endocarditis are most often viridans-group streptococci or Staphylococcus or Enterococcus species.
+
+772
+01:39:33,239 --> 01:39:40,827
+Among intravenous drug abusers and those with catheter-related infections, Staphylococcus aureus predominates.
+
+773
+01:39:40,827 --> 01:39:46,664
+With prosthetic valve infections, Staphylococcus epidermidis is a frequent cause.
+
+774
+01:39:46,664 --> 01:39:53,439
+Streptococcus pneumoniae and Neisseria gonorrhoeae may occasionally cause acute, fulminating disease.
+
+775
+01:39:53,439 --> 01:40:02,839
+Others have reported other Neisseria species, group B streptococcus, and Escherichia coli endocarditis during pregnancy or peripartum.
+
+776
+01:40:02,839 --> 01:40:05,864
+# Diagnosis and Management.
+
+777
+01:40:05,864 --> 01:40:10,964
+Infective endocarditis symptoms vary and often develop insidiously.
+
+778
+01:40:10,964 --> 01:40:23,039
+Fever, often with chills, is seen in 80 to 90 percent of cases; a murmur is heard in up to 85 percent; and anorexia, fatigue, and other constitutional symptoms are common .
+
+779
+01:40:23,039 --> 01:40:35,714
+Clinical clues are anemia, proteinuria, and manifestations of embolic lesions that include petechiae, focal neurological changes, chest or abdominal pain, and extremity ischemia.
+
+780
+01:40:35,714 --> 01:40:39,077
+In some cases, heart failure develops.
+
+781
+01:40:39,077 --> 01:40:46,652
+Symptoms may persist for several weeks before the diagnosis is found, and a high index of suspicion is necessary.
+
+782
+01:40:46,652 --> 01:40:55,327
+Diagnosis is made using the Duke-Li classification, which combines microbiology and imaging criteria with five minor criteria .
+
+783
+01:40:55,327 --> 01:41:03,377
+Echocardiography may be diagnostic, but lesions <2 mm or those on the tricuspid valve may be missed.
+
+784
+01:41:03,377 --> 01:41:09,252
+If uncertain, transesophageal echocardiography is accurate and informative.
+
+785
+01:41:09,252 --> 01:41:15,264
+Importantly, a negative echocardiographic study does not exclude endocarditis.
+
+786
+01:41:15,264 --> 01:41:24,189
+Treatment is primarily medical, and ascertainment of the infecting organism and its sensitivities is imperative for antimicrobial selection.
+
+787
+01:41:24,189 --> 01:41:35,427
+Guidelines for appropriate antibiotic treatment are published by professional societies and updated regularly (Habib, 2015; Karchmer, 2018).
+
+788
+01:41:35,427 --> 01:41:42,864
+Recalcitrant bacteremia and heart failure due to valvular dysfunction are a few reasons for which persistent infection
+
+789
+01:41:43,036 --> 01:41:45,773
+may require valve replacement .
+
+790
+01:41:45,723 --> 01:41:47,973
+# Pregnancy.
+
+791
+01:41:47,973 --> 01:41:53,273
+Infective endocarditis is uncommon during pregnancy and the puerperium.
+
+792
+01:41:53,273 --> 01:42:01,198
+In an earlier period, the incidence of endocarditis at Parkland Hospital approximated 1 in 16,000 births .
+
+793
+01:42:01,198 --> 01:42:07,148
+With the current opioid use disorder epidemic, endocarditis may become more frequent .
+
+794
+01:42:07,148 --> 01:42:17,123
+Associated maternal and fetal mortality rates are from 25 to 35 percent (Dagher, 2021; Habib, 2015).
+
+795
+01:42:17,123 --> 01:42:27,523
+In one review, risk factors were intravenous drug use (14 percent), congenital heart disease (12 percent), and rheumatic heart disease (12 percent).
+
+796
+01:42:27,523 --> 01:42:35,586
+The most common pathogens were streptococcal (43 percent) and staphylococcal (26 percent) species.
+
+797
+01:42:35,586 --> 01:42:40,911
+Among 51 pregnancies, the maternal mortality rate was 11 percent .
+
+798
+01:42:40,911 --> 01:42:44,298
+# Endocarditis Prophylaxis.
+
+799
+01:42:44,298 --> 01:42:52,436
+For years, patients with any heart valve problem were given periprocedural antibiotics for endocarditis prophylaxis.
+
+800
+01:42:52,436 --> 01:42:56,561
+Currently, however, recommendations are more stringent.
+
+801
+01:42:56,561 --> 01:43:19,173
+The American Heart Association recommends prophylaxis for dental procedures in those with: (1) a prosthetic valve or prosthetic material used in a valve repair, (2) prior endocarditis, (3) unrepaired cyanotic heart defect or repaired lesion with residual defect at prosthetic sites, and (4) valvulopathy after heart transplantation .
+
+802
+01:43:19,173 --> 01:43:34,261
+In the absence of pelvic infection, the American College of Obstetricians and Gynecologists (2018b) does not recommend endocarditis prophylaxis for either vaginal or cesarean delivery, except with the lesions cited above.
+
+803
+01:43:34,261 --> 01:43:42,336
+Pregnant women at highest risk for endocarditis are those with cyanotic cardiac disease, prosthetic valves, or both.
+
+804
+01:43:42,336 --> 01:43:54,661
+Table 52-9 shows prophylactic regimens for women not already receiving intrapartum antimicrobial therapy for another indication that would also provide coverage against endocarditis.
+
+805
+01:43:54,661 --> 01:44:01,361
+These are administered as close to 30 to 60 minutes before the anticipated delivery time as is feasible.
+
+806
+01:44:01,361 --> 01:44:03,998
+Table 52-9.
+
+807
+01:44:03,998 --> 01:44:10,761
+Single-Dose Antibiotic Prophylaxis for Infective Endocarditis in High-Risk Patients Arrhythmias.
+
+808
+01:44:10,761 --> 01:44:19,323
+Both preexisting and new-onset cardiac arrhythmias are often encountered during pregnancy, labor, delivery, and the puerperium.
+
+809
+01:44:19,323 --> 01:44:24,361
+They are usually benign and their incidence in pregnancy appears to be increasing .
+
+810
+01:44:24,361 --> 01:44:28,673
+The mechanism(s) responsible for the higher incidence are not clear.
+
+811
+01:44:28,673 --> 01:44:33,473
+From some studies, estradiol and progesterone are proarrhythmic.
+
+812
+01:44:33,473 --> 01:44:42,098
+Estrogen augments the number of adrenergic receptors in the myocardium, and adrenergic responsiveness seems to be greater in pregnancy .
+
+813
+01:44:42,098 --> 01:44:50,136
+Perhaps the normal but mild hypokalemia of pregnancy and/or the physiological rise in heart rate serves to induce arrhythmias.
+
+814
+01:44:50,136 --> 01:44:57,111
+Alternatively, detection of arrhythmias may be greater because of the frequent visits in routine prenatal care.
+
+815
+01:44:57,111 --> 01:44:59,661
+# Bradyarrhythmias.
+
+816
+01:44:59,661 --> 01:45:06,186
+Slow heart rhythms, including complete heart block, are compatible with a successful pregnancy outcome .
+
+817
+01:45:06,186 --> 01:45:14,536
+Some women with complete heart block have syncope during labor and delivery, and occasionally temporary cardiac pacing is necessary.
+
+818
+01:45:14,536 --> 01:45:21,898
+In our experiences and from others, women with permanent artificial pacemakers usually tolerate pregnancy well .
+
+819
+01:45:21,898 --> 01:45:28,261
+With fixed-rate devices, cardiac output apparently is increased by augmented stroke volume.
+
+820
+01:45:28,261 --> 01:45:34,598
+Patients with pacemakers or other electrical implants require special precautions during surgery.
+
+821
+01:45:34,598 --> 01:45:41,936
+Stray current may be interpreted as an intracardiac signal by the implanted device and lead to pacing changes.
+
+822
+01:45:41,936 --> 01:45:50,648
+In addition, myocardial burns may result from conduction of electrosurgical current to the pacing electrode rather than to the grounding pad.
+
+823
+01:45:50,648 --> 01:46:16,248
+With these devices, preventive steps include cardiology consultation; bipolar electrosurgery or Harmonic scalpel use rather than monopolar current; if needed, minimal monopolar settings; continuous cardiac and pulse oximetry monitoring; contingency plans for arrhythmias; and close proximity of active (electrosurgical pencil) and return (electrosurgical grounding pad) electrodes .
+
+824
+01:46:16,248 --> 01:46:19,723
+# Supraventricular Tachycardias.
+
+825
+01:46:19,723 --> 01:46:27,373
+The most common arrhythmia seen in reproductive-aged women is paroxysmal supraventricular tachycardia (SVT).
+
+826
+01:46:27,373 --> 01:46:30,273
+The prevalence during pregnancy is
+
+827
+01:46:30,436 --> 01:46:40,173
+24 cases per 100,000 hospital admissions, and approximately 20 percent will experience symptomatic exacerbations during pregnancy .
+
+828
+01:46:40,123 --> 01:46:51,523
+Interestingly, the mean heart rate of pregnant women with paroxysmal SVT is 184 bpm compared with 166 bpm in nonpregnant affected women .
+
+829
+01:46:51,523 --> 01:47:00,861
+In one study, approximately half of women with paroxysmal SVT had an initial onset during pregnancy (Bánhidy, 2015).
+
+830
+01:47:00,861 --> 01:47:12,561
+Notably, maternal paroxysmal SVT was associated with a twofold higher risk of septal cardiac defects, particularly secundum atrial septal defects, in their offspring.
+
+831
+01:47:12,561 --> 01:47:26,473
+For acute SVT treatment, vagal maneuvers, which include Valsalva maneuver, carotid sinus massage, bearing down, and immersion of the face in ice water, raise vagal tone and block the atrioventricular node.
+
+832
+01:47:26,473 --> 01:47:33,211
+Intravenous adenosine is a short-acting endogenous nucleotide that also blocks AV nodal conduction.
+
+833
+01:47:33,211 --> 01:47:41,873
+Our experiences are similar to those of others in that adenosine is safe and effective for cardioversion in hemodynamically stable gravidas .
+
+834
+01:47:41,873 --> 01:47:46,298
+Transient fetal bradycardia has been described with adenosine .
+
+835
+01:47:46,298 --> 01:48:00,123
+If pharmacological therapy is ineffective or contraindicated, the American College of Cardiology and the American Heart Association recommend synchronized cardioversion in pregnant women with hemodynamically unstable SVT .
+
+836
+01:48:00,123 --> 01:48:07,861
+Although electrical cardioversion with standard energy settings is not contraindicated in pregnancy, vigilance is important.
+
+837
+01:48:07,861 --> 01:48:17,611
+Barnes and colleagues (2002) described a case in which direct current cardioversion led to a sustained uterine contraction and fetal bradycardia.
+
+838
+01:48:17,611 --> 01:48:26,648
+As an aside, pregnancy has no effect on the operation of implantable cardioverter-defibrillator devices (Boulé, 2014).
+
+839
+01:48:26,648 --> 01:48:36,648
+If cardioversion fails or is unsafe because of concurrent thrombus, then long-term anticoagulation and heart rate control with medication are necessary .
+
+840
+01:48:36,648 --> 01:49:03,736
+Other treatment options recommended by the American College of Cardiology and the American Heart Association include: • Intravenous metoprolol or propranolol when adenosine is ineffective or contraindicated, • Intravenous verapamil when adenosine and β-blocking agents are ineffective or contraindicated, • Intravenous procainamide, • Intravenous amiodarone for potentially life-threatening SVT and when other therapies are ineffective or contraindicated.
+
+841
+01:49:03,736 --> 01:49:09,561
+Atrial fibrillation and atrial flutter rarely present for the first time during pregnancy.
+
+842
+01:49:09,561 --> 01:49:23,036
+A new-onset atrial fibrillation should prompt a search for underlying etiologies that include cardiac anomalies, hyperthyroidism, pulmonary embolism, drug toxicity, and electrolyte disturbances .
+
+843
+01:49:23,036 --> 01:49:26,711
+Major complications include embolic stroke.
+
+844
+01:49:26,711 --> 01:49:34,698
+When associated with mitral stenosis, pulmonary edema may develop in later pregnancy if the ventricular rate is increased.
+
+845
+01:49:34,698 --> 01:49:39,298
+Unstable patients are treated with cardioversion and rate control.
+
+846
+01:49:39,298 --> 01:49:48,136
+Pregnancy may predispose otherwise asymptomatic women with WolffParkinson-White (WPW) syndrome to exhibit arrhythmias.
+
+847
+01:49:48,136 --> 01:49:58,961
+In a study of women with asymptomatic or mildly symptomatic disease, half developed SVT for the first time, and the other half experienced an increase in their attack rate .
+
+848
+01:49:58,961 --> 01:50:03,623
+In some patients, accessory pathway ablation may be indicated.
+
+849
+01:50:03,623 --> 01:50:08,573
+Patients with Ebstein anomaly are prone to have WPW syndrome.
+
+850
+01:50:08,573 --> 01:50:13,311
+Driver and associates (2015) have provided a review.
+
+851
+01:50:13,311 --> 01:50:16,348
+# Ventricular Tachycardia.
+
+852
+01:50:16,348 --> 01:50:23,411
+This form of arrhythmia is uncommon but potentially fatal in healthy young women without underlying heart disease.
+
+853
+01:50:23,411 --> 01:50:32,811
+Brodsky and coworkers (1992) described seven pregnant women with new-onset ventricular tachycardia and reviewed 23 reports.
+
+854
+01:50:32,811 --> 01:50:37,061
+Most of these women were not found to have structural heart disease.
+
+855
+01:50:37,061 --> 01:50:44,098
+In 14 cases, tachycardia was precipitated by physical exercise or psychological stress.
+
+856
+01:50:44,098 --> 01:50:53,761
+Abnormalities found included two cases of myocardial infarction, two of prolonged QT interval, and one of anesthesiaprovoked tachycardia.
+
+857
+01:50:53,761 --> 01:51:00,961
+They concluded that pregnancy events precipitated the tachycardia and recommended β-blocking agents for control.
+
+858
+01:51:00,961 --> 01:51:09,736
+As previously discussed (p. 934), arrhythmogenic right ventricular dysplasia will result occasionally in ventricular
+
+859
+01:51:09,892 --> 01:51:11,942
+tachyarrhythmias.
+
+860
+01:51:11,892 --> 01:51:19,004
+If unstable, emergency cardioversion is indicated, and standard adult energy settings are adequate .
+
+861
+01:51:19,004 --> 01:51:21,879
+# Prolonged QT-Interval.
+
+862
+01:51:21,879 --> 01:51:26,517
+The long QT syndrome is the most frequent inherited channelopathy .
+
+863
+01:51:26,517 --> 01:51:34,567
+This conduction anomaly may predispose individuals to a potentially fatal ventricular arrhythmia known as torsades de pointes.
+
+864
+01:51:34,567 --> 01:51:48,629
+Two studies comprised of 502 pregnant women with long QT syndrome both reported a significant rise in cardiac events postpartum but not during pregnancy (Rashba, 1998; Seth, 2007).
+
+865
+01:51:48,629 --> 01:51:53,829
+The normal elevation in heart rate during pregnancy may be partially protective.
+
+866
+01:51:53,829 --> 01:52:06,017
+Paradoxically, β-blocking agents—preferably propranolol—lower the risk of torsades de pointes in patients with long QT syndrome and should be continued throughout pregnancy and the puerperium .
+
+867
+01:52:06,017 --> 01:52:16,817
+Importantly, many medications, including some used during pregnancy, such as the erythromycins and many antiemetics, may predispose to QT prolongation.
+
+868
+01:52:16,817 --> 01:52:23,279
+For opioid-addicted women, the use of methadone to treat withdrawal symptoms may be problematic .
+
+869
+01:52:23,279 --> 01:52:31,279
+Last, Cuneo and colleagues (2020) observed an eightfold risk for stillbirth in women with long QT syndrome .
+
+870
+01:52:31,279 --> 01:52:33,579
+Diseases Of The Aorta.
+
+871
+01:52:33,579 --> 01:52:36,167
+# Aortic Dissection.
+
+872
+01:52:36,167 --> 01:52:43,842
+Marfan syndrome and coarctation are two aortic diseases that place the pregnant woman at greater risk for aortic dissection .
+
+873
+01:52:43,842 --> 01:52:50,729
+Indeed, half of dissection cases in young women are related to pregnancy (O’Gara, 2004).
+
+874
+01:52:50,729 --> 01:53:01,842
+Other risk factors are bicuspid aortic valve and Turner, Noonan, Loeys-Dietz, or Ehlers-Danlos syndrome (Cauldwell, 2019b; Russo, 2018).
+
+875
+01:53:01,842 --> 01:53:09,354
+Pregnancy-related cardiac guidance for women with Turner syndrome is outlined in Chapter 3 (p. 37).
+
+876
+01:53:09,354 --> 01:53:19,817
+Although the mechanism(s) involved are unclear, the initiating event is a tear in the intimal layer of the aorta, followed by hemorrhage into the media, and finally rupture.
+
+877
+01:53:19,817 --> 01:53:27,179
+In most cases, aortic dissection presents with severe chest pain described as ripping, tearing, or stabbing.
+
+878
+01:53:27,179 --> 01:53:35,392
+Diminution or loss of peripheral pulses coupled with a recently acquired aortic insufficiency murmur is an important physical finding.
+
+879
+01:53:35,392 --> 01:53:50,029
+The differential diagnosis of aortic dissection in pregnancy includes myocardial infarction, pulmonary embolism, pneumothorax, aortic valve rupture, and obstetrical catastrophes such as placental abruption and uterine rupture.
+
+880
+01:53:50,029 --> 01:53:55,967
+More than 90 percent of patients with aortic dissection have an abnormal chest radiograph.
+
+881
+01:53:55,967 --> 01:54:01,317
+Aortic angiography is the most definitive method for diagnosis confirmation.
+
+882
+01:54:01,317 --> 01:54:09,392
+However, sonography, computed tomography, and MR imaging are used more frequently depending on the clinical urgency.
+
+883
+01:54:09,392 --> 01:54:13,217
+Initial medical treatment is given to lower blood pressure.
+
+884
+01:54:13,217 --> 01:54:19,817
+Proximal dissections most often need to be resected, and the aortic valve replaced if necessary.
+
+885
+01:54:19,817 --> 01:54:24,592
+Distal dissections are more complex, and many may be treated medically.
+
+886
+01:54:24,592 --> 01:54:36,792
+Among nonpregnant patients with abdominal aortic aneurysms <5.5 cm, survival is not improved by immediate elective repair compared with surveillance and delayed repair.
+
+887
+01:54:36,792 --> 01:54:45,104
+Karthikesalingam and associates (2016) suggest that the size threshold for aneurysm repair should be revisited.
+
+888
+01:54:45,104 --> 01:54:47,704
+# Marfan Syndrome.
+
+889
+01:54:47,704 --> 01:54:57,642
+This autosomal dominant connective tissue disorder has an incidence of 1 per 3000 to 5000 individuals and is without racial or ethnic predilection .
+
+890
+01:54:57,642 --> 01:55:08,542
+As discussed in Chapter 62 (p. 1121), Marfan syndrome is caused by any of more than 1000 mutations in the fibrillin (FBN1) gene.
+
+891
+01:55:08,542 --> 01:55:15,629
+It is characterized by generalized tissue weakness that can result in dangerous cardiovascular complications.
+
+892
+01:55:15,629 --> 01:55:21,804
+All tissues are involved, and other frequent defects include joint laxity and scoliosis.
+
+893
+01:55:21,804 --> 01:55:32,079
+Progressive aortic dilation causes aortic valve insufficiency, and infective endocarditis or mitral valve prolapse with insufficiency may be comorbid.
+
+894
+01:55:32,079 --> 01:55:37,392
+Aortic dilation and dissecting aneurysm are the most serious abnormalities.
+
+895
+01:55:37,392 --> 01:55:43,629
+Early death is due to either a dissecting aneurysm or to valvular insufficiency and heart failure.
+
+896
+01:55:43,629 --> 01:55:53,492
+During pregnancy, the primary concern with Marfan syndrome is aortic dissection (Curry, 2014; Russo, 2017).
+
+897
+01:55:53,492 --> 01:55:59,267
+A study using the Nationwide Inpatient Sample from 2003 to 2010
+
+898
+01:55:59,428 --> 01:56:04,428
+described 339 deliveries in women with Marfan syndrome.
+
+899
+01:56:04,378 --> 01:56:10,065
+There was one maternal death and six (1.8 percent) aortic dissections .
+
+900
+01:56:10,065 --> 01:56:19,665
+From the United Kingdom, Cauldwell and colleagues (2019a) described 258 pregnancies in 151 affected women.
+
+901
+01:56:19,665 --> 01:56:24,665
+Although no women died, 1.9 percent had an aortic dissection.
+
+902
+01:56:24,665 --> 01:56:32,240
+The aortic root usually measures approximately 2 cm, and during normal pregnancy, it expands slightly.
+
+903
+01:56:32,240 --> 01:56:40,315
+With Marfan syndrome, aortic root repair is recommended at diameters of 4.0 to 4.5 cm .
+
+904
+01:56:40,315 --> 01:56:56,465
+The guidelines of the American College of Cardiology, the American Heart Association, and the American Association of Thoracic Surgeons advise prophylactic aortic repair in women considering pregnancy if the diameter of the ascending aorta exceeds 4 cm .
+
+905
+01:56:56,465 --> 01:57:05,240
+The guidelines of the European Society of Cardiology advise repair of the aorta at diameters >4.5 cm .
+
+906
+01:57:05,240 --> 01:57:13,228
+Surgical repair is also considered using a formula indexed to height because shorter patients have dissection at a smaller diameter .
+
+907
+01:57:13,228 --> 01:57:25,865
+For pregnant women with known thoracic aortic root or ascending aortic dilation, monthly or bimonthly echocardiographic measurements of the ascending aortic dimensions are recommended to detect expansion .
+
+908
+01:57:25,865 --> 01:57:36,415
+Prophylactic β-blocking agents have become standard for gravidas with Marfan syndrome because they reduce hemodynamic stress on the ascending aorta and slow the dilation rate.
+
+909
+01:57:36,415 --> 01:57:44,353
+Ideally, pregnant women with aortic aneurysms are delivered at facilities in which cardiothoracic surgery is available.
+
+910
+01:57:44,353 --> 01:57:53,703
+Vaginal delivery with regional analgesia and an assisted second stage seem safe for women with an aortic root diameter <4 cm.
+
+911
+01:57:53,703 --> 01:58:00,740
+Cesarean delivery may be considered for values between 4.0 and 4.5 cm.
+
+912
+01:58:00,740 --> 01:58:12,853
+When the aortic root measures >4.5 cm, elective cesarean delivery is recommended, and direct replacement of the proximal aorta with a prosthetic graft can be considered .
+
+913
+01:58:12,853 --> 01:58:22,678
+Successful aortic root replacement during pregnancy has been described, but the surgery has also been associated with fetal hypoxic-ischemic encephalopathy .
+
+914
+01:58:22,678 --> 01:58:37,828
+Several case reports describe emergency cesarean deliveries in women with acute type A dissections that were repaired successfully at the time of delivery (Guo, 2011; Haas, 2011; Papatsonis, 2009).
+
+915
+01:58:37,828 --> 01:58:47,803
+To evaluate obstetrical outcomes, investigators for one study of 63 women with Marfan syndrome analyzed their 142 pregnancies.
+
+916
+01:58:47,803 --> 01:58:58,778
+Of 111 pregnancies progressing past 20 weeks’ gestation, 15 percent delivered preterm, and 5 percent had preterm prematurely ruptured membranes .
+
+917
+01:58:58,778 --> 01:59:06,165
+There were eight perinatal deaths, and half of the neonatal survivors were subsequently diagnosed with Marfan syndrome.
+
+918
+01:59:06,165 --> 01:59:08,965
+# Aortic Coarctation.
+
+919
+01:59:08,965 --> 01:59:17,415
+In this relatively rare lesion, the aorta is abnormally narrowed and is often accompanied by abnormalities of other large arteries.
+
+920
+01:59:17,415 --> 01:59:25,265
+A fourth of affected patients have a bicuspid aortic valve, and another 10 percent have cerebral artery aneurysms.
+
+921
+01:59:25,265 --> 01:59:32,153
+Other associated lesions are persistent ductus arteriosus, septal defects, and Turner syndrome.
+
+922
+01:59:32,153 --> 01:59:44,165
+The collateral circulation arising above the coarctation remodels and expands, often strikingly, to cause localized erosion of rib margins by hypertrophied intercostal arteries.
+
+923
+01:59:44,165 --> 01:59:51,540
+Typical findings include hypertension in the upper extremities but normal or decreased pressures in the lower extremities.
+
+924
+01:59:51,540 --> 01:59:59,940
+Some have described diagnosis during pregnancy using MR imaging (Sherer, 2002; Zwiers, 2006).
+
+925
+01:59:59,940 --> 02:00:10,903
+Jimenez-Juan and associates (2014) found that aortic diameter measured by MR imaging and the risk of adverse events during pregnancy were inversely correlated.
+
+926
+02:00:10,903 --> 02:00:30,353
+Of note, no adverse outcomes occurred if the minimum diameter at the coarctation exceeded 15 mm. Major complications with aortic coarctation include congestive heart failure after long-standing severe hypertension, bacterial endocarditis of an associated bicuspid aortic valve, and aortic rupture.
+
+927
+02:00:30,353 --> 02:00:38,140
+Antihypertensive therapy using β-blocking drugs is usually required because hypertension may worsen in pregnancy.
+
+928
+02:00:38,140 --> 02:00:43,103
+Aortic rupture is more likely late in pregnancy or early puerperium.
+
+929
+02:00:43,103 --> 02:00:47,915
+Cerebral hemorrhage from circle of Willis aneurysms also may occur.
+
+930
+02:00:47,915 --> 02:00:49,728
+According to
+
+931
+02:00:49,876 --> 02:00:55,163
+the World Health Organization, severe coarctation should preclude pregnancy .
+
+932
+02:00:55,113 --> 02:01:08,213
+In one study of outcomes from 188 pregnancies, a third of women had hypertension that was related to significant coarctation gradients, and one woman died from dissection at 36 weeks’ gestation .
+
+933
+02:01:08,213 --> 02:01:16,801
+In 700 deliveries complicated with coarctation, hypertensive complications of pregnancy were increased three- to fourfold .
+
+934
+02:01:16,801 --> 02:01:32,226
+Importantly, almost 5 percent of women with coarctation had an adverse cardiovascular outcome—maternal death, heart failure, arrhythmia, cerebrovascular or other embolic event—compared with only 0.3 percent of controls.
+
+935
+02:01:32,226 --> 02:01:40,126
+Of women with coarctation, 41 percent underwent cesarean delivery compared with 26 percent of controls.
+
+936
+02:01:40,126 --> 02:01:47,451
+Congestive heart failure demands vigorous efforts to improve cardiac function and may warrant pregnancy interruption.
+
+937
+02:01:47,451 --> 02:01:57,513
+In this setting, some authors recommend that resection of the coarctation be undertaken to protect against the possibility of a dissecting aneurysm and aortic rupture.
+
+938
+02:01:57,513 --> 02:02:06,538
+This poses significant perfusion risk, especially for the fetus, because all the arterial collaterals must be clamped for variable periods.
+
+939
+02:02:06,538 --> 02:02:08,776
+Ischemic Heart Disease.
+
+940
+02:02:08,776 --> 02:02:20,026
+Pregnant women with coronary artery disease commonly have the classic risk factors of family history, diabetes, smoking, hypertension, hyperlipidemia, and obesity .
+
+941
+02:02:20,026 --> 02:02:32,426
+The rate of ischemic heart disease is estimated to be 10 cases per 100,000 pregnancy and postpartum hospitalizations (Smilowitz, 2018; Tripathi, 2019).
+
+942
+02:02:32,426 --> 02:02:42,801
+Although relatively rare, the risk of acute myocardial infarction is approximately threefold higher in pregnant women compared with nonpregnant women of similar age .
+
+943
+02:02:42,801 --> 02:02:45,738
+# Acute Coronary Syndrome.
+
+944
+02:02:45,738 --> 02:02:51,513
+Myocardial infarction (MI) is the end result of an acute coronary syndrome.
+
+945
+02:02:51,513 --> 02:03:05,488
+It can result from coronary artery atherosclerosis, dissection, embolism, spasm, or arteritis (American College of Obstetricians and Gynecologists, 2019; Cauldwell, 2020).
+
+946
+02:03:05,488 --> 02:03:11,463
+The mortality rate with MI in pregnancy is higher compared with age-matched nonpregnant women.
+
+947
+02:03:11,463 --> 02:03:21,201
+In a Nationwide Inpatient Sample study totaling 859 pregnancies complicated by acute MI, the death rate was 5.1 percent .
+
+948
+02:03:21,201 --> 02:03:30,588
+Women who sustain an infarction <2 weeks before delivery are at especially high risk of death due to the greater myocardial demand of labor and delivery .
+
+949
+02:03:30,588 --> 02:03:39,251
+In a systematic review of 150 cases, most women developed an acute MI during the third trimester or postpartum .
+
+950
+02:03:39,251 --> 02:03:45,076
+Approximately three fourths presented with ST segment-elevation MI (STEMI).
+
+951
+02:03:45,076 --> 02:03:55,438
+The leading mechanisms of acute infarction included spontaneous coronary dissection (43 percent) and atherosclerotic disease (27 percent).
+
+952
+02:03:55,438 --> 02:04:06,563
+Significant complications included heart failure (38 percent), recurrent angina or infarction (19 percent), and ventricular arrhythmias (12 percent).
+
+953
+02:04:06,563 --> 02:04:12,026
+The maternal and fetal mortality rates were 7 and 5 percent, respectively.
+
+954
+02:04:12,026 --> 02:04:29,563
+Diagnosis of acute coronary syndrome during pregnancy does not differ from that in nonpregnant patients and is based on clinical presentation, characteristic ECG changes, and evidence of myocardial necrosis reflected by elevated serum high-sensitivity troponin I levels .
+
+955
+02:04:29,563 --> 02:04:37,851
+Consider that troponin I levels are greater, however, in preeclamptic and hypertensive women compared with normotensive gravidas .
+
+956
+02:04:37,851 --> 02:04:47,538
+With spontaneous coronary artery dissection, establishing the diagnosis requires an increased index of suspicion in the women presenting with chest pain .
+
+957
+02:04:47,538 --> 02:05:00,338
+For this condition, coronary angiography is considered the diagnostic gold standard and should be expeditiously performed if acute coronary syndrome—either MI or unstable angina—is present .
+
+958
+02:05:00,338 --> 02:05:05,038
+Treatment of acute MI is similar to that for nonpregnant patients .
+
+959
+02:05:05,038 --> 02:05:13,163
+Several reports describe successful percutaneous transluminal coronary angioplasty and stent placement during pregnancy .
+
+960
+02:05:13,163 --> 02:05:20,451
+Cardiopulmonary resuscitation may be required, as described in Chapter 50 (p. 897).
+
+961
+02:05:20,451 --> 02:05:30,238
+If the infarct has healed sufficiently, cesarean delivery is reserved for obstetrical indications, and epidural analgesia is ideal for labor.
+
+962
+02:05:30,238 --> 02:05:34,138
+# Pregnancy with Prior Ischemic Heart Disease.
+
+963
+02:05:34,138 --> 02:05:35,813
+Ischemic
+
+964
+02:05:35,980 --> 02:05:46,405
+heart disease is characteristically progressive, and because it is usually associated with hypertension or diabetes, pregnancy in most of these women seems inadvisable.
+
+965
+02:05:46,355 --> 02:05:59,042
+In an earlier review of 30 pregnancies in women who had sustained an infarction remote from pregnancy, none of the women died, four had congestive heart failure, and four had worsening angina during pregnancy .
+
+966
+02:05:59,042 --> 02:06:08,192
+Pombar and coworkers (1995) evaluated outcomes of women with diabetes-associated ischemic heart disease and infarction.
+
+967
+02:06:08,192 --> 02:06:13,267
+Three had undergone coronary artery bypass grafting before pregnancy.
+
+968
+02:06:13,267 --> 02:06:17,030
+Of 17 women, eight died during pregnancy.
+
+969
+02:06:17,030 --> 02:06:32,255
+Certainly, pregnancy raises cardiac workload, and these investigators concluded that ventricular performance should be assessed using ventriculography, radionuclide studies, echocardiography, or coronary angiography before conception.
+
+970
+02:06:32,255 --> 02:06:37,830
+Without significant ventricular dysfunction, pregnancy will likely be tolerated.
+
+971
+02:06:37,830 --> 02:06:43,855
+For the woman who becomes pregnant before these studies are performed, echocardiography is done.
+
+972
+02:06:43,855 --> 02:06:52,205
+Exercise tolerance testing may be indicated, and radionuclide ventriculography exposes the fetus to minimal radiation .
+
+973
+02:06:52,205 --> 02:06:55,042
+Common Obstetrical Medications.
+
+974
+02:06:55,042 --> 02:07:01,692
+Common medications used in pregnancy require special consideration in women with cardiac conditions.
+
+975
+02:07:01,692 --> 02:07:09,580
+Terbutaline causes vasodilation and tachycardia, which can be dangerous in patients with mitral and aortic stenosis.
+
+976
+02:07:09,580 --> 02:07:21,892
+Nifedipine for hypertension control or tocolysis results in hypotension that can have negative consequences for patients with aortic stenosis, pulmonary hypertension, and Eisenmenger syndrome.
+
+977
+02:07:21,892 --> 02:07:28,317
+Postpartum hemorrhage should be managed aggressively, and methylergonovine generally is a safe choice.
+
+978
+02:07:28,317 --> 02:07:36,930
+Prostaglandin F2α may cause pulmonary shunting and bronchospasm, which results in elevation of pulmonary artery pressure.
+
+979
+02:07:36,930 --> 02:07:44,717
+Consideration is given to the vasodilatory effects of hydralazine in conditions such as hypertrophic cardiomyopathy.
+
+980
+02:07:44,717 --> 02:07:48,155
+Hydralazine also causes tachycardia.
+
+981
+02:07:48,155 --> 02:07:53,742
+The β-blocking agent labetalol is a safe choice unless there is ventricular failure.
+
+982
+02:07:53,742 --> 02:07:59,317
+In general, oxytocin and magnesium sulfate have minimal cardiac effects.
+

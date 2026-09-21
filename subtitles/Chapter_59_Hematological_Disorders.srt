@@ -1,0 +1,3132 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:06,075
+Chapter 59: Hematological Disorders.
+
+3
+00:00:06,075 --> 00:00:28,825
+Iron-Deficiency Anemia Megaloblastic Anemia Hemolytic Anemia Aplastic And Hypoplastic Anemia Polycythemias Hemoglobinopathies Thalassemia Syndromes Platelet Disorders Thrombotic Microangiopathies Inherited Coagulation Defects References Pregnant women are susceptible to several hematological abnormalities that may affect any woman of childbearing age.
+
+4
+00:00:28,825 --> 00:00:37,550
+These include chronic disorders such as hereditary anemias, immunological thrombocytopenia, and hematological malignancies.
+
+5
+00:00:37,550 --> 00:00:41,512
+Other disorders arise from pregnancy-induced demands.
+
+6
+00:00:41,512 --> 00:00:45,600
+Two are iron deficiency and megaloblastic anemias.
+
+7
+00:00:45,600 --> 00:00:50,475
+Pregnancy may also unmask underlying hematological conditions.
+
+8
+00:00:50,475 --> 00:00:58,612
+Importantly, pregnancy induces physiological changes that often confuse diagnosis and assessment of these disorders .
+
+9
+00:00:58,612 --> 00:01:00,387
+Anemias.
+
+10
+00:01:00,387 --> 00:01:03,262
+# Definition and Incidence.
+
+11
+00:01:03,262 --> 00:01:11,675
+Normal values for concentrations of many cellular elements during pregnancy are listed in the Appendix (p. 1227).
+
+12
+00:01:11,675 --> 00:01:29,062
+The Centers for Disease Control and Prevention (1998) defined anemia in iron-supplemented pregnant women using a cutoff of the 5th percentile, which is 11 g/dL in the first and third trimesters and 10.5 g/dL in the second trimester.
+
+13
+00:01:29,062 --> 00:01:32,987
+Notably, these were not based on a U.S. population.
+
+14
+00:01:32,987 --> 00:01:41,387
+Table 59-1 describes the distribution of hematocrit values of 480 iron-sufficient women at Parkland Hospital .
+
+15
+00:01:41,387 --> 00:01:47,125
+Using these data, values below 30 percent seem reasonable to define anemia.
+
+16
+00:01:47,125 --> 00:01:49,712
+Table 59-1.
+
+17
+00:01:49,712 --> 00:02:01,287
+Hematocrit Values in Pregnancy The modest fall in hemoglobin and hematocrit values during pregnancy stems from a relatively greater expansion of plasma volume compared with red cell volume .
+
+18
+00:02:01,287 --> 00:02:09,662
+The disproportion between the rates at which plasma and erythrocytes add to the maternal circulation is greatest during the second trimester.
+
+19
+00:02:09,662 --> 00:02:16,725
+Late in pregnancy, plasma expansion essentially ceases, while hemoglobin mass continues to accrue.
+
+20
+00:02:16,725 --> 00:02:23,025
+The causes of more common anemias encountered in pregnancy are listed in Table 59-2.
+
+21
+00:02:23,025 --> 00:02:35,012
+Their frequency is dependent on multiple factors such as geography, ethnicity, socioeconomic level, nutrition, preexisting iron status, and prenatal iron supplementation .
+
+22
+00:02:35,012 --> 00:02:40,950
+In the United States, the prevalence of anemia in pregnancy is 3 to 38 percent .
+
+23
+00:02:40,950 --> 00:02:43,512
+Table 59-2.
+
+24
+00:02:43,512 --> 00:03:05,037
+Causes of Anemia During Pregnancy Initial evaluation of a pregnant woman with moderate anemia includes measurements of hemoglobin, hematocrit, red cell indices, and serum iron or ferritin levels; careful examination of a peripheral blood smear; and a sicklecell preparation if the woman has African lineage (Appendix p. 1227).
+
+25
+00:03:05,037 --> 00:03:08,337
+# Effects on Pregnancy Outcomes.
+
+26
+00:03:08,337 --> 00:03:19,287
+Anemia is associated with several adverse pregnancy outcomes (American College of Obstetricians and Gynecologists, 2021; Rahmati, 2020).
+
+27
+00:03:19,287 --> 00:03:25,587
+Most anemia studies during pregnancy describe large populations and nutritional anemias.
+
+28
+00:03:25,587 --> 00:03:37,437
+In a Canadian study, 12 percent of more than 500,000 women had mild anemia defined by a hemoglobin concentration of 9.0 to 10.9 g/dL .
+
+29
+00:03:37,437 --> 00:03:42,637
+These women had a 2.5-fold increased risk for blood transfusions.
+
+30
+00:03:42,637 --> 00:03:51,275
+With moderate anemia, incidences of fetal-growth restriction, low 5-minute Apgar score, and perinatal mortality were increased.
+
+31
+00:03:51,275 --> 00:03:55,912
+Ray and coworkers (2020) reported similar results.
+
+32
+00:03:55,912 --> 00:04:01,662
+Correction of iron-deficiency anemia results in a lower transfusion rate with delivery .
+
+33
+00:04:01,662 --> 00:04:13,700
+A seemingly paradoxical finding is that healthy pregnant women with higher hemoglobin concentrations also are at greater risk for adverse perinatal outcomes (von Tempelhoff, 2008).
+
+34
+00:04:13,700 --> 00:04:21,262
+This may result from lower than average plasma volume expansion of pregnancy concurrent with normal red cell mass accrual.
+
+35
+00:04:21,262 --> 00:04:30,900
+Scanlon and associates (2000) studied the relationship between maternal hemoglobin levels and rates of preterm or growthrestricted newborns.
+
+36
+00:04:30,900 --> 00:04:43,000
+Women whose hemoglobin concentration was three standard deviations above the mean at 12 or 18 weeks’ gestation had a 1.3to 1.8-fold greater incidence of fetal-growth restriction.
+
+37
+00:04:43,000 --> 00:04:48,212
+Placental weight correlates negatively with maternal hemoglobin concentration .
+
+38
+00:04:48,212 --> 00:04:53,675
+These findings have led some to the illogical conclusion that withholding iron to cause
+
+39
+00:04:53,836 --> 00:04:58,073
+iron-deficiency anemia will improve pregnancy outcomes .
+
+40
+00:04:58,023 --> 00:05:01,036
+# Iron-deficiency Anemia.
+
+41
+00:05:01,036 --> 00:05:08,498
+The two most common causes of anemia during pregnancy and the puerperium are iron deficiency and acute blood loss .
+
+42
+00:05:08,498 --> 00:05:15,398
+In a typical singleton gestation, the maternal need for iron averages nearly 1000 mg .
+
+43
+00:05:15,398 --> 00:05:19,873
+Multifetal gestational requirements are considerably higher .
+
+44
+00:05:19,873 --> 00:05:27,711
+These amounts exceed the iron stores of most women and result in iron-deficiency anemia unless supplementation is provided.
+
+45
+00:05:27,711 --> 00:05:35,311
+In the third trimester, additional iron is needed to augment maternal hemoglobin levels and for transport to the fetus.
+
+46
+00:05:35,311 --> 00:05:46,211
+Because the amount of iron diverted to the fetus is similar in a normal and in an iron-deficient mother, the newborn of a severely anemic mother does not suffer from iron-deficiency anemia.
+
+47
+00:05:46,211 --> 00:05:52,423
+Neonatal iron stores are related to maternal iron status and to timing of cord clamping.
+
+48
+00:05:52,423 --> 00:05:58,336
+Iron deficiency often manifests as an appreciable drop in hemoglobin concentration.
+
+49
+00:05:58,336 --> 00:06:04,061
+Classic morphological evidence is erythrocyte hypochromia and microcytosis .
+
+50
+00:06:04,061 --> 00:06:07,386
+These may be less prominent in the pregnant woman.
+
+51
+00:06:07,386 --> 00:06:14,673
+A mean corpuscular volume <80 fL is classically seen (Appendix, p. 1227) .
+
+52
+00:06:14,673 --> 00:06:24,148
+Serum ferritin levels normally decline during pregnancy, and levels below 10 to 15 mg/L confirm iron-deficiency anemia.
+
+53
+00:06:24,148 --> 00:06:27,898
+In addition, hepcidin levels drop in pregnancy.
+
+54
+00:06:27,898 --> 00:06:33,673
+This hormone inhibits iron transport by binding to the iron-export channel ferroportin.
+
+55
+00:06:33,673 --> 00:06:36,261
+Figure 59-1.
+
+56
+00:06:36,261 --> 00:06:45,023
+In this peripheral blood smear, iron-deficiency anemia is reflected by scattered microcytic and hypochromic red cells (arrows).
+
+57
+00:06:45,023 --> 00:06:49,036
+Reproduced with permission from Dr. Siayareh Rambally.
+
+58
+00:06:49,036 --> 00:06:59,111
+Routinely in pregnancy, daily oral supplementation with 30 to 60 mg of elemental iron and 400 μg of folic acid is recommended .
+
+59
+00:06:59,111 --> 00:07:10,798
+For iron-deficiency anemia, resolution and restitution of iron stores can be accomplished with simple iron salts that provide approximately 200 mg daily of elemental iron.
+
+60
+00:07:10,798 --> 00:07:15,073
+These include ferrous sulfate, fumarate, or gluconate.
+
+61
+00:07:15,073 --> 00:07:20,536
+If a woman cannot take oral iron preparations, parenteral therapy is given.
+
+62
+00:07:20,536 --> 00:07:29,761
+Although both are administered intravenously, ferrous sucrose is safer than iron dextran (Auerbach, 2020; Pavord, 2020).
+
+63
+00:07:29,761 --> 00:07:38,673
+Moderate iron-deficiency anemia responds to adequate iron therapy, and the hematological response is an elevated reticulocyte count.
+
+64
+00:07:38,673 --> 00:07:48,573
+In gravidas, the rise of hemoglobin concentration or hematocrit is typically slower than in nonpregnant women due to the larger plasma volumes of pregnancy.
+
+65
+00:07:48,573 --> 00:08:02,248
+Hemoglobin and ferritin levels show equivalent rises in women treated with either oral or parenteral iron therapy (Breymann, 2017; Daru, 2016; Neogi, 2019).
+
+66
+00:08:02,248 --> 00:08:05,486
+# Anemia from Acute Blood Loss.
+
+67
+00:08:05,486 --> 00:08:13,986
+In early pregnancy, anemia caused by acute blood loss is common with abortion, ectopic pregnancy, and hydatidiform mole.
+
+68
+00:08:13,986 --> 00:08:18,598
+Postpartum, anemia commonly stems from obstetrical hemorrhage.
+
+69
+00:08:18,598 --> 00:08:25,823
+Massive hemorrhage demands immediate treatment and is described in Chapter 44 (p. 771).
+
+70
+00:08:25,823 --> 00:08:40,898
+If a moderately anemic woman—defined by a hemoglobin value of approximately 7 g/dL—is hemodynamically stable, is able to ambulate without adverse symptoms, and is not septic, then blood transfusions are not indicated.
+
+71
+00:08:40,898 --> 00:08:45,711
+Instead, oral iron therapy is provided for at least 3 months.
+
+72
+00:08:45,711 --> 00:08:48,736
+# Anemia of Chronic Disease.
+
+73
+00:08:48,736 --> 00:08:54,311
+Diseases associated with chronic inflammation can cause mild to moderate anemia.
+
+74
+00:08:54,311 --> 00:08:59,398
+Anemia stems from several cytokines produced by inflammatory cells.
+
+75
+00:08:59,398 --> 00:09:03,873
+These restrict erythropoiesis and shorten red cell lifespan.
+
+76
+00:09:03,873 --> 00:09:11,373
+Hepcidin levels are elevated with chronic inflammation, and this inhibits ironexporting activity from enterocytes .
+
+77
+00:09:11,373 --> 00:09:21,323
+Anemia is usually characterized by slightly hypochromic and microcytic erythrocytes, low transferrin saturation, and a high serum ferritin level .
+
+78
+00:09:21,323 --> 00:09:26,673
+Along with iron deficiency, it is the most common form of anemia worldwide.
+
+79
+00:09:26,673 --> 00:09:32,236
+During pregnancy, women with chronic disorders may develop anemia for the first time.
+
+80
+00:09:32,236 --> 00:09:38,036
+In those with preexisting anemia, it may worsen as plasma volume expands.
+
+81
+00:09:38,036 --> 00:09:45,686
+Frequent causes include chronic renal insufficiency, inflammatory bowel disease, and connective tissue disorders.
+
+82
+00:09:45,686 --> 00:09:48,948
+Others are granulomatous infections and
+
+83
+00:09:49,108 --> 00:09:51,458
+malignant neoplasms.
+
+84
+00:09:51,408 --> 00:09:58,883
+Chronic renal insufficiency is the most common disorder that we have encountered during pregnancy as a cause of this anemia type.
+
+85
+00:09:58,883 --> 00:10:03,233
+Some cases are accompanied by erythropoietin deficiency.
+
+86
+00:10:03,233 --> 00:10:11,945
+During pregnancy in women with mild chronic renal disease, the degree of red cell mass expansion is inversely related to renal impairment .
+
+87
+00:10:11,945 --> 00:10:19,295
+At the same time, plasma volume expansion usually is normal, and thus anemia severity intensifies .
+
+88
+00:10:19,295 --> 00:10:23,283
+For treatment, adequate iron stores must be ensured.
+
+89
+00:10:23,283 --> 00:10:31,570
+Recombinant erythropoietin, with or without intravenous iron, has been used to treat anemia stemming from chronic disease .
+
+90
+00:10:31,570 --> 00:10:41,358
+In pregnancies complicated by chronic renal insufficiency, recombinant erythropoietin is usually considered when the hematocrit approximates 20 percent .
+
+91
+00:10:41,358 --> 00:10:47,295
+One side effect is hypertension, which is already prevalent in women with renal disease.
+
+92
+00:10:47,295 --> 00:10:52,783
+Red cell aplasia and antierythropoietin antibodies also have been reported .
+
+93
+00:10:52,783 --> 00:10:55,758
+# Megaloblastic Anemia.
+
+94
+00:10:55,758 --> 00:11:04,595
+Folic Acid Deficiency Megaloblastic anemias are characterized by blood and bone marrow abnormalities from impaired DNA synthesis.
+
+95
+00:11:04,595 --> 00:11:11,708
+This leads to large cells with arrested nuclear maturation, whereas the cytoplasm matures more normally.
+
+96
+00:11:11,708 --> 00:11:18,470
+Worldwide, the pregnancy prevalence of this anemia varies considerably but is low in the United States.
+
+97
+00:11:18,470 --> 00:11:25,333
+Megaloblastic anemia developing during pregnancy almost always results from folic acid deficiency.
+
+98
+00:11:25,333 --> 00:11:30,170
+In the past, this condition was called pernicious anemia of pregnancy.
+
+99
+00:11:30,170 --> 00:11:37,533
+It usually is found in women who do not consume fresh green leafy vegetables, legumes, or animal protein.
+
+100
+00:11:37,533 --> 00:11:45,845
+As folate deficiency and anemia worsen, anorexia often intensifies and further aggravates the dietary deficiency.
+
+101
+00:11:45,845 --> 00:11:58,658
+Other causes are malabsorption syndromes that include tropical sprue, extensive jejunal resection, gastrectomy, and Crohn disease; hemolytic anemias; malignancy; and some antifolate drugs .
+
+102
+00:11:58,658 --> 00:12:03,895
+Nonpregnant women need 50 to 100 μg of folic acid daily.
+
+103
+00:12:03,895 --> 00:12:10,208
+During pregnancy, requirements rise, and 400 μg/d is recommended.
+
+104
+00:12:10,208 --> 00:12:18,120
+The earliest biochemical evidence is low plasma folic acid concentrations (Appendix, p. 1227).
+
+105
+00:12:18,120 --> 00:12:25,108
+Early morphological changes usually include hypersegmented neutrophils and macrocytic erythrocytes.
+
+106
+00:12:25,108 --> 00:12:34,620
+As the anemia worsens, peripheral nucleated erythrocytes appear, and bone marrow examination discloses megaloblastic erythropoiesis.
+
+107
+00:12:34,620 --> 00:12:41,133
+Anemia may then become severe, and thrombocytopenia, leukopenia, or both may develop.
+
+108
+00:12:41,133 --> 00:12:50,083
+The fetus and placenta effectively extract folate from maternal circulation, and the fetus is not anemic despite severe maternal anemia.
+
+109
+00:12:50,083 --> 00:12:58,195
+For treatment, 5 to 15 mg of oral folic acid is provided with iron, and a nutritious diet is encouraged .
+
+110
+00:12:58,195 --> 00:13:05,808
+At 4 to 7 days of treatment, the reticulocyte count is higher, and leukopenia and thrombocytopenia are corrected.
+
+111
+00:13:05,808 --> 00:13:10,845
+For anemia prevention, a diet should contain sufficient folic acid.
+
+112
+00:13:10,845 --> 00:13:17,158
+Moreover, the role of folate deficiency in the genesis of neural-tube defects is well studied .
+
+113
+00:13:17,158 --> 00:13:28,370
+Vitamin B12 Deficiency With pregnancy, vitamin B12 levels are lower than nonpregnant values because levels of binding proteins, namely, the transcobalamins decline.
+
+114
+00:13:28,370 --> 00:13:35,195
+However, in most gravidas, megaloblastic anemia is rarely from vitamin B12 deficiency.
+
+115
+00:13:35,195 --> 00:13:43,370
+Of predisposing conditions, vitamin B12 deficiency in pregnancy is more likely encountered following gastric resection.
+
+116
+00:13:43,370 --> 00:13:52,495
+Women who have undergone total gastrectomy require 1000 μg of intramuscular vitamin B12 (cyanocobalamin) monthly.
+
+117
+00:13:52,495 --> 00:14:02,858
+Those with a partial gastrectomy usually do not need supplementation, but adequate serum vitamin B12 levels should be ensured (Appendix, p. 1230).
+
+118
+00:14:02,858 --> 00:14:13,645
+Other causes of megaloblastic anemia from vitamin B12 deficiency include Crohn disease, ileal resection, some drugs, and bacterial overgrowth in the small bowel .
+
+119
+00:14:13,645 --> 00:14:21,633
+Addisonian pernicious anemia results from absent intrinsic factor that is requisite for dietary vitamin B12 absorption.
+
+120
+00:14:21,633 --> 00:14:29,945
+This autoimmune disorder usually has its onset after age 40 years, which accounts for its uncommon occurrence in pregnancy .
+
+121
+00:14:29,945 --> 00:14:32,645
+# Hemolytic Anemia.
+
+122
+00:14:32,645 --> 00:14:36,595
+Several conditions accelerate erythrocyte destruction.
+
+123
+00:14:36,595 --> 00:14:39,283
+Hemolysis may be a primary
+
+124
+00:14:39,436 --> 00:14:45,098
+disorder, and sickle-cell disease and hereditary spherocytosis are examples.
+
+125
+00:14:45,048 --> 00:14:53,036
+In others, hemolysis complicates an underlying condition such as systemic lupus erythematosus or preeclampsia.
+
+126
+00:14:53,036 --> 00:14:58,836
+Microangiopathic hemolytic anemia from malignancy has been reported in pregnancy .
+
+127
+00:14:58,836 --> 00:15:04,073
+Autoimmune Hemolysis The cause of aberrant antibody production is unknown.
+
+128
+00:15:04,073 --> 00:15:10,161
+Typically, both the direct and indirect antiglobulin (Coombs) tests are positive.
+
+129
+00:15:10,161 --> 00:15:19,861
+Anemias caused by these factors may be due to warm-active autoantibodies (80 to 90 percent), cold-active antibodies, or a combination.
+
+130
+00:15:19,861 --> 00:15:28,398
+These syndromes may also be classified as primary (idiopathic) or secondary due to underlying diseases or other factors.
+
+131
+00:15:28,398 --> 00:15:39,661
+Examples of the secondary group include lymphomas and leukemias, connective tissue diseases, infections, chronic inflammatory diseases, and drug-induced antibodies .
+
+132
+00:15:39,661 --> 00:15:48,448
+Coldagglutinin disease may be induced by infectious etiologies such as Mycoplasma pneumoniae or Epstein-Barr viral mononucleosis.
+
+133
+00:15:48,448 --> 00:16:00,611
+Hemolysis and positive antiglobulin test results may be the consequence of either immunoglobulin M (IgM) or immunoglobulin G (IgG) antierythrocyte antibodies.
+
+134
+00:16:00,611 --> 00:16:05,336
+When thrombocytopenia is comorbid, it is termed Evans syndrome .
+
+135
+00:16:05,336 --> 00:16:09,598
+In pregnancy, hemolysis can be markedly accelerated.
+
+136
+00:16:09,598 --> 00:16:18,273
+Low-dose rituximab (Truxima)—100mg weekly for 4 weeks—coupled with prednisone, is first-line treatment .
+
+137
+00:16:18,273 --> 00:16:22,823
+Coincidental thrombocytopenia usually corrects with therapy.
+
+138
+00:16:22,823 --> 00:16:33,336
+Transfusion of red cells is complicated by antierythrocyte antibodies, but warming the donor cells to body temperature may decrease their destruction by cold agglutinins.
+
+139
+00:16:33,336 --> 00:16:36,911
+In rare cases, the fetus may be involved .
+
+140
+00:16:36,911 --> 00:16:44,323
+Drug-induced Hemolysis These hemolytic anemias must be differentiated from other causes of autoimmune hemolysis.
+
+141
+00:16:44,323 --> 00:16:49,248
+In most cases, hemolysis is mild and resolves with drug withdrawal.
+
+142
+00:16:49,248 --> 00:16:52,798
+Subsequently, avoiding the drug is preventive.
+
+143
+00:16:52,798 --> 00:16:58,998
+One mechanism is hemolysis induced through drug-mediated immunological injury to red cells.
+
+144
+00:16:58,998 --> 00:17:06,298
+If bound to a red cell protein, the drug may act as a highaffinity hapten to which antidrug antibodies attach.
+
+145
+00:17:06,298 --> 00:17:11,748
+An example is IgM antipenicillin or anticephalosporin antibodies.
+
+146
+00:17:11,748 --> 00:17:23,023
+Garratty and colleagues (1999) described seven women with severe Coombs-positive hemolysis stimulated by cefotetan given as prophylaxis for obstetrical procedures.
+
+147
+00:17:23,023 --> 00:17:26,611
+Alpha-methyldopa can cause similar hemolysis .
+
+148
+00:17:26,611 --> 00:17:35,536
+Some other drugs, which include probenecid, quinidine, and rifampin, act as lowaffinity haptens and adhere to cell membrane proteins.
+
+149
+00:17:35,536 --> 00:17:47,586
+A frequent mechanism for drug-induced hemolysis relates to a congenital erythrocyte enzymatic defect, such as glucose-6-phosphate dehydrogenase deficiency (p. 1052).
+
+150
+00:17:47,586 --> 00:17:56,811
+Pregnancy-associated Hemolysis Unexplained severe hemolytic anemia can develop during early pregnancy and resolves within months postpartum.
+
+151
+00:17:56,811 --> 00:18:01,648
+Clear immune mechanisms or red cell defects are not contributory.
+
+152
+00:18:01,648 --> 00:18:08,973
+Because the fetus–neonate also may demonstrate transient hemolysis, an immunological cause is suspected.
+
+153
+00:18:08,973 --> 00:18:14,061
+Maternal corticosteroid treatment is often—but not always—effective .
+
+154
+00:18:14,061 --> 00:18:21,398
+We have cared for a woman who during each pregnancy developed severe hemolysis with anemia that responded to prednisone.
+
+155
+00:18:21,398 --> 00:18:27,223
+Her fetuses were not affected, and hemolysis abated spontaneously after delivery.
+
+156
+00:18:27,223 --> 00:18:32,573
+In some cases, hemolysis is induced by conditions unique to pregnancy.
+
+157
+00:18:32,573 --> 00:18:44,961
+Mild microangiopathic hemolysis with thrombocytopenia is relatively common with severe preeclampsia and eclampsia (Cunningham, 2015; Kenny, 2015).
+
+158
+00:18:44,961 --> 00:18:54,973
+This HELLP (hemolysis, elevated liver enzyme levels, low platelet count) syndrome is discussed in Chapter 40 (p. 699).
+
+159
+00:18:54,973 --> 00:19:01,948
+Another example is acute fatty liver of pregnancy, which causes moderate to severe hemolytic anemia .
+
+160
+00:19:01,948 --> 00:19:15,673
+Paroxysmal Nocturnal Hemoglobinuria Although commonly regarded as a hemolytic anemia, this hemopoietic stem cell disorder is characterized by formation of defective platelets, granulocytes, and erythrocytes.
+
+161
+00:19:15,673 --> 00:19:23,748
+Paroxysmal nocturnal hemoglobinuria is acquired and arises from one abnormal clone of cells, much like a neoplasm.
+
+162
+00:19:23,748 --> 00:19:30,061
+In contrast, one mutated X-linked gene responsible for this condition is termed PIG-A
+
+163
+00:19:30,220 --> 00:19:42,920
+because it codes for phosphatidylinositol glycan protein A. Resultant abnormal anchor proteins of the erythrocyte and granulocyte membrane make these cells unusually susceptible to lysis by complement.
+
+164
+00:19:42,870 --> 00:19:49,395
+A serious complication is thrombosis, which is heightened in the hypercoagulable state of pregnancy.
+
+165
+00:19:49,395 --> 00:19:55,532
+Chronic hemolysis has an insidious onset, and its severity ranges from mild to lethal.
+
+166
+00:19:55,532 --> 00:20:01,107
+Hemoglobinuria develops at irregular intervals and is not necessarily nocturnal.
+
+167
+00:20:01,107 --> 00:20:06,607
+Hemolysis may be initiated by transfusions, infections, or surgery.
+
+168
+00:20:06,607 --> 00:20:16,920
+Almost 40 percent of patients suffer venous thromboembolism (VTE) and may also experience renal failure, hypertension, and Budd-Chiari syndrome.
+
+169
+00:20:16,920 --> 00:20:22,532
+To counter the VTE risk, prophylactic anticoagulation is recommended .
+
+170
+00:20:22,532 --> 00:20:33,720
+The preferred treatment is eculizumab (Soliris), an antibody that inhibits complement activation (Kelly, 2015; Stefanovic, 2019).
+
+171
+00:20:33,720 --> 00:20:36,882
+The drug is apparently safe in pregnancy .
+
+172
+00:20:36,882 --> 00:20:45,007
+Median survival after diagnosis of the syndrome is 10 years, and bone marrow transplantation is the definitive treatment.
+
+173
+00:20:45,007 --> 00:20:51,295
+During pregnancy, paroxysmal nocturnal hemoglobinuria can be serious and unpredictable.
+
+174
+00:20:51,295 --> 00:21:01,520
+Complications may affect up to three fourths of affected women, and the maternal mortality rate in the past was 10 to 20 percent (de Guibert, 2011).
+
+175
+00:21:01,520 --> 00:21:07,770
+Complications more often develop postpartum, and half of affected women develop VTE.
+
+176
+00:21:07,770 --> 00:21:16,457
+Kelly and coworkers (2015) described 75 pregnancies in 61 affected women treated with eculizumab.
+
+177
+00:21:16,457 --> 00:21:21,382
+They described no maternal deaths, but the stillbirth rate was 4 percent.
+
+178
+00:21:21,382 --> 00:21:26,707
+Miyasaka and associates (2016) found similar results.
+
+179
+00:21:26,707 --> 00:21:38,270
+Bacterial Toxins The most fulminant acquired hemolytic anemia encountered during pregnancy is caused by the exotoxin of Clostridium perfringens or by group A βhemolytic streptococcus .
+
+180
+00:21:38,270 --> 00:21:48,020
+In additional, endotoxin of gramnegative bacteria, that is, lipopolysaccharide, may be accompanied by hemolysis and mild to moderate anemia .
+
+181
+00:21:48,020 --> 00:21:52,920
+For example, anemia often accompanies acute pyelonephritis.
+
+182
+00:21:52,920 --> 00:22:03,995
+With normal erythropoietin production, red cell mass is restored following infection resolution (Cavenee, 1994; Dotters-Katz, 2013).
+
+183
+00:22:03,995 --> 00:22:13,520
+Inherited Erythrocyte Membrane Defects The normal erythrocyte is a flexible biconcave disc that allows numerous cycles of reversible deformations.
+
+184
+00:22:13,520 --> 00:22:19,995
+Several genes encode erythrocyte structural membrane proteins and intraerythrocytic enzymes.
+
+185
+00:22:19,995 --> 00:22:24,145
+Various mutations can destabilize the lipid bilayer.
+
+186
+00:22:24,145 --> 00:22:32,632
+The loss of lipids from the cell membrane causes a surface area deficiency and poorly deformable erythrocytes that undergo hemolysis .
+
+187
+00:22:32,632 --> 00:22:36,457
+Anemia severity depends on the degree of rigidity.
+
+188
+00:22:36,457 --> 00:22:45,157
+Erythrocyte morphology similarly is dependent on these factors, and these disorders are usually named after the most dominant red cell shape.
+
+189
+00:22:45,157 --> 00:22:52,182
+Three examples are hereditary spherocytosis, pyropoikilocytosis, and ovalocytosis.
+
+190
+00:22:52,182 --> 00:22:59,607
+Hemolytic anemias that compose this group of inherited membrane defects are among the most common complicating pregnancy.
+
+191
+00:22:59,607 --> 00:23:06,682
+Mutations are usually an autosomally dominant, variably penetrant α- and β-spectrin deficiency.
+
+192
+00:23:06,682 --> 00:23:21,445
+Others are dominant or recessive gene mutations that result from deficiency of ankyrin, band 3, 4.1, and 4.2, or combinations of these (Luzzato, 2018; Rencic, 2017).
+
+193
+00:23:21,445 --> 00:23:32,195
+The degrees of anemia and jaundice vary, and diagnosis is confirmed by identification of abnormal erythrocytes on peripheral smear and their increased osmotic fragility.
+
+194
+00:23:32,195 --> 00:23:42,570
+Spherocytic anemias may be associated with a crisis typified by severe anemia from accelerated hemolysis, and it develops in patients with an enlarged spleen.
+
+195
+00:23:42,570 --> 00:23:48,782
+Infection can also accelerate hemolysis or suppress erythropoiesis to worsen anemia.
+
+196
+00:23:48,782 --> 00:23:53,157
+An example of the latter is parvovirus B19 infection .
+
+197
+00:23:53,157 --> 00:23:59,107
+In severe cases, splenectomy reduces hemolysis, anemia, and jaundice.
+
+198
+00:23:59,107 --> 00:24:05,195
+In general, women with inherited erythrocyte membrane defects do well during pregnancy.
+
+199
+00:24:05,195 --> 00:24:11,657
+Oral folic acid supplementation of 4 mg daily is given to sustain erythropoiesis.
+
+200
+00:24:11,657 --> 00:24:21,395
+Women with hereditary spherocytosis cared for at Parkland Hospital had hematocrits ranging from 23 to 41 percent, with a mean of 31 .
+
+201
+00:24:21,395 --> 00:24:24,995
+Reticulocyte counts varied from 1 to 23
+
+202
+00:24:25,156 --> 00:24:26,693
+percent.
+
+203
+00:24:26,643 --> 00:24:31,381
+Among 50 pregnancies in 23 women, eight women miscarried.
+
+204
+00:24:31,381 --> 00:24:36,556
+Four of 42 infants were born preterm, but none was growth restricted.
+
+205
+00:24:36,556 --> 00:24:42,893
+Infection in four women intensified hemolysis, and three of these required transfusions.
+
+206
+00:24:42,893 --> 00:24:48,031
+Similar results were reported by Pajor and colleagues (1993).
+
+207
+00:24:48,031 --> 00:24:52,531
+Because these disorders are inherited, the newborn may be affected.
+
+208
+00:24:52,531 --> 00:25:00,931
+Preconceptional counseling emphasizes folic acid supplementation and provides an opportunity to discuss prenatal diagnosis.
+
+209
+00:25:00,931 --> 00:25:11,031
+Celkan and Alhaj (2008) report prenatal diagnosis via cordocentesis at 18 weeks’ gestation and testing for osmotic fragility.
+
+210
+00:25:11,031 --> 00:25:20,743
+Although fetal anemia is uncommon, newborns with hereditary spherocytosis may manifest hyperbilirubinemia and anemia shortly after birth.
+
+211
+00:25:20,743 --> 00:25:31,481
+Erythrocyte Enzyme Deficiencies An intraerythrocytic deficiency of enzymes that permit anaerobic glucose metabolism may cause hereditary nonspherocytic anemia.
+
+212
+00:25:31,481 --> 00:25:35,518
+Most of these mutations are autosomal recessive traits.
+
+213
+00:25:35,518 --> 00:25:42,018
+Most episodes of severe anemia with these enzyme deficiencies are induced by drugs or infections.
+
+214
+00:25:42,018 --> 00:25:50,881
+Pyruvate kinase deficiency has a frequency of 1:10,000 persons and is associated with variable degrees of anemia .
+
+215
+00:25:50,881 --> 00:25:59,718
+Recurrent transfusions in homozygous carriers can lead to iron overload, and associated myocardial dysfunction should be monitored .
+
+216
+00:25:59,718 --> 00:26:06,581
+The fetus that is homozygous for this mutation may develop hydrops fetalis from anemia and heart failure .
+
+217
+00:26:06,581 --> 00:26:15,456
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency is complex because there are more than 200 enzyme variants.
+
+218
+00:26:15,456 --> 00:26:27,468
+The most common stem from a base substitution that leads to an amino acid replacement and a broad range of phenotypic severity (Luzzatto, 2018; Puig, 2013).
+
+219
+00:26:27,468 --> 00:26:36,681
+In the homozygous or A variant, both X chromosomes are affected, and erythrocytes are markedly deficient in G6PD activity.
+
+220
+00:26:36,681 --> 00:26:44,968
+Approximately 2 percent of AfricanAmerican women are affected, and the heterozygous variant is found in 10 to 15 percent.
+
+221
+00:26:44,968 --> 00:26:52,606
+In both cases, random X-chromosome inactivation—lyonization —results in variable enzyme activity.
+
+222
+00:26:52,606 --> 00:27:01,443
+During pregnancy, hemolysis severity in G6PD-deficient heterozygotes or homozygotes is related to enzyme activity.
+
+223
+00:27:01,443 --> 00:27:08,156
+Anemia is usually episodic, but some variants induce chronic nonspherocytic hemolysis.
+
+224
+00:27:08,156 --> 00:27:16,818
+Because young erythrocytes contain more enzyme activity, anemia stabilizes and corrects soon after the inciting cause is resolved.
+
+225
+00:27:16,818 --> 00:27:32,056
+These women are offered preconceptional counseling to discuss risks of adverse pregnancy outcomes, precipitating factors of hemolysis such as pyelonephritis and pneumonia, and the limited list of safe medications available for treatment during pregnancy.
+
+226
+00:27:32,056 --> 00:27:41,318
+For example, macrodantin is used for pyelonephritis suppression in pregnancy but can induce hemolysis in those with G6PD deficiency.
+
+227
+00:27:41,318 --> 00:27:52,231
+Because fetal and neonatal manifestations are possible, these patients should undergo genetic counseling, with possible partner testing, to assess fetal transmission risk.
+
+228
+00:27:52,231 --> 00:27:55,843
+# Aplastic and Hypoplastic Anemia.
+
+229
+00:27:55,843 --> 00:28:03,606
+Aplastic anemia is a grave complication characterized by pancytopenia and markedly hypocellular bone marrow .
+
+230
+00:28:03,606 --> 00:28:09,018
+The functional defect is a marked decline in the number of committed marrow stem cells.
+
+231
+00:28:09,018 --> 00:28:15,931
+Etiologies are multiple, and the inciting cause can be identified in approximately a third of cases.
+
+232
+00:28:15,931 --> 00:28:28,068
+These include immunological disorders, drugs, other chemicals, infection, irradiation, leukemia, and inherited conditions such as Fanconi anemia and Diamond-Blackfan syndrome .
+
+233
+00:28:28,068 --> 00:28:39,331
+Immunosuppressive therapy is given, and in some nonresponders, eltrombopag (Promacta) is successful (Townsley, 2017; Young, 2018).
+
+234
+00:28:39,331 --> 00:28:47,993
+Definitive treatment is bone marrow transplantation, and approximately three fourths of patients have a good response and long-term survival .
+
+235
+00:28:47,993 --> 00:28:57,906
+Umbilical cord blood–derived stem cells also can serve as a potential transplant source (Moise, 2005; Pinto, 2008).
+
+236
+00:28:57,906 --> 00:29:03,468
+Pregnancy Hypoplastic or aplastic anemia complicating pregnancy is rare.
+
+237
+00:29:03,468 --> 00:29:10,543
+A study of 60 pregnancies complicated by aplastic anemia found that half were diagnosed during pregnancy .
+
+238
+00:29:10,543 --> 00:29:17,318
+In another series of 19 pregnancies, the complication rate was 79 percent, but no women
+
+239
+00:29:17,476 --> 00:29:18,926
+died .
+
+240
+00:29:18,876 --> 00:29:32,451
+Pregnancy-induced hypoplastic anemia is rare, and the anemia and other cytopenias improve or remit following delivery or pregnancy termination (Choudhry, 2002; Edahiro, 2020).
+
+241
+00:29:32,451 --> 00:29:37,063
+In some cases, anemia recurs in a subsequent pregnancy.
+
+242
+00:29:37,063 --> 00:29:42,251
+Diamond-Blackfan anemia is rare form of pure red cell hypoplasia.
+
+243
+00:29:42,251 --> 00:29:48,413
+Approximately 40 percent of cases are familial and have autosomal dominant inheritance .
+
+244
+00:29:48,413 --> 00:29:52,463
+The response to glucocorticoid therapy is usually good.
+
+245
+00:29:52,463 --> 00:29:58,726
+Continuous treatment is necessary, and most become at least partially transfusion dependent .
+
+246
+00:29:58,726 --> 00:30:13,313
+In a study of 64 pregnancies complicated by this syndrome, two thirds had problems related to placental vascular etiologies that included miscarriage, preeclampsia, preterm birth, fetal-growth restriction, or stillbirth .
+
+247
+00:30:13,313 --> 00:30:22,088
+Gaucher disease is an autosomally recessive lysosomal enzyme deficiency characterized by deficient activity of acid β-glucosidase.
+
+248
+00:30:22,088 --> 00:30:27,826
+Affected women have anemia and thrombocytopenia that usually worsens in pregnancy.
+
+249
+00:30:27,826 --> 00:30:36,476
+Elstein and colleagues (1997) described six pregnant women whose disease improved with alglucerase enzyme replacement.
+
+250
+00:30:36,476 --> 00:30:42,076
+Imiglucerase (Cerezyme) is human recombinant enzyme replacement therapy.
+
+251
+00:30:42,076 --> 00:30:46,963
+The major risks with hypoplastic anemia are hemorrhage and infection.
+
+252
+00:30:46,963 --> 00:30:53,513
+Rates of preterm labor, preeclampsia, fetal-growth restriction, and stillbirth are increased .
+
+253
+00:30:53,513 --> 00:31:02,513
+Management depends on gestational age, and supportive care includes continuous infection surveillance and prompt antimicrobial therapy.
+
+254
+00:31:02,513 --> 00:31:06,976
+Granulocyte transfusions are given only during infections.
+
+255
+00:31:06,976 --> 00:31:14,963
+Red cells are transfused to improve symptomatic anemia and routinely to maintain the hematocrit above 20 volumes percent.
+
+256
+00:31:14,963 --> 00:31:18,951
+Platelet transfusions may be needed to control hemorrhage.
+
+257
+00:31:18,951 --> 00:31:26,163
+Mortality rates reported since 1960 have averaged nearly 50 percent but have declined more recently .
+
+258
+00:31:26,163 --> 00:31:34,476
+Bone Marrow Transplantation Several reports describe successful pregnancies in women who have undergone bone marrow transplantation.
+
+259
+00:31:34,476 --> 00:31:42,676
+In their review, Sanders and coworkers (1996) reported 72 pregnancies in 41 such women.
+
+260
+00:31:42,676 --> 00:31:50,826
+In the 52 pregnancies resulting in a liveborn neonate, almost half were complicated by preterm delivery or hypertension.
+
+261
+00:31:50,826 --> 00:32:01,188
+Data from the National Cancer Institute regarding 102 pregnancies following transplantation showed 71 liveborns, of which 16 were preterm.
+
+262
+00:32:01,188 --> 00:32:07,451
+Of all women, 20 percent had decreased hemopoiesis, and transfusions were required .
+
+263
+00:32:07,451 --> 00:32:14,551
+Carter and associates (2006) reported decreased fertility but generally good pregnancy outcomes.
+
+264
+00:32:14,551 --> 00:32:23,338
+Our experiences with a few of these women indicate that they have normal pregnancy-augmented erythropoiesis and total blood volume expansion.
+
+265
+00:32:23,338 --> 00:32:29,863
+In pregnancy, cell-free DNA study results must account for donor DNA contributions .
+
+266
+00:32:29,863 --> 00:32:32,026
+Polycythemias.
+
+267
+00:32:32,026 --> 00:32:38,663
+Excessive erythrocytosis during pregnancy is usually secondary and related to chronic hypoxia.
+
+268
+00:32:38,663 --> 00:32:45,438
+Etiologies include maternal congenital cyanotic cardiac disease or a chronic pulmonary disorder.
+
+269
+00:32:45,438 --> 00:32:56,838
+In addition, we have encountered otherwise healthy pregnant women who were heavy smokers, had chronic bronchitis, and had hematocrits ranging from 55 to 60 volumes percent!
+
+270
+00:32:56,838 --> 00:33:02,913
+If polycythemia is severe, the probability of a successful pregnancy outcome is low.
+
+271
+00:33:02,913 --> 00:33:15,713
+Polycythemia vera is a primary clonal myeloproliferative hemopoietic stem cell disorder characterized by excessive proliferation of erythroid, myeloid, and megakaryocytic precursors.
+
+272
+00:33:15,713 --> 00:33:20,063
+Virtually all patients have a JAK2 gene mutation .
+
+273
+00:33:20,063 --> 00:33:25,988
+Symptoms are related to greater blood viscosity, and thrombotic complications are common.
+
+274
+00:33:25,988 --> 00:33:31,088
+Treatment of nonpregnant patients is with hydroxyurea or ruxolitinib.
+
+275
+00:33:31,088 --> 00:33:42,801
+Fetal loss rates are high in women with polycythemia vera, and pregnancy outcome may be improved with aspirin therapy (Bertozzi, 2018; Dewarrat, 2020).
+
+276
+00:33:42,801 --> 00:33:48,526
+Women with a history of VTE are given prophylaxis with low-molecular-weight heparin .
+
+277
+00:33:48,526 --> 00:33:54,276
+If cytoreduction is required during pregnancy, interferon alpha may be considered .
+
+278
+00:33:54,276 --> 00:33:56,563
+Hemoglobinopathies.
+
+279
+00:33:56,563 --> 00:34:00,013
+# Sickle-cell Hemoglobinopathies.
+
+280
+00:34:00,013 --> 00:34:08,476
+Pathophysiology Hemoglobin A is the most common hemoglobin tetramer and consists of two α- and two β-globin chains.
+
+281
+00:34:08,476 --> 00:34:12,626
+Genes HBA1 and HBA2 each code for
+
+282
+00:34:12,796 --> 00:34:17,233
+α-globin, whereas only HBB codes for β-globin.
+
+283
+00:34:17,183 --> 00:34:27,571
+Sickle hemoglobin (hemoglobin S) originates from a single β-globin substitution of glutamic acid by valine, which stems from an A-for-T substitution.
+
+284
+00:34:27,571 --> 00:34:36,458
+Hemoglobin C originates from a single β-globin substitution of glutamic acid by lysine, which stems from a Tfor-C substitution.
+
+285
+00:34:36,458 --> 00:34:57,221
+Hemoglobinopathies that can result in clinical features of the sickle-cell syndrome include sickle-cell anemia (Hb SS); sickle-cell hemoglobin C disease (Hb SC); sickle-cell β-thalassemia disease (either Hb S/B0 or Hb S/B+); and sickle-cell E disease (Hb SE).
+
+286
+00:34:57,221 --> 00:35:00,871
+All are associated with higher pregnancy morbidity.
+
+287
+00:35:00,871 --> 00:35:08,121
+When deoxygenated, red cells containing hemoglobin S undergo sickling, and the hemoglobin aggregates .
+
+288
+00:35:08,121 --> 00:35:15,096
+Constant sickling and unsickling damages the cell membrane, and its shape may become irreversibly sickled.
+
+289
+00:35:15,096 --> 00:35:25,696
+Events that slow erythrocyte transit through the microcirculation include adhesion to endothelial cells, erythrocyte dehydration, and vasomotor dysregulation.
+
+290
+00:35:25,696 --> 00:35:28,296
+Figure 59-2.
+
+291
+00:35:28,296 --> 00:35:34,071
+Peripheral smear of sickle cells (arrows) characteristic of sickle-cell anemia.
+
+292
+00:35:34,071 --> 00:35:37,796
+Reproduced with permission from Dr. Imran Hitto.
+
+293
+00:35:37,796 --> 00:35:43,846
+Clinically, sickling episodes are marked by ischemia and infarction in various organs.
+
+294
+00:35:43,846 --> 00:35:48,308
+The sickle-cell crisis produces pain, which is often severe.
+
+295
+00:35:48,308 --> 00:35:54,096
+Aplastic, megaloblastic, sequestration, and hemolytic crises can develop.
+
+296
+00:35:54,096 --> 00:36:22,108
+Chronic and acute changes from sickling include bony abnormalities such as osteonecrosis of femoral and humeral heads, renal medullary damage, autosplenectomy in homozygous SS patients but splenomegaly in other variants, hepatomegaly, ventricular hypertrophy, pulmonary infarctions, cerebrovascular accidents, leg ulcers, and a propensity for infection and sepsis (Benz, 2018; Ware, 2017).
+
+297
+00:36:22,108 --> 00:36:28,308
+Pulmonary hypertension can develop and is found in 20 percent of adults with SS hemoglobin .
+
+298
+00:36:28,308 --> 00:36:33,896
+Other sequelae are cerebrovascular aneurysms and sickle-cell vasculopathy .
+
+299
+00:36:33,896 --> 00:36:38,146
+Treatment Good supportive care is essential to prevent mortality.
+
+300
+00:36:38,146 --> 00:36:42,833
+Specific therapies are evolving, and many are still experimental.
+
+301
+00:36:42,833 --> 00:36:48,733
+One treatment is hemoglobin F induction with drugs that stimulate γ-globin synthesis.
+
+302
+00:36:48,733 --> 00:36:52,746
+Remember that hemoglobin F is prominent in fetal life .
+
+303
+00:36:52,746 --> 00:36:58,971
+This induction raises hemoglobin F levels, which inhibits hemoglobin S polymerization.
+
+304
+00:36:58,971 --> 00:37:06,671
+One agent is hydroxyurea, which augments hemoglobin F production and reduces the number of sickling episodes .
+
+305
+00:37:06,671 --> 00:37:10,396
+Hydroxyurea is teratogenic in animals.
+
+306
+00:37:10,396 --> 00:37:20,108
+A preliminary 17-year surveillance of antenatally exposed children was reassuring (Ballas, 2009; Briggs, 2017).
+
+307
+00:37:20,108 --> 00:37:31,346
+Other agents include biologic antibody drugs and l-glutamine (Ataga, 2017, Niihara, 2018; Stefanovic, 2019).
+
+308
+00:37:31,346 --> 00:37:43,821
+Various forms of hemopoietic cell transplantation are emerging as “cures” for sickle-cell syndromes and severe thalassemias (Oringanje, 2013; Kanter, 2021).
+
+309
+00:37:43,821 --> 00:37:55,608
+Last, gene therapy has been accomplished by viral vector–mediated addition of a β-globin gene into stem cells (Harrison, 2019; Ribeil, 2017).
+
+310
+00:37:55,608 --> 00:37:59,196
+# Sickle-cell Syndromes During Pregnancy.
+
+311
+00:37:59,196 --> 00:38:10,946
+Pregnancy is a serious burden to women with any major sickle hemoglobinopathy, particularly those with hemoglobin SS (Kuo, 2016; Villers, 2008).
+
+312
+00:38:10,946 --> 00:38:21,733
+Maternal mortality rates have improved, but perinatal morbidity and mortality rates remain formidable (Bae, 2021; Oteng-Ntim, 2015).
+
+313
+00:38:21,733 --> 00:38:27,746
+Thus, women with sickle-cell hemoglobinopathies require close prenatal observation.
+
+314
+00:38:27,746 --> 00:38:35,383
+Specifically, any factor that impairs erythropoiesis or increases red cell destruction aggravates the anemia.
+
+315
+00:38:35,383 --> 00:38:42,896
+Prenatal folic acid supplementation with 4 mg daily is needed to support rapid red blood cell turnover.
+
+316
+00:38:42,896 --> 00:38:45,508
+Table 59-3.
+
+317
+00:38:45,508 --> 00:38:55,996
+Pregnancy Morbidity with Hemoglobin SS and SC Disease One danger is that a symptomatic woman may categorically be considered to be suffering from a sickle-cell crisis.
+
+318
+00:38:55,996 --> 00:39:03,458
+As a result, serious obstetrical or medical problems that cause pain, anemia, or both may be overlooked.
+
+319
+00:39:03,458 --> 00:39:09,933
+Examples are ectopic pregnancy, placental abruption, pyelonephritis, or appendicitis.
+
+320
+00:39:09,933 --> 00:39:17,371
+Thus, a diagnosis of sickle-cell crisis should be applied only after all other possible causes have been excluded.
+
+321
+00:39:17,371 --> 00:39:18,971
+Pain with
+
+322
+00:39:19,132 --> 00:39:28,244
+sickle-cell syndromes is caused by intense sequestration of sickled erythrocytes and infarction in various organs, particularly bone marrow.
+
+323
+00:39:28,194 --> 00:39:36,407
+These episodes develop acutely, especially late in pregnancy, during labor and delivery, and early in the puerperium.
+
+324
+00:39:36,407 --> 00:39:41,094
+No randomized trials have evaluated treatment during pregnancy.
+
+325
+00:39:41,094 --> 00:39:47,644
+At minimum, intravenous fluids are given, and opioids are administered promptly for severe pain.
+
+326
+00:39:47,644 --> 00:39:53,257
+Oxygen via nasal cannula may decrease the sickling intensity at the capillary level.
+
+327
+00:39:53,257 --> 00:40:02,344
+We have found that red cell transfusions after the onset of severe pain do not dramatically relieve pain intensity and may not shorten its duration.
+
+328
+00:40:02,344 --> 00:40:11,169
+Conversely, as discussed later, prophylactic transfusions almost always prevent further vaso-occlusive episodes and pain crises.
+
+329
+00:40:11,169 --> 00:40:19,669
+Antenatal epidural analgesia may offer benefits for pain (Verstraete, 2012; Winder, 2011).
+
+330
+00:40:19,669 --> 00:40:24,419
+Long term, affected women can become habituated to narcotics.
+
+331
+00:40:24,419 --> 00:40:32,469
+This problem is highlighted by the elevated rates of neonatal abstinence syndrome, which is a constellation of withdrawal symptoms .
+
+332
+00:40:32,469 --> 00:40:41,832
+Rates of covert bacteriuria and acute pyelonephritis are elevated substantively, and screening and treatment for bacteriuria are essential.
+
+333
+00:40:41,832 --> 00:40:53,519
+If pyelonephritis develops, sickle cells are extremely susceptible to bacterial endotoxin, which can incite dramatic, rapid red cell destruction and suppress erythropoiesis.
+
+334
+00:40:53,519 --> 00:40:58,457
+Pneumonia, especially due to Streptococcus pneumoniae, is common.
+
+335
+00:40:58,457 --> 00:41:08,082
+The Centers for Disease Control and Prevention (2020) recommends specific vaccination for those with sickle-cell disease and all asplenic patients.
+
+336
+00:41:08,082 --> 00:41:17,732
+These are polyvalent pneumococcal, Haemophilus influenzae type B, and meningococcal vaccines (Table 10-7, p. 190).
+
+337
+00:41:17,732 --> 00:41:20,782
+Pulmonary complications are frequent.
+
+338
+00:41:20,782 --> 00:41:31,057
+Of these, acute chest syndrome is characterized by pleuritic chest pain, fever, cough, lung infiltrates, hypoxia, and usually bone and joint pain .
+
+339
+00:41:31,057 --> 00:41:35,194
+It develops in approximately 6 percent of pregnant women .
+
+340
+00:41:35,194 --> 00:41:40,294
+In addition to symptoms, radiographs show a new pulmonary infiltrate.
+
+341
+00:41:40,294 --> 00:41:46,694
+The four precipitants are infection, marrow emboli, thromboembolism, and atelectasis .
+
+342
+00:41:46,694 --> 00:41:51,619
+Bacterial or viral infection causes approximately half of cases.
+
+343
+00:41:51,619 --> 00:41:58,269
+When acute chest syndrome develops, the mean duration of hospitalization is 10.5 days.
+
+344
+00:41:58,269 --> 00:42:05,519
+Mechanical ventilation is required in approximately 15 percent, and the mortality rate nears 3 percent .
+
+345
+00:42:05,519 --> 00:42:14,682
+For nonpregnant adults, some recommend rapid simple transfusion or exchange transfusions to remove the “trigger” for acute chest syndromes .
+
+346
+00:42:14,682 --> 00:42:29,357
+In a study of nonpregnant patients, Turner and colleagues (2009) reported that exchange transfusion offered no increased benefits compared with simple transfusions, and the former were associated with fourfold greater blood usage.
+
+347
+00:42:29,357 --> 00:42:38,369
+These results notwithstanding, the American Society of Hematology suggests exchange transfusions instead of simple transfusions.
+
+348
+00:42:38,369 --> 00:42:44,444
+However, they state this recommendation is conditional due to scarce high-quality evidence .
+
+349
+00:42:44,444 --> 00:42:51,207
+Women with sickle-cell disease usually have some degree of cardiac dysfunction from ventricular hypertrophy.
+
+350
+00:42:51,207 --> 00:42:54,557
+Chronic hypertension worsens the dysfunction.
+
+351
+00:42:54,557 --> 00:43:02,882
+During pregnancy, the basal hemodynamic state characterized by high cardiac output and increased blood volume is augmented .
+
+352
+00:43:02,882 --> 00:43:12,907
+Although most women tolerate pregnancy without problems, complications such as severe preeclampsia or serious infections may result in ventricular failure .
+
+353
+00:43:12,907 --> 00:43:17,882
+Heart failure caused by pulmonary hypertension also must be considered.
+
+354
+00:43:17,882 --> 00:43:29,182
+In 4352 pregnancies in women with sickle-cell syndromes, Chakravarty and associates (2008) reported significantly higher pregnancy complication rates.
+
+355
+00:43:29,182 --> 00:43:36,732
+Compared with controls, women with sickling disorders had a 63percent rate of nondelivery-related admissions.
+
+356
+00:43:36,732 --> 00:43:52,182
+They had a 1.8-fold greater incidence of hypertensive disorders—19 percent; a 2.9-fold higher rate of fetal-growth restriction—6 percent; and a 1.7-fold increased cesarean delivery rate—45 percent.
+
+357
+00:43:52,182 --> 00:43:59,819
+With hemoglobin SC disease, morbidity and mortality rates are appreciably lower than those from sickle-cell anemia.
+
+358
+00:43:59,819 --> 00:44:02,657
+Indeed, fewer than half of these
+
+359
+00:44:02,812 --> 00:44:05,874
+women have symptoms before pregnancy.
+
+360
+00:44:05,824 --> 00:44:16,312
+In our experiences, affected gravidas suffer attacks of severe bone pain and episodes of pulmonary infarction and embolization more commonly than when not pregnant .
+
+361
+00:44:16,312 --> 00:44:21,324
+Some adverse pregnancy outcomes are shown in Table 59-3.
+
+362
+00:44:21,324 --> 00:44:35,787
+Prophylactic Red Cell Transfusions Chronic transfusion therapy has the most dramatic benefit on maternal morbidity rates (Benites, 2016; Malinowski, 2015; Vianello, 2018).
+
+363
+00:44:35,787 --> 00:44:42,099
+It is problematic for universal application because of complications from multiple transfusions.
+
+364
+00:44:42,099 --> 00:44:51,412
+In an earlier 10-year prospective study at Parkland Hospital, we offered prophylactic transfusions to all pregnant women with sickle-cell syndromes.
+
+365
+00:44:51,412 --> 00:45:01,074
+Transfusions were given throughout pregnancy to maintain the hematocrit above 25 volumes percent and the portion of hemoglobin S below 60 percent .
+
+366
+00:45:01,074 --> 00:45:06,762
+Maternal morbidity was minimal, and erythropoiesis suppression was not problematic.
+
+367
+00:45:06,762 --> 00:45:12,149
+Their outcomes were compared with historical controls who were not routinely transfused.
+
+368
+00:45:12,149 --> 00:45:24,662
+Overall, maternal morbidity and hospitalization rates were reduced in the transfused group, but perinatal morbidity and mortality rates remained increased because of preterm birth and fetal-growth restriction .
+
+369
+00:45:24,662 --> 00:45:36,412
+In a multicenter trial, Koshy and coworkers (1988) randomly assigned 72 pregnant women with sickle-cell syndromes to prophylactic or indicated transfusions.
+
+370
+00:45:36,412 --> 00:45:45,924
+They reported a significant decline in the incidence of painful sickle-cell crises with prophylactic transfusions but no differences in perinatal outcomes.
+
+371
+00:45:45,924 --> 00:45:53,237
+Because of risks inherent with blood administration, they concluded that prophylactic transfusions were not indicated.
+
+372
+00:45:53,237 --> 00:46:07,087
+A metaanalysis of 12 studies found prophylactic transfusions improved rates of most adverse maternal and neonatal outcomes, including maternal mortality, pulmonary complications, and perinatal mortality .
+
+373
+00:46:07,087 --> 00:46:11,799
+Undoubtedly, morbidity from multiple transfusions is significant.
+
+374
+00:46:11,799 --> 00:46:19,024
+Up to 10 percent of women had a delayed hemolytic transfusion reaction, and infections are a major concern.
+
+375
+00:46:19,024 --> 00:46:26,374
+Garratty (1997) reviewed 12 studies and found alloimmunization developed in a fourth of women.
+
+376
+00:46:26,374 --> 00:46:36,362
+Last, from liver biopsies in these women, we found no evidence of transfusion-related iron overload, hemochromatosis, or chronic hepatitis .
+
+377
+00:46:36,362 --> 00:46:44,224
+Because of what some consider marginal benefits, routine prophylactic transfusions during pregnancy remain controversial .
+
+378
+00:46:44,224 --> 00:46:48,337
+Current consensus is that their use should be individualized.
+
+379
+00:46:48,337 --> 00:46:54,912
+With such a practice, approximately 60 percent of women will need transfusions during pregnancy .
+
+380
+00:46:54,912 --> 00:47:03,537
+Fetal Assessment Perinatal outcomes include increased risks for preterm birth, fetal-growth restriction, and perinatal mortality.
+
+381
+00:47:03,537 --> 00:47:10,512
+Thus, beginning in the mid-second trimester, serial fetal-growth assessment with sonography is reasonable.
+
+382
+00:47:10,512 --> 00:47:19,474
+At 32 to 34 weeks’ gestation, weekly antepartum surveillance with biophysical profiles or nonstress test is considered .
+
+383
+00:47:19,474 --> 00:47:29,812
+Anyaegbunam and colleagues (1991) reported nonreactive stress tests during sickling crises, which resumed reactivity with crisis resolution.
+
+384
+00:47:29,812 --> 00:47:36,137
+They concluded that transient effects of sickle-cell crisis do not compromise umbilical blood flow.
+
+385
+00:47:36,137 --> 00:47:42,512
+Of interest, placentas from sickle-cell pregnancies show abnormalities in 69 percent .
+
+386
+00:47:42,512 --> 00:47:48,562
+Labor and Delivery Management is essentially identical to that for women with cardiac disease .
+
+387
+00:47:48,562 --> 00:47:52,124
+Women are kept comfortable but not oversedated.
+
+388
+00:47:52,124 --> 00:47:55,087
+Conduction analgesia is ideal.
+
+389
+00:47:55,087 --> 00:47:57,887
+Compatible blood should be available.
+
+390
+00:47:57,887 --> 00:48:08,349
+If a difficult vaginal or cesarean delivery is contemplated and the hematocrit is <20 volumes percent, packed erythrocyte transfusions are administered.
+
+391
+00:48:08,349 --> 00:48:14,912
+Vaginal delivery is suitable, and cesarean delivery is reserved for obstetrical indications .
+
+392
+00:48:14,912 --> 00:48:24,387
+In the puerperium, many clinicians do not recommend combination hormonal contraception because of potential adverse vascular and thrombotic effects.
+
+393
+00:48:24,387 --> 00:48:32,162
+However, one systematic review found that complication rates were not higher with their use in women with sickle-cell syndromes .
+
+394
+00:48:32,162 --> 00:48:39,949
+The Centers for Disease Control and Prevention categorizes combination hormonal contraception, intrauterine devices,
+
+395
+00:48:40,108 --> 00:48:48,608
+implants, and progestin-only methods as having no risk or as having advantages that generally outweigh theoretical or proven risks .
+
+396
+00:48:48,558 --> 00:48:51,083
+# Sickle-cell Trait.
+
+397
+00:48:51,083 --> 00:48:56,508
+The frequency of sickle-cell trait among African Americans averages 8 percent.
+
+398
+00:48:56,508 --> 00:49:04,970
+Carriers have occasional hematuria, renal papillary necrosis, and hyposthenuria, which is urine of low specific gravity .
+
+399
+00:49:04,970 --> 00:49:10,570
+Sickle trait may be associated with progression of end-stage renal disease in blacks .
+
+400
+00:49:10,570 --> 00:49:27,670
+Although controversial, sickle-cell trait does not appear to be associated with increased rates of abortion, perinatal mortality, low birthweight, or pregnancy-induced hypertension (Pritchard, 1973; Wellenstein, 2019; Wilson, 2020).
+
+401
+00:49:27,670 --> 00:49:38,708
+In one study of more than 5000 women, the incidence of gestational hypertension was significantly elevated, but that of preeclampsia was not (O’Hara, 2020).
+
+402
+00:49:38,708 --> 00:49:42,633
+Of note, they did not control for chronic hypertension.
+
+403
+00:49:42,633 --> 00:49:50,295
+One unquestioned relationship is the twofold greater incidence of asymptomatic bacteriuria and urinary infection.
+
+404
+00:49:50,295 --> 00:49:56,020
+Sickle-cell trait is not considered a deterrent to pregnancy or to hormonal contraception.
+
+405
+00:49:56,020 --> 00:49:59,983
+# Hemoglobin C and C-β-Thalassemia.
+
+406
+00:49:59,983 --> 00:50:09,420
+Approximately 2 percent of African-Americans are heterozygous for hemoglobin C, but even if homozygous, hemoglobin C is innocuous .
+
+407
+00:50:09,420 --> 00:50:15,683
+Only when coinherited with sickle-cell trait to yield hemoglobin SC is the trait problematic.
+
+408
+00:50:15,683 --> 00:50:23,970
+Pregnancy in women with homozygous hemoglobin CC disease or C-β-thalassemia carries relatively benign associations.
+
+409
+00:50:23,970 --> 00:50:29,308
+Other than mild to moderate anemia, pregnancy outcomes were not abnormal .
+
+410
+00:50:29,308 --> 00:50:33,395
+Supplementation with folic acid and iron is indicated.
+
+411
+00:50:33,395 --> 00:50:35,895
+# Hemoglobin E.
+
+412
+00:50:35,895 --> 00:50:43,270
+Although uncommon in the United States, hemoglobin E is the second most frequent hemoglobin variant worldwide.
+
+413
+00:50:43,270 --> 00:50:47,270
+The heterozygous E trait is common in Southeast Asia.
+
+414
+00:50:47,270 --> 00:50:59,933
+In one study, homozygous hemoglobin E, hemoglobin E plus β-thalassemia, or hemoglobin E trait was identified in 36 percent of Cambodians and 25 percent of Laotians .
+
+415
+00:50:59,933 --> 00:51:09,595
+Homozygosity for hemoglobin E is associated with little or no anemia, hypochromia, marked microcytosis, or erythrocyte targeting.
+
+416
+00:51:09,595 --> 00:51:21,658
+With hemoglobin E trait, another study found no increased pregnancy risks other than asymptomatic bacteriuria between 1073 women and 2146 controls .
+
+417
+00:51:21,658 --> 00:51:29,733
+Conversely, doubly heterozygous E-β-thalassemia is a common cause of severe childhood anemia in Southeast Asia .
+
+418
+00:51:29,733 --> 00:51:39,783
+In a cohort study of 54 women with singleton pregnancies, a threefold greater risk of preterm birth and fetal-growth restriction was found in affected women .
+
+419
+00:51:39,783 --> 00:51:44,720
+It is unclear if hemoglobin SE disease is ominous during pregnancy.
+
+420
+00:51:44,720 --> 00:51:47,970
+# Hemoglobinopathy in the Newborn.
+
+421
+00:51:47,970 --> 00:51:56,858
+Neonates with homozygous SS, SC, and CC disease can be identified accurately at birth by cord blood electrophoresis.
+
+422
+00:51:56,858 --> 00:52:05,995
+The United States Health Resources and Services Administration (2020) recommends that all newborns be tested for sickle-cell disease.
+
+423
+00:52:05,995 --> 00:52:11,308
+In most states, such screening is mandated by law and performed routinely .
+
+424
+00:52:11,308 --> 00:52:14,233
+# Prenatal Diagnosis.
+
+425
+00:52:14,233 --> 00:52:24,770
+Inheritance is a concern for the fetus whenever a mother and father carry a gene for abnormal hemoglobins that include S, C, and D or for β-thalassemia trait.
+
+426
+00:52:24,770 --> 00:52:30,783
+Sickle-cell anemia results from the inheritance of the gene for S hemoglobin from each parent.
+
+427
+00:52:30,783 --> 00:52:41,758
+In the United States, 1 of 12 AfricanAmericans has sickle-cell trait, which results from inheritance of one gene for hemoglobin S and one for normal hemoglobin A.
+
+428
+00:52:41,758 --> 00:52:54,170
+The computed incidence of sickle-cell anemia among African-Americans is 1 in 576 (1/12 × 1/12 × 1/4 = 1/576).
+
+429
+00:52:54,170 --> 00:52:58,570
+The disease is less common in adults because of earlier mortality.
+
+430
+00:52:58,570 --> 00:53:04,008
+Approximately 1 in 40 African-Americans has the gene for hemoglobin C.
+
+431
+00:53:04,008 --> 00:53:17,908
+Thus, the theoretical incidence for coinheritance of the gene for hemoglobin S and an allelic gene for hemoglobin C in an AfricanAmerican child is 1 in 2000 (1/12 × 1/40 × 1/4).
+
+432
+00:53:17,908 --> 00:53:29,183
+β-Thalassemia minor affects about 1 in 40, thus S-β-thalassemia also is found in approximately 1 in 2000 (1/12 × 1/40 × 1/4).
+
+433
+00:53:29,183 --> 00:53:33,983
+Many tests are available to detect sickle-cell disease antenatally.
+
+434
+00:53:33,983 --> 00:53:40,120
+Most are DNA based and use chorionic villus samples or amnionic fluid specimens .
+
+435
+00:53:40,120 --> 00:53:41,708
+Several
+
+436
+00:53:41,860 --> 00:53:52,335
+mutations that encode hemoglobin S and other abnormal hemoglobins can be detected by targeted mutation analysis and polymerase chain reaction– based techniques .
+
+437
+00:53:52,285 --> 00:53:54,647
+Thalassemia Syndromes.
+
+438
+00:53:54,647 --> 00:53:59,510
+Hundreds of mutations affect the genes that control hemoglobin production .
+
+439
+00:53:59,510 --> 00:54:11,997
+Some of these impair synthesis of one or more of the normal globin peptides and may result in a clinical syndrome characterized by varying degrees of ineffective erythropoiesis, hemolysis, and anemia.
+
+440
+00:54:11,997 --> 00:54:16,472
+Thalassemias are classified according to the globin that is deficient.
+
+441
+00:54:16,472 --> 00:54:25,847
+The two major forms involve impaired production or instability of α-globin to cause α-thalassemia or of β-globin to cause β-thalassemia.
+
+442
+00:54:25,847 --> 00:54:31,910
+Clinically, these can be divided into transfusion dependent and nontransfusion dependent .
+
+443
+00:54:31,910 --> 00:54:34,710
+# Alpha Thalassemias.
+
+444
+00:54:34,710 --> 00:54:41,610
+The two α-globin genes, HBA1 and HBA2, are both found on chromosome 16.
+
+445
+00:54:41,610 --> 00:54:51,485
+Because diploid chromosome sets contains four α-globin genes total, the inheritance of α-thalassemia is more complicated than for β-thalassemia .
+
+446
+00:54:51,485 --> 00:54:57,310
+Some of the possible genotypes and phenotypes are shown in Table 59-4.
+
+447
+00:54:57,310 --> 00:55:00,985
+The γ-globin genes are similarly duplicated.
+
+448
+00:55:00,985 --> 00:55:10,085
+Correspondingly, the normal genotype for diploid cells can be expressed as αα/αα and γγ/γγ.
+
+449
+00:55:10,085 --> 00:55:30,460
+Of the two main groups of α-thalassemia determinants, α0-thalassemia is mutation of both genes from one chromosome (––/αα), whereas α+thalassemia is mutation of a single gene from one allele (–α/αα heterozygote) or from both alleles (–α/–α homozygote).
+
+450
+00:55:30,460 --> 00:55:33,097
+TABLE 59-4.
+
+451
+00:55:33,097 --> 00:55:44,810
+Genotypes and Phenotypes of α-Thalassemia Syndromes The relative frequency of the different α-thalassemia types varies remarkably among racial groups, and all are encountered in Asians.
+
+452
+00:55:44,810 --> 00:55:56,272
+In those of African descent, although α-thalassemia minor has a frequency approximating 2 percent, hemoglobin H disease is rare and hemoglobin Bart disease is unreported.
+
+453
+00:55:56,272 --> 00:56:13,547
+This is because Asians usually have α0-thalassemia minor inherited with both gene deletions typically from the same chromosome (––/αα), whereas blacks usually have α+-thalassemia minor in which one gene is deleted from each chromosome (–α/–α).
+
+454
+00:56:13,547 --> 00:56:21,535
+Pregnancy Important obstetrical aspects of some α-thalassemia syndromes depend on the number of gene deletions in a given woman.
+
+455
+00:56:21,535 --> 00:56:27,247
+Clinical severity closely correlates with the degree of impaired α-globin synthesis.
+
+456
+00:56:27,247 --> 00:56:33,485
+The silent carrier state with one gene deletion may be associated with mild microcytic anemia .
+
+457
+00:56:33,485 --> 00:56:41,985
+Deletion of two genes resulting in α-thalassemia minor is characterized by minimal to moderate hypochromic microcytic anemia.
+
+458
+00:56:41,985 --> 00:56:52,035
+This is due to either α0- or α+-thalassemia trait, and thus genotypes may be ––/αα or –α/–α, respectively.
+
+459
+00:56:52,035 --> 00:56:56,347
+Differentiation is possible only by DNA analysis .
+
+460
+00:56:56,347 --> 00:57:06,572
+Because no other clinical abnormalities accompany either form of α-thalassemia minor, it often goes unrecognized and is usually of no maternal consequence .
+
+461
+00:57:06,572 --> 00:57:17,885
+The fetus with these forms of thalassemia minor will have hemoglobin Bart (γ4) at birth, but as its levels drop, it is not replaced by hemoglobin H (β4).
+
+462
+00:57:17,885 --> 00:57:24,947
+Red cells are hypochromic and microcytic, and the hemoglobin concentration is normal to slightly depressed.
+
+463
+00:57:24,947 --> 00:57:36,860
+Hemoglobin H disease (β4) results from the compound heterozygous state for α0- plus α+-thalassemia with deletion of three of four alpha genes (––/–α).
+
+464
+00:57:36,860 --> 00:57:50,272
+With only one functional α-globin gene per diploid genome, the newborn will have abnormal red cells containing a mixture of hemoglobin Bart (γ4), hemoglobin H (β4), and hemoglobin A.
+
+465
+00:57:50,272 --> 00:57:58,385
+Of these three, fetal hemoglobin Bart (γ4) and hemoglobin H (β4) transport oxygen poorly.
+
+466
+00:57:58,385 --> 00:58:08,322
+The neonate appears normal but soon develops hemolytic anemia as most of the hemoglobin Bart (γ4) is replaced by hemoglobin H (β4).
+
+467
+00:58:08,322 --> 00:58:16,410
+In adults, their low hemoglobin A production leads to anemia that is moderate to severe and usually worsens during pregnancy.
+
+468
+00:58:16,410 --> 00:58:26,397
+Inheritance of all four abnormal α-globin genes causes homozygous αthalassemia, which is also called Hb Bart disease and alpha thalassemia major.
+
+469
+00:58:26,397 --> 00:58:30,872
+Hemoglobin Bart (γ4) is predominantly produced.
+
+470
+00:58:30,872 --> 00:58:33,385
+This hemoglobin Bart has an
+
+471
+00:58:33,556 --> 00:58:42,493
+appreciably increased affinity for oxygen, transfers oxygen to end organs poorly, and is incompatible with extended survival.
+
+472
+00:58:42,443 --> 00:58:47,781
+These fetuses are stillborn or are hydropic and usually die soon after birth.
+
+473
+00:58:47,781 --> 00:59:00,481
+Sonographic measurement of the fetal cardiothoracic ratio at 12 to 13 weeks’ gestation can be used to identify affected fetuses (Lam, 1999; Zhen, 2015).
+
+474
+00:59:00,481 --> 00:59:08,331
+Sonographic assessment of myocardial performance—the Tei index— in the first half of pregnancy has been evaluated.
+
+475
+00:59:08,331 --> 00:59:12,118
+Changes predate hydrops in affected fetuses .
+
+476
+00:59:12,118 --> 00:59:16,243
+These noninvasive tests may aid pregnancy counseling.
+
+477
+00:59:16,243 --> 00:59:19,031
+# Beta Thalassemias.
+
+478
+00:59:19,031 --> 00:59:25,018
+The β-thalassemias stem from impaired β-globin production or α-globin instability.
+
+479
+00:59:25,018 --> 00:59:31,181
+Genes that encode control of β-globin synthesis are in the δγβgene cluster on chromosome 11 .
+
+480
+00:59:31,181 --> 00:59:36,668
+More than 150 point mutations in the β-globin gene have been described .
+
+481
+00:59:36,668 --> 00:59:44,418
+In βthalassemia, β-globin production is decreased, and excess α-globin precipitate to damage cell membranes.
+
+482
+00:59:44,418 --> 00:59:49,318
+Other forms of β-thalassemias derive from α-globin instability .
+
+483
+00:59:49,318 --> 00:59:57,456
+The heterozygous trait is β-thalassemia minor, and those most commonly encountered have elevated hemoglobin A2 levels.
+
+484
+00:59:57,456 --> 01:00:05,881
+This hemoglobin is composed of two α- and two δ-globins, and concentrations are usually more than 3.5 percent.
+
+485
+01:00:05,881 --> 01:00:14,668
+Hemoglobin F—composed of two α- and two γ-globins— also usually has increased concentrations that exceed 2 percent.
+
+486
+01:00:14,668 --> 01:00:25,456
+Some patients with heterozygous β-thalassemia minor do not have anemia, and others have mild to moderate anemia characterized by hypochromia and microcytosis.
+
+487
+01:00:25,456 --> 01:00:34,443
+Homozygous β-thalassemia—also called β-thalassemia major or Cooley anemia—is a serious and frequently fatal disorder.
+
+488
+01:00:34,443 --> 01:00:38,318
+Hemolysis is intense and leads to severe anemia.
+
+489
+01:00:38,318 --> 01:00:50,906
+Many patients become transfusion dependent, and the subsequent iron load, along with abnormally greater gastrointestinal iron absorption, leads to hemochromatosis, which is fatal in many cases.
+
+490
+01:00:50,906 --> 01:00:58,781
+A heterozygous form of β-thalassemia that clinically manifests as thalassemia intermedia produces moderate anemia.
+
+491
+01:00:58,781 --> 01:01:02,306
+Several treatment schemes treat β-thalassemia.
+
+492
+01:01:02,306 --> 01:01:07,368
+Stem cell transplantation has been used to treat β-thalassemia major .
+
+493
+01:01:07,368 --> 01:01:18,681
+Preliminary observations indicate that a combination of thalidomide and hydroxyurea— both contraindicated in pregnancy—may be beneficial to boost hemoglobin production .
+
+494
+01:01:18,681 --> 01:01:26,081
+Inserting a gene with a lentiviral vector into βglobin has been used to transfect harvested bone marrow stem cells .
+
+495
+01:01:26,081 --> 01:01:34,756
+Last, luspatercept—a recombinant fusion protein—may enhance erythroid maturation to reduce transfusion requirements .
+
+496
+01:01:34,756 --> 01:01:39,481
+Pregnancy Iron and folate supplements are given to all affected women.
+
+497
+01:01:39,481 --> 01:01:44,193
+Those with βthalassemia minor may have mild anemia during pregnancy .
+
+498
+01:01:44,193 --> 01:01:49,006
+This is caused by ineffective erythropoiesis and not hemolysis.
+
+499
+01:01:49,006 --> 01:01:58,668
+Shown in Figure 59-3 are comparable red cell survival times in women with β-thalassemia minor compared with those from normally pregnant women.
+
+500
+01:01:58,668 --> 01:02:06,593
+In some women, anemia will worsen because slightly subnormal erythropoiesis accompanies normal plasma volume expansion.
+
+501
+01:02:06,593 --> 01:02:11,168
+Fetal-growth restriction has been associated with thalassemia minor .
+
+502
+01:02:11,168 --> 01:02:13,843
+Figure 59-3.
+
+503
+01:02:13,843 --> 01:02:22,906
+Erythrocyte-survival times with β-thalassemia minor (black solid line) are comparable to those of normal red cells (shaded area).
+
+504
+01:02:22,906 --> 01:02:32,393
+Thalassemia major and some of the other severe forms were uncommonly encountered during pregnancy before the advent of transfusion and ironchelation therapy.
+
+505
+01:02:32,393 --> 01:02:43,931
+In reviews, 63 pregnancies with such management were reported and suffered no serious complications (Aessopos, 1999; Daskalakis, 1998).
+
+506
+01:02:43,931 --> 01:02:49,193
+Pregnancy is considered reasonably safe if maternal cardiac function is normal.
+
+507
+01:02:49,193 --> 01:02:56,543
+Transfusions are provided throughout pregnancy to maintain the hemoglobin concentration at 10 g/dL.
+
+508
+01:02:56,543 --> 01:02:59,918
+This is coupled with surveillance of fetal growth .
+
+509
+01:02:59,918 --> 01:03:02,843
+# Prenatal Diagnosis.
+
+510
+01:03:02,843 --> 01:03:10,431
+Diagnosis of α-thalassemia major in the fetus can be accomplished by DNA analysis using molecular techniques .
+
+511
+01:03:10,431 --> 01:03:20,368
+Fetal diagnosis of hemoglobin Bart (γ4) has been described using capillary electrophoresis or high-performance liquid chromatography techniques .
+
+512
+01:03:20,368 --> 01:03:24,043
+Molecular genetic testing for HBA1
+
+513
+01:03:24,196 --> 01:03:32,033
+and HBA2 identifies 90 percent of deletions and 10 percent of point mutations in affected individuals .
+
+514
+01:03:31,983 --> 01:03:38,871
+Because β-thalassemia major is caused by numerous mutations, prenatal diagnosis is difficult.
+
+515
+01:03:38,871 --> 01:03:46,571
+For a given individual, targeted mutation analysis requires prior identification of the familial mutation.
+
+516
+01:03:46,571 --> 01:03:54,808
+The analysis is done using chorionic villus sampling and other techniques discussed in Chapter 17 (p. 344).
+
+517
+01:03:54,808 --> 01:04:05,746
+Noninvasive testing using cell-free fetal DNA for β-thalassemia diagnosis has been described (Xiong, 2015; Zhang, 2019).
+
+518
+01:04:05,746 --> 01:04:12,983
+Preimplantation genetic testing allows for identification of affected offspring prior to blastocyst transfer.
+
+519
+01:04:12,983 --> 01:04:15,008
+Platelet Disorders.
+
+520
+01:04:15,008 --> 01:04:17,708
+# Thrombocytopenia.
+
+521
+01:04:17,708 --> 01:04:26,421
+Platelet abnormalities are common and may precede pregnancy, develop coincidentally during pregnancy, or be induced by pregnancy.
+
+522
+01:04:26,421 --> 01:04:35,896
+Thrombocytopenia—defined by a platelet count <150,000/μL—is identified in nearly 10 percent of gravidas .
+
+523
+01:04:35,896 --> 01:04:41,183
+Of these cases, 75 percent are gestational thrombocytopenia.
+
+524
+01:04:41,183 --> 01:04:46,833
+The remainder is due to other causes, and HELLP syndrome is a common one .
+
+525
+01:04:46,833 --> 01:04:55,158
+Thrombocytopenia may be inherited or idiopathic, acute or chronic, and primary or associated with other disorders .
+
+526
+01:04:55,158 --> 01:05:04,958
+Of recent importance is thrombocytopenia in pregnancy complicated by COVID-19 infection (Tang, 2020; Zitiello, 2020).
+
+527
+01:05:04,958 --> 01:05:07,671
+Table 59-5.
+
+528
+01:05:07,671 --> 01:05:13,746
+Some Causes of Thrombocytopenia in Pregnancy # Gestational Thrombocytopenia.
+
+529
+01:05:13,746 --> 01:05:25,046
+In two studies of pregnant women, platelet counts falling below the 2.5th percentile were 116,000 and 123,000/µL .
+
+530
+01:05:25,046 --> 01:05:30,771
+Approximately 1 percent have values <100,000/μL.
+
+531
+01:05:30,771 --> 01:05:34,821
+Bleeding is only encountered with drastically lower values.
+
+532
+01:05:34,821 --> 01:05:50,846
+It seems reasonable that a platelet count of <80,000/μL should trigger an evaluation for etiologies other than incidental or gestational thrombocytopenia, which is unlikely to have a platelet count <50,000/μL.
+
+533
+01:05:50,846 --> 01:05:57,358
+Platelet counts decline normally across pregnancy (Fig. 4-7, p. 62).
+
+534
+01:05:57,358 --> 01:06:06,733
+With gestational thrombocytopenia, the platelet concentration nadir is usually evident in the third trimester and is thought to stem from hemodilution.
+
+535
+01:06:06,733 --> 01:06:14,908
+The normal increased splenic mass of pregnancy also may contribute (Maymon, 2006; Reese, 2018).
+
+536
+01:06:14,908 --> 01:06:18,208
+# Inherited Thrombocytopenias.
+
+537
+01:06:18,208 --> 01:06:26,221
+Bernard-Soulier syndrome and Glanzmann thrombasthenia lack a platelet membrane glycoprotein, which leads to severe dysfunction .
+
+538
+01:06:26,221 --> 01:06:38,283
+Moreover, women exposed to fetal platelets carrying this glycoprotein can develop antibodies against this fetal GPIb/IX antigen to cause alloimmune fetal thrombocytopenia .
+
+539
+01:06:38,283 --> 01:06:49,146
+In 30 pregnancies in 18 women from one review, the primary postpartum hemorrhage rate was 33 percent, and half of women with bleeding required blood transfusion .
+
+540
+01:06:49,146 --> 01:06:56,471
+The reviewers also described six cases of neonatal alloimmune thrombocytopenia and two perinatal deaths.
+
+541
+01:06:56,471 --> 01:07:03,658
+Close monitoring throughout pregnancy and 6 weeks postpartum is critical to avoid potential lifethreatening hemorrhage .
+
+542
+01:07:03,658 --> 01:07:12,683
+May-Hegglin anomaly is an autosomal dominant disorder characterized by thrombocytopenia, giant platelets, and leukocyte inclusions.
+
+543
+01:07:12,683 --> 01:07:24,683
+In one review of 26 studies containing 75 pregnancies, there were four cases of postpartum hemorrhage, 34 cases of neonatal thrombocytopenia, and two fetal deaths .
+
+544
+01:07:24,683 --> 01:07:28,171
+# Immune Thrombocytopenic Purpura.
+
+545
+01:07:28,171 --> 01:07:40,771
+The primary form—also termed idiopathic thrombocytopenic purpura (ITP) —is usually caused by a cluster of IgG antibodies directed against one or more platelet glycoproteins.
+
+546
+01:07:40,771 --> 01:07:52,046
+Antibody-coated platelets are destroyed prematurely in the reticuloendothelial system, especially the spleen (Baucom, 2019; Cooper, 2019).
+
+547
+01:07:52,046 --> 01:07:58,883
+With ITP, platelet counts range from 10,000 to 100,000/μL .
+
+548
+01:07:58,883 --> 01:08:10,558
+Although not proven, ITP is probably mediated by autoantibodies directed at platelet-associated immunoglobulins—PAIgG, PAIgM, and PAIgA.
+
+549
+01:08:10,558 --> 01:08:15,308
+ITP classification is shown in Table 59-6 .
+
+550
+01:08:15,308 --> 01:08:20,721
+In adults, it usually is a chronic disease that rarely resolves spontaneously.
+
+551
+01:08:20,721 --> 01:08:32,521
+Secondary forms of immune-mediated chronic thrombocytopenia appear in association with systemic lupus erythematosus, lymphomas, leukemias, and several systemic diseases.
+
+552
+01:08:32,521 --> 01:08:37,446
+Approximately 2 percent of thrombocytopenic patients have positive
+
+553
+01:08:37,612 --> 01:08:44,899
+serological tests for lupus, and in some cases, levels of anticardiolipin antibodies are high.
+
+554
+01:08:44,849 --> 01:08:53,587
+Last, approximately 10 percent of patients with human immunodeficiency virus (HIV) have associated thrombocytopenia.
+
+555
+01:08:53,587 --> 01:08:56,299
+Table 59-6.
+
+556
+01:08:56,299 --> 01:09:05,287
+Classification of Immune Thrombocytopenia (ITP) Pregnancy Pregnancy does not raise the risk of relapse or worsen active disease.
+
+557
+01:09:05,287 --> 01:09:12,162
+The estimated incidence of ITP complicating pregnancy approximates 1 case in 10,000 births .
+
+558
+01:09:12,162 --> 01:09:20,962
+However, it is not unusual for women who have been in clinical remission for several years to have recurrent thrombocytopenia during pregnancy.
+
+559
+01:09:20,962 --> 01:09:26,962
+Although this may be from closer surveillance, hyperestrogenemia is also implicated.
+
+560
+01:09:26,962 --> 01:09:34,799
+Therapy is considered if the woman has symptomatic bleeding and the platelet count is below 30,000/μL.
+
+561
+01:09:34,799 --> 01:09:39,687
+The corrected target level is 50,000/μL .
+
+562
+01:09:39,687 --> 01:09:46,324
+Primary treatment is corticosteroids, intravenous immune globulin (IVIG), or both .
+
+563
+01:09:46,324 --> 01:09:55,924
+Initially, prednisone, 1 mg/kg daily, helps suppress the phagocytic activity of the splenic monocyte–macrophage system.
+
+564
+01:09:55,924 --> 01:10:02,187
+IVIG given in a total dose of 2 g/kg over 2 to 5 days also is effective.
+
+565
+01:10:02,187 --> 01:10:08,087
+Some immunomodulating agents are avoided in pregnancy due to teratogenicity risks.
+
+566
+01:10:08,087 --> 01:10:19,037
+Azathioprine (Imuran) and rituximab (Truxima), however, which are used in nonpregnant persons with ITP, have been used for other conditions in pregnancy.
+
+567
+01:10:19,037 --> 01:10:32,362
+Last, the thrombopoietin-receptor agonists romiplostim (Nplate) and eltrombopag (Promacta) have stimulated responses in some patients (Patras, 2020; Rosa María, 2020).
+
+568
+01:10:32,362 --> 01:10:43,024
+Prospective observations from the UK Obstetric Surveillance System (UKOSS) of 107 pregnancies were described by Care and associates (2018).
+
+569
+01:10:43,024 --> 01:10:48,062
+Postpartum hemorrhage occurred in half, and in 20 percent it was severe.
+
+570
+01:10:48,062 --> 01:10:54,912
+No neonate needed therapy for thrombocytopenia, and no cases of intracranial hemorrhage were noted.
+
+571
+01:10:54,912 --> 01:11:02,174
+Comont and coworkers (2018) reported on 50 pregnancies in 39 women with ITP.
+
+572
+01:11:02,174 --> 01:11:08,674
+Half had a platelet count <50,000/μL, but 84 percent were treated.
+
+573
+01:11:08,674 --> 01:11:12,412
+They concluded that a third of these women were overtreated.
+
+574
+01:11:12,412 --> 01:11:21,174
+In pregnant women with no response to corticosteroid or IVIG therapy, open or laparoscopic splenectomy may be effective.
+
+575
+01:11:21,174 --> 01:11:26,899
+In late pregnancy, cesarean delivery may be necessary for surgical exposure.
+
+576
+01:11:26,899 --> 01:11:33,249
+Improvement usually follows splenectomy in 1 to 3 days and peaks at approximately 8 days.
+
+577
+01:11:33,249 --> 01:11:42,099
+Fetal and Neonatal Effects Pregnancy complications that are increased with ITP include stillbirth, fetal loss, and preterm birth .
+
+578
+01:11:42,099 --> 01:11:49,462
+Platelet-associated IgG antibodies cross the placenta, and fetal death from hemorrhage occurs occasionally.
+
+579
+01:11:49,462 --> 01:11:57,662
+Studies that included more than 800 neonates born to women with ITP cite an intracranial hemorrhage rate <1 percent .
+
+580
+01:11:57,662 --> 01:12:01,262
+Hemorrhage was not associated with route of delivery.
+
+581
+01:12:01,262 --> 01:12:11,212
+Investigators concur that fetal and maternal platelet counts lack strong correlation (George, 2009; Hachisuga, 2014).
+
+582
+01:12:11,212 --> 01:12:21,587
+Because of this, maternal IgG free platelet antibody levels and platelet-associated antibody levels have been evaluated to predict fetal platelet counts.
+
+583
+01:12:21,587 --> 01:12:25,562
+Again, however, little concurrence with these was found.
+
+584
+01:12:25,562 --> 01:12:30,362
+Measuring fetal platelet counts by direct sampling is not recommended .
+
+585
+01:12:30,362 --> 01:12:39,724
+Alloimmune Thrombocytopenia Disparity between maternal and fetal platelet antigens can stimulate maternal production of antiplatelet antibodies.
+
+586
+01:12:39,724 --> 01:12:47,512
+Such platelet alloimmunization can be severe, and its pathophysiology mirrors that caused by red cell antigens.
+
+587
+01:12:47,512 --> 01:12:52,012
+This is discussed in Chapter 18 (p. 352).
+
+588
+01:12:52,012 --> 01:12:54,687
+# Thrombocytosis.
+
+589
+01:12:54,687 --> 01:13:04,187
+Also called thrombocythemia, thrombocytosis generally is defined as persistent platelet counts >450,000/μL.
+
+590
+01:13:04,187 --> 01:13:14,349
+Common causes of secondary or reactive thrombocytosis are infection, iron deficiency, trauma, inflammatory diseases, and malignant tumors .
+
+591
+01:13:14,349 --> 01:13:22,924
+Platelet counts seldom exceed 1 million/μL in these secondary disorders, and prognosis depends on the underlying disease.
+
+592
+01:13:22,924 --> 01:13:31,574
+Instead, primary or essential thrombocytosis accounts for most cases in which platelet counts exceed 1 million/μL.
+
+593
+01:13:31,574 --> 01:13:37,399
+It is a clonal disorder often due to an acquired mutation in the JAK2 gene .
+
+594
+01:13:37,399 --> 01:13:43,412
+Thrombocytosis usually is asymptomatic, but arterial and venous thromboses
+
+595
+01:13:43,564 --> 01:13:52,776
+may develop, and thrombosis is associated with pregnancy complications (Rabinerson, 2007; Randi, 2014).
+
+596
+01:13:52,726 --> 01:13:57,214
+First-line treatment is aspirin and possibly hydroxyurea.
+
+597
+01:13:57,214 --> 01:14:04,889
+Normal pregnancies have been described in women whose mean platelet counts were >1.25 million/μL.
+
+598
+01:14:04,889 --> 01:14:15,939
+However, in a report of 40 pregnancies in 16 women with essential thrombocythemia, almost half had a spontaneous abortion, fetal demise, or preeclampsia .
+
+599
+01:14:15,939 --> 01:14:25,351
+In 63 pregnancies in 36 women cared for at the Mayo Clinic, a third had a miscarriage, but other pregnancy complications were uncommon .
+
+600
+01:14:25,351 --> 01:14:36,464
+In this observational study, aspirin therapy was associated with a significantly lower abortion rate than that in untreated women—1 versus 75 percent, respectively.
+
+601
+01:14:36,464 --> 01:14:47,564
+Suggested treatments during pregnancy include aspirin, low-molecular-weight heparin, and interferon α (Finazzi, 2012; Vantroyen, 2002).
+
+602
+01:14:47,564 --> 01:14:53,214
+Interferon α therapy during pregnancy was successful in a review of 11 women.
+
+603
+01:14:53,214 --> 01:15:00,414
+One women had transient blindness at midpregnancy when her platelet count was 2.3 million/μL .
+
+604
+01:15:00,414 --> 01:15:03,289
+Thrombotic Microangiopathies.
+
+605
+01:15:03,289 --> 01:15:17,926
+Although not a primary platelet disorder, some degree of thrombocytopenia accompanies the thrombotic microangiopathies, which include thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS).
+
+606
+01:15:17,926 --> 01:15:25,764
+These are characterized by thrombocytopenia, microangiopathic hemolysis, and microvascular thrombosis .
+
+607
+01:15:25,764 --> 01:15:31,676
+Their similarities to HELLP syndrome allude to their obstetrical ramifications.
+
+608
+01:15:31,676 --> 01:15:34,614
+# Etiopathogenesis.
+
+609
+01:15:34,614 --> 01:15:42,401
+Although different causes account for the variable findings within these syndromes, clinically, they frequently are indistinguishable.
+
+610
+01:15:42,401 --> 01:15:50,264
+Inherited or idiopathic TTP is thought to be caused by antibodies to or a plasma deficiency of ADAMTS13 .
+
+611
+01:15:50,264 --> 01:15:58,089
+This endothelium-derived metalloprotease cleaves von Willebrand factor (vWF) to decrease its activity.
+
+612
+01:15:58,089 --> 01:16:07,264
+Conversely, HUS is usually from endothelial damage incited by viral or bacterial infections and is seen primarily in children .
+
+613
+01:16:07,264 --> 01:16:13,014
+Secondary thrombotic microangiopathies are the most common—94 percent .
+
+614
+01:16:13,014 --> 01:16:17,039
+A substantial number of all cases are pregnancy related.
+
+615
+01:16:17,039 --> 01:16:23,664
+Other common causes are malignancies, drugs, transplantations, and autoimmune diseases.
+
+616
+01:16:23,664 --> 01:16:32,051
+COVID-19 infection has been reported to precipitate TTP (Futterman, 2020; Makatsariya, 2020).
+
+617
+01:16:32,051 --> 01:16:39,076
+With TTP, intravascular platelet aggregation stimulates a cascade that leads to end-organ failure.
+
+618
+01:16:39,076 --> 01:16:46,001
+There is endothelial activation and damage, but it is unclear whether this is a consequence or a cause.
+
+619
+01:16:46,001 --> 01:16:52,664
+Elevated levels of unusually large multimers of vWF are identified with active TTP.
+
+620
+01:16:52,664 --> 01:16:58,426
+Various defects in the ADAMTS13 gene create differing clinical presentations.
+
+621
+01:16:58,426 --> 01:17:07,576
+In another mechanism, antibodies raised against ADAMTS13 neutralize its action to cleave vWF multimers during an acute episode.
+
+622
+01:17:07,576 --> 01:17:15,114
+The result is microthrombi of hyaline material containing platelets and fibrin within arterioles and capillaries.
+
+623
+01:17:15,114 --> 01:17:20,926
+When sufficient in number or size, these aggregates produce ischemia or infarction.
+
+624
+01:17:20,926 --> 01:17:23,526
+# Manifestations.
+
+625
+01:17:23,526 --> 01:17:31,789
+Thrombotic microangiopathies are characterized by thrombocytopenia, fragmentation hemolysis, and organ dysfunction.
+
+626
+01:17:31,789 --> 01:17:40,676
+TTP has the pentad of thrombocytopenia, hemolytic anemia, fever, renal impairment, and neurological abnormalities.
+
+627
+01:17:40,676 --> 01:17:46,839
+HUS typically has more profound renal involvement and fewer neurological aberrations .
+
+628
+01:17:46,839 --> 01:17:56,039
+Thrombocytopenia is usually severe, but fortunately, even with very low platelet counts, spontaneous severe hemorrhage is uncommon.
+
+629
+01:17:56,039 --> 01:18:04,901
+Microangiopathic hemolysis is associated with moderate to marked anemia, and erythrocyte transfusions are frequently necessary.
+
+630
+01:18:04,901 --> 01:18:09,864
+The blood smear shows erythrocyte fragmentation and schizocytosis.
+
+631
+01:18:09,864 --> 01:18:20,689
+Reticulocytes and nucleated red blood cells counts are increased, lactate dehydrogenase (LDH) levels are high, and haptoglobin concentrations are decreased .
+
+632
+01:18:20,689 --> 01:18:27,076
+Consumptive coagulopathy, although common, is usually subtle and clinically insignificant.
+
+633
+01:18:27,076 --> 01:18:29,151
+# Treatment.
+
+634
+01:18:29,151 --> 01:18:36,926
+The cornerstone of treatment for TTP is plasmapheresis with fresh-frozen plasma replacement along with glucocorticoids.
+
+635
+01:18:36,926 --> 01:18:45,289
+Plasma exchange removes inhibitors and replaces the ADAMTS13 enzyme (George, 2014; Scully,
+
+636
+01:18:45,460 --> 01:18:57,710
+2019). Treatment with caplacizumab (Cablivi), the anti-vWF immunoglobulin, inhibits the interaction between ultra-large vWF multimers and platelets .
+
+637
+01:18:57,660 --> 01:19:03,785
+These treatments have remarkably improved outcomes in patients with these formerly fatal syndromes.
+
+638
+01:19:03,785 --> 01:19:08,272
+Red cell transfusions are imperative for life-threatening anemia.
+
+639
+01:19:08,272 --> 01:19:13,360
+Treatment is usually continued until the platelet count is normal for 2 days.
+
+640
+01:19:13,360 --> 01:19:16,522
+Unfortunately, relapses are common.
+
+641
+01:19:16,522 --> 01:19:25,247
+Additionally, long-term sequelae such as renal impairment can develop (Dashe, 1998; Vesely, 2015).
+
+642
+01:19:25,247 --> 01:19:39,510
+Treatment for pregnancy-associated HUS, which is complement mediated, is eculizumab (Soliris), the anti-C5 humanized monoclonal antibody (Fakhouri, 2016; Gupta, 2020).
+
+643
+01:19:39,510 --> 01:19:41,760
+# Pregnancy.
+
+644
+01:19:41,760 --> 01:19:52,985
+As shown in the Appendix (p. 1228), ADAMTS13 enzyme activity declines across pregnancy by up to 50 percent (Sánchez-Luceros, 2004).
+
+645
+01:19:52,985 --> 01:19:58,972
+Levels drop even further with preeclampsia, and especially HELLP syndrome.
+
+646
+01:19:58,972 --> 01:20:05,110
+This is consonant with prevailing opinions that TTP is more commonly seen during pregnancy.
+
+647
+01:20:05,110 --> 01:20:16,772
+In the Parkland Hospital experience, 11 pregnancies were complicated by these syndromes among nearly 275,000 gravidas—a frequency of 1 in 25,000 .
+
+648
+01:20:16,772 --> 01:20:29,535
+Some of the disparately higher incidence in pregnancy reported by others may be from the inclusion of women with severe preeclampsia and eclampsia (Hsu, 1995; Magann, 1994).
+
+649
+01:20:29,535 --> 01:20:35,810
+Differences that usually allow appropriate diagnosis are listed in Table 59-7.
+
+650
+01:20:35,810 --> 01:20:43,172
+For example, moderate to severe hemolysis is a rather constant feature of thrombotic microangiopathies.
+
+651
+01:20:43,172 --> 01:20:49,610
+This is seldom severe with preeclampsia, even when complicated by HELLP syndrome .
+
+652
+01:20:49,610 --> 01:21:08,847
+Moreover, although hyaline microthrombi are seen in the liver with thrombotic microangiopathy, hepatocellular necrosis and elevated serum hepatic transaminase levels, which are characteristic of preeclampsia, are not a common feature (Ganesan, 2011; Sadler, 2010).
+
+653
+01:21:08,847 --> 01:21:11,472
+Table 59-7.
+
+654
+01:21:11,472 --> 01:21:25,697
+Some Differential Factors between HELLP Syndrome and Thrombotic Microangiopathiesa The diagnosis of thrombotic microangiopathies, rather than severe preeclampsia, should be clear before initiating therapy.
+
+655
+01:21:25,697 --> 01:21:34,472
+Unfortunately, recall that determination of ADAMTS13 enzyme activity may be difficult to interpret with HELLP syndrome .
+
+656
+01:21:34,472 --> 01:21:42,022
+Plasmapheresis is not indicated for preeclampsia-eclampsia complicated by hemolysis and thrombocytopenia.
+
+657
+01:21:42,022 --> 01:21:54,547
+Importantly, delivery is imperative to reverse the preeclampsia syndrome, but thrombotic microangiopathy is not improved by delivery (Dashe, 1998; Letsky, 2000).
+
+658
+01:21:54,547 --> 01:21:59,747
+Thrombotic microangiopathy was previously fatal in up to half of mothers.
+
+659
+01:21:59,747 --> 01:22:12,647
+However, during the past two decades, and coincidental with plasmapheresis and plasma exchange, maternal survival rates have improved dramatically (Go, 2018; Gupta, 2020).
+
+660
+01:22:12,647 --> 01:22:23,160
+Hunt and associates (2013) reported that TTP accounted for 1 percent of maternal deaths in the United Kingdom from 2003 to 2008.
+
+661
+01:22:23,160 --> 01:22:29,785
+In a systematic review of 60 cases of pregnancyassociated HUS, two mothers died .
+
+662
+01:22:29,785 --> 01:22:36,272
+Microangiopathic syndromes are usually recurrent and frequently unassociated with pregnancy.
+
+663
+01:22:36,272 --> 01:22:47,035
+For example, seven of the 11 women described earlier at Parkland Hospital had recurrent disease either when not pregnant or within the first trimester of a subsequent pregnancy.
+
+664
+01:22:47,035 --> 01:22:54,410
+George (2009) reported recurrent TTP in only five of 36 subsequent pregnancies.
+
+665
+01:22:54,410 --> 01:23:01,922
+In 17 women with nonpregnant atypical HUS, recurrence developed in five of 32 pregnancies.
+
+666
+01:23:01,922 --> 01:23:04,860
+# Long-term Prognosis.
+
+667
+01:23:04,860 --> 01:23:16,622
+Women who are diagnosed with thrombotic microangiopathy during pregnancy are at risk for serious long-term complications (Gaggl, 2018; George, 2018).
+
+668
+01:23:16,622 --> 01:23:21,360
+The relapse rate is as high as 40 percent in nonpregnant patients .
+
+669
+01:23:21,360 --> 01:23:26,610
+The described Parkland experience included a mean 9-year surveillance period .
+
+670
+01:23:26,610 --> 01:23:37,847
+These women had multiple recurrences; renal disease requiring dialysis, transplantation, or both; severe chronic hypertension; and transfusion-acquired infection.
+
+671
+01:23:37,847 --> 01:23:46,260
+Two women died remote from pregnancy—one from dialysis complications and one from transfusion-acquired HIV infection.
+
+672
+01:23:46,260 --> 01:23:55,185
+In the review by Gupta (2020) cited earlier, 15 percent of mothers with atypical HUS had long-term renal failure.
+
+673
+01:23:55,185 --> 01:23:56,960
+In 19
+
+674
+01:23:57,124 --> 01:24:03,024
+women with primary atypical HUS, eight progressed to end-stage renal disease .
+
+675
+01:24:02,974 --> 01:24:06,036
+Inherited Coagulation Defects.
+
+676
+01:24:06,036 --> 01:24:15,649
+# Hemophilias A and B. Obstetrical hemorrhage may infrequently be the consequence of an inherited defect in a protein that controls coagulation .
+
+677
+01:24:15,649 --> 01:24:19,636
+Hemophilia and von Willebrand disease are examples.
+
+678
+01:24:19,636 --> 01:24:27,424
+Hemophilia A is an X-linked recessively transmitted disorder characterized by a marked deficiency of factor VIII.
+
+679
+01:24:27,424 --> 01:24:38,586
+Severity reflects plasma factor levels and is categorized as mild—levels of 6 to 30 percent; moderate —2 to 5 percent; or severe—less than 1 percent .
+
+680
+01:24:38,586 --> 01:24:45,261
+It is rare among women compared with men, in whom the heterozygous state is responsible for the disease.
+
+681
+01:24:45,261 --> 01:24:54,061
+Heterozygous women have diminished factor VIII levels, but almost invariably, the homozygous state is requisite for hemophilia A.
+
+682
+01:24:54,061 --> 01:24:59,974
+In a few instances, it appears in women spontaneously from a newly mutated gene.
+
+683
+01:24:59,974 --> 01:25:07,336
+Pregnancy-associated acquired hemophilia A from antibodies may result in severe bleeding-related morbidity .
+
+684
+01:25:07,336 --> 01:25:15,461
+Christmas disease or hemophilia B is caused by severe deficiency of factor IX and has similar genetic and clinical features.
+
+685
+01:25:15,461 --> 01:25:22,299
+Pregnancy The risk of obstetrical bleeding with hemophilia is directly related to factor VIII or IX levels.
+
+686
+01:25:22,299 --> 01:25:32,986
+Affected women have a range of activity that is determined by random X-chromosome inactivation—lyonization—although activity is expected to average 50 percent .
+
+687
+01:25:32,986 --> 01:25:37,249
+Levels below 10 to 20 percent pose hemorrhage risks.
+
+688
+01:25:37,249 --> 01:25:41,436
+If levels fall to near zero, this risk is substantial.
+
+689
+01:25:41,436 --> 01:25:52,674
+Pregnancy does afford some protection, however, because concentrations of both these clotting factors rise appreciably during normal pregnancy (Appendix, p. 1228).
+
+690
+01:25:52,674 --> 01:25:57,011
+Treatment with desmopressin can stimulate factor VIII release.
+
+691
+01:25:57,011 --> 01:26:06,136
+Risks are further reduced by avoiding lacerations, minimizing episiotomy use, and maximizing postpartum uterine contractions.
+
+692
+01:26:06,136 --> 01:26:11,061
+Operative vaginal delivery and cesarean delivery pose bleeding risks.
+
+693
+01:26:11,061 --> 01:26:14,549
+A few articles describe pregnancy courses.
+
+694
+01:26:14,549 --> 01:26:21,586
+Kadir and colleagues (1997) reported that 20 percent of carriers had postpartum hemorrhage.
+
+695
+01:26:21,586 --> 01:26:30,286
+Guy and associates (1992) reviewed five pregnancies in women with hemophilia B, and in all, outcomes were favorable.
+
+696
+01:26:30,286 --> 01:26:35,349
+They recommended factor IX administration if levels are below 10 percent.
+
+697
+01:26:35,349 --> 01:26:40,961
+Desmopressin in selected cases has reduced obstetrical bleeding complications .
+
+698
+01:26:40,961 --> 01:26:47,411
+If a male fetus has hemophilia, the risk of hemorrhage increases after delivery in the neonate.
+
+699
+01:26:47,411 --> 01:26:51,124
+This is especially true if circumcision is attempted.
+
+700
+01:26:51,124 --> 01:26:59,986
+Related to preconceptional counseling, most women with hemophilia A or B carry one affected allele and the other X chromosome is normal.
+
+701
+01:26:59,986 --> 01:27:06,649
+These individuals will have all sons affected by the disease, and half of her daughters will be carriers.
+
+702
+01:27:06,649 --> 01:27:15,386
+Rarely, a woman may carry two abnormal alleles, in which case all daughters will be carriers and all of her sons will inherit the disease.
+
+703
+01:27:15,386 --> 01:27:22,011
+Prenatal diagnosis of hemophilia is possible in some families using chorionic villus biopsy .
+
+704
+01:27:22,011 --> 01:27:28,261
+Preimplantation genetic testing for hemophilia was reviewed by Lavery (2009).
+
+705
+01:27:28,261 --> 01:27:31,561
+# Factor VIII or IX Inhibitors.
+
+706
+01:27:31,561 --> 01:27:38,736
+Rarely, antibodies directed against factor VIII or IX are acquired and may lead to life-threatening hemorrhage.
+
+707
+01:27:38,736 --> 01:27:46,961
+Patients with hemophilia more commonly develop antibodies, and their acquisition in patients without hemophilia is extraordinary.
+
+708
+01:27:46,961 --> 01:27:51,136
+It has been identified rarely in women during the puerperium .
+
+709
+01:27:51,136 --> 01:28:01,374
+The prominent clinical feature is severe, protracted, repetitive hemorrhage from the reproductive tract starting a week or so after an apparently uncomplicated delivery .
+
+710
+01:28:01,374 --> 01:28:05,961
+The activated partial thromboplastin time is markedly prolonged.
+
+711
+01:28:05,961 --> 01:28:16,849
+Treatment has included multiple blood-component transfusions, immunosuppressive therapy, and attempts at various surgical procedures, especially curettage and hysterectomy.
+
+712
+01:28:16,849 --> 01:28:29,311
+A recombinant activated factor VII (NovoSeven) stops bleeding in up to 75 percent of patients with these inhibitors (Arruda, 2015; Gibson, 2016).
+
+713
+01:28:29,311 --> 01:28:32,186
+# Von Willebrand Disease.
+
+714
+01:28:32,186 --> 01:28:40,849
+At least 20 heterogeneous clinical disorders involve aberrations of factor VIII complex and platelet dysfunction and collectively are
+
+715
+01:28:41,020 --> 01:28:44,757
+termed von Willebrand disease (vWD).
+
+716
+01:28:44,707 --> 01:28:56,132
+These abnormalities are the most frequently inherited bleeding disorders, and their prevalence is as high as 1 to 2 percent (Arruda, 2015; Punt, 2020).
+
+717
+01:28:56,132 --> 01:29:01,657
+Most von Willebrand disease variants are inherited as autosomal dominant traits.
+
+718
+01:29:01,657 --> 01:29:07,182
+Types I and II are the most common, and type I accounts for 75 percent.
+
+719
+01:29:07,182 --> 01:29:11,382
+Type III, which is the most severe, is a recessive trait.
+
+720
+01:29:11,382 --> 01:29:18,820
+Although most cases of acquired vWD develop after age 50 years, some have been reported in pregnant women .
+
+721
+01:29:18,820 --> 01:29:29,207
+Pathogenesis The von Willebrand factor (vWF) is a series of large, plasma multimeric glycoproteins that form part of the factor VIII complex.
+
+722
+01:29:29,207 --> 01:29:36,745
+It is essential for normal platelet adhesion to subendothelial collagen and formation of a primary hemostatic plug.
+
+723
+01:29:36,745 --> 01:29:42,370
+It also plays a major role in stabilizing the coagulant properties of factor VIII.
+
+724
+01:29:42,370 --> 01:29:46,932
+Factor VIII, a glycoprotein, is synthesized by the liver.
+
+725
+01:29:46,932 --> 01:29:55,707
+The von Willebrand precursor, which is present in platelets and plasma, is instead synthesized by endothelium and megakaryocytes.
+
+726
+01:29:55,707 --> 01:30:03,582
+The von Willebrand factor antigen (vWF:Ag) is the antigenic determinant measured by immunoassays.
+
+727
+01:30:03,582 --> 01:30:13,370
+Symptomatic women typically present with easy bruising, epistaxis, mucosal hemorrhage, heavy menses, and excessive bleeding with trauma or surgery.
+
+728
+01:30:13,370 --> 01:30:18,995
+The classic autosomal dominant forms usually cause symptoms in the heterozygous state.
+
+729
+01:30:18,995 --> 01:30:38,770
+With vWD, laboratory features often include a prolonged bleeding time, prolonged partial thromboplastin time, decreased vWF antigen levels, decreased factor VIII immunological and coagulationpromoting activity, and inability of platelets from an affected person to react to various stimuli.
+
+730
+01:30:38,770 --> 01:30:47,645
+Although most patients with vWD have heterozygous variants and associated minor bleeding complications, the disease can be severe.
+
+731
+01:30:47,645 --> 01:30:52,695
+Moreover, homozygous offspring develop serious clotting dysfunction.
+
+732
+01:30:52,695 --> 01:31:01,707
+Chorionic villus sampling with DNA analysis to detect the missing genes has been described, but the specific genetic mutation must be known.
+
+733
+01:31:01,707 --> 01:31:09,445
+Some authorities recommend cesarean delivery to avoid trauma to a possibly affected fetus if the mother has severe disease.
+
+734
+01:31:09,445 --> 01:31:19,657
+Pregnancy During normal pregnancy, maternal levels of both factor VIII and vWF antigen increase substantively (Appendix, p. 1228).
+
+735
+01:31:19,657 --> 01:31:33,907
+Because of this, pregnant women with vWD often develop normal levels of factor VIII coagulant activity and vWF antigen, although their measured bleeding time still may be prolonged (Delbrück, 2019).
+
+736
+01:31:33,907 --> 01:31:39,532
+If factor VIII activity is very low or if there is bleeding, treatment is recommended.
+
+737
+01:31:39,532 --> 01:31:45,607
+Desmopressin by infusion transiently increases factor VIII and vWF levels .
+
+738
+01:31:45,607 --> 01:31:52,807
+With significant bleeding, 15 or 20 units of cryoprecipitate are transfused every 12 hours.
+
+739
+01:31:52,807 --> 01:32:01,782
+Alternatively, factor VIII concentrates (Alphanate, Humate-P) that contain high-molecular-weight vWF multimers may be given.
+
+740
+01:32:01,782 --> 01:32:10,132
+Lubetsky and colleagues (1999) described continuous infusion with Humate-P in a woman during a vaginal delivery.
+
+741
+01:32:10,132 --> 01:32:22,270
+According to Chi and coworkers (2009), conduction analgesia can be provided safely if coagulation defects have corrected or if hemostatic agents are administered prophylactically.
+
+742
+01:32:22,270 --> 01:32:28,995
+Pregnancy outcomes in women with vWD are generally good, but postpartum hemorrhage is common.
+
+743
+01:32:28,995 --> 01:32:36,695
+In one systematic review, with more than 800 deliveries, the postpartum hemorrhage incidence was 33 percent .
+
+744
+01:32:36,695 --> 01:32:47,032
+In a database review of more than 2200 deliveries complicated by vWD, this incidence was only about 5 percent (O’Brien, 2020).
+
+745
+01:32:47,032 --> 01:32:57,270
+From two reviews, postpartum hemorrhage may be primary and at the time of delivery, or it may have a delayed onset (Makhamreh, 2021a,b).
+
+746
+01:32:57,270 --> 01:33:00,332
+# Other Factor Deficiencies.
+
+747
+01:33:00,332 --> 01:33:08,145
+In general, the activity of most procoagulant factors rises across pregnancy (Appendix, p. 1228).
+
+748
+01:33:08,145 --> 01:33:12,782
+Factor VII deficiency is a rare autosomal recessive disorder.
+
+749
+01:33:12,782 --> 01:33:20,832
+Levels of this factor increase during normal pregnancy, but these may rise only mildly in women with factor VII deficiency .
+
+750
+01:33:20,832 --> 01:33:30,470
+A systematic review of 94 births found no difference in postpartum hemorrhage rates with or without prophylaxis with recombinant factor VIIa .
+
+751
+01:33:30,470 --> 01:33:33,532
+Factor X or Stuart-Prower factor
+
+752
+01:33:33,700 --> 01:33:38,425
+deficiency is rare and inherited as an autosomal recessive trait.
+
+753
+01:33:38,375 --> 01:33:43,700
+Factor X levels typically rise by 50 percent during normal pregnancy.
+
+754
+01:33:43,700 --> 01:33:47,525
+Despite this, adverse pregnancy outcome are common.
+
+755
+01:33:47,525 --> 01:33:54,587
+Spiliopoulos and coworkers (2019) reported 31 pregnancies in 19 women.
+
+756
+01:33:54,587 --> 01:34:00,850
+They described a high rate of preterm birth, perinatal mortality, and postpartum hemorrhage.
+
+757
+01:34:00,850 --> 01:34:09,312
+Conversely, Nance and colleagues (2012) described 24 pregnancies, of which 18 resulted in a healthy baby.
+
+758
+01:34:09,312 --> 01:34:16,662
+Treatment is with plasma-derived factor X, fresh-frozen plasma, or prothrombin complex concentrates.
+
+759
+01:34:16,662 --> 01:34:22,612
+Factor XI deficiency is inherited as an autosomal recessive trait in most families.
+
+760
+01:34:22,612 --> 01:34:28,950
+It manifests as severe disease in homozygotes but only as a minor defect in heterozygotes.
+
+761
+01:34:28,950 --> 01:34:34,162
+It is most prevalent in Ashkenazi Jews and is rarely seen in pregnancy.
+
+762
+01:34:34,162 --> 01:34:42,725
+In one review of 105 pregnancies from 33 affected women, 70 percent had an uneventful pregnancy and delivery .
+
+763
+01:34:42,725 --> 01:34:53,087
+Authors recommended peripartum treatment with factor XI concentrate for cesarean delivery and advised against epidural analgesia unless factor XI is given.
+
+764
+01:34:53,087 --> 01:35:00,437
+From another review, factor XI levels and bleeding severity correlated poorly in women with severe deficiency .
+
+765
+01:35:00,437 --> 01:35:12,525
+Wiewel-Verschueren and associates (2016) performed a systematic review of 27 studies with 372 women and reported that 18 percent had postpartum hemorrhage.
+
+766
+01:35:12,525 --> 01:35:19,012
+Factor XII deficiency is another autosomal recessive disorder that rarely complicates pregnancy.
+
+767
+01:35:19,012 --> 01:35:25,275
+A greater incidence of thromboembolism is encountered in nonpregnant patients with this deficiency.
+
+768
+01:35:25,275 --> 01:35:32,650
+Factor XIII deficiency is an autosomal recessive trait and may be associated with maternal intracranial hemorrhage .
+
+769
+01:35:32,650 --> 01:35:41,087
+In their review, Kadir and associates (2009) cited an increased risk of recurrent miscarriage and placental abruption.
+
+770
+01:35:41,087 --> 01:35:45,062
+It has also been reported to cause umbilical cord bleeding .
+
+771
+01:35:45,062 --> 01:35:47,900
+Treatment is fresh frozen plasma.
+
+772
+01:35:47,900 --> 01:35:57,887
+Naderi and colleagues (2012) described 17 successful pregnancies in women receiving weekly prophylaxis with factor XIII concentrate.
+
+773
+01:35:57,887 --> 01:36:05,450
+Fibrinogen abnormalities—either qualitative or quantitative—also may cause coagulation abnormalities.
+
+774
+01:36:05,450 --> 01:36:15,275
+Autosomally inherited abnormalities usually involve the formation of a functionally defective fibrinogen— commonly referred to as dysfibrinogenemia.
+
+775
+01:36:15,275 --> 01:36:21,862
+Familial hypofibrinogenemia and sometimes afibrinogenemia are infrequent recessive disorders.
+
+776
+01:36:21,862 --> 01:36:28,800
+Our experience suggests that hypofibrinogenemia represents a heterozygous autosomal dominant state.
+
+777
+01:36:28,800 --> 01:36:37,137
+The thrombin-clottable protein level in these patients typically ranges from 80 to 110 mg/dL when nonpregnant.
+
+778
+01:36:37,137 --> 01:36:47,325
+Cai and coworkers (2018) described successful outcomes in affected women in whom fibrinogen or plasma infusions were given throughout pregnancy.
+
+779
+01:36:47,325 --> 01:36:49,325
+Thrombophilias.
+
+780
+01:36:49,325 --> 01:36:57,987
+Several important regulatory proteins act as inhibitors at strategic sites in the coagulation cascade to maintain blood fluidity.
+
+781
+01:36:57,987 --> 01:37:03,612
+Inherited deficiencies of these inhibitory proteins are caused by gene mutations.
+
+782
+01:37:03,612 --> 01:37:10,862
+Because they may be associated with recurrent thromboembolism, they are collectively referred to as thrombophilias.
+
+783
+01:37:10,862 --> 01:37:21,062
+These are discussed in Chapter 55 (p. 976) and reviewed by the American College of Obstetricians and Gynecologists (2020).
+

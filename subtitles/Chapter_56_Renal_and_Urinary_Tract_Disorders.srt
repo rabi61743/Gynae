@@ -1,0 +1,2528 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:06,762
+Chapter 56: Renal and Urinary Tract Disorders.
+
+3
+00:00:06,762 --> 00:00:27,112
+Pregnancy-Induced Urinary Tract Changes Urinary Tract Infections Nephrolithiasis Pregnancy After Renal Transplantation Polycystic Kidney Disease Glomerular Diseases Chronic Kidney Disease Acute Kidney Injury Lower Urinary Tract Lesions References Disorders of the kidneys and urinary tract are commonly encountered in pregnancy.
+
+4
+00:00:27,112 --> 00:00:31,650
+Some precede pregnancy—one example is nephrolithiasis.
+
+5
+00:00:31,650 --> 00:00:41,787
+Pregnancy-induced changes may predispose to the development or worsening of urinary tract disorders—an example is the markedly increased risk for pyelonephritis.
+
+6
+00:00:41,787 --> 00:00:47,800
+Last, renal pathology unique to pregnancy, such as preeclampsia, can develop.
+
+7
+00:00:47,800 --> 00:00:56,787
+In one Australian study, kidney disorders had an incidence of 0.3 percent in 407,580 births .
+
+8
+00:00:56,787 --> 00:01:00,312
+Pregnancy-Induced Urinary Tract Changes.
+
+9
+00:01:00,312 --> 00:01:07,475
+During normal pregnancy, significant changes in both structure and function take place in the urinary tract .
+
+10
+00:01:07,475 --> 00:01:13,400
+The kidneys become larger, and dilation of the renal calyces and ureters can be striking.
+
+11
+00:01:13,400 --> 00:01:20,912
+Some dilation develops before 14 weeks and likely is due to progesterone-induced relaxation of the muscularis.
+
+12
+00:01:20,912 --> 00:01:28,737
+More marked dilation is apparent beginning in midpregnancy and stems from ureteral compression, especially on the right side.
+
+13
+00:01:28,737 --> 00:01:33,112
+Vesicoureteral reflux also occurs during pregnancy.
+
+14
+00:01:33,112 --> 00:01:42,162
+Important consequences of these physiological changes are an increased risk of upper urinary infection and erroneous interpretation of studies.
+
+15
+00:01:42,162 --> 00:01:47,875
+Evidence of functional renal hypertrophy becomes apparent very soon after conception.
+
+16
+00:01:47,875 --> 00:01:52,212
+Glomeruli are larger, although cell numbers are not greater .
+
+17
+00:01:52,212 --> 00:02:06,537
+Intrarenal vasodilation lowers resistance of both afferent and efferent arterioles, and leads to higher effective renal plasma flow and glomerular filtration (Helal, 2012; Hussein, 2014).
+
+18
+00:02:06,537 --> 00:02:14,837
+By 12 weeks’ gestation, the glomerular filtration rate (GFR) is already 20 percent above nonpregnant values .
+
+19
+00:02:14,837 --> 00:02:21,350
+Ultimately, renal plasma flow rises by 40 percent and GFR by 65 percent.
+
+20
+00:02:21,350 --> 00:02:28,575
+Consequently, serum concentrations of creatinine and urea decline substantively across pregnancy.
+
+21
+00:02:28,575 --> 00:02:36,525
+Thus, values within a nonpregnant normal range may be abnormal for pregnancy (Appendix, p. 1232).
+
+22
+00:02:36,525 --> 00:02:42,887
+Other alterations include those related to acid–base homeostasis and osmoregulation.
+
+23
+00:02:42,887 --> 00:02:46,787
+# Assessment of Renal Function During Pregnancy.
+
+24
+00:02:46,787 --> 00:02:54,100
+Urinalysis results are essentially unchanged during normal pregnancy, except for occasional glucosuria.
+
+25
+00:02:54,100 --> 00:03:02,875
+In nondiabetic gravidas, glucosuria is thought to stem from a pregnancy-related reduced rate of renal tubular glucose reabsorption .
+
+26
+00:03:02,875 --> 00:03:11,600
+This normal physiological change may add confusion and concerns for a gestational diabetes mellitus (GDM) diagnosis.
+
+27
+00:03:11,600 --> 00:03:19,737
+Indeed, 1+ or greater urine dipstick readings have been associated with subsequent GDM diagnosis later in pregnancy.
+
+28
+00:03:19,737 --> 00:03:30,587
+Despite this association, urine dipstick testing alone shows poor sensitivity to diagnose GDM (Buhlin, 2004; Olagbuji, 2015).
+
+29
+00:03:30,587 --> 00:03:44,775
+For women with glucosuria, no guidelines in the United States direct practice, but in the United Kingdom, early oral glucose testing is considered for those with an isolated 2+ or repetitive 1+ urine dipstick readings .
+
+30
+00:03:44,775 --> 00:03:47,687
+This seems to be a reasonable approach.
+
+31
+00:03:47,687 --> 00:03:54,925
+Protein excretion is slightly elevated, but it seldom reaches levels that are detected by usual screening methods.
+
+32
+00:03:54,925 --> 00:04:08,650
+Higby and colleagues (1994) reported 24-hour protein excretion in normal pregnancy to be 115 mg, with a 95-percent confidence level of 260 mg/d .
+
+33
+00:04:08,650 --> 00:04:12,612
+This value did not significantly differ by trimester.
+
+34
+00:04:12,612 --> 00:04:20,762
+Albumin constitutes only a small part of total protein excretion, and amounts range from 5 to 30 mg/d.
+
+35
+00:04:20,762 --> 00:04:30,775
+From their review, Airoldi and Weinstein (2007) concluded that proteinuria must exceed 300 mg/d to be considered abnormal.
+
+36
+00:04:30,775 --> 00:04:36,750
+Many consider 500 mg/d to be important with gestational hypertension.
+
+37
+00:04:36,750 --> 00:04:49,362
+As an initial surrogate for 24-hour collections, quantification of the urinary protein-to-creatinine ratio in a spot urine sample is helpful in estimating a 24-hour protein excretion rate.
+
+38
+00:04:49,362 --> 00:04:55,712
+The ratio is nearly the same numerically as the number of grams of protein excreted in urine per day.
+
+39
+00:04:55,712 --> 00:04:57,887
+This measurement is
+
+40
+00:04:58,036 --> 00:05:01,073
+best obtained from a first morning void.
+
+41
+00:05:01,023 --> 00:05:06,961
+Surprisingly, women with lower urinary tract infections do not have more proteinuria .
+
+42
+00:05:06,961 --> 00:05:09,911
+Blood is another urinalysis marker.
+
+43
+00:05:09,911 --> 00:05:22,511
+In one study, 3 percent of 4307 nulliparas who were screened before 20 weeks’ gestation had idiopathic hematuria, defined as 1+ or greater blood on urine dipstick .
+
+44
+00:05:22,511 --> 00:05:27,111
+These women had a twofold higher risk of developing preeclampsia.
+
+45
+00:05:27,111 --> 00:05:36,886
+However, the link between preeclampsia and hematuria has not been found by all (Brown, 2005; Shahriaki, 2016).
+
+46
+00:05:36,886 --> 00:05:48,273
+In another study of 1000 women screened during pregnancy, Brown and coworkers (2005) reported a 15percent incidence of dipstick microscopic hematuria.
+
+47
+00:05:48,273 --> 00:05:55,048
+Most women had trace levels of hematuria, and the false-positive rate with this tool was 40 percent.
+
+48
+00:05:55,048 --> 00:06:03,948
+Notably, other elements such as vitamin C, povidone-iodine, myoglobin, free hemoglobin can produce false-positive results.
+
+49
+00:06:03,948 --> 00:06:08,786
+Thus, positive dipstick results should prompt formal urinalysis.
+
+50
+00:06:08,786 --> 00:06:16,473
+Microscopic hematuria is defined as >3 red blood cells (RBCs) per high-powered field (HPF).
+
+51
+00:06:16,473 --> 00:06:23,486
+For verified asymptomatic microscopic hematuria, few guidelines direct the best evaluation.
+
+52
+00:06:23,486 --> 00:06:27,236
+History and physical often point to benign causes.
+
+53
+00:06:27,236 --> 00:06:33,036
+If not, initial exclusion of infection by urinalysis or culture is reasonable.
+
+54
+00:06:33,036 --> 00:06:47,811
+For early glomerular disease, serum creatinine and blood urea nitrogen levels, a spot protein-to-creatinine ratio or 24-hour urine collection, and urinalysis with examination of urine sediment can aid diagnosis.
+
+55
+00:06:47,811 --> 00:06:54,811
+With this last step, proteinuria, dysmorphic RBCs, and cellular casts are characteristics.
+
+56
+00:06:54,811 --> 00:07:05,886
+To help exclude neoplastic or stone disease, magnetic resonance urography (MRU) of the upper and lower urinary tract and cystoscopy is suitable in pregnancy .
+
+57
+00:07:05,886 --> 00:07:23,636
+However, the American College of Obstetricians and Gynecologists (2017) recommends against the last steps to exclude cancer for asymptomatic, low-risk, never-smoking women younger than 50 years who have ≤25 RBCs seen per HPF.
+
+58
+00:07:23,636 --> 00:07:35,048
+If the serum creatinine level in pregnancy persistently exceeds 0.9 mg/dL (75 µmol/L), intrinsic renal disease should be suspected .
+
+59
+00:07:35,048 --> 00:07:40,798
+In these cases, some determine the creatinine clearance as an estimate of the GFR.
+
+60
+00:07:40,798 --> 00:07:48,411
+Of imaging tools, sonography informs on renal size, relative consistency, and elements of obstruction.
+
+61
+00:07:48,411 --> 00:07:52,923
+Full-sequence intravenous pyelography is not done routinely.
+
+62
+00:07:52,923 --> 00:08:03,973
+However, the clinical situation may warrant one-shot pyelography, in which contrast medium injection is followed after 30 minutes by one or two abdominal radiographs .
+
+63
+00:08:03,973 --> 00:08:13,111
+Magnetic resonance (MR) imaging of renal masses provides excellent results due to its excellent resolution at soft-tissue interfaces .
+
+64
+00:08:13,111 --> 00:08:18,748
+Cystoscopy is performed for the same indications as in the nonpregnant population.
+
+65
+00:08:18,748 --> 00:08:27,423
+Ureteroscopy similarly may be indicated and carries an approximate 5percent complication rate during stone removal during pregnancy .
+
+66
+00:08:27,423 --> 00:08:34,936
+Although relatively safe during pregnancy, renal biopsy usually is postponed unless results may change therapy.
+
+67
+00:08:34,936 --> 00:08:44,886
+From a review of 243 biopsies in pregnant women, the incidence of complications was 7 percent compared with 1 percent in postpartum women .
+
+68
+00:08:44,886 --> 00:08:56,536
+Lindheimer and colleagues (2013) recommend its consideration for those with rapid deterioration of renal function of unclear etiology or with symptomatic nephrotic syndrome.
+
+69
+00:08:56,536 --> 00:09:01,486
+We have found biopsy helpful in selected cases to direct management.
+
+70
+00:09:01,486 --> 00:09:10,598
+Renal biopsy performed in normal pregnant volunteers showed that approximately 50 percent had slight to moderate glomerular endotheliosis .
+
+71
+00:09:10,598 --> 00:09:17,848
+In contrast, all 27 women with proteinuric hypertension had moderate to severe endotheliosis.
+
+72
+00:09:17,848 --> 00:09:21,623
+# Pregnancy After Unilateral Nephrectomy.
+
+73
+00:09:21,623 --> 00:09:28,461
+After removal of one kidney, a remaining normal kidney provides augmented compensatory renal function.
+
+74
+00:09:28,461 --> 00:09:31,848
+With pregnancy, this is further amplified.
+
+75
+00:09:31,848 --> 00:09:39,161
+Functional evaluation of the remaining kidney is essential, even though most women have no difficulty in pregnancy.
+
+76
+00:09:39,161 --> 00:09:46,473
+At minimum, the serum creatinine level is measured and a urine spot protein:creatinine ratio is determined.
+
+77
+00:09:46,473 --> 00:09:52,361
+No long-term permanent consequences accompany kidney donation done before pregnancy.
+
+78
+00:09:52,361 --> 00:09:54,311
+However, the
+
+79
+00:09:54,460 --> 00:10:04,247
+incidence of subsequent preeclampsia is greater (Davis, 2019; Steele, 2019; Vannevel, 2018).
+
+80
+00:10:04,197 --> 00:10:06,872
+Urinary Tract Infections.
+
+81
+00:10:06,872 --> 00:10:13,235
+Asymptomatic or covert bacteriuria is frequent in pregnancy and is an infection precursor.
+
+82
+00:10:13,235 --> 00:10:19,522
+True infections of the urinary tract are the most prevalent bacterial infections during pregnancy.
+
+83
+00:10:19,522 --> 00:10:28,572
+Symptomatic infection includes cystitis, or it may involve the renal calyces, pelvis, and parenchyma to cause pyelonephritis.
+
+84
+00:10:28,572 --> 00:10:33,397
+Organisms from the normal perineal flora cause urinary infections.
+
+85
+00:10:33,397 --> 00:10:38,910
+Escherichia coli strains most commonly cause nonobstructive pyelonephritis.
+
+86
+00:10:38,910 --> 00:10:45,585
+In approximately 90 percent of these organisms, adhesins such as P- and S-fimbriae are present.
+
+87
+00:10:45,585 --> 00:10:57,385
+These are cell-surface protein structures that enhance bacterial adherence to vaginal and uroepithelial cells and virulence (Hooton, 2012; Spurbeck, 2011).
+
+88
+00:10:57,385 --> 00:11:05,172
+Maternal deaths have been attributed to E coli bearing Dr+ and P adhesins (Sledzińska, 2011).
+
+89
+00:11:05,172 --> 00:11:13,822
+Urinary stasis, vesicoureteral reflux, and diabetes mellitus predispose to symptomatic upper urinary infections.
+
+90
+00:11:13,822 --> 00:11:19,985
+Moreover, data suggest that pregnant women have more severe sequelae from urosepsis.
+
+91
+00:11:19,985 --> 00:11:27,660
+As one influence, the T helper cell (Th1:Th2) ratio of normal pregnancy is reversed .
+
+92
+00:11:27,660 --> 00:11:33,010
+Additionally, various perturbations of cytokine expression have been reported .
+
+93
+00:11:33,010 --> 00:11:39,447
+In the puerperium, several risk factors also predispose a woman to urinary infections.
+
+94
+00:11:39,447 --> 00:11:47,910
+Bladder sensitivity to intravesical fluid tension is often diminished as a consequence of labor trauma or conduction analgesia .
+
+95
+00:11:47,910 --> 00:11:57,572
+Also, the sensation of bladder distention can be masked by discomfort from an episiotomy, periurethral laceration, or vaginal wall hematoma.
+
+96
+00:11:57,572 --> 00:12:09,022
+Normal postpartum diuresis, while usually protective, may worsen bladder overdistention, and catheterization performed to relieve retention may lead to urinary infection.
+
+97
+00:12:09,022 --> 00:12:12,272
+# Asymptomatic Bacteriuria.
+
+98
+00:12:12,272 --> 00:12:19,572
+This refers to persistent, actively multiplying bacteria within the urinary tract in asymptomatic women.
+
+99
+00:12:19,572 --> 00:12:30,922
+It is defined as one or more bacterial species that has a count ≥105 colony-forming units/mL determined by urine culture of a voided specimen .
+
+100
+00:12:30,922 --> 00:12:39,322
+Its prevalence in sexually active nonpregnant women is 2 to 6 percent (Hooten, 2000; Nicolle, 2003).
+
+101
+00:12:39,322 --> 00:12:48,172
+The highest incidence is in African-American multiparas with sickle-cell trait, and the lowest incidence is in affluent white women of low parity.
+
+102
+00:12:48,172 --> 00:12:52,972
+Asymptomatic infection is also more common in women with diabetes .
+
+103
+00:12:52,972 --> 00:13:00,560
+In most women, bacteriuria is recurrent or persistent, and thus it frequently is discovered during prenatal care.
+
+104
+00:13:00,560 --> 00:13:07,285
+The incidence during pregnancy is similar to that in nonpregnant women and varies from 2 to 7 percent .
+
+105
+00:13:07,285 --> 00:13:12,735
+Bacteriuria is typically already present at the time of the first prenatal visit.
+
+106
+00:13:12,735 --> 00:13:21,510
+An initial positive urine culture result should prompt treatment, after which, fewer than 1 percent of women develop a symptomatic UTI .
+
+107
+00:13:21,510 --> 00:13:32,447
+It may be prudent to treat lower concentrations, because pyelonephritis develops in some women with colony counts of only 20,000 to 50,000 organisms/mL .
+
+108
+00:13:32,447 --> 00:13:43,772
+Significance If asymptomatic bacteriuria (ASB) is not treated, approximately 25 percent of affected women will develop symptomatic infection during pregnancy.
+
+109
+00:13:43,772 --> 00:13:49,522
+Eradication of bacteriuria with antimicrobial agents prevents most of these.
+
+110
+00:13:49,522 --> 00:14:05,910
+The American Academy of Pediatrics and the American College of Obstetricians and Gynecologists (2017), as well as the U.S. Preventive Services Task Force (2019), recommend screening for bacteriuria at the first prenatal visit .
+
+111
+00:14:05,910 --> 00:14:10,872
+Standard urine cultures may not be cost effective when the prevalence is low.
+
+112
+00:14:10,872 --> 00:14:18,122
+Instead, less expensive screening tests such as the leukocyte esterase and nitrite dipstick are cost-effective .
+
+113
+00:14:18,122 --> 00:14:25,160
+At Parkland Hospital, culture screening is done because of a 5- to 8percent prevalence of bacteriuria.
+
+114
+00:14:25,160 --> 00:14:30,922
+Susceptibility determination is not necessary because initial treatment is empirical .
+
+115
+00:14:30,922 --> 00:14:40,372
+Last, a special agar-coated dipstick culture technique has excellent positive and negative predictive values (Rogozińska, 2016).
+
+116
+00:14:40,372 --> 00:14:47,172
+Other than pyelonephritis prevention, it is unclear whether ASB treatment provides other benefits.
+
+117
+00:14:47,172 --> 00:14:49,097
+In many studies,
+
+118
+00:14:49,252 --> 00:14:52,864
+there was no distinction from symptomatic infection.
+
+119
+00:14:52,814 --> 00:15:11,339
+For example, in a cohort of 25,746 mother-newborn pairs, Schieve and coworkers (1994) reported UTI to be associated with increased risks for low-birthweight neonates, preterm delivery, pregnancyassociated hypertension, and anemia.
+
+120
+00:15:11,339 --> 00:15:21,314
+These findings vary from those of Gilstrap and colleagues (1981b) and Whalley (1967), who studied asymptomatic infection.
+
+121
+00:15:21,314 --> 00:15:29,752
+A California database study reported 160,000 women with UTIs were treated in the emergency department or hospital .
+
+122
+00:15:29,752 --> 00:15:38,764
+These presumed symptomatic infections were associated with a 1.4-fold higher preterm delivery rate in those <37 weeks.
+
+123
+00:15:38,764 --> 00:15:47,652
+Treatment Bacteriuria responds to empirical treatment with any of several antimicrobial regimens listed in Table 56-1.
+
+124
+00:15:47,652 --> 00:15:56,152
+E coli is the most common species isolated in pregnant women (Le Blanc, 1964; Nicolle, 2003).
+
+125
+00:15:56,152 --> 00:16:00,127
+Selection can be based on in vitro susceptibilities.
+
+126
+00:16:00,127 --> 00:16:11,364
+However, in our extensive experience, empirical oral treatment for 10 days with nitrofurantoin macrocrystals, 100 mg at bedtime, is usually effective.
+
+127
+00:16:11,364 --> 00:16:22,302
+Lumbiganon and associates (2009) reported satisfactory results with a 7-day oral course of nitrofurantoin, 100 mg given twice daily.
+
+128
+00:16:22,302 --> 00:16:28,252
+Single-dose antimicrobial therapy also has been used with success for bacteriuria.
+
+129
+00:16:28,252 --> 00:16:35,289
+The important caveat is that, regardless of regimen given, the recurrence rate approximates 30 percent.
+
+130
+00:16:35,289 --> 00:16:40,464
+This may indicate covert upper tract infection and the need for longer therapy.
+
+131
+00:16:40,464 --> 00:16:43,064
+Table 56-1.
+
+132
+00:16:43,064 --> 00:16:53,339
+Oral Antimicrobial Agents Used for Treatment of Pregnant Women with Asymptomatic Bacteriuria Periodic surveillance is necessary to prevent recurrent UTIs .
+
+133
+00:16:53,339 --> 00:16:59,939
+The first recurrence is considered a treatment failure and extended therapy for 21 days is considered.
+
+134
+00:16:59,939 --> 00:17:06,989
+For women with persistent or frequent ASB, suppressive therapy for the remainder of pregnancy can be given.
+
+135
+00:17:06,989 --> 00:17:12,652
+We routinely use nitrofurantoin, 100 mg orally at bedtime.
+
+136
+00:17:12,652 --> 00:17:17,764
+Its rare but serious side effects are pulmonary and hepatic toxicity.
+
+137
+00:17:17,764 --> 00:17:20,939
+# Cystitis and Urethritis.
+
+138
+00:17:20,939 --> 00:17:30,814
+According to the Centers for Disease Control and Prevention, 7.2 percent of pregnant women were treated as an outpatient for a UTI in 2014 .
+
+139
+00:17:30,814 --> 00:17:38,714
+Cystitis is characterized by dysuria, urgency, and frequency but causes few associated systemic findings.
+
+140
+00:17:38,714 --> 00:17:42,452
+Pyuria and bacteriuria are usually found.
+
+141
+00:17:42,452 --> 00:17:49,614
+Microscopic hematuria is common, and occasionally gross hematuria stems from hemorrhagic cystitis.
+
+142
+00:17:49,614 --> 00:17:57,139
+Although cystitis is usually uncomplicated, the upper urinary tract may become involved by ascending infection.
+
+143
+00:17:57,139 --> 00:18:04,314
+Almost 40 percent of pregnant women with acute pyelonephritis have preceding symptoms of lower tract infection .
+
+144
+00:18:04,314 --> 00:18:08,877
+Women with cystitis respond readily to any of several regimens.
+
+145
+00:18:08,877 --> 00:18:15,389
+Most of the three-day regimens listed in Table 56-1 are usually 90-percent effective.
+
+146
+00:18:15,389 --> 00:18:23,139
+Single-dose therapy is less effective, and if it is used, concomitant pyelonephritis must be confidently excluded.
+
+147
+00:18:23,139 --> 00:18:32,002
+Lower urinary tract symptoms with pyuria accompanied by a sterile urine culture may be from urethritis caused by Chlamydia trachomatis.
+
+148
+00:18:32,002 --> 00:18:38,202
+Mucopurulent cervicitis usually coexists, and azithromycin therapy is effective .
+
+149
+00:18:38,202 --> 00:18:41,164
+# Acute Pyelonephritis.
+
+150
+00:18:41,164 --> 00:18:48,177
+Infection of the renal parenchyma is the most common serious nonobstetrical medical complication of pregnancy.
+
+151
+00:18:48,177 --> 00:18:58,239
+One study of the Nationwide Inpatient Sample found that nearly 29,000 hospitalizations in 2006 were for acute pyelonephritis in pregnancy .
+
+152
+00:18:58,239 --> 00:19:06,989
+The highest rates were noted for adolescents at 17.5 per 1000 and for Hispanic women at 10.1 per 1000.
+
+153
+00:19:06,989 --> 00:19:17,402
+In another study of more than 70,000 pregnancies in a managed care organization, 3.5 percent of antepartum admissions were for urinary infections .
+
+154
+00:19:17,402 --> 00:19:28,227
+The seriousness is underscored by the observations of Snyder and coworkers (2013) that pyelonephritis was the leading cause of septic shock during pregnancy.
+
+155
+00:19:28,227 --> 00:19:39,752
+Moreover, in a 2-year audit of admissions to the Parkland Hospital Obstetrical Intermediate Care Unit, 12 percent of antepartum admissions were for sepsis caused by pyelonephritis .
+
+156
+00:19:39,752 --> 00:19:47,627
+Of concern, maternal urosepsis may be related to an increased incidence of cerebral palsy in preterm newborns .
+
+157
+00:19:47,627 --> 00:19:50,302
+Fortunately, data do not
+
+158
+00:19:50,452 --> 00:19:53,989
+suggest serious long-term maternal sequelae .
+
+159
+00:19:53,939 --> 00:20:02,802
+Clinical Findings Renal infection develops more frequently in the second half of pregnancy, and nulliparity and young age are risk factors .
+
+160
+00:20:02,802 --> 00:20:09,839
+Pyelonephritis is unilateral and right-sided in more than half of cases, and it is bilateral in a fourth.
+
+161
+00:20:09,839 --> 00:20:16,964
+Its abrupt onset is marked by fever, shaking chills, and aching pain in one or both lumbar regions.
+
+162
+00:20:16,964 --> 00:20:21,739
+Anorexia, nausea, and vomiting may worsen dehydration.
+
+163
+00:20:21,739 --> 00:20:27,589
+Tenderness usually can be elicited by percussion in one or both costovertebral angles.
+
+164
+00:20:27,589 --> 00:20:34,177
+The urinary sediment contains many leukocytes, frequently in clumps, and numerous bacteria.
+
+165
+00:20:34,177 --> 00:20:44,052
+The differential diagnosis includes, among others, labor, chorioamnionitis, appendicitis, placental abruption, or infarcted leiomyoma.
+
+166
+00:20:44,052 --> 00:20:48,864
+Bacteremia is demonstrated in 15 to 20 percent of these women.
+
+167
+00:20:48,864 --> 00:21:11,802
+E coli is isolated from urine or blood in 70 to 80 percent of infections, Klebsiella pneumoniae in 3 to 5 percent, Enterobacter or Proteus species in 3 to 5 percent, and gram-positive organisms, including group B Streptococcus and Staphylococcus aureus, in up to 10 percent of cases (Hill, 2005; Wing, 2000).
+
+168
+00:21:11,802 --> 00:21:18,564
+Evidence of sepsis is common, and this is discussed in detail in Chapter 50 (p. 888).
+
+169
+00:21:18,564 --> 00:21:28,152
+During care, plasma creatinine is monitored, because 5 percent of pregnant women develop renal dysfunction despite aggressive fluid resuscitation .
+
+170
+00:21:28,152 --> 00:21:34,552
+Follow-up studies have demonstrated that this endotoxin-induced damage is reversible in the long term .
+
+171
+00:21:34,552 --> 00:21:51,777
+In up to 10 percent of women, varying degrees of respiratory insufficiency, including frank pulmonary edema, may result from endotoxin-induced alveolar injury (Cunningham, 1987; Sheffield, 2005; Snyder, 2013).
+
+172
+00:21:51,777 --> 00:21:59,814
+In some cases, pulmonary injury may be so severe that it causes acute respiratory distress syndrome (ARDS).
+
+173
+00:21:59,814 --> 00:22:05,214
+Uterine activity from endotoxins is common and is related to fever severity.
+
+174
+00:22:05,214 --> 00:22:19,952
+In a study by Millar and associates (2003), women with pyelonephritis averaged 5 contractions per hour at admission, and this declined to 2 per hour within 6 hours of intravenous fluid and antimicrobial administration.
+
+175
+00:22:19,952 --> 00:22:30,864
+β-agonist therapy for tocolysis raises the likelihood of respiratory insufficiency from permeability edema because of the sodiumand fluid-retaining properties of those agents .
+
+176
+00:22:30,864 --> 00:22:41,539
+In one study, the incidence of pulmonary edema in women with pyelonephritis who were given β-agonists was 8 percent—a fourfold increase compared with that expected .
+
+177
+00:22:41,539 --> 00:22:49,102
+Endotoxin-induced hemolysis is common, and approximately a third of patients with pyelonephritis develop anemia .
+
+178
+00:22:49,102 --> 00:22:56,877
+With recovery, hemoglobin regeneration is normal because acute infection does not affect erythropoietin production .
+
+179
+00:22:56,877 --> 00:23:03,377
+Management One scheme for management of acute pyelonephritis is shown in Table 56-2.
+
+180
+00:23:03,377 --> 00:23:13,064
+Although we obtain blood cultures when the patient temperature exceeds 39°C, prospective trials show them to be of limited clinical utility .
+
+181
+00:23:13,064 --> 00:23:19,027
+Intravenous hydration to ensure adequate urinary output is the cornerstone of treatment.
+
+182
+00:23:19,027 --> 00:23:26,964
+Antimicrobials also are begun promptly with the caution that they may initially worsen endotoxemia from bacterial lysis.
+
+183
+00:23:26,964 --> 00:23:37,927
+Ongoing surveillance for worsening of sepsis is monitored by serial determinations of urinary output, blood pressure, pulse, temperature, and oxygen saturation.
+
+184
+00:23:37,927 --> 00:23:42,289
+High fever should be lowered with a cooling blanket and acetaminophen.
+
+185
+00:23:42,289 --> 00:23:48,977
+This is especially important in early pregnancy because of possible teratogenic effects of hyperthermia.
+
+186
+00:23:48,977 --> 00:23:51,577
+Table 56-2.
+
+187
+00:23:51,577 --> 00:24:13,652
+Management of the Pregnant Woman with Acute Pyelonephritis Antimicrobial therapy usually is empirical, and ampicillin plus gentamicin; cefazolin or ceftriaxone; or an extended-spectrum antibiotic were all 95-percent effective in randomized trials (Sanchez-Ramos, 1995; Wing, 1998, 2000).
+
+188
+00:24:13,652 --> 00:24:25,552
+Fewer than half of E coli strains are sensitive to ampicillin in vitro, but gentamicin plus ampicillin or plus a cephalosporin generally have a synergistic effect and excellent activity .
+
+189
+00:24:25,552 --> 00:24:30,402
+Serum creatinine levels are monitored if nephrotoxic drugs are given.
+
+190
+00:24:30,402 --> 00:24:35,289
+Initial treatment at Parkland Hospital is ampicillin plus gentamicin.
+
+191
+00:24:35,289 --> 00:24:37,577
+Some recommend suitable
+
+192
+00:24:37,732 --> 00:24:42,157
+substitutes if bacterial studies show in vitro resistance.
+
+193
+00:24:42,107 --> 00:24:53,619
+With any of the regimens discussed, response is usually prompt, and 95 percent of women are afebrile by 72 hours (Hill, 2005; Wing, 2000).
+
+194
+00:24:53,619 --> 00:25:02,969
+After discharge, most recommend oral therapy to complete 10 to 14 days (Hooton, 2012; Johnson, 2018).
+
+195
+00:25:02,969 --> 00:25:12,594
+Recurrent infection—either covert or symptomatic—is common and develops in 30 to 40 percent of women following completion of pyelonephritis treatment.
+
+196
+00:25:12,594 --> 00:25:24,769
+Unless other measures are taken to ensure urine sterility, nitrofurantoin, 100 mg orally at bedtime given for the remainder of the pregnancy, reduces bacteriuria recurrence.
+
+197
+00:25:24,769 --> 00:25:35,344
+Persistent Infection Generally, stepwise defervescence of approximately 1°F per day follows intravenous hydration and antimicrobial therapy.
+
+198
+00:25:35,344 --> 00:25:40,057
+Upwards of 20 percent of women are febrile for more than 4 days .
+
+199
+00:25:40,057 --> 00:25:52,457
+With persistent spiking fever or lack of clinical improvement by 48 to 72 hours, urinary tract obstruction, calculi, or abscess is considered ( Johnson, 2018).
+
+200
+00:25:52,457 --> 00:25:57,107
+In these women, renal sonography is recommended to search for these.
+
+201
+00:25:57,107 --> 00:26:02,544
+Obstruction manifests by abnormal ureteral or pyelocaliceal dilation.
+
+202
+00:26:02,544 --> 00:26:11,332
+Nephrolithiasis, however, is not always seen in a renal sonogram (Butler, 2000; Maikranz, 1987).
+
+203
+00:26:11,332 --> 00:26:21,044
+If stones are strongly suspected despite a nondiagnostic sonographic examination, a plain abdominal radiograph will identify nearly 90 percent.
+
+204
+00:26:21,044 --> 00:26:27,469
+Another option is the modified one-shot intravenous pyelography (p. 995) .
+
+205
+00:26:27,469 --> 00:26:37,544
+Last, persistent infection can be due to an intrarenal or perinephric abscess or phlegmon (Cox, 1988; Rafi, 2012).
+
+206
+00:26:37,544 --> 00:26:43,469
+MR imaging is preferred for abscess detection if renal sonography is nonconclusive .
+
+207
+00:26:43,469 --> 00:26:51,619
+Obstruction relief is important, and we have found that percutaneous nephrostomy is preferable because the stents are more easily replaced.
+
+208
+00:26:51,619 --> 00:26:56,482
+Another method is cystoscopic placement of a double-J ureteral stent.
+
+209
+00:26:56,482 --> 00:27:03,257
+These stents are usually left in place until after delivery and often become encrusted and need replacing .
+
+210
+00:27:03,257 --> 00:27:09,457
+Last, in some women, surgical removal of stones may be needed (p. 1000).
+
+211
+00:27:09,457 --> 00:27:22,444
+Renal abscesses larger than 3 cm may necessitate percutaneous drainage or surgical treatment (Coelho, 2007; Mandal, 2017; Siegel, 1996).
+
+212
+00:27:22,444 --> 00:27:33,732
+Outpatient Management of Pyelonephritis This is an option for nonpregnant women with uncomplicated pyelonephritis (Fox, 2017; Johnson, 2018).
+
+213
+00:27:33,732 --> 00:27:46,419
+Wing and colleagues (1999) described such management in 92 pregnant women who were first given in-hospital intramuscular ceftriaxone, two 1-g doses 24 hours apart.
+
+214
+00:27:46,419 --> 00:27:59,769
+At this point, one third of the group was considered suitable for outpatient therapy, and these women were randomly assigned either to discharge and oral antimicrobials or to continued hospitalization with intravenous therapy.
+
+215
+00:27:59,769 --> 00:28:05,932
+A third of the outpatient management group was unable to adhere to the treatment regimen and was admitted.
+
+216
+00:28:05,932 --> 00:28:13,369
+These findings suggest that outpatient management of pyelonephritis is applicable only to very few pregnant women.
+
+217
+00:28:13,369 --> 00:28:16,182
+# Reflux Nephropathy.
+
+218
+00:28:16,182 --> 00:28:26,144
+This refers to loss of nephron mass from patchy interstitial scarring and tubular atrophy due to high-pressure reflux of sterile urine from the bladder to the kidneys.
+
+219
+00:28:26,144 --> 00:28:33,569
+In adults, long-term complications include hypertension, which may be severe if renal damage is demonstrable .
+
+220
+00:28:33,569 --> 00:28:49,869
+Moreover, reports describing 879 pregnancies in 432 women with reflux nephropathy indicate that impaired renal function and bilateral renal scarring were associated with higher rates of pregnancy-associated hypertensive disorders .
+
+221
+00:28:49,869 --> 00:28:57,482
+Many also had surgical correction of reflux as children, and these women commonly have bacteriuria when pregnant .
+
+222
+00:28:57,482 --> 00:29:08,682
+In other women with reflux nephropathy, no clear history implicates recurrent cystitis, acute pyelonephritis, or obstructive disease (Gebäck, 2016).
+
+223
+00:29:08,682 --> 00:29:15,182
+Chronic renal disease and pregnancy outcome is discussed further later (p. 1003).
+
+224
+00:29:15,182 --> 00:29:17,257
+Nephrolithiasis.
+
+225
+00:29:17,257 --> 00:29:24,444
+Kidney stones develop in 9 percent of women during their lifetime with an average age of onset in the third decade .
+
+226
+00:29:24,444 --> 00:29:31,669
+Calcium salts make up approximately 80 percent of stones, and hyperparathyroidism should be excluded.
+
+227
+00:29:31,669 --> 00:29:35,219
+Calcium oxalate stones are most common in
+
+228
+00:29:35,380 --> 00:29:44,667
+young nonpregnant women, but in pregnancy most stones—65 to 75 percent—are calcium phosphate or hydroxyapatite .
+
+229
+00:29:44,617 --> 00:29:50,180
+Nephrolithiasis is more common in women with prior pregnancies than in nulligravidas.
+
+230
+00:29:50,180 --> 00:30:00,342
+Normal physiological changes of the urinary system may promote stone formation, and elevation of urinary pH reduces calcium phosphate solubility .
+
+231
+00:30:00,342 --> 00:30:05,905
+More than half of patients who have a stone typically form another stone within 10 years.
+
+232
+00:30:05,905 --> 00:30:11,180
+Contrary to past teachings, a low-calcium diet promotes stone formation.
+
+233
+00:30:11,180 --> 00:30:18,067
+Current recommendations to prevent recurrences include hydration and a diet low in sodium and protein .
+
+234
+00:30:18,067 --> 00:30:22,117
+Thiazide diuretics also diminish stone formation.
+
+235
+00:30:22,117 --> 00:30:29,542
+In general, obstruction, infection, intractable pain, and heavy bleeding are indications for stone removal.
+
+236
+00:30:29,542 --> 00:30:39,142
+Extraction by a flexible basket via cystoscopy, although used less often than in the past, is still a reasonable consideration for pregnant women.
+
+237
+00:30:39,142 --> 00:30:46,192
+In nonpregnant patients, stone destruction by lithotripsy is preferred to surgical therapy in most cases.
+
+238
+00:30:46,192 --> 00:30:52,905
+Limited information guides the use of lithotripsy during pregnancy, and it is not generally recommended.
+
+239
+00:30:52,905 --> 00:30:56,080
+# Stone Disease During Pregnancy.
+
+240
+00:30:56,080 --> 00:31:01,242
+The reported incidence of stone disease complicating pregnancy varies widely.
+
+241
+00:31:01,242 --> 00:31:13,867
+At the low end, Butler and coworkers (2000) found an incidence of 0.3 admissions per 1000 pregnancies in more than 186,000 deliveries at Parkland Hospital.
+
+242
+00:31:13,867 --> 00:31:21,530
+In an Israeli study, the incidence in nearly 220,000 pregnancies was 0.8 per 1000 .
+
+243
+00:31:21,530 --> 00:31:27,105
+Most stone episodes are diagnosed in the second and third trimesters of pregnancy .
+
+244
+00:31:27,105 --> 00:31:37,292
+Bladder stones are rare, but recurrent infection and labor obstructed by stones have been reported (Ait Benkaddour, 2006; Ruan, 2011).
+
+245
+00:31:37,292 --> 00:31:43,930
+Data are conflicting whether women with kidney stones have an increased risk for adverse pregnancy outcomes.
+
+246
+00:31:43,930 --> 00:31:55,330
+Swartz and colleagues (2007) reported a preterm delivery rate of 10.6 percent in women with nephrolithiasis compared with 6.4 percent in normal controls.
+
+247
+00:31:55,330 --> 00:32:04,205
+A nationwide case-control study from Taiwan also reported 20- to 40-percent increases in low-birthweight newborns and preterm births .
+
+248
+00:32:04,205 --> 00:32:14,705
+To the contrary, a case-control study from Hungary reported that pregnancy outcomes, including preterm delivery, were similar in women with and without stone disease .
+
+249
+00:32:14,705 --> 00:32:19,305
+Comparable conclusions were drawn from the Israeli study noted earlier .
+
+250
+00:32:19,305 --> 00:32:26,630
+Women who have formed stones prior to pregnancy have a higher incidence of gestational diabetes and preeclampsia .
+
+251
+00:32:26,630 --> 00:32:32,517
+Diagnosis More than 90 percent of pregnant women with nephrolithiasis present with pain.
+
+252
+00:32:32,517 --> 00:32:41,080
+However, some evidence suggests that pregnant women may have fewer symptoms with stone passage because of normal urinary tract dilation .
+
+253
+00:32:41,080 --> 00:32:51,367
+Gross hematuria is less common than in nonpregnant women and has an incidence of 2 to 23 percent (Butler, 2000; Lewis, 2003).
+
+254
+00:32:51,367 --> 00:32:58,455
+Sonography is the first-line study to visualize stones, but as discussed above, many are undetected .
+
+255
+00:32:58,455 --> 00:33:06,830
+Abnormal urinary tract dilation or absent ureteral “jets” of urine into the bladder are indirect indicators of urolithiasis .
+
+256
+00:33:06,830 --> 00:33:13,567
+If abnormal dilation is seen but no stone is visualized, one-shot pyelography may be useful.
+
+257
+00:33:13,567 --> 00:33:16,180
+Figure 56-1.
+
+258
+00:33:16,180 --> 00:33:24,105
+A. Sonographic image of the right upper quadrant demonstrates severe hydronephrosis and thinned echogenic renal parenchyma.
+
+259
+00:33:24,105 --> 00:33:32,730
+B. Application of color Doppler during sonography of the bladder reveals a urine jet (red streak) from the left ureteral orifice.
+
+260
+00:33:32,730 --> 00:33:36,855
+No flow was noted from the right orifice during observation.
+
+261
+00:33:36,855 --> 00:33:45,605
+C. Sagittal CT image shows an obstructing stone in the mid right ureter (arrow) and hydroureteronephrosis (arrow head ).
+
+262
+00:33:45,605 --> 00:33:52,380
+Helical computed tomography (CT) scanning is preferred imaging for nonpregnant individuals.
+
+263
+00:33:52,380 --> 00:33:59,717
+In pregnancy, MR imaging is the second-line test following a nondiagnostic sonographic evaluation .
+
+264
+00:33:59,717 --> 00:34:11,480
+However, if CT imaging is needed, White and colleagues (2007) recommend unenhanced helical CT and cite an average fetal radiation dose to be 7 mGy.
+
+265
+00:34:11,480 --> 00:34:15,792
+Management Treatment depends on symptoms and gestational age .
+
+266
+00:34:15,792 --> 00:34:19,530
+Intravenous hydration and analgesics are given.
+
+267
+00:34:19,530 --> 00:34:23,942
+Patients strain collected urine to identify passed stones.
+
+268
+00:34:24,100 --> 00:34:30,850
+In half of women with symptomatic stones, infection will be identified, and this is treated vigorously.
+
+269
+00:34:30,800 --> 00:34:41,012
+Although calculi infrequently cause symptomatic obstruction during pregnancy, persistent pyelonephritis should prompt a search for obstruction due to nephrolithiasis.
+
+270
+00:34:41,012 --> 00:34:49,937
+Approximately 75 percent of symptomatic women will improve with conservative therapy, and the stone usually passes spontaneously .
+
+271
+00:34:49,937 --> 00:35:04,712
+Others require an invasive procedure such as ureteral stenting, ureteroscopy, percutaneous nephrostomy, transureteral laser lithotripsy, or basket extraction (Butler, 2000; Hosseini, 2017).
+
+272
+00:35:04,712 --> 00:35:14,025
+Watterson and coworkers (2002) described successful transureteral holmium:YAG laser lithotripsy in nine of 10 women.
+
+273
+00:35:14,025 --> 00:35:22,612
+Ultimately, less than 2 percent of symptomatic pregnant women require surgical exploration following one of the procedures listed above .
+
+274
+00:35:22,612 --> 00:35:27,875
+The need for fluoroscopy limits the utility of percutaneous nephrolithotomy.
+
+275
+00:35:27,875 --> 00:35:33,037
+Extracorporeal shock-wave lithotripsy is contraindicated in pregnancy.
+
+276
+00:35:33,037 --> 00:35:36,287
+Pregnancy After Renal Transplantation.
+
+277
+00:35:36,287 --> 00:35:47,450
+In 2020, more than 100,000 registrants were waiting for renal transplantations through the Organ Procurement and Transplantation Network —OPTN (2020).
+
+278
+00:35:47,450 --> 00:35:55,000
+The 1-year graft survival rate is 95 percent for those from living donors and is 90 percent from deceased donors.
+
+279
+00:35:55,000 --> 00:36:07,862
+Survival rates approximately doubled in the 1990s, due in large part to the introduction of cyclosporine and muromonab-CD3 (Orthoclone OKT3) to prevent and treat organ rejection.
+
+280
+00:36:07,862 --> 00:36:13,412
+The latter is a monoclonal antibody against the CD3 receptor of T cells.
+
+281
+00:36:13,412 --> 00:36:20,087
+Since then, mycophenolate mofetil and tacrolimus have further reduced acute rejection episodes.
+
+282
+00:36:20,087 --> 00:36:23,337
+However, the former is teratogenic .
+
+283
+00:36:23,337 --> 00:36:32,100
+In the report from the National Transplant Pregnancy Registry, 23 percent of fetuses exposed to mycophenolate had birth defects .
+
+284
+00:36:32,100 --> 00:36:39,912
+Importantly, resumption of renal function after transplantation promptly restores fertility in reproductive-aged women .
+
+285
+00:36:39,912 --> 00:36:46,625
+Thus, these women should be counseled to use contraception, especially those treated with mycophenolate.
+
+286
+00:36:46,625 --> 00:36:53,687
+In one study, more than half of transplant recipients reported that they were not counseled regarding contraception .
+
+287
+00:36:53,687 --> 00:36:56,425
+# Pregnancy Outcomes.
+
+288
+00:36:56,425 --> 00:37:01,612
+Women with solid organ transplant have higher severe maternal morbidity rates .
+
+289
+00:37:01,612 --> 00:37:11,050
+Deshpande and associates (2011) reviewed the outcomes of more than 4700 pregnancies in renal transplant recipients.
+
+290
+00:37:11,050 --> 00:37:15,887
+Approximately 70 percent of pregnancies resulted in a live birth.
+
+291
+00:37:15,887 --> 00:37:23,162
+However, rates of preeclampsia, gestational diabetes, and preterm delivery were substantially greater.
+
+292
+00:37:23,162 --> 00:37:28,687
+Similar outcomes were described for the Australian and New Zealand Transplant Registry .
+
+293
+00:37:28,687 --> 00:37:38,875
+In the United Kingdom, Bramham and colleagues (2013) identified a live-birth rate that exceeded 90 percent in renal transplant recipients.
+
+294
+00:37:38,875 --> 00:37:45,500
+Half were delivered before 37 weeks’ gestation, but only 9 percent before 32 weeks.
+
+295
+00:37:45,500 --> 00:37:52,312
+Low birthweight complicated half of pregnancies, and growth restriction complicated 25 percent.
+
+296
+00:37:52,312 --> 00:37:59,775
+Notably, the incidence of fetal malformations was not increased, except in those who took mycophenolate mofetil.
+
+297
+00:37:59,775 --> 00:38:04,562
+The incidence of preeclampsia is high in all transplant recipients.
+
+298
+00:38:04,562 --> 00:38:14,012
+In the UK National Cohort Study reported by Bramham and associates (2013), the incidence of preeclampsia was 22 percent.
+
+299
+00:38:14,012 --> 00:38:23,512
+From their review, Josephson and McKay (2011) cite an incidence of one third of pregnancies but question the validity of this frequency.
+
+300
+00:38:23,512 --> 00:38:29,475
+Importantly, in some cases, rejection is difficult to distinguish from preeclampsia.
+
+301
+00:38:29,475 --> 00:38:34,900
+That said, the incidence of rejection episodes approximates only 2 percent .
+
+302
+00:38:34,900 --> 00:38:42,225
+Viral infections—especially polyomavirus hominis 1, also called BK virus—are frequent.
+
+303
+00:38:42,225 --> 00:38:47,500
+In addition, gestational diabetes is found in approximately 5 percent.
+
+304
+00:38:47,500 --> 00:38:51,337
+Both are likely related to immunosuppression therapy.
+
+305
+00:38:51,337 --> 00:39:02,162
+Similar outcomes have been reported by several other investigators (Al Duraihimh, 2008; Cruz Lemini, 2007; Ghafari, 2008).
+
+306
+00:39:02,162 --> 00:39:11,350
+The Italian Society of Nephrology recommends that women who have undergone transplantation satisfy several requisites before attempting pregnancy .
+
+307
+00:39:11,350 --> 00:39:14,937
+First, women should be in good general health for
+
+308
+00:39:15,100 --> 00:39:18,800
+at least 1 to 2 years after transplantation.
+
+309
+00:39:18,750 --> 00:39:21,975
+Second, renal function should be stable.
+
+310
+00:39:21,975 --> 00:39:40,862
+Parameters include a GFR ≥60 mL/min, serum creatinine level <2 mg/dL, and proteinuria <500 mg/d. Third, there should be no recent evidence for graft rejection and no treatment with teratogenic drugs.
+
+311
+00:39:40,862 --> 00:39:45,000
+Last, hypertension should be absent or well controlled.
+
+312
+00:39:45,000 --> 00:39:51,012
+Cyclosporine and tacrolimus are given routinely to renal transplantation recipients.
+
+313
+00:39:51,012 --> 00:39:59,562
+Coincident with expected pregnancy-related intravascular volume expansion, cyclosporine blood levels decline during pregnancy.
+
+314
+00:39:59,562 --> 00:40:04,687
+However, this was not reported to be associated with rejection episodes .
+
+315
+00:40:04,687 --> 00:40:10,650
+Unfortunately, these agents are nephrotoxic and may also cause renal hypertension.
+
+316
+00:40:10,650 --> 00:40:20,887
+In fact, they likely contribute substantively to the chronic renal disease that develops in 10 to 20 percent of patients with nonrenal solid organ transplantation .
+
+317
+00:40:20,887 --> 00:40:28,250
+Concern persists regarding the possible late effects in offspring subjected to immunosuppressive therapy in utero.
+
+318
+00:40:28,250 --> 00:40:34,825
+These include malignancy, germ cell dysfunction, and malformations in the children of the offspring.
+
+319
+00:40:34,825 --> 00:40:38,912
+In addition, cyclosporine is secreted in breast milk .
+
+320
+00:40:38,912 --> 00:40:50,037
+In two small studies, these children had normal neurological and intellectual function (MoralesBuenrostro, 2019; Schreiber-Zamora, 2019).
+
+321
+00:40:50,037 --> 00:40:56,862
+Last, pregnancy-induced renal hyperfiltration theoretically may impair long-term graft survival.
+
+322
+00:40:56,862 --> 00:41:07,512
+However, Sturgiss and Davison (1995) found no evidence for this in one study of 34 allograft recipients followed for a mean of 15 years.
+
+323
+00:41:07,512 --> 00:41:09,737
+# Management.
+
+324
+00:41:09,737 --> 00:41:12,412
+Close surveillance is necessary.
+
+325
+00:41:12,412 --> 00:41:20,000
+Covert bacteriuria is treated, and if it is recurrent, suppressive treatment is given for the remainder of the pregnancy.
+
+326
+00:41:20,000 --> 00:41:28,137
+Serial hepatic enzyme concentrations and blood counts are monitored for toxic effects of azathioprine and cyclosporine.
+
+327
+00:41:28,137 --> 00:41:32,200
+Some recommend measurement of serum cyclosporine levels.
+
+328
+00:41:32,200 --> 00:41:44,425
+Gestational diabetes is more common if corticosteroids are taken, and in these cases overt diabetes must be excluded with glucose tolerance testing done at the initiation of prenatal care.
+
+329
+00:41:44,425 --> 00:41:54,050
+Surveillance for opportunistic infections from herpesvirus, cytomegalovirus, and toxoplasmosis is important because these infections are common.
+
+330
+00:41:54,050 --> 00:42:02,300
+Some recommend surveillance for BK virus in women known to be infected, however, diagnosis and treatment are problematic.
+
+331
+00:42:02,300 --> 00:42:08,600
+Renal function is monitored, and the GFR usually increases 20 to 25 percent.
+
+332
+00:42:08,600 --> 00:42:14,750
+If a significant rise in the serum creatinine level is detected, its cause must be determined.
+
+333
+00:42:14,750 --> 00:42:23,475
+Possibilities include acute rejection, cyclosporine toxicity, preeclampsia, infection, and urinary tract obstruction.
+
+334
+00:42:23,475 --> 00:42:29,587
+Evidence of pyelonephritis or graft rejection should prompt admission for aggressive management.
+
+335
+00:42:29,587 --> 00:42:33,737
+Imaging studies and kidney biopsy may be indicated.
+
+336
+00:42:33,737 --> 00:42:42,062
+The woman is carefully monitored for development or worsening of underlying hypertension, and especially of superimposed preeclampsia.
+
+337
+00:42:42,062 --> 00:42:48,437
+Management of hypertension during pregnancy is the same as for patients without an organ transplant .
+
+338
+00:42:48,437 --> 00:42:55,887
+Vigilant fetal surveillance is indicated because of the higher incidences of fetal-growth restriction and preterm delivery.
+
+339
+00:42:55,887 --> 00:43:13,712
+Although cesarean delivery is reserved for obstetrical indications, occasionally the transplanted kidney obstructs labor, and the overall cesarean delivery rate approaches 80 percent (Bramham, 2013; Madej, 2018; Rocha, 2013).
+
+340
+00:43:13,712 --> 00:43:16,262
+Polycystic Kidney Disease.
+
+341
+00:43:16,262 --> 00:43:22,062
+This usually autosomally dominant systemic disease primarily affects the kidneys.
+
+342
+00:43:22,062 --> 00:43:30,725
+Its basic pathophysiology is a ciliopathy that affects renal tubules, although only approximately 5 percent develop cysts .
+
+343
+00:43:30,725 --> 00:43:39,537
+The incidence is about 1 in 1000 births and it causes approximately 5 to 10 percent of end-stage renal disease in the United States.
+
+344
+00:43:39,537 --> 00:43:52,962
+Although genetically heterogeneous, almost 85 percent of cases are due to PKD1 gene mutations on chromosome 16, and the other 15 percent to PKD2 mutations on chromosome 4.
+
+345
+00:43:52,962 --> 00:44:00,987
+Prenatal diagnosis is available if the mutation has been identified in a family member or if linkage has been established in the family.
+
+346
+00:44:00,987 --> 00:44:05,462
+Preimplantation genetic screening reduces the risk of affected
+
+347
+00:44:05,620 --> 00:44:08,307
+fetuses to 1 to 2 percent .
+
+348
+00:44:08,257 --> 00:44:15,707
+Renal complications more commonly affect men than women, and symptoms usually appear in the third or fourth decade.
+
+349
+00:44:15,707 --> 00:44:24,270
+Flank pain, hematuria, proteinuria, abdominal masses, and associated calculi and infection are frequent findings.
+
+350
+00:44:24,270 --> 00:44:30,807
+Hypertension develops in 75 percent, and progression to renal failure is a major problem.
+
+351
+00:44:30,807 --> 00:44:37,845
+Superimposed acute renal failure also may develop from infection or obstruction from ureteral angulation.
+
+352
+00:44:37,845 --> 00:44:44,132
+Specifically, renal cyst may displace and create angles along the normal ureteral course.
+
+353
+00:44:44,132 --> 00:44:46,995
+Other organs are commonly involved.
+
+354
+00:44:46,995 --> 00:44:52,782
+Asymptomatic hepatic cysts coexist in a third of patients with polycystic kidneys.
+
+355
+00:44:52,782 --> 00:44:57,470
+Hepatic involvement is more common and more aggressive in women than in men.
+
+356
+00:44:57,470 --> 00:45:05,807
+Approximately 10 percent of patients with polycystic kidney disease die from rupture of an associated intracranial berry aneurysm.
+
+357
+00:45:05,807 --> 00:45:15,757
+Up to a fourth of patients have cardiac valvular lesions, which include mitral valve prolapse and mitral, aortic, and tricuspid valvular incompetence.
+
+358
+00:45:15,757 --> 00:45:18,495
+# Pregnancy Outcomes.
+
+359
+00:45:18,495 --> 00:45:27,070
+The prognosis for pregnancy in women with polycystic kidney disease depends on the degree of associated hypertension and renal insufficiency.
+
+360
+00:45:27,070 --> 00:45:29,832
+Urinary infections are common.
+
+361
+00:45:29,832 --> 00:45:44,420
+Chapman and coworkers (1994) compared pregnancy outcomes in 235 affected women who had 605 pregnancies with those of 108 unaffected family members who had 244 pregnancies.
+
+362
+00:45:44,420 --> 00:45:56,395
+Composite perinatal complication rates were similar—33 versus 26 percent —but hypertension, including preeclampsia, was more common in women with polycystic kidneys.
+
+363
+00:45:56,395 --> 00:46:00,732
+Pregnancy does not seem to accelerate the natural disease course .
+
+364
+00:46:00,732 --> 00:46:02,882
+Glomerular Diseases.
+
+365
+00:46:02,882 --> 00:46:10,582
+The glomerulus and its capillaries are subject to numerous conditions and agents that can lead to acute and chronic diseases.
+
+366
+00:46:10,582 --> 00:46:18,507
+Glomerular damage can be caused by toxins or infections or from systemic disorders such as hypertension or diabetes.
+
+367
+00:46:18,507 --> 00:46:21,245
+It may also be idiopathic.
+
+368
+00:46:21,245 --> 00:46:30,607
+When there is capillary inflammation, the process is termed glomerulonephritis, and in many of these cases, an autoimmune process is involved.
+
+369
+00:46:30,607 --> 00:46:38,757
+Glomerular disease or glomerulonephritis may result from a single stimulus such as that following group A streptococcal infections.
+
+370
+00:46:38,757 --> 00:46:46,095
+It may also be a manifestation of a multisystem disease such as systemic lupus erythematosus or diabetes .
+
+371
+00:46:46,095 --> 00:46:51,345
+Persistent glomerulonephritis eventually leads to decline of renal function.
+
+372
+00:46:51,345 --> 00:46:58,057
+Progression is variable and often does not become apparent until chronic renal insufficiency is diagnosed.
+
+373
+00:46:58,057 --> 00:47:05,707
+Lewis and Neilsen (2018) group glomerular injuries into six syndromes based on clinical patterns .
+
+374
+00:47:05,707 --> 00:47:16,057
+Some underlying disorders—examples include infections, vasculitides, and diabetes—can result in one clinical pattern in different individuals.
+
+375
+00:47:16,057 --> 00:47:26,582
+Last, disorders within each of these categories may be seen in young women, and thus, these may already be established before pregnancy or may first manifest then.
+
+376
+00:47:26,582 --> 00:47:29,145
+Table 56-3.
+
+377
+00:47:29,145 --> 00:47:47,420
+Patterns of Clinical Glomerulonephritis As with any renal disorder, goals to achieve optimal pregnancy outcomes aim to stabilize rapid disease progression, minimize proteinuria with use of appropriate immunosuppressive agents, control hypertension, and delay pregnancy until these are achieved.
+
+378
+00:47:47,420 --> 00:47:50,357
+# Acute Nephritic Syndromes.
+
+379
+00:47:50,357 --> 00:47:54,995
+Acute glomerulonephritis may result from any of several causes .
+
+380
+00:47:54,995 --> 00:48:03,157
+The clinical presentation usually includes hypertension, hematuria, red-cell casts, pyuria, and proteinuria.
+
+381
+00:48:03,157 --> 00:48:11,645
+Varying degrees of renal insufficiency and salt and water retention result in edema, hypertension, and circulatory congestion .
+
+382
+00:48:11,645 --> 00:48:16,607
+The prognosis and treatment of nephritic syndromes depends on their etiology.
+
+383
+00:48:16,607 --> 00:48:20,232
+Some recede spontaneously or with treatment.
+
+384
+00:48:20,232 --> 00:48:27,395
+However, in some patients, rapidly progressive glomerulonephritis leads to end-stage renal failure.
+
+385
+00:48:27,395 --> 00:48:34,257
+In others, chronic glomerulonephritis develops and manifests as slowly progressive renal disease.
+
+386
+00:48:34,257 --> 00:48:44,420
+The prototype is acute poststreptococcal glomerulonephritis, which is historically interesting because it was confused with eclampsia until the mid1800s.
+
+387
+00:48:44,420 --> 00:48:50,907
+Immunoglobulin A (IgA) nephropathy, also known as Berger disease, is the most common
+
+388
+00:48:51,076 --> 00:48:54,713
+form of acute glomerulonephritis worldwide .
+
+389
+00:48:54,663 --> 00:49:03,326
+The isolated form of IgA nephropathy occurs sporadically, and it may be related to Henoch-Schönlein purpura as the systemic form.
+
+390
+00:49:03,326 --> 00:49:11,613
+Another isolated nephritis type may be due to anti–glomerular basement membrane antibodies, which are typically IgG.
+
+391
+00:49:11,613 --> 00:49:21,451
+These IgG antibodies may also involve the lungs to manifest as a pulmonary-renal syndrome with alveolar hemorrhage, which is termed Goodpasture syndrome.
+
+392
+00:49:21,451 --> 00:49:28,576
+Pregnancy Acute nephritic syndromes during pregnancy can be difficult to differentiate from severe preeclampsia.
+
+393
+00:49:28,576 --> 00:49:34,776
+One example is systemic lupus erythematosus with a flare during the second half of pregnancy .
+
+394
+00:49:34,776 --> 00:49:45,713
+In some cases, renal biopsy may be necessary to determine etiology and direct management (Lindheimer, 2013; Ramin, 2006).
+
+395
+00:49:45,713 --> 00:49:50,551
+This is discussed further in Chapter 62 (p. 1112).
+
+396
+00:49:50,551 --> 00:49:57,363
+Whatever the underlying etiology, glomerular diseases have profound effects on pregnancy outcome.
+
+397
+00:49:57,363 --> 00:50:10,076
+In an older study, Packham and coworkers (1989) described 395 pregnancies in 238 women with primary glomerulonephritis diagnosed before pregnancy.
+
+398
+00:50:10,076 --> 00:50:20,701
+The most common lesions identified by biopsy were membranous glomerulonephritis, IgA glomerulonephritis, and diffuse mesangial glomerulonephritis.
+
+399
+00:50:20,701 --> 00:50:33,151
+Although most of these women had normal renal function, half developed hypertension, a fourth was delivered preterm, and the perinatal mortality rate after 28 weeks’ gestation was 80 per 1000.
+
+400
+00:50:33,151 --> 00:50:42,763
+As expected, the worst perinatal outcomes were in women with impaired renal function, early or severe hypertension, and nephrotic-range proteinuria.
+
+401
+00:50:42,763 --> 00:50:48,051
+O’Shaughnessy and colleagues (2017) confirmed these findings.
+
+402
+00:50:48,051 --> 00:51:03,738
+In 48 pregnancies complicated by glomerulonephritis, a third developed preeclampsia, 39 percent had a doubling of protein excretion, and 27 percent had a ≥50-percent rise in serum creatinine levels.
+
+403
+00:51:03,738 --> 00:51:09,526
+Half of the pregnancies ended in preterm birth and 13 percent in perinatal death.
+
+404
+00:51:09,526 --> 00:51:15,126
+Similar outcomes have been reported for pregnancies in women with IgA nephropathy.
+
+405
+00:51:15,126 --> 00:51:29,513
+From one review of 376 pregnancies, investigators reported a perinatal mortality rate of 12-percent; preterm delivery, 9 percent; low birthweight, 10 percent; and preeclampsia, 7 percent .
+
+406
+00:51:29,513 --> 00:51:34,226
+Progression of renal insufficiency during pregnancy is controversial.
+
+407
+00:51:34,226 --> 00:51:47,326
+From their reports, Su and coworkers (2017), but not Wang and colleagues (2019), found that women with IgA nephropathy had renal insufficiency progression during pregnancy.
+
+408
+00:51:47,326 --> 00:51:50,051
+# Nephrotic Syndromes.
+
+409
+00:51:50,051 --> 00:51:54,163
+Heavy proteinuria is the hallmark of the nephrotic syndromes.
+
+410
+00:51:54,163 --> 00:52:05,926
+Several primary and secondary kidney disorders cause immunological- or toxicmediated injury and glomerular capillary-wall breakdown that allows excessive filtration of plasma proteins.
+
+411
+00:52:05,926 --> 00:52:14,976
+In addition to heavy urine protein excretion, the syndrome is characterized by hypoalbuminemia, hypercholesterolemia, and edema.
+
+412
+00:52:14,976 --> 00:52:18,001
+Hypertension is frequently comorbid.
+
+413
+00:52:18,001 --> 00:52:24,513
+This, coupled with albumin nephrotoxicity, contributes to eventual renal insufficiency.
+
+414
+00:52:24,513 --> 00:52:30,638
+Some of the more common causes of the nephrotic syndrome are listed in Table 56-4.
+
+415
+00:52:30,638 --> 00:52:38,588
+Treatment depends on etiology, and renal biopsy will disclose microscopic abnormalities that may help direct care.
+
+416
+00:52:38,588 --> 00:52:42,713
+Edema is problematic, especially during pregnancy.
+
+417
+00:52:42,713 --> 00:52:52,763
+Normal amounts of dietary protein of high biological value are encouraged, and this practice contrasts with high-protein diets, which increase proteinuria.
+
+418
+00:52:52,763 --> 00:53:00,963
+The incidence of thromboembolism is greater and varies with the severity of hypertension, proteinuria, and renal insufficiency .
+
+419
+00:53:00,963 --> 00:53:08,263
+Renal vein thrombosis is particularly worrisome, although both arterial and venous thromboses may develop.
+
+420
+00:53:08,263 --> 00:53:18,663
+Explanations for this risk are platelet hyperactivity, urinary loss of antithrombotic factors, and increased production of prothrombotic factors by the liver .
+
+421
+00:53:18,663 --> 00:53:30,851
+Some recommend that women with a serum albumin <2 g/dL or 24-hour urinary protein excretion >3.5 g should be given thromboprophylaxis throughout pregnancy .
+
+422
+00:53:30,851 --> 00:53:40,451
+Some cases of nephrosis from primary glomerular disease respond to glucocorticosteroids and other immunosuppressants or cytotoxic drug therapy.
+
+423
+00:53:40,451 --> 00:53:43,413
+In most cases caused by infection
+
+424
+00:53:43,564 --> 00:53:48,739
+or drugs, proteinuria recedes once the underlying cause is corrected.
+
+425
+00:53:48,689 --> 00:53:51,276
+Table 56-4.
+
+426
+00:53:51,276 --> 00:54:01,139
+Causes of the Nephrotic Syndrome in Adults Pregnancy Maternal and perinatal outcomes in women with a nephrotic syndrome depend on its underlying cause and severity.
+
+427
+00:54:01,139 --> 00:54:09,276
+Whenever possible, these should be ascertained, and renal biopsy may be indicated to determine if there is a treatable etiology.
+
+428
+00:54:09,276 --> 00:54:16,176
+Half of women with nephrotic-range proteinuria will have higher daily protein excretion as pregnancy progresses .
+
+429
+00:54:16,176 --> 00:54:24,751
+In women with nephrosis cared for at Parkland Hospital, we reported that two thirds had protein excretion that exceeded 3 g/d .
+
+430
+00:54:24,751 --> 00:54:34,314
+At the same time, however, if these women had only mild degrees of renal dysfunction, they displayed a normally augmented GFR across pregnancy .
+
+431
+00:54:34,314 --> 00:54:44,239
+Management of edema during pregnancy can be particularly challenging, as it is intensified by normally rising hydrostatic pressure in the lower extremities.
+
+432
+00:54:44,239 --> 00:54:53,526
+In some women, massive vulvar edema may develop in those with comorbid conditions such as diabetes, syphilis, preeclampsia, and others .
+
+433
+00:54:53,526 --> 00:55:00,601
+Another major problem is that up to half of these women with nephrosis have chronic hypertension that may require treatment .
+
+434
+00:55:00,601 --> 00:55:08,776
+In these, as well as in previously normotensive women, preeclampsia is common and often develops early in pregnancy .
+
+435
+00:55:08,776 --> 00:55:11,364
+Figure 56-2.
+
+436
+00:55:11,364 --> 00:55:17,076
+Massive vulvar edema in a pregnant woman with marked proteinuria due to preeclampsia.
+
+437
+00:55:17,076 --> 00:55:25,451
+Most women with a nephrotic syndrome who do not have severe hypertension or renal insufficiency will have successful pregnancy outcomes.
+
+438
+00:55:25,451 --> 00:55:33,401
+Conversely, if there is renal insufficiency, moderate to severe hypertension, or both, the prognosis is much worse.
+
+439
+00:55:33,401 --> 00:55:41,226
+Our experiences caring for such women with 65 pregnancies at Parkland Hospital showed that complications are frequent .
+
+440
+00:55:41,226 --> 00:55:49,014
+Protein excretion during pregnancy averaged 4 g/d, and a third of the women had classic nephrotic syndrome.
+
+441
+00:55:49,014 --> 00:55:58,851
+Some degree of renal insufficiency was seen in 75 percent, chronic hypertension in 40 percent, and persistent anemia in 25 percent.
+
+442
+00:55:58,851 --> 00:56:05,851
+Importantly, preeclampsia developed in 60 percent, and 45 percent had preterm deliveries.
+
+443
+00:56:05,851 --> 00:56:12,126
+Even so, after excluding abortions, 53 of 57 neonates were born alive.
+
+444
+00:56:12,126 --> 00:56:22,714
+De Castro and associates (2017) reported similar results from 26 pregnancies complicated by a mean protein excretion of 8 g/d.
+
+445
+00:56:22,714 --> 00:56:31,864
+Long-Term Outcomes Women identified to have nephrotic syndromes either before or during pregnancy are at risk for serious long-term adverse outcomes.
+
+446
+00:56:31,864 --> 00:56:40,264
+Of the women cared for at Parkland Hospital, at least 20 percent of women followed for 10 years progressed to end-stage renal failure .
+
+447
+00:56:40,264 --> 00:56:48,276
+Similarly, Chen and associates (2001) reported short-term outcomes in 15 women with nephrotic syndromes.
+
+448
+00:56:48,276 --> 00:56:57,051
+By 2 years, three of these women had died, three had developed chronic renal failure, and two had progressed to end-stage renal disease.
+
+449
+00:56:57,051 --> 00:57:09,251
+Women with serum creatinine levels >1.4 mg/dL and 24-hour protein excretion >1 g/d have the shortest renal survival times following pregnancy .
+
+450
+00:57:09,251 --> 00:57:11,526
+Chronic Kidney Disease.
+
+451
+00:57:11,526 --> 00:57:17,526
+This describes a pathophysiological process that can progress to end-stage renal disease.
+
+452
+00:57:17,526 --> 00:57:27,326
+The National Kidney Foundation (2019) describes six stages of chronic kidney disease (CKD) defined by decreasing GFR.
+
+453
+00:57:27,326 --> 00:57:43,226
+It progresses from stage 0, in which GFR is ≥90 mL/min/1.73 m2, to stage 5, in which GFR is <15 mL/min/1.73 m2.
+
+454
+00:57:43,226 --> 00:57:50,876
+Several diseases result in progressively declining renal function, including the glomerular diseases discussed earlier.
+
+455
+00:57:50,876 --> 00:58:03,989
+Those that most commonly lead to end-stage disease requiring dialysis and kidney transplantation include diabetes mellitus, chronic hypertension, glomerulonephritis, and polycystic kidney disease .
+
+456
+00:58:03,989 --> 00:58:12,189
+Most reproductive-aged women with these just-mentioned diseases have varying degrees of renal insufficiency, proteinuria, or both.
+
+457
+00:58:12,189 --> 00:58:20,789
+To counsel regarding fertility and pregnancy outcome, the degree of renal functional impairment and of associated hypertension are assessed.
+
+458
+00:58:20,789 --> 00:58:28,889
+In general, successful pregnancy outcome may be more related to these two factors than to the specific underlying renal disorder.
+
+459
+00:58:28,889 --> 00:58:32,564
+An overall prognosis can be estimated by
+
+460
+00:58:32,716 --> 00:58:37,878
+considering women with CKD in arbitrary categories of renal function .
+
+461
+00:58:37,828 --> 00:58:59,716
+These include normal or mild impairment— defined as a serum creatinine <1.5 mg/dL; moderate impairment—defined as a serum creatinine 1.5 to 3.0 mg/dL; and severe renal insufficiency— defined as a serum creatinine >3.0 mg/dL.
+
+462
+00:58:59,716 --> 00:59:13,816
+Some recommend using these older categories, although others suggest adopting the classification of the National Kidney Foundation described above (Davison, 2011; Piccoli, 2010, 2011).
+
+463
+00:59:13,816 --> 00:59:17,691
+Thus, obstetricians must be familiar with both.
+
+464
+00:59:17,691 --> 00:59:21,191
+# Pregnancy and Chronic Kidney Disease.
+
+465
+00:59:21,191 --> 00:59:29,266
+The severity of renal insufficiency, along with any underlying hypertension, strongly influences pregnancy outcome.
+
+466
+00:59:29,266 --> 00:59:40,041
+Additionally, comorbidities secondary to a systemic disorder—for example, diabetes or systemic lupus erythematosus—portend a worse prognosis .
+
+467
+00:59:40,041 --> 00:59:49,678
+For all women with CKD, the incidences of hypertension and preeclampsia, preterm and growth-restricted neonates, and other problems are high.
+
+468
+00:59:49,678 --> 00:59:56,366
+Low-dose aspirin starting at 12 to 28 weeks is recommended to help lower preeclampsia rates .
+
+469
+00:59:56,366 --> 01:00:04,441
+Loss of renal tissue is associated with compensatory intrarenal vasodilation and hypertrophy of the surviving nephrons.
+
+470
+01:00:04,441 --> 01:00:13,366
+The resultant hyperperfusion and hyperfiltration eventually damage surviving nephrons to cause nephrosclerosis and worsening renal function.
+
+471
+01:00:13,366 --> 01:00:20,753
+With mild renal insufficiency, pregnancy causes greater augmentation of renal plasma flow and GFR .
+
+472
+01:00:20,753 --> 01:00:26,891
+With progressively worsening renal function, renal plasma flow is augmented little, if any.
+
+473
+01:00:26,891 --> 01:00:37,791
+In one study, only half of women with moderate renal insufficiency demonstrated pregnancy-augmented glomerular filtration, and women with severe disease had no increase .
+
+474
+01:00:37,791 --> 01:00:44,491
+Importantly, chronic renal insufficiency also curtails normal pregnancy-induced hypervolemia.
+
+475
+01:00:44,491 --> 01:00:52,891
+Blood volume expansion during pregnancy is related to disease severity and correlates inversely with serum creatinine concentration.
+
+476
+01:00:52,891 --> 01:01:03,716
+As shown in Figure 56-3, women with mild to moderate renal dysfunction have blood volume expansion that averages 55 percent above nonpregnant volumes.
+
+477
+01:01:03,716 --> 01:01:14,291
+However, with severe renal insufficiency, volume expansion averages only 25 percent, which is similar to that seen with hemoconcentration from eclampsia.
+
+478
+01:01:14,291 --> 01:01:20,666
+In addition, these women have variable degrees of chronic anemia due to intrinsic renal disease.
+
+479
+01:01:20,666 --> 01:01:27,778
+Thus, they are at risk for hypovolemia and acute blood loss anemia with even normal blood loss at delivery.
+
+480
+01:01:27,778 --> 01:01:30,366
+Figure 56-3.
+
+481
+01:01:30,366 --> 01:01:53,091
+Blood volume expansion in 44 normally pregnant women at term compared with 29 who had eclampsia; 10 with moderate chronic renal insufficiency (CRI)—serum creatinine 1.5 to 2.9 mg/dL; and four with severe CRI—serum creatinine ≥3.0 mg/dL.
+
+482
+01:01:53,091 --> 01:01:57,978
+Data from Cunningham, 1990; Zeeman, 2009.
+
+483
+01:01:57,978 --> 01:02:09,053
+Renal Disease with Preserved Function In some women, although glomerular disease has not yet caused renal insufficiency, incidences of pregnancy complications are still increased.
+
+484
+01:02:09,053 --> 01:02:18,141
+As shown in Table 56-5, these problems are less frequent than in cohorts of women with moderate and severe renal insufficiency.
+
+485
+01:02:18,141 --> 01:02:21,003
+Two older studies illustrate this.
+
+486
+01:02:21,003 --> 01:02:31,203
+In one, Surian and colleagues (1984) described outcomes of 123 pregnancies in women with biopsy-proven glomerular disease.
+
+487
+01:02:31,203 --> 01:02:38,766
+Although only a few of these women had renal dysfunction, 40 percent developed obstetrical or renal complications.
+
+488
+01:02:38,766 --> 01:02:54,666
+In another study of 395 pregnancies in women with preexisting glomerulonephritis and minimal renal insufficiency, impaired renal function developed in 15 percent of these women during pregnancy, and 60 percent had worsening proteinuria .
+
+489
+01:02:54,666 --> 01:03:02,978
+Only 12 percent had antecedent chronic hypertension, however, more than half of the pregnancies were complicated by hypertension.
+
+490
+01:03:02,978 --> 01:03:14,591
+The perinatal mortality rate was 140 per 1000, and even without early-onset or severe hypertension or nephrotic-range proteinuria, the rate was 50 per 1000.
+
+491
+01:03:14,591 --> 01:03:20,278
+Importantly, in 5 percent of these women, worsening renal function was permanent.
+
+492
+01:03:20,278 --> 01:03:22,966
+Table 56-5.
+
+493
+01:03:22,966 --> 01:03:25,478
+Complications (%)
+
+494
+01:03:25,478 --> 01:03:33,816
+Associated with Chronic Kidney Disease During Pregnancy Chronic Renal Insufficiency As noted, pregnancy complication rates are higher
+
+495
+01:03:33,964 --> 01:03:40,251
+in women with CKD and renal insufficiency compared with women who have preserved renal function.
+
+496
+01:03:40,201 --> 01:03:46,226
+Furthermore, adverse outcomes are generally directly related to the degree of renal impairment.
+
+497
+01:03:46,226 --> 01:03:56,151
+Of the more recent reports shown in Table 56-5, outcomes of women with moderate or severe renal insufficiency are usually not separated.
+
+498
+01:03:56,151 --> 01:04:14,626
+A systematic review of 1514 pregnancies in women with CKD described increased odds ratios of preeclampsia, 10.4; preterm delivery, 6.3; fetal-growth restriction, 4.9; and cesarean delivery, 2.7 .
+
+499
+01:04:14,626 --> 01:04:27,564
+Other investigators have described pregnancies complicated by moderate or severe renal insufficiency (Cunningham, 1990; Imbasciati, 2007; Jones, 1996).
+
+500
+01:04:27,564 --> 01:04:38,626
+Despite a high incidence of chronic hypertension, anemia, preeclampsia, preterm delivery, and fetal-growth restriction, perinatal outcomes were generally acceptable.
+
+501
+01:04:38,626 --> 01:04:46,314
+As shown in Figure 56-4, fetal growth is frequently impaired and related to renal dysfunction severity.
+
+502
+01:04:46,314 --> 01:04:48,989
+Figure 56-4.
+
+503
+01:04:48,989 --> 01:05:10,189
+Birthweight percentiles of infants born to 29 women at Parkland Hospital with mild to moderate renal insufficiency—serum creatinine 1.4–2.4 mg/dL (black points) and severe renal insufficiency—serum creatinine ≥2.5 mg/dL (red points).
+
+504
+01:05:10,189 --> 01:05:15,289
+Data from Cunningham, 1990; Stettler, 1992.
+
+505
+01:05:15,289 --> 01:05:20,201
+Growth curves are those reported by Alexander, 1996.
+
+506
+01:05:20,201 --> 01:05:22,426
+# Management.
+
+507
+01:05:22,426 --> 01:05:27,826
+Prenatal care for women with CKD incorporates several important aspects.
+
+508
+01:05:27,826 --> 01:05:37,114
+Frequent monitoring of blood pressure is paramount, and serum creatinine levels and 24-hour protein excretion are quantified as indicated.
+
+509
+01:05:37,114 --> 01:05:43,064
+Bacteriuria is treated to lower the risk of pyelonephritis and further nephron loss.
+
+510
+01:05:43,064 --> 01:05:46,476
+Protein-restricted diets are not recommended.
+
+511
+01:05:46,476 --> 01:05:53,851
+In some women with anemia from chronic renal insufficiency, a response is seen with recombinant erythropoietin.
+
+512
+01:05:53,851 --> 01:05:57,614
+However, hypertension is a common side effect.
+
+513
+01:05:57,614 --> 01:06:01,614
+Serial sonography is performed to follow fetal growth.
+
+514
+01:06:01,614 --> 01:06:08,176
+The differentiation between worsening hypertension and superimposed preeclampsia is problematic.
+
+515
+01:06:08,176 --> 01:06:25,001
+Preliminary data indicate that the angiogenic biomarkers placental growth factor (PlGF) and its soluble receptor, soluble fms-like tyrosine kinase 1 (sFlt-1), may be useful to separate chronic from gestational hypertension .
+
+516
+01:06:25,001 --> 01:06:29,401
+This is described in Chapter 40 (p. 694).
+
+517
+01:06:29,401 --> 01:06:32,026
+# Long-Term Effects.
+
+518
+01:06:32,026 --> 01:06:40,201
+Pregnancy may accelerate CKD progression by augmenting hyperfiltration and glomerular pressure to worsen nephrosclerosis .
+
+519
+01:06:40,201 --> 01:06:44,801
+Women with severe renal insufficiency have greater susceptibility.
+
+520
+01:06:44,801 --> 01:06:57,339
+Jungers and associates (1995) reported few long-term pregnancy-related adverse effects in 360 women with chronic glomerulonephritis and antecedent normal renal function.
+
+521
+01:06:57,339 --> 01:07:07,826
+In a study from Parkland Hospital, 20 percent of pregnant women with moderate to severe renal insufficiency developed end-stage renal failure by a mean of 4 years .
+
+522
+01:07:07,826 --> 01:07:15,239
+He and coworkers (2018) confirmed these findings in women who had stage 3 or 4 CKD.
+
+523
+01:07:15,239 --> 01:07:20,539
+As noted, progression is common for many women with chronic renal disorders.
+
+524
+01:07:20,539 --> 01:07:31,614
+At 1 year after pregnancy, Jones and Hayslett (1996) reported that 10 percent of the women had developed end-stage renal failure—stage 5 CKD.
+
+525
+01:07:31,614 --> 01:07:39,564
+Similar findings in women with a median follow-up of 3 years were described by Imbasciati and colleagues (2007).
+
+526
+01:07:39,564 --> 01:07:52,664
+By this time, end-stage disease was apparent in 30 percent of women whose prepregnancy serum creatinine was ≥1.4 mg/dL and who had proteinuria >1 g/d.
+
+527
+01:07:52,664 --> 01:07:58,076
+Chronic proteinuria is also a marker for subsequent development of renal failure.
+
+528
+01:07:58,076 --> 01:08:07,189
+In one study, 20 percent of women with chronic proteinuria discovered during pregnancy progressed to end-stage renal failure within several years .
+
+529
+01:08:07,189 --> 01:08:15,039
+Another study reported that an equal number of nonpregnant women had identical loss of function when similar durations were compared .
+
+530
+01:08:15,039 --> 01:08:20,751
+It may be that pregnancy does not hasten an already predetermined declining renal function.
+
+531
+01:08:20,751 --> 01:08:23,901
+# Dialysis During Pregnancy.
+
+532
+01:08:23,901 --> 01:08:34,839
+Significantly impaired renal function is accompanied by subfertility that may be corrected with chronic renal replacement therapy—either hemodialysis or peritoneal dialysis .
+
+533
+01:08:34,839 --> 01:08:40,176
+Not unexpectedly, maternal complications are common and include severe
+
+534
+01:08:40,348 --> 01:08:45,123
+hypertension, placental abruption, heart failure, and sepsis.
+
+535
+01:08:45,073 --> 01:08:54,048
+To illustrate this, the outcomes of 233 pregnancies in women undergoing dialysis are shown in Table 56-6.
+
+536
+01:08:54,048 --> 01:09:03,498
+The high incidences of hypertension, low birthweight, and preterm delivery result in a perinatal mortality rate of 250 per 1000.
+
+537
+01:09:03,498 --> 01:09:14,860
+Piccoli and associates (2016) performed a systematic review and described 681 pregnancies in 647 women undergoing dialysis.
+
+538
+01:09:14,860 --> 01:09:21,573
+Of these, 616 had hemodialysis and 65 had peritoneal dialysis.
+
+539
+01:09:21,573 --> 01:09:31,898
+They chronicled a high incidence of hypertension, preterm delivery, and fetal-growth restriction, and the perinatal mortality was 180 per 1000.
+
+540
+01:09:31,898 --> 01:09:37,923
+They found an inverse relationship between hours of dialysis per week and adverse outcomes.
+
+541
+01:09:37,923 --> 01:09:43,685
+Last, they reported that hemodialysis was superior to peritoneal dialysis.
+
+542
+01:09:43,685 --> 01:09:46,348
+Table 56-6.
+
+543
+01:09:46,348 --> 01:09:59,160
+Pregnancy Outcomes in Women Undergoing Dialysis During Pregnancy For the woman already undergoing either method of dialysis, it seems reasonable to continue that method with consideration for its increasing frequency.
+
+544
+01:09:59,160 --> 01:10:05,535
+In the woman who has never been dialyzed, the threshold for initiation during pregnancy is unclear.
+
+545
+01:10:05,535 --> 01:10:15,185
+Hladunewich and colleagues (2016) recommend consideration for dialysis when the creatinine clearance is 20 mL/min or less.
+
+546
+01:10:15,185 --> 01:10:23,973
+Extension of dialysis frequency to five to six times weekly may be necessary to avoid abrupt volume changes that cause hypotension.
+
+547
+01:10:23,973 --> 01:10:33,223
+Hladunewich and coworkers (2011) recommend attention to certain protocols that include replacement of substances lost through dialysis.
+
+548
+01:10:33,223 --> 01:10:41,723
+Multivitamin doses are doubled, and oral calcium and iron salts are provided along with sufficient dietary protein and calories.
+
+549
+01:10:41,723 --> 01:10:45,373
+Chronic anemia is treated with erythropoietin.
+
+550
+01:10:45,373 --> 01:10:51,898
+To meet pregnancy changes, extra calcium is added to the dialysate along with less bicarbonate.
+
+551
+01:10:51,898 --> 01:10:54,248
+Acute Kidney Injury.
+
+552
+01:10:54,248 --> 01:11:09,198
+Previously termed acute renal failure, acute kidney injury (AKI) is now used to describe impairment of kidney function over days to weeks that leads to retention of nitrogenous and other waste products normally excreted by the kidneys.
+
+553
+01:11:09,198 --> 01:11:29,173
+Current definitions include a rise in a serum creatinine level of at least 0.3 mg/dL within 48 hours, or ≥50 percent increase from baseline within a week, or urine output reduced to <0.5 mL/kg per hour for >6 hours .
+
+554
+01:11:29,173 --> 01:11:33,948
+Criteria for diagnosis in pregnancy have not been standardized .
+
+555
+01:11:33,948 --> 01:11:43,410
+Most studies use a definition in which serum creatinine levels rise ≥0.3 mg/dL from baseline.
+
+556
+01:11:43,410 --> 01:11:48,910
+Animal studies have shown that pregnancy protects the kidney from acute ischemic injury .
+
+557
+01:11:48,910 --> 01:11:58,260
+Although the incidence of AKI in pregnancy has dropped substantially, it still occasionally causes significant obstetrical morbidity and mortality.
+
+558
+01:11:58,260 --> 01:12:07,148
+In a Canadian study, the incidence was reported to be 2.68 per 10,000 births between 2009 and 2010 .
+
+559
+01:12:07,148 --> 01:12:21,598
+Outcomes are available from four older studies comprising a total of 266 women with AKI (Drakeley, 2002; Nzerue, 1998; Sibai, 1990; Turney, 1989).
+
+560
+01:12:21,598 --> 01:12:30,323
+Approximately 70 percent had preeclampsia, 50 percent had obstetrical hemorrhage, and 30 percent had a placental abruption.
+
+561
+01:12:30,323 --> 01:12:37,223
+Almost 20 percent required dialysis, and the maternal mortality rate approximated 15 percent.
+
+562
+01:12:37,223 --> 01:12:55,473
+Although obstetrical cases of AKI requiring dialysis are less frequent today, acute renal ischemia is still commonly associated with severe preeclampsia and hemorrhage (Conti-Ramsden, 2019; Jim, 2017; Prakash, 2018).
+
+563
+01:12:55,473 --> 01:13:04,498
+Notable contributors are placental abruption and hemolysis, elevated liver enzymes, and low platelet count (HELLP) syndrome.
+
+564
+01:13:04,498 --> 01:13:08,735
+Sepsis is another, especially in resource-poor countries .
+
+565
+01:13:08,735 --> 01:13:13,748
+AKI also often complicates acute fatty liver of pregnancy.
+
+566
+01:13:13,748 --> 01:13:23,660
+Nelson and colleagues (2013) reported some degree of renal insufficiency in virtually all of 52 such women cared for at Parkland Hospital .
+
+567
+01:13:23,660 --> 01:13:29,760
+Dehydration caused by severe hyperemesis gravidarum also can lead to AKI .
+
+568
+01:13:29,760 --> 01:13:33,885
+Other causes include thrombotic microangiopathies .
+
+569
+01:13:33,885 --> 01:13:36,910
+# Diagnosis and Management.
+
+570
+01:13:36,910 --> 01:13:44,973
+In most women, renal failure develops postpartum, thus management is usually not complicated by fetal considerations.
+
+571
+01:13:44,973 --> 01:13:51,173
+Diagnostically, an acute rise in serum creatinine levels is most often due to renal
+
+572
+01:13:51,340 --> 01:13:53,015
+ischemia.
+
+573
+01:13:52,965 --> 01:13:58,102
+But oliguria also is an important sign of acutely impaired renal function.
+
+574
+01:13:58,102 --> 01:14:04,152
+In obstetrical cases, both prerenal and intrarenal factors commonly coincide.
+
+575
+01:14:04,152 --> 01:14:15,690
+For example, with total placental abruption, severe hypovolemia results from massive hemorrhage, and frequently associated preeclampsia causes preexistent renal ischemia .
+
+576
+01:14:15,690 --> 01:14:22,840
+When azotemia is severe and oliguria persists, some form of renal replacement treatment may be indicated.
+
+577
+01:14:22,840 --> 01:14:31,477
+Hemofiltration or dialysis is initiated before patients markedly deteriorate, and hemodynamic measurements are normalized.
+
+578
+01:14:31,477 --> 01:14:37,677
+Medication dose adjustments are imperative, and magnesium sulfate is a prominent example .
+
+579
+01:14:37,677 --> 01:14:45,252
+Early dialysis appears to reduce the mortality rate appreciably and may enhance the extent of renal function recovery.
+
+580
+01:14:45,252 --> 01:14:50,152
+With time, renal function usually returns to normal or near normal.
+
+581
+01:14:50,152 --> 01:14:57,327
+Even so, women in subsequent pregnancies have higher incidences of hypertension and adverse fetal outcomes .
+
+582
+01:14:57,327 --> 01:14:59,477
+# Prevention.
+
+583
+01:14:59,477 --> 01:15:06,727
+AKI in obstetrics is most often due to acute blood loss and especially that associated with preeclampsia.
+
+584
+01:15:06,727 --> 01:15:23,427
+Thus, it may often be prevented by the following means: 1. Prompt and vigorous volume replacement with crystalloid solutions and blood in instances of massive hemorrhage, such as in placental abruption, placenta previa, uterine rupture, and postpartum uterine atony .
+
+585
+01:15:23,427 --> 01:15:33,902
+2. Delivery or termination of pregnancies complicated by severe preeclampsia or eclampsia, and careful blood transfusion if blood loss is more than average .
+
+586
+01:15:33,902 --> 01:15:44,515
+3. Close observation for early signs of sepsis and shock in women with pyelonephritis, septic abortion, chorioamnionitis, or other pelvic infections .
+
+587
+01:15:44,515 --> 01:15:53,590
+4. Avoidance of loop diuretics to treat oliguria before ensuring that blood volume and cardiac output are adequate for renal perfusion.
+
+588
+01:15:53,590 --> 01:16:03,565
+5. Judicious use of vasoconstrictor drugs to treat hypotension, and only after it has been determined that pathological vasodilation is the cause.
+
+589
+01:16:03,565 --> 01:16:11,477
+Irreversible ischemic renal failure caused by acute cortical necrosis has become exceedingly uncommon in obstetrics.
+
+590
+01:16:11,477 --> 01:16:22,540
+Before widespread availability of dialysis, it complicated a fourth of obstetrical renal failure cases (Grünfeld, 1987; Turney, 1989).
+
+591
+01:16:22,540 --> 01:16:29,490
+Most cases followed placental abruption, preeclampsia-eclampsia, and endotoxin-induced shock.
+
+592
+01:16:29,490 --> 01:16:34,965
+Once common with septic abortion, this is a rare cause in the United States today .
+
+593
+01:16:34,965 --> 01:16:41,652
+Histologically, the lesion appears to result from thrombosis of segments of the renal vascular system.
+
+594
+01:16:41,652 --> 01:16:46,215
+The lesions may be focal, patchy, confluent, or gross.
+
+595
+01:16:46,215 --> 01:16:57,015
+Clinically, renal cortical necrosis follows the course of acute renal failure, and its differentiation from acute tubular necrosis is not possible during the early phase.
+
+596
+01:16:57,015 --> 01:17:00,865
+The prognosis depends on the extent of the necrosis.
+
+597
+01:17:00,865 --> 01:17:06,327
+Recovery of function is variable, and stable renal insufficiency may result.
+
+598
+01:17:06,327 --> 01:17:09,340
+# Obstructive Renal Failure.
+
+599
+01:17:09,340 --> 01:17:18,415
+Rarely, bilateral ureteral compression by a very large pregnant uterus obstructs ureters to cause severe oliguria and azotemia.
+
+600
+01:17:18,415 --> 01:17:22,290
+An example is shown in Figure 56-5.
+
+601
+01:17:22,290 --> 01:17:30,452
+Brandes and Fritsche (1991) reviewed 13 cases that were the consequence of a markedly overdistended uterus.
+
+602
+01:17:30,452 --> 01:17:40,302
+They described a woman with twins who developed anuria and a serum creatinine level of 12.2 mg/dL at 34 weeks’ gestation.
+
+603
+01:17:40,302 --> 01:17:50,027
+After amniotomy, urine flow resumed at 500 mL/h, and a rapid decline in serum creatinine levels to normal range followed.
+
+604
+01:17:50,027 --> 01:17:57,527
+Eckford and Gingell (1991) described 10 women in whom ureteral obstruction was relieved by stenting.
+
+605
+01:17:57,527 --> 01:18:04,315
+The stents were left in place for a mean of 15.5 weeks and removed 4 to 6 weeks postpartum.
+
+606
+01:18:04,315 --> 01:18:07,015
+Figure 56-5.
+
+607
+01:18:07,015 --> 01:18:15,152
+A. Magnetic resonance image in a coronal plane of a pregnant woman with unilateral hydronephrosis caused by ureteral obstruction.
+
+608
+01:18:15,152 --> 01:18:25,090
+The serum creatinine was 8 mg/dL and decreased to 0.8 mg/dL after a percutaneous nephrostomy tube was placed.
+
+609
+01:18:25,090 --> 01:18:33,015
+B. Left kidney (arrow) and associated hydronephrosis (asterisk) are again noted in this axial plane image.
+
+610
+01:18:33,015 --> 01:18:36,790
+We have observed this phenomenon on several occasions.
+
+611
+01:18:36,790 --> 01:18:44,340
+In our experience, women with previous urinary tract surgery for reflux are more likely to have such obstructions .
+
+612
+01:18:44,500 --> 01:18:50,812
+Partial ureteral obstruction may be accompanied by fluid retention and significant hypertension.
+
+613
+01:18:50,762 --> 01:18:56,975
+When the obstructive uropathy is relieved, diuresis ensues and hypertension dissipates.
+
+614
+01:18:56,975 --> 01:19:14,300
+In one woman with massive hydramnios (9.4 L) and an anencephalic fetus, amniocentesis and removal of some of the amnionic fluid was followed promptly by diuresis, a decline in the plasma creatinine concentration, and an improvement of hypertension.
+
+615
+01:19:14,300 --> 01:19:17,112
+Lower Urinary Tract Lesions.
+
+616
+01:19:17,112 --> 01:19:20,000
+# Urethral Diverticulum.
+
+617
+01:19:20,000 --> 01:19:30,512
+Infrequently complicating pregnancy, this type of diverticulum is thought to originate from an enlarging paraurethral gland abscess that ruptures into the urethral lumen .
+
+618
+01:19:30,512 --> 01:19:37,662
+As infection clears, the remaining dilated diverticular sac and its ostium into the urethra persist.
+
+619
+01:19:37,662 --> 01:19:46,962
+Associated findings may be urine collecting within and then dribbling from the sac, pain, palpable mass, and recurrent urinary infections.
+
+620
+01:19:46,962 --> 01:19:51,962
+In general, a diverticulum is managed expectantly during pregnancy.
+
+621
+01:19:51,962 --> 01:19:56,487
+Rarely, drainage may be necessary, or surgery required .
+
+622
+01:19:56,487 --> 01:20:10,975
+If additional antepartum evaluation is needed, MR imaging is preferred for its superior soft-tissue resolution and ability to define complex diverticula (Dwarkasing, 2011; Pathi, 2013).
+
+623
+01:20:10,975 --> 01:20:13,687
+Figure 56-6.
+
+624
+01:20:13,687 --> 01:20:23,737
+Asymptomatic urethral diverticulum, seen as a midline bulge beneath the urethral meatus (arrow), identified during initial prenatal care examination.
+
+625
+01:20:23,737 --> 01:20:26,875
+# Urinary Tract Fistulas.
+
+626
+01:20:26,875 --> 01:20:34,137
+Fistulas found during pregnancy likely existed previously, but in rare cases, they form during pregnancy.
+
+627
+01:20:34,137 --> 01:20:40,550
+In developed countries, vesicovaginal fistula following a McDonald cerclage has been reported .
+
+628
+01:20:40,550 --> 01:20:47,600
+These fistulas may also form with the prolonged obstructed labor that is more commonly seen in resource-poor countries.
+
+629
+01:20:47,600 --> 01:20:53,587
+In these cases, the genital tract is compressed between the fetal head and bony pelvis.
+
+630
+01:20:53,587 --> 01:21:01,087
+Brief pressure is not significant, but prolonged pressure leads to tissue necrosis and subsequent fistula formation .
+
+631
+01:21:01,087 --> 01:21:11,312
+Vesicouterine fistulas that developed after prior cesarean delivery have been described (DiMarco, 2006; Manjunatha, 2012).
+
+632
+01:21:11,312 --> 01:21:20,800
+Rarely, vesicocervical fistula may follow cesarean delivery or may form if the anterior cervical lip is compressed against the symphysis pubis .
+

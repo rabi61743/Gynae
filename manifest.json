@@ -236,5 +236,105 @@
     "audio": true,
     "words": 14548,
     "audio_size_mb": 39.89
+  },
+  "49": {
+    "audio": true,
+    "words": 6180,
+    "audio_size_mb": 17.75
+  },
+  "50": {
+    "audio": true,
+    "words": 10476,
+    "audio_size_mb": 30.02
+  },
+  "51": {
+    "audio": true,
+    "words": 5211,
+    "audio_size_mb": 15.15
+  },
+  "52": {
+    "audio": true,
+    "words": 15283,
+    "audio_size_mb": 43.94
+  },
+  "53": {
+    "audio": true,
+    "words": 5932,
+    "audio_size_mb": 17.74
+  },
+  "54": {
+    "audio": true,
+    "words": 9463,
+    "audio_size_mb": 27.58
+  },
+  "55": {
+    "audio": true,
+    "words": 9166,
+    "audio_size_mb": 25.65
+  },
+  "56": {
+    "audio": true,
+    "words": 9742,
+    "audio_size_mb": 27.93
+  },
+  "57": {
+    "audio": true,
+    "words": 8087,
+    "audio_size_mb": 23.86
+  },
+  "58": {
+    "audio": true,
+    "words": 10643,
+    "audio_size_mb": 30.36
+  },
+  "59": {
+    "audio": true,
+    "words": 11345,
+    "audio_size_mb": 33.42
+  },
+  "60": {
+    "audio": true,
+    "words": 11557,
+    "audio_size_mb": 32.24
+  },
+  "61": {
+    "audio": true,
+    "words": 11022,
+    "audio_size_mb": 32.08
+  },
+  "62": {
+    "audio": true,
+    "words": 9447,
+    "audio_size_mb": 27.6
+  },
+  "63": {
+    "audio": true,
+    "words": 8907,
+    "audio_size_mb": 25.23
+  },
+  "64": {
+    "audio": true,
+    "words": 6165,
+    "audio_size_mb": 17.03
+  },
+  "65": {
+    "audio": true,
+    "words": 2730,
+    "audio_size_mb": 8.47
+  },
+  "66": {
+    "audio": true,
+    "words": 11068,
+    "audio_size_mb": 31.52
+  },
+  "67": {
+    "audio": true,
+    "words": 13043,
+    "audio_size_mb": 37.31
+  },
+  "68": {
+    "audio": true,
+    "words": 11171,
+    "audio_size_mb": 31.47
   }
 }
