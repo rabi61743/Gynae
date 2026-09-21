@@ -8,7 +8,7 @@ Playable directly on GitHub Web & Mobile with synchronized subtitle rendering an
 
 - 🎬 **[Chapter 01 Overview of Obstetrics](videos/Chapter_01_Overview_of_Obstetrics.mp4)** (36.3 MB)
 
-## 🎧 Audiobooks (MP3) — [7/68 Completed]
+## 🎧 Audiobooks (MP3) — [10/68 Completed]
 
 Playable directly on GitHub Web & Mobile with built-in audio player:
 
@@ -19,6 +19,9 @@ Playable directly on GitHub Web & Mobile with built-in audio player:
 - 🔊 **[Chapter 05 Implantation and Placental Development](audiobooks/Chapter_05_Implantation_and_Placental_Development.mp3)** (39.3 MB)
 - 🔊 **[Chapter 06 Placental Abnormalities](audiobooks/Chapter_06_Placental_Abnormalities.mp3)** (17.0 MB)
 - 🔊 **[Chapter 07 Embryogenesis and Fetal Development](audiobooks/Chapter_07_Embryogenesis_and_Fetal_Development.mp3)** (31.3 MB)
+- 🔊 **[Chapter 08 Teratology Teratogens and Fetotoxic Agents](audiobooks/Chapter_08_Teratology_Teratogens_and_Fetotoxic_Agents.mp3)** (29.1 MB)
+- 🔊 **[Chapter 09 Preconceptional Counseling](audiobooks/Chapter_09_Preconceptional_Counseling.mp3)** (11.4 MB)
+- 🔊 **[Chapter 10 Prenatal Care](audiobooks/Chapter_10_Prenatal_Care.mp3)** (30.3 MB)
 
 ## 📖 Table of Contents (Chapters)
 
