@@ -6,7 +6,7 @@ Chapter-by-chapter Markdown text and neural audiobooks of *Williams Obstetrics* 
 
 Playable directly on GitHub Web & GitHub Mobile with built-in audio controls:
 
-- 🔊 **[Chapter 01 Overview of Obstetrics](audiobooks/Chapter_01_Overview_of_Obstetrics.mp3)** (17.1 MB)
+- 🔊 **[Chapter 01 Overview of Obstetrics](audiobooks/Chapter_01_Overview_of_Obstetrics.mp3)** (10.9 MB)
 
 ## 📖 Table of Contents (Chapters)
 
