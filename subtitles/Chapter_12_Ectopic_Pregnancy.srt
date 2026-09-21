@@ -1,0 +1,2236 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,425
+Chapter 12: Ectopic Pregnancy.
+
+3
+00:00:05,425 --> 00:00:27,012
+Tubal Pregnancy Tubal Pregnancy Diagnosis Medical Management Surgical Management Interstitial Pregnancy Cesarean Scar Pregnancy Cervical Pregnancy Abdominal Pregnancy Ovarian Pregnancy Heterotopic Pregnancy References Following fertilization and fallopian tube transit, the blastocyst normally implants in the endometrial lining of the uterine cavity.
+
+4
+00:00:27,012 --> 00:00:30,575
+Implantation elsewhere is considered ectopic.
+
+5
+00:00:30,575 --> 00:00:43,600
+In the United States, numbers from an insurance database and from Medicaid claims showed ectopic pregnancy rates of 1.54 percent and 1.38 percent, respectively, in 2013 .
+
+6
+00:00:43,600 --> 00:00:49,025
+Ectopic implantation accounts for 3 percent of all pregnancy-related deaths .
+
+7
+00:00:49,025 --> 00:01:02,137
+Fortunately, beta-human chorionic gonadotropin (β-hCG) assays and transvaginal sonography (TVS) aid earlier diagnosis, maternal survival, and fertility conservation.
+
+8
+00:01:02,137 --> 00:01:04,175
+Tubal Pregnancy.
+
+9
+00:01:04,175 --> 00:01:06,625
+# Classification.
+
+10
+00:01:06,625 --> 00:01:16,362
+Of ectopic pregnancies, nearly 95 percent implant in the fallopian tube’s various segments (Fig. 2-13, p. 26).
+
+11
+00:01:16,362 --> 00:01:20,537
+The ampulla (70 percent) is the most frequent site .
+
+12
+00:01:20,537 --> 00:01:28,037
+The rate for isthmic implantation is 12 percent; fimbrial, 11 percent; and interstitial, 2 percent .
+
+13
+00:01:28,037 --> 00:01:38,000
+Nontubal ectopic pregnancies compose the remaining 5 percent and implant in the ovary, peritoneal cavity, cervix, or prior cesarean scar.
+
+14
+00:01:38,000 --> 00:01:46,512
+Occasionally, a multifetal pregnancy contains one conceptus with normal uterine implantation and the other implanted ectopically.
+
+15
+00:01:46,512 --> 00:01:51,062
+This is termed a heterotopic pregnancy (p. 231).
+
+16
+00:01:51,062 --> 00:01:53,262
+Figure 12-1.
+
+17
+00:01:53,262 --> 00:01:58,137
+Ampullary tubal pregnancy (arrow) seen during laparoscopy.
+
+18
+00:01:58,137 --> 00:02:01,787
+Reproduced with permission from Dr. Lisa Chao.
+
+19
+00:02:01,787 --> 00:02:16,475
+For all ectopic pregnancy sites, management is influenced by pregnancy viability, gestational age, maternal health, desires for the index pregnancy and for future fertility, physician skill, and available resources.
+
+20
+00:02:16,475 --> 00:02:23,662
+Regardless of location, D-negative women with an ectopic pregnancy are given anti-D immunoglobulin.
+
+21
+00:02:23,662 --> 00:02:31,512
+In first-trimester pregnancies, a single intramuscular 50- or 120-μg dose is appropriate.
+
+22
+00:02:31,512 --> 00:02:35,337
+Later gestations are given 300 μg .
+
+23
+00:02:35,337 --> 00:02:37,412
+# Risks.
+
+24
+00:02:37,412 --> 00:02:43,312
+Abnormal fallopian tube anatomy underlies most cases of tubal ectopic pregnancy.
+
+25
+00:02:43,312 --> 00:02:51,225
+Surgeries for a prior tubal pregnancy, for fertility restoration, or for sterilization confer the highest risk.
+
+26
+00:02:51,225 --> 00:02:58,637
+After one prior ectopic pregnancy, the chance of another nears 10 percent (de Bennetot, 2012).
+
+27
+00:02:58,637 --> 00:03:04,375
+Previous tubal infection, which can distort normal tubal anatomy, is another risk.
+
+28
+00:03:04,375 --> 00:03:12,350
+Specifically, one episode of salpingitis can be followed by a subsequent ectopic pregnancy in up to 9 percent of women .
+
+29
+00:03:12,350 --> 00:03:19,725
+Peritubal adhesions that form from salpingitis, appendicitis, or endometriosis also raise chances.
+
+30
+00:03:19,725 --> 00:03:32,112
+Infertility and the use of assisted reproductive technologies (ART) to overcome it are linked to increased ectopic pregnancy rates (Li, 2015; Perkins, 2015).
+
+31
+00:03:32,112 --> 00:03:39,587
+Newer techniques aim to lower this rate with ART (Londra, 2015; Zhang, 2017).
+
+32
+00:03:39,587 --> 00:03:45,325
+Smoking is another known association, although the underlying mechanism is unclear .
+
+33
+00:03:45,325 --> 00:03:53,900
+Last, with any form of contraception, the absolute number of ectopic pregnancies declines because pregnancy is effectively prevented.
+
+34
+00:03:53,900 --> 00:04:02,425
+However, some methods more efficiently prevent intracavity implantation and with their failure, ectopic implantation is favored.
+
+35
+00:04:02,425 --> 00:04:10,350
+These methods are tubal sterilization, intrauterine devices (IUDs), and progestin-only contraceptives.
+
+36
+00:04:10,350 --> 00:04:14,187
+# Pathogenesis and Potential Outcomes.
+
+37
+00:04:14,187 --> 00:04:22,725
+With tubal pregnancy, because the fallopian tube lacks a submucosal layer, the fertilized ovum promptly burrows through the epithelium.
+
+38
+00:04:22,725 --> 00:04:30,087
+The zygote comes to lie near or within the muscularis, which is invaded by rapidly proliferating trophoblast.
+
+39
+00:04:30,087 --> 00:04:37,187
+Potential outcomes from this include tubal rupture, tubal abortion, or pregnancy failure with resolution.
+
+40
+00:04:37,187 --> 00:04:42,600
+With rupture, the invading and expanding conceptus can tear the fallopian tube.
+
+41
+00:04:42,600 --> 00:04:51,037
+Tubal ectopic pregnancies usually rupture spontaneously but may occasionally burst following coitus or bimanual examination.
+
+42
+00:04:51,037 --> 00:04:55,000
+Hemorrhage usually persists and can become life threatening.
+
+43
+00:04:55,000 --> 00:05:00,537
+Tubal abortion describes the pregnancy’s passage out the fallopian tube’s distal end.
+
+44
+00:05:00,700 --> 00:05:05,712
+Subsequently, hemorrhage may cease, and symptoms eventually disappear.
+
+45
+00:05:05,662 --> 00:05:11,925
+However, bleeding instead can progress to induce symptoms as long as products remain in the tube.
+
+46
+00:05:11,925 --> 00:05:19,062
+Blood slowly issues from the tubal fimbria into the peritoneal cavity and pools in the rectouterine culde-sac.
+
+47
+00:05:19,062 --> 00:05:26,800
+If the fimbriated extremity is occluded, the fallopian tube may gradually distend with blood to form a hematosalpinx.
+
+48
+00:05:26,800 --> 00:05:35,512
+Rarely, an aborted fetus will secondarily implant on a peritoneal surface and become an abdominal pregnancy (p. 231).
+
+49
+00:05:35,512 --> 00:05:41,812
+Last, spontaneous failure reflects ectopic pregnancy death and subsequent reabsorption.
+
+50
+00:05:41,812 --> 00:05:48,325
+These are now more regularly identified by current sensitive β-hCG assays and surveillance.
+
+51
+00:05:48,325 --> 00:05:55,900
+Distinctions between acute ectopic pregnancy, just described, and chronic ectopic pregnancy also can be drawn.
+
+52
+00:05:55,900 --> 00:06:05,337
+Acute ectopic pregnancies are more common, produce a high serum β-hCG level, and grow rapidly, leading to a timely diagnosis.
+
+53
+00:06:05,337 --> 00:06:08,350
+These carry a greater risk of rupture .
+
+54
+00:06:08,350 --> 00:06:17,725
+With chronic ectopic pregnancy, abnormal trophoblasts die early, and thus serum β-hCG levels are negative or are low and static.
+
+55
+00:06:17,725 --> 00:06:25,337
+Chronic ectopic pregnancies typically rupture late, if at all, but commonly form a persistent complex pelvic mass.
+
+56
+00:06:25,337 --> 00:06:32,475
+This sonographic finding, rather than patient symptoms, often is the reason that prompts diagnostic surgery .
+
+57
+00:06:32,475 --> 00:06:35,562
+# Clinical Manifestations.
+
+58
+00:06:35,562 --> 00:06:39,787
+Sources of abdominal pain during pregnancy are extensive.
+
+59
+00:06:39,787 --> 00:06:47,775
+Uterine conditions include miscarriage, infection, degenerating or enlarging leiomyomas, or round-ligament pain.
+
+60
+00:06:47,775 --> 00:06:55,162
+Adnexal pain may reflect ectopic pregnancy or ovarian masses that are hemorrhagic, ruptured, or torsed.
+
+61
+00:06:55,162 --> 00:07:04,825
+Appendicitis, renal stone, cystitis, and gastroenteritis are some nongynecological reasons for lower abdominal pain in early pregnancy.
+
+62
+00:07:04,825 --> 00:07:12,812
+Thus, an initial urine β-hCG assay, urinalysis, and measure of hemoglobin or hematocrit are routine.
+
+63
+00:07:12,812 --> 00:07:21,462
+A complete blood count (CBC) to assess the white blood cell count may be preferred if serious infection is a possible diagnosis.
+
+64
+00:07:21,462 --> 00:07:28,562
+A positive urine pregnancy test result should prompt a serum βhCG assay for those with pain or bleeding.
+
+65
+00:07:28,562 --> 00:07:34,562
+Before rupture, symptoms and signs of ectopic pregnancy are often subtle or absent.
+
+66
+00:07:34,562 --> 00:07:39,625
+The classic triad is amenorrhea that is followed by pain and vaginal bleeding.
+
+67
+00:07:39,625 --> 00:07:48,025
+With tubal rupture, lower abdominal and pelvic pain is usually severe and frequently described as sharp, stabbing, or tearing.
+
+68
+00:07:48,025 --> 00:07:53,850
+Some degree of vaginal spotting or bleeding is reported by most women with tubal pregnancy.
+
+69
+00:07:53,850 --> 00:08:01,737
+Although profuse vaginal bleeding suggests an incomplete abortion, such bleeding occasionally is seen with tubal gestations.
+
+70
+00:08:01,737 --> 00:08:07,275
+Moreover, tubal pregnancy can lead to significant intraabdominal hemorrhage.
+
+71
+00:08:07,275 --> 00:08:15,975
+Neck or shoulder pain, especially on inspiration, develops in women with diaphragmatic irritation from a sizable hemoperitoneum.
+
+72
+00:08:15,975 --> 00:08:20,625
+Vertigo and syncope may reflect hemorrhage-related hypovolemia.
+
+73
+00:08:20,625 --> 00:08:25,275
+Of physical findings, abdominal palpation elicits tenderness.
+
+74
+00:08:25,275 --> 00:08:34,612
+Bimanual pelvic examination may reveal a mass and tenderness, but this examination should be limited and gentle to avoid iatrogenic rupture.
+
+75
+00:08:34,612 --> 00:08:39,550
+The uterus itself can be slightly enlarged due to hormonal stimulation.
+
+76
+00:08:39,550 --> 00:08:49,850
+Responses to moderate bleeding include no change in vital signs, a slight rise in blood pressure, or a vasovagal response with bradycardia and hypotension.
+
+77
+00:08:49,850 --> 00:08:56,662
+Blood pressure will fall and pulse will rise only if bleeding continues and hypovolemia becomes significant.
+
+78
+00:08:56,662 --> 00:09:05,525
+Of laboratory findings, hemoglobin or hematocrit readings may at first show only a slight reduction, even after substantive hemorrhage.
+
+79
+00:09:05,525 --> 00:09:15,675
+Thus, after acute hemorrhage, a trending decline in hemoglobin or hematocrit levels over several hours is a more valuable index of blood loss than is the initial level.
+
+80
+00:09:15,675 --> 00:09:25,437
+In approximately half of women with a ruptured ectopic pregnancy, varying degrees of leukocytosis may reach 30,000/μL.
+
+81
+00:09:25,437 --> 00:09:30,162
+Decidua is endometrium that is hormonally prepared for pregnancy.
+
+82
+00:09:30,162 --> 00:09:35,325
+The degree to which the endometrium is converted with ectopic pregnancy varies.
+
+83
+00:09:35,325 --> 00:09:41,575
+Thus, in addition to bleeding, women with ectopic tubal pregnancy may pass a decidual cast.
+
+84
+00:09:41,575 --> 00:09:43,225
+This is
+
+85
+00:09:43,396 --> 00:09:48,608
+the entire sloughed endometrium that takes the form of the endometrial cavity .
+
+86
+00:09:48,558 --> 00:09:53,183
+Importantly, decidual sloughing may also occur with miscarriage.
+
+87
+00:09:53,183 --> 00:10:01,308
+Thus, tissue is carefully examined by the provider and then submitted to evaluate for histological evidence of a conceptus.
+
+88
+00:10:01,308 --> 00:10:11,458
+If no clear gestational sac is seen by inspection or if no villi are identified histologically, the possibility of ectopic pregnancy must still be considered.
+
+89
+00:10:11,458 --> 00:10:13,671
+Figure 12-2.
+
+90
+00:10:13,671 --> 00:10:19,971
+This 7-cm decidual cast was passed by a patient with a tubal ectopic pregnancy.
+
+91
+00:10:19,971 --> 00:10:27,496
+The cast mirrors the shape of the endometrial cavity, and each arrow marks the portion of decidua that lined the cornua.
+
+92
+00:10:27,496 --> 00:10:30,221
+Tubal Pregnancy Diagnosis.
+
+93
+00:10:30,221 --> 00:10:40,608
+For ectopic pregnancy, physical findings, serum β-hCG level measurement, TVS, and at times diagnostic surgery are tools for diagnosis.
+
+94
+00:10:40,608 --> 00:10:44,946
+Women with evidence of tubal rupture undergo prompt surgery.
+
+95
+00:10:44,946 --> 00:10:55,108
+For all other hemodynamically stable women without a clearly identified pregnancy, diagnostic strategies use these tools to identify ectopic pregnancy.
+
+96
+00:10:55,108 --> 00:10:57,821
+Strategies involve trade-offs.
+
+97
+00:10:57,821 --> 00:11:05,008
+Those that maximize ectopic pregnancy detection may terminate a normal intrauterine pregnancy (IUP).
+
+98
+00:11:05,008 --> 00:11:12,696
+Conversely, those that reduce the potential interruption of a normal IUP can delay ectopic pregnancy diagnosis.
+
+99
+00:11:12,696 --> 00:11:17,921
+Patient desires for the index pregnancy are sought and influence these trade-offs.
+
+100
+00:11:17,921 --> 00:11:21,571
+# Beta-Human Chorionic Gonadotropin.
+
+101
+00:11:21,571 --> 00:11:26,458
+Rapid and accurate determination of pregnancy is a fundamental step.
+
+102
+00:11:26,458 --> 00:11:33,771
+hCG is a glycoprotein produced by placental trophoblast and can be detected in serum in early pregnancy.
+
+103
+00:11:33,771 --> 00:11:39,408
+Current pregnancy tests are immunoassays that seek the beta subunit of hCG.
+
+104
+00:11:39,408 --> 00:11:48,083
+Lower limits of detection are 20 to 25 mIU/mL for urine and ≤5 mIU/mL for serum .
+
+105
+00:11:48,083 --> 00:11:52,571
+Different assays can have results that vary by 5 to 10 percent.
+
+106
+00:11:52,571 --> 00:11:57,846
+Thus, serial values are more reliable when performed by the same laboratory .
+
+107
+00:11:57,846 --> 00:12:06,458
+For women with a positive pregnancy test result plus bleeding or pain, an initial TVS is typically performed to locate the gestation.
+
+108
+00:12:06,458 --> 00:12:12,508
+The initial β-hCG level sets expectations for anticipated TVS finding.
+
+109
+00:12:12,508 --> 00:12:19,483
+With values above a discriminatory threshold, a normal IUP is expected to be seen within the uterus.
+
+110
+00:12:19,483 --> 00:12:31,496
+Some institutions set their discriminatory threshold at ≥1500 mIU/mL, whereas others use ≥2000 mIU/mL.
+
+111
+00:12:31,496 --> 00:12:37,283
+Connolly and associates (2013) suggested an even higher threshold.
+
+112
+00:12:37,283 --> 00:12:48,571
+They noted that with live IUPs, a gestational sac was seen 99 percent of the time in those with a discriminatory level >3510 mIU/mL.
+
+113
+00:12:48,571 --> 00:12:51,646
+# Transvaginal Sonography.
+
+114
+00:12:51,646 --> 00:13:00,833
+Pregnancy of Unknown Location If a yolk sac, embryo, or fetus is found within the uterus or within the adnexa, a diagnosis is made.
+
+115
+00:13:00,833 --> 00:13:09,396
+However, if no evidence of an IUP is seen with TVS, the diagnosis is a pregnancy of unknown location (PUL).
+
+116
+00:13:09,396 --> 00:13:20,071
+Most PULs reflect: (1) a failing IUP, (2) recent completed abortion, (3) early IUP, or (4) ectopic pregnancy.
+
+117
+00:13:20,071 --> 00:13:30,408
+Without clear evidence for ectopic pregnancy, serial β-hCG level assessment is reasonable, and a second level is obtained 48 hours after the first.
+
+118
+00:13:30,408 --> 00:13:37,246
+This practice averts unnecessary methotrexate therapy and avoids harming an early, normal IUP.
+
+119
+00:13:37,246 --> 00:13:46,946
+With early, normal IUPs, Barnhart and coworkers (2004b) reported a 53percent minimum rise over 48 hours.
+
+120
+00:13:46,946 --> 00:13:55,183
+Seeber and colleagues (2006) found an even more conservative minimal 35-percent rise in normal IUPs.
+
+121
+00:13:55,183 --> 00:14:00,533
+With multifetal gestation, this same anticipated rate of rise is expected .
+
+122
+00:14:00,533 --> 00:14:13,471
+With a PUL ultimately diagnosed as a failed IUP, a pattern of β-hCG level decline also can be anticipated, and levels drop rapidly (Table 11-1, p. 202) .
+
+123
+00:14:13,471 --> 00:14:18,296
+Sometimes, PULs fail before their location is identified.
+
+124
+00:14:18,296 --> 00:14:36,508
+With failing PULs, Butts and coworkers (2013) found rates of decline that ranged from 35 to 50 percent at 48 hours and 66 to 87 percent at 7 days for starting hCG values between 250 and 5000 mIU/mL.
+
+125
+00:14:36,508 --> 00:14:44,483
+Despite these benchmarks, a third of women with an ectopic pregnancy can also have a 53-percent rise at 48 hours .
+
+126
+00:14:44,483 --> 00:14:53,321
+Overall, approximately half of ectopic pregnancies show declining β-hCG levels, whereas the other half have rising levels.
+
+127
+00:14:53,321 --> 00:14:58,921
+Importantly, despite a declining βhCG level, a resolving ectopic
+
+128
+00:14:59,092 --> 00:15:01,329
+pregnancy may rupture.
+
+129
+00:15:01,279 --> 00:15:09,092
+Rupture at low values likely reflects partial disruption of the vascular connection between trophoblast and maternal vessels.
+
+130
+00:15:09,092 --> 00:15:15,592
+Here, although β-hCG is produced, it is unable to enter circulation and be detected.
+
+131
+00:15:15,592 --> 00:15:23,554
+After the initial two β-hCG tests during PUL assessment, additional levels are drawn every 2 to 7 days.
+
+132
+00:15:23,554 --> 00:15:31,979
+In general, testing is typically more frequent if symptoms or β-hCG level trends reflect a higher ectopic pregnancy risk .
+
+133
+00:15:31,979 --> 00:15:34,804
+TVS also may be repeated.
+
+134
+00:15:34,804 --> 00:15:41,967
+This serial assessment to reach a diagnosis is balanced against the rupture risk if the pregnancy is indeed ectopic.
+
+135
+00:15:41,967 --> 00:15:46,229
+Dilation and curettage (D & C) is an option .
+
+136
+00:15:46,229 --> 00:15:50,942
+It may give a faster diagnosis but may interrupt a normal IUP.
+
+137
+00:15:50,942 --> 00:15:58,279
+Before curettage, a second TVS examination may be indicated and may display new informative findings.
+
+138
+00:15:58,279 --> 00:16:03,867
+As noted, ectopic pregnancies can rupture even at low β-hCG levels.
+
+139
+00:16:03,867 --> 00:16:11,629
+Thus, serum β-hCG values are usually followed until they lie below the negative-result threshold for the given assay.
+
+140
+00:16:11,629 --> 00:16:22,029
+Endometrial Findings In a woman in whom ectopic pregnancy is suspected, TVS is performed to look for findings indicative of an IUP or ectopic pregnancy.
+
+141
+00:16:22,029 --> 00:16:30,892
+During endometrial cavity evaluation, an intrauterine gestational sac is usually visible between 4½ and 5 weeks.
+
+142
+00:16:30,892 --> 00:16:42,942
+The yolk sac appears between 5 and 6 weeks, and a fetal pole with cardiac activity is first detected at 5½ to 6 weeks (Fig. 14-1, p. 248).
+
+143
+00:16:42,942 --> 00:16:48,292
+With transabdominal sonography, these structures are visualized slightly later.
+
+144
+00:16:48,292 --> 00:16:54,892
+In contrast, with ectopic pregnancy, a trilaminar endometrial pattern is characteristic .
+
+145
+00:16:54,892 --> 00:17:00,904
+Its specificity is 94 percent, but with a sensitivity of only 38 percent .
+
+146
+00:17:00,904 --> 00:17:14,342
+In addition, Moschos and Twickler (2008) determined in women with a PUL at presentation that no normal IUPs had an endometrial stripe thickness <8 mm. Figure 12-3.
+
+147
+00:17:14,342 --> 00:17:20,129
+Transvaginal sonography of a pseudogestational sac within the endometrial cavity.
+
+148
+00:17:20,129 --> 00:17:25,367
+Its central location is characteristic of these anechoic fluid collections.
+
+149
+00:17:25,367 --> 00:17:33,242
+The endometrium is marked by calipers, and distal to this fluid, the endometrial thickness has a trilaminar pattern.
+
+150
+00:17:33,242 --> 00:17:36,742
+This pattern is common with ectopic pregnancy.
+
+151
+00:17:36,742 --> 00:17:41,117
+Reproduced with permission from Jason McWhirt, ARDMS.
+
+152
+00:17:41,117 --> 00:17:50,329
+Anechoic fluid collections, which might normally suggest an early intrauterine gestational sac, may also be seen with ectopic pregnancy.
+
+153
+00:17:50,329 --> 00:17:54,467
+These include pseudogestational sac and decidual cyst.
+
+154
+00:17:54,467 --> 00:18:03,279
+First, a pseudosac is a fluid collection between the endometrial layers and conforms to the cavity shape (see Fig. 12-3).
+
+155
+00:18:03,279 --> 00:18:08,192
+If a pseudosac is noted, the risk of ectopic pregnancy is increased .
+
+156
+00:18:08,192 --> 00:18:18,729
+Second, a decidual cyst is identified as an anechoic area lying within the endometrium but remote from the canal and often at the endometrial–myometrial border.
+
+157
+00:18:18,729 --> 00:18:23,767
+This may represent early decidual breakdown that precedes cast formation .
+
+158
+00:18:23,767 --> 00:18:29,079
+These two findings contrast with the intradecidual sign seen with IUPs.
+
+159
+00:18:29,079 --> 00:18:37,404
+With this sign, the early gestational sac is an anechoic sac eccentrically located within one of the endometrial stripe layers .
+
+160
+00:18:37,404 --> 00:18:48,404
+The American College of Obstetricians and Gynecologists (2020) advises caution in diagnosing an IUP if a definite yolk sac or embryo is not seen.
+
+161
+00:18:48,404 --> 00:18:56,454
+Adnexal Findings The sonographic diagnosis of ectopic pregnancy rests on seeing an adnexal mass separate from the ovary .
+
+162
+00:18:56,454 --> 00:19:04,004
+If an extrauterine yolk sac, embryo, or fetus is identified, ectopic pregnancy is clearly confirmed.
+
+163
+00:19:04,004 --> 00:19:11,192
+In other cases, a hyperechoic halo or tubal ring surrounding an anechoic gestational sac is seen.
+
+164
+00:19:11,192 --> 00:19:18,004
+Alternatively, hemorrhage within the ectopic pregnancy can form a solid, complex adnexal mass.
+
+165
+00:19:18,004 --> 00:19:30,429
+Overall, 60 percent of ectopic pregnancies are a complex mass; 20 percent are a hyperechoic ring; and 13 percent have an obvious gestational sac with a yolk sac or embryo .
+
+166
+00:19:30,429 --> 00:19:35,792
+Importantly, not all adnexal masses represent an ectopic pregnancy.
+
+167
+00:19:35,792 --> 00:19:42,317
+In this case, integration of sonographic findings with other clinical information is necessary.
+
+168
+00:19:42,317 --> 00:19:44,642
+Figure 12-4.
+
+169
+00:19:44,642 --> 00:19:50,104
+Various transvaginal sonographic findings with ectopic tubal pregnancies.
+
+170
+00:19:50,104 --> 00:19:55,404
+For sonographic diagnosis, an ectopic mass should be seen in the adnexa
+
+171
+00:19:55,564 --> 00:20:13,026
+separate from the ovary and may be seen as: (A) a yolk sac (shown here) and/or fetal pole with or without cardiac activity within an extrauterine sac, (B) an empty extrauterine sac with a hyperechoic ring, or (C) an inhomogeneous adnexal mass.
+
+172
+00:20:13,026 --> 00:20:21,976
+In this last image, color Doppler shows a classic “ring of fire,” which reflects increased vascularity typical of ectopic pregnancies.
+
+173
+00:20:21,976 --> 00:20:29,839
+LT OV = left ovary; SAG LT AD = sagittal left adnexal; UT = uterus.
+
+174
+00:20:29,839 --> 00:20:38,514
+Placental blood flow within the periphery of the complex adnexal mass —the ring of fire—can be seen with application of color Doppler.
+
+175
+00:20:38,514 --> 00:20:45,576
+A corpus luteum cyst often displays a similar vascular pattern, and differentiation can be challenging.
+
+176
+00:20:45,576 --> 00:20:53,039
+Hemoperitoneum In affected women, blood in the peritoneal cavity is most often identified using TVS .
+
+177
+00:20:53,039 --> 00:20:57,389
+A small amount of peritoneal fluid is physiologically normal.
+
+178
+00:20:57,389 --> 00:21:05,464
+However, with hemoperitoneum, anechoic or hypoechoic fluid initially collects in the dependent retrouterine cul-de-sac.
+
+179
+00:21:05,464 --> 00:21:09,926
+It then additionally surrounds the uterus as blood fills the pelvis.
+
+180
+00:21:09,926 --> 00:21:17,514
+With significant intraabdominal hemorrhage, blood will track up the pericolic gutters to fill Morison pouch near the liver.
+
+181
+00:21:17,514 --> 00:21:29,201
+Free fluid in this pouch typically is not seen until accumulated volumes reach 400 to 600 mL (Branney, 1995; Rodgerson, 2001).
+
+182
+00:21:29,201 --> 00:21:38,889
+Diagnostically, peritoneal fluid in conjunction with an adnexal mass and a positive pregnancy test result are highly predictive of ectopic pregnancy .
+
+183
+00:21:38,889 --> 00:21:42,139
+Ascites from cancer is a notable mimic.
+
+184
+00:21:42,139 --> 00:21:44,539
+Figure 12-5.
+
+185
+00:21:44,539 --> 00:21:46,489
+Hemoperitoneum.
+
+186
+00:21:46,489 --> 00:21:54,501
+A. This transvaginal sagittal view of the pelvis shows anechoic fluid initially pooling in the retrouterine cul-de-sac ().
+
+187
+00:21:54,501 --> 00:21:59,326
+Large accumulations will also extend into the anterior cul-de-sac ().
+
+188
+00:21:59,326 --> 00:22:05,989
+B. In this right upper quadrant sonogram, anechoic fluid is seen in Morison pouch (arrowhead).
+
+189
+00:22:05,989 --> 00:22:11,989
+C = cervix; F = fundus; K = kidney; L = liver.
+
+190
+00:22:11,989 --> 00:22:15,839
+Reproduced with permission from Dr. Devin Macias.
+
+191
+00:22:15,839 --> 00:22:22,564
+If sonography is unavailable, culdocentesis is a simple technique and was used commonly in the past.
+
+192
+00:22:22,564 --> 00:22:34,164
+The cervix is pulled outward and upward toward the symphysis with a tenaculum, and a long, 18-gauge needle is inserted through the posterior vaginal fornix into the retrouterine cul-de-sac.
+
+193
+00:22:34,164 --> 00:22:37,301
+If present, fluid can be aspirated.
+
+194
+00:22:37,301 --> 00:22:43,476
+However, no fluid is interpreted only as unsatisfactory entry into the cul-de-sac.
+
+195
+00:22:43,476 --> 00:22:48,464
+Bloody fluid or fluid with old clot fragments suggests hemoperitoneum.
+
+196
+00:22:48,464 --> 00:22:56,101
+If the blood sample clots, it may reflect an adjacent blood vessel puncture or brisk bleeding from ectopic pregnancy rupture.
+
+197
+00:22:56,101 --> 00:22:58,814
+# Serum Progesterone.
+
+198
+00:22:58,814 --> 00:23:09,226
+Although not our practice, this hormone is used by some to aid ectopic pregnancy diagnosis when serum β-hCG levels and TVS findings are inconclusive .
+
+199
+00:23:09,226 --> 00:23:11,826
+A single value is sufficient.
+
+200
+00:23:11,826 --> 00:23:25,564
+From studies, a serum progesterone level <6 ng/mL (<20 nmol/L) has a pooled specificity of 98 percent to predict a nonviable pregnancy in women with a PUL .
+
+201
+00:23:25,564 --> 00:23:35,364
+A value >25 ng/mL suggests a live IUP and excludes ectopic pregnancy with 97-percent sensitivity .
+
+202
+00:23:35,364 --> 00:23:44,976
+With most ectopic pregnancies, progesterone levels range between 10 and 25 ng/mL and thus have limited diagnostic utility .
+
+203
+00:23:44,976 --> 00:23:52,801
+Serum progesterone levels can be used to buttress a clinical impression, but again they cannot reliably identify location .
+
+204
+00:23:52,801 --> 00:23:55,664
+# Endometrial Sampling.
+
+205
+00:23:55,664 --> 00:24:02,864
+Several endometrial changes accompany ectopic pregnancy, and all lack coexistent chorionic villi.
+
+206
+00:24:02,864 --> 00:24:12,839
+Decidual reaction is found in 42 percent of samples, secretory endometrium in 22 percent, and proliferative endometrium in 12 percent .
+
+207
+00:24:12,839 --> 00:24:19,901
+Some recommend that lack of chorionic villi be confirmed by D & C before methotrexate treatment is given.
+
+208
+00:24:19,901 --> 00:24:32,614
+Chung and associates (2011) found that the presumptive diagnosis of ectopic pregnancy is inaccurate in 27 percent of cases without histological exclusion of a spontaneous pregnancy loss.
+
+209
+00:24:32,614 --> 00:24:39,189
+Nevertheless, the risks of D & C are weighed against the limited maternal risks of methotrexate.
+
+210
+00:24:39,189 --> 00:24:53,151
+Endometrial biopsy with a Pipelle catheter or endometrial aspiration was studied as an alternative to surgical curettage and found inferior (Barnhart, 2003b; Insogna, 2017).
+
+211
+00:24:53,151 --> 00:24:55,951
+Instead, frozen section of
+
+212
+00:24:56,116 --> 00:25:02,966
+curettage fragments to identify products of conception is accurate in 95 percent of cases .
+
+213
+00:25:02,916 --> 00:25:05,391
+# Laparoscopy.
+
+214
+00:25:05,391 --> 00:25:15,203
+Direct visualization of the fallopian tubes and pelvis by laparoscopy offers a reliable diagnosis in most cases of suspected ectopic pregnancy.
+
+215
+00:25:15,203 --> 00:25:21,828
+This also permits a ready transition to definitive operative therapy, which is discussed subsequently.
+
+216
+00:25:21,828 --> 00:25:23,941
+Medical Management.
+
+217
+00:25:23,941 --> 00:25:26,516
+# Regimen Options.
+
+218
+00:25:26,516 --> 00:25:33,616
+For most ectopic pregnancies, medical therapy is preferred, if feasible, to avoid surgical risks.
+
+219
+00:25:33,616 --> 00:25:39,328
+Disqualifying criteria are a ruptured fallopian tube and drug contraindications.
+
+220
+00:25:39,328 --> 00:25:47,016
+Other considerations include reasonably close access to emergency care and a commitment to surveillance laboratory testing.
+
+221
+00:25:47,016 --> 00:25:52,928
+Medical therapy traditionally involves the antimetabolite methotrexate (MTX).
+
+222
+00:25:52,928 --> 00:25:56,266
+This drug is a folic acid antagonist.
+
+223
+00:25:56,266 --> 00:26:05,941
+It tightly binds to dihydrofolate reductase, blocking the reduction of dihydrofolate to tetrahydrofolate, which is the active form of folic acid.
+
+224
+00:26:05,941 --> 00:26:14,866
+As a result, de novo purine and pyrimidine production is halted, which then arrests DNA, RNA, and protein synthesis.
+
+225
+00:26:14,866 --> 00:26:20,466
+Thus, MTX is highly effective against rapidly proliferating trophoblast.
+
+226
+00:26:20,466 --> 00:26:27,628
+However, gastrointestinal mucosa, bone marrow, and respiratory epithelium also can be harmed.
+
+227
+00:26:27,628 --> 00:26:32,453
+To help select suitable candidates, laboratory tests are obtained.
+
+228
+00:26:32,453 --> 00:26:42,278
+First, MTX is renally cleared, and significant renal dysfunction, reflected by an elevated serum creatinine level, precludes its use.
+
+229
+00:26:42,278 --> 00:26:51,603
+Second, MTX can be hepato- and myelotoxic, and CBC and liver function tests (LFTs) help establish a baseline.
+
+230
+00:26:51,603 --> 00:26:55,653
+Last, blood type and Rh status are determined.
+
+231
+00:26:55,653 --> 00:27:03,453
+All except blood typing are considered surveillance laboratory tests and are repeated prior to additional MTX doses.
+
+232
+00:27:03,453 --> 00:27:10,228
+With administration, women are counseled to avoid several aggravating agents until treatment is completed.
+
+233
+00:27:10,228 --> 00:27:39,141
+These are: (1) folic acid-containing supplements, which can competitively reduce MTX binding to dihydrofolate reductase; (2) nonsteroidal antiinflammatory drugs, which reduce renal blood flow and delay drug excretion; (3) alcohol, which can predispose to concurrent hepatic enzyme elevation; (4) sunlight, which can provoke MTXrelated dermatitis; and (5) sexual activity, which can rupture the ectopic pregnancy .
+
+234
+00:27:39,141 --> 00:27:48,641
+MTX is a potent teratogen, and MTX embryopathy is notable for craniofacial and skeletal abnormalities and fetal-growth restriction .
+
+235
+00:27:48,641 --> 00:28:02,416
+MTX is excreted into breast milk and may accumulate in neonatal tissues and interfere with neonatal cellular metabolism (American Academy of Pediatrics, 2001; Briggs, 2017).
+
+236
+00:28:02,416 --> 00:28:10,628
+Based on all these findings, a list of contraindications and pretherapy laboratory testing is found in Table 12-1.
+
+237
+00:28:10,628 --> 00:28:12,866
+Table 12-1.
+
+238
+00:28:12,866 --> 00:28:27,353
+Medical Treatment Protocols for Ectopic Pregnancy For ease and efficacy, intramuscular MTX administration is used most often for ectopic pregnancy treatment, and single-dose and multidose MTX protocols are available.
+
+239
+00:28:27,353 --> 00:28:39,416
+With single-dose therapy, the dose is 50 mg/m2 body surface area (BSA), and BSA can be derived using various Internet-based BSA calculators.
+
+240
+00:28:39,416 --> 00:28:47,153
+At our institution, patients are observed for 30 minutes following MTX injection to exclude an adverse reaction.
+
+241
+00:28:47,153 --> 00:28:52,703
+With the multidose regimen, leucovorin is added to blunt MTX toxicity.
+
+242
+00:28:52,703 --> 00:28:57,041
+Leucovorin is folinic acid and has folic acid activity.
+
+243
+00:28:57,041 --> 00:29:02,441
+Thus, it allows some purine and pyrimidine synthesis to buffer side effects.
+
+244
+00:29:02,441 --> 00:29:06,678
+Comparing these two protocols, trade-offs are recognized.
+
+245
+00:29:06,678 --> 00:29:13,441
+Single-dose therapy offers simplicity, less expense, and less intensive posttherapy monitoring.
+
+246
+00:29:13,441 --> 00:29:25,678
+However, some but not all studies report a higher success rate for the multidose regimen (Barnhart, 2003a; Lipscomb, 2005; Tabatabaii, 2012).
+
+247
+00:29:25,678 --> 00:29:32,491
+Overall, ectopic tubal pregnancy resolution rates approximate 90 percent with MTX use.
+
+248
+00:29:32,491 --> 00:29:36,503
+At our institution, we use single-dose MTX.
+
+249
+00:29:36,503 --> 00:29:39,091
+# Patient Selection.
+
+250
+00:29:39,091 --> 00:29:45,653
+The best candidate for medical therapy is the woman who is asymptomatic, motivated, and compliant.
+
+251
+00:29:45,653 --> 00:29:57,391
+With medical therapy, some classic predictors of success include a low initial serum β-hCG level, small ectopic pregnancy size, and absent fetal cardiac activity.
+
+252
+00:29:57,391 --> 00:30:01,178
+Of these, initial serum β-hCG level
+
+253
+00:30:01,348 --> 00:30:05,773
+is the best prognostic indicator with single-dose MTX.
+
+254
+00:30:05,723 --> 00:30:28,385
+Reported failure rates are 1.5 percent if the initial serum β-hCG concentration is <1000 mIU/mL; 5.6 percent at 1000 to 2000 mIU/mL; 3.8 percent at 2000 to 5000 mIU/mL; and 14.3 percent for levels between 5000 and 10,000 mIU/mL .
+
+255
+00:30:28,385 --> 00:30:33,560
+Many early trials also used large size as an exclusion criterion.
+
+256
+00:30:33,560 --> 00:30:45,285
+Lipscomb and colleagues (1998) reported a 93-percent success rate with single-dose MTX when the ectopic mass was ≤3.5 cm.
+
+257
+00:30:45,285 --> 00:30:52,873
+This compared with success rates between 87 and 90 percent when the mass was >3.5 cm.
+
+258
+00:30:52,873 --> 00:31:02,310
+These authors also found ectopic pregnancies measuring ≤4 cm and lacking cardiac activity to be suitable candidates.
+
+259
+00:31:02,310 --> 00:31:09,548
+Failure rates rise if cardiac activity is seen, with an 87-percent success rate in such cases.
+
+260
+00:31:09,548 --> 00:31:11,923
+# Side Effects.
+
+261
+00:31:11,923 --> 00:31:19,410
+These regimens are associated with minimal laboratory changes and symptoms, but rarely toxicity may be severe.
+
+262
+00:31:19,410 --> 00:31:29,435
+Kooi and Kock (1992) reviewed 16 studies and reported that adverse effects were resolved by 3 to 4 days after MTX was discontinued.
+
+263
+00:31:29,435 --> 00:31:37,710
+The most frequent were liver involvement—12 percent; stomatitis—6 percent; and gastroenteritis—1 percent.
+
+264
+00:31:37,710 --> 00:31:40,673
+One woman had bone marrow depression.
+
+265
+00:31:40,673 --> 00:31:49,435
+More commonly, 65 to 75 percent of women given MTX will have increasing pain beginning several days after therapy.
+
+266
+00:31:49,435 --> 00:31:57,998
+Thought to reflect separation of the ectopic pregnancy from the tubal wall, this pain generally is mild and relieved by analgesics.
+
+267
+00:31:57,998 --> 00:32:11,573
+In a series of 258 women treated with MTX by Lipscomb and colleagues (1999), 20 percent had pain that merited evaluation in a clinic or emergency department to exclude tubal rupture.
+
+268
+00:32:11,573 --> 00:32:16,298
+Long term, MTX treatment does not diminish ovarian reserve .
+
+269
+00:32:16,298 --> 00:32:27,610
+However, after successful MTX therapy, pregnancy is ideally delayed for at least 3 months, because this drug may persist in human tissues for months after a single dose .
+
+270
+00:32:27,610 --> 00:32:33,510
+Although data are very limited, conception before this waiting period appears reassuring.
+
+271
+00:32:33,510 --> 00:32:44,235
+In one study, 45 women who conceived <6 months after MTX had similar pregnancy outcomes compared with 80 women who conceived >6 months after MTX .
+
+272
+00:32:44,235 --> 00:32:46,535
+# Surveillance.
+
+273
+00:32:46,535 --> 00:32:58,573
+As shown in Table 12-1, monitoring single-dose therapy calls for serum βhCG determinations at days 4 and 7 following initial MTX injection on day 1.
+
+274
+00:32:58,573 --> 00:33:07,710
+After single-dose MTX, mean serum β-hCG levels may rise or fall during the first 4 days and then should gradually decline.
+
+275
+00:33:07,710 --> 00:33:16,410
+If the level fails to drop by ≥15 percent between days 4 and 7, a second MTX dose is recommended.
+
+276
+00:33:16,410 --> 00:33:21,598
+This is necessary in 20 percent of women treated with single-dose therapy .
+
+277
+00:33:21,598 --> 00:33:27,373
+In such cases, a CBC, creatinine level, and LFTs are rechecked.
+
+278
+00:33:27,373 --> 00:33:32,610
+If these surveillance tests are normal, a second equivalent dose is administered.
+
+279
+00:33:32,610 --> 00:33:38,410
+The date of this second injection will become the new day 1, and the protocol is restarted.
+
+280
+00:33:38,410 --> 00:33:49,573
+Multidose therapy provides MTX (1 mg/kg) treatment with leucovorin (0.1 mg/kg) therapy on alternating days.
+
+281
+00:33:49,573 --> 00:33:55,660
+After this first pair of injections, a serum β-hCG concentration is obtained.
+
+282
+00:33:55,660 --> 00:34:02,260
+Values between days 1 and 3 are anticipated to drop by ≥15 percent.
+
+283
+00:34:02,260 --> 00:34:08,785
+If not and if surveillance tests are normal, an additional MTX/leucovorin pair is given.
+
+284
+00:34:08,785 --> 00:34:13,060
+A serum β-hCG level is repeated 2 days later.
+
+285
+00:34:13,060 --> 00:34:16,410
+Up to four doses may be given if required .
+
+286
+00:34:16,410 --> 00:34:27,773
+With either dosing regimen, once a decline ≥15 percent is achieved, weekly serum β-hCG level testing then begins until values are undetectable.
+
+287
+00:34:27,773 --> 00:34:44,248
+Lipscomb and colleagues (1998) used single-dose MTX to successfully treat 287 women and reported that the average time to resolution—defined as a serum β-hCG level <15 mIU/mL—was 34 days.
+
+288
+00:34:44,248 --> 00:34:47,498
+The longest time was 109 days.
+
+289
+00:34:47,498 --> 00:34:49,685
+Surgical Management.
+
+290
+00:34:49,685 --> 00:34:51,848
+# Options.
+
+291
+00:34:51,848 --> 00:34:56,148
+Before surgery, future fertility desires are discussed.
+
+292
+00:34:56,148 --> 00:35:01,960
+In women desiring sterilization, the unaffected tube can be ligated or removed.
+
+293
+00:35:01,960 --> 00:35:06,948
+This is done concurrently with salpingectomy for the ectopic-containing tube.
+
+294
+00:35:06,948 --> 00:35:14,385
+Laparoscopy is the preferred surgical approach for ectopic pregnancy unless a woman is hemodynamically unstable.
+
+295
+00:35:14,385 --> 00:35:21,623
+This is supported first by comparable subsequent uterine pregnancy rates and tubal patency rates in those undergoing
+
+296
+00:35:21,772 --> 00:35:26,709
+salpingostomy completed either by laparoscopy or by laparotomy .
+
+297
+00:35:26,659 --> 00:35:35,397
+Second, laparoscopy has lower infection, adhesion, and thromboembolism risks and faster recovery times than laparotomy.
+
+298
+00:35:35,397 --> 00:35:48,284
+Moreover, as experience has accrued, cases previously managed by laparotomy—for example, those with hemoperitoneum—can safely be managed laparoscopically by those with suitable expertise.
+
+299
+00:35:48,284 --> 00:35:59,234
+However, the lowered venous return and cardiac output associated with pneumoperitoneum must be factored into the selection of minimally invasive surgery for a hypovolemic woman.
+
+300
+00:35:59,234 --> 00:36:04,359
+Two procedures—salpingostomy or salpingectomy—are options.
+
+301
+00:36:04,359 --> 00:36:09,347
+In the past, some favored salpingostomy to preserve future fertility.
+
+302
+00:36:09,347 --> 00:36:18,484
+However, two randomized trials compared laparoscopic outcomes between the two procedures in women with a normal contralateral fallopian tube.
+
+303
+00:36:18,484 --> 00:36:29,272
+The European Surgery in Ectopic Pregnancy (ESEP) study randomized 231 women to salpingectomy and 215 to salpingostomy.
+
+304
+00:36:29,272 --> 00:36:41,172
+After surgery, the subsequent cumulative rates of ongoing pregnancy by natural conception did not differ significantly between groups—56 versus 61 percent, respectively .
+
+305
+00:36:41,172 --> 00:36:51,409
+Again, in the DEMETER trial, the subsequent 2-year rate for achieving an IUP did not differ between groups—64 versus 70 percent, respectively .
+
+306
+00:36:51,409 --> 00:37:01,797
+However, for women with an abnormalappearing contralateral tube, salpingostomy of the ectopic-containing tube may be preferred if feasible to help preserve fertility.
+
+307
+00:37:01,797 --> 00:37:08,734
+Of the two procedures, salpingectomy may be used for both ruptured and unruptured ectopic pregnancies.
+
+308
+00:37:08,734 --> 00:37:16,047
+With one laparoscopic technique, the affected fallopian tube is lifted and held with atraumatic grasping forceps.
+
+309
+00:37:16,047 --> 00:37:23,172
+One of several suitable bipolar grasping devices is placed across the fallopian tube at the uterotubal junction.
+
+310
+00:37:23,172 --> 00:37:27,597
+Once desiccated, the tube is cut from its uterine attachment.
+
+311
+00:37:27,597 --> 00:37:33,184
+The bipolar device is then advanced across the mesosalpinx to free the entire tube.
+
+312
+00:37:33,184 --> 00:37:38,247
+Salpingostomy is typically used to remove a small unruptured pregnancy.
+
+313
+00:37:38,247 --> 00:37:46,234
+A 10- to 15-mm linear incision is made on the antimesenteric border of the fallopian tube and over the pregnancy.
+
+314
+00:37:46,234 --> 00:37:49,859
+The products usually will extrude from the incision.
+
+315
+00:37:49,859 --> 00:37:57,997
+These can be carefully extracted or can be flushed out using high-pressure irrigation that more thoroughly removes the trophoblastic tissue.
+
+316
+00:37:57,997 --> 00:38:07,234
+Small bleeding sites are controlled with needlepoint electrosurgical coagulation, and the incision is left unsutured to heal by secondary intention .
+
+317
+00:38:07,234 --> 00:38:17,284
+With either procedure and after specimen removal, the pelvis and abdomen are irrigated and suctioned free of blood and tissue debris to remove all trophoblastic tissue.
+
+318
+00:38:17,284 --> 00:38:20,222
+# Persistent Trophoblast.
+
+319
+00:38:20,222 --> 00:38:26,322
+After trophoblast removal during surgery, β-hCG levels usually fall quickly.
+
+320
+00:38:26,322 --> 00:38:38,084
+Persistent trophoblast is rare following salpingectomy but complicates 5 to 15 percent of salpingostomy cases (Pouly, 1986; Seifer, 1993).
+
+321
+00:38:38,084 --> 00:38:44,634
+Incomplete trophoblast removal can be identified by stable or rising β-hCG levels .
+
+322
+00:38:44,634 --> 00:38:47,872
+Monitoring approaches are not codified.
+
+323
+00:38:47,872 --> 00:38:51,872
+Weekly measures are reasonable following salpingostomy .
+
+324
+00:38:51,872 --> 00:39:00,634
+Following uncomplicated salpingectomy, we do not repeat β-hCG levels in women without pain or symptoms of hemoperitoneum.
+
+325
+00:39:00,634 --> 00:39:07,847
+With stable or increasing β-hCG levels, additional surgical or medical therapy is necessary.
+
+326
+00:39:07,847 --> 00:39:18,547
+In those without evidence for tubal rupture, standard therapy for persistent trophoblast is single-dose MTX, 50 mg/m2 × BSA.
+
+327
+00:39:18,547 --> 00:39:22,322
+Tubal rupture and bleeding require a second surgery.
+
+328
+00:39:22,322 --> 00:39:25,759
+# Medical versus Surgical Therapy.
+
+329
+00:39:25,759 --> 00:39:34,747
+Of options, multidose MTX treatment and laparoscopic salpingostomy have been compared in one randomized trial of 100 patients.
+
+330
+00:39:34,747 --> 00:39:47,372
+The authors found no differences for rates of tubal preservation, primary treatment success, and subsequent fertility (Dias Pereira, 1999; Hajenius, 1997).
+
+331
+00:39:47,372 --> 00:39:54,622
+For single-dose MTX, its efficacy compared with laparoscopic salpingostomy shows conflicting results.
+
+332
+00:39:54,622 --> 00:40:08,609
+In one randomized trial, single-dose MTX was less successful in pregnancy resolution, whereas in the other, single-dose MTX was equally effective (Saraj, 1998; Sowter, 2001).
+
+333
+00:40:08,609 --> 00:40:13,659
+Krag Moeller and associates (2009) reported during a median
+
+334
+00:40:13,828 --> 00:40:28,865
+surveillance period of 8.6 years that ectopic-resolution success rates and cumulative spontaneous IUP rates were not significantly different between those managed by laparoscopic salpingostomy and those treated with single-dose MTX.
+
+335
+00:40:28,815 --> 00:40:34,790
+Salpingectomy effectively removes the entire conceptus and yields high resolution rates.
+
+336
+00:40:34,790 --> 00:40:38,315
+It thus outperforms MTX in this regard.
+
+337
+00:40:38,315 --> 00:40:52,128
+Yet, when future fertility and ectopic pregnancy recurrence rates are analyzed, both salpingectomy and MTX therapy show comparable results (de Bennetot, 2012; Irani, 2017).
+
+338
+00:40:52,128 --> 00:41:01,428
+In another study, surgery, MTX, or expectant management all yielded statistically similar subsequent spontaneous IUP rates .
+
+339
+00:41:01,428 --> 00:41:16,753
+In sum, medical or surgical management offer similar outcomes in women who are hemodynamically stable, have serum β-hCG concentrations <5000 mIU/mL, and have a small pregnancy with no cardiac activity.
+
+340
+00:41:16,753 --> 00:41:34,340
+Despite lower success rates with medical therapy for women with larger tubal size, higher serum β-hCG levels, and fetal cardiac activity, medical management can be offered to the motivated woman who understands the risks of emergency surgery in the event of treatment failure.
+
+341
+00:41:34,340 --> 00:41:37,065
+# Expectant Management.
+
+342
+00:41:37,065 --> 00:41:47,365
+In select asymptomatic women, observation of a very early tubal pregnancy that is associated with stable or falling serum β-hCG levels is reasonable.
+
+343
+00:41:47,365 --> 00:41:53,815
+A commitment to surveillance visits and relative proximity to emergency care are other safeguards.
+
+344
+00:41:53,815 --> 00:41:59,790
+Importantly, this differs from expectant management of a PUL during its evaluation.
+
+345
+00:41:59,790 --> 00:42:14,815
+Predictive factors for success include a low initial serum β-hCG concentration, a significant drop in levels over 48 hours, and a sonographic inhomogeneous mass rather than a tubal halo or other gestational structures.
+
+346
+00:42:14,815 --> 00:42:28,515
+For example, initial values <175 mIU/mL predict spontaneous resolution in 88 to 96 percent of attempts (Elson, 2004; Kirk, 2011).
+
+347
+00:42:28,515 --> 00:42:42,678
+Initial values <1000 mIU/mL have success rates ranging from 71 to 92 percent (Jurkovic, 2017; Mavrelos, 2013; Silva, 2015).
+
+348
+00:42:42,678 --> 00:42:50,190
+With expectant management, subsequent rates of tubal patency and intrauterine pregnancy are comparable with surgery .
+
+349
+00:42:50,190 --> 00:43:03,565
+That said, compared with the established safety of medical or surgical therapy, the prolonged surveillance and risks of tubal rupture support the practice of expectant therapy only in appropriately selected and counseled women.
+
+350
+00:43:03,565 --> 00:43:05,903
+Interstitial Pregnancy.
+
+351
+00:43:05,903 --> 00:43:08,303
+# Diagnosis.
+
+352
+00:43:08,303 --> 00:43:15,203
+An interstitial pregnancy is one that implants within the tubal segment that lies within the muscular uterine wall .
+
+353
+00:43:15,203 --> 00:43:25,065
+Incorrectly, they may be called cornual pregnancies, but this term describes a conception that develops in the rudimentary horn of a uterus with a müllerian anomaly.
+
+354
+00:43:25,065 --> 00:43:35,528
+Risk factors are similar to others discussed for tubal ectopic pregnancy, although previous ipsilateral salpingectomy is a specific one for interstitial pregnancy .
+
+355
+00:43:35,528 --> 00:43:44,990
+Undiagnosed interstitial pregnancies usually rupture following 8 to 16 weeks of amenorrhea, which is later than for more distal tubal pregnancies.
+
+356
+00:43:44,990 --> 00:43:51,790
+The myometrium covering the interstitial fallopian tube segment permits greater distention before rupture.
+
+357
+00:43:51,790 --> 00:44:02,265
+Because of the proximity of these pregnancies to the uterine and ovarian arteries, hemorrhage can be severe and associated with mortality rates as high as 2.5 percent .
+
+358
+00:44:02,265 --> 00:44:04,590
+Figure 12-6.
+
+359
+00:44:04,590 --> 00:44:07,540
+Interstitial ectopic pregnancy.
+
+360
+00:44:07,540 --> 00:44:18,078
+A. This parasagittal view using transvaginal sonography shows an empty uterine cavity and a mass that is cephalad and lateral to the uterine fundus (calipers).
+
+361
+00:44:18,078 --> 00:44:25,103
+B. Intraoperative photograph during laparotomy and before cornual resection of the same ectopic pregnancy.
+
+362
+00:44:25,103 --> 00:44:35,665
+In this frontal view, the bulging right-sided interstitial ectopic pregnancy is lateral to the round ligament insertion and medial to the isthmic portion of the fallopian tube.
+
+363
+00:44:35,665 --> 00:44:40,590
+Reproduced with permission from Drs. David Rogers and Elaine Duryea.
+
+364
+00:44:40,590 --> 00:44:47,090
+In many cases, these pregnancies are identified early, but diagnosis can still be challenging.
+
+365
+00:44:47,090 --> 00:44:55,828
+These pregnancies sonographically can appear similar to an eccentrically implanted IUP, especially in a uterus with a müllerian anomaly.
+
+366
+00:44:55,828 --> 00:45:00,690
+Criteria that may aid differentiation include: an empty uterus,
+
+367
+00:45:00,844 --> 00:45:14,281
+a gestational sac seen separate from the endometrium and >1 cm away from the most lateral edge of the uterine cavity, and a thin, <5-mm myometrial mantle surrounding the sac .
+
+368
+00:45:14,231 --> 00:45:28,844
+Moreover, an echogenic line, known as the interstitial line sign, extending from the gestational sac to the endometrial cavity most likely represents the interstitial portion of the fallopian tube and is highly sensitive and specific .
+
+369
+00:45:28,844 --> 00:45:39,869
+In unclear cases, three-dimensional (3-D) sonography, magnetic resonance (MR) imaging, or diagnostic laparoscopy can help clarify anatomy.
+
+370
+00:45:39,869 --> 00:45:48,819
+Laparoscopically, a myometrial protuberance is seen to lie lateral to the round ligament and coexists with normal distal tubes and ovaries.
+
+371
+00:45:48,819 --> 00:45:51,044
+# Management.
+
+372
+00:45:51,044 --> 00:46:02,719
+Surgically, either cornual resection or cornuostomy may be performed via laparotomy or laparoscopy, depending on patient hemodynamic stability and surgeon expertise.
+
+373
+00:46:02,719 --> 00:46:09,769
+With either approach, intraoperative intramyometrial vasopressin injection may limit surgical blood loss.
+
+374
+00:46:09,769 --> 00:46:16,806
+Cornual resection removes the gestational sac and surrounding cornual myometrium by means of a wedge excision .
+
+375
+00:46:16,806 --> 00:46:25,094
+Alternatively, cornuostomy involves incision of the cornual myometrium and suction or instrument extraction of the pregnancy.
+
+376
+00:46:25,094 --> 00:46:29,119
+Both instances require layered myometrial closure.
+
+377
+00:46:29,119 --> 00:46:34,931
+β-hCG levels are monitored postoperatively to exclude remnant trophoblast.
+
+378
+00:46:34,931 --> 00:46:37,406
+Figure 12-7.
+
+379
+00:46:37,406 --> 00:46:45,381
+During cornual resection, the pregnancy, surrounding myometrium, and ipsilateral fallopian tube are excised en bloc.
+
+380
+00:46:45,381 --> 00:46:48,881
+The incision is angled inward as it is deepened.
+
+381
+00:46:48,881 --> 00:46:55,606
+This creates a wedge shape into the myometrium, which is then closed in layers with delayed-absorbable suture.
+
+382
+00:46:55,606 --> 00:46:59,869
+The serosa is closed with subcuticular style suturing.
+
+383
+00:46:59,869 --> 00:47:08,231
+Reproduced with permission from Hoffman BL, Hamid CA, Corton MM: Surgeries for benign gynecologic conditions.
+
+384
+00:47:08,231 --> 00:47:15,456
+In Hoffman BL, Schorge JO, Halvorson LM, et al: Williams Gynecology, 4th ed.
+
+385
+00:47:15,456 --> 00:47:19,381
+New York, NY: McGraw Hill; 2020.
+
+386
+00:47:19,381 --> 00:47:23,744
+With early diagnosis, medical management may be considered.
+
+387
+00:47:23,744 --> 00:47:29,994
+However, consensus regarding MTX regimens is lacking because of small study numbers.
+
+388
+00:47:29,994 --> 00:47:40,756
+Jermy and coworkers (2004) reported a 94-percent success with systemic MTX using a dose of 50 mg/m2 × BSA.
+
+389
+00:47:40,756 --> 00:47:44,906
+Others employ a traditional multidose MTX regimen .
+
+390
+00:47:44,906 --> 00:47:50,906
+Direct MTX injection into the gestational sac also offers comparable success .
+
+391
+00:47:50,906 --> 00:48:00,294
+Last, a uterine artery MTX infusion followed by uterine artery embolization (UAE) is termed chemoembolization by some.
+
+392
+00:48:00,294 --> 00:48:04,331
+This combined with systemic MTX has shown promise .
+
+393
+00:48:04,331 --> 00:48:11,556
+The risk of uterine rupture with subsequent pregnancies following either medical or surgical management is undefined.
+
+394
+00:48:11,556 --> 00:48:21,719
+Thus, elective cesarean delivery after 370/7 weeks’ gestation, which is timed similarly to those with prior at-risk myomectomy, is reasonable .
+
+395
+00:48:21,719 --> 00:48:32,069
+Distinct from interstitial pregnancy, the term angular pregnancy is used by some to describe eccentric implantation near one cornu but within the endometrial cavity.
+
+396
+00:48:32,069 --> 00:48:42,694
+In one prospective case series of 42 such pregnancies, 80 percent progressed to a viable age, and abnormal placentation or uterine rupture did not develop .
+
+397
+00:48:42,694 --> 00:48:49,169
+These eccentrically implanted early IUPs are managed as normal pregnancies at our institution.
+
+398
+00:48:49,169 --> 00:48:51,794
+Cesarean Scar Pregnancy.
+
+399
+00:48:51,794 --> 00:48:54,194
+# Diagnosis.
+
+400
+00:48:54,194 --> 00:49:00,369
+This term describes implantation within the myometrium of a prior cesarean delivery scar.
+
+401
+00:49:00,369 --> 00:49:08,069
+Its incidence approximates 1 case in 2000 normal pregnancies and has increased along with the cesarean delivery rate .
+
+402
+00:49:08,069 --> 00:49:16,006
+Women with symptomatic cesarean scar pregnancy (CSP) usually present early, and pain and bleeding are common.
+
+403
+00:49:16,006 --> 00:49:24,094
+Still, up to 40 percent of women are asymptomatic, and the diagnosis is made during routine sonographic examination .
+
+404
+00:49:24,094 --> 00:49:28,631
+Sonographic criteria are described in Figure 128 .
+
+405
+00:49:28,631 --> 00:49:34,944
+Further, CSP implantation can be divided into endogenic and exogenic patterns.
+
+406
+00:49:34,944 --> 00:49:46,594
+Endogenic CSPs implant on the scar and expand toward the uterine cavity, whereas exogenic ones implant deeply within the scar niche and grow toward the bladder or abdominal cavity.
+
+407
+00:49:46,594 --> 00:49:58,756
+In one small study of CSPs that continued to viability, endogenic CSPs yielded variable obstetric outcomes, whereas all exogenic CSPs underwent hysterectomy
+
+408
+00:49:58,924 --> 00:50:03,174
+with placenta accreta spectrum (PAS) at delivery .
+
+409
+00:50:03,124 --> 00:50:05,224
+Figure 12-8.
+
+410
+00:50:05,224 --> 00:50:11,236
+Transvaginal sonogram of a uterus with a cesarean scar pregnancy in a sagittal plane.
+
+411
+00:50:11,236 --> 00:50:32,849
+Diagnostic criteria include: (1) an empty uterine cavity (E) and empty endocervical canal, (2) placenta or gestational sac (asterisk) embedded in the hysterotomy scar niche, (3) a thin myometrial mantle between the gestational sac and bladder (B), and (4) a prominent vascular pattern at the scar.
+
+412
+00:50:32,849 --> 00:50:37,361
+C = cervix; Ut = anterior uterine wall.
+
+413
+00:50:37,361 --> 00:50:45,624
+Sonographically, differentiating between an IUP implanted at the cervicoisthmic junction and a CSP can be difficult.
+
+414
+00:50:45,624 --> 00:50:52,874
+Investigators in one study marked the midpoint of the uterine length (cervix to fundus) in sagittal views.
+
+415
+00:50:52,874 --> 00:50:59,049
+If the center of the gestational sac lay distal to this midpoint, a CSP was diagnosed .
+
+416
+00:50:59,049 --> 00:51:02,811
+A spontaneous expelling abortus is another mimic.
+
+417
+00:51:02,811 --> 00:51:10,636
+Color Doppler will show the intense placental vascularity around a CSP, whereas as the aborting sac is avascular.
+
+418
+00:51:10,636 --> 00:51:19,361
+Moreover, gentle pressure applied to the cervix by the vaginal probe will fail to move an implanted gestation—a negative sliding sign.
+
+419
+00:51:19,361 --> 00:51:24,211
+Instead, an aborted sac will slide against the endocervical canal .
+
+420
+00:51:24,211 --> 00:51:31,499
+TVS is the typical first-line imaging tool, but MR imaging is useful for inconclusive cases.
+
+421
+00:51:31,499 --> 00:51:33,724
+# Management.
+
+422
+00:51:33,724 --> 00:51:39,174
+Insights into the pathogenesis of CSPs are expanding management options.
+
+423
+00:51:39,174 --> 00:51:48,011
+Namely, growing evidence suggests that some of these pregnancies will not behave as a typical ectopic pregnancy, and rupture rates are lower.
+
+424
+00:51:48,011 --> 00:51:52,099
+CSPs are thought by some to be a precursor of PAS .
+
+425
+00:51:52,099 --> 00:52:05,699
+As such, a significant percentage of affected pregnancies will progress to a viable-aged neonate, albeit with the complications associated with PAS (Calì, 2018; Timor-Tritsch, 2015b).
+
+426
+00:52:05,699 --> 00:52:11,611
+Patients may prefer to avoid rupture and PAS risks and seek pregnancy termination.
+
+427
+00:52:11,611 --> 00:52:39,774
+From one literature review, the most successful operations include: (1) laparoscopic uterine isthmic resection; (2) transvaginal isthmic resection through an anterior colpotomy, created similarly to anterior entry during vaginal hysterectomy; (3) UAE, followed by D & C with or without hysteroscopy; and (4) hysteroscopic resection (Birch Petersen, 2016; Wang, 2014).
+
+428
+00:52:39,774 --> 00:52:51,074
+The Society for Maternal-Fetal Medicine (SMFM) (2020) considers sonography-guided vacuum aspiration alone, but not sharp curettage, to be suitable.
+
+429
+00:52:51,074 --> 00:52:58,036
+In some instances, hysterectomy is required or may be elected in those not desiring future fertility.
+
+430
+00:52:58,036 --> 00:53:02,611
+Medical management is an option for those hoping to avoid surgery.
+
+431
+00:53:02,611 --> 00:53:08,786
+However, compared with surgery, pregnancy resolution rates are more varied and lengthier.
+
+432
+00:53:08,786 --> 00:53:20,899
+In one review, local MTX injection into the gestational sac alone provided a success rate of 60 percent, and systemic plus local MTX raised the rate to nearly 80 percent .
+
+433
+00:53:20,899 --> 00:53:26,524
+The SMFM (2020) recommends against systemic MTX alone.
+
+434
+00:53:26,524 --> 00:53:33,574
+With local MTX, doses of 1 mg/kg or 50-mg doses have been described.
+
+435
+00:53:33,574 --> 00:53:43,124
+Prior to local MTX, fetal death can be induced in more advanced gestations by potassium chloride (KCL) injection into the sac .
+
+436
+00:53:43,124 --> 00:53:48,299
+One option is 1 mL of 2 mEq/mL KCL.
+
+437
+00:53:48,299 --> 00:53:55,799
+Also, if associated bleeding complicates medical management, a Foley balloon catheter can be placed and expanded .
+
+438
+00:53:55,799 --> 00:54:04,524
+Recently, a novel double-balloon catheter, in which the balloons lie in tandem, has been used with MTX to resolve CSPs .
+
+439
+00:54:04,524 --> 00:54:10,311
+The cephalad balloon is filled within the endometrial cavity to prevent device expulsion.
+
+440
+00:54:10,311 --> 00:54:17,636
+The lower balloon is tightly inflated to interrupt the CSP via mechanical pressure and tamponades potential bleeding.
+
+441
+00:54:17,636 --> 00:54:29,436
+Following conservative treatment, subsequent pregnancies have good outcomes, but PAS and recurrent CSP are risks (Gao, 2016; Wang, 2015).
+
+442
+00:54:29,436 --> 00:54:37,611
+In one series of 30 CSPs, five subsequent pregnancies developed normally, whereas four were recurrent CSPs .
+
+443
+00:54:37,611 --> 00:54:43,061
+Uterine arteriovenous malformations are a potential long-term complication .
+
+444
+00:54:43,061 --> 00:54:46,711
+CSPs have also been expectantly managed.
+
+445
+00:54:46,711 --> 00:54:52,886
+The Society for Maternal– Fetal Medicine (2020) recommends against this practice.
+
+446
+00:54:52,886 --> 00:54:57,786
+Exceptions may be early CSPs with evidence of pregnancy failure.
+
+447
+00:54:57,786 --> 00:55:03,774
+One review of 69 patients continuing their gestation found that uterine rupture or
+
+448
+00:55:03,940 --> 00:55:09,577
+dehiscence complicated 10 percent of all cases (Calì, 2018).
+
+449
+00:55:09,527 --> 00:55:15,390
+During the first or second trimester, hysterectomy was performed in 15 percent.
+
+450
+00:55:15,390 --> 00:55:27,277
+For the 40 patients progressing to the third trimester, 17 had placenta percreta, 23 patients underwent hysterectomy, and two patients had uterine rupture or dehiscence.
+
+451
+00:55:27,277 --> 00:55:33,002
+For all trimesters, 60 percent of cases ultimately underwent hysterectomy.
+
+452
+00:55:33,002 --> 00:55:44,752
+More reassuringly, in early pregnancies without cardiac activity, 70 percent had uncomplicated miscarriage, whereas 30 percent required surgical or medical intervention.
+
+453
+00:55:44,752 --> 00:55:48,765
+Of these early demises, none required hysterectomy.
+
+454
+00:55:48,765 --> 00:55:55,215
+Women accepting expectant care are ideally well counseled on these potential obstetric complications.
+
+455
+00:55:55,215 --> 00:56:10,715
+If not prompted by earlier complications, repeat cesarean delivery is recommended at 340/7 and 356/7 weeks’ gestation, and this timing recognizes the PAS and uterine rupture risks associated with CSP.
+
+456
+00:56:10,715 --> 00:56:15,790
+Betamethasone to hasten lung maturity is recommended prior to delivery .
+
+457
+00:56:15,790 --> 00:56:17,990
+Cervical Pregnancy.
+
+458
+00:56:17,990 --> 00:56:20,390
+# Diagnosis.
+
+459
+00:56:20,390 --> 00:56:28,365
+This rare ectopic pregnancy is defined first by cervical glands noted histologically opposite the placental attachment site.
+
+460
+00:56:28,365 --> 00:56:37,677
+Second, all or part of the placenta lies at a level below the entrance of the uterine vessels or below the peritoneal reflection on the anterior uterus.
+
+461
+00:56:37,677 --> 00:56:43,827
+Trophoblast invades the endocervix, and the pregnancy develops in the fibrous cervical wall.
+
+462
+00:56:43,827 --> 00:56:48,140
+Risk factors include ART and prior uterine curettage .
+
+463
+00:56:48,140 --> 00:56:55,090
+Painless vaginal bleeding is reported by 90 percent of women with a cervical pregnancy, and it can be severe .
+
+464
+00:56:55,090 --> 00:57:02,665
+As pregnancy progresses, a distended, thin-walled cervix with a partially dilated external os may be evident.
+
+465
+00:57:02,665 --> 00:57:07,740
+Above the cervical mass, a slightly enlarged uterine fundus is felt.
+
+466
+00:57:07,740 --> 00:57:13,102
+Typical sonographic findings are shown and described in Figure 12-9.
+
+467
+00:57:13,102 --> 00:57:18,615
+In some cases, MR imaging and 3-D TVS can aid diagnosis.
+
+468
+00:57:18,615 --> 00:57:20,940
+Figure 12-9.
+
+469
+00:57:20,940 --> 00:57:23,140
+Cervical pregnancy.
+
+470
+00:57:23,140 --> 00:57:44,327
+Transvaginal sonographic findings may include: (1) an hourglass uterine shape and ballooned cervix; (2) gestational tissue at the level of the cervix (arrow); (3) absent intrauterine gestational tissue; and (4) a portion of the endocervical canal seen interposed between the gestation and the endometrial canal.
+
+471
+00:57:44,327 --> 00:57:48,240
+Reproduced with permission from Dr. Angela Seasely.
+
+472
+00:57:48,240 --> 00:57:54,377
+At times, cervical ectopic pregnancy can mimic a miscarriage in transit through the cervix.
+
+473
+00:57:54,377 --> 00:58:09,965
+Similar to CSPs and described in that section, color Doppler will show the intense vascularity of cervical implantation, and gentle pressure applied to the cervix by the vaginal probe will fail to move an implanted gestation—a negative sliding sign.
+
+474
+00:58:09,965 --> 00:58:12,190
+# Management.
+
+475
+00:58:12,190 --> 00:58:16,240
+Cervical pregnancy may be treated medically or surgically.
+
+476
+00:58:16,240 --> 00:58:23,340
+In many centers, including ours, MTX is first-line therapy in hemodynamically stable women.
+
+477
+00:58:23,340 --> 00:58:30,365
+Of options, single- or multidose systemic MTX and dosing found in Table 12-1 are suitable .
+
+478
+00:58:30,365 --> 00:58:41,140
+Alternatively, 50 mg of MTX can be injected directly into the gestational sac (Jeng, 2007; Yamaguchi, 2017).
+
+479
+00:58:41,140 --> 00:58:49,802
+Others describe chemoembolization with MTX and UAE, as described for interstitial pregnancy (p. 228).
+
+480
+00:58:49,802 --> 00:58:58,927
+With MTX regimens, resolution and uterine preservation are achieved for gestations <12 weeks in 91 percent of cases .
+
+481
+00:58:58,927 --> 00:59:18,815
+To select appropriate candidates, Hung and colleagues (1996) noted higher risks of systemic MTX treatment failure in those with a gestational age >9 weeks, βhCG levels >10,000 mIU/mL, crown-rump length >10 mm, and fetal cardiac activity.
+
+482
+00:59:18,815 --> 00:59:25,027
+For this reason, feticidal KCL can be injected into the fetus or gestational sac .
+
+483
+00:59:25,027 --> 00:59:33,365
+Notably, during posttherapy surveillance, sonographic resolution lags far behind serum β-hCG level regression .
+
+484
+00:59:33,365 --> 00:59:42,190
+Although conservative management is feasible for many women with cervical pregnancies, suction evacuation or hysterectomy may be selected.
+
+485
+00:59:42,190 --> 00:59:48,252
+Moreover, hysterectomy may be required with bleeding uncontrolled by conservative methods .
+
+486
+00:59:48,252 --> 00:59:57,077
+During hysterectomy, because of the close proximity of the ureters to the ballooned cervix, urinary tract injury rates are a concern.
+
+487
+00:59:57,077 --> 01:00:03,190
+If suction evacuation of the cervix is planned, intraoperative bleeding may be lessened by
+
+488
+01:00:03,340 --> 01:00:18,702
+preoperative UAE, by intracervical vasopressin injection, or by a cerclage placed at the internal cervical os to compress feeding vessels (Chen, 2015; Fylstra, 2014; Wang, 2011).
+
+489
+01:00:18,652 --> 01:00:29,477
+Cervical branches of the uterine artery can effectively be ligated with vaginal placement of hemostatic cervical sutures on the lateral aspects of the cervix at 3 and 9 o’clock .
+
+490
+01:00:29,477 --> 01:00:42,727
+As an adjunct to medical or surgical therapy, UAE has been described either as a response to bleeding or as a preprocedural prevention (Hirakawa, 2009; Zakaria, 2011).
+
+491
+01:00:42,727 --> 01:00:55,652
+Also, in the event of hemorrhage, a 26F Foley catheter with a 30-mL balloon can be placed intracervically and inflated to effect hemostasis by vessel tamponade and to monitor bloody drainage.
+
+492
+01:00:55,652 --> 01:01:02,552
+The balloon remains inflated for 24 to 48 hours and is gradually decompressed over a few days .
+
+493
+01:01:02,552 --> 01:01:04,827
+Abdominal Pregnancy.
+
+494
+01:01:04,827 --> 01:01:07,227
+# Diagnosis.
+
+495
+01:01:07,227 --> 01:01:17,352
+These rare ectopic pregnancies are defined as an implantation in the peritoneal cavity exclusive of tubal, ovarian, or intraligamentous implantations.
+
+496
+01:01:17,352 --> 01:01:22,902
+Most are thought to follow early tubal rupture or tubal abortion with reimplantation.
+
+497
+01:01:22,902 --> 01:01:26,452
+Clinically, symptoms may be absent or vague.
+
+498
+01:01:26,452 --> 01:01:33,752
+Laboratory tests are typically uninformative, although maternal serum alpha-fetoprotein levels can be elevated.
+
+499
+01:01:33,752 --> 01:01:40,365
+With later gestations, abnormal fetal positions may be palpated, or the cervix is displaced .
+
+500
+01:01:40,365 --> 01:01:59,940
+Sonographically, clues are a fetus or placenta seen eccentrically positioned within the pelvis or separate from the uterus; lack of myometrium between the fetus and the maternal anterior abdominal wall or bladder; or bowel loops surrounding the gestational sac (Allibone, 1981; Chukus, 2015).
+
+501
+01:01:59,940 --> 01:02:03,727
+Oligohydramnios is common but nonspecific.
+
+502
+01:02:03,727 --> 01:02:09,590
+Often needed, MR imaging can aid diagnosis and provide placental information.
+
+503
+01:02:09,590 --> 01:02:11,815
+# Management.
+
+504
+01:02:11,815 --> 01:02:16,990
+Abdominal pregnancy treatment depends on the gestational age at diagnosis.
+
+505
+01:02:16,990 --> 01:02:22,940
+Conservative expectant management carries a maternal risk for sudden, dangerous hemorrhage.
+
+506
+01:02:22,940 --> 01:02:30,515
+Moreover, Stevens (1993) reported fetal malformations and deformations in 20 percent.
+
+507
+01:02:30,515 --> 01:02:36,477
+Thus, we believe that termination generally is indicated once the diagnosis is made.
+
+508
+01:02:36,477 --> 01:02:42,727
+Certainly, before 24 weeks’ gestation, conservative treatment rarely is justified.
+
+509
+01:02:42,727 --> 01:02:48,227
+Despite this, some describe waiting until fetal viability with close surveillance .
+
+510
+01:02:48,227 --> 01:02:56,177
+Principal surgical objectives are delivery of the fetus and careful assessment of placental implantation without provoking hemorrhage.
+
+511
+01:02:56,177 --> 01:03:04,115
+Unnecessary exploration is avoided because the anatomy is commonly distorted and surrounding areas are extremely vascular.
+
+512
+01:03:04,115 --> 01:03:15,490
+Importantly, placental removal may precipitate torrential hemorrhage because the normal hemostatic mechanism of myometrial contraction to constrict hypertrophied blood vessels is lacking.
+
+513
+01:03:15,490 --> 01:03:23,940
+If it is obvious that the placenta can be safely removed or if the implantation site is already bleeding, then removal begins immediately.
+
+514
+01:03:23,940 --> 01:03:28,402
+Blood vessels supplying the placenta are ideally ligated first.
+
+515
+01:03:28,402 --> 01:03:34,152
+For early gestations, locally injected dilute vasopressin also can be employed.
+
+516
+01:03:34,152 --> 01:03:38,840
+Some advocate leaving the placenta in place as the lesser of two evils.
+
+517
+01:03:38,840 --> 01:03:45,152
+It decreases the chance of immediate life-threatening hemorrhage, but at the expense of long-term sequelae.
+
+518
+01:03:45,152 --> 01:03:54,752
+Placental embolization may play a role prior to or following fetal extraction (Frischhertz, 2019; Marcelin, 2018).
+
+519
+01:03:54,752 --> 01:04:07,715
+If left in the abdominal cavity, the placenta can form abscesses, adhesions, intestinal or ureteral obstruction, and wound dehiscence (Bergstrom, 1998; Martin, 1988).
+
+520
+01:04:07,715 --> 01:04:12,140
+In many of these cases, surgical removal becomes inevitable.
+
+521
+01:04:12,140 --> 01:04:24,677
+If the placenta is left, its involution can be monitored using serum β-hCG levels and color Doppler sonography or MR imaging (France, 1980; Martin, 1990).
+
+522
+01:04:24,677 --> 01:04:28,215
+Placental function usually declines rapidly.
+
+523
+01:04:28,215 --> 01:04:34,615
+The placenta is eventually resorbed, but this can take months or years with advanced gestations .
+
+524
+01:04:34,615 --> 01:04:40,527
+If the placenta is left, postoperative MTX is often given to hasten involution.
+
+525
+01:04:40,527 --> 01:04:45,990
+Accelerated placental destruction with accumulation of necrotic tissue follows .
+
+526
+01:04:45,990 --> 01:04:50,065
+Infection with abscess formation can be a complication .
+
+527
+01:04:50,065 --> 01:04:53,965
+Similar to persistent trophoblastic tissue, early
+
+528
+01:04:54,124 --> 01:04:56,924
+gestations may benefit most .
+
+529
+01:04:56,874 --> 01:04:59,149
+Ovarian Pregnancy.
+
+530
+01:04:59,149 --> 01:05:06,661
+Ectopic implantation of the fertilized egg in the ovary is rare and is diagnosed if four clinical criteria are met.
+
+531
+01:05:06,661 --> 01:05:28,711
+These were outlined by Spiegelberg (1878): (1) the ipsilateral tube is intact and distinct from the ovary; (2) the ectopic pregnancy occupies the ovary; (3) the ectopic pregnancy is connected by the uteroovarian ligament to the uterus; and (4) ovarian tissue can be demonstrated histologically amid the placental tissue.
+
+532
+01:05:28,711 --> 01:05:35,561
+Risk factors are similar to those for tubal pregnancies, but ART or IUD failure are prominent .
+
+533
+01:05:35,561 --> 01:05:40,661
+Presenting complaints and findings mirror those for tubal ectopic pregnancy.
+
+534
+01:05:40,661 --> 01:05:49,799
+Although the ovary can accommodate the expanding pregnancy more easily than the fallopian tube, rupture at an early stage is the usual consequence .
+
+535
+01:05:49,799 --> 01:05:58,836
+Sonographically, an internal anechoic area is surrounded by a wide echogenic ring, which in turn is surrounded by ovarian cortex .
+
+536
+01:05:58,836 --> 01:06:08,324
+In one review of 49 cases, the diagnosis was not be made until surgery, and many cases were presumed to be a tubal ectopic pregnancy .
+
+537
+01:06:08,324 --> 01:06:17,374
+Moreover, at surgery, an early, unrecognized ovarian pregnancy may instead be considered and managed as a hemorrhagic corpus luteum.
+
+538
+01:06:17,374 --> 01:06:21,574
+Evidence-based management accrues mainly from case reports .
+
+539
+01:06:21,574 --> 01:06:26,286
+Classically, management for ovarian pregnancies has been surgical.
+
+540
+01:06:26,286 --> 01:06:34,849
+Selection of laparoscopy or laparotomy are influenced by gestational age, hemoperitoneum, and hemodynamic status.
+
+541
+01:06:34,849 --> 01:06:46,774
+Small lesions can be managed by ovarian wedge resection or cystectomy, whereas larger lesions require oophorectomy (Elwell, 2015; Melcer, 2015).
+
+542
+01:06:46,774 --> 01:06:53,499
+With conservative surgery, βhCG levels should be monitored to exclude remnant trophoblast.
+
+543
+01:06:53,499 --> 01:06:55,924
+Heterotopic Pregnancy.
+
+544
+01:06:55,924 --> 01:07:05,636
+This pairing of an IUP and an ectopically located pregnancy is rare, and the most common dyad is an IUP and an ampullary tubal pregnancy.
+
+545
+01:07:05,636 --> 01:07:12,536
+The natural incidence of these heterotopic pregnancies approximates 1 case per 30,000 pregnancies .
+
+546
+01:07:12,536 --> 01:07:18,849
+However, with ART, their incidence is higher and is 9 cases in 10,000 pregnancies .
+
+547
+01:07:18,849 --> 01:07:23,311
+Initial clinical symptoms usually reflect those from the ectopic.
+
+548
+01:07:23,311 --> 01:07:32,674
+Because an IUP is seen sonographically and the ectopic pregnancy may not be visualized, rates of rupture are higher in heterotopic pregnancy .
+
+549
+01:07:32,674 --> 01:07:38,786
+In patients wishing to preserve the IUP, management initially is dictated by bleeding.
+
+550
+01:07:38,786 --> 01:07:43,586
+In those with hemorrhage, treatment of the ectopic pregnancy is surgical.
+
+551
+01:07:43,586 --> 01:07:49,986
+Depending on the ectopic location, resection or suction aspiration is the most common method .
+
+552
+01:07:49,986 --> 01:07:58,249
+Of note, adjunctive UAE and vasopressin and their effects on uterine blood flow are less desirable for the ongoing IUP.
+
+553
+01:07:58,249 --> 01:08:06,436
+With a rare comorbid ovarian ectopic pregnancy, early excision of the corpus luteum merits progesterone supplementation .
+
+554
+01:08:06,436 --> 01:08:17,336
+In those without significant bleeding, medical steps to disrupt the ectopic pregnancy typically involve gestational-sac injection of KCl or of hyperosmolar glucose.
+
+555
+01:08:17,336 --> 01:08:22,824
+This may be followed by later aspiration evacuation of the ectopic gestation.
+
+556
+01:08:22,824 --> 01:08:27,261
+Because of toxicity to the IUP, MTX is avoided.
+
+557
+01:08:27,261 --> 01:08:33,436
+With ongoing pregnancy, adverse neonatal outcome rates are not appreciably elevated .
+
+558
+01:08:33,436 --> 01:08:38,649
+However, initial sonographic surveillance of fetal growth seems reasonable.
+
+559
+01:08:38,649 --> 01:08:49,611
+Route of ultimate delivery is influenced mainly by myometrial integrity following ectopic treatment (Dendas, 2017; OuYang, 2014).
+

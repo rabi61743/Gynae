@@ -1,0 +1,3108 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:06,462
+Chapter 11: First- and Second-Trimester Pregnancy.
+
+3
+00:00:06,462 --> 00:00:08,662
+Loss Nomenclature.
+
+4
+00:00:08,662 --> 00:00:11,862
+First-Trimester Spontaneous Abortion.
+
+5
+00:00:11,862 --> 00:00:15,550
+Spontaneous Abortion Clinical Classification.
+
+6
+00:00:15,550 --> 00:00:17,800
+Recurrent Miscarriage.
+
+7
+00:00:17,800 --> 00:00:20,300
+Second-Trimester Abortion.
+
+8
+00:00:20,300 --> 00:00:22,762
+Cervical Insufficiency.
+
+9
+00:00:22,762 --> 00:00:24,775
+Induced Abortion.
+
+10
+00:00:24,775 --> 00:00:27,187
+First-Trimester Methods.
+
+11
+00:00:27,187 --> 00:00:29,625
+Second-Trimester Methods.
+
+12
+00:00:29,625 --> 00:00:32,150
+Postabortal Contraception.
+
+13
+00:00:32,150 --> 00:00:33,912
+References.
+
+14
+00:00:33,912 --> 00:00:37,250
+Miscarriage is a common event in pregnancy.
+
+15
+00:00:37,250 --> 00:00:44,050
+Most early losses stem from genetic abnormalities, and thus the opportunity for prevention is small.
+
+16
+00:00:44,050 --> 00:00:51,162
+Women with later miscarriage or with recurrent miscarriage more likely have a chronic etiology that may be modified.
+
+17
+00:00:51,162 --> 00:00:56,762
+In contrast to these spontaneous losses, pregnancy termination may be elected.
+
+18
+00:00:56,762 --> 00:01:08,150
+For both induced abortion and miscarriage, management options include surgery or medication, and providers should have an understanding of these methods and their potential complications.
+
+19
+00:01:08,150 --> 00:01:10,037
+Nomenclature.
+
+20
+00:01:10,037 --> 00:01:16,550
+Abortion is defined as the spontaneous or induced termination of pregnancy before fetal viability.
+
+21
+00:01:16,550 --> 00:01:20,200
+Many prefer miscarriage for spontaneous loss.
+
+22
+00:01:20,200 --> 00:01:27,525
+Induced abortion describes termination with surgery or medication of a live fetus that has not reached viability.
+
+23
+00:01:27,525 --> 00:01:31,450
+Definitions of an abortus vary among organizations.
+
+24
+00:01:31,450 --> 00:01:43,937
+The National Center for Health Statistics and the World Health Organization define abortion as loss or termination of a pregnancy with a fetus aged younger than 20 weeks’ gestation or weighing <500 g.
+
+25
+00:01:43,937 --> 00:01:55,975
+These criteria, however, are somewhat contradictory because the mean birthweight of a 20-week fetus approximates 330 g, whereas 500 g is the mean for 22 weeks .
+
+26
+00:01:55,975 --> 00:02:02,975
+Further confusion may derive from criteria that are set by state laws and define abortion even more widely.
+
+27
+00:02:02,975 --> 00:02:07,837
+Incongruity also exists for the term early pregnancy loss itself.
+
+28
+00:02:07,837 --> 00:02:27,112
+The American College of Obstetricians and Gynecologists (2019b) defines this as a nonviable, intrauterine pregnancy (IUP) within the first 126/7 weeks of gestation that consists of either an empty gestational sac or one containing an embryo or fetus without fetal heart activity.
+
+29
+00:02:27,112 --> 00:02:35,112
+Recurrent pregnancy loss is variably defined but is meant to identify women with repetitive miscarriage (p. 203).
+
+30
+00:02:35,112 --> 00:02:40,162
+Other definitions help distinguish intrauterine from ectopic gestations.
+
+31
+00:02:40,162 --> 00:02:52,862
+The term pregnancy of unknown location (PUL) describes a pregnancy identified by human chorionic gonadotropin (hCG) level testing but without a confirmed sonographic location.
+
+32
+00:02:52,862 --> 00:03:05,612
+In this context, five categories are proposed for early pregnancies: definite ectopic pregnancy, probable ectopic pregnancy, PUL, probable IUP, and definite IUP .
+
+33
+00:03:05,612 --> 00:03:11,387
+Diagnostic and management options for ectopic gestation are described in Chapter 12.
+
+34
+00:03:11,387 --> 00:03:19,887
+Last, spontaneous abortion includes subcategories of threatened, incomplete, complete, missed, and inevitable abortions.
+
+35
+00:03:19,887 --> 00:03:22,837
+These are discussed in the next sections.
+
+36
+00:03:22,837 --> 00:03:28,612
+Septic abortion is used to further classify any of these that are complicated by infection.
+
+37
+00:03:28,612 --> 00:03:31,812
+First-Trimester Spontaneous Abortion.
+
+38
+00:03:31,812 --> 00:03:34,362
+# Pathogenesis.
+
+39
+00:03:34,362 --> 00:03:40,350
+More than 80 percent of spontaneous abortions occur within the first 12 weeks of gestation.
+
+40
+00:03:40,350 --> 00:03:47,700
+With first-trimester losses, demise of the embryo or fetus nearly always precedes spontaneous expulsion.
+
+41
+00:03:47,700 --> 00:03:52,425
+Death is usually accompanied by hemorrhage into the decidua basalis.
+
+42
+00:03:52,425 --> 00:03:58,800
+This is followed by adjacent tissue necrosis that stimulates uterine contractions and expulsion.
+
+43
+00:03:58,800 --> 00:04:02,925
+An intact gestational sac is usually filled with fluid.
+
+44
+00:04:02,925 --> 00:04:09,325
+Anembryonic miscarriage or preembryonic loss describes the group with no identifiable embryo.
+
+45
+00:04:09,325 --> 00:04:12,375
+The term blighted ovum is less preferred.
+
+46
+00:04:12,375 --> 00:04:23,850
+An embryonic miscarriage or embryonic loss displays an embryo without cardiac activity during ultrasound evaluation (Kolte, 2015; Pinar, 2018).
+
+47
+00:04:23,850 --> 00:04:29,412
+In second-trimester losses, the fetus usually does not die before expulsion.
+
+48
+00:04:29,412 --> 00:04:35,187
+Thus, other sources for abortion are sought and described on page 213.
+
+49
+00:04:35,187 --> 00:04:37,350
+# Incidence.
+
+50
+00:04:37,350 --> 00:04:41,550
+Rates for miscarriage vary according to the study population.
+
+51
+00:04:41,550 --> 00:04:49,987
+In pregnancies aged 5 to 20 weeks’ gestation, the incidence ranges from 10 to 20 percent and is higher in earlier weeks .
+
+52
+00:04:49,987 --> 00:04:57,337
+To evaluate rates starting at conception, researchers have tested daily urinary samples for βhCG
+
+53
+00:04:57,508 --> 00:05:03,908
+in women trying to conceive and found that approximately 20 percent of pregnancies failed very early .
+
+54
+00:05:03,858 --> 00:05:11,408
+These biochemical pregnancy losses are clinically silent and are identified only by dropping β-hCG levels .
+
+55
+00:05:11,408 --> 00:05:17,108
+Certain factors influence the clinically apparent miscarriage rate and are described next.
+
+56
+00:05:17,108 --> 00:05:22,470
+It is unknown if these same factors also affect biochemical pregnancy loss.
+
+57
+00:05:22,470 --> 00:05:24,958
+# Fetal Factors.
+
+58
+00:05:24,958 --> 00:05:32,620
+Of all miscarriages, approximately half are euploid abortions, that is, carrying a normal chromosomal complement.
+
+59
+00:05:32,620 --> 00:05:37,270
+The other half of all miscarriages has a chromosomal abnormality.
+
+60
+00:05:37,270 --> 00:05:43,458
+This percentage appears to persist even from evaluations with newer cytogenetic techniques .
+
+61
+00:05:43,458 --> 00:05:56,358
+However, outside of research, routine use of chromosomal microarray testing of first-trimester fetal tissues is not endorsed by the American College of Obstetricians and Gynecologists (2020d).
+
+62
+00:05:56,358 --> 00:06:06,470
+The American Society for Reproductive Medicine (2012) recognize its value only if cytogenetic analysis alters future care of a patient.
+
+63
+00:06:06,470 --> 00:06:12,233
+Both abortion and chromosomal anomaly rates decline with advancing gestational age .
+
+64
+00:06:12,233 --> 00:06:18,695
+Of chromosomally abnormal embryos, 75 percent aborts by 8 weeks’ gestation.
+
+65
+00:06:18,695 --> 00:06:23,958
+The rate of abortion with euploid fetuses peaks at approximately 13 weeks .
+
+66
+00:06:23,958 --> 00:06:33,095
+Of chromosomal abnormalities, 95 percent are caused by maternal gametogenesis errors, and 5 percent by paternal errors .
+
+67
+00:06:33,095 --> 00:06:40,345
+Thus, the aneuploid abortion incidence rises dramatically after maternal age exceeds 35 years .
+
+68
+00:06:40,345 --> 00:06:47,195
+Indeed, maternal age is a primary factor underlying the spontaneous loss of aneuploid fetuses .
+
+69
+00:06:47,195 --> 00:06:53,408
+To a lesser degree, increasing paternal age is also associated with a greater abortion risk .
+
+70
+00:06:53,408 --> 00:06:59,395
+Not yet well studied, chromosomal abnormalities in spermatozoa likely play a role .
+
+71
+00:06:59,395 --> 00:07:14,433
+Most common abnormalities are trisomy, found in 50 to 60 percent; monosomy X, in 9 to 13 percent; and triploidy, in 11 to 12 percent (Jenderny, 2014; Sahoo, 2017).
+
+72
+00:07:14,433 --> 00:07:22,858
+Trisomies typically result from isolated nondisjunction, and rates rise with maternal age (Boué, 1975).
+
+73
+00:07:22,858 --> 00:07:29,995
+Trisomies of chromosomes 13, 16, 18, 21, and 22 are most common.
+
+74
+00:07:29,995 --> 00:07:35,933
+Less often, a trisomy forms from a balanced structural chromosomal rearrangements.
+
+75
+00:07:35,933 --> 00:07:43,995
+These may originate from either parent and are found in 2 to 4 percent of couples with recurrent pregnancy loss (p. 204).
+
+76
+00:07:43,995 --> 00:07:50,845
+Monosomy X (45,X) is the single most frequent specific chromosomal abnormality.
+
+77
+00:07:50,845 --> 00:07:59,670
+This is Turner syndrome, which usually results in miscarriage, but liveborn females are described in Chapter 3 (p. 36).
+
+78
+00:07:59,670 --> 00:08:04,933
+Conversely, autosomal monosomy is rare and incompatible with life.
+
+79
+00:08:04,933 --> 00:08:12,295
+Triploidy is an additional haploid set of chromosomes, and cells thus contain a total of 69 chromosomes.
+
+80
+00:08:12,295 --> 00:08:17,083
+The extra haploid set can be either maternally or paternally derived.
+
+81
+00:08:17,083 --> 00:08:26,008
+Maternally derived digynic triploidy typically results from a meiosis error and fertilization of a diploid ovum by a normal haploid sperm.
+
+82
+00:08:26,008 --> 00:08:36,308
+Paternally derived diandric triploidy usually forms from the fertilization of a normal haploid ovum by two haploid spermatozoa and leads to partial molar pregnancy .
+
+83
+00:08:36,308 --> 00:08:43,745
+Triploid fetuses frequently spontaneously abort early, and the few carried longer are all grossly deformed.
+
+84
+00:08:43,745 --> 00:08:46,345
+# Maternal Factors.
+
+85
+00:08:46,345 --> 00:08:53,133
+Medical Disorders In chromosomally normal pregnancy losses, maternal contributions can play a role.
+
+86
+00:08:53,133 --> 00:09:04,120
+For example, a prominent miscarriage risk is associated with poorly controlled diabetes mellitus, obesity, thyroid disease, and systemic lupus erythematosus.
+
+87
+00:09:04,120 --> 00:09:14,245
+In these, inflammatory mediators may be an underlying theme to pregnancy loss (Kalagiri, 2016; Sjaarda, 2017).
+
+88
+00:09:14,245 --> 00:09:19,958
+In chapters on these disorders, the miscarriage rate and attempts to lower it are discussed.
+
+89
+00:09:19,958 --> 00:09:29,383
+In contrast, thrombophilias are no longer linked to miscarriage (American College of Obstetricians and Gynecologists (2020b).
+
+90
+00:09:29,383 --> 00:09:35,658
+For women undergoing cancer treatment, direct therapeutic radiation can cause miscarriage.
+
+91
+00:09:35,658 --> 00:09:41,458
+Suggested safe parameters are found in Chapter 49 (p. 872).
+
+92
+00:09:41,458 --> 00:09:47,070
+Similarly, the effects of chemotherapy on miscarriage rates are not well defined.
+
+93
+00:09:47,070 --> 00:09:55,445
+Particularly worrisome are women with an ongoing pregnancy after early exposure to the teratogen methotrexate, described in Chapter
+
+94
+00:09:55,612 --> 00:09:58,362
+8 (p. 152).
+
+95
+00:09:58,312 --> 00:10:07,249
+Cancer survivors previously treated with abdominopelvic radiotherapy and now subsequently pregnant may carry a greater risk for miscarriage .
+
+96
+00:10:07,249 --> 00:10:13,024
+Surgical Procedures The miscarriage risk associated with surgery is not well studied.
+
+97
+00:10:13,024 --> 00:10:23,787
+But, as discussed in Chapter 49 (p. 867), uncomplicated surgical procedures performed during early pregnancy are unlikely to raise this risk .
+
+98
+00:10:23,787 --> 00:10:29,862
+If indicated, ovarian tumors can generally be resected without inciting miscarriage.
+
+99
+00:10:29,862 --> 00:10:36,187
+An exception involves early removal of the corpus luteum or the entire ovary in which it resides.
+
+100
+00:10:36,187 --> 00:10:45,612
+If performed before 10 weeks’ gestation, supplemental progesterone should be given and is described in Chapter 66 (p. 1170).
+
+101
+00:10:45,612 --> 00:10:54,462
+Trauma seldom causes first-trimester miscarriage, and although Parkland Hospital is a busy trauma center, this is an infrequent association.
+
+102
+00:10:54,462 --> 00:11:01,437
+Major trauma—especially abdominal—can cause fetal loss but is more likely as pregnancy advances .
+
+103
+00:11:01,437 --> 00:11:08,812
+Nutrition Sole deficiency of one nutrient or moderate deficiency of all does not appear to raise miscarriage risks.
+
+104
+00:11:08,812 --> 00:11:14,962
+Even in extreme cases—for example, hyperemesis gravidarum—abortion is rare.
+
+105
+00:11:14,962 --> 00:11:26,412
+Dietary quality may play a small role, and some data suggest miscarriage risk may decline in women who eat a diet rich in fruits, vegetables, whole grains, and fish .
+
+106
+00:11:26,412 --> 00:11:31,762
+Unlike obesity, underweight is not associated with a greater miscarriage risk .
+
+107
+00:11:31,762 --> 00:11:46,199
+With caffeine, reports link heavy intake of approximately five cups of coffee per day—about 500 mg of caffeine—with a slightly greater abortion risk (Cnattingius, 2000; Klebanoff, 1999).
+
+108
+00:11:46,199 --> 00:11:54,274
+Values vary depending on brewing style, but an 8-ounce cup of coffee contains 80 to 100 mg of caffeine.
+
+109
+00:11:54,274 --> 00:11:57,374
+Black or green tea has half this dose .
+
+110
+00:11:57,374 --> 00:12:12,674
+Currently, the American College of Obstetricians and Gynecologists (2020e) concludes consumption of <200 mg/d likely is not a major miscarriage risk and that any associated risk with higher intake is unsettled.
+
+111
+00:12:12,674 --> 00:12:20,262
+Metaanalyses support an increasing dose-related risk (Chen, 2016; Li, 2015).
+
+112
+00:12:20,262 --> 00:12:26,374
+Behavioral Factors Approximately 7 percent of pregnant women acknowledge cigarette smoking .
+
+113
+00:12:26,374 --> 00:12:33,512
+One metaanalysis found a slight dose-related relationship between current smoking and early pregnancy loss .
+
+114
+00:12:33,512 --> 00:12:41,624
+The serious later risks of persistent smoking on pregnancy outcomes are discussed in Chapter 8 (p. 156).
+
+115
+00:12:41,624 --> 00:12:47,362
+Alcohol consumption carries miscarriage risk mainly in those with chronic or heavy use .
+
+116
+00:12:47,362 --> 00:12:54,562
+The potent teratogenic effects in these instances are also discussed in Chapter 8 (p. 149).
+
+117
+00:12:54,562 --> 00:13:02,149
+Environmental Factors Despite the many infections acquired in pregnancy, these uncommonly cause early miscarriage.
+
+118
+00:13:02,149 --> 00:13:10,637
+The important maternofetal consequences of specific infections in later pregnancy are discussed in Chapters 67 and 68.
+
+119
+00:13:10,637 --> 00:13:22,624
+Environmental toxins suggested to have a possible link to miscarriage include bisphenol A, phthalates, polychlorinated biphenyls, and dichlorodiphenyltrichloroethane (DDT) .
+
+120
+00:13:22,624 --> 00:13:26,774
+Even fewer studies implicate occupational exposures.
+
+121
+00:13:26,774 --> 00:13:34,624
+Data suggest a slight increased miscarriage risk in health-care workers exposed to radiation or antineoplastic drugs .
+
+122
+00:13:34,624 --> 00:13:41,499
+The National Institute for Occupational Safety and Health publishes guidelines on potentially hazardous drugs .
+
+123
+00:13:41,499 --> 00:13:47,224
+Evidence implicating occupational anesthetic gases in miscarriage is not robust .
+
+124
+00:13:47,224 --> 00:13:52,812
+Still, gas scavenging systems and workplace exposure limits are recommended .
+
+125
+00:13:52,812 --> 00:13:56,987
+# Spontaneous Abortion Clinical Classification.
+
+126
+00:13:56,987 --> 00:14:05,549
+Threatened Abortion This is defined as bleeding through a closed cervical os in the first 20 weeks of pregnancy and with a live embryo or fetus.
+
+127
+00:14:05,549 --> 00:14:10,987
+It may portend abortion, or it may be associated with conceptus implantation.
+
+128
+00:14:10,987 --> 00:14:19,524
+Other bleeding sources to exclude are ectopic pregnancy, cervical infection, and dysplastic or neoplastic cervical lesions.
+
+129
+00:14:19,524 --> 00:14:25,874
+Almost one fourth of women develop bleeding during early gestation that is attributed to threatened abortion .
+
+130
+00:14:25,874 --> 00:14:29,549
+Bleeding or spotting may persist for days or weeks.
+
+131
+00:14:29,549 --> 00:14:36,874
+It may be accompanied by suprapubic discomfort, mild cramps, pelvic pressure, or persistent low backache.
+
+132
+00:14:36,874 --> 00:14:42,512
+Of symptoms, bleeding is by far the most predictive factor for subsequent pregnancy
+
+133
+00:14:42,676 --> 00:14:44,226
+loss.
+
+134
+00:14:44,176 --> 00:14:50,801
+Vaginal bleeding or abdominal pain in early pregnancy should prompt hematocrit and blood type assessment.
+
+135
+00:14:50,801 --> 00:15:03,538
+One primary goal is to exclude ectopic pregnancy, and strategic use of β-hCG levels and transvaginal sonography (TVS) is outlined in Chapter 12 (p. 222).
+
+136
+00:15:03,538 --> 00:15:07,476
+A second goal is to determine IUP viability.
+
+137
+00:15:07,476 --> 00:15:20,663
+With an IUP, the gestational sac—an anechoic fluid collection that represents the exocoelomic cavity—may be seen by 4.5 weeks (Fig. 10-2, p. 177).
+
+138
+00:15:20,663 --> 00:15:31,701
+At this time, β-hCG levels generally measure 1500 to 2000 mIU/mL (Barnhart, 1994; Timor-Tritsch, 1988).
+
+139
+00:15:31,701 --> 00:15:46,638
+Connolly and colleagues (2013), however, noted that a threshold as high as 3500 mIU/mL may be needed to identify the gestational sac in some cases that ultimately yield a viable singleton IUP.
+
+140
+00:15:46,638 --> 00:15:59,426
+One caveat during TVS is that a gestational sac may appear similar to a pseudogestational sac, which is an anechoic intrauterine fluid collection (Fig. 12-3, p. 223).
+
+141
+00:15:59,426 --> 00:16:07,013
+This pseudosac may be blood derived from a bleeding ectopic pregnancy and is easier to exclude once a yolk sac is seen.
+
+142
+00:16:07,013 --> 00:16:14,976
+Typically, the yolk sac is visible by 5.5 weeks and with a mean gestational-sac diameter of 10 mm.
+
+143
+00:16:14,976 --> 00:16:21,388
+Thus, the diagnosis of an IUP should be made cautiously if the yolk sac is not yet seen .
+
+144
+00:16:21,388 --> 00:16:27,176
+Fetal cardiac activity can typically be detected at 6 to 6.5 weeks.
+
+145
+00:16:27,176 --> 00:16:33,026
+A subchorionic hematoma may also be seen sonographically with threatened miscarriage .
+
+146
+00:16:33,026 --> 00:16:37,851
+In general, this collection does not portend a greater miscarriage risk .
+
+147
+00:16:37,851 --> 00:16:40,213
+Figure 11-1.
+
+148
+00:16:40,213 --> 00:16:49,163
+In this transvaginal sonogram sagittal view of the uterus, a subchorionic hematoma is seen as a very hypoechoic collection (arrow).
+
+149
+00:16:49,163 --> 00:16:56,513
+It lies adjacent to the round anechoic gestational sac that contains a nearly 7-week embryo (calipers).
+
+150
+00:16:56,513 --> 00:17:00,888
+Reproduced with permission from Jason McWhirt, ARDMS.
+
+151
+00:17:00,888 --> 00:17:05,376
+Once threatened abortion is diagnosed, observation is the norm.
+
+152
+00:17:05,376 --> 00:17:10,226
+Acetaminophen-based analgesia will help relieve cramping discomfort.
+
+153
+00:17:10,226 --> 00:17:22,001
+The randomized Progesterone in Spontaneous Miscarriage (PRISM) trial found no advantage to progesterone supplementation to lower miscarriage rates in women with first-trimester bleeding .
+
+154
+00:17:22,001 --> 00:17:27,588
+Bed rest does not improve outcomes and may cause harms such a deep-vein thrombosis .
+
+155
+00:17:27,588 --> 00:17:31,801
+We do counsel against intercourse until bleeding subsides.
+
+156
+00:17:31,801 --> 00:17:38,738
+In unusual cases, bleeding with threatened abortion can lead acute severe anemia or hypovolemia.
+
+157
+00:17:38,738 --> 00:17:42,426
+Pregnancy evacuation is generally indicated.
+
+158
+00:17:42,426 --> 00:17:47,101
+Less often, transfusion and further observation is elected.
+
+159
+00:17:47,101 --> 00:17:55,188
+Even if miscarriage does not follow threatened abortion, later rates of preterm birth and placental abruption are slightly increased .
+
+160
+00:17:55,188 --> 00:18:03,413
+Weiss and coworkers (2004) noted greater risks for later adverse outcomes if early bleeding was heavy rather than light.
+
+161
+00:18:03,413 --> 00:18:13,651
+Despite these associations, we typically do not add sonography or other surveillance later in pregnancy solely for a first-trimester diagnosis of threatened abortion.
+
+162
+00:18:13,651 --> 00:18:20,113
+Incomplete Abortion During miscarriage, the cervix opens and placental separation causes bleeding.
+
+163
+00:18:20,113 --> 00:18:28,526
+Before 10 weeks’ gestation, the fetus and the placenta are frequently expelled together, but later, they often deliver separately.
+
+164
+00:18:28,526 --> 00:18:34,738
+Thus, tissue may remain entirely within the uterus or partially extrude through the cervix.
+
+165
+00:18:34,738 --> 00:18:41,426
+Products lying loosely within the cervical canal can be easily extracted or teased out with ring forceps.
+
+166
+00:18:41,426 --> 00:18:49,538
+For uterine infection or for hemodynamically unstable women with heavy bleeding, prompt surgical evacuation is performed.
+
+167
+00:18:49,538 --> 00:19:00,688
+For less urgent cases, three management options are curettage, expectant management, or misoprostol (Cytotec), which is prostaglandin E1 (PGE1) .
+
+168
+00:19:00,688 --> 00:19:07,113
+With all three, treatment complications such as infection and need for transfusion are infrequent.
+
+169
+00:19:07,113 --> 00:19:13,013
+However, misoprostol and expectant care can be associated with unpredictable bleeding.
+
+170
+00:19:13,013 --> 00:19:20,051
+Thus, some women will still require unscheduled curettage, which studies have used as a failure endpoint.
+
+171
+00:19:20,051 --> 00:19:32,363
+Expectant management of spontaneous incomplete abortion has failure rates that approximate 25 percent in randomized trials (Nielsen, 1999; Trinder, 2006).
+
+172
+00:19:32,363 --> 00:19:39,688
+Medication therapy carries failure rates of 5 to 30 percent (Shochet, 2012; Trinder,
+
+173
+00:19:39,844 --> 00:19:51,781
+2006). Many of the studies assessing treatment have used an 800-μg vaginal, a 400-μg sublingual, or a 600-μg oral misoprostol dose.
+
+174
+00:19:51,731 --> 00:19:59,106
+Last, curettage usually results in a quick resolution that is 95- to 100-percent successful.
+
+175
+00:19:59,106 --> 00:20:06,569
+However, it is invasive, carries surgical risks, and is not necessary for all women (p. 211).
+
+176
+00:20:06,569 --> 00:20:11,019
+Complete Abortion At times, the entire pregnancy is expelled.
+
+177
+00:20:11,019 --> 00:20:18,294
+With completion, bleeding ebbs, and the internal cervical os subsequently closes over the next hour or so.
+
+178
+00:20:18,294 --> 00:20:26,556
+Patients are encouraged to bring in passed tissue, and a gestation should be documented within blood clots or within a decidual cast .
+
+179
+00:20:26,556 --> 00:20:33,106
+The latter is the thickened endometrium, in the shape of the uterine cavity, that may slough with miscarriage.
+
+180
+00:20:33,106 --> 00:20:35,494
+Figure 11-2.
+
+181
+00:20:35,494 --> 00:20:38,969
+A. Decidual cast from a complete abortion.
+
+182
+00:20:38,969 --> 00:20:45,794
+B. Opening the cast reveals a clear translucent gestational sac, which confirms the diagnosis.
+
+183
+00:20:45,794 --> 00:20:55,969
+If a gestational sac is not identified within the expelled tissue, TVS helps differentiate a complete abortion from a threatened abortion or ectopic pregnancy.
+
+184
+00:20:55,969 --> 00:21:01,519
+Findings of complete abortion include a thin endometrium without a gestational sac.
+
+185
+00:21:01,519 --> 00:21:05,531
+However, this does not guarantee a recent IUP.
+
+186
+00:21:05,531 --> 00:21:18,131
+One study evaluated 152 women with heavy bleeding and an empty uterus with endometrial thickness <15 mm. Six percent were subsequently found to have an ectopic pregnancy .
+
+187
+00:21:18,131 --> 00:21:30,681
+Thus, a complete abortion cannot be surely diagnosed unless: (1) true products of conception are seen grossly or (2) sonography documents first an IUP and then later an empty cavity.
+
+188
+00:21:30,681 --> 00:21:36,519
+In unclear settings, serial serum β-hCG levels aid clarification.
+
+189
+00:21:36,519 --> 00:21:40,206
+With complete abortion, these levels drop quickly .
+
+190
+00:21:40,206 --> 00:21:42,519
+Table 11-1.
+
+191
+00:21:42,519 --> 00:21:56,319
+Percentage Decline of Initial Serum β-hCG Levels Following Complete Spontaneous Abortion Missed Abortion This describes dead products of conception that have been retained for days or weeks within a uterus with a closed cervical os.
+
+192
+00:21:56,319 --> 00:22:03,031
+Diagnosis is imperative prior to intervention and avoids interruption of a potentially live IUP.
+
+193
+00:22:03,031 --> 00:22:07,881
+Again, TVS and β-hCG levels are primary tools.
+
+194
+00:22:07,881 --> 00:22:12,006
+With the latter, levels that plateau or drop are typical.
+
+195
+00:22:12,006 --> 00:22:19,844
+With TVS, a 1- to 2-mm embryo adjacent to the yolk sac can be seen at 5 to 6 weeks’ gestation.
+
+196
+00:22:19,844 --> 00:22:31,531
+As listed in Table 11-2, absence of an embryo in a sac with a mean sac diameter (MSD) ≥25 mm signifies pregnancy loss.
+
+197
+00:22:31,531 --> 00:22:39,069
+The MSD is calculated by summing the length, width, and height of a gestational sac and dividing the sum by three.
+
+198
+00:22:39,069 --> 00:22:55,606
+Fetal cardiac activity can typically be detected at 6 to 6.5 weeks, with a crown-rump length (CRL) of 1 to 5 mm, and an MSD of 13 to 18 mm (Goldstein, 1992; Levi, 1990).
+
+199
+00:22:55,606 --> 00:23:04,531
+A CRL threshold ≥7 mm plus absent cardiac activity also is used to diagnose nonviability .
+
+200
+00:23:04,531 --> 00:23:12,681
+For cases in which a gestational sac has no embryo or yolk sac, additional time and repeat TVS are recommended.
+
+201
+00:23:12,681 --> 00:23:17,494
+M-mode should be used to document cardiac activity and measure the rate .
+
+202
+00:23:17,494 --> 00:23:27,344
+Pulsed Doppler is not used routinely and is reserved for specific diagnostic purposes because of theoretical temperature elevation in exposed fetal tissues .
+
+203
+00:23:27,344 --> 00:23:29,694
+Table 11-2.
+
+204
+00:23:29,694 --> 00:23:37,081
+Guidelines for Early Pregnancy Loss Diagnosis Less robust sonographic markers may portend pregnancy failure.
+
+205
+00:23:37,081 --> 00:23:43,931
+A yolk sac diameter >7 mm in pregnancies <10 weeks’ gestation is one .
+
+206
+00:23:43,931 --> 00:24:00,569
+The fetal heart rate in the first trimester rises from 110 to 130 beats per minute (bpm) at 6 weeks’ gestation to 160 to 170 bpm at 8 weeks (Achiron, 1991; Rauch, 2009).
+
+207
+00:24:00,569 --> 00:24:06,356
+A slower heart rate is unfavorable, especially one <85 bpm .
+
+208
+00:24:06,356 --> 00:24:12,906
+Even with cardiac activity, fetuses with a small MSD may presage embryonic loss.
+
+209
+00:24:12,906 --> 00:24:19,156
+A difference <5 mm between the MSD and CRL values raises concern .
+
+210
+00:24:19,156 --> 00:24:24,081
+Last, an irregular gestational sac contour may portend loss .
+
+211
+00:24:24,081 --> 00:24:31,369
+With embryonic or fetal death confirmed, expectant observation, surgery, or medication is an option.
+
+212
+00:24:31,369 --> 00:24:40,156
+Nonsurgical options balance less invasiveness against heavier associated bleeding, longer completion times, and lower success rates.
+
+213
+00:24:40,156 --> 00:24:53,744
+Of options, expectant care underperforms medication or surgery, and failure rates range from 15 to 50 percent (Luise, 2002; Trinder, 2006; Zhang, 2005).
+
+214
+00:24:53,744 --> 00:24:55,831
+Also, weeks
+
+215
+00:24:55,996 --> 00:25:01,721
+may pass between pregnancy failure diagnosis and actual spontaneous miscarriage.
+
+216
+00:25:01,671 --> 00:25:09,796
+As a medication option, misoprostol can be given, and a single 800-μg dose vaginally is a common standard.
+
+217
+00:25:09,796 --> 00:25:18,033
+It may be repeated once in 1 to 2 days, and one large trial reported that 22 percent of women required a second dose .
+
+218
+00:25:18,033 --> 00:25:26,721
+Overall, failure rates range from 15 to 40 percent (Petersen, 2013; Trinder, 2006).
+
+219
+00:25:26,721 --> 00:25:35,783
+Success rates are improved by a 200-mg oral dose of mifepristone (Mifeprex) given 24 hours prior to misoprostol .
+
+220
+00:25:35,783 --> 00:25:49,671
+In the United States, access to this antiprogestin is limited by the Food and Drug Administration (FDA) to providers participating in the manufacturer’s Risk Evaluation and Mitigation Strategy (REMS) .
+
+221
+00:25:49,671 --> 00:25:56,096
+Contraindications mirror those listed in the section describing induced abortion (p. 212).
+
+222
+00:25:56,096 --> 00:26:05,808
+Inevitable Abortion of a Previable Fetus Either rupture of placental membranes or marked ballooning of membranes into the vagina may lead to inevitable abortion.
+
+223
+00:26:05,808 --> 00:26:11,308
+The latter is discussed in the cervical insufficiency section (p. 205).
+
+224
+00:26:11,308 --> 00:26:20,608
+Preterm prelabor rupture of membranes (PPROM) at a previable gestational age complicates 0.5 percent of pregnancies .
+
+225
+00:26:20,608 --> 00:26:31,758
+Instead, periviable birth is defined as delivery between 200/7 and 256/7 weeks and is discussed in Chapter 45 (p. 785).
+
+226
+00:26:31,758 --> 00:26:40,058
+Clinically with PPROM, abundant vaginal fluid that pools during sterile speculum examination confirms the diagnosis.
+
+227
+00:26:40,058 --> 00:26:44,296
+Patient coughing or Valsalva maneuver may accentuate this.
+
+228
+00:26:44,296 --> 00:26:57,346
+Other diagnostic steps can include pH testing, microscopic examination, and sonographic assessment of amnionic fluid volume, and these are outlined in Chapter 22 (p. 426).
+
+229
+00:26:57,346 --> 00:27:05,546
+Rupture may be spontaneous, and risks are prior PPROM, prior secondtrimester delivery, and tobacco use .
+
+230
+00:27:05,546 --> 00:27:10,871
+Iatrogenic fluid leakage can follow amniocentesis or fetal surgery.
+
+231
+00:27:10,871 --> 00:27:19,458
+In some second-trimester cases, fluid may have collected previously between the amnion and chorion and reflects only chorion leakage.
+
+232
+00:27:19,458 --> 00:27:28,496
+Spontaneous rupture in the first trimester is nearly always followed by either uterine contractions or infection, and termination is typical.
+
+233
+00:27:28,496 --> 00:27:40,521
+With second-trimester spontaneous PPROM at a previable age, 40 to 50 percent of women will deliver within the first week, and 70 to 80 percent will do so after 2 to 5 weeks .
+
+234
+00:27:40,521 --> 00:27:46,958
+Average latency is 2 weeks (Hunter, 2012; Kibel, 2016).
+
+235
+00:27:46,958 --> 00:28:02,383
+Significant maternal complications attend previable PPROM and include uterine infection, sepsis, placental abruption, postpartum hemorrhage, and retained placenta (Dotters-Katz, 2017b; Waters, 2009).
+
+236
+00:28:02,383 --> 00:28:10,571
+In one study, 56 percent of women suffered one or more of these complications (van der Marel, 2016).
+
+237
+00:28:10,571 --> 00:28:15,258
+With significant bleeding or fever, the uterus should be evacuated.
+
+238
+00:28:15,258 --> 00:28:21,883
+Surgical evacuation or medication options for this vary by gestational age and surgeon skill.
+
+239
+00:28:21,883 --> 00:28:28,558
+Methods mirror those for second-trimester elective abortion, described later (p. 213).
+
+240
+00:28:28,558 --> 00:28:38,258
+For cases in which previable delivery is inevitable or elected, neonatal consultation aids decision-making and helps form expectations for the family.
+
+241
+00:28:38,258 --> 00:28:47,433
+For fetuses with a life-limiting condition, such as extreme prematurity, perinatal palliative care is a strategy that emphasizes comfort .
+
+242
+00:28:47,433 --> 00:28:54,671
+Care team members can include obstetric and neonatal professionals, chaplaincy, and mental health specialists.
+
+243
+00:28:54,671 --> 00:29:00,971
+In cases without bleeding or fever, expectant management is an option in the well-counseled patient.
+
+244
+00:29:00,971 --> 00:29:07,746
+Many will choose termination due to the earlierdescribed maternal risks and tenuous neonatal outcomes.
+
+245
+00:29:07,746 --> 00:29:15,108
+Early fetal mortality stems from pulmonary hypoplasia, severe intraventricular hemorrhage, and sepsis.
+
+246
+00:29:15,108 --> 00:29:30,933
+Of those managed expectantly with PPROM at <20 weeks, the percentage of infants who are discharged home ranges from 12 to 23 percent (Hunter, 2012; Sim, 2020; van der Martel, 2016).
+
+247
+00:29:30,933 --> 00:29:41,196
+Common neonatal morbidities are respiratory distress syndrome, bronchopulmonary hypoplasia or dysplasia, necrotizing enterocolitis, and sepsis.
+
+248
+00:29:41,196 --> 00:29:51,133
+Overall, prognosis is improved if previable PPROM occurs at a later gestation, latency is longer, and oligohydramnios is absent.
+
+249
+00:29:51,133 --> 00:29:56,483
+With the last, poor lung development and fetal skeletal deformations can
+
+250
+00:29:56,644 --> 00:29:59,681
+result from scant amnionic fluid.
+
+251
+00:29:59,631 --> 00:30:09,219
+If expectant care is elected, initial hospital evaluation, diminished physical activity, and observation for fever or labor are reasonable.
+
+252
+00:30:09,219 --> 00:30:17,519
+After 24 hours, if there is no bleeding, cramping, or fever, a woman may resume ambulation and is discharged home.
+
+253
+00:30:17,519 --> 00:30:22,206
+She is instructed to watch for fever, contractions, or bleeding.
+
+254
+00:30:22,206 --> 00:30:27,244
+Antibiotics are considered and given for 7 days to extend latency .
+
+255
+00:30:27,244 --> 00:30:41,844
+However, lung-maturing corticosteroids, magnesium sulfate neuroprophylaxis, group B streptococcus antibiotic prophylaxis, cesarean delivery, and tocolytics are not recommended before 22 weeks’ gestation .
+
+256
+00:30:41,844 --> 00:30:47,156
+Once a viable age is reached, readmission until delivery is our practice.
+
+257
+00:30:47,156 --> 00:30:54,044
+PPROM care at viable gestational ages is described in Chapter 45 (p. 799).
+
+258
+00:30:54,044 --> 00:31:01,244
+In procedure-related PPROM, iatrogenic leaks are typically higher in the uterus and tend to self-seal.
+
+259
+00:31:01,244 --> 00:31:09,719
+For leaks from amniocentesis, management is typically conservative, and brief bedrest yields high pregnancy continuation rates.
+
+260
+00:31:09,719 --> 00:31:15,756
+For rupture after fetal surgery, investigational treatments can address surgical leaks .
+
+261
+00:31:15,756 --> 00:31:25,119
+One is an occlusive plug—termed an amniopatch—that forms following intraamnionic instillation of autologous platelets and cryoprecipitate.
+
+262
+00:31:25,119 --> 00:31:36,844
+Another is amnioinfusion to counter the effects of oligohydramnios but is not robustly supported by current data (Roberts, 2014; van Kempen, 2019).
+
+263
+00:31:36,844 --> 00:31:44,606
+In subsequent pregnancies, the risk for recurrent preterm birth is great in women with prior previable PPROM.
+
+264
+00:31:44,606 --> 00:31:54,694
+In one cohort study, 46 percent delivered their next pregnancy before 37 weeks, and 17 percent delivered before reaching 24 weeks .
+
+265
+00:31:54,694 --> 00:32:05,644
+Septic Abortion With spontaneous or induced abortion, organisms may invade myometrial tissues and extend to cause parametritis, peritonitis, and septicemia.
+
+266
+00:32:05,644 --> 00:32:09,819
+This may complicate both medication and surgical methods.
+
+267
+00:32:09,819 --> 00:32:17,744
+Classic clinical findings include fever, lower abdominal pain, uterine tenderness, and foul vaginal discharge.
+
+268
+00:32:17,744 --> 00:32:23,106
+Vaginal bleeding and sonographic evidence of retained uterine tissue are others.
+
+269
+00:32:23,106 --> 00:32:30,656
+Urinary tract infection should be excluded by urinalysis, and a complete blood count assesses leukocytosis.
+
+270
+00:32:30,656 --> 00:32:35,906
+Most bacteria causing septic abortion are part of the normal vaginal flora.
+
+271
+00:32:35,906 --> 00:32:42,569
+Thus, vaginal culture is not informative, however, we obtain blood cultures for those with sepsis.
+
+272
+00:32:42,569 --> 00:32:52,606
+Particularly worrisome are severe necrotizing infections and toxic shock syndrome (TSS) caused by group A streptococcus —S pyogenes .
+
+273
+00:32:52,606 --> 00:32:58,381
+Maternal deaths from Clostridium perfringens or C sordellii also have been described.
+
+274
+00:32:58,381 --> 00:33:10,894
+With TSS, women show severe endothelial injury, capillary leakage, hemoconcentration, hypotension, tachycardia, and marked leukocytosis but may not be febrile initially.
+
+275
+00:33:10,894 --> 00:33:20,856
+With septic abortion, management includes prompt administration of broad-spectrum antibiotics as discussed in Chapter 37 (p. 651).
+
+276
+00:33:20,856 --> 00:33:25,306
+If products are retained, suction evacuation is performed.
+
+277
+00:33:25,306 --> 00:33:31,131
+Most women respond to this treatment within 1 to 2 days and are discharged when afebrile.
+
+278
+00:33:31,131 --> 00:33:35,294
+Additional oral antibiotics are likely unnecessary .
+
+279
+00:33:35,294 --> 00:33:41,844
+In a very few women, severe sepsis syndrome develops, and intensive supportive care is essential.
+
+280
+00:33:41,844 --> 00:33:49,244
+Although rare, widespread peritonitis despite curettage and clinical decline in the patient should raise concerns.
+
+281
+00:33:49,244 --> 00:33:55,994
+Imaging that shows intraabdominal free air or air within the uterine wall typically prompts laparotomy .
+
+282
+00:33:55,994 --> 00:34:00,194
+If the uterus is necrotic, hysterectomy is indicated.
+
+283
+00:34:00,194 --> 00:34:10,656
+Anti-D Immunoglobulin With spontaneous or induced abortion, 2 percent of D-negative women will become alloimmunized if not provided passive isoimmunization.
+
+284
+00:34:10,656 --> 00:34:15,844
+With surgical dilation and curettage, this rate may reach 5 percent.
+
+285
+00:34:15,844 --> 00:34:29,019
+The American College of Obstetricians and Gynecologists (2019e) recommends a 300-μg intramuscular dose of anti-Rho (D) immunoglobulin for all gestational ages.
+
+286
+00:34:29,019 --> 00:34:31,831
+Doses can also be graduated.
+
+287
+00:34:31,831 --> 00:34:43,744
+Namely, a 50-μg or 120-ug dose is given for pregnancies ≤12 weeks and a 300-μg one for those ≥13 weeks.
+
+288
+00:34:43,744 --> 00:34:48,156
+This is administered immediately following surgical evacuation.
+
+289
+00:34:48,156 --> 00:34:54,344
+For medication abortion or expectant management, the injection is given within 72
+
+290
+00:34:54,508 --> 00:34:57,783
+hours of pregnancy failure diagnosis.
+
+291
+00:34:57,733 --> 00:35:04,820
+With threatened abortion, immunoglobulin prophylaxis is controversial because of sparse evidence-based data .
+
+292
+00:35:04,820 --> 00:35:11,670
+It is reasonable to administer anti-D immunoglobulin for a threatened abortion, and this is our practice.
+
+293
+00:35:11,670 --> 00:35:13,920
+Recurrent Miscarriage.
+
+294
+00:35:13,920 --> 00:35:28,883
+Affecting approximately 1 percent of fertile couples, recurrent pregnancy loss (RPL) is classically defined as three or more consecutive pregnancy losses at <20 weeks’ gestation or with a fetal weight <500 g.
+
+295
+00:35:28,883 --> 00:35:36,345
+However, data show the risk for a subsequent loss to be similar whether a woman has two or three prior miscarriages .
+
+296
+00:35:36,345 --> 00:35:48,270
+The American Society for Reproductive Medicine (2020) now defines RPL as two or more failed pregnancies confirmed by sonographic or histopathological examination.
+
+297
+00:35:48,270 --> 00:35:59,733
+Primary RPL refers to multiple losses in a woman who has never delivered a liveborn, and secondary RPL refers to multiple pregnancy losses in a patient with a prior live birth.
+
+298
+00:35:59,733 --> 00:36:06,920
+Remarkably, chances for a successful pregnancy are >50 percent even after five miscarriages .
+
+299
+00:36:06,920 --> 00:36:12,045
+RPL evaluation addresses its major causes, described next.
+
+300
+00:36:12,045 --> 00:36:14,383
+Table 11-3.
+
+301
+00:36:14,383 --> 00:36:21,870
+Predicted Success Rate of Subsequent Pregnancy According to Age and Number of Previous Miscarriages # Etiology.
+
+302
+00:36:21,870 --> 00:36:35,095
+Widely accepted causes of RPL include some parental chromosomal abnormalities, antiphospholipid antibody syndrome, specific endocrinopathies, and certain structural uterine abnormalities.
+
+303
+00:36:35,095 --> 00:36:55,008
+Thus, current RPL evaluation includes karyotyping of both parents; measuring antiphospholipid antibody levels; assessing HbA1c, thyroid-stimulating hormone (TSH), and prolactin levels; and performing saline-infusion sonography (SIS) or hysterosalpingography .
+
+304
+00:36:55,008 --> 00:37:03,083
+The timing of recurrent loss can offer clues, and in some women, each miscarriage may occur near the same gestational age .
+
+305
+00:37:03,083 --> 00:37:07,783
+Approximately 50 percent of women have idiopathic RPL .
+
+306
+00:37:07,783 --> 00:37:11,508
+# Parental Chromosomal Abnormalities.
+
+307
+00:37:11,508 --> 00:37:19,620
+In first-trimester RPL, the incidence of genetic abnormalities is significantly lower than in sporadic miscarriage .
+
+308
+00:37:19,620 --> 00:37:26,395
+A notable exception is a parent that carries a reciprocal translocation or Robertsonian translocation .
+
+309
+00:37:26,395 --> 00:37:32,833
+Their genesis and reproductive sequelae are discussed in Chapter 16 (p. 316).
+
+310
+00:37:32,833 --> 00:37:42,020
+These account for only 2 to 4 percent of RPL cases, but karyotyping of both parents is a recognized part of RPL evaluation.
+
+311
+00:37:42,020 --> 00:37:55,345
+After thorough genetic counseling, couples with an abnormal karyotype can be offered in vitro fertilization (IVF) followed by preimplantation genetic testing (PGT) or offered donor gametes .
+
+312
+00:37:55,345 --> 00:38:03,233
+However, birth rates with IVF plus PGT are not superior to expectant management for this cause of RPL .
+
+313
+00:38:03,233 --> 00:38:12,195
+Importantly, in couples with RPL who are chromosomally normal, PGT is not recommended solely for the indication of RPL.
+
+314
+00:38:12,195 --> 00:38:15,008
+# Anatomical Factors.
+
+315
+00:38:15,008 --> 00:38:22,120
+Several genital tract abnormalities have been implicated in RPL, but direct linkage is not robust.
+
+316
+00:38:22,120 --> 00:38:33,645
+According to Devi Wold and associates (2006), 15 percent of women with ≥3 consecutive miscarriages will have a congenital or acquired uterine anomaly.
+
+317
+00:38:33,645 --> 00:38:38,720
+Thus, SIS and hysteroscopy are primary evaluation tools.
+
+318
+00:38:38,720 --> 00:38:47,083
+Uterine leiomyomas are common, and some may cause miscarriage, especially if located near the placental implantation site.
+
+319
+00:38:47,083 --> 00:38:53,545
+However, data suggesting a significant link to RPL are not convincing and poor quality .
+
+320
+00:38:53,545 --> 00:39:05,133
+The American Society for Reproductive Medicine (2017) notes that hysteroscopic excision of large submucosal leiomyomas in women with RPL can be considered.
+
+321
+00:39:05,133 --> 00:39:17,020
+Uterine synechiae, often called Asherman syndrome, result from broad destruction of endometrium and subsequent scarring, which can follow uterine curettage or hysteroscopic surgeries.
+
+322
+00:39:17,020 --> 00:39:25,208
+With SIS, multiple hypoechoic bridging bands are seen to span the endometrial cavity, which is filled with anechoic saline.
+
+323
+00:39:25,208 --> 00:39:32,220
+Treatment is hysteroscopic adhesiolysis, but success rates are lower with more severe initial disease.
+
+324
+00:39:32,220 --> 00:39:38,533
+Uterine polyps have been found more frequently in women with RPL, but causality is unclear.
+
+325
+00:39:38,533 --> 00:39:46,308
+These are seen during hysteroscopy or SIS as a mass lesion extending from the uterine wall into the endometrial cavity.
+
+326
+00:39:46,308 --> 00:39:49,258
+Application of color Doppler during
+
+327
+00:39:49,420 --> 00:39:53,895
+SIS classically reveals a single feeder vessel reaching the mass.
+
+328
+00:39:53,845 --> 00:39:57,457
+Hysteroscopic polypectomy can be considered.
+
+329
+00:39:57,457 --> 00:40:04,470
+For all these acquired lesions, correction can be considered for those with significant uterine cavity distortion.
+
+330
+00:40:04,470 --> 00:40:09,095
+However, evidence supporting improved birth rates is not robust .
+
+331
+00:40:09,095 --> 00:40:17,257
+Moreover, reproductive benefits are balanced against intrauterine adhesions that may form after any intracavitary surgery.
+
+332
+00:40:17,257 --> 00:40:22,970
+Congenital uterine anomalies often originate from abnormal müllerian duct formation.
+
+333
+00:40:22,970 --> 00:40:28,782
+Depending on their anatomy, some may raise risks for miscarriage or preterm delivery.
+
+334
+00:40:28,782 --> 00:40:33,482
+Of these, septate uterus is most closely linked with miscarriage.
+
+335
+00:40:33,482 --> 00:40:40,220
+Hysteroscopic resection has been associated with improved live birth rates in some but not all studies .
+
+336
+00:40:40,220 --> 00:40:42,995
+It can be considered for RPL .
+
+337
+00:40:42,995 --> 00:40:50,970
+Chapter 3 (p. 42) contains a fuller discussion of uterine abnormalities and their other obstetrical effects.
+
+338
+00:40:50,970 --> 00:40:53,882
+# Immunological Factors.
+
+339
+00:40:53,882 --> 00:40:59,657
+Miscarriages are more common in women with systemic lupus erythematosus (SLE) .
+
+340
+00:40:59,657 --> 00:41:05,520
+Many of these women and also some without SLE carry antiphospholipid antibodies.
+
+341
+00:41:05,520 --> 00:41:13,195
+These are a family of autoantibodies that bind to phospholipid-binding plasma proteins and are associated with RPL .
+
+342
+00:41:13,195 --> 00:41:26,220
+As shown in Table 11-4, the antiphospholipid antibody syndrome (APS) is defined by these antibodies in combination with various forms of reproductive loss or vascular thrombosis .
+
+343
+00:41:26,220 --> 00:41:32,782
+Chapter 62 (p. 1114) describes pregnancy loss with APS and treatment.
+
+344
+00:41:32,782 --> 00:41:35,170
+Table 11-4.
+
+345
+00:41:35,170 --> 00:41:43,082
+Clinical and Laboratory Criteria for Diagnosis of Antiphospholipid Antibody Syndromea # Endocrine Factors.
+
+346
+00:41:43,082 --> 00:41:48,620
+Of recurrent miscarriages, 8 to 12 percent are caused by endocrine factors .
+
+347
+00:41:48,620 --> 00:41:56,995
+First, the well-known abortifacient action of uncontrolled diabetes mellitus is detailed in Chapter 60 (p. 1070).
+
+348
+00:41:56,995 --> 00:42:02,232
+Optimal periconceptional glycemic control will mitigate many of these losses.
+
+349
+00:42:02,232 --> 00:42:08,145
+Overt hypothyroidism and severe iodine deficiency also raise miscarriage rates .
+
+350
+00:42:08,145 --> 00:42:12,057
+Correction with supplementation reverses these actions.
+
+351
+00:42:12,057 --> 00:42:18,157
+Subclinical hypothyroidism, however, does not appear to increase miscarriage rates .
+
+352
+00:42:18,157 --> 00:42:25,382
+Antithyroid antibodies are a common associate of subclinical hypothyroidism or overt hypothyroidism.
+
+353
+00:42:25,382 --> 00:42:33,995
+A recent metaanalysis found positive associations between these antibodies and a greater risk for sporadic and recurrent miscarriages .
+
+354
+00:42:33,995 --> 00:42:40,857
+However, levothyroxine supplementation in this group does not improve subsequent pregnancy outcomes .
+
+355
+00:42:40,857 --> 00:42:48,945
+For evaluation of RPL, measuring levels of serum TSH, but not antithyroid antibodies, is reasonable.
+
+356
+00:42:48,945 --> 00:42:52,995
+Other endocrinopathies are inconclusively implicated.
+
+357
+00:42:52,995 --> 00:42:57,595
+One is progesterone deficiency caused by a luteal-phase defect.
+
+358
+00:42:57,595 --> 00:43:06,082
+Progesterone supplementation, compared with placebo, did not improve the live birth rate in those with RPL in one large trial .
+
+359
+00:43:06,082 --> 00:43:09,795
+Limited data implicate hyperprolactinemia .
+
+360
+00:43:09,795 --> 00:43:22,407
+Obesity, polycystic ovarian syndrome, and insulin resistance are also linked to RPL (Cavalcante, 2019; Craig, 2002; Mayrhofer, 2020).
+
+361
+00:43:22,407 --> 00:43:28,095
+However, the interplay between these makes assigning individual causality difficult.
+
+362
+00:43:28,095 --> 00:43:30,595
+Second-Trimester Abortion.
+
+363
+00:43:30,595 --> 00:43:32,907
+# Etiology.
+
+364
+00:43:32,907 --> 00:43:43,670
+The timespan that defines a midtrimester fetal loss extends from the end of the first trimester until the fetus weighs <500 g or gestational age reaches 20 weeks.
+
+365
+00:43:43,670 --> 00:43:48,920
+The spontaneous loss rate in the second trimester is much lower than in the first.
+
+366
+00:43:48,920 --> 00:43:57,332
+Unlike earlier miscarriages that frequently stem from chromosomal aneuploidies, causes of these later fetal losses are more diverse .
+
+367
+00:43:57,332 --> 00:44:04,132
+Their ultimate presentations may be miscarriage, PPROM, or fetal demise prior to labor .
+
+368
+00:44:04,132 --> 00:44:10,407
+Some second-trimester abortions are induced because of fetal abnormalities or patient choice.
+
+369
+00:44:10,407 --> 00:44:12,882
+Table 11-5.
+
+370
+00:44:12,882 --> 00:44:23,082
+Some Causes of Midtrimester Spontaneous Pregnancy Losses Second-trimester losses are subclassified similarly to first-trimester ones (p. 200).
+
+371
+00:44:23,082 --> 00:44:31,232
+Management is similar in many regards to that used for secondtrimester induced abortion, described on page 214.
+
+372
+00:44:31,232 --> 00:44:37,082
+One exception is cervical cerclage, which may be employed for cervical insufficiency.
+
+373
+00:44:37,082 --> 00:44:40,057
+# Cervical Insufficiency.
+
+374
+00:44:40,057 --> 00:44:46,282
+Previously called incompetent cervix, this is characterized classically by painless cervical
+
+375
+00:44:46,444 --> 00:44:49,244
+dilation in the second trimester.
+
+376
+00:44:49,194 --> 00:44:57,956
+It can be followed by prolapse and ballooning of the amnionic membranes into the vagina, and ultimately, expulsion of an immature fetus.
+
+377
+00:44:57,956 --> 00:45:01,744
+This sequence often repeats in future pregnancies.
+
+378
+00:45:01,744 --> 00:45:05,769
+Of causes, prior cervical trauma is implicated.
+
+379
+00:45:05,769 --> 00:45:15,544
+One cohort study of more than 15,000 women with prior cervical conization found a fourfold risk of pregnancy loss before 24 weeks’ gestation .
+
+380
+00:45:15,544 --> 00:45:24,119
+However, in women solely with prior conization but no prior preterm birth, outcomes are not improved by prophylactic cerclage .
+
+381
+00:45:24,119 --> 00:45:32,356
+In other instances, abnormal cervical development, including that from diethylstilbestrol (DES), may play a role .
+
+382
+00:45:32,356 --> 00:45:42,094
+Marfan and Ehlers-Danlos syndromes also carry increased risk of cervical insufficiency (Meijboom, 2006; Spiegel, 2020).
+
+383
+00:45:42,094 --> 00:45:54,444
+Surgical Indications For women with an unequivocal history of second-trimester painless delivery, prophylactic cerclage placement is an option and reinforces a weak cervix by an encircling suture.
+
+384
+00:45:54,444 --> 00:46:02,394
+However, some women have a history and clinical findings that make it difficult to verify—classic cervical insufficiency.
+
+385
+00:46:02,394 --> 00:46:14,306
+In one randomized trial of almost 1300 women, cerclage was found to be beneficial—13 versus 17 percent—to prolong pregnancy past 33 weeks .
+
+386
+00:46:14,306 --> 00:46:22,294
+The physical finding of early dilation of the internal cervical os and visible membranes is another indicator of insufficiency.
+
+387
+00:46:22,294 --> 00:46:32,456
+In one systematic review, cerclages that were placed based on such examination findings provided superior perinatal outcomes compared with expectant management .
+
+388
+00:46:32,456 --> 00:46:36,656
+Last, some use TVS to determine cerclage need.
+
+389
+00:46:36,656 --> 00:46:47,444
+In those with any prior spontaneous preterm birth, the Society for Maternal-Fetal Medicine (2016) recommends transvaginal cervical length screening.
+
+390
+00:46:47,444 --> 00:46:54,644
+The American College of Obstetricians and Gynecologists (2021) also recommends this screening.
+
+391
+00:46:54,644 --> 00:47:06,394
+Surveillance extends between 16 and 24 weeks’ gestation, and examinations, described in Chapter 14 (p. 254), are performed every 1 to 4 weeks.
+
+392
+00:47:06,394 --> 00:47:14,331
+In those without prior preterm birth or in those with multifetal gestation, cervical length is not specifically measured.
+
+393
+00:47:14,331 --> 00:47:22,081
+The cervix should be viewed during the sonographic anatomical anatomy examination at 18 to 22 weeks’ gestation.
+
+394
+00:47:22,081 --> 00:47:31,656
+Chapter 45 (p. 794) discusses recommendations for cerclage placement based on cervical length to prevent preterm birth.
+
+395
+00:47:31,656 --> 00:47:34,631
+# Presurgical Preparation.
+
+396
+00:47:34,631 --> 00:47:44,381
+Contraindications to cerclage include bleeding, contractions, or ruptured membranes, any of which substantially raise the likelihood of labor and failure.
+
+397
+00:47:44,381 --> 00:47:53,331
+Prophylactic elective cerclage before dilation is preferable, and timing between 12 and 14 weeks’ gestation allows early intervention.
+
+398
+00:47:53,331 --> 00:48:03,756
+Still, it avoids surgery in the first trimester, which is when most predestined spontaneous losses occur, and screening for aneuploidy and malformation is completed.
+
+399
+00:48:03,756 --> 00:48:10,694
+Cervical neoplasia screening in suitable candidates and gonorrhea and chlamydial infection testing are done.
+
+400
+00:48:10,694 --> 00:48:13,731
+Obvious cervical infection is treated.
+
+401
+00:48:13,731 --> 00:48:21,444
+At times, the cervix instead is found to be dilated, effaced, or both, and an emergency cerclage is performed.
+
+402
+00:48:21,444 --> 00:48:29,919
+Notably, in more-advanced pregnancy, the risk of stimulating preterm labor or of rupturing membranes with the surgery is greater.
+
+403
+00:48:29,919 --> 00:48:36,669
+At Parkland Hospital, cerclage procedures are not done after 23 to 24 weeks’ gestation.
+
+404
+00:48:36,669 --> 00:48:44,519
+Others, however, describe placement later than this (Caruso, 2000; Terkildsen, 2003).
+
+405
+00:48:44,519 --> 00:48:51,444
+When outcomes of cerclage are evaluated, women with similar clinical presentations are ideally compared.
+
+406
+00:48:51,444 --> 00:49:01,719
+In a study of elective cerclage by Owen and associates (2009), approximately a third of women delivered before 35 weeks, and complications were few.
+
+407
+00:49:01,719 --> 00:49:10,506
+By contrast, in a 10-year review of 75 women undergoing emergency cerclage, only half were delivered after 36 weeks .
+
+408
+00:49:10,506 --> 00:49:17,581
+Importantly, only 44 percent of those with bulging membranes at the time of cerclage reached 28 weeks.
+
+409
+00:49:17,581 --> 00:49:22,944
+Terkildsen and associates (2003) had similar experiences.
+
+410
+00:49:22,944 --> 00:49:30,856
+Our experiences at Parkland Hospital are that emergency cerclage has a high failure rate, and women are counseled accordingly.
+
+411
+00:49:30,856 --> 00:49:35,144
+If the clinical indication for cerclage is questionable, a
+
+412
+00:49:35,308 --> 00:49:37,920
+woman may instead be observed.
+
+413
+00:49:37,870 --> 00:49:44,420
+Most undergo cervical examinations weekly or every 2 weeks to assess effacement and dilation.
+
+414
+00:49:44,420 --> 00:49:50,395
+Unfortunately, rapid effacement and dilation can develop despite such precautions .
+
+415
+00:49:50,395 --> 00:49:59,245
+Vaginal Cerclage Of the two vaginal cerclage operations, most use the simpler procedure developed by McDonald (1963) .
+
+416
+00:49:59,245 --> 00:50:06,708
+The more complicated operation is a modification of the procedure described by Shirodkar (1955) .
+
+417
+00:50:06,708 --> 00:50:17,995
+When either technique is performed electively, women with a classic history of cervical insufficiency have good outcomes (Caspi, 1990; Kuhn, 1977).
+
+418
+00:50:17,995 --> 00:50:26,145
+For either vaginal or abdominal cerclage, evidence is insufficient to recommend perioperative antibiotic prophylaxis .
+
+419
+00:50:26,145 --> 00:50:30,970
+Few data are available and do not support prophylactic tocolysis .
+
+420
+00:50:30,970 --> 00:50:33,320
+Figure 11-3.
+
+421
+00:50:33,320 --> 00:50:37,245
+McDonald cerclage procedure for incompetent cervix.
+
+422
+00:50:37,245 --> 00:50:46,208
+A. Start of the cerclage procedure with a no. 2 monofilament suture being placed in the body of the cervix very near the level of the internal os.
+
+423
+00:50:46,208 --> 00:50:52,258
+B. Continuation of suture placement in the body of the cervix so as to encircle the os.
+
+424
+00:50:52,258 --> 00:50:54,870
+C. Encirclement completed.
+
+425
+00:50:54,870 --> 00:51:04,795
+D. The suture is tightened around the cervical canal sufficiently to reduce the diameter of the canal to 5 to 10 mm, and then the suture is tied.
+
+426
+00:51:04,795 --> 00:51:09,220
+The effect of the suture placement on the cervical canal is apparent.
+
+427
+00:51:09,220 --> 00:51:16,420
+A second suture placed somewhat higher may be of value if the first is not in close proximity to the internal os.
+
+428
+00:51:16,420 --> 00:51:18,858
+Figure 11-4.
+
+429
+00:51:18,858 --> 00:51:22,970
+Modified Shirodkar cerclage for incompetent cervix.
+
+430
+00:51:22,970 --> 00:51:30,945
+A. A transverse incision is made in the mucosa overlying the anterior cervix, and the bladder is pushed cephalad.
+
+431
+00:51:30,945 --> 00:51:38,158
+B. A 5-mm Mersilene tape on a swaged-on or Mayo needle is passed anterior to posterior.
+
+432
+00:51:38,158 --> 00:51:44,045
+C. The tape is then directed posterior to anterior on the other side of the cervix.
+
+433
+00:51:44,045 --> 00:51:48,058
+Allis clamps are placed so as to bunch the cervical tissue.
+
+434
+00:51:48,058 --> 00:51:54,070
+This diminishes the distance that the needle must travel submucosally and aids tape placement.
+
+435
+00:51:54,070 --> 00:52:00,583
+D. The tape is snugly tied anteriorly, after ensuring that all slack has been taken up.
+
+436
+00:52:00,583 --> 00:52:05,820
+The cervical mucosa is then closed with continuous stitches of chromic suture.
+
+437
+00:52:05,820 --> 00:52:09,520
+Regional analgesia is suitable and preferred.
+
+438
+00:52:09,520 --> 00:52:14,083
+After this, the woman is placed in standard lithotomy position.
+
+439
+00:52:14,083 --> 00:52:19,133
+The vagina and perineum are cleaned for surgery, and the bladder is drained.
+
+440
+00:52:19,133 --> 00:52:27,920
+Some operators do not use potentially irritating antiseptic solution if amnionic membranes are exposed and instead use warm saline .
+
+441
+00:52:27,920 --> 00:52:35,908
+Although steps are described here, a thorough and illustrated review of technique is provided by Hawkins (2017).
+
+442
+00:52:35,908 --> 00:52:44,683
+For suturing, options include a no. 1 or 2 nylon or polypropylene monofilament suture or 5-mm Mersilene tape.
+
+443
+00:52:44,683 --> 00:52:54,070
+During placement, the suture is placed as cephalad along the cervical length as possible, is anchored into the dense cervical stroma, yet avoids the bladder.
+
+444
+00:52:54,070 --> 00:52:58,408
+Two tandem cerclage suture rings are not more effective than one .
+
+445
+00:52:58,408 --> 00:53:06,533
+Emergency cerclage placement with a thinned dilated cervix is more difficult, and tissue tearing and membrane puncture are risks.
+
+446
+00:53:06,533 --> 00:53:12,470
+Gentle replacement of the prolapsed amnionic sac back into the uterus can aid suturing.
+
+447
+00:53:12,470 --> 00:53:20,358
+Options include steep Trendelenburg or filling the bladder with 600 mL of saline through a Foley catheter in the bladder.
+
+448
+00:53:20,358 --> 00:53:26,283
+However, these steps may carry the cervix cephalad and away from the operating field.
+
+449
+00:53:26,283 --> 00:53:31,645
+Instead, membranes can be pushed inward by a wide, moist sponge stick.
+
+450
+00:53:31,645 --> 00:53:40,483
+A Foley catheter can instead be inserted through the cervix, and inflation of the 30-mL balloon can deflect the amnionic sac inward.
+
+451
+00:53:40,483 --> 00:53:47,520
+The balloon is gradually deflated as the cerclage suture is tightened around the catheter tubing, which is then removed.
+
+452
+00:53:47,520 --> 00:53:55,483
+With any of these, simultaneous gentle outward traction created by ring forceps placed on the cervical edges may be helpful.
+
+453
+00:53:55,483 --> 00:54:03,258
+For uncomplicated pregnancies without labor, the cerclage is usually snipped and removed at 37 weeks’ gestation.
+
+454
+00:54:03,258 --> 00:54:11,120
+This balances the risk of preterm birth against that of cervical laceration from a cerclage in place with labor contractions.
+
+455
+00:54:11,120 --> 00:54:18,820
+Transvaginally placed cerclages are typically removed even with cesarean delivery to avoid rare long-term foreign-body
+
+456
+00:54:18,988 --> 00:54:20,938
+complications .
+
+457
+00:54:20,888 --> 00:54:30,000
+With scheduled cesarean delivery, the cerclage may be removed at 37 weeks or deferred until the time of regional analgesia and delivery.
+
+458
+00:54:30,000 --> 00:54:34,788
+Again, the risk of labor ensuing before delivery must be considered.
+
+459
+00:54:34,788 --> 00:54:44,988
+During extraction, particularly with a Shirodkar cerclage or a cerclage using Mersilene tape, analgesia aids patient comfort and adequate visualization.
+
+460
+00:54:44,988 --> 00:54:50,963
+Transabdominal Cerclage At times, suture at the uterine isthmus is placed abdominally.
+
+461
+00:54:50,963 --> 00:55:01,438
+Performed less often than transvaginal methods, selected indications include prior transvaginal cerclage failure or severe cervical anatomical defects.
+
+462
+00:55:01,438 --> 00:55:07,663
+The cerclage is left until childbearing completion, and thus cesarean delivery is required.
+
+463
+00:55:07,663 --> 00:55:13,188
+With the cerclage in place, conception rates still approximate 75 percent .
+
+464
+00:55:13,188 --> 00:55:19,600
+If needed for a fetal loss, dilation and evacuation can be performed with the suture in place .
+
+465
+00:55:19,600 --> 00:55:27,663
+With the procedure, after abdomen entry, sharp dissection in the vesicocervical space allows the bladder to be pushed caudally.
+
+466
+00:55:27,663 --> 00:55:33,713
+At the level of the internal os, a window is made in free space medial to the uterine vessels.
+
+467
+00:55:33,713 --> 00:55:37,513
+This avoids vessel compression by the tightened cerclage.
+
+468
+00:55:37,513 --> 00:55:41,063
+The nearby ureter is identified and avoided.
+
+469
+00:55:41,063 --> 00:55:47,450
+One end of the ligating suture is passed into the right window, and the other is threaded into the left.
+
+470
+00:55:47,450 --> 00:55:51,875
+Per surgeon preference, the knot is tied either in the front or back.
+
+471
+00:55:51,875 --> 00:55:57,413
+The vesicouterine peritoneum is closed with absorbable suture in a running fashion.
+
+472
+00:55:57,413 --> 00:56:07,375
+In the MAVRIC trial, 111 women with a prior failed vaginal cerclage were randomly assigned to transabdominal, McDonald, or Shirodkar methods.
+
+473
+00:56:07,375 --> 00:56:12,125
+Almost half of the transabdominal ones were placed prior to conception.
+
+474
+00:56:12,125 --> 00:56:21,263
+The preterm birth rate before 32 weeks was 8 percent in the transabdominal group and 38 percent in each of the transvaginal cerclage groups .
+
+475
+00:56:21,263 --> 00:56:31,563
+Of morbidity, rates of bleeding, adjacent organ injury, uterine perforation, and infection can be greater with transabdominal compared with transvaginal methods.
+
+476
+00:56:31,563 --> 00:56:38,838
+Transabdominal cerclage performs suitably whether laparotomy or laparoscopy is used to place the sutures .
+
+477
+00:56:38,838 --> 00:56:46,913
+Complications With cerclage in general, PPROM, preterm labor, hemorrhage, or infection is a potential risk.
+
+478
+00:56:46,913 --> 00:56:50,388
+All are uncommon with prophylactic cerclage.
+
+479
+00:56:50,388 --> 00:57:00,500
+In the trial by MacNaughton and associates (1993), membrane rupture complicated only 1 of more than 600 procedures done before 19 weeks.
+
+480
+00:57:00,500 --> 00:57:07,450
+In our view, clinical infection mandates immediate removal of the suture with labor induced or augmented.
+
+481
+00:57:07,450 --> 00:57:14,450
+Similarly, with imminent abortion or delivery, the suture should be removed to avoid cervical laceration.
+
+482
+00:57:14,450 --> 00:57:19,500
+Following cerclage, sonographic surveillance does not improve outcomes .
+
+483
+00:57:19,500 --> 00:57:24,275
+Evidence does not support a subsequent reinforcing cerclage procedure .
+
+484
+00:57:24,275 --> 00:57:36,213
+Membrane rupture during suture placement or within the first 48 hours after surgery is considered by some to be an indication for cerclage removal to avoid serious fetal or maternal infection .
+
+485
+00:57:36,213 --> 00:57:45,388
+In those with later PPROM but without infection or labor, options include observation alone or cerclage removal and observation.
+
+486
+00:57:45,388 --> 00:57:57,825
+In these cases, data are contradictory regarding prolonged gestational latency and infection rates with retention or removal (Jenkins, 2000; Pergialiotis, 2015).
+
+487
+00:57:57,825 --> 00:58:04,313
+In the absence of infection or labor, we allow cerclage retention with close clinical surveillance.
+
+488
+00:58:04,313 --> 00:58:06,325
+Induced Abortion.
+
+489
+00:58:06,325 --> 00:58:08,675
+# Definitions.
+
+490
+00:58:08,675 --> 00:58:16,150
+The term induced abortion is defined as termination of pregnancy with medication or surgery before fetal viability.
+
+491
+00:58:16,150 --> 00:58:26,138
+The abortion ratio is the number of abortions per 1000 live births, and abortion rate is the number per 1000 women aged 15 to 44 years.
+
+492
+00:58:26,138 --> 00:58:32,550
+For 2018, approximately 620,000 elective abortions were reported .
+
+493
+00:58:32,550 --> 00:58:43,950
+Of these, 78 percent were pregnancies aged ≤9 weeks’ gestation, and 92 percent of abortions were completed before ≤13 weeks.
+
+494
+00:58:43,950 --> 00:58:51,550
+The abortion ratio was 189 per 1000 live births, and the abortion rate was 11.3.
+
+495
+00:58:51,550 --> 00:59:01,363
+Therapeutic abortion refers to pregnancy termination for medical reasons, and suitable maternal or fetal indications are described in respective chapters.
+
+496
+00:59:01,363 --> 00:59:05,788
+In cases of rape or incest, many consider termination.
+
+497
+00:59:05,956 --> 00:59:14,931
+The most frequent therapeutic indication currently is to prevent birth of a fetus with a significant anatomical, metabolic, or mental deformity.
+
+498
+00:59:14,881 --> 00:59:24,718
+The term elective abortion or voluntary abortion describes the interruption of pregnancy before viability at the request of the woman, but not for medical reasons.
+
+499
+00:59:24,718 --> 00:59:27,943
+Most abortions done today are elective.
+
+500
+00:59:27,943 --> 00:59:30,481
+# Legal Influence.
+
+501
+00:59:30,481 --> 00:59:37,481
+The legality of elective abortion was established by the United States Supreme Court in the case of Roe v. Wade.
+
+502
+00:59:37,481 --> 00:59:46,718
+The Court defined the extent to which states might regulate abortion and ruled that first-trimester procedures must be left to the medical judgment of the physician.
+
+503
+00:59:46,718 --> 00:59:53,231
+After this, the state could regulate abortion procedures in ways reasonably related to maternal health.
+
+504
+00:59:53,231 --> 01:00:03,481
+Last, subsequent to viability, the state could promote its interest in the potential of human life and regulate abortion, except for preservation of the mother’s health.
+
+505
+01:00:03,481 --> 01:00:05,956
+Other legislation followed.
+
+506
+01:00:05,956 --> 01:00:16,631
+The 1976 Hyde Amendment forbids use of federal funds to provide abortion services except in cases of rape, incest, or life-threatening circumstances.
+
+507
+01:00:16,631 --> 01:00:30,406
+The Supreme Court in 1992 reviewed Planned Parenthood v. Casey and upheld the fundamental right to abortion, but established that regulations are constitutional as long as they do not impose an “undue burden” on the woman.
+
+508
+01:00:30,406 --> 01:00:40,881
+Subsequently, many states introduced counseling requirements, waiting periods, parental consent for minors, facility requirements, and funding restrictions.
+
+509
+01:00:40,881 --> 01:00:47,006
+Such limits are often called targeted regulation of abortion providers (TRAP) laws.
+
+510
+01:00:47,006 --> 01:00:57,943
+One major choice-limiting decision was the 2007 Supreme Court decision that reviewed Gonzales v. Carhart and upheld the 2003 Partial-Birth Abortion Ban Act.
+
+511
+01:00:57,943 --> 01:01:06,231
+In 2016, some TRAP laws were dialed back by the Supreme Court ruling in the case of Whole Woman’s Health v. Hellerstedt.
+
+512
+01:01:06,231 --> 01:01:13,856
+With this, the justices noted that abortion laws must confer health safety benefits that outweigh burdens on access.
+
+513
+01:01:13,856 --> 01:01:16,681
+# Provider Availability.
+
+514
+01:01:16,681 --> 01:01:22,318
+Major women’s health organizations support the legal right of women to obtain an abortion .
+
+515
+01:01:22,318 --> 01:01:33,481
+The Accreditation Council for Graduate Medical Education mandates that obstetrics and gynecology residency education must include access to experience with induced abortion.
+
+516
+01:01:33,481 --> 01:01:43,431
+The Kenneth J. Ryan Residency Training Program was established in 1999 to work with residency programs to improve abortion and contraceptive training.
+
+517
+01:01:43,431 --> 01:01:50,731
+Moreover, postresidency training in these techniques is available in formal 2-year Family Planning fellowships.
+
+518
+01:01:50,731 --> 01:01:55,218
+Other residency programs have a less-codified abortion curriculum.
+
+519
+01:01:55,218 --> 01:02:03,543
+Instead, residents learn technical aspects through their management of miscarriage and pregnancy interruption for medical indications.
+
+520
+01:02:03,543 --> 01:02:15,893
+The American College of Obstetricians and Gynecologists (2019g) respects the need and responsibility of health-care providers to determine their individual positions on induced abortion.
+
+521
+01:02:15,893 --> 01:02:23,731
+It also advocates for counseling and timely referral if providers have individual beliefs that preclude pregnancy termination.
+
+522
+01:02:23,731 --> 01:02:31,868
+Knowledgeable and compassionate counseling objectively describes and provides information to the woman to permit informed decision-making.
+
+523
+01:02:31,868 --> 01:02:34,281
+First-Trimester Methods.
+
+524
+01:02:34,281 --> 01:02:38,456
+Abortions can be completed with either medication or surgery.
+
+525
+01:02:38,456 --> 01:02:45,168
+In the absence of serious maternal disorders, abortion procedures do not require hospitalization .
+
+526
+01:02:45,168 --> 01:02:52,806
+However, outpatient facilities should be able to provide emergency resuscitation and immediate transfer to a hospital .
+
+527
+01:02:52,806 --> 01:02:55,431
+# Surgical Abortion.
+
+528
+01:02:55,431 --> 01:03:02,993
+Preoperative Preparation Surgical evacuation is performed transvaginally through an appropriately dilated cervix.
+
+529
+01:03:02,993 --> 01:03:18,031
+For this, preoperative cervical ripening is typically associated with easier intraoperative cervical dilation, less pain, a technically easier procedure, and shorter operative times (Kapp, 2010; Webber, 2015).
+
+530
+01:03:18,031 --> 01:03:23,681
+On balance, this preparation adds a surgical delay and potential side effects.
+
+531
+01:03:23,681 --> 01:03:30,968
+Thus, cervical priming in the first trimester may be reserved for those with anticipated challenges to dilation.
+
+532
+01:03:30,968 --> 01:03:36,356
+Examples are those with cervical stenosis or adolescents, who overall may
+
+533
+01:03:36,508 --> 01:03:39,558
+experience higher associated pain .
+
+534
+01:03:39,508 --> 01:03:44,820
+Surgical steps presented here apply to both induced abortion and miscarriage.
+
+535
+01:03:44,820 --> 01:03:56,520
+For ripening, hygroscopic dilators, also called osmotic dilators, are devices that draw water from surrounding tissues and expand gradually to dilate the endocervical canal.
+
+536
+01:03:56,520 --> 01:04:02,933
+One type is derived from various species of Laminaria algae that are harvested from the ocean floor .
+
+537
+01:04:02,933 --> 01:04:12,820
+These come in different diameters, which allow the number and diameters of inserted devices, also called tents, to be customized to a given cervix.
+
+538
+01:04:12,820 --> 01:04:17,820
+Another device is Dilapan-S, which is composed of an acrylic-based gel.
+
+539
+01:04:17,820 --> 01:04:23,533
+Each type expands to an ultimate diameter three to four times that of its dry state.
+
+540
+01:04:23,533 --> 01:04:26,058
+Figure 11-5.
+
+541
+01:04:26,058 --> 01:04:28,508
+Hygroscopic dilators.
+
+542
+01:04:28,508 --> 01:04:36,883
+With each type, the dry unit (left) expands exponentially when exposed to water (right) as in the endocervical canal.
+
+543
+01:04:36,883 --> 01:04:39,008
+A. Laminaria.
+
+544
+01:04:39,008 --> 01:04:41,158
+B. Dilapan-S.
+
+545
+01:04:41,158 --> 01:04:47,745
+With hygroscopic dilators, shallow insertion yields insufficient dilation or tent expulsion.
+
+546
+01:04:47,745 --> 01:04:52,308
+Overly deep placement risks dislodgement into the uterine cavity.
+
+547
+01:04:52,308 --> 01:04:59,883
+Once tents are inserted, several gauze sponges placed at the external os help prevent spontaneous tent expulsion.
+
+548
+01:04:59,883 --> 01:05:04,445
+Patients can ambulate, void, or stool without limitation.
+
+549
+01:05:04,445 --> 01:05:10,258
+The numbers of sponges and dilators inserted are carefully counted and recorded in the chart.
+
+550
+01:05:10,258 --> 01:05:19,558
+Schneider and coworkers (1991) described 21 cases in which women who had a hygroscopic dilator placed changed their minds.
+
+551
+01:05:19,558 --> 01:05:28,658
+Of 17 women who chose to continue their pregnancy, 14 delivered at term, two delivered preterm, and one miscarried 2 weeks later.
+
+552
+01:05:28,658 --> 01:05:37,145
+None suffered infection-related morbidity, including three untreated women with cervical cultures positive for Chlamydia trachomatis.
+
+553
+01:05:37,145 --> 01:05:41,745
+Instead, misoprostol is often used for cervical ripening.
+
+554
+01:05:41,745 --> 01:05:52,358
+The typical dose is 400 μg administered sublingually, buccally, or placed into the posterior vaginal fornix at least 3 to 4 hours prior to surgery.
+
+555
+01:05:52,358 --> 01:05:55,220
+Oral ingestion is less effective .
+
+556
+01:05:55,220 --> 01:06:02,670
+Another option is a 200-mg oral mifepristone dose given 24 to 48 hours before surgery .
+
+557
+01:06:02,670 --> 01:06:14,908
+However, misoprostol is typically favored, because of mifepristone’s greater delay to the procedure, cost, and limited access within the FDA’s REMS program (p. 202).
+
+558
+01:06:14,908 --> 01:06:21,595
+Of options, hygroscopic dilators provide equal or slightly greater dilation than misoprostol.
+
+559
+01:06:21,595 --> 01:06:29,545
+Other surgical parameters do not vary significantly (Bartz, 2013; MacIsaac, 1999).
+
+560
+01:06:29,545 --> 01:06:42,670
+On balance, the ripening time required for hygroscopic dilators extends the total procedure time and can be uncomfortable, whereas misoprostol can cause fever, bleeding, and gastrointestinal side effects.
+
+561
+01:06:42,670 --> 01:06:50,383
+If not done as part of early prenatal care, hemoglobin level and Rh status are assessed prior to abortion.
+
+562
+01:06:50,383 --> 01:07:00,045
+Screening for gonorrhea, for syphilis, and for human immunodeficiency virus, hepatitis B, and chlamydial infections also is completed.
+
+563
+01:07:00,045 --> 01:07:05,458
+Obvious cervical infections are treated and resolved before elective procedures.
+
+564
+01:07:05,458 --> 01:07:16,958
+To prevent postabortal infection after a first- or secondtrimester surgical evacuation, a 200-mg oral prophylactic dose of doxycycline is given 1 hour before.
+
+565
+01:07:16,958 --> 01:07:28,620
+For those electing local anesthesia, evidence also supports adding an oral or intramuscular dose of a nonsteroidal antiinflammatory drug 30 to 60 minutes prior to surgery .
+
+566
+01:07:28,620 --> 01:07:42,833
+Prophylaxis specifically for infective endocarditis prevention in those with valvular heart disease is not required in the absence of active infection (American College of Obstetricians and Gynecologists, 2020g,i).
+
+567
+01:07:42,833 --> 01:07:50,933
+No recommendations specifically address venous thromboembolism prophylaxis for suction curettage in low-risk gravidas.
+
+568
+01:07:50,933 --> 01:07:54,795
+At our hospital, we encourage early ambulation.
+
+569
+01:07:54,795 --> 01:08:07,745
+Vacuum Aspiration Also called suction curettage or suction dilation and curettage, vacuum aspiration is a transcervical approach, in which the cervix is first dilated and tissue is then evacuated.
+
+570
+01:08:07,745 --> 01:08:17,020
+For this, a rigid cannula is attached either to an electric-powered vacuum source or to a handheld 60-mL syringe for its vacuum source.
+
+571
+01:08:17,020 --> 01:08:24,383
+These are electric vacuum aspiration (EVA) or manual vacuum aspiration (MVA), respectively.
+
+572
+01:08:24,383 --> 01:08:29,495
+Sharp dilation and curettage (D & C) in which contents are
+
+573
+01:08:29,644 --> 01:08:45,481
+mechanically scraped out solely by a sharp curette is currently not recommended for pregnancy evacuation due to greater blood loss, pain, and procedural time (National Abortion Federation, 2020; World Health Organization, 2012).
+
+574
+01:08:45,431 --> 01:08:52,494
+Importantly, this practice is distinguished from brief final sharp curettage following initial aspiration.
+
+575
+01:08:52,494 --> 01:08:59,456
+To begin, the surgeon performs a bimanual examination to confirm uterine size and orientation.
+
+576
+01:08:59,456 --> 01:09:05,956
+A speculum is inserted, and the cervix is swabbed with povidone-iodine or equivalent solution.
+
+577
+01:09:05,956 --> 01:09:10,356
+The anterior cervical lip is grasped with a toothed tenaculum.
+
+578
+01:09:10,356 --> 01:09:21,694
+The cervix, vagina, and uterus are richly supplied by nerves of the Frankenhäuser plexus, which lies within connective tissue lateral to the uterosacral and cardinal ligaments.
+
+579
+01:09:21,694 --> 01:09:36,156
+Thus, vacuum aspiration at minimum requires intravenously or orally administered sedatives or analgesics, and some add a paracervical or intracervical block (Allen, 2009; Renner, 2012).
+
+580
+01:09:36,156 --> 01:09:46,719
+For a pudendal block, 5 mL of 1- or 2-percent lidocaine is injected into the uterosacral ligaments at their insertion into the uterus at 4 and 8 o’clock.
+
+581
+01:09:46,719 --> 01:09:58,069
+Instead, an intracervical block with 5-mL aliquots of 1percent lidocaine injected at 12, 3, 6, and 9 o’clock was reported to be equally effective .
+
+582
+01:09:58,069 --> 01:10:02,006
+General or regional anesthesia may instead be elected.
+
+583
+01:10:02,006 --> 01:10:08,681
+First, a Sims uterine sound is passed into the uterus to measure the depth and inclination of the cavity.
+
+584
+01:10:08,681 --> 01:10:13,056
+This provides parameters for subsequent instrument insertion.
+
+585
+01:10:13,056 --> 01:10:21,494
+If required, the cervix is further dilated with Hegar, Hank, or Pratt dilators until a suction cannula can be inserted.
+
+586
+01:10:21,494 --> 01:10:28,394
+As a rough rule, the degree of required cervical dilation in millimeters approximates gestational age.
+
+587
+01:10:28,394 --> 01:10:32,331
+Hegar sizes reflect their diameter in millimeters.
+
+588
+01:10:32,331 --> 01:10:40,256
+Pratt and Hank dilators are sized in French units, which can be converted to millimeters by dividing the French value by three.
+
+589
+01:10:40,256 --> 01:10:49,269
+With dilation, the fourth and fifth fingers of the introducing hand should rest on the perineum and buttocks as the instrument is guided through the internal os .
+
+590
+01:10:49,269 --> 01:10:54,831
+This technique minimizes forceful insertion and helps prevent uterine perforation.
+
+591
+01:10:54,831 --> 01:10:57,369
+Figure 11-6.
+
+592
+01:10:57,369 --> 01:11:00,669
+Dilation of cervix with a Hegar dilator.
+
+593
+01:11:00,669 --> 01:11:06,844
+Note that the fourth and fifth fingers rest against the perineum and buttocks, lateral to the vagina.
+
+594
+01:11:06,844 --> 01:11:18,344
+This maneuver is an important safety measure because if the cervix relaxes abruptly, these fingers prevent a sudden and uncontrolled thrust of the dilator, a common cause of uterine perforation.
+
+595
+01:11:18,344 --> 01:11:27,006
+Following dilation, for most first-trimester aspiration procedures, an 8to 12-mm Karman cannula is appropriate.
+
+596
+01:11:27,006 --> 01:11:32,794
+Small cannulas carry the risks of a longer surgery and of missed intrauterine tissue.
+
+597
+01:11:32,794 --> 01:11:37,081
+Large cannulas risk cervical injury and more discomfort.
+
+598
+01:11:37,081 --> 01:11:43,256
+For evacuation, the cannula is slowly moved toward the fundus until resistance is met.
+
+599
+01:11:43,256 --> 01:11:45,744
+Suction is then activated.
+
+600
+01:11:45,744 --> 01:11:55,069
+The cannula is gradually pulled back toward the os and is simultaneously slowly turned circumferentially to cover the entire uterine cavity surface .
+
+601
+01:11:55,069 --> 01:11:58,894
+This is repeated until no more tissue is aspirated.
+
+602
+01:11:58,894 --> 01:12:04,106
+A gentle sharp curettage can follow to remove any remaining tissue fragments .
+
+603
+01:12:04,106 --> 01:12:12,606
+Strong and consistent evidence supports the high efficacy, safety, and patient acceptability for both MVA and EVA .
+
+604
+01:12:12,606 --> 01:12:15,069
+Figure 11-7.
+
+605
+01:12:15,069 --> 01:12:19,494
+A suction curette has been placed through the cervix into the uterus.
+
+606
+01:12:19,494 --> 01:12:23,994
+The figure shows the rotary motion used to aspirate the contents.
+
+607
+01:12:23,994 --> 01:12:35,044
+Figures 11-7 and 11-8: Reproduced with permission from Hoffman BL, Hamid CA, Corton MM: Surgeries for benign gynecologic disorders.
+
+608
+01:12:35,044 --> 01:12:42,631
+In Hoffman BL, Schorge JO, Halvorson LM, et al (eds): Williams Gynecology, 4th ed.
+
+609
+01:12:42,631 --> 01:12:46,556
+New York, McGraw Hill Education, 2020.
+
+610
+01:12:46,556 --> 01:12:48,819
+Figure 11-8.
+
+611
+01:12:48,819 --> 01:12:57,306
+A sharp curette is advanced into the uterine cavity while the instrument is held with the thumb and forefinger as shown in Figure 11-6.
+
+612
+01:12:57,306 --> 01:13:02,581
+Upon reaching the fundus, the curette is placed flush against the uterine wall.
+
+613
+01:13:02,581 --> 01:13:08,931
+Firm pressure against the wall as the instrument is dragged out will scrape away adhered tissue fragments.
+
+614
+01:13:08,931 --> 01:13:14,756
+With movement of the curette, only the strength of these two fingers should be used to help avoid
+
+615
+01:13:14,908 --> 01:13:16,708
+perforation.
+
+616
+01:13:16,658 --> 01:13:25,295
+For abortion done at ≤6 weeks’ gestation, a distinct drawback is that the pregnancy may be small and missed by the curette.
+
+617
+01:13:25,295 --> 01:13:36,195
+To identify placenta, the aspirated contents are rinsed in a strainer to remove blood, and then placed in a clear plastic container with saline and examined with back lighting .
+
+618
+01:13:36,195 --> 01:13:39,945
+Placental tissue macroscopically appears feathery.
+
+619
+01:13:39,945 --> 01:13:44,970
+A magnifying lens, colposcope, or microscope can augment viewing.
+
+620
+01:13:44,970 --> 01:13:50,345
+With gestations <6 weeks, the failed abortion rate approximates 2 percent .
+
+621
+01:13:50,345 --> 01:13:57,558
+Thus, if products are not clearly identified, serial serum β-hCG levels can be informative .
+
+622
+01:13:57,558 --> 01:14:11,495
+Abortion Complications Legally induced abortion in the United States has a low associated mortality rate, and from 2013 to 2017, the rate was 0.4 deaths in 100,000 procedures .
+
+623
+01:14:11,495 --> 01:14:13,908
+Early abortions are safer.
+
+624
+01:14:13,908 --> 01:14:28,445
+The mortality rate was 0.3 deaths in 100,000 procedures performed ≤8 weeks’ gestation but rose to 2.5 at 14 to 17 weeks and to 6.7 at ≥18 weeks .
+
+625
+01:14:28,445 --> 01:14:34,483
+Notably, maternal mortality rates are 14-fold greater for pregnancies that are continued .
+
+626
+01:14:34,483 --> 01:14:43,645
+Uterine perforation and lower-genital-tract laceration are uncommon but potentially serious, and rates also rise with gestational age.
+
+627
+01:14:43,645 --> 01:14:52,870
+In one systematic review of first-trimester abortion, the uterine perforation and laceration rates were each ≤1 percent .
+
+628
+01:14:52,870 --> 01:14:59,170
+Perforation is usually recognized when the instrument passes without resistance deep into the pelvis.
+
+629
+01:14:59,170 --> 01:15:12,870
+Risk factors include operator inexperience, prior cervical surgery or anomaly, adolescence, multiparity, and advanced gestational age (Allen, 2016; Grimes, 1984).
+
+630
+01:15:12,870 --> 01:15:24,333
+If the uterine perforation is small and fundal, as when produced by a uterine sound or narrow dilator, observation for vital sign changes or uterine bleeding is usually sufficient.
+
+631
+01:15:24,333 --> 01:15:32,608
+If a suction cannula or sharp curette passes into the peritoneal cavity, considerable intraabdominal damage can ensue.
+
+632
+01:15:32,608 --> 01:15:39,495
+Laparotomy or laparoscopy to thoroughly examine the abdominal contents is often the safest course.
+
+633
+01:15:39,495 --> 01:15:49,245
+After potential injuries are resolved, intraoperatively, curettage can be completed under the direct guidance provided by laparoscopy or laparotomy .
+
+634
+01:15:49,245 --> 01:15:56,608
+Following curettage, uterine synechiae may form, and the risk of synechiae increases with procedure number.
+
+635
+01:15:56,608 --> 01:16:01,295
+Most cases are mild and of unclear reproductive significance .
+
+636
+01:16:01,295 --> 01:16:09,058
+However, of Asherman syndrome cases, one series found that two thirds were linked to firsttrimester curettage .
+
+637
+01:16:09,058 --> 01:16:16,120
+Other first-trimester abortion complications are germane to both surgical and medication abortion techniques.
+
+638
+01:16:16,120 --> 01:16:20,070
+First, hemorrhage with abortion is variably defined.
+
+639
+01:16:20,070 --> 01:16:28,470
+One supported by the Society for Family Planning is bleeding that prompts a clinical response or bleeding in excess of 500 mL .
+
+640
+01:16:28,470 --> 01:16:34,958
+For first-trimester surgical abortions, hemorrhage complicates ≤1 percent .
+
+641
+01:16:34,958 --> 01:16:43,008
+Atony, abnormal placentation, and coagulopathy are frequent sources, whereas surgical trauma is a rare cause.
+
+642
+01:16:43,008 --> 01:16:46,745
+With medication abortion, bleeding is more common.
+
+643
+01:16:46,745 --> 01:17:02,858
+In one study of more than 42,000 Finnish women undergoing pregnancy termination with pregnancies less 63 days, hemorrhage complicated 15 percent of medication abortion but only 2 percent of surgical cases (Niinimäki, 2009).
+
+644
+01:17:02,858 --> 01:17:05,283
+Infection is another risk.
+
+645
+01:17:05,283 --> 01:17:14,458
+One review found a cumulative rate of 0.5 percent in those given prophylaxis compared with 2.6 percent in those given placebo .
+
+646
+01:17:14,458 --> 01:17:22,458
+In another review, the postoperative infection rate was <0.3 percent for either surgical or medication abortion .
+
+647
+01:17:22,458 --> 01:17:26,220
+Incomplete abortion may require reevacuation.
+
+648
+01:17:26,220 --> 01:17:31,595
+For medication abortion, this neared 5 percent in one systematic review .
+
+649
+01:17:31,595 --> 01:17:41,170
+Reaspiration rates following surgical abortion are typically <2 percent (Ireland, 2015; Niinimaki, 2009).
+
+650
+01:17:41,170 --> 01:17:52,220
+In sum, surgical abortion offers higher efficacy rates (96 to 100 percent) than medication abortion (83 to 98 percent) in the first trimester.
+
+651
+01:17:52,220 --> 01:17:59,320
+Medication abortion also carries a greater cumulative risk of complications, although differences are small .
+
+652
+01:17:59,320 --> 01:18:06,145
+These are balanced against the greater privacy of medication abortion and the more invasive steps of curettage.
+
+653
+01:18:06,145 --> 01:18:08,870
+# Medication Abortion.
+
+654
+01:18:08,870 --> 01:18:12,220
+Agents Used For many women, outpatient
+
+655
+01:18:12,388 --> 01:18:19,950
+medication abortion is an acceptable option for pregnancies with a menstrual age ≤70 days.
+
+656
+01:18:19,900 --> 01:18:25,688
+Although suitable at later gestational ages, successful evacuation rates are lower.
+
+657
+01:18:25,688 --> 01:18:35,625
+Among abortions performed at ≤9 weeks’ gestation, 39 percent were completed with medication in the United States in 2018 .
+
+658
+01:18:35,625 --> 01:18:42,263
+One regimen provides mifepristone plus misoprostol, but another provides misoprostol alone.
+
+659
+01:18:42,263 --> 01:18:50,113
+Of actions, mifepristone augments uterine contractility by reversing progesterone-induced myometrial quiescence.
+
+660
+01:18:50,113 --> 01:18:54,063
+Misoprostol directly stimulates the myometrium.
+
+661
+01:18:54,063 --> 01:19:00,538
+Both also ripen the cervix (Mahajan, 1997; Tang, 2007).
+
+662
+01:19:00,538 --> 01:19:06,300
+Contraindications have evolved from exclusion criteria that were used in clinical trials.
+
+663
+01:19:06,300 --> 01:19:23,913
+Cautions include suspected ectopic pregnancy; in-situ intrauterine device; severe anemia, coagulopathy, or anticoagulant use; longterm systemic corticosteroid therapy; chronic adrenal failure; inherited porphyria; or allergy to agents used .
+
+664
+01:19:23,913 --> 01:19:30,588
+Of note, misoprostol is suitable for early pregnancy failure in those with prior uterine surgery .
+
+665
+01:19:30,588 --> 01:19:40,025
+Misoprostol is a teratogen that is associated with transverse limb reduction or with the Mobius sequence, which is manifest by cranial nerve palsy.
+
+666
+01:19:40,025 --> 01:19:45,388
+Thus, a commitment to abortion completion is essential once this drug is given .
+
+667
+01:19:45,388 --> 01:19:54,850
+With mifepristone, for women who choose to continue their pregnancies after exposure, the ongoing pregnancy rate ranges from 10 to 46 percent .
+
+668
+01:19:54,850 --> 01:20:01,875
+The associated major malformation rate was 5 percent in one series of 46 exposed pregnancies .
+
+669
+01:20:01,875 --> 01:20:05,600
+Administration Several dosing schemes are effective .
+
+670
+01:20:05,600 --> 01:20:11,850
+Because of its greater efficacy, mifepristone plus misoprostol combinations are favored.
+
+671
+01:20:11,850 --> 01:20:21,788
+For gestations ≤70 days, the most widely accepted regimen is mifepristone, 200 mg given orally on day 0.
+
+672
+01:20:21,788 --> 01:20:31,200
+This is followed in 24 to 48 hours by an 800-μg misoprostol dose that is administered vaginally, buccally, or sublingually .
+
+673
+01:20:31,200 --> 01:20:34,600
+Oral ingestion has lower efficacy rates.
+
+674
+01:20:34,600 --> 01:20:40,000
+If desired, mifepristone and misoprostol may be self-administered at home .
+
+675
+01:20:40,000 --> 01:20:48,338
+Associated infection rates approximate 0.3 percent, and antibiotic prophylaxis is not currently recommended .
+
+676
+01:20:48,338 --> 01:20:50,800
+Table 11-6.
+
+677
+01:20:50,800 --> 01:21:01,538
+Various Regimens for Medical Termination of Pregnancy Symptoms following misoprostol are common within 3 hours and include vomiting, diarrhea, fever, and chills.
+
+678
+01:21:01,538 --> 01:21:07,725
+Bleeding and cramping with medication abortion typically is significantly worse than that with menses.
+
+679
+01:21:07,725 --> 01:21:10,963
+Thus, oral analgesics are provided.
+
+680
+01:21:10,963 --> 01:21:18,375
+If bleeding soaks two or more pads in an hour for at least 2 hours, the woman is instructed to contact her provider.
+
+681
+01:21:18,375 --> 01:21:25,938
+Reappointment is 1 to 2 weeks following drug administration, and bimanual pelvic examination is recommended.
+
+682
+01:21:25,938 --> 01:21:30,375
+Abortion completion may be assessed with β-hCG levels.
+
+683
+01:21:30,375 --> 01:21:36,950
+Expected rates of decline at 1 week can be extrapolated from Table 11-1 and can guide care.
+
+684
+01:21:36,950 --> 01:21:43,925
+However, specific β-hCG values lack suitable sensitivity (Rørbye, 2004).
+
+685
+01:21:43,925 --> 01:21:49,938
+Moreover, routine postabortal sonographic examination is typically unnecessary .
+
+686
+01:21:49,938 --> 01:21:54,863
+If done, it performs comparably to β-hCG level assessment .
+
+687
+01:21:54,863 --> 01:22:04,050
+If sonography is done due to concern for failed abortion or for bleeding, unnecessary surgery can be avoided if scans are interpreted appropriately.
+
+688
+01:22:04,050 --> 01:22:10,438
+If no gestational sac is seen and no heavy bleeding is noted, intervention is unnecessary.
+
+689
+01:22:10,438 --> 01:22:16,800
+This is true even when, as is common, the uterus contains sonographically evident debris .
+
+690
+01:22:16,800 --> 01:22:19,238
+Second-Trimester Methods.
+
+691
+01:22:19,238 --> 01:22:30,650
+In the second trimester, fetal anomaly or death, maternal health complications, inevitable abortion, or desired termination may be indications for uterine evacuation.
+
+692
+01:22:30,650 --> 01:22:35,550
+As in the first trimester, medication or surgery is an option.
+
+693
+01:22:35,550 --> 01:22:45,163
+In the second trimester, dilation and evacuation (D & E) rather than suction D & C is needed because of larger fetal size and bones.
+
+694
+01:22:45,163 --> 01:22:49,663
+Of options, D & E is a common means in the United States.
+
+695
+01:22:49,663 --> 01:22:58,563
+Of all induced abortions in 2018, nearly 8 percent were performed by D & E at gestational ages >13 weeks .
+
+696
+01:22:58,563 --> 01:23:07,200
+Many of the surgical and medication steps for second-trimester abortion mirror those in the first trimester, and differences are emphasized here.
+
+697
+01:23:07,200 --> 01:23:09,625
+# Dilation and
+
+698
+01:23:09,796 --> 01:23:11,708
+Evacuation.
+
+699
+01:23:11,658 --> 01:23:18,796
+Preparation With D & E, wide mechanical cervical dilation is needed for evacuation of fetal parts.
+
+700
+01:23:18,796 --> 01:23:28,121
+The degree needed rises with fetal gestational age, and inadequate dilation risks cervical trauma, uterine perforation, or tissue retention .
+
+701
+01:23:28,121 --> 01:23:37,671
+Thus, presurgical cervical preparation is advised, and main options include hygroscopic dilators or misoprostol (p. 209).
+
+702
+01:23:37,671 --> 01:23:43,158
+With laminaria, overnight preparation offers optimal cervical dilation .
+
+703
+01:23:43,158 --> 01:23:53,158
+Uncommonly, laminaria may fail to adequately dilate the cervix, and serial insertions over several days with an increasing number of tents is an option.
+
+704
+01:23:53,158 --> 01:23:55,808
+Dilapan-S also is suitable.
+
+705
+01:23:55,808 --> 01:24:03,096
+It may be preferable for same-day procedures, as this device achieves its maximal effect in 4 to 6 hours .
+
+706
+01:24:03,096 --> 01:24:13,683
+Supplementing laminaria with mifepristone can aid procedures for gestations >19 weeks (Diedrich, 2020; Goldberg, 2015).
+
+707
+01:24:13,683 --> 01:24:21,646
+In contrast, misoprostol supplementation to hygroscopic dilators failed to add benefits in one metaanalysis .
+
+708
+01:24:21,646 --> 01:24:30,508
+If a patient changes abortion plans after hygroscopic dilator removal, preterm delivery and PPROM rates are substantial.
+
+709
+01:24:30,508 --> 01:24:36,971
+In one series of 12 such cases, 50 percent ended with miscarriage or perinatal death .
+
+710
+01:24:36,971 --> 01:24:41,183
+Misoprostol alone can be used for cervical preparation.
+
+711
+01:24:41,183 --> 01:25:01,658
+The typical dose is 400 μg given vaginally or buccally 3 to 4 hours prior to D & E. Randomized trial results vary regarding the ability of misoprostol to achieve results equal to that with hydroscopic dilators (Bartz, 2013; Goldberg, 2005; Sagiv, 2015).
+
+712
+01:25:01,658 --> 01:25:15,221
+In women with one prior hysterotomy, the risk of uterine rupture was not elevated by misoprostol cervical ripening in one review but rose to 2.5 percent in those with ≥2 cesarean deliveries .
+
+713
+01:25:15,221 --> 01:25:20,433
+With mifepristone alone for cervical ripening, fewer studies provide data.
+
+714
+01:25:20,433 --> 01:25:26,246
+In one, mifepristone alone provided less dilation than hydroscopic dilators .
+
+715
+01:25:26,246 --> 01:25:35,358
+In another trial, mifepristone given 48 hours before misoprostol created greater cervical dilation compared with misoprostol alone .
+
+716
+01:25:35,358 --> 01:25:50,121
+In sum, hygroscopic dilators soften and dilate the cervix before D & E. Sequential insertions or layering agents may be most helpful for later gestations or for an inadequate response to initial hygroscopic dilators alone.
+
+717
+01:25:50,121 --> 01:25:54,208
+Yet, layering adds cost and potential side effects.
+
+718
+01:25:54,208 --> 01:26:01,033
+With elective abortion, some choose to induce fetal demise prior to D & E to avert a live birth.
+
+719
+01:26:01,033 --> 01:26:11,408
+For this, an intracardiac potassium chloride or lidocaine injection or an intraamnionic or intrafetal digoxin injection is used prior to cervical ripening .
+
+720
+01:26:11,408 --> 01:26:19,271
+Technique During D & E, sonography can be used as an adjunct in all cases or selectively in more challenging ones.
+
+721
+01:26:19,271 --> 01:26:26,508
+Perioperative antibiotic prophylaxis mirrors that for first-trimester procedures (p. 209).
+
+722
+01:26:26,508 --> 01:26:38,308
+To reduce postprocedure bleeding, dilute vasopressin can be injected intracervically or as part of a paracervical block (Kerns, 2013; Schulz, 1985).
+
+723
+01:26:38,308 --> 01:26:49,033
+Once adequate cervical dilation is achieved, the initial surgical step drains amnionic fluid with an 11- to 16-mm suction cannula or with amniotomy.
+
+724
+01:26:49,033 --> 01:27:00,271
+This reduces the risk of amnionic fluid embolism and brings the fetus into the lower uterine segment for removal (Owen, 2017; Prager, 2009).
+
+725
+01:27:00,271 --> 01:27:09,958
+For pregnancies >16 weeks’ gestation, the fetus is extracted, often in parts, using Sopher forceps or other destructive instruments.
+
+726
+01:27:09,958 --> 01:27:16,108
+With complete removal of the fetus, a large-bore vacuum curette is used to remove the placenta.
+
+727
+01:27:16,108 --> 01:27:27,158
+Major complications are infrequent with D & E, and rates range from 1 to 2 percent in large series (Lederle, 2015; Peterson, 1983).
+
+728
+01:27:27,158 --> 01:27:34,333
+These include uterine perforation, cervical laceration, uterine bleeding, and postabortal infection.
+
+729
+01:27:34,333 --> 01:27:43,658
+Prior cesarean delivery is not a contraindication for D & E and may be preferred over prostaglandins for those with multiple prior hysterotomies .
+
+730
+01:27:43,658 --> 01:27:51,708
+Other Surgical Considerations Placenta previa or the placenta accreta syndrome (PAS) can raise D & E risks.
+
+731
+01:27:51,708 --> 01:27:56,008
+Once diagnosed, PAS typically prompts hysterectomy .
+
+732
+01:27:56,008 --> 01:28:05,371
+For placenta previa, D & E is preferred to quickly evacuate the placenta, but the ability to transfuse blood products and perform possible
+
+733
+01:28:05,524 --> 01:28:15,111
+hysterectomy must be available (American College of Obstetricians and Gynecologists, 2019f; Perriera, 2017).
+
+734
+01:28:15,061 --> 01:28:21,286
+Medication abortion may be elected, but the risk for transfusion is greater than with D & E .
+
+735
+01:28:21,286 --> 01:28:28,211
+Data are conflicting regarding the value of predelivery uterine artery embolization to lessen bleeding risks .
+
+736
+01:28:28,211 --> 01:28:34,649
+In some cases of failed second-trimester medication abortion, hysterotomy may be considered.
+
+737
+01:28:34,649 --> 01:28:44,174
+In other cases, if comorbid uterine pathology is significant, such as numerous large myomas, hysterectomy may provide ideal treatment.
+
+738
+01:28:44,174 --> 01:28:50,174
+Some women with second-trimester pregnancies desire sterilization following evacuation.
+
+739
+01:28:50,174 --> 01:28:58,449
+Because the contracted uterine fundus will lie lower, any laparotomy incision must be placed to allow fallopian tube access.
+
+740
+01:28:58,449 --> 01:29:01,174
+# Medication Abortion.
+
+741
+01:29:01,174 --> 01:29:08,024
+Principal among noninvasive methods is a mifepristone plus misoprostol regimen or misoprostol alone .
+
+742
+01:29:08,024 --> 01:29:16,924
+Of these two options, the combined regimen yields a shorter termination duration (Kapp, 2007; Ngoc, 2011).
+
+743
+01:29:16,924 --> 01:29:26,211
+Hygroscopic dilators may speed the time to delivery with this combined regimen (Mazouni, 2009; Vincienne, 2018).
+
+744
+01:29:26,211 --> 01:29:34,774
+In selecting misoprostol routes, oral administration leads to a longer time to delivery compared with vaginal or sublingual routes .
+
+745
+01:29:34,774 --> 01:29:41,986
+Prophylactic antibiotics are not typically given, and infection surveillance during labor is instead applied .
+
+746
+01:29:41,986 --> 01:29:53,199
+Another induction agent, PGE2, shows similar efficacy and side effects compared with misoprostol (Jain, 1994; Jansen, 2008).
+
+747
+01:29:53,199 --> 01:30:07,986
+Simultaneous administration of an antiemetic such as metoclopramide (Reglan), an antipyretic such as acetaminophen, and an antidiarrheal such as diphenoxylate/atropine (Lomotil) will help prevent or treat symptoms.
+
+748
+01:30:07,986 --> 01:30:13,661
+Dinoprostone (Prostin) is an available PGE2 in the United States.
+
+749
+01:30:13,661 --> 01:30:21,374
+However, its greater cost and poor pharmacologic stability at room temperature may make it less attractive than misoprostol.
+
+750
+01:30:21,374 --> 01:30:30,699
+During medication abortion, the uterine rupture rate is 0.4 percent with misoprostol and one prior low transverse cesarean delivery .
+
+751
+01:30:30,699 --> 01:30:39,324
+Both misoprostol and PGE2 appear to pose similar risk (le Roux, 2001; Reichman, 2007).
+
+752
+01:30:39,324 --> 01:30:46,386
+Few data guide their use for medication abortion in those with ≥2 prior cesarean deliveries.
+
+753
+01:30:46,386 --> 01:30:55,424
+Of other agents, high-dose intravenous oxytocin in saline will result in second-trimester abortion in 80 to 90 percent of cases .
+
+754
+01:30:55,424 --> 01:31:02,936
+However, by comparison, misoprostol leads to higher successful induction rates and faster delivery times .
+
+755
+01:31:02,936 --> 01:31:12,686
+Rarely used in the United States, ethacridine lactate is an organic antiseptic that activates myometrial mast cells to release prostaglandins .
+
+756
+01:31:12,686 --> 01:31:21,424
+The solution is instilled either intraamnionically or extraovularly, that is, into the potential space between the uterine wall and amnion.
+
+757
+01:31:21,424 --> 01:31:27,999
+Compared with misoprostol, it is associated with longer times to delivery and lower success rates .
+
+758
+01:31:27,999 --> 01:31:31,474
+# Fetal and Placental Evaluation.
+
+759
+01:31:31,474 --> 01:31:40,499
+For second-trimester pregnancies being terminated for maternal health or fetal indications, either D & E or medication abortion is suitable.
+
+760
+01:31:40,499 --> 01:31:45,499
+Thus, patient input and clinical indication both guide selection.
+
+761
+01:31:45,499 --> 01:31:50,261
+Perinatal palliative care can be instituted (p. 203) .
+
+762
+01:31:50,261 --> 01:31:56,911
+Evaluation of a stillborn fetus is described in Chapter 35 (p. 626).
+
+763
+01:31:56,911 --> 01:32:08,024
+One component is autopsy, which can also be valuable for second-trimester terminations due to anomalies (Hauerberg, 2012; Man, 2016).
+
+764
+01:32:08,024 --> 01:32:13,724
+Fragmented D & E specimens may provide less information than intact fetuses .
+
+765
+01:32:13,724 --> 01:32:16,624
+Elective Abortion Consequences.
+
+766
+01:32:16,624 --> 01:32:22,936
+Data relating abortion to overall maternal health and to subsequent pregnancy outcome are limited.
+
+767
+01:32:22,936 --> 01:32:31,174
+Rates of infertility or ectopic pregnancy are not increased (Burkman, 1988; Frank, 1993).
+
+768
+01:32:31,174 --> 01:32:37,549
+Exceptions may stem from postabortal infections, especially those caused by C trachomatis.
+
+769
+01:32:37,549 --> 01:32:52,286
+Of subsequent adverse pregnancy outcomes, several studies note an approximate 1.5-fold greater incidence of preterm delivery following surgical evacuation (Lemmers, 2016; Saccone, 2016).
+
+770
+01:32:52,286 --> 01:32:55,886
+This risk accrues with the number of terminations .
+
+771
+01:32:55,886 --> 01:33:06,049
+Subsequent pregnancy outcomes are similar if a prior induced abortion was completed with medication or by surgery (Männistö, 2013; Virk,
+
+772
+01:33:06,220 --> 01:33:09,957
+2007). Postabortal Contraception.
+
+773
+01:33:09,907 --> 01:33:20,307
+After early abortion, woman may ovulate after 8 days, but the average is 3 weeks (Lahteenmaki, 1978; Stoddard, 2011).
+
+774
+01:33:20,307 --> 01:33:29,295
+Unless another pregnancy is imminently desired, contraception, either hormonal or nonhormonal, can be started immediately after abortion .
+
+775
+01:33:29,295 --> 01:33:44,670
+In candidates, defined in Chapter 38 (p. 667), an intrauterine device can be inserted immediately after surgery or medication abortion is completed (Bednarek, 2011; Korjamo, 2017).
+
+776
+01:33:44,670 --> 01:33:49,745
+For women who desire another pregnancy, conception need not be delayed.
+
+777
+01:33:49,745 --> 01:33:59,407
+From studies, groups conceiving within 3 months of a first-trimester loss had lower subsequent miscarriage rates compared with groups with later conceptions .
+
