@@ -1,0 +1,1732 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:06,037
+Chapter 29: Operative Vaginal Delivery.
+
+3
+00:00:06,037 --> 00:00:21,087
+Incidence And Indications Classification And Prerequisites Morbidity Forceps Delivery Vacuum-Assisted Delivery Training References Operative vaginal delivery (OVD) is birth accomplished with assistance from forceps or a vacuum-cup device.
+
+4
+00:00:21,087 --> 00:00:28,812
+Once these are applied to the fetal head, outward traction generates forces that augment maternal pushing to deliver the fetus.
+
+5
+00:00:28,812 --> 00:00:31,325
+Incidence And Indications.
+
+6
+00:00:31,325 --> 00:00:40,812
+From national data, forceps or vacuum-assisted vaginal delivery aided 3.1 percent of births in the United States in 2015.
+
+7
+00:00:40,812 --> 00:00:44,600
+This is a decline from 9 percent in 1990 .
+
+8
+00:00:44,600 --> 00:00:53,050
+For these procedures, a vacuum is disproportionately selected, and the vacuum-to-forceps delivery ratio approximates 4:1 .
+
+9
+00:00:53,050 --> 00:00:57,612
+Most of these procedures are successful in effecting vaginal birth.
+
+10
+00:00:57,612 --> 00:01:09,000
+From 2006 United States data, only 0.4 percent of forceps trials and 0.8 percent of vacuum extraction attempts failed to result in vaginal birth .
+
+11
+00:01:09,000 --> 00:01:21,187
+In the specific group of nulliparas with term gestations, higher failure rates of 4.4 and 6.4 percent, respectively, were found in a study of 25 academic hospitals .
+
+12
+00:01:21,187 --> 00:01:31,912
+If technically safe, termination of second-stage labor by OVD is considered for any condition that threatens the mother or fetus and that is likely to be relieved by delivery.
+
+13
+00:01:31,912 --> 00:01:38,350
+Of maternal indications, the most common are maternal exhaustion and prolonged second-stage labor.
+
+14
+00:01:38,350 --> 00:01:46,475
+However, a specific, maximum second-stage length beyond which all women should be considered for OVD has not been defined .
+
+15
+00:01:46,475 --> 00:01:54,225
+Other maternal reasons are preexisting or intrapartum conditions that limit effective pushing or warrant expedited delivery.
+
+16
+00:01:54,225 --> 00:02:04,487
+Severe or acute pulmonary compromise, decompensation from intrapartum infection, neurological disease, and serious cardiac disorders are examples.
+
+17
+00:02:04,487 --> 00:02:11,312
+Frequent fetal indications include nonreassuring fetal heart rate and premature placental separation .
+
+18
+00:02:11,312 --> 00:02:14,337
+Classification And Prerequisites.
+
+19
+00:02:14,337 --> 00:02:19,300
+Classification of OVD is summarized in Table 29-1.
+
+20
+00:02:19,300 --> 00:02:26,550
+It emphasizes that station and rotation are the two most important discriminators of risk for both mother and neonate.
+
+21
+00:02:26,550 --> 00:02:36,062
+Station is measured by the number of centimeters, either above or below, an anatomical zero station, which is a line drawn between the ischial spines.
+
+22
+00:02:36,062 --> 00:02:40,262
+Stations range from –5 to 0 to +5.
+
+23
+00:02:40,262 --> 00:02:47,250
+Procedures are categorized as outlet, low, and midpelvic, and most are low or outlet deliveries.
+
+24
+00:02:47,250 --> 00:02:54,112
+High forceps, in which instruments are applied above 0 station, have no place in current obstetrics.
+
+25
+00:02:54,112 --> 00:02:56,662
+Table 29-1.
+
+26
+00:02:56,662 --> 00:03:11,725
+Operative Vaginal Delivery Prerequisites and Classification According to Station and Rotationa To aid patient selection, the Society for Maternal–Fetal Medicine (2020) published a preprocedural checklist and documentation template.
+
+27
+00:03:11,725 --> 00:03:18,612
+Once station and rotation are determined, the prerequisites listed in Table 29-1 are assessed.
+
+28
+00:03:18,612 --> 00:03:30,137
+For vacuum extraction, fetuses ideally are not younger than 34 weeks’ gestation because of cranial hemorrhage vulnerability at earlier ages (Åberg, 2014).
+
+29
+00:03:30,137 --> 00:03:39,150
+Also prior to vacuum use, although infrequently used in the United States, fetal scalp blood sampling should not have been recently performed.
+
+30
+00:03:39,150 --> 00:03:45,412
+Of requisites, ascertaining correct head position is essential, and Figure 29-1.
+
+31
+00:03:45,412 --> 00:03:47,937
+shows fetal skull anatomy.
+
+32
+00:03:47,937 --> 00:03:55,050
+In unclear cases, sonography can help identify fetal orbits and nasal bridge to aid orientation .
+
+33
+00:03:55,050 --> 00:03:57,625
+Figure 29-1.
+
+34
+00:03:57,625 --> 00:04:04,087
+Fetal head (A–B) at term showing fontanels, sutures, and various dimensions.
+
+35
+00:04:04,087 --> 00:04:09,075
+Regional analgesia is preferable for low or midpelvic procedures.
+
+36
+00:04:09,075 --> 00:04:13,400
+Pudendal blockade may prove adequate for outlet deliveries.
+
+37
+00:04:13,400 --> 00:04:24,375
+As a causative factor, newer epidural methods or placement during early labor do not raise OVD rates (Anim-Somuahm, 2018; Liu, 2004).
+
+38
+00:04:24,375 --> 00:04:29,787
+The bladder is emptied to provide additional pelvic space and minimize bladder trauma.
+
+39
+00:04:29,787 --> 00:04:39,550
+Urinary retention and bladder dysfunction are frequent shortterm effects of OVD (Mulder, 2012; Pifarotti, 2014).
+
+40
+00:04:39,550 --> 00:04:48,450
+Notably, episiotomy and epidural analgesia, both common associates of OVD, also are risks for urinary retention.
+
+41
+00:04:48,450 --> 00:04:54,900
+Retention usually resolves after 24 to 48 hours of passive catheter bladder drainage .
+
+42
+00:04:55,060 --> 00:04:56,797
+Morbidity.
+
+43
+00:04:56,747 --> 00:04:59,360
+# Maternal Morbidity.
+
+44
+00:04:59,360 --> 00:05:04,910
+OVD carries increased risk of certain morbidities for both mother and fetus.
+
+45
+00:05:04,910 --> 00:05:12,085
+In general, a higher station and greater degrees of rotation raise procedure difficulty and the chance of injury.
+
+46
+00:05:12,085 --> 00:05:19,322
+Morbidity is most properly compared with morbidity from cesarean delivery and not with that from spontaneous birth.
+
+47
+00:05:19,322 --> 00:05:26,210
+This is the most appropriate comparator because the alternative to indicated OVD is cesarean delivery.
+
+48
+00:05:26,210 --> 00:05:37,185
+Lacerations The very indications that prompt OVD are among those that also increase the need for episiotomy and the likelihood of lacerations (de Leeuw, 2008).
+
+49
+00:05:37,185 --> 00:05:55,660
+That said, higher rates of third- and fourth-degree perineal lacerations, vaginal wall lacerations, and less often cervical tears do complicate OVD compared with spontaneous birth (Friedman, 2015; Gurol-Urganci, 2013; Landy, 2011).
+
+50
+00:05:55,660 --> 00:06:01,122
+These rates with OVD are also substantially higher than with cesarean delivery.
+
+51
+00:06:01,122 --> 00:06:07,922
+Third- and fourth-degree perineal lacerations are grouped as obstetrical anal sphincter injuries (OASIS).
+
+52
+00:06:07,922 --> 00:06:20,947
+In general, these tears more frequently attend forceps delivery compared with vacuum extraction, and especially if an episiotomy is midline (Kudish, 2006; O’Mahony, 2010).
+
+53
+00:06:20,947 --> 00:06:26,585
+With OVD, indicated episiotomy rather than routine use is recommended.
+
+54
+00:06:26,585 --> 00:06:40,622
+If required, a mediolateral episiotomy affords greater protection against OASIS than midline incision (Gurol-Urganci, 2013; Jangö, 2014; van Bavel, 2018).
+
+55
+00:06:40,622 --> 00:06:47,572
+But, short-term rates of pain and dyspareunia are similar or increased with mediolateral episiotomy .
+
+56
+00:06:47,572 --> 00:06:57,272
+As another OASIS protection, early forceps disarticulation and removal can avoid the full perineal distention created by the blades and crowning head.
+
+57
+00:06:57,272 --> 00:07:07,710
+Moreover, cessation of maternal pushing during disarticulation or as the head begins to crown allows the clinician sole control of outward forces against the perineum.
+
+58
+00:07:07,710 --> 00:07:15,272
+Similarly, adding a dedicated assistant to bolster the perineum can lower OASIS rates, and this is our practice .
+
+59
+00:07:15,272 --> 00:07:20,935
+Last, OASIS are more common with an occiput posterior (OP) position .
+
+60
+00:07:20,935 --> 00:07:29,935
+Thus, manual or forceps rotation to an occiput anterior (OA) position may lower rates of lower reproductive tract injury .
+
+61
+00:07:29,935 --> 00:07:41,535
+Infection and Subsequent-pregnancy Morbidity As detailed in Chapter 30 (p. 548), cesarean delivery carries greater maternal morbidity compared with spontaneous birth.
+
+62
+00:07:41,535 --> 00:07:51,047
+For OVD, in one study of more than 1 million births, cesarean delivery, but not OVD, was a risk for peripartum hysterectomy .
+
+63
+00:07:51,047 --> 00:08:04,497
+Further, avoiding cesarean delivery can minimize rates of subsequent pregnancy complications, such as placenta previa, placenta accreta spectrum, uterine rupture, and adhesionrelated surgical organ injury.
+
+64
+00:08:04,497 --> 00:08:16,397
+In addition, postpartum wound or uterine infection is more frequent in women following cesarean compared with OVD (Bailit, 2016; Halscott, 2015).
+
+65
+00:08:16,397 --> 00:08:32,122
+Still, to address peripartum infection, investigators in the ANODE trial randomly assigned nearly 3500 gravidas undergoing OVD to receive either placebo or a single intravenous dose of amoxicillin plus clavulanic acid .
+
+66
+00:08:32,122 --> 00:08:40,447
+The puerperal infection rate was 11 percent after antibiotic prophylaxis compared with 19 percent in those given placebo.
+
+67
+00:08:40,447 --> 00:08:50,310
+Notably, these infections often coincide with long labors and multiple cervical examinations, both of which are common with women requiring OVD.
+
+68
+00:08:50,310 --> 00:08:58,847
+Thus, we believe that provision of antibiotics to those undergoing OVD without other infection-related risks warrants further study.
+
+69
+00:08:58,847 --> 00:09:12,397
+Indeed, the American College of Obstetricians and Gynecologists (2020a) notes that this prophylaxis is reasonable but recommends against routine antibiotic prophylaxis for all women undergoing OVD.
+
+70
+00:09:12,397 --> 00:09:21,647
+However, the College (2020b) does note that a single antibiotic dose with third- and fourth-degree perineal laceration is reasonable.
+
+71
+00:09:21,647 --> 00:09:30,447
+Several studies support this practice (Duggal, 2008; Lewicky-Gaupp, 2015; Stock, 2013a).
+
+72
+00:09:30,447 --> 00:09:38,710
+Pelvic Floor Disorders This term encompasses urinary incontinence, anal incontinence, and pelvic organ prolapse (POP).
+
+73
+00:09:38,710 --> 00:09:42,897
+OVD has been implicated as a possible risk for each.
+
+74
+00:09:42,897 --> 00:09:48,360
+Proposed mechanisms include structural compromise or pelvic floor denervation
+
+75
+00:09:48,508 --> 00:09:52,045
+secondary to forces exerted during delivery.
+
+76
+00:09:51,995 --> 00:10:02,183
+For urinary incontinence, parity and specifically vaginal delivery are risk factors (Gyhagen, 2013; Rortveit, 2003).
+
+77
+00:10:02,183 --> 00:10:15,470
+But, many studies do not support a higher risk from OVD compared with the risk from vaginal birth alone (Gartland, 2016; Leijonhufvud, 2011; MacArthur, 2016).
+
+78
+00:10:15,470 --> 00:10:19,958
+Evidence linking anal incontinence with OVD is conflicting.
+
+79
+00:10:19,958 --> 00:10:31,358
+Some studies show that OASIS, but not delivery mode, is the main etiological link (Bols, 2010; Evers, 2012; Nygaard, 1997).
+
+80
+00:10:31,358 --> 00:10:40,433
+In contrast, others directly associate OVD with anal incontinence (Dolan, 2010; MacArthur, 2013).
+
+81
+00:10:40,433 --> 00:10:47,708
+But, these studies may not be incongruous—recall that OVD is associated with increased rates of OASIS.
+
+82
+00:10:47,708 --> 00:10:55,983
+Importantly, several studies and reviews have not found cesarean delivery to be protective long term against anal incontinence .
+
+83
+00:10:55,983 --> 00:11:04,795
+Similarly for POP, evidence linking it to OVD is mixed (Gyhagen, 2013; Volløyhaug, 2015).
+
+84
+00:11:04,795 --> 00:11:10,758
+First, pelvic floor mechanisms leading to POP are complex and incompletely defined .
+
+85
+00:11:10,758 --> 00:11:28,145
+Despite this, obstetrical avulsion of the levator ani muscle from the pelvic sidewall has been implicated, and OVD, especially forceps delivery, is one risk for this injury (DeLancey, 2007; Dietz, 2008; Friedman, 2019).
+
+86
+00:11:28,145 --> 00:11:39,420
+Again, the pelvic floor injury rather OVD itself may be the causative agent, as those with OVD but no avulsion did not suffer greater POP rates in one recent analysis .
+
+87
+00:11:39,420 --> 00:11:42,158
+# Perinatal Morbidity.
+
+88
+00:11:42,158 --> 00:11:49,795
+Acute Perinatal Injury OVD carries higher risk for fetal injury than cesarean delivery or spontaneous birth.
+
+89
+00:11:49,795 --> 00:12:02,820
+Both OVD methods are implicated, and factors can include delivery duration and the number of pulls or cup pop-offs (Åberg, 2019; Levin, 2019; Miller, 2020).
+
+90
+00:12:02,820 --> 00:12:18,345
+Injuries are more frequent with vacuum extraction, and injuries with this device include cephalohematoma, subgaleal hemorrhage, retinal hemorrhage, neonatal jaundice secondary to these hemorrhages, clavicular fracture, and scalp lacerations.
+
+91
+00:12:18,345 --> 00:12:27,233
+Cephalohematoma and subgaleal hemorrhage are both extracranial lesions illustrated in Figure 33-2 (p. 608).
+
+92
+00:12:27,233 --> 00:12:32,983
+Shoulder dystocia has been linked to both methods (Dall’Asta, 2016).
+
+93
+00:12:32,983 --> 00:12:50,170
+Forceps delivery has higher rates of facial nerve injury, brachial plexus injury, depressed skull fracture, and corneal abrasion (American College of Obstetricians and Gynecologists, 2020a; Demissie, 2004; Dupuis, 2005).
+
+94
+00:12:50,170 --> 00:13:05,133
+With intracranial hemorrhage, some studies have associated vacuum extraction with higher rates, whereas others show similar rates with either OVD method (Towner, 1999; Wen, 2001; Werner, 2011).
+
+95
+00:13:05,133 --> 00:13:15,895
+Compared with cesarean delivery, OVD carries higher risk of extracranial hematomas, fractures, nerve injuries, retinal hemorrhage, and head lacerations.
+
+96
+00:13:15,895 --> 00:13:30,795
+However, rates of fetal acidemia or hypoxic encephalopathy are not higher with OVD compared with second-stage cesarean delivery (Bailit, 2016; Contag, 2010; Walsh, 2013).
+
+97
+00:13:30,795 --> 00:13:39,483
+Intracranial hemorrhage rates are similar among newborns delivered by vacuum extraction, forceps, or cesarean delivery during labor .
+
+98
+00:13:39,483 --> 00:13:47,420
+But, intracranial hemorrhage rates are higher than among those delivered spontaneously or by cesarean delivery before labor.
+
+99
+00:13:47,420 --> 00:13:53,495
+These authors suggest that the common risk factor for intracranial hemorrhage is abnormal labor.
+
+100
+00:13:53,495 --> 00:14:14,433
+Werner and associates (2011), in their evaluation of more than 150,000 singleton deliveries, reported that forceps delivery was associated with fewer total neurological complications that included seizures, intraventricular hemorrhage, and subdural hemorrhage compared with vacuum-assisted birth or any cesarean delivery.
+
+101
+00:14:14,433 --> 00:14:27,945
+Compared with rotational OVD, second-stage cesarean delivery has similar maternal and neonatal morbidity rates (Aiken, 2015; Bahl, 2013; Stock, 2013b).
+
+102
+00:14:27,945 --> 00:14:44,845
+For example, in their large series, Tempest and associates (2013) found similar morbidity rates among malpositioned fetuses during second-stage labor that underwent Kielland rotation, rotational vacuum extraction, or emergency cesarean delivery.
+
+103
+00:14:44,845 --> 00:14:49,233
+Midforceps by definition are performed from a higher station.
+
+104
+00:14:49,233 --> 00:14:55,995
+The bulk of data are from older studies, and most show comparable neonatal morbidity between low and
+
+105
+00:14:56,164 --> 00:15:02,514
+midforceps procedures (Dierker, 1985; Gilstrap, 1984).
+
+106
+00:15:02,464 --> 00:15:12,926
+In a recent report also comparing these two, Ducarme and coworkers (2015) found comparable neonatal and maternal composite morbidity scores.
+
+107
+00:15:12,926 --> 00:15:26,101
+Comparing midpelvic OVD and second-stage cesarean delivery, most studies support neonatal safety (Bashore, 1990; Cibils, 1990; HagadornFreathy, 1991).
+
+108
+00:15:26,101 --> 00:15:33,389
+But, others have found increased rates of trauma and umbilical cord blood acidemia with midforceps delivery .
+
+109
+00:15:33,389 --> 00:15:42,339
+More recently, Muraca and associates (2018) compared midpelvic OVD methods against second-stage cesarean delivery.
+
+110
+00:15:42,339 --> 00:15:48,976
+For the indication of dystocia, fetal and maternal morbidity composite scores were higher with OVD.
+
+111
+00:15:48,976 --> 00:16:00,551
+With distress as the indication, the neonatal morbidity score was greater only with midpelvic vacuum-assisted OVD, whereas the maternal morbidity score was higher only with midforceps.
+
+112
+00:16:00,551 --> 00:16:13,264
+In another study comparing both midpelvic OVD methods, maternal morbidity was greater with forceps, and neonatal morbidity differed only in a higher cephalohematoma rate with vacuum-assisted delivery .
+
+113
+00:16:13,264 --> 00:16:20,489
+Mechanisms of Acute Injury The types of fetal injury with OVD can usually be explained by the forces exerted.
+
+114
+00:16:20,489 --> 00:16:30,114
+In cases of cephalohematoma or subgaleal hemorrhage, suction and perhaps rotation during vacuum extraction may lead to a primary vessel shearing.
+
+115
+00:16:30,114 --> 00:16:38,226
+Intracranial hemorrhage may result from skull fracture that lacerates vessels or from vessel rupture alone due to exerted forces.
+
+116
+00:16:38,226 --> 00:16:44,376
+With facial nerve palsy, one of the forceps blades compresses the nerve against the facial bones.
+
+117
+00:16:44,376 --> 00:16:56,001
+To explain brachial plexus injury, Towner and Ciotti (2007) proposed that as the fetal head descends down the birth canal, the shoulders may stay above the pelvic inlet.
+
+118
+00:16:56,001 --> 00:17:07,089
+Thus, similar to shoulder dystocia at the symphysis, this “shoulder dystocia at the pelvic inlet” is overcome by traction forces but with concomitant stretch on the brachial plexus.
+
+119
+00:17:07,089 --> 00:17:19,201
+Long-term Infant Morbidity Evidence regarding long-term neurodevelopmental outcomes in children born by OVD is reassuring (Seidman, 1991; Wesley, 1992).
+
+120
+00:17:19,201 --> 00:17:27,989
+Moreover, no association between forceps delivery and later epilepsy was found in a cohort study of more than 21,000 births .
+
+121
+00:17:27,989 --> 00:17:35,964
+In their review, O’Callaghan and colleagues (2011) reported no link between cerebral palsy and OVD.
+
+122
+00:17:35,964 --> 00:17:48,964
+Last, the incidence of neurodevelopmental morbidity was similar in those undergoing successful forceps delivery, failed forceps with cesarean delivery, or cesarean delivery without forceps in one study .
+
+123
+00:17:48,964 --> 00:18:03,064
+Similarly, with midpelvic OVD, long-term neurodevelopment is not harmed in most analyses (Dierker, 1986; Friedman, 1984; Nilsen, 1984; Wesley, 1993).
+
+124
+00:18:03,064 --> 00:18:11,101
+Trial of Operative Vaginal Delivery If an attempt to perform OVD is expected to be difficult, it should be considered a trial.
+
+125
+00:18:11,101 --> 00:18:19,826
+Moving the woman to an operating room for this attempt, which could be followed by immediate cesarean delivery if OVD fails, has merit.
+
+126
+00:18:19,826 --> 00:18:24,901
+If forceps cannot be satisfactorily applied, the procedure is stopped.
+
+127
+00:18:24,901 --> 00:18:30,489
+Either a trial of vacuum-assisted delivery or cesarean delivery is then performed.
+
+128
+00:18:30,489 --> 00:18:37,876
+With the former, if the fetus does not descend with traction, the trial should be abandoned and cesarean delivery performed.
+
+129
+00:18:37,876 --> 00:18:48,051
+With such caveats, cesarean delivery after an OVD attempt was not associated with adverse neonatal outcomes if the fetal heart rate was concurrently reassuring .
+
+130
+00:18:48,051 --> 00:18:57,439
+A similar study evaluated 122 women who had a trial of midpelvic OVD in a setting with full preparations for cesarean delivery .
+
+131
+00:18:57,439 --> 00:19:09,289
+Investigators found no significant difference in immediate neonatal or maternal morbidity compared with that of 42 women delivered for similar indications by cesarean but without such a trial.
+
+132
+00:19:09,289 --> 00:19:20,764
+Conversely, in 61 women who had “unexpected” vacuum or forceps failure in which there was no prior preparation for immediate cesarean delivery, neonatal morbidity was higher.
+
+133
+00:19:20,764 --> 00:19:32,751
+Some factors associated with OVD failure are persistent OP positions and birthweight >4000 g (Ben-Haroush, 2007; Verhoeven, 2016).
+
+134
+00:19:32,751 --> 00:19:40,176
+However, Palatnik and coworkers (2016) found that risk factors poorly predicted success.
+
+135
+00:19:40,176 --> 00:19:43,051
+In general, to avert morbidity
+
+136
+00:19:43,204 --> 00:19:55,829
+with failed OVD, the American College of Obstetricians and Gynecologists (2020a) cautions that these trials should be attempted only if the clinical assessment suggests a successful outcome.
+
+137
+00:19:55,779 --> 00:19:58,704
+We also emphasize proper training.
+
+138
+00:19:58,704 --> 00:20:06,066
+Sequential instrumentation most often involves an attempt at vacuumassisted OVD followed by one with forceps.
+
+139
+00:20:06,066 --> 00:20:11,254
+This sequence likely reflects the overall higher completion rate with forceps.
+
+140
+00:20:11,254 --> 00:20:21,591
+However, this practice significantly raises fetal trauma risks (Dupuis, 2005; Gardella, 2001; Murphy, 2011).
+
+141
+00:20:21,591 --> 00:20:32,754
+The American College of Obstetricians and Gynecologists (2020a) recommends against the sequential use of instruments unless there is a “compelling and justifiable reason.
+
+142
+00:20:32,754 --> 00:20:34,766
+Forceps Delivery.
+
+143
+00:20:34,766 --> 00:20:36,816
+# Design.
+
+144
+00:20:36,816 --> 00:20:42,404
+Forceps refers to the paired instrument, and each member of this pair is called a branch.
+
+145
+00:20:42,404 --> 00:20:50,816
+Branches are designated left or right according to the side of the maternal pelvis to which they are applied (Fig. 29-2A).
+
+146
+00:20:50,816 --> 00:20:58,004
+Each branch has four components: blade, shank, lock, and handle (see Fig. 29-2B).
+
+147
+00:20:58,004 --> 00:21:01,866
+Each blade has a toe, a heel, and two curves.
+
+148
+00:21:01,866 --> 00:21:10,679
+Of these, the outward cephalic curve conforms to the round fetal head, whereas the upward pelvic curve corresponds to the curve of the birth canal.
+
+149
+00:21:10,679 --> 00:21:15,016
+Some blades are solid, meaning smooth on both surfaces.
+
+150
+00:21:15,016 --> 00:21:22,941
+Others have an opening within or a depression along the blade surface and are termed fenestrated or pseudofenestrated, respectively.
+
+151
+00:21:22,941 --> 00:21:29,254
+A true window in the blade reduces the degree of head slippage within the blades during forceps rotation.
+
+152
+00:21:29,254 --> 00:21:35,079
+Disadvantageously, it can increase blade thickness and friction against the vaginal wall.
+
+153
+00:21:35,079 --> 00:21:42,466
+With pseudofenestration, the forceps blade is smooth on the outer maternal side but indented on the inner fetal surface.
+
+154
+00:21:42,466 --> 00:21:49,179
+The goal is to reduce head slipping yet improve the ease and safety of application and removal of forceps.
+
+155
+00:21:49,179 --> 00:21:55,116
+In most situations, however, despite these subtle differences, any are appropriate.
+
+156
+00:21:55,116 --> 00:21:57,666
+Figure 29-2.
+
+157
+00:21:57,666 --> 00:22:03,516
+A. Simpson forceps have fenestrated blades, parallel shanks, and English lock.
+
+158
+00:22:03,516 --> 00:22:06,866
+The cephalic curve accommodates the fetal head.
+
+159
+00:22:06,866 --> 00:22:14,591
+B. Luikart forceps have pseudofenestrated blades, overlapping shanks, a sliding lock, and tongue-in-groove handles.
+
+160
+00:22:14,591 --> 00:22:18,704
+The pelvic curve (black curve) is marked in this example.
+
+161
+00:22:18,704 --> 00:22:23,629
+The blades are connected to shanks, which may be parallel or overlapping.
+
+162
+00:22:23,629 --> 00:22:31,154
+Parallel shanks limit compression of blades against the fetal head and may be helpful with deliveries employing greater forces.
+
+163
+00:22:31,154 --> 00:22:35,266
+These shanks, however, add width against the introitus.
+
+164
+00:22:35,266 --> 00:22:41,466
+In comparison, overlapping shanks raise compression forces but distend the perineum less.
+
+165
+00:22:41,466 --> 00:22:45,479
+This may offer greatest advantage for outlet deliveries.
+
+166
+00:22:45,479 --> 00:22:52,129
+Locks are found on all forceps and help to connect the right and left branches and stabilize the instrument.
+
+167
+00:22:52,129 --> 00:23:01,529
+They can be located at the end of the shank nearest to the handles (English lock), at the ends of the handles (pivot lock), or along the shank (sliding lock).
+
+168
+00:23:01,529 --> 00:23:08,141
+Although varied in design, handles, when squeezed, raise compression forces against the fetal head.
+
+169
+00:23:08,141 --> 00:23:12,629
+Thus, forces to consider include traction and compression.
+
+170
+00:23:12,629 --> 00:23:15,804
+# Blade Application and Delivery.
+
+171
+00:23:15,804 --> 00:23:20,941
+Forceps blades grasp the head and are applied according to fetal head position.
+
+172
+00:23:20,941 --> 00:23:31,979
+If the head is in an OA position, two or more fingers of the right hand are introduced inside the left posterior portion of the vulva and advanced into the vagina beside the fetal head.
+
+173
+00:23:31,979 --> 00:23:37,254
+The handle of the left branch is grasped between the thumb and two fingers of the left hand .
+
+174
+00:23:37,254 --> 00:23:42,554
+The blade tip is then gently introduced along the posterior left vaginal wall.
+
+175
+00:23:42,554 --> 00:23:48,129
+It is swept upward and inward between the fetal head and the palmar surface of the fingers .
+
+176
+00:23:48,129 --> 00:23:51,716
+This blade can be held in position by an assistant.
+
+177
+00:23:51,716 --> 00:24:01,679
+For application of the right blade, two or more fingers of the left hand are introduced into the right posterior portion of the vagina to serve as a guide for the right blade.
+
+178
+00:24:01,679 --> 00:24:05,979
+This blade is held in the right hand and introduced into the vagina.
+
+179
+00:24:05,979 --> 00:24:12,741
+With each blade, the thumb is positioned behind the heel, and most of the insertion force comes from this thumb .
+
+180
+00:24:12,741 --> 00:24:17,741
+If the head is positioned in a left OA (LOA) or right OA
+
+181
+00:24:17,908 --> 00:24:23,170
+ROA) position, then the lower of the two blades is typically placed first.
+
+182
+00:24:23,120 --> 00:24:25,720
+Figure 29-3.
+
+183
+00:24:25,720 --> 00:24:31,658
+For OA or LOA positions, the left handle of the forceps is held in the left hand.
+
+184
+00:24:31,658 --> 00:24:38,770
+The blade is introduced into the left side of the pelvis between the fetal head and the fingers of the operator’s right hand.
+
+185
+00:24:38,770 --> 00:24:41,433
+Figure 29-4.
+
+186
+00:24:41,433 --> 00:24:43,845
+Insertion arc of the blade.
+
+187
+00:24:43,845 --> 00:24:49,733
+Importantly, the thumb of the right hand, not shown here, guides the blade during placement.
+
+188
+00:24:49,733 --> 00:24:52,470
+Figure 29-5.
+
+189
+00:24:52,470 --> 00:24:57,983
+In applying the second blade, insertional force is generated mainly by the thumb.
+
+190
+00:24:57,983 --> 00:25:03,133
+Reproduced with permission from Yeomans ER: Operative vaginal delivery.
+
+191
+00:25:03,133 --> 00:25:12,445
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+192
+00:25:12,445 --> 00:25:16,933
+New York, NY: McGraw Hill; 2017.
+
+193
+00:25:16,933 --> 00:25:23,233
+The blades are constructed so that their cephalic curve is closely adapted to the sides of the fetal head .
+
+194
+00:25:23,233 --> 00:25:32,658
+The fetal head is perfectly grasped only when the long axis of the blades corresponds to the occipitomental diameter (see Fig. 29-1).
+
+195
+00:25:32,658 --> 00:25:36,995
+As a result, most of the blade lies over the lateral face.
+
+196
+00:25:36,995 --> 00:25:39,670
+Figure 29-6.
+
+197
+00:25:39,670 --> 00:25:43,908
+A. The forceps are symmetrically placed and articulated.
+
+198
+00:25:43,908 --> 00:25:46,483
+B. The vertex is OA.
+
+199
+00:25:46,483 --> 00:25:51,633
+Reproduced with permission from Yeomans ER: Operative vaginal delivery.
+
+200
+00:25:51,633 --> 00:26:00,945
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+201
+00:26:00,945 --> 00:26:05,433
+New York, NY: McGraw Hill; 2017.
+
+202
+00:26:05,433 --> 00:26:09,170
+Suboptimal blade placement can increase morbidity .
+
+203
+00:26:09,170 --> 00:26:18,870
+For OA positions, appropriately applied blades are equidistant from the sagittal suture, and each blade is equidistant from its adjacent lambdoid suture.
+
+204
+00:26:18,870 --> 00:26:25,970
+In OP positions, blades are symmetrically placed relative to the sagittal suture and to each coronal suture.
+
+205
+00:26:25,970 --> 00:26:30,195
+After correct positioning, the branches can be articulated.
+
+206
+00:26:30,195 --> 00:26:35,895
+If branches do not articulate, the blade’s relationships to the sutures are reassessed.
+
+207
+00:26:35,895 --> 00:26:42,245
+Applied in this way, forceps should not slip, and traction may be applied most advantageously.
+
+208
+00:26:42,245 --> 00:26:53,045
+With most forceps, if one blade is applied over the brow and the other over the occiput, the instrument cannot be locked, or if locked, the blades will slip off when traction is applied.
+
+209
+00:26:53,045 --> 00:27:00,258
+With both branches in place, slow articulation of the handles will also typically correct mild asynclitism.
+
+210
+00:27:00,258 --> 00:27:09,745
+For greater asynclitism, Luikart forceps can be placed and once positioned, one handle will extend further than the other along their long axis.
+
+211
+00:27:09,745 --> 00:27:19,495
+Asynclitism is resolved by pulling and/or pushing each respective branch within the sliding lock along the instrument’s long axis until the finger guards align.
+
+212
+00:27:19,495 --> 00:27:26,483
+Once blades are placed satisfactorily, rotation to OA position is performed before traction is applied .
+
+213
+00:27:26,483 --> 00:27:35,408
+Next, gentle, intermittent, downward and outward traction is exerted concurrent with maternal efforts until the perineum begins to bulge.
+
+214
+00:27:35,408 --> 00:27:41,945
+For most stations, the initial direction of traction is downward and brings the head beneath the symphysis.
+
+215
+00:27:41,945 --> 00:27:44,620
+Figure 29-7.
+
+216
+00:27:44,620 --> 00:27:49,908
+If LOA, the vertex is rotated from this position to OA (arrow).
+
+217
+00:27:49,908 --> 00:27:55,058
+Reproduced with permission from Yeomans ER: Operative vaginal delivery.
+
+218
+00:27:55,058 --> 00:28:04,370
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+219
+00:28:04,370 --> 00:28:08,858
+New York, NY: McGraw Hill; 2017.
+
+220
+00:28:08,858 --> 00:28:15,070
+With head descent, the vector of forces changes continuously and are gradually directed upward .
+
+221
+00:28:15,070 --> 00:28:22,083
+During the birth of the head, mechanisms of spontaneous delivery should be simulated as closely as possible.
+
+222
+00:28:22,083 --> 00:28:29,233
+As a teaching tool for this, a Bill axis traction device can be attached over the finger guards of most forceps.
+
+223
+00:28:29,233 --> 00:28:32,808
+The instrument has an arrow and indicator line.
+
+224
+00:28:32,808 --> 00:28:38,670
+When the arrow points directly to the line, traction is along the path of least resistance.
+
+225
+00:28:38,670 --> 00:28:41,195
+Figure 29-8.
+
+226
+00:28:41,195 --> 00:28:47,670
+With low forceps, the direction of gentle traction for delivery of the head is indicated (arrows).
+
+227
+00:28:47,670 --> 00:28:52,820
+Reproduced with permission from Yeomans ER: Operative vaginal delivery.
+
+228
+00:28:52,820 --> 00:29:02,133
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+229
+00:29:02,133 --> 00:29:06,620
+New York, NY: McGraw Hill; 2017.
+
+230
+00:29:06,620 --> 00:29:12,733
+It is impossible to ascertain the amount of force exerted by forceps for an individual patient.
+
+231
+00:29:12,733 --> 00:29:15,458
+Thus, traction is ideally
+
+232
+00:29:15,628 --> 00:29:20,853
+intermittent and relieved between contractions, as in spontaneous labor.
+
+233
+00:29:20,803 --> 00:29:29,003
+Except when urgently indicated, delivery should be sufficiently slow, deliberate, and gentle to prevent undue head compression.
+
+234
+00:29:29,003 --> 00:29:33,678
+It is preferable to apply traction only with each uterine contraction.
+
+235
+00:29:33,678 --> 00:29:36,915
+Maternal pushing will augment these efforts.
+
+236
+00:29:36,915 --> 00:29:43,353
+With traction, as the occiput distends the vulva, an episiotomy may be performed if needed.
+
+237
+00:29:43,353 --> 00:29:46,790
+The delivery may be completed in several ways.
+
+238
+00:29:46,790 --> 00:29:50,928
+Some clinicians keep the forceps in place to control the head.
+
+239
+00:29:50,928 --> 00:29:58,165
+However, this blade volume adds to vulvar distention and raises risks for laceration or episiotomy.
+
+240
+00:29:58,165 --> 00:30:04,528
+To prevent this, the forceps may be removed, and delivery is then completed by maternal pushing .
+
+241
+00:30:04,528 --> 00:30:11,715
+Importantly, if blades are disarticulated and removed too early, the head may recede and prolong delivery.
+
+242
+00:30:11,715 --> 00:30:16,278
+Pushing in some cases may be aided by the modified Ritgen maneuver.
+
+243
+00:30:16,278 --> 00:30:21,078
+We emphasize bolstering of the perineum to control outward forces.
+
+244
+00:30:21,078 --> 00:30:23,690
+Figure 29-9.
+
+245
+00:30:23,690 --> 00:30:28,890
+Branches are removed in the opposite order from that in which they were originally placed.
+
+246
+00:30:28,890 --> 00:30:34,228
+The fingers of the right hand, covered by a sterile towel, bolster the perineum.
+
+247
+00:30:34,228 --> 00:30:38,690
+The thumb is placed directly on the head to prevent sudden egress.
+
+248
+00:30:38,690 --> 00:30:43,840
+Reproduced with permission from Yeomans ER: Operative vaginal delivery.
+
+249
+00:30:43,840 --> 00:30:53,153
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+250
+00:30:53,153 --> 00:30:57,640
+New York, NY: McGraw Hill; 2017.
+
+251
+00:30:57,640 --> 00:31:00,290
+# Manual Rotation.
+
+252
+00:31:00,290 --> 00:31:07,740
+In many cases, OT and OP head positions are often imperfectly flexed and present a wider head diameter.
+
+253
+00:31:07,740 --> 00:31:11,940
+This can slow fetal descent and lengthen second-stage labor.
+
+254
+00:31:11,940 --> 00:31:21,865
+By manually rotating the fetal occiput into the anterior pelvis (OA positions), cephalopelvic proportions improve to help hasten spontaneous birth.
+
+255
+00:31:21,865 --> 00:31:25,440
+This is usually reserved for second-stage labor.
+
+256
+00:31:25,440 --> 00:31:39,828
+Compared with no attempt, manual rotation is associated with lower rates of cesarean delivery, OVD, severe perineal laceration, and chorioamnionitis (Blanc, 2021; Shaffer, 2011).
+
+257
+00:31:39,828 --> 00:31:45,753
+If OVD is still required, the new OA position lowers rates of perineal trauma.
+
+258
+00:31:45,753 --> 00:31:51,528
+In the simplest cases, digital rotation can correct OT or OP positioning.
+
+259
+00:31:51,528 --> 00:31:56,715
+With head molding, the sutures override one another to create a bony ridge.
+
+260
+00:31:56,715 --> 00:32:04,553
+Two fingers hooked against this ridge and forces directed parallel to the skull can rotate the occiput toward the anterior pelvis.
+
+261
+00:32:04,553 --> 00:32:10,265
+This is done between contractions, and advancements are then held in place during pushing.
+
+262
+00:32:10,265 --> 00:32:19,365
+Progressive degrees of rotation are attained with each attempt, and several may be needed to ultimately rotate the occiput into the anterior pelvis.
+
+263
+00:32:19,365 --> 00:32:24,878
+Instead, with manual rotation, an open hand is inserted into the vagina.
+
+264
+00:32:24,878 --> 00:32:30,828
+For ROP position, the right palm cups the fetal head and straddles the sagittal suture.
+
+265
+00:32:30,828 --> 00:32:37,453
+The operator’s fingers wrap to one side of the fetal face, and the thumb extends along the other side.
+
+266
+00:32:37,453 --> 00:32:42,190
+Rotation is clockwise to bring the occiput to an ROA position .
+
+267
+00:32:42,190 --> 00:32:47,265
+With LOP position, rotation is counterclockwise with the left palm.
+
+268
+00:32:47,265 --> 00:32:51,890
+Three actions are performed simultaneously between contractions.
+
+269
+00:32:51,890 --> 00:32:58,765
+The fetal head is flexed to provide a smaller diameter for rotation and subsequent descent within the pelvis.
+
+270
+00:32:58,765 --> 00:33:06,928
+Next, slight destationing of the fetal head moves the head to a level in the maternal pelvis with sufficient room to complete the rotation.
+
+271
+00:33:06,928 --> 00:33:13,578
+Importantly, destationing should not be confused with disengaging the fetal head, which is proscribed.
+
+272
+00:33:13,578 --> 00:33:25,665
+Third, we and others prefer also to place the other hand externally on the corresponding side of the maternal abdomen to pull the back of the fetus up and toward the midline in synchrony with internal head rotation.
+
+273
+00:33:25,665 --> 00:33:31,028
+Barth (2015) provides an excellent summary of this technique.
+
+274
+00:33:31,028 --> 00:33:33,590
+Figure 29-10.
+
+275
+00:33:33,590 --> 00:33:39,115
+A. Manual rotation using the left hand, palm-up, to rotate from ROP.
+
+276
+00:33:39,115 --> 00:33:45,203
+B. The head is flexed and destationed during clockwise rotation to reach an OA position.
+
+277
+00:33:45,203 --> 00:33:50,353
+Reproduced with permission from Yeomans ER: Operative vaginal delivery.
+
+278
+00:33:50,353 --> 00:33:59,665
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+279
+00:33:59,665 --> 00:34:04,153
+New York, NY: McGraw Hill; 2017.
+
+280
+00:34:04,153 --> 00:34:05,940
+Le Ray and
+
+281
+00:34:06,100 --> 00:34:14,425
+associates (2007, 2013) reported a success rate >90 percent with manual rotation.
+
+282
+00:34:14,375 --> 00:34:16,875
+Complication were uncommon.
+
+283
+00:34:16,875 --> 00:34:22,050
+In their report of 796 rotations, no cords prolapsed.
+
+284
+00:34:22,050 --> 00:34:27,800
+Two women sustained cervical lacerations, which required simple vaginal repair.
+
+285
+00:34:27,800 --> 00:34:37,300
+Notably, this study allowed rotations at advanced cervical dilation prior to second-stage labor, which may have enhanced cervical injury risk.
+
+286
+00:34:37,300 --> 00:34:47,312
+In 71 percent, fetal heart rate (FHR) was normal during rotation, but severe FHR abnormalities were noted in 10 percent.
+
+287
+00:34:47,312 --> 00:34:55,675
+However, the need for cesarean delivery after successful manual rotation was not associated with FHR abnormalities.
+
+288
+00:34:55,675 --> 00:35:02,037
+Failure to rotate the head does not mandate cesarean delivery, and options are described next.
+
+289
+00:35:02,037 --> 00:35:06,037
+# Persistent Occiput Posterior Positions.
+
+290
+00:35:06,037 --> 00:35:19,150
+In cases with persistent OP positioning, the head may spontaneously deliver OP, may be manually or instrumentally rotated to an OA position, or may be delivered OP by forceps or vacuum .
+
+291
+00:35:19,150 --> 00:35:27,362
+In many cases, the cause of a persistent OP position and of the difficulty in accomplishing rotation is an anthropoid pelvis.
+
+292
+00:35:27,362 --> 00:35:35,625
+This architecture opposes rotation and predisposes to posterior delivery (Fig. 2-16, p. 29).
+
+293
+00:35:35,625 --> 00:35:44,062
+With forceps delivery from an OP position, downward and outward traction is applied until the base of the nose passes under the symphysis .
+
+294
+00:35:44,062 --> 00:35:50,862
+The handles are then slowly elevated until the occiput gradually emerges over the perineum’s fourchette.
+
+295
+00:35:50,862 --> 00:35:57,975
+The forceps are directed downward again, and the nose, mouth, and chin successively emerge from the vulva.
+
+296
+00:35:57,975 --> 00:36:00,637
+Figure 29-11.
+
+297
+00:36:00,637 --> 00:36:04,250
+Outlet forceps delivery from an OP position.
+
+298
+00:36:04,250 --> 00:36:08,700
+The head should be flexed after the bregma passes under the symphysis.
+
+299
+00:36:08,700 --> 00:36:14,425
+OP delivery causes greater vulvar distention, and an episiotomy may be needed.
+
+300
+00:36:14,425 --> 00:36:26,462
+OP deliveries have a higher incidence of severe perineal lacerations and of extensive episiotomy compared with OA positions (de Leeuw, 2008; Pearl, 1993).
+
+301
+00:36:26,462 --> 00:36:38,325
+Also, newborns undergoing OVD from OP positions have a higher incidence of Erb and facial nerve palsies, 1 and 2 percent, respectively, than those delivered from OA positions.
+
+302
+00:36:38,325 --> 00:36:44,000
+As expected, rotations to OA ultimately decrease perineal delivery trauma .
+
+303
+00:36:44,000 --> 00:36:52,312
+For forceps rotations from an OP to OA position, Kielland forceps are preferred because they have a less pronounced pelvic curve .
+
+304
+00:36:52,312 --> 00:37:01,425
+Cunningham and Gilstrap’s Operative Obstetrics, 3rd edition offers a more detailed description and illustration of this Kielland forceps procedure .
+
+305
+00:37:01,425 --> 00:37:04,100
+Figure 29-12.
+
+306
+00:37:04,100 --> 00:37:06,275
+Kielland forceps.
+
+307
+00:37:06,275 --> 00:37:13,000
+The characteristic features are minimal pelvic curvature (A), sliding lock (B), and light weight.
+
+308
+00:37:13,000 --> 00:37:16,325
+# Occiput Transverse Positions.
+
+309
+00:37:16,325 --> 00:37:22,587
+With occiput transverse (OT) fetal head positions, rotation is required for delivery.
+
+310
+00:37:22,587 --> 00:37:28,575
+For this, the head may be manually or instrumentally rotated into an OA position.
+
+311
+00:37:28,575 --> 00:37:33,962
+Manual rotation was described earlier in that section (p. 540).
+
+312
+00:37:33,962 --> 00:37:44,575
+Forceps rotation by experienced operators can offer high success rates with minimal maternal morbidity (Burke, 2012; Stock, 2013b).
+
+313
+00:37:44,575 --> 00:37:50,737
+Either standard forceps or specialized forceps, such as Kielland forceps, are used.
+
+314
+00:37:50,737 --> 00:37:57,625
+With the latter, each handle has a small knob, and branches are placed so that this knob faces the occiput.
+
+315
+00:37:57,625 --> 00:38:01,987
+Kielland described two methods of applying the anterior blade.
+
+316
+00:38:01,987 --> 00:38:07,425
+In this example, placement with a left OT (LOT) position is described.
+
+317
+00:38:07,425 --> 00:38:13,400
+With the wandering method, the anterior blade is first introduced into the posterior pelvis .
+
+318
+00:38:13,400 --> 00:38:17,662
+The blade is then arched around the face to an anterior position.
+
+319
+00:38:17,662 --> 00:38:24,087
+To permit this sweep of the blade, the handle is held close to the left maternal buttock throughout the maneuver.
+
+320
+00:38:24,087 --> 00:38:28,912
+The second blade is introduced posteriorly, and the branches are locked.
+
+321
+00:38:28,912 --> 00:38:31,762
+Figure 29-13.
+
+322
+00:38:31,762 --> 00:38:37,187
+A. Application of the right branch of the Kielland forceps to a head in LOT position.
+
+323
+00:38:37,187 --> 00:38:42,200
+The knob on this branch (colored blue) will ultimately face the occiput.
+
+324
+00:38:42,200 --> 00:38:47,112
+B. The right branch is wandered to its final position behind the symphysis.
+
+325
+00:38:47,112 --> 00:38:54,087
+C. Insertion of the left branch of the Kielland forceps directly posterior along the hollow of the sacrum.
+
+326
+00:38:54,087 --> 00:39:00,587
+This branch is inserted to the maternal right of the anterior branch to aid in engaging the sliding lock.
+
+327
+00:39:00,587 --> 00:39:02,375
+Reproduced
+
+328
+00:39:02,524 --> 00:39:07,024
+with permission from Yeomans ER: Operative vaginal delivery.
+
+329
+00:39:06,974 --> 00:39:16,286
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+330
+00:39:16,286 --> 00:39:20,774
+New York, NY: McGraw Hill; 2017.
+
+331
+00:39:20,774 --> 00:39:31,636
+After checking the application, the provider pulls the handles of the Kielland forceps slightly to the patient’s right to flex the fetal head and create a smaller diameter for rotation.
+
+332
+00:39:31,636 --> 00:39:38,036
+The first and second fingers of the left hand are placed over the finger guards with the palm against the handles.
+
+333
+00:39:38,036 --> 00:39:41,024
+This palm faces the maternal left.
+
+334
+00:39:41,024 --> 00:39:48,186
+Concurrently, the first two fingers of the operator’s right hand are placed against the anterior lambdoid suture.
+
+335
+00:39:48,186 --> 00:39:52,161
+The fetal head is then elevated and slightly destationed.
+
+336
+00:39:52,161 --> 00:39:59,599
+For rotation in a counterclockwise direction, the wrist of the left hand supinates, to direct this palm upward.
+
+337
+00:39:59,599 --> 00:40:05,661
+Simultaneously, two fingers of the right hand press against the lambdoid suture ridge.
+
+338
+00:40:05,661 --> 00:40:10,374
+This ensures that the fetal head turns with the blades and does not slip.
+
+339
+00:40:10,374 --> 00:40:16,011
+As a newer adjunct, abdominal sonography can follow and document head rotation .
+
+340
+00:40:16,011 --> 00:40:24,286
+The second type of blade application introduces the anterior blade with its cephalic curve directed upward to curve under the symphysis.
+
+341
+00:40:24,286 --> 00:40:33,999
+After it has been advanced far enough toward the upper vagina, it is turned on its long axis through 180 degrees to adapt the cephalic curvature to the head.
+
+342
+00:40:33,999 --> 00:40:38,824
+The second blade is introduced posteriorly, and the branches are locked.
+
+343
+00:40:38,824 --> 00:40:46,211
+After rotation of the fetal occiput into the anterior pelvis, two acceptable methods for delivery are available.
+
+344
+00:40:46,211 --> 00:40:56,349
+In one, the operator applies traction on the Kielland forceps using a bimanual grip described previously for conventional forceps (p. 539).
+
+345
+00:40:56,349 --> 00:41:04,461
+When the posterior fontanel has passed under the subpubic arch, the handles can be elevated to the horizontal, but no further.
+
+346
+00:41:04,461 --> 00:41:11,249
+Raising the handles above the horizontal may cause vaginal sulcus tears because of the reverse pelvic curve .
+
+347
+00:41:11,249 --> 00:41:18,449
+Alternatively, the Kielland forceps can be removed after rotation and replaced with conventional forceps.
+
+348
+00:41:18,449 --> 00:41:24,636
+With this approach, moderate traction is first employed to seat the head before switching instruments.
+
+349
+00:41:24,636 --> 00:41:27,399
+# Face Presentations.
+
+350
+00:41:27,399 --> 00:41:32,199
+With a mentum anterior face presentation, OVD is an option.
+
+351
+00:41:32,199 --> 00:41:41,586
+The blades are applied to the sides of the head along the occipitomental diameter, with the pelvic curve directed toward the neck (see Fig. 29-1).
+
+352
+00:41:41,586 --> 00:41:46,236
+Downward traction is exerted until the chin appears under the symphysis.
+
+353
+00:41:46,236 --> 00:41:57,261
+Then, by an upward movement, the face is slowly extracted, with the nose, eyes, brow, and occiput appearing in succession over the anterior margin of the perineum.
+
+354
+00:41:57,261 --> 00:42:05,799
+Forceps should not be applied to the mentum posterior presentation because vaginal delivery is impossible except in very small fetuses.
+
+355
+00:42:05,799 --> 00:42:08,224
+Vacuum-Assisted Delivery.
+
+356
+00:42:08,224 --> 00:42:11,249
+# Vacuum Extractor Design.
+
+357
+00:42:11,249 --> 00:42:19,711
+With vacuum-assisted OVD, suction is created within a cup placed on the fetal scalp such that traction on the cup aids fetal birth.
+
+358
+00:42:19,711 --> 00:42:26,974
+In the United States, vacuum extractor is the preferred term, whereas in Europe it is commonly called a ventouse .
+
+359
+00:42:26,974 --> 00:42:39,349
+Theoretical benefits of this tool compared with forceps include simpler requirements for precise positioning on the fetal head and avoidance of space-occupying blades within the vagina to help mitigate maternal trauma.
+
+360
+00:42:39,349 --> 00:42:42,174
+Figure 29-14.
+
+361
+00:42:42,174 --> 00:42:44,749
+Vacuum delivery systems.
+
+362
+00:42:44,749 --> 00:42:53,849
+A. The Kiwi OmniCup contains a handheld vacuumgenerating pump, which is attached via flexible tubing to a rigid plastic mushroom cup.
+
+363
+00:42:53,849 --> 00:43:01,949
+B. The Mityvac Mystic II MitySoft Bell Cup has a soft bell cup attached by a semirigid shaft to a handheld pump.
+
+364
+00:43:01,949 --> 00:43:07,274
+Vacuum devices contain a cup, shaft, handle, and vacuum generator.
+
+365
+00:43:07,274 --> 00:43:13,149
+Vacuum cups are metal or plastic and differ in their shape, size, and reusability.
+
+366
+00:43:13,149 --> 00:43:17,436
+In the United States, plastic cups are generally preferred.
+
+367
+00:43:17,436 --> 00:43:27,124
+Of these, the soft cup is a pliable bell-shaped dome, whereas the rigid type has a firm flattened mushroom-shaped cup and circular ridge around the cup rim .
+
+368
+00:43:27,124 --> 00:43:36,311
+When compared, rigid mushroom cups generate significantly more traction force (Hofmeyr, 1990; Muise, 1993).
+
+369
+00:43:36,311 --> 00:43:41,586
+With OP positions or with asynclitism, the flatter cup also permits
+
+370
+00:43:41,740 --> 00:43:47,752
+improved placement at the flexion point, which is typically less accessible with these head positions.
+
+371
+00:43:47,702 --> 00:43:52,327
+The trade-off is that the flatter cups have higher scalp laceration rates.
+
+372
+00:43:52,327 --> 00:43:58,840
+Thus, many manufacturers recommend soft bell cups for more straightforward OA deliveries.
+
+373
+00:43:58,840 --> 00:44:01,365
+Table 29-2.
+
+374
+00:44:01,365 --> 00:44:09,202
+Vacuum Cups for Operative Vaginal Delivery Several investigators have compared outcomes with various rigid and soft cups.
+
+375
+00:44:09,202 --> 00:44:18,127
+Metal cups yield higher success rates but greater rates of scalp injuries, including cephalohematomas (O’Mahony, 2010).
+
+376
+00:44:18,127 --> 00:44:27,302
+In another study, Kuit and colleagues (1993) found that the only advantage of the soft cups was a lower incidence of scalp injury.
+
+377
+00:44:27,302 --> 00:44:40,377
+In a review, Vacca (2002) concluded that fewer scalp lacerations occurred with the soft cup, but that the rate of cephalohematomas and subgaleal hemorrhage was similar between soft and rigid cups.
+
+378
+00:44:40,377 --> 00:44:46,590
+Importantly, high-pressure vacuum generates large amounts of force regardless of the cup used .
+
+379
+00:44:46,590 --> 00:44:52,690
+Aside from the cup, the shaft that connects the cup and handle may be flexible or semiflexible.
+
+380
+00:44:52,690 --> 00:45:00,190
+Tubing-like flexible shafts may be preferred for OP positions or asynclitism to permit better seating of the cup.
+
+381
+00:45:00,190 --> 00:45:08,352
+Last, the vacuum generator may be handheld and actuated by the operator, or it may be held and operated by an assistant.
+
+382
+00:45:08,352 --> 00:45:10,515
+# Technique.
+
+383
+00:45:10,515 --> 00:45:16,440
+An important step in vacuum-assisted OVD is proper cup placement over the flexion point.
+
+384
+00:45:16,440 --> 00:45:26,127
+This pivot point maximizes traction, minimizes cup detachment, flexes the neck, and delivers the smallest head diameter through the pelvic outlet.
+
+385
+00:45:26,127 --> 00:45:35,077
+This improves success rates, lowers scalp injury rates, and lessens perineal trauma because the smallest head diameter distends the vulva .
+
+386
+00:45:35,077 --> 00:45:46,715
+The flexion point is found along the sagittal suture, approximately 3 cm from the posterior fontanel’s center and approximately 6 cm from the anterior fontanel’s center.
+
+387
+00:45:46,715 --> 00:45:58,540
+Because most cup diameters measure 5 to 6 cm, when properly placed, the cup rim lies at the posterior fontanel’s border and 3 cm from the anterior fontanel .
+
+388
+00:45:58,540 --> 00:46:09,752
+Placement of the cup more anteriorly on the fetal cranium—near the anterior fontanel—is ideally avoided as it leads to neck extension during traction unless the fetus is small.
+
+389
+00:46:09,752 --> 00:46:14,627
+Such placement delivers a wider head diameter through the vaginal opening.
+
+390
+00:46:14,627 --> 00:46:20,815
+Last, asymmetrical placement relative to the sagittal suture may worsen asynclitism.
+
+391
+00:46:20,815 --> 00:46:24,740
+Cup placement in OA positions is seldom difficult.
+
+392
+00:46:24,740 --> 00:46:33,352
+In contrast, if the indication for delivery is failure to descend caused by occipital malposition, cup positioning can be difficult.
+
+393
+00:46:33,352 --> 00:46:36,140
+Figure 29-15.
+
+394
+00:46:36,140 --> 00:46:40,415
+Drawing demonstrates correct cup placement at the flexion point.
+
+395
+00:46:40,415 --> 00:46:49,290
+Along the sagittal suture, this spot lies 3 cm from the posterior fontanel and 6 cm from the anterior fontanel.
+
+396
+00:46:49,290 --> 00:46:59,840
+During cup placement, maternal soft tissue entrapment predisposes the mother to lacerations and virtually ensures cup dislodgement, colloquially called a “pop off.
+
+397
+00:46:59,840 --> 00:47:09,840
+Thus, the entire cup circumference should be palpated both before and after the vacuum has been created and again prior to traction to exclude such entrapment.
+
+398
+00:47:09,840 --> 00:47:25,740
+Gradual vacuum creation is advocated by some and is generated by increasing the suction in increments of 0.2 kg/cm2 every 2 minutes until a total negative pressure of 0.8 kg/cm2 is reached .
+
+399
+00:47:25,740 --> 00:47:41,902
+That said, other studies have shown that negative pressure can be increased to 0.8 kg/cm2 in <2 minutes without a significant difference in efficacy or in maternal and fetal outcomes (Suwannachat, 2011, 2012).
+
+400
+00:47:41,902 --> 00:47:44,452
+Table 29-3.
+
+401
+00:47:44,452 --> 00:47:51,827
+Vacuum Pressure Conversions Once suction is created, the instrument handle is grasped, and traction is initiated.
+
+402
+00:47:51,827 --> 00:47:59,790
+Similar to forceps delivery, traction angles mirror that in Figure 298 and should be steady without jerking or rocking.
+
+403
+00:47:59,790 --> 00:48:05,502
+The number of needed pulls increases with higher station but typically ranges from one to four.
+
+404
+00:48:05,502 --> 00:48:10,577
+Efforts are intermittent, and each pull is coordinated with maternal pushing.
+
+405
+00:48:10,577 --> 00:48:20,565
+Manual torque to the cup is avoided as it can cause cup displacement or cephalohematomas and, with metal cups, “cookie-cutter”–type scalp lacerations.
+
+406
+00:48:20,565 --> 00:48:25,477
+Thus, OA oblique positions are corrected not by rotation, but
+
+407
+00:48:25,636 --> 00:48:28,648
+solely by downward outward traction.
+
+408
+00:48:28,598 --> 00:48:33,861
+Similarly, for OP positions, rotational forces should not be applied.
+
+409
+00:48:33,861 --> 00:48:43,348
+Instead, with correct flexion point placement and line of traction, the head will usually rotate by itself (van den Akker, 2019).
+
+410
+00:48:43,348 --> 00:48:52,786
+During pulls, the operator should place the nondominant hand within the vagina, with the thumb on the extractor cup and one or more fingers on the fetal scalp.
+
+411
+00:48:52,786 --> 00:48:59,661
+So positioned, descent of the presenting part can be judged and the traction angle can be adjusted with head descent.
+
+412
+00:48:59,661 --> 00:49:06,286
+In addition, the relationship of the cup edge to the scalp can be assessed to help detect cup separation.
+
+413
+00:49:06,286 --> 00:49:18,473
+Between contractions, some physicians will lower the suction levels to decrease scalp injury rates, whereas others will maintain suction in cases with a nonreassuring FHR to aid rapid delivery.
+
+414
+00:49:18,473 --> 00:49:28,073
+No differences in maternal or fetal outcome were noted if the vacuum level was decreased between contractions or if an effort was made to prevent fetal loss of station .
+
+415
+00:49:28,073 --> 00:49:33,223
+Once the head is delivered, the vacuum pressure is relieved and the cup removed.
+
+416
+00:49:33,223 --> 00:49:36,598
+Vacuum extraction should be considered a trial.
+
+417
+00:49:36,598 --> 00:49:43,548
+Without early and clear evidence of descent toward delivery, an alternative delivery approach should be adopted.
+
+418
+00:49:43,548 --> 00:49:48,998
+As a general guideline, progressive descent should accompany each traction attempt.
+
+419
+00:49:48,998 --> 00:50:00,923
+Neither data nor consensus are available regarding the number of pulls required to effect delivery, the maximum number of cup popoffs that can be tolerated, or optimal total duration of the procedure.
+
+420
+00:50:00,923 --> 00:50:09,948
+Some manufacturers have recommendations regarding these (Clinical Innovations, 2018; CooperSurgical, 2018).
+
+421
+00:50:09,948 --> 00:50:23,548
+During a vacuum-assisted delivery trial, cup dislodgement due to technical failure or less than optimal placement should not be equated with dislodgement under ideal conditions of exact cup placement and optimal vacuum maintenance.
+
+422
+00:50:23,548 --> 00:50:35,061
+Technical failures may merit either additional attempts at cup placement or, alternatively, a trial of forceps (Ezenagu, 1999; Williams, 1991).
+
+423
+00:50:35,061 --> 00:50:44,773
+The least desirable cases are those in which traction without progress or multiple disengagements occur following correct cup application and appropriate traction.
+
+424
+00:50:44,773 --> 00:50:53,886
+As with forceps, clinicians should embrace a willingness to abandon attempts at vacuum-assisted delivery if satisfactory progress is not made .
+
+425
+00:50:53,886 --> 00:50:55,348
+Training.
+
+426
+00:50:55,348 --> 00:51:04,861
+As the OVD rate has declined, so have opportunities for resident training (Fitzwater, 2015; Kyser, 2014).
+
+427
+00:51:04,861 --> 00:51:22,386
+In accredited programs, the median number of these procedures completed by trainees has reached critically low levels, and for recent graduates it approximated only 20 (Accreditation Council for Graduate Medical Education, 2019; Dildy, 2016).
+
+428
+00:51:22,386 --> 00:51:33,461
+For residents completing training in 2021, the Accreditation Council for Graduate Medical Education (2020) minimum requirement is 15 procedures.
+
+429
+00:51:33,461 --> 00:51:42,861
+To adapt, residency programs should have readily available skilled operators to teach these procedures by simulation as well as through actual cases .
+
+430
+00:51:42,861 --> 00:51:55,136
+In one study, a 59-percent increase in forceps deliveries over 2 years was related to a single experienced and proactive instructor assigned to teach forceps to residents in labor and delivery .
+
+431
+00:51:55,136 --> 00:52:09,736
+In another, following implementation of a formal education program that included a manikin and pelvic model simulation, rates of neonatal morbidity and of severe maternal cervical, labial, and vaginal lacerations declined.
+
+432
+00:52:09,736 --> 00:52:13,098
+However, OASIS rates were unchanged .
+
+433
+00:52:13,098 --> 00:52:22,123
+Gossett and associates (2016) found a 22-percent reduction in the OASIS rate following an OVD simulation curriculum.
+

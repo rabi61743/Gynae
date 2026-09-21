@@ -1,0 +1,3392 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:06,312
+Chapter 30: Cesarean Delivery and Peripartum.
+
+3
+00:00:06,312 --> 00:00:08,887
+Hysterectomy Definitions.
+
+4
+00:00:08,887 --> 00:00:11,487
+Cesarean Delivery Risks.
+
+5
+00:00:11,487 --> 00:00:13,625
+Patient Preparation.
+
+6
+00:00:13,625 --> 00:00:16,337
+Cesarean Delivery Technique.
+
+7
+00:00:16,337 --> 00:00:18,162
+Laparotomy.
+
+8
+00:00:18,162 --> 00:00:19,962
+Hysterotomy.
+
+9
+00:00:19,962 --> 00:00:22,400
+Peripartum Hysterectomy.
+
+10
+00:00:22,400 --> 00:00:24,487
+Postoperative Care.
+
+11
+00:00:24,487 --> 00:00:26,250
+References.
+
+12
+00:00:26,250 --> 00:00:36,812
+In the United States, the cesarean delivery rate rose most dramatically from 4.5 percent in 1970 to 32.9 percent in 2009.
+
+13
+00:00:36,812 --> 00:00:42,287
+The rate has since plateaued and was 31.9 percent in 2018 .
+
+14
+00:00:42,287 --> 00:00:47,912
+Some indications for performing cesarean delivery are shown in Table 30-1.
+
+15
+00:00:47,912 --> 00:01:00,062
+More than 85 percent of these operations are performed for four reasons—prior cesarean delivery, labor dystocia or arrest, fetal jeopardy, or abnormal fetal presentation.
+
+16
+00:01:00,062 --> 00:01:09,237
+The latter three compose the main indications for primary cesarean delivery (Barber, 2011; Boyle, 2013).
+
+17
+00:01:09,237 --> 00:01:20,000
+Efforts to lower these rates are outlined in Safe Prevention of the Primary Cesarean Delivery by the American College of Obstetricians and Gynecologists (2019b).
+
+18
+00:01:20,000 --> 00:01:22,250
+Table 30-1.
+
+19
+00:01:22,250 --> 00:01:41,200
+Some Indications for Cesarean Delivery Reasons for persistently elevated cesarean rates are not completely understood, but some explanations include the following: 1. Women are having fewer children, thus, a greater percentage of births are among nulliparas, who are at increased risk for cesarean delivery.
+
+20
+00:01:41,200 --> 00:01:49,562
+2. Average maternal age is rising, and older women, especially older nulliparas, have a higher cesarean delivery risk.
+
+21
+00:01:49,562 --> 00:01:59,700
+3. Electronic fetal monitoring use is widespread and associated with a higher cesarean delivery rate compared with intermittent fetal heart rate auscultation.
+
+22
+00:01:59,700 --> 00:02:04,037
+4. Most breech fetuses are now delivered by cesarean.
+
+23
+00:02:04,037 --> 00:02:08,875
+5. The frequency of operative vaginal delivery has declined.
+
+24
+00:02:08,875 --> 00:02:15,200
+6. Obesity, which is a cesarean delivery risk, has reached epidemic proportions.
+
+25
+00:02:15,200 --> 00:02:23,975
+7. Rates of cesarean delivery in women with preeclampsia have risen, whereas labor induction rates for these patients have declined.
+
+26
+00:02:23,975 --> 00:02:35,237
+8. The vaginal birth after cesarean (VBAC) rate has decreased from a high of 28 percent in 1996 to 13.3 percent in 2018 .
+
+27
+00:02:35,237 --> 00:02:42,650
+9. Assisted reproductive technology is more widely used and is linked with greater cesarean delivery rates .
+
+28
+00:02:42,650 --> 00:02:44,500
+Definitions.
+
+29
+00:02:44,500 --> 00:02:50,262
+Cesarean delivery defines the birth of a fetus by laparotomy and then hysterotomy.
+
+30
+00:02:50,262 --> 00:02:58,675
+This definition is not applied to removal of the fetus from the abdominal cavity in the case of uterine rupture or of abdominal pregnancy.
+
+31
+00:02:58,675 --> 00:03:08,137
+Rarely, hysterotomy is performed in a woman who has just died or in whom death is expected soon—postmortem or perimortem cesarean delivery .
+
+32
+00:03:08,137 --> 00:03:13,325
+In some cases, abdominal hysterectomy is indicated after delivery.
+
+33
+00:03:13,325 --> 00:03:19,337
+When performed at the time of cesarean delivery, the operation is cesarean hysterectomy.
+
+34
+00:03:19,337 --> 00:03:24,375
+If done shortly after vaginal delivery, it is postpartum hysterectomy.
+
+35
+00:03:24,375 --> 00:03:28,887
+Peripartum hysterectomy is a broader term that combines these two.
+
+36
+00:03:28,887 --> 00:03:35,062
+In most cases, total hysterectomy is performed and removes the uterine body and cervix.
+
+37
+00:03:35,062 --> 00:03:40,987
+Supracervical hysterectomy is selected less often and removes only the uterine body.
+
+38
+00:03:40,987 --> 00:03:44,650
+With either, adnexa are not usually excised.
+
+39
+00:03:44,650 --> 00:03:51,287
+In most instances, a simple hysterectomy, which is also a type I hysterectomy, is performed.
+
+40
+00:03:51,287 --> 00:04:03,025
+However, for women with invasive cervical cancer, radical hysterectomy removes the uterus, parametrium, and proximal vagina to achieve tumor excision with negative margins.
+
+41
+00:04:03,025 --> 00:04:11,237
+For cases of placenta percreta that extend toward the pelvic sidewall, similar radical excision of the parametrium may be needed.
+
+42
+00:04:11,237 --> 00:04:13,837
+Cesarean Delivery Risks.
+
+43
+00:04:13,837 --> 00:04:21,562
+To provide accurate informed consent, knowledge of maternal and neonatal risks and benefits with surgery is essential.
+
+44
+00:04:21,562 --> 00:04:31,537
+In broad terms, cesarean delivery generally has higher maternal surgical risks for the current and subsequent pregnancies compared with spontaneous vaginal birth.
+
+45
+00:04:31,537 --> 00:04:37,675
+This is balanced against lower rates of perineal injury and short-term pelvic floor disorders.
+
+46
+00:04:37,675 --> 00:04:46,825
+For the neonate, cesarean delivery generally offers lower rates of birth trauma and stillbirth but greater rates of initial respiratory difficulties.
+
+47
+00:04:46,825 --> 00:04:50,300
+# Maternal Mortality and Morbidity.
+
+48
+00:04:50,300 --> 00:04:56,437
+For the mother, death attributable solely to cesarean delivery is rare in the United States.
+
+49
+00:04:56,437 --> 00:04:59,450
+A review of nearly 1.5
+
+50
+00:04:59,620 --> 00:05:10,245
+million pregnancies found maternal mortality rates of 2.2 per 100,000 cesarean deliveries compared with 0.2 per 100,000 vaginal births .
+
+51
+00:05:10,195 --> 00:05:25,245
+In a metaanalysis of 203 studies, Guise and coworkers (2010) reported a maternal mortality rate of 13 per 100,000 with elective repeat cesarean compared with 4 per 100,000 with trial of labor.
+
+52
+00:05:25,245 --> 00:05:31,145
+Some element of this risk may stem from the underlying indication for the cesarean delivery.
+
+53
+00:05:31,145 --> 00:05:39,982
+For example, long first-stage labor increases not only cesarean risk but also rates of maternal fever and postpartum hemorrhage .
+
+54
+00:05:39,982 --> 00:05:55,982
+Additionally, in a study of more than 100,000 deliveries in China, where cesarean birth without a medical indication is common, the maternal mortality rate was not higher in those with nonindicated cesarean delivery than in women with spontaneous vaginal birth .
+
+55
+00:05:55,982 --> 00:06:03,632
+Similar to mortality rates, the overall frequencies of some maternal morbidities are increased with cesarean delivery.
+
+56
+00:06:03,632 --> 00:06:12,570
+Villar and associates (2007) reported that maternal morbidity rates were twofold higher with cesarean delivery than with vaginal birth.
+
+57
+00:06:12,570 --> 00:06:18,595
+Principal among these are infection, hemorrhage, and venous thromboembolism (VTE).
+
+58
+00:06:18,595 --> 00:06:31,857
+In addition, anesthetic complications, which also rarely include death, have a greater incidence with cesarean delivery compared with vaginal birth (Cheesman, 2009; Hawkins, 2011).
+
+59
+00:06:31,857 --> 00:06:39,020
+Adjacent organs infrequently may be injured, which is described in detail later (p. 563).
+
+60
+00:06:39,020 --> 00:06:46,757
+Women who undergo a cesarean delivery are much more likely to be delivered by a repeat operation in subsequent pregnancies.
+
+61
+00:06:46,757 --> 00:06:58,695
+For women undergoing subsequent cesarean, the maternal risks just described are even greater (Cahill, 2006; Marshall, 2011; Silver, 2006).
+
+62
+00:06:58,695 --> 00:07:16,120
+Specifically outlined in Chapter 31 (p. 580), abnormal placentation, wound and uterine infections, adjacent organ injury, cesarean hysterectomy, and blood transfusion are among the morbidity that accrues with multiple subsequent cesarean operations.
+
+63
+00:07:16,120 --> 00:07:29,607
+As an advantage, cesarean delivery is associated with lower rates of urinary incontinence and pelvic organ prolapse than is vaginal birth (Gyhagen, 2013a,b; Handa, 2011).
+
+64
+00:07:29,607 --> 00:07:39,195
+Rates of anal incontinence appear uninfluenced by a vaginal or cesarean route (Blomquist, 2018; Nelson, 2019).
+
+65
+00:07:39,195 --> 00:07:50,445
+In subgroup evaluation, operative vaginal delivery does carry an overall greater anal incontinence risk, which likely stems from higher sphincter injury rates with these procedures .
+
+66
+00:07:50,445 --> 00:07:57,582
+Pelvic floor advantages persist to some degree over time, but cesarean delivery is not totally protective.
+
+67
+00:07:57,582 --> 00:08:11,220
+Moreover, longitudinal studies suggest that initial pelvic floor advantages gained from cesarean delivery are lost as women age (Dolan, 2010; MacArthur, 2011, 2013).
+
+68
+00:08:11,220 --> 00:08:24,882
+During their State-of-theScience Conference, the National Institutes of Health panel (2006) summarized that stress urinary incontinence rates after elective cesarean delivery are lower than those following vaginal delivery.
+
+69
+00:08:24,882 --> 00:08:32,132
+However, the duration of this protection is unclear, particularly in older and multiparous populations.
+
+70
+00:08:32,132 --> 00:08:40,320
+Defining women who would be at highest long-term risk for pregnancy-related pelvic floor disorders might allow accurate delivery counseling .
+
+71
+00:08:40,320 --> 00:08:43,082
+# Neonatal Morbidity.
+
+72
+00:08:43,082 --> 00:08:52,032
+Cesarean delivery is associated with a lower rate of fetal trauma (Linder, 2013; Moczygemba, 2010).
+
+73
+00:08:52,032 --> 00:08:59,782
+Alexander and colleagues (2006) found that fetal injury complicated 1 percent of cesarean deliveries.
+
+74
+00:08:59,782 --> 00:09:10,470
+Skin laceration was most common, but others included cephalohematoma, clavicular fracture, brachial plexopathy, skull fracture, and facial nerve palsy.
+
+75
+00:09:10,470 --> 00:09:16,945
+Cesarean deliveries following a failed operative vaginal delivery attempt had the highest injury rate.
+
+76
+00:09:16,945 --> 00:09:22,957
+The lowest rate—0.5 percent—occurred in the elective cesarean delivery group.
+
+77
+00:09:22,957 --> 00:09:38,195
+That said, Worley and associates (2009) found that approximately a third of women who were delivered at Parkland Hospital entered spontaneous labor at term, and 96 percent of these delivered vaginally without adverse neonatal outcomes.
+
+78
+00:09:38,195 --> 00:09:42,045
+# Cesarean Delivery on Maternal Request.
+
+79
+00:09:42,045 --> 00:09:45,695
+Some women request elective cesarean delivery.
+
+80
+00:09:45,695 --> 00:09:49,782
+Data regarding the true incidence of cesarean delivery on
+
+81
+00:09:49,948 --> 00:09:53,598
+maternal request (CDMR) are poor.
+
+82
+00:09:53,548 --> 00:09:57,585
+An older estimate in the United States was 5 percent .
+
+83
+00:09:57,585 --> 00:10:06,473
+Reasons for the request include protection of pelvic floor support, convenience, fear of childbirth, and reduced risk of fetal injury.
+
+84
+00:10:06,473 --> 00:10:17,335
+One retrospective study of more than 66,000 Chinese parturients compared outcomes of those who elected planned vaginal birth or requested primary cesarean delivery .
+
+85
+00:10:17,335 --> 00:10:22,898
+Short-term serious maternal morbidity and neonatal mortality rates were similar.
+
+86
+00:10:22,898 --> 00:10:33,035
+For the newborns, rates of birth trauma, infection, and hypoxic ischemic encephalopathy were low in both groups but statistically lower with cesarean delivery.
+
+87
+00:10:33,035 --> 00:10:37,898
+Respiratory distress syndrome rates were greater in the CDMR cohort.
+
+88
+00:10:37,898 --> 00:10:42,973
+A smaller study comparing these two routes of delivery support these findings .
+
+89
+00:10:42,973 --> 00:10:53,285
+The debate surrounding CDMR includes two medical points: the concept of informed free choice by the woman, and the autonomy of the physician in offering CDMR.
+
+90
+00:10:53,285 --> 00:11:02,635
+To address this, the National Institutes of Health (2006) held a State-of-the-Science Conference on Cesarean Delivery on Maternal Request.
+
+91
+00:11:02,635 --> 00:11:09,985
+Notably, most of the maternal and neonatal outcomes examined had insufficient data to permit recommendations.
+
+92
+00:11:09,985 --> 00:11:17,573
+Indeed, one of the main conclusions of the conference was that more high-quality research is needed to fully evaluate the issue.
+
+93
+00:11:17,573 --> 00:11:28,273
+Guidelines from the American College of Obstetricians and Gynecologists (2020a) note that CDMR should not be performed before 39 weeks’ gestation.
+
+94
+00:11:28,273 --> 00:11:36,510
+It is ideally avoided in women desiring several children because of the earlier-described morbidity from accruing cesarean operations.
+
+95
+00:11:36,510 --> 00:11:38,648
+Patient Preparation.
+
+96
+00:11:38,648 --> 00:11:41,448
+# Delivery Availability.
+
+97
+00:11:41,448 --> 00:11:48,935
+No nationally recognized standard of care currently dictates the acceptable time interval to begin cesarean delivery.
+
+98
+00:11:48,935 --> 00:11:54,035
+Previously, a 30-minute decision-toincision interval was recommended.
+
+99
+00:11:54,035 --> 00:12:03,298
+However, Bloom and colleagues (2006) evaluated nearly 3000 cesarean deliveries performed for emergency indications.
+
+100
+00:12:03,298 --> 00:12:12,760
+They reported that failure to achieve a cesarean delivery decision-to-incision time <30 minutes was not associated with a negative neonatal outcome.
+
+101
+00:12:12,760 --> 00:12:16,585
+A subsequent systematic review echoed this finding .
+
+102
+00:12:16,585 --> 00:12:29,173
+Despite this, when faced with an acute, catastrophic deterioration in fetal condition, cesarean delivery usually is indicated as rapidly as possible, and thus purposeful delays are inappropriate.
+
+103
+00:12:29,173 --> 00:12:47,373
+The American Academy of Pediatrics and the American College of Obstetricians and Gynecologists (2017) recommend that facilities giving obstetrical care should have the ability to initiate cesarean delivery in a time frame that best incorporates maternal and fetal risks and benefits.
+
+104
+00:12:47,373 --> 00:12:49,960
+# Informed Consent.
+
+105
+00:12:49,960 --> 00:12:54,660
+Informed consent is a process and not merely a medical document.
+
+106
+00:12:54,660 --> 00:13:07,023
+The consenting conversation should enhance a woman’s awareness of her diagnosis and contain a discussion of medical and surgical care alternatives, procedure goals and limitations, and operative risks.
+
+107
+00:13:07,023 --> 00:13:14,285
+For women with a prior cesarean delivery, the option of a trial of labor should be included for suitable candidates.
+
+108
+00:13:14,285 --> 00:13:24,423
+For those desiring permanent sterilization or intrauterine device (IUD) insertion, consenting for these can be completed concurrently (Chaps.
+
+109
+00:13:24,423 --> 00:13:30,373
+38 and 39, pp. 665 and 684).
+
+110
+00:13:30,373 --> 00:13:38,510
+An informed patient may decline a particular recommended intervention, and a woman’s decision-making autonomy must be respected.
+
+111
+00:13:38,510 --> 00:13:48,973
+In the medical record, providers should document the reasons for refusal and should note that the intervention’s value and the health consequences of not proceeding with it have been explained.
+
+112
+00:13:48,973 --> 00:13:56,560
+For Jehovah’s Witnesses, informed consent discussions regarding blood products ideally begin early in pregnancy.
+
+113
+00:13:56,560 --> 00:14:05,435
+Acceptable blood products vary widely among individual women, and a preoperative checklist of approved products allows superior preparation .
+
+114
+00:14:05,435 --> 00:14:13,598
+In general, red cells, white cells, platelets, and plasma are considered primary blood components and are declined.
+
+115
+00:14:13,598 --> 00:14:18,698
+However, certain clotting factors or cell fractions may be acceptable .
+
+116
+00:14:18,698 --> 00:14:26,648
+Before and after surgery, iron, folate, and, if necessary, erythropoietin are accepted agents to help
+
+117
+00:14:26,812 --> 00:14:29,612
+maximize hemoglobin levels.
+
+118
+00:14:29,562 --> 00:14:35,512
+Perioperatively, phlebotomy is limited, and pediatric collection tubes are preferable.
+
+119
+00:14:35,512 --> 00:14:47,112
+Intraoperative options include prompt treatment of atony to limit blood loss and use of topical hemostatic agents, tranexamic acid, and desmopressin to promote clot formation.
+
+120
+00:14:47,112 --> 00:14:51,287
+Red blood cell salvage can provide autologous donation.
+
+121
+00:14:51,287 --> 00:14:58,499
+Normovolemic hemodilution and controlled hypotensive or hypothermic anesthesia can limit red cell losses.
+
+122
+00:14:58,499 --> 00:15:10,349
+To minimize uncontrolled vessel bleeding, uterine artery embolization, occlusive vascular balloons, and other options are described in Chapter 44 (p. 779) .
+
+123
+00:15:10,349 --> 00:15:13,962
+# Timing of Scheduled Cesarean Delivery.
+
+124
+00:15:13,962 --> 00:15:22,262
+With elective delivery before 39 completed weeks, adverse neonatal sequelae from neonatal immaturity are appreciable .
+
+125
+00:15:22,262 --> 00:15:28,424
+To avoid these, assurance of fetal maturity before scheduled elective surgery is essential.
+
+126
+00:15:28,424 --> 00:15:42,699
+Supporting criteria include corroborative ultrasound measurements obtained prior to 20 weeks’ gestation, fetal heart tones heard for the past 30 weeks, and passage of 36 weeks since an initial positive pregnancy test result .
+
+127
+00:15:42,699 --> 00:15:45,287
+# Preoperative Care.
+
+128
+00:15:45,287 --> 00:15:52,949
+Current perioperative care is guided by evidence-based enhanced recovery after surgery (ERAS) recommendations.
+
+129
+00:15:52,949 --> 00:15:58,462
+Among these, solid food intake is stopped at least 6 hours before the procedure.
+
+130
+00:15:58,462 --> 00:16:05,012
+Uncomplicated patients may consume moderate amounts of clear liquids up to 2 hours before surgery .
+
+131
+00:16:05,012 --> 00:16:08,062
+Bowel preparation is not recommended .
+
+132
+00:16:08,062 --> 00:16:16,549
+The woman scheduled for cesarean delivery typically is admitted the day of surgery and evaluated by the obstetrical and anesthesia teams.
+
+133
+00:16:16,549 --> 00:16:21,349
+Recently performed hematocrit and indirect Coombs test are reviewed.
+
+134
+00:16:21,349 --> 00:16:26,537
+If the latter is positive, compatible blood availability must be ensured.
+
+135
+00:16:26,537 --> 00:16:30,837
+Regional analgesia is preferred for cesarean delivery.
+
+136
+00:16:30,837 --> 00:16:37,174
+To minimize the lung injury risk from rare aspiration, gastric acid is ideally buffered.
+
+137
+00:16:37,174 --> 00:16:43,862
+An oral antacid is consumed shortly before regional analgesia or induction of general anesthesia.
+
+138
+00:16:43,862 --> 00:16:49,087
+One example is Bicitra, 30 mL orally in a single dose.
+
+139
+00:16:49,087 --> 00:16:57,299
+This can be coupled with an intravenous (IV) dose of an H2-receptor antagonist, which also raises gastric pH .
+
+140
+00:16:57,299 --> 00:17:06,087
+Once the woman is supine, a wedge beneath the right hip and lower back creates a left lateral tilt to aid venous return and avoid hypotension.
+
+141
+00:17:06,087 --> 00:17:14,262
+Data are insufficient to determine the value of fetal monitoring before scheduled cesarean delivery in women without risk factors.
+
+142
+00:17:14,262 --> 00:17:19,212
+Our practice is to obtain a 5-minute tracing prior to elective cases.
+
+143
+00:17:19,212 --> 00:17:25,224
+At minimum, fetal heart sounds should be documented in the operating room prior to surgery.
+
+144
+00:17:25,224 --> 00:17:32,999
+Of further preparations, hair removal at the surgical site does not lower surgical site infection (SSI) rates .
+
+145
+00:17:32,999 --> 00:17:41,399
+However, if hair is obscuring, it is removed the day of surgery by clipping, which is associated with fewer SSIs than shaving .
+
+146
+00:17:41,399 --> 00:17:47,387
+Chemical depilation the night before surgery compared with clipping has similar SSI rates .
+
+147
+00:17:47,387 --> 00:17:53,949
+An electrosurgical grounding pad is placed near the surgical incision and typically on the lateral thigh.
+
+148
+00:17:53,949 --> 00:18:09,262
+At Parkland Hospital, we typically insert an indwelling bladder catheter to collapse the bladder away from the hysterotomy incision, to avert urinary retention secondary to regional analgesia, and to allow accurate postoperative urine measurement.
+
+149
+00:18:09,262 --> 00:18:15,137
+Small studies show that catheterization may be withheld in hemodynamically stable women.
+
+150
+00:18:15,137 --> 00:18:21,349
+Catheter-related discomfort can be avoided, but urinary tract infection rates are not lower .
+
+151
+00:18:21,349 --> 00:18:24,849
+The risk of VTE is increased with pregnancy.
+
+152
+00:18:24,849 --> 00:18:35,474
+In the United States in 2014, women with cesarean delivery had a VTE rate of 8 per 10,000, which almost doubled the rate for those with vaginal birth .
+
+153
+00:18:35,474 --> 00:18:50,249
+Accordingly, for all women not already receiving thromboprophylaxis, the American College of Obstetricians and Gynecologists (2020c) recommends initiation of pneumatic compression stockings before cesarean delivery.
+
+154
+00:18:50,249 --> 00:18:54,274
+These are usually discontinued once the woman ambulates.
+
+155
+00:18:54,274 --> 00:19:05,487
+Consensus varies among organizations, and the American College of Chest Physicians suggests only early ambulation for women without risk factors who are undergoing cesarean delivery .
+
+156
+00:19:05,487 --> 00:19:06,999
+For
+
+157
+00:19:07,156 --> 00:19:14,906
+women already receiving prophylaxis or those with increased risk factors, they support escalation of prophylaxis.
+
+158
+00:19:14,856 --> 00:19:26,718
+Last, the Royal College of Obstetricians and Gynaecologists (2015) is the most conservative and suggest pharmacological prophylaxis for the largest proportion of patients.
+
+159
+00:19:26,718 --> 00:19:33,581
+These various methods and recommendations are discussed in Chapter 55 (p. 989).
+
+160
+00:19:33,581 --> 00:19:41,581
+Some women scheduled for cesarean delivery have a comorbidity that requires specific management in anticipation of surgery.
+
+161
+00:19:41,581 --> 00:19:52,681
+Among others, these include insulin-requiring diabetes, coagulopathy or thrombophilia, chronic corticosteroid use, and significant reactive airway disease.
+
+162
+00:19:52,681 --> 00:19:58,156
+Surgical preparations are discussed in the respective chapters covering these topics.
+
+163
+00:19:58,156 --> 00:20:00,843
+# Infection Prevention.
+
+164
+00:20:00,843 --> 00:20:09,756
+Antibiotic Prophylaxis Cesarean delivery is considered a clean contaminated case, and postoperative febrile morbidity is common.
+
+165
+00:20:09,756 --> 00:20:18,656
+Numerous trials show that a single dose of an antibiotic given at the time of cesarean delivery significantly decreases infectious morbidity .
+
+166
+00:20:18,656 --> 00:20:28,356
+Although more obvious for women in active labor who then require cesarean delivery, this practice also pertains to gravidas undergoing elective surgery.
+
+167
+00:20:28,356 --> 00:20:38,056
+Depending on drug allergies, most recommend a single IV dose of a β-lactam antibiotic— either a cephalosporin or extended-spectrum penicillin.
+
+168
+00:20:38,056 --> 00:20:43,906
+A 1-g dose of cefazolin (Ancef) is an efficacious and cost-effective choice.
+
+169
+00:20:43,906 --> 00:20:52,581
+Additional doses are considered in cases with blood loss >1500 mL or with duration longer than 3 hours.
+
+170
+00:20:52,581 --> 00:21:06,831
+Recommendations for a 2- or 3-g cefazolin dose in obese parturients are conflicting (Ahmadzia, 2015; Maggio, 2015; Swank, 2015; Young, 2015).
+
+171
+00:21:06,831 --> 00:21:21,006
+The Centers for Disease Control and Prevention recommends a 2-g dose for weights ≥80 kg and 3 g for those ≥120 kg (Berríos-Torres, 2017).
+
+172
+00:21:21,006 --> 00:21:31,631
+The American College of Obstetricians and Gynecologists (2020d) recognizes either dose as suitable for women ≥80 kg.
+
+173
+00:21:31,631 --> 00:21:41,081
+One pharmacokinetic analysis in obese women showed sufficient tissue levels with a 2-g dose for cesarean deliveries lasting 1.5 hours.
+
+174
+00:21:41,081 --> 00:21:46,843
+Authors recommended consideration for redosing in obese women if surgeries were longer .
+
+175
+00:21:46,843 --> 00:21:54,681
+Evidence also supports extending the antibiotic spectrum (Markwei, 2021; Tita, 2008).
+
+176
+00:21:54,681 --> 00:22:06,368
+One large randomized trial added azithromycin, 500 mg IV, to standard prophylaxis prior to cesarean delivery for women in labor or with ruptured membranes .
+
+177
+00:22:06,368 --> 00:22:15,218
+Rates of SSIs and endometritis were significantly lower in the extended-spectrum group compared with those in the standard prophylaxis cohort.
+
+178
+00:22:15,218 --> 00:22:28,743
+In pregnant women with a history of infection with methicillin-resistant Staphylococcus aureus (MRSA), a single, 15-mg/kg dose of vancomycin can be added to the standard prophylaxis.
+
+179
+00:22:28,743 --> 00:22:37,556
+Decolonization plays a limited role but may be considered prior to a planned cesarean delivery in women with known MRSA colonization .
+
+180
+00:22:37,556 --> 00:22:45,731
+Significant β-lactam allergy manifests as anaphylaxis, angioedema, respiratory distress, or urticaria.
+
+181
+00:22:45,731 --> 00:22:57,893
+This merits prophylaxis with a single, 900mg IV dose of clindamycin combined with a weight-based, 5-mg/kg dose of an aminoglycoside as an alternative.
+
+182
+00:22:57,893 --> 00:23:03,193
+The 900-mg clindamycin dose is also used for obese patients.
+
+183
+00:23:03,193 --> 00:23:08,431
+Some studies link higher SSI rates to regimens that lack a β-lactam .
+
+184
+00:23:08,431 --> 00:23:16,306
+Antepartum penicillin-allergy evaluation by a specialist may redefine the significance of the patient’s prior reaction.
+
+185
+00:23:16,306 --> 00:23:22,618
+Advantageously, this clarification may remove an allergy label and expanded options .
+
+186
+00:23:22,618 --> 00:23:38,456
+Antibiotic administration before surgical incision lowers postoperative infection rates without adverse neonatal effects compared with drug administration after umbilical cord clamping (Mackeen, 2014b; Sullivan, 2007).
+
+187
+00:23:38,456 --> 00:23:45,268
+Prophylaxis is ideally administered within the 60 minutes prior to the start of planned cesarean delivery.
+
+188
+00:23:45,268 --> 00:23:49,943
+For emergent delivery, antibiotics are given as soon as feasible.
+
+189
+00:23:49,943 --> 00:23:56,956
+Preoperative preparation of the abdominal wall skin immediately prior to surgery can help prevent SSIs.
+
+190
+00:23:56,956 --> 00:24:07,443
+Chlorhexidine-alcohol or povidone-iodine solutions are suitable, but data favor chlorhexidine (Hadiati, 2020; Tolcher, 2019).
+
+191
+00:24:07,443 --> 00:24:10,218
+However, adding a wiping of the
+
+192
+00:24:10,372 --> 00:24:15,447
+skin with chlorhexidine the night before surgery was no better than placebo .
+
+193
+00:24:15,397 --> 00:24:21,234
+Once abdominal preparation is completed and dry, surgical drapes cover the patient.
+
+194
+00:24:21,234 --> 00:24:26,859
+One type has a cut-out window in the lower abdomen that is surrounded by an adhesive border.
+
+195
+00:24:26,859 --> 00:24:33,422
+Others are adhesive incisional drapes, in which the skin and plastic drape must be incised together.
+
+196
+00:24:33,422 --> 00:24:40,634
+The latter may slightly raise SSI rates (Eckler, 2019; Hadiati, 2020).
+
+197
+00:24:40,634 --> 00:24:53,647
+Although not our practice, preoperative vaginal cleansing with a 1percent povidone-iodine scrub lowered endometritis and SSI rates in some studies (Haas, 2020; Roeckner, 2019).
+
+198
+00:24:53,647 --> 00:24:59,822
+With povidone allergy, 4-percent chlorhexidine gluconate solution is an alternative.
+
+199
+00:24:59,822 --> 00:25:09,972
+Last, some early evidence may support extending oral antibiotic prophylaxis for 48 hours postcesarean in obese women to lower SSIs .
+
+200
+00:25:09,972 --> 00:25:17,272
+Antibiotic prophylaxis against infective endocarditis is not recommended for most cardiac conditions.
+
+201
+00:25:17,272 --> 00:25:24,172
+Exceptions are women with repaired or unrepaired cyanotic heart disease, prosthetic valves, or both.
+
+202
+00:25:24,172 --> 00:25:31,409
+Prior infective endocarditis or cardiac transplantation with resulting valve regurgitation are others .
+
+203
+00:25:31,409 --> 00:25:39,647
+Drug infusion is 30 to 60 minutes prior to expected delivery (Table 52-9, p. 935).
+
+204
+00:25:39,647 --> 00:25:46,147
+Cesarean infection prophylaxis regimens also serve as appropriate endocarditis coverage.
+
+205
+00:25:46,147 --> 00:25:55,347
+Other Preventions Glycemic control in diabetics lowers wound infection rates and is emphasized in Chapter 60 (p. 1068).
+
+206
+00:25:55,347 --> 00:25:58,472
+Smoking is another modifiable risk .
+
+207
+00:25:58,472 --> 00:26:08,184
+Intraoperative normothermia lowers wound infection rates in general surgery cases (Balki, 2020; Berríos-Torres, 2017).
+
+208
+00:26:08,184 --> 00:26:12,559
+This tenet is logically extrapolated to cesarean delivery .
+
+209
+00:26:12,559 --> 00:26:18,597
+In children delivered by cesarean, some evidence shows higher asthma and allergy rates .
+
+210
+00:26:18,597 --> 00:26:24,684
+Gut microbiome differences between vaginal and cesarean birth groups are a suggested cause .
+
+211
+00:26:24,684 --> 00:26:36,409
+With the hope to improve neonatal microbiota, swabbing the newborn mouth with a gauze that was incubated in the maternal vagina 1 hour before surgery has been described in preliminary studies.
+
+212
+00:26:36,409 --> 00:26:48,797
+However, the American College of Obstetricians and Gynecologists (2019c) does not encourage this practice due to few data and the potential for transmission of harmful organisms.
+
+213
+00:26:48,797 --> 00:26:51,397
+# Surgical Safety.
+
+214
+00:26:51,397 --> 00:26:57,247
+The Joint Commission (2020) describes a protocol to prevent surgical errors.
+
+215
+00:26:57,247 --> 00:27:05,097
+For cesarean delivery, all relevant documents are verified immediately before surgery, and a “time out” is completed.
+
+216
+00:27:05,097 --> 00:27:12,272
+The “time out” requires attention of the entire team to confirm that the patient, site, and procedure are correct.
+
+217
+00:27:12,272 --> 00:27:25,372
+Important discussions also include introduction of the patient-care team members, verification of prophylactic antibiotics, estimation of procedure length, and communication of anticipated complications.
+
+218
+00:27:25,372 --> 00:27:34,509
+Additionally, requests for special instrumentation should be addressed preoperatively to prevent potential patient compromise and intraoperative delays.
+
+219
+00:27:34,509 --> 00:27:38,197
+Surgical fires are a specific safety focus.
+
+220
+00:27:38,197 --> 00:27:56,259
+As prevention, surgeons ideally assess the fire risk at the procedure’s start, allow adequate drying of alcoholbased skin antiseptics, and keep ignition sources off the patient or drapes when not in use (Food and Drug Administration, 2018; Wolf, 2013).
+
+221
+00:27:56,259 --> 00:28:01,772
+An instrument, sponge, and needle count before and after surgery is essential.
+
+222
+00:28:01,772 --> 00:28:08,559
+Moreover, active communication during surgery should clearly convey items added to the operative field.
+
+223
+00:28:08,559 --> 00:28:16,272
+At surgery completion, if counts are not reconciled, portable radiographic imaging for retained objects is done.
+
+224
+00:28:16,272 --> 00:28:18,984
+Cesarean Delivery Technique.
+
+225
+00:28:18,984 --> 00:28:21,284
+# Laparotomy.
+
+226
+00:28:21,284 --> 00:28:26,597
+As with all surgery, a clear understanding of relevant anatomy is essential .
+
+227
+00:28:26,597 --> 00:28:34,697
+For entry into the abdomen, a suprapubic transverse incision or a midline vertical one is chosen for cesarean delivery.
+
+228
+00:28:34,697 --> 00:28:42,709
+Suitable transverse incisions are Pfannenstiel or Maylard incisions, and the Pfannenstiel type is selected most frequently.
+
+229
+00:28:42,709 --> 00:28:49,609
+Transverse incisions follow Langer lines of skin tension, and thus exert less stress on the closed wound.
+
+230
+00:28:49,609 --> 00:28:57,297
+Compared with vertical ones, Pfannenstiel incisions offer superior cosmesis and lower incisional hernia rates.
+
+231
+00:28:57,297 --> 00:28:59,634
+The Pfannenstiel incision,
+
+232
+00:28:59,788 --> 00:29:08,500
+however, is often discouraged for cases in which a large operating space is essential or in which access to the upper abdomen may be needed.
+
+233
+00:29:08,450 --> 00:29:18,875
+With transverse incisions, because of the layers created during incision of the internal and external oblique aponeuroses, purulent fluid can collect between these.
+
+234
+00:29:18,875 --> 00:29:24,963
+Therefore, some favor a midline vertical incision for cases with high infection risks.
+
+235
+00:29:24,963 --> 00:29:31,675
+Emergent entry is typically faster with vertical incision during primary and repeat cesarean delivery .
+
+236
+00:29:31,675 --> 00:29:44,300
+Last, neurovascular structures, which include the ilioinguinal and iliohypogastric nerves and superficial and inferior epigastric vessels, are often encountered with transverse incisions.
+
+237
+00:29:44,300 --> 00:29:53,350
+Logically, bleeding, wound hematoma, and neurological disruption may more frequently complicate these incisions compared with vertical ones.
+
+238
+00:29:53,350 --> 00:29:57,800
+The best incision for the morbidly obese parturient is unclear .
+
+239
+00:29:57,800 --> 00:30:03,625
+Our preference for women with morbid obesity is a periumbilical midline vertical incision .
+
+240
+00:30:03,625 --> 00:30:14,638
+The Maylard incision differs mainly from the Pfannenstiel in that the rectus abdominis muscle bellies and their investing rectus sheath are transected horizontally to widen the operating space.
+
+241
+00:30:14,638 --> 00:30:24,125
+It is technically more difficult due to required muscle cutting and ligation of the inferior epigastric arteries, which lie laterally to these muscle bellies.
+
+242
+00:30:24,125 --> 00:30:30,288
+Once access is gained, metal handheld retractors provide exposure for hysterotomy.
+
+243
+00:30:30,288 --> 00:30:41,125
+One metaanalysis with nearly 1700 women showed no lowering of postcesarean SSI rates with a disposable plastic barrier retractor (AlexisO) .
+
+244
+00:30:41,125 --> 00:30:51,400
+Transverse Incisions With the Pfannenstiel incision, the skin and subcutaneous tissue are incised using a low, transverse, slightly curvilinear incision.
+
+245
+00:30:51,400 --> 00:30:59,000
+This is made at the pubic hairline, which is typically 3 cm above the superior border of the symphysis pubis.
+
+246
+00:30:59,000 --> 00:31:05,713
+The incision is extended laterally to accommodate delivery —12 to 15 cm is typical.
+
+247
+00:31:05,713 --> 00:31:10,538
+Sharp dissection is continued through the subcutaneous layer to the fascia.
+
+248
+00:31:10,538 --> 00:31:20,788
+The superficial epigastric vessels can usually be identified halfway between the skin and fascia, several centimeters from the midline, and these are coagulated.
+
+249
+00:31:20,788 --> 00:31:24,500
+The fascia is then incised sharply at the midline.
+
+250
+00:31:24,500 --> 00:31:37,963
+The anterior abdominal fascia is typically composed of two visible layers, the aponeurosis from the external oblique muscle and a fused layer containing aponeuroses of the internal oblique and transverse abdominis muscles.
+
+251
+00:31:37,963 --> 00:31:44,538
+Ideally, the two layers are individually incised during lateral extension of the fascial incision.
+
+252
+00:31:44,538 --> 00:31:56,250
+The inferior epigastric vessels usually lie outside the lateral border of the rectus abdominis muscle and beneath the fused aponeuroses of the internal oblique and transverse abdominis muscles.
+
+253
+00:31:56,250 --> 00:32:03,650
+Thus, although infrequently required, further lateral extension of the fascial incision may encounter these vessels.
+
+254
+00:32:03,650 --> 00:32:11,288
+In this case, vessels ideally are identified and coagulated or ligated to prevent bleeding and vessel retraction.
+
+255
+00:32:11,288 --> 00:32:28,500
+Once the fascia is incised, the inferior fascial edge is grasped with Kocher clamps and elevated by an assistant as the operator separates the fascial sheath from the underlying rectus abdominis muscle either bluntly or sharply until the superior border of the symphysis pubis is reached.
+
+256
+00:32:28,500 --> 00:32:36,063
+Next, the superior fascial edge is grasped and again, separation of fascia from the rectus muscle is completed.
+
+257
+00:32:36,063 --> 00:32:44,475
+Blood vessels coursing between the sheath and muscles are clamped, cut, and ligated, or they are coagulated with an electrosurgery blade.
+
+258
+00:32:44,475 --> 00:32:50,625
+Meticulous hemostasis is imperative to lower rates of incisional hematoma and infection.
+
+259
+00:32:50,625 --> 00:33:00,850
+The fascial separation progresses cephalad and laterally to create a semicircular area above the transverse incision with a radius of approximately 8 cm.
+
+260
+00:33:00,850 --> 00:33:04,050
+This will vary depending on fetal size.
+
+261
+00:33:04,050 --> 00:33:12,313
+The rectus abdominis and pyramidalis muscles are separated in the midline to expose the transversalis fascia and peritoneum.
+
+262
+00:33:12,313 --> 00:33:19,625
+The transversalis fascia and preperitoneal fat are bluntly dissected away to reach the underlying peritoneum.
+
+263
+00:33:19,625 --> 00:33:25,750
+The peritoneum near the upper end of the incision is opened carefully, either bluntly or by
+
+264
+00:33:25,900 --> 00:33:31,137
+elevating it with two hemostats placed approximately 2 cm apart.
+
+265
+00:33:31,087 --> 00:33:34,412
+This upper site lowers cystotomy risks.
+
+266
+00:33:34,412 --> 00:33:42,950
+The tented fold of peritoneum between the clamps is examined and palpated to ensure that omentum, bowel, or bladder is not adjacent.
+
+267
+00:33:42,950 --> 00:33:45,825
+The peritoneum is then incised.
+
+268
+00:33:45,825 --> 00:33:55,587
+As the incision is extended cephalad above the arcuate line, the transverse fibers of the posterior rectus sheath are seen and are cut along with the peritoneum.
+
+269
+00:33:55,587 --> 00:34:02,225
+The peritoneal incision is then extended downward to just above the peritoneal reflection over the bladder.
+
+270
+00:34:02,225 --> 00:34:12,662
+Importantly, in women with prior intraabdominal surgery, including cesarean delivery, omentum or bowel may be adhered to the undersurface of the peritoneum.
+
+271
+00:34:12,662 --> 00:34:17,975
+In women with obstructed labor, the bladder may be pushed remarkably cephalad.
+
+272
+00:34:17,975 --> 00:34:25,075
+Midline Vertical Incision This incision begins 2 to 3 cm above the superior margin of the symphysis.
+
+273
+00:34:25,075 --> 00:34:31,712
+It should be sufficiently long to allow fetal delivery, and 12 to 15 cm is typical.
+
+274
+00:34:31,712 --> 00:34:39,287
+Sharp or electrosurgical blade dissection through the subcutaneous layers ultimately exposes the anterior rectus sheath.
+
+275
+00:34:39,287 --> 00:34:44,487
+A small opening is made sharply with scalpel in the upper half of the linea alba.
+
+276
+00:34:44,487 --> 00:34:48,000
+Placement here helps avoid potential cystotomy.
+
+277
+00:34:48,000 --> 00:34:56,937
+Index and middle fingers are placed beneath the fascia, and the fascial incision is extended first superiorly and then inferiorly with scissors.
+
+278
+00:34:56,937 --> 00:35:06,287
+Midline separation of the rectus muscles and pyramidalis muscles and peritoneal entry are similar to those just described for the Pfannenstiel incision.
+
+279
+00:35:06,287 --> 00:35:08,600
+# Hysterotomy.
+
+280
+00:35:08,600 --> 00:35:15,987
+Most often, the lower uterine segment is incised transversely as described by Kerr in 1921.
+
+281
+00:35:15,987 --> 00:35:23,837
+Occasionally, vertical incision confined solely to the lower uterine segment may be elected (Krönig, 1912).
+
+282
+00:35:23,837 --> 00:35:33,287
+In contrast, a classical incision begins as a low vertical incision, which is then extended cephalad into the active portion of the uterine corpus.
+
+283
+00:35:33,287 --> 00:35:40,737
+Last, a fundal or even posterior uterine incision may be selected for cases with placenta accreta syndrome.
+
+284
+00:35:40,737 --> 00:35:47,050
+Low Transverse Cesarean Incision For most cesarean deliveries, this incision is preferred.
+
+285
+00:35:47,050 --> 00:35:57,537
+Compared with a classical incision, it repairs easily, causes less incision-site bleeding, and promotes less bowel or omentum adherence to the myometrial incision.
+
+286
+00:35:57,537 --> 00:36:03,937
+Located in the inactive segment, it is also less likely to rupture during a subsequent pregnancy.
+
+287
+00:36:03,937 --> 00:36:10,400
+Before hysterotomy, the surgeon palpates the fundus to identify degrees of uterine rotation.
+
+288
+00:36:10,400 --> 00:36:16,775
+The uterus may be rotated so that one round ligament is more anterior and closer to the midline .
+
+289
+00:36:16,775 --> 00:36:23,462
+In such cases, the uterus can be manually reoriented and held to permit centering of the incision.
+
+290
+00:36:23,462 --> 00:36:29,012
+This avoids incision extension into and laceration of the adjacent uterine artery.
+
+291
+00:36:29,012 --> 00:36:34,312
+A moist sponge may be used to pack protruding bowel away from the operative field.
+
+292
+00:36:34,312 --> 00:36:44,812
+The reflection of peritoneum at the upper margin of the bladder and overlying the lower uterine segment is grasped in the midline with forceps and incised transversely with scissors .
+
+293
+00:36:44,812 --> 00:36:52,050
+Following this initial incision, scissors are inserted between peritoneum and lower-uterinesegment myometrium.
+
+294
+00:36:52,050 --> 00:36:56,525
+Open scissors are pushed laterally from the midline on each side.
+
+295
+00:36:56,525 --> 00:37:02,675
+This transverse peritoneal incision extends almost the full length of the lower uterine segment.
+
+296
+00:37:02,675 --> 00:37:08,800
+As the lateral margin on each side is approached, the scissors are directed slightly cephalad .
+
+297
+00:37:08,800 --> 00:37:19,962
+The lower edge of peritoneum is elevated, and the bladder is gently separated from the underlying lower uterine segment with blunt or sharp dissection within this vesicouterine space .
+
+298
+00:37:19,962 --> 00:37:26,037
+This bladder flap creation effectively moves the bladder away from the planned hysterotomy site.
+
+299
+00:37:26,037 --> 00:37:33,800
+It also helps prevent bladder laceration if an unintended inferior hysterotomy extension occurs during fetal delivery.
+
+300
+00:37:33,800 --> 00:37:39,950
+If dense adhesions complicate vesicouterine space dissection, sharp dissection is preferred.
+
+301
+00:37:39,950 --> 00:37:48,350
+If unclear, the bladder and its upper border can be identified by distending or “back filling” it with fluid instilled through a Foley catheter .
+
+302
+00:37:48,350 --> 00:37:50,637
+Figure 30-1.
+
+303
+00:37:50,637 --> 00:37:56,375
+The loose peritoneum above the bladder reflection is grasped with forceps and incised with
+
+304
+00:37:56,524 --> 00:37:58,736
+Metzenbaum scissors.
+
+305
+00:37:58,686 --> 00:38:00,924
+Figure 30-2.
+
+306
+00:38:00,924 --> 00:38:05,336
+This peritoneal edge is elevated and incised laterally.
+
+307
+00:38:05,336 --> 00:38:07,649
+Figure 30-3.
+
+308
+00:38:07,649 --> 00:38:14,036
+Cross section shows blunt dissection of the bladder off the uterus to expose the lower uterine segment.
+
+309
+00:38:14,036 --> 00:38:20,811
+In general, this caudad separation of bladder does not exceed 5 cm and usually is less.
+
+310
+00:38:20,811 --> 00:38:32,986
+However, in instances in which cesarean hysterectomy is planned or anticipated, extended caudad bladder dissection is recommended to aid total hysterectomy and decrease the risk of cystotomy.
+
+311
+00:38:32,986 --> 00:38:36,386
+Some surgeons do not create a bladder flap.
+
+312
+00:38:36,386 --> 00:38:40,599
+The main advantage is a shorter skin incision-to-delivery time.
+
+313
+00:38:40,599 --> 00:38:48,699
+However, data supporting this practice are currently limited (O’Neill, 2014; Tuuli, 2012).
+
+314
+00:38:48,699 --> 00:38:50,686
+Uterine Incision.
+
+315
+00:38:50,686 --> 00:38:54,361
+The uterus is entered through the lower uterine segment.
+
+316
+00:38:54,361 --> 00:39:03,511
+Digital palpation to find the physiological border between firmer upper segment myometrium and the more flexible lower segment can guide placement.
+
+317
+00:39:03,511 --> 00:39:07,261
+This is often at the level of the bladder flap incision.
+
+318
+00:39:07,261 --> 00:39:13,949
+For women with advanced or complete cervical dilation, the hysterotomy is placed relatively higher.
+
+319
+00:39:13,949 --> 00:39:20,336
+Failure to adjust increases the risk of lateral extension of the incision into the uterine arteries.
+
+320
+00:39:20,336 --> 00:39:26,211
+It may also lead to incision of the cervix or vagina rather than the lower uterine segment.
+
+321
+00:39:26,211 --> 00:39:31,111
+Such incisions into the cervix distort postoperative cervical anatomy.
+
+322
+00:39:31,111 --> 00:39:34,924
+The uterus can be incised by various techniques.
+
+323
+00:39:34,924 --> 00:39:43,561
+Each is initiated by using a scalpel to transversely incise the exposed lower uterine segment for 1 to 2 cm in the midline .
+
+324
+00:39:43,561 --> 00:39:47,724
+Repetitive shallow strokes help avoid fetal laceration.
+
+325
+00:39:47,724 --> 00:39:53,336
+As the myometrium thins, a fingertip can then bluntly enter the uterine cavity.
+
+326
+00:39:53,336 --> 00:40:03,536
+Once the uterus is entered, the hysterotomy is lengthened by simply spreading the incision, using lateral and slightly upward pressure applied with each index finger .
+
+327
+00:40:03,536 --> 00:40:18,324
+Instead, some evidence supports widening the lower-uterine-segment incision by pulling with fingers in a cephalocaudad direction to help lower hysterotomy extension rates (Morales, 2019; Xodo, 2016).
+
+328
+00:40:18,324 --> 00:40:20,674
+Figure 30-4.
+
+329
+00:40:20,674 --> 00:40:25,886
+The myometrium is incised with shallow strokes to avoid cutting the fetal head.
+
+330
+00:40:25,886 --> 00:40:28,286
+Figure 30-5.
+
+331
+00:40:28,286 --> 00:40:36,024
+After entering the uterine cavity, the incision is extended laterally with fingers or with bandage scissors (inset).
+
+332
+00:40:36,024 --> 00:40:43,686
+The goal is to create an incision sufficiently wide to deliver the presenting fetal part yet avoid overextending the incision.
+
+333
+00:40:43,686 --> 00:40:50,374
+Extensions usually tear downward into the lower uterine segment or laterally into the uterine vessels.
+
+334
+00:40:50,374 --> 00:40:54,911
+Extensive inferior tears may include the cervix or vagina.
+
+335
+00:40:54,911 --> 00:41:09,336
+Risk factors for extensions include occiput posterior fetal head position, primary cesarean delivery, and advanced first-stage or second-stage labor (de la Torre, 2006; Karavani, 2020).
+
+336
+00:41:09,336 --> 00:41:15,349
+Specific maneuvers to ameliorate this last high-risk setting are discussed in the next section.
+
+337
+00:41:15,349 --> 00:41:24,986
+Alternatively, if the lower uterine segment is thick and unyielding, cutting laterally and then slightly upward with bandage scissors will lengthen the incision.
+
+338
+00:41:24,986 --> 00:41:36,074
+Importantly, when scissors are used, the index and middle fingers of the nondominant hand are insinuated beneath the myometrium and above fetal parts to help avert fetal laceration.
+
+339
+00:41:36,074 --> 00:41:47,761
+Comparing blunt and sharp expansion of the initial uterine incision, blunt stretch is associated with fewer unintended incision extensions, shorter operative time, and less blood loss.
+
+340
+00:41:47,761 --> 00:41:56,874
+However, the rates of infection and need for transfusion do not differ (Asıcıoğlu, 2014; Saad, 2014).
+
+341
+00:41:56,874 --> 00:42:04,411
+During hysterotomy creation, if the placenta lies in the incision line, it must be either detached or incised.
+
+342
+00:42:04,411 --> 00:42:09,699
+Placental function is thereby compromised, and thus delivery is expedited.
+
+343
+00:42:09,699 --> 00:42:16,286
+At times, a low transverse hysterotomy is selected but provides inadequate room for delivery.
+
+344
+00:42:16,286 --> 00:42:25,949
+In such instances, one corner of the hysterotomy incision is extended cephalad into the contractile portion of the myometrium—a J incision.
+
+345
+00:42:25,949 --> 00:42:30,361
+If this is completed bilaterally, a U incision is formed.
+
+346
+00:42:30,361 --> 00:42:34,986
+Last, some prefer to extend in the midline—a T incision.
+
+347
+00:42:34,986 --> 00:42:43,361
+As expected, these have been linked with higher intraoperative blood loss (Boyle, 1996; Patterson, 2002).
+
+348
+00:42:43,361 --> 00:42:46,274
+J-, U-, and
+
+349
+00:42:46,444 --> 00:42:56,919
+T-incisions extend into the contractile portion, and a subsequent trial of labor after cesarean (TOLAC) is more likely to be complicated by uterine rupture.
+
+350
+00:42:56,869 --> 00:43:06,831
+Similarly, from limited data, inferior hysterotomy extensions also are associated with higher rupture rates, and in our practice these preclude TOLAC .
+
+351
+00:43:06,831 --> 00:43:21,531
+The Royal College of Obstetricians and Gynaecologists (2015) notes insufficient evidence to support the general safety of TOLAC in women with a prior significant uterine extension and cautions for decisions to be individualized.
+
+352
+00:43:21,531 --> 00:43:30,694
+Last, a prior classical incision, described later, or a fundal incision substantially raises the rupture risk during subsequent TOLAC.
+
+353
+00:43:30,694 --> 00:43:44,469
+Thus, following a primary cesarean delivery complicated by these exceptional incision types, a conversation disclosing these events and their significance should ensue with the patient and are carefully described in the operative report.
+
+354
+00:43:44,469 --> 00:43:46,669
+Delivery of the Fetus.
+
+355
+00:43:46,669 --> 00:43:53,519
+With a cephalic presentation, a hand is slipped into the uterine cavity between the symphysis and fetal head.
+
+356
+00:43:53,519 --> 00:43:58,081
+The head is elevated gently with the fingers and palm through the incision.
+
+357
+00:43:58,081 --> 00:44:03,681
+Once the head enters the incision, delivery may be aided by modest fundal pressure .
+
+358
+00:44:03,681 --> 00:44:06,069
+Figure 30-6.
+
+359
+00:44:06,069 --> 00:44:08,444
+Delivery of the fetal head.
+
+360
+00:44:08,444 --> 00:44:15,694
+Figures 30-6 to 30-8: Reproduced with permission from Johnson DD: Cesarean delivery.
+
+361
+00:44:15,694 --> 00:44:25,006
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+362
+00:44:25,006 --> 00:44:29,494
+New York, NY: McGraw Hill; 2017.
+
+363
+00:44:29,494 --> 00:44:36,381
+After a long labor with cephalopelvic disproportion, the fetal head may be tightly wedged in the birth canal.
+
+364
+00:44:36,381 --> 00:44:44,156
+This situation raises the risk of hysterotomy extension, of associated blood loss, and of fetal skull fracture.
+
+365
+00:44:44,156 --> 00:44:47,219
+First, a “push” method may be used.
+
+366
+00:44:47,219 --> 00:44:55,006
+With this, upward pressure exerted by a hand in the vagina by an assistant will help to dislodge the head and push it cephalad.
+
+367
+00:44:55,006 --> 00:45:01,419
+If this is anticipated, a patient in frog-leg position may allow easier vaginal access.
+
+368
+00:45:01,419 --> 00:45:07,919
+Second, as an alternative, a “pull” method grasps the fetal legs and brings them through the hysterotomy.
+
+369
+00:45:07,919 --> 00:45:12,306
+The fetus is then delivered as one would complete a breech extraction.
+
+370
+00:45:12,306 --> 00:45:22,981
+Support for this latter approach comes from small randomized trials and retrospective cohort studies (Berhan, 2014; Jeve, 2016).
+
+371
+00:45:22,981 --> 00:45:27,231
+The main advantage appears to be lower uterine extension rates.
+
+372
+00:45:27,231 --> 00:45:34,131
+Another pull method attempts to free the head by placing a palm on each fetal shoulder and gently elevating them.
+
+373
+00:45:34,131 --> 00:45:37,994
+Last, a least-common method uses a “fetal pillow.
+
+374
+00:45:37,994 --> 00:45:45,181
+This is a distensible intravaginal balloon that is positioned below the head and then inflated to elevate the fetal head.
+
+375
+00:45:45,181 --> 00:45:53,969
+Evidence for its superiority to the push method is limited and conflicting (Sacre, 2021; Seal, 2016).
+
+376
+00:45:53,969 --> 00:46:00,744
+Conversely, in women without labor, the fetal head may be unmolded and lack a leading cephalic point.
+
+377
+00:46:00,744 --> 00:46:08,544
+The round head may be difficult to lift through the uterine incision in a relatively thick lower segment that is unattenuated by labor.
+
+378
+00:46:08,544 --> 00:46:14,706
+In such instances, either forceps or a vacuum device may be used to deliver the fetal head.
+
+379
+00:46:14,706 --> 00:46:20,794
+For this, the fetal head is manually grasped and turned to an occiput transverse position.
+
+380
+00:46:20,794 --> 00:46:25,219
+In this example, the head is left OT (LOT) position.
+
+381
+00:46:25,219 --> 00:46:31,394
+Two or more fingers of the right hand are introduced inside the hysterotomy and behind the fetal head .
+
+382
+00:46:31,394 --> 00:46:35,319
+Fingers of the left hand grasp the handle of the forceps.
+
+383
+00:46:35,319 --> 00:46:39,944
+The blade’s toe is gently introduced between the hand and fetal head.
+
+384
+00:46:39,944 --> 00:46:44,931
+It is curved inward between the fetal head and the palmar surface of the fingers.
+
+385
+00:46:44,931 --> 00:46:52,856
+For the upper blade, two or more fingers of the left hand are inserted into the right posterolateral aspect of the hysterotomy.
+
+386
+00:46:52,856 --> 00:46:56,219
+The forceps handle is grasped by the right hand.
+
+387
+00:46:56,219 --> 00:47:02,269
+The blade toe is then gently introduced along the posterior left lower uterine segment wall.
+
+388
+00:47:02,269 --> 00:47:08,944
+It is curved inward between the fetal face and the palmar surface of the fingers (Fig. 308A).
+
+389
+00:47:08,944 --> 00:47:13,519
+The fingers of the left hand are moved beneath the lower edge of this blade.
+
+390
+00:47:13,519 --> 00:47:18,381
+Upward pressure against this edge will sweep or wander the blade into position.
+
+391
+00:47:18,381 --> 00:47:22,419
+As the blade reaches its final position, the shank and
+
+392
+00:47:22,588 --> 00:47:29,075
+handle come to rest in the midline, and the two handles are articulated (Fig. 30-8B).
+
+393
+00:47:29,025 --> 00:47:33,288
+Traction is up and out to guide the occiput through the hysterotomy.
+
+394
+00:47:33,288 --> 00:47:37,738
+Concurrent, gentle fundal pressure can be applied by an assistant.
+
+395
+00:47:37,738 --> 00:47:40,075
+Figure 30-7.
+
+396
+00:47:40,075 --> 00:47:45,475
+To place the first forceps blade, the operator’s palm is slipped beneath the head.
+
+397
+00:47:45,475 --> 00:47:53,550
+It is guided along the palm to ultimately lie across the fetal malar and lower parietal bone as in vaginal forceps application.
+
+398
+00:47:53,550 --> 00:47:55,813
+Figure 30-8.
+
+399
+00:47:55,813 --> 00:48:03,550
+A. To apply the second blade, the operator’s hand is inserted into the posterolateral aspect of the hysterotomy.
+
+400
+00:48:03,550 --> 00:48:07,213
+The forceps blade is slipped inward across the palm.
+
+401
+00:48:07,213 --> 00:48:12,675
+This hand then guides the blade to overlie the upper malar and parietal bones.
+
+402
+00:48:12,675 --> 00:48:16,450
+B. Once positioned, the handles are interlocked.
+
+403
+00:48:16,450 --> 00:48:21,313
+Slight upward and outward traction is used to lift the head through the incision.
+
+404
+00:48:21,313 --> 00:48:29,825
+After head delivery, a finger is passed across the fetal neck to determine whether it is encircled by one or more umbilical cord loops.
+
+405
+00:48:29,825 --> 00:48:32,963
+If present, these are slipped over the head.
+
+406
+00:48:32,963 --> 00:48:40,263
+The head is rotated to an occiput transverse position, which aligns the fetal bisacromial diameter vertically.
+
+407
+00:48:40,263 --> 00:48:49,338
+The sides of the head are grasped with two hands, and gentle axial traction is applied until the anterior shoulder enters the hysterotomy incision.
+
+408
+00:48:49,338 --> 00:48:54,625
+Next, by upward axial traction, the posterior shoulder is delivered.
+
+409
+00:48:54,625 --> 00:49:01,163
+During delivery, abrupt or powerful lateral force is avoided to avert brachial plexus injury.
+
+410
+00:49:01,163 --> 00:49:06,163
+With steady outward traction, the rest of the body then readily follows.
+
+411
+00:49:06,163 --> 00:49:09,113
+Gentle fundal pressure may aid this.
+
+412
+00:49:09,113 --> 00:49:18,888
+With some exceptions, current American Heart Association recommends against routine neonatal suctioning immediately after birth, even with meconium present .
+
+413
+00:49:18,888 --> 00:49:26,300
+A fuller discussion of this and delayed umbilical cord clamping is found in Chapter 27 (p. 500).
+
+414
+00:49:26,300 --> 00:49:38,213
+Specific to cesarean delivery, delayed clamping does not lower maternal hemoglobin levels on the first postoperative day (Jenusaitis, 2020; Purisch, 2019).
+
+415
+00:49:38,213 --> 00:49:44,200
+After the umbilical cord is clamped, the newborn is given to the team member who will conduct care.
+
+416
+00:49:44,200 --> 00:49:55,813
+Comparing elective cesarean under neuraxial anesthesia and spontaneous vaginal deliveries, studies show that the need for neonatal resuscitation is not practically different between the two .
+
+417
+00:49:55,813 --> 00:50:09,638
+The American Academy of Pediatrics and the American College of Obstetricians and Gynecologists (2017) recommend that “a qualified person who is skilled in neonatal resuscitation should be in the delivery room.
+
+418
+00:50:09,638 --> 00:50:17,213
+At Parkland Hospital, pediatric nurse practitioners attend uncomplicated, scheduled cesarean deliveries.
+
+419
+00:50:17,213 --> 00:50:24,375
+Notably, as anticipated neonatal risks rise, so too should the resuscitative skills of the attendants .
+
+420
+00:50:24,375 --> 00:50:35,650
+To promote breastfeeding, the American College of Obstetricians and Gynecologists (2020b) recommends skin-to-skin contact between newborn and mother in the delivery room.
+
+421
+00:50:35,650 --> 00:50:49,013
+Although most randomized trials focus on vaginal birth, several small studies support such contact following cesarean delivery, and this is our practice (Frederick, 2020; Moore, 2016).
+
+422
+00:50:49,013 --> 00:50:52,575
+Breastfeeding can be initiated the day of surgery.
+
+423
+00:50:52,575 --> 00:50:54,875
+Delivery of the Placenta.
+
+424
+00:50:54,875 --> 00:50:59,450
+The uterine incision is observed for any vigorously bleeding sites.
+
+425
+00:50:59,450 --> 00:51:03,650
+These should be quickly clamped with Pennington or ring forceps.
+
+426
+00:51:03,650 --> 00:51:19,063
+Although some surgeons may prefer manual removal of the placenta, spontaneous delivery prompted by some gentle steady cord traction may reduce the risk of operative blood loss and infection (Anorlu, 2008; Baksu, 2005).
+
+427
+00:51:19,063 --> 00:51:24,600
+Traction is coupled with fundal massage to hasten placental separation and delivery .
+
+428
+00:51:24,600 --> 00:51:26,925
+Figure 30-9.
+
+429
+00:51:26,925 --> 00:51:31,550
+Placenta bulging through the uterine incision as the uterus contracts.
+
+430
+00:51:31,550 --> 00:51:37,075
+A hand gently massages the fundus to help aid spontaneous placental separation.
+
+431
+00:51:37,075 --> 00:51:49,588
+Immediately after delivery and quick gross inspection of the placenta for missing portions, the uterine cavity is suctioned and wiped out with a gauze sponge to remove avulsed membranes, vernix, and clots.
+
+432
+00:51:49,588 --> 00:51:57,713
+In the past, doublegloved fingers or ring forceps placed through the hysterotomy incision were used to dilate a closed cervix.
+
+433
+00:51:57,713 --> 00:52:01,150
+This does not reduce infection or postpartum
+
+434
+00:52:01,300 --> 00:52:08,562
+hemorrhage rates and is not our practice (Kirscht, 2017; Liabsuetrakul, 2018).
+
+435
+00:52:08,512 --> 00:52:19,675
+To help prevent uterine atony after birth, an IV infusion containing two ampules or 20 units of oxytocin per liter of crystalloid is infused at 10 mL/min.
+
+436
+00:52:19,675 --> 00:52:27,162
+Some prefer higher infusion rates, however, nondilute boluses are avoided because of associated hypotension .
+
+437
+00:52:27,162 --> 00:52:32,062
+Once the uterus contracts satisfactorily, the rate can be reduced.
+
+438
+00:52:32,062 --> 00:52:39,737
+Although not available in the United States, an alternative is carbetocin, which is a longer-acting oxytocin derivative.
+
+439
+00:52:39,737 --> 00:52:44,862
+It provides suitable, albeit more expensive, hemorrhage prophylaxis .
+
+440
+00:52:44,862 --> 00:52:55,337
+Other choices for hemorrhage prophylaxis include misoprostol (Cytotec) and the ergots, namely methylergonovine (Methergine) and ergonovine (Ergotrate).
+
+441
+00:52:55,337 --> 00:53:02,737
+A combination agent of oxytocin plus ergonovine (Syntometrine) is used outside the United States.
+
+442
+00:53:02,737 --> 00:53:09,875
+Of agents, the World Health Organization (2018) recommends oxytocin for first-line use.
+
+443
+00:53:09,875 --> 00:53:17,987
+Last, tranexamic acid (TXA) can be added to a standard oxytocin infusion to help prevent blood loss.
+
+444
+00:53:17,987 --> 00:53:27,150
+Despite early encouraging evidence, methodology flaws have been cited (Franchini, 2018; Ker, 2016).
+
+445
+00:53:27,150 --> 00:53:37,000
+With TXA in one large trial, rates of estimated blood loss >1000 mL or red-cell transfusion were lower than with placebo.
+
+446
+00:53:37,000 --> 00:53:43,587
+But, TXA did not lower rates of common blood loss–related secondary clinical outcomes .
+
+447
+00:53:43,587 --> 00:53:50,462
+In contrast to prevention, treatment of atony is found in Chapter 42 (p. 734).
+
+448
+00:53:50,462 --> 00:53:52,387
+Uterine Repair.
+
+449
+00:53:52,387 --> 00:53:59,012
+After placental delivery, the uterus is lifted through the incision and onto the draped abdominal wall.
+
+450
+00:53:59,012 --> 00:54:06,537
+We favor exteriorizing and believe a relaxed, atonic uterus can be recognized quickly and massage applied.
+
+451
+00:54:06,537 --> 00:54:14,600
+Incision and bleeding points are more easily visualized and repaired, especially if extensions were torn or the patient is obese.
+
+452
+00:54:14,600 --> 00:54:20,212
+Adnexal exposure is superior, and thus, tubal sterilization is easier.
+
+453
+00:54:20,212 --> 00:54:26,237
+In contrast, some clinicians prefer to close the hysterotomy with the uterus in situ.
+
+454
+00:54:26,237 --> 00:54:39,012
+Comparing these two approaches, the Coronis Collaborative Group (2013) trial randomly assigned nearly 5000 parturients and found no differences in the endometritis or transfusion rate.
+
+455
+00:54:39,012 --> 00:54:46,100
+In one large metaanalysis, nausea and vomiting and associated pain rates were comparable with either method .
+
+456
+00:54:46,100 --> 00:54:51,587
+Before hysterotomy closure, IUD insertion, if planned, is completed .
+
+457
+00:54:51,587 --> 00:54:58,325
+Our practice is to perform a primary needle and sponge count prior to uterine incision closure completion.
+
+458
+00:54:58,325 --> 00:55:04,487
+For closure, one end of the uterine incision is grasped to stabilize and maneuver the incision.
+
+459
+00:55:04,487 --> 00:55:11,475
+The uterine incision is then closed with one or two layers of continuous 0- or no. 1 absorbable suture .
+
+460
+00:55:11,475 --> 00:55:19,700
+Chromic catgut suture is used by many, but some prefer synthetic delayed-absorbable polyglactin 910 (Vicryl).
+
+461
+00:55:19,700 --> 00:55:29,287
+In subsequent pregnancy, neither suture type is superior in mitigating against greater rates of adverse pregnancy outcomes such as uterine incision rupture .
+
+462
+00:55:29,287 --> 00:55:31,587
+Figure 30-10.
+
+463
+00:55:31,587 --> 00:55:37,137
+The cut edges of the uterine incision are approximated with a running, locking suture.
+
+464
+00:55:37,137 --> 00:55:51,037
+Single-layer closure is typically faster and is not associated with higher rates of infection or transfusion (CAESAR Study Collaborative Group, 2010; Dodd, 2014; Roberge, 2014).
+
+465
+00:55:51,037 --> 00:56:06,000
+Moreover, most studies observed that the number of layers does not significantly affect complication rates in the next pregnancy (Chapman, 1997; CORONIS Collaborative Group, 2016; Durnwald, 2003).
+
+466
+00:56:06,000 --> 00:56:16,000
+One randomized trial with nearly 1600 parturients found a slightly greater formation rate of cesarean scar niches at 3 months after double-layer closure .
+
+467
+00:56:16,000 --> 00:56:21,625
+At Parkland Hospital, we use a one-layer uterine closure with chromic catgut.
+
+468
+00:56:21,625 --> 00:56:26,450
+The initial suture is placed just beyond one end of the uterine incision.
+
+469
+00:56:26,450 --> 00:56:34,662
+A continuous, locking suture line for hemostasis is performed, and each suture penetrates the full myometrial thickness.
+
+470
+00:56:34,662 --> 00:56:39,925
+The suture line then extends to a point just beyond the incision’s opposite end.
+
+471
+00:56:39,925 --> 00:56:45,737
+If bleeding sites or defects persist after a single layer, more sutures are required.
+
+472
+00:56:45,737 --> 00:56:52,387
+Another layer of running suture or individually targeted figure-eight or mattress stitches are options.
+
+473
+00:56:52,387 --> 00:56:54,612
+Although not our routine
+
+474
+00:56:54,772 --> 00:57:03,197
+practice, the peritoneum in the anterior cul-desac can be approximated with a continuous 2-0 chromic catgut suture line.
+
+475
+00:57:03,147 --> 00:57:15,709
+Multiple randomized trials suggest that omission of this step causes no postoperative complications (Grundsell, 1998; Irion, 1996; Nagele, 1996).
+
+476
+00:57:15,709 --> 00:57:23,234
+If tubal sterilization is planned, it is completed as described in Chapter 39 (p. 683).
+
+477
+00:57:23,234 --> 00:57:32,822
+Adhesions Following cesarean delivery, adhesions commonly form within the vesicouterine space or between the anterior abdominal wall and uterus.
+
+478
+00:57:32,822 --> 00:57:42,984
+With each successive pregnancy, the percentage of affected women and adhesion severity rise (Morales, 2007; Tulandi, 2009).
+
+479
+00:57:42,984 --> 00:57:53,022
+Adhesions can significantly lengthen incision-to-delivery time and total operative time (Rossouw, 2013; Sikirica, 2012).
+
+480
+00:57:53,022 --> 00:58:02,309
+Rates of cystotomy and bowel injury also are raised because of adhesive disease (Rahman, 2009; Silver, 2006).
+
+481
+00:58:02,309 --> 00:58:13,047
+Intuitively, scarring can be reduced by handling tissues delicately, achieving hemostasis, and minimizing tissue ischemia, infection, and foreignbody reaction.
+
+482
+00:58:13,047 --> 00:58:28,497
+Most recent data on short- and long-term outcomes show no benefit to peritoneal closure (CAESAR Study Collaborative Group, 2010; CORONIS Collaborative Group, 2013, 2016; Kapustian, 2012).
+
+483
+00:58:28,497 --> 00:58:39,084
+Similarly, most studies show no benefit from placement of an adhesion barrier at the hysterotomy site (Edwards, 2014; Kiefer, 2016).
+
+484
+00:58:39,084 --> 00:58:48,459
+Abdominal Closure Any laparotomy sponges are removed, and the paracolic gutters and cul-desac are gently suctioned of blood and amnionic fluid.
+
+485
+00:58:48,459 --> 00:58:55,084
+Some surgeons irrigate the gutters and cul-de-sac, especially in the presence of infection or meconium.
+
+486
+00:58:55,084 --> 00:59:07,297
+Routine irrigation in low-risk women, however, leads to greater intraoperative nausea but not to lower postoperative infection rates (Eke, 2016; Viney, 2012).
+
+487
+00:59:07,297 --> 00:59:13,022
+Prior to abdominal closure, correct sponge and instrument counts are verified.
+
+488
+00:59:13,022 --> 00:59:17,459
+The rectus abdominis muscle bellies are allowed to fall into place.
+
+489
+00:59:17,459 --> 00:59:24,747
+The overlying rectus fascia is closed by a continuous, nonlocking technique with a delayed-absorbable suture.
+
+490
+00:59:24,747 --> 00:59:31,509
+In patients with a higher risk for infection, monofilament suture may be preferable to braided material.
+
+491
+00:59:31,509 --> 00:59:37,534
+The subcutaneous tissue usually need not be closed if it is <2 cm thick.
+
+492
+00:59:37,534 --> 00:59:51,184
+With thicker layers, however, closure is recommended to minimize seroma and hematoma formation, which can lead to wound infection, disruption, or both (Bohman, 1992; Chelmow, 2004).
+
+493
+00:59:51,184 --> 01:00:00,384
+Adding a subcutaneous drain does not prevent significant wound complications (Hellums, 2007; Ramsey, 2005).
+
+494
+01:00:00,384 --> 01:00:08,697
+Skin is closed with a running subcuticular stitch of 4-0 delayedabsorbable suture, with adhesive glue, or with staples.
+
+495
+01:00:08,697 --> 01:00:26,747
+In comparison, final cosmetic results and infection rates appear similar, skin suturing takes longer, but wound separation rates are higher with metal staples (Basha, 2010; Figueroa, 2013; Mackeen, 2014a, 2015).
+
+496
+01:00:26,747 --> 01:00:33,809
+Poliglecaprone 25 (Monocryl) or polyglactin 910 (Vicryl) are both suitable .
+
+497
+01:00:33,809 --> 01:00:45,997
+Outcomes with 2octyl cyanoacrylate adhesive (Dermabond) were equivalent to sutures for Pfannenstiel incisions (Daykan, 2017; Siddiqui, 2013).
+
+498
+01:00:45,997 --> 01:00:49,734
+A sterile thin abdominal wound dressing is sufficient.
+
+499
+01:00:49,734 --> 01:01:06,372
+In obese women, most evidence favors against a negative-pressure wound vacuum atop the closed skin incision compared with a standard wound dressing to lower wound infection rates (Gillespie, 2021; Hussamy, 2019; Tuuli, 2020).
+
+500
+01:01:06,372 --> 01:01:13,247
+Joel-Cohen and Misgav Ladach Techniques The Pfannenstiel-Kerr technique just described has been used for decades.
+
+501
+01:01:13,247 --> 01:01:17,884
+Others include the more recent Joel-Cohen and Misgav Ladach techniques .
+
+502
+01:01:17,884 --> 01:01:25,734
+These differ from traditional Pfannenstiel-Kerr entry mainly by their initial incision placement and greater use of blunt dissection.
+
+503
+01:01:25,734 --> 01:01:35,584
+The Joel-Cohen technique creates a straight 10-cm transverse skin incision 3 cm below the level of the anterior superior iliac spines .
+
+504
+01:01:35,584 --> 01:01:41,197
+The subcutaneous tissue layer is opened sharply 2 to 3 cm in the midline.
+
+505
+01:01:41,197 --> 01:01:45,947
+This is carried down, without lateral extension, to the fascia.
+
+506
+01:01:45,947 --> 01:01:56,622
+A small transverse incision is made in the fascia, and curved Mayo scissors are pushed laterally on each side and beneath intact subcutaneous fat to incise the fascia.
+
+507
+01:01:56,622 --> 01:01:58,609
+With this incision
+
+508
+01:01:58,780 --> 01:02:06,355
+completed, an index finger from each hand is inserted between the rectus abdominis muscle bellies and beneath the fascia.
+
+509
+01:02:06,305 --> 01:02:14,655
+One finger is moved cranially and the other caudally, in opposition, to separate the bellies and further open the fascial incision.
+
+510
+01:02:14,655 --> 01:02:20,092
+Then, a finger from each hand hooks under each belly to stretch the muscles laterally.
+
+511
+01:02:20,092 --> 01:02:26,317
+The peritoneum is entered sharply, and this incision is sharply extended cephalocaudad.
+
+512
+01:02:26,317 --> 01:02:31,880
+Entry with the Misgav Ladach technique differs in that the peritoneum is entered bluntly .
+
+513
+01:02:31,880 --> 01:02:35,342
+Modifications to the Joel-Cohen method abound.
+
+514
+01:02:35,342 --> 01:02:43,092
+For emergency delivery, we begin along a line somewhat lower on the abdomen and similar to that for Pfannenstiel incision.
+
+515
+01:02:43,092 --> 01:02:56,330
+For speed, we extend the initial fascial incision bluntly by hooking index fingers in the fascial incision’s lateral corners and pulling laterally (Hofmeyr, 2009; Oloffson, 2015).
+
+516
+01:02:56,330 --> 01:03:04,030
+Index fingers insinuated between the rectus bellies then move cephalocaudad in opposition to separate the muscle bellies.
+
+517
+01:03:04,030 --> 01:03:12,880
+Blunt index-finger dissection enters the peritoneum, and again, cranial and caudad opposing stretch lengthens the peritoneal incision.
+
+518
+01:03:12,880 --> 01:03:21,192
+Last, all the layers of the abdominal wall are grasped together and pulled laterally in opposition to further open the operating space.
+
+519
+01:03:21,192 --> 01:03:29,305
+These techniques have been associated with shorter operative times and with lower rates of intraoperative blood loss and postoperative pain .
+
+520
+01:03:29,305 --> 01:03:37,242
+They may, however, prove difficult for women with preexisting anterior rectus fibrosis and peritoneal adhesions .
+
+521
+01:03:37,242 --> 01:03:40,655
+Classical Cesarean Incision Indications.
+
+522
+01:03:40,655 --> 01:03:49,217
+This incision is usually avoided because it encompasses the active upper uterine segment and thus is prone to rupture with subsequent pregnancies.
+
+523
+01:03:49,217 --> 01:03:55,667
+Some indications stem from difficulty in exposing or safely entering the lower uterine segment.
+
+524
+01:03:55,667 --> 01:04:06,905
+For example, a densely adhered bladder from previous surgery is encountered; a leiomyoma occupies the lower uterine segment; or the cervix is currently invaded by cancer.
+
+525
+01:04:06,905 --> 01:04:13,592
+Women with prior radical trachelectomy for cervix cancer are usually delivered by classical incision.
+
+526
+01:04:13,592 --> 01:04:19,005
+Massive maternal obesity can preclude safe access to the lower uterine segment.
+
+527
+01:04:19,005 --> 01:04:28,242
+A classical incision is also preferred for placenta previa with anterior implantation, especially those complicated by placenta accreta syndrome.
+
+528
+01:04:28,242 --> 01:04:37,405
+In extreme cases of this, the typical classical hysterotomy may be placed even higher in the uterine body or posteriorly to avoid the placenta.
+
+529
+01:04:37,405 --> 01:04:43,655
+Fetuses with cephalic presentation are then delivered in a manner similar to total breech extraction.
+
+530
+01:04:43,655 --> 01:04:47,880
+In other instances, fetal indications dictate the need.
+
+531
+01:04:47,880 --> 01:04:57,717
+Transverse lie of a large fetus, especially if the membranes are ruptured and the shoulder is impacted in the birth canal, usually requires a classical incision.
+
+532
+01:04:57,717 --> 01:05:07,692
+Second, with a fetus presenting as a back-down transverse lie, the back precludes easy grasping of a leg through a transverse uterine incision for breech delivery.
+
+533
+01:05:07,692 --> 01:05:11,705
+Here, a classical incision provides superior room.
+
+534
+01:05:11,705 --> 01:05:18,192
+Third, in instances when the fetus is very small and breech, a classical incision may be preferable .
+
+535
+01:05:18,192 --> 01:05:26,955
+In such cases, the poorly developed lower uterine segment provides inadequate space for the manipulations required for breech delivery.
+
+536
+01:05:26,955 --> 01:05:34,917
+Or, less commonly, the small fetal head may become entrapped by a contracting uterine fundus following membrane rupture.
+
+537
+01:05:34,917 --> 01:05:43,692
+With multiple fetuses, a classical incision again may provide needed room for extraction of fetuses that may be malpositioned or preterm .
+
+538
+01:05:43,692 --> 01:05:50,817
+A large fetal malformation or conjoined twins may require the added space afforded by a classical incision.
+
+539
+01:05:50,817 --> 01:05:53,455
+Uterine Incision and Repair.
+
+540
+01:05:53,455 --> 01:06:01,555
+A vertical uterine incision is initiated with a scalpel beginning as low as possible and preferably within the lower uterine segment .
+
+541
+01:06:01,555 --> 01:06:11,617
+If adhesions, insufficient exposure, a tumor, or placenta percreta preclude development of a bladder flap, then the incision is made above the level of the bladder.
+
+542
+01:06:11,617 --> 01:06:17,242
+Described earlier (p. 553), back filling the bladder may aid this.
+
+543
+01:06:17,242 --> 01:06:19,655
+Figure 30-11.
+
+544
+01:06:19,655 --> 01:06:25,167
+An initial small vertical hysterotomy incision is made in the lower uterine segment.
+
+545
+01:06:25,167 --> 01:06:26,792
+Fingers
+
+546
+01:06:26,956 --> 01:06:32,243
+are insinuated between the myometrium and fetus to avoid fetal laceration.
+
+547
+01:06:32,193 --> 01:06:36,606
+Scissors extend the incision cephalad as needed for delivery.
+
+548
+01:06:36,606 --> 01:06:44,268
+Figures 30-11 and 30-12: Reproduced with permission from Johnson DD: Cesarean delivery.
+
+549
+01:06:44,268 --> 01:06:53,581
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+550
+01:06:53,581 --> 01:06:58,068
+New York, NY: McGraw Hill; 2017.
+
+551
+01:06:58,068 --> 01:07:07,043
+Once the uterus is entered with a scalpel, the incision is extended cephalad with bandage scissors until it is long enough to permit fetal delivery.
+
+552
+01:07:07,043 --> 01:07:11,856
+With scissor use, the fetus can be better protected from laceration.
+
+553
+01:07:11,856 --> 01:07:19,081
+Fingers of the surgeon’s nondominant hand are insinuated between the myometrium and fetus to prevent scissor cuts.
+
+554
+01:07:19,081 --> 01:07:26,393
+As the incision is opened, numerous large vessels that bleed profusely are commonly encountered within the myometrium.
+
+555
+01:07:26,393 --> 01:07:32,081
+The remainder of fetal and placental delivery mirrors that with a low transverse hysterotomy.
+
+556
+01:07:32,081 --> 01:07:41,693
+For incision closure, one method employs a layer of 0- or no. 1 chromic catgut with a running stitch to approximate the deeper length of the incision .
+
+557
+01:07:41,693 --> 01:07:48,656
+The outer layer of myometrium is then closed along its length with similar suture and with a running suture line.
+
+558
+01:07:48,656 --> 01:08:01,631
+To achieve good approximation and to prevent the suture from tearing through the myometrium, it is helpful to have an assistant relieve tension by compressing the uterus on each side of the wound toward the midline as each stitch is placed.
+
+559
+01:08:01,631 --> 01:08:04,006
+Figure 30-12.
+
+560
+01:08:04,006 --> 01:08:06,468
+Classical incision closure.
+
+561
+01:08:06,468 --> 01:08:13,243
+The deeper half (A) and superficial half (B) of the incision are closed in a running fashion.
+
+562
+01:08:13,243 --> 01:08:16,393
+The serosa is then closed (C).
+
+563
+01:08:16,393 --> 01:08:18,831
+Peripartum Hysterectomy.
+
+564
+01:08:18,831 --> 01:08:21,231
+# Indications.
+
+565
+01:08:21,231 --> 01:08:35,643
+Hysterectomy is most commonly performed to arrest or prevent hemorrhage from intractable uterine atony, surgical trauma/tears, or abnormal placentation (Bateman, 2012; Kallianidis, 2020).
+
+566
+01:08:35,643 --> 01:08:42,268
+It is more often completed during or after cesarean delivery but may be needed following vaginal birth.
+
+567
+01:08:42,268 --> 01:08:57,181
+Among all deliveries, the peripartum hysterectomy rate in the United States approximates 1 per 1000 births and has risen significantly during the past few decades (Bateman, 2012; Govindappagari, 2016).
+
+568
+01:08:57,181 --> 01:09:05,706
+During a 25-year period, the rate of peripartum hysterectomy at Parkland Hospital was 1.7 per 1000 births .
+
+569
+01:09:05,706 --> 01:09:17,831
+Most of this rise is attributed to the increasing rates of cesarean delivery and its associated complications in subsequent pregnancy (Flood, 2009; Orbach, 2011).
+
+570
+01:09:17,831 --> 01:09:28,868
+Of hysterectomies, approximately one half to two thirds are total, whereas the remaining cases are supracervical (Rossi, 2010; Shellhaas, 2009).
+
+571
+01:09:28,868 --> 01:09:36,318
+Major complications of peripartum hysterectomy include greater blood loss and risk of urinary tract damage.
+
+572
+01:09:36,318 --> 01:09:46,806
+Blood loss is usually appreciable because hysterectomy is being performed for hemorrhage that frequently is torrential, and the procedure itself is associated with substantial bleeding.
+
+573
+01:09:46,806 --> 01:09:55,006
+Although many cases with hemorrhage cannot be anticipated, those with abnormal implantation are often identified antepartum.
+
+574
+01:09:55,006 --> 01:10:07,743
+Preparations for placenta accreta syndrome are discussed in Chapter 43 (p. 763) and are outlined by the American College of Obstetricians and Gynecologists (2018).
+
+575
+01:10:07,743 --> 01:10:16,231
+An important factor affecting the cesarean hysterectomy complication rate is whether the operation is performed electively or emergently.
+
+576
+01:10:16,231 --> 01:10:30,556
+With anticipated or planned cesarean hysterectomy, rates of blood loss, blood transfusion, and urinary tract complications are lower those with emergent procedures (Briery, 2007; Glaze, 2008).
+
+577
+01:10:30,556 --> 01:10:33,393
+# Hysterectomy Technique.
+
+578
+01:10:33,393 --> 01:10:39,081
+Total or supracervical hysterectomy is performed using standard operative techniques.
+
+579
+01:10:39,081 --> 01:10:46,943
+Adequate exposure is essential, but initially, placement of a selfretaining retractor such as a Balfour is not necessary.
+
+580
+01:10:46,943 --> 01:10:56,518
+Rather, satisfactory exposure is obtained with cephalad traction on the uterus by an assistant, along with handheld Richardson or Deaver retractors.
+
+581
+01:10:56,518 --> 01:11:03,143
+The bladder flap is deflected caudad to the level of the cervix if possible to permit total hysterectomy.
+
+582
+01:11:03,143 --> 01:11:12,406
+In cases in which cesarean hysterectomy is planned or strongly suspected, extended bladder flap dissection is ideally completed before initial
+
+583
+01:11:12,556 --> 01:11:14,356
+hysterotomy.
+
+584
+01:11:14,306 --> 01:11:21,606
+Later attempts at bladder dissection may be obscured by bleeding, or excess blood may be lost during this dissection.
+
+585
+01:11:21,606 --> 01:11:26,143
+After cesarean delivery, the placenta is typically removed.
+
+586
+01:11:26,143 --> 01:11:34,756
+In cases of placenta accreta syndrome for which hysterectomy is already planned, the placenta is usually left undisturbed in situ.
+
+587
+01:11:34,756 --> 01:11:45,693
+If the hysterotomy incision is bleeding appreciably, it can be quickly reapproximated with full-thickness sutures, or Pennington or sponge forceps can be applied for hemostasis.
+
+588
+01:11:45,693 --> 01:11:49,593
+If bleeding is minimal, neither maneuver is necessary.
+
+589
+01:11:49,593 --> 01:11:55,831
+The round ligament is divided close to the uterus between clamps, and each pedicle is ligated .
+
+590
+01:11:55,831 --> 01:12:02,181
+Either 0 or no. 1 suture can be used in either chromic gut or delayed-absorbable material.
+
+591
+01:12:02,181 --> 01:12:11,181
+Division of the round provides access to the anterior leaf of the broad ligament, which is incised downward to meet the former bladder flap incision.
+
+592
+01:12:11,181 --> 01:12:22,406
+The posterior leaf of the broad ligament adjacent to the uterus is bluntly or sharply perforated at a point beneath the fallopian tube, uteroovarian ligament, and ovarian vessels .
+
+593
+01:12:22,406 --> 01:12:28,281
+These structures together are then divided between sturdy clamps placed close to the uterus .
+
+594
+01:12:28,281 --> 01:12:31,343
+The lateral pedicle is doubly ligated.
+
+595
+01:12:31,343 --> 01:12:36,618
+The medial clamp remains and is removed later with the entire uterine specimen.
+
+596
+01:12:36,618 --> 01:12:42,981
+The posterior leaf of the broad ligament is then incised caudad toward the uterosacral ligaments .
+
+597
+01:12:42,981 --> 01:12:48,468
+The bladder and attached peritoneal flap are further deflected and dissected as needed.
+
+598
+01:12:48,468 --> 01:12:56,606
+If the bladder flap is densely adhered, as it may be after previous hysterotomy incisions, careful sharp dissection is employed .
+
+599
+01:12:56,606 --> 01:12:59,156
+Figure 30-13.
+
+600
+01:12:59,156 --> 01:13:04,168
+The round ligaments are clamped, ligated, and transected bilaterally.
+
+601
+01:13:04,168 --> 01:13:14,081
+Figures 30-13 to 30-21: Reproduced with permission from Cunningham FG, Gilstrap LC III: Peripartum hysterectomy.
+
+602
+01:13:14,081 --> 01:13:23,393
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+603
+01:13:23,393 --> 01:13:27,881
+New York, NY: McGraw Hill; 2017.
+
+604
+01:13:27,881 --> 01:13:30,456
+Figure 30-14.
+
+605
+01:13:30,456 --> 01:13:40,431
+The posterior leaf of the broad ligament adjacent to the uterus is perforated just beneath the fallopian tube, uteroovarian ligaments, and ovarian vessels.
+
+606
+01:13:40,431 --> 01:13:42,968
+Figure 30-15.
+
+607
+01:13:42,968 --> 01:13:47,593
+The uteroovarian ligament and fallopian tube are clamped and cut.
+
+608
+01:13:47,593 --> 01:13:50,656
+The lateral pedicle is doubly ligated.
+
+609
+01:13:50,656 --> 01:13:53,193
+Figure 30-16.
+
+610
+01:13:53,193 --> 01:13:59,368
+The posterior leaf of the broad ligament is divided inferiorly toward the uterosacral ligament.
+
+611
+01:13:59,368 --> 01:14:01,968
+Figure 30-17.
+
+612
+01:14:01,968 --> 01:14:06,131
+The bladder is dissected sharply from the lower uterine segment.
+
+613
+01:14:06,131 --> 01:14:13,593
+Special care is required from this point on to avoid injury to the ureters, which pass beneath the uterine arteries.
+
+614
+01:14:13,593 --> 01:14:23,143
+To help accomplish this, an assistant places constant traction to pull the uterus in the direction away from the side on which the uterine vessels are being ligated.
+
+615
+01:14:23,143 --> 01:14:28,006
+The ascending uterine artery and veins on either side are identified.
+
+616
+01:14:28,006 --> 01:14:31,706
+These vessels are then clamped adjacent to the uterus .
+
+617
+01:14:31,706 --> 01:14:35,756
+For security, some may prefer two lateral clamps.
+
+618
+01:14:35,756 --> 01:14:40,118
+The medial-most clamp helps prevent back bleeding from the uterus.
+
+619
+01:14:40,118 --> 01:14:45,956
+The uterine vessels are divided, and the lateral tissue pedicle is doubly suture ligated.
+
+620
+01:14:45,956 --> 01:14:50,093
+The medial clamp remains for later removal with the specimen.
+
+621
+01:14:50,093 --> 01:14:59,468
+After securing the uterine vessels on one side, the round ligament, adnexal pedicle, and uterine vessels are then addressed on the contralateral side.
+
+622
+01:14:59,468 --> 01:15:02,006
+Figure 30-18.
+
+623
+01:15:02,006 --> 01:15:04,618
+The uterine vessels are clamped.
+
+624
+01:15:04,618 --> 01:15:10,718
+Once divided, the lateral vascular pedicle is doubly ligated to ensure hemostasis.
+
+625
+01:15:10,718 --> 01:15:19,818
+In cases with profuse hemorrhage, time and rapid hemostasis can be gained by quickly clamping and dividing all of the just-described pedicles.
+
+626
+01:15:19,818 --> 01:15:25,956
+Once all are clamped, the surgical team can then return to ligate each pedicle individually.
+
+627
+01:15:25,956 --> 01:15:41,318
+Total Hysterectomy Even if total hysterectomy is planned, we find it technically easier in many cases to finish the operation after amputating the uterine fundus and placing Ochsner or Kocher clamps on the cervical stump for traction and hemostasis.
+
+628
+01:15:41,318 --> 01:15:45,368
+Self-retaining retractors also may be placed at this time.
+
+629
+01:15:45,368 --> 01:15:49,906
+To remove the cervix, the bladder is mobilized further if needed.
+
+630
+01:15:49,906 --> 01:15:55,306
+This carries the ureters caudad as the bladder is retracted beneath the symphysis.
+
+631
+01:15:55,306 --> 01:15:56,756
+Bladder
+
+632
+01:15:56,908 --> 01:16:04,570
+retraction can also help prevent laceration or suturing of the bladder during cervical excision and vaginal cuff closure.
+
+633
+01:16:04,520 --> 01:16:14,858
+The cardinal ligament, the uterosacral ligaments, and the many large vessels within these ligaments are clamped systematically with sturdy Heaney-type curved or straight clamps .
+
+634
+01:16:14,858 --> 01:16:22,183
+The clamps are placed as close to the cervix as possible, taking care not to include excessive tissue in each clamp.
+
+635
+01:16:22,183 --> 01:16:28,045
+The tissue between the pair of clamps is incised, and the lateral pedicle is suture ligated.
+
+636
+01:16:28,045 --> 01:16:35,620
+These steps are repeated caudally and bilaterally until the level of the lateral vaginal fornix is reached on each side.
+
+637
+01:16:35,620 --> 01:16:44,533
+In this way, the descending branches of the uterine vessels are clamped, cut, and ligated as the cervix is separated from the cardinal ligaments.
+
+638
+01:16:44,533 --> 01:16:47,095
+Figure 30-19.
+
+639
+01:16:47,095 --> 01:16:51,433
+The cardinal ligaments are clamped, incised, and ligated.
+
+640
+01:16:51,433 --> 01:16:59,970
+If the cervix is effaced and dilated considerably, its softness may obscure palpable identification of the cervicovaginal junction.
+
+641
+01:16:59,970 --> 01:17:10,958
+The junction location can be ascertained either through the open hysterotomy incision or through a vertical uterine incision made anteriorly in the midline at the level of the ligated uterine vessels.
+
+642
+01:17:10,958 --> 01:17:18,520
+A finger is directed inferiorly through the incision to identify the free margin of the dilated, effaced cervix.
+
+643
+01:17:18,520 --> 01:17:21,420
+The contaminated glove is replaced.
+
+644
+01:17:21,420 --> 01:17:36,270
+Another useful method to identify the cervical margins in cases of planned hysterectomy is to transvaginally place four metal skin clips or brightly colored sutures at 12, 3, 6, and 9 o’clock positions on the cervical edges.
+
+645
+01:17:36,270 --> 01:17:46,408
+Immediately below the level of the cervix, a curved clamp is placed across the lateral vaginal fornix on each side, and the vagina is incised above the clamp .
+
+646
+01:17:46,408 --> 01:17:50,920
+The cervix is inspected to ensure that it has been completely removed.
+
+647
+01:17:50,920 --> 01:17:56,570
+A transfixing suture is used for vaginal cuff closure as each clamp is removed.
+
+648
+01:17:56,570 --> 01:18:01,533
+Interrupted stitches may be added to approximate the middle portion of the cuff .
+
+649
+01:18:01,533 --> 01:18:08,308
+Each lateral vaginal fornix is secured to the uterosacral ligaments to mitigate later vaginal prolapse.
+
+650
+01:18:08,308 --> 01:18:19,883
+For cuff closure, some surgeons instead prefer to close the vagina by apposing the anterior and posterior vaginal walls with interrupted figure-eight sutures or running suture line.
+
+651
+01:18:19,883 --> 01:18:22,283
+Figure 30-20.
+
+652
+01:18:22,283 --> 01:18:31,420
+A curved clamp is placed across the lateral vaginal fornix below the level of the cervix, and the tissue incised medially to the point of the clamp.
+
+653
+01:18:31,420 --> 01:18:34,008
+Figure 30-21.
+
+654
+01:18:34,008 --> 01:18:39,408
+A transfixing stitch is placed on each side to close the lateral vaginal cuff.
+
+655
+01:18:39,408 --> 01:18:44,933
+Interrupted stitches (dotted lines) may be needed to close any midline gap.
+
+656
+01:18:44,933 --> 01:18:48,158
+All sites are examined carefully for bleeding.
+
+657
+01:18:48,158 --> 01:18:57,383
+One technique is to perform a systematic bilateral survey from the fallopian tube and ovarian ligament pedicles to the vaginal vault and bladder flap.
+
+658
+01:18:57,383 --> 01:19:01,433
+Bleeding sites are ligated with care to avoid the ureters.
+
+659
+01:19:01,433 --> 01:19:09,558
+The abdominal wall normally is closed in layers, as previously described for cesarean delivery (p. 558).
+
+660
+01:19:09,558 --> 01:19:19,333
+Supracervical Hysterectomy To perform a subtotal hysterectomy, the uterine body is amputated immediately above the level of uterine artery ligation.
+
+661
+01:19:19,333 --> 01:19:27,233
+The cervical stump may be closed with a continuous or interrupted suture line of chromic catgut or delayed-absorbable material.
+
+662
+01:19:27,233 --> 01:19:32,308
+Subtotal hysterectomy is often all that is necessary to stop hemorrhage.
+
+663
+01:19:32,308 --> 01:19:41,295
+It may be preferred for women who would benefit from a shorter surgery or for those with extensive adhesions that threaten significant urinary tract injury.
+
+664
+01:19:41,295 --> 01:19:52,470
+Salpingo-oophorectomy Because of the large adnexal vessels and their close proximity to the uterus, it may be necessary to remove one or both adnexa to obtain hemostasis.
+
+665
+01:19:52,470 --> 01:19:59,933
+Briery and colleagues (2007) reported unilateral or bilateral oophorectomy in a fourth of cases.
+
+666
+01:19:59,933 --> 01:20:05,470
+Preoperative counseling for anticipated hysterectomy should include this possibility.
+
+667
+01:20:05,470 --> 01:20:08,895
+# Urinary Tract or Bowel Injury.
+
+668
+01:20:08,895 --> 01:20:12,633
+These injuries are rare during cesarean delivery.
+
+669
+01:20:12,633 --> 01:20:28,020
+The bladder laceration rate approximates 2 injuries per 1000 cesarean deliveries, whereas that for ureteral trauma nears 0.3 events per 1000 cases (Güngördük, 2010; Oliphant, 2014).
+
+670
+01:20:28,020 --> 01:20:30,845
+Bowel is damaged in about 1 in
+
+671
+01:20:31,012 --> 01:20:33,924
+1000 cesarean deliveries .
+
+672
+01:20:33,874 --> 01:20:49,899
+Cystotomy Bladder laceration most commonly occurs during blunt or sharp dissection in the vesicouterine space to create the bladder flap, during peritoneal cavity entry, and during hysterotomy (Phipps, 2005; Rahman, 2009).
+
+673
+01:20:49,899 --> 01:21:11,512
+Risks are prior cesarean delivery; comorbid adhesive disease; emergency cesarean delivery; cesarean hysterectomy, especially cases with morbidly adherent placenta; and surgery in second-stage labor compared with first-stage (Alexander, 2007; Salman, 2017; Silver, 2006).
+
+674
+01:21:11,512 --> 01:21:19,174
+Bladder injury is typically identified intraoperatively, and a clear-fluid gush or the Foley bulb are indicators.
+
+675
+01:21:19,174 --> 01:21:27,287
+In suspected cases, cystotomy can be confirmed with retrograde instillation of fluid through a Foley catheter and into the bladder.
+
+676
+01:21:27,287 --> 01:21:31,924
+Dilute sterile infant formula is a common, available option.
+
+677
+01:21:31,924 --> 01:21:35,137
+Methylene blue–stained saline is another.
+
+678
+01:21:35,137 --> 01:21:41,499
+Leakage of the indicator fluid aids laceration identification and delineation of its borders.
+
+679
+01:21:41,499 --> 01:21:50,662
+The dome is lacerated most often, and trigone injuries make up the remainder (Phipps, 2005; Salman, 2017).
+
+680
+01:21:50,662 --> 01:21:57,337
+Prior to cystotomy repair, ureters are examined, and urine jets from each orifice are sought.
+
+681
+01:21:57,337 --> 01:22:02,012
+Inspection can be done directly through the cystotomy, if at the dome.
+
+682
+01:22:02,012 --> 01:22:08,674
+A separate diagnostic extraperitoneal cystotomy may be preferable if the laceration nears the trigone.
+
+683
+01:22:08,674 --> 01:22:14,662
+To aid viewing, urine jets can be colored by IV dye, as described in the next section.
+
+684
+01:22:14,662 --> 01:22:24,787
+Once ureteral patency is confirmed, the bladder can be closed with a two- or three-layer running closure using a 3-0 absorbable or delayedabsorbable suture .
+
+685
+01:22:24,787 --> 01:22:28,474
+The first layer inverts the mucosa into the bladder.
+
+686
+01:22:28,474 --> 01:22:32,712
+Subsequent layers reapproximate the bladder muscularis.
+
+687
+01:22:32,712 --> 01:22:38,849
+After the final layer, the bladder is filled with a marker fluid to demonstrate repair integrity.
+
+688
+01:22:38,849 --> 01:22:43,437
+Leaking defects are closed with interrupted reinforcing stitches.
+
+689
+01:22:43,437 --> 01:22:45,999
+Figure 30-22.
+
+690
+01:22:45,999 --> 01:22:48,174
+Cystotomy repair.
+
+691
+01:22:48,174 --> 01:22:57,137
+A. The primary layer inverts the bladder mucosa with running or interrupted sutures of 3-0 delayed-absorbable or absorbable suture.
+
+692
+01:22:57,137 --> 01:23:04,149
+B. Second and possibly a third layer approximate the bladder muscularis to reinforce the incision closure.
+
+693
+01:23:04,149 --> 01:23:10,274
+Reproduced with permission from Balgobin S: Urologic and gastrointestinal injuries.
+
+694
+01:23:10,274 --> 01:23:19,587
+In Yeomans ER, Hoffman BL, Gilstrap LC III, et al (eds): Cunningham and Gilstrap’s Operative Obstetrics, 3rd ed.
+
+695
+01:23:19,587 --> 01:23:24,074
+New York, NY: McGraw Hill; 2017.
+
+696
+01:23:24,074 --> 01:23:32,987
+Postoperative care requires continuous bladder drainage for 7 to 14 days to permit healing and minimize the risk of fistula formation.
+
+697
+01:23:32,987 --> 01:23:37,512
+Uropathogen prophylaxis during this drainage is not required.
+
+698
+01:23:37,512 --> 01:23:46,162
+Prior to catheter removal, cystourethrography may not be needed for a simple, single laceration measuring under 1 cm .
+
+699
+01:23:46,162 --> 01:23:51,012
+Larger lacerations in or near the trigone require careful attention.
+
+700
+01:23:51,012 --> 01:23:58,999
+Specialists may be consulted, and in preparation, ureteral catheters, described in the next section, can be assembled.
+
+701
+01:23:58,999 --> 01:24:03,999
+Ureteral orifices are directly inspected to document jets from both.
+
+702
+01:24:03,999 --> 01:24:11,374
+If not seen, a ureteral catheter may be passed through the cystotomy and into each orifice to confirm patency.
+
+703
+01:24:11,374 --> 01:24:19,324
+Once this is confirmed, repair should not disrupt the ureteral orifices, and stents may remain to ensure their patency.
+
+704
+01:24:19,324 --> 01:24:31,449
+Unrecognized cystotomy can manifest postoperatively as hematuria, oliguria, abdominal pain, ileus, ascites, peritonitis, fever, urinoma, or fistula.
+
+705
+01:24:31,449 --> 01:24:39,612
+For diagnosis, retrograde cystography or abdominal computed tomography (CT) with cystography can be used .
+
+706
+01:24:39,612 --> 01:24:44,399
+Cystoscopy is also an option but may require a procedural room.
+
+707
+01:24:44,399 --> 01:24:48,912
+Once cystotomy is identified, prompt repair is indicated .
+
+708
+01:24:48,912 --> 01:24:57,687
+Ureteral Injury The ureter may be at risk during cesarean hysterectomy, especially those complicated by placenta accreta syndrome.
+
+709
+01:24:57,687 --> 01:25:09,637
+Although not our practice, some advocate preoperative ureteral catheter placement to aid intraoperative ureter identification (Eller, 2009; Matsubara, 2013).
+
+710
+01:25:09,637 --> 01:25:24,699
+Organization guidelines recommend individualization of this practice depending on anticipated placenta accreta syndrome complexity (American College of Obstetricians and Gynecologists, 2018; Collins, 2019).
+
+711
+01:25:24,699 --> 01:25:28,562
+Further, initial dorsal lithotomy positioning of
+
+712
+01:25:28,732 --> 01:25:32,557
+the patient for these cases can permit cystoscopy.
+
+713
+01:25:32,507 --> 01:25:40,932
+Aside from hysterectomy, the ureter is also at risk during repair of hysterotomy extensions into the broad ligament or vagina .
+
+714
+01:25:40,932 --> 01:25:48,632
+If ureteral injury is suspected, IV dye is administered, and the pelvis is directly inspected for extravasation.
+
+715
+01:25:48,632 --> 01:25:54,494
+Of options, 50 mg of IV methylene blue may be given over 5 minutes.
+
+716
+01:25:54,494 --> 01:26:03,932
+However, methylene blue carries the potential for inciting methemoglobinemia in patients with glucose-6-phosphate dehydrogenase deficiency.
+
+717
+01:26:03,932 --> 01:26:16,382
+Another option is 25 or 50 mg of IV 10-percent sodium fluorescein, which stains bright yellow (Espaillat-Rijo, 2016; Grimes, 2017).
+
+718
+01:26:16,382 --> 01:26:23,494
+Next, brisk dye-stained urine jets are sought from each orifice to exclude ureteral kinking or ligation.
+
+719
+01:26:23,494 --> 01:26:32,557
+Orifice viewing may be via cystoscopy, if available; through a comorbid traumatic cystotomy; or through an intentional diagnostic cystotomy.
+
+720
+01:26:32,557 --> 01:26:38,944
+For the last, a midline extraperitoneal cystotomy in the bladder dome gives excellent exposure.
+
+721
+01:26:38,944 --> 01:26:47,944
+Sluggish or absent jets may reflect patient hypovolemia, and ongoing volume resuscitation may yield expected orifice jets.
+
+722
+01:26:47,944 --> 01:26:54,357
+If not, consultation with a specialist is typically requested to exclude ureteral injury.
+
+723
+01:26:54,357 --> 01:26:58,094
+While waiting, catheters and stents can be assembled.
+
+724
+01:26:58,094 --> 01:27:06,657
+Semantically, ureteral catheters are diagnostic tools, and typically are inserted and removed in the same therapeutic intervention.
+
+725
+01:27:06,657 --> 01:27:11,794
+Most stents are designed to remain indwelling for prolonged ureteral drainage.
+
+726
+01:27:11,794 --> 01:27:18,694
+Both types are hollow to permit radiopaque medium injection and to allow urine egress through or around them .
+
+727
+01:27:18,694 --> 01:27:26,644
+To exclude ureteral obstruction, a 4F to 6F open-ended or whistle-tip catheter is threaded into one orifice.
+
+728
+01:27:26,644 --> 01:27:31,869
+Once inserted, the catheter is advanced to the level of suspected obstruction.
+
+729
+01:27:31,869 --> 01:27:37,244
+If the tool threads easily up toward the renal pelvis, obstruction is unlikely.
+
+730
+01:27:37,244 --> 01:27:47,057
+In most, ureteral injury occurs at or below the pelvic brim, and the distance from the ureteral orifice to the brim approximates 13 cm .
+
+731
+01:27:47,057 --> 01:27:53,882
+Failure to easily advance the catheter may indicate ureteral kinking, ligation, or crush injury.
+
+732
+01:27:53,882 --> 01:28:00,032
+The appearance of the catheter in the abdominal cavity indicates partial or complete transection .
+
+733
+01:28:00,032 --> 01:28:05,344
+Repair of ureteral injuries is dependent upon the type of injury and location.
+
+734
+01:28:05,344 --> 01:28:11,132
+First, kinked or ligated ureters can be relieved by release of ensnaring sutures.
+
+735
+01:28:11,132 --> 01:28:14,907
+Crush injuries are inspected to ensure vital tissue.
+
+736
+01:28:14,907 --> 01:28:19,419
+In these cases, stents are left to avert ureteral stricture.
+
+737
+01:28:19,419 --> 01:28:23,394
+Ureteral stents range from 4F to 7F.
+
+738
+01:28:23,394 --> 01:28:32,544
+Stents vary in length from 20 to 30 cm, and a 24-cm or 26-cm length is appropriate for most adults.
+
+739
+01:28:32,544 --> 01:28:42,332
+Double-pigtail or double-J stents describe their tip shape, and the ends coil within the renal pelvis and bladder, respectively, to prevent stent migration .
+
+740
+01:28:42,332 --> 01:28:50,507
+A Foley catheter remains for 7 to 10 days, and the ureteral stents are removed via cystoscopy after 14 days.
+
+741
+01:28:50,507 --> 01:29:01,244
+Intravenous pyelography (IVP) is usually not necessary before removal of the stent if it was placed as a precautionary measure after relatively minor injury .
+
+742
+01:29:01,244 --> 01:29:08,457
+Crush injuries with devascularization, thermal injury, or transection require more extensive repair.
+
+743
+01:29:08,457 --> 01:29:16,832
+If a healthy-appearing ureter can be reimplanted into the bladder without undue tension, then ureteroneocystostomy is preferable.
+
+744
+01:29:16,832 --> 01:29:24,457
+For more proximal injuries, a ureteroureterostomy, a psoas hitch, or a Boari flap may be needed.
+
+745
+01:29:24,457 --> 01:29:32,182
+An explanation of these more extensive procedures is found in Cunningham and Gilstrap’s Operative Obstetrics, 3rd edition .
+
+746
+01:29:32,182 --> 01:29:39,819
+Unrecognized ureteral injury can mimic that of cystotomy with the addition of possible costovertebral angle tenderness.
+
+747
+01:29:39,819 --> 01:29:44,007
+CT urography is a preferred initial diagnostic tool .
+
+748
+01:29:44,007 --> 01:29:48,732
+The duration of time from injury to identification directs repair.
+
+749
+01:29:48,732 --> 01:29:53,232
+Those identified early are often suitable for immediate repair.
+
+750
+01:29:53,232 --> 01:29:57,957
+Bowel Injury Serosal tears represent weak points in the small bowel.
+
+751
+01:29:57,957 --> 01:30:04,644
+If obstruction develops postoperatively, these weak spots may perforate, leading to peritonitis.
+
+752
+01:30:04,644 --> 01:30:11,369
+If serosal tears are few, they can be oversewn with either a fine absorbable or nonabsorbable suture .
+
+753
+01:30:11,369 --> 01:30:16,119
+More significant lacerations are often repaired in consultation
+
+754
+01:30:16,276 --> 01:30:20,326
+with a general surgeon or gynecologic oncologist.
+
+755
+01:30:20,276 --> 01:30:22,363
+Postoperative Care.
+
+756
+01:30:22,363 --> 01:30:25,413
+# Euvolemia Evaluation.
+
+757
+01:30:25,413 --> 01:30:31,588
+During and after cesarean delivery, requirements for IV fluids can vary considerably.
+
+758
+01:30:31,588 --> 01:30:35,726
+Current ERAS strategies aim for euvolemic replacement .
+
+759
+01:30:35,726 --> 01:30:43,576
+Administered fluids consist of either lactated Ringer solution or a similar crystalloid solution with 5-percent dextrose.
+
+760
+01:30:43,576 --> 01:30:49,551
+Blood loss with uncomplicated cesarean delivery approximates 1000 mL.
+
+761
+01:30:49,551 --> 01:31:02,413
+The averagesized woman with a hematocrit of 30 percent or more and with a normally expanded blood and extracellular fluid volume most often will tolerate blood loss up to 2000 mL without difficulty.
+
+762
+01:31:02,413 --> 01:31:11,876
+Unappreciated bleeding through the vagina during the procedure, bleeding concealed in the uterus after its closure, or both commonly lead to underestimation.
+
+763
+01:31:11,876 --> 01:31:19,413
+Blood loss averages 1500 mL with elective cesarean hysterectomy, although this is variable .
+
+764
+01:31:19,413 --> 01:31:26,488
+Most peripartum hysterectomies are unscheduled, and blood loss in these cases is correspondingly greater.
+
+765
+01:31:26,488 --> 01:31:35,901
+Thus, in addition to close monitoring of vital signs and urine output, the hematocrit should be determined intra- or postoperatively as indicated.
+
+766
+01:31:35,901 --> 01:31:38,351
+# Recovery Suite.
+
+767
+01:31:38,351 --> 01:31:44,988
+The amount of vaginal bleeding is closely monitored for at least an hour in the immediate postoperative period.
+
+768
+01:31:44,988 --> 01:31:52,438
+The uterine fundus is also identified frequently by palpation to ensure that the uterus remains firmly contracted.
+
+769
+01:31:52,438 --> 01:32:00,563
+Criteria for transfer to the postpartum ward include minimal bleeding, stable vital signs, and adequate urine output.
+
+770
+01:32:00,563 --> 01:32:03,876
+# Hospital Care until Discharge.
+
+771
+01:32:03,876 --> 01:32:11,213
+Analgesia, Vital Signs, Intravenous Fluids Several schemes are suitable for postoperative pain control.
+
+772
+01:32:11,213 --> 01:32:28,351
+First, adding intrathecal opioid or epidural opioid such as morphine to neuraxial analgesia can provide 12 to 24 hours of postoperative relief (American College of Obstetricians and Gynecologists, 2019a; Caughey, 2018).
+
+773
+01:32:28,351 --> 01:32:34,013
+Sedation and respiratory depression rise with increasing intrathecal opioid doses.
+
+774
+01:32:34,013 --> 01:32:41,401
+Postoperative monitoring protocols reflect this and are outlined in Chapter 25 (p. 472) .
+
+775
+01:32:41,401 --> 01:32:46,538
+Other potential side effects include pruritus, nausea, or vomiting .
+
+776
+01:32:46,538 --> 01:32:54,051
+Despite these, long-acting neuraxial analgesia is recommended instead of intermittent parental opioid dosing .
+
+777
+01:32:54,051 --> 01:33:01,376
+For additional relief, nonsteroidal antiinflammatory drugs (NSAIDs) can alternate with acetaminophen .
+
+778
+01:33:01,376 --> 01:33:07,863
+Breakthrough pain can be relieved by oxycodone 2.5 to 5 mg every 4 hours .
+
+779
+01:33:07,863 --> 01:33:15,763
+Neonatal sedation is a concern, and total oxycodone doses higher 30 mg/d are not recommended .
+
+780
+01:33:15,763 --> 01:33:30,063
+Instead, for severe breakthrough pain, intramuscular (IM) meperidine, 50 to 75 mg every 3 to 4 hours, or IM morphine, 10 to 15 mg every 3 to 4 hours, is an option.
+
+781
+01:33:30,063 --> 01:33:39,676
+For those without neuraxial anesthesia, a transversus abdominis place (TAP) block can be considered (Fig. 2-2, p. 14).
+
+782
+01:33:39,676 --> 01:33:44,451
+Patient-controlled analgesia (PCA) also is reasonable.
+
+783
+01:33:44,451 --> 01:33:55,151
+One PCA regimen uses IV morphine given as needed as a 1-mg dose with a 6-minute lockout interval and maximum dose of 30 mg in 4 hours.
+
+784
+01:33:55,151 --> 01:34:00,663
+An additional 2-mg booster dose is permitted for a maximum of two doses.
+
+785
+01:34:00,663 --> 01:34:08,688
+After transfer to her room, the woman is assessed at least hourly for 4 hours, and thereafter at intervals of 4 hours.
+
+786
+01:34:08,688 --> 01:34:13,138
+Deep breathing and coughing are encouraged to prevent atelectasis.
+
+787
+01:34:13,138 --> 01:34:19,976
+Vital signs, uterine tone, urine output, and vaginal and incisional bleeding are evaluated.
+
+788
+01:34:19,976 --> 01:34:24,113
+The hematocrit is routinely measured the morning after surgery.
+
+789
+01:34:24,113 --> 01:34:34,126
+It is checked sooner if blood loss was significant or if postoperative hypotension, tachycardia, oliguria, or other evidence suggests hypovolemia.
+
+790
+01:34:34,126 --> 01:34:42,076
+If the hematocrit is significantly lower than the preoperative level, the measurement is repeated and a search for the cause is instituted.
+
+791
+01:34:42,076 --> 01:34:49,776
+Clinical and objective thresholds for transfusion are described fully in Chapter 44 (p. 771).
+
+792
+01:34:49,776 --> 01:34:55,463
+If ongoing blood loss is not expected, iron therapy is preferred to transfusion.
+
+793
+01:34:55,463 --> 01:35:02,826
+Postpartum, the patient begins to mobilize and excrete her physiologically expanded extravascular volume.
+
+794
+01:35:02,826 --> 01:35:10,201
+Thus, maintenance IV fluid proves adequate after surgery until consistent oral intake is reestablished.
+
+795
+01:35:10,201 --> 01:35:15,576
+If urine output falls below 30 mL/hr, however, a woman
+
+796
+01:35:15,724 --> 01:35:18,511
+should be reevaluated promptly.
+
+797
+01:35:18,461 --> 01:35:26,124
+The cause of the oliguria may range from unrecognized blood loss to an antidiuretic effect from infused oxytocin.
+
+798
+01:35:26,124 --> 01:35:43,324
+Women undergoing unscheduled cesarean delivery may have pathological retention or constriction of the extracellular fluid compartment caused by severe preeclampsia, sepsis syndrome, vomiting, prolonged labor without adequate fluid intake, or increased blood loss.
+
+799
+01:35:43,324 --> 01:35:48,836
+Women with these complications are generally observed in the recovery room until improved.
+
+800
+01:35:48,836 --> 01:35:55,511
+Bladder and Bowel Function A Foley catheter is often required to accurately assess urinary output.
+
+801
+01:35:55,511 --> 01:36:01,186
+For women not needing such monitoring, organizations differ in their recommendations.
+
+802
+01:36:01,186 --> 01:36:13,199
+The Society for Obstetric Anesthesia and Perinatology suggests removal after 6 to 12 hours and cites the urinary retention risks associated with long-acting neuraxial anesthesia .
+
+803
+01:36:13,199 --> 01:36:17,586
+The ERAS Society recommends immediate postoperative removal .
+
+804
+01:36:17,586 --> 01:36:23,674
+The prevalence of urinary retention following cesarean delivery approximates 5 percent .
+
+805
+01:36:23,674 --> 01:36:33,399
+Failure to progress in labor and postoperative narcotic analgesia are identified risks (Chai, 2008; Liang, 2007).
+
+806
+01:36:33,399 --> 01:36:45,099
+In uncomplicated cases, liquids or solid food may be offered within hours of surgery and advanced as tolerated (Guo, 2015; Macones, 2019).
+
+807
+01:36:45,099 --> 01:36:52,786
+Some degree of adynamic ileus follows virtually every laparotomy but is negligible after most cesarean deliveries.
+
+808
+01:36:52,786 --> 01:37:00,261
+Postoperative ileus symptoms include abdominal distention, colic, and an inability to pass flatus or stool.
+
+809
+01:37:00,261 --> 01:37:08,636
+With persistent nausea and vomiting or with prolonged bowel function delay, radiological imaging may help exclude bowel obstruction.
+
+810
+01:37:08,636 --> 01:37:12,786
+A plain abdominal radiograph is a frequent first choice.
+
+811
+01:37:12,786 --> 01:37:22,249
+However, in the general population, this study is diagnostic in only 50 to 60 percent of small-bowel obstruction (SBO) cases .
+
+812
+01:37:22,249 --> 01:37:29,549
+Thus, a radiograph may best serve as a triage tool in cases in which ileus is the suspected diagnosis.
+
+813
+01:37:29,549 --> 01:37:36,586
+Notably, an enlarged postpartum uterus can compress the rectosigmoid and prevent it from filling with gas.
+
+814
+01:37:36,586 --> 01:37:43,661
+Thus, findings suggesting a distal colonic obstruction may confuse true cases of transient ileus .
+
+815
+01:37:43,661 --> 01:37:49,849
+CT with IV and oral contrast provides greater accuracy for SBO diagnosis.
+
+816
+01:37:49,849 --> 01:37:58,036
+Last, although uncommon, an unrecognized bowel injury may underlie otherwise unexplained fever and bowel dysfunction.
+
+817
+01:37:58,036 --> 01:38:02,324
+Again, CT would be the more diagnostic examination.
+
+818
+01:38:02,324 --> 01:38:08,811
+For treatment of ileus, IV fluids compensate for poor oral intake and losses from emesis.
+
+819
+01:38:08,811 --> 01:38:14,711
+Electrolyte imbalances are corrected to improve bowel motility and avoid bowel edema.
+
+820
+01:38:14,711 --> 01:38:20,949
+Nasogastric decompression is necessary only with persistent vomiting or severe distention.
+
+821
+01:38:20,949 --> 01:38:31,199
+For prevention, surgical goals strive to minimize bowel manipulation, avoid excess IV fluids or profound hypovolemia, and limit surgery length .
+
+822
+01:38:31,199 --> 01:38:36,074
+After surgery, gum chewing enhances early bowel function recovery .
+
+823
+01:38:36,074 --> 01:38:46,386
+Among studies, chewing was initiated immediately or up to 12 hours later, lasted 15 to 60 minutes, and was repeated in at least three sessions daily .
+
+824
+01:38:46,386 --> 01:38:56,249
+Ambulation and Wound Care As discussed earlier, women undergoing cesarean delivery have an increased VTE risk compared with those delivering vaginally .
+
+825
+01:38:56,249 --> 01:38:59,236
+Early ambulation lowers this risk.
+
+826
+01:38:59,236 --> 01:39:03,374
+Walking to the bathroom begins, initially with assistance.
+
+827
+01:39:03,374 --> 01:39:05,774
+Brief walks are encouraged.
+
+828
+01:39:05,774 --> 01:39:13,249
+For women with marked abdominal laxity, an abdominal binder can aid comfortable deep coughing and ambulation.
+
+829
+01:39:13,249 --> 01:39:23,174
+Evidence supporting routine application for all parturients is limited and conflicting (Chankhunaphas, 2020; Gillier, 2016).
+
+830
+01:39:23,174 --> 01:39:30,524
+Although not evidence based, we remove the surgical dressing after 24 hours and inspect the incision daily.
+
+831
+01:39:30,524 --> 01:39:36,336
+One small randomized trial showed no wound healing effects if removed at 6 hours .
+
+832
+01:39:36,336 --> 01:39:40,961
+By the third postpartum day, showering does not harm the incision.
+
+833
+01:39:40,961 --> 01:39:45,986
+Prior to this, a plastic covering can maintain dryness during showers.
+
+834
+01:39:45,986 --> 01:39:50,711
+If used, staples are often removed on the fourth postoperative day.
+
+835
+01:39:50,711 --> 01:39:56,574
+In their place, tape strips can remain for 1 week to reinforce skin edge integrity.
+
+836
+01:39:56,574 --> 01:40:04,361
+If potential superficial wound separation, without infection, is a concern, staples can remain for 7 to 10
+
+837
+01:40:04,516 --> 01:40:06,028
+days.
+
+838
+01:40:05,978 --> 01:40:08,691
+# Hospital Discharge.
+
+839
+01:40:08,691 --> 01:40:15,278
+For uncomplicated cesarean delivery, the average hospitalization length is 3 to 4 days .
+
+840
+01:40:15,278 --> 01:40:25,716
+Data from studies suggest that earlier discharge is feasible for properly selected women and newborns (Bayoumi, 2016; Tan, 2012).
+
+841
+01:40:25,716 --> 01:40:31,041
+Protocols ideally include earlier reevaluation for neonatal jaundice.
+
+842
+01:40:31,041 --> 01:40:37,278
+However, discharge before 96 hours leads to a greater neonatal readmission rate .
+
+843
+01:40:37,278 --> 01:40:42,816
+Activities during the first week are limited to self-care and newborn care with assistance.
+
+844
+01:40:42,816 --> 01:40:50,228
+Driving can be resumed when pain does not limit the ability to brake quickly and when narcotic medications are not in use.
+
+845
+01:40:50,228 --> 01:41:01,191
+In women with cesarean delivery, intercourse was resumed in 44 percent by 6 weeks postpartum, 81 percent by 3 months, and 97 percent at 1 year .
+
+846
+01:41:01,191 --> 01:41:16,528
+After the puerperium, the quality of sexual functioning does not differ between those undergoing spontaneous vaginal birth or cesarean delivery (Chang, 2015; Fehniger, 2013; Rogers, 2014).
+
+847
+01:41:16,528 --> 01:41:19,028
+Return to work is variable.
+
+848
+01:41:19,028 --> 01:41:28,103
+Six weeks is commonly cited, although many women use the Family and Medical Leave Act to allow up to 12 weeks for recovery and newborn bonding.
+

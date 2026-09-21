@@ -126,5 +126,30 @@
     "audio": true,
     "words": 5574,
     "audio_size_mb": 15.44
+  },
+  "27": {
+    "audio": true,
+    "words": 10330,
+    "audio_size_mb": 28.0
+  },
+  "28": {
+    "audio": true,
+    "words": 7738,
+    "audio_size_mb": 20.53
+  },
+  "29": {
+    "audio": true,
+    "words": 6757,
+    "audio_size_mb": 17.98
+  },
+  "30": {
+    "audio": true,
+    "words": 12974,
+    "audio_size_mb": 34.84
+  },
+  "31": {
+    "audio": true,
+    "words": 6446,
+    "audio_size_mb": 17.71
   }
 }
