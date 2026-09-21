@@ -8,7 +8,7 @@ Playable directly on GitHub Web & Mobile with synchronized subtitle rendering an
 
 - 🎬 **[Chapter 01 Overview of Obstetrics](videos/Chapter_01_Overview_of_Obstetrics.mp4)** (36.3 MB)
 
-## 🎧 Audiobooks (MP3) — [20/68 Completed]
+## 🎧 Audiobooks (MP3) — [26/68 Completed]
 
 Playable directly on GitHub Web & Mobile with built-in audio player:
 
@@ -32,6 +32,12 @@ Playable directly on GitHub Web & Mobile with built-in audio player:
 - 🔊 **[Chapter 18 Fetal Disorders](audiobooks/Chapter_18_Fetal_Disorders.mp3)** (20.9 MB)
 - 🔊 **[Chapter 19 Fetal Therapy](audiobooks/Chapter_19_Fetal_Therapy.mp3)** (22.6 MB)
 - 🔊 **[Chapter 20 Antepartum Fetal Assessment](audiobooks/Chapter_20_Antepartum_Fetal_Assessment.mp3)** (16.7 MB)
+- 🔊 **[Chapter 21 Physiology of Labor](audiobooks/Chapter_21_Physiology_of_Labor.mp3)** (28.9 MB)
+- 🔊 **[Chapter 22 Normal Labor](audiobooks/Chapter_22_Normal_Labor.mp3)** (24.0 MB)
+- 🔊 **[Chapter 23 Abnormal Labor](audiobooks/Chapter_23_Abnormal_Labor.mp3)** (20.2 MB)
+- 🔊 **[Chapter 24 Intrapartum Assessment](audiobooks/Chapter_24_Intrapartum_Assessment.mp3)** (29.6 MB)
+- 🔊 **[Chapter 25 Obstetrical Analgesia and Anesthesia](audiobooks/Chapter_25_Obstetrical_Analgesia_and_Anesthesia.mp3)** (28.8 MB)
+- 🔊 **[Chapter 26 Induction and Augmentation of Labor](audiobooks/Chapter_26_Induction_and_Augmentation_of_Labor.mp3)** (15.4 MB)
 
 ## 📖 Table of Contents (Chapters)
 

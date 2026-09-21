@@ -1,0 +1,2584 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:07,150
+Chapter 25: Obstetrical Analgesia and Anesthesia.
+
+3
+00:00:07,150 --> 00:00:17,950
+General Principles Analgesia And Sedation During Labor Nerve Blocks Neuraxial Analgesia SPINAL (SUBARACHNOID) BLOCK Epidural Analgesia.
+
+4
+00:00:17,950 --> 00:00:20,062
+General Anesthesia.
+
+5
+00:00:20,062 --> 00:00:21,825
+References.
+
+6
+00:00:21,825 --> 00:00:25,737
+Obstetrical anesthesia presents unique challenges.
+
+7
+00:00:25,737 --> 00:00:31,800
+Labor begins without warning, and anesthesia may be required within minutes of a full meal.
+
+8
+00:00:31,800 --> 00:00:36,350
+Vomiting with aspiration of gastric contents is a constant threat.
+
+9
+00:00:36,350 --> 00:00:47,300
+The usual physiological adaptations of pregnancy require special consideration, especially with disorders such as preeclampsia, placental abruption, or sepsis.
+
+10
+00:00:47,300 --> 00:00:53,837
+Obstetrical analgesia and anesthesia have become extraordinarily safe over the past 40 years .
+
+11
+00:00:53,837 --> 00:01:10,137
+Anesthetic-related maternal mortality rates decreased more than 60 percent during this time, and from 2007 to 2017, only 0.4 percent of 6765 maternal deaths were due to anesthesia complications .
+
+12
+00:01:10,137 --> 00:01:20,150
+Creanga and colleagues (2017) reported the contribution of anesthetics to pregnancy-associated deaths has declined markedly in the United States .
+
+13
+00:01:20,150 --> 00:01:29,537
+Approximately two thirds of deaths associated with general anesthesia were caused by induction problems or intubation failures during cesarean delivery.
+
+14
+00:01:29,537 --> 00:01:43,675
+Deaths associated with regional analgesia were caused by spinal or epidural blocks reaching higher than planned spinal levels—26 percent; respiratory failure—19 percent; and drug reaction—19 percent.
+
+15
+00:01:43,675 --> 00:01:46,225
+Figure 25-1.
+
+16
+00:01:46,225 --> 00:01:55,150
+Contribution of anesthetic complications to pregnancy-associated deaths—United States, 1987–2013.
+
+17
+00:01:55,150 --> 00:02:04,987
+Of factors contributing to improved obstetrical anesthesia safety, the increased use of regional analgesia for labor and delivery is the most significant.
+
+18
+00:02:04,987 --> 00:02:18,150
+For general anesthesia, the improved case-fatality rate is especially notable considering that this method is now used for the highestrisk patients and for emergencies with decision-incision intervals <15 minutes .
+
+19
+00:02:18,150 --> 00:02:26,500
+In addition, the incidence of aspiration, hypoxia, or other respiratory events has declined during the past three decades.
+
+20
+00:02:26,500 --> 00:02:38,662
+This is likely due to use of difficult-airway algorithms, advanced airway equipment, and increased in-house anesthesia staffing (Davies, 2017; Lim, 2018).
+
+21
+00:02:38,662 --> 00:02:47,237
+Despite these encouraging results with general anesthesia, rising complications with regional analgesia techniques are now reported .
+
+22
+00:02:47,237 --> 00:02:49,300
+General Principles.
+
+23
+00:02:49,300 --> 00:02:52,862
+# Obstetrical Anesthesia Services.
+
+24
+00:02:52,862 --> 00:02:59,537
+Every obstetrician should be proficient in local and pudendal analgesia for select circumstances.
+
+25
+00:02:59,537 --> 00:03:11,150
+However, it is preferable for an anesthesiologist or anesthetist to provide rapid and reliable pain relief to allow the obstetrician to focus attention on the laboring woman and her fetus.
+
+26
+00:03:11,150 --> 00:03:27,737
+The American College of Obstetricians and Gynecologists (2019b) and the American Society of Anesthesiologists (2016) have reaffirmed prior directives that a woman’s request for labor pain relief is sufficient indication for its provision.
+
+27
+00:03:27,737 --> 00:03:36,975
+Identification of any of the risk factors shown in Table 25-1 should prompt consultation and collaboration with anesthesia personnel.
+
+28
+00:03:36,975 --> 00:03:43,262
+The resulting plan should ideally minimize the need for emergency anesthesia in this high-risk group.
+
+29
+00:03:43,262 --> 00:03:45,787
+Table 25-1.
+
+30
+00:03:45,787 --> 00:04:03,200
+Maternal Factors That May Prompt Anesthetic Consultation Goals for optimizing obstetrical anesthesia services have been established by the American College of Obstetricians and Gynecologists (2019b) and the American Society of Anesthesiologists (2016).
+
+31
+00:04:03,200 --> 00:04:08,437
+To achieve these goals, the following is a partial list of requisites: 1.
+
+32
+00:04:08,437 --> 00:04:19,637
+Availability of a licensed practitioner credentialed to administer an appropriate anesthetic whenever necessary and to maintain support of vital functions in an obstetrical emergency 2.
+
+33
+00:04:19,637 --> 00:04:30,387
+Availability of anesthesia personnel to permit the start of cesarean delivery within 30 minutes of the decision to perform the procedure (decision–incision time) 3.
+
+34
+00:04:30,387 --> 00:04:41,025
+Anesthesia personnel immediately available to support an emergency cesarean delivery during the active labor of a woman attempting vaginal birth after prior cesarean 4.
+
+35
+00:04:41,025 --> 00:04:47,762
+Appointment of a qualified anesthesiologist to be responsible for all anesthetics administered 5.
+
+36
+00:04:47,932 --> 00:04:57,682
+Availability of a qualified physician with obstetrical privileges to perform operative vaginal or cesarean delivery during anesthesia administration 6.
+
+37
+00:04:57,632 --> 00:05:04,982
+Availability of equipment, facilities, and support personnel equal to that provided in a surgical suite 7.
+
+38
+00:05:04,982 --> 00:05:13,519
+Immediate availability of personnel, other than the surgical team, to assume responsibility for resuscitation of a depressed newborn .
+
+39
+00:05:13,519 --> 00:05:19,507
+To meet these goals, 24-hour in-house anesthesia staffing is usually necessary.
+
+40
+00:05:19,507 --> 00:05:23,882
+Providing such service in smaller facilities is more challenging.
+
+41
+00:05:23,882 --> 00:05:33,132
+This is underscored by the fact that approximately 40 percent of all hospitals providing obstetrical care have fewer than 500 deliveries per year .
+
+42
+00:05:33,132 --> 00:05:42,344
+Bell and coworkers (2000) calculated the financial burden that may be incurred to provide 24/7 obstetrical anesthesia coverage.
+
+43
+00:05:42,344 --> 00:05:53,844
+They concluded that such coverage could not operate profitably at their tertiary referral institution, given the average indemnity and Medicaid reimbursement for labor epidural analgesia.
+
+44
+00:05:53,844 --> 00:06:09,644
+Compounding this burden, some third-party payers have denied reimbursement for epidural analgesia in the absence of a specific medical indication—an approach repudiated by the American College of Obstetricians and Gynecologists (2019b).
+
+45
+00:06:09,644 --> 00:06:12,594
+# Principles of Pain Relief.
+
+46
+00:06:12,594 --> 00:06:23,182
+Labor pain caused by uterine contractions and cervical dilation is transmitted through visceral afferent sympathetic nerves entering the spinal cord from T10 through L1.
+
+47
+00:06:23,182 --> 00:06:31,194
+Later, perineal stretching transmits painful stimuli through the pudendal nerve and sacral nerves from S2 through S4.
+
+48
+00:06:31,194 --> 00:06:37,632
+Cortical responses to pain and anxiety are complex and may be influenced by multiple factors.
+
+49
+00:06:37,632 --> 00:06:44,469
+Labor pain is a highly individual response to variable stimuli that are uniquely received and interpreted .
+
+50
+00:06:44,469 --> 00:06:52,269
+These stimuli are modified by emotional, motivational, cognitive, social, and cultural circumstances.
+
+51
+00:06:52,269 --> 00:07:02,182
+Specific modifiers are maternal expectations for her childbirth experience, age, antepartum labor education, and quality of emotional support.
+
+52
+00:07:02,182 --> 00:07:09,332
+Major causes of dissatisfaction with pain relief are perceived labor pain and delay in ameliorating the pain .
+
+53
+00:07:09,332 --> 00:07:16,694
+A mother’s physiological responses to labor pain may influence maternal and fetal well-being and labor progress.
+
+54
+00:07:16,694 --> 00:07:24,619
+First, a higher metabolic rate leads to more oxygen consumption and the resultant hyperventilation may induce hypocarbia.
+
+55
+00:07:24,619 --> 00:07:31,719
+Second, the sympathetic nervous system response to pain leads to elevated circulating catecholamine levels.
+
+56
+00:07:31,719 --> 00:07:38,319
+These in turn raise cardiac output and vascular resistance, which may raise maternal blood pressure.
+
+57
+00:07:38,319 --> 00:07:44,894
+Catecholamines also directly can adversely affect uterine activity and uteroplacental blood flow.
+
+58
+00:07:44,894 --> 00:07:52,119
+Last, pain, stress, and anxiety cause release of stress hormones such as cortisol and endorphins.
+
+59
+00:07:52,119 --> 00:07:56,907
+Effective analgesia attenuates or eliminates these responses.
+
+60
+00:07:56,907 --> 00:08:00,007
+Analgesia And Sedation During Labor.
+
+61
+00:08:00,007 --> 00:08:10,594
+If uterine contractions cause discomfort, pain relief with a narcotic such as meperidine, plus an antiemetic tranquilizer such as promethazine, is appropriate.
+
+62
+00:08:10,594 --> 00:08:21,482
+With a successful program of analgesia and sedation, discomfort usually is felt at the acme of a uterine contraction, and the mother can rest quietly between contractions.
+
+63
+00:08:21,482 --> 00:08:29,994
+Appropriate drug selection and administration from the medications shown in Table 25-2 safely accomplishes these objectives.
+
+64
+00:08:29,994 --> 00:08:32,544
+Table 25-2.
+
+65
+00:08:32,544 --> 00:08:38,182
+Typical Parenteral Analgesic Agents for Labor Pain # Parenteral Agents.
+
+66
+00:08:38,182 --> 00:08:50,844
+Meperidine and Promethazine Meperidine, 50 to 100 mg, with promethazine, 25 mg, may be administered intramuscularly (IM) at intervals of 2 to 4 hours.
+
+67
+00:08:50,844 --> 00:08:56,344
+Analgesia is maximal 30 to 45 minutes after an IM injection.
+
+68
+00:08:56,344 --> 00:09:06,357
+An almost immediate effect is achieved by giving meperidine intravenously (IV) in doses of 25 to 50 mg every 1 to 2 hours.
+
+69
+00:09:06,357 --> 00:09:13,632
+In an earlier study, meperidine was found to be the most common opioid used worldwide for pain relief in labor .
+
+70
+00:09:13,632 --> 00:09:22,069
+Tsui and associates (2004) found meperidine to be superior to placebo for pain relief in the first stage of labor.
+
+71
+00:09:22,069 --> 00:09:30,932
+In a randomized investigation at Parkland Hospital, IV patient-controlled analgesia (PCA) with meperidine was found to be an
+
+72
+00:09:31,084 --> 00:09:35,859
+inexpensive and reasonably effective method for labor analgesia .
+
+73
+00:09:35,809 --> 00:09:43,021
+Women received 50-mg meperidine with 25-mg promethazine IV as an initial bolus.
+
+74
+00:09:43,021 --> 00:09:51,109
+Thereafter, an infusion pump was set to deliver 15 mg of meperidine every 10 minutes as needed until delivery.
+
+75
+00:09:51,109 --> 00:09:59,484
+Neonatal sedation, as measured by need for naloxone treatment in the delivery room, was identified in 3 percent of newborns.
+
+76
+00:09:59,484 --> 00:10:07,484
+Meperidine readily crosses the placenta, and its depressant effect in the fetus closely follows peak maternal analgesia.
+
+77
+00:10:07,484 --> 00:10:15,334
+The active metabolite of meperidine, normeperidine, has a half-life of approximately 72 hours in the neonate.
+
+78
+00:10:15,334 --> 00:10:20,896
+Therefore, other opioids discussed below are favored for labor analgesia.
+
+79
+00:10:20,896 --> 00:10:34,321
+Butorphanol This synthetic opioid-receptor agonist-antagonist narcotic, given in 1- to 2mg IV doses every 4 hours as needed, compares favorably with meperidine for labor analgesia.
+
+80
+00:10:34,321 --> 00:10:39,109
+Its major side effects are somnolence, dizziness, and dysphoria.
+
+81
+00:10:39,109 --> 00:10:43,359
+Neonatal respiratory depression is less than with meperidine.
+
+82
+00:10:43,359 --> 00:10:51,334
+Importantly, the two drugs are not given contiguously because butorphanol antagonizes the narcotic effects of meperidine.
+
+83
+00:10:51,334 --> 00:11:03,984
+Hatjis and Meis (1986) described a transient sinusoidal fetal heart rate pattern following butorphanol administration, but no short-term maternal or neonatal adverse sequelae were noted .
+
+84
+00:11:03,984 --> 00:11:11,471
+Fentanyl This short-acting and potent synthetic opioid may be given in doses of 50 to 100 µg IV every hour.
+
+85
+00:11:11,471 --> 00:11:18,909
+Its main disadvantage is a short duration of action, which requires frequent dosing or use of a PCA pump.
+
+86
+00:11:18,909 --> 00:11:32,346
+Atkinson and coworkers (1994) reported that butorphanol provided better initial analgesia than fentanyl and was associated with fewer requests for additional medication or for epidural analgesia.
+
+87
+00:11:32,346 --> 00:11:37,896
+Remifentanil This ultrashort-acting opioid can be given using a PCA pump .
+
+88
+00:11:37,896 --> 00:11:45,096
+Remifentanil is administered through a dedicated IV cannula to avoid bolus dosing, which can lead to apnea.
+
+89
+00:11:45,096 --> 00:11:54,521
+Both respiratory monitoring and 1:1 nursing-to-patient ratio help watch for apneic spells, which occur in 25 percent of treated women .
+
+90
+00:11:54,521 --> 00:12:03,984
+In the RemiPCA SAFE Network Study, moderate maternal hypoxia (SaO2 <94 percent) was documented in a fourth of women .
+
+91
+00:12:03,984 --> 00:12:14,921
+A multicenter randomized study showed PCA-administered remifentanil halved the proportion of women subsequently requesting epidural analgesia compared with IM meperidine .
+
+92
+00:12:14,921 --> 00:12:19,546
+Parenteral Agent Safety Parenteral sedation is not without risks.
+
+93
+00:12:19,546 --> 00:12:28,596
+Hawkins and colleagues (1997) reported that 4 of 129 maternal anesthetic-related deaths were from such sedation.
+
+94
+00:12:28,596 --> 00:12:34,484
+One was from aspiration, two from inadequate ventilation, and one from overdosage.
+
+95
+00:12:34,484 --> 00:12:39,196
+Narcotics used during labor may cause newborn respiratory depression.
+
+96
+00:12:39,196 --> 00:12:46,659
+Naloxone is a narcotic antagonist capable of reversing respiratory depression induced by opioid narcotics.
+
+97
+00:12:46,659 --> 00:12:52,434
+It acts by displacing the narcotic from specific receptors in the central nervous system.
+
+98
+00:12:52,434 --> 00:12:59,846
+After adequate ventilation has been established, naloxone may be given to a newborn whose mother received narcotics.
+
+99
+00:12:59,846 --> 00:13:07,259
+Naloxone is contraindicated in a newborn of a narcotic-addicted mother because withdrawal symptoms may be precipitated .
+
+100
+00:13:07,259 --> 00:13:09,859
+# Nitrous Oxide.
+
+101
+00:13:09,859 --> 00:13:19,346
+A self-administered mixture of 50-percent nitrous oxide (N2O) and oxygen may provide satisfactory analgesia during labor .
+
+102
+00:13:19,346 --> 00:13:28,896
+Some preparations are premixed in a single cylinder (Entonox), and in others, a blender mixes the two gases from separate tanks (Nitronox).
+
+103
+00:13:28,896 --> 00:13:35,059
+The gases are connected to a breathing circuit through a valve that opens only when the patient inspires.
+
+104
+00:13:35,059 --> 00:13:47,446
+The use of intermittent nitrous oxide did not alter the rate of epidural analgesia but did improve birth experience satisfaction rates (Bobb, 2016; Lim, 2018).
+
+105
+00:13:47,446 --> 00:13:53,059
+Maternal side effects include nausea, vomiting, dizziness, and drowsiness.
+
+106
+00:13:53,059 --> 00:14:05,046
+Neonatal Apgar scores or umbilical cord blood gas results did not differ in women using nitrous oxide compared with those selecting other pain management methods or no analgesia in labor .
+
+107
+00:14:05,046 --> 00:14:06,871
+Nerve Blocks.
+
+108
+00:14:06,871 --> 00:14:11,784
+Various nerve blocks provide pain relief during labor and/or delivery.
+
+109
+00:14:11,784 --> 00:14:18,971
+These include pudendal, paracervical, and neuraxial blocks such as spinal, epidural, dural-puncture
+
+110
+00:14:19,132 --> 00:14:23,132
+epidural, and combined spinal-epidural techniques.
+
+111
+00:14:23,082 --> 00:14:25,819
+# Anesthetic Agents.
+
+112
+00:14:25,819 --> 00:14:31,682
+Commonly used nerve block anesthetics are summarized in Table 25-3.
+
+113
+00:14:31,682 --> 00:14:38,644
+The dose of each agent varies widely and is dependent on the particular nerve block and physical status of the woman.
+
+114
+00:14:38,644 --> 00:14:49,707
+The onset, duration, and quality of analgesia can be enhanced by increasing the anesthetic agent’s dose, concentration, and volume or by altering its delivery mode.
+
+115
+00:14:49,707 --> 00:14:58,482
+With their use, safety tenets include incremental boluses of the agent and carefully monitoring for early warning signs of adverse effects.
+
+116
+00:14:58,482 --> 00:15:04,319
+Appropriate equipment and personnel to manage these reactions must be immediately available.
+
+117
+00:15:04,319 --> 00:15:06,932
+Table 25-3.
+
+118
+00:15:06,932 --> 00:15:19,119
+Commonly Used Local Anesthetic Agents in Obstetrics Local analgesic agents are manufactured in more than one concentration and ampule size, and this raises the potential for dosing errors.
+
+119
+00:15:19,119 --> 00:15:26,844
+Most often, serious toxicity follows inadvertent intravenous, subarachnoid, or subdural injection.
+
+120
+00:15:26,844 --> 00:15:34,507
+Systemic toxicity from local anesthetics typically manifests in the central nervous and cardiovascular systems.
+
+121
+00:15:34,507 --> 00:15:44,657
+For this reason, before epidural analgesia is initiated, a mixture of a small amount of local anesthetic drug and epinephrine is given as a test dose.
+
+122
+00:15:44,657 --> 00:15:52,294
+Epinephrine with its associated tachycardia is used as a marker to help identify incorrect placement if it occurs.
+
+123
+00:15:52,294 --> 00:16:01,869
+A sudden significant elevation in the maternal heart rate or blood pressure within 1 to 2 minutes after administration suggests intravenous catheter placement.
+
+124
+00:16:01,869 --> 00:16:12,582
+A block extending over wider than expected spinal levels and/or dense motor blockade indicate inadvertent catheter placement into the subarachnoid or into the subdural space.
+
+125
+00:16:12,582 --> 00:16:20,607
+Central Nervous System Toxicity Early symptoms are those of stimulation, but as serum levels rise, depression follows.
+
+126
+00:16:20,607 --> 00:16:27,932
+Symptoms may include light-headedness, dizziness, tinnitus, metallic taste, and numbness of the tongue and mouth.
+
+127
+00:16:27,932 --> 00:16:34,644
+Patients may also show bizarre behavior, slurred speech, and muscle fasciculation and excitation.
+
+128
+00:16:34,644 --> 00:16:39,869
+Ultimately, generalized convulsions and loss of consciousness could result.
+
+129
+00:16:39,869 --> 00:16:51,507
+For neural and cardiac toxicity treatment, a rapid IV infusion of 20percent intralipids effectively disassociates anesthetic drugs from neural and myocardial cell membranes.
+
+130
+00:16:51,507 --> 00:16:58,982
+For patients weighing >70 kg, a 100-mL bolus dose of lipid emulsion is given.
+
+131
+00:16:58,982 --> 00:17:05,144
+Boluses can be repeated once or twice every 5 minutes for persistent cardiac instability.
+
+132
+00:17:05,144 --> 00:17:10,807
+The initial bolus is followed by a 200-mL infusion over 15 minutes .
+
+133
+00:17:10,807 --> 00:17:15,669
+For convulsions, an airway is established, and oxygen delivered.
+
+134
+00:17:15,669 --> 00:17:24,132
+To halt seizures, lorazepam, 4 mg IV slowly, is administered and may be repeated once after 10 to 15 minutes.
+
+135
+00:17:24,132 --> 00:17:33,469
+Alternatively, diazepam, 5 to 10 mg IV every 10 to 15 minutes up to a total dose of 30 mg, can be used.
+
+136
+00:17:33,469 --> 00:17:40,382
+Succinylcholine abolishes the peripheral manifestations of the convulsions and allows tracheal intubation.
+
+137
+00:17:40,382 --> 00:17:47,194
+Magnesium sulfate, administered according to the regimen for eclampsia, also controls convulsions .
+
+138
+00:17:47,194 --> 00:17:56,619
+Abnormal fetal heart rate patterns such as late decelerations or persistent bradycardia may develop from maternal hypoxia and lactic acidosis.
+
+139
+00:17:56,619 --> 00:18:07,469
+With arrest of convulsions, oxygen administration, and other supportive measures, the fetus usually recovers more quickly in utero than following immediate cesarean delivery.
+
+140
+00:18:07,469 --> 00:18:15,944
+Moreover, the mother is better served if delivery is delayed until the intensity of hypoxia and metabolic acidosis has diminished.
+
+141
+00:18:15,944 --> 00:18:27,669
+Cardiovascular Toxicity These manifestations generally develop later than those from cerebral toxicity, and they may not develop at all because they are induced by higher serum drug levels.
+
+142
+00:18:27,669 --> 00:18:36,694
+The exception is bupivacaine, which is associated with the development of neurotoxicity and cardiotoxicity at virtually identical levels .
+
+143
+00:18:36,694 --> 00:18:48,107
+Fortunately, bupivacaine is mostly used in dilute epidural solutions, and use of 0.75-percent solution is limited to a small dose for spinal analgesia.
+
+144
+00:18:48,107 --> 00:18:56,157
+Similar to neurotoxicity, cardiovascular toxicity is characterized first by stimulation and then by depression.
+
+145
+00:18:56,157 --> 00:19:00,944
+Accordingly, hypertension and tachycardia are soon followed by
+
+146
+00:19:01,108 --> 00:19:06,533
+hypotension, cardiac arrhythmias, and impaired uteroplacental perfusion.
+
+147
+00:19:06,483 --> 00:19:10,895
+As before, 20-percent intralipids serve as the rescue.
+
+148
+00:19:10,895 --> 00:19:17,745
+Hypotension is managed initially by turning the woman onto either side to avoid aortocaval compression.
+
+149
+00:19:17,745 --> 00:19:22,558
+A crystalloid solution is infused rapidly along with vasopressors.
+
+150
+00:19:22,558 --> 00:19:33,795
+Emergency bedside cesarean delivery is considered if maternal vital signs have not been restored within 4 minutes of cardiac arrest, and the goal is delivery within 5 minutes .
+
+151
+00:19:33,795 --> 00:19:42,620
+However, as with convulsions, the fetus is likely to recover more quickly in utero once maternal cardiac output is reestablished.
+
+152
+00:19:42,620 --> 00:19:45,095
+# Pudendal Block.
+
+153
+00:19:45,095 --> 00:19:50,383
+Pain with vaginal delivery arises from stimuli from the lower genital tract.
+
+154
+00:19:50,383 --> 00:20:00,883
+These are transmitted primarily through the pudendal nerve, the peripheral branches of which provide sensory innervation to the perineum, anus, vulva, and clitoris .
+
+155
+00:20:00,883 --> 00:20:09,145
+The pudendal nerve passes beneath the posterior surface of the sacrospinous ligament just as the ligament attaches to the ischial spine.
+
+156
+00:20:09,145 --> 00:20:16,070
+Sensory nerve fibers of the pudendal nerve are derived from ventral branches of the S2 through S4 nerves.
+
+157
+00:20:16,070 --> 00:20:22,695
+The pudendal nerve block is a relatively safe, simple method of analgesia for vaginal delivery .
+
+158
+00:20:22,695 --> 00:20:33,333
+As shown in Figure 25-2, a tubular introducer is used to sheath and guide a 15-cm, 22-gauge needle into position near the pudendal nerve.
+
+159
+00:20:33,333 --> 00:20:39,783
+The end of the introducer is placed against the vaginal mucosa just beneath the tip of the ischial spine.
+
+160
+00:20:39,783 --> 00:20:49,595
+The introducer allows 1.0 to 1.5 cm of needle to protrude beyond its tip, and the needle is pushed beyond the introducer tip into the mucosa.
+
+161
+00:20:49,595 --> 00:20:57,533
+A mucosal wheal is made with 1 mL of 1-percent lidocaine solution or an equivalent dose of another local anesthetic .
+
+162
+00:20:57,533 --> 00:21:04,920
+To guard against intravascular infusion, aspiration is attempted before this and all subsequent injections.
+
+163
+00:21:04,920 --> 00:21:12,720
+The needle is then advanced until it touches the sacrospinous ligament, which is infiltrated with 3 mL of lidocaine.
+
+164
+00:21:12,720 --> 00:21:15,933
+The procedure is repeated on the other side.
+
+165
+00:21:15,933 --> 00:21:18,483
+Figure 25-2.
+
+166
+00:21:18,483 --> 00:21:21,695
+Local infiltration of the pudendal nerve.
+
+167
+00:21:21,695 --> 00:21:30,258
+Transvaginal technique showing the needle extended beyond the needle guard and passing through the sacrospinous ligament to reach the pudendal nerve.
+
+168
+00:21:30,258 --> 00:21:38,958
+Within 3 to 4 minutes of injection, the successful pudendal block will allow pinching of the lower vagina and posterior vulva without pain.
+
+169
+00:21:38,958 --> 00:21:55,220
+If delivery occurs before the pudendal block becomes effective and an episiotomy is indicated, the fourchette, perineum, and adjacent vagina can be infiltrated with 5 to 10 mL of 1-percent lidocaine solution directly at the planned episiotomy site.
+
+170
+00:21:55,220 --> 00:21:59,870
+The pudendal block usually has become effective by the time of repair.
+
+171
+00:21:59,870 --> 00:22:08,170
+The maximum recommended total dose of lidocaine is 4.5 mg/kg and not to exceed 300 mg .
+
+172
+00:22:08,170 --> 00:22:17,670
+For a 50-kg woman, this would equal 225 mg (4.5 mg/kg × 50 kg).
+
+173
+00:22:17,670 --> 00:22:29,783
+Thus, if 1-percent lidocaine is used, the calculated allowed amount would be: 225 mg ÷ 10 mg/mL = 22.5 mL.
+
+174
+00:22:29,783 --> 00:22:35,508
+Of note, for any drug solution, 1 percent = 10 mg/mL.
+
+175
+00:22:35,508 --> 00:22:43,308
+Pudendal block usually does not provide adequate analgesia when delivery requires extensive obstetrical manipulation.
+
+176
+00:22:43,308 --> 00:22:54,458
+Parenteral or neuraxial anesthesia is usually necessary when complete visualization of the cervix and upper vagina or manual exploration of the uterine cavity is indicated.
+
+177
+00:22:54,458 --> 00:22:58,308
+Infrequently, complications may follow this block.
+
+178
+00:22:58,308 --> 00:23:06,283
+As previously described, intravascular injection of a local anesthetic agent may cause serious systemic toxicity.
+
+179
+00:23:06,283 --> 00:23:12,608
+Hematoma formation from perforation of a blood vessel is most likely when there is a coagulopathy .
+
+180
+00:23:12,608 --> 00:23:21,108
+The addition of a corticosteroid injected along with the local anesthetic did not decrease the incidence of pudendal neuralgia at 3 months .
+
+181
+00:23:21,108 --> 00:23:25,758
+Rarely, severe infection may originate at the injection site.
+
+182
+00:23:25,758 --> 00:23:33,420
+The infection may spread posteriorly to the hip joint, into the gluteal musculature, or into the retropsoas space .
+
+183
+00:23:33,420 --> 00:23:36,145
+# Paracervical Block.
+
+184
+00:23:36,145 --> 00:23:45,458
+The cervix, vagina, and uterus are richly supplied by nerves of the uterovaginal plexus (Fig. 2-12, p. 25).
+
+185
+00:23:45,458 --> 00:23:50,958
+This plexus lies within the connective tissue lateral to the uterosacral ligaments.
+
+186
+00:23:50,958 --> 00:23:54,333
+Thus, injections are most effective if
+
+187
+00:23:54,484 --> 00:24:00,221
+placed immediately lateral to the insertion of the uterosacral ligaments into the uterus .
+
+188
+00:24:00,171 --> 00:24:12,609
+For paracervical blockade, usually 1-percent lidocaine or 3-percent chloroprocaine, 5 to 10 mL, is injected into the cervix laterally at 4 and 8 o’clock positions.
+
+189
+00:24:12,609 --> 00:24:18,059
+This block usually provides satisfactory pain relief during first-stage labor.
+
+190
+00:24:18,059 --> 00:24:24,796
+However, because the pudendal nerves are not blocked, additional analgesia is required for delivery.
+
+191
+00:24:24,796 --> 00:24:31,059
+The block may have to be repeated during labor because these anesthetics are relatively short acting.
+
+192
+00:24:31,059 --> 00:24:37,984
+Fetal bradycardia is a worrisome complication that develops in approximately 15 percent of these blocks .
+
+193
+00:24:37,984 --> 00:24:43,546
+Bradycardia usually develops within 10 minutes and may last up to 30 minutes.
+
+194
+00:24:43,546 --> 00:24:50,871
+Doppler studies have shown an increase in the pulsatility index of the uterine arteries following paracervical blockade .
+
+195
+00:24:50,871 --> 00:24:58,459
+These observations support the hypothesis of drug-induced arterial vasospasm as a cause of fetal bradycardia .
+
+196
+00:24:58,459 --> 00:25:04,709
+Thus, paracervical block should not be used in situations of potential fetal compromise.
+
+197
+00:25:04,709 --> 00:25:09,584
+For all of these reasons, we do not use this block at Parkland Hospital.
+
+198
+00:25:09,584 --> 00:25:12,109
+Neuraxial Analgesia.
+
+199
+00:25:12,109 --> 00:25:15,259
+# Neuraxial Regional Blocks.
+
+200
+00:25:15,259 --> 00:25:27,146
+Epidural, spinal, dural-puncture epidural, or combined spinal-epidural techniques are the most common methods used for relief of pain during labor and/or delivery in the United States.
+
+201
+00:25:27,146 --> 00:25:32,759
+Nearly 75 percent of mothers receive neuraxial anesthesia for pain relief .
+
+202
+00:25:32,759 --> 00:25:44,059
+Among first births, 68 percent of women who delivered vaginally received neuraxial pain relief compared with 57 percent of women delivering their second or higher number child.
+
+203
+00:25:44,059 --> 00:25:56,396
+Antepartum education programs improve the understanding of labor analgesia and increase its use by 30 percent in Hispanic women who traditionally choose labor epidural analgesia less often .
+
+204
+00:25:56,396 --> 00:26:11,909
+Butwick and associates (2018b) showed women are more likely to receive neuraxial analgesia with higher class of obesity—class I, 72 percent; class II, 73 percent; and class III, 76 percent.
+
+205
+00:26:11,909 --> 00:26:17,234
+As a brief review, the epidural space lies just outside the dural sac.
+
+206
+00:26:17,234 --> 00:26:26,521
+The dura mater encases the subarachnoid space, which contains the cauda equina of the spinal cord and cerebrospinal fluid (CSF) .
+
+207
+00:26:26,521 --> 00:26:33,746
+Spinal and intrathecal anesthesia are synonymous, and agents are injected into the subarachnoid space.
+
+208
+00:26:33,746 --> 00:26:36,421
+Figure 25-3.
+
+209
+00:26:36,421 --> 00:26:38,946
+Neuraxial analgesia.
+
+210
+00:26:38,946 --> 00:26:42,459
+A. Combined spinal-epidural analgesia.
+
+211
+00:26:42,459 --> 00:26:45,284
+B. Epidural analgesia.
+
+212
+00:26:45,284 --> 00:26:57,359
+Epidural analgesia via a catheter in the epidural space is typically used for relief of labor pain, although it can also be used for anesthesia during operative vaginal and cesarean delivery.
+
+213
+00:26:57,359 --> 00:27:06,696
+Spinal analgesia is typically given as a single intrathecal injection of a local anesthetic at the time of operative vaginal or cesarean delivery.
+
+214
+00:27:06,696 --> 00:27:12,096
+Variations of these two basic approaches are described in the subsequent sections.
+
+215
+00:27:12,096 --> 00:27:15,634
+# Spinal (Subarachnoid) Block.
+
+216
+00:27:15,634 --> 00:27:27,896
+Introduction of a local anesthetic into the subarachnoid space to effect analgesia offers a short procedural time, rapid blockade onset, and high success rate of inducing analgesia.
+
+217
+00:27:27,896 --> 00:27:37,421
+The subarachnoid space is smaller during pregnancy likely because of internal vertebral venous plexus engorgement (see Fig. 25-3A).
+
+218
+00:27:37,421 --> 00:27:47,621
+As a result, compared with nonpregnant women, the same amount of anesthetic agent in the same volume of solution produces a higherlevel blockade in parturients.
+
+219
+00:27:47,621 --> 00:27:55,246
+Vaginal Delivery Spinal analgesia involving only lower spinal levels can be used for operative vaginal delivery.
+
+220
+00:27:55,246 --> 00:28:02,359
+The level of analgesia should extend to the T10 dermatome, which corresponds to the level of the umbilicus.
+
+221
+00:28:02,359 --> 00:28:07,934
+Blockade to this level provides excellent relief from the pain of uterine contractions.
+
+222
+00:28:07,934 --> 00:28:15,209
+The spinal block provides also excellent analgesia to the lower uterine segment, vagina, and perineum.
+
+223
+00:28:15,209 --> 00:28:22,446
+Several local anesthetic agents have been used for spinal analgesia (see Table 25-3.
+
+224
+00:28:22,446 --> 00:28:30,009
+Addition of dextrose to any of these agents creates a hyperbaric solution, which is heavier and denser than CSF.
+
+225
+00:28:30,009 --> 00:28:38,584
+A sitting position causes a hyperbaric solution to settle caudally, whereas a lateral position will have a greater effect on the dependent side.
+
+226
+00:28:38,584 --> 00:28:40,759
+Lidocaine given in
+
+227
+00:28:40,924 --> 00:28:49,149
+a hyperbaric solution produces excellent analgesia and has the advantage of a rapid onset and relatively short duration.
+
+228
+00:28:49,099 --> 00:28:54,749
+Isobaric bupivacaine provides satisfactory analgesia for more than 1 hour.
+
+229
+00:28:54,749 --> 00:29:05,311
+Single-dose spinal analgesia is usually administered when the cervix is fully dilated, and all other criteria for safe operative vaginal delivery have been fulfilled .
+
+230
+00:29:05,311 --> 00:29:13,174
+Preanalgesic IV hydration with 1 L of crystalloid solution will prevent or minimize hypotension in many cases.
+
+231
+00:29:13,174 --> 00:29:20,786
+Cesarean Delivery A level of sensory blockade extending to the T4 dermatome is desired for cesarean delivery.
+
+232
+00:29:20,786 --> 00:29:26,836
+A dose of 10 to 12 mg of bupivacaine in a hyperbaric solution is administered.
+
+233
+00:29:26,836 --> 00:29:37,086
+The addition of 20 to 25 µg of fentanyl improves the quality and prolongs the duration of the spinal block, reduces shivering, and minimizes referred pain.
+
+234
+00:29:37,086 --> 00:29:45,261
+In addition, 0.1 to 0.2 mg of intrathecal morphine can be added for pain control postoperatively.
+
+235
+00:29:45,261 --> 00:29:50,524
+With intrathecal morphine, the risk for respiratory depression should be considered.
+
+236
+00:29:50,524 --> 00:30:01,999
+The Society of Obstetric Anesthesia and Perinatology recommends postoperative respiratory monitoring based on dose, patient risk factors, and perioperative risk factors.
+
+237
+00:30:01,999 --> 00:30:15,899
+A low-dose regimen, defined as >50 µg and ≤150 µg, in women with no risk factors requires respiratory rate and sedation checks postoperatively for the first 12 hours.
+
+238
+00:30:15,899 --> 00:30:27,661
+In women with additional risk factors, these safeguards are conducted postoperatively for the first 24 hours, and additional monitoring with pulse oximetry or capnography is considered.
+
+239
+00:30:27,661 --> 00:30:35,136
+Last, this monitoring method is also recommended in all women receiving doses >150 µg .
+
+240
+00:30:35,136 --> 00:30:43,386
+Complications Shown in Table 25-4 are some of the more common complications associated with neuraxial analgesia.
+
+241
+00:30:43,386 --> 00:30:45,949
+Table 25-4.
+
+242
+00:30:45,949 --> 00:30:50,124
+Complications of Neuraxial Analgesia Hypotension.
+
+243
+00:30:50,124 --> 00:30:55,974
+This common complication may develop soon after injection of the local anesthetic agent.
+
+244
+00:30:55,974 --> 00:31:05,211
+It stems from vasodilation caused by sympathetic blockade and is compounded by obstructed venous return due to uterine compression of the vena cava.
+
+245
+00:31:05,211 --> 00:31:13,424
+In the supine position, even in the absence of maternal hypotension, placental blood flow may still be significantly diminished.
+
+246
+00:31:13,424 --> 00:31:22,136
+Treatment includes uterine displacement by left lateral patient positioning, rapid IV crystalloid infusion, and IV vasopressors.
+
+247
+00:31:22,136 --> 00:31:28,511
+One systematic review concluded that vasopressors should be given only in the setting of hypotension .
+
+248
+00:31:28,511 --> 00:31:35,286
+For treatment, phenylephrine is now the preferred drug to treat hypotension from neuraxial analgesia.
+
+249
+00:31:35,286 --> 00:31:40,761
+It is a pure alpha agonist and raises blood pressure solely through vasoconstriction.
+
+250
+00:31:40,761 --> 00:31:50,749
+Maternal bradycardia develops more frequently with phenylephrine than with ephedrine or norepinephrine (Sharkey, 2019; Veeser, 2012).
+
+251
+00:31:50,749 --> 00:32:00,036
+Although ephedrine was believed to correct hypotension without reducing blood flow, phenylephrine is associated with better umbilical cord blood gases .
+
+252
+00:32:00,036 --> 00:32:10,611
+A metaanalysis of 36 randomized trials also suggests that both agents have comparable efficacy but that phenylephrine yields a lower rate of fetal acidosis .
+
+253
+00:32:10,611 --> 00:32:20,161
+For administration, prophylactic infusions of phenylephrine are effective and may require less physician intervention compared with intermittent boluses .
+
+254
+00:32:20,161 --> 00:32:35,661
+As another potential agent, norepinephrine may improve cardiac output with its beta-adrenergic effects but also is associated with a lower cord arterial pH compared with phenylephrine (Chen, 2021; Mohta, 2019).
+
+255
+00:32:35,661 --> 00:32:37,949
+High Spinal Blockade.
+
+256
+00:32:37,949 --> 00:32:44,886
+Most often, complete spinal blockade follows administration of an excessive dose of local anesthetic.
+
+257
+00:32:44,886 --> 00:32:52,824
+However, it can also develop with inadvertent delivery of a small amount of local anesthetic drugs into the subdural space.
+
+258
+00:32:52,824 --> 00:32:59,849
+This small potential space lies between the dura mater and arachnoid mater and outside the subarachnoid space.
+
+259
+00:32:59,849 --> 00:33:05,674
+Because of its limited capacity, even small volumes will reach higher spinal levels.
+
+260
+00:33:05,674 --> 00:33:12,149
+Hypotension and apnea develop quickly and must be immediately treated to prevent cardiac arrest.
+
+261
+00:33:12,149 --> 00:33:22,374
+In the undelivered woman: (1) the uterus is immediately displaced laterally to minimize aortocaval compression, (2) effective ventilation is established,
+
+262
+00:33:22,540 --> 00:33:30,190
+preferably with tracheal intubation, and (3) IV fluids and vasopressors are given to correct hypotension.
+
+263
+00:33:30,140 --> 00:33:32,627
+Postdural Puncture Headache.
+
+264
+00:33:32,627 --> 00:33:38,115
+Leakage of CSF from the dural puncture site can lead to postdural puncture headache.
+
+265
+00:33:38,115 --> 00:33:47,127
+Presumably, when the woman sits or stands, the diminished CSF volume creates traction on pain-sensitive central nervous system structures.
+
+266
+00:33:47,127 --> 00:33:55,590
+An alternative mechanism is compensatory cerebral vasodilation in response to CSF loss—the Monro-Kellie hypothesis .
+
+267
+00:33:55,590 --> 00:34:08,102
+The incidence of obstetrical postdural puncture headache in women undergoing spinal analgesia ranges from 0.2 to 1 percent (Maronge, 2012; Sprigge, 2008).
+
+268
+00:34:08,102 --> 00:34:16,202
+This rate is similar to the overall occurrence of postdural puncture headaches, which approximates 1 headache per 200 blocks.
+
+269
+00:34:16,202 --> 00:34:29,277
+A study of 567 postpartum hospital encounters showed that 40 percent of presentations for headache are due to neuraxial anesthesia, and these visits most often occur within 7 days of delivery .
+
+270
+00:34:29,277 --> 00:34:35,840
+Procedural preventive steps include using a small-gauge spinal needle and avoiding multiple punctures.
+
+271
+00:34:35,840 --> 00:34:45,940
+In a prospective, randomized study of five different spinal needles, Sprotte and Whitacre needles had the lowest risks of associated postdural puncture headaches .
+
+272
+00:34:45,940 --> 00:34:57,790
+Rates are high with inadvertent dural puncture during epidural analgesia and approximate 0.2 to 1 percent (Introna, 2012; Maronge, 2018).
+
+273
+00:34:57,790 --> 00:35:04,852
+No strong evidence supports placing a woman flat on her back or providing vigorous hydration to prevent headache .
+
+274
+00:35:04,852 --> 00:35:16,490
+A prophylactic blood patch performed within 24 hours of dural puncture does not diminish either the incidence of postdural puncture headache or the need for a subsequent therapeutic blood patch .
+
+275
+00:35:16,490 --> 00:35:23,977
+If a headache develops, administration of caffeine, which is a cerebral vasoconstrictor, has limited efficacy .
+
+276
+00:35:23,977 --> 00:35:29,765
+With severe headache, an epidural blood patch is most effective and preferred treatment.
+
+277
+00:35:29,765 --> 00:35:39,802
+Autologous blood is obtained aseptically by venipuncture, and 10 to 20 mL is injected into the epidural space at or below the site of dural puncture.
+
+278
+00:35:39,802 --> 00:35:45,265
+This site is selected because the blood will spread more readily in the cephalad direction.
+
+279
+00:35:45,265 --> 00:35:50,365
+Further CSF leakage is halted by either mass effect or clot formation.
+
+280
+00:35:50,365 --> 00:35:54,440
+Relief is immediate, and complications are uncommon.
+
+281
+00:35:54,440 --> 00:36:04,115
+If a headache does not have the pathognomonic postural characteristics or persists despite treatment with a repeat blood patch, other diagnoses should be considered.
+
+282
+00:36:04,115 --> 00:36:12,865
+Chisholm and Campbell (2001) described a case of superior sagittal sinus thrombosis that manifested as a postural headache.
+
+283
+00:36:12,865 --> 00:36:18,640
+Chan and Paech (2004) reported persistent CSF leak in three women.
+
+284
+00:36:18,640 --> 00:36:25,477
+Smarkusky and colleagues (2006) described pneumocephalus, which caused immediate cephalgia.
+
+285
+00:36:25,477 --> 00:36:38,202
+Last, intracranial and intraspinal subarachnoid hematomas have developed after spinal analgesia (Bi, 2021; Maronge, 2018; Moore, 2019).
+
+286
+00:36:38,202 --> 00:36:40,077
+Convulsions.
+
+287
+00:36:40,077 --> 00:36:46,677
+Rarely, postdural puncture cephalgia is associated with temporary blindness and convulsions.
+
+288
+00:36:46,677 --> 00:36:56,440
+Shearer and associates (1995) described eight such cases in 19,000 regional analgesia procedures done at Parkland Hospital.
+
+289
+00:36:56,440 --> 00:37:01,440
+It is presumed that these also are caused by hypotension from CSF leak.
+
+290
+00:37:01,440 --> 00:37:06,652
+Immediate treatment of seizures and epidural blood patch were usually effective.
+
+291
+00:37:06,652 --> 00:37:08,715
+Bladder Dysfunction.
+
+292
+00:37:08,715 --> 00:37:17,315
+With neuraxial analgesia, bladder sensation is likely to be obtunded and bladder emptying impaired for several hours after delivery.
+
+293
+00:37:17,315 --> 00:37:26,102
+As a consequence, bladder distention is a frequent postpartum complication, especially if appreciable volumes of IV fluid are given.
+
+294
+00:37:26,102 --> 00:37:41,502
+Millet (2012) randomized 146 women with neuraxial analgesia to either intermittent or continuous bladder catheterizations and found that the intermittent method was associated with significantly greater rates of bacteriuria.
+
+295
+00:37:41,502 --> 00:37:44,427
+Arachnoiditis and Meningitis.
+
+296
+00:37:44,427 --> 00:37:51,665
+Local anesthetics used for neuraxial blocks are required to be free of methylparaben or other preservatives.
+
+297
+00:37:51,665 --> 00:38:04,827
+This practice, coupled with aseptic technique and disposable equipment, has made meningitis and arachnoiditis rare (Centers for Disease Control and Prevention, 2010; Maronge, 2018).
+
+298
+00:38:04,827 --> 00:38:10,427
+Contraindications to Spinal Analgesia Shown in Table 25-5
+
+299
+00:38:10,588 --> 00:38:14,863
+are absolute contraindications to spinal analgesia.
+
+300
+00:38:14,813 --> 00:38:25,688
+Obstetrical complications that are associated with maternal hypovolemia and hypotension—for example, severe hemorrhage—are contraindications to spinal blockade.
+
+301
+00:38:25,688 --> 00:38:34,163
+The additive deleterious cardiovascular effects of spinal blockade plus acute blood loss in nonpregnant patients have been documented .
+
+302
+00:38:34,163 --> 00:38:36,900
+Table 25-5.
+
+303
+00:38:36,900 --> 00:38:48,888
+Absolute Contraindications to Spinal Analgesia Severe preeclampsia is another obstetrical complication in which decreased blood pressure can be encountered when neuraxial analgesia is used .
+
+304
+00:38:48,888 --> 00:38:53,913
+These effects are mitigated by judicial dosing of anesthetic solutions.
+
+305
+00:38:53,913 --> 00:39:06,925
+Perhaps related, Ulubaşoğlu and colleagues (2018) reported that preeclamptic women undergoing general anesthesia required more antihypertensive medication than those with spinal analgesia.
+
+306
+00:39:06,925 --> 00:39:14,125
+Disorders of coagulation that result in poor hemostasis also preclude the use of neuraxial analgesia.
+
+307
+00:39:14,125 --> 00:39:23,088
+Women with a bleeding diathesis such as von Willebrand disease or hemophilias carry an increased risk for subarachnoid hematoma formation .
+
+308
+00:39:23,088 --> 00:39:27,813
+Rare subdural hematomas may mimic postdural puncture headaches .
+
+309
+00:39:27,813 --> 00:39:39,800
+However, neuraxial analgesia can be safely performed in these patients following factor replacement and normalization of levels (Choi, 2009; Katz, 2015).
+
+310
+00:39:39,800 --> 00:39:46,850
+As discussed earlier, these patients should receive consultation with an anesthesiologist prior to labor.
+
+311
+00:39:46,850 --> 00:39:54,888
+The use of anticoagulation to prevent or treat venous thromboembolism is frequently encountered during the peripartum period.
+
+312
+00:39:54,888 --> 00:40:05,788
+No randomized studies guide the management of anticoagulation at the time of delivery, but consensus opinion is provided by the Society for Anesthesia and Perinatology .
+
+313
+00:40:05,788 --> 00:40:15,975
+Briefly, women receiving >10,000 units/d of unfractionated heparin are individually assessed regarding timing and dose of last injection.
+
+314
+00:40:15,975 --> 00:40:22,713
+Thromboprophylaxis with low-molecular-weight heparin (LMWH) should have a 12-hour delay.
+
+315
+00:40:22,713 --> 00:40:27,650
+Therapeutic doses of LMWH merit a 24-hour delay.
+
+316
+00:40:27,650 --> 00:40:32,825
+This is discussed further in Chapter 55 (p. 985).
+
+317
+00:40:32,825 --> 00:40:38,850
+Spinal analgesia is also contraindicated if there is infection at the needle entry site.
+
+318
+00:40:38,850 --> 00:40:44,800
+Other maternal conditions may pose relative contraindications to neuraxial analgesia.
+
+319
+00:40:44,800 --> 00:40:57,363
+Many women with neurological disorders such as Chiari malformation or pseudotumor cerebri may be candidates for neuraxial analgesia after consultation with an anesthesiologist and neurologist.
+
+320
+00:40:57,363 --> 00:41:10,150
+Women with severe aortic stenosis or pulmonary hypertension also have a relative contraindication to spinal analgesia due to the deleterious effects of hypotension and diminished preload and afterload .
+
+321
+00:41:10,150 --> 00:41:13,063
+# Epidural Analgesia.
+
+322
+00:41:13,063 --> 00:41:25,300
+Relief of labor and childbirth pain, including cesarean delivery, can be accomplished by injection of a local anesthetic agent into the epidural space (see Fig. 25-3B).
+
+323
+00:41:25,300 --> 00:41:32,613
+This potential space contains areolar tissue, fat, lymphatics, and the internal vertebral venous plexus.
+
+324
+00:41:32,613 --> 00:41:38,150
+Entry for obstetrical analgesia is usually through a lumbar intervertebral space.
+
+325
+00:41:38,150 --> 00:41:47,275
+Although only one injection may be given, usually an indwelling catheter is placed for subsequent bolus administration or continuous infusion .
+
+326
+00:41:47,275 --> 00:41:52,663
+Infusions use a volumetric pump controlled either by the patient or by a caregiver.
+
+327
+00:41:52,663 --> 00:42:04,888
+Under appropriate physician supervision, labor and delivery nursing personnel with specific training in the management of epidural infusions should be able to adjust dosage and also discontinue infusions.
+
+328
+00:42:04,888 --> 00:42:08,850
+# Continuous Lumbar Epidural Analgesia.
+
+329
+00:42:08,850 --> 00:42:16,988
+Complete analgesia for the pain of labor and vaginal delivery necessitates a block from the T10 to the S4 dermatomes.
+
+330
+00:42:16,988 --> 00:42:23,425
+For cesarean delivery, a block extending from the T4 to the S1 dermatomes is desired.
+
+331
+00:42:23,425 --> 00:42:32,525
+The effective spread of anesthetic depends upon the catheter tip location and the dose, concentration, and volume of anesthetic agent used.
+
+332
+00:42:32,525 --> 00:42:41,000
+Individual variations in anatomy or synechiae or septa in the epidural space may preclude a completely satisfactory block.
+
+333
+00:42:41,000 --> 00:42:46,250
+Last, the catheter tip may migrate from its original location during labor.
+
+334
+00:42:46,250 --> 00:42:53,538
+Technique One example of the sequential steps and techniques for performance of epidural analgesia is detailed in
+
+335
+00:42:53,692 --> 00:42:56,367
+Table 25-6.
+
+336
+00:42:56,317 --> 00:43:04,742
+Before injection of the local anesthetic therapeutic dose, a test dose is given containing small amounts of lidocaine and epinephrine.
+
+337
+00:43:04,742 --> 00:43:13,129
+The woman is observed for features of toxicity from intravascular injection and for signs of either subarachnoid or subdural injection.
+
+338
+00:43:13,129 --> 00:43:19,092
+If these are absent, analgesia is initiated with a full dose of the anesthetic alone.
+
+339
+00:43:19,092 --> 00:43:26,704
+Analgesia is maintained by a continuous infusion or by programmed intermittent boluses delivered by infusion pump .
+
+340
+00:43:26,704 --> 00:43:37,454
+The addition of a short-acting, lipid-soluble narcotic—fentanyl or sufentanil—lowers the required amount of local anesthetic drug needed to achieve analgesia.
+
+341
+00:43:37,454 --> 00:43:40,292
+This helps preserve motor function .
+
+342
+00:43:40,292 --> 00:43:49,679
+One popular regimen is 0.0625- to 0.125-percent bupivacaine with 2-µg/mL fentanyl.
+
+343
+00:43:49,679 --> 00:43:52,354
+Table 25-6.
+
+344
+00:43:52,354 --> 00:44:03,067
+Technique for Labor Epidural Analgesia As with spinal blockade, close monitoring, including the level of analgesia, must be performed by trained personnel.
+
+345
+00:44:03,067 --> 00:44:11,317
+Appropriate resuscitation equipment, drugs, and personnel must be available during administration of epidural analgesia.
+
+346
+00:44:11,317 --> 00:44:18,742
+Complications As shown in Table 25-4, certain problems are inherent to epidural analgesia.
+
+347
+00:44:18,742 --> 00:44:21,029
+High Spinal Blockade.
+
+348
+00:44:21,029 --> 00:44:29,017
+Dural puncture with inadvertent and unrecognized either subarachnoid or subdural injection may cause total spinal blockade.
+
+349
+00:44:29,017 --> 00:44:39,617
+In a study of more than 18,000 women, the incidence of recognized accidental dural puncture at the time of epidural analgesia was 0.91 percent .
+
+350
+00:44:39,617 --> 00:44:45,192
+Management of this complication is described earlier (p. 474).
+
+351
+00:44:45,192 --> 00:44:47,679
+Ineffective Analgesia.
+
+352
+00:44:47,679 --> 00:44:56,829
+Using currently popular continuous or intermittent epidural infusion regimens, 90 percent of women rate their pain relief as good to excellent .
+
+353
+00:44:56,829 --> 00:45:07,017
+In a study of almost 2000 parturients, Hess and associates (2001) found that 12 percent complained of three or more episodes of pain or pressure.
+
+354
+00:45:07,017 --> 00:45:12,042
+Its efficacy was more likely to decrease with rising body mass index .
+
+355
+00:45:12,042 --> 00:45:16,704
+Inadequate analgesia may result in patient dissatisfaction.
+
+356
+00:45:16,704 --> 00:45:19,667
+Catheter replacement should be considered.
+
+357
+00:45:19,667 --> 00:45:29,217
+Moreover, a poorly functioning epidural catheter cannot be used for additional dosing of local anesthetic drugs for intrapartum cesarean delivery.
+
+358
+00:45:29,217 --> 00:45:37,629
+Such conversion of labor epidural analgesia to cesarean delivery anesthesia has an approximately 20 percent failure rate.
+
+359
+00:45:37,629 --> 00:45:42,579
+This necessitates placement of a new regional block or general anesthesia .
+
+360
+00:45:42,579 --> 00:45:54,067
+In a Maternal Fetal Medicine Units (MFMU) Network study, 4 percent of women initially given epidural analgesia required a general anesthetic for cesarean delivery .
+
+361
+00:45:54,067 --> 00:46:04,629
+Also at times, perineal analgesia for vaginal delivery is difficult to obtain, especially when lower volumes of epidural local anesthetic drugs are used.
+
+362
+00:46:04,629 --> 00:46:10,479
+With this situation, additional doses can be given, or a pudendal block may be added.
+
+363
+00:46:10,479 --> 00:46:12,279
+Hypotension.
+
+364
+00:46:12,279 --> 00:46:22,442
+Sympathetic blockade from epidurally injected analgesic agents may cause peripheral vasodilation with resulting hypotension and diminished cardiac output.
+
+365
+00:46:22,442 --> 00:46:35,942
+Hypotension is more common—20 percent—in women with an admission pulse pressure <45 mm Hg compared with 6 percent in those whose pulse pressure is >45 mm Hg .
+
+366
+00:46:35,942 --> 00:46:42,067
+Pulse pressure is calculated by subtracting diastolic from systolic blood pressure measurements.
+
+367
+00:46:42,067 --> 00:46:46,729
+Obese women also have significantly higher rates of hypotension .
+
+368
+00:46:46,729 --> 00:47:00,379
+In normal gravidas, hypotension induced by epidural analgesia usually can be prevented by rapid IV infusion of 500 to 1000 mL of crystalloid solution as described for spinal analgesia.
+
+369
+00:47:00,379 --> 00:47:04,829
+Maintaining a lateral position also minimizes hypotension.
+
+370
+00:47:04,829 --> 00:47:13,004
+Despite these precautions, hypotension is the most frequent side effect and is severe enough to require treatment in a third of women .
+
+371
+00:47:13,004 --> 00:47:15,542
+Central Nervous Stimulation.
+
+372
+00:47:15,542 --> 00:47:19,579
+Convulsions are an uncommon but serious complication.
+
+373
+00:47:19,579 --> 00:47:29,492
+Described earlier, the immediate management involves infusion of 20-percent intralipids and treatment with lorazepam or diazepam (p. 470).
+
+374
+00:47:29,492 --> 00:47:30,979
+Fever.
+
+375
+00:47:30,979 --> 00:47:35,992
+Some women develop intrapartum fever following epidural analgesia.
+
+376
+00:47:35,992 --> 00:47:46,804
+Many studies are limited by the inability to control for other risk factors, such as labor length, duration of ruptured membranes, and number of vaginal examinations.
+
+377
+00:47:46,804 --> 00:47:48,429
+With this
+
+378
+00:47:48,580 --> 00:47:57,355
+in mind, the frequency of intrapartum fever associated with epidural analgesia is 10 to 15 percent above the baseline rate .
+
+379
+00:47:57,305 --> 00:48:05,955
+The two general theories concerning the etiology of maternal hyperthermia are maternal-fetal infection or dysregulation of body temperature .
+
+380
+00:48:05,955 --> 00:48:15,330
+A study of placental histopathology in women given epidural analgesia identified intrapartum fever only when there was placental inflammation .
+
+381
+00:48:15,330 --> 00:48:18,780
+This suggests that fever is due to infection.
+
+382
+00:48:18,780 --> 00:48:29,405
+Sharma (2014) randomized 400 nulliparas with labor epidural analgesia to receive 2 g cefoxitin prophylactically versus placebo.
+
+383
+00:48:29,405 --> 00:48:38,555
+It was hypothesized that epiduralrelated fever was due to infection and that prophylactic antimicrobials should significantly reduce the rate of fever.
+
+384
+00:48:38,555 --> 00:48:47,505
+Approximately equal proportions—40 percent—of women developed fever ≥38°C during labor.
+
+385
+00:48:47,505 --> 00:48:55,080
+This result suggests that infection is unlikely to cause the fever associated with epidural analgesia during labor.
+
+386
+00:48:55,080 --> 00:49:03,017
+Whatever the mechanism, women with persistent fever are usually treated with antimicrobials for presumed chorioamnionitis.
+
+387
+00:49:03,017 --> 00:49:18,830
+The other proposed mechanisms include alteration of the hypothalamic thermoregulatory set point, impaired peripheral thermoreceptor input to the central nervous system with selective blockade of warm stimuli, or imbalance between heat production and heat loss.
+
+388
+00:49:18,830 --> 00:49:26,842
+Del Arroyo and colleagues (2019) suggested that bupivacaine blocks release of antipyretic interleukins.
+
+389
+00:49:26,842 --> 00:49:28,505
+Back Pain.
+
+390
+00:49:28,505 --> 00:49:34,417
+An association between epidural analgesia and back pain has been reported by some.
+
+391
+00:49:34,417 --> 00:49:46,742
+In a prospective cohort study, Butler and Fuller (1998) reported that back pain after delivery was common with epidural analgesia, however, persistent pain was infrequent.
+
+392
+00:49:46,742 --> 00:50:00,280
+Based on their systematic review, Lieberman and O’Donoghue (2002) concluded that available data do not support an association between epidural analgesia and development of de novo, long-term backache.
+
+393
+00:50:00,280 --> 00:50:02,967
+Miscellaneous Complications.
+
+394
+00:50:02,967 --> 00:50:08,542
+A spinal or epidural hematoma is a rare complication of an epidural catheter .
+
+395
+00:50:08,542 --> 00:50:14,042
+These are considered neurological emergencies, and treatment is usually surgical.
+
+396
+00:50:14,042 --> 00:50:20,155
+Epidural abscesses are rare, and the most common pathogen is Staphylococcus aureus .
+
+397
+00:50:20,155 --> 00:50:27,080
+These may be managed conservatively with IV antibiotics, but surgical intervention may be necessary.
+
+398
+00:50:27,080 --> 00:50:32,142
+For both conditions, timely neurosurgical consultation is important.
+
+399
+00:50:32,142 --> 00:50:36,555
+Uncommonly, the plastic epidural catheter is sheared off .
+
+400
+00:50:36,555 --> 00:50:40,680
+Computed tomography can localize the retained fragment.
+
+401
+00:50:40,680 --> 00:50:46,767
+For a tip left in the epidural space, surveillance is reasonable in the absence of symptoms.
+
+402
+00:50:46,767 --> 00:50:54,592
+With neurological changes or with fragments in the subarachnoid space, neurosurgical consultation is recommended .
+
+403
+00:50:54,592 --> 00:51:01,267
+Last, an association of epidural analgesia and autism spectrum disorder seems unlikely .
+
+404
+00:51:01,267 --> 00:51:15,880
+Effect on Labor Most studies, including five combined randomized trials from Parkland Hospital shown in Table 25-7, report that epidural analgesia prolongs labor and increases the use of oxytocin stimulation .
+
+405
+00:51:15,880 --> 00:51:25,417
+Alexander and associates (2002) examined the effects of epidural analgesia on the Friedman (1955) labor curve .
+
+406
+00:51:25,417 --> 00:51:34,230
+There were 459 nulliparas randomly assigned to receive patient-controlled epidural analgesia or patientcontrolled IV meperidine.
+
+407
+00:51:34,230 --> 00:51:41,755
+Compared with original Friedman criteria, epidural analgesia prolonged the active phase of labor by 1 hour.
+
+408
+00:51:41,755 --> 00:51:49,267
+In a cohort study, similar labor durations were observed for both spinal-epidural and epidural analgesia .
+
+409
+00:51:49,267 --> 00:51:51,955
+Table 25-7.
+
+410
+00:51:51,955 --> 00:52:04,405
+Selected Labor Events in 2703 Nulliparous Women Randomized to Epidural Analgesia or Intravenous Meperidine Analgesia The effect of labor epidural on the second stage is unclear.
+
+411
+00:52:04,405 --> 00:52:13,955
+Prolongation of the second stage was particularly true in earlier studies, at a time when higher concentrations of local anesthetic drugs were used.
+
+412
+00:52:13,955 --> 00:52:22,055
+This association has been attributed to local-anesthetic-induced motor blockade and resultant impaired maternal expulsive efforts.
+
+413
+00:52:22,055 --> 00:52:33,442
+Chestnut and associates (1999) reported that, with epidural analgesia, operative vaginal delivery occurred more frequently because of prolonged second-stage labor.
+
+414
+00:52:33,442 --> 00:52:35,667
+In a systematic review,
+
+415
+00:52:35,836 --> 00:52:46,298
+Anim-Somuah and colleagues (2018) reported that epidural analgesia prolongs the first stage by 32 minutes and the second stage by 15 minutes.
+
+416
+00:52:46,248 --> 00:53:01,798
+Craig and coworkers (2015) randomly assigned 310 nulliparous women with labor epidural analgesia to receive 0.125-percent bupivacaine plus fentanyl or epidural fentanyl alone during second-stage labor.
+
+417
+00:53:01,798 --> 00:53:10,948
+Epidural bupivacaine analgesia did cause motor blockade during the second stage, however, the duration of the second stage was not longer.
+
+418
+00:53:10,948 --> 00:53:16,023
+Neither obstetrical nor neonatal outcomes were different between the two groups.
+
+419
+00:53:16,023 --> 00:53:19,698
+Patient satisfaction was high with both methods.
+
+420
+00:53:19,698 --> 00:53:21,623
+Fetal Heart Rate.
+
+421
+00:53:21,623 --> 00:53:31,773
+Hill and associates (2003) examined the effects of epidural analgesia with 0.25-percent bupivacaine on fetal heart rate patterns.
+
+422
+00:53:31,773 --> 00:53:36,473
+Compared with IV meperidine, no worrisome effects were identified.
+
+423
+00:53:36,473 --> 00:53:43,973
+Reduced beat-to-beat variability and fewer accelerations were more common in fetuses whose mothers received meperidine .
+
+424
+00:53:43,973 --> 00:53:56,298
+Based on their systematic review, Reynolds and coworkers (2002) reported that epidural analgesia was associated with improved neonatal acid-base status compared with meperidine.
+
+425
+00:53:56,298 --> 00:53:58,873
+Cesarean Delivery Rates.
+
+426
+00:53:58,873 --> 00:54:05,736
+A contentious issue in the past was whether epidural analgesia increased the risk for cesarean delivery.
+
+427
+00:54:05,736 --> 00:54:13,748
+Early evidence that it did was from an era when dense motor blockade resulted from high concentrations of local anesthetic agents.
+
+428
+00:54:13,748 --> 00:54:21,773
+Now however, with the administration of dilute anesthetic solutions, the risk for cesarean delivery is not increased.
+
+429
+00:54:21,773 --> 00:54:28,061
+Several studies conducted at Parkland Hospital were designed to answer this and related questions.
+
+430
+00:54:28,061 --> 00:54:42,186
+From 1995 to 2002, a total of 2703 nulliparas at term and in spontaneous labor were enrolled in five trials to evaluate epidural analgesia techniques compared with IV meperidine.
+
+431
+00:54:42,186 --> 00:54:51,598
+The results from these are summarized in Table 25-8 and show that epidural analgesia does not significantly raise cesarean delivery rates .
+
+432
+00:54:51,598 --> 00:55:07,348
+The American College of Obstetricians and Gynecologists (2019b) and the American Society of Anesthesiologists (2016) also conclude that epidural analgesia is not associated with a greater cesarean delivery rate.
+
+433
+00:55:07,348 --> 00:55:09,748
+Table 25-8.
+
+434
+00:55:09,748 --> 00:55:19,461
+Cesarean Delivery (CD) Rates in Laboring Women Receiving Epidural Analgesia or Intravenous Meperidine Timing of Epidural Placement.
+
+435
+00:55:19,461 --> 00:55:32,923
+Earlier studies indicated that epidural placement in early labor was linked to a higher risk of cesarean delivery (Lieberman, 1996; Rogers, 1999; Seyb, 1999).
+
+436
+00:55:32,923 --> 00:55:54,661
+These observations prompted at least five randomized trials, which showed that the timing of epidural placement has no effect on the risk of cesarean birth, forceps delivery, or fetal malposition (Chestnut, 1994a,b; Luxman, 1998; Ohel, 2006; Wong, 2005, 2009).
+
+437
+00:55:54,661 --> 00:56:04,023
+Thus, withholding epidural placement until some arbitrary cervical dilation has been attained serves only to deny women maximal labor pain relief.
+
+438
+00:56:04,023 --> 00:56:15,198
+Safety Among nearly 20,000 women who received epidural analgesia in the MFMU Network study cited earlier, no anesthesia-related maternal deaths were reported .
+
+439
+00:56:15,198 --> 00:56:25,523
+Ruppen and colleagues (2006) reviewed data from 27 studies involving 1.4 million pregnant women who received epidural analgesia.
+
+440
+00:56:25,523 --> 00:56:42,936
+Their calculated adverse-event rates were 1:145,000 for deep epidural infection, 1:168,000 for epidural hematoma, and 1:240,000 for persistent neurological injury.
+
+441
+00:56:42,936 --> 00:56:53,948
+More recently, the Society for Obstetric Anesthesia and Perinatology established the Serious Complication Repository Project (D’Angelo, 2014).
+
+442
+00:56:53,948 --> 00:57:00,611
+During a 5-year period, more than 228,000 women had neuraxial analgesia.
+
+443
+00:57:00,611 --> 00:57:08,861
+There were no maternal deaths related to anesthesia, but two each were attributed to cardiac arrest and myocardial infarction.
+
+444
+00:57:08,861 --> 00:57:22,986
+There were four cases of epidural abscess or meningitis, 58 high-spinal-level neuraxial blocks (1 in 4000), 27 neurological injuries, and 16 respiratory arrests (1 in 10,000).
+
+445
+00:57:22,986 --> 00:57:30,373
+Contraindications As with spinal analgesia, contraindications are listed in Table 25-5.
+
+446
+00:57:30,373 --> 00:57:32,511
+Thrombocytopenia.
+
+447
+00:57:32,511 --> 00:57:39,498
+Although low platelet counts are intuitively worrisome, the level at which epidural bleeding might develop is unknown.
+
+448
+00:57:39,498 --> 00:57:43,373
+Epidural hematomas are rare, and their incidence
+
+449
+00:57:43,540 --> 00:57:55,540
+was estimated to be 0 to 0.6 percent in women whose platelet count is <70,000/µL (Goodier, 2015; Lee, 2017).
+
+450
+00:57:55,490 --> 00:58:13,190
+The American College of Obstetricians and Gynecologists (2019b) and Society for Obstetric Anesthesia and Perinatalogy have concluded that women with a platelet count of ≥70,000/µL may be candidates for neuraxial analgesia.
+
+451
+00:58:13,190 --> 00:58:15,402
+Anticoagulation.
+
+452
+00:58:15,402 --> 00:58:24,490
+Women receiving anticoagulation therapy who are given regional analgesia are at increased risk for spinal cord hematoma and compression .
+
+453
+00:58:24,490 --> 00:58:41,327
+The American College of Obstetricians and Gynecologists (2019b) has concluded the following: 1. With prophylactic unfractionated heparin (UFH) in a dose of 5000 units twice daily, regional analgesia is not contraindicated.
+
+454
+00:58:41,327 --> 00:58:54,452
+2. With an intermediate dose of UFH (7500 to 10,000 units), it is likely low risk to proceed with neuraxial analgesia at a point more than 12 hours after the last dose.
+
+455
+00:58:54,452 --> 00:59:13,140
+3. With a high dose of UFH (>20,000 units), it is likely low risk to use regional analgesia at a point more than 24 hours after the last dose if the activate partial thromboplastin time (aPTT) is within normal range or the anti-Xa level is undetectable.
+
+456
+00:59:13,140 --> 00:59:21,865
+4. With thromboprophylaxis with LMWH, needle or catheter placement or removal should be delayed 12 hours or more.
+
+457
+00:59:21,865 --> 00:59:30,940
+5. With treatment doses of LMWH, placement or removal of a neuraxial catheter should be delayed for 24 hours.
+
+458
+00:59:30,940 --> 00:59:33,852
+Severe Preeclampsia-Eclampsia.
+
+459
+00:59:33,852 --> 00:59:44,165
+Concerns with neuraxial analgesia in women with severe preeclampsia include hypotension as well as hypertension from pressor agents given to correct hypotension.
+
+460
+00:59:44,165 --> 00:59:49,865
+Additionally, pulmonary edema may follow infusion of large volumes of crystalloid.
+
+461
+00:59:49,865 --> 00:59:54,602
+These risks are outweighed by the disadvantages of general anesthesia .
+
+462
+00:59:54,602 --> 00:59:59,915
+Of these, tracheal intubation may be difficult because of upper airway edema.
+
+463
+00:59:59,915 --> 01:00:09,252
+Also, general anesthesia can lead to severe, sudden hypertension that can cause pulmonary or cerebral edema or intracranial hemorrhage.
+
+464
+01:00:09,252 --> 01:00:21,065
+With improved techniques for infusion of dilute local anesthetics into the epidural space, most have come to favor epidural blockade for labor and delivery in women with severe preeclampsia.
+
+465
+01:00:21,065 --> 01:00:34,490
+In a study from Parkland Hospital, Lucas and associates (2001) randomly assigned 738 women with hypertension to epidural analgesia or patient-controlled IV analgesia during labor.
+
+466
+01:00:34,490 --> 01:00:42,215
+A standardized protocol for prehydration, incremental epidural administration, and ephedrine use was employed.
+
+467
+01:00:42,215 --> 01:00:48,215
+They concluded that labor epidural analgesia was safe in women with hypertensive disorders.
+
+468
+01:00:48,215 --> 01:00:58,440
+Thrombocytopenia is seen with severe preeclampsia complicated by hemolysis, elevated liver enzyme levels, low platelet count—HELLP syndrome .
+
+469
+01:00:58,440 --> 01:01:14,277
+Discussed earlier and in general, it seems safe to use neuraxial techniques if the platelet count is ≥70,000/µL (American College of Obstetricians and Gynecologists, 2019b, 2020).
+
+470
+01:01:14,277 --> 01:01:21,677
+Women with severe preeclampsia can have remarkably diminished intravascular volume compared with normal pregnancy .
+
+471
+01:01:21,677 --> 01:01:29,527
+Conversely, total body water volume is increased because of the capillary leak caused by endothelial cell activation .
+
+472
+01:01:29,527 --> 01:01:37,165
+This imbalance is manifested as pathological peripheral edema, proteinuria, ascites, and total lung water.
+
+473
+01:01:37,165 --> 01:01:46,602
+For all of these reasons, aggressive volume replacement raises the risk for pulmonary edema, especially in the first 72 hours postpartum .
+
+474
+01:01:46,602 --> 01:01:56,702
+In one study, 3.5 percent of women with severe preeclampsia developed pulmonary edema when preloaded without a protocol limit to the volume infused .
+
+475
+01:01:56,702 --> 01:02:06,927
+The risk of pulmonary edema can be reduced or obviated with judicious prehydration—usually with 500 to 1000 mL of crystalloid solution.
+
+476
+01:02:06,927 --> 01:02:21,140
+Specifically, in the study by Lucas and colleagues (2001) cited earlier, no instances of pulmonary edema developed among the women in whom the infused crystalloid preload volume was limited to 500 mL.
+
+477
+01:02:21,140 --> 01:02:31,790
+Moreover, vasodilation produced by epidural blockade is less abrupt if the analgesia level is achieved slowly with dilute solutions of local anesthetic agents.
+
+478
+01:02:31,790 --> 01:02:39,527
+With vigorous IV crystalloid therapy, cerebral edema also may develop (Chap. 40, p. 701.
+
+479
+01:02:39,527 --> 01:02:43,477
+Last, most cases of pharyngolaryngeal edema
+
+480
+01:02:43,636 --> 01:02:46,861
+are related to aggressive volume therapy .
+
+481
+01:02:46,811 --> 01:02:50,236
+# Epidural Opioid Analgesia.
+
+482
+01:02:50,236 --> 01:03:00,036
+Opioids alone usually will not provide adequate analgesia, and they are often used as an adjunct to a local anesthetic agent such as bupivacaine .
+
+483
+01:03:00,036 --> 01:03:09,211
+This combination lowers the local anesthetic drug concentration needed to achieve analgesia, which in turn creates a less dense motor blockade.
+
+484
+01:03:09,211 --> 01:03:14,136
+Other benefits are rapid onset of pain relief and a decrease in shivering.
+
+485
+01:03:14,136 --> 01:03:18,711
+Common side effects include pruritus and urinary retention.
+
+486
+01:03:18,711 --> 01:03:26,948
+Nalbuphine, a mixed opioid agonist/antagonist, will abolish these symptoms without affecting the analgesic action.
+
+487
+01:03:26,948 --> 01:03:37,148
+When neuraxial morphine is given for postoperative pain, monitoring for respiratory depression is necessary as discussed earlier (p. 472) .
+
+488
+01:03:37,148 --> 01:03:40,786
+# Combined Spinal–Epidural Techniques.
+
+489
+01:03:40,786 --> 01:03:52,098
+The combination of spinal and epidural techniques (CSE) has risen in popularity and may provide rapid and effective analgesia for labor and then for cesarean delivery.
+
+490
+01:03:52,098 --> 01:03:56,273
+An epidural needle is first placed in the epidural space.
+
+491
+01:03:56,273 --> 01:04:07,548
+A small-gauge spinal needle is then introduced through the epidural needle into the subarachnoid space—this is called the needle-throughneedle technique (see Fig. 25-3A).
+
+492
+01:04:07,548 --> 01:04:15,648
+A single bolus of an opioid, a local anesthetic, or sometimes a combination is injected into the subarachnoid space.
+
+493
+01:04:15,648 --> 01:04:23,023
+A subarachnoid opioid bolus results in the rapid onset of profound pain relief with virtually no motor blockade .
+
+494
+01:04:23,023 --> 01:04:29,436
+The spinal needle is withdrawn, and an epidural catheter is then placed into the epidural space.
+
+495
+01:04:29,436 --> 01:04:34,536
+The epidural catheter remains and permits repeated analgesia dosing.
+
+496
+01:04:34,536 --> 01:04:47,348
+Miro and associates (2008) compared epidural analgesia with CSE analgesia for labor in 6497 women and found the overall outcomes and complications to be similar.
+
+497
+01:04:47,348 --> 01:04:55,798
+Poma and coworkers (2019) also found comparable analgesia results with epidural or CSE techniques.
+
+498
+01:04:55,798 --> 01:05:03,948
+They noted that subarachnoid sufentanil was associated with lower uterine contractility, but labor duration was not affected.
+
+499
+01:05:03,948 --> 01:05:16,061
+A greater incidence of fetal heart rate abnormalities related to uterine hypertonus has been reported with CSE analgesia (Abrão, 2009; Beamon, 2014).
+
+500
+01:05:16,061 --> 01:05:24,673
+The analgesia failure rate is 11.6 percent for traditional labor epidural and 6.6 percent for CSE .
+
+501
+01:05:24,673 --> 01:05:35,823
+Although CSE provides a faster onset of labor analgesia, the intrathecal injection of local anesthetic drugs and/or narcotic may cause hypotension and pruritus.
+
+502
+01:05:35,823 --> 01:05:39,898
+# Continuous Spinal Analgesia During Labor.
+
+503
+01:05:39,898 --> 01:05:47,711
+The technique of continuous spinal analgesia for relief of labor pain is seldom used because of postdural puncture headaches .
+
+504
+01:05:47,711 --> 01:05:59,636
+With redesigned needles and catheters, Arkoosh (2008) randomized 429 women to either continuous spinal or conventional epidural analgesia during labor.
+
+505
+01:05:59,636 --> 01:06:04,486
+Complication rates between these two neuraxial techniques did not differ.
+
+506
+01:06:04,486 --> 01:06:08,186
+# Dural-Puncture Epidural Analgesia.
+
+507
+01:06:08,186 --> 01:06:14,173
+Gaining popularity, this technique is similar to CSE, but initial steps differ.
+
+508
+01:06:14,173 --> 01:06:24,011
+First, a single dural puncture is made using a 25-gauge spinal needle placed through the epidural needle shaft (see Fig. 25-3A).
+
+509
+01:06:24,011 --> 01:06:32,848
+No anesthetic is injected, but the needle can help confirm correct subarachnoid space placement by the drip of CSF from its distal hub.
+
+510
+01:06:32,848 --> 01:06:41,373
+After removal of the spinal needle, the epidural catheter is threaded into the epidural space (see Fig. 25-3B).
+
+511
+01:06:41,373 --> 01:06:50,123
+The dural puncture allows for a small amount of local anesthetic drugs to be translocated from the epidural space to the subarachnoid space.
+
+512
+01:06:50,123 --> 01:06:55,661
+This aids a faster onset of pain relief than traditional epidural analgesia.
+
+513
+01:06:55,661 --> 01:07:07,311
+Without the intrathecal injection, dural-puncture epidural analgesia is associated with fewer side effects than CSE analgesia and provides better block quality than an epidural .
+
+514
+01:07:07,311 --> 01:07:22,223
+A review of five studies with 581 patients showed dural puncture epidural technique was associated with a faster onset of analgesic effects, a reduction in provider-initiated boluses “top-ups,” and better sacral coverage.
+
+515
+01:07:22,223 --> 01:07:27,261
+The incidence of post-dural puncture headache was not significantly increased .
+
+516
+01:07:27,261 --> 01:07:34,761
+A study confirmed fewer top-ups and a greater local anesthetic drug sparing effect evaluating the combined use
+
+517
+01:07:34,924 --> 01:07:39,099
+of this technique and the intermittent bolus drug delivery mode .
+
+518
+01:07:39,049 --> 01:07:42,561
+# Local Infiltration Analgesia.
+
+519
+01:07:42,561 --> 01:07:49,511
+A local block is occasionally useful to augment an inadequate or “patchy” regional block that was given emergently.
+
+520
+01:07:49,511 --> 01:07:58,974
+Rarely, local infiltration may be needed to perform an emergency cesarean delivery to save the life of a fetus in the absence of anesthesia support.
+
+521
+01:07:58,974 --> 01:08:01,436
+Two methods are described here.
+
+522
+01:08:01,436 --> 01:08:11,936
+In one technique, the skin is infiltrated along the proposed incision, and the subcutaneous, muscle, and rectus sheath layers are injected as the abdomen is opened.
+
+523
+01:08:11,936 --> 01:08:21,736
+Injection of large volumes into the fatty layers, which are relatively devoid of nerve supply, is avoided to limit the total dose of local anesthetic needed.
+
+524
+01:08:21,736 --> 01:08:31,311
+Cooper and coworkers described using 52 mL of 0.5-percent lidocaine with 1:200,000 epinephrine.
+
+525
+01:08:31,311 --> 01:08:35,324
+This delivered 260 mg of lidocaine.
+
+526
+01:08:35,324 --> 01:08:46,174
+Related to lidocaine toxicity, higher lidocaine volumes can be used when paired with epinephrine, because vasoconstriction lowers the intravascular transfer of anesthetic.
+
+527
+01:08:46,174 --> 01:08:50,086
+The maximum dose is 7 mg/kg.
+
+528
+01:08:50,086 --> 01:08:58,424
+Others have used 1-percent procaine with or without epinephrine (Larsen, 1971; Ranney, 1975).
+
+529
+01:08:58,424 --> 01:09:10,761
+A second technique involves a field block of the major branches supplying the abdominal wall, to include the 10th, 11th, and 12th intercostal nerves and the ilioinguinal and genitofemoral nerves .
+
+530
+01:09:10,761 --> 01:09:21,024
+As shown in Figure 25-4, the former group of nerves is located at a point midway between the costal margin and iliac crest in the midaxillary line.
+
+531
+01:09:21,024 --> 01:09:25,299
+The latter group is found at the level of the external inguinal ring.
+
+532
+01:09:25,299 --> 01:09:29,824
+A total of four skin punctures, two on each side, are made.
+
+533
+01:09:29,824 --> 01:09:41,086
+First, at the intercostal block site, the needle is directed medially, and injection is carried down to the transversalis fascia, avoiding injection of the subcutaneous fat.
+
+534
+01:09:41,086 --> 01:09:46,474
+Five mL of 0.5-percent lidocaine with epinephrine are injected.
+
+535
+01:09:46,474 --> 01:09:55,336
+The needle is redirected but not removed, and similar dosing is delivered to sites located at a 45degree angle cephalad and caudad.
+
+536
+01:09:55,336 --> 01:09:58,024
+The other side is then injected.
+
+537
+01:09:58,024 --> 01:10:08,949
+Second, at the ilioinguinal and genitofemoral sites, the injection is started at a spot 2 to 3 cm lateral from the pubic tubercle at a 45-degree angle.
+
+538
+01:10:08,949 --> 01:10:13,274
+Last, the skin overlying the planned incision is injected.
+
+539
+01:10:13,274 --> 01:10:15,936
+Figure 25-4.
+
+540
+01:10:15,936 --> 01:10:19,549
+Local anesthetic block for cesarean delivery.
+
+541
+01:10:19,549 --> 01:10:29,736
+The first injection site is halfway between the costal margin and iliac crest in the midaxillary line to block the 10th, 11th, and 12th intercostal nerves.
+
+542
+01:10:29,736 --> 01:10:36,674
+A second injection at the external inguinal ring blocks branches of the genitofemoral and ilioinguinal nerves.
+
+543
+01:10:36,674 --> 01:10:41,149
+Although not shown, both sites are infiltrated bilaterally.
+
+544
+01:10:41,149 --> 01:10:45,224
+The final site is along the line of proposed skin incision.
+
+545
+01:10:45,224 --> 01:10:48,786
+# Transversus Abdominis Plane Block.
+
+546
+01:10:48,786 --> 01:10:52,474
+This block may be used for those with suitable training .
+
+547
+01:10:52,474 --> 01:11:07,499
+It is usually performed under ultrasound guidance and involves injection of a local anesthetic into the transversus abdominis plane (TAP) between the internal oblique and transversus abdominis muscles (Fig. 2-2, p. 14).
+
+548
+01:11:07,499 --> 01:11:14,224
+The nerves lying in this plane supply the anterior abdominal wall at the T6 to L1 dermatomes.
+
+549
+01:11:14,224 --> 01:11:21,686
+Ng and colleagues (2018) concluded that high- versus low-dose local anesthetics performed comparably.
+
+550
+01:11:21,686 --> 01:11:27,399
+Local infiltration or TAP blocks can be used also for postoperative pain control.
+
+551
+01:11:27,399 --> 01:11:32,511
+The TAP block in one trial was not superior to local wound infiltration .
+
+552
+01:11:32,511 --> 01:11:41,899
+Gao and associates (2019) demonstrated that pain relief with the TAP block was comparable with that from patientcontrolled IV analgesia.
+
+553
+01:11:41,899 --> 01:11:48,074
+Another study found that the TAP block was equivalent to intrathecal morphine for postoperative pain .
+
+554
+01:11:48,074 --> 01:11:56,911
+Last, Prabhu and coworkers (2018) reported that a liposomal bupivacaine incisional block was not superior to placebo.
+
+555
+01:11:56,911 --> 01:11:59,024
+General Anesthesia.
+
+556
+01:11:59,024 --> 01:12:07,736
+Trained personnel and specialized equipment—including fiberoptic intubation—are mandatory for the safe use of general anesthesia.
+
+557
+01:12:07,736 --> 01:12:11,424
+A common cause of death cited is failed intubation.
+
+558
+01:12:11,424 --> 01:12:18,461
+The latter occurs in approximately 1 of every 390 general anesthetics administered to pregnant women .
+
+559
+01:12:18,461 --> 01:12:24,236
+This relatively higher mortality rate suggests that neuraxial analgesia is
+
+560
+01:12:24,388 --> 01:12:37,963
+the preferred method of pain control and should be used unless contraindicated (American College of Obstetricians and Gynecologists, 2019b; American Society of Anesthesiologists, 2016).
+
+561
+01:12:37,913 --> 01:12:51,700
+In two reports from the MFMU Network, 93 percent of more than 54,000 cesarean deliveries were performed using neuraxial analgesia (Bloom, 2005; Brookfield, 2013).
+
+562
+01:12:51,700 --> 01:13:03,400
+Racial and ethnic disparities exist, and a higher incidence of general anesthesia use is seen among non-white women (Butwick, 2014; Lange, 2017).
+
+563
+01:13:03,400 --> 01:13:08,475
+It is often used for emergent cesarean delivery for acute fetal distress .
+
+564
+01:13:08,475 --> 01:13:17,700
+In contrast, with obstetrical anesthesiologist subspecialists, the overall likelihood that neuraxial analgesia will be used is higher .
+
+565
+01:13:17,700 --> 01:13:20,438
+# Patient Preparation.
+
+566
+01:13:20,438 --> 01:13:26,975
+Before anesthesia induction, several steps should be taken to help minimize complication risks.
+
+567
+01:13:26,975 --> 01:13:37,338
+First, antacid administration shortly before anesthesia induction has probably decreased mortality rates from general anesthesia more than any other single practice.
+
+568
+01:13:37,338 --> 01:13:51,913
+The American Society of Anesthesiologists Task Force on Obstetrical Anesthesia (2016) recommends timely administration of a nonparticulate antacid, an H2-receptor antagonist, or metoclopramide.
+
+569
+01:13:51,913 --> 01:14:04,850
+For many years, we have recommended administration of 30 mL of Bicitra—sodium citrate with citric acid—a few minutes before anesthesia induction by either general or major neuraxial block.
+
+570
+01:14:04,850 --> 01:14:12,775
+If more than 1 hour has passed after the first dose was given and anesthesia has not yet been induced, a second dose is given.
+
+571
+01:14:12,775 --> 01:14:21,200
+Lateral uterine displacement also is provided as the uterus may compress the inferior vena cava and aorta when the mother is supine.
+
+572
+01:14:21,200 --> 01:14:29,450
+With uterine displacement, the duration of general anesthesia has less effect on neonatal condition than if the woman remains supine .
+
+573
+01:14:29,450 --> 01:14:42,200
+Last, because functional reserve lung capacity is diminished, and oxygen consumption is increased, the pregnant woman becomes hypoxemic more rapidly during periods of apnea than do nonpregnant patients.
+
+574
+01:14:42,200 --> 01:14:45,413
+Obesity exacerbates this tendency.
+
+575
+01:14:45,413 --> 01:14:53,900
+To minimize hypoxia between the time of muscle relaxant injection and intubation, nitrogen is replaced by oxygen in the lungs.
+
+576
+01:14:53,900 --> 01:15:03,063
+This preoxygenation is accomplished by administering 100-percent oxygen via face mask for 2 to 3 minutes before anesthesia induction.
+
+577
+01:15:03,063 --> 01:15:11,550
+In an emergency, four vital capacity breaths of 100-percent oxygen via a tight breathing circuit will provide similar benefit .
+
+578
+01:15:11,550 --> 01:15:21,175
+High-flow nasal oxygen was found to be inferior to administration by face mask (Shippam, 2019; Tan, 2019).
+
+579
+01:15:21,175 --> 01:15:24,088
+# Induction of Anesthesia.
+
+580
+01:15:24,088 --> 01:15:30,188
+Drugs used to induce general anesthesia include propofol, etomidate, and ketamine.
+
+581
+01:15:30,188 --> 01:15:34,413
+Propofol has the undesirable side effect of hypotension.
+
+582
+01:15:34,413 --> 01:15:38,850
+Etomidate is associated with fewer hemodynamic changes.
+
+583
+01:15:38,850 --> 01:15:45,350
+Ketamine also may be used for induction of general anesthesia in hemodynamically unstable women.
+
+584
+01:15:45,350 --> 01:15:47,600
+# Intubation.
+
+585
+01:15:47,600 --> 01:15:54,213
+Immediately after a patient is rendered unconscious, a muscle relaxant is given to aid intubation.
+
+586
+01:15:54,213 --> 01:15:59,288
+Succinylcholine, a rapid-onset and short-acting agent, is used.
+
+587
+01:15:59,288 --> 01:16:08,738
+Cricoid pressure—the Sellick maneuver—is applied by a trained assistant to occlude the esophagus from the onset of induction until intubation is completed.
+
+588
+01:16:08,738 --> 01:16:14,938
+Before the operation begins, proper placement of the endotracheal tube must be confirmed.
+
+589
+01:16:14,938 --> 01:16:22,413
+As discussed, and although uncommon, failed intubation is a major cause of anesthesia-related maternal mortality.
+
+590
+01:16:22,413 --> 01:16:34,375
+A history of prior difficult intubation and a careful anatomical assessment of the neck and the maxillofacial, pharyngeal, and laryngeal structures may help predict intubation complications.
+
+591
+01:16:34,375 --> 01:16:43,000
+Even in cases in which the initial airway assessment was unremarkable, edema may develop intrapartum and present considerable challenges.
+
+592
+01:16:43,000 --> 01:16:48,200
+Morbid obesity is a major risk factor for failed or difficult intubation.
+
+593
+01:16:48,200 --> 01:16:58,975
+The American Society of Anesthesiologists Task Force on Obstetric Anesthesia (2016) stresses the importance of appropriate preoperative preparation.
+
+594
+01:16:58,975 --> 01:17:09,813
+This includes the immediate availability of specialized equipment such as different-shaped laryngoscopes, laryngeal mask airways, and video laryngoscopes, as well as
+
+595
+01:17:09,964 --> 01:17:16,489
+equipment for transtracheal ventilation and awake oral intubation with a fiberoptic bronchoscope.
+
+596
+01:17:16,439 --> 01:17:24,226
+Following failed intubation, the woman is ventilated by mask and cricoid pressure is applied to reduce the aspiration risk.
+
+597
+01:17:24,226 --> 01:17:29,901
+Surgery may proceed with mask ventilation, or the woman may be allowed to awaken.
+
+598
+01:17:29,901 --> 01:17:44,814
+In those cases in which the woman has been paralyzed and in which ventilation cannot be reestablished by insertion of an oral airway, by laryngeal mask airway, or by use of a fiberoptic laryngoscope, then a life-threatening emergency exists .
+
+599
+01:17:44,814 --> 01:17:52,664
+To restore ventilation, percutaneous or even open cricothyrotomy is performed, and jet ventilation begun.
+
+600
+01:17:52,664 --> 01:17:58,376
+Failed intubation drills have been recommended to optimize response to such an emergency.
+
+601
+01:17:58,376 --> 01:18:01,439
+# Inhalational Anesthetics.
+
+602
+01:18:01,439 --> 01:18:09,426
+Once the endotracheal tube is secured, a volatile halogenated agent is given to provide amnesia and analgesia.
+
+603
+01:18:09,426 --> 01:18:16,214
+The most commonly used volatile anesthetics in the United States include desflurane and sevoflurane.
+
+604
+01:18:16,214 --> 01:18:22,014
+These gases can also produce uterine relaxation when given in high concentrations.
+
+605
+01:18:22,014 --> 01:18:36,426
+These are used when relaxation is a requisite, such as for internal podalic version of the second twin, breech decomposition, ex utero intrapartum treatment (EXIT) procedures, and replacement of the acutely inverted uterus.
+
+606
+01:18:36,426 --> 01:18:38,789
+# Extubation.
+
+607
+01:18:38,789 --> 01:18:50,764
+The endotracheal tube may be safely removed only if the woman is conscious to a degree that enables her to follow commands and is capable of maintaining oxygen saturation with spontaneous respiration.
+
+608
+01:18:50,764 --> 01:18:57,064
+Consideration should be given to emptying the stomach via a nasogastric tube before extubation.
+
+609
+01:18:57,064 --> 01:19:02,789
+As induction has now become safer, extubation may be relatively more perilous.
+
+610
+01:19:02,789 --> 01:19:18,176
+Of 15 anesthesia-related deaths of pregnant women from 1985 to 2003 in Michigan, none occurred during induction, whereas five resulted from hypoventilation or airway obstruction during emergence, extubation, or recovery .
+
+611
+01:19:18,176 --> 01:19:20,276
+# Fasting.
+
+612
+01:19:20,276 --> 01:19:27,564
+Data are insufficient regarding fasting times for clear liquids and the risk of pulmonary aspiration during labor.
+
+613
+01:19:27,564 --> 01:19:50,714
+The American Society of Anesthesiologists Task Force on Obstetrical Anesthesia (2016) and the American College of Obstetricians and Gynecologists (2017) recommend that modest amounts of clear liquids such as water, clear tea, black coffee, carbonated beverages, and pulp-free fruit juices be allowed in uncomplicated laboring women.
+
+614
+01:19:50,714 --> 01:20:02,614
+As discussed in Chapter 30 (p. 550), enhanced recovery after surgery (ERAS) protocols provide consumption of these same liquids up to 2 hours before scheduled surgery .
+
+615
+01:20:02,614 --> 01:20:05,689
+Obvious solid foods should be avoided.
+
+616
+01:20:05,689 --> 01:20:17,839
+A fasting period of 6 to 8 hours, depending on the type of food ingested, is recommended for uncomplicated parturients undergoing elective cesarean delivery or puerperal tubal ligation.
+
+617
+01:20:17,839 --> 01:20:26,439
+The amount of gastric fluid—2 mL/kg—in nonlaboring women is almost the same as that in nonpregnant women .
+
+618
+01:20:26,439 --> 01:20:33,676
+However, pregnancy is associated with horizontal shift of the stomach and a reduced esophageal sphincter tone.
+
+619
+01:20:33,676 --> 01:20:42,676
+Our policy at Parkland Hospital is to allow clear liquids in low-risk uncomplicated laboring women in whom vaginal delivery is anticipated.
+
+620
+01:20:42,676 --> 01:20:45,026
+# Aspiration.
+
+621
+01:20:45,026 --> 01:20:51,714
+Massive gastric acidic inhalation may cause pulmonary insufficiency from aspiration pneumonitis .
+
+622
+01:20:51,714 --> 01:20:59,939
+Such pneumonitis has in the past been the most common cause of anesthetic deaths in obstetrics and therefore deserves special attention.
+
+623
+01:20:59,939 --> 01:21:10,601
+To minimize this risk, antacids should be given routinely, intubation should be accompanied by cricoid pressure, and regional analgesia should be employed when possible.
+
+624
+01:21:10,601 --> 01:21:22,014
+Pathophysiology In 1952, Teabeaut demonstrated experimentally that if the pH of aspirated fluid was below 2.5, severe chemical pneumonitis developed.
+
+625
+01:21:22,014 --> 01:21:29,751
+It was later demonstrated that the gastric fluid pH of nearly half of women tested intrapartum was <2.5 .
+
+626
+01:21:29,751 --> 01:21:40,701
+The right mainstem bronchus usually offers the simplest pathway for aspirated material to reach the lung parenchyma, and therefore, the right lower lobe is most often involved.
+
+627
+01:21:40,701 --> 01:21:45,451
+In severe cases, involvement is bilateral and widespread.
+
+628
+01:21:45,451 --> 01:21:49,614
+The woman who aspirates may develop evidence of respiratory
+
+629
+01:21:49,780 --> 01:21:58,405
+distress immediately or several hours after aspiration, depending in part on the material aspirated and the severity of the response.
+
+630
+01:21:58,355 --> 01:22:04,442
+Aspiration of a large amount of solid material causes obvious signs of airway obstruction.
+
+631
+01:22:04,442 --> 01:22:11,142
+Smaller particles without acidic liquid may lead to patchy atelectasis and later to bronchopneumonia.
+
+632
+01:22:11,142 --> 01:22:25,105
+When highly acidic liquid is inspired, decreased oxygen saturation along with tachypnea, bronchospasm, rhonchi, rales, atelectasis, cyanosis, tachycardia, and hypotension are likely to develop.
+
+633
+01:22:25,105 --> 01:22:35,580
+At the injury sites, there is pulmonary capillary leakage and exudation of protein-rich fluid containing numerous erythrocytes into the lung interstitium and alveoli.
+
+634
+01:22:35,580 --> 01:22:41,867
+This causes decreased pulmonary compliance, shunting of blood, and severe hypoxemia.
+
+635
+01:22:41,867 --> 01:22:47,692
+Suspicion of aspiration demands close monitoring for evidence of pulmonary damage.
+
+636
+01:22:47,692 --> 01:22:55,755
+Respiratory rate and oxygen saturation as measured by pulse oximetry are the most sensitive and earliest indicators of injury.
+
+637
+01:22:55,755 --> 01:23:00,542
+Radiographic changes may not appear immediately and may be variable.
+
+638
+01:23:00,542 --> 01:23:06,142
+Therefore, chest radiographs alone should not be used to exclude aspiration.
+
+639
+01:23:06,142 --> 01:23:13,617
+Treatment Inhaled fluid should be immediately and thoroughly wiped from the mouth and removed from the pharynx and trachea by suction.
+
+640
+01:23:13,617 --> 01:23:19,292
+Saline lavage may further disseminate the acid throughout the lung and is not recommended.
+
+641
+01:23:19,292 --> 01:23:26,192
+If large particulate matter is inspired, bronchoscopy may be indicated to relieve airway obstruction.
+
+642
+01:23:26,192 --> 01:23:34,930
+Use of corticosteroid therapy or prophylactic antimicrobial administration are not supported by clinical or experimental evidence .
+
+643
+01:23:34,930 --> 01:23:39,367
+If infection develops, however, vigorous treatment is given.
+
+644
+01:23:39,367 --> 01:23:47,930
+Etiological agents have shifted from anaerobic or mixed infections to bacteria causing community- or hospital-acquired pneumonitis .
+
+645
+01:23:47,930 --> 01:23:53,292
+These infections are discussed in Chapter 54 (p. 962).
+
+646
+01:23:53,292 --> 01:24:01,830
+If acute respiratory distress syndrome develops, mechanical ventilation with positive end-expiratory pressure may prove lifesaving .
+

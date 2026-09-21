@@ -1,0 +1,1880 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,450
+Chapter 23: Abnormal Labor.
+
+3
+00:00:05,450 --> 00:00:30,687
+Dystocia Abnormalities Of The Expulsive Forces Prematurely Ruptured Membranes At Term Precipitous Labor And Delivery Fetopelvic Disproportion Face Presentation Brow Presentation Transverse Lie Compound Presentation Complications With Dystocia References Labor arrest, abnormal fetal presentation, or fetal jeopardy are indications for a large percentage of primary cesarean deliveries in the United States .
+
+4
+00:00:30,687 --> 00:00:37,775
+Lowering dystocia rates offers the potential to decrease rates of this surgery and associated maternal morbidity.
+
+5
+00:00:37,775 --> 00:00:39,437
+Dystocia.
+
+6
+00:00:39,437 --> 00:00:45,850
+Dystocia literally means difficult labor and is characterized by abnormally slow labor progress.
+
+7
+00:00:45,850 --> 00:00:49,500
+Causes are grouped into three distinct categories.
+
+8
+00:00:49,500 --> 00:01:03,525
+Mechanistically, these simplify into abnormalities of the powers—poor uterine contractility and maternal expulsive effort; of the passenger—the fetus; and of the passage—the pelvis and lower reproductive tract.
+
+9
+00:01:03,525 --> 00:01:08,725
+These three groups act singly or in combination to produce dysfunctional labor .
+
+10
+00:01:08,725 --> 00:01:17,362
+For the powers, uterine contractions may be insufficiently strong or inappropriately coordinated to efface and dilate the cervix.
+
+11
+00:01:17,362 --> 00:01:20,125
+This is termed uterine dysfunction.
+
+12
+00:01:20,125 --> 00:01:26,250
+Moreover, during second-stage labor, voluntary maternal pushing may be inadequate.
+
+13
+00:01:26,250 --> 00:01:33,337
+For the passenger, fetal abnormalities of presentation, position, or anatomy may slow progress.
+
+14
+00:01:33,337 --> 00:01:39,187
+Last, for the passage, structural changes can contract the maternal bony pelvis.
+
+15
+00:01:39,187 --> 00:01:45,037
+Or, soft tissue abnormalities of the reproductive tract may block fetal descent.
+
+16
+00:01:45,037 --> 00:01:47,525
+Table 23-1.
+
+17
+00:01:47,525 --> 00:01:59,262
+Some Causes of Dystocia in Term Vertex Singletons To describe ineffective labors, two commonly used terms are cephalopelvic disproportion (CPD) and failure to progress.
+
+18
+00:01:59,262 --> 00:02:06,375
+CPD describes obstructed labor resulting from disparity between the fetal head size and maternal pelvis.
+
+19
+00:02:06,375 --> 00:02:14,300
+The term CPD originated at a time when the main indication for cesarean delivery was overt pelvic contracture from rickets .
+
+20
+00:02:14,300 --> 00:02:22,987
+Such absolute disproportion is now rare, and most cases result from malposition of the fetal head within the pelvis (asynclitism).
+
+21
+00:02:22,987 --> 00:02:38,637
+True disproportion is a tenuous diagnosis because 50 to 75 percent of women undergoing cesarean delivery for this reason subsequently deliver even larger newborns vaginally (Lewkowitz, 2015; Place, 2019).
+
+22
+00:02:38,637 --> 00:02:48,225
+A second phrase, failure to progress in either spontaneous or stimulated labor, has become an increasingly popular description of ineffectual labor.
+
+23
+00:02:48,225 --> 00:02:53,637
+This term reflects lack of progressive cervical dilation or halted fetal descent.
+
+24
+00:02:53,637 --> 00:02:56,862
+Abnormalities Of The Expulsive Forces.
+
+25
+00:02:56,862 --> 00:02:59,887
+# Types of Uterine Dysfunction.
+
+26
+00:02:59,887 --> 00:03:05,087
+Uterine contractions are needed to dilate the cervix and to expel the fetus.
+
+27
+00:03:05,087 --> 00:03:11,562
+A contraction is initiated by spontaneous action potentials in the membrane of smooth muscle cells.
+
+28
+00:03:11,562 --> 00:03:16,375
+Unlike the heart, a single pacemaker or its site remain unresolved .
+
+29
+00:03:16,375 --> 00:03:23,312
+Resulting uterine contractions in normal labor show a rising and falling gradient of myometrial activity .
+
+30
+00:03:23,312 --> 00:03:29,837
+Normal spontaneous contractions can exert pressures approximating 60 mm Hg .
+
+31
+00:03:29,837 --> 00:03:37,300
+Even so, the lower limit of contraction pressure required to dilate the cervix is 15 mm Hg .
+
+32
+00:03:37,300 --> 00:03:43,125
+In abnormal labor, two physiological types of uterine dysfunction may develop.
+
+33
+00:03:43,125 --> 00:03:51,975
+In the more common hypotonic uterine dysfunction, basal tone is normal and uterine contractions have a normal gradient pattern (synchronous).
+
+34
+00:03:51,975 --> 00:03:57,400
+However, pressure during a contraction is insufficient to dilate the cervix.
+
+35
+00:03:57,400 --> 00:04:07,787
+In the second type, hypertonic uterine dysfunction or incoordinate uterine dysfunction, either basal tone is elevated appreciably or the pressure gradient is distorted.
+
+36
+00:04:07,787 --> 00:04:11,287
+# Risk Factors for Uterine Dysfunction.
+
+37
+00:04:11,287 --> 00:04:15,325
+Various factors are implicated in uterine dysfunction.
+
+38
+00:04:15,325 --> 00:04:22,875
+First, neuraxial analgesia can slow labor and has been associated with longer first and second stages of labor .
+
+39
+00:04:22,875 --> 00:04:32,075
+With current anesthesia methods, however, its effect on labor length is blunted (Anim-Somuah, 2018; Myers, 2020).
+
+40
+00:04:32,075 --> 00:04:41,100
+Moreover, cesarean delivery rates are not higher, and supporting studies are presented in Chapter 25 (p. 477).
+
+41
+00:04:41,100 --> 00:04:45,162
+Chorioamnionitis is associated with prolonged labor.
+
+42
+00:04:45,162 --> 00:04:47,937
+Uterine infection may directly
+
+43
+00:04:48,100 --> 00:04:58,987
+contribute to uterine dysfunction or instead may simply be an associated consequence of prolonged, dysfunctional labor (Mark, 2000; Satin, 1992).
+
+44
+00:04:58,937 --> 00:05:05,775
+Affected gravidas are monitored for labor progress, and augmentation of protracted labor is prudent .
+
+45
+00:05:05,775 --> 00:05:17,325
+A higher station at the onset of labor is significantly linked with subsequent dystocia (Friedman, 1965, 1976; Roshanfekr, 1999).
+
+46
+00:05:17,325 --> 00:05:25,275
+Although a risk factor, most nulliparas without fetal head engagement at diagnosis of active labor still deliver vaginally.
+
+47
+00:05:25,275 --> 00:05:31,825
+These observations apply especially for parous women because the head typically descends later in labor.
+
+48
+00:05:31,825 --> 00:05:43,562
+Dystocia rate rises proportionally with maternal age even after adjusting for maternal and fetal weight and parity (Timofeev, 2013; Waldenström, 2017).
+
+49
+00:05:43,562 --> 00:05:58,812
+Maternal obesity lengthens the first stages of labor by 30 to 60 minutes in nulliparas, even after adjusting for associated diabetes, fetal weight, and parity (Carlhäll, 2013; Kominiarek, 2011).
+
+50
+00:05:58,812 --> 00:06:07,575
+Dystocia-associated cesarean delivery rates are higher in this group (Fyfe, 2011; Kawakita, 2016).
+
+51
+00:06:07,575 --> 00:06:18,125
+Growing evidence suggests a pathologic biological effect of obesity on normal parturition (Azais, 2017; Carlson, 2015).
+
+52
+00:06:18,125 --> 00:06:20,650
+# Labor Disorders.
+
+53
+00:06:20,650 --> 00:06:26,625
+Latent-phase Prolongation Uterine dysfunction can in turn lead to labor abnormalities .
+
+54
+00:06:26,625 --> 00:06:39,200
+First, the latent phase may be prolonged, which is defined as >20 hours in the nullipara and >14 hours in the multipara (Friedman, 1961, 1963b).
+
+55
+00:06:39,200 --> 00:06:43,862
+In some, uterine contractions cease, suggesting false labor.
+
+56
+00:06:43,862 --> 00:06:52,050
+In the remainder, an abnormally long latent phase persists and is often treated with amniotomy and oxytocin stimulation .
+
+57
+00:06:52,050 --> 00:06:58,612
+The diagnosis of uterine dysfunction in the latent phase is difficult and commonly is made retrospectively.
+
+58
+00:06:58,612 --> 00:07:05,000
+Women who are not yet in active labor often are erroneously treated for perceived uterine dysfunction.
+
+59
+00:07:05,000 --> 00:07:07,525
+Table 23-2.
+
+60
+00:07:07,525 --> 00:07:22,525
+Abnormal Labor Patterns, Diagnostic Criteria, and Methods of Treatment Active-phase Disorders In active labor, disorders are divided into those with slow progress—a protraction disorder or those with halted progress—an arrest disorder.
+
+61
+00:07:22,525 --> 00:07:29,175
+Terms presented in Table 23-2 and their diagnostic criteria describe abnormal labor.
+
+62
+00:07:29,175 --> 00:07:34,337
+To be diagnosed with either of these, a woman must be in the active phase of labor.
+
+63
+00:07:34,337 --> 00:07:53,150
+The criteria and management of abnormal labor have undergone modification, and the American College of Obstetricians and Gynecologists and the Society for Maternal–Fetal Medicine (2019b) describe these in their Obstetric Care Consensus titled Safe Prevention of the Primary Cesarean Delivery.
+
+64
+00:07:53,150 --> 00:08:03,662
+The Obstetric Care Consensus was a response to the rising cesarean delivery rate because nearly one third of women who give birth each year in the United States undergoes this surgery .
+
+65
+00:08:03,662 --> 00:08:09,700
+New recommendations stem from data of normal labor progress in a more contemporary cohort.
+
+66
+00:08:09,700 --> 00:08:16,962
+The World Health Organization (2018) has also revised its recommendations on labor progress.
+
+67
+00:08:16,962 --> 00:08:24,400
+These guidelines have prompted controversy by their significant revision of the preexisting understanding of abnormal labor.
+
+68
+00:08:24,400 --> 00:08:26,775
+Active-phase Protraction.
+
+69
+00:08:26,775 --> 00:08:31,875
+Of active-phase disorders, protraction disorders are less well described.
+
+70
+00:08:31,875 --> 00:08:40,062
+Previously, protraction has been defined as <1 cm/hr cervical dilation for a minimum of 4 hours.
+
+71
+00:08:40,062 --> 00:08:47,800
+These criteria were adapted from those of Cohen and Friedman (1983) and shown in Table 23-2.
+
+72
+00:08:47,800 --> 00:08:53,050
+For this disorder, observation for further progress is appropriate treatment.
+
+73
+00:08:53,050 --> 00:09:05,062
+In monitoring active labor, if hypotonic contractions are strongly suspected, internal monitors may be placed with amniotomy and again cervical change and contraction pattern are reassessed.
+
+74
+00:09:05,062 --> 00:09:11,900
+Deficient Montevideo units and poor active labor progress typically prompts oxytocin augmentation.
+
+75
+00:09:11,900 --> 00:09:21,112
+In accord with the Consensus Committee (2019b), slow but progressive first-stage labor should not be an indication for cesarean delivery.
+
+76
+00:09:21,112 --> 00:09:23,312
+Active-phase Arrest.
+
+77
+00:09:23,312 --> 00:09:34,650
+Handa and Laros (1993) diagnosed active-phase arrest, defined as no dilation for ≥2 hours, in 5 percent of term nulliparas.
+
+78
+00:09:34,650 --> 00:09:38,662
+This incidence has not changed since the 1950s .
+
+79
+00:09:38,662 --> 00:09:43,525
+Inadequate uterine contractions, defined as <180
+
+80
+00:09:43,684 --> 00:09:52,509
+Montevideo units, calculated as shown in Figure 23-1, were diagnosed in 80 percent of women with active-phase arrest.
+
+81
+00:09:52,459 --> 00:10:10,221
+Hauth and coworkers (1986, 1991) reported that when labor is effectively induced or augmented with oxytocin, 90 percent of women achieve 200 to 225 Montevideo units, and 40 percent achieve at least 300 Montevideo units.
+
+82
+00:10:10,221 --> 00:10:18,309
+These results suggest that certain minimums of uterine activity should be achieved before performing cesarean delivery for dystocia.
+
+83
+00:10:18,309 --> 00:10:23,384
+Oxytocin regimens suitable to augment labor mirror those to induce labor.
+
+84
+00:10:23,384 --> 00:10:29,384
+These regimens are outlined in detail in Chapter 26 (p. 493).
+
+85
+00:10:29,384 --> 00:10:31,921
+Figure 23-1.
+
+86
+00:10:31,921 --> 00:10:43,934
+Montevideo units are calculated by subtracting the baseline uterine pressure from the peak contraction pressure for each contraction in a 10-minute window and adding the pressures generated by each contraction.
+
+87
+00:10:43,934 --> 00:10:55,434
+In the example shown, there were five contractions producing pressure changes of 52, 50, 47, 44, and 49 mm Hg, respectively.
+
+88
+00:10:55,434 --> 00:11:00,684
+The sum of these five contractions is 242 Montevideo units.
+
+89
+00:11:00,684 --> 00:11:03,609
+Other criteria should also be met.
+
+90
+00:11:03,609 --> 00:11:10,796
+First, the latent phase should be completed, and the cervix is dilated ≥4 cm.
+
+91
+00:11:10,796 --> 00:11:22,634
+Also, a uterine contraction pattern of ≥200 Montevideo units in a 10-minute period has been present for ≥4 hours without cervical change .
+
+92
+00:11:22,634 --> 00:11:27,496
+The Consensus Committee has extended this further, as described next.
+
+93
+00:11:27,496 --> 00:11:30,459
+Obstetric Care Consensus Committee.
+
+94
+00:11:30,459 --> 00:11:36,009
+Four recommendations of the Consensus Committee apply to management of first-stage labor.
+
+95
+00:11:36,009 --> 00:11:40,659
+The first admonishes against cesarean delivery in the latent phase.
+
+96
+00:11:40,659 --> 00:11:46,921
+Specifically, a prolonged latent phase should not be the sole indication for cesarean delivery.
+
+97
+00:11:46,921 --> 00:11:51,134
+This guideline is not new and is traceable to Friedman’s work.
+
+98
+00:11:51,134 --> 00:11:55,196
+The second directive, too, is conventional practice.
+
+99
+00:11:55,196 --> 00:12:01,734
+It recommends against cesarean delivery if labor is progressive but slow—a protraction disorder.
+
+100
+00:12:01,734 --> 00:12:09,921
+This instance is typically managed with observation, assessment of uterine activity, and stimulation of contractions as needed.
+
+101
+00:12:09,921 --> 00:12:15,896
+A third instruction addresses the cervical dilation threshold that serves to herald active labor.
+
+102
+00:12:15,896 --> 00:12:23,234
+Namely, a cervical dilation of 6 cm—not 4 cm—is now the recommended threshold.
+
+103
+00:12:23,234 --> 00:12:29,321
+Moreover, before this threshold, standards for active-phase progress should not be applied.
+
+104
+00:12:29,321 --> 00:12:36,271
+Of note, the WHO (2018) recognizes 5 cm as the active-labor threshold.
+
+105
+00:12:36,271 --> 00:12:44,959
+Other large studies noted labor acceleration after 5 cm (Ashwal, 2020; Oladapo, 2018).
+
+106
+00:12:44,959 --> 00:13:05,446
+A fourth stipulation notes that cesarean delivery for active-phase arrest is best reserved for women with cervical dilation ≥6 cm and ruptured membranes who fail to progress despite 4 hours of adequate uterine activity or despite at least 6 hours of oxytocin administration but inadequate contractions.
+
+107
+00:13:05,446 --> 00:13:11,371
+Of these, the change of thresholds from 4 to 6 cm has prompted the most scrutiny.
+
+108
+00:13:11,371 --> 00:13:22,634
+Described in Chapter 22 (p. 424), original labor curves have been used since first proposed approximately 40 years ago by Friedman (1978).
+
+109
+00:13:22,634 --> 00:13:33,934
+Instead, Zhang and coworkers (2002) proposed a new labor curve derived from a more contemporaneous cohort delivered between 1992 and 1996.
+
+110
+00:13:33,934 --> 00:13:43,184
+The Friedman labor curves reflected women in spontaneous labor with infrequent use of neuraxial labor analgesia or oxytocin augmentation.
+
+111
+00:13:43,184 --> 00:13:51,284
+In contrast, in the later cohort, approximately 50 percent of women had neuraxial analgesia or augmentation.
+
+112
+00:13:51,284 --> 00:13:58,559
+In the later group, the rate of cervical change is slow between 4 and 6 cm but accelerates thereafter.
+
+113
+00:13:58,559 --> 00:14:04,134
+This could reasonably be interpreted as the active phase beginning at 6 cm.
+
+114
+00:14:04,134 --> 00:14:11,721
+In comparing both labor curves, the active phase curve in the Zhang cohort flattens beginning at 3 to 4 cm .
+
+115
+00:14:11,721 --> 00:14:21,046
+Namely, the 6-cm rule for active labor derives from a slowing of the rate or flattening of the slope of cervical change in first-stage labor.
+
+116
+00:14:21,046 --> 00:14:23,559
+Figure 23-2.
+
+117
+00:14:23,559 --> 00:14:29,834
+Cervical dilation curves from Friedman (1955) and Zhang (2002).
+
+118
+00:14:29,834 --> 00:14:39,084
+These findings by Zhang and coworkers (2002) are consistent with the labor results obtained in the subsequent Safe Labor Consortium study .
+
+119
+00:14:39,084 --> 00:14:47,046
+However, this study derived its numbers from a retrospective observational dataset built from abstracted labor and delivery
+
+120
+00:14:47,212 --> 00:14:51,649
+information from 19 hospitals across the United States.
+
+121
+00:14:51,599 --> 00:14:56,887
+Various statistical methods and heavy manipulations of these numbers were used .
+
+122
+00:14:56,887 --> 00:15:04,387
+Moreover, women were analyzed after excluding all women with cesarean deliveries or asphyxiated newborns.
+
+123
+00:15:04,387 --> 00:15:16,199
+The Consensus Committee (2019b) was explicit that “the Consortium on Safe Labor data, rather than the standards proposed by Friedman, should inform evidence-based labor management.
+
+124
+00:15:16,199 --> 00:15:26,024
+Critics of the Consensus Committee recommendations note that the Consortium on Safe Labor data were derived from clinical settings with a net cesarean rate of 30 percent.
+
+125
+00:15:26,024 --> 00:15:32,587
+Thus, adherence to the new recommendations may fail to achieve desired cesarean rate reductions.
+
+126
+00:15:32,587 --> 00:15:39,899
+Also, the study lacked a focus on neonatal safety, given that all the asphyxiated neonates were excluded.
+
+127
+00:15:39,899 --> 00:15:52,849
+Supporters note that the study of prolonged first-stage labors by Cheng and coworkers (2010) found higher rates of cesarean delivery and chorioamnionitis but not higher rates of neonatal morbidity.
+
+128
+00:15:52,849 --> 00:16:02,237
+However, Harper and associates (2014) analyzed maternal and neonatal adverse outcomes related to first-stage labor lengths.
+
+129
+00:16:02,237 --> 00:16:14,212
+In 5030 women, first-stage labor durations were divided into those <90th percentile or those ≥90th percentile, with incremental increases thereafter.
+
+130
+00:16:14,212 --> 00:16:31,524
+These authors and those of other large studies similarly found maternal and neonatal composite morbidity scores that were higher in cohorts after adoption of Consensus Committee guidelines compared with groups prior to implementation (Blankenship, 2020; Rosenbloom, 2017).
+
+131
+00:16:31,524 --> 00:16:41,374
+This concern for adverse fetal and maternal effects resulting from the new Consensus Committee guidelines was echoed by Cohen and Friedman (2015a,b).
+
+132
+00:16:41,374 --> 00:16:47,799
+Another caveat notes that the efficacy of these recommendations to achieve their primary goal is limited.
+
+133
+00:16:47,799 --> 00:17:01,699
+One retrospective cohort study compared 3200 women with uncomplicated term pregnancy undergoing spontaneous or induced labor before guideline changes and 3000 similar gravidas after these changes.
+
+134
+00:17:01,699 --> 00:17:10,374
+The cesarean delivery rate for first-stage labor arrest dropped from 1.8 to 0.9 percent in nulliparas during this time .
+
+135
+00:17:10,374 --> 00:17:14,199
+Percent changes were not significant in multiparas.
+
+136
+00:17:14,199 --> 00:17:20,124
+Adverse maternal and neonatal outcomes did not significantly differ between epoch groups.
+
+137
+00:17:20,124 --> 00:17:28,024
+In another evaluation of outcomes before and after guideline implementation, cesarean delivery rates were unchanged .
+
+138
+00:17:28,024 --> 00:17:36,037
+The Consensus Committee suggests that cesarean deliveries for dystocia are being done before 6 cm cervical dilation.
+
+139
+00:17:36,037 --> 00:17:48,137
+However, evidence suggests that all of the Committee’s first-stage recommendations are actually already empirically in use but are concurrent with an overall cesarean delivery rate >30 percent.
+
+140
+00:17:48,137 --> 00:18:02,387
+For example, Nelson and associates (2020) analyzed data from nearly 9000 women with primary cesarean deliveries for dystocia at 13 university hospitals between 1999 and 2000.
+
+141
+00:18:02,387 --> 00:18:09,087
+Notably, the median cervical dilation at the time of cesarean for dystocia was 6 cm.
+
+142
+00:18:09,087 --> 00:18:19,499
+As another example, primary cesarean delivery rates for dystocia at Parkland Hospital between 1988 and 2017 did not change significantly.
+
+143
+00:18:19,499 --> 00:18:25,749
+Thus, Consensus Committee guidelines may fail to prevent additional cesareans for dystocia.
+
+144
+00:18:25,749 --> 00:18:28,812
+Logically, further study is needed.
+
+145
+00:18:28,812 --> 00:18:38,012
+Second-stage Descent Disorders As discussed in Chapter 22 (p. 425), fetal descent largely follows complete dilation.
+
+146
+00:18:38,012 --> 00:18:45,887
+Moreover, the second stage incorporates many of the cardinal movements necessary for the fetus to negotiate the birth canal.
+
+147
+00:18:45,887 --> 00:18:52,399
+Thus, disproportion of the fetus and pelvis frequently becomes apparent during second-stage labor.
+
+148
+00:18:52,399 --> 00:19:01,562
+Similar to first-stage labor, time boundaries have been supported to limit second-stage duration to minimize adverse maternal and fetal outcomes.
+
+149
+00:19:01,562 --> 00:19:09,562
+The second stage in nulliparas has been limited to 2 hours and extended to 3 hours when regional analgesia is used.
+
+150
+00:19:09,562 --> 00:19:16,187
+For multiparas, 1 hour has been the limit, extended to 2 hours with regional analgesia.
+
+151
+00:19:16,187 --> 00:19:26,062
+Several studies supported this extension (Cohen, 1977; Menticoglou, 1995a,b; Saunders, 1992).
+
+152
+00:19:26,062 --> 00:19:32,087
+However, of maternal outcomes, higher rates of chorioamnionitis, anal sphincter
+
+153
+00:19:32,236 --> 00:19:42,173
+injury, operative vaginal birth, and postpartum hemorrhage accrue as the second stage lengthens (Allen, 2009; Rouse, 2009).
+
+154
+00:19:42,123 --> 00:19:49,048
+Newer guidelines have been promoted by the Consensus Committee (2019b) for second-stage labor.
+
+155
+00:19:49,048 --> 00:19:58,411
+These recommend that a nullipara push for at least 3 hours and a multipara push for at least 2 hours before second-stage labor arrest is diagnosed.
+
+156
+00:19:58,411 --> 00:20:03,911
+Importantly, one caveat is that maternal and fetal status should be reassuring.
+
+157
+00:20:03,911 --> 00:20:09,611
+These authors provide options to these times before cesarean delivery is performed.
+
+158
+00:20:09,611 --> 00:20:15,086
+Namely, longer durations may be appropriate as long as progress is documented.
+
+159
+00:20:15,086 --> 00:20:24,573
+Also, a specific maximal length of time spent in second-stage labor beyond which all women should undergo operative delivery has not been identified.
+
+160
+00:20:24,573 --> 00:20:31,811
+Intuitively, the goal to lower cesarean delivery rates is best balanced with one to ensure neonatal safety.
+
+161
+00:20:31,811 --> 00:20:39,523
+It is problematic that no robust data on neonatal outcomes support the safety of allowing prolonged second-stage labor.
+
+162
+00:20:39,523 --> 00:20:55,286
+Data from many evaluations reveal that serious newborn consequences attend second-stage labors longer than 3 hours (Bleich, 2012; Cahill, 2018; Nelson, 2020; Rosenbloom, 2017).
+
+163
+00:20:55,286 --> 00:21:09,086
+Other data, when adjusted for labor variables, show no difference in adverse neonatal complications for these longer second stages (Cheng, 2004; Le Ray, 2009; Rouse, 2009).
+
+164
+00:21:09,086 --> 00:21:22,061
+Some investigators have argued that the absolute number of such outcomes is small and overall outcomes remain good (Grantz, 2018; Grobman, 2016; Laughon, 2014).
+
+165
+00:21:22,061 --> 00:21:25,811
+That said, some of the adverse outcomes are severe.
+
+166
+00:21:25,811 --> 00:21:33,086
+To fully ascertain specific effect of these guidelines on morbidity rates, randomized controlled trials are needed.
+
+167
+00:21:33,086 --> 00:21:38,348
+It is possible that prolonged first-stage labor presages that with the second stage.
+
+168
+00:21:38,348 --> 00:21:51,136
+Nelson and coworkers (2013) studied the relationships between the lengths of the first and second stages of labor in 12,523 nulliparas at term delivered at Parkland Hospital.
+
+169
+00:21:51,136 --> 00:21:57,136
+The second stage significantly lengthened concomitantly with increasing first-stage duration.
+
+170
+00:21:57,136 --> 00:22:04,798
+The 95th percentile was 15.6 and 2.9 hours for the first and second stages, respectively.
+
+171
+00:22:04,798 --> 00:22:17,336
+Women with first stages lasting longer than 15.6 hours (>95th percentile) had a 16-percent rate of second-stage labor lasting 3 hours (95th percentile).
+
+172
+00:22:17,336 --> 00:22:25,986
+This compared with a 4.5-percent rate of prolonged second stages in women with first-stage labors lasting <95th percentile.
+
+173
+00:22:25,986 --> 00:22:28,898
+# Maternal Pushing Efforts.
+
+174
+00:22:28,898 --> 00:22:35,486
+With full cervical dilation, most women cannot resist the urge to push with uterine contractions.
+
+175
+00:22:35,486 --> 00:22:42,511
+The combined force created by contractions of the uterus and abdominal musculature propels the fetus downward.
+
+176
+00:22:42,511 --> 00:22:52,061
+However, at times, force created by abdominal musculature is compromised sufficiently to slow or even prevent spontaneous vaginal delivery.
+
+177
+00:22:52,061 --> 00:23:01,311
+Heavy sedation or regional analgesia may reduce the reflex urge to push and may impair the ability to contract abdominal muscles sufficiently.
+
+178
+00:23:01,311 --> 00:23:04,611
+Allowing time for these to abate is reasonable.
+
+179
+00:23:04,611 --> 00:23:10,986
+In other instances, the urge to push is overridden by the intense pain created by bearing down.
+
+180
+00:23:10,986 --> 00:23:23,261
+Depending on fetal station and anticipated second stage, options include emotional support and encouragement, parenteral analgesia, pudendal blockade, or neuraxial analgesia.
+
+181
+00:23:23,261 --> 00:23:26,423
+Prematurely Ruptured Membranes At Term.
+
+182
+00:23:26,423 --> 00:23:33,986
+Membrane rupture at term without spontaneous uterine contractions complicates approximately 8 percent of pregnancies.
+
+183
+00:23:33,986 --> 00:23:40,948
+In the past, labor stimulation was initiated if contractions did not begin after 6 to 12 hours.
+
+184
+00:23:40,948 --> 00:23:55,686
+Practice-changing research included that of Hannah (1996) and Peleg (1999) and their associates, who enrolled a total of 5042 pregnancies with ruptured membranes in a randomized investigation.
+
+185
+00:23:55,686 --> 00:24:05,586
+They measured the effects of induction versus expectant management and also compared induction using intravenous oxytocin with that using prostaglandin E2 gel.
+
+186
+00:24:05,586 --> 00:24:11,311
+There were approximately 1200 pregnancies in each of the four study arms.
+
+187
+00:24:11,311 --> 00:24:16,898
+They concluded that labor induction with intravenous oxytocin was preferred management.
+
+188
+00:24:16,898 --> 00:24:22,961
+This was based on significantly fewer intrapartum and postpartum infections in women whose
+
+189
+00:24:23,116 --> 00:24:25,241
+labor was induced.
+
+190
+00:24:25,191 --> 00:24:29,678
+There were no significant differences in cesarean delivery rates.
+
+191
+00:24:29,678 --> 00:24:40,778
+Subsequent analysis by Hannah and coworkers (2000) indicated higher rates of adverse outcomes when expectant management at home was compared with in-hospital observation.
+
+192
+00:24:40,778 --> 00:24:56,103
+Mozurkewich and associates (2009) reported lower rates of chorioamnionitis, metritis, and neonatal intensive care unit admissions for women with term ruptured membranes whose labors were induced compared with those managed expectantly.
+
+193
+00:24:56,103 --> 00:25:02,903
+At Parkland Hospital, labor is induced soon after admission when ruptured membranes are confirmed at term.
+
+194
+00:25:02,903 --> 00:25:11,903
+In those with hypotonic contractions or with advanced cervical dilation, oxytocin is selected to lower potential hyperstimulation risk.
+
+195
+00:25:11,903 --> 00:25:25,603
+In those with an unfavorable cervix, no or few contraction, and no significant fetal heart rate decelerations, prostaglandin E1 (misoprostol) is chosen to promote cervical ripening and contractions.
+
+196
+00:25:25,603 --> 00:25:32,528
+The benefit of prophylactic antibiotics in women with ruptured membranes before labor at term is unclear .
+
+197
+00:25:32,528 --> 00:25:42,116
+However, in those with membranes ruptured longer than 18 hours, antibiotics are instituted for group B streptococcal infection prophylaxis .
+
+198
+00:25:42,116 --> 00:25:44,791
+Precipitous Labor And Delivery.
+
+199
+00:25:44,791 --> 00:25:49,378
+Labor can be too slow, but it also can be abnormally rapid.
+
+200
+00:25:49,378 --> 00:25:54,328
+Precipitous labor and delivery is extremely rapid labor and delivery.
+
+201
+00:25:54,328 --> 00:26:07,366
+It may result from an abnormally low resistance of the soft parts of the birth canal, from abnormally strong uterine and abdominal contractions, or rarely from a lack of pain with contractions to cue advanced labor.
+
+202
+00:26:07,366 --> 00:26:12,691
+Precipitous labor terminates in expulsion of the fetus in <3 hours.
+
+203
+00:26:12,691 --> 00:26:23,491
+Using this definition, 25,260 live births—3 percent—were complicated by precipitous labor in the United States in 2013 .
+
+204
+00:26:23,491 --> 00:26:29,666
+Despite this incidence, little information is published on maternal and perinatal outcomes.
+
+205
+00:26:29,666 --> 00:26:40,128
+For the mother, complications are few if the cervix is effaced appreciably and compliant, if the vagina has been stretched previously, and if the perineum is relaxed.
+
+206
+00:26:40,128 --> 00:26:53,703
+Conversely, vigorous uterine contractions combined with a long, firm cervix and a noncompliant birth canal may lead to uterine rupture or extensive lacerations of the cervix, vagina, vulva, or perineum .
+
+207
+00:26:53,703 --> 00:26:59,553
+It is in these latter circumstances that amnionic-fluid embolism most likely develops .
+
+208
+00:26:59,553 --> 00:27:03,653
+Precipitous labor is frequently followed by uterine atony.
+
+209
+00:27:03,653 --> 00:27:13,141
+In one report of 99 term pregnancies, short labors were more common in multiparas who typically had contractions at intervals less than 2 minutes.
+
+210
+00:27:13,141 --> 00:27:22,653
+Precipitous labors have been linked to cocaine abuse and associated with placental abruption, meconium, postpartum hemorrhage, and low Apgar scores .
+
+211
+00:27:22,653 --> 00:27:29,941
+For the neonate, adverse perinatal outcomes from rapid labor may be increased considerably for several reasons.
+
+212
+00:27:29,941 --> 00:27:39,028
+The uterine contractions, often with negligible intervals of relaxation, prevent appropriate uterine blood flow and fetal oxygenation.
+
+213
+00:27:39,028 --> 00:27:44,966
+Related to trauma, resistance of the birth canal rarely may cause intracranial injury.
+
+214
+00:27:44,966 --> 00:27:53,428
+In one review of 22 cases of Erb or Duchenne palsy, precipitous second-stage labor was associated in a third of the cases .
+
+215
+00:27:53,428 --> 00:27:58,391
+During unattended birth, the newborn may fall to the floor and be injured.
+
+216
+00:27:58,391 --> 00:28:04,303
+Last, needed resuscitation may not be immediately available due to delivery speed.
+
+217
+00:28:04,303 --> 00:28:10,653
+As treatment, analgesia is unlikely to modify these forceful contractions significantly.
+
+218
+00:28:10,653 --> 00:28:17,503
+The use of tocolytic agents such as magnesium sulfate or terbutaline is unproven in these circumstances.
+
+219
+00:28:17,503 --> 00:28:26,578
+A single, intramuscular 250ug terbutaline dose may be reasonable in an attempt to resolve a nonreassuring fetal heart rate pattern.
+
+220
+00:28:26,578 --> 00:28:32,328
+This is balanced against the risk of associated uterine atony if delivery is imminent.
+
+221
+00:28:32,328 --> 00:28:36,391
+Certainly, oxytocin administration should be stopped.
+
+222
+00:28:36,391 --> 00:28:38,866
+Fetopelvic Disproportion.
+
+223
+00:28:38,866 --> 00:28:41,478
+# Pelvic Capacity.
+
+224
+00:28:41,478 --> 00:28:50,616
+Fetopelvic disproportion arises from diminished pelvic capacity or from abnormal fetal size, structure, presentation, or position.
+
+225
+00:28:50,616 --> 00:28:53,166
+Commonly, both are present.
+
+226
+00:28:53,166 --> 00:28:59,666
+The pelvic inlet, midpelvis, or pelvic outlet may be contracted solely or in combination.
+
+227
+00:28:59,666 --> 00:29:03,128
+Any contraction of the pelvic diameters that
+
+228
+00:29:03,292 --> 00:29:07,042
+diminishes pelvic capacity can create dystocia.
+
+229
+00:29:06,992 --> 00:29:12,442
+Normal pelvic anatomy is also discussed in Chapter 2 (p. 28).
+
+230
+00:29:12,442 --> 00:29:20,779
+Contracted Inlet Before labor, the fetal biparietal diameter averages from 9.5 to 9.8 cm.
+
+231
+00:29:20,779 --> 00:29:48,192
+Thus, it might prove difficult or even impossible for some fetuses to pass through a pelvic inlet that has an anteroposterior diameter <10 cm. Mengert (1948) and Kaltreider (1952), employing x-ray pelvimetry, demonstrated that the incidence of difficult deliveries rises when either the anteroposterior diameter of the inlet is <10 cm or the transverse diameter is <12 cm.
+
+232
+00:29:48,192 --> 00:29:52,342
+Either threshold can be used to consider a pelvis contracted.
+
+233
+00:29:52,342 --> 00:29:59,567
+As expected, when both diameters are shortened, dystocia rates are much greater than when only one is diminished.
+
+234
+00:29:59,567 --> 00:30:05,242
+The anteroposterior diameter of the inlet is also called the obstetrical conjugate.
+
+235
+00:30:05,242 --> 00:30:13,504
+It is commonly approximated by manually measuring the diagonal conjugate, which is approximately 1.5 cm greater.
+
+236
+00:30:13,504 --> 00:30:21,067
+To measure the diagonal conjugate, a hand with the palm oriented laterally extends its index finger to the promontory.
+
+237
+00:30:21,067 --> 00:30:29,142
+The distance from the fingertip to the point at which the lowest margin of the symphysis strikes the same finger’s base is the diagonal conjugate.
+
+238
+00:30:29,142 --> 00:30:35,854
+Inlet contraction usually is defined as a diagonal conjugate <11.5 cm.
+
+239
+00:30:35,854 --> 00:30:42,304
+A diminutive woman is likely to have a small pelvis, but she is also likely to have a small neonate.
+
+240
+00:30:42,304 --> 00:30:56,979
+Thoms (1937) studied 362 nulliparas and found that the mean birthweight of their offspring was significantly lower— 280 g—in women with a small pelvis than in those with a medium or large pelvis.
+
+241
+00:30:56,979 --> 00:31:08,004
+Normally, cervical dilation is aided by hydrostatic action of the unruptured membranes or by direct application of the presenting part against the cervix after membrane rupture.
+
+242
+00:31:08,004 --> 00:31:20,417
+In contracted pelves, however, because the head is arrested in the pelvic inlet, the entire force exerted by contractions acts directly on the portion of membranes that contact the dilating cervix.
+
+243
+00:31:20,417 --> 00:31:25,429
+Consequently, early spontaneous rupture of the membranes is more likely.
+
+244
+00:31:25,429 --> 00:31:34,217
+After membrane rupture, absent pressure by the head against the cervix and lower uterine segment predisposes to less effective contractions.
+
+245
+00:31:34,217 --> 00:31:38,904
+Hence, further dilation may proceed very slowly or not at all.
+
+246
+00:31:38,904 --> 00:31:50,817
+Cibils and Hendricks (1965) reported that the mechanical adaptation of the fetal passenger to the bony passage plays an important part in determining the efficiency of contractions.
+
+247
+00:31:50,817 --> 00:31:54,829
+Better adaptation begets more efficient contractions.
+
+248
+00:31:54,829 --> 00:32:00,942
+A contracted inlet also plays an important part in the production of abnormal presentations.
+
+249
+00:32:00,942 --> 00:32:09,479
+In nulliparas with normal pelvic capacity, the presenting part at term commonly descends into the pelvic cavity before labor onset.
+
+250
+00:32:09,479 --> 00:32:18,817
+If the inlet is contracted considerably or if asynclitism is marked, descent usually does not take place until after labor onset, if at all.
+
+251
+00:32:18,817 --> 00:32:27,454
+Cephalic presentations still predominate, but the head floats over the pelvic inlet or rests more laterally in one of the iliac fossae.
+
+252
+00:32:27,454 --> 00:32:33,404
+Accordingly, very slight influences may cause the fetus to assume other presentations.
+
+253
+00:32:33,404 --> 00:32:41,967
+In women with contracted pelves, face and shoulder presentations are encountered more frequently, and the cord prolapses more often.
+
+254
+00:32:41,967 --> 00:32:46,942
+Contracted Midpelvis This finding is more common than inlet contraction.
+
+255
+00:32:46,942 --> 00:32:55,979
+It frequently causes transverse arrest of the fetal head, which potentially can lead to a difficult midforceps operation or to cesarean delivery.
+
+256
+00:32:55,979 --> 00:33:06,679
+The obstetrical plane of the midpelvis extends from the inferior margin of the symphysis pubis through the ischial spines and touches the sacrum near the junction of the fourth and fifth vertebrae.
+
+257
+00:33:06,679 --> 00:33:17,717
+A transverse line theoretically connecting the ischial spines divides the midpelvis into anterior and posterior portions (Fig. 2-16, p. 29).
+
+258
+00:33:17,717 --> 00:33:25,129
+The former is bounded anteriorly by the lower border of the symphysis pubis and laterally by the ischiopubic rami.
+
+259
+00:33:25,129 --> 00:33:34,479
+The posterior portion is bounded dorsally by the sacrum and laterally by the sacrospinous ligaments, forming the lower limits of the sacrosciatic notch.
+
+260
+00:33:34,479 --> 00:33:38,817
+Average midpelvis measurements are as follows: transverse,
+
+261
+00:33:38,980 --> 00:33:58,355
+or interischial spinous, 10.5 cm; anteroposterior, from the lower border of the symphysis pubis to the junction of S4 and S5, 11.5 cm; and posterior sagittal, from the midpoint of the interspinous line to the same point on the sacrum, 5 cm.
+
+262
+00:33:58,355 --> 00:34:05,830
+The definition of midpelvic contractions has not been established with the same precision possible for inlet contractions.
+
+263
+00:34:05,830 --> 00:34:23,142
+Even so, the midpelvis is likely contracted when the sum of the interspinous and posterior sagittal diameters of the midpelvis—normally, 10.5 plus 5 cm, or 15.5 cm—falls to 13.5 cm or less.
+
+264
+00:34:23,142 --> 00:34:31,080
+This concept was emphasized by Chen and Huang (1982) in evaluating possible midpelvic contraction.
+
+265
+00:34:31,080 --> 00:34:37,580
+Midpelvic contraction is suspected whenever the interspinous diameter is <10 cm.
+
+266
+00:34:37,580 --> 00:34:42,530
+When it measures <8 cm, the midpelvis is contracted.
+
+267
+00:34:42,530 --> 00:34:56,167
+Although no precise manual method permits measure of midpelvic dimensions, a suggestion of contraction sometimes can be inferred if the spines are prominent, the pelvic sidewalls converge, or the sacrosciatic notch is narrow.
+
+268
+00:34:56,167 --> 00:35:12,242
+Moreover, Eller and Mengert (1947) noted that the relationship between the intertuberous and interspinous diameters of the ischium is sufficiently constant that narrowing of the interspinous diameter can be anticipated when the intertuberous diameter is narrow.
+
+269
+00:35:12,242 --> 00:35:19,217
+A normal intertuberous diameter, however, does not always exclude a narrow interspinous diameter.
+
+270
+00:35:19,217 --> 00:35:26,755
+Contracted Outlet This finding usually is defined as an interischial tuberous diameter of 8 cm or less.
+
+271
+00:35:26,755 --> 00:35:34,917
+The pelvic outlet may be roughly likened to two triangles, with the interischial tuberous diameter constituting the base of both.
+
+272
+00:35:34,917 --> 00:35:43,105
+The sides of the anterior triangle are the pubic rami, and its apex is the inferoposterior surface of the symphysis pubis.
+
+273
+00:35:43,105 --> 00:35:51,880
+The posterior triangle has no bony sides but is limited at its apex by the tip of the last sacral vertebra—not the tip of the coccyx.
+
+274
+00:35:51,880 --> 00:36:00,767
+Diminution of the intertuberous diameter with consequent narrowing of the anterior triangle must inevitably force the fetal head posteriorly.
+
+275
+00:36:00,767 --> 00:36:11,780
+Floberg and associates (1987) reported that outlet contractions were found in almost 1 percent of more than 1400 unselected nulliparas with term pregnancies.
+
+276
+00:36:11,780 --> 00:36:19,342
+A contracted outlet may cause dystocia not so much by itself but by an often-associated midpelvic contraction.
+
+277
+00:36:19,342 --> 00:36:23,967
+Outlet contraction without concomitant midplane contraction is rare.
+
+278
+00:36:23,967 --> 00:36:34,617
+Although the disproportion between the fetal head and the pelvic outlet is not sufficiently great to give rise to severe dystocia, it may play an important part in perineal tears.
+
+279
+00:36:34,617 --> 00:36:44,505
+With increased narrowing of the pubic arch, the occiput cannot emerge directly beneath the symphysis pubis but is forced farther down upon the ischiopubic rami.
+
+280
+00:36:44,505 --> 00:36:51,530
+The perineum, consequently, becomes increasingly distended and thus exposed to risk of laceration.
+
+281
+00:36:51,530 --> 00:37:00,492
+Pelvic Fractures Vallier (2012) and Riehl (2014) reviewed experiences with pelvic fractures and pregnancy.
+
+282
+00:37:00,492 --> 00:37:04,680
+Trauma from automobile collisions was the most common cause.
+
+283
+00:37:04,680 --> 00:37:13,742
+Moreover, they note that fracture pattern, minor malalignment, and retained hardware are not absolute indications for cesarean delivery.
+
+284
+00:37:13,742 --> 00:37:22,705
+In determining vaginal delivery candidates, fracture healing requires 8 to 12 weeks and thus recent fracture merits cesarean delivery .
+
+285
+00:37:22,705 --> 00:37:30,055
+With a healed fracture, care includes review of pelvic radiographs and possible pelvimetry later in pregnancy.
+
+286
+00:37:30,055 --> 00:37:32,980
+# Radiologic Assessment.
+
+287
+00:37:32,980 --> 00:37:39,792
+Current evaluation of pelvic capacity typically uses only digital interrogation of the bony pelvis.
+
+288
+00:37:39,792 --> 00:37:52,417
+Of radiological methods, x-ray pelvimetry with cephalic presentations provides poor predictive value to diagnose CPD (Mengert, 1948; Pattinson, 2017).
+
+289
+00:37:52,417 --> 00:38:04,705
+Similarly, magnetic resonance pelvimetry fails to provide suitable accuracy in predicting cesarean delivery for dystocia (Sporri, 2002; Zaretsky, 2005).
+
+290
+00:38:04,705 --> 00:38:08,680
+Fetal size alone is seldom the reason for failed labor.
+
+291
+00:38:08,680 --> 00:38:16,592
+Indeed, most cases of CPD arise in fetuses whose weight is well within the range of the general obstetrical population.
+
+292
+00:38:16,592 --> 00:38:26,430
+Figure 23-3 depicts Parkland Hospital data, in which two thirds of neonates who required cesarean delivery after failed forceps delivery
+
+293
+00:38:26,596 --> 00:38:30,096
+weighed <3700 g.
+
+294
+00:38:30,046 --> 00:38:35,521
+Thus, head malposition more likely obstructs fetal passage through the birth canal.
+
+295
+00:38:35,521 --> 00:38:43,058
+These include asynclitism, occiput posterior position, and face, brow, or sinciput presentation.
+
+296
+00:38:43,058 --> 00:38:45,583
+Figure 23-3.
+
+297
+00:38:45,583 --> 00:38:56,746
+Birthweight distribution of 362 newborns born by cesarean delivery after a failed forceps attempt at Parkland Hospital from 1989–1999.
+
+298
+00:38:56,746 --> 00:39:04,146
+Only 12 percent (n = 44) of the newborns weighed >4000 g (dark bars).
+
+299
+00:39:04,146 --> 00:39:12,208
+For fetal head size estimation, clinical and radiographical methods to predict CPD also have proved disappointing.
+
+300
+00:39:12,208 --> 00:39:25,933
+First, Mueller (1885) and Hillis (1930) described a clinical maneuver in which the fetal head is grasped through the abdominal wall, and firm pressure is directed downward along the axis of the inlet.
+
+301
+00:39:25,933 --> 00:39:32,746
+If no disproportion exists, the head readily enters the pelvis, and vaginal delivery can be predicted.
+
+302
+00:39:32,746 --> 00:39:40,358
+However, a prospective evaluation of this Mueller-Hillis maneuver found it poorly predicted subsequent labor dystocia .
+
+303
+00:39:40,358 --> 00:39:47,583
+Measurements of fetal head diameters using plain radiographical techniques are hindered by parallax distortions.
+
+304
+00:39:47,583 --> 00:39:59,646
+The biparietal diameter and head circumference can be measured sonographically, and Thurnau and colleagues (1991) used the fetal-pelvic index to identify labor complications.
+
+305
+00:39:59,646 --> 00:40:09,046
+However, the sensitivity of such measurements to predict CPD is poor (Ferguson, 1998; Korhonen, 2015).
+
+306
+00:40:09,046 --> 00:40:11,708
+# Face Presentation.
+
+307
+00:40:11,708 --> 00:40:22,133
+Etiology and Diagnosis With this presentation, the neck is hyperextended so that the occiput is in contact with the fetal back, and the chin (mentum) is presenting .
+
+308
+00:40:22,133 --> 00:40:30,308
+The rate is approximately 0.1 percent of births (Arsène, 2019; Gardberg, 2011).
+
+309
+00:40:30,308 --> 00:40:32,983
+Figure 23-4.
+
+310
+00:40:32,983 --> 00:40:35,121
+Face presentation.
+
+311
+00:40:35,121 --> 00:40:37,871
+The chin is directly posterior.
+
+312
+00:40:37,871 --> 00:40:42,771
+Vaginal delivery is impossible unless the chin rotates anteriorly.
+
+313
+00:40:42,771 --> 00:40:49,746
+Causes of face presentations are numerous and include conditions that favor neck extension or prevent flexion.
+
+314
+00:40:49,746 --> 00:41:03,708
+Preterm fetuses, with their smaller head dimensions, can engage before conversion to occiput presentation, and multifetal gestations carry increased risk (Arsène, 2019; Shaffer, 2006).
+
+315
+00:41:03,708 --> 00:41:07,146
+High parity is another predisposing factor .
+
+316
+00:41:07,146 --> 00:41:15,758
+In these cases, a pendulous maternal abdomen permits the fetal back to sag forward, which promotes extension of the cervical spine.
+
+317
+00:41:15,758 --> 00:41:25,621
+Fetal malformations and hydramnios are other risk factors for face or brow presentations, and anencephalic fetuses naturally present by the face .
+
+318
+00:41:25,621 --> 00:41:33,071
+Last, extended neck positions develop more frequently when the pelvis is contracted or the fetus is very large.
+
+319
+00:41:33,071 --> 00:41:43,183
+In a series of 141 face presentations studied by Hellman and coworkers (1950), the incidence of inlet contraction was 40 percent.
+
+320
+00:41:43,183 --> 00:41:48,896
+This high incidence of pelvic contraction should be kept in mind when considering management.
+
+321
+00:41:48,896 --> 00:41:55,108
+Face presentation is diagnosed by vaginal examination and palpation of facial features.
+
+322
+00:41:55,108 --> 00:41:59,583
+Notably, a breech may be mistaken for a face presentation.
+
+323
+00:41:59,583 --> 00:42:09,758
+With careful examination, however, the finger encounters muscular resistance with the anus, whereas the bony, less-yielding jaws and palate are felt through the mouth.
+
+324
+00:42:09,758 --> 00:42:14,783
+The finger, upon removal from the anus, may be stained with meconium.
+
+325
+00:42:14,783 --> 00:42:22,508
+The mouth and malar eminences form a triangular shape, whereas the ischial tuberosities and anus lie in a straight line.
+
+326
+00:42:22,508 --> 00:42:25,733
+Sonography can aid unclear cases .
+
+327
+00:42:25,733 --> 00:42:33,258
+Used rarely, radiographs demonstrate a hyperextended head with the facial bones at or below the pelvic inlet .
+
+328
+00:42:33,258 --> 00:42:43,621
+Mechanism of Labor The fetal face may present with the chin (mentum) anteriorly, transversely, or posteriorly, relative to the maternal symphysis pubis .
+
+329
+00:42:43,621 --> 00:42:57,233
+Although some mentum posterior presentations persist, most convert spontaneously to an anterior position, even as late as second-stage labor (Duff, 1981; Sharshiner, 2015).
+
+330
+00:42:57,233 --> 00:43:03,683
+With the chin anterior, internal rotation of the face brings the chin under the symphysis pubis .
+
+331
+00:43:03,683 --> 00:43:09,196
+Only in this way can the neck traverse the posterior surface of the symphysis pubis.
+
+332
+00:43:09,196 --> 00:43:17,896
+After anterior rotation and descent, the chin and mouth appear at the vulva, and the undersurface of the chin presses against the symphysis.
+
+333
+00:43:17,896 --> 00:43:21,933
+Once the chin clears the symphysis, the neck can flex.
+
+334
+00:43:21,933 --> 00:43:25,171
+The nose, eyes, brow, and
+
+335
+00:43:25,324 --> 00:43:30,349
+occiput then appear in succession over the anterior margin of the perineum.
+
+336
+00:43:30,299 --> 00:43:35,049
+After birth of the head, the occiput sags backward toward the anus.
+
+337
+00:43:35,049 --> 00:43:43,936
+Next, the chin rotates externally to the side toward which it was originally directed, and the shoulders are born as in cephalic presentations.
+
+338
+00:43:43,936 --> 00:43:49,461
+Fortunately temporary, edema and bruising can significantly distort the face.
+
+339
+00:43:49,461 --> 00:43:52,149
+Figure 23-5.
+
+340
+00:43:52,149 --> 00:43:54,286
+Face presentation.
+
+341
+00:43:54,286 --> 00:43:58,386
+A. Mechanism of labor for right mentoanterior position.
+
+342
+00:43:58,386 --> 00:44:04,474
+B. Swollen eyes and lips are common and transient in newborns delivered with face presentation.
+
+343
+00:44:04,474 --> 00:44:12,299
+Instead, if the chin persists posteriorly, the relatively short neck cannot span the anterior surface of the sacrum.
+
+344
+00:44:12,299 --> 00:44:17,561
+Moreover, the fetal brow is pressed against the maternal symphysis pubis.
+
+345
+00:44:17,561 --> 00:44:22,574
+This position precludes the flexion necessary to negotiate the birth canal.
+
+346
+00:44:22,574 --> 00:44:36,099
+Hence, as noted earlier, vaginal birth from a mentum posterior position is impossible unless the shoulders enter the pelvis at the same time, an event that is impossible except for an extremely small or macerated fetus.
+
+347
+00:44:36,099 --> 00:44:44,186
+Management During labor, fetal heart rate monitoring is best done with external devices to help avoid face or eye injury.
+
+348
+00:44:44,186 --> 00:44:56,074
+Because face presentations among term-size fetuses are more common with some degree of pelvic inlet contraction, cesarean delivery rates are substantially higher than with occiput presentation.
+
+349
+00:44:56,074 --> 00:45:03,249
+If indicated, low or outlet forceps delivery of a mentum anterior face presentation can be completed .
+
+350
+00:45:03,249 --> 00:45:08,286
+Vacuum extraction has been associated with eye trauma and is not recommended .
+
+351
+00:45:08,286 --> 00:45:13,661
+As noted, rotation to a mentum anterior position may occur late in labor.
+
+352
+00:45:13,661 --> 00:45:16,711
+Conversion methods should not be pursued.
+
+353
+00:45:16,711 --> 00:45:31,124
+Namely, attempts to convert a face presentation manually to an occiput one, to rotate a posterior chin to a mentum anterior position, or to complete internal podalic version and extraction are dangerous and not recommended.
+
+354
+00:45:31,124 --> 00:45:33,724
+# Brow Presentation.
+
+355
+00:45:33,724 --> 00:45:43,049
+This uncommon presentation is diagnosed when that portion of the fetal head between the orbital ridge and the anterior fontanel presents at the pelvic inlet.
+
+356
+00:45:43,049 --> 00:45:52,774
+As shown in Figure 23-6, the fetal head thus occupies a position midway between full flexion (occiput) and full extension (face).
+
+357
+00:45:52,774 --> 00:46:01,636
+Rates range from 0.1 to 0.2 percent of births (Gardberg, 2011; Verspyck, 2012).
+
+358
+00:46:01,636 --> 00:46:04,349
+Figure 23-6.
+
+359
+00:46:04,349 --> 00:46:07,074
+Brow posterior presentation.
+
+360
+00:46:07,074 --> 00:46:12,224
+Risks for persistent brow presentation mirror those for face presentation.
+
+361
+00:46:12,224 --> 00:46:18,574
+A brow presentation is commonly unstable and converts to a face or an occiput presentation .
+
+362
+00:46:18,574 --> 00:46:28,974
+The presentation may be recognized by abdominal palpation when both the occiput and chin can be palpated easily, but vaginal examination is usually necessary.
+
+363
+00:46:28,974 --> 00:46:40,099
+The frontal sutures, large anterior fontanel, orbital ridges, eyes, and root of the nose are felt during vaginal examination, but neither the mouth nor the chin is palpable.
+
+364
+00:46:40,099 --> 00:46:43,374
+Sonographic landmarks have been described .
+
+365
+00:46:43,374 --> 00:46:54,311
+Except when the fetal head is small or the pelvis is unusually large, engagement of the fetal head and subsequent delivery cannot take place as long as the brow presentation persists.
+
+366
+00:46:54,311 --> 00:47:06,674
+Engagement is impossible until marked molding shortens the occipitomental diameter or, more commonly, until the neck either flexes to an occiput presentation or extends to a face presentation.
+
+367
+00:47:06,674 --> 00:47:13,599
+The considerable molding essential for vaginal delivery of a persistent brow characteristically deforms the head.
+
+368
+00:47:13,599 --> 00:47:21,799
+The caput succedaneum is over the forehead, and it may be so extensive that identification of the brow by palpation is impossible.
+
+369
+00:47:21,799 --> 00:47:28,611
+In these instances, the forehead is prominent and squared, and the occipitomental diameter is diminished.
+
+370
+00:47:28,611 --> 00:47:32,699
+Management principles mirror those for a face presentation.
+
+371
+00:47:32,699 --> 00:47:35,261
+# Transverse Lie.
+
+372
+00:47:35,261 --> 00:47:42,599
+Etiology and Diagnosis With this, the fetus’ long axis lies approximately perpendicular to that of the mother.
+
+373
+00:47:42,599 --> 00:47:47,836
+In a transverse lie, the shoulder is usually positioned over the pelvic inlet.
+
+374
+00:47:47,836 --> 00:47:52,361
+The head occupies one iliac fossa, and the breech the other.
+
+375
+00:47:52,361 --> 00:48:01,824
+This creates a shoulder presentation in which the side of the mother on which the acromion rests determines the designation of the position as right or left acromial.
+
+376
+00:48:01,824 --> 00:48:03,874
+In addition, the
+
+377
+00:48:04,036 --> 00:48:10,348
+back may be directed anteriorly or posteriorly and also superiorly or inferiorly.
+
+378
+00:48:10,298 --> 00:48:17,711
+Thus, it is customary to further distinguish right or left varieties as dorsoanterior and dorsoposterior .
+
+379
+00:48:17,711 --> 00:48:20,373
+Figure 23-7.
+
+380
+00:48:20,373 --> 00:48:22,323
+Transverse lie.
+
+381
+00:48:22,323 --> 00:48:27,286
+Leopold maneuver of a fetus with right acromiodorsoanterior position.
+
+382
+00:48:27,286 --> 00:48:36,623
+Transverse lie complicates approximately 0.3 percent of births (Cruikshank, 1973; Gemer, 1994).
+
+383
+00:48:36,623 --> 00:48:49,773
+Some of the more common causes include abdominal wall relaxation from high parity, preterm fetus, placenta previa, abnormal uterine anatomy, hydramnios, and contracted maternal pelvis.
+
+384
+00:48:49,773 --> 00:48:55,311
+A transverse lie is usually recognized easily, often by inspection alone.
+
+385
+00:48:55,311 --> 00:49:02,373
+The abdomen is unusually wide, whereas the uterine fundus extends to only slightly above the umbilicus.
+
+386
+00:49:02,373 --> 00:49:09,348
+No fetal pole is detected in the fundus, and the ballottable head is found on one side and the breech on the other.
+
+387
+00:49:09,348 --> 00:49:15,198
+When the back is anterior, a hard resistance plane extends across the front of the abdomen.
+
+388
+00:49:15,198 --> 00:49:22,536
+When it is posterior, irregular nodules that represent fetal small parts are felt through the mother’s abdominal wall.
+
+389
+00:49:22,536 --> 00:49:31,436
+During vaginal examination, in the early stages of labor, if the side of the thorax can be reached, the sequential parallel ribs are felt.
+
+390
+00:49:31,436 --> 00:49:38,198
+With further dilation, the scapula and the clavicle are distinguished on opposite sides of the thorax.
+
+391
+00:49:38,198 --> 00:49:43,886
+The position of the axilla indicates the side of the mother toward which the shoulder is directed.
+
+392
+00:49:43,886 --> 00:49:51,286
+Mechanism of Labor Spontaneous delivery of a fully developed newborn is impossible with a persistent transverse lie.
+
+393
+00:49:51,286 --> 00:50:00,686
+After rupture of the membranes, if labor continues, the fetal shoulder is forced into the pelvis, and the corresponding arm frequently prolapses.
+
+394
+00:50:00,686 --> 00:50:05,961
+After some descent, the shoulder is arrested by the margins of the pelvic inlet.
+
+395
+00:50:05,961 --> 00:50:11,661
+As labor continues, the shoulder is impacted firmly in the upper part of the pelvis.
+
+396
+00:50:11,661 --> 00:50:17,673
+The uterus then contracts vigorously in an unsuccessful attempt to overcome the obstacle.
+
+397
+00:50:17,673 --> 00:50:23,723
+With time, a uterine contraction ring rises increasingly higher and becomes more marked.
+
+398
+00:50:23,723 --> 00:50:28,761
+An extreme form is the Bandl ring, described in the complication section.
+
+399
+00:50:28,761 --> 00:50:33,486
+With a neglected transverse lie, the uterus will eventually rupture.
+
+400
+00:50:33,486 --> 00:50:47,948
+Even without this complication, maternal and fetal morbidity rates with transverse lie are increased because of the frequent association with placenta previa, umbilical cord prolapse, and fetal manipulations during cesarean delivery.
+
+401
+00:50:47,948 --> 00:50:58,061
+If the fetus is small—usually <800 g—and the pelvis is large, spontaneous delivery is possible despite persistence of the abnormal lie.
+
+402
+00:50:58,061 --> 00:51:02,098
+The fetus is compressed with the head forced against its abdomen.
+
+403
+00:51:02,098 --> 00:51:08,761
+A portion of the thoracic wall below the shoulder thus becomes the most dependent part, appearing at the vulva.
+
+404
+00:51:08,761 --> 00:51:13,373
+The head and thorax then pass through the pelvic cavity at the same time.
+
+405
+00:51:13,373 --> 00:51:20,673
+The fetus, which is doubled upon itself in a position sometimes referred to as conduplicato corpore, is expelled.
+
+406
+00:51:20,673 --> 00:51:26,748
+Management Active labor in a woman with a transverse lie typically requires cesarean delivery.
+
+407
+00:51:26,748 --> 00:51:34,248
+With dorsoanterior or back down position, neither the fetal feet nor head occupies the lower uterine segment.
+
+408
+00:51:34,248 --> 00:51:39,148
+A low transverse uterine incision may lead to difficult fetal extraction.
+
+409
+00:51:39,148 --> 00:51:43,786
+Thus, a vertical hysterotomy incision is typically indicated.
+
+410
+00:51:43,786 --> 00:51:52,561
+With dorsoposterior or back up position, one or both feet can be grasped through a low transverse incision and delivered by breech extraction .
+
+411
+00:51:52,561 --> 00:52:00,773
+Before labor or early in labor, with the membranes intact, attempts at external cephalic version (ECV) are worthwhile.
+
+412
+00:52:00,773 --> 00:52:09,398
+Candidate selection and ECV technique mirror those for the breech fetus and are described in Chapter 28 (p. 528).
+
+413
+00:52:09,398 --> 00:52:18,398
+ECV success rates are high and exceed those for breech fetuses (Correia Costa, 2020; Salzer, 2015).
+
+414
+00:52:18,398 --> 00:52:21,523
+# Umbilical Cord Prolapse.
+
+415
+00:52:21,523 --> 00:52:30,811
+Prolapse complicates 0.1 to 0.2 percent of births (Behbehani, 2016; Gibbons, 2014).
+
+416
+00:52:30,811 --> 00:52:36,736
+As noted earlier, umbilical cord prolapse may be more common with pelvis contraction.
+
+417
+00:52:36,736 --> 00:52:49,936
+Most risks stem from an unengaged presenting part and include hydramnios, breech presentation, transverse lie, premature or small fetus with weight <2500 g, preterm
+
+418
+00:52:50,092 --> 00:52:53,904
+rupture of membranes, and multifetal gestation .
+
+419
+00:52:53,854 --> 00:52:58,854
+Funic presentation is one in which the umbilical cord is the presenting part.
+
+420
+00:52:58,854 --> 00:53:05,429
+Although rare, it is a potent risk factor for prolapse and merits cesarean delivery prior to labor.
+
+421
+00:53:05,429 --> 00:53:15,017
+Of maternal factors for cord prolapse, grand multiparity, a distorting leiomyoma, or müllerian uterine anomaly are less common reasons .
+
+422
+00:53:15,017 --> 00:53:19,204
+Umbilical cord prolapse is usually diagnosed clinically.
+
+423
+00:53:19,204 --> 00:53:25,267
+The cord loop is palpated in a position lower in the vaginal canal than the head or beside it.
+
+424
+00:53:25,267 --> 00:53:31,192
+For most cases, prompt manual elevation of the fetal head relieves cord compression.
+
+425
+00:53:31,192 --> 00:53:38,542
+Concurrently, expeditious transfer to an operating room and preparations for cesarean delivery are completed.
+
+426
+00:53:38,542 --> 00:53:46,642
+Rarely, vaginal or operative vaginal birth is reasonable if it can be completed much more rapidly than emergent cesarean birth .
+
+427
+00:53:46,642 --> 00:53:49,604
+# Compound Presentation.
+
+428
+00:53:49,604 --> 00:53:57,017
+With this, an extremity prolapses alongside the presenting part, and both present simultaneously in the pelvis .
+
+429
+00:53:57,017 --> 00:54:06,142
+Goplerud and Eastman (1953) identified a hand or arm prolapsed alongside the head once in every 700 deliveries.
+
+430
+00:54:06,142 --> 00:54:14,354
+Much less common was prolapse of one or both lower extremities alongside a cephalic presentation or a hand alongside a breech.
+
+431
+00:54:14,354 --> 00:54:25,692
+At Parkland Hospital, compound presentations were identified in only 68 of more than 70,000 singleton fetuses—an incidence of approximately 1 in 1000.
+
+432
+00:54:25,692 --> 00:54:34,042
+Compound presentations form in cases that prevent or delay occlusion of the pelvic inlet and mirror those for other malpresentations.
+
+433
+00:54:34,042 --> 00:54:36,442
+Figure 23-8.
+
+434
+00:54:36,442 --> 00:54:38,817
+Compound presentation.
+
+435
+00:54:38,817 --> 00:54:42,729
+A. The left hand is lying in front of the vertex.
+
+436
+00:54:42,729 --> 00:54:49,717
+With further labor, the hand and arm may retract from the birth canal, and the head may then descend normally.
+
+437
+00:54:49,717 --> 00:54:57,929
+B. Photograph of a small 34-week fetus with a compound presentation that delivered uneventfully with the hand presenting first.
+
+438
+00:54:57,929 --> 00:55:00,954
+Mild bruising resolved uneventfully.
+
+439
+00:55:00,954 --> 00:55:04,854
+Reproduced with permission from Dr. Elizabeth Mosier.
+
+440
+00:55:04,854 --> 00:55:09,067
+In most cases, the prolapsed part should be left alone.
+
+441
+00:55:09,067 --> 00:55:15,142
+It typically does not impede labor and often retracts out of the way with descent of the presenting part.
+
+442
+00:55:15,142 --> 00:55:25,467
+If it fails to retract and if it appears to prevent descent of the head, the prolapsed part can be pushed gently upward and the head simultaneously downward by fundal pressure.
+
+443
+00:55:25,467 --> 00:55:32,392
+In cases with a co-presenting hand, the fetus may reflexively retract the hand if pinched by the provider.
+
+444
+00:55:32,392 --> 00:55:45,017
+In general, rates of perinatal mortality and morbidity are increased, but these mainly stem from effects of associated preterm birth, prolapsed umbilical cord, and traumatic obstetrical procedures.
+
+445
+00:55:45,017 --> 00:55:53,592
+Tebes and coworkers (1999) described a rare case of pressure-induced forearm ischemia and later surgical amputation.
+
+446
+00:55:53,592 --> 00:55:56,167
+Complications With Dystocia.
+
+447
+00:55:56,167 --> 00:56:05,367
+Dystocia, especially if labor is prolonged, is associated with a higher incidence of several common obstetrical and neonatal complications.
+
+448
+00:56:05,367 --> 00:56:15,992
+Noted earlier, maternal infection, either intrapartum chorioamnionitis or postpartum endomyometritis, is more common with desultory and prolonged labors.
+
+449
+00:56:15,992 --> 00:56:21,317
+Postpartum hemorrhage from atony is increased with prolonged and augmented labors.
+
+450
+00:56:21,317 --> 00:56:29,617
+Uterine tears at the time of second-stage cesarean delivery also occur at greater incidence if the fetal head is impacted in the pelvis.
+
+451
+00:56:29,617 --> 00:56:32,342
+Uterine rupture is another risk.
+
+452
+00:56:32,342 --> 00:56:42,579
+Abnormal thinning of the lower uterine segment creates a serious danger during prolonged labor (Delafield, 2018; Ronel, 2012).
+
+453
+00:56:42,579 --> 00:56:51,367
+As described in Chapter 21 (p. 410), the upper segment of the uterus contracts, retracts, and expels the fetus.
+
+454
+00:56:51,367 --> 00:57:00,879
+In response, the softened lower uterine segment and cervix dilate and thereby form a greatly expanded, thinned-out tube through which the fetus can pass.
+
+455
+00:57:00,879 --> 00:57:05,529
+The boundary between these segments is the physiological retraction ring.
+
+456
+00:57:05,529 --> 00:57:16,129
+When disproportion is so pronounced that fetal descent arrests, the lower uterine segment becomes increasingly stretched, and the normal retraction ring is unusually marked.
+
+457
+00:57:16,129 --> 00:57:24,792
+Seldom encountered today, the pathological retraction ring of Bandl is associated with exaggerated thinning of the lower uterine segment.
+
+458
+00:57:24,792 --> 00:57:28,217
+The ring may be seen clearly as a sharp uterine
+
+459
+00:57:28,372 --> 00:57:32,634
+indentation and signifies impending lower segment rupture.
+
+460
+00:57:32,584 --> 00:57:39,522
+Fistula formation may result from dystocia, in which the presenting part is firmly wedged into the pelvis.
+
+461
+00:57:39,522 --> 00:57:45,322
+Excessive pressure is exerted against tissues lying between the leading part and the pelvic wall.
+
+462
+00:57:45,322 --> 00:57:56,184
+Because of impaired circulation, necrosis may result and become evident several days after delivery as vesicovaginal, vesicocervical, or rectovaginal fistulas .
+
+463
+00:57:56,184 --> 00:58:01,397
+Most often, pressure necrosis follows a very prolonged second stage.
+
+464
+00:58:01,397 --> 00:58:05,622
+These are rare today except in undeveloped medical systems.
+
+465
+00:58:05,622 --> 00:58:10,884
+Lower-extremity nerve injury in the mother can follow prolonged second-stage labor.
+
+466
+00:58:10,884 --> 00:58:15,497
+These are discussed in Chapter 36 (p. 644).
+
+467
+00:58:15,497 --> 00:58:22,622
+Fortunately, deficits are mainly sensory, and most resolve within 6 months of delivery in most women.
+
+468
+00:58:22,622 --> 00:58:28,772
+Similar to the mother, the incidence of peripartum fetal sepsis rises with longer labors.
+
+469
+00:58:28,772 --> 00:58:37,034
+Caput succedaneum and molding develop commonly and may be impressive (Fig. 22-7, p. 423) .
+
+470
+00:58:37,034 --> 00:58:47,709
+Mechanical trauma such as nerve injury, fractures, and cephalohematoma also are more frequent and are discussed further in Chapter 33 (p. 608).
+

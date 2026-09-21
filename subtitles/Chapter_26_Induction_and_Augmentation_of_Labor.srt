@@ -1,0 +1,1308 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:06,587
+Chapter 26: Induction and Augmentation of Labor.
+
+3
+00:00:06,587 --> 00:00:25,050
+Labor Induction Preinduction Cervical Ripening Pharmacological Agents Mechanical Techniques Methods Of Induction And Augmentation Prostaglandin E1 Oxytocin Amniotomy For Induction And Augmentation References Today, several pharmacological agents permit labor to be induced or augmented.
+
+4
+00:00:25,050 --> 00:00:33,050
+Induction implies stimulation of contractions before the spontaneous onset of labor, with or without ruptured membranes.
+
+5
+00:00:33,050 --> 00:00:41,925
+When the cervix is closed and uneffaced, labor induction is often preceded by cervical ripening, a process to soften and open the cervix.
+
+6
+00:00:41,925 --> 00:00:48,737
+This is somewhat of a misnomer in that cervical ripening, per se, may also be a means of labor induction.
+
+7
+00:00:48,737 --> 00:00:57,975
+Augmentation refers to enhancement of spontaneous contractions that are considered inadequate because of failed cervical dilation and poor fetal descent.
+
+8
+00:00:57,975 --> 00:01:04,862
+This chapter presents indications and methods for labor induction or augmentation and for cervical ripening.
+
+9
+00:01:04,862 --> 00:01:06,837
+Labor Induction.
+
+10
+00:01:06,837 --> 00:01:09,237
+# Indications.
+
+11
+00:01:09,237 --> 00:01:18,975
+In the United States, the incidence of labor induction rose from 9.5 percent in 1991 to 27 percent in 2019 .
+
+12
+00:01:18,975 --> 00:01:25,650
+Induction is indicated when the benefits to either mother or fetus outweigh those of pregnancy continuation.
+
+13
+00:01:25,650 --> 00:01:41,912
+The more common indications include membrane rupture without labor, gestational hypertension, oligohydramnios, nonreassuring fetal status, postterm pregnancy, and various maternal medical conditions such as chronic hypertension and diabetes .
+
+14
+00:01:41,912 --> 00:01:49,712
+Methods to induce or augment labor are contraindicated by most conditions that preclude spontaneous labor or delivery.
+
+15
+00:01:49,712 --> 00:01:58,487
+Maternal contraindications are an abnormally implanted placenta or a prior uterine incision type that is associated with a high rupture risk.
+
+16
+00:01:58,487 --> 00:02:06,500
+Uncommon conditions are active genital herpes infection, contracted or distorted pelvic anatomy, or cervical cancer.
+
+17
+00:02:06,500 --> 00:02:15,250
+Fetal factors include appreciable macrosomia, severe hydrocephalus, malpresentation, or nonreassuring fetal status.
+
+18
+00:02:15,250 --> 00:02:17,325
+# Risks.
+
+19
+00:02:17,325 --> 00:02:26,725
+Some maternal complications associated with labor induction are chorioamnionitis, uterine rupture, and postpartum hemorrhage from uterine atony.
+
+20
+00:02:26,725 --> 00:02:38,837
+Earlier nonrandomized studies suggested a particularly higher risk for cesarean delivery in nulliparas undergoing labor induction (Luthy, 2004; Yeast, 1999).
+
+21
+00:02:38,837 --> 00:02:51,675
+More recent ones, however, cite comparable or even lower rates of cesarean delivery when induced labor is compared with spontaneous labor (Middleton, 2020; Souter, 2019).
+
+22
+00:02:51,675 --> 00:03:00,212
+These studies used spontaneous labor as the comparator, which may be less suitable than using expectant management as the comparator.
+
+23
+00:03:00,212 --> 00:03:17,575
+In the ARRIVE trial—A Randomized Trial of Induction Versus Expectant Management-more than 6000 low-risk nulliparas at 39 weeks’ gestation were randomly assigned to labor induction or expectant management groups (Grobman, 2018; Tita, 2021).
+
+24
+00:03:17,575 --> 00:03:24,725
+Primary outcome, which was the rate of severe neonatal morbidity or death, did not differ between cohorts.
+
+25
+00:03:24,725 --> 00:03:36,612
+However, the cesarean delivery rate in the induction arm was significantly lower than that in the expectantly managed cohort—18.6 versus 22.2 percent, respectively.
+
+26
+00:03:36,612 --> 00:03:43,812
+Rates of chorioamnionitis, postpartum hemorrhage, and peripartum infection were not significantly different.
+
+27
+00:03:43,812 --> 00:03:56,400
+In a metaanalysis of six cohort studies, elective induction at 39 weeks’ gestation had a significantly lower risk of cesarean delivery and these other morbidities compared with expectant management .
+
+28
+00:03:56,400 --> 00:03:58,950
+Table 26-1.
+
+29
+00:03:58,950 --> 00:04:14,312
+Selected Maternal and Perinatal Outcomes with Labor Induction Versus Expectant Management in Low-Risk Nulliparous Women— the ARRIVE Trial With induction, the overall associated risk of uterine rupture is low but is highest with a prior uterine scar .
+
+30
+00:04:14,312 --> 00:04:27,862
+The American College of Obstetricians and Gynecologists (2019c) recommends against the use of prostaglandins for preinduction cervical ripening or for labor induction in women with a prior uterine incision.
+
+31
+00:04:27,862 --> 00:04:36,225
+It recognizes labor induction with oxytocin as an option but also notes the higher potential rupture rate and lower VBAC rate.
+
+32
+00:04:36,225 --> 00:04:41,900
+Oxytocin augmentation may be used in those undergoing TOLAC, although evidence
+
+33
+00:04:42,052 --> 00:04:45,052
+for higher rupture rates are conflicting.
+
+34
+00:04:45,002 --> 00:04:50,227
+Amniotomy is often selected to augment labor (p. 494).
+
+35
+00:04:50,227 --> 00:05:00,052
+Of other potential risks, women whose labor is managed with amniotomy have a higher incidence of chorioamnionitis compared with those in spontaneous labor .
+
+36
+00:05:00,052 --> 00:05:13,002
+In some, but not all studies, uterine atony and associated postpartum hemorrhage are more common in women undergoing induction or augmentation (Grobman, 2018; Widmer, 2020).
+
+37
+00:05:13,002 --> 00:05:25,489
+And as discussed in Chapter 42 (p. 733), atony with intractable hemorrhage, especially following cesarean delivery, is a frequent indication for peripartum hysterectomy.
+
+38
+00:05:25,489 --> 00:05:35,489
+In a study from Parkland Hospital, labor induction was associated with 17 percent of 553 unanticipated peripartum hysterectomies .
+
+39
+00:05:35,489 --> 00:05:38,439
+# Elective Labor Induction.
+
+40
+00:05:38,439 --> 00:05:48,989
+Until recently, the American College of Obstetricians and Gynecologists (2019a) did not recommend elective labor induction at term for convenience.
+
+41
+00:05:48,989 --> 00:05:59,189
+Occasional exceptions are risk of rapid labor, psychosocial indications, or logistics that factor family support availability and distance from the hospital.
+
+42
+00:05:59,189 --> 00:06:15,777
+Importantly, several studies have shown that elective delivery before 39 completed weeks’ gestation is associated with significant adverse neonatal morbidity (Chiossi, 2013; Salemi, 2016; Tita, 2009).
+
+43
+00:06:15,777 --> 00:06:23,527
+This proscription against elective induction at term was reconsidered following publication of the previously cited ARRIVE trial.
+
+44
+00:06:23,527 --> 00:06:41,952
+Because of the results from that trial, the American College of Obstetricians and Gynecologists (2018) and the Society for Maternal-Fetal Medicine (2019) conclude that offering elective induction to low-risk, well-dated nulliparas at 39 weeks’ gestation is reasonable.
+
+45
+00:06:41,952 --> 00:06:51,227
+These women must meet the criteria for the ARRIVE trial, and it is recommended to combine shared decision-making with consideration of available resources.
+
+46
+00:06:51,227 --> 00:06:54,864
+# Factors Affecting Induction Success.
+
+47
+00:06:54,864 --> 00:07:00,339
+Several factors affect the ability of labor induction to achieve vaginal delivery.
+
+48
+00:07:00,339 --> 00:07:15,939
+Favorable factors include younger age, multiparity, body mass index (BMI) <30, favorable cervix, and birthweight <3500 g (Freret, 2021; Sievert, 2017).
+
+49
+00:07:15,939 --> 00:07:20,752
+In many cases, the uterus is simply poorly prepared for labor.
+
+50
+00:07:20,752 --> 00:07:24,827
+One example is an “unripe” or “unfavorable” cervix.
+
+51
+00:07:24,827 --> 00:07:36,764
+Indeed, investigators with the Consortium on Safe Labor reported that elective induction resulted in vaginal delivery in 97 percent of multiparas and 76 percent of nulliparas.
+
+52
+00:07:36,764 --> 00:07:40,714
+Induction was more often successful with a “ripe cervix” .
+
+53
+00:07:40,714 --> 00:07:48,289
+Failure of induction is likely strongly influenced by the induction duration, especially with an unfavorable cervix .
+
+54
+00:07:48,289 --> 00:07:56,489
+In one study, labor duration to reach the active phase and to complete dilation was adversely affected by a higher BMI .
+
+55
+00:07:56,489 --> 00:08:00,502
+Similar findings were reported for women with diabetes .
+
+56
+00:08:00,502 --> 00:08:15,014
+Simon and Grobman (2005) concluded that a latent phase as long as 18 hours allowed most women undergoing labor induction to achieve a vaginal delivery without a significantly increased risk of maternal or neonatal morbidity.
+
+57
+00:08:15,014 --> 00:08:30,064
+Rouse and associates (2000) recommend a minimum of 12 hours of uterine stimulation with oxytocin after membrane rupture, whereas Kawakita and coworkers (2016) recommend up to 15 hours for multiparas.
+
+58
+00:08:30,064 --> 00:08:32,714
+Preinduction Cervical Ripening.
+
+59
+00:08:32,714 --> 00:08:39,727
+As noted, a soft cervix—described as “ripe” or “favorable”—is important to successful labor induction.
+
+60
+00:08:39,727 --> 00:08:44,352
+However, some estimates of favorability are highly subjective .
+
+61
+00:08:44,352 --> 00:08:52,389
+Still, pharmacological and mechanical methods can enhance cervical qualities in a process of preinduction cervical ripening.
+
+62
+00:08:52,389 --> 00:08:57,602
+Some of the techniques may have benefits compared with oxytocin induction alone .
+
+63
+00:08:57,602 --> 00:09:03,214
+Namely, some are able to initiate labor and may effect delivery when used alone.
+
+64
+00:09:03,214 --> 00:09:14,702
+However, few data support the premise that any of these methods lower cesarean delivery rates or lessen maternal or neonatal morbidity compared with women in whom these methods are not used.
+
+65
+00:09:14,702 --> 00:09:17,239
+Table 26-2.
+
+66
+00:09:17,239 --> 00:09:26,852
+Some Commonly Used Regimens Compared with Oxytocin Infusion for Preinduction Cervical Ripening and/or Labor Induction # Cervical “Favorability”.
+
+67
+00:09:26,852 --> 00:09:30,652
+One quantifiable method to predict labor induction
+
+68
+00:09:30,820 --> 00:09:38,070
+outcomes is the score described by Bishop (1964) and presented in Table 26-3.
+
+69
+00:09:38,020 --> 00:09:45,370
+As favorability or Bishop score rises, the rate of induction to effect vaginal delivery also increases.
+
+70
+00:09:45,370 --> 00:09:53,945
+A Bishop score >8 conveys a high likelihood for a successful induction, and a score ≤6 is considered unfavorable .
+
+71
+00:09:53,945 --> 00:09:56,445
+Table 26-3.
+
+72
+00:09:56,445 --> 00:10:12,457
+Bishop Scoring System Used for Assessment of Inducibility Laughon and coworkers (2011) attempted to simplify the Bishop score by performing a regression analysis on 5610 nulliparas with term singletons at 38 to 42 weeks’ gestation.
+
+73
+00:10:12,457 --> 00:10:19,532
+Cervical dilation, station, and effacement were significantly associated with successful vaginal delivery.
+
+74
+00:10:19,532 --> 00:10:28,220
+Thus, a simplified Bishop score had a similar or improved positive- or negative-predictive value compared with that of the original Bishop score.
+
+75
+00:10:28,220 --> 00:10:37,495
+Others have reported similar findings when consistency and position are omitted (Ivars, 2016; Raghuraman, 2016).
+
+76
+00:10:37,495 --> 00:10:44,432
+Transvaginal sonographic measurement of cervical length has been evaluated as a Bishop score alternative .
+
+77
+00:10:44,432 --> 00:10:55,395
+However, data from a metaanalysis of 31 trials showed overall low sensitivity and specificity and limited predictive utility to forecast successful induction .
+
+78
+00:10:55,395 --> 00:10:58,432
+# Pharmacological Agents.
+
+79
+00:10:58,432 --> 00:11:02,357
+Prostaglandin analogues make up available options.
+
+80
+00:11:02,357 --> 00:11:08,882
+These can also stimulate contractions and thereby aid subsequent labor induction or augmentation.
+
+81
+00:11:08,882 --> 00:11:18,807
+Importantly, in most studies of preinduction cervical ripening, oxytocin infusion either is initiated with the ripening agent or follows cervical change.
+
+82
+00:11:18,807 --> 00:11:21,732
+# Prostaglandin E2.
+
+83
+00:11:21,732 --> 00:11:27,482
+Dinoprostone is a synthetic analogue of prostaglandin E2 (PGE2).
+
+84
+00:11:27,482 --> 00:11:35,570
+It is commercially available in three forms: a gel, a time-release vaginal insert, and a 20-mg suppository .
+
+85
+00:11:35,570 --> 00:11:43,020
+The gel and time-release vaginal insert formulations are indicated only for cervical ripening before labor induction.
+
+86
+00:11:43,020 --> 00:11:49,070
+Importantly, the 20-mg suppository is not indicated for cervical ripening.
+
+87
+00:11:49,070 --> 00:11:58,995
+It instead is used for pregnancy termination between 12 and 20 weeks’ gestation and for evacuation of the uterus after fetal demise up to 28 weeks.
+
+88
+00:11:58,995 --> 00:12:11,482
+Local application of the PGE2 gel form—Prepidil—is available in a 2.5mL syringe for an intracervical application of 0.5 mg of dinoprostone.
+
+89
+00:12:11,482 --> 00:12:20,807
+With the woman supine, the tip of a prefilled syringe is placed intracervically, and the gel is deposited just below the internal cervical os.
+
+90
+00:12:20,807 --> 00:12:25,507
+After application, the woman remains reclined for 30 minutes.
+
+91
+00:12:25,507 --> 00:12:32,707
+Doses may be repeated every 6 hours, with a maximum of three doses recommended in 24 hours.
+
+92
+00:12:32,707 --> 00:12:39,445
+A 10-mg dinoprostone vaginal insert—Cervidil—also is approved for cervical ripening.
+
+93
+00:12:39,445 --> 00:12:46,832
+This is a thin, flat, rectangular polymeric wafer held within a small, white, mesh polyester sac .
+
+94
+00:12:46,832 --> 00:12:51,795
+The sac has a long attached tail to allow easy removal from the vagina.
+
+95
+00:12:51,795 --> 00:12:58,845
+The insert provides slower release of medication—0.3 mg/hr—than the gel form.
+
+96
+00:12:58,845 --> 00:13:04,770
+Cervidil is used as a single dose placed transversely in the posterior vaginal fornix.
+
+97
+00:13:04,770 --> 00:13:11,570
+Lubricant is used sparingly, if at all, because it can coat the device and hinder dinoprostone release.
+
+98
+00:13:11,570 --> 00:13:16,545
+Following insertion, the woman remains recumbent for at least 2 hours.
+
+99
+00:13:16,545 --> 00:13:24,532
+The insert is removed after 12 hours or with labor onset and at least 30 minutes before the administration of oxytocin.
+
+100
+00:13:24,532 --> 00:13:33,995
+Since the active drug is encased in a mesh sac, one benefit is the ability for removal if fetal heart rate abnormalities or tachysystole develop.
+
+101
+00:13:33,995 --> 00:13:36,582
+Figure 26-1.
+
+102
+00:13:36,582 --> 00:13:46,695
+Cervidil vaginal insert contains 10 mg of dinoprostone designed to release approximately 0.3 mg/hr during a 10-hour period.
+
+103
+00:13:46,695 --> 00:13:53,670
+Most metaanalyses of dinoprostone efficacy report a reduced time to delivery within 24 hours.
+
+104
+00:13:53,670 --> 00:13:59,132
+However, they do not consistently show a reduction in the cesarean delivery rate.
+
+105
+00:13:59,132 --> 00:14:12,470
+Thomas and colleagues (2014) provided a Cochrane review of 70 trials that included 11,487 women given vaginal prostaglandins or either placebo compared with no treatment.
+
+106
+00:14:12,470 --> 00:14:18,682
+They noted a higher vaginal delivery rate within 24 hours when prostaglandins were used.
+
+107
+00:14:18,682 --> 00:14:28,670
+They also reported a threefold greater risk of tachysystole accompanied by fetal heart rate changes, but cesarean delivery rates were not significantly decreased.
+
+108
+00:14:28,828 --> 00:14:34,753
+Similar results were noted in another Cochrane review of intracervical dinoprostone gel .
+
+109
+00:14:34,703 --> 00:14:45,040
+Compared with placebo or no treatment, a reduced risk of cesarean delivery was found only in a subgroup of women with an unfavorable cervix and intact membranes.
+
+110
+00:14:45,040 --> 00:15:02,128
+Last, the Foley catheter versus vaginal PGE2 gel for induction of labor at term—PROBAAT-P and M trials—were unblinded, randomized trials comparing these two options (Jozwiak, 2011, 2013, 2014).
+
+111
+00:15:02,128 --> 00:15:08,603
+The cesarean delivery rate did not differ, a finding consistent with accompanying metaanalyses.
+
+112
+00:15:08,603 --> 00:15:15,678
+Side Effects Uterine tachysystole follows vaginally administered PGE2 in 1 to 5 percent of women .
+
+113
+00:15:15,678 --> 00:15:27,515
+Although definitions of abnormal uterine activity vary among studies, most use the definition recommended by the American College of Obstetricians and Gynecologists (2019b).
+
+114
+00:15:27,515 --> 00:15:32,728
+Uterine tachysystole is defined as >5 contractions in a 10-minute period.
+
+115
+00:15:32,728 --> 00:15:38,640
+It should always be qualified by the presence or absence of fetal heart rate abnormalities.
+
+116
+00:15:38,640 --> 00:15:47,753
+The terms uterine hypertonus, hyperstimulation, and hypercontractility are terms no longer defined, and their use is not recommended.
+
+117
+00:15:47,753 --> 00:15:58,528
+Because uterine tachysystole associated with fetal compromise may develop when prostaglandins are used with preexisting spontaneous labor, such use is not recommended.
+
+118
+00:15:58,528 --> 00:16:07,503
+If tachysystole follows the 10-mg insert, its removal by pulling on the tail of the surrounding net sac will usually reverse this effect.
+
+119
+00:16:07,503 --> 00:16:12,365
+Irrigation to remove the gel preparation has not been shown to be helpful.
+
+120
+00:16:12,365 --> 00:16:18,765
+The manufacturers recommend caution when these preparations are used in women with ruptured membranes.
+
+121
+00:16:18,765 --> 00:16:23,415
+This concern is also extended to women with glaucoma or asthma.
+
+122
+00:16:23,415 --> 00:16:32,340
+However, in a review of 189 women with asthma, dinoprostone was not associated with asthma worsening or exacerbation .
+
+123
+00:16:32,340 --> 00:16:50,028
+Other contraindications listed by the manufacturers include prior dinoprostone hypersensitivity, suspicion of fetal compromise or cephalopelvic disproportion, unexplained vaginal bleeding, six or more prior term pregnancies, and contraindications to vaginal delivery.
+
+124
+00:16:50,028 --> 00:17:04,065
+Others are women already receiving oxytocin, those with a contraindication to oxytocin, or those who may be endangered by prolonged uterine contractions, for example, those with prior cesarean delivery or uterine surgery.
+
+125
+00:17:04,065 --> 00:17:10,678
+Administration PGE2 preparations should be administered only in or near the delivery suite.
+
+126
+00:17:10,678 --> 00:17:15,465
+Moreover, uterine activity and fetal heart rate should be monitored .
+
+127
+00:17:15,465 --> 00:17:19,690
+These guidelines stem from the risk of uterine tachysystole.
+
+128
+00:17:19,690 --> 00:17:27,140
+When contractions begin, they are usually apparent in the first hour and show peak activity in the first 4 hours.
+
+129
+00:17:27,140 --> 00:17:42,853
+According to manufacturer guidelines, oxytocin induction that follows prostaglandin use for cervical ripening should be delayed for 6 to 12 hours following PGE2 gel administration or for at least 30 minutes after removal of the vaginal insert.
+
+130
+00:17:42,853 --> 00:17:45,703
+# Prostaglandin E1.
+
+131
+00:17:45,703 --> 00:17:56,665
+Misoprostol—Cytotec—is a synthetic prostaglandin E1 (PGE1) that is approved as a 100- or 200-µg tablet for peptic ulcer prevention.
+
+132
+00:17:56,665 --> 00:18:01,940
+These tablets can be split to administer 25- or 50-µg doses.
+
+133
+00:18:01,940 --> 00:18:06,903
+The drug is absorbed from both vaginal, oral, and buccal administration.
+
+134
+00:18:06,903 --> 00:18:15,228
+Randomized trials of labor induction with misoprostol have evaluated various induction regimens with differing primary outcomes .
+
+135
+00:18:15,228 --> 00:18:17,803
+Table 26-4.
+
+136
+00:18:17,803 --> 00:18:31,128
+Randomized Trials with 200 or More Subjects Designed to Compare Misoprostol (PGE1) With or Without Foley Bulb Misoprostol is widely used “off label” safely for preinduction cervical ripening .
+
+137
+00:18:31,128 --> 00:18:39,503
+The tablets are stable at room temperature, and the drug currently is the preferred prostaglandin for cervical ripening at Parkland Hospital.
+
+138
+00:18:39,503 --> 00:18:52,765
+Vaginal Administration Compared with intracervical or intravaginal PGE2, vaginally administered misoprostol tablets offer equivalent or superior efficacy for cervical ripening or labor induction .
+
+139
+00:18:52,765 --> 00:19:03,265
+Compared with oxytocin or with intravaginal or intracervical dinoprostone, vaginal misoprostol increased the vaginal delivery rate within 24 hours.
+
+140
+00:19:03,265 --> 00:19:09,440
+Although the uterine tachysystole rate was higher, this did not affect cesarean delivery rates.
+
+141
+00:19:09,440 --> 00:19:11,765
+Moreover, compared
+
+142
+00:19:11,932 --> 00:19:20,969
+with dinoprostone, misoprostol lowered the need for oxytocin induction, but it raised the frequency of meconium-stained amnionic fluid.
+
+143
+00:19:20,919 --> 00:19:31,382
+Higher doses of misoprostol are associated with a decreased need for oxytocin but with greater rates of uterine tachysystole, with and without fetal heart rate changes.
+
+144
+00:19:31,382 --> 00:19:39,744
+The American College of Obstetricians and Gynecologists (2019a) recommends a 25-µg vaginal dose.
+
+145
+00:19:39,744 --> 00:19:44,532
+The drug is evenly distributed among 100-µg tablets that are quartered.
+
+146
+00:19:44,532 --> 00:19:54,494
+Oral Administration PGE1 tablets are also effective when given orally, but with a faster peak concentration and decline compared with the vaginal route.
+
+147
+00:19:54,494 --> 00:20:09,932
+One Cochrane metaanalysis of 76 trials reported that oral misoprostol compared with placebo significantly increased the rate of vaginal birth within 24 hours, while decreasing the need for oxytocin and lowering the cesarean delivery rate .
+
+148
+00:20:09,932 --> 00:20:20,819
+Comparisons of oral misoprostol and oxytocin and of oral misoprostol and dinoprostone also found significantly reduced rates of cesarean delivery with misoprostol.
+
+149
+00:20:20,819 --> 00:20:32,894
+Similar efficacy was noted between oral misoprostol and vaginal administration, although oral administration was associated with significantly higher Apgar scores and less postpartum hemorrhage.
+
+150
+00:20:32,894 --> 00:20:43,057
+Thorbiörnson and associates (2017) also reported lower rates of cesarean delivery with oral misoprostol compared with vaginal dinoprostone.
+
+151
+00:20:43,057 --> 00:20:46,032
+# Nitric Oxide Donors.
+
+152
+00:20:46,032 --> 00:20:52,682
+Over the years, agents that stimulate nitric oxide production have been studied for labor induction.
+
+153
+00:20:52,682 --> 00:20:58,007
+Physiologically, nitric oxide is likely a mediator of cervical ripening.
+
+154
+00:20:58,007 --> 00:21:04,769
+Cervical nitric oxide metabolite concentrations are increased at the beginning of uterine contractions.
+
+155
+00:21:04,769 --> 00:21:13,544
+Both isosorbide mononitrate and glyceryl trinitrate have been studied but are less effective clinically than prostaglandins for cervical ripening.
+
+156
+00:21:13,544 --> 00:21:29,144
+In one metaanalysis, the rate of cesarean delivery was not reduced in those given nitric oxide donors compared with those given placebo, intravaginal or intracervical prostaglandins, intravaginal misoprostol, or intracervical catheter .
+
+157
+00:21:29,144 --> 00:21:36,357
+However, nitric oxide donors were associated with significantly more headaches, nausea, and vomiting.
+
+158
+00:21:36,357 --> 00:21:39,132
+# Mechanical Techniques.
+
+159
+00:21:39,132 --> 00:21:49,757
+These include transcervical placement of a Foley catheter, with or without extraamnionic saline infusion; hygroscopic cervical dilators; and membrane stripping.
+
+160
+00:21:49,757 --> 00:22:00,057
+In one metaanalysis, mechanical methods reduced the risk of uterine tachysystole compared with prostaglandins, although cesarean delivery rates were unchanged .
+
+161
+00:22:00,057 --> 00:22:07,544
+Trials comparing mechanical techniques and oxytocin found a lower rate of cesarean delivery with mechanical methods.
+
+162
+00:22:07,544 --> 00:22:16,369
+Trials comparing mechanical options with dinoprostone found a higher rate of multiparas undelivered at 24 hours with mechanical methods.
+
+163
+00:22:16,369 --> 00:22:28,407
+In another metaanalysis comparing Foley catheter and intravaginal dinoprostone inserts, cesarean delivery rates were similar, but uterine tachysystole was less frequent with catheter use .
+
+164
+00:22:28,407 --> 00:22:37,432
+Transcervical Catheter Generally, this option is only used with an unfavorable cervix because the catheter comes out as the cervix opens.
+
+165
+00:22:37,432 --> 00:22:41,857
+It is suitable for women with membranes that are intact or ruptured.
+
+166
+00:22:41,857 --> 00:22:51,119
+In most cases, a Foley catheter is placed through the internal cervical os, and downward tension is created by taping the catheter to the thigh .
+
+167
+00:22:51,119 --> 00:22:56,094
+Extraamnionic saline infusion (EASI) is one modification.
+
+168
+00:22:56,094 --> 00:23:03,444
+It adds a constant saline infusion through the catheter into the space between the internal os and placental membranes .
+
+169
+00:23:03,444 --> 00:23:13,044
+In one study, chorioamnionitis was significantly less frequent when infusion was added compared with no infusion—6 versus 16 percent .
+
+170
+00:23:13,044 --> 00:23:21,232
+Similarly, in a metaanalysis, transcervical catheters were not associated with higher rates of maternal or fetal infection .
+
+171
+00:23:21,232 --> 00:23:23,769
+Figure 26-2.
+
+172
+00:23:23,769 --> 00:23:31,107
+Extraamnionic saline infusion (EASI) through a 26F Foley catheter that is placed through the cervix.
+
+173
+00:23:31,107 --> 00:23:39,432
+The 30-mL balloon is inflated with saline and pulled snugly against the internal os, and the catheter is taped to the thigh.
+
+174
+00:23:39,432 --> 00:23:47,407
+Room-temperature normal saline is infused through the catheter port of the Foley at 30 or 40 mL/hour by intravenous
+
+175
+00:23:47,572 --> 00:23:49,534
+infusion pump.
+
+176
+00:23:49,484 --> 00:23:57,259
+As discussed earlier, transcervical catheters do not reduce the cesarean delivery rate compared with prostaglandins.
+
+177
+00:23:57,259 --> 00:24:20,184
+There were several iterations of the PROBAAT trials—I, P, M, and II—in which cervical ripening with a Foley catheter was compared with vaginal dinoprostone gel, dinoprostone vaginal inserts, and vaginal or oral misoprostol (Jozwiak, 2011, 2013, 2014; Ten Eikelder, 2016).
+
+178
+00:24:20,184 --> 00:24:26,509
+These studies reported similar outcomes between the mechanical methods and the prostaglandin agents.
+
+179
+00:24:26,509 --> 00:24:33,272
+Also, fewer overall cases of cardiotocographic changes were seen in the mechanical technique group.
+
+180
+00:24:33,272 --> 00:24:38,209
+Similar cesarean delivery rates are found in other comparison studies.
+
+181
+00:24:38,209 --> 00:24:50,672
+Schoen and coworkers (2017) observed that concurrent oxytocin with a transcervical Foley catheter shortened the median time to delivery compared with a Foley catheter followed by oxytocin.
+
+182
+00:24:50,672 --> 00:24:54,909
+However, rates of cesarean delivery were unchanged.
+
+183
+00:24:54,909 --> 00:25:03,684
+Connolly and associates (2016) reported similar findings for women within intact membranes undergoing labor induction.
+
+184
+00:25:03,684 --> 00:25:15,084
+Amorosa and colleagues (2017) found no benefit for transcervical catheter coupled with oxytocin compared with oxytocin alone for women with ruptured membranes.
+
+185
+00:25:15,084 --> 00:25:26,447
+Other studies of concurrent misoprostol reported reduced time to delivery without affecting cesarean delivery rates (Carbone, 2013; Levine, 2016).
+
+186
+00:25:26,447 --> 00:25:35,322
+With catheter induction plus misoprostol, one randomized trial found vaginal misoprostol to be superior to buccal administration .
+
+187
+00:25:35,322 --> 00:25:40,372
+Last, addition of tension does not appear to enhance catheter efficacy .
+
+188
+00:25:40,372 --> 00:25:51,422
+These investigators randomly assigned 140 women to transcervical Foley catheter placement, with and without tension, and reported similar vaginal delivery rates.
+
+189
+00:25:51,422 --> 00:25:58,159
+One large trial at Parkland Hospital evaluated the addition of a Foley catheter to oral misoprostol.
+
+190
+00:25:58,159 --> 00:26:07,172
+With catheter addition, investigators found no improvement in the vaginal delivery rate, but the chorioamnionitis rate was 30-percent higher .
+
+191
+00:26:07,172 --> 00:26:13,897
+The unaltered vaginal delivery rate persisted in a stratified analysis of nulliparas and multiparas.
+
+192
+00:26:13,897 --> 00:26:22,184
+In this study, our standard labor induction protocol with misoprostol alone achieved a 77percent vaginal delivery rate.
+
+193
+00:26:22,184 --> 00:26:33,834
+Hygroscopic Cervical Dilators Cervical dilation can be accomplished using hygroscopic or osmotic cervical dilators, which are illustrated in Chapter 11 (p. 209).
+
+194
+00:26:33,834 --> 00:26:40,034
+Briefly, these include Laminaria japonicum or hygroscopic devices (Dilapan-S).
+
+195
+00:26:40,034 --> 00:26:46,447
+Intuitive concerns of ascending infection have not been verified, and their use appears to be safe.
+
+196
+00:26:46,447 --> 00:26:52,422
+Placement generally requires a speculum and positioning of the woman on an examination table.
+
+197
+00:26:52,422 --> 00:26:58,722
+Studies comparing hygroscopic cervical dilators and prostaglandins found few benefits .
+
+198
+00:26:58,722 --> 00:27:01,822
+Methods Of Induction And Augmentation.
+
+199
+00:27:01,822 --> 00:27:06,722
+Oxytocin has been used for labor induction for more than 70 years .
+
+200
+00:27:06,722 --> 00:27:14,234
+As discussed, other methods now include prostaglandins, which are used alone or in combination with oxytocin.
+
+201
+00:27:14,234 --> 00:27:18,559
+Prostaglandins include misoprostol and dinoprostone.
+
+202
+00:27:18,559 --> 00:27:30,159
+Mechanical methods encompass membrane stripping, artificial rupture of membranes, extraamnionic saline infusion, transcervical balloons, and hygroscopic cervical dilators.
+
+203
+00:27:30,159 --> 00:27:41,059
+As recommended in Guidelines for Perinatal Care, each obstetrical department should have written protocols that describe administration of these methods for labor induction and augmentation .
+
+204
+00:27:41,059 --> 00:27:51,034
+Because preinduction cervical ripening frequently prompts labor, studies to determine induction efficacy for some of these agents have produced confusing results.
+
+205
+00:27:51,034 --> 00:27:59,272
+The use of prostaglandins for labor augmentation has generally been considered experimental due to high rates of uterine tachysystole.
+
+206
+00:27:59,272 --> 00:28:02,122
+# Prostaglandin E1.
+
+207
+00:28:02,122 --> 00:28:08,247
+Both vaginal and oral misoprostol are used for either cervical ripening or labor induction.
+
+208
+00:28:08,247 --> 00:28:22,934
+For labor induction in women at or near term with either prematurely ruptured membranes or a favorable cervix, 100 µg of oral or 25 µg of vaginal misoprostol has similar efficacy compared with intravenous oxytocin.
+
+209
+00:28:22,934 --> 00:28:34,147
+From these studies, evidence supports that oral misoprostol may be superior (Alfirevic, 2014; Hofmeyr, 2010; Lo, 2003).
+
+210
+00:28:34,147 --> 00:28:35,784
+That said,
+
+211
+00:28:35,956 --> 00:28:42,893
+misoprostol is associated with a greater rate of uterine tachysystole, particularly at higher doses.
+
+212
+00:28:42,843 --> 00:28:51,006
+Also, induction with PGE1 may prove ineffective and require subsequent induction or augmentation with oxytocin.
+
+213
+00:28:51,006 --> 00:28:59,831
+Thus, although there are trade-offs regarding the risks, costs, and ease of administration of each drug, either is suitable for labor induction.
+
+214
+00:28:59,831 --> 00:29:08,756
+At Parkland Hospital, we administer an initial oral 100-µg dose, which may be repeated for inadequate labor after 6 hours.
+
+215
+00:29:08,756 --> 00:29:17,643
+Four hours after the second dose or in those with tachysystole, an oxytocin infusion is begun, if needed, for hypotonic labor.
+
+216
+00:29:17,643 --> 00:29:25,593
+One study compared oral misoprostol and a newer misoprostol vaginal insert that releases drug up to 24 hours.
+
+217
+00:29:25,593 --> 00:29:35,168
+With the insert, cesarean delivery and adverse neonatal outcome rates were higher, but time to delivery was shorter (Döbert, 2018).
+
+218
+00:29:35,168 --> 00:29:45,156
+Additional studies found these adverse outcomes were mitigated if the insert time was limited to 10 hours (Brandstetter, 2019, 2020).
+
+219
+00:29:45,156 --> 00:29:57,618
+For labor augmentation, results of a randomized controlled trial showed oral misoprostol, 75 µg given at 4-hour intervals for a maximum of two doses, to be safe and effective .
+
+220
+00:29:57,618 --> 00:30:10,956
+Although the uterine tachysystole rate was higher among women with labor augmented with misoprostol, the frequency of nonreassuring fetal status or cesarean delivery did not differ between oxytocin and misoprostol.
+
+221
+00:30:10,956 --> 00:30:13,306
+# Oxytocin.
+
+222
+00:30:13,306 --> 00:30:21,593
+As previously emphasized, in many instances, preinduction cervical ripening and labor induction are simply a continuum.
+
+223
+00:30:21,593 --> 00:30:25,356
+In this regard “ripening” can also stimulate labor.
+
+224
+00:30:25,356 --> 00:30:32,731
+If not, induction or augmentation may be continued with solutions of oxytocin given by infusion pump.
+
+225
+00:30:32,731 --> 00:30:41,106
+Its use in augmentation is a key component in the active management of labor, described in Chapter 22 (p. 430).
+
+226
+00:30:41,106 --> 00:30:51,743
+With oxytocin use, the American College of Obstetricians and Gynecologists (2019a) recommends fetal heart rate and uterine contraction monitoring.
+
+227
+00:30:51,743 --> 00:30:56,881
+Contractions can be monitored either by palpation or by electronic means.
+
+228
+00:30:56,881 --> 00:31:03,406
+Intravenous Oxytocin Administration A 1-mL vial contains 10 units of oxytocin.
+
+229
+00:31:03,406 --> 00:31:14,843
+A typical infusate consists of 10 or 20 units, which is 10,000 or 20,000 mU, respectively, mixed into 1000 mL of crystalloid or dextrose solution.
+
+230
+00:31:14,843 --> 00:31:24,006
+This mixture results in an oxytocin concentration of 10 or 20 mU/mL, respectively, and is administered by infusion pump.
+
+231
+00:31:24,006 --> 00:31:31,731
+To avoid bolus administration, the infusion should be inserted into the main intravenous line close to the venipuncture site.
+
+232
+00:31:31,731 --> 00:31:42,856
+The goal of induction or augmentation is to effect uterine activity sufficient to produce cervical change and fetal descent, while avoiding development of a nonreassuring fetal status.
+
+233
+00:31:42,856 --> 00:31:52,431
+According to the American College of Obstetricians and Gynecologists (2019a), the latter is a category III fetal heart rate tracing.
+
+234
+00:31:52,431 --> 00:32:06,393
+In general, oxytocin is discontinued if the number of contractions persists with a frequency of more than five in a 10-minute period or more than seven in a 15-minute period or with a persistent nonreassuring fetal heart rate pattern.
+
+235
+00:32:06,393 --> 00:32:12,093
+Oxytocin discontinuation nearly always rapidly lowers contraction frequency.
+
+236
+00:32:12,093 --> 00:32:20,431
+When oxytocin is stopped, its concentration in plasma rapidly falls because the half-life is approximately 3 to 5 minutes.
+
+237
+00:32:20,431 --> 00:32:29,268
+The uterus contracts within 3 to 5 minutes of beginning an oxytocin infusion, and a plasma steady state is reached in 40 minutes .
+
+238
+00:32:29,268 --> 00:32:39,206
+Response varies greatly and depends on preexisting uterine activity, cervical status, pregnancy duration, and individual biological differences.
+
+239
+00:32:39,206 --> 00:32:50,106
+CaldeyroBarcia and Poseiro (1960) reported that the uterine response to oxytocin increases from 20 to 30 weeks’ gestation and rises rapidly at term.
+
+240
+00:32:50,106 --> 00:32:54,956
+Oxytocin is generally very successful when used to stimulate labor.
+
+241
+00:32:54,956 --> 00:33:07,781
+In one large Cochrane metaanalysis, oxytocin was compared with expectant management, and fewer women—8 versus 54 percent—failed to deliver vaginally within 24 hours with oxytocin .
+
+242
+00:33:07,781 --> 00:33:12,156
+This analysis studied different oxytocin dosing regimens.
+
+243
+00:33:12,156 --> 00:33:19,993
+Oxytocin Regimens Several evidence-based regimens for labor stimulation are now recommended by the American College of
+
+244
+00:33:20,164 --> 00:33:24,401
+Obstetricians and Gynecologists (2019a).
+
+245
+00:33:24,351 --> 00:33:28,339
+These and others are shown in Table 26-5.
+
+246
+00:33:28,339 --> 00:33:34,089
+Initially, only variations of low-dose protocols were used in the United States.
+
+247
+00:33:34,089 --> 00:33:48,676
+Subsequently, O’Driscoll and colleagues (1984) described their Dublin protocol for the active management of labor that called for oxytocin at a starting dosage of 6 mU/min and advanced in 6-mU/min increments.
+
+248
+00:33:48,676 --> 00:34:04,076
+Subsequent comparative trials during the 1990s studied high-dose (4 to 6 mU/min) versus conventional low-dose (0.5 to 1.5 mU/min) regimens, both for labor induction and for augmentation.
+
+249
+00:34:04,076 --> 00:34:06,689
+Table 26-5.
+
+250
+00:34:06,689 --> 00:34:24,026
+Various Low- and High-Dose Oxytocin Regimens Used for Labor Induction From Parkland Hospital, Satin and associates (1992) evaluated an oxytocin regimen using an initial and incremental dosage of 6 mU/min compared with one using 1 mU/min.
+
+251
+00:34:24,026 --> 00:34:36,589
+Among 1112 women undergoing induction, the 6-mU/min regimen resulted in a shorter mean admission-todelivery time, fewer failed inductions, and no cases of neonatal sepsis.
+
+252
+00:34:36,589 --> 00:34:54,951
+Among 1676 women who had labor augmentation, those who received the 6mU/min regimen had a shorter duration-to-delivery time, fewer forceps deliveries, fewer cesarean deliveries for dystocia, and lower rates of intrapartum chorioamnionitis or neonatal sepsis.
+
+253
+00:34:54,951 --> 00:35:04,789
+With this protocol, uterine tachysystole was managed by oxytocin discontinuation followed by resumption when indicated and at half the stopping dosage.
+
+254
+00:35:04,789 --> 00:35:15,139
+Thereafter, the dosage was increased at 3 mU/min when appropriate, instead of the usual 6mU/min increase used for women without tachysystole.
+
+255
+00:35:15,139 --> 00:35:18,564
+No adverse neonatal effects were observed.
+
+256
+00:35:18,564 --> 00:35:26,176
+More recently, Son and colleagues (2021) confirmed these findings in a randomized clinical trial.
+
+257
+00:35:26,176 --> 00:35:36,414
+In 1990 at Parkland Hospital, routine use of the 6-mU/min oxytocin beginning and incremental dosage was incorporated and continues through today.
+
+258
+00:35:36,414 --> 00:35:44,064
+In other labor units, a 2-mU/min beginning and incremental oxytocin regimen is preferred and administered.
+
+259
+00:35:44,064 --> 00:35:49,751
+With either regimen, dosages are employed for either labor induction or augmentation.
+
+260
+00:35:49,751 --> 00:35:56,801
+Interval Between Incremental Dosing Intervals to increase oxytocin doses vary from 15 to 40 minutes .
+
+261
+00:35:56,801 --> 00:36:07,351
+Satin and associates (1994) addressed this aspect with a 6-mU/min regimen providing increases at either 20- or 40-minute intervals.
+
+262
+00:36:07,351 --> 00:36:20,114
+Women assigned to the 20-minute interval regimen for labor augmentation had a significantly reduced cesarean delivery rate for dystocia compared with that for the 40-minute interval regimen—8 versus 12 percent.
+
+263
+00:36:20,114 --> 00:36:27,639
+As perhaps expected, uterine tachysystole was significantly more frequent with the 20minute escalation regimen.
+
+264
+00:36:27,639 --> 00:36:32,664
+Other investigators reported even more frequent incremental increases.
+
+265
+00:36:32,664 --> 00:36:44,001
+Frigoletto (1995) and Xenakis (1995) and their coworkers gave oxytocin at 4 mU/min with increases as needed every 15 minutes.
+
+266
+00:36:44,001 --> 00:36:52,451
+Merrill and Zlatnik (1999) started with 4.5-mU/min doses and increased this every 30 minutes.
+
+267
+00:36:52,451 --> 00:37:00,089
+López-Zeno and associates (1992) used 6-mU/min doses and 15-minute intervals.
+
+268
+00:37:00,089 --> 00:37:08,389
+Maximal Oxytocin Dosage The maximal effective dose of oxytocin to achieve adequate contractions in all women is different.
+
+269
+00:37:08,389 --> 00:37:19,826
+In one study of 1151 consecutive nulliparas, the likelihood of progression to vaginal delivery decreased at and beyond an oxytocin dosage of 36 mU/min .
+
+270
+00:37:19,826 --> 00:37:26,314
+Still, at a dosage of 72 mU/min, half of the nulliparas were delivered vaginally.
+
+271
+00:37:26,314 --> 00:37:41,164
+Thus, if contractions are not adequate—less than 200 Montevideo units—and if the fetal status is reassuring and labor has arrested, an oxytocin infusion dose greater than 48 mU/min has no apparent risks .
+
+272
+00:37:41,164 --> 00:37:44,126
+# Risks versus Benefits.
+
+273
+00:37:44,126 --> 00:37:51,814
+Unless the uterus is scarred, uterine rupture associated with oxytocin infusion is rare, even in parous women.
+
+274
+00:37:51,814 --> 00:38:02,926
+Flannelly and associates (1993) reported no cases of uterine rupture, with or without oxytocin, in 27,829 nulliparas.
+
+275
+00:38:02,926 --> 00:38:10,364
+Eight instances of overt uterine rupture during labor were noted in 48,718 parous women.
+
+276
+00:38:10,364 --> 00:38:14,264
+Only one of these was associated with oxytocin use.
+
+277
+00:38:14,264 --> 00:38:25,839
+A population- based retrospective review from Denmark reported a rupture rate of 3.3 per 100,000 women without prior cesarean, with the highest risk among multiparas .
+
+278
+00:38:25,839 --> 00:38:27,776
+Our experience
+
+279
+00:38:27,940 --> 00:38:34,652
+from Parkland Hospital is that oxytocin induction and augmentation are associated with uterine rupture.
+
+280
+00:38:34,602 --> 00:38:46,465
+During an 8-year period in which there were almost 95,000 births, 15 women suffered a primary uterine rupture, and 14 of these cases were associated with oxytocin use.
+
+281
+00:38:46,465 --> 00:38:52,715
+In half of these women, prostaglandins were also given before augmentation with oxytocin.
+
+282
+00:38:52,715 --> 00:39:01,502
+Oxytocin has amino-acid homology similar to arginine vasopressin (AVP) and has significant antidiuretic action.
+
+283
+00:39:01,502 --> 00:39:08,115
+When infused at doses of 20 mU/min or more, renal free water clearance drops markedly.
+
+284
+00:39:08,115 --> 00:39:17,890
+If aqueous fluids are infused in appreciable amounts along with oxytocin, water intoxication can lead to convulsions, coma, and even death.
+
+285
+00:39:17,890 --> 00:39:29,365
+In general, if oxytocin is to be administered in high doses for a considerable period of time, its concentration should be increased rather than raising the flow rate of a more dilute solution.
+
+286
+00:39:29,365 --> 00:39:36,252
+Consideration also should be given to use of crystalloids—either normal saline or lactated Ringer solution.
+
+287
+00:39:36,252 --> 00:39:39,440
+# Uterine Contraction Pressures.
+
+288
+00:39:39,440 --> 00:39:46,677
+Contraction forces in spontaneously laboring women range from 90 to 390 Montevideo units .
+
+289
+00:39:46,677 --> 00:40:03,090
+Early researchers found that the mean or median spontaneous uterine contraction pattern between 140 and 150 Montevideo units resulted in progression to vaginal delivery (CaldeyroBarcia, 1950; Seitchik, 1984).
+
+290
+00:40:03,090 --> 00:40:09,540
+Labor arrest in first-stage labor is described in Chapter 23 (p. 434).
+
+291
+00:40:09,540 --> 00:40:20,352
+In the management of active-phase arrest, and with no contraindication to intravenous oxytocin, decisions must be made with knowledge of the safe upper range of uterine activity.
+
+292
+00:40:20,352 --> 00:40:29,027
+Hauth and colleagues (1986) described an effective and safe protocol for oxytocin augmentation for active-phase arrest.
+
+293
+00:40:29,027 --> 00:40:36,777
+With it, more than 90 percent of women achieved an average of at least 200 to 225 Montevideo units.
+
+294
+00:40:36,777 --> 00:40:45,790
+They later reported that nearly all women in whom active-phase arrest persisted despite oxytocin generated more than 200 Montevideo units .
+
+295
+00:40:45,790 --> 00:40:54,902
+Importantly, despite no labor progression, no adverse maternal or perinatal effects were noted in those ultimately requiring cesarean delivery.
+
+296
+00:40:54,902 --> 00:41:05,102
+Data regarding the safety and efficacy of contraction patterns in women with a prior cesarean delivery, with twins, or with an overdistended uterus are lacking.
+
+297
+00:41:05,102 --> 00:41:09,052
+# Amniotomy for Induction and Augmentation.
+
+298
+00:41:09,052 --> 00:41:14,352
+Elective amniotomy with the intention of accelerating labor is often performed.
+
+299
+00:41:14,352 --> 00:41:23,752
+For labor induction, artificial rupture of the membranes— sometimes called surgical induction—can be used and always implies a commitment to delivery.
+
+300
+00:41:23,752 --> 00:41:32,315
+The main disadvantage of amniotomy used alone for labor induction is the unpredictable and occasionally long interval until labor onset.
+
+301
+00:41:32,315 --> 00:41:43,777
+That said, in a randomized trial, Bakos and Bäckström (1987) found that amniotomy alone or combined with oxytocin was superior to oxytocin alone.
+
+302
+00:41:43,777 --> 00:41:57,140
+Mercer and colleagues (1995) randomly assigned 209 women undergoing oxytocin induction to either early amniotomy at 1 to 2 cm or late amniotomy at 5 cm.
+
+303
+00:41:57,140 --> 00:42:02,402
+Early amniotomy was associated with a 4-hour reduction in labor duration.
+
+304
+00:42:02,402 --> 00:42:08,277
+With early amniotomy, however, the incidence of chorioamnionitis was elevated.
+
+305
+00:42:08,277 --> 00:42:20,090
+In a metaanalysis, De Vivo and associates (2020) reported that early amniotomy did not increase the risk of cesarean delivery yet reduced the interval from induction to delivery.
+
+306
+00:42:20,090 --> 00:42:26,127
+For labor augmentation, amniotomy is commonly performed when labor is abnormally slow.
+
+307
+00:42:26,127 --> 00:42:36,352
+Shown in Table 26-6, amniotomy at approximately 5-cm dilation accelerated spontaneous labor by 1 to 1½ hours.
+
+308
+00:42:36,352 --> 00:42:43,540
+Importantly, neither the need for oxytocin stimulation nor the overall cesarean delivery rate was higher.
+
+309
+00:42:43,540 --> 00:42:53,665
+Although the incidences of mild and moderate cord compression patterns were increased following amniotomy, cesarean delivery rates for fetal distress were not greater.
+
+310
+00:42:53,665 --> 00:42:57,952
+Most importantly, there were no adverse perinatal effects.
+
+311
+00:42:57,952 --> 00:43:00,577
+Table 26-6.
+
+312
+00:43:00,577 --> 00:43:17,402
+Randomized Clinical Trials of Elective Amniotomy in Early Spontaneous Labor at Term Rouse and associates (1994) also found that amniotomy with oxytocin augmentation for arrested active-phase labor shortened the time to delivery by 44 minutes
+
+313
+00:43:17,572 --> 00:43:20,572
+compared with that of oxytocin alone.
+
+314
+00:43:20,522 --> 00:43:29,147
+Although amniotomy did not alter the delivery route, one drawback was that it significantly increased the incidence of chorioamnionitis.
+
+315
+00:43:29,147 --> 00:43:35,072
+Regardless of the indication, amniotomy is associated with a risk of cord prolapse.
+
+316
+00:43:35,072 --> 00:43:41,059
+To minimize this risk, disengagement of the fetal head during amniotomy is avoided.
+
+317
+00:43:41,059 --> 00:43:46,047
+Toward this goal, fundal or suprapubic pressure or both may be helpful.
+
+318
+00:43:46,047 --> 00:43:50,497
+Some clinicians prefer to rupture membranes during a contraction.
+
+319
+00:43:50,497 --> 00:44:06,572
+If the vertex is not well applied to the lower uterine segment, a gradual egress of amnionic fluid can sometimes be accomplished by several membrane punctures with a 26-gauge needle held with a ring forceps and with direct visualization using a vaginal speculum.
+
+320
+00:44:06,572 --> 00:44:14,472
+Alternatively, the trumpet used for pudendal blockade can sheath the needle and manually guide it through the cervix for amniotomy.
+
+321
+00:44:14,472 --> 00:44:20,009
+In many of these cases, however, membranes tear and fluid is lost rapidly.
+
+322
+00:44:20,009 --> 00:44:28,984
+Because of the risk of cord prolapse, or rarely placental abruption, the fetal heart rate is assessed before and immediately after amniotomy.
+
+323
+00:44:28,984 --> 00:44:32,547
+# Membrane Stripping for Labor Induction.
+
+324
+00:44:32,547 --> 00:44:37,397
+Labor induction by membrane “stripping” or “sweeping” is a frequent practice.
+
+325
+00:44:37,397 --> 00:44:49,022
+Several studies have suggested that membrane stripping is safe and lowers the incidence of postterm pregnancy without consistently raising the incidence of ruptured membranes, infection, or bleeding.
+
+326
+00:44:49,022 --> 00:44:55,447
+Randomized trials are limited and a metaanalysis of two of these reported sweeping to be ineffective .
+
+327
+00:44:55,447 --> 00:44:59,072
+Downsides are discomfort and associated bleeding .
+
