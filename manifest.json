@@ -1,0 +1,17 @@
+{
+  "2": {
+    "audio": true,
+    "words": 9882,
+    "audio_size_mb": 25.7
+  },
+  "3": {
+    "audio": true,
+    "words": 24,
+    "audio_size_mb": 0.1
+  },
+  "4": {
+    "audio": true,
+    "words": 16524,
+    "audio_size_mb": 46.05
+  }
+}
