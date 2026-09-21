@@ -1,10 +1,16 @@
 # Williams Obstetrics, 26th Edition
 
-Chapter-by-chapter Markdown text and neural audiobooks of *Williams Obstetrics* (26th Edition).
+Comprehensive study repository for *Williams Obstetrics* (26th Edition), featuring chapter-by-chapter Markdown texts, neural audiobooks, and synchronized read-along videos.
 
-## 🎧 Audiobooks
+## 🎥 Synchronized Read-Along Videos (1080p MP4)
 
-Playable directly on GitHub Web & GitHub Mobile with built-in audio controls:
+Playable directly on GitHub Web & Mobile with synchronized on-screen subtitle rendering and neural narration:
+
+- 🎬 **[Chapter 01 Overview of Obstetrics](videos/Chapter_01_Overview_of_Obstetrics.mp4)** (36.3 MB)
+
+## 🎧 Audiobooks (MP3)
+
+Playable directly on GitHub Web & Mobile with built-in audio controls:
 
 - 🔊 **[Chapter 01 Overview of Obstetrics](audiobooks/Chapter_01_Overview_of_Obstetrics.mp3)** (10.9 MB)
 
