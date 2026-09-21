@@ -1,8 +1,14 @@
 # Williams Obstetrics, 26th Edition
 
-Chapter-by-chapter Markdown editions of *Williams Obstetrics* (26th Edition), formatted with structured headings, key definitions, and figure/table blockquotes.
+Chapter-by-chapter Markdown text and neural audiobooks of *Williams Obstetrics* (26th Edition).
 
-## Table of Contents
+## 🎧 Audiobooks
+
+Playable directly on GitHub Web & GitHub Mobile with built-in audio controls:
+
+- 🔊 **[Chapter 01 Overview of Obstetrics](audiobooks/Chapter_01_Overview_of_Obstetrics.mp3)** (17.1 MB)
+
+## 📖 Table of Contents (Chapters)
 
 - [Appendix](chapters/Appendix.md)
 - [Chapter 00 Front Matter](chapters/Chapter_00_Front_Matter.md)
