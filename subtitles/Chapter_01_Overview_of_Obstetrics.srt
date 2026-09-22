@@ -1,0 +1,1060 @@
+1
+00:00:00,100 --> 00:00:02,362
+Williams Obstetrics.
+
+2
+00:00:02,312 --> 00:00:05,550
+Chapter 1: Overview of Obstetrics.
+
+3
+00:00:05,550 --> 00:00:17,512
+Vital Statistics Pregnancy Rates In The United States Obstetrical Care Measures Timely Topics In Obstetrics References The science and clinical practice of obstetrics focuses on human reproduction.
+
+4
+00:00:17,512 --> 00:00:23,925
+The specialty promotes the health and well-being of the pregnant woman and her fetus through quality perinatal care.
+
+5
+00:00:23,925 --> 00:00:33,937
+Such care entails recognition and treatment of complications, supervision of labor and delivery, initial care of the newborn, and management of the puerperium.
+
+6
+00:00:33,937 --> 00:00:38,662
+Postpartum care promotes health and provides family planning options.
+
+7
+00:00:38,662 --> 00:00:43,337
+Evidence-based medicine dominates the modern practice of obstetrics.
+
+8
+00:00:43,337 --> 00:00:51,825
+As described by Williams in this textbook’s first edition, we too strive to present the scientific evidence for current obstetrical care.
+
+9
+00:00:51,825 --> 00:00:56,462
+Still, high-quality data do not support most recommendations .
+
+10
+00:00:56,462 --> 00:01:02,687
+Thus, much of our practice stems from expert-based opinions and historical experiences .
+
+11
+00:01:02,687 --> 00:01:21,762
+To help bridge knowledge gaps, we also rely on authoritative sources such as the American College of Obstetricians and Gynecologists and the Society for Maternal-Fetal Medicine, as well as agencies such as the Centers for Disease Control and Prevention (CDC) and National Institutes of Health (NIH).
+
+12
+00:01:21,762 --> 00:01:23,912
+Vital Statistics.
+
+13
+00:01:23,912 --> 00:01:32,650
+The importance of obstetrics is demonstrated by the use of maternal and neonatal outcomes as an index of health and life quality among nations.
+
+14
+00:01:32,650 --> 00:01:42,237
+Intuitively, indices showing poor obstetrical and perinatal outcomes could be assumed to reflect medical care deficiencies for the entire population.
+
+15
+00:01:42,237 --> 00:01:50,075
+The National Vital Statistics System of the United States collects statistics on births and deaths, including fetal deaths.
+
+16
+00:01:50,075 --> 00:02:05,900
+Legal authority for collection resides individually with the 50 states; two regions—the District of Columbia and New York City; and five territories—American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands.
+
+17
+00:02:05,900 --> 00:02:15,037
+The standard birth certificate includes information on medical and lifestyle risks, labor and delivery factors, and newborn characteristics.
+
+18
+00:02:15,037 --> 00:02:20,100
+Importantly, the current death certificate contains a pregnancy checkbox .
+
+19
+00:02:20,100 --> 00:02:22,450
+# Definitions.
+
+20
+00:02:22,450 --> 00:02:34,250
+Standard definitions are encouraged by the World Health Organization as well as the American Academy of Pediatrics and the American College of Obstetricians and Gynecologists (2019a).
+
+21
+00:02:34,250 --> 00:02:40,012
+Uniformity allows data comparison between states or regions and between countries.
+
+22
+00:02:40,012 --> 00:02:44,087
+Still, not all definitions are uniformly applied.
+
+23
+00:02:44,087 --> 00:02:52,662
+For example, uniformity is incomplete among states regarding birthweight and gestational age criteria for reporting fetal deaths .
+
+24
+00:02:52,662 --> 00:02:55,925
+Not all states follow this recommendation.
+
+25
+00:02:55,925 --> 00:03:15,075
+Specifically, 28 states stipulate that losses beginning at 20 weeks’ gestation should be recorded as fetal deaths; eight states report all products of conception as fetal deaths; and still others use a minimum birthweight of 350 g, 400 g, or 500 g to define fetal death.
+
+26
+00:03:15,075 --> 00:03:24,225
+To further the confusion, the National Vital Statistics Reports tabulates fetal deaths from pregnancies that are 20 weeks’ gestation or older .
+
+27
+00:03:24,225 --> 00:03:36,137
+This is problematic because the 50th percentile for fetal weight at 20 weeks approximates 325 to 350 g— considerably less than the 500-g definition.
+
+28
+00:03:36,137 --> 00:03:43,737
+In fact, a birthweight of 500 g corresponds closely with the 50th percentile for 22 weeks’ gestation.
+
+29
+00:03:43,737 --> 00:03:51,350
+Definitions recommended by the National Center for Health Statistics and the CDC are as follows: Perinatal period.
+
+30
+00:03:51,350 --> 00:03:58,762
+The interval between the birth of a neonate born after 20 weeks’ gestation and the 28 completed days after that birth.
+
+31
+00:03:58,762 --> 00:04:09,325
+When perinatal rates are based on birthweight, rather than gestational age, recommendations define the perinatal period as commencing at the birth of a 500-g neonate.
+
+32
+00:04:09,325 --> 00:04:10,712
+Birth.
+
+33
+00:04:10,712 --> 00:04:16,662
+The complete expulsion or extraction from the mother of a fetus after 20 weeks’ gestation.
+
+34
+00:04:16,662 --> 00:04:29,512
+As described above, in the absence of accurate dating criteria, fetuses weighing <500 g are usually not considered births but rather are termed abortuses for purposes of vital statistics.
+
+35
+00:04:29,512 --> 00:04:31,112
+Birthweight.
+
+36
+00:04:31,112 --> 00:04:34,487
+Neonatal weight determined immediately after
+
+37
+00:04:34,636 --> 00:04:37,948
+delivery or as soon thereafter as feasible.
+
+38
+00:04:37,898 --> 00:04:40,948
+It should be expressed to the nearest gram.
+
+39
+00:04:40,948 --> 00:04:42,598
+Birth rate.
+
+40
+00:04:42,598 --> 00:04:46,548
+The number of live births per 1000 population.
+
+41
+00:04:46,548 --> 00:04:48,498
+Fertility rate.
+
+42
+00:04:48,498 --> 00:04:54,336
+The number of live births per 1000 females aged 15 through 44 years.
+
+43
+00:04:54,336 --> 00:04:56,086
+Live birth.
+
+44
+00:04:56,086 --> 00:05:08,186
+The term used to record a birth whenever the newborn at or sometime after birth breathes spontaneously or shows any other sign of life such as a heartbeat or definite spontaneous movement of voluntary muscles.
+
+45
+00:05:08,186 --> 00:05:17,486
+Heartbeats are distinguished from transient cardiac contractions, and respirations are differentiated from fleeting respiratory efforts or gasps.
+
+46
+00:05:17,486 --> 00:05:19,886
+Stillbirth or fetal death.
+
+47
+00:05:19,886 --> 00:05:22,861
+The absence of signs of life at birth.
+
+48
+00:05:22,861 --> 00:05:25,136
+Early neonatal death.
+
+49
+00:05:25,136 --> 00:05:29,536
+Death of a liveborn neonate during the first 7 days after birth.
+
+50
+00:05:29,536 --> 00:05:31,786
+Late neonatal death.
+
+51
+00:05:31,786 --> 00:05:35,636
+Death after 7 days but before 29 days.
+
+52
+00:05:35,636 --> 00:05:38,586
+Stillbirth rate or fetal death rate.
+
+53
+00:05:38,586 --> 00:05:45,436
+The number of stillborn neonates per 1000 neonates born, including live births and stillbirths.
+
+54
+00:05:45,436 --> 00:05:47,961
+Neonatal mortality rate.
+
+55
+00:05:47,961 --> 00:05:52,111
+The number of neonatal deaths per 1000 live births.
+
+56
+00:05:52,111 --> 00:05:54,623
+Perinatal mortality rate.
+
+57
+00:05:54,623 --> 00:05:59,798
+The number of stillbirths plus neonatal deaths per 1000 total births.
+
+58
+00:05:59,798 --> 00:06:01,586
+Infant death.
+
+59
+00:06:01,586 --> 00:06:05,986
+All deaths of liveborn infants from birth through 12 months of age.
+
+60
+00:06:05,986 --> 00:06:08,286
+Infant mortality rate.
+
+61
+00:06:08,286 --> 00:06:12,211
+The number of infant deaths per 1000 live births.
+
+62
+00:06:12,211 --> 00:06:14,098
+Low birthweight.
+
+63
+00:06:14,098 --> 00:06:19,611
+A newborn whose weight is <2500 g. Very low birthweight.
+
+64
+00:06:19,611 --> 00:06:25,373
+A newborn whose weight is <1500 g. Extremely low birthweight.
+
+65
+00:06:25,373 --> 00:06:29,873
+A newborn whose weight is <1000 g. Term neonate.
+
+66
+00:06:29,873 --> 00:06:40,498
+A neonate born any time after 37 completed weeks’ gestation and up until 42 completed weeks’ gestation (260 to 294 days).
+
+67
+00:06:40,498 --> 00:06:51,311
+The American College of Obstetricians and Gynecologists and Society for Maternal-Fetal Medicine encourage specific gestational age designations (2019a).
+
+68
+00:06:51,311 --> 00:06:58,348
+Early term refers to neonates born at 37 completed weeks up to 386/7 weeks.
+
+69
+00:06:58,348 --> 00:07:04,661
+Full term denotes those born at 39 completed weeks up to 406/7 weeks.
+
+70
+00:07:04,661 --> 00:07:11,673
+Last, late term describes neonates born at 41 completed weeks up to 416/7 weeks.
+
+71
+00:07:11,673 --> 00:07:13,686
+Preterm neonate.
+
+72
+00:07:13,686 --> 00:07:19,198
+A neonate born before 37 completed weeks (the 259th day).
+
+73
+00:07:19,198 --> 00:07:28,973
+A neonate born before 34 completed weeks is early preterm, whereas a neonate born between 34 and 36 completed weeks is late preterm.
+
+74
+00:07:28,973 --> 00:07:31,073
+Postterm neonate.
+
+75
+00:07:31,073 --> 00:07:37,986
+A neonate born any time after completion of the 42nd week, beginning with day 295.
+
+76
+00:07:37,986 --> 00:07:39,623
+Abortus.
+
+77
+00:07:39,623 --> 00:07:54,148
+A fetus or embryo removed or expelled from the uterus in the first half of gestation—20 weeks or less, or in the absence of accurate dating criteria, born weighing <500 g. Induced termination of pregnancy.
+
+78
+00:07:54,148 --> 00:08:03,136
+The purposeful interruption of an intrauterine pregnancy that has the intention other than to produce a liveborn neonate and that does not result in a live birth.
+
+79
+00:08:03,136 --> 00:08:08,698
+This definition excludes retention of products of conception following fetal death.
+
+80
+00:08:08,698 --> 00:08:10,961
+Direct maternal death.
+
+81
+00:08:10,961 --> 00:08:24,036
+The death of the mother that results from obstetrical complications of pregnancy, labor, or the puerperium and from interventions, omissions, incorrect treatment, or a chain of events resulting from any of these factors.
+
+82
+00:08:24,036 --> 00:08:28,873
+An example is maternal death from exsanguination after uterine rupture.
+
+83
+00:08:28,873 --> 00:08:31,236
+Indirect maternal death.
+
+84
+00:08:31,236 --> 00:08:35,811
+A maternal death that is not directly due to an obstetrical cause.
+
+85
+00:08:35,811 --> 00:08:47,536
+Death results from previously existing disease or a disease developing during pregnancy, labor, or the puerperium that was aggravated by maternal physiological adaptation to pregnancy.
+
+86
+00:08:47,536 --> 00:08:52,686
+An example is maternal death from complications of mitral valve stenosis.
+
+87
+00:08:52,686 --> 00:08:54,786
+Late maternal death.
+
+88
+00:08:54,786 --> 00:09:03,011
+Death of a woman from direct or indirect obstetrical causes more than 42 days but less than 1 year after the pregnancy’s end.
+
+89
+00:09:03,011 --> 00:09:05,098
+Nonmaternal death.
+
+90
+00:09:05,098 --> 00:09:11,173
+Death of the mother that results from accidental or incidental causes not related to pregnancy.
+
+91
+00:09:11,173 --> 00:09:16,311
+An example is death from an automobile accident or concurrent malignancy.
+
+92
+00:09:16,311 --> 00:09:18,923
+Pregnancy-associated death.
+
+93
+00:09:18,923 --> 00:09:28,761
+The death of a woman, from any cause, while pregnant or within 1 calendar year of termination of pregnancy, regardless of the duration and the site of pregnancy.
+
+94
+00:09:28,761 --> 00:09:31,136
+Pregnancy-related death.
+
+95
+00:09:31,136 --> 00:09:40,236
+A pregnancy-associated death that results from: (1) complications of pregnancy itself, (2) the chain of events initiated by
+
+96
+00:09:40,396 --> 00:09:51,483
+pregnancy that led to death, or (3) aggravation of an unrelated condition by the physiological or pharmacological effects of pregnancy and that subsequently caused death.
+
+97
+00:09:51,433 --> 00:09:54,033
+Maternal mortality ratio.
+
+98
+00:09:54,033 --> 00:10:00,433
+The number of maternal deaths that result from the reproductive process per 100,000 live births.
+
+99
+00:10:00,433 --> 00:10:07,321
+Used more commonly, but less accurately, are the terms maternal mortality rate or maternal death rate.
+
+100
+00:10:07,321 --> 00:10:22,546
+The term ratio is more accurate because it includes in the numerator the number of deaths regardless of pregnancy outcome—for example, live births, stillbirths, and ectopic pregnancies—whereas the denominator includes the number of live births.
+
+101
+00:10:22,546 --> 00:10:25,558
+Pregnancy Rates In The United States.
+
+102
+00:10:25,558 --> 00:10:36,196
+According to the CDC, the fertility rate of women aged 15 to 44 years in the United States in 2019 was 58 live births per 1000 women.
+
+103
+00:10:36,196 --> 00:10:44,858
+This rate began slowly trending downward in 1990 and has now dropped below that for replacement births to sustain the population level.
+
+104
+00:10:44,858 --> 00:10:47,958
+This indicates a population decline.
+
+105
+00:10:47,958 --> 00:10:57,396
+The birth rate decreased for all major ethnic and racial groups, for adolescents and unmarried women, and for those aged 20 to 24 years.
+
+106
+00:10:57,396 --> 00:11:01,721
+For women older than 30 years, the birth rate rose slightly.
+
+107
+00:11:01,721 --> 00:11:13,258
+Almost half of newborns in 2019 in the United States were minorities: Hispanic—25 percent; African-American—15 percent; and Asian—4 percent .
+
+108
+00:11:13,258 --> 00:11:19,771
+The total number of pregnancies and their outcomes in 2019 are shown in Table 1-1.
+
+109
+00:11:19,771 --> 00:11:28,796
+According to the Guttmacher Institute (2019b), 45 percent of births in the United States are unintended at the time of conception.
+
+110
+00:11:28,796 --> 00:11:34,621
+But, the overall proportion of unintended births has declined since 2008.
+
+111
+00:11:34,621 --> 00:11:42,121
+Unmarried women, black women, and women with less education or income are more likely to have an unplanned pregnancy.
+
+112
+00:11:42,121 --> 00:11:44,396
+TABLE 1-1.
+
+113
+00:11:44,396 --> 00:11:50,758
+Total Pregnancies and Outcomes in the United States in 2019 Obstetrical Care Measures.
+
+114
+00:11:50,758 --> 00:11:57,708
+Several indices are used to assess obstetrical and perinatal outcomes as measures of medical care quality.
+
+115
+00:11:57,708 --> 00:12:05,671
+As noted, the perinatal mortality rate includes the number of stillbirths and neonatal deaths per 1000 total births.
+
+116
+00:12:05,671 --> 00:12:10,783
+In 2016, this rate was 6 deaths per 1000 births .
+
+117
+00:12:10,783 --> 00:12:14,308
+This rate has been unchanged for several years .
+
+118
+00:12:14,308 --> 00:12:24,733
+Rates of fetal death at 28 weeks’ gestational age or more have declined since 1990, whereas rates for those between 20 and 27 weeks are static.
+
+119
+00:12:24,733 --> 00:12:26,971
+Figure 1-1.
+
+120
+00:12:26,971 --> 00:12:35,146
+Perinatal, late-fetal, and early-neonatal mortality rates per 1000 births in the United States in 2016.
+
+121
+00:12:35,146 --> 00:12:44,371
+Of infant deaths, the rate approximated 6 deaths per 1000 live births in 2018 compared with nearly 7 in 2001 .
+
+122
+00:12:44,371 --> 00:12:55,446
+The four leading causes—congenital malformations, preterm birth, low birthweight, and maternal pregnancy complications— accounted for almost half of all infant deaths.
+
+123
+00:12:55,446 --> 00:13:02,396
+Neonates born at the lowest gestational ages and birthweights add substantively to these mortality rates.
+
+124
+00:13:02,396 --> 00:13:10,258
+For example, 17 percent of all infant deaths in 2018 were in those born preterm and with a low birthweight .
+
+125
+00:13:10,258 --> 00:13:18,596
+Of particular interest are neonates with birthweights <500 g, for whom neonatal intensive care can now be offered .
+
+126
+00:13:18,596 --> 00:13:24,908
+Of maternal deaths, rates dropped precipitously in the United States during the 20th century.
+
+127
+00:13:24,908 --> 00:13:30,846
+Pregnancy-related deaths are so uncommon as to be measured per 100,000 births.
+
+128
+00:13:30,846 --> 00:13:39,308
+The CDC maintains data on pregnancy-related maternal deaths in its Pregnancy Mortality Surveillance System (PMSS).
+
+129
+00:13:39,308 --> 00:13:47,471
+Its latest report described 3410 pregnancy-related deaths between 2011 and 2015 .
+
+130
+00:13:47,471 --> 00:13:54,796
+Approximately 5 percent were early-pregnancy maternal deaths due to ectopic gestation or abortive outcomes.
+
+131
+00:13:54,796 --> 00:14:01,958
+The deadly obstetrical triad of hemorrhage, preeclampsia, and infection accounted for a third of all deaths .
+
+132
+00:14:01,958 --> 00:14:09,258
+Thromboembolism, cardiomyopathy, and other cardiovascular disease together accounted for another third.
+
+133
+00:14:09,258 --> 00:14:18,908
+Other significant contributors were amnionic fluid embolism (5.5 percent) and cerebrovascular accidents (8.2 percent).
+
+134
+00:14:18,908 --> 00:14:24,583
+Anesthesia-related deaths were at an all time low—only 0.4 percent.
+
+135
+00:14:24,583 --> 00:14:31,408
+Similar causes were reported for selected cohorts by MacDorman and associates (2017).
+
+136
+00:14:31,408 --> 00:14:33,671
+Figure 1-2.
+
+137
+00:14:33,671 --> 00:14:38,446
+Some causes of and their contributions to pregnancy-related maternal
+
+138
+00:14:38,596 --> 00:14:43,558
+deaths in the United States from 2014–2017.
+
+139
+00:14:43,508 --> 00:14:51,521
+The pregnancy-related maternal mortality ratio was 17 deaths per 100,000 live births in 2017 .
+
+140
+00:14:51,521 --> 00:14:59,971
+The cause of this rise during the last 30 years may simply be that more women are dying, however, other factors explain this increase .
+
+141
+00:14:59,971 --> 00:15:07,421
+First, the number of pregnant women with severe chronic health conditions, which place women at higher risk, is greater .
+
+142
+00:15:07,421 --> 00:15:14,383
+Second, the increased proportion of births to women older than 40 years contributes to higher mortality rates .
+
+143
+00:15:14,383 --> 00:15:25,321
+Another is an artificial elevation caused by the International Statistical Classification of Diseases, 10th Revision (ICD-10), implemented in 1999.
+
+144
+00:15:25,321 --> 00:15:34,296
+Additionally, improved reporting of maternal mortality contributes to the rise (MacDorman, 2016, 2017).
+
+145
+00:15:34,296 --> 00:15:42,908
+Last, implementation of the pregnancy checkbox on the death certificate was associated with an increased identification of maternal deaths .
+
+146
+00:15:42,908 --> 00:15:52,558
+Thus, after accounting for the checkbox, predicted maternal mortality rates did not change significantly from 1999 through 2017.
+
+147
+00:15:52,558 --> 00:15:54,896
+Figure 1-3.
+
+148
+00:15:54,896 --> 00:16:02,233
+Trends in pregnancy-related maternal mortality in the United States from 1999–2017.
+
+149
+00:16:02,233 --> 00:16:11,546
+Another consideration is the obvious disparity of higher mortality rates among black, Hispanic, and white women as shown in Figure 1-4.
+
+150
+00:16:11,546 --> 00:16:16,783
+Racial disparities stem from health-care availability, access, or use .
+
+151
+00:16:16,783 --> 00:16:22,958
+The maternal mortality rate is also disparately high in rural compared with metropolitan areas .
+
+152
+00:16:22,958 --> 00:16:25,321
+Figure 1-4.
+
+153
+00:16:25,321 --> 00:16:33,521
+Pregnancy-related mortality ratio by race/ethnicity in the United States from 2014–2017.
+
+154
+00:16:33,521 --> 00:16:37,883
+Importantly, many maternal deaths are considered preventable.
+
+155
+00:16:37,883 --> 00:16:45,946
+In one report, up to a third of pregnancy-related deaths in white women and up to half of those in black women were deemed preventable .
+
+156
+00:16:45,946 --> 00:16:53,196
+One evaluation of an insured cohort reported that 28 percent of 98 maternal deaths were preventable .
+
+157
+00:16:53,196 --> 00:16:58,958
+Thus, further efforts are imperative for obstetrics and described on page 6.
+
+158
+00:16:58,958 --> 00:17:01,946
+# Severe Maternal Morbidity.
+
+159
+00:17:01,946 --> 00:17:09,808
+This is defined as unintended events of labor and delivery resulting in serious short- or long-term consequences to a woman.
+
+160
+00:17:09,808 --> 00:17:13,483
+Indicators serve as one measure to guide prevention .
+
+161
+00:17:13,483 --> 00:17:25,433
+The American College of Obstetricians and Gynecologists and the Society for Maternal-Fetal Medicine (2016) have provided lists of suggested screening topics for this purpose.
+
+162
+00:17:25,433 --> 00:17:27,708
+Table 1-2.
+
+163
+00:17:27,708 --> 00:17:39,946
+Severe Maternal Morbidity Indicators To study severe maternal morbidity (SMM), the CDC analyzed more than 50 million maternity records from 1998 to 2009 .
+
+164
+00:17:39,946 --> 00:17:46,446
+They reported that 129 per 10,000 women had at least one indicator for SMM .
+
+165
+00:17:46,446 --> 00:17:52,896
+Thus, for every maternal death, approximately 200 women experience severe morbidity.
+
+166
+00:17:52,896 --> 00:18:04,208
+As shown in Figure 1-5, SMM rates have increased during the past 15 years, and this trend is attributed to better documentation and a rise the blood transfusion rate.
+
+167
+00:18:04,208 --> 00:18:10,208
+These numbers are greatest in smaller hospitals with <1000 deliveries annually .
+
+168
+00:18:10,208 --> 00:18:19,421
+Last, as with mortality rates, there are serious racial and ethnic disparities for SMM, and black women are disproportionately affected .
+
+169
+00:18:19,421 --> 00:18:21,808
+Figure 1-5.
+
+170
+00:18:21,808 --> 00:18:28,321
+Rates of severe maternal morbidity (SMM) per 10,000 delivery hospitalizations.
+
+171
+00:18:28,321 --> 00:18:33,608
+Women who received blood transfusions account for the greatest fraction of SMM.
+
+172
+00:18:33,608 --> 00:18:35,858
+# Near Misses.
+
+173
+00:18:35,858 --> 00:18:41,583
+Lowering medical error rates serves to diminish risks for maternal death and SMM.
+
+174
+00:18:41,583 --> 00:18:50,958
+The terms near misses or close calls were introduced and defined as unplanned events caused by error that do not result in patient injury but have this potential .
+
+175
+00:18:50,958 --> 00:18:58,658
+These are more common than injury events, but for obvious reasons, they are more difficult to identify and quantify.
+
+176
+00:18:58,658 --> 00:19:11,733
+Systems designed to encourage reporting have been installed in various institutions and allow focused safety efforts (Clark, 2012; King, 2012; Shields, 2017).
+
+177
+00:19:11,733 --> 00:19:17,433
+The World Health Organization (WHO) also implemented such a system.
+
+178
+00:19:17,433 --> 00:19:22,858
+It has been validated in Brazil and accurately correlates with maternal death rates .
+
+179
+00:19:22,858 --> 00:19:31,133
+A similar system in Britain is the UK Obstetric Surveillance System—UKOSS (Knight, 2005, 2008).
+
+180
+00:19:31,133 --> 00:19:40,008
+In the United States, one is the National Partnership for Maternal Safety (D’Alton, 2016; Main, 2015).
+
+181
+00:19:40,180 --> 00:19:42,942
+Timely Topics In Obstetrics.
+
+182
+00:19:42,892 --> 00:19:48,242
+Various topics have been in the forefront since the 25th edition of this textbook.
+
+183
+00:19:48,242 --> 00:19:51,105
+Here, we discuss several of these.
+
+184
+00:19:51,105 --> 00:19:54,130
+# COVID-19 Pandemic.
+
+185
+00:19:54,130 --> 00:20:07,630
+In early 2020, the severe acute respiratory syndrome (SARS)-CoV-2 virus spread rapidly around the globe, creating the greatest public health crisis since the influenza pandemic of 1918 .
+
+186
+00:20:07,630 --> 00:20:20,130
+As of early 2021, the disease caused by this virus and commonly known as COVID-19 is estimated to have infected more than 181 million people and caused nearly 4 million deaths .
+
+187
+00:20:20,130 --> 00:20:27,580
+Expectedly, the healthcare and political landscapes in the United States changed dramatically because of the pandemic.
+
+188
+00:20:27,580 --> 00:20:41,755
+Following the January 2020 declaration of a Global Health Emergency by the WHO, citywide lockdowns, state-mandated shelter-in-place orders, and public mask mandates were all implemented to help control early viral spread.
+
+189
+00:20:41,755 --> 00:20:48,442
+Healthcare systems scrambled to acquire COVID-19 tests and personal protective equipment for staff.
+
+190
+00:20:48,442 --> 00:20:56,092
+Wards dedicated solely to COVID19 care opened in hospitals throughout the nation to handle substantial patient volume.
+
+191
+00:20:56,092 --> 00:21:07,192
+Despite these measures, more than 500,000 individuals—including more than 3000 healthcare workers—died in the United States in 2020 from the infection.
+
+192
+00:21:07,192 --> 00:21:13,305
+Maternity wards were not spared, and traditional models of prenatal care were transformed.
+
+193
+00:21:13,305 --> 00:21:23,917
+Namely, virtual care and drive-through prenatal care models aimed to reduce exposure risk to patients and staff (Holcomb, 2020; Turrentine, 2020).
+
+194
+00:21:23,917 --> 00:21:28,180
+Asymptomatic or mild infections were common in pregnancy .
+
+195
+00:21:28,180 --> 00:21:37,205
+Still, the effects of COVID-19 on pregnancy are not completely understood, and the effect of pregnancy on disease course is controversial.
+
+196
+00:21:37,205 --> 00:21:47,880
+Management of severe COVID-19 infection in pregnancy requires interdisciplinary care and an understanding of pregnancy physiology and viral pathophysiology.
+
+197
+00:21:47,880 --> 00:21:55,805
+Preventive measures—including mRNA vaccines—have been shown to be safe and highly effective in disease prevention.
+
+198
+00:21:55,805 --> 00:22:07,280
+However, this critical information was delayed following exclusion of pregnant individuals from initial clinical trials (Adhikari, 2021; Polack, 2020).
+
+199
+00:22:07,280 --> 00:22:20,117
+In a report describing over 800,000 pregnancies, Chinn and colleagues (2021) found that 2.2 percent (18,715) of these women had COVID-19.
+
+200
+00:22:20,117 --> 00:22:33,642
+When compared with women without such infections, these women had significantly increased adverse outcomes to include preterm birth, ICU admissions, intubations and mechanical ventilation, and maternal deaths.
+
+201
+00:22:33,642 --> 00:22:39,367
+In 2021 the FDA approved COVID-19 vaccines for pregnant women.
+
+202
+00:22:39,367 --> 00:22:45,680
+Knowledge gained during the SARS-CoV-2 pandemic will undoubtedly shape healthcare moving forward .
+
+203
+00:22:45,680 --> 00:22:55,905
+Indeed, a combined inperson plus audio-only virtual prenatal care model may most effectively provide services to vulnerable patients who lack internet access .
+
+204
+00:22:55,905 --> 00:22:59,780
+# Maternal Mortality—a Call to Arms.
+
+205
+00:22:59,780 --> 00:23:08,380
+Almost 700 women in the United States die each year from pregnancy or its complications, and many deaths are deemed preventable.
+
+206
+00:23:08,380 --> 00:23:14,542
+As a result, obstetricians and other stakeholders have united to address these tragedies .
+
+207
+00:23:14,542 --> 00:23:24,267
+Because maternal deaths are inextricably linked to SMM indicators , several programs have been designed by national organization to avoid these events.
+
+208
+00:23:24,267 --> 00:23:34,205
+Noted earlier, the Pregnancy Mortality Surveillance System (PMSS) collects national pregnancy-related death data to guide prevention efforts.
+
+209
+00:23:34,205 --> 00:23:46,355
+Another, the Alliance for Innovation on Maternal Health (AIM) program, creates patient safety bundles, which describe evidence-based best practices for various obstetrical settings.
+
+210
+00:23:46,355 --> 00:23:53,092
+The Joint Commission recommends that birthing centers establish protocols and implement simulation efforts .
+
+211
+00:23:53,092 --> 00:24:00,992
+Moreover, national working groups target specific risks, such as thromboembolism (D’Alton, 2016).
+
+212
+00:24:00,992 --> 00:24:06,042
+In addition to pregnancy, the puerperium is a vulnerable period as well.
+
+213
+00:24:06,042 --> 00:24:13,480
+One specific national effort is to establish dedicated 1-year postpartum follow-up to ensure ongoing care.
+
+214
+00:24:13,480 --> 00:24:22,205
+Important targets are medical disorders such as hypertension, diabetes, other cardiovascular diseases, and their consequences.
+
+215
+00:24:22,205 --> 00:24:26,180
+To emphasize puerperal care, the concept of a “fourth
+
+216
+00:24:26,332 --> 00:24:29,044
+trimester” has been introduced .
+
+217
+00:24:28,994 --> 00:24:37,369
+Moreover, legislation— the MOMMA’s Act—aims to expand Medicaid postpartum coverage from 60 days to 12 months .
+
+218
+00:24:37,369 --> 00:24:44,282
+As stated by Surgeon General Jerome Adams, “We must act now; our nation and our mothers deserve better.
+
+219
+00:24:44,282 --> 00:24:47,107
+# Opioid Use Disorder.
+
+220
+00:24:47,107 --> 00:25:00,632
+During 1999 to 2014, the national prevalence of opioid use disorder in pregnant women rose 333 percent from 1.5 to 6.5 cases per 1000 deliveries .
+
+221
+00:25:00,632 --> 00:25:10,669
+In addition to the complexities of maternal addiction, opioid use has led to an unprecedented increase in the incidence of the neonatal opioid withdrawal syndrome .
+
+222
+00:25:10,669 --> 00:25:23,144
+To combat the associated adverse effects on women and their pregnancies, the American College of Obstetricians and Gynecologists (2019b) has stressed an active role by obstetricians.
+
+223
+00:25:23,144 --> 00:25:31,432
+The College recommends universal screening by questionnaire, as well as care given to affected women by a multidisciplinary team.
+
+224
+00:25:31,432 --> 00:25:35,607
+Therapeutic use of opioids is curtailed as best possible.
+
+225
+00:25:35,607 --> 00:25:44,244
+Treatment of opioid use disorder with methadone or buprenorphine is challenging and discussed in Chapter 64 (p. 1150).
+
+226
+00:25:44,244 --> 00:25:50,794
+Despite efforts, a significant decline in the prevalence of these disorders in gravidas is not in sight.
+
+227
+00:25:50,794 --> 00:25:54,157
+# Advances in Prenatal Genetics.
+
+228
+00:25:54,157 --> 00:25:58,882
+Several technologies help detect fetal genetic abnormalities.
+
+229
+00:25:58,882 --> 00:26:08,582
+Since the last edition, noninvasive prenatal screening that uses cell-free DNA (cfDNA) has become commonplace in prenatal care .
+
+230
+00:26:08,582 --> 00:26:17,744
+Another promising technique is chromosomal microarray analysis (CMA) performed on samples of chorionic villi or amnionic fluid.
+
+231
+00:26:17,744 --> 00:26:26,507
+These tests provide sophisticated information about gains and losses of DNA segments as small as 50 to 100 kilobases.
+
+232
+00:26:26,507 --> 00:26:37,032
+However, although the yield with CMA is superior to that with fetal karyotyping, most birth defects occur in the setting of normal CMA and karyotype results.
+
+233
+00:26:37,032 --> 00:26:44,757
+As knowledge of the human genome has expanded, the role of specific DNA sequence abnormalities has gained attention.
+
+234
+00:26:44,757 --> 00:26:56,082
+As an example, evaluation of fetal skeletal dysplasia may include panels of tests in which nextgeneration sequencing is used to identify mutations in specific genes.
+
+235
+00:26:56,082 --> 00:27:04,844
+Whole exome sequencing (WES) analyzes all coding regions of DNA, which together account for 1.5 percent of the genome.
+
+236
+00:27:04,844 --> 00:27:22,094
+In pregnancies with structural fetal abnormalities, and in which CMA and karyotype results are normal, WES has identified clinically significant abnormalities in approximately 10 percent of fetuses (Lord, 2019; Petrovski, 2019).
+
+237
+00:27:22,094 --> 00:27:30,807
+In one series of fetuses with unexplained nonimmune hydrops, WES detected diagnostic genetic variants in nearly 30 percent .
+
+238
+00:27:30,807 --> 00:27:37,882
+Although promising, WES technology at this time is not recommended for routine use in prenatal diagnosis .
+
+239
+00:27:37,882 --> 00:27:45,794
+Limitations include high rates of genetic variants of uncertain significance, long turnaround times, and high costs.
+
+240
+00:27:45,794 --> 00:27:53,169
+Comprehensive counseling is needed because WES may detect or suspect a finding that is unrelated but medically actionable.
+
+241
+00:27:53,169 --> 00:28:03,294
+Genomic tests are reviewed in Chapter 16 (p. 324), and elements of counseling are discussed in Chapter 17 (p. 334).
+
+242
+00:28:03,294 --> 00:28:06,319
+# Placenta Accreta Spectrum.
+
+243
+00:28:06,319 --> 00:28:12,969
+Since our last edition, the cesarean delivery rate has been static and approximates 32 percent.
+
+244
+00:28:12,969 --> 00:28:20,469
+However, rates of pregnancies complicated by placenta accreta spectrum (PAS) have grown substantially.
+
+245
+00:28:20,469 --> 00:28:25,282
+An incidence as high as 1 case in 300 deliveries has been cited .
+
+246
+00:28:25,282 --> 00:28:31,782
+Sequelae of these dangerous syndromes are discussed in Chapter 43 (p. 765).
+
+247
+00:28:31,782 --> 00:28:41,432
+To address these risks, specialized accreta surgical teams at tertiary care centers and greater antepartum transfer to these centers are both on the rise.
+
+248
+00:28:41,432 --> 00:28:47,294
+As one prevention, national efforts have worked to avoid the primary cesarean delivery.
+
+249
+00:28:47,294 --> 00:28:54,007
+However, despite these efforts, PAS will likely continue as a significant risk for SMM.
+
+250
+00:28:54,007 --> 00:28:57,832
+# Progestogens to Prevent Preterm Birth.
+
+251
+00:28:57,832 --> 00:29:03,144
+Progesterone derivatives to forestall preterm birth have been studied for decades.
+
+252
+00:29:03,144 --> 00:29:19,544
+One—intramuscular 17-alpha-hydroxyprogesterone caproate (17OHPC)—was approved by the U.S. Food and Drug Administration (FDA) under the accelerated approval process and contingent on demonstration of efficacy in a second
+
+253
+00:29:19,708 --> 00:29:21,120
+trial.
+
+254
+00:29:21,070 --> 00:29:32,370
+The drug is marketed as Makena, and subsequent, observational studies, described in Chapter 45 (p. 795), have led to questions of its efficacy .
+
+255
+00:29:32,370 --> 00:29:44,533
+In 2019, results of the confirmatory trial of Makena efficacy—the PROLONG trial—failed to show its benefits compared with placebo for prevention of birth before 35 weeks .
+
+256
+00:29:44,533 --> 00:29:52,458
+Later in 2019, an FDA Advisory Committee voted 9 to 7 to withdraw interim accelerated approval.
+
+257
+00:29:52,458 --> 00:30:04,758
+Analyses by the committee included cross-study comparisons and subgroup analyses that did not show 17-OHPC benefits (Fig. 45-6, p. 796).
+
+258
+00:30:04,758 --> 00:30:13,445
+In late 2020, the FDA Center for Drug Evaluation and Research (CDER) recommended drug withdrawal from the market.
+
+259
+00:30:13,445 --> 00:30:25,358
+Subsequently, obstetricians became polarized regarding “off label” use of the drug because it appears safe (Chang, 2020; Greene, 2020; Sibai, 2020).
+
+260
+00:30:25,358 --> 00:30:41,695
+Despite findings from the PROLONG trial and the FDA’s CDER, both the American College of Obstetricians and Gynecologists (2021) and the Society for Maternal-Fetal Medicine (2020) continued to endorse 17-OHPC use.
+
+261
+00:30:41,695 --> 00:30:49,220
+This, however, is with the proviso that “uncertainty regarding benefit” be shared with the patient during decision-making.
+
+262
+00:30:49,220 --> 00:30:58,945
+Last, the EPPPIC Group (2021) performed a metaanalysis of randomized trials evaluating progestogens for preterm birth prevention.
+
+263
+00:30:58,945 --> 00:31:08,545
+Although not statistically significant, they concluded progestogens, which include 17-OHPC, reduced births at less than 34 weeks.
+
+264
+00:31:08,545 --> 00:31:16,620
+The FDA’s CDER (2021) continues to recommend withdrawal of 17-OHPC from the market.
+
+265
+00:31:16,620 --> 00:31:24,658
+At this time, however, thousands of women continue to receive 17-OHPC despite its questionable efficacy.
+
