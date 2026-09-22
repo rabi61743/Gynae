@@ -2,17 +2,23 @@
   "2": {
     "audio": true,
     "words": 9882,
-    "audio_size_mb": 25.7
+    "audio_size_mb": 25.7,
+    "video": true,
+    "video_size_mb": 85.67
   },
   "3": {
     "audio": true,
     "words": 9767,
-    "audio_size_mb": 28.22
+    "audio_size_mb": 28.22,
+    "video": true,
+    "video_size_mb": 95.43
   },
   "4": {
     "audio": true,
     "words": 16524,
-    "audio_size_mb": 46.05
+    "audio_size_mb": 46.05,
+    "video": true,
+    "video_size_mb": 156.33
   },
   "1": {
     "audio": true

@@ -2,11 +2,14 @@
 
 Comprehensive study repository for *Williams Obstetrics* (26th Edition), featuring chapter-by-chapter Markdown texts, neural audiobooks, and synchronized read-along videos.
 
-## 🎥 Synchronized Read-Along Videos (1080p MP4)
+## 🎥 Synchronized Read-Along Videos (1080p MP4) — [4/68 Completed] (Local Kingston Archive)
 
-Playable directly on GitHub Web & Mobile with synchronized subtitle rendering and audio narration:
+Complete 1080p HD read-along videos with embedded sentence-by-sentence subtitle overlays and audio, saved locally on the Kingston volume (`videos/`):
 
-- 🎬 **[Chapter 01 Overview of Obstetrics](videos/Chapter_01_Overview_of_Obstetrics.mp4)** (36.3 MB)
+- 🎬 **Chapter 01 Overview of Obstetrics** (`videos/Chapter_01_Overview_of_Obstetrics.mp4`, 36.3 MB)
+- 🎬 **Chapter 02 Maternal Anatomy** (`videos/Chapter_02_Maternal_Anatomy.mp4`, 85.7 MB)
+- 🎬 **Chapter 03 Congenital Genitourinary Abnormalities** (`videos/Chapter_03_Congenital_Genitourinary_Abnormalities.mp4`, 95.4 MB)
+- 🎬 **Chapter 04 Maternal Physiology** (`videos/Chapter_04_Maternal_Physiology.mp4`, 80.7 MB)
 
 ## 🎧 Audiobooks (MP3) — [68/68 Completed]
 
