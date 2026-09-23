@@ -3,3 +3,6 @@ scripts/__pycache__/
 *.tmp*
 *.tmp.mp4
 .DS_Store
+youtube_token.json
+client_secrets*.json
+youtube_uploads.json
