@@ -26,321 +26,449 @@
   "5": {
     "audio": true,
     "words": 13838,
-    "audio_size_mb": 39.32
+    "audio_size_mb": 39.32,
+    "video": true,
+    "video_size_mb": 68.81
   },
   "6": {
     "audio": true,
     "words": 6088,
-    "audio_size_mb": 17.04
+    "audio_size_mb": 17.04,
+    "video": true,
+    "video_size_mb": 29.89
   },
   "7": {
     "audio": true,
     "words": 11738,
-    "audio_size_mb": 31.33
+    "audio_size_mb": 31.33,
+    "video": true,
+    "video_size_mb": 54.61
   },
   "8": {
     "audio": true,
     "words": 10380,
-    "audio_size_mb": 29.1
+    "audio_size_mb": 29.1,
+    "video": true,
+    "video_size_mb": 52.09
   },
   "9": {
     "audio": true,
     "words": 3986,
-    "audio_size_mb": 11.39
+    "audio_size_mb": 11.39,
+    "video": true,
+    "video_size_mb": 20.44
   },
   "10": {
     "audio": true,
     "words": 11299,
-    "audio_size_mb": 30.29
+    "audio_size_mb": 30.29,
+    "video": true,
+    "video_size_mb": 53.75
   },
   "11": {
     "audio": true,
     "words": 11601,
-    "audio_size_mb": 32.27
+    "audio_size_mb": 32.27,
+    "video": true,
+    "video_size_mb": 56.2
   },
   "12": {
     "audio": true,
     "words": 8384,
-    "audio_size_mb": 23.63
+    "audio_size_mb": 23.63,
+    "video": true,
+    "video_size_mb": 41.08
   },
   "13": {
     "audio": true,
     "words": 4441,
-    "audio_size_mb": 12.79
+    "audio_size_mb": 12.79,
+    "video": true,
+    "video_size_mb": 22.33
   },
   "14": {
     "audio": true,
     "words": 11773,
-    "audio_size_mb": 33.02
+    "audio_size_mb": 33.02,
+    "video": true,
+    "video_size_mb": 58.3
   },
   "15": {
     "audio": true,
     "words": 15391,
-    "audio_size_mb": 42.84
+    "audio_size_mb": 42.84,
+    "video": true,
+    "video_size_mb": 74.3
   },
   "16": {
     "audio": true,
     "words": 13028,
-    "audio_size_mb": 35.98
+    "audio_size_mb": 35.98,
+    "video": true,
+    "video_size_mb": 63.4
   },
   "17": {
     "audio": true,
     "words": 10589,
-    "audio_size_mb": 28.7
+    "audio_size_mb": 28.7,
+    "video": true,
+    "video_size_mb": 50.73
   },
   "18": {
     "audio": true,
     "words": 7508,
-    "audio_size_mb": 20.85
+    "audio_size_mb": 20.85,
+    "video": true,
+    "video_size_mb": 36.66
   },
   "19": {
     "audio": true,
     "words": 8135,
-    "audio_size_mb": 22.55
+    "audio_size_mb": 22.55,
+    "video": true,
+    "video_size_mb": 39.69
   },
   "20": {
     "audio": true,
     "words": 5999,
-    "audio_size_mb": 16.65
+    "audio_size_mb": 16.65,
+    "video": true,
+    "video_size_mb": 29.18
   },
   "21": {
     "audio": true,
     "words": 10275,
-    "audio_size_mb": 28.9
+    "audio_size_mb": 28.9,
+    "video": true,
+    "video_size_mb": 51.02
   },
   "22": {
     "audio": true,
     "words": 9253,
-    "audio_size_mb": 23.98
+    "audio_size_mb": 23.98,
+    "video": true,
+    "video_size_mb": 41.99
   },
   "23": {
     "audio": true,
     "words": 7488,
-    "audio_size_mb": 20.19
+    "audio_size_mb": 20.19,
+    "video": true,
+    "video_size_mb": 35.56
   },
   "24": {
     "audio": true,
     "words": 10544,
-    "audio_size_mb": 29.61
+    "audio_size_mb": 29.61,
+    "video": true,
+    "video_size_mb": 51.92
   },
   "25": {
     "audio": true,
     "words": 10413,
-    "audio_size_mb": 28.85
+    "audio_size_mb": 28.85,
+    "video": true,
+    "video_size_mb": 50.88
   },
   "26": {
     "audio": true,
     "words": 5574,
-    "audio_size_mb": 15.44
+    "audio_size_mb": 15.44,
+    "video": true,
+    "video_size_mb": 27.37
   },
   "27": {
     "audio": true,
     "words": 10330,
-    "audio_size_mb": 28.0
+    "audio_size_mb": 28.0,
+    "video": true,
+    "video_size_mb": 48.76
   },
   "28": {
     "audio": true,
     "words": 7738,
-    "audio_size_mb": 20.53
+    "audio_size_mb": 20.53,
+    "video": true,
+    "video_size_mb": 36.19
   },
   "29": {
     "audio": true,
     "words": 6757,
-    "audio_size_mb": 17.98
+    "audio_size_mb": 17.98,
+    "video": true,
+    "video_size_mb": 31.62
   },
   "30": {
     "audio": true,
     "words": 12974,
-    "audio_size_mb": 34.84
+    "audio_size_mb": 34.84,
+    "video": true,
+    "video_size_mb": 60.97
   },
   "31": {
     "audio": true,
     "words": 6446,
-    "audio_size_mb": 17.71
+    "audio_size_mb": 17.71,
+    "video": true,
+    "video_size_mb": 31.11
   },
   "32": {
     "audio": true,
     "words": 7064,
-    "audio_size_mb": 18.99
+    "audio_size_mb": 18.99,
+    "video": true,
+    "video_size_mb": 33.66
   },
   "33": {
     "audio": true,
     "words": 8470,
-    "audio_size_mb": 24.26
+    "audio_size_mb": 24.26,
+    "video": true,
+    "video_size_mb": 42.42
   },
   "34": {
     "audio": true,
     "words": 4795,
-    "audio_size_mb": 13.44
+    "audio_size_mb": 13.44,
+    "video": true,
+    "video_size_mb": 23.74
   },
   "35": {
     "audio": true,
     "words": 3328,
-    "audio_size_mb": 9.12
+    "audio_size_mb": 9.12,
+    "video": true,
+    "video_size_mb": 16.23
   },
   "36": {
     "audio": true,
     "words": 8715,
-    "audio_size_mb": 23.35
+    "audio_size_mb": 23.35,
+    "video": true,
+    "video_size_mb": 40.92
   },
   "37": {
     "audio": true,
     "words": 7640,
-    "audio_size_mb": 22.16
+    "audio_size_mb": 22.16,
+    "video": true,
+    "video_size_mb": 38.6
   },
   "38": {
     "audio": true,
     "words": 8678,
-    "audio_size_mb": 23.42
+    "audio_size_mb": 23.42,
+    "video": true,
+    "video_size_mb": 40.81
   },
   "39": {
     "audio": true,
     "words": 2799,
-    "audio_size_mb": 7.79
+    "audio_size_mb": 7.79,
+    "video": true,
+    "video_size_mb": 13.54
   },
   "40": {
     "audio": true,
     "words": 11286,
-    "audio_size_mb": 33.31
+    "audio_size_mb": 33.31,
+    "video": true,
+    "video_size_mb": 58.42
   },
   "41": {
     "audio": true,
     "words": 9820,
-    "audio_size_mb": 28.27
+    "audio_size_mb": 28.27,
+    "video": true,
+    "video_size_mb": 50.04
   },
   "42": {
     "audio": true,
     "words": 9246,
-    "audio_size_mb": 25.29
+    "audio_size_mb": 25.29,
+    "video": true,
+    "video_size_mb": 44.16
   },
   "43": {
     "audio": true,
     "words": 10844,
-    "audio_size_mb": 29.87
+    "audio_size_mb": 29.87,
+    "video": true,
+    "video_size_mb": 52.51
   },
   "44": {
     "audio": true,
     "words": 7276,
-    "audio_size_mb": 20.77
+    "audio_size_mb": 20.77,
+    "video": true,
+    "video_size_mb": 36.39
   },
   "45": {
     "audio": true,
     "words": 16828,
-    "audio_size_mb": 47.52
+    "audio_size_mb": 47.52,
+    "video": true,
+    "video_size_mb": 84.09
   },
   "46": {
     "audio": true,
     "words": 3620,
-    "audio_size_mb": 10.36
+    "audio_size_mb": 10.36,
+    "video": true,
+    "video_size_mb": 18.27
   },
   "47": {
     "audio": true,
     "words": 7518,
-    "audio_size_mb": 21.23
+    "audio_size_mb": 21.23,
+    "video": true,
+    "video_size_mb": 37.67
   },
   "48": {
     "audio": true,
     "words": 14548,
-    "audio_size_mb": 39.89
+    "audio_size_mb": 39.89,
+    "video": true,
+    "video_size_mb": 70.13
   },
   "49": {
     "audio": true,
     "words": 6180,
-    "audio_size_mb": 17.75
+    "audio_size_mb": 17.75,
+    "video": true,
+    "video_size_mb": 31.08
   },
   "50": {
     "audio": true,
     "words": 10476,
-    "audio_size_mb": 30.02
+    "audio_size_mb": 30.02,
+    "video": true,
+    "video_size_mb": 52.52
   },
   "51": {
     "audio": true,
     "words": 5211,
-    "audio_size_mb": 15.15
+    "audio_size_mb": 15.15,
+    "video": true,
+    "video_size_mb": 26.67
   },
   "52": {
     "audio": true,
     "words": 15283,
-    "audio_size_mb": 43.94
+    "audio_size_mb": 43.94,
+    "video": true,
+    "video_size_mb": 77.81
   },
   "53": {
     "audio": true,
     "words": 5932,
-    "audio_size_mb": 17.74
+    "audio_size_mb": 17.74,
+    "video": true,
+    "video_size_mb": 31.49
   },
   "54": {
     "audio": true,
     "words": 9463,
-    "audio_size_mb": 27.58
+    "audio_size_mb": 27.58,
+    "video": true,
+    "video_size_mb": 48.06
   },
   "55": {
     "audio": true,
     "words": 9166,
-    "audio_size_mb": 25.65
+    "audio_size_mb": 25.65,
+    "video": true,
+    "video_size_mb": 45.44
   },
   "56": {
     "audio": true,
     "words": 9742,
-    "audio_size_mb": 27.93
+    "audio_size_mb": 27.93,
+    "video": true,
+    "video_size_mb": 48.75
   },
   "57": {
     "audio": true,
     "words": 8087,
-    "audio_size_mb": 23.86
+    "audio_size_mb": 23.86,
+    "video": true,
+    "video_size_mb": 41.78
   },
   "58": {
     "audio": true,
     "words": 10643,
-    "audio_size_mb": 30.36
+    "audio_size_mb": 30.36,
+    "video": true,
+    "video_size_mb": 53.27
   },
   "59": {
     "audio": true,
     "words": 11345,
-    "audio_size_mb": 33.42
+    "audio_size_mb": 33.42,
+    "video": true,
+    "video_size_mb": 58.47
   },
   "60": {
     "audio": true,
     "words": 11557,
-    "audio_size_mb": 32.24
+    "audio_size_mb": 32.24,
+    "video": true,
+    "video_size_mb": 57.9
   },
   "61": {
     "audio": true,
     "words": 11022,
-    "audio_size_mb": 32.08
+    "audio_size_mb": 32.08,
+    "video": true,
+    "video_size_mb": 56.47
   },
   "62": {
     "audio": true,
     "words": 9447,
-    "audio_size_mb": 27.6
+    "audio_size_mb": 27.6,
+    "video": true,
+    "video_size_mb": 48.52
   },
   "63": {
     "audio": true,
     "words": 8907,
-    "audio_size_mb": 25.23
+    "audio_size_mb": 25.23,
+    "video": true,
+    "video_size_mb": 44.48
   },
   "64": {
     "audio": true,
     "words": 6165,
-    "audio_size_mb": 17.03
+    "audio_size_mb": 17.03,
+    "video": true,
+    "video_size_mb": 30.28
   },
   "65": {
     "audio": true,
     "words": 2730,
-    "audio_size_mb": 8.47
+    "audio_size_mb": 8.47,
+    "video": true,
+    "video_size_mb": 14.7
   },
   "66": {
     "audio": true,
     "words": 11068,
-    "audio_size_mb": 31.52
+    "audio_size_mb": 31.52,
+    "video": true,
+    "video_size_mb": 55.31
   },
   "67": {
     "audio": true,
     "words": 13043,
-    "audio_size_mb": 37.31
+    "audio_size_mb": 37.31,
+    "video": true,
+    "video_size_mb": 65.6
   },
   "68": {
     "audio": true,
     "words": 11171,
-    "audio_size_mb": 31.47
+    "audio_size_mb": 31.47,
+    "video": true,
+    "video_size_mb": 55.01
   }
 }
