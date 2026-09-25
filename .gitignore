@@ -6,3 +6,6 @@ scripts/__pycache__/
 youtube_token.json
 client_secrets*.json
 youtube_uploads.json
+.revision_work/
+*.zip
+Williams Obstetrics*.pdf
